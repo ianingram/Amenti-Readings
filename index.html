@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dracula · Amenti Studios</title>
+<!-- ===========================================================================
+     AMENTI STUDIOS · the production front for Dracula
+     ---------------------------------------------------------------------------
+     THE HERO IS A PHOTOGRAPH, AND THE FIRST VERSION WAS NOT.
+     That version drew the pass as layered SVG polygons — ridges as paths, snow
+     as triangles, the castle as a cut-out — and it looked exactly like what it
+     was: flat shapes, a muddy wash where the sunset should have been, and the
+     castle stranded behind the title. Hand-written geometry cannot carry a
+     landscape, and no further pass was going to fix the approach. It was also
+     inconsistent on its own terms: a drawn title card in front of a deck of
+     148 photographic plates.
+
+     SO THE MOTION MOVED TO CSS. A very slow push on the still, and a second
+     blurred copy of the same frame drifting across it, which reads as fog
+     moving. The image is real; the movement is a transform. No video to host,
+     nothing loops visibly, and it degrades to a poster under
+     prefers-reduced-motion.
+
+     THE COLOUR IS A DELIBERATE EXCEPTION. The plates are near-monochrome with
+     one warm accent. A title card is not a plate, and this one was specified
+     in colour. Logged, the way the engraved Milton was.
+
+     IT READS THE PRODUCTION LIVE, so the page cannot drift from the repo.
+     Opened as a local file it falls back to the cast as written rather than
+     going blank — a front page that empties itself when a fetch fails is
+     broken in the one place it cannot afford to be.
+     =========================================================================== -->
+<style>
+  :root{
+    --ink:#07090c; --mist:#9ab0a6; --pale:#d6e8df;
+    --gold:#e0a53c; --rule:rgba(255,255,255,.08);
+    --mono:ui-monospace,SFMono-Regular,Menlo,monospace;
+    --serif:Georgia,'Times New Roman',serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--ink);color:var(--pale);
+    font-family:var(--mono);-webkit-font-smoothing:antialiased}
+
+  /* ── the pass ──────────────────────────────────────────────────────────
+     48 seconds and 6 per cent. Slow enough never to be caught moving, large
+     enough that the frame is not static when you look back at it. */
+  .hero{position:relative;height:88vh;min-height:540px;overflow:hidden;background:#07090c}
+  .shot{position:absolute;inset:-3%;
+    background:url("dracula-hero.jpg") center 42%/cover no-repeat;
+    animation:push 48s ease-in-out infinite alternate;will-change:transform}
+  @keyframes push{from{transform:scale(1)}to{transform:scale(1.06)}}
+
+  /* the same frame again, blurred and drifting: fog, with no second asset */
+  .drift{position:absolute;inset:-6%;
+    background:url("dracula-hero.jpg") center 58%/cover no-repeat;
+    opacity:.2;filter:blur(14px) saturate(1.25);mix-blend-mode:screen;
+    animation:drift 104s linear infinite;will-change:transform}
+  @keyframes drift{from{transform:translate3d(-2.5%,0,0)}to{transform:translate3d(2.5%,0,0)}}
+
+  /* type needs somewhere to sit at both ends of the frame */
+  /* two veils now: one along the LEFT so the block has ground to sit on,
+     and a light one at the foot to carry the frame into the page. The top
+     is left alone — the sun and the ridge are the picture. */
+  .veil{position:absolute;inset:0;pointer-events:none;
+    background:
+      linear-gradient(90deg,rgba(7,9,12,.78) 0%,rgba(7,9,12,.5) 26%,
+                      rgba(7,9,12,.12) 46%,rgba(7,9,12,0) 62%),
+      linear-gradient(180deg,rgba(7,9,12,.3) 0%,rgba(7,9,12,0) 20%,
+                      rgba(7,9,12,0) 68%,rgba(7,9,12,.7) 88%,var(--ink) 100%)}
+
+  /* THE TYPE IS PLACED AGAINST THE PHOTOGRAPH, NOT CENTRED ON IT.
+     Centred, the studio line sat in the sun breaking over the ridge — the
+     brightest point in the frame and the one place small gold type cannot
+     be read. The composition leaves a quiet band on the LEFT, at the
+     vertical middle, where the fog is flat grey. The block moves there. */
+  .titles{position:absolute;inset:0;z-index:3;display:flex;flex-direction:column;
+    align-items:flex-start;justify-content:center;text-align:left;
+    padding:0 20px 0 clamp(24px,7vw,110px)}
+  .studio{font-size:10px;letter-spacing:.5em;color:var(--gold);text-transform:uppercase;
+    opacity:0;animation:in 1.6s .3s forwards}
+  .presents{font-size:8px;letter-spacing:.36em;color:var(--mist);text-transform:uppercase;
+    margin-top:9px;opacity:0;animation:in 1.6s .9s forwards}
+  h1{font-family:var(--serif);font-weight:400;font-size:clamp(38px,7vw,92px);
+    letter-spacing:.09em;margin:14px 0 0;color:#fff;line-height:1;
+    text-shadow:0 2px 60px rgba(0,0,0,.85),0 0 120px rgba(0,0,0,.6);
+    opacity:0;animation:in 2s 1.4s forwards}
+  .byline{font-size:11px;letter-spacing:.3em;color:var(--pale);text-transform:uppercase;
+    margin:16px 0 0;text-shadow:0 1px 20px rgba(0,0,0,.9);
+    opacity:0;animation:in 1.6s 2s forwards}
+  .form{font-size:9px;letter-spacing:.24em;color:var(--mist);margin:10px 0 0;
+    text-transform:uppercase;opacity:0;animation:in 1.6s 2.4s forwards}
+  @keyframes in{to{opacity:1}}
+
+  /* ── the production ────────────────────────────────────────────────── */
+  .wrap{max-width:900px;margin:0 auto;padding:0 22px 90px}
+  .band{font-size:10px;letter-spacing:.36em;color:var(--gold);text-transform:uppercase;
+    text-align:center;margin:56px 0 5px}
+  .sub{font-size:11px;color:#6c7c74;text-align:center;margin-bottom:24px}
+
+  .company{display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
+  .member{display:flex;gap:16px;align-items:center;padding:14px 16px;background:#090c10}
+  .member:hover{background:#0d1216}
+  .face{width:48px;height:64px;flex:0 0 48px;border:1px solid var(--rule);
+    background-size:cover;background-position:50% 16%;display:flex;align-items:center;
+    justify-content:center;font-size:19px;color:var(--gold);
+    background-color:rgba(255,255,255,.03)}
+  .who{flex:1;min-width:0}
+  .role{font-family:var(--serif);font-size:16px;color:#fff}
+  .as{font-size:8px;letter-spacing:.26em;color:#5f6f67;text-transform:uppercase;margin:3px 0 2px}
+  .actor{font-size:13px;color:var(--gold)}
+  .dialect{font-size:11px;color:var(--mist);margin-top:3px}
+
+  .chapters{border:1px solid var(--rule)}
+  .ch{display:flex;gap:14px;align-items:baseline;padding:9px 16px;
+    border-bottom:1px solid var(--rule);font-size:12px;background:#090c10}
+  .ch:last-child{border-bottom:none}
+  .ch.on{background:rgba(224,165,60,.07);cursor:pointer}
+  .ch.on:hover{background:rgba(224,165,60,.14)}
+  .n{color:#4c5c54;font-size:10px;width:26px;flex:0 0 26px}
+  .doc{color:var(--mist);font-size:9px;letter-spacing:.14em;text-transform:uppercase;
+    width:200px;flex:0 0 200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .sum{color:#87978f;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .ch.on .sum{color:var(--pale)}
+  .tag{font-size:8px;letter-spacing:.18em;text-transform:uppercase;color:#4c5c54}
+  .ch.on .tag{color:var(--gold)}
+
+  .note{margin-top:16px;font-size:10px;color:#6c7c74;text-align:center;line-height:1.9}
+  .foot{margin-top:38px;text-align:center;font-size:10px;color:#4c5c54;line-height:2}
+
+  /* a phone is too narrow to have a quiet left band, so the block goes
+     back to centre and the frame shortens */
+  @media(max-width:620px){
+    .doc{display:none}
+    .hero{height:74vh}
+    .titles{align-items:center;text-align:center;padding:0 18px}
+    .veil{background:linear-gradient(180deg,rgba(7,9,12,.45) 0%,rgba(7,9,12,.1) 24%,
+          rgba(7,9,12,.35) 55%,rgba(7,9,12,.8) 86%,var(--ink) 100%)}
+  }
+  @media(prefers-reduced-motion:reduce){
+    .shot{animation:none}
+    .drift{display:none}
+    .studio,.presents,h1,.byline,.form{animation:none;opacity:1}
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="shot"></div>
+  <div class="drift"></div>
+  <div class="veil"></div>
+  <div class="titles">
+    <div class="studio">Amenti Studios</div>
+    <div class="presents">presents</div>
+    <h1>DRACULA</h1>
+    <div class="byline">Bram Stoker &middot; 1897</div>
+    <div class="form">Cast from the Amenti Library of Legends</div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="band">The Company</div>
+  <div class="sub" id="company-sub">&hellip;</div>
+  <div class="company" id="company"></div>
+
+  <div class="band">The Chapters</div>
+  <div class="sub" id="ch-sub"></div>
+  <div class="chapters" id="chapters"></div>
+
+  <div class="note" id="note"></div>
+  <div class="foot">
+    Ingram Manor LLC &middot; 2026 &middot; All Rights Reserved<br>
+    The text is public domain. The voices are not performances by the people named &mdash;
+    they are the ledger&rsquo;s record of how each figure spoke, used as a casting pool.
+  </div>
+</div>
+
+<script>
+const RAW = 'https://raw.githubusercontent.com/ianingram/Amenti-Readings/main/';
+const ART = 'https://raw.githubusercontent.com/ianingram/Amenti.live/main/img/';
+const slug = s => String(s||'').toLowerCase().trim().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const esc  = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pretty = s => String(s).split('-').map(w=>w[0].toUpperCase()+w.slice(1)).join(' ');
+
+/* A plate upgrades a row; it is never required. One of the seven has one
+   today, so a page that depended on them would be six holes. The probe is
+   silent by design — it paints or it does not. */
+function face(el,name){
+  const img = new Image();
+  img.onload = () => { el.textContent=''; el.style.backgroundImage=`url("${ART}${slug(name)}-card.jpg")`; };
+  img.src = `${ART}${slug(name)}-card.jpg`;
+}
+function drawCompany(rows){
+  const co = document.getElementById('company');
+  co.innerHTML = rows.map(r => `
+    <div class="member">
+      <div class="face" data-name="${esc(r[1])}">&#9672;</div>
+      <div class="who">
+        <div class="role">${esc(r[0])}</div>
+        <div class="as">as played by</div>
+        <div class="actor">${esc(r[1])}</div>
+        <div class="dialect">${esc(r[2])}</div>
+      </div>
+    </div>`).join('');
+  co.querySelectorAll('.face').forEach(f => face(f, f.dataset.name));
+  document.getElementById('company-sub').textContent =
+    rows.length + ' voices, drawn from the Amenti ledger';
+}
+
+Promise.all([
+  fetch(RAW+'cast.json').then(r=>r.json()),
+  fetch(RAW+'dracula/index.json').then(r=>r.json())
+]).then(([cast, idx]) => {
+  const roles = cast.roles.dracula || {};
+  drawCompany(Object.keys(roles).map(k =>
+    [pretty(k), roles[k].ledger_name, (roles[k].ledger||'').split('\u00b7')[0].trim()]));
+
+  const ch = idx.chapters || [];
+  document.getElementById('ch-sub').textContent =
+    ch.length + ' chapters \u00b7 ' + ch.filter(c=>c.status==='scripted').length + ' scripted';
+  document.getElementById('chapters').innerHTML = ch.map(c => `
+    <div class="ch ${c.status==='scripted'?'on':''}" ${c.status==='scripted'?`data-ep="${esc(c.file)}"`:''}>
+      <div class="n">${c.n}</div>
+      <div class="doc">${esc((c.document||'').split('\u00b7')[0])}</div>
+      <div class="sum">${esc(c.summary||'')}</div>
+      <div class="tag">${c.status==='scripted'?'ready':''}</div>
+    </div>`).join('');
+
+  /* The bill is the door into a reading, and it lives on Page1 with the
+     speech engine. This page is the front, not the stage. */
+  document.querySelectorAll('.ch.on').forEach(row=>{
+    row.onclick = () => {
+      const ep = row.dataset.ep;
+      const host = (window.parent !== window) ? window.parent : null;
+      if (host && host.Amenti && host.Amenti.playbill) host.Amenti.playbill.open(ep);
+      else alert('Open this production inside Amenti.live to hear it \u2014 the voices are '
+               + 'rendered by the speech engine there.\n\n  Amenti.playbill.open("'+ep+'")');
+    };
+  });
+  document.getElementById('note').innerHTML =
+    'Cast from 1,011 figures in the ledger, each carrying their own dialect and manner.' +
+    '<br>Faces appear where a plate exists; a mark stands in where one does not yet.';
+}).catch(() => {
+  /* NEVER A BLANK PAGE. Opened as a local file, fetch cannot reach the repo.
+     The house casting as it stood when this page was written stands in, and
+     is replaced by the live repo the moment the page is served from one. */
+  drawCompany([
+    ['Narrator','Bram Stoker','Anglo-Irish, gothic and atmospheric'],
+    ['Jonathan Harker','Charles Darwin','English RP, careful and mild'],
+    ['Count Dracula','Vlad the Impaler','Hungarian-Transylvanian, aged and courteous'],
+    ['Mina Murray','Agatha Christie','English RP, sharp and ingenious'],
+    ['Dr Seward','William Harvey','English RP, careful and probing'],
+    ['Van Helsing','Antony van Leeuwenhoek','Dutch, curious and plain'],
+    ['Lucy Westenra','Mary Shelley','English RP, gothic and visionary']
+  ]);
+  document.getElementById('ch-sub').textContent = '27 chapters \u00b7 1 scripted';
+  document.getElementById('note').innerHTML =
+    'Showing the cast as written &mdash; the live repo could not be reached, so this page ' +
+    'is being viewed as a local file.<br>Served from the repo it reads cast.json and ' +
+    'dracula/index.json directly.';
+});
+</script>
+</body>
+</html>

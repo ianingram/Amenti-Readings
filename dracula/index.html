@@ -59,24 +59,36 @@
   @keyframes drift{from{transform:translate3d(-2.5%,0,0)}to{transform:translate3d(2.5%,0,0)}}
 
   /* type needs somewhere to sit at both ends of the frame */
+  /* two veils now: one along the LEFT so the block has ground to sit on,
+     and a light one at the foot to carry the frame into the page. The top
+     is left alone — the sun and the ridge are the picture. */
   .veil{position:absolute;inset:0;pointer-events:none;
-    background:linear-gradient(180deg,rgba(7,9,12,.62) 0%,rgba(7,9,12,.1) 26%,
-               rgba(7,9,12,0) 48%,rgba(7,9,12,.74) 82%,var(--ink) 100%)}
+    background:
+      linear-gradient(90deg,rgba(7,9,12,.78) 0%,rgba(7,9,12,.5) 26%,
+                      rgba(7,9,12,.12) 46%,rgba(7,9,12,0) 62%),
+      linear-gradient(180deg,rgba(7,9,12,.3) 0%,rgba(7,9,12,0) 20%,
+                      rgba(7,9,12,0) 68%,rgba(7,9,12,.7) 88%,var(--ink) 100%)}
 
+  /* THE TYPE IS PLACED AGAINST THE PHOTOGRAPH, NOT CENTRED ON IT.
+     Centred, the studio line sat in the sun breaking over the ridge — the
+     brightest point in the frame and the one place small gold type cannot
+     be read. The composition leaves a quiet band on the LEFT, at the
+     vertical middle, where the fog is flat grey. The block moves there. */
   .titles{position:absolute;inset:0;z-index:3;display:flex;flex-direction:column;
-    align-items:center;text-align:center;padding:5vh 20px 0}
+    align-items:flex-start;justify-content:center;text-align:left;
+    padding:0 20px 0 clamp(24px,7vw,110px)}
   .studio{font-size:10px;letter-spacing:.5em;color:var(--gold);text-transform:uppercase;
     opacity:0;animation:in 1.6s .3s forwards}
   .presents{font-size:8px;letter-spacing:.36em;color:var(--mist);text-transform:uppercase;
     margin-top:9px;opacity:0;animation:in 1.6s .9s forwards}
-  h1{font-family:var(--serif);font-weight:400;font-size:clamp(40px,8vw,104px);
-    letter-spacing:.1em;margin:auto 0 0;color:#fff;line-height:1;
+  h1{font-family:var(--serif);font-weight:400;font-size:clamp(38px,7vw,92px);
+    letter-spacing:.09em;margin:14px 0 0;color:#fff;line-height:1;
     text-shadow:0 2px 60px rgba(0,0,0,.85),0 0 120px rgba(0,0,0,.6);
     opacity:0;animation:in 2s 1.4s forwards}
   .byline{font-size:11px;letter-spacing:.3em;color:var(--pale);text-transform:uppercase;
-    margin:18px 0 0;text-shadow:0 1px 20px rgba(0,0,0,.9);
+    margin:16px 0 0;text-shadow:0 1px 20px rgba(0,0,0,.9);
     opacity:0;animation:in 1.6s 2s forwards}
-  .form{font-size:9px;letter-spacing:.24em;color:var(--mist);margin:10px 0 6vh;
+  .form{font-size:9px;letter-spacing:.24em;color:var(--mist);margin:10px 0 0;
     text-transform:uppercase;opacity:0;animation:in 1.6s 2.4s forwards}
   @keyframes in{to{opacity:1}}
 
@@ -116,7 +128,15 @@
   .note{margin-top:16px;font-size:10px;color:#6c7c74;text-align:center;line-height:1.9}
   .foot{margin-top:38px;text-align:center;font-size:10px;color:#4c5c54;line-height:2}
 
-  @media(max-width:620px){.doc{display:none}.hero{height:74vh}}
+  /* a phone is too narrow to have a quiet left band, so the block goes
+     back to centre and the frame shortens */
+  @media(max-width:620px){
+    .doc{display:none}
+    .hero{height:74vh}
+    .titles{align-items:center;text-align:center;padding:0 18px}
+    .veil{background:linear-gradient(180deg,rgba(7,9,12,.45) 0%,rgba(7,9,12,.1) 24%,
+          rgba(7,9,12,.35) 55%,rgba(7,9,12,.8) 86%,var(--ink) 100%)}
+  }
   @media(prefers-reduced-motion:reduce){
     .shot{animation:none}
     .drift{display:none}
@@ -132,10 +152,10 @@
   <div class="veil"></div>
   <div class="titles">
     <div class="studio">Amenti Studios</div>
-    <div class="presents">presents a staged reading of</div>
+    <div class="presents">presents</div>
     <h1>DRACULA</h1>
     <div class="byline">Bram Stoker &middot; 1897</div>
-    <div class="form">Cast from the Library of Legends</div>
+    <div class="form">Cast from the Amenti Library of Legends</div>
   </div>
 </div>
 
@@ -150,7 +170,7 @@
 
   <div class="note" id="note"></div>
   <div class="foot">
-    Ingram Manor LLC &middot; Amenti Studios<br>
+    Ingram Manor LLC &middot; 2026 &middot; All Rights Reserved<br>
     The text is public domain. The voices are not performances by the people named &mdash;
     they are the ledger&rsquo;s record of how each figure spoke, used as a casting pool.
   </div>

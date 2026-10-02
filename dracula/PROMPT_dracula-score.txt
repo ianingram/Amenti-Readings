@@ -1,0 +1,420 @@
+PROMPT_dracula-score.txt   —   AMENTI STUDIOS · DRACULA · THE SCORE
+==============================================================================
+
+AI first pass. Four cues. Light piano and strings throughout; horns reserved.
+
+WHY FOUR AND NOT TWENTY-SEVEN. The book is a dossier and the score follows the
+DOCUMENT, not the scene. Seward's diary sounds the same whether he is doing a
+transfusion or opening a tomb, because the diary is the frame the listener is
+inside. Scoring per scene would be twenty-seven cues and would also tell the
+listener what to feel, which the text does better.
+
+THE INSTRUMENT RULE, AND IT IS THE WHOLE IDENTITY.
+  PIANO AND STRINGS carry everything. Sparse, low, unhurried.
+  HORNS APPEAR TWICE IN THE ENTIRE PRODUCTION — the pursuit cue, and once
+  inside the Demeter. That is the point of reserving them. A horn that is
+  always there is an orchestra; a horn that arrives in chapter 26 is an event.
+
+WRITE LONG AND SPARSE, NOT SHORT AND LOOPED. A forty-minute chapter over a
+two-minute loop is heard as a loop by the fourth pass. Each cue is generated
+LONG — four to six minutes — and laid under the reading at the prime lengths
+the sound sheet uses, so score and atmosphere are one mechanism and never
+realign. Ask for a piece that goes almost nowhere; that is a feature here.
+
+UNDER SPEECH, ALWAYS. These sit beneath a voice at low gain. Anything with a
+strong melody in the 200-900 Hz range will fight the reading. Keep the
+register low and leave the middle empty.
+
+------------------------------------------------------------------------------
+
+### 1 · DREAD           Harker's journal. Chapters 1-4, 19, 22.
+
+Slow sparse solo piano with low sustained strings, minor key, extremely
+restrained, single notes with long silences between them, cellos and basses
+holding beneath, no melody, no resolution, no percussion, no crescendo, very
+quiet and patient, almost static, cold and spacious, ambient classical,
+6 minutes
+
+AVOID  horns, drums, choir, organ, harpsichord, any theme that resolves,
+       anything that announces menace. The text is already frightening.
+
+------------------------------------------------------------------------------
+
+### 2 · PASTORAL TURNING   The Whitby chapters. 6-8, 11-13.
+
+Warm open piano with soft high strings, major key at first and souring
+gradually without changing key, gentle and unhurried, a sense of English
+coast and summer going wrong, strings thinning as it proceeds, no percussion,
+no brass, quiet and breathing, ambient classical, 6 minutes
+
+AVOID  a clear turn to minor. The whole idea is that nothing changes and it
+       gets worse anyway. No horns. Nothing nautical or folk.
+
+------------------------------------------------------------------------------
+
+### 3 · THE PHONOGRAPH      Seward's diary. 9-10, 14-18, 21, 23-25.
+                            LO-FI. AND IT IS NOT A STYLE CHOICE.
+
+SEWARD KEEPS HIS DIARY ON A PHONOGRAPH. Chapter 24 is headed phonograph diary
+outright, and in chapter 17 Mina transcribes the cylinders onto a typewriter.
+So wax-cylinder noise under Seward is not retro dressing — it is what the
+reader is literally hearing. Lo-fi as a genre is built from exactly that
+material: crackle, a slow break, a sampled piano. The lineage lands where the
+text already is.
+
+Slow lo-fi break at 70 BPM, soft dusty kick and a brushed off-beat, heavy
+vinyl crackle and wax surface noise throughout, a simple sampled piano figure
+slightly detuned and slightly behind the beat, warm low bass, no bright
+treble, nothing above 4 kHz, hazy and narrow like an old recording, no
+melody in the vocal range, 6 minutes
+
+AVOID  hi-hats in sixteenths, anything crisp, any modern snap. It is wax, not
+       tape. No build, no drop. And nothing lush — he is a doctor dictating
+       at the end of a long day.
+
+------------------------------------------------------------------------------
+
+SIXTEEN OF TWENTY-SEVEN CHAPTERS ARE THIS DOCUMENT, SO IT IS TIERED.
+A breakbeat under eleven chapters becomes wallpaper, and wallpaper is worse
+than nothing. Three levels:
+
+  FULL      beat, crackle, piano.      ch 9, 10, 14, 15, 17, 18, 23, 25
+            The procedural chapters, where the recording quality IS the
+            character — a man filing observations about a case he is losing.
+
+  CRACKLE   surface noise only. No beat, no piano.     ch 16, 21, 24
+            Chapter 16 is the stake. Chapter 21 is Renfield on the floor and
+            what they find in Mina's room. Chapter 24 is the hypnosis. The
+            document is still a cylinder, so the noise stays — but a beat
+            under any of those three would be obscene.
+
+  NONE      silence.        ch 12 — Lucy's death
+            The one chapter in the production with no score of any kind. Not
+            a reduced cue. Nothing.
+
+------------------------------------------------------------------------------
+
+### 3b · THE MEDIUM DOCTRINE        every document, not only Seward
+
+THE DOSSIER SHOULD BE AUDIBLE. Stoker names the document type at the head of
+every chapter, and the production already casts a voice per document. Give
+each one its MEDIUM as well and the listener always knows which document they
+are inside without being told.
+
+  phonograph      Seward         wax: narrow band, surface noise, slight wow
+  typewriter      Mina           clean, close, no artefact
+  handwritten     Harker, Lucy   clean, roomy, private
+  print           the cuttings   flat and formal, no room at all
+  ship's log      the Demeter    clean, but the bed does the work
+
+Nobody will articulate why Seward sounds different. They will simply know.
+
+THE BEST MOMENT THIS BUYS IS CHAPTER 17, where Mina transcribes the cylinders
+onto the typewriter. The treatment can CHANGE MID-CHAPTER — phonograph while
+she listens, clean as she types — and the chapter is about exactly that act.
+The form explains itself and nobody has to say so.
+
+------------------------------------------------------------------------------
+
+THE PHONOGRAPH FILTER IS DONE LIVE, NOT RE-RENDERED.
+
+The voice is already on a buffer source in Web Audio, so the cylinder
+treatment is a chain on the node and costs nothing:
+
+    bandpass   200 Hz - 3 kHz, Q around 0.7
+    noise      a low-level looping buffer under it, -28 dB or so
+    wobble     detune oscillating a few cents at ~0.3 Hz, for wax wow
+    output     into the voiceGain with everything else
+
+NO RE-RENDER AND NO NEW CACHE KEYS. The key is TTS_MODEL + voice + style +
+text, and this touches none of them — it is applied after the buffer comes
+back. Re-rendering Seward's part to bake in crackle would mean paying for
+sixteen chapters of audio twice and could never be undone.
+
+------------------------------------------------------------------------------
+
+### 4 · PURSUIT         The chase east. Chapters 26-27.    ← HORNS HERE
+
+Driving low strings with a steady pulse, piano in octaves, and FRENCH HORNS
+entering over the top — the only brass in the production — building and
+insistent, cold and open like a snow landscape, forward motion throughout,
+minor key, no resolution at the end, orchestral but restrained, 5 minutes
+
+THE HORNS ARE THE WHOLE REASON THIS CUE EXISTS. Three hundred pages of piano
+and strings make a horn in chapter 26 land like a door opening. Do not spend
+them anywhere else.
+
+AVOID  drums, choir, anything triumphant. They are chasing a box on a cart
+       through snow before sundown. It is grim, not heroic.
+
+------------------------------------------------------------------------------
+
+### 5 · THE EARTH-BOXES        ch 19-20.    INDUSTRIAL. 60 BPM HALFTIME.
+
+FIFTY CRATES OF TRANSYLVANIAN SOIL, MOVED AROUND LONDON AGAINST A CLOCK.
+This is the only genuinely kinetic, procedural sequence in the book — men
+doing hard physical work in warehouses and carts, racing a sunset. It was
+scored clinical in the first pass and that was wrong. It is the most moving
+thing in the novel and it should drive.
+
+THE INDUSTRIAL SOUNDS ARE THE PERCUSSION. Not layered over a drum kit —
+THEY ARE THE KIT. A crate landing on stone is the kick. A chain pulled
+through an iron ring is the hat. A lid levered off is the snare. Everything
+is a real object from the scene, pitched and placed on the grid.
+
+Two reasons this is the right build and not just a nice idea. It is diegetic
+— the listener hears men working and only gradually notices it is in time.
+And it clears: every hit is a field recording or CC0, so there is no borrowed
+break in the one part of the production that would otherwise need clearing.
+
+60 BPM HALFTIME, WHICH IS NOT THE SAME AS SLOW. Kick on 1, heavy hit on 3,
+and the top end moving at double that. Written as 60 it reads hard; written
+as 120 it reads busy. The brief must say halftime or the generator returns
+something sluggish.
+
+Hard driving industrial halftime at 60 BPM, built from sampled warehouse
+sounds — heavy wooden crates landing on stone as the kick, chain through
+iron as the hi-hat, a crate lid levered off as the snare, rope, cartwheels
+on cobbles, a far-off dock crane. Low sub bass under it. One cold detuned
+piano note repeating, nothing more than that. Relentless, no variation in
+the pattern, no fills, no build, no drop. It should sound like labour, not
+like a track. 5 minutes
+
+AVOID  a melody of any kind, cymbals, anything triumphant, anything that
+       sounds like a montage. These men are frightened and running out of
+       daylight.
+
+THE SOURCES DOUBLE AS SOUND EFFECTS. earth_box is already in the sound sheet
+at two variants for exactly these chapters. Record the pool once and it
+serves both the one-shots and the percussion, which is the cheapest file in
+the whole production.
+
+------------------------------------------------------------------------------
+
+### 6 · THE DEMETER      Chapter 7 only.     ← THE SECOND HORN
+                          AND THE ONLY PERCUSSION IN THE PRODUCTION
+
+THE BEAT IS THE SHIP'S ROUTINE. The log is dated entries — a watch kept, a
+position noted, a bell rung, every day, while the crew goes one at a time. A
+steady pulse is that routine, and the fact that it DOES NOT STOP while the
+voices disappear is the whole horror of the chapter. Nothing else in the
+production has percussion, and nothing else should.
+
+KEEP IT SLOW. 60-70 BPM, which is near speech tempo rather than against it.
+A faster pulse fights the reader's own rhythm and the listener stops hearing
+words. Soft backbeat, nothing snapping.
+
+Slow heavy 4/4 at 65 BPM, deep sub bass and a soft muffled kick, low-key and
+restrained, modern cinematic electronic underscore, with INTRICATE SPARSE
+PIANO over the top — a repeating figure, slightly off the grid, more and more
+exposed as the track proceeds. Low string drone beneath. A sense of a vessel
+under way at night. The arrangement THINS as it goes: layers leave and the
+pulse remains. Near the end ONE DISTANT FRENCH HORN, a single held note, far
+off and unanswered. No snare, no hi-hat, no build, no drop, no melody in the
+mid range. 7 minutes
+
+THE THINNING IS THE POINT and it matches the five bed states in the sound
+sheet. Begin with bass, kick, piano, strings. End with the kick and almost
+nothing else, still keeping time, nobody steering.
+
+THE SECOND AND LAST HORN IN THE PRODUCTION. The first is the pursuit; this
+one is earlier and quieter, and nobody will remember hearing it until the
+horns return in chapter 26.
+
+AVOID  snare, hi-hat, trap percussion, a drop, a build, anything that reads
+       as a track rather than a score. It is a watch being kept, not a beat.
+
+
+
+==============================================================================
+ENVELOPES — NOTHING STARTS OR STOPS ABRUPTLY
+==============================================================================
+
+EVERY SOUND IN THIS PRODUCTION IS RAMPED. No gain is ever set by assignment,
+no source is ever stopped at full level, and no bed is ever cut. Web Audio
+does all of it natively on a GainNode, so this costs nothing but discipline.
+
+THE ONE RULE THAT PREVENTS THE MOST DAMAGE: A GAIN CHANGE WITHOUT A RAMP IS
+A CLICK. Starting or stopping a buffer at non-zero amplitude puts a step
+discontinuity into the waveform and the listener hears a tick. Even 15 ms of
+ramp removes it entirely. There is no case anywhere in this production for
+setting gain instantly.
+
+------------------------------------------------------------------------------
+
+FADE TIMES BY MATERIAL
+
+  BED          in 4 s      out 6 s     crossfade 8 s
+               Atmosphere should arrive before you notice it and leave after.
+               A bed that fades in over 4 seconds is never heard starting.
+
+  SCORE        in 6 s      out 8 s     crossfade 10 s
+               Longer than the bed, always. If the score and the bed change
+               at the same chapter boundary, the bed leads and the score
+               follows — two staggered changes read as one smooth one.
+
+  ONE-SHOT     in 0 s      out: its own tail
+               NEVER FADE IN A TRANSIENT. A door, a timpani hit, a crate
+               landing — the attack IS the sound. Fading one in destroys it
+               and makes it sound like a sample being faded in, which is
+               exactly what it is and exactly what must not be audible.
+               They play at full on the first sample and decay naturally.
+
+  DUCK         down 250 ms    up 1200 ms
+               ASYMMETRIC, AND THAT IS THE POINT. Fast down so the bed is
+               out of the way before the first syllable; slow back up so it
+               returns underneath without anyone noticing it left. Equal
+               times in both directions sounds like a machine breathing.
+
+------------------------------------------------------------------------------
+
+CROSSFADES ARE EQUAL-POWER, NOT LINEAR
+
+Two linear ramps crossing in the middle sum to about 70 per cent amplitude
+at the midpoint, so every chapter transition dips audibly. Use the
+equal-power curve — gain follows cos and sin of the progress rather than
+the progress itself — and the sum stays constant across the whole fade.
+
+    outgoing    gain = cos(t * PI/2)
+    incoming    gain = sin(t * PI/2)
+
+setValueCurveAtTime takes the array directly. A hundred points over the fade
+is more than enough.
+
+------------------------------------------------------------------------------
+
+THE EXPONENTIAL RAMP CANNOT REACH ZERO
+
+exponentialRampToValueAtTime throws on a target of 0 and silently does
+nothing useful near it. To fade a bed out and stop it:
+
+    g.gain.exponentialRampToValueAtTime(0.0001, now + 6);
+    g.gain.setValueAtTime(0, now + 6.01);
+    src.stop(now + 6.02);
+
+Exponential for fades down, because loudness is logarithmic and an
+exponential fade is the one that sounds linear. Linear ramps for ducking,
+where the move is small and speed matters more than smoothness.
+
+------------------------------------------------------------------------------
+
+AT THE SEAMS
+
+  CHAPTER TO CHAPTER   the outgoing bed and score begin their fades BEFORE
+                       the last cue ends, not after. Eight seconds of overlap
+                       under the final sentences, so the chapter ends into
+                       the next rather than against it.
+
+  BED STATE CHANGE     the Demeter and the castle progress through states.
+                       These are crossfades between two mixes of the same
+                       material, 10-12 s, and they should be imperceptible.
+                       The listener must never catch the ship emptying.
+
+  THE EXCEPTION        the Demeter landing, cue 6. One enormous timpani hit
+                       and the pulse STOPS DEAD — no fade, no tail, nothing.
+                       It is the only hard cut in the production and it only
+                       works because everything else is ramped.
+
+------------------------------------------------------------------------------
+
+SILENCE IS SCORED TOO. Chapter 12 has no cue, but the chapter before it must
+still fade OUT into that silence over eight seconds, and the chapter after
+must fade UP out of it. An abrupt arrival at silence reads as a fault; an
+approach to it reads as a decision.
+
+==============================================================================
+PERCUSSION DOCTRINE — A CLOSED SET OF FOUR
+==============================================================================
+
+THE TEMPTATION IS TO USE DRUMS EVERYWHERE AND THAT IS THE ARGUMENT AGAINST IT.
+Drums do pacing better than anything else available, which is exactly why they
+stop working once they are always there. Twenty-seven chapters of piano and
+strings are what make a kettle drum in chapter 27 mean something. The list
+below is CLOSED. If a fifth place seems to want drums, the answer is no.
+
+TWO INSTRUMENTS, TWO JOBS, AND THEY DO NOT SWAP.
+
+  TIMPANI   weight and dread. They do not keep time, they ARRIVE. Used where
+            something enormous is happening to people who cannot stop it.
+  SNARE     military and motion. They DO keep time. Used where men are
+            marching, riding, or travelling with purpose.
+
+If a scene is neither martial nor moving, neither instrument has a reason to
+be in it. That single test is what keeps the set closed.
+
+------------------------------------------------------------------------------
+
+1 · THE DEMETER — THE STORM AND THE LANDING          ch 7, final entries
+    TIMPANI, heavy.
+
+    The slow 65 BPM pulse has been keeping the ship's routine for the whole
+    chapter. At the storm it is JOINED, not replaced: timpani rolls under the
+    existing kick, swelling and receding with the weather, no fixed pattern.
+    At the landing — the ship driving onto the shingle at Whitby with a dead
+    man lashed to the wheel — one enormous timpani hit and then NOTHING. The
+    pulse that has run for seven minutes stops dead.
+
+    THAT SILENCE IS THE LOUDEST MOMENT IN THE PRODUCTION. Everything else in
+    the percussion doctrine exists to make it possible.
+
+2 · THE MARTIAL HISTORY                              ch 3
+    SNARE, military, distant.
+
+    The Count on the Szekely blood, Attila, and the wars against the Turk.
+    It is the only place in the book where he stops being courteous and
+    becomes a soldier boasting, mid-sentence, in front of a guest.
+
+    A distant military snare, dry and old, more like a memory of a drum than
+    a drum. It enters UNDER HIS SPEECH and leaves when he does. The dread cue
+    continues underneath throughout — the snare is a layer, not a cue.
+
+    THE ONLY TIME THE COUNT IS SCORED. Everywhere else he gets the room and
+    nothing else, which is why this works.
+
+3 · TRAVEL AND MOTION                                ch 1, 20, 26
+    SNARE, light, rhythmic.
+
+    The calèche through the pass; the earth-boxes tracked across London; the
+    chase east by rail and cart. A snare does rail and hoof rhythm better
+    than any sound effect, and it does something a recording cannot: it
+    tells the listener how long the journey is going to take.
+
+    Light, brushed, well back. It sets pace and gets out of the way.
+
+4 · THE CASTLE, THE RING OF FIRE                     ch 27
+    TIMPANI AND SNARE TOGETHER, and the horns.
+
+    The only place both are used at once, and the only full orchestral moment
+    in the production. Snare driving the pursuit, timpani under the fight at
+    the gates, horns over the top. Everything held back for twenty-six
+    chapters spends itself here.
+
+    AND IT STOPS BEFORE THE END. The Count goes to dust at sunset and the
+    last page is quiet. Do not score the ending; score the arrival.
+
+------------------------------------------------------------------------------
+
+WHERE DRUMS MUST NOT GO, however much they would work:
+  Whitby, any chapter      — the sea is the rhythm there
+  Seward's diary           — clinical means no pulse at all
+  Lucy's death, ch 12      — the one chapter with no score of any kind
+  The tomb, ch 15-16       — timpani would be obvious, and obvious is worse
+  Harker in the castle, ch 2-4  — the point is that nothing is happening yet
+
+------------------------------------------------------------------------------
+
+LICENSING — READ BEFORE ANYTHING SHIPS
+Generator terms differ by tier and some do not grant commercial use at all.
+Whatever is used, record the generator, the plan, and the date in the sound
+sheet, the way plate provenance is recorded in MANIFEST.json. An AI score on
+a public page with unclear rights is the same class of problem as a
+copyrighted translation in the library.
+
+FILES
+  score/dread.mp3        score/pastoral.mp3     score/phonograph.mp3
+  score/pursuit.mp3      score/demeter.mp3
+  score/earth-boxes.mp3      ch 19-20
+  score/phonograph-crackle.mp3   layer, the CRACKLE tier
+  score/snare-martial.mp3    layer, ch 3
+  score/snare-travel.mp3     layer, ch 1 / 20 / 26
+  score/timpani-storm.mp3    layer, ch 7

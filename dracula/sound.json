@@ -1,0 +1,419 @@
+{
+  "work": "dracula",
+  "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
+  "techniques": {
+    "coprime_loops": "A bed is three layers at PRIME lengths — 37s, 53s, 71s — not one loop at 30s. They do not realign for roughly 38 hours, so nothing audibly repeats, and it costs three files and no logic. The same trick runs the mist on the production page at 92s and 137s.",
+    "variant_pools": "Every one-shot has 3-4 recordings. Playback adds random detune of plus or minus 40 cents and playbackRate of plus or minus 4 per cent, both native to Web Audio. A door closing twelve times is twelve doors.",
+    "deterministic_randomness": "SEED THE VARIATION FROM THE CUE NUMBER, never from Math.random(). An episode then sounds identical every time it is played, which matters because people return to episodes — and it is the same argument as recording plate seeds. A reading that is subtly different on each listen is not a recording, it is a generator.",
+    "progression": "VARIATION IS WRONG FOR TWO SEQUENCES AND PROGRESSION IS RIGHT. The Demeter log and the castle chapters are both about a place emptying out. A bed that varies says 'still here, slightly different'. A bed that DEGRADES says what the text says. Those two get numbered states instead of variants; everything else gets variants."
+  },
+  "beds": {
+    "castle": {
+      "note": "Stone, a fire in the grate, and wolves at a great distance. PROGRESSIVE: Harker does not know he is a prisoner in chapter 1 and knows it by chapter 3, so the room closes in around him. The fire is the last thing left.",
+      "progressive": true,
+      "layers": [
+        "stone room tone 37s",
+        "fire in a grate 53s",
+        "distant wolves 71s"
+      ],
+      "states": {
+        "1": "all three layers, fire warm, wolves far off — a cold house, not yet a trap",
+        "2": "room tone up, wolves nearer, the first long gaps",
+        "3": "wolves gone, only stone and fire, long silences between — he has stopped hearing the outside",
+        "4": "fire low and almost nothing else. The quiet is the point."
+      }
+    },
+    "pass": {
+      "note": "The Borgo Pass and the Carpathian road. Wind, snow, enormous distance.",
+      "progressive": false,
+      "layers": [
+        "high wind 37s",
+        "snow and emptiness 53s",
+        "far wolves 71s"
+      ]
+    },
+    "demeter": {
+      "note": "THE SEQUENCE THIS WHOLE APPROACH WAS BUILT FOR. The log is dated entries over about three weeks in which the crew goes one at a time. Variation would be exactly wrong — the bed must EMPTY. The listener should not notice the mechanism and should feel the ship go quiet.",
+      "progressive": true,
+      "layers": [
+        "sea against a hull 37s",
+        "rigging and timber 53s",
+        "crew and deck 71s"
+      ],
+      "states": {
+        "1": "a working ship — rigging, voices on deck, steady sea, a bell",
+        "2": "weather rising, fewer voices, the bell still rung",
+        "3": "wind over the voices, rope working, one man calling",
+        "4": "no voices. Timber under stress. Sea heavier.",
+        "5": "wind and water only, and the wheel turning untended."
+      }
+    },
+    "whitby": {
+      "note": "Sea, gulls, weather off the North Sea. Pastoral, and it goes wrong without the sound changing much — the text does that work.",
+      "progressive": false,
+      "layers": [
+        "sea on shingle 37s",
+        "gulls and air 53s",
+        "church and town far off 71s"
+      ]
+    },
+    "london_interior": {
+      "note": "Seward's asylum and the Piccadilly houses. A clock, a fire, the street muffled beyond glass. Clinical.",
+      "progressive": false,
+      "layers": [
+        "room tone 37s",
+        "clock 53s",
+        "muffled street 71s"
+      ]
+    }
+  },
+  "oneshots": {
+    "note": "Twelve sources, 3-4 variants each. The count is small because the documents repeat.",
+    "door_heavy": {
+      "variants": 4,
+      "note": "the castle door — bolts drawn, chains, great weight. 17 mentions, the most of anything."
+    },
+    "door_shut": {
+      "variants": 3,
+      "note": "an ordinary door, interiors"
+    },
+    "wolf_near": {
+      "variants": 4,
+      "note": "close, single animal. Used sparingly — the bed carries the distant ones."
+    },
+    "wolves_chorus": {
+      "variants": 3,
+      "note": "the pass, and the pursuit"
+    },
+    "carriage": {
+      "variants": 3,
+      "note": "hooves and wheels, arriving and departing. The calèche in chapter 1."
+    },
+    "horse": {
+      "variants": 3,
+      "note": "single animal, uneasy"
+    },
+    "dog": {
+      "variants": 3,
+      "note": "Whitby and the guest"
+    },
+    "clock_strike": {
+      "variants": 2,
+      "note": "hours. Harker's journal and the asylum."
+    },
+    "thunder": {
+      "variants": 3,
+      "note": "the storm chapters"
+    },
+    "ships_bell": {
+      "variants": 2,
+      "note": "the Demeter, early entries only. Its absence later is the point."
+    },
+    "wing_beat": {
+      "variants": 3,
+      "note": "bat at a window"
+    },
+    "earth_box": {
+      "variants": 2,
+      "note": "a heavy wooden crate dragged on stone. Chapters 19-20."
+    },
+    "sea_heavy": {
+      "variants": 3,
+      "note": "a sea getting up — the Whitby storm that brings the Demeter in"
+    }
+  },
+  "score": {
+    "note": "FOUR CUES, NOT TWENTY-SEVEN. The book has four tonal registers and they map to the document types rather than to the plot.",
+    "dread": "Harker's journal. Slow, low, almost static. Chapters 1-4, 19, 22.",
+    "pastoral_turning": "The Whitby chapters. Open and warm at first and souring without changing key. Chapters 6-8, 11-13.",
+    "pursuit": "The chase east. Momentum, and the only cue with a pulse. Chapters 26-27.",
+    "earth_boxes": "The earth-boxes across London, ch 19-20. Industrial halftime, 60 BPM, percussion built from warehouse sounds rather than a drum kit. The only driving cue before the pursuit.",
+    "phonograph": "Seward's diary, kept on a phonograph. LO-FI, and tiered three ways — full beat, crackle only, or silence. Sixteen of twenty-seven chapters are this document, so an untiered beat would be wallpaper. Measured, unemotional, a little mechanical. Chapters 9-10, 14-18, 21, 23-25."
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "bed": "pass",
+      "score": "dread",
+      "sfx": [
+        "carriage",
+        "horse",
+        "wolves_chorus"
+      ]
+    },
+    {
+      "n": 2,
+      "bed": "castle",
+      "state": 1,
+      "score": "dread",
+      "sfx": [
+        "carriage",
+        "door_heavy",
+        "wolves_chorus"
+      ]
+    },
+    {
+      "n": 3,
+      "bed": "castle",
+      "state": 2,
+      "score": "dread",
+      "sfx": [
+        "door_shut",
+        "thunder",
+        "wing_beat"
+      ]
+    },
+    {
+      "n": 4,
+      "bed": "castle",
+      "state": 4,
+      "score": "dread",
+      "sfx": [
+        "earth_box",
+        "door_heavy"
+      ]
+    },
+    {
+      "n": 5,
+      "bed": "london_interior",
+      "score": "pastoral_turning",
+      "sfx": [
+        "clock_strike"
+      ]
+    },
+    {
+      "n": 6,
+      "bed": "whitby",
+      "score": "pastoral_turning",
+      "sfx": [
+        "dog",
+        "ships_bell"
+      ]
+    },
+    {
+      "n": 7,
+      "bed": "demeter",
+      "state": 1,
+      "score": "dread",
+      "sfx": [
+        "ships_bell",
+        "thunder"
+      ],
+      "note": "THE BED ADVANCES WITHIN THE CHAPTER, 1 to 5, following the dated entries. This is the one chapter where state is not fixed — the cue sheet carries the state per cue. The last entry runs on state 5: wind, water, and the wheel."
+    },
+    {
+      "n": 8,
+      "bed": "whitby",
+      "score": "pastoral_turning",
+      "sfx": [
+        "sea_heavy",
+        "dog"
+      ]
+    },
+    {
+      "n": 9,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": [
+        "clock_strike"
+      ]
+    },
+    {
+      "n": 10,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": []
+    },
+    {
+      "n": 11,
+      "bed": "whitby",
+      "score": "pastoral_turning",
+      "sfx": [
+        "wolf_near",
+        "door_shut"
+      ]
+    },
+    {
+      "n": 12,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": [
+        "clock_strike"
+      ],
+      "tier": "none"
+    },
+    {
+      "n": 13,
+      "bed": "london_interior",
+      "score": "pastoral_turning",
+      "sfx": [
+        "dog"
+      ]
+    },
+    {
+      "n": 14,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": []
+    },
+    {
+      "n": 15,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": [
+        "door_heavy",
+        "clock_strike"
+      ]
+    },
+    {
+      "n": 16,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": [
+        "door_heavy"
+      ],
+      "tier": "crackle"
+    },
+    {
+      "n": 17,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": []
+    },
+    {
+      "n": 18,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": [
+        "wolf_near",
+        "wing_beat"
+      ]
+    },
+    {
+      "n": 19,
+      "bed": "london_interior",
+      "score": "earth_boxes",
+      "sfx": [
+        "earth_box",
+        "door_heavy"
+      ],
+      "note": "Industrial halftime at 60 BPM built from the earth_box pool — the crates ARE the percussion. See PROMPT_dracula-score.txt cue 5."
+    },
+    {
+      "n": 20,
+      "bed": "london_interior",
+      "score": "earth_boxes",
+      "sfx": [
+        "earth_box",
+        "carriage"
+      ],
+      "note": "Industrial halftime at 60 BPM built from the earth_box pool — the crates ARE the percussion. See PROMPT_dracula-score.txt cue 5."
+    },
+    {
+      "n": 21,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": [
+        "door_shut",
+        "wing_beat"
+      ],
+      "tier": "crackle"
+    },
+    {
+      "n": 22,
+      "bed": "london_interior",
+      "score": "dread",
+      "sfx": []
+    },
+    {
+      "n": 23,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": [
+        "door_shut",
+        "wing_beat"
+      ]
+    },
+    {
+      "n": 24,
+      "bed": "demeter",
+      "state": 5,
+      "score": "phonograph",
+      "sfx": [
+        "ships_bell"
+      ],
+      "note": "MINA HYPNOTISED HEARS A SHIP. The text gives lapping water and creaking wood, so the Demeter bed returns at its emptiest state — the sound she describes is the sound of chapter 7's ending. Nobody will consciously connect them and the connection is the reason to do it.",
+      "tier": "crackle"
+    },
+    {
+      "n": 25,
+      "bed": "london_interior",
+      "score": "phonograph",
+      "sfx": []
+    },
+    {
+      "n": 26,
+      "bed": "pass",
+      "score": "pursuit",
+      "sfx": [
+        "carriage",
+        "horse",
+        "wolves_chorus"
+      ]
+    },
+    {
+      "n": 27,
+      "bed": "pass",
+      "score": "pursuit",
+      "sfx": [
+        "wolves_chorus",
+        "horse"
+      ],
+      "note": "The snow and the ring of fire. The bed thins to wind alone for the last cues."
+    }
+  ],
+  "sourcing": {
+    "note": "THE HARDER HALF, AND IT IS NOT A TECHNICAL PROBLEM. A public-domain COMPOSITION is not a public-domain RECORDING: an 1890s score performed in 2019 is a copyrighted performance. Every file below has to be cleared on the recording, not the work.",
+    "effects": "Freesound CC0 covers almost all twelve one-shots — wind, sea, doors, horses, thunder, bells. Filter to CC0 rather than CC-BY so there is no attribution chain to maintain across an archive.",
+    "beds": "Field recordings, same source, layered at the prime lengths above. Three layers per bed, five beds, so fifteen files — but the Demeter needs five mixes of its three layers, which makes it the expensive one.",
+    "score": "Four cues. Either commissioned, or AI-generated, which sidesteps the recording-rights problem entirely and is consistent with a production that is already AI-voiced. Check the licence terms of whichever generator — some grant commercial use, some do not.",
+    "total": "Roughly 15 bed layers + 8 extra Demeter mixes + 36 one-shot variants + 4 score cues = about 63 files. Small enough to be real."
+  },
+  "engine": {
+    "note": "The speech engine already plays through Web Audio — createBufferSource into ctx.destination, scheduled on a timeline — so a bed is another source node on the same context and mixing is a GainNode. No new audio stack.",
+    "one_change_needed": "EVERY VOICE SOURCE CURRENTLY CONNECTS STRAIGHT TO ctx.destination, so there is nothing to duck against. A voiceGain node has to be inserted between the sources and the destination. It touches amenti-throttle.js, which is the file least worth breaking, and it changes no cache key and no chunk boundary.",
+    "cue_fields": "A cue gains optional 'sfx' and 'state'. reader.js already knows exactly when a cue ends — onDone — so a sting fires at a boundary with no new timing machinery. Word-level placement inside a cue is NOT possible: there is no word timing, and faking it would be worse than not doing it."
+  },
+  "envelopes": {
+    "note": "NOTHING STARTS OR STOPS ABRUPTLY. Every gain change is a ramp — a change without one is a step discontinuity and the listener hears a click. 15 ms removes it. There is no case in this production for setting gain by assignment.",
+    "bed": {
+      "in": 4,
+      "out": 6,
+      "crossfade": 8
+    },
+    "score": {
+      "in": 6,
+      "out": 8,
+      "crossfade": 10,
+      "note": "Always longer than the bed. When both change at a chapter boundary the bed leads and the score follows; two staggered changes read as one smooth one."
+    },
+    "oneshot": {
+      "in": 0,
+      "out": "natural tail",
+      "note": "NEVER FADE IN A TRANSIENT. The attack IS the sound — a door, a timpani hit, a crate landing. Fading one in makes it audible as a sample being faded in."
+    },
+    "duck": {
+      "down": 0.25,
+      "up": 1.2,
+      "note": "ASYMMETRIC ON PURPOSE. Fast down so the bed clears before the first syllable, slow up so it returns unnoticed. Equal times sound like a machine breathing."
+    },
+    "crossfade_curve": "EQUAL-POWER, not linear. Two linear ramps crossing sum to about 70% at the midpoint, so every transition dips. gain = cos(t*PI/2) outgoing and sin(t*PI/2) incoming keeps the sum constant. setValueCurveAtTime takes the array.",
+    "zero": "exponentialRampToValueAtTime cannot reach 0. Ramp to 0.0001, then setValueAtTime(0), then stop. Exponential for fades (loudness is logarithmic, so it sounds linear); linear for ducking, where the move is small and speed matters more.",
+    "seams": {
+      "chapter": "Outgoing bed and score start fading BEFORE the last cue ends — about 8 s of overlap under the final sentences, so a chapter ends into the next rather than against it.",
+      "state_change": "The Demeter and castle state changes are 10-12 s crossfades between two mixes of the same material, and must be imperceptible. The listener must never catch the ship emptying.",
+      "exception": "THE DEMETER LANDING. One timpani hit and the pulse stops dead — no fade, no tail. The only hard cut in the production, and it only works because everything else is ramped.",
+      "silence": "Chapter 12 has no cue, but chapter 11 must still fade out INTO that silence over 8 s and 13 must fade up out of it. Arriving at silence abruptly reads as a fault; approaching it reads as a decision."
+    }
+  }
+}

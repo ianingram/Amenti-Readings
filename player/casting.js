@@ -44,7 +44,15 @@
   }
 
   var KEY = 'amenti.casting.';          /* + work */
-  var LEDGER_URL = (window.AMENTI_CONFIG && window.AMENTI_CONFIG.LEDGER_CSV_URL) || '';
+  /* THE POOL IS names.csv, THE FILE THE ENGINE RESOLVES AGAINST (2 Oct 2026).
+     This read AMENTI_CONFIG.LEDGER_CSV_URL — the Google Sheet, and a
+     DIFFERENT TAB (gid 1598709533) from the one the engine used
+     (gid 1225210076). So the panel could offer a name the reading could not
+     find. The engine publishes the URL it actually read; this uses that. */
+  function poolUrl() {
+    var T = window.Amenti && window.Amenti.throttle;
+    return (T && T.rosterUrl) || 'https://ianingram.github.io/Amenti.live/names.csv';
+  }
 
   var C = {
     pool: null,          /* the 1,011, loaded once */
@@ -73,9 +81,12 @@
        a panel that offers voices the reading cannot use. */
     loadPool: function () {
       if (C.pool) return Promise.resolve(C.pool);
-      if (!LEDGER_URL) return Promise.reject(new Error('no LEDGER_CSV_URL in config'));
-      return fetch(LEDGER_URL, { cache: 'no-store' })
-        .then(function (r) { return r.text(); })
+      var url = poolUrl();
+      return fetch(url, { cache: 'no-store' })
+        .then(function (r) {
+          if (!r.ok) throw new Error('Casting: ' + url + ' -> ' + r.status);
+          return r.text();
+        })
         .then(function (text) {
           var rows = C._csv(text);
           var H = rows[0].map(function (h) { return String(h).toLowerCase().replace(/[^a-z0-9]/g, ''); });

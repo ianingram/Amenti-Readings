@@ -1,7 +1,22 @@
 {
   "_file": "Amenti-Readings/dracula/sound.json",
-  "_updated": "2026-10-02 05:14 UTC",
+  "_updated": "2026-10-02 06:20 UTC",
   "work": "dracula",
+  "files": {
+    "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals.",
+    "base": "https://ianingram.github.io/Amenti-Readings/dracula/sound/",
+    "beds": {
+      "castle": "fire.mp3",
+      "pass": "wind.mp3",
+      "whitby": "sea.mp3",
+      "demeter": "sea.mp3"
+    },
+    "oneshots": {
+      "door_heavy": "door_heavy.mp3",
+      "wolves_chorus": "wolves.mp3",
+      "wolf_near": "wolves.mp3"
+    }
+  },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
   "techniques": {
     "coprime_loops": "A bed is three layers at PRIME lengths — 37s, 53s, 71s — not one loop at 30s. They do not realign for roughly 38 hours, so nothing audibly repeats, and it costs three files and no logic. The same trick runs the mist on the production page at 92s and 137s.",

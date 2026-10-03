@@ -26,6 +26,7 @@
   "cues": [
     {
       "n": 1,
+      "sfx": [{"key": "steps_approach", "at": "heavy step approaching"}, {"key": "chains", "at": "rattling chains"}, {"key": "bolts", "at": "massive bolts drawn back"}, {"key": "key_turn", "at": "long disuse"}, {"key": "door_heavy", "at": "the great door swung back"}],
       "para": 0,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -35,7 +36,6 @@
     },
     {
       "n": 2,
-      "sfx": ["door_heavy"],
       "para": 1,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -54,6 +54,7 @@
     },
     {
       "n": 4,
+      "sfx": [{"key": "step_threshold", "at": "stepped over the threshold"}],
       "para": 2,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -108,6 +109,7 @@
     },
     {
       "n": 10,
+      "sfx": [{"key": "lamp_bracket", "at": "on a bracket on the wall"}, {"key": "luggage_lift", "at": "took my luggage"}],
       "para": 5,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -126,6 +128,7 @@
     },
     {
       "n": 12,
+      "sfx": [{"key": "stairs", "at": "up a great winding stair"}, {"key": "steps_stone", "at": "our steps rang heavily"}, {"key": "door_open", "at": "threw open a heavy door"}, {"key": "fire_flare", "at": "flamed and flared"}],
       "para": 6,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -135,6 +138,7 @@
     },
     {
       "n": 13,
+      "sfx": [{"key": "luggage_down", "at": "putting down my bags"}, {"key": "door_close", "at": "closed the door,"}, {"key": "door_open", "at": "opened another door, which"}, {"key": "door_open", "at": "he opened another door"}, {"key": "fire_roar", "at": "up the wide chimney"}, {"key": "door_close", "at": "before he closed the door"}],
       "para": 7,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -180,6 +184,7 @@
     },
     {
       "n": 18,
+      "sfx": [{"key": "letter", "at": "He opened it"}],
       "para": 12,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -189,6 +194,7 @@
     },
     {
       "n": 19,
+      "under": "piano_far",
       "para": 13,
       "role": "Count Dracula",
       "cast": "Vlad the Impaler",
@@ -198,6 +204,7 @@
     },
     {
       "n": 20,
+      "sfx": [{"key": "dish_cover", "at": "cover of a dish"}, {"key": "wine", "at": "bottle of old Tokay"}],
       "para": 14,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -207,6 +214,7 @@
     },
     {
       "n": 21,
+      "sfx": [{"key": "chair_draw", "at": "drawn up a chair"}, {"key": "match", "at": "begun to smoke a cigar"}],
       "para": 15,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -225,6 +233,7 @@
     },
     {
       "n": 23,
+      "sfx": [{"key": "shudder", "at": "repress a shudder"}, {"key": "chair_creak", "at": "sat himself down again"}],
       "para": 17,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",

@@ -1,6 +1,6 @@
 {
   "_file": "Amenti-Readings/dracula/sound.json",
-  "_updated": "2026-10-03 05:00 UTC",
+  "_updated": "2026-10-03 07:00 UTC",
   "work": "dracula",
   "files": {
     "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals.",
@@ -14,10 +14,37 @@
     "oneshots": {
       "door_heavy": "door_heavy.mp3",
       "wolves_chorus": "wolves.mp3",
-      "wolf_near": "wolves.mp3"
+      "wolf_near": "wolves.mp3",
+      "steps_approach": "steps_approach.mp3",
+      "chains": "chains.mp3",
+      "bolts": "bolts.mp3",
+      "key_turn": "key_turn.mp3",
+      "step_threshold": "step_threshold.mp3",
+      "lamp_bracket": "lamp_bracket.mp3",
+      "luggage_lift": "luggage_lift.mp3",
+      "luggage_down": "luggage_down.mp3",
+      "stairs": "stairs.mp3",
+      "steps_stone": "steps_stone.mp3",
+      "door_open": "door_open.mp3",
+      "door_close": "door_close.mp3",
+      "fire_flare": "fire_flare.mp3",
+      "fire_roar": "fire_roar.mp3",
+      "letter": "letter.mp3",
+      "dish_cover": "dish_cover.mp3",
+      "wine": "wine.mp3",
+      "chair_draw": "chair_draw.mp3",
+      "match": "match.mp3",
+      "shudder": "shudder.mp3",
+      "chair_creak": "chair_creak.mp3"
     },
     "score": {
       "dread": "score-dread.mp3"
+    },
+    "under": {
+      "note": "MUSIC UNDER ONE LINE. piano_far: far away and airy, a few notes sprinkled, the odd soft chord — letters, memory, anything read rather than lived. piano_near: close and bold, full chords when the moment needs weight. Each use starts at a different seeded point in the minute-long piece.",
+      "piano_far": "piano-far.mp3",
+      "piano_near": "piano-near.mp3",
+      "piano_letter": "piano-far.mp3"
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",

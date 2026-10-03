@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/sound.js · 2026-10-03 05:00 UTC */
+/* Amenti-Readings/player/sound.js · 2026-10-03 07:00 UTC */
 /* ===========================================================================
    AMENTI READINGS · sound.js
    ---------------------------------------------------------------------------
@@ -30,6 +30,23 @@
    Ducking follows the reading, not the waveform: the bed sits down while
    cues are being read and comes back up on pause or at the end. There is no
    word timing to do better with.
+
+   ── SOUNDS INSIDE A LINE · added 3 Oct 2026 ──────────────────────────────
+   A cue's "sfx" entry is either a key (plays as the cue begins) or
+   { "key": "chains", "at": "rattling chains" } — played when the narrator
+   reaches those words. There are no word timings from the voice, so the
+   moment is ESTIMATED: the anchor's end position in the text divided by
+   the speaker's pace, counted from the cue's first sound (the engine's
+   amenti:voice-started). The pace starts at 15 characters a second
+   (probe20) and is re-measured after every cue, per speaker, so the
+   estimate tightens as the reading goes on. "offset" (seconds) nudges one.
+   Anchors that are not found in the text play at the first sound and warn.
+
+   ── MUSIC UNDER ONE LINE · added 3 Oct 2026 ──────────────────────────────
+   A cue may carry "under": "piano_far" (or "piano_near") — a looping piece (files.under)
+   that rises with the line's first sound and falls away when the line ends.
+   Made for letters read aloud. While it plays the chapter score steps back,
+   so two pieces of music never argue. In 1.5 s, out 2.5 s.
 
    ── THE SCORE · added 3 Oct 2026 ──────────────────────────────────────────
    A third layer beside the bed and the one-shots: the chapter's score cue
@@ -68,6 +85,7 @@
   var SFX_LEVEL = 0.7;
   var SCORE_LEVEL = 0.26;    /* the score against the voices, before ducking */
   var SCORE_DUCK  = 0.5;     /* music sits down less than the bed: it carries the scene */
+  var UNDER_LEVEL = 0.34;    /* a fill under one line: present, never over the voice */
   var PRIMES    = [37, 53, 71];
   var LAYER     = [          /* one recording, three loops: rate and start apart */
     { rate: 1.000, at: 0.00, gain: 0.60 },
@@ -89,6 +107,12 @@
     _scoreDuck: null,
     _buffers: {},
     _fired: -1,
+    _pending: null,          /* { i, cue, items } waiting for the cue's first sound */
+    _cueT0: null,            /* { i, t0, len, who } of the cue now sounding */
+    _cps: {},                /* measured characters per second, per speaker */
+    _queued: [],             /* scheduled one-shots not yet sounded */
+    _underNext: null,        /* "under" key waiting for its cue's first sound */
+    _under: null,            /* { key, gain, src } */
 
     ctx: function () {
       if (!S._ctx) {
@@ -292,6 +316,34 @@
       S._scoreCur = null; S.score = null;
     },
 
+    /* ── music under one line ─────────────────────────────────────────── */
+    startUnder: function (key, cueN) {
+      return S.buffer(S.url('under', key)).then(function (buf) {
+        if (!buf || S.state !== 'playing') return;
+        var ctx = S.ctx(), g = ctx.createGain(), src = ctx.createBufferSource();
+        src.buffer = buf; src.loop = true;
+        src.connect(g); g.connect(S._bus);
+        g.gain.value = 0.0001;
+        /* each use begins at a different, seeded point in the piece, so a
+           fill heard many times in a production is never heard the same way */
+        var off = seeded((R.sheet.work || '') + '|' + (R.sheet.episode || '') + '|' + cueN + '|' + key)() * buf.duration;
+        src.start(0, off);
+        S.fade(g.gain, UNDER_LEVEL, 1.5);
+        if (S._scoreCur) S.fade(S._scoreCur.gain.gain, SCORE_LEVEL * 0.3, 2.0);   /* the score steps back */
+        S._under = { key: key, gain: g, src: src };
+        console.log('Sound: under "' + key + '"');
+      });
+    },
+
+    endUnder: function (secs) {
+      var u = S._under;
+      if (!u) return;
+      S._under = null;
+      S.fade(u.gain.gain, 0, secs);
+      setTimeout(function () { try { u.src.stop(); u.gain.disconnect(); } catch (e) {} }, secs * 1000 + 200);
+      if (S._scoreCur) S.fade(S._scoreCur.gain.gain, SCORE_LEVEL, secs + 2);    /* and returns */
+    },
+
     /* both layers sit down while a cue is read, and come back on pause/end */
     duck: function (on) {
       if (on) { S.slide(S._duck.gain, DUCK_TO, 0.25); S.slide(S._scoreDuck.gain, SCORE_DUCK, 0.25); }
@@ -299,18 +351,63 @@
     },
 
     /* ── one-shots: no fade in, the attack IS the sound ────────────────── */
-    fire: function (key, cueN) {
+    fire: function (key, cueN, when, salt) {
       return S.buffer(S.url('oneshots', key)).then(function (buf) {
         if (!buf) return;
         var ctx = S.ctx(), src = ctx.createBufferSource(), g = ctx.createGain();
-        var rnd = seeded((R.sheet.work || '') + '|' + (R.sheet.episode || '') + '|' + cueN + '|' + key);
+        var at = (when && when > ctx.currentTime) ? when : 0;
+        var rnd = seeded((R.sheet.work || '') + '|' + (R.sheet.episode || '') + '|' + cueN + '|' + key + (salt ? '|' + salt : ''));
         src.buffer = buf;
         src.playbackRate.value = 1 + (rnd() * 2 - 1) * 0.04;
         if (src.detune) src.detune.value = (rnd() * 2 - 1) * 40;
         g.gain.value = SFX_LEVEL;
         src.connect(g); g.connect(S._bus);
-        src.start();
+        src.start(at);
+        if (at) {
+          var q = { src: src, at: at };
+          S._queued.push(q);
+          src.onended = function () { var k = S._queued.indexOf(q); if (k >= 0) S._queued.splice(k, 1); };
+        }
       });
+    },
+
+    /* scheduled one-shots that have not sounded yet are cancelled on pause,
+       stop, seek or skip — a door must not bang into a silence */
+    cancelQueued: function () {
+      var now = S._ctx ? S._ctx.currentTime : 0;
+      S._queued.forEach(function (q) { if (q.at > now) { try { q.src.stop(); } catch (e) {} } });
+      S._queued = [];
+    },
+
+    keyOf: function (e) { return typeof e === 'string' ? e : (e && e.key); },
+
+    cps: function (who) { return S._cps[who] || (S.sheet && S.sheet.chars_per_second) || 15; },
+
+    /* the cue has made its first sound: place its anchored one-shots */
+    voiceStarted: function () {
+      if (S._underNext && S.state === 'playing') { var uk = S._underNext; S._underNext = null; S.startUnder(uk, S._underCue); }
+      var p = S._pending;
+      if (!p || !S._ctx || S.state !== 'playing') return;
+      S._pending = null;
+      var t0 = S._ctx.currentTime + 0.05, text = String(p.cue.text || ''), who = p.who;
+      S._cueT0 = { i: p.i, t0: t0, len: text.length, who: who };
+      p.items.forEach(function (e) {
+        var idx = text.indexOf(e.at), secs = 0;
+        if (idx < 0) console.warn('Sound: anchor "' + e.at + '" not in cue ' + (p.i + 1) + ' — playing at its start.');
+        else secs = (idx + e.at.length) / S.cps(who);
+        S.fire(e.key, p.cue.n || p.i + 1, t0 + Math.max(0, secs + (e.offset || 0)), e.at);
+      });
+    },
+
+    /* the cue has ended: learn this speaker's pace from how long it took */
+    measure: function () {
+      var c = S._cueT0;
+      if (!c || !S._ctx) return;
+      S._cueT0 = null;
+      var d = S._ctx.currentTime - c.t0;
+      if (d < 1.5 || c.len < 40) return;                 /* too short to measure honestly */
+      var obs = Math.max(8, Math.min(25, c.len / d));
+      S._cps[c.who] = S._cps[c.who] ? 0.6 * S._cps[c.who] + 0.4 * obs : obs;
     },
 
     /* ── following the reader ──────────────────────────────────────────── */
@@ -325,7 +422,8 @@
            a door on cue 1 lands ahead of the voice rather than after it */
         var pre = [];
         (R.sheet.cues || []).forEach(function (c) {
-          (c.sfx || []).forEach(function (k) { pre.push(S.buffer(S.url('oneshots', k))); });
+          (c.sfx || []).forEach(function (e) { var k = S.keyOf(e); if (k) pre.push(S.buffer(S.url('oneshots', k))); });
+          if (c.under) pre.push(S.buffer(S.url('under', c.under)));
         });
         if (ch) pre.push(S.startBed(ch.bed, ch.state));
         if (ch) pre.push(S.startScore(ch.score || null));
@@ -334,10 +432,22 @@
     },
 
     onCue: function (cue, i) {
-      if (i === S._fired) return;           /* resume re-speaks; do not re-fire */
+      var again = (i === S._fired);         /* resume or retry re-speaks the same cue */
       S._fired = i;
-      if (cue.state != null) S.setState(cue.state);
-      (cue.sfx || []).forEach(function (k) { S.fire(k, cue.n || i + 1); });
+      if (again) S._cueT0 = null; else { S.measure(); if (cue.state != null) S.setState(cue.state); }
+      if (!again || !S._under) {
+        if (S._under && S._under.key !== cue.under) S.endUnder(2.5);
+        S._underNext = (cue.under && !(S._under && S._under.key === cue.under)) ? cue.under : null;
+        S._underCue = cue.n || i + 1;
+      }
+      var now = [], later = [];
+      (cue.sfx || []).forEach(function (e) {
+        if (typeof e === 'string') now.push(e);
+        else if (e && e.key && e.at) later.push(e);
+        else if (e && e.key) now.push(e.key);
+      });
+      if (!again) now.forEach(function (k) { S.fire(k, cue.n || i + 1); });
+      S._pending = later.length ? { i: i, cue: cue, items: later, who: cue.role || '' } : null;
     },
 
     off: function () {
@@ -345,6 +455,7 @@
       if (S._bus) S.fade(S._bus.gain, 0, 1.5);
       S.endBed(1.5);
       S.endScore(1.5);
+      S.endUnder(1.5); S._underNext = null;
     }
   };
 
@@ -387,6 +498,7 @@
     _next.apply(R, arguments);
     if (R.state === 'done') {
       S.duck(false);
+      S.endUnder(2.5);
       S.endBed(6);                          /* bed out: 6 s */
       S.endScore(8);                        /* score out: 8 s — after the bed */
       S.state = 'idle';
@@ -395,6 +507,7 @@
 
   R.pause = function () {
     _pause.apply(R, arguments);
+    S.cancelQueued(); S._cueT0 = null; S._underNext = null; S.endUnder(1.5);
     if (S.state === 'playing') { S.state = 'paused'; S.duck(false); }
   };
 
@@ -404,9 +517,20 @@
   };
 
   R.stop = function () {
+    S.cancelQueued(); S._pending = null; S._cueT0 = null;
     _stop.apply(R, arguments);
     if (S.state === 'playing' || S.state === 'paused') S.off();
   };
+
+  /* a jump in the cue sheet takes the previous cue's waiting sounds with it */
+  ['seek', 'skip'].forEach(function (name) {
+    var orig = R[name];
+    if (typeof orig !== 'function') return;
+    R[name] = function () { S.cancelQueued(); S._pending = null; S._cueT0 = null; return orig.apply(R, arguments); };
+  });
+
+  /* the engine announces each line's first sound; anchored one-shots are placed from it */
+  try { window.addEventListener('amenti:voice-started', function () { S.voiceStarted(); }); } catch (e) {}
 
   Amenti.sound = S;
 

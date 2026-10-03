@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/sound.js · 2026-10-02 06:20 UTC */
+/* Amenti-Readings/player/sound.js · 2026-10-03 05:00 UTC */
 /* ===========================================================================
    AMENTI READINGS · sound.js
    ---------------------------------------------------------------------------
@@ -31,6 +31,16 @@
    cues are being read and comes back up on pause or at the end. There is no
    word timing to do better with.
 
+   ── THE SCORE · added 3 Oct 2026 ──────────────────────────────────────────
+   A third layer beside the bed and the one-shots: the chapter's score cue
+   ("score" in sound.json chapters, file from files.score). ONE source, looped
+   at its own rate — music is never rate-shifted the way the bed is, because
+   that would detune it. Its own gain and its own duck, on the same bus and
+   the same clock. Envelopes from sound.json: in 6 s, out 8 s, crossfade 10 s
+   equal-power — always longer than the bed's, so when both change the bed
+   leads and the score follows. A chapter with "score": null (chapter 12)
+   gets silence, not a quieter cue.
+
    ── VARIATION IS SEEDED ───────────────────────────────────────────────────
    Detune ±40 cents and playbackRate ±4 %, seeded from work + episode + cue
    + sound. An episode sounds identical on every listen.
@@ -56,6 +66,8 @@
   var BED_LEVEL = 0.32;      /* bed against the voices, before ducking */
   var DUCK_TO   = 0.45;      /* fraction of the bed left while a cue is read */
   var SFX_LEVEL = 0.7;
+  var SCORE_LEVEL = 0.26;    /* the score against the voices, before ducking */
+  var SCORE_DUCK  = 0.5;     /* music sits down less than the bed: it carries the scene */
   var PRIMES    = [37, 53, 71];
   var LAYER     = [          /* one recording, three loops: rate and start apart */
     { rate: 1.000, at: 0.00, gain: 0.60 },
@@ -72,6 +84,9 @@
     _path: null,
     _ctx: null, _bus: null, _duck: null,
     _cur: null,              /* { key, gain, srcs } */
+    score: null,             /* score key now playing */
+    _scoreCur: null,         /* { key, gain, src } */
+    _scoreDuck: null,
     _buffers: {},
     _fired: -1,
 
@@ -81,6 +96,8 @@
         S._bus = S._ctx.createGain();
         S._duck = S._ctx.createGain();
         S._duck.connect(S._bus);
+        S._scoreDuck = S._ctx.createGain();
+        S._scoreDuck.connect(S._bus);
         S._bus.connect(S._ctx.destination);
       }
       if (S._ctx.state === 'suspended') { try { S._ctx.resume(); } catch (e) {} }
@@ -241,6 +258,46 @@
       S._cur = null; S.bed = null;
     },
 
+    /* ── the score ─────────────────────────────────────────────────────── */
+    startScore: function (key) {
+      if (!key) { if (S._scoreCur) S.endScore(8); return Promise.resolve(); }
+      if (S._scoreCur && S._scoreCur.key === key) return Promise.resolve();
+      return S.buffer(S.url('score', key)).then(function (buf) {
+        if (!buf) return;
+        var ctx = S.ctx(), g = ctx.createGain(), src = ctx.createBufferSource();
+        src.buffer = buf; src.loop = true;
+        src.connect(g); g.connect(S._scoreDuck);
+        g.gain.value = 0;
+        src.start(0);
+        var old = S._scoreCur;
+        if (old) {                            /* 10 s equal-power crossfade */
+          S.curve(old.gain.gain, old.gain.gain.value, 0, 10, false);
+          S.curve(g.gain, 0, SCORE_LEVEL, 10, true);
+          setTimeout(function () { try { old.src.stop(); old.gain.disconnect(); } catch (e) {} }, 10200);
+        } else {
+          g.gain.value = 0.0001;
+          S.fade(g.gain, SCORE_LEVEL, 6);     /* score in: 6 s */
+        }
+        S._scoreCur = { key: key, gain: g, src: src };
+        S.score = key;
+        console.log('Sound: score "' + key + '"');
+      });
+    },
+
+    endScore: function (secs) {
+      var c = S._scoreCur;
+      if (!c) return;
+      S.fade(c.gain.gain, 0, secs);
+      setTimeout(function () { try { c.src.stop(); c.gain.disconnect(); } catch (e) {} }, secs * 1000 + 200);
+      S._scoreCur = null; S.score = null;
+    },
+
+    /* both layers sit down while a cue is read, and come back on pause/end */
+    duck: function (on) {
+      if (on) { S.slide(S._duck.gain, DUCK_TO, 0.25); S.slide(S._scoreDuck.gain, SCORE_DUCK, 0.25); }
+      else    { S.slide(S._duck.gain, 1, 1.2);        S.slide(S._scoreDuck.gain, 1, 1.2); }
+    },
+
     /* ── one-shots: no fade in, the attack IS the sound ────────────────── */
     fire: function (key, cueN) {
       return S.buffer(S.url('oneshots', key)).then(function (buf) {
@@ -261,7 +318,7 @@
       S._fired = -1;
       S.ctx();
       S.fade(S._bus.gain, 1, 0.05);
-      S.slide(S._duck.gain, DUCK_TO, 0.25);
+      S.duck(true);
       return S.prepare().then(function (ch) {
         S.state = 'playing';
         /* every one-shot the sheet uses is fetched before the first cue, so
@@ -271,6 +328,7 @@
           (c.sfx || []).forEach(function (k) { pre.push(S.buffer(S.url('oneshots', k))); });
         });
         if (ch) pre.push(S.startBed(ch.bed, ch.state));
+        if (ch) pre.push(S.startScore(ch.score || null));
         return Promise.all(pre);
       });
     },
@@ -286,6 +344,7 @@
       S.state = 'off';
       if (S._bus) S.fade(S._bus.gain, 0, 1.5);
       S.endBed(1.5);
+      S.endScore(1.5);
     }
   };
 
@@ -327,19 +386,20 @@
     if (R.state === 'reading' && cues && R.i < cues.length) S.onCue(cues[R.i], R.i);
     _next.apply(R, arguments);
     if (R.state === 'done') {
-      S.slide(S._duck.gain, 1, 1.2);
+      S.duck(false);
       S.endBed(6);                          /* bed out: 6 s */
+      S.endScore(8);                        /* score out: 8 s — after the bed */
       S.state = 'idle';
     }
   };
 
   R.pause = function () {
     _pause.apply(R, arguments);
-    if (S.state === 'playing') { S.state = 'paused'; S.slide(S._duck.gain, 1, 1.2); }
+    if (S.state === 'playing') { S.state = 'paused'; S.duck(false); }
   };
 
   R.resume = function () {
-    if (S.state === 'paused') { S.state = 'playing'; S.slide(S._duck.gain, DUCK_TO, 0.25); }
+    if (S.state === 'paused') { S.state = 'playing'; S.duck(true); }
     _resume.apply(R, arguments);
   };
 

@@ -1,3 +1,4 @@
+/* Amenti-Readings/player/reader.js · 2026-10-03 04:00 UTC */
 /* ===========================================================================
    AMENTI READINGS · reader.js
    ---------------------------------------------------------------------------
@@ -44,7 +45,7 @@
    defensive guard failed silently and nothing could look at it. So this file
    publishes what it is doing:
 
-     Amenti.reading.state   idle | loading | reading | paused | done | error
+     Amenti.reading.state   idle | loading | reading | paused | stalled | done | error
      Amenti.reading.path    'throttle' when the engine is live, 'none' when not
      Amenti.reading.cue     the cue now speaking
 
@@ -68,6 +69,25 @@
     i: 0,
     onCue: null,     /* host page may set this: fn(cue, index, total) */
     onEnd: null,
+    onError: null,   /* host page may set this: fn(error) — a cue that would not render */
+    error: null,     /* { cue, role, why } while state is 'stalled' */
+
+    /* ── THE NEXT LINE IS READY BEFORE IT IS NEEDED · 3 OCT 2026 ─────────────
+       The first play of episode one had 6–12 seconds of silence between every
+       cue: each line was only requested once the last had finished, and a
+       render takes ~7 s. Now, as a cue starts, the next WARM_AHEAD cues are
+       fetched through the engine's warm(), which sends exactly what speak()
+       will send — same text, same voice, same style — so the gap becomes the
+       render time of nothing. The text is still passed through unchanged.
+
+       AND A LINE THAT WILL NOT RENDER NO LONGER STOPS THE SHOW IN SILENCE.
+       The engine now reports failure (onFail). The cue is retried once; if it
+       fails again the reading stops, says which cue, and offers Retry / Skip.
+       state is 'stalled' while that notice is up. */
+    WARM_AHEAD: 2,
+    _tries: 0,
+    _warmed: {},
+    _noWarmSaid: false,
 
     /* ── the engine, or an honest refusal ──────────────────────────────── */
     engine: function () {
@@ -181,9 +201,32 @@
           throw new Error('cue sheet has no cues');
         }
         R.i = 0;
+        R._tries = 0;
+        R._warmed = {};
+        R.error = null;
+        R._hideNotice();
         R.state = 'reading';
         R._next();
       });
+    },
+
+    _warmAhead: function () {
+      var eng = R.engine(), cues = R.sheet && R.sheet.cues;
+      if (!eng || !cues) return;
+      if (typeof eng.warm !== 'function') {
+        if (!R._noWarmSaid) {
+          R._noWarmSaid = true;
+          console.warn('Readings: the engine has no warm() — each cue will render only when ' +
+                       'it is reached, with a render wait between lines. Update amenti-core.bundle.js.');
+        }
+        return;
+      }
+      for (var j = 1; j <= R.WARM_AHEAD; j++) {
+        var k = R.i + j, c = cues[k];
+        if (!c || R._warmed[k]) continue;
+        R._warmed[k] = true;
+        try { eng.warm(c.text, R.nameFor(c)); } catch (e) {}
+      }
     },
 
     _next: function () {
@@ -205,10 +248,72 @@
          Not trimmed, not normalised, not re-wrapped. chunkText is
          deterministic and the cache key contains the text, so touching it
          here orphans every measure this cue has ever rendered. */
+      var at = R.i;
       R.engine().speak(cue.text, null, name, function () {
+        if (R.i !== at) return;
+        R._tries = 0;
         R.i += 1;
         R._next();
+      }, function (why) {
+        if (R.i !== at || R.state !== 'reading') return;
+        if (R._tries < 1) {
+          R._tries += 1;
+          console.warn('Readings: cue ' + (at + 1) + ' did not render (' + why + ') — retrying once.');
+          R._next();
+          return;
+        }
+        R.state = 'stalled';
+        R.error = { cue: at + 1, role: cue.role || name, why: why };
+        console.error('Readings: cue ' + (at + 1) + ' (' + R.error.role + ') would not render twice — ' +
+                      why + '. The reading is stopped here, not skipped silently.');
+        R._showNotice();
+        if (typeof R.onError === 'function') { try { R.onError(R.error); } catch (e) {} }
       });
+      R._warmAhead();
+    },
+
+    retry: function () {
+      if (R.state !== 'stalled') return;
+      R._hideNotice(); R.error = null; R._tries = 0;
+      R.state = 'reading';
+      R._next();
+    },
+
+    skip: function () {
+      if (R.state !== 'stalled') return;
+      R._hideNotice(); R.error = null; R._tries = 0;
+      R.i += 1;
+      R.state = 'reading';
+      R._next();
+    },
+
+    /* the one piece of UI the reader owns: a quiet notice when a line fails */
+    _showNotice: function () {
+      R._hideNotice();
+      if (!document.body) return;
+      var d = document.createElement('div');
+      d.id = 'amenti-reading-notice';
+      d.setAttribute('role', 'alert');
+      d.style.cssText = 'position:fixed;left:50%;bottom:24px;transform:translateX(-50%);z-index:2147483000;' +
+        'background:rgba(12,10,8,.92);color:#e9e2d0;border:1px solid rgba(212,160,23,.5);' +
+        'font:14px/1.4 Georgia,serif;padding:10px 14px;border-radius:4px;display:flex;gap:12px;align-items:center;' +
+        'box-shadow:0 6px 24px rgba(0,0,0,.5);max-width:90vw';
+      var t = document.createElement('span');
+      t.textContent = 'Line ' + R.error.cue + ' (' + R.error.role + ') did not come through.';
+      d.appendChild(t);
+      [['Retry', R.retry], ['Skip', R.skip]].forEach(function (b) {
+        var x = document.createElement('button');
+        x.type = 'button'; x.textContent = b[0];
+        x.style.cssText = 'background:none;border:1px solid rgba(212,160,23,.6);color:#d4a017;' +
+          'font:inherit;padding:3px 10px;border-radius:3px;cursor:pointer';
+        x.onclick = b[1];
+        d.appendChild(x);
+      });
+      document.body.appendChild(d);
+    },
+    _hideNotice: function () {
+      var d = document.getElementById('amenti-reading-notice');
+      if (d && d.parentNode) d.parentNode.removeChild(d);
     },
 
     pause: function () {
@@ -224,6 +329,7 @@
     },
 
     stop: function () {
+      R._hideNotice(); R.error = null; R._tries = 0;
       R.state = 'idle'; R.cue = null; R.i = 0;
       var e = R.engine(); if (e) e.stop();
     },
@@ -233,8 +339,9 @@
       var i = Math.max(0, Math.min((R.sheet.cues || []).length - 1, (n | 0) - 1));
       var was = R.state;
       var e = R.engine(); if (e) e.stop();
+      R._hideNotice(); R.error = null; R._tries = 0;
       R.i = i;
-      if (was === 'reading') { R.state = 'reading'; R._next(); }
+      if (was === 'reading' || was === 'stalled') { R.state = 'reading'; R._next(); }
     }
   };
 

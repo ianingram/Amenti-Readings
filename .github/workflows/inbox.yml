@@ -1,0 +1,93 @@
+# .github/workflows/inbox.yml
+#
+# THE INBOX. Upload ONE zip into inbox/ and this unpacks it into the repo,
+# every file at the path it carries, then removes the zip — one commit.
+#
+# The zip is built with paths relative to the REPO ROOT, e.g.
+#   player/sound.js
+#   dracula/ep01.json
+#   dracula/sound/door_heavy.mp3
+#
+# REFUSES, and changes nothing, if any path in the zip is absolute, climbs out
+# with "..", or reaches into .github/ or inbox/ — a zip can deliver content,
+# never change the machinery. macOS clutter (__MACOSX, .DS_Store) is skipped,
+# and a zip made by compressing a FOLDER in Finder has that wrapper stripped.
+#
+# The run's log lists every file it placed. A failed run leaves the repo
+# exactly as it was, zip included, so nothing is half-delivered.
+name: inbox
+
+on:
+  push:
+    branches: [main]
+    paths: ['inbox/*.zip']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: inbox
+  cancel-in-progress: false
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check every zip before touching anything
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          zips=(inbox/*.zip)
+          if [ ${#zips[@]} -eq 0 ]; then echo "No zip in inbox/ — nothing to do."; exit 0; fi
+          for z in "${zips[@]}"; do
+            echo "── $z"
+            unzip -Z1 "$z" | grep -v -E '(^|/)__MACOSX/|(^|/)\.DS_Store$|/$' > "$z.list" || true
+            # A zip made by right-clicking a FOLDER in Finder wraps everything in
+            # that folder's name. If every file sits under one top folder that is
+            # not a real folder in this repo, that wrapper is stripped.
+            top=$(cut -d/ -f1 "$z.list" | sort -u)
+            prefix=""
+            if [ "$(echo "$top" | wc -l)" -eq 1 ] && grep -q / "$z.list" && [ ! -e "$top" ]; then
+              prefix="$top/"
+              echo "   (stripping wrapper folder: $prefix)"
+              sed -i "s#^$prefix##" "$z.list"
+            fi
+            echo "$prefix" > "$z.prefix"
+            if grep -n -E '^/|(^|/)\.\.(/|$)|^\.github/|^inbox/' "$z.list"; then
+              echo "::error::$z contains a path outside what the inbox may write. Nothing was changed."
+              exit 1
+            fi
+            sed 's/^/   will place: /' "$z.list"
+          done
+
+      - name: Unpack and remove the zips
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          names=""
+          for z in inbox/*.zip; do
+            prefix=$(cat "$z.prefix")
+            tmp=$(mktemp -d)
+            unzip -o -qq "$z" -d "$tmp"
+            find "$tmp" -name __MACOSX -prune -exec rm -rf {} +; find "$tmp" -name .DS_Store -delete
+            cp -a "$tmp/${prefix}." ./
+            rm -rf "$tmp"
+            echo "placed $(wc -l < "$z.list") files from $z"
+            names="$names $(basename "$z")"
+            rm -f "$z.list" "$z.prefix"
+            git rm -q "$z"
+          done
+          echo "NAMES=${names# }" >> "$GITHUB_ENV"
+
+      - name: Commit
+        run: |
+          set -euo pipefail
+          git config user.name  "inbox"
+          git config user.email "inbox@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Nothing changed."; exit 0; fi
+          git diff --cached --stat
+          git commit -q -m "inbox: unpack ${NAMES}"
+          git push

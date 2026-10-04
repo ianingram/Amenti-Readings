@@ -1,0 +1,791 @@
+{
+ "work": "treasure-island",
+ "episode": 6,
+ "chapter": 6,
+ "title": "The Captain’s Papers",
+ "document": "PART ONE · CHAPTER VI",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch06.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Billy Bones",
+   "cast_as": "Ernest Shackleton"
+  },
+  {
+   "role": "Blind Pew",
+   "cast_as": "Alfred Hitchcock"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER VI"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "THE CAPTAIN’S PAPERS"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "We rode hard all the way till we drew up before Dr. Livesey’s door. The\nhouse was all dark to the front."
+  },
+  {
+   "n": 4,
+   "sfx": [
+    {
+     "key": "stick_rap",
+     "at": "Mr. Dance told me to jump down and knock"
+    }
+   ],
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Mr. Dance told me to jump down and knock, and Dogger gave me a stirrup\nto descend by. The door was opened almost at once by the maid."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Is Dr. Livesey in?” I asked."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "No, she said, he had come home in the afternoon but had gone up to the\nhall to dine and pass the evening with the squire."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“So there we go, boys,” said Mr. Dance."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "This time, as the distance was short, I did not mount, but ran with\nDogger’s stirrup-leather to the lodge gates and up the long, leafless,\nmoonlit avenue to where the white line of the hall buildings looked on\neither hand on great old gardens. Here Mr. Dance dismounted, and taking\nme along with him, was admitted at a word into the house."
+  },
+  {
+   "n": 9,
+   "bed": "inn",
+   "para": 8,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The servant led us down a matted passage and showed us at the end into a\ngreat library, all lined with bookcases and busts upon the top of them,\nwhere the squire and Dr. Livesey sat, pipe in hand, on either side of a\nbright fire."
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I had never seen the squire so near at hand. He was a tall man, over six\nfeet high, and broad in proportion, and he had a bluff, rough-and-ready\nface, all roughened and reddened and lined in his long travels. His\neyebrows were very black, and moved readily, and this gave him a look of\nsome temper, not bad, you would say, but quick and high."
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Come in, Mr. Dance,”"
+  },
+  {
+   "n": 12,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "says he, very stately and condescending."
+  },
+  {
+   "n": 13,
+   "para": 11,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Good evening, Dance,”"
+  },
+  {
+   "n": 14,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "says the doctor with a nod."
+  },
+  {
+   "n": 15,
+   "para": 11,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“And good evening to\nyou, friend Jim. What good wind brings you here?”"
+  },
+  {
+   "n": 16,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The supervisor stood up straight and stiff and told his story like a\nlesson; and you should have seen how the two gentlemen leaned forward\nand looked at each other, and forgot to smoke in their surprise and\ninterest. When they heard how my mother went back to the inn, Dr.\nLivesey fairly slapped his thigh, and the squire cried"
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Bravo!”"
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "and\nbroke his long pipe against the grate. Long before it was done, Mr.\nTrelawney (that, you will remember, was the squire’s name) had got up\nfrom his seat and was striding about the room, and the doctor, as if to\nhear the better, had taken off his powdered wig and sat there looking\nvery strange indeed with his own close-cropped black poll."
+  },
+  {
+   "n": 19,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At last Mr. Dance finished the story."
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Mr. Dance,”"
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the squire,"
+  },
+  {
+   "n": 22,
+   "para": 14,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“you are a very noble fellow. And as for\nriding down that black, atrocious miscreant, I regard it as an act of\nvirtue, sir, like stamping on a cockroach. This lad Hawkins is a trump,\nI perceive. Hawkins, will you ring that bell? Mr. Dance must have some\nale.”"
+  },
+  {
+   "n": 23,
+   "para": 15,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“And so, Jim,”"
+  },
+  {
+   "n": 24,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor,"
+  },
+  {
+   "n": 25,
+   "para": 15,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“you have the thing that they were\nafter, have you?”"
+  },
+  {
+   "n": 26,
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Here it is, sir,” said I, and gave him the oilskin packet."
+  },
+  {
+   "n": 27,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The doctor looked it all over, as if his fingers were itching to open\nit; but instead of doing that, he put it quietly in the pocket of his\ncoat."
+  },
+  {
+   "n": 28,
+   "para": 18,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Squire,”"
+  },
+  {
+   "n": 29,
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said he,"
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“when Dance has had his ale he must, of course, be\noff on his Majesty’s service; but I mean to keep Jim Hawkins here to\nsleep at my house, and with your permission, I propose we should have up\nthe cold pie and let him sup.”"
+  },
+  {
+   "n": 31,
+   "para": 19,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“As you will, Livesey,”"
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the squire;"
+  },
+  {
+   "n": 33,
+   "para": 19,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Hawkins has earned better than\ncold pie.”"
+  },
+  {
+   "n": 34,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "So a big pigeon pie was brought in and put on a sidetable, and I made\na hearty supper, for I was as hungry as a hawk, while Mr. Dance was\nfurther complimented and at last dismissed."
+  },
+  {
+   "n": 35,
+   "para": 21,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“And now, squire,”"
+  },
+  {
+   "n": 36,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor."
+  },
+  {
+   "n": 37,
+   "para": 22,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“And now, Livesey,”"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the squire in the same breath."
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“One at a time, one at a time,”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "laughed Dr. Livesey."
+  },
+  {
+   "n": 41,
+   "para": 23,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“You have heard of\nthis Flint, I suppose?”"
+  },
+  {
+   "n": 42,
+   "para": 24,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Heard of him!”"
+  },
+  {
+   "n": 43,
+   "para": 24,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire."
+  },
+  {
+   "n": 44,
+   "para": 24,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Heard of him, you say! He was the\nbloodthirstiest buccaneer that sailed. Blackbeard was a child to Flint.\nThe Spaniards were so prodigiously afraid of him that, I tell you, sir,\nI was sometimes proud he was an Englishman. I’ve seen his top-sails with\nthese eyes, off Trinidad, and the cowardly son of a rum-puncheon that I\nsailed with put back--put back, sir, into Port of Spain.”"
+  },
+  {
+   "n": 45,
+   "para": 25,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Well, I’ve heard of him myself, in England,”"
+  },
+  {
+   "n": 46,
+   "para": 25,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor."
+  },
+  {
+   "n": 47,
+   "para": 25,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“But the\npoint is, had he money?”"
+  },
+  {
+   "n": 48,
+   "para": 26,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Money!”"
+  },
+  {
+   "n": 49,
+   "para": 26,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire."
+  },
+  {
+   "n": 50,
+   "para": 26,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Have you heard the story? What were these\nvillains after but money? What do they care for but money? For what\nwould they risk their rascal carcasses but money?”"
+  },
+  {
+   "n": 51,
+   "para": 27,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“That we shall soon know,”"
+  },
+  {
+   "n": 52,
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "replied the doctor."
+  },
+  {
+   "n": 53,
+   "para": 27,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“But you are so\nconfoundedly hot-headed and exclamatory that I cannot get a word in.\nWhat I want to know is this: Supposing that I have here in my pocket\nsome clue to where Flint buried his treasure, will that treasure amount\nto much?”"
+  },
+  {
+   "n": 54,
+   "para": 28,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Amount, sir!”"
+  },
+  {
+   "n": 55,
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire."
+  },
+  {
+   "n": 56,
+   "para": 28,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“It will amount to this: If we have the\nclue you talk about, I fit out a ship in Bristol dock, and take you and\nHawkins here along, and I’ll have that treasure if I search a year.”"
+  },
+  {
+   "n": 57,
+   "para": 29,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Very well,”"
+  },
+  {
+   "n": 58,
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor."
+  },
+  {
+   "n": 59,
+   "sfx": [
+    {
+     "key": "letter",
+     "at": "we’ll open the packet"
+    }
+   ],
+   "para": 29,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Now, then, if Jim is agreeable, we’ll\nopen the packet”"
+  },
+  {
+   "n": 60,
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "; and he laid it before him on the table."
+  },
+  {
+   "n": 61,
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The bundle was sewn together, and the doctor had to get out his\ninstrument case and cut the stitches with his medical scissors. It\ncontained two things--a book and a sealed paper."
+  },
+  {
+   "n": 62,
+   "para": 31,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“First of all we’ll try the book,”"
+  },
+  {
+   "n": 63,
+   "para": 31,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "observed the doctor."
+  },
+  {
+   "n": 64,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The squire and I were both peering over his shoulder as he opened\nit, for Dr. Livesey had kindly motioned me to come round from the\nside-table, where I had been eating, to enjoy the sport of the search.\nOn the first page there were only some scraps of writing, such as a man\nwith a pen in his hand might make for idleness or practice. One was the\nsame as the tattoo mark, “Billy Bones his fancy”; then there was “Mr. W.\nBones, mate,” “No more rum,” “Off Palm Key he got itt,” and some other\nsnatches, mostly single words and unintelligible. I could not help\nwondering who it was that had “got itt,” and what “itt” was that he got.\nA knife in his back as like as not."
+  },
+  {
+   "n": 65,
+   "para": 33,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Not much instruction there,”"
+  },
+  {
+   "n": 66,
+   "para": 33,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Dr. Livesey as he passed on."
+  },
+  {
+   "n": 67,
+   "para": 34,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The next ten or twelve pages were filled with a curious series of\nentries. There was a date at one end of the line and at the other a\nsum of money, as in common account-books, but instead of explanatory\nwriting, only a varying number of crosses between the two. On the 12th\nof June, 1745, for instance, a sum of seventy pounds had plainly become\ndue to someone, and there was nothing but six crosses to explain the\ncause. In a few cases, to be sure, the name of a place would be added,\nas “Offe Caraccas,” or a mere entry of latitude and longitude, as “62o\n17′ 20″, 19o 2′ 40″.”"
+  },
+  {
+   "n": 68,
+   "para": 35,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The record lasted over nearly twenty years, the amount of the separate\nentries growing larger as time went on, and at the end a grand total\nhad been made out after five or six wrong additions, and these words\nappended, “Bones, his pile.”"
+  },
+  {
+   "n": 69,
+   "para": 36,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“I can’t make head or tail of this,”"
+  },
+  {
+   "n": 70,
+   "para": 36,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Dr. Livesey."
+  },
+  {
+   "n": 71,
+   "para": 37,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“The thing is as clear as noonday,”"
+  },
+  {
+   "n": 72,
+   "para": 37,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire."
+  },
+  {
+   "n": 73,
+   "para": 37,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“This is the\nblack-hearted hound’s account-book. These crosses stand for the names of\nships or towns that they sank or plundered. The sums are the scoundrel’s\nshare, and where he feared an ambiguity, you see he added something\nclearer. ‘Offe Caraccas,’ now; you see, here was some unhappy vessel\nboarded off that coast. God help the poor souls that manned her--coral\nlong ago.”"
+  },
+  {
+   "n": 74,
+   "para": 38,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Right!”"
+  },
+  {
+   "n": 75,
+   "para": 38,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor."
+  },
+  {
+   "n": 76,
+   "para": 38,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“See what it is to be a traveller. Right! And\nthe amounts increase, you see, as he rose in rank.”"
+  },
+  {
+   "n": 77,
+   "para": 39,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "There was little else in the volume but a few bearings of places noted\nin the blank leaves towards the end and a table for reducing French,\nEnglish, and Spanish moneys to a common value."
+  },
+  {
+   "n": 78,
+   "para": 40,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Thrifty man!”"
+  },
+  {
+   "n": 79,
+   "para": 40,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the doctor."
+  },
+  {
+   "n": 80,
+   "para": 40,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“He wasn’t the one to be cheated.”"
+  },
+  {
+   "n": 81,
+   "para": 41,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“And now,”"
+  },
+  {
+   "n": 82,
+   "para": 41,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the squire,"
+  },
+  {
+   "n": 83,
+   "para": 41,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“for the other.”"
+  },
+  {
+   "n": 84,
+   "para": 42,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The paper had been sealed in several places with a thimble by way of\nseal; the very thimble, perhaps, that I had found in the captain’s\npocket. The doctor opened the seals with great care, and there fell out\nthe map of an island, with latitude and longitude, soundings, names of\nhills and bays and inlets, and every particular that would be needed\nto bring a ship to a safe anchorage upon its shores. It was about nine\nmiles long and five across, shaped, you might say, like a fat dragon\nstanding up, and had two fine land-locked harbours, and a hill in the\ncentre part marked “The Spy-glass.” There were several additions of a\nlater date, but above all, three crosses of red ink--two on the north\npart of the island, one in the southwest--and beside this last, in\nthe same red ink, and in a small, neat hand, very different from the\ncaptain’s tottery characters, these words: “Bulk of treasure here.”"
+  },
+  {
+   "n": 85,
+   "para": 43,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Over on the back the same hand had written this further information:"
+  },
+  {
+   "n": 86,
+   "para": 44,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Tall tree, Spy-glass shoulder, bearing a point to\n     the N. of N.N.E."
+  },
+  {
+   "n": 87,
+   "para": 45,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Skeleton Island E.S.E. and by E."
+  },
+  {
+   "n": 88,
+   "para": 46,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Ten feet."
+  },
+  {
+   "n": 89,
+   "para": 47,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The bar silver is in the north cache; you can find\n     it by the trend of the east hummock, ten fathoms\n     south of the black crag with the face on it."
+  },
+  {
+   "n": 90,
+   "para": 48,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The arms are easy found, in the sand-hill, N.\n     point of north inlet cape, bearing E. and a\n     quarter N.\n     J.F."
+  },
+  {
+   "n": 91,
+   "para": 49,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "That was all; but brief as it was, and to me incomprehensible, it filled\nthe squire and Dr. Livesey with delight."
+  },
+  {
+   "n": 92,
+   "para": 50,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Livesey,”"
+  },
+  {
+   "n": 93,
+   "para": 50,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the squire,"
+  },
+  {
+   "n": 94,
+   "para": 50,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“you will give up this wretched practice\nat once. Tomorrow I start for Bristol. In three weeks’ time--three\nweeks!--two weeks--ten days--we’ll have the best ship, sir, and the\nchoicest crew in England. Hawkins shall come as cabin-boy. You’ll make\na famous cabin-boy, Hawkins. You, Livesey, are ship’s doctor; I am\nadmiral. We’ll take Redruth, Joyce, and Hunter. We’ll have favourable\nwinds, a quick passage, and not the least difficulty in finding the\nspot, and money to eat, to roll in, to play duck and drake with ever\nafter.”"
+  },
+  {
+   "n": 95,
+   "para": 51,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Trelawney,”"
+  },
+  {
+   "n": 96,
+   "para": 51,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor,"
+  },
+  {
+   "n": 97,
+   "para": 51,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“I’ll go with you; and I’ll go bail for\nit, so will Jim, and be a credit to the undertaking. There’s only one\nman I’m afraid of.”"
+  },
+  {
+   "n": 98,
+   "para": 52,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“And who’s that?”"
+  },
+  {
+   "n": 99,
+   "para": 52,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire."
+  },
+  {
+   "n": 100,
+   "para": 52,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Name the dog, sir!”"
+  },
+  {
+   "n": 101,
+   "para": 53,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“You,”"
+  },
+  {
+   "n": 102,
+   "para": 53,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "replied the doctor;"
+  },
+  {
+   "n": 103,
+   "para": 53,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“for you cannot hold your tongue. We are not\nthe only men who know of this paper. These fellows who attacked the\ninn tonight--bold, desperate blades, for sure--and the rest who stayed\naboard that lugger, and more, I dare say, not far off, are, one and all,\nthrough thick and thin, bound that they’ll get that money. We must none\nof us go alone till we get to sea. Jim and I shall stick together in the\nmeanwhile; you’ll take Joyce and Hunter when you ride to Bristol, and\nfrom first to last, not one of us must breathe a word of what we’ve\nfound.”"
+  },
+  {
+   "n": 104,
+   "para": 54,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Livesey,”"
+  },
+  {
+   "n": 105,
+   "para": 54,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned the squire,"
+  },
+  {
+   "n": 106,
+   "para": 54,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“you are always in the right of it. I’ll\nbe as silent as the grave.”"
+  }
+ ]
+}

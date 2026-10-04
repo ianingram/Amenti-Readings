@@ -1,0 +1,508 @@
+{
+ "work": "treasure-island",
+ "episode": 5,
+ "chapter": 5,
+ "title": "The Last of the Blind Man",
+ "document": "PART ONE · CHAPTER V",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch05.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Billy Bones",
+   "cast_as": "Ernest Shackleton"
+  },
+  {
+   "role": "Blind Pew",
+   "cast_as": "Alfred Hitchcock"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER V"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "THE LAST OF THE BLIND MAN"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "My curiosity, in a sense, was stronger than my fear, for I could not\nremain where I was, but crept back to the bank again, whence, sheltering\nmy head behind a bush of broom, I might command the road before our\ndoor. I was scarcely in position ere my enemies began to arrive, seven\nor eight of them, running hard, their feet beating out of time along\nthe road and the man with the lantern some paces in front. Three men ran\ntogether, hand in hand; and I made out, even through the mist, that the\nmiddle man of this trio was the blind beggar. The next moment his voice\nshowed me that I was right."
+  },
+  {
+   "n": 4,
+   "sfx": [
+    {
+     "key": "door_crash",
+     "at": "Down with the door!"
+    }
+   ],
+   "para": 3,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“Down with the door!”"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he cried."
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Aye, aye, sir!” answered two or three; and a rush was made upon the\nAdmiral Benbow, the lantern-bearer following; and then I could see\nthem pause, and hear speeches passed in a lower key, as if they were\nsurprised to find the door open. But the pause was brief, for the blind\nman again issued his commands. His voice sounded louder and higher, as\nif he were afire with eagerness and rage."
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“In, in, in!”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he shouted, and cursed them for their delay."
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Four or five of them obeyed at once, two remaining on the road with the\nformidable beggar. There was a pause, then a cry of surprise, and then a\nvoice shouting from the house, “Bill’s dead.”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "But the blind man swore at them again for their delay."
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“Search him, some of you shirking lubbers, and the rest of you aloft and\nget the chest,”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he cried."
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I could hear their feet rattling up our old stairs, so that the\nhouse must have shook with it. Promptly afterwards, fresh sounds of\nastonishment arose; the window of the captain’s room was thrown open\nwith a slam and a jingle of broken glass, and a man leaned out into the\nmoonlight, head and shoulders, and addressed the blind beggar on the\nroad below him."
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Pew,” he cried, “they’ve been before us. Someone’s turned the chest out\nalow and aloft.”"
+  },
+  {
+   "n": 15,
+   "para": 11,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“Is it there?”"
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "roared Pew."
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“The money’s there.”"
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The blind man cursed the money."
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“Flint’s fist, I mean,”"
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he cried."
+  },
+  {
+   "n": 21,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“We don’t see it here nohow,” returned the man."
+  },
+  {
+   "n": 22,
+   "para": 16,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“Here, you below there, is it on Bill?”"
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the blind man again."
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At that another fellow, probably him who had remained below to search\nthe captain’s body, came to the door of the inn. “Bill’s been overhauled\na’ready,” said he; “nothin’ left.”"
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“It’s these people of the inn--it’s that boy. I wish I had put his eyes\nout!”"
+  },
+  {
+   "n": 26,
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the blind man, Pew."
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“There were no time ago--they had the\ndoor bolted when I tried it. Scatter, lads, and find ’em.”"
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Sure enough, they left their glim here,” said the fellow from the\nwindow."
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“Scatter and find ’em! Rout the house out!”"
+  },
+  {
+   "n": 30,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "reiterated Pew, striking\nwith his stick upon the road."
+  },
+  {
+   "n": 31,
+   "sfx": [
+    {
+     "key": "whistle_signal",
+     "at": "just the same whistle that had alarmed my mother"
+    }
+   ],
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Then there followed a great to-do through all our old inn, heavy feet\npounding to and fro, furniture thrown over, doors kicked in, until the\nvery rocks re-echoed and the men came out again, one after another, on\nthe road and declared that we were nowhere to be found. And just\nthe same whistle that had alarmed my mother and myself over the dead\ncaptain’s money was once more clearly audible through the night,\nbut this time twice repeated. I had thought it to be the blind man’s\ntrumpet, so to speak, summoning his crew to the assault, but I now found\nthat it was a signal from the hillside towards the hamlet, and from its\neffect upon the buccaneers, a signal to warn them of approaching danger."
+  },
+  {
+   "n": 32,
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“There’s Dirk again,” said one. “Twice! We’ll have to budge, mates.”"
+  },
+  {
+   "n": 33,
+   "para": 23,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“Budge, you skulk!”"
+  },
+  {
+   "n": 34,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried Pew."
+  },
+  {
+   "n": 35,
+   "para": 23,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“Dirk was a fool and a coward from the\nfirst--you wouldn’t mind him. They must be close by; they can’t be far;\nyou have your hands on it. Scatter and look for them, dogs! Oh, shiver\nmy soul,”"
+  },
+  {
+   "n": 36,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he cried,"
+  },
+  {
+   "n": 37,
+   "para": 23,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“if I had eyes!”"
+  },
+  {
+   "n": 38,
+   "para": 24,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "This appeal seemed to produce some effect, for two of the fellows began\nto look here and there among the lumber, but half-heartedly, I thought,\nand with half an eye to their own danger all the time, while the rest\nstood irresolute on the road."
+  },
+  {
+   "n": 39,
+   "para": 25,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“You have your hands on thousands, you fools, and you hang a leg! You’d\nbe as rich as kings if you could find it, and you know it’s here, and\nyou stand there skulking. There wasn’t one of you dared face Bill, and\nI did it--a blind man! And I’m to lose my chance for you! I’m to be a\npoor, crawling beggar, sponging for rum, when I might be rolling in a\ncoach! If you had the pluck of a weevil in a biscuit you would catch\nthem still.”"
+  },
+  {
+   "n": 40,
+   "para": 26,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Hang it, Pew, we’ve got the doubloons!” grumbled one."
+  },
+  {
+   "n": 41,
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“They might have hid the blessed thing,” said another. “Take the\nGeorges, Pew, and don’t stand here squalling.”"
+  },
+  {
+   "n": 42,
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Squalling was the word for it; Pew’s anger rose so high at these\nobjections till at last, his passion completely taking the upper hand,\nhe struck at them right and left in his blindness and his stick sounded\nheavily on more than one."
+  },
+  {
+   "n": 43,
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "These, in their turn, cursed back at the blind miscreant, threatened him\nin horrid terms, and tried in vain to catch the stick and wrest it from\nhis grasp."
+  },
+  {
+   "n": 44,
+   "sfx": [
+    {
+     "key": "horses_gallop",
+     "at": "the tramp of horses galloping"
+    },
+    {
+     "key": "pistol_far",
+     "at": "a pistol-shot, flash and report, came from the hedge side"
+    }
+   ],
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "This quarrel was the saving of us, for while it was still raging,\nanother sound came from the top of the hill on the side of the\nhamlet--the tramp of horses galloping. Almost at the same time a\npistol-shot, flash and report, came from the hedge side. And that was\nplainly the last signal of danger, for the buccaneers turned at once\nand ran, separating in every direction, one seaward along the cove, one\nslant across the hill, and so on, so that in half a minute not a sign of\nthem remained but Pew. Him they had deserted, whether in sheer panic\nor out of revenge for his ill words and blows I know not; but there he\nremained behind, tapping up and down the road in a frenzy, and groping\nand calling for his comrades. Finally he took a wrong turn and ran a few\nsteps past me, towards the hamlet, crying,"
+  },
+  {
+   "n": 45,
+   "para": 30,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“Johnny, Black Dog, Dirk,”"
+  },
+  {
+   "n": 46,
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "and other names,"
+  },
+  {
+   "n": 47,
+   "para": 30,
+   "role": "Blind Pew",
+   "cast": "Alfred Hitchcock",
+   "text": "“you won’t leave old Pew, mates--not old Pew!”"
+  },
+  {
+   "n": 48,
+   "sfx": [
+    {
+     "key": "horses_gallop",
+     "at": "swept at full gallop down the slope"
+    }
+   ],
+   "para": 31,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Just then the noise of horses topped the rise, and four or five riders\ncame in sight in the moonlight and swept at full gallop down the slope."
+  },
+  {
+   "n": 49,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At this Pew saw his error, turned with a scream, and ran straight for\nthe ditch, into which he rolled. But he was on his feet again in a\nsecond and made another dash, now utterly bewildered, right under the\nnearest of the coming horses."
+  },
+  {
+   "n": 50,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "the four hoofs trampled and spurned him"
+   },
+   "sfx": [
+    {
+     "key": "horse_neigh",
+     "at": "the four hoofs trampled and spurned him"
+    }
+   ],
+   "para": 33,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The rider tried to save him, but in vain. Down went Pew with a cry that\nrang high into the night; and the four hoofs trampled and spurned him\nand passed by. He fell on his side, then gently collapsed upon his face\nand moved no more."
+  },
+  {
+   "n": 51,
+   "para": 34,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I leaped to my feet and hailed the riders. They were pulling up, at any\nrate, horrified at the accident; and I soon saw what they were. One,\ntailing out behind the rest, was a lad that had gone from the hamlet to\nDr. Livesey’s; the rest were revenue officers, whom he had met by the\nway, and with whom he had had the intelligence to return at once. Some\nnews of the lugger in Kitt’s Hole had found its way to Supervisor Dance\nand set him forth that night in our direction, and to that circumstance\nmy mother and I owed our preservation from death."
+  },
+  {
+   "n": 52,
+   "sfx": [
+    {
+     "key": "musket_far",
+     "at": "a bullet whistled close by his arm"
+    }
+   ],
+   "para": 35,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Pew was dead, stone dead. As for my mother, when we had carried her up\nto the hamlet, a little cold water and salts and that soon brought her\nback again, and she was none the worse for her terror, though she still\ncontinued to deplore the balance of the money. In the meantime the\nsupervisor rode on, as fast as he could, to Kitt’s Hole; but his men\nhad to dismount and grope down the dingle, leading, and sometimes\nsupporting, their horses, and in continual fear of ambushes; so it was\nno great matter for surprise that when they got down to the Hole the\nlugger was already under way, though still close in. He hailed her. A\nvoice replied, telling him to keep out of the moonlight or he would get\nsome lead in him, and at the same time a bullet whistled close by his\narm. Soon after, the lugger doubled the point and disappeared. Mr. Dance\nstood there, as he said, “like a fish out of water,” and all he could do\nwas to dispatch a man to B---- to warn the cutter. “And that,” said he,\n“is just about as good as nothing. They’ve got off clean, and there’s\nan end. Only,” he added, “I’m glad I trod on Master Pew’s corns,” for by\nthis time he had heard my story."
+  },
+  {
+   "n": 53,
+   "para": 36,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I went back with him to the Admiral Benbow, and you cannot imagine a\nhouse in such a state of smash; the very clock had been thrown down\nby these fellows in their furious hunt after my mother and myself;\nand though nothing had actually been taken away except the captain’s\nmoney-bag and a little silver from the till, I could see at once that we\nwere ruined. Mr. Dance could make nothing of the scene."
+  },
+  {
+   "n": 54,
+   "para": 37,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“They got the money, you say? Well, then, Hawkins, what in fortune were\nthey after? More money, I suppose?”"
+  },
+  {
+   "n": 55,
+   "para": 38,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“No, sir; not money, I think,” replied I. “In fact, sir, I believe I\nhave the thing in my breast pocket; and to tell you the truth, I should\nlike to get it put in safety.”"
+  },
+  {
+   "n": 56,
+   "para": 39,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“To be sure, boy; quite right,” said he. “I’ll take it, if you like.”"
+  },
+  {
+   "n": 57,
+   "para": 40,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“I thought perhaps Dr. Livesey--” I began."
+  },
+  {
+   "n": 58,
+   "para": 41,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Perfectly right,” he interrupted very cheerily, “perfectly right--a\ngentleman and a magistrate. And, now I come to think of it, I might as\nwell ride round there myself and report to him or squire. Master Pew’s\ndead, when all’s done; not that I regret it, but he’s dead, you see, and\npeople will make it out against an officer of his Majesty’s revenue,\nif make it out they can. Now, I’ll tell you, Hawkins, if you like, I’ll\ntake you along.”"
+  },
+  {
+   "n": 59,
+   "para": 42,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I thanked him heartily for the offer, and we walked back to the hamlet\nwhere the horses were. By the time I had told mother of my purpose they\nwere all in the saddle."
+  },
+  {
+   "n": 60,
+   "para": 43,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Dogger,” said Mr. Dance, “you have a good horse; take up this lad\nbehind you.”"
+  },
+  {
+   "n": 61,
+   "para": 44,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "As soon as I was mounted, holding on to Dogger’s belt, the supervisor\ngave the word, and the party struck out at a bouncing trot on the road\nto Dr. Livesey’s house."
+  }
+ ]
+}

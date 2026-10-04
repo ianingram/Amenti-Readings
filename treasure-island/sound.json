@@ -1,0 +1,88 @@
+{
+  "_file": "Amenti-Readings/treasure-island/sound.json",
+  "_updated": "2026-10-04 21:00 UTC",
+  "work": "treasure-island",
+  "note": "The most physical book in the Studios: a lonely inn on a cove, Bristol docks, a ship at sea, an island. Every gun comes twice — near (sharp, dry, loud) and far (muffled, late, long echo) — and most of the shooting is far. Part One is the Admiral Benbow: the surf below the cliff, the parlour fire, the stick on the frozen road, the riders on the hill. Shared sounds are borrowed from Dracula by URL.",
+  "files": {
+    "base": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/",
+    "beds": {
+      "cove": "cove.mp3",
+      "inn": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3"
+    },
+    "oneshots": {
+      "sea_chest": "https://ianingram.github.io/Amenti-Readings/dracula/sound/luggage_down.mp3",
+      "stick_rap": "stick-rap.mp3",
+      "stick_taps": "stick-taps.mp3",
+      "body_fall": "body-fall.mp3",
+      "cutlass_clash": "cutlass-clash.mp3",
+      "clock_strike": "https://ianingram.github.io/Amenti-Readings/dracula/sound/clock-strike.mp3",
+      "whistle_signal": "whistle-signal.mp3",
+      "door_crash": "door-crash.mp3",
+      "horses_gallop": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horses-gallop.mp3",
+      "horse_neigh": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horse-neigh.mp3",
+      "letter": "https://ianingram.github.io/Amenti-Readings/dracula/sound/letter.mp3",
+      "gull": "gull.mp3",
+      "pistol_near": "pistol-near.mp3",
+      "pistol_far": "pistol-far.mp3",
+      "musket_near": "musket-near.mp3",
+      "musket_far": "musket-far.mp3",
+      "musket_volley_far": "musket-volley-far.mp3",
+      "cannon_near": "cannon-near.mp3",
+      "cannon_far": "cannon-far.mp3"
+    },
+    "score": {
+      "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3"
+    },
+    "levels": {
+      "dread": 0.26
+    }
+  },
+  "beds": {
+    "cove": {
+      "note": "surf on the rocks below the cliff, the wind off the sea"
+    },
+    "inn": {
+      "note": "the parlour fire at the Admiral Benbow"
+    }
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "bed": "cove",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 2,
+      "bed": "inn",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 3,
+      "bed": "inn",
+      "state": 1,
+      "score": null,
+      "note": "the dread comes in with the blind man’s stick"
+    },
+    {
+      "n": 4,
+      "bed": "inn",
+      "state": 1,
+      "score": "dread"
+    },
+    {
+      "n": 5,
+      "bed": "cove",
+      "state": 1,
+      "score": "dread",
+      "note": "the dread ends under the hoofs"
+    },
+    {
+      "n": 6,
+      "bed": "cove",
+      "state": 1,
+      "score": null
+    }
+  ]
+}

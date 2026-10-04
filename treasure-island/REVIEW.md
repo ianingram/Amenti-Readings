@@ -1,0 +1,264 @@
+# Treasure Island — speech attributions to confirm
+
+Every quotation and the voice it was given. **Tagged** lines follow Stevenson’s own tag (“said the doctor”); **corrected** lines were read and set by hand; **inferred** lines are untagged and alternate. Minor speakers — Black Dog, Mrs Hawkins, Mr Dance, Pew’s men — are spoken by the narrator, as Jim writes them down.
+
+## Chapter I — The Old Sea-dog at the Admiral Benbow
+
+- ¶5 · **Billy Bones** · *corrected* · “Fifteen men on the dead man’s chest-- Yo-ho-ho, and a bottle of rum!”
+- ¶7 · **Billy Bones** · *corrected* · “This is a handy cove,”
+- ¶7 · **Billy Bones** · *corrected* · “and a pleasant sittyated grog-shop. Much company, mate?”
+- ¶9 · **Billy Bones** · *corrected* · “Well, then,”
+- ¶9 · **Billy Bones** · *corrected* · “this is the berth for me. Here you, matey,”
+- ¶9 · **Billy Bones** · *corrected* · “bring up alongside and help up my chest. I’ll stay here a bit,”
+- ¶9 · **Billy Bones** · *corrected* · “I’m a plain man; rum and bacon and eggs is what I want, and that head up there for to watch ship…
+- ¶9 · **Billy Bones** · *corrected* · “You can tell me when I’ve worked through that,”
+- ¶11 · **Jim Hawkins** · *corrected* · “weather-eye open for a seafaring man with one leg”
+- ¶11 · **Jim Hawkins** · *corrected* · “the seafaring man with one leg.”
+- ¶13 · **Billy Bones** · *corrected* · “Yo-ho-ho, and a bottle of rum,”
+- ¶14 · **Jim Hawkins** · *corrected* · “true sea-dog”
+- ¶14 · **Jim Hawkins** · *corrected* · “real old salt”
+- ¶18 · **Billy Bones** · *corrected* · “Fifteen men on the dead man’s chest-- Yo-ho-ho, and a bottle of rum! Drink and the devil had don…
+- ¶19 · **Jim Hawkins** · *corrected* · “the dead man’s chest”
+- ¶19 · **Billy Bones** · *corrected* · “Silence, there, between decks!”
+- ¶20 · **Dr Livesey** · “Were you addressing me, sir?”
+- ¶20 · **Dr Livesey** · “I have only one thing to say to you, sir,”
+- ¶20 · **Dr Livesey** · “that if you keep on drinking rum, the world will soon be quit of a very dirty scoundrel!”
+- ¶22 · **Dr Livesey** · *corrected* · “If you do not put that knife this instant in your pocket, I promise, upon my honour, you shall h…
+- ¶24 · **Dr Livesey** · “And now, sir,”
+- ¶24 · **Dr Livesey** · “since I now know there’s such a fellow in my district, you may count I’ll have an eye upon you d…
+
+## Chapter II — Black Dog Appears and Disappears
+
+- ¶6 · **Jim Hawkins** · *corrected* · “Come here, sonny,”
+- ¶6 · **Jim Hawkins** · *corrected* · “Come nearer here.”
+- ¶8 · **Jim Hawkins** · *corrected* · “Is this here table for my mate Bill?”
+- ¶10 · **Jim Hawkins** · *corrected* · “Well,”
+- ¶10 · **Jim Hawkins** · *corrected* · “my mate Bill would be called the captain, as like as not. He has a cut on one cheek and a mighty…
+- ¶12 · **Jim Hawkins** · *corrected* · “Which way, sonny? Which way is he gone?”
+- ¶13 · **Jim Hawkins** · *corrected* · “Ah,”
+- ¶13 · **Jim Hawkins** · *corrected* · “this’ll be as good as drink to my mate Bill.”
+- ¶14 · **Jim Hawkins** · *corrected* · “I have a son of my own,”
+- ¶14 · **Jim Hawkins** · *corrected* · “as like you as two blocks, and he’s all the pride of my ’art. But the great thing for boys is di…
+- ¶17 · **Jim Hawkins** · “Bill,”
+- ¶19 · **Jim Hawkins** · “Come, Bill, you know me; you know an old shipmate, Bill, surely,”
+- ¶21 · **Billy Bones** · *corrected* · “Black Dog!”
+- ¶22 · **Jim Hawkins** · “And who else?”
+- ¶22 · **Jim Hawkins** · “Black Dog as ever was, come for to see his old shipmate Billy, at the Admiral Benbow inn. Ah, Bi…
+- ¶23 · **Billy Bones** · “Now, look here,”
+- ¶23 · **Billy Bones** · “you’ve run me down; here I am; well, then, speak up; what is it?”
+- ¶24 · **Jim Hawkins** · “That’s you, Bill,”
+- ¶24 · **Jim Hawkins** · “you’re in the right of it, Billy. I’ll have a glass of rum from this dear child here, as I’ve to…
+- ¶26 · **Billy Bones** · *corrected* · “None of your keyholes for me, sonny,”
+- ¶28 · **Billy Bones** · *corrected* · “No, no, no, no; and an end of it!”
+- ¶28 · **Billy Bones** · *corrected* · “If it comes to swinging, swing all, say I.”
+- ¶31 · **Billy Bones** · *corrected* · “Jim,”
+- ¶31 · **Billy Bones** · *corrected* · “rum”
+- ¶32 · **Jim Hawkins** · “Are you hurt?”
+- ¶33 · **Billy Bones** · *corrected* · “Rum,”
+- ¶33 · **Billy Bones** · *corrected* · “I must get away from here. Rum! Rum!”
+- ¶35 · **Jim Hawkins** · “Dear, deary me,”
+- ¶35 · **Jim Hawkins** · “what a disgrace upon the house! And your poor father sick!”
+- ¶37 · **Jim Hawkins** · *corrected* · “Oh, doctor,”
+- ¶37 · **Jim Hawkins** · *corrected* · “what shall we do? Where is he wounded?”
+- ¶38 · **Dr Livesey** · “Wounded? A fiddle-stick’s end!”
+- ¶38 · **Dr Livesey** · “No more wounded than you or I. The man has had a stroke, as I warned him. Now, Mrs. Hawkins, jus…
+- ¶39 · **Jim Hawkins** · *corrected* · “Here’s luck,”
+- ¶39 · **Jim Hawkins** · *corrected* · “A fair wind,”
+- ¶39 · **Jim Hawkins** · *corrected* · “Billy Bones his fancy,”
+- ¶40 · **Dr Livesey** · “Prophetic,”
+- ¶40 · **Dr Livesey** · “And now, Master Billy Bones, if that be your name, we’ll have a look at the colour of your blood…
+- ¶40 · **Dr Livesey** · “are you afraid of blood?”
+- ¶41 · **Jim Hawkins** · “No, sir,”
+- ¶42 · **Dr Livesey** · *inferred* · “Well, then,”
+- ¶42 · **Dr Livesey** · *inferred* · “you hold the basin”
+- ¶43 · **Jim Hawkins** · *corrected* · “Where’s Black Dog?”
+- ¶44 · **Dr Livesey** · “There is no Black Dog here,”
+- ¶44 · **Dr Livesey** · “except what you have on your own back. You have been drinking rum; you have had a stroke, precis…
+- ¶45 · **Billy Bones** · *corrected* · “That’s not my name,”
+- ¶46 · **Dr Livesey** · “Much I care,”
+- ¶46 · **Dr Livesey** · “It’s the name of a buccaneer of my acquaintance; and I call you by it for the sake of shortness,…
+- ¶48 · **Dr Livesey** · “Now, mind you,”
+- ¶48 · **Dr Livesey** · “I clear my conscience--the name of rum for you is death.”
+- ¶50 · **Dr Livesey** · *corrected* · “This is nothing,”
+- ¶50 · **Dr Livesey** · *corrected* · “I have drawn blood enough to keep him quiet awhile; he should lie for a week where he is--that i…
+
+## Chapter III — The Black Spot
+
+- ¶3 · **Billy Bones** · *corrected* · “Jim,”
+- ¶3 · **Billy Bones** · *corrected* · “you’re the only one here that’s worth anything, and you know I’ve been always good to you. Never…
+- ¶4 · **Jim Hawkins** · “The doctor--”
+- ¶5 · **Billy Bones** · *corrected* · “Doctors is all swabs,”
+- ¶5 · **Billy Bones** · *corrected* · “and that doctor there, why, what do he know about seafaring men? I been in places hot as pitch, …
+- ¶5 · **Billy Bones** · *corrected* · “Look, Jim, how my fingers fidges,”
+- ¶5 · **Billy Bones** · *corrected* · “I can’t keep ’em still, not I. I haven’t had a drop this blessed day. That doctor’s a fool, I te…
+- ¶7 · **Jim Hawkins** · “I want none of your money,”
+- ¶7 · **Jim Hawkins** · “but what you owe my father. I’ll get you one glass, and no more.”
+- ¶9 · **Billy Bones** · *corrected* · “Aye, aye,”
+- ¶9 · **Billy Bones** · *corrected* · “that’s some better, sure enough. And now, matey, did that doctor say how long I was to lie here …
+- ¶10 · **Jim Hawkins** · “A week at least,”
+- ¶11 · **Billy Bones** · *corrected* · “Thunder!”
+- ¶11 · **Billy Bones** · *corrected* · “A week! I can’t do that; they’d have the black spot on me by then. The lubbers is going about to…
+- ¶13 · **Billy Bones** · *corrected* · “That doctor’s done me,”
+- ¶13 · **Billy Bones** · *corrected* · “My ears is singing. Lay me back.”
+- ¶15 · **Billy Bones** · *corrected* · “Jim,”
+- ¶15 · **Billy Bones** · *corrected* · “you saw that seafaring man today?”
+- ¶16 · **Jim Hawkins** · “Black Dog?”
+- ¶17 · **Billy Bones** · *corrected* · “Ah! Black Dog,”
+- ¶17 · **Billy Bones** · *corrected* · “_He’s_ a bad ’un; but there’s worse that put him on. Now, if I can’t get away nohow, and they ti…
+- ¶18 · **Jim Hawkins** · “But what is the black spot, captain?”
+- ¶19 · **Billy Bones** · *corrected* · “That’s a summons, mate. I’ll tell you if they get that. But you keep your weather-eye open, Jim,…
+- ¶20 · **Billy Bones** · *corrected* · “If ever a seaman wanted drugs, it’s me,”
+- ¶22 · **Blind Pew** · *corrected* · “Will any kind friend inform a poor blind man, who has lost the precious sight of his eyes in the…
+- ¶23 · **Jim Hawkins** · “You are at the Admiral Benbow, Black Hill Cove, my good man,”
+- ¶24 · **Blind Pew** · *corrected* · “I hear a voice,”
+- ¶24 · **Blind Pew** · *corrected* · “a young voice. Will you give me your hand, my kind young friend, and lead me in?”
+- ¶26 · **Blind Pew** · *corrected* · “Now, boy,”
+- ¶26 · **Blind Pew** · *corrected* · “take me in to the captain.”
+- ¶27 · **Jim Hawkins** · “Sir,”
+- ¶27 · **Jim Hawkins** · “upon my word I dare not.”
+- ¶28 · **Blind Pew** · *corrected* · “Oh,”
+- ¶28 · **Blind Pew** · *corrected* · “that’s it! Take me in straight or I’ll break your arm.”
+- ¶30 · **Jim Hawkins** · “Sir,”
+- ¶30 · **Jim Hawkins** · “it is for yourself I mean. The captain is not what he used to be. He sits with a drawn cutlass. …
+- ¶31 · **Blind Pew** · *corrected* · “Come, now, march,”
+- ¶31 · **Blind Pew** · *corrected* · “Lead me straight up to him, and when I’m in view, cry out, ‘Here’s a friend for you, Bill.’ If y…
+- ¶33 · **Blind Pew** · “Now, Bill, sit where you are,”
+- ¶33 · **Blind Pew** · “If I can’t see, I can hear a finger stirring. Business is business. Hold out your left hand. Boy…
+- ¶35 · **Blind Pew** · “And now that’s done,”
+- ¶37 · **Billy Bones** · *corrected* · “Ten o’clock!”
+- ¶37 · **Billy Bones** · *corrected* · “Six hours. We’ll do them yet,”
+
+## Chapter IV — The Sea-chest
+
+- ¶5 · **Jim Hawkins** · *corrected* · “If none of the rest of you dare,”
+- ¶5 · **Jim Hawkins** · *corrected* · “Jim and I dare. Back we will go, the way we came, and small thanks to you big, hulking, chicken-…
+- ¶9 · **Jim Hawkins** · *corrected* · “Draw down the blind, Jim,”
+- ¶9 · **Jim Hawkins** · *corrected* · “they might come and watch outside. And now,”
+- ¶9 · **Jim Hawkins** · *corrected* · “we have to get the key off _that;_ and who’s to touch it, I should like to know!”
+- ¶10 · **Jim Hawkins** · *corrected* · “You have till ten tonight.”
+- ¶11 · **Jim Hawkins** · “He had till ten, Mother,”
+- ¶12 · **Jim Hawkins** · *corrected* · “Now, Jim,”
+- ¶12 · **Jim Hawkins** · *corrected* · “that key.”
+- ¶14 · **Jim Hawkins** · *corrected* · “Perhaps it’s round his neck,”
+- ¶16 · **Jim Hawkins** · *corrected* · “B”
+- ¶17 · **Jim Hawkins** · “Give me the key,”
+- ¶20 · **Jim Hawkins** · “I’ll show these rogues that I’m an honest woman,”
+- ¶20 · **Jim Hawkins** · “I’ll have my dues, and not a farthing over. Hold Mrs. Crossley’s bag.”
+- ¶23 · **Jim Hawkins** · “Mother,”
+- ¶23 · **Jim Hawkins** · “take the whole and let’s be going,”
+- ¶25 · **Jim Hawkins** · *corrected* · “I’ll take what I have,”
+- ¶26 · **Jim Hawkins** · “And I’ll take this to square the count,”
+- ¶28 · **Jim Hawkins** · “My dear,”
+- ¶28 · **Jim Hawkins** · “take the money and run on. I am going to faint.”
+
+## Chapter V — The Last of the Blind Man
+
+- ¶3 · **Blind Pew** · *corrected* · “Down with the door!”
+- ¶4 · **Jim Hawkins** · *corrected* · “Aye, aye, sir!”
+- ¶5 · **Blind Pew** · *corrected* · “In, in, in!”
+- ¶6 · **Jim Hawkins** · *corrected* · “Bill’s dead.”
+- ¶8 · **Blind Pew** · *corrected* · “Search him, some of you shirking lubbers, and the rest of you aloft and get the chest,”
+- ¶10 · **Jim Hawkins** · *corrected* · “Pew,”
+- ¶10 · **Jim Hawkins** · *corrected* · “they’ve been before us. Someone’s turned the chest out alow and aloft.”
+- ¶11 · **Blind Pew** · “Is it there?”
+- ¶12 · **Jim Hawkins** · *corrected* · “The money’s there.”
+- ¶14 · **Blind Pew** · *corrected* · “Flint’s fist, I mean,”
+- ¶15 · **Jim Hawkins** · “We don’t see it here nohow,”
+- ¶16 · **Blind Pew** · “Here, you below there, is it on Bill?”
+- ¶17 · **Jim Hawkins** · *corrected* · “Bill’s been overhauled a’ready,”
+- ¶17 · **Jim Hawkins** · *corrected* · “nothin’ left.”
+- ¶18 · **Blind Pew** · *corrected* · “It’s these people of the inn--it’s that boy. I wish I had put his eyes out!”
+- ¶18 · **Blind Pew** · *corrected* · “There were no time ago--they had the door bolted when I tried it. Scatter, lads, and find ’em.”
+- ¶19 · **Jim Hawkins** · “Sure enough, they left their glim here,”
+- ¶20 · **Blind Pew** · *corrected* · “Scatter and find ’em! Rout the house out!”
+- ¶22 · **Jim Hawkins** · *corrected* · “There’s Dirk again,”
+- ¶22 · **Jim Hawkins** · *corrected* · “Twice! We’ll have to budge, mates.”
+- ¶23 · **Blind Pew** · *corrected* · “Budge, you skulk!”
+- ¶23 · **Blind Pew** · *corrected* · “Dirk was a fool and a coward from the first--you wouldn’t mind him. They must be close by; they …
+- ¶23 · **Blind Pew** · *corrected* · “if I had eyes!”
+- ¶25 · **Blind Pew** · *corrected* · “You have your hands on thousands, you fools, and you hang a leg! You’d be as rich as kings if yo…
+- ¶26 · **Jim Hawkins** · *corrected* · “Hang it, Pew, we’ve got the doubloons!”
+- ¶27 · **Jim Hawkins** · *corrected* · “They might have hid the blessed thing,”
+- ¶27 · **Jim Hawkins** · *corrected* · “Take the Georges, Pew, and don’t stand here squalling.”
+- ¶30 · **Blind Pew** · *corrected* · “Johnny, Black Dog, Dirk,”
+- ¶30 · **Blind Pew** · *corrected* · “you won’t leave old Pew, mates--not old Pew!”
+- ¶35 · **Jim Hawkins** · *corrected* · “like a fish out of water,”
+- ¶35 · **Jim Hawkins** · *corrected* · “And that,”
+- ¶35 · **Jim Hawkins** · *corrected* · “is just about as good as nothing. They’ve got off clean, and there’s an end. Only,”
+- ¶35 · **Jim Hawkins** · *corrected* · “I’m glad I trod on Master Pew’s corns,”
+- ¶37 · **Jim Hawkins** · *corrected* · “They got the money, you say? Well, then, Hawkins, what in fortune were they after? More money, I…
+- ¶38 · **Jim Hawkins** · “No, sir; not money, I think,”
+- ¶38 · **Jim Hawkins** · “In fact, sir, I believe I have the thing in my breast pocket; and to tell you the truth, I shoul…
+- ¶39 · **Jim Hawkins** · *corrected* · “To be sure, boy; quite right,”
+- ¶39 · **Jim Hawkins** · *corrected* · “I’ll take it, if you like.”
+- ¶40 · **Jim Hawkins** · “I thought perhaps Dr. Livesey--”
+- ¶41 · **Jim Hawkins** · *corrected* · “Perfectly right,”
+- ¶41 · **Jim Hawkins** · *corrected* · “perfectly right--a gentleman and a magistrate. And, now I come to think of it, I might as well r…
+- ¶43 · **Jim Hawkins** · *corrected* · “Dogger,”
+- ¶43 · **Jim Hawkins** · *corrected* · “you have a good horse; take up this lad behind you.”
+
+## Chapter VI — The Captain’s Papers
+
+- ¶4 · **Jim Hawkins** · “Is Dr. Livesey in?”
+- ¶6 · **Jim Hawkins** · “So there we go, boys,”
+- ¶10 · **Squire Trelawney** · *corrected* · “Come in, Mr. Dance,”
+- ¶11 · **Dr Livesey** · “Good evening, Dance,”
+- ¶11 · **Dr Livesey** · “And good evening to you, friend Jim. What good wind brings you here?”
+- ¶12 · **Squire Trelawney** · “Bravo!”
+- ¶14 · **Squire Trelawney** · “Mr. Dance,”
+- ¶14 · **Squire Trelawney** · “you are a very noble fellow. And as for riding down that black, atrocious miscreant, I regard it…
+- ¶15 · **Dr Livesey** · “And so, Jim,”
+- ¶15 · **Dr Livesey** · “you have the thing that they were after, have you?”
+- ¶16 · **Jim Hawkins** · “Here it is, sir,”
+- ¶18 · **Dr Livesey** · *inferred* · “Squire,”
+- ¶18 · **Dr Livesey** · *inferred* · “when Dance has had his ale he must, of course, be off on his Majesty’s service; but I mean to ke…
+- ¶19 · **Squire Trelawney** · “As you will, Livesey,”
+- ¶19 · **Squire Trelawney** · “Hawkins has earned better than cold pie.”
+- ¶21 · **Dr Livesey** · “And now, squire,”
+- ¶22 · **Squire Trelawney** · “And now, Livesey,”
+- ¶23 · **Dr Livesey** · “One at a time, one at a time,”
+- ¶23 · **Dr Livesey** · “You have heard of this Flint, I suppose?”
+- ¶24 · **Squire Trelawney** · “Heard of him!”
+- ¶24 · **Squire Trelawney** · “Heard of him, you say! He was the bloodthirstiest buccaneer that sailed. Blackbeard was a child …
+- ¶25 · **Dr Livesey** · “Well, I’ve heard of him myself, in England,”
+- ¶25 · **Dr Livesey** · “But the point is, had he money?”
+- ¶26 · **Squire Trelawney** · “Money!”
+- ¶26 · **Squire Trelawney** · “Have you heard the story? What were these villains after but money? What do they care for but mo…
+- ¶27 · **Dr Livesey** · “That we shall soon know,”
+- ¶27 · **Dr Livesey** · “But you are so confoundedly hot-headed and exclamatory that I cannot get a word in. What I want …
+- ¶28 · **Squire Trelawney** · “Amount, sir!”
+- ¶28 · **Squire Trelawney** · “It will amount to this: If we have the clue you talk about, I fit out a ship in Bristol dock, an…
+- ¶29 · **Dr Livesey** · “Very well,”
+- ¶29 · **Dr Livesey** · “Now, then, if Jim is agreeable, we’ll open the packet”
+- ¶31 · **Dr Livesey** · “First of all we’ll try the book,”
+- ¶32 · **Jim Hawkins** · *corrected* · “Billy Bones his fancy”
+- ¶32 · **Jim Hawkins** · *corrected* · “Mr. W. Bones, mate,”
+- ¶32 · **Jim Hawkins** · *corrected* · “No more rum,”
+- ¶32 · **Jim Hawkins** · *corrected* · “Off Palm Key he got itt,”
+- ¶32 · **Jim Hawkins** · *corrected* · “got itt,”
+- ¶32 · **Jim Hawkins** · *corrected* · “itt”
+- ¶33 · **Dr Livesey** · “Not much instruction there,”
+- ¶34 · **Jim Hawkins** · *corrected* · “Offe Caraccas,”
+- ¶34 · **Jim Hawkins** · *corrected* · “62o 17′ 20″, 19o 2′ 40″.”
+- ¶35 · **Jim Hawkins** · *corrected* · “Bones, his pile.”
+- ¶36 · **Dr Livesey** · “I can’t make head or tail of this,”
+- ¶37 · **Squire Trelawney** · “The thing is as clear as noonday,”
+- ¶37 · **Squire Trelawney** · “This is the black-hearted hound’s account-book. These crosses stand for the names of ships or to…
+- ¶38 · **Dr Livesey** · “Right!”
+- ¶38 · **Dr Livesey** · “See what it is to be a traveller. Right! And the amounts increase, you see, as he rose in rank.”
+- ¶40 · **Dr Livesey** · “Thrifty man!”
+- ¶40 · **Dr Livesey** · “He wasn’t the one to be cheated.”
+- ¶41 · **Squire Trelawney** · “And now,”
+- ¶41 · **Squire Trelawney** · “for the other.”
+- ¶42 · **Jim Hawkins** · *corrected* · “The Spy-glass.”
+- ¶42 · **Jim Hawkins** · *corrected* · “Bulk of treasure here.”
+- ¶50 · **Squire Trelawney** · “Livesey,”
+- ¶50 · **Squire Trelawney** · “you will give up this wretched practice at once. Tomorrow I start for Bristol. In three weeks’ t…
+- ¶51 · **Dr Livesey** · “Trelawney,”
+- ¶51 · **Dr Livesey** · “I’ll go with you; and I’ll go bail for it, so will Jim, and be a credit to the undertaking. Ther…
+- ¶52 · **Squire Trelawney** · “And who’s that?”
+- ¶52 · **Squire Trelawney** · “Name the dog, sir!”
+- ¶53 · **Dr Livesey** · “You,”
+- ¶53 · **Dr Livesey** · “for you cannot hold your tongue. We are not the only men who know of this paper. These fellows w…
+- ¶54 · **Squire Trelawney** · “Livesey,”
+- ¶54 · **Squire Trelawney** · “you are always in the right of it. I’ll be as silent as the grave.”

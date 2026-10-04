@@ -1,13 +1,17 @@
 {
   "_file": "Amenti-Readings/treasure-island/sound.json",
-  "_updated": "2026-10-04 21:00 UTC",
+  "_updated": "2026-10-05 05:00 UTC",
   "work": "treasure-island",
-  "note": "The most physical book in the Studios: a lonely inn on a cove, Bristol docks, a ship at sea, an island. Every gun comes twice — near (sharp, dry, loud) and far (muffled, late, long echo) — and most of the shooting is far. Part One is the Admiral Benbow: the surf below the cliff, the parlour fire, the stick on the frozen road, the riders on the hill. Shared sounds are borrowed from Dracula by URL.",
+  "note": "The most physical book in the Studios: a lonely inn on a cove, Bristol docks, a ship at sea, an island. Every gun comes twice — near (sharp, dry, loud) and far (muffled, late, long echo) — and most of the shooting is far. Part One is the Admiral Benbow; Part Two the Bristol docks, the Spy-glass and the Hispaniola — the surf below the cliff, the parlour fire, the stick on the frozen road, the riders on the hill. Shared sounds are borrowed from Dracula by URL. THE CREW’S DEATH MOTIF: each time one of the ship’s company dies — honest man or pirate — the cellos and basses play a slow “yo… ho”, a short D and a long low A, the shape of the crew’s chant with the life gone out of it — and gulls crying over it, one near as the “ho” sounds, one answering further off.",
   "files": {
     "base": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/",
     "beds": {
       "cove": "cove.mp3",
-      "inn": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3"
+      "inn": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3",
+      "docks": "docks.mp3",
+      "deck": "deck.mp3",
+      "tavern": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3",
+      "island": "island.mp3"
     },
     "oneshots": {
       "sea_chest": "https://ianingram.github.io/Amenti-Readings/dracula/sound/luggage_down.mp3",
@@ -28,7 +32,25 @@
       "musket_far": "musket-far.mp3",
       "musket_volley_far": "musket-volley-far.mp3",
       "cannon_near": "cannon-near.mp3",
-      "cannon_far": "cannon-far.mp3"
+      "cannon_far": "cannon-far.mp3",
+      "door_bang": "https://ianingram.github.io/Amenti-Readings/dracula/sound/door_close.mp3",
+      "bell_watch": "bell-watch.mp3",
+      "bell_alarm": "bell-alarm.mp3",
+      "bosun_pipe": "bosun-pipe.mp3",
+      "capstan": "capstan.mp3",
+      "ship_horn": "ship-horn.mp3",
+      "parrot": "parrot.mp3",
+      "parrot_2": "parrot-2.mp3",
+      "crew_cheer": "crew-cheer.mp3",
+      "oars": "oars.mp3",
+      "anchor_birds": "anchor-birds.mp3",
+      "scream_far": "scream-far.mp3",
+      "marsh_birds": "marsh-birds.mp3",
+      "crutch_blow": "crutch-blow.mp3",
+      "silver_whistle": "silver-whistle.mp3",
+      "gravel": "gravel.mp3",
+      "cannon_island": "cannon-island.mp3",
+      "crew_death": "crew-death.mp3"
     },
     "score": {
       "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3"
@@ -43,6 +65,18 @@
     },
     "inn": {
       "note": "the parlour fire at the Admiral Benbow"
+    },
+    "docks": {
+      "note": "Bristol: water slapping the wharf piles, moored boats working, gulls"
+    },
+    "deck": {
+      "note": "the Hispaniola: the hull working, wind in the rigging, canvas, a block creaking"
+    },
+    "tavern": {
+      "note": "the Spy-glass: a bright little tavern, a fire in the grate"
+    },
+    "island": {
+      "note": "the island in a stagnant heat: insects shrilling in the woods, the surf booming far off, shore birds"
     }
   },
   "chapters": [
@@ -83,6 +117,69 @@
       "bed": "cove",
       "state": 1,
       "score": null
+    },
+    {
+      "n": 7,
+      "bed": "inn",
+      "state": 1,
+      "score": null,
+      "note": "the squire’s letter at the hall; the mail-coach; the Bristol docks"
+    },
+    {
+      "n": 8,
+      "bed": "docks",
+      "state": 1,
+      "score": null,
+      "note": "the docks, then the Spy-glass"
+    },
+    {
+      "n": 9,
+      "bed": "deck",
+      "state": 1,
+      "score": null,
+      "note": "aboard the Hispaniola at anchor"
+    },
+    {
+      "n": 10,
+      "bed": "deck",
+      "state": 1,
+      "score": null,
+      "note": "the boatswain’s pipe, the capstan, the ship’s horn as the sails draw; Captain Flint the parrot"
+    },
+    {
+      "n": 11,
+      "bed": "deck",
+      "state": 1,
+      "score": null,
+      "note": "night, the apple barrel: the dread comes in with Silver’s past and goes with Land ho!"
+    },
+    {
+      "n": 12,
+      "bed": "deck",
+      "state": 1,
+      "score": null,
+      "note": "the island in the moonlight; three cheers; the council in the cabin"
+    },
+    {
+      "n": 13,
+      "bed": "deck",
+      "state": 1,
+      "score": null,
+      "note": "the ship warped into the anchorage in a dead calm; the anchor’s plunge sends the birds up; the island’s heat; the boats pulling ashore"
+    },
+    {
+      "n": 14,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "the marsh: a cry, a scream echoed by the rocks, the whole marsh going up in birds; Silver’s crutch; the dread from the blow until Jim reaches the open wood"
+    },
+    {
+      "n": 15,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "gravel rattling through the trees — Ben Gunn; the cannon waking every echo of the island; the volley of small arms"
     }
   ]
 }

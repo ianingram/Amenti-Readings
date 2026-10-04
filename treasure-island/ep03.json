@@ -590,6 +590,13 @@
   },
   {
    "n": 77,
+   "sfx": [
+    {
+     "key": "crew_death",
+     "at": "struck dead by thundering apoplexy",
+     "offset": 0.6
+    }
+   ],
    "para": 39,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",

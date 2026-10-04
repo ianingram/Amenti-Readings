@@ -1,0 +1,735 @@
+{
+ "work": "treasure-island",
+ "episode": 11,
+ "chapter": 11,
+ "title": "What I Heard in the Apple Barrel",
+ "document": "PART TWO · CHAPTER XI",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch11.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Israel Hands",
+   "cast_as": "Charles Babbage"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER XI"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "WHAT I HEARD IN THE APPLE-BARREL"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“No, not I,”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver."
+  },
+  {
+   "n": 5,
+   "score": {
+    "key": "dread",
+    "xfade": 6,
+    "at": "Flint was cap’n; I was quartermaster"
+   },
+   "para": 2,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Flint was cap’n; I was quartermaster, along\nof my timber leg. The same broadside I lost my leg, old Pew lost his\ndeadlights. It was a master surgeon, him that ampytated me--out of\ncollege and all--Latin by the bucket, and what not; but he was hanged\nlike a dog, and sun-dried like the rest, at Corso Castle. That was\nRoberts’ men, that was, and comed of changing names to their\nships--ROYAL FORTUNE and so on. Now, what a ship was christened, so let\nher stay, I says. So it was with the CASSANDRA, as brought us all safe\nhome from Malabar, after England took the _Viceroy of the Indies;_ so\nit was with the old WALRUS, Flint’s old ship, as I’ve seen amuck with\nthe red blood and fit to sink with gold.”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Ah!” cried another voice, that of the youngest hand on board, and\nevidently full of admiration. “He was the flower of the flock, was\nFlint!”"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Davis was a man too, by all accounts,”"
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver."
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“I never sailed\nalong of him; first with England, then with Flint, that’s my story;\nand now here on my own account, in a manner of speaking. I laid by nine\nhundred safe, from England, and two thousand after Flint. That ain’t bad\nfor a man before the mast--all safe in bank. ’Tain’t earning now, it’s\nsaving does it, you may lay to that. Where’s all England’s men now? I\ndunno. Where’s Flint’s? Why, most on ’em aboard here, and glad to get\nthe duff--been begging before that, some on ’em. Old Pew, as had lost\nhis sight, and might have thought shame, spends twelve hundred pound in\na year, like a lord in Parliament. Where is he now? Well, he’s dead now\nand under hatches; but for two year before that, shiver my timbers,\nthe man was starving! He begged, and he stole, and he cut throats, and\nstarved at that, by the powers!”"
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Well, it ain’t much use, after all,” said the young seaman."
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“’Tain’t much use for fools, you may lay to it--that, nor nothing,”"
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried Silver."
+  },
+  {
+   "n": 13,
+   "para": 6,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“But now, you look here: you’re young, you are, but you’re\nas smart as paint. I see that when I set my eyes on you, and I’ll talk\nto you like a man.”"
+  },
+  {
+   "n": 14,
+   "para": 7,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "You may imagine how I felt when I heard this abominable old rogue\naddressing another in the very same words of flattery as he had used\nto myself. I think, if I had been able, that I would have killed\nhim through the barrel. Meantime, he ran on, little supposing he was\noverheard."
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Here it is about gentlemen of fortune. They lives rough, and they risk\nswinging, but they eat and drink like fighting-cocks, and when a cruise\nis done, why, it’s hundreds of pounds instead of hundreds of farthings\nin their pockets. Now, the most goes for rum and a good fling, and to\nsea again in their shirts. But that’s not the course I lay. I puts it\nall away, some here, some there, and none too much anywheres, by reason\nof suspicion. I’m fifty, mark you; once back from this cruise, I set up\ngentleman in earnest. Time enough too, says you. Ah, but I’ve lived easy\nin the meantime, never denied myself o’ nothing heart desires, and slep’\nsoft and ate dainty all my days but when at sea. And how did I begin?\nBefore the mast, like you!”"
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Well,” said the other, “but all the other money’s gone now, ain’t it?\nYou daren’t show face in Bristol after this.”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Why, where might you suppose it was?”"
+  },
+  {
+   "n": 18,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "asked Silver derisively."
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“At Bristol, in banks and places,” answered his companion."
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“It were,”"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the cook;"
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“it were when we weighed anchor. But my old\nmissis has it all by now. And the Spy-glass is sold, lease and goodwill\nand rigging; and the old girl’s off to meet me. I would tell you where,\nfor I trust you, but it’d make jealousy among the mates.”"
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“And can you trust your missis?” asked the other."
+  },
+  {
+   "n": 24,
+   "para": 14,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Gentlemen of fortune,”"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned the cook,"
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“usually trusts little among\nthemselves, and right they are, you may lay to it. But I have a way with\nme, I have. When a mate brings a slip on his cable--one as knows me, I\nmean--it won’t be in the same world with old John. There was some that\nwas feared of Pew, and some that was feared of Flint; but Flint his own\nself was feared of me. Feared he was, and proud. They was the roughest\ncrew afloat, was Flint’s; the devil himself would have been feared to go\nto sea with them. Well now, I tell you, I’m not a boasting man, and you\nseen yourself how easy I keep company, but when I was quartermaster,\nLAMBS wasn’t the word for Flint’s old buccaneers. Ah, you may be sure of\nyourself in old John’s ship.”"
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Well, I tell you now,” replied the lad, “I didn’t half a quarter like\nthe job till I had this talk with you, John; but there’s my hand on it\nnow.”"
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“And a brave lad you were, and smart too,”"
+  },
+  {
+   "n": 29,
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "answered Silver, shaking\nhands so heartily that all the barrel shook,"
+  },
+  {
+   "n": 30,
+   "para": 16,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“and a finer figurehead for\na gentleman of fortune I never clapped my eyes on.”"
+  },
+  {
+   "n": 31,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "By this time I had begun to understand the meaning of their terms. By a\n“gentleman of fortune” they plainly meant neither more nor less than a\ncommon pirate, and the little scene that I had overheard was the last\nact in the corruption of one of the honest hands--perhaps of the last\none left aboard. But on this point I was soon to be relieved, for Silver\ngiving a little whistle, a third man strolled up and sat down by the\nparty."
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Dick’s square,”"
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver."
+  },
+  {
+   "n": 34,
+   "para": 19,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“Oh, I know’d Dick was square,”"
+  },
+  {
+   "n": 35,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned the voice of the coxswain,\nIsrael Hands."
+  },
+  {
+   "n": 36,
+   "para": 19,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“He’s no fool, is Dick.”"
+  },
+  {
+   "n": 37,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And he turned his quid and spat."
+  },
+  {
+   "n": 38,
+   "para": 19,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“But look here,”"
+  },
+  {
+   "n": 39,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he went on,"
+  },
+  {
+   "n": 40,
+   "para": 19,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“here’s what I want to know, Barbecue: how\nlong are we a-going to stand off and on like a blessed bumboat? I’ve had\na’most enough o’ Cap’n Smollett; he’s hazed me long enough, by thunder!\nI want to go into that cabin, I do. I want their pickles and wines, and\nthat.”"
+  },
+  {
+   "n": 41,
+   "para": 20,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Israel,”"
+  },
+  {
+   "n": 42,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver,"
+  },
+  {
+   "n": 43,
+   "para": 20,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“your head ain’t much account, nor ever was. But\nyou’re able to hear, I reckon; leastways, your ears is big enough.\nNow, here’s what I say: you’ll berth forward, and you’ll live hard, and\nyou’ll speak soft, and you’ll keep sober till I give the word; and you\nmay lay to that, my son.”"
+  },
+  {
+   "n": 44,
+   "para": 21,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“Well, I don’t say no, do I?”"
+  },
+  {
+   "n": 45,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "growled the coxswain."
+  },
+  {
+   "n": 46,
+   "para": 21,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“What I say is,\nwhen? That’s what I say.”"
+  },
+  {
+   "n": 47,
+   "para": 22,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“When! By the powers!”"
+  },
+  {
+   "n": 48,
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried Silver."
+  },
+  {
+   "n": 49,
+   "para": 22,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Well now, if you want to know,\nI’ll tell you when. The last moment I can manage, and that’s when.\nHere’s a first-rate seaman, Cap’n Smollett, sails the blessed ship for\nus. Here’s this squire and doctor with a map and such--I don’t know\nwhere it is, do I? No more do you, says you. Well then, I mean this\nsquire and doctor shall find the stuff, and help us to get it aboard,\nby the powers. Then we’ll see. If I was sure of you all, sons of double\nDutchmen, I’d have Cap’n Smollett navigate us half-way back again before\nI struck.”"
+  },
+  {
+   "n": 50,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Why, we’re all seamen aboard here, I should think,” said the lad Dick."
+  },
+  {
+   "n": 51,
+   "para": 24,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“We’re all forecastle hands, you mean,”"
+  },
+  {
+   "n": 52,
+   "para": 24,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "snapped Silver."
+  },
+  {
+   "n": 53,
+   "para": 24,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“We can steer\na course, but who’s to set one? That’s what all you gentlemen split on,\nfirst and last. If I had my way, I’d have Cap’n Smollett work us back\ninto the trades at least; then we’d have no blessed miscalculations and\na spoonful of water a day. But I know the sort you are. I’ll finish with\n’em at the island, as soon’s the blunt’s on board, and a pity it is. But\nyou’re never happy till you’re drunk. Split my sides, I’ve a sick heart\nto sail with the likes of you!”"
+  },
+  {
+   "n": 54,
+   "para": 25,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“Easy all, Long John,”"
+  },
+  {
+   "n": 55,
+   "para": 25,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried Israel."
+  },
+  {
+   "n": 56,
+   "para": 25,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“Who’s a-crossin’ of you?”"
+  },
+  {
+   "n": 57,
+   "para": 26,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Why, how many tall ships, think ye, now, have I seen laid aboard? And\nhow many brisk lads drying in the sun at Execution Dock?”"
+  },
+  {
+   "n": 58,
+   "para": 26,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried Silver."
+  },
+  {
+   "n": 59,
+   "para": 26,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“And all for this same hurry and hurry and hurry. You hear me? I seen\na thing or two at sea, I have. If you would on’y lay your course, and a\np’int to windward, you would ride in carriages, you would. But not you!\nI know you. You’ll have your mouthful of rum tomorrow, and go hang.”"
+  },
+  {
+   "n": 60,
+   "para": 27,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“Everybody knowed you was a kind of a chapling, John; but there’s others\nas could hand and steer as well as you,”"
+  },
+  {
+   "n": 61,
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Israel."
+  },
+  {
+   "n": 62,
+   "para": 27,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“They liked a bit\no’ fun, they did. They wasn’t so high and dry, nohow, but took their\nfling, like jolly companions every one.”"
+  },
+  {
+   "n": 63,
+   "para": 28,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“So?”"
+  },
+  {
+   "n": 64,
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "says Silver."
+  },
+  {
+   "n": 65,
+   "para": 28,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Well, and where are they now? Pew was that sort,\nand he died a beggar-man. Flint was, and he died of rum at Savannah. Ah,\nthey was a sweet crew, they was! On’y, where are they?”"
+  },
+  {
+   "n": 66,
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“But,” asked Dick, “when we do lay ’em athwart, what are we to do with\n’em, anyhow?”"
+  },
+  {
+   "n": 67,
+   "para": 30,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“There’s the man for me!”"
+  },
+  {
+   "n": 68,
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the cook admiringly."
+  },
+  {
+   "n": 69,
+   "para": 30,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“That’s what I call\nbusiness. Well, what would you think? Put ’em ashore like maroons? That\nwould have been England’s way. Or cut ’em down like that much pork? That\nwould have been Flint’s, or Billy Bones’s.”"
+  },
+  {
+   "n": 70,
+   "para": 31,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“Billy was the man for that,”"
+  },
+  {
+   "n": 71,
+   "para": 31,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Israel."
+  },
+  {
+   "n": 72,
+   "para": 31,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“‘Dead men don’t bite,’ says\nhe. Well, he’s dead now hisself; he knows the long and short on it now;\nand if ever a rough hand come to port, it was Billy.”"
+  },
+  {
+   "n": 73,
+   "para": 32,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Right you are,”"
+  },
+  {
+   "n": 74,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver;"
+  },
+  {
+   "n": 75,
+   "para": 32,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“rough and ready. But mark you here,\nI’m an easy man--I’m quite the gentleman, says you; but this time it’s\nserious. Dooty is dooty, mates. I give my vote--death. When I’m in\nParlyment and riding in my coach, I don’t want none of these sea-lawyers\nin the cabin a-coming home, unlooked for, like the devil at prayers.\nWait is what I say; but when the time comes, why, let her rip!”"
+  },
+  {
+   "n": 76,
+   "para": 33,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“John,”"
+  },
+  {
+   "n": 77,
+   "para": 33,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cries the coxswain,"
+  },
+  {
+   "n": 78,
+   "para": 33,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“you’re a man!”"
+  },
+  {
+   "n": 79,
+   "para": 34,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“You’ll say so, Israel when you see,”"
+  },
+  {
+   "n": 80,
+   "para": 34,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver."
+  },
+  {
+   "n": 81,
+   "para": 34,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Only one thing I\nclaim--I claim Trelawney. I’ll wring his calf’s head off his body with\nthese hands, Dick!”"
+  },
+  {
+   "n": 82,
+   "para": 34,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he added, breaking off."
+  },
+  {
+   "n": 83,
+   "para": 34,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“You just jump up, like a\nsweet lad, and get me an apple, to wet my pipe like.”"
+  },
+  {
+   "n": 84,
+   "para": 35,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "You may fancy the terror I was in! I should have leaped out and run for\nit if I had found the strength, but my limbs and heart alike misgave me.\nI heard Dick begin to rise, and then someone seemingly stopped him, and\nthe voice of Hands exclaimed,"
+  },
+  {
+   "n": 85,
+   "para": 35,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“Oh, stow that! Don’t you get sucking of\nthat bilge, John. Let’s have a go of the rum.”"
+  },
+  {
+   "n": 86,
+   "para": 36,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Dick,”"
+  },
+  {
+   "n": 87,
+   "para": 36,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver,"
+  },
+  {
+   "n": 88,
+   "para": 36,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“I trust you. I’ve a gauge on the keg, mind.\nThere’s the key; you fill a pannikin and bring it up.”"
+  },
+  {
+   "n": 89,
+   "para": 37,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Terrified as I was, I could not help thinking to myself that this must\nhave been how Mr. Arrow got the strong waters that destroyed him."
+  },
+  {
+   "n": 90,
+   "para": 38,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Dick was gone but a little while, and during his absence Israel spoke\nstraight on in the cook’s ear. It was but a word or two that I could\ncatch, and yet I gathered some important news, for besides other scraps\nthat tended to the same purpose, this whole clause was audible:"
+  },
+  {
+   "n": 91,
+   "para": 38,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“Not\nanother man of them’ll jine.”"
+  },
+  {
+   "n": 92,
+   "para": 38,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Hence there were still faithful men on\nboard."
+  },
+  {
+   "n": 93,
+   "para": 39,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "When Dick returned, one after another of the trio took the pannikin and\ndrank--one “To luck,” another with a"
+  },
+  {
+   "n": 94,
+   "para": 39,
+   "role": "Israel Hands",
+   "cast": "Charles Babbage",
+   "text": "“Here’s to old Flint,”"
+  },
+  {
+   "n": 95,
+   "para": 39,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "and Silver\nhimself saying, in a kind of song,"
+  },
+  {
+   "n": 96,
+   "para": 39,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Here’s to ourselves, and hold your\nluff, plenty of prizes and plenty of duff.”"
+  },
+  {
+   "n": 97,
+   "score": {
+    "key": null,
+    "xfade": 4,
+    "at": "Land ho!"
+   },
+   "sfx": [
+    {
+     "key": "bell_alarm",
+     "at": "Land ho!"
+    }
+   ],
+   "para": 40,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Just then a sort of brightness fell upon me in the barrel, and looking\nup, I found the moon had risen and was silvering the mizzen-top and\nshining white on the luff of the fore-sail; and almost at the same time\nthe voice of the lookout shouted, “Land ho!”"
+  }
+ ]
+}

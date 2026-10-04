@@ -1,0 +1,793 @@
+{
+ "work": "treasure-island",
+ "episode": 15,
+ "chapter": 15,
+ "title": "The Man of the Island",
+ "document": "PART THREE · CHAPTER XV",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch15.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Ben Gunn",
+   "cast_as": "James Joyce"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  },
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER XV"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "THE MAN OF THE ISLAND"
+  },
+  {
+   "n": 3,
+   "sfx": [
+    {
+     "key": "gravel",
+     "at": "fell rattling and bounding through the trees"
+    }
+   ],
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "From the side of the hill, which was here steep and stony, a spout of\ngravel was dislodged and fell rattling and bounding through the trees.\nMy eyes turned instinctively in that direction, and I saw a figure leap\nwith great rapidity behind the trunk of a pine. What it was, whether\nbear or man or monkey, I could in no wise tell. It seemed dark and\nshaggy; more I knew not. But the terror of this new apparition brought\nme to a stand."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I was now, it seemed, cut off upon both sides; behind me the murderers,\nbefore me this lurking nondescript. And immediately I began to prefer\nthe dangers that I knew to those I knew not. Silver himself appeared\nless terrible in contrast with this creature of the woods, and I turned\non my heel, and looking sharply behind me over my shoulder, began to\nretrace my steps in the direction of the boats."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Instantly the figure reappeared, and making a wide circuit, began to\nhead me off. I was tired, at any rate; but had I been as fresh as when I\nrose, I could see it was in vain for me to contend in speed with such an\nadversary. From trunk to trunk the creature flitted like a deer, running\nmanlike on two legs, but unlike any man that I had ever seen, stooping\nalmost double as it ran. Yet a man it was, I could no longer be in doubt\nabout that."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I began to recall what I had heard of cannibals. I was within an ace of\ncalling for help. But the mere fact that he was a man, however wild,\nhad somewhat reassured me, and my fear of Silver began to revive in\nproportion. I stood still, therefore, and cast about for some method of\nescape; and as I was so thinking, the recollection of my pistol flashed\ninto my mind. As soon as I remembered I was not defenceless, courage\nglowed again in my heart and I set my face resolutely for this man of\nthe island and walked briskly towards him."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "He was concealed by this time behind another tree trunk; but he must\nhave been watching me closely, for as soon as I began to move in his\ndirection he reappeared and took a step to meet me. Then he hesitated,\ndrew back, came forward again, and at last, to my wonder and\nconfusion, threw himself on his knees and held out his clasped hands in\nsupplication."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At that I once more stopped."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Who are you?” I asked."
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Ben Gunn,”"
+  },
+  {
+   "n": 11,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he answered, and his voice sounded hoarse and awkward,\nlike a rusty lock."
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“I’m poor Ben Gunn, I am; and I haven’t spoke with a\nChristian these three years.”"
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I could now see that he was a white man like myself and that his\nfeatures were even pleasing. His skin, wherever it was exposed, was\nburnt by the sun; even his lips were black, and his fair eyes looked\nquite startling in so dark a face. Of all the beggar-men that I had seen\nor fancied, he was the chief for raggedness. He was clothed with tatters\nof old ship’s canvas and old sea-cloth, and this extraordinary patchwork\nwas all held together by a system of the most various and incongruous\nfastenings, brass buttons, bits of stick, and loops of tarry gaskin.\nAbout his waist he wore an old brass-buckled leather belt, which was the\none thing solid in his whole accoutrement."
+  },
+  {
+   "n": 14,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Three years!” I cried. “Were you shipwrecked?”"
+  },
+  {
+   "n": 15,
+   "para": 12,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Nay, mate,”"
+  },
+  {
+   "n": 16,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said he;"
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“marooned.”"
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I had heard the word, and I knew it stood for a horrible kind of\npunishment common enough among the buccaneers, in which the offender\nis put ashore with a little powder and shot and left behind on some\ndesolate and distant island."
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Marooned three years agone,”"
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he continued,"
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“and lived on goats since\nthen, and berries, and oysters. Wherever a man is, says I, a man can\ndo for himself. But, mate, my heart is sore for Christian diet. You\nmightn’t happen to have a piece of cheese about you, now? No? Well,\nmany’s the long night I’ve dreamed of cheese--toasted, mostly--and woke\nup again, and here I were.”"
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“If ever I can get aboard again,” said I, “you shall have cheese by the\nstone.”"
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "All this time he had been feeling the stuff of my jacket, smoothing\nmy hands, looking at my boots, and generally, in the intervals of\nhis speech, showing a childish pleasure in the presence of a fellow\ncreature. But at my last words he perked up into a kind of startled\nslyness."
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“If ever you can get aboard again, says you?”"
+  },
+  {
+   "n": 25,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he repeated."
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Why, now,\nwho’s to hinder you?”"
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Not you, I know,” was my reply."
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“And right you was,”"
+  },
+  {
+   "n": 29,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he cried."
+  },
+  {
+   "n": 30,
+   "para": 19,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Now you--what do you call yourself,\nmate?”"
+  },
+  {
+   "n": 31,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Jim,” I told him."
+  },
+  {
+   "n": 32,
+   "para": 21,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Jim, Jim,”"
+  },
+  {
+   "n": 33,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "says he, quite pleased apparently."
+  },
+  {
+   "n": 34,
+   "para": 21,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Well, now, Jim, I’ve\nlived that rough as you’d be ashamed to hear of. Now, for instance, you\nwouldn’t think I had had a pious mother--to look at me?”"
+  },
+  {
+   "n": 35,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he asked."
+  },
+  {
+   "n": 36,
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Why, no, not in particular,” I answered."
+  },
+  {
+   "n": 37,
+   "para": 23,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Ah, well,”"
+  },
+  {
+   "n": 38,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said he,"
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“but I had--_re_markable pious. And I was a civil,\npious boy, and could rattle off my catechism that fast, as you couldn’t\ntell one word from another. And here’s what it come to, Jim, and it\nbegun with chuck-farthen on the blessed grave-stones! That’s what it\nbegun with, but it went further’n that; and so my mother told me, and\npredicked the whole, she did, the pious woman! But it were Providence\nthat put me here. I’ve thought it all out in this here lonely island,\nand I’m back on piety. You don’t catch me tasting rum so much, but just\na thimbleful for luck, of course, the first chance I have. I’m bound\nI’ll be good, and I see the way to. And, Jim”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "--looking all round him and\nlowering his voice to a whisper--"
+  },
+  {
+   "n": 41,
+   "para": 23,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“I’m rich.”"
+  },
+  {
+   "n": 42,
+   "para": 24,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I now felt sure that the poor fellow had gone crazy in his solitude, and\nI suppose I must have shown the feeling in my face, for he repeated the\nstatement hotly:"
+  },
+  {
+   "n": 43,
+   "para": 24,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Rich! Rich! I says. And I’ll tell you what: I’ll make\na man of you, Jim. Ah, Jim, you’ll bless your stars, you will, you was\nthe first that found me!”"
+  },
+  {
+   "n": 44,
+   "para": 25,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And at this there came suddenly a lowering shadow over his face, and he\ntightened his grasp upon my hand and raised a forefinger threateningly\nbefore my eyes."
+  },
+  {
+   "n": 45,
+   "para": 26,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Now, Jim, you tell me true: that ain’t Flint’s ship?”"
+  },
+  {
+   "n": 46,
+   "para": 26,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he asked."
+  },
+  {
+   "n": 47,
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At this I had a happy inspiration. I began to believe that I had found\nan ally, and I answered him at once."
+  },
+  {
+   "n": 48,
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“It’s not Flint’s ship, and Flint is dead; but I’ll tell you true, as\nyou ask me--there are some of Flint’s hands aboard; worse luck for the\nrest of us.”"
+  },
+  {
+   "n": 49,
+   "para": 29,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Not a man--with one--leg?”"
+  },
+  {
+   "n": 50,
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he gasped."
+  },
+  {
+   "n": 51,
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Silver?” I asked."
+  },
+  {
+   "n": 52,
+   "para": 31,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Ah, Silver!”"
+  },
+  {
+   "n": 53,
+   "para": 31,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "says he."
+  },
+  {
+   "n": 54,
+   "para": 31,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“That were his name.”"
+  },
+  {
+   "n": 55,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“He’s the cook, and the ringleader too.”"
+  },
+  {
+   "n": 56,
+   "para": 33,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "He was still holding me by the wrist, and at that he give it quite a\nwring."
+  },
+  {
+   "n": 57,
+   "para": 34,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“If you was sent by Long John,”"
+  },
+  {
+   "n": 58,
+   "para": 34,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he said,"
+  },
+  {
+   "n": 59,
+   "para": 34,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“I’m as good as pork, and I\nknow it. But where was you, do you suppose?”"
+  },
+  {
+   "n": 60,
+   "para": 35,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I had made my mind up in a moment, and by way of answer told him\nthe whole story of our voyage and the predicament in which we found\nourselves. He heard me with the keenest interest, and when I had done he\npatted me on the head."
+  },
+  {
+   "n": 61,
+   "para": 36,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“You’re a good lad, Jim,”"
+  },
+  {
+   "n": 62,
+   "para": 36,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he said;"
+  },
+  {
+   "n": 63,
+   "para": 36,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“and you’re all in a clove hitch,\nain’t you? Well, you just put your trust in Ben Gunn--Ben Gunn’s the man\nto do it. Would you think it likely, now, that your squire would prove\na liberal-minded one in case of help--him being in a clove hitch, as you\nremark?”"
+  },
+  {
+   "n": 64,
+   "para": 37,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I told him the squire was the most liberal of men."
+  },
+  {
+   "n": 65,
+   "para": 38,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Aye, but you see,”"
+  },
+  {
+   "n": 66,
+   "para": 38,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned Ben Gunn,"
+  },
+  {
+   "n": 67,
+   "para": 38,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“I didn’t mean giving me a gate\nto keep, and a suit of livery clothes, and such; that’s not my mark,\nJim. What I mean is, would he be likely to come down to the toon of, say\none thousand pounds out of money that’s as good as a man’s own already?”"
+  },
+  {
+   "n": 68,
+   "para": 39,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“I am sure he would,” said I. “As it was, all hands were to share.”"
+  },
+  {
+   "n": 69,
+   "para": 40,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“AND a passage home?”"
+  },
+  {
+   "n": 70,
+   "para": 40,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he added with a look of great shrewdness."
+  },
+  {
+   "n": 71,
+   "para": 41,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Why,” I cried, “the squire’s a gentleman. And besides, if we got rid of\nthe others, we should want you to help work the vessel home.”"
+  },
+  {
+   "n": 72,
+   "para": 42,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Ah,”"
+  },
+  {
+   "n": 73,
+   "para": 42,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said he,"
+  },
+  {
+   "n": 74,
+   "para": 42,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“so you would.”"
+  },
+  {
+   "n": 75,
+   "para": 42,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And he seemed very much relieved."
+  },
+  {
+   "n": 76,
+   "para": 43,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Now, I’ll tell you what,”"
+  },
+  {
+   "n": 77,
+   "para": 43,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he went on."
+  },
+  {
+   "n": 78,
+   "para": 43,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“So much I’ll tell you, and no\nmore. I were in Flint’s ship when he buried the treasure; he and\nsix along--six strong seamen. They was ashore nigh on a week, and us\nstanding off and on in the old WALRUS. One fine day up went the signal,\nand here come Flint by himself in a little boat, and his head done up in\na blue scarf. The sun was getting up, and mortal white he looked about\nthe cutwater. But, there he was, you mind, and the six all dead--dead\nand buried. How he done it, not a man aboard us could make out. It was\nbattle, murder, and sudden death, leastways--him against six. Billy\nBones was the mate; Long John, he was quartermaster; and they asked him\nwhere the treasure was. ‘Ah,’ says he, ‘you can go ashore, if you like,\nand stay,’ he says; ‘but as for the ship, she’ll beat up for more, by\nthunder!’ That’s what he said."
+  },
+  {
+   "n": 79,
+   "para": 44,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Well, I was in another ship three years back, and we sighted this\nisland. ‘Boys,’ said I, ‘here’s Flint’s treasure; let’s land and find\nit.’ The cap’n was displeased at that, but my messmates were all of a\nmind and landed. Twelve days they looked for it, and every day they had\nthe worse word for me, until one fine morning all hands went aboard. ‘As\nfor you, Benjamin Gunn,’ says they, ‘here’s a musket,’ they says, ‘and\na spade, and pick-axe. You can stay here and find Flint’s money for\nyourself,’ they says."
+  },
+  {
+   "n": 80,
+   "para": 45,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Well, Jim, three years have I been here, and not a bite of Christian\ndiet from that day to this. But now, you look here; look at me. Do I\nlook like a man before the mast? No, says you. Nor I weren’t, neither, I\nsays.”"
+  },
+  {
+   "n": 81,
+   "para": 46,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And with that he winked and pinched me hard."
+  },
+  {
+   "n": 82,
+   "para": 47,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Just you mention them words to your squire, Jim,”"
+  },
+  {
+   "n": 83,
+   "para": 47,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he went on."
+  },
+  {
+   "n": 84,
+   "para": 47,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Nor he\nweren’t, neither--that’s the words. Three years he were the man of this\nisland, light and dark, fair and rain; and sometimes he would maybe\nthink upon a prayer (says you), and sometimes he would maybe think of\nhis old mother, so be as she’s alive (you’ll say); but the most part\nof Gunn’s time (this is what you’ll say)--the most part of his time was\ntook up with another matter. And then you’ll give him a nip, like I do.”"
+  },
+  {
+   "n": 85,
+   "para": 48,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And he pinched me again in the most confidential manner."
+  },
+  {
+   "n": 86,
+   "para": 49,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Then,”"
+  },
+  {
+   "n": 87,
+   "para": 49,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he continued,"
+  },
+  {
+   "n": 88,
+   "para": 49,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“then you’ll up, and you’ll say this: Gunn is a\ngood man (you’ll say), and he puts a precious sight more confidence--a\nprecious sight, mind that--in a gen’leman born than in these gen’leman\nof fortune, having been one hisself.”"
+  },
+  {
+   "n": 89,
+   "para": 50,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Well,” I said, “I don’t understand one word that you’ve been saying.\nBut that’s neither here nor there; for how am I to get on board?”"
+  },
+  {
+   "n": 90,
+   "para": 51,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Ah,”"
+  },
+  {
+   "n": 91,
+   "para": 51,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said he,"
+  },
+  {
+   "n": 92,
+   "para": 51,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“that’s the hitch, for sure. Well, there’s my boat, that\nI made with my two hands. I keep her under the white rock. If the worst\ncome to the worst, we might try that after dark. Hi!”"
+  },
+  {
+   "n": 93,
+   "para": 51,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he broke out."
+  },
+  {
+   "n": 94,
+   "para": 51,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“What’s that?”"
+  },
+  {
+   "n": 95,
+   "sfx": [
+    {
+     "key": "cannon_island",
+     "at": "bellowed to the thunder of a cannon"
+    }
+   ],
+   "para": 52,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "For just then, although the sun had still an hour or two to run, all the\nechoes of the island awoke and bellowed to the thunder of a cannon."
+  },
+  {
+   "n": 96,
+   "para": 53,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“They have begun to fight!” I cried. “Follow me.”"
+  },
+  {
+   "n": 97,
+   "para": 54,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And I began to run towards the anchorage, my terrors all forgotten,\nwhile close at my side the marooned man in his goatskins trotted easily\nand lightly."
+  },
+  {
+   "n": 98,
+   "para": 55,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“Left, left,”"
+  },
+  {
+   "n": 99,
+   "para": 55,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "says he;"
+  },
+  {
+   "n": 100,
+   "para": 55,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“keep to your left hand, mate Jim! Under the\ntrees with you! Theer’s where I killed my first goat. They don’t come\ndown here now; they’re all mastheaded on them mountings for the fear\nof Benjamin Gunn. Ah! And there’s the cetemery”"
+  },
+  {
+   "n": 101,
+   "para": 55,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "--cemetery, he must have\nmeant."
+  },
+  {
+   "n": 102,
+   "para": 55,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“You see the mounds? I come here and prayed, nows and thens, when\nI thought maybe a Sunday would be about doo. It weren’t quite a chapel,\nbut it seemed more solemn like; and then, says you, Ben Gunn was\nshort-handed--no chapling, nor so much as a Bible and a flag, you says.”"
+  },
+  {
+   "n": 103,
+   "para": 56,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "So he kept talking as I ran, neither expecting nor receiving any answer."
+  },
+  {
+   "n": 104,
+   "sfx": [
+    {
+     "key": "musket_volley_far",
+     "at": "followed after a considerable interval by a volley of small arms"
+    }
+   ],
+   "para": 57,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The cannon-shot was followed after a considerable interval by a volley\nof small arms."
+  },
+  {
+   "n": 105,
+   "para": 58,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Another pause, and then, not a quarter of a mile in front of me, I\nbeheld the Union Jack flutter in the air above a wood."
+  }
+ ]
+}

@@ -262,3 +262,411 @@ Every quotation and the voice it was given. **Tagged** lines follow Stevenson’
 - ¶53 · **Dr Livesey** · “for you cannot hold your tongue. We are not the only men who know of this paper. These fellows w…
 - ¶54 · **Squire Trelawney** · “Livesey,”
 - ¶54 · **Squire Trelawney** · “you are always in the right of it. I’ll be as silent as the grave.”
+
+## Chapter VII — I Go to Bristol
+
+- ¶4 · **Jim Hawkins** · *corrected* · “To be opened, in the case of his absence, by Tom Redruth or young Hawkins.”
+- ¶9 · **Jim Hawkins** · “Redruth,”
+- ¶9 · **Jim Hawkins** · “Dr. Livesey will not like that. The squire has been talking, after all.”
+- ¶10 · **Jim Hawkins** · *corrected* · “Well, who’s a better right?”
+- ¶10 · **Jim Hawkins** · *corrected* · “A pretty rum go if squire ain’t to talk for Dr. Livesey, I should think.”
+- ¶29 · **Jim Hawkins** · “Where are we?”
+- ¶30 · **Jim Hawkins** · “Bristol,”
+- ¶30 · **Jim Hawkins** · “Get down.”
+- ¶34 · **Squire Trelawney** · *corrected* · “Here you are,”
+- ¶34 · **Squire Trelawney** · *corrected* · “and the doctor came last night from London. Bravo! The ship’s company complete!”
+- ¶35 · **Jim Hawkins** · “Oh, sir,”
+- ¶35 · **Jim Hawkins** · “when do we sail?”
+- ¶36 · **Squire Trelawney** · *corrected* · “Sail!”
+- ¶36 · **Squire Trelawney** · *corrected* · “We sail tomorrow!”
+- ¶5–8, ¶12–23 · **Squire Trelawney** · his letter, read in his own voice
+
+## Chapter VIII — At the Sign of the Spy-glass
+
+- ¶8 · **Jim Hawkins** · “Mr. Silver, sir?”
+- ¶9 · **Long John Silver** · *corrected* · “Yes, my lad,”
+- ¶9 · **Long John Silver** · *corrected* · “such is my name, to be sure. And who may you be?”
+- ¶10 · **Long John Silver** · *corrected* · “Oh!”
+- ¶10 · **Long John Silver** · *corrected* · “I see. You are our new cabin-boy; pleased I am to see you.”
+- ¶13 · **Jim Hawkins** · “Oh,”
+- ¶13 · **Jim Hawkins** · “stop him! It’s Black Dog!”
+- ¶14 · **Long John Silver** · “I don’t care two coppers who he is,”
+- ¶14 · **Long John Silver** · “But he hasn’t paid his score. Harry, run and catch him.”
+- ¶16 · **Long John Silver** · *corrected* · “If he were Admiral Hawke he shall pay his score,”
+- ¶16 · **Long John Silver** · *corrected* · “Who did you say he was?”
+- ¶16 · **Long John Silver** · *corrected* · “Black what?”
+- ¶17 · **Jim Hawkins** · “Dog, sir,”
+- ¶17 · **Jim Hawkins** · “Has Mr. Trelawney not told you of the buccaneers? He was one of them.”
+- ¶18 · **Long John Silver** · “So?”
+- ¶18 · **Long John Silver** · “In my house! Ben, run and help Harry. One of those swabs, was he? Was that you drinking with him…
+- ¶20 · **Long John Silver** · “Now, Morgan,”
+- ¶20 · **Long John Silver** · “you never clapped your eyes on that Black--Black Dog before, did you, now?”
+- ¶21 · **Jim Hawkins** · “Not I, sir,”
+- ¶22 · **Long John Silver** · *corrected* · “You didn’t know his name, did you?”
+- ¶23 · **Jim Hawkins** · *corrected* · “No, sir.”
+- ¶24 · **Long John Silver** · *inferred* · “By the powers, Tom Morgan, it’s as good for you!”
+- ¶24 · **Long John Silver** · *inferred* · “If you had been mixed up with the like of that, you would never have put another foot in my hous…
+- ¶25 · **Jim Hawkins** · “I don’t rightly know, sir,”
+- ¶26 · **Long John Silver** · “Do you call that a head on your shoulders, or a blessed dead-eye?”
+- ¶26 · **Long John Silver** · “Don’t rightly know, don’t you! Perhaps you don’t happen to rightly know who you was speaking to,…
+- ¶27 · **Jim Hawkins** · “We was a-talkin’ of keel-hauling,”
+- ¶28 · **Long John Silver** · *corrected* · “Keel-hauling, was you? And a mighty suitable thing, too, and you may lay to that. Get back to yo…
+- ¶29 · **Long John Silver** · *corrected* · “He’s quite an honest man, Tom Morgan, on’y stupid. And now,”
+- ¶29 · **Long John Silver** · *corrected* · “let’s see--Black Dog? No, I don’t know the name, not I. Yet I kind of think I’ve--yes, I’ve seen…
+- ¶30 · **Jim Hawkins** · “That he did, you may be sure,”
+- ¶30 · **Jim Hawkins** · “I knew that blind man too. His name was Pew.”
+- ¶31 · **Long John Silver** · “It was!”
+- ¶31 · **Long John Silver** · “Pew! That were his name for certain. Ah, he looked a shark, he did! If we run down this Black Do…
+- ¶33 · **Long John Silver** · *corrected* · “See here, now, Hawkins,”
+- ¶33 · **Long John Silver** · *corrected* · “here’s a blessed hard thing on a man like me, now, ain’t it? There’s Cap’n Trelawney--what’s he …
+- ¶35 · **Long John Silver** · *inferred* · “The score!”
+- ¶35 · **Long John Silver** · *inferred* · “Three goes o’ rum! Why, shiver my timbers, if I hadn’t forgotten my score!”
+- ¶37 · **Long John Silver** · *corrected* · “Why, what a precious old sea-calf I am!”
+- ¶37 · **Long John Silver** · *corrected* · “You and me should get on well, Hawkins, for I’ll take my davy I should be rated ship’s boy. But …
+- ¶41 · **Long John Silver** · *corrected* · “That was how it were, now, weren’t it, Hawkins?”
+- ¶43 · **Squire Trelawney** · “All hands aboard by four this afternoon,”
+- ¶44 · **Long John Silver** · “Aye, aye, sir,”
+- ¶45 · **Dr Livesey** · “Well, squire,”
+- ¶45 · **Dr Livesey** · “I don’t put much faith in your discoveries, as a general thing; but I will say this, John Silver…
+- ¶46 · **Squire Trelawney** · “The man’s a perfect trump,”
+- ¶47 · **Dr Livesey** · “And now,”
+- ¶47 · **Dr Livesey** · “Jim may come on board with us, may he not?”
+- ¶48 · **Squire Trelawney** · *inferred* · “To be sure he may,”
+- ¶48 · **Squire Trelawney** · *inferred* · “Take your hat, Hawkins, and we’ll see the ship.”
+
+## Chapter IX — Powder and Arms
+
+- ¶4 · **Jim Hawkins** · *corrected* · “Captain Smollett, sir, axing to speak with you,”
+- ¶5 · **Squire Trelawney** · “I am always at the captain’s orders. Show him in,”
+- ¶7 · **Squire Trelawney** · *corrected* · “Well, Captain Smollett, what have you to say? All well, I hope; all shipshape and seaworthy?”
+- ¶8 · **Captain Smollett** · “Well, sir,”
+- ¶8 · **Captain Smollett** · “better speak plain, I believe, even at the risk of offence. I don’t like this cruise; I don’t li…
+- ¶9 · **Squire Trelawney** · “Perhaps, sir, you don’t like the ship?”
+- ¶10 · **Captain Smollett** · “I can’t speak as to that, sir, not having seen her tried,”
+- ¶10 · **Captain Smollett** · “She seems a clever craft; more I can’t say.”
+- ¶11 · **Squire Trelawney** · “Possibly, sir, you may not like your employer, either?”
+- ¶13 · **Dr Livesey** · *corrected* · “Stay a bit,”
+- ¶13 · **Dr Livesey** · *corrected* · “stay a bit. No use of such questions as that but to produce ill feeling. The captain has said to…
+- ¶14 · **Captain Smollett** · “I was engaged, sir, on what we call sealed orders, to sail this ship for that gentleman where he…
+- ¶14 · **Captain Smollett** · “So far so good. But now I find that every man before the mast knows more than I do. I don’t call…
+- ¶15 · **Dr Livesey** · “No,”
+- ¶15 · **Dr Livesey** · “I don’t.”
+- ¶16 · **Captain Smollett** · “Next,”
+- ¶16 · **Captain Smollett** · “I learn we are going after treasure--hear it from my own hands, mind you. Now, treasure is tickl…
+- ¶17 · **Squire Trelawney** · “Silver’s parrot?”
+- ¶18 · **Captain Smollett** · “It’s a way of speaking,”
+- ¶18 · **Captain Smollett** · “Blabbed, I mean. It’s my belief neither of you gentlemen know what you are about, but I’ll tell …
+- ¶19 · **Dr Livesey** · “That is all clear, and, I dare say, true enough,”
+- ¶19 · **Dr Livesey** · “We take the risk, but we are not so ignorant as you believe us. Next, you say you don’t like the…
+- ¶20 · **Captain Smollett** · “I don’t like them, sir,”
+- ¶20 · **Captain Smollett** · “And I think I should have had the choosing of my own hands, if you go to that.”
+- ¶21 · **Dr Livesey** · “Perhaps you should,”
+- ¶21 · **Dr Livesey** · “My friend should, perhaps, have taken you along with him; but the slight, if there be one, was u…
+- ¶22 · **Captain Smollett** · *corrected* · “I don’t, sir. I believe he’s a good seaman, but he’s too free with the crew to be a good officer…
+- ¶23 · **Squire Trelawney** · “Do you mean he drinks?”
+- ¶24 · **Captain Smollett** · “No, sir,”
+- ¶24 · **Captain Smollett** · “only that he’s too familiar.”
+- ¶25 · **Dr Livesey** · “Well, now, and the short and long of it, captain?”
+- ¶25 · **Dr Livesey** · “Tell us what you want.”
+- ¶26 · **Captain Smollett** · *corrected* · “Well, gentlemen, are you determined to go on this cruise?”
+- ¶27 · **Squire Trelawney** · “Like iron,”
+- ¶28 · **Captain Smollett** · “Very good,”
+- ¶28 · **Captain Smollett** · “Then, as you’ve heard me very patiently, saying things that I could not prove, hear me a few wor…
+- ¶29 · **Squire Trelawney** · “Any more?”
+- ¶30 · **Captain Smollett** · “One more,”
+- ¶30 · **Captain Smollett** · “There’s been too much blabbing already.”
+- ¶31 · **Dr Livesey** · “Far too much,”
+- ¶32 · **Captain Smollett** · “I’ll tell you what I’ve heard myself,”
+- ¶32 · **Captain Smollett** · “that you have a map of an island, that there’s crosses on the map to show where treasure is, and…
+- ¶33 · **Squire Trelawney** · “I never told that,”
+- ¶33 · **Squire Trelawney** · “to a soul!”
+- ¶34 · **Captain Smollett** · “The hands know it, sir,”
+- ¶35 · **Squire Trelawney** · “Livesey, that must have been you or Hawkins,”
+- ¶36 · **Dr Livesey** · “It doesn’t much matter who it was,”
+- ¶37 · **Captain Smollett** · “Well, gentlemen,”
+- ¶37 · **Captain Smollett** · “I don’t know who has this map; but I make it a point, it shall be kept secret even from me and M…
+- ¶38 · **Dr Livesey** · “I see,”
+- ¶38 · **Dr Livesey** · “You wish us to keep this matter dark and to make a garrison of the stern part of the ship, manne…
+- ¶39 · **Captain Smollett** · “Sir,”
+- ¶39 · **Captain Smollett** · “with no intention to take offence, I deny your right to put words into my mouth. No captain, sir…
+- ¶40 · **Dr Livesey** · “Captain Smollett,”
+- ¶40 · **Dr Livesey** · “did ever you hear the fable of the mountain and the mouse? You’ll excuse me, I dare say, but you…
+- ¶41 · **Captain Smollett** · “Doctor,”
+- ¶41 · **Captain Smollett** · “you are smart. When I came in here I meant to get discharged. I had no thought that Mr. Trelawne…
+- ¶42 · **Squire Trelawney** · “No more I would,”
+- ¶42 · **Squire Trelawney** · “Had Livesey not been here I should have seen you to the deuce. As it is, I have heard you. I wil…
+- ¶43 · **Captain Smollett** · “That’s as you please, sir,”
+- ¶43 · **Captain Smollett** · “You’ll find I do my duty.”
+- ¶45 · **Dr Livesey** · “Trelawney,”
+- ¶45 · **Dr Livesey** · “contrary to all my notions, I believed you have managed to get two honest men on board with you-…
+- ¶46 · **Squire Trelawney** · “Silver, if you like,”
+- ¶46 · **Squire Trelawney** · “but as for that intolerable humbug, I declare I think his conduct unmanly, unsailorly, and downr…
+- ¶47 · **Dr Livesey** · “Well,”
+- ¶47 · **Dr Livesey** · “we shall see.”
+- ¶51 · **Long John Silver** · *corrected* · “So ho, mates!”
+- ¶51 · **Long John Silver** · *corrected* · “What’s this?”
+- ¶52 · **Jim Hawkins** · *corrected* · “We’re a-changing of the powder, Jack,”
+- ¶53 · **Long John Silver** · “Why, by the powers,”
+- ¶53 · **Long John Silver** · “if we do, we’ll miss the morning tide!”
+- ¶54 · **Captain Smollett** · “My orders!”
+- ¶54 · **Captain Smollett** · “You may go below, my man. Hands will want supper.”
+- ¶55 · **Long John Silver** · “Aye, aye, sir,”
+- ¶56 · **Dr Livesey** · “That’s a good man, captain,”
+- ¶57 · **Captain Smollett** · “Very likely, sir,”
+- ¶57 · **Captain Smollett** · “Easy with that, men--easy,”
+- ¶57 · **Captain Smollett** · “Here you, ship’s boy,”
+- ¶57 · **Captain Smollett** · “out o’ that! Off with you to the cook and get some work.”
+- ¶58 · **Captain Smollett** · *corrected* · “I’ll have no favourites on my ship.”
+
+## Chapter X — The Voyage
+
+- ¶3 · **Jim Hawkins** · *corrected* · “Now, Barbecue, tip us a stave,”
+- ¶4 · **Jim Hawkins** · “The old one,”
+- ¶5 · **Long John Silver** · “Aye, aye, mates,”
+- ¶6 · **Long John Silver** · *corrected* · “Fifteen men on the dead man’s chest--”
+- ¶8 · **Jim Hawkins** · *corrected* · “Yo-ho-ho, and a bottle of rum!”
+- ¶9 · **Jim Hawkins** · *corrected* · “Ho!”
+- ¶15 · **Captain Smollett** · “Overboard!”
+- ¶15 · **Captain Smollett** · “Well, gentlemen, that saves the trouble of putting him in irons.”
+- ¶19 · **Israel Hands** · “He’s no common man, Barbecue,”
+- ¶19 · **Israel Hands** · “He had good schooling in his young days and can speak like a book when so minded; and brave--a l…
+- ¶21 · **Long John Silver** · *corrected* · “Come away, Hawkins,”
+- ¶21 · **Long John Silver** · *corrected* · “come and have a yarn with John. Nobody more welcome than yourself, my son. Sit you down and hear…
+- ¶22 · **Jim Hawkins** · *corrected* · “Pieces of eight! Pieces of eight! Pieces of eight!”
+- ¶23 · **Long John Silver** · *corrected* · “Now, that bird,”
+- ¶23 · **Long John Silver** · *corrected* · “is, maybe, two hundred years old, Hawkins--they live forever mostly; and if anybody’s seen more …
+- ¶24 · **Jim Hawkins** · *corrected* · “Stand by to go about,”
+- ¶25 · **Long John Silver** · *corrected* · “Ah, she’s a handsome craft, she is,”
+- ¶25 · **Long John Silver** · *corrected* · “There,”
+- ¶25 · **Long John Silver** · *corrected* · “you can’t touch pitch and not be mucked, lad. Here’s this poor old innocent bird o’ mine swearin…
+- ¶26 · **Captain Smollett** · *corrected* · “She’ll lie a point nearer the wind than a man has a right to expect of his own married wife, sir…
+- ¶26 · **Captain Smollett** · *corrected* · “all I say is, we’re not home again, and I don’t like the cruise.”
+- ¶28 · **Squire Trelawney** · *corrected* · “A trifle more of that man,”
+- ¶28 · **Squire Trelawney** · *corrected* · “and I shall explode.”
+- ¶30 · **Captain Smollett** · “Never knew good come of it yet,”
+- ¶30 · **Captain Smollett** · “Spoil forecastle hands, make devils. That’s my belief.”
+
+## Chapter XI — What I Heard in the Apple Barrel
+
+- ¶2 · **Long John Silver** · “No, not I,”
+- ¶2 · **Long John Silver** · “Flint was cap’n; I was quartermaster, along of my timber leg. The same broadside I lost my leg, …
+- ¶3 · **Jim Hawkins** · “Ah!”
+- ¶3 · **Jim Hawkins** · “He was the flower of the flock, was Flint!”
+- ¶4 · **Long John Silver** · “Davis was a man too, by all accounts,”
+- ¶4 · **Long John Silver** · “I never sailed along of him; first with England, then with Flint, that’s my story; and now here …
+- ¶5 · **Jim Hawkins** · *inferred* · “Well, it ain’t much use, after all,”
+- ¶6 · **Long John Silver** · “’Tain’t much use for fools, you may lay to it--that, nor nothing,”
+- ¶6 · **Long John Silver** · “But now, you look here: you’re young, you are, but you’re as smart as paint. I see that when I s…
+- ¶8 · **Long John Silver** · *corrected* · “Here it is about gentlemen of fortune. They lives rough, and they risk swinging, but they eat an…
+- ¶9 · **Jim Hawkins** · “Well,”
+- ¶9 · **Jim Hawkins** · “but all the other money’s gone now, ain’t it? You daren’t show face in Bristol after this.”
+- ¶10 · **Long John Silver** · “Why, where might you suppose it was?”
+- ¶11 · **Jim Hawkins** · *corrected* · “At Bristol, in banks and places,”
+- ¶12 · **Long John Silver** · “It were,”
+- ¶12 · **Long John Silver** · “it were when we weighed anchor. But my old missis has it all by now. And the Spy-glass is sold, …
+- ¶13 · **Jim Hawkins** · “And can you trust your missis?”
+- ¶14 · **Long John Silver** · “Gentlemen of fortune,”
+- ¶14 · **Long John Silver** · “usually trusts little among themselves, and right they are, you may lay to it. But I have a way …
+- ¶15 · **Jim Hawkins** · “Well, I tell you now,”
+- ¶15 · **Jim Hawkins** · “I didn’t half a quarter like the job till I had this talk with you, John; but there’s my hand on…
+- ¶16 · **Long John Silver** · “And a brave lad you were, and smart too,”
+- ¶16 · **Long John Silver** · “and a finer figurehead for a gentleman of fortune I never clapped my eyes on.”
+- ¶17 · **Jim Hawkins** · *corrected* · “gentleman of fortune”
+- ¶18 · **Long John Silver** · “Dick’s square,”
+- ¶19 · **Israel Hands** · “Oh, I know’d Dick was square,”
+- ¶19 · **Israel Hands** · “He’s no fool, is Dick.”
+- ¶19 · **Israel Hands** · “But look here,”
+- ¶19 · **Israel Hands** · “here’s what I want to know, Barbecue: how long are we a-going to stand off and on like a blessed…
+- ¶20 · **Long John Silver** · “Israel,”
+- ¶20 · **Long John Silver** · “your head ain’t much account, nor ever was. But you’re able to hear, I reckon; leastways, your e…
+- ¶21 · **Israel Hands** · “Well, I don’t say no, do I?”
+- ¶21 · **Israel Hands** · “What I say is, when? That’s what I say.”
+- ¶22 · **Long John Silver** · “When! By the powers!”
+- ¶22 · **Long John Silver** · “Well now, if you want to know, I’ll tell you when. The last moment I can manage, and that’s when…
+- ¶23 · **Jim Hawkins** · “Why, we’re all seamen aboard here, I should think,”
+- ¶24 · **Long John Silver** · *inferred* · “We’re all forecastle hands, you mean,”
+- ¶24 · **Long John Silver** · *inferred* · “We can steer a course, but who’s to set one? That’s what all you gentlemen split on, first and l…
+- ¶25 · **Israel Hands** · “Easy all, Long John,”
+- ¶25 · **Israel Hands** · “Who’s a-crossin’ of you?”
+- ¶26 · **Long John Silver** · “Why, how many tall ships, think ye, now, have I seen laid aboard? And how many brisk lads drying…
+- ¶26 · **Long John Silver** · “And all for this same hurry and hurry and hurry. You hear me? I seen a thing or two at sea, I ha…
+- ¶27 · **Israel Hands** · “Everybody knowed you was a kind of a chapling, John; but there’s others as could hand and steer …
+- ¶27 · **Israel Hands** · “They liked a bit o’ fun, they did. They wasn’t so high and dry, nohow, but took their fling, lik…
+- ¶28 · **Long John Silver** · “So?”
+- ¶28 · **Long John Silver** · “Well, and where are they now? Pew was that sort, and he died a beggar-man. Flint was, and he die…
+- ¶29 · **Jim Hawkins** · “But,”
+- ¶29 · **Jim Hawkins** · “when we do lay ’em athwart, what are we to do with ’em, anyhow?”
+- ¶30 · **Long John Silver** · “There’s the man for me!”
+- ¶30 · **Long John Silver** · “That’s what I call business. Well, what would you think? Put ’em ashore like maroons? That would…
+- ¶31 · **Israel Hands** · “Billy was the man for that,”
+- ¶31 · **Israel Hands** · “‘Dead men don’t bite,’ says he. Well, he’s dead now hisself; he knows the long and short on it n…
+- ¶32 · **Long John Silver** · “Right you are,”
+- ¶32 · **Long John Silver** · “rough and ready. But mark you here, I’m an easy man--I’m quite the gentleman, says you; but this…
+- ¶33 · **Israel Hands** · “John,”
+- ¶33 · **Israel Hands** · “you’re a man!”
+- ¶34 · **Long John Silver** · “You’ll say so, Israel when you see,”
+- ¶34 · **Long John Silver** · “Only one thing I claim--I claim Trelawney. I’ll wring his calf’s head off his body with these ha…
+- ¶34 · **Long John Silver** · “You just jump up, like a sweet lad, and get me an apple, to wet my pipe like.”
+- ¶35 · **Israel Hands** · *corrected* · “Oh, stow that! Don’t you get sucking of that bilge, John. Let’s have a go of the rum.”
+- ¶36 · **Long John Silver** · “Dick,”
+- ¶36 · **Long John Silver** · “I trust you. I’ve a gauge on the keg, mind. There’s the key; you fill a pannikin and bring it up.”
+- ¶38 · **Israel Hands** · *corrected* · “Not another man of them’ll jine.”
+- ¶39 · **Jim Hawkins** · *corrected* · “To luck,”
+- ¶39 · **Israel Hands** · *corrected* · “Here’s to old Flint,”
+- ¶39 · **Long John Silver** · *corrected* · “Here’s to ourselves, and hold your luff, plenty of prizes and plenty of duff.”
+- ¶40 · **Jim Hawkins** · *corrected* · “Land ho!”
+
+## Chapter XII — Council of War
+
+- ¶5 · **Captain Smollett** · “And now, men,”
+- ¶5 · **Captain Smollett** · “has any one of you ever seen that land ahead?”
+- ¶6 · **Long John Silver** · “I have, sir,”
+- ¶6 · **Long John Silver** · “I’ve watered there with a trader I was cook in.”
+- ¶7 · **Captain Smollett** · “The anchorage is on the south, behind an islet, I fancy?”
+- ¶8 · **Long John Silver** · *corrected* · “Yes, sir; Skeleton Island they calls it. It were a main place for pirates once, and a hand we ha…
+- ¶9 · **Captain Smollett** · “I have a chart here,”
+- ¶9 · **Captain Smollett** · “See if that’s the place.”
+- ¶11 · **Long John Silver** · *corrected* · “Yes, sir,”
+- ¶11 · **Long John Silver** · *corrected* · “this is the spot, to be sure, and very prettily drawed out. Who might have done that, I wonder? …
+- ¶11 · **Long John Silver** · *corrected* · “to haul your wind and keep the weather of the island. Leastways, if such was your intention as t…
+- ¶12 · **Captain Smollett** · “Thank you, my man,”
+- ¶12 · **Captain Smollett** · “I’ll ask you later on to give us a help. You may go.”
+- ¶14 · **Long John Silver** · *corrected* · “Ah,”
+- ¶14 · **Long John Silver** · *corrected* · “this here is a sweet spot, this island--a sweet spot for a lad to get ashore on. You’ll bathe, a…
+- ¶16 · **Jim Hawkins** · *corrected* · “Doctor, let me speak. Get the captain and squire down to the cabin, and then make some pretence …
+- ¶18 · **Long John Silver** · *corrected* · “Thank you, Jim,”
+- ¶18 · **Long John Silver** · *corrected* · “that was all I wanted to know,”
+- ¶20 · **Captain Smollett** · “My lads,”
+- ¶20 · **Captain Smollett** · “I’ve a word to say to you. This land that we have sighted is the place we have been sailing for.…
+- ¶22 · **Long John Silver** · “One more cheer for Cap’n Smollett,”
+- ¶26 · **Squire Trelawney** · “Now, Hawkins,”
+- ¶26 · **Squire Trelawney** · “you have something to say. Speak up.”
+- ¶28 · **Dr Livesey** · “Jim,”
+- ¶28 · **Dr Livesey** · “take a seat.”
+- ¶30 · **Squire Trelawney** · “Now, captain,”
+- ¶30 · **Squire Trelawney** · “you were right, and I was wrong. I own myself an ass, and I await your orders.”
+- ¶31 · **Captain Smollett** · “No more an ass than I, sir,”
+- ¶31 · **Captain Smollett** · “I never heard of a crew that meant to mutiny but what showed signs before, for any man that had …
+- ¶31 · **Captain Smollett** · “beats me.”
+- ¶32 · **Dr Livesey** · “Captain,”
+- ¶32 · **Dr Livesey** · “with your permission, that’s Silver. A very remarkable man.”
+- ¶33 · **Captain Smollett** · “He’d look remarkably well from a yard-arm, sir,”
+- ¶33 · **Captain Smollett** · “But this is talk; this don’t lead to anything. I see three or four points, and with Mr. Trelawne…
+- ¶34 · **Squire Trelawney** · “You, sir, are the captain. It is for you to speak,”
+- ¶35 · **Captain Smollett** · “First point,”
+- ¶35 · **Captain Smollett** · “We must go on, because we can’t turn back. If I gave the word to go about, they would rise at on…
+- ¶36 · **Squire Trelawney** · “As upon myself,”
+- ¶37 · **Captain Smollett** · *corrected* · “Three,”
+- ¶37 · **Captain Smollett** · *corrected* · “ourselves make seven, counting Hawkins here. Now, about the honest hands?”
+- ¶38 · **Dr Livesey** · “Most likely Trelawney’s own men,”
+- ¶38 · **Dr Livesey** · “those he had picked up for himself before he lit on Silver.”
+- ¶39 · **Squire Trelawney** · “Nay,”
+- ¶39 · **Squire Trelawney** · “Hands was one of mine.”
+- ¶40 · **Captain Smollett** · “I did think I could have trusted Hands,”
+- ¶41 · **Squire Trelawney** · *corrected* · “And to think that they’re all Englishmen!”
+- ¶41 · **Squire Trelawney** · *corrected* · “Sir, I could find it in my heart to blow the ship up.”
+- ¶42 · **Captain Smollett** · “Well, gentlemen,”
+- ¶42 · **Captain Smollett** · “the best that I can say is not much. We must lay to, if you please, and keep a bright lookout. I…
+- ¶43 · **Dr Livesey** · “Jim here,”
+- ¶43 · **Dr Livesey** · “can help us more than anyone. The men are not shy with him, and Jim is a noticing lad.”
+- ¶44 · **Squire Trelawney** · “Hawkins, I put prodigious faith in you,”
+
+## Chapter XIII — How I Began My Shore Adventure
+
+- ¶7 · **Jim Hawkins** · *inferred* · “Well,”
+- ¶7 · **Jim Hawkins** · *inferred* · “it’s not forever.”
+- ¶10 · **Long John Silver** · *corrected* · “There’s a strong scour with the ebb,”
+- ¶10 · **Long John Silver** · *corrected* · “and this here passage has been dug out, in a manner of speaking, with a spade.”
+- ¶14 · **Dr Livesey** · *corrected* · “I don’t know about treasure,”
+- ¶14 · **Dr Livesey** · *corrected* · “but I’ll stake my wig there’s fever here.”
+- ¶16 · **Long John Silver** · *corrected* · “Aye, aye, sir!”
+- ¶19 · **Captain Smollett** · “Sir,”
+- ¶19 · **Captain Smollett** · “if I risk another order, the whole ship’ll come about our ears by the run. You see, sir, here it…
+- ¶20 · **Squire Trelawney** · “And who is that?”
+- ¶21 · **Captain Smollett** · “Silver, sir,”
+- ¶21 · **Captain Smollett** · “he’s as anxious as you and I to smother things up. This is a tiff; he’d soon talk ’em out of it …
+- ¶23 · **Captain Smollett** · *corrected* · “My lads,”
+- ¶23 · **Captain Smollett** · *corrected* · “we’ve had a hot day and are all tired and out of sorts. A turn ashore’ll hurt nobody--the boats …
+- ¶28 · **Jim Hawkins** · *corrected* · “Is that you, Jim? Keep your head down.”
+- ¶30 · **Long John Silver** · *corrected* · “Jim, Jim!”
+
+## Chapter XIV — The First Blow
+
+- ¶14 · **Long John Silver** · *corrected* · “Mate,”
+- ¶14 · **Long John Silver** · *corrected* · “it’s because I thinks gold dust of you--gold dust, and you may lay to that! If I hadn’t took to …
+- ¶15 · **Jim Hawkins** · *corrected* · “Silver,”
+- ¶15 · **Jim Hawkins** · *corrected* · “Silver,”
+- ¶15 · **Jim Hawkins** · *corrected* · “you’re old, and you’re honest, or has the name for it; and you’ve money too, which lots of poor …
+- ¶18 · **Jim Hawkins** · *corrected* · “John!”
+- ¶19 · **Long John Silver** · “Hands off!”
+- ¶20 · **Jim Hawkins** · *corrected* · “Hands off, if you like, John Silver,”
+- ¶20 · **Jim Hawkins** · *corrected* · “It’s a black conscience that can make you feared of me. But in heaven’s name, tell me, what was …
+- ¶21 · **Long John Silver** · “That?”
+- ¶21 · **Long John Silver** · “That? Oh, I reckon that’ll be Alan.”
+- ¶23 · **Jim Hawkins** · *corrected* · “Alan!”
+- ¶23 · **Jim Hawkins** · *corrected* · “Then rest his soul for a true seaman! And as for you, John Silver, long you’ve been a mate of mi…
+
+## Chapter XV — The Man of the Island
+
+- ¶8 · **Jim Hawkins** · “Who are you?”
+- ¶9 · **Ben Gunn** · *corrected* · “Ben Gunn,”
+- ¶9 · **Ben Gunn** · *corrected* · “I’m poor Ben Gunn, I am; and I haven’t spoke with a Christian these three years.”
+- ¶11 · **Jim Hawkins** · “Three years!”
+- ¶11 · **Jim Hawkins** · “Were you shipwrecked?”
+- ¶12 · **Ben Gunn** · *corrected* · “Nay, mate,”
+- ¶12 · **Ben Gunn** · *corrected* · “marooned.”
+- ¶14 · **Ben Gunn** · *corrected* · “Marooned three years agone,”
+- ¶14 · **Ben Gunn** · *corrected* · “and lived on goats since then, and berries, and oysters. Wherever a man is, says I, a man can do…
+- ¶15 · **Jim Hawkins** · “If ever I can get aboard again,”
+- ¶15 · **Jim Hawkins** · “you shall have cheese by the stone.”
+- ¶17 · **Ben Gunn** · *corrected* · “If ever you can get aboard again, says you?”
+- ¶17 · **Ben Gunn** · *corrected* · “Why, now, who’s to hinder you?”
+- ¶18 · **Jim Hawkins** · *corrected* · “Not you, I know,”
+- ¶19 · **Ben Gunn** · *corrected* · “And right you was,”
+- ¶19 · **Ben Gunn** · *corrected* · “Now you--what do you call yourself, mate?”
+- ¶20 · **Jim Hawkins** · *corrected* · “Jim,”
+- ¶21 · **Ben Gunn** · *corrected* · “Jim, Jim,”
+- ¶21 · **Ben Gunn** · *corrected* · “Well, now, Jim, I’ve lived that rough as you’d be ashamed to hear of. Now, for instance, you wou…
+- ¶22 · **Jim Hawkins** · *corrected* · “Why, no, not in particular,”
+- ¶23 · **Ben Gunn** · *corrected* · “Ah, well,”
+- ¶23 · **Ben Gunn** · *corrected* · “but I had--_re_markable pious. And I was a civil, pious boy, and could rattle off my catechism t…
+- ¶23 · **Ben Gunn** · *corrected* · “I’m rich.”
+- ¶24 · **Ben Gunn** · *corrected* · “Rich! Rich! I says. And I’ll tell you what: I’ll make a man of you, Jim. Ah, Jim, you’ll bless y…
+- ¶26 · **Ben Gunn** · *corrected* · “Now, Jim, you tell me true: that ain’t Flint’s ship?”
+- ¶28 · **Jim Hawkins** · *corrected* · “It’s not Flint’s ship, and Flint is dead; but I’ll tell you true, as you ask me--there are some …
+- ¶29 · **Ben Gunn** · *corrected* · “Not a man--with one--leg?”
+- ¶30 · **Jim Hawkins** · *corrected* · “Silver?”
+- ¶31 · **Ben Gunn** · *corrected* · “Ah, Silver!”
+- ¶31 · **Ben Gunn** · *corrected* · “That were his name.”
+- ¶32 · **Jim Hawkins** · *corrected* · “He’s the cook, and the ringleader too.”
+- ¶34 · **Ben Gunn** · *corrected* · “If you was sent by Long John,”
+- ¶34 · **Ben Gunn** · *corrected* · “I’m as good as pork, and I know it. But where was you, do you suppose?”
+- ¶36 · **Ben Gunn** · *corrected* · “You’re a good lad, Jim,”
+- ¶36 · **Ben Gunn** · *corrected* · “and you’re all in a clove hitch, ain’t you? Well, you just put your trust in Ben Gunn--Ben Gunn’…
+- ¶38 · **Ben Gunn** · “Aye, but you see,”
+- ¶38 · **Ben Gunn** · “I didn’t mean giving me a gate to keep, and a suit of livery clothes, and such; that’s not my ma…
+- ¶39 · **Jim Hawkins** · “I am sure he would,”
+- ¶39 · **Jim Hawkins** · “As it was, all hands were to share.”
+- ¶40 · **Ben Gunn** · *inferred* · “AND a passage home?”
+- ¶41 · **Jim Hawkins** · “Why,”
+- ¶41 · **Jim Hawkins** · “the squire’s a gentleman. And besides, if we got rid of the others, we should want you to help w…
+- ¶42 · **Ben Gunn** · *inferred* · “Ah,”
+- ¶42 · **Ben Gunn** · *inferred* · “so you would.”
+- ¶43 · **Ben Gunn** · *corrected* · “Now, I’ll tell you what,”
+- ¶43 · **Ben Gunn** · *corrected* · “So much I’ll tell you, and no more. I were in Flint’s ship when he buried the treasure; he and s…
+- ¶44 · **Ben Gunn** · *inferred* · “Well, I was in another ship three years back, and we sighted this island. ‘Boys,’ said I, ‘here’…
+- ¶45 · **Ben Gunn** · *corrected* · “Well, Jim, three years have I been here, and not a bite of Christian diet from that day to this.…
+- ¶47 · **Ben Gunn** · *inferred* · “Just you mention them words to your squire, Jim,”
+- ¶47 · **Ben Gunn** · *inferred* · “Nor he weren’t, neither--that’s the words. Three years he were the man of this island, light and…
+- ¶49 · **Ben Gunn** · *corrected* · “Then,”
+- ¶49 · **Ben Gunn** · *corrected* · “then you’ll up, and you’ll say this: Gunn is a good man (you’ll say), and he puts a precious sig…
+- ¶50 · **Jim Hawkins** · “Well,”
+- ¶50 · **Jim Hawkins** · “I don’t understand one word that you’ve been saying. But that’s neither here nor there; for how …
+- ¶51 · **Ben Gunn** · *corrected* · “Ah,”
+- ¶51 · **Ben Gunn** · *corrected* · “that’s the hitch, for sure. Well, there’s my boat, that I made with my two hands. I keep her und…
+- ¶51 · **Ben Gunn** · *corrected* · “What’s that?”
+- ¶53 · **Jim Hawkins** · “They have begun to fight!”
+- ¶53 · **Jim Hawkins** · “Follow me.”
+- ¶55 · **Ben Gunn** · *corrected* · “Left, left,”
+- ¶55 · **Ben Gunn** · *corrected* · “keep to your left hand, mate Jim! Under the trees with you! Theer’s where I killed my first goat…
+- ¶55 · **Ben Gunn** · *corrected* · “You see the mounds? I come here and prayed, nows and thens, when I thought maybe a Sunday would …

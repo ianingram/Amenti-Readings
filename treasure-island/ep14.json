@@ -1,0 +1,352 @@
+{
+ "work": "treasure-island",
+ "episode": 14,
+ "chapter": 14,
+ "title": "The First Blow",
+ "document": "PART THREE · CHAPTER XIV",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch14.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Ben Gunn",
+   "cast_as": "James Joyce"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  },
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER XIV"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "THE FIRST BLOW"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I was so pleased at having given the slip to Long John that I began to\nenjoy myself and look around me with some interest on the strange land\nthat I was in."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I had crossed a marshy tract full of willows, bulrushes, and odd,\noutlandish, swampy trees; and I had now come out upon the skirts of an\nopen piece of undulating, sandy country, about a mile long, dotted with\na few pines and a great number of contorted trees, not unlike the oak\nin growth, but pale in the foliage, like willows. On the far side of\nthe open stood one of the hills, with two quaint, craggy peaks shining\nvividly in the sun."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I now felt for the first time the joy of exploration. The isle was\nuninhabited; my shipmates I had left behind, and nothing lived in front\nof me but dumb brutes and fowls. I turned hither and thither among the\ntrees. Here and there were flowering plants, unknown to me; here and\nthere I saw snakes, and one raised his head from a ledge of rock and\nhissed at me with a noise not unlike the spinning of a top. Little did\nI suppose that he was a deadly enemy and that the noise was the famous\nrattle."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Then I came to a long thicket of these oaklike trees--live, or\nevergreen, oaks, I heard afterwards they should be called--which grew\nlow along the sand like brambles, the boughs curiously twisted, the\nfoliage compact, like thatch. The thicket stretched down from the top of\none of the sandy knolls, spreading and growing taller as it went, until\nit reached the margin of the broad, reedy fen, through which the nearest\nof the little rivers soaked its way into the anchorage. The marsh was\nsteaming in the strong sun, and the outline of the Spy-glass trembled\nthrough the haze."
+  },
+  {
+   "n": 7,
+   "sfx": [
+    {
+     "key": "marsh_birds",
+     "at": "a great cloud of birds hung screaming and circling"
+    }
+   ],
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "All at once there began to go a sort of bustle among the bulrushes;\na wild duck flew up with a quack, another followed, and soon over the\nwhole surface of the marsh a great cloud of birds hung screaming and\ncircling in the air. I judged at once that some of my shipmates must be\ndrawing near along the borders of the fen. Nor was I deceived, for soon\nI heard the very distant and low tones of a human voice, which, as I\ncontinued to give ear, grew steadily louder and nearer."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "This put me in a great fear, and I crawled under cover of the nearest\nlive-oak and squatted there, hearkening, as silent as a mouse."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Another voice answered, and then the first voice, which I now recognized\nto be Silver’s, once more took up the story and ran on for a long while\nin a stream, only now and again interrupted by the other. By the sound\nthey must have been talking earnestly, and almost fiercely; but no\ndistinct word came to my hearing."
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At last the speakers seemed to have paused and perhaps to have sat down,\nfor not only did they cease to draw any nearer, but the birds themselves\nbegan to grow more quiet and to settle again to their places in the\nswamp."
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And now I began to feel that I was neglecting my business, that since\nI had been so foolhardy as to come ashore with these desperadoes, the\nleast I could do was to overhear them at their councils, and that my\nplain and obvious duty was to draw as close as I could manage, under the\nfavourable ambush of the crouching trees."
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I could tell the direction of the speakers pretty exactly, not only by\nthe sound of their voices but by the behaviour of the few birds that\nstill hung in alarm above the heads of the intruders."
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Crawling on all fours, I made steadily but slowly towards them, till at\nlast, raising my head to an aperture among the leaves, I could see clear\ndown into a little green dell beside the marsh, and closely set about\nwith trees, where Long John Silver and another of the crew stood face to\nface in conversation."
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The sun beat full upon them. Silver had thrown his hat beside him on the\nground, and his great, smooth, blond face, all shining with heat, was\nlifted to the other man’s in a kind of appeal."
+  },
+  {
+   "n": 15,
+   "para": 14,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Mate,”"
+  },
+  {
+   "n": 16,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he was saying,"
+  },
+  {
+   "n": 17,
+   "para": 14,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“it’s because I thinks gold dust of you--gold\ndust, and you may lay to that! If I hadn’t took to you like pitch, do\nyou think I’d have been here a-warning of you? All’s up--you can’t make\nnor mend; it’s to save your neck that I’m a-speaking, and if one of the\nwild uns knew it, where’d I be, Tom--now, tell me, where’d I be?”"
+  },
+  {
+   "n": 18,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Silver,” said the other man--and I observed he was not only red in the\nface, but spoke as hoarse as a crow, and his voice shook too, like a\ntaut rope--“Silver,” says he, “you’re old, and you’re honest, or has the\nname for it; and you’ve money too, which lots of poor sailors hasn’t;\nand you’re brave, or I’m mistook. And will you tell me you’ll let\nyourself be led away with that kind of a mess of swabs? Not you! As sure\nas God sees me, I’d sooner lose my hand. If I turn agin my dooty--”"
+  },
+  {
+   "n": 19,
+   "sfx": [
+    {
+     "key": "scream_far",
+     "at": "then one horrid, long-drawn scream"
+    },
+    {
+     "key": "crew_death",
+     "at": "The rocks of the Spy-glass re-echoed it",
+     "offset": 1.5
+    }
+   ],
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And then all of a sudden he was interrupted by a noise. I had found\none of the honest hands--well, here, at that same moment, came news of\nanother. Far away out in the marsh there arose, all of a sudden, a sound\nlike the cry of anger, then another on the back of it; and then one\nhorrid, long-drawn scream. The rocks of the Spy-glass re-echoed it a\nscore of times; the whole troop of marsh-birds rose again, darkening\nheaven, with a simultaneous whirr; and long after that death yell was\nstill ringing in my brain, silence had re-established its empire, and\nonly the rustle of the redescending birds and the boom of the distant\nsurges disturbed the languor of the afternoon."
+  },
+  {
+   "n": 20,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Tom had leaped at the sound, like a horse at the spur, but Silver had\nnot winked an eye. He stood where he was, resting lightly on his crutch,\nwatching his companion like a snake about to spring."
+  },
+  {
+   "n": 21,
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“John!” said the sailor, stretching out his hand."
+  },
+  {
+   "n": 22,
+   "para": 19,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Hands off!”"
+  },
+  {
+   "n": 23,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried Silver, leaping back a yard, as it seemed to me, with\nthe speed and security of a trained gymnast."
+  },
+  {
+   "n": 24,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Hands off, if you like, John Silver,” said the other. “It’s a black\nconscience that can make you feared of me. But in heaven’s name, tell\nme, what was that?”"
+  },
+  {
+   "n": 25,
+   "para": 21,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“That?”"
+  },
+  {
+   "n": 26,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned Silver, smiling away, but warier than ever, his eye\na mere pin-point in his big face, but gleaming like a crumb of glass."
+  },
+  {
+   "n": 27,
+   "para": 21,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“That? Oh, I reckon that’ll be Alan.”"
+  },
+  {
+   "n": 28,
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And at this point Tom flashed out like a hero."
+  },
+  {
+   "n": 29,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Alan!” he cried. “Then rest his soul for a true seaman! And as for you,\nJohn Silver, long you’ve been a mate of mine, but you’re mate of mine\nno more. If I die like a dog, I’ll die in my dooty. You’ve killed Alan,\nhave you? Kill me too, if you can. But I defies you.”"
+  },
+  {
+   "n": 30,
+   "score": {
+    "key": "dread",
+    "xfade": 1.5,
+    "at": "whipped the crutch out of his armpit"
+   },
+   "sfx": [
+    {
+     "key": "crutch_blow",
+     "at": "sent that uncouth missile hurtling through the air"
+    }
+   ],
+   "para": 24,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And with that, this brave fellow turned his back directly on the cook\nand set off walking for the beach. But he was not destined to go far.\nWith a cry John seized the branch of a tree, whipped the crutch out of\nhis armpit, and sent that uncouth missile hurtling through the air.\nIt struck poor Tom, point foremost, and with stunning violence, right\nbetween the shoulders in the middle of his back. His hands flew up, he\ngave a sort of gasp, and fell."
+  },
+  {
+   "n": 31,
+   "para": 25,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Whether he were injured much or little, none could ever tell. Like\nenough, to judge from the sound, his back was broken on the spot. But he\nhad no time given him to recover. Silver, agile as a monkey even without\nleg or crutch, was on the top of him next moment and had twice buried\nhis knife up to the hilt in that defenceless body. From my place of\nambush, I could hear him pant aloud as he struck the blows."
+  },
+  {
+   "n": 32,
+   "para": 26,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I do not know what it rightly is to faint, but I do know that for the\nnext little while the whole world swam away from before me in a whirling\nmist; Silver and the birds, and the tall Spy-glass hilltop, going\nround and round and topsy-turvy before my eyes, and all manner of bells\nringing and distant voices shouting in my ear."
+  },
+  {
+   "n": 33,
+   "sfx": [
+    {
+     "key": "crew_death",
+     "at": "Tom lay motionless upon the sward",
+     "offset": 0.6
+    }
+   ],
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "When I came again to myself the monster had pulled himself together,\nhis crutch under his arm, his hat upon his head. Just before him Tom\nlay motionless upon the sward; but the murderer minded him not a whit,\ncleansing his blood-stained knife the while upon a wisp of grass.\nEverything else was unchanged, the sun still shining mercilessly on the\nsteaming marsh and the tall pinnacle of the mountain, and I could scarce\npersuade myself that murder had been actually done and a human life\ncruelly cut short a moment since before my eyes."
+  },
+  {
+   "n": 34,
+   "sfx": [
+    {
+     "key": "silver_whistle",
+     "at": "brought out a whistle"
+    }
+   ],
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "But now John put his hand into his pocket, brought out a whistle, and\nblew upon it several modulated blasts that rang far across the heated\nair. I could not tell, of course, the meaning of the signal, but\nit instantly awoke my fears. More men would be coming. I might be\ndiscovered. They had already slain two of the honest people; after Tom\nand Alan, might not I come next?"
+  },
+  {
+   "n": 35,
+   "score": {
+    "key": null,
+    "xfade": 10,
+    "at": "more open portion of the wood"
+   },
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Instantly I began to extricate myself and crawl back again, with what\nspeed and silence I could manage, to the more open portion of the\nwood. As I did so, I could hear hails coming and going between the old\nbuccaneer and his comrades, and this sound of danger lent me wings. As\nsoon as I was clear of the thicket, I ran as I never ran before, scarce\nminding the direction of my flight, so long as it led me from the\nmurderers; and as I ran, fear grew and grew upon me until it turned into\na kind of frenzy."
+  },
+  {
+   "n": 36,
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Indeed, could anyone be more entirely lost than I? When the gun fired,\nhow should I dare to go down to the boats among those fiends, still\nsmoking from their crime? Would not the first of them who saw me wring\nmy neck like a snipe’s? Would not my absence itself be an evidence to\nthem of my alarm, and therefore of my fatal knowledge? It was all over,\nI thought. Good-bye to the HISPANIOLA; good-bye to the squire, the\ndoctor, and the captain! There was nothing left for me but death by\nstarvation or death by the hands of the mutineers."
+  },
+  {
+   "n": 37,
+   "para": 31,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "All this while, as I say, I was still running, and without taking any\nnotice, I had drawn near to the foot of the little hill with the two\npeaks and had got into a part of the island where the live-oaks grew\nmore widely apart and seemed more like forest trees in their bearing and\ndimensions. Mingled with these were a few scattered pines, some fifty,\nsome nearer seventy, feet high. The air too smelt more freshly than down\nbeside the marsh."
+  },
+  {
+   "n": 38,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And here a fresh alarm brought me to a standstill with a thumping heart."
+  }
+ ]
+}

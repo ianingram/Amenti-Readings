@@ -39,3 +39,29 @@ drum corps, the coda adrift).
   "Yo, ho", the verse, "All hands on deck!", the orders and the battle shouts. Each
   render is cached in R2 by its text, voice and style, so re-running the build asks
   for exactly the same takes and gets them back from the cache.
+
+## Part Two — the Sea-cook (5 Oct 2026)
+
+Built by `build-part-two.py`.
+
+| file | made from | licence |
+|---|---|---|
+| `docks.mp3` | *Boat by a wharf 2* (ezwa) + gulls (*Gull 1*, avphillips; *XC707075 Herring Gull*, Sonothèque ADVL) + the Dracula chains | PD / CC0 |
+| `deck.mp3` | the Dracula hull + *Howling wind* + *Creaky wooden casket* (stephan) slowed into a block, built canvas | PD / CC0 + synthesized |
+| `parrot.mp3`, `parrot-2.mp3` | *Parrots perroquets* (aldor) | PD |
+| `capstan.mp3` | *Tools Ratchet* (CapsLok), slowed into a capstan's pawls, + a built cable grind | CC0 + synthesized |
+| `ship-horn.mp3`, `bell-watch.mp3`, `bell-alarm.mp3`, `bosun-pipe.mp3` | built here | synthesized |
+| `crew-cheer.mp3` | three cheers rendered through the Amenti voice service (three voices), set on a deck | voice service |
+
+## Part Three — My Shore Adventure (5 Oct 2026)
+
+Built by `build-part-three.py`.
+
+| file | made from | licence |
+|---|---|---|
+| `island.mp3` | built cicadas in the heat + this folder's `cove.mp3`, far and dull + gulls | synthesized + PD/CC0 |
+| `oars.mp3`, `anchor-birds.mp3`, `crutch-blow.mp3`, `silver-whistle.mp3`, `gravel.mp3` | built here; the birds from the gull recordings; the blow from *Dull thud* (gregoryweir) | synthesized + PD/CC0 |
+| `marsh-birds.mp3` | *Gull 1* (avphillips, PD), *XC707075 Herring Gull* (Sonothèque ADVL, CC0) | PD / CC0 |
+| `scream-far.mp3` | one scream rendered through the Amenti voice service, set far off and echoed by the rocks | voice service |
+| `cannon-island.mp3` | this folder's `cannon-far.mp3`, echoed back from the hills | PD |
+| `crew-death.mp3` | the crew's death motif — VSCO 2 CE cello section and solo double bass: a short D, a long low A, the "yo… ho" of the chant, slowed and bowed; gulls crying over it (*Gull 1*, avphillips; *XC707075 Herring Gull*, Sonothèque ADVL) | CC0 / PD |

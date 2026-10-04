@@ -1,0 +1,1027 @@
+{
+ "work": "treasure-island",
+ "episode": 9,
+ "chapter": 9,
+ "title": "Powder and Arms",
+ "document": "PART TWO · CHAPTER IX",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch09.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Israel Hands",
+   "cast_as": "Charles Babbage"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER IX"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "POWDER AND ARMS"
+  },
+  {
+   "n": 3,
+   "bed": "deck",
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The Hispaniola lay some way out, and we went under the figureheads and\nround the sterns of many other ships, and their cables sometimes grated\nunderneath our keel, and sometimes swung above us. At last, however,\nwe got alongside, and were met and saluted as we stepped aboard by the\nmate, Mr. Arrow, a brown old sailor with earrings in his ears and a\nsquint. He and the squire were very thick and friendly, but I soon\nobserved that things were not the same between Mr. Trelawney and the\ncaptain."
+  },
+  {
+   "n": 4,
+   "sfx": [
+    {
+     "key": "bell_watch",
+     "at": "we had hardly got down into the cabin"
+    }
+   ],
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "This last was a sharp-looking man who seemed angry with everything on\nboard and was soon to tell us why, for we had hardly got down into the\ncabin when a sailor followed us."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Captain Smollett, sir, axing to speak with you,” said he."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“I am always at the captain’s orders. Show him in,”"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the squire."
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The captain, who was close behind his messenger, entered at once and\nshut the door behind him."
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Well, Captain Smollett, what have you to say? All well, I hope; all\nshipshape and seaworthy?”"
+  },
+  {
+   "n": 10,
+   "para": 8,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Well, sir,”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain,"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“better speak plain, I believe, even at\nthe risk of offence. I don’t like this cruise; I don’t like the men; and\nI don’t like my officer. That’s short and sweet.”"
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Perhaps, sir, you don’t like the ship?”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "inquired the squire, very\nangry, as I could see."
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I can’t speak as to that, sir, not having seen her tried,”"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the\ncaptain."
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“She seems a clever craft; more I can’t say.”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Possibly, sir, you may not like your employer, either?”"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "says the\nsquire."
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "But here Dr. Livesey cut in."
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Stay a bit,”"
+  },
+  {
+   "n": 22,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said he,"
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“stay a bit. No use of such questions as that but\nto produce ill feeling. The captain has said too much or he has said too\nlittle, and I’m bound to say that I require an explanation of his words.\nYou don’t, you say, like this cruise. Now, why?”"
+  },
+  {
+   "n": 24,
+   "para": 14,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I was engaged, sir, on what we call sealed orders, to sail this ship\nfor that gentleman where he should bid me,”"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain."
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“So far\nso good. But now I find that every man before the mast knows more than I\ndo. I don’t call that fair, now, do you?”"
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“No,”"
+  },
+  {
+   "n": 28,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Dr. Livesey,"
+  },
+  {
+   "n": 29,
+   "para": 15,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“I don’t.”"
+  },
+  {
+   "n": 30,
+   "para": 16,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Next,”"
+  },
+  {
+   "n": 31,
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain,"
+  },
+  {
+   "n": 32,
+   "para": 16,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I learn we are going after treasure--hear\nit from my own hands, mind you. Now, treasure is ticklish work; I don’t\nlike treasure voyages on any account, and I don’t like them, above all,\nwhen they are secret and when (begging your pardon, Mr. Trelawney) the\nsecret has been told to the parrot.”"
+  },
+  {
+   "n": 33,
+   "para": 17,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Silver’s parrot?”"
+  },
+  {
+   "n": 34,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "asked the squire."
+  },
+  {
+   "n": 35,
+   "para": 18,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“It’s a way of speaking,”"
+  },
+  {
+   "n": 36,
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain."
+  },
+  {
+   "n": 37,
+   "para": 18,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Blabbed, I mean. It’s my\nbelief neither of you gentlemen know what you are about, but I’ll tell\nyou my way of it--life or death, and a close run.”"
+  },
+  {
+   "n": 38,
+   "para": 19,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“That is all clear, and, I dare say, true enough,”"
+  },
+  {
+   "n": 39,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "replied Dr. Livesey."
+  },
+  {
+   "n": 40,
+   "para": 19,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“We take the risk, but we are not so ignorant as you believe us. Next,\nyou say you don’t like the crew. Are they not good seamen?”"
+  },
+  {
+   "n": 41,
+   "para": 20,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I don’t like them, sir,”"
+  },
+  {
+   "n": 42,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned Captain Smollett."
+  },
+  {
+   "n": 43,
+   "para": 20,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“And I think I\nshould have had the choosing of my own hands, if you go to that.”"
+  },
+  {
+   "n": 44,
+   "para": 21,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Perhaps you should,”"
+  },
+  {
+   "n": 45,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "replied the doctor."
+  },
+  {
+   "n": 46,
+   "para": 21,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“My friend should, perhaps,\nhave taken you along with him; but the slight, if there be one, was\nunintentional. And you don’t like Mr. Arrow?”"
+  },
+  {
+   "n": 47,
+   "para": 22,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I don’t, sir. I believe he’s a good seaman, but he’s too free with\nthe crew to be a good officer. A mate should keep himself to\nhimself--shouldn’t drink with the men before the mast!”"
+  },
+  {
+   "n": 48,
+   "para": 23,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Do you mean he drinks?”"
+  },
+  {
+   "n": 49,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire."
+  },
+  {
+   "n": 50,
+   "para": 24,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“No, sir,”"
+  },
+  {
+   "n": 51,
+   "para": 24,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "replied the captain,"
+  },
+  {
+   "n": 52,
+   "para": 24,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“only that he’s too familiar.”"
+  },
+  {
+   "n": 53,
+   "para": 25,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Well, now, and the short and long of it, captain?”"
+  },
+  {
+   "n": 54,
+   "para": 25,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "asked the doctor."
+  },
+  {
+   "n": 55,
+   "para": 25,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Tell us what you want.”"
+  },
+  {
+   "n": 56,
+   "para": 26,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Well, gentlemen, are you determined to go on this cruise?”"
+  },
+  {
+   "n": 57,
+   "para": 27,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Like iron,”"
+  },
+  {
+   "n": 58,
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "answered the squire."
+  },
+  {
+   "n": 59,
+   "para": 28,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Very good,”"
+  },
+  {
+   "n": 60,
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain."
+  },
+  {
+   "n": 61,
+   "para": 28,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Then, as you’ve heard me very patiently,\nsaying things that I could not prove, hear me a few words more. They are\nputting the powder and the arms in the fore hold. Now, you have a good\nplace under the cabin; why not put them there?--first point. Then, you\nare bringing four of your own people with you, and they tell me some of\nthem are to be berthed forward. Why not give them the berths here beside\nthe cabin?--second point.”"
+  },
+  {
+   "n": 62,
+   "para": 29,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Any more?”"
+  },
+  {
+   "n": 63,
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "asked Mr. Trelawney."
+  },
+  {
+   "n": 64,
+   "para": 30,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“One more,”"
+  },
+  {
+   "n": 65,
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain."
+  },
+  {
+   "n": 66,
+   "para": 30,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“There’s been too much blabbing already.”"
+  },
+  {
+   "n": 67,
+   "para": 31,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Far too much,”"
+  },
+  {
+   "n": 68,
+   "para": 31,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "agreed the doctor."
+  },
+  {
+   "n": 69,
+   "para": 32,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I’ll tell you what I’ve heard myself,”"
+  },
+  {
+   "n": 70,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "continued Captain Smollett:"
+  },
+  {
+   "n": 71,
+   "para": 32,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“that you have a map of an island, that there’s crosses on the map to\nshow where treasure is, and that the island lies--”"
+  },
+  {
+   "n": 72,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And then he named\nthe latitude and longitude exactly."
+  },
+  {
+   "n": 73,
+   "para": 33,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“I never told that,”"
+  },
+  {
+   "n": 74,
+   "para": 33,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire,"
+  },
+  {
+   "n": 75,
+   "para": 33,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“to a soul!”"
+  },
+  {
+   "n": 76,
+   "para": 34,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“The hands know it, sir,”"
+  },
+  {
+   "n": 77,
+   "para": 34,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned the captain."
+  },
+  {
+   "n": 78,
+   "para": 35,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Livesey, that must have been you or Hawkins,”"
+  },
+  {
+   "n": 79,
+   "para": 35,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire."
+  },
+  {
+   "n": 80,
+   "para": 36,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“It doesn’t much matter who it was,”"
+  },
+  {
+   "n": 81,
+   "para": 36,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "replied the doctor. And I could\nsee that neither he nor the captain paid much regard to Mr. Trelawney’s\nprotestations. Neither did I, to be sure, he was so loose a talker; yet\nin this case I believe he was really right and that nobody had told the\nsituation of the island."
+  },
+  {
+   "n": 82,
+   "para": 37,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Well, gentlemen,”"
+  },
+  {
+   "n": 83,
+   "para": 37,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "continued the captain,"
+  },
+  {
+   "n": 84,
+   "para": 37,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I don’t know who has this\nmap; but I make it a point, it shall be kept secret even from me and Mr.\nArrow. Otherwise I would ask you to let me resign.”"
+  },
+  {
+   "n": 85,
+   "para": 38,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“I see,”"
+  },
+  {
+   "n": 86,
+   "para": 38,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor."
+  },
+  {
+   "n": 87,
+   "para": 38,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“You wish us to keep this matter dark and to\nmake a garrison of the stern part of the ship, manned with my friend’s\nown people, and provided with all the arms and powder on board. In other\nwords, you fear a mutiny.”"
+  },
+  {
+   "n": 88,
+   "para": 39,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Sir,”"
+  },
+  {
+   "n": 89,
+   "para": 39,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Captain Smollett,"
+  },
+  {
+   "n": 90,
+   "para": 39,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“with no intention to take offence, I\ndeny your right to put words into my mouth. No captain, sir, would be\njustified in going to sea at all if he had ground enough to say that. As\nfor Mr. Arrow, I believe him thoroughly honest; some of the men are the\nsame; all may be for what I know. But I am responsible for the ship’s\nsafety and the life of every man Jack aboard of her. I see things going,\nas I think, not quite right. And I ask you to take certain precautions\nor let me resign my berth. And that’s all.”"
+  },
+  {
+   "n": 91,
+   "para": 40,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Captain Smollett,”"
+  },
+  {
+   "n": 92,
+   "para": 40,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "began the doctor with a smile,"
+  },
+  {
+   "n": 93,
+   "para": 40,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“did ever you hear\nthe fable of the mountain and the mouse? You’ll excuse me, I dare say,\nbut you remind me of that fable. When you came in here, I’ll stake my\nwig, you meant more than this.”"
+  },
+  {
+   "n": 94,
+   "para": 41,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Doctor,”"
+  },
+  {
+   "n": 95,
+   "para": 41,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain,"
+  },
+  {
+   "n": 96,
+   "para": 41,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“you are smart. When I came in here I meant\nto get discharged. I had no thought that Mr. Trelawney would hear a\nword.”"
+  },
+  {
+   "n": 97,
+   "para": 42,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“No more I would,”"
+  },
+  {
+   "n": 98,
+   "para": 42,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire."
+  },
+  {
+   "n": 99,
+   "para": 42,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Had Livesey not been here I should\nhave seen you to the deuce. As it is, I have heard you. I will do as you\ndesire, but I think the worse of you.”"
+  },
+  {
+   "n": 100,
+   "para": 43,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“That’s as you please, sir,”"
+  },
+  {
+   "n": 101,
+   "para": 43,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain."
+  },
+  {
+   "n": 102,
+   "para": 43,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“You’ll find I do my\nduty.”"
+  },
+  {
+   "n": 103,
+   "para": 44,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And with that he took his leave."
+  },
+  {
+   "n": 104,
+   "para": 45,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Trelawney,”"
+  },
+  {
+   "n": 105,
+   "para": 45,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor,"
+  },
+  {
+   "n": 106,
+   "para": 45,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“contrary to all my notions, I believed\nyou have managed to get two honest men on board with you--that man and\nJohn Silver.”"
+  },
+  {
+   "n": 107,
+   "para": 46,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Silver, if you like,”"
+  },
+  {
+   "n": 108,
+   "para": 46,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the squire;"
+  },
+  {
+   "n": 109,
+   "para": 46,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“but as for that intolerable\nhumbug, I declare I think his conduct unmanly, unsailorly, and downright\nun-English.”"
+  },
+  {
+   "n": 110,
+   "para": 47,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Well,”"
+  },
+  {
+   "n": 111,
+   "para": 47,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "says the doctor,"
+  },
+  {
+   "n": 112,
+   "para": 47,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“we shall see.”"
+  },
+  {
+   "n": 113,
+   "para": 48,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "When we came on deck, the men had begun already to take out the arms and\npowder, yo-ho-ing at their work, while the captain and Mr. Arrow stood\nby superintending."
+  },
+  {
+   "n": 114,
+   "para": 49,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The new arrangement was quite to my liking. The whole schooner had been\noverhauled; six berths had been made astern out of what had been the\nafter-part of the main hold; and this set of cabins was only joined to\nthe galley and forecastle by a sparred passage on the port side. It had\nbeen originally meant that the captain, Mr. Arrow, Hunter, Joyce, the\ndoctor, and the squire were to occupy these six berths. Now Redruth and\nI were to get two of them and Mr. Arrow and the captain were to sleep\non deck in the companion, which had been enlarged on each side till you\nmight almost have called it a round-house. Very low it was still, of\ncourse; but there was room to swing two hammocks, and even the mate\nseemed pleased with the arrangement. Even he, perhaps, had been doubtful\nas to the crew, but that is only guess, for as you shall hear, we had\nnot long the benefit of his opinion."
+  },
+  {
+   "n": 115,
+   "para": 50,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "We were all hard at work, changing the powder and the berths, when\nthe last man or two, and Long John along with them, came off in a\nshore-boat."
+  },
+  {
+   "n": 116,
+   "para": 51,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The cook came up the side like a monkey for cleverness, and as soon as\nhe saw what was doing,"
+  },
+  {
+   "n": 117,
+   "para": 51,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“So ho, mates!”"
+  },
+  {
+   "n": 118,
+   "para": 51,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "says he."
+  },
+  {
+   "n": 119,
+   "para": 51,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“What’s this?”"
+  },
+  {
+   "n": 120,
+   "para": 52,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“We’re a-changing of the powder, Jack,” answers one."
+  },
+  {
+   "n": 121,
+   "para": 53,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Why, by the powers,”"
+  },
+  {
+   "n": 122,
+   "para": 53,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried Long John,"
+  },
+  {
+   "n": 123,
+   "para": 53,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“if we do, we’ll miss the morning\ntide!”"
+  },
+  {
+   "n": 124,
+   "para": 54,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“My orders!”"
+  },
+  {
+   "n": 125,
+   "para": 54,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain shortly."
+  },
+  {
+   "n": 126,
+   "para": 54,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“You may go below, my man. Hands\nwill want supper.”"
+  },
+  {
+   "n": 127,
+   "para": 55,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Aye, aye, sir,”"
+  },
+  {
+   "n": 128,
+   "para": 55,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "answered the cook, and touching his forelock, he\ndisappeared at once in the direction of his galley."
+  },
+  {
+   "n": 129,
+   "para": 56,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“That’s a good man, captain,”"
+  },
+  {
+   "n": 130,
+   "para": 56,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor."
+  },
+  {
+   "n": 131,
+   "para": 57,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Very likely, sir,”"
+  },
+  {
+   "n": 132,
+   "para": 57,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "replied Captain Smollett."
+  },
+  {
+   "n": 133,
+   "para": 57,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Easy with that,\nmen--easy,”"
+  },
+  {
+   "n": 134,
+   "para": 57,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he ran on, to the fellows who were shifting the powder; and\nthen suddenly observing me examining the swivel we carried amidships,\na long brass nine,"
+  },
+  {
+   "n": 135,
+   "para": 57,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Here you, ship’s boy,”"
+  },
+  {
+   "n": 136,
+   "para": 57,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he cried,"
+  },
+  {
+   "n": 137,
+   "para": 57,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“out o’ that! Off\nwith you to the cook and get some work.”"
+  },
+  {
+   "n": 138,
+   "para": 58,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And then as I was hurrying off I heard him say, quite loudly, to the\ndoctor,"
+  },
+  {
+   "n": 139,
+   "para": 58,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I’ll have no favourites on my ship.”"
+  },
+  {
+   "n": 140,
+   "para": 59,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I assure you I was quite of the squire’s way of thinking, and hated the\ncaptain deeply."
+  }
+ ]
+}

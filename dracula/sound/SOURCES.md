@@ -71,3 +71,24 @@ from them.
 | `wolf-howl.mp3` | *Wolf howls* — U.S. Fish & Wildlife Service (PD-USGov-FWS) | PD |
 | `sea.mp3` | synthesized sea on shingle | synthesized |
 | `hull.mp3` | synthesized sea against a hull + *Creaky wooden casket* (stephan), slowed into ship's timbers | synthesized + PD |
+
+## Chapters I–VI (4 Oct 2026)
+
+Built by `build-ch1-6.py`. Instruments from **Versilian Studios, VSCO 2
+Community Edition** (CC0; credit gladly given: *orchestral samples by
+Versilian Studios, recorded by Sam Gossner and Simon Dalzell*).
+
+| file | made from | licence |
+|---|---|---|
+| `score-dread.mp3` | VSCO 2 CE: double bass and cellos holding D–A, violas leaning D–E♭, the upright piano. Replaces the synthesized placeholder. | CC0 |
+| `score-pastoral-warm.mp3` | VSCO 2 CE: string sections, upright piano, flute. F major. | CC0 |
+| `score-pastoral-sour.mp3` | VSCO 2 CE: the same, curdled in the same key. | CC0 |
+| `phonograph-crackle.wav` | synthesized wax crackle, hiss and cylinder turn | synthesized |
+| `wind.mp3` | *Howling wind* (Tvabutzku1234, Wikimedia Commons) | CC0 |
+| `london.mp3` | synthesized room tone and a muffled street | synthesized |
+| `horses-gallop.mp3` | *Six Horses Galloping By* (Freesound Community, Wikimedia Commons) | CC0 |
+| `horse-neigh.mp3` | *Wiehern* (Hü., Wikimedia Commons) | PD |
+| `church-bells.mp3` | *Church bells - Leverkusen, 2007* (natalie, Wikimedia Commons) | PD |
+| `gulls.mp3` | *Gull 1* (avphillips, Wikimedia Commons) | PD |
+| `clock-strike.mp3` | synthesized bell | synthesized |
+| `hammering.mp3` | *Dull thud* (gregoryweir, Wikimedia Commons), struck in threes | PD |

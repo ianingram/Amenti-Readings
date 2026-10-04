@@ -1,0 +1,815 @@
+{
+ "work": "dracula",
+ "episode": 2,
+ "chapter": 2,
+ "title": "Enter Freely",
+ "document": "JONATHAN HARKER'S JOURNAL — the Castle",
+ "source": {
+  "library": "library/bram-stoker/ch02.md",
+  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ },
+ "note": "Chapter II complete. Cue boundaries fall on paragraph breaks and on the quotation marks of real speech only; quoted words and titles stay in their narration. Every cue's text is byte-identical to the library file, line breaks included (chunkText strips them; the cache key is the text). A brief quotation inside a document — a passenger, a driver, an attendant, Renfield — is spoken by the document's writer; the principal characters always speak for themselves. Letters are read whole by their writers. Every speech attribution is listed in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Jonathan Harker",
+   "cast_as": "Charles Darwin"
+  },
+  {
+   "role": "Count Dracula",
+   "cast_as": "Vlad the Impaler"
+  },
+  {
+   "role": "Narrator",
+   "cast_as": "Bram Stoker"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "CHAPTER II"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "JONATHAN HARKER’S JOURNAL— continued"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "5 May. —I must have been asleep, for certainly if I had been fully\nawake I must have noticed the approach of such a remarkable place. In\nthe gloom the courtyard looked of considerable size, and as several dark\nways led from it under great round arches, it perhaps seemed bigger than\nit really is. I have not yet been able to see it by daylight."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When the calèche stopped, the driver jumped down and held out his hand\nto assist me to alight. Again I could not but notice his prodigious\nstrength. His hand actually seemed like a steel vice that could have\ncrushed mine if he had chosen. Then he took out my traps, and placed\nthem on the ground beside me as I stood close to a great door, old and\nstudded with large iron nails, and set in a projecting doorway of\nmassive stone. I could see even in the dim light that the stone was\nmassively carved, but that the carving had been much worn by time and\nweather. As I stood, the driver jumped again into his seat and shook the\nreins; the horses started forward, and trap and all disappeared down one\nof the dark openings."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I stood in silence where I was, for I did not know what to do. Of bell\nor knocker there was no sign; through these frowning walls and dark\nwindow openings it was not likely that my voice could penetrate. The\ntime I waited seemed endless, and I felt doubts and fears crowding upon\nme. What sort of place had I come to, and among what kind of people?\nWhat sort of grim adventure was it on which I had embarked? Was this a\ncustomary incident in the life of a solicitor’s clerk sent out to\nexplain the purchase of a London estate to a foreigner? Solicitor’s\nclerk! Mina would not like that. Solicitor—for just before leaving\nLondon I got word that my examination was successful; and I am now a\nfull-blown solicitor! I began to rub my eyes and pinch myself to see if\nI were awake. It all seemed like a horrible nightmare to me, and I\nexpected that I should suddenly awake, and find myself at home, with\nthe dawn struggling in through the windows, as I had now and again felt\nin the morning after a day of overwork. But my flesh answered the\npinching test, and my eyes were not to be deceived. I was indeed awake\nand among the Carpathians. All I could do now was to be patient, and to\nwait the coming of the morning."
+  },
+  {
+   "n": 6,
+   "sfx": [
+    {
+     "key": "steps_approach",
+     "at": "heavy step approaching"
+    },
+    {
+     "key": "chains",
+     "at": "rattling chains"
+    },
+    {
+     "key": "bolts",
+     "at": "massive bolts drawn back"
+    },
+    {
+     "key": "key_turn",
+     "at": "long disuse"
+    },
+    {
+     "key": "door_heavy",
+     "at": "the great door swung back"
+    }
+   ],
+   "para": 5,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Just as I had come to this conclusion I heard a heavy step approaching\nbehind the great door, and saw through the chinks the gleam of a coming\nlight. Then there was the sound of rattling chains and the clanking of\nmassive bolts drawn back. A key was turned with the loud grating noise\nof long disuse, and the great door swung back."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Within, stood a tall old man, clean shaven save for a long white\nmoustache, and clad in black from head to foot, without a single speck\nof colour about him anywhere. He held in his hand an antique silver\nlamp, in which the flame burned without chimney or globe of any kind,\nthrowing long quivering shadows as it flickered in the draught of the\nopen door. The old man motioned me in with his right hand with a courtly\ngesture, saying in excellent English, but with a strange intonation:—"
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Welcome to my house! Enter freely and of your own will!”"
+  },
+  {
+   "n": 9,
+   "sfx": [
+    {
+     "key": "step_threshold",
+     "at": "stepped over the threshold"
+    }
+   ],
+   "para": 7,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "He made no\nmotion of stepping to meet me, but stood like a statue, as though his\ngesture of welcome had fixed him into stone. The instant, however, that\nI had stepped over the threshold, he moved impulsively forward, and\nholding out his hand grasped mine with a strength which made me wince,\nan effect which was not lessened by the fact that it seemed as cold as\nice—more like the hand of a dead than a living man. Again he said:—"
+  },
+  {
+   "n": 10,
+   "para": 8,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Welcome to my house. Come freely. Go safely; and leave something of the\nhappiness you bring!”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The strength of the handshake was so much akin to\nthat which I had noticed in the driver, whose face I had not seen, that\nfor a moment I doubted if it were not the same person to whom I was\nspeaking; so to make sure, I said interrogatively:—"
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Count Dracula?” He bowed in a courtly way as he replied:—"
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I am Dracula; and I bid you welcome, Mr. Harker, to my house. Come in;\nthe night air is chill, and you must need to eat and rest.”"
+  },
+  {
+   "n": 14,
+   "sfx": [
+    {
+     "key": "lamp_bracket",
+     "at": "on a bracket on the wall"
+    },
+    {
+     "key": "luggage_lift",
+     "at": "took my luggage"
+    }
+   ],
+   "para": 10,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "As he was\nspeaking, he put the lamp on a bracket on the wall, and stepping out,\ntook my luggage; he had carried it in before I could forestall him. I\nprotested but he insisted:—"
+  },
+  {
+   "n": 15,
+   "para": 11,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Nay, sir, you are my guest. It is late, and my people are not\navailable. Let me see to your comfort myself.”"
+  },
+  {
+   "n": 16,
+   "sfx": [
+    {
+     "key": "stairs",
+     "at": "up a great winding stair"
+    },
+    {
+     "key": "steps_stone",
+     "at": "our steps rang heavily"
+    },
+    {
+     "key": "door_open",
+     "at": "threw open a heavy door"
+    },
+    {
+     "key": "fire_flare",
+     "at": "flamed and flared"
+    }
+   ],
+   "para": 11,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "He insisted on carrying\nmy traps along the passage, and then up a great winding stair, and\nalong another great passage, on whose stone floor our steps rang\nheavily. At the end of this he threw open a heavy door, and I rejoiced\nto see within a well-lit room in which a table was spread for supper,\nand on whose mighty hearth a great fire of logs, freshly replenished,\nflamed and flared."
+  },
+  {
+   "n": 17,
+   "sfx": [
+    {
+     "key": "luggage_down",
+     "at": "putting down my bags"
+    },
+    {
+     "key": "door_close",
+     "at": "closed the door,"
+    },
+    {
+     "key": "door_open",
+     "at": "opened another door, which"
+    },
+    {
+     "key": "door_open",
+     "at": "he opened another door"
+    },
+    {
+     "key": "fire_roar",
+     "at": "up the wide chimney"
+    },
+    {
+     "key": "door_close",
+     "at": "before he closed the door"
+    }
+   ],
+   "para": 12,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The Count halted, putting down my bags, closed the door, and crossing\nthe room, opened another door, which led into a small octagonal room lit\nby a single lamp, and seemingly without a window of any sort. Passing\nthrough this, he opened another door, and motioned me to enter. It was a\nwelcome sight; for here was a great bedroom well lighted and warmed with\nanother log fire,—also added to but lately, for the top logs were\nfresh—which sent a hollow roar up the wide chimney. The Count himself\nleft my luggage inside and withdrew, saying, before he closed the\ndoor:—"
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“You will need, after your journey, to refresh yourself by making your\ntoilet. I trust you will find all you wish. When you are ready, come\ninto the other room, where you will find your supper prepared.”"
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The light and warmth and the Count’s courteous welcome seemed to have\ndissipated all my doubts and fears. Having then reached my normal state,\nI discovered that I was half famished with hunger; so making a hasty\ntoilet, I went into the other room."
+  },
+  {
+   "n": 20,
+   "para": 15,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I found supper already laid out. My host, who stood on one side of the\ngreat fireplace, leaning against the stonework, made a graceful wave of\nhis hand to the table, and said:—"
+  },
+  {
+   "n": 21,
+   "para": 16,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I pray you, be seated and sup how you please. You will, I trust, excuse\nme that I do not join you; but I have dined already, and I do not sup.”"
+  },
+  {
+   "n": 22,
+   "sfx": [
+    {
+     "key": "letter",
+     "at": "He opened it"
+    }
+   ],
+   "para": 17,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I handed to him the sealed letter which Mr. Hawkins had entrusted to me.\nHe opened it and read it gravely; then, with a charming smile, he handed\nit to me to read. One passage of it, at least, gave me a thrill of\npleasure."
+  },
+  {
+   "n": 23,
+   "under": "piano_far",
+   "para": 18,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I must regret that an attack of gout, from which malady I am a constant\nsufferer, forbids absolutely any travelling on my part for some time to\ncome; but I am happy to say I can send a sufficient substitute, one in\nwhom I have every possible confidence. He is a young man, full of energy\nand talent in his own way, and of a very faithful disposition. He is\ndiscreet and silent, and has grown into manhood in my service. He shall\nbe ready to attend on you when you will during his stay, and shall take\nyour instructions in all matters.”"
+  },
+  {
+   "n": 24,
+   "sfx": [
+    {
+     "key": "dish_cover",
+     "at": "cover of a dish"
+    },
+    {
+     "key": "wine",
+     "at": "bottle of old Tokay"
+    }
+   ],
+   "para": 19,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The Count himself came forward and took off the cover of a dish, and I\nfell to at once on an excellent roast chicken. This, with some cheese\nand a salad and a bottle of old Tokay, of which I had two glasses, was\nmy supper. During the time I was eating it the Count asked me many\nquestions as to my journey, and I told him by degrees all I had\nexperienced."
+  },
+  {
+   "n": 25,
+   "sfx": [
+    {
+     "key": "chair_draw",
+     "at": "drawn up a chair"
+    },
+    {
+     "key": "match",
+     "at": "begun to smoke a cigar"
+    }
+   ],
+   "para": 20,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "By this time I had finished my supper, and by my host’s desire had drawn\nup a chair by the fire and begun to smoke a cigar which he offered me,\nat the same time excusing himself that he did not smoke. I had now an\nopportunity of observing him, and found him of a very marked\nphysiognomy."
+  },
+  {
+   "n": 26,
+   "para": 21,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "His face was a strong—a very strong—aquiline, with high bridge of the\nthin nose and peculiarly arched nostrils; with lofty domed forehead, and\nhair growing scantily round the temples but profusely elsewhere. His\neyebrows were very massive, almost meeting over the nose, and with bushy\nhair that seemed to curl in its own profusion. The mouth, so far as I\ncould see it under the heavy moustache, was fixed and rather\ncruel-looking, with peculiarly sharp white teeth; these protruded over\nthe lips, whose remarkable ruddiness showed astonishing vitality in a\nman of his years. For the rest, his ears were pale, and at the tops\nextremely pointed; the chin was broad and strong, and the cheeks firm\nthough thin. The general effect was one of extraordinary pallor."
+  },
+  {
+   "n": 27,
+   "sfx": [
+    {
+     "key": "shudder",
+     "at": "repress a shudder"
+    },
+    {
+     "key": "chair_creak",
+     "at": "sat himself down again"
+    },
+    {
+     "key": "wolves_chorus",
+     "at": "the howling of many wolves"
+    }
+   ],
+   "para": 22,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Hitherto I had noticed the backs of his hands as they lay on his knees\nin the firelight, and they had seemed rather white and fine; but seeing\nthem now close to me, I could not but notice that they were rather\ncoarse—broad, with squat fingers. Strange to say, there were hairs in\nthe centre of the palm. The nails were long and fine, and cut to a sharp\npoint. As the Count leaned over me and his hands touched me, I could not\nrepress a shudder. It may have been that his breath was rank, but a\nhorrible feeling of nausea came over me, which, do what I would, I could\nnot conceal. The Count, evidently noticing it, drew back; and with a\ngrim sort of smile, which showed more than he had yet done his\nprotuberant teeth, sat himself down again on his own side of the\nfireplace. We were both silent for a while; and as I looked towards the\nwindow I saw the first dim streak of the coming dawn. There seemed a\nstrange stillness over everything; but as I listened I heard as if from\ndown below in the valley the howling of many wolves. The Count’s eyes\ngleamed, and he said:—"
+  },
+  {
+   "n": 28,
+   "para": 23,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Listen to them—the children of the night. What music they make!”"
+  },
+  {
+   "n": 29,
+   "para": 23,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Seeing, I suppose, some expression in my face strange to him, he\nadded:—"
+  },
+  {
+   "n": 30,
+   "para": 24,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Ah, sir, you dwellers in the city cannot enter into the feelings of the\nhunter.”"
+  },
+  {
+   "n": 31,
+   "para": 24,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Then he rose and said:—"
+  },
+  {
+   "n": 32,
+   "para": 25,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“But you must be tired. Your bedroom is all ready, and to-morrow you\nshall sleep as late as you will. I have to be away till the afternoon;\nso sleep well and dream well!”"
+  },
+  {
+   "n": 33,
+   "para": 25,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "With a courteous bow, he opened for me\nhimself the door to the octagonal room, and I entered my bedroom...."
+  },
+  {
+   "n": 34,
+   "para": 26,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I am all in a sea of wonders. I doubt; I fear; I think strange things,\nwhich I dare not confess to my own soul. God keep me, if only for the\nsake of those dear to me!"
+  },
+  {
+   "n": 35,
+   "para": 27,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "7 May. —It is again early morning, but I have rested and enjoyed the\nlast twenty-four hours. I slept till late in the day, and awoke of my\nown accord. When I had dressed myself I went into the room where we had\nsupped, and found a cold breakfast laid out, with coffee kept hot by the\npot being placed on the hearth. There was a card on the table, on which\nwas written:—"
+  },
+  {
+   "n": 36,
+   "para": 28,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I have to be absent for a while. Do not wait for me.—D.”"
+  },
+  {
+   "n": 37,
+   "sfx": [
+    {
+     "key": "wolves_chorus",
+     "at": "the howling of wolves"
+    }
+   ],
+   "para": 28,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I set to and\nenjoyed a hearty meal. When I had done, I looked for a bell, so that I\nmight let the servants know I had finished; but I could not find one.\nThere are certainly odd deficiencies in the house, considering the\nextraordinary evidences of wealth which are round me. The table service\nis of gold, and so beautifully wrought that it must be of immense value.\nThe curtains and upholstery of the chairs and sofas and the hangings of\nmy bed are of the costliest and most beautiful fabrics, and must have\nbeen of fabulous value when they were made, for they are centuries old,\nthough in excellent order. I saw something like them in Hampton Court,\nbut there they were worn and frayed and moth-eaten. But still in none of\nthe rooms is there a mirror. There is not even a toilet glass on my\ntable, and I had to get the little shaving glass from my bag before I\ncould either shave or brush my hair. I have not yet seen a servant\nanywhere, or heard a sound near the castle except the howling of wolves.\nSome time after I had finished my meal—I do not know whether to call it\nbreakfast or dinner, for it was between five and six o’clock when I had\nit—I looked about for something to read, for I did not like to go about\nthe castle until I had asked the Count’s permission. There was\nabsolutely nothing in the room, book, newspaper, or even writing\nmaterials; so I opened another door in the room and found a sort of\nlibrary. The door opposite mine I tried, but found it locked."
+  },
+  {
+   "n": 38,
+   "para": 29,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "In the library I found, to my great delight, a vast number of English\nbooks, whole shelves full of them, and bound volumes of magazines and\nnewspapers. A table in the centre was littered with English magazines\nand newspapers, though none of them were of very recent date. The books\nwere of the most varied kind—history, geography, politics, political\neconomy, botany, geology, law—all relating to England and English life\nand customs and manners. There were even such books of reference as the\nLondon Directory, the “Red” and “Blue” books, Whitaker’s Almanac, the\nArmy and Navy Lists, and—it somehow gladdened my heart to see it—the\nLaw List."
+  },
+  {
+   "n": 39,
+   "para": 30,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Whilst I was looking at the books, the door opened, and the Count\nentered. He saluted me in a hearty way, and hoped that I had had a good\nnight’s rest. Then he went on:—"
+  },
+  {
+   "n": 40,
+   "para": 31,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I am glad you found your way in here, for I am sure there is much that\nwill interest you. These companions”"
+  },
+  {
+   "n": 41,
+   "para": 31,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "—and he laid his hand on some of\nthe books—"
+  },
+  {
+   "n": 42,
+   "para": 31,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“have been good friends to me, and for some years past, ever\nsince I had the idea of going to London, have given me many, many hours\nof pleasure. Through them I have come to know your great England; and to\nknow her is to love her. I long to go through the crowded streets of\nyour mighty London, to be in the midst of the whirl and rush of\nhumanity, to share its life, its change, its death, and all that makes\nit what it is. But alas! as yet I only know your tongue through books.\nTo you, my friend, I look that I know it to speak.”"
+  },
+  {
+   "n": 43,
+   "para": 32,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“But, Count,” I said, “you know and speak English thoroughly!” He bowed\ngravely."
+  },
+  {
+   "n": 44,
+   "para": 33,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I thank you, my friend, for your all too-flattering estimate, but yet I\nfear that I am but a little way on the road I would travel. True, I know\nthe grammar and the words, but yet I know not how to speak them.”"
+  },
+  {
+   "n": 45,
+   "para": 34,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Indeed,” I said, “you speak excellently.”"
+  },
+  {
+   "n": 46,
+   "para": 35,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Not so,”"
+  },
+  {
+   "n": 47,
+   "para": 35,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he answered."
+  },
+  {
+   "n": 48,
+   "para": 35,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Well, I know that, did I move and speak in your\nLondon, none there are who would not know me for a stranger. That is not\nenough for me. Here I am noble; I am boyar ; the common people know me,\nand I am master. But a stranger in a strange land, he is no one; men\nknow him not—and to know not is to care not for. I am content if I am\nlike the rest, so that no man stops if he see me, or pause in his\nspeaking if he hear my words, ‘Ha, ha! a stranger!’ I have been so long\nmaster that I would be master still—or at least that none other should\nbe master of me. You come to me not alone as agent of my friend Peter\nHawkins, of Exeter, to tell me all about my new estate in London. You\nshall, I trust, rest here with me awhile, so that by our talking I may\nlearn the English intonation; and I would that you tell me when I make\nerror, even of the smallest, in my speaking. I am sorry that I had to be\naway so long to-day; but you will, I know, forgive one who has so many\nimportant affairs in hand.”"
+  },
+  {
+   "n": 49,
+   "para": 36,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Of course I said all I could about being willing, and asked if I might\ncome into that room when I chose. He answered:"
+  },
+  {
+   "n": 50,
+   "para": 36,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Yes, certainly,”"
+  },
+  {
+   "n": 51,
+   "para": 36,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "and\nadded:—"
+  },
+  {
+   "n": 52,
+   "para": 37,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“You may go anywhere you wish in the castle, except where the doors are\nlocked, where of course you will not wish to go. There is reason that\nall things are as they are, and did you see with my eyes and know with\nmy knowledge, you would perhaps better understand.”"
+  },
+  {
+   "n": 53,
+   "para": 37,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I said I was sure of\nthis, and then he went on:—"
+  },
+  {
+   "n": 54,
+   "para": 38,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“We are in Transylvania; and Transylvania is not England. Our ways are\nnot your ways, and there shall be to you many strange things. Nay, from\nwhat you have told me of your experiences already, you know something of\nwhat strange things there may be.”"
+  },
+  {
+   "n": 55,
+   "para": 39,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "This led to much conversation; and as it was evident that he wanted to\ntalk, if only for talking’s sake, I asked him many questions regarding\nthings that had already happened to me or come within my notice.\nSometimes he sheered off the subject, or turned the conversation by\npretending not to understand; but generally he answered all I asked most\nfrankly. Then as time went on, and I had got somewhat bolder, I asked\nhim of some of the strange things of the preceding night, as, for\ninstance, why the coachman went to the places where he had seen the blue\nflames. He then explained to me that it was commonly believed that on a\ncertain night of the year—last night, in fact, when all evil spirits\nare supposed to have unchecked sway—a blue flame is seen over any place\nwhere treasure has been concealed."
+  },
+  {
+   "n": 56,
+   "para": 39,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“That treasure has been hidden,”"
+  },
+  {
+   "n": 57,
+   "para": 39,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he\nwent on,"
+  },
+  {
+   "n": 58,
+   "para": 39,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“in the region through which you came last night, there can be\nbut little doubt; for it was the ground fought over for centuries by the\nWallachian, the Saxon, and the Turk. Why, there is hardly a foot of soil\nin all this region that has not been enriched by the blood of men,\npatriots or invaders. In old days there were stirring times, when the\nAustrian and the Hungarian came up in hordes, and the patriots went out\nto meet them—men and women, the aged and the children too—and waited\ntheir coming on the rocks above the passes, that they might sweep\ndestruction on them with their artificial avalanches. When the invader\nwas triumphant he found but little, for whatever there was had been\nsheltered in the friendly soil.”"
+  },
+  {
+   "n": 59,
+   "para": 40,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“But how,” said I, “can it have remained so long undiscovered, when\nthere is a sure index to it if men will but take the trouble to look?”\nThe Count smiled, and as his lips ran back over his gums, the long,\nsharp, canine teeth showed out strangely; he answered:—"
+  },
+  {
+   "n": 60,
+   "para": 41,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Because your peasant is at heart a coward and a fool! Those flames only\nappear on one night; and on that night no man of this land will, if he\ncan help it, stir without his doors. And, dear sir, even if he did he\nwould not know what to do. Why, even the peasant that you tell me of who\nmarked the place of the flame would not know where to look in daylight\neven for his own work. Even you would not, I dare be sworn, be able to\nfind these places again?”"
+  },
+  {
+   "n": 61,
+   "para": 42,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“There you are right,” I said. “I know no more than the dead where even\nto look for them.” Then we drifted into other matters."
+  },
+  {
+   "n": 62,
+   "para": 43,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Come,”"
+  },
+  {
+   "n": 63,
+   "para": 43,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he said at last,"
+  },
+  {
+   "n": 64,
+   "para": 43,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“tell me of London and of the house which you\nhave procured for me.”"
+  },
+  {
+   "n": 65,
+   "para": 43,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "With an apology for my remissness, I went into my\nown room to get the papers from my bag. Whilst I was placing them in\norder I heard a rattling of china and silver in the next room, and as I\npassed through, noticed that the table had been cleared and the lamp\nlit, for it was by this time deep into the dark. The lamps were also lit\nin the study or library, and I found the Count lying on the sofa,\nreading, of all things in the world, an English Bradshaw’s Guide. When I\ncame in he cleared the books and papers from the table; and with him I\nwent into plans and deeds and figures of all sorts. He was interested in\neverything, and asked me a myriad questions about the place and its\nsurroundings. He clearly had studied beforehand all he could get on the\nsubject of the neighbourhood, for he evidently at the end knew very much\nmore than I did. When I remarked this, he answered:—"
+  },
+  {
+   "n": 66,
+   "para": 44,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Well, but, my friend, is it not needful that I should? When I go there\nI shall be all alone, and my friend Harker Jonathan—nay, pardon me, I\nfall into my country’s habit of putting your patronymic first—my friend\nJonathan Harker will not be by my side to correct and aid me. He will be\nin Exeter, miles away, probably working at papers of the law with my\nother friend, Peter Hawkins. So!”"
+  },
+  {
+   "n": 67,
+   "para": 45,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "We went thoroughly into the business of the purchase of the estate at\nPurfleet. When I had told him the facts and got his signature to the\nnecessary papers, and had written a letter with them ready to post to\nMr. Hawkins, he began to ask me how I had come across so suitable a\nplace. I read to him the notes which I had made at the time, and which I\ninscribe here:—"
+  },
+  {
+   "n": 68,
+   "para": 46,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“At Purfleet, on a by-road, I came across just such a place as seemed to\nbe required, and where was displayed a dilapidated notice that the place\nwas for sale. It is surrounded by a high wall, of ancient structure,\nbuilt of heavy stones, and has not been repaired for a large number of\nyears. The closed gates are of heavy old oak and iron, all eaten with\nrust."
+  },
+  {
+   "n": 69,
+   "para": 47,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“The estate is called Carfax, no doubt a corruption of the old Quatre\nFace , as the house is four-sided, agreeing with the cardinal points of\nthe compass. It contains in all some twenty acres, quite surrounded by\nthe solid stone wall above mentioned. There are many trees on it, which\nmake it in places gloomy, and there is a deep, dark-looking pond or\nsmall lake, evidently fed by some springs, as the water is clear and\nflows away in a fair-sized stream. The house is very large and of all\nperiods back, I should say, to mediæval times, for one part is of stone\nimmensely thick, with only a few windows high up and heavily barred with\niron. It looks like part of a keep, and is close to an old chapel or\nchurch. I could not enter it, as I had not the key of the door leading\nto it from the house, but I have taken with my kodak views of it from\nvarious points. The house has been added to, but in a very straggling\nway, and I can only guess at the amount of ground it covers, which must\nbe very great. There are but few houses close at hand, one being a very\nlarge house only recently added to and formed into a private lunatic\nasylum. It is not, however, visible from the grounds.”"
+  },
+  {
+   "n": 70,
+   "para": 48,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When I had finished, he said:—"
+  },
+  {
+   "n": 71,
+   "para": 49,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I am glad that it is old and big. I myself am of an old family, and to\nlive in a new house would kill me. A house cannot be made habitable in a\nday; and, after all, how few days go to make up a century. I rejoice\nalso that there is a chapel of old times. We Transylvanian nobles love\nnot to think that our bones may lie amongst the common dead. I seek not\ngaiety nor mirth, not the bright voluptuousness of much sunshine and\nsparkling waters which please the young and gay. I am no longer young;\nand my heart, through weary years of mourning over the dead, is not\nattuned to mirth. Moreover, the walls of my castle are broken; the\nshadows are many, and the wind breathes cold through the broken\nbattlements and casements. I love the shade and the shadow, and would\nbe alone with my thoughts when I may.”"
+  },
+  {
+   "n": 72,
+   "para": 49,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Somehow his words and his look\ndid not seem to accord, or else it was that his cast of face made his\nsmile look malignant and saturnine."
+  },
+  {
+   "n": 73,
+   "para": 50,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Presently, with an excuse, he left me, asking me to put all my papers\ntogether. He was some little time away, and I began to look at some of\nthe books around me. One was an atlas, which I found opened naturally at\nEngland, as if that map had been much used. On looking at it I found in\ncertain places little rings marked, and on examining these I noticed\nthat one was near London on the east side, manifestly where his new\nestate was situated; the other two were Exeter, and Whitby on the\nYorkshire coast."
+  },
+  {
+   "n": 74,
+   "para": 51,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "It was the better part of an hour when the Count returned."
+  },
+  {
+   "n": 75,
+   "para": 51,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Aha!”"
+  },
+  {
+   "n": 76,
+   "para": 51,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he\nsaid;"
+  },
+  {
+   "n": 77,
+   "para": 51,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“still at your books? Good! But you must not work always. Come; I\nam informed that your supper is ready.”"
+  },
+  {
+   "n": 78,
+   "para": 51,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "He took my arm, and we went into\nthe next room, where I found an excellent supper ready on the table. The\nCount again excused himself, as he had dined out on his being away from\nhome. But he sat as on the previous night, and chatted whilst I ate.\nAfter supper I smoked, as on the last evening, and the Count stayed with\nme, chatting and asking questions on every conceivable subject, hour\nafter hour. I felt that it was getting very late indeed, but I did not\nsay anything, for I felt under obligation to meet my host’s wishes in\nevery way. I was not sleepy, as the long sleep yesterday had fortified\nme; but I could not help experiencing that chill which comes over one at\nthe coming of the dawn, which is like, in its way, the turn of the tide.\nThey say that people who are near death die generally at the change to\nthe dawn or at the turn of the tide; any one who has when tired, and\ntied as it were to his post, experienced this change in the atmosphere\ncan well believe it. All at once we heard the crow of a cock coming up\nwith preternatural shrillness through the clear morning air; Count\nDracula, jumping to his feet, said:—"
+  },
+  {
+   "n": 79,
+   "para": 52,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Why, there is the morning again! How remiss I am to let you stay up so\nlong. You must make your conversation regarding my dear new country of\nEngland less interesting, so that I may not forget how time flies by\nus,”"
+  },
+  {
+   "n": 80,
+   "para": 52,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "and, with a courtly bow, he quickly left me."
+  },
+  {
+   "n": 81,
+   "para": 53,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I went into my own room and drew the curtains, but there was little to\nnotice; my window opened into the courtyard, all I could see was the\nwarm grey of quickening sky. So I pulled the curtains again, and have\nwritten of this day."
+  },
+  {
+   "n": 82,
+   "para": 54,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "8 May. —I began to fear as I wrote in this book that I was getting too\ndiffuse; but now I am glad that I went into detail from the first, for\nthere is something so strange about this place and all in it that I\ncannot but feel uneasy. I wish I were safe out of it, or that I had\nnever come. It may be that this strange night-existence is telling on\nme; but would that that were all! If there were any one to talk to I\ncould bear it, but there is no one. I have only the Count to speak with,\nand he!—I fear I am myself the only living soul within the place. Let\nme be prosaic so far as facts can be; it will help me to bear up, and\nimagination must not run riot with me. If it does I am lost. Let me say\nat once how I stand—or seem to."
+  },
+  {
+   "n": 83,
+   "para": 55,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I only slept a few hours when I went to bed, and feeling that I could\nnot sleep any more, got up. I had hung my shaving glass by the window,\nand was just beginning to shave. Suddenly I felt a hand on my shoulder,\nand heard the Count’s voice saying to me,"
+  },
+  {
+   "n": 84,
+   "para": 55,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Good-morning.”"
+  },
+  {
+   "n": 85,
+   "para": 55,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I started, for\nit amazed me that I had not seen him, since the reflection of the glass\ncovered the whole room behind me. In starting I had cut myself slightly,\nbut did not notice it at the moment. Having answered the Count’s\nsalutation, I turned to the glass again to see how I had been mistaken.\nThis time there could be no error, for the man was close to me, and I\ncould see him over my shoulder. But there was no reflection of him in\nthe mirror! The whole room behind me was displayed; but there was no\nsign of a man in it, except myself. This was startling, and, coming on\nthe top of so many strange things, was beginning to increase that vague\nfeeling of uneasiness which I always have when the Count is near; but at\nthe instant I saw that the cut had bled a little, and the blood was\ntrickling over my chin. I laid down the razor, turning as I did so half\nround to look for some sticking plaster. When the Count saw my face, his\neyes blazed with a sort of demoniac fury, and he suddenly made a grab at\nmy throat. I drew away, and his hand touched the string of beads which\nheld the crucifix. It made an instant change in him, for the fury passed\nso quickly that I could hardly believe that it was ever there."
+  },
+  {
+   "n": 86,
+   "para": 56,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Take care,”"
+  },
+  {
+   "n": 87,
+   "para": 56,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he said,"
+  },
+  {
+   "n": 88,
+   "para": 56,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“take care how you cut yourself. It is more\ndangerous than you think in this country.”"
+  },
+  {
+   "n": 89,
+   "para": 56,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Then seizing the shaving\nglass, he went on:"
+  },
+  {
+   "n": 90,
+   "para": 56,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“And this is the wretched thing that has done the\nmischief. It is a foul bauble of man’s vanity. Away with it!”"
+  },
+  {
+   "n": 91,
+   "para": 56,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "and\nopening the heavy window with one wrench of his terrible hand, he flung\nout the glass, which was shattered into a thousand pieces on the stones\nof the courtyard far below. Then he withdrew without a word. It is very\nannoying, for I do not see how I am to shave, unless in my watch-case or\nthe bottom of the shaving-pot, which is fortunately of metal."
+  },
+  {
+   "n": 92,
+   "para": 57,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When I went into the dining-room, breakfast was prepared; but I could\nnot find the Count anywhere. So I breakfasted alone. It is strange that\nas yet I have not seen the Count eat or drink. He must be a very\npeculiar man! After breakfast I did a little exploring in the castle. I\nwent out on the stairs, and found a room looking towards the South. The\nview was magnificent, and from where I stood there was every opportunity\nof seeing it. The castle is on the very edge of a terrible precipice. A\nstone falling from the window would fall a thousand feet without\ntouching anything! As far as the eye can reach is a sea of green tree\ntops, with occasionally a deep rift where there is a chasm. Here and\nthere are silver threads where the rivers wind in deep gorges through\nthe forests."
+  },
+  {
+   "n": 93,
+   "para": 58,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "But I am not in heart to describe beauty, for when I had seen the view I\nexplored further; doors, doors, doors everywhere, and all locked and\nbolted. In no place save from the windows in the castle walls is there\nan available exit."
+  },
+  {
+   "n": 94,
+   "para": 59,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The castle is a veritable prison, and I am a prisoner!"
+  }
+ ]
+}

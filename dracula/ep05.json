@@ -1,0 +1,376 @@
+{
+ "work": "dracula",
+ "episode": 5,
+ "chapter": 5,
+ "title": "Three Proposals",
+ "document": "LETTERS · DR SEWARD'S DIARY · A TELEGRAM",
+ "source": {
+  "library": "library/bram-stoker/ch05.md",
+  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ },
+ "note": "Chapter V complete. Cue boundaries fall on paragraph breaks and on the quotation marks of real speech only; quoted words and titles stay in their narration. Every cue's text is byte-identical to the library file, line breaks included (chunkText strips them; the cache key is the text). A brief quotation inside a document — a passenger, a driver, an attendant, Renfield — is spoken by the document's writer; the principal characters always speak for themselves. Letters are read whole by their writers. Every speech attribution is listed in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Mina Murray",
+   "cast_as": "Agatha Christie"
+  },
+  {
+   "role": "Lucy Westenra",
+   "cast_as": "Mary Shelley"
+  },
+  {
+   "role": "Dr Seward",
+   "cast_as": "William Harvey"
+  },
+  {
+   "role": "Quincey Morris",
+   "cast_as": "Lyndon B. Johnson"
+  },
+  {
+   "role": "Arthur Holmwood",
+   "cast_as": "J.R.R. Tolkien"
+  },
+  {
+   "role": "Narrator",
+   "cast_as": "Bram Stoker"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "CHAPTER V"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Letter from Miss Mina Murray to Miss Lucy Westenra."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“ 9 May."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“My dearest Lucy,—"
+  },
+  {
+   "n": 5,
+   "sfx": [
+    {
+     "key": "church_bells",
+     "at": "There is the ten o’clock bell ringing"
+    }
+   ],
+   "para": 4,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“Forgive my long delay in writing, but I have been simply overwhelmed\nwith work. The life of an assistant schoolmistress is sometimes trying.\nI am longing to be with you, and by the sea, where we can talk together\nfreely and build our castles in the air. I have been working very hard\nlately, because I want to keep up with Jonathan’s studies, and I have\nbeen practising shorthand very assiduously. When we are married I shall\nbe able to be useful to Jonathan, and if I can stenograph well enough I\ncan take down what he wants to say in this way and write it out for him\non the typewriter, at which also I am practising very hard. He and I\nsometimes write letters in shorthand, and he is keeping a stenographic\njournal of his travels abroad. When I am with you I shall keep a diary\nin the same way. I don’t mean one of those\ntwo-pages-to-the-week-with-Sunday-squeezed-in-a-corner diaries, but a\nsort of journal which I can write in whenever I feel inclined. I do not\nsuppose there will be much of interest to other people; but it is not\nintended for them. I may show it to Jonathan some day if there is in it\nanything worth sharing, but it is really an exercise book. I shall try\nto do what I see lady journalists do: interviewing and writing\ndescriptions and trying to remember conversations. I am told that, with\na little practice, one can remember all that goes on or that one hears\nsaid during a day. However, we shall see. I will tell you of my little\nplans when we meet. I have just had a few hurried lines from Jonathan\nfrom Transylvania. He is well, and will be returning in about a week. I\nam longing to hear all his news. It must be so nice to see strange\ncountries. I wonder if we—I mean Jonathan and I—shall ever see them\ntogether. There is the ten o’clock bell ringing. Good-bye."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“Your loving\n“ Mina ."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“Tell me all the news when you write. You have not told me anything for\na long time. I hear rumours, and especially of a tall, handsome,\ncurly-haired man???”"
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Letter, Lucy Westenra to Mina Murray ."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“ 17, Chatham Street ,\n“ Wednesday ."
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“My dearest Mina,—"
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“I must say you tax me very unfairly with being a bad correspondent. I\nwrote to you twice since we parted, and your last letter was only your\nsecond . Besides, I have nothing to tell you. There is really nothing\nto interest you. Town is very pleasant just now, and we go a good deal\nto picture-galleries and for walks and rides in the park. As to the\ntall, curly-haired man, I suppose it was the one who was with me at the\nlast Pop. Some one has evidently been telling tales. That was Mr.\nHolmwood. He often comes to see us, and he and mamma get on very well\ntogether; they have so many things to talk about in common. We met some\ntime ago a man that would just do for you , if you were not already\nengaged to Jonathan. He is an excellent parti , being handsome, well\noff, and of good birth. He is a doctor and really clever. Just fancy! He\nis only nine-and-twenty, and he has an immense lunatic asylum all under\nhis own care. Mr. Holmwood introduced him to me, and he called here to\nsee us, and often comes now. I think he is one of the most resolute men\nI ever saw, and yet the most calm. He seems absolutely imperturbable. I\ncan fancy what a wonderful power he must have over his patients. He has\na curious habit of looking one straight in the face, as if trying to\nread one’s thoughts. He tries this on very much with me, but I flatter\nmyself he has got a tough nut to crack. I know that from my glass. Do\nyou ever try to read your own face? I do , and I can tell you it is not\na bad study, and gives you more trouble than you can well fancy if you\nhave never tried it. He says that I afford him a curious psychological\nstudy, and I humbly think I do. I do not, as you know, take sufficient\ninterest in dress to be able to describe the new fashions. Dress is a\nbore. That is slang again, but never mind; Arthur says that every day.\nThere, it is all out. Mina, we have told all our secrets to each other\nsince we were children ; we have slept together and eaten together, and\nlaughed and cried together; and now, though I have spoken, I would like\nto speak more. Oh, Mina, couldn’t you guess? I love him. I am blushing\nas I write, for although I think he loves me, he has not told me so in\nwords. But oh, Mina, I love him; I love him; I love him! There, that\ndoes me good. I wish I were with you, dear, sitting by the fire\nundressing, as we used to sit; and I would try to tell you what I feel.\nI do not know how I am writing this even to you. I am afraid to stop,\nor I should tear up the letter, and I don’t want to stop, for I do so\nwant to tell you all. Let me hear from you at once , and tell me all\nthat you think about it. Mina, I must stop. Good-night. Bless me in your\nprayers; and, Mina, pray for my happiness."
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“LUCY."
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“P.S.—I need not tell you this is a secret. Good-night again."
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“L.”"
+  },
+  {
+   "n": 15,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Letter, Lucy Westenra to Mina Murray ."
+  },
+  {
+   "n": 16,
+   "para": 15,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“ 24 May ."
+  },
+  {
+   "n": 17,
+   "para": 16,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“My dearest Mina,—"
+  },
+  {
+   "n": 18,
+   "para": 17,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Thanks, and thanks, and thanks again for your sweet letter. It was so\nnice to be able to tell you and to have your sympathy."
+  },
+  {
+   "n": 19,
+   "para": 18,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“My dear, it never rains but it pours. How true the old proverbs are.\nHere am I, who shall be twenty in September, and yet I never had a\nproposal till to-day, not a real proposal, and to-day I have had three.\nJust fancy! T HREE proposals in one day! Isn’t it awful! I feel sorry,\nreally and truly sorry, for two of the poor fellows. Oh, Mina, I am so\nhappy that I don’t know what to do with myself. And three proposals!\nBut, for goodness’ sake, don’t tell any of the girls, or they would be\ngetting all sorts of extravagant ideas and imagining themselves injured\nand slighted if in their very first day at home they did not get six at\nleast. Some girls are so vain! You and I, Mina dear, who are engaged and\nare going to settle down soon soberly into old married women, can\ndespise vanity. Well, I must tell you about the three, but you must keep\nit a secret, dear, from every one , except, of course, Jonathan. You\nwill tell him, because I would, if I were in your place, certainly tell\nArthur. A woman ought to tell her husband everything—don’t you think\nso, dear?—and I must be fair. Men like women, certainly their wives, to\nbe quite as fair as they are; and women, I am afraid, are not always\nquite as fair as they should be. Well, my dear, number One came just\nbefore lunch. I told you of him, Dr. John Seward, the lunatic-asylum\nman, with the strong jaw and the good forehead. He was very cool\noutwardly, but was nervous all the same. He had evidently been schooling\nhimself as to all sorts of little things, and remembered them; but he\nalmost managed to sit down on his silk hat, which men don’t generally do\nwhen they are cool, and then when he wanted to appear at ease he kept\nplaying with a lancet in a way that made me nearly scream. He spoke to\nme, Mina, very straightforwardly. He told me how dear I was to him,\nthough he had known me so little, and what his life would be with me to\nhelp and cheer him. He was going to tell me how unhappy he would be if I\ndid not care for him, but when he saw me cry he said that he was a brute\nand would not add to my present trouble. Then he broke off and asked if\nI could love him in time; and when I shook my head his hands trembled,\nand then with some hesitation he asked me if I cared already for any one\nelse. He put it very nicely, saying that he did not want to wring my\nconfidence from me, but only to know, because if a woman’s heart was\nfree a man might have hope. And then, Mina, I felt a sort of duty to\ntell him that there was some one. I only told him that much, and then he\nstood up, and he looked very strong and very grave as he took both my\nhands in his and said he hoped I would be happy, and that if I ever\nwanted a friend I must count him one of my best. Oh, Mina dear, I can’t\nhelp crying: and you must excuse this letter being all blotted. Being\nproposed to is all very nice and all that sort of thing, but it isn’t at\nall a happy thing when you have to see a poor fellow, whom you know\nloves you honestly, going away and looking all broken-hearted, and to\nknow that, no matter what he may say at the moment, you are passing\nquite out of his life. My dear, I must stop here at present, I feel so\nmiserable, though I am so happy."
+  },
+  {
+   "n": 20,
+   "para": 19,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“ Evening."
+  },
+  {
+   "n": 21,
+   "para": 20,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Arthur has just gone, and I feel in better spirits than when I left\noff, so I can go on telling you about the day. Well, my dear, number Two\ncame after lunch. He is such a nice fellow, an American from Texas, and\nhe looks so young and so fresh that it seems almost impossible that he\nhas been to so many places and has had such adventures. I sympathise\nwith poor Desdemona when she had such a dangerous stream poured in her\near, even by a black man. I suppose that we women are such cowards that\nwe think a man will save us from fears, and we marry him. I know now\nwhat I would do if I were a man and wanted to make a girl love me. No, I\ndon’t, for there was Mr. Morris telling us his stories, and Arthur never\ntold any, and yet—— My dear, I am somewhat previous. Mr. Quincey P.\nMorris found me alone. It seems that a man always does find a girl\nalone. No, he doesn’t, for Arthur tried twice to make a chance, and I\nhelping him all I could; I am not ashamed to say it now. I must tell you\nbeforehand that Mr. Morris doesn’t always speak slang—that is to say,\nhe never does so to strangers or before them, for he is really well\neducated and has exquisite manners—but he found out that it amused me\nto hear him talk American slang, and whenever I was present, and there\nwas no one to be shocked, he said such funny things. I am afraid, my\ndear, he has to invent it all, for it fits exactly into whatever else he\nhas to say. But this is a way slang has. I do not know myself if I shall\never speak slang; I do not know if Arthur likes it, as I have never\nheard him use any as yet. Well, Mr. Morris sat down beside me and looked\nas happy and jolly as he could, but I could see all the same that he was\nvery nervous. He took my hand in his, and said ever so sweetly:—"
+  },
+  {
+   "n": 22,
+   "para": 21,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“‘Miss Lucy, I know I ain’t good enough to regulate the fixin’s of your\nlittle shoes, but I guess if you wait till you find a man that is you\nwill go join them seven young women with the lamps when you quit. Won’t\nyou just hitch up alongside of me and let us go down the long road\ntogether, driving in double harness?’"
+  },
+  {
+   "n": 23,
+   "para": 22,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Well, he did look so good-humoured and so jolly that it didn’t seem\nhalf so hard to refuse him as it did poor Dr. Seward; so I said, as\nlightly as I could, that I did not know anything of hitching, and that I\nwasn’t broken to harness at all yet. Then he said that he had spoken in\na light manner, and he hoped that if he had made a mistake in doing so\non so grave, so momentous, an occasion for him, I would forgive him. He\nreally did look serious when he was saying it, and I couldn’t help\nfeeling a bit serious too—I know, Mina, you will think me a horrid\nflirt—though I couldn’t help feeling a sort of exultation that he was\nnumber two in one day. And then, my dear, before I could say a word he\nbegan pouring out a perfect torrent of love-making, laying his very\nheart and soul at my feet. He looked so earnest over it that I shall\nnever again think that a man must be playful always, and never earnest,\nbecause he is merry at times. I suppose he saw something in my face\nwhich checked him, for he suddenly stopped, and said with a sort of\nmanly fervour that I could have loved him for if I had been free:—"
+  },
+  {
+   "n": 24,
+   "para": 23,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“‘Lucy, you are an honest-hearted girl, I know. I should not be here\nspeaking to you as I am now if I did not believe you clean grit, right\nthrough to the very depths of your soul. Tell me, like one good fellow\nto another, is there any one else that you care for? And if there is\nI’ll never trouble you a hair’s breadth again, but will be, if you will\nlet me, a very faithful friend.’"
+  },
+  {
+   "n": 25,
+   "para": 24,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“My dear Mina, why are men so noble when we women are so little worthy\nof them? Here was I almost making fun of this great-hearted, true\ngentleman. I burst into tears—I am afraid, my dear, you will think\nthis a very sloppy letter in more ways than one—and I really felt very\nbadly. Why can’t they let a girl marry three men, or as many as want\nher, and save all this trouble? But this is heresy, and I must not say\nit. I am glad to say that, though I was crying, I was able to look into\nMr. Morris’s brave eyes, and I told him out straight:—"
+  },
+  {
+   "n": 26,
+   "para": 25,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“‘Yes, there is some one I love, though he has not told me yet that he\neven loves me.’ I was right to speak to him so frankly, for quite a\nlight came into his face, and he put out both his hands and took mine—I\nthink I put them into his—and said in a hearty way:—"
+  },
+  {
+   "n": 27,
+   "para": 26,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“‘That’s my brave girl. It’s better worth being late for a chance of\nwinning you than being in time for any other girl in the world. Don’t\ncry, my dear. If it’s for me, I’m a hard nut to crack; and I take it\nstanding up. If that other fellow doesn’t know his happiness, well, he’d\nbetter look for it soon, or he’ll have to deal with me. Little girl,\nyour honesty and pluck have made me a friend, and that’s rarer than a\nlover; it’s more unselfish anyhow. My dear, I’m going to have a pretty\nlonely walk between this and Kingdom Come. Won’t you give me one kiss?\nIt’ll be something to keep off the darkness now and then. You can, you\nknow, if you like, for that other good fellow—he must be a good fellow,\nmy dear, and a fine fellow, or you could not love him—hasn’t spoken\nyet.’ That quite won me, Mina, for it was brave and sweet of him, and\nnoble, too, to a rival—wasn’t it?—and he so sad; so I leant over and\nkissed him. He stood up with my two hands in his, and as he looked down\ninto my face—I am afraid I was blushing very much—he said:—"
+  },
+  {
+   "n": 28,
+   "para": 27,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“‘Little girl, I hold your hand, and you’ve kissed me, and if these\nthings don’t make us friends nothing ever will. Thank you for your sweet\nhonesty to me, and good-bye.’ He wrung my hand, and taking up his hat,\nwent straight out of the room without looking back, without a tear or a\nquiver or a pause; and I am crying like a baby. Oh, why must a man like\nthat be made unhappy when there are lots of girls about who would\nworship the very ground he trod on? I know I would if I were free—only\nI don’t want to be free. My dear, this quite upset me, and I feel I\ncannot write of happiness just at once, after telling you of it; and I\ndon’t wish to tell of the number three until it can be all happy."
+  },
+  {
+   "n": 29,
+   "para": 28,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Ever your loving\n“ Lucy."
+  },
+  {
+   "n": 30,
+   "para": 29,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“P.S.—Oh, about number Three—I needn’t tell you of number Three, need\nI? Besides, it was all so confused; it seemed only a moment from his\ncoming into the room till both his arms were round me, and he was\nkissing me. I am very, very happy, and I don’t know what I have done to\ndeserve it. I must only try in the future to show that I am not\nungrateful to God for all His goodness to me in sending to me such a\nlover, such a husband, and such a friend."
+  },
+  {
+   "n": 31,
+   "para": 30,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Good-bye.”"
+  },
+  {
+   "n": 32,
+   "score": {
+    "key": "phonograph",
+    "xfade": 2.5
+   },
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Dr. Seward’s Diary."
+  },
+  {
+   "n": 33,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "(Kept in phonograph)"
+  },
+  {
+   "n": 34,
+   "para": 33,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "25 May. —Ebb tide in appetite to-day. Cannot eat, cannot rest, so\ndiary instead. Since my rebuff of yesterday I have a sort of empty\nfeeling; nothing in the world seems of sufficient importance to be worth\nthe doing.... As I knew that the only cure for this sort of thing was\nwork, I went down amongst the patients. I picked out one who has\nafforded me a study of much interest. He is so quaint that I am\ndetermined to understand him as well as I can. To-day I seemed to get\nnearer than ever before to the heart of his mystery."
+  },
+  {
+   "n": 35,
+   "para": 34,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I questioned him more fully than I had ever done, with a view to making\nmyself master of the facts of his hallucination. In my manner of doing\nit there was, I now see, something of cruelty. I seemed to wish to keep\nhim to the point of his madness—a thing which I avoid with the patients\nas I would the mouth of hell."
+  },
+  {
+   "n": 36,
+   "para": 35,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "( Mem. , under what circumstances would I not avoid the pit of hell?)\nOmnia Romæ venalia sunt. Hell has its price! verb. sap. If there be\nanything behind this instinct it will be valuable to trace it afterwards\naccurately , so I had better commence to do so, therefore—"
+  },
+  {
+   "n": 37,
+   "para": 36,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "R. M. Renfield, ætat 59.—Sanguine temperament; great physical strength;\nmorbidly excitable; periods of gloom, ending in some fixed idea which I\ncannot make out. I presume that the sanguine temperament itself and the\ndisturbing influence end in a mentally-accomplished finish; a possibly\ndangerous man, probably dangerous if unselfish. In selfish men caution\nis as secure an armour for their foes as for themselves. What I think of\non this point is, when self is the fixed point the centripetal force is\nbalanced with the centrifugal; when duty, a cause, etc., is the fixed\npoint, the latter force is paramount, and only accident or a series of\naccidents can balance it."
+  },
+  {
+   "n": 38,
+   "score": {
+    "key": "pastoral_warm",
+    "xfade": 4
+   },
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Letter, Quincey P. Morris to Hon. Arthur Holmwood."
+  },
+  {
+   "n": 39,
+   "para": 38,
+   "role": "Quincey Morris",
+   "cast": "Lyndon B. Johnson",
+   "text": "“ 25 May."
+  },
+  {
+   "n": 40,
+   "para": 39,
+   "role": "Quincey Morris",
+   "cast": "Lyndon B. Johnson",
+   "text": "“My dear Art,—"
+  },
+  {
+   "n": 41,
+   "para": 40,
+   "role": "Quincey Morris",
+   "cast": "Lyndon B. Johnson",
+   "text": "“We’ve told yarns by the camp-fire in the prairies; and dressed one\nanother’s wounds after trying a landing at the Marquesas; and drunk\nhealths on the shore of Titicaca. There are more yarns to be told, and\nother wounds to be healed, and another health to be drunk. Won’t you let\nthis be at my camp-fire to-morrow night? I have no hesitation in asking\nyou, as I know a certain lady is engaged to a certain dinner-party, and\nthat you are free. There will only be one other, our old pal at the\nKorea, Jack Seward. He’s coming, too, and we both want to mingle our\nweeps over the wine-cup, and to drink a health with all our hearts to\nthe happiest man in all the wide world, who has won the noblest heart\nthat God has made and the best worth winning. We promise you a hearty\nwelcome, and a loving greeting, and a health as true as your own right\nhand. We shall both swear to leave you at home if you drink too deep to\na certain pair of eyes. Come!"
+  },
+  {
+   "n": 42,
+   "para": 41,
+   "role": "Quincey Morris",
+   "cast": "Lyndon B. Johnson",
+   "text": "“Yours, as ever and always,\n“ Quincey P. Morris. ”"
+  },
+  {
+   "n": 43,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Telegram from Arthur Holmwood to Quincey P. Morris."
+  },
+  {
+   "n": 44,
+   "para": 43,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“ 26 May."
+  },
+  {
+   "n": 45,
+   "para": 44,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Count me in every time. I bear messages which will make both your ears\ntingle."
+  },
+  {
+   "n": 46,
+   "para": 45,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“ Art. ”"
+  }
+ ]
+}

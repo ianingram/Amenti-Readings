@@ -11,43 +11,48 @@
    "file": "dracula/ep01.json",
    "document": "JONATHAN HARKER'S JOURNAL",
    "summary": "Bistritz to the Borgo Pass, and the calèche",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-I-VI.md."
   },
   {
    "n": 2,
-   "file": "dracula/ep01.json",
+   "file": "dracula/ep02.json",
    "document": "JONATHAN HARKER'S JOURNAL",
    "summary": "The castle door, and the Count",
    "status": "scripted",
-   "note": "Scripted as ep01 — the stored library passage 01-enter-freely.md covers the castle door, which is chapter II."
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-I-VI.md."
   },
   {
    "n": 3,
    "file": "dracula/ep03.json",
    "document": "JONATHAN HARKER'S JOURNAL",
    "summary": "A prisoner. The thing on the wall. The three",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-I-VI.md."
   },
   {
    "n": 4,
    "file": "dracula/ep04.json",
    "document": "JONATHAN HARKER'S JOURNAL",
    "summary": "The boxes, the escape down the wall",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-I-VI.md."
   },
   {
    "n": 5,
    "file": "dracula/ep05.json",
    "document": "LETTERS · MINA TO LUCY, LUCY TO MINA",
    "summary": "Three proposals in one day",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-I-VI.md."
   },
   {
    "n": 6,
    "file": "dracula/ep06.json",
    "document": "MINA MURRAY'S JOURNAL · Whitby",
    "summary": "The churchyard, and the old sailor",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-I-VI.md."
   },
   {
    "n": 7,
@@ -196,6 +201,14 @@
    "document": "MINA HARKER'S JOURNAL",
    "summary": "The snow, the ring of fire, and the last of the Count",
    "status": "unscripted"
+  }
+ ],
+ "excerpts": [
+  {
+   "file": "dracula/excerpts/enter-freely.json",
+   "chapter": 2,
+   "title": "Enter Freely and of Your Own Free Will",
+   "note": "The first staged reading: the castle door, from chapter II. Kept as the way in; the full chapter is ep02."
   }
  ]
 }

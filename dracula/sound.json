@@ -1,6 +1,6 @@
 {
   "_file": "Amenti-Readings/dracula/sound.json",
-  "_updated": "2026-10-04 03:30 UTC",
+  "_updated": "2026-10-04 06:00 UTC",
   "work": "dracula",
   "files": {
     "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals. CHAPTER 7: the loops (storm, pulse, captain's heart) are WAV, cut to exact bars, because an MP3 loop stutters at its seam; everything else is MP3.",
@@ -9,7 +9,8 @@
       "castle": "fire.mp3",
       "pass": "wind.mp3",
       "whitby": "sea.mp3",
-      "demeter": "hull.mp3"
+      "demeter": "hull.mp3",
+      "london_interior": "london.mp3"
     },
     "oneshots": {
       "door_heavy": "door_heavy.mp3",
@@ -46,7 +47,13 @@
       "mate_racing": "mate-racing.mp3",
       "lightning_depths": "lightning-depths.mp3",
       "wolf_howl": "wolf-howl.mp3",
-      "heart_last": "heart-last.mp3"
+      "heart_last": "heart-last.mp3",
+      "horses_gallop": "horses-gallop.mp3",
+      "horse_neigh": "horse-neigh.mp3",
+      "church_bells": "church-bells.mp3",
+      "gulls": "gulls.mp3",
+      "clock_strike": "clock-strike.mp3",
+      "hammering": "hammering.mp3"
     },
     "score": {
       "dread": "score-dread.mp3",
@@ -60,7 +67,10 @@
       "pulse_3": "pulse-3.wav",
       "pulse_2": "pulse-2.wav",
       "pulse_1": "pulse-1.wav",
-      "captain_heart": "captain-heart.wav"
+      "captain_heart": "captain-heart.wav",
+      "pastoral_warm": "score-pastoral-warm.mp3",
+      "pastoral_sour": "score-pastoral-sour.mp3",
+      "phonograph": "phonograph-crackle.wav"
     },
     "under": {
       "note": "MUSIC UNDER ONE LINE. piano_far: far away and airy, a few notes sprinkled, the odd soft chord — letters, memory, anything read rather than lived. piano_near: close and bold, full chords when the moment needs weight. Each use starts at a different seeded point in the minute-long piece.",
@@ -80,7 +90,11 @@
       "pulse_3": 1.0,
       "pulse_2": 1.0,
       "pulse_1": 1.0,
-      "captain_heart": 1.0
+      "captain_heart": 1.0,
+      "dread": 0.3,
+      "pastoral_warm": 0.3,
+      "pastoral_sour": 0.3,
+      "phonograph": 0.8
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
@@ -236,8 +250,8 @@
   },
   "score": {
     "note": "FOUR CUES, NOT TWENTY-SEVEN. The book has four tonal registers and they map to the document types rather than to the plot.",
-    "dread": "Harker's journal. Slow, low, almost static. Chapters 1-4, 19, 22.",
-    "pastoral_turning": "The Whitby chapters. Open and warm at first and souring without changing key. Chapters 6-8, 11-13.",
+    "dread": "Harker's journal. Slow, low, almost static. Chapters 1-4, 19, 22. REBUILT ON REAL INSTRUMENTS, 4 Oct 2026: VSCO 2 CE double bass and cellos on D–A, violas leaning D–E♭, the upright piano.",
+    "pastoral_turning": "The Whitby chapters. Open and warm at first and souring without changing key. Chapters 6-8, 11-13. BUILT AS TWO LOOPS, 4 Oct 2026: pastoral_warm (F major, strings breathing, piano broken chords, the flute) and pastoral_sour (the same key, the iv turned minor, the flat sixth, an E held against the F, no flute). The cue sheet chooses.",
     "pursuit": "The chase east. Momentum, and the only cue with a pulse. Chapters 26-27.",
     "earth_boxes": "The earth-boxes across London, ch 19-20. Industrial halftime, 60 BPM, percussion built from warehouse sounds rather than a drum kit. The only driving cue before the pursuit.",
     "phonograph": "Seward's diary, kept on a phonograph. LO-FI, and tiered three ways — full beat, crackle only, or silence. Sixteen of twenty-seven chapters are this document, so an untiered beat would be wallpaper. Measured, unemotional, a little mechanical. Chapters 9-10, 14-18, 21, 23-25.",
@@ -246,14 +260,15 @@
   "chapters": [
     {
       "n": 1,
-      "bed": "pass",
-      "score": "dread",
+      "bed": null,
+      "score": null,
       "sfx": [
         "carriage",
         "horse",
         "wolves_chorus",
         "thunder"
-      ]
+      ],
+      "note": "Silence at the inns; the dread enters with the landlady (\"Must you go?\"); the Borgo Pass wind from the coach onward. Scored from ep01.json."
     },
     {
       "n": 2,
@@ -290,19 +305,21 @@
     {
       "n": 5,
       "bed": "london_interior",
-      "score": "pastoral_turning",
+      "score": "pastoral_warm",
       "sfx": [
         "clock_strike"
-      ]
+      ],
+      "note": "The letters warm; Seward's phonograph crackle under his diary; warm again for Quincey and Arthur. Scored from ep05.json."
     },
     {
       "n": 6,
       "bed": "whitby",
-      "score": "pastoral_turning",
+      "score": "pastoral_warm",
       "sfx": [
         "dog",
         "ships_bell"
-      ]
+      ],
+      "note": "Whitby warm; the asylum and the phonograph for Seward; back at Whitby the pastoral sours, in the same key, as Jonathan stays silent and the storm comes. Scored from ep06.json."
     },
     {
       "n": 7,

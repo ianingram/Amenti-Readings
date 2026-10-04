@@ -1,0 +1,478 @@
+{
+ "work": "dracula",
+ "episode": 3,
+ "chapter": 3,
+ "title": "The Three Women",
+ "document": "JONATHAN HARKER'S JOURNAL — the Prisoner",
+ "source": {
+  "library": "library/bram-stoker/ch03.md",
+  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ },
+ "note": "Chapter III complete. Cue boundaries fall on paragraph breaks and on the quotation marks of real speech only; quoted words and titles stay in their narration. Every cue's text is byte-identical to the library file, line breaks included (chunkText strips them; the cache key is the text). A brief quotation inside a document — a passenger, a driver, an attendant, Renfield — is spoken by the document's writer; the principal characters always speak for themselves. Letters are read whole by their writers. Every speech attribution is listed in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Jonathan Harker",
+   "cast_as": "Charles Darwin"
+  },
+  {
+   "role": "Count Dracula",
+   "cast_as": "Vlad the Impaler"
+  },
+  {
+   "role": "The Fair Woman",
+   "cast_as": "Empress Elisabeth of Austria"
+  },
+  {
+   "role": "The First Dark Woman",
+   "cast_as": "Elizabeth Bathory"
+  },
+  {
+   "role": "The Second Dark Woman",
+   "cast_as": "Catherine de' Medici"
+  },
+  {
+   "role": "Narrator",
+   "cast_as": "Bram Stoker"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "CHAPTER III"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "JONATHAN HARKER’S JOURNAL— continued"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "W HEN I found that I was a prisoner a sort of wild feeling came over me.\nI rushed up and down the stairs, trying every door and peering out of\nevery window I could find; but after a little the conviction of my\nhelplessness overpowered all other feelings. When I look back after a\nfew hours I think I must have been mad for the time, for I behaved much\nas a rat does in a trap. When, however, the conviction had come to me\nthat I was helpless I sat down quietly—as quietly as I have ever done\nanything in my life—and began to think over what was best to be done. I\nam thinking still, and as yet have come to no definite conclusion. Of\none thing only am I certain; that it is no use making my ideas known to\nthe Count. He knows well that I am imprisoned; and as he has done it\nhimself, and has doubtless his own motives for it, he would only deceive\nme if I trusted him fully with the facts. So far as I can see, my only\nplan will be to keep my knowledge and my fears to myself, and my eyes\nopen. I am, I know, either being deceived, like a baby, by my own fears,\nor else I am in desperate straits; and if the latter be so, I need, and\nshall need, all my brains to get through."
+  },
+  {
+   "n": 4,
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "the great door below shut"
+    }
+   ],
+   "para": 3,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I had hardly come to this conclusion when I heard the great door below\nshut, and knew that the Count had returned. He did not come at once into\nthe library, so I went cautiously to my own room and found him making\nthe bed. This was odd, but only confirmed what I had all along\nthought—that there were no servants in the house. When later I saw him\nthrough the chink of the hinges of the door laying the table in the\ndining-room, I was assured of it; for if he does himself all these\nmenial offices, surely it is proof that there is no one else to do them.\nThis gave me a fright, for if there is no one else in the castle, it\nmust have been the Count himself who was the driver of the coach that\nbrought me here. This is a terrible thought; for if so, what does it\nmean that he could control the wolves, as he did, by only holding up his\nhand in silence. How was it that all the people at Bistritz and on the\ncoach had some terrible fear for me? What meant the giving of the\ncrucifix, of the garlic, of the wild rose, of the mountain ash? Bless\nthat good, good woman who hung the crucifix round my neck! for it is a\ncomfort and a strength to me whenever I touch it. It is odd that a thing\nwhich I have been taught to regard with disfavour and as idolatrous\nshould in a time of loneliness and trouble be of help. Is it that there\nis something in the essence of the thing itself, or that it is a medium,\na tangible help, in conveying memories of sympathy and comfort? Some\ntime, if it may be, I must examine this matter and try to make up my\nmind about it. In the meantime I must find out all I can about Count\nDracula, as it may help me to understand. To-night he may talk of\nhimself, if I turn the conversation that way. I must be very careful,\nhowever, not to awake his suspicion."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Midnight. —I have had a long talk with the Count. I asked him a few\nquestions on Transylvania history, and he warmed up to the subject\nwonderfully. In his speaking of things and people, and especially of\nbattles, he spoke as if he had been present at them all. This he\nafterwards explained by saying that to a boyar the pride of his house\nand name is his own pride, that their glory is his glory, that their\nfate is his fate. Whenever he spoke of his house he always said “we,”\nand spoke almost in the plural, like a king speaking. I wish I could put\ndown all he said exactly as he said it, for to me it was most\nfascinating. It seemed to have in it a whole history of the country. He\ngrew excited as he spoke, and walked about the room pulling his great\nwhite moustache and grasping anything on which he laid his hands as\nthough he would crush it by main strength. One thing he said which I\nshall put down as nearly as I can; for it tells in its way the story of\nhis race:—"
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“We Szekelys have a right to be proud, for in our veins flows the blood\nof many brave races who fought as the lion fights, for lordship. Here,\nin the whirlpool of European races, the Ugric tribe bore down from\nIceland the fighting spirit which Thor and Wodin gave them, which their\nBerserkers displayed to such fell intent on the seaboards of Europe, ay,\nand of Asia and Africa too, till the peoples thought that the\nwere-wolves themselves had come. Here, too, when they came, they found\nthe Huns, whose warlike fury had swept the earth like a living flame,\ntill the dying peoples held that in their veins ran the blood of those\nold witches, who, expelled from Scythia had mated with the devils in the\ndesert. Fools, fools! What devil or what witch was ever so great as\nAttila, whose blood is in these veins?”"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "He held up his arms."
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Is it a\nwonder that we were a conquering race; that we were proud; that when the\nMagyar, the Lombard, the Avar, the Bulgar, or the Turk poured his\nthousands on our frontiers, we drove them back? Is it strange that when\nArpad and his legions swept through the Hungarian fatherland he found us\nhere when he reached the frontier; that the Honfoglalas was completed\nthere? And when the Hungarian flood swept eastward, the Szekelys were\nclaimed as kindred by the victorious Magyars, and to us for centuries\nwas trusted the guarding of the frontier of Turkey-land; ay, and more\nthan that, endless duty of the frontier guard, for, as the Turks say,\n‘water sleeps, and enemy is sleepless.’ Who more gladly than we\nthroughout the Four Nations received the ‘bloody sword,’ or at its\nwarlike call flocked quicker to the standard of the King? When was\nredeemed that great shame of my nation, the shame of Cassova, when the\nflags of the Wallach and the Magyar went down beneath the Crescent? Who\nwas it but one of my own race who as Voivode crossed the Danube and beat\nthe Turk on his own ground? This was a Dracula indeed! Woe was it that\nhis own unworthy brother, when he had fallen, sold his people to the\nTurk and brought the shame of slavery on them! Was it not this Dracula,\nindeed, who inspired that other of his race who in a later age again and\nagain brought his forces over the great river into Turkey-land; who,\nwhen he was beaten back, came again, and again, and again, though he had\nto come alone from the bloody field where his troops were being\nslaughtered, since he knew that he alone could ultimately triumph! They\nsaid that he thought only of himself. Bah! what good are peasants\nwithout a leader? Where ends the war without a brain and heart to\nconduct it? Again, when, after the battle of Mohács, we threw off the\nHungarian yoke, we of the Dracula blood were amongst their leaders, for\nour spirit would not brook that we were not free. Ah, young sir, the\nSzekelys—and the Dracula as their heart’s blood, their brains, and\ntheir swords—can boast a record that mushroom growths like the\nHapsburgs and the Romanoffs can never reach. The warlike days are over.\nBlood is too precious a thing in these days of dishonourable peace; and\nthe glories of the great races are as a tale that is told.”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "It was by this time close on morning, and we went to bed. ( Mem. , this\ndiary seems horribly like the beginning of the “Arabian Nights,” for\neverything has to break off at cockcrow—or like the ghost of Hamlet’s\nfather.)"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "12 May. —Let me begin with facts—bare, meagre facts, verified by\nbooks and figures, and of which there can be no doubt. I must not\nconfuse them with experiences which will have to rest on my own\nobservation, or my memory of them. Last evening when the Count came from\nhis room he began by asking me questions on legal matters and on the\ndoing of certain kinds of business. I had spent the day wearily over\nbooks, and, simply to keep my mind occupied, went over some of the\nmatters I had been examining at Lincoln’s Inn. There was a certain\nmethod in the Count’s inquiries, so I shall try to put them down in\nsequence; the knowledge may somehow or some time be useful to me."
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "First, he asked if a man in England might have two solicitors or more. I\ntold him he might have a dozen if he wished, but that it would not be\nwise to have more than one solicitor engaged in one transaction, as only\none could act at a time, and that to change would be certain to militate\nagainst his interest. He seemed thoroughly to understand, and went on to\nask if there would be any practical difficulty in having one man to\nattend, say, to banking, and another to look after shipping, in case\nlocal help were needed in a place far from the home of the banking\nsolicitor. I asked him to explain more fully, so that I might not by any\nchance mislead him, so he said:—"
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I shall illustrate. Your friend and mine, Mr. Peter Hawkins, from under\nthe shadow of your beautiful cathedral at Exeter, which is far from\nLondon, buys for me through your good self my place at London. Good! Now\nhere let me say frankly, lest you should think it strange that I have\nsought the services of one so far off from London instead of some one\nresident there, that my motive was that no local interest might be\nserved save my wish only; and as one of London residence might, perhaps,\nhave some purpose of himself or friend to serve, I went thus afield to\nseek my agent, whose labours should be only to my interest. Now, suppose\nI, who have much of affairs, wish to ship goods, say, to Newcastle, or\nDurham, or Harwich, or Dover, might it not be that it could with more\nease be done by consigning to one in these ports?”"
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I answered that\ncertainly it would be most easy, but that we solicitors had a system of\nagency one for the other, so that local work could be done locally on\ninstruction from any solicitor, so that the client, simply placing\nhimself in the hands of one man, could have his wishes carried out by\nhim without further trouble."
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“But,”"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "said he,"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I could be at liberty to direct myself. Is it not so?”"
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Of course,” I replied; and “such is often done by men of business, who\ndo not like the whole of their affairs to be known by any one person.”"
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Good!”"
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he said, and then went on to ask about the means of making\nconsignments and the forms to be gone through, and of all sorts of\ndifficulties which might arise, but by forethought could be guarded\nagainst. I explained all these things to him to the best of my ability,\nand he certainly left me under the impression that he would have made a\nwonderful solicitor, for there was nothing that he did not think of or\nforesee. For a man who was never in the country, and who did not\nevidently do much in the way of business, his knowledge and acumen were\nwonderful. When he had satisfied himself on these points of which he had\nspoken, and I had verified all as well as I could by the books\navailable, he suddenly stood up and said:—"
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Have you written since your first letter to our friend Mr. Peter\nHawkins, or to any other?”"
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "It was with some bitterness in my heart that\nI answered that I had not, that as yet I had not seen any opportunity of\nsending letters to anybody."
+  },
+  {
+   "n": 22,
+   "para": 14,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Then write now, my young friend,”"
+  },
+  {
+   "n": 23,
+   "para": 14,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he said, laying a heavy hand on my\nshoulder:"
+  },
+  {
+   "n": 24,
+   "para": 14,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“write to our friend and to any other; and say, if it will\nplease you, that you shall stay with me until a month from now.”"
+  },
+  {
+   "n": 25,
+   "para": 15,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Do you wish me to stay so long?” I asked, for my heart grew cold at the\nthought."
+  },
+  {
+   "n": 26,
+   "para": 16,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I desire it much; nay, I will take no refusal. When your master,\nemployer, what you will, engaged that someone should come on his behalf,\nit was understood that my needs only were to be consulted. I have not\nstinted. Is it not so?”"
+  },
+  {
+   "n": 27,
+   "para": 17,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "What could I do but bow acceptance? It was Mr. Hawkins’s interest, not\nmine, and I had to think of him, not myself; and besides, while Count\nDracula was speaking, there was that in his eyes and in his bearing\nwhich made me remember that I was a prisoner, and that if I wished it I\ncould have no choice. The Count saw his victory in my bow, and his\nmastery in the trouble of my face, for he began at once to use them, but\nin his own smooth, resistless way:—"
+  },
+  {
+   "n": 28,
+   "para": 18,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I pray you, my good young friend, that you will not discourse of things\nother than business in your letters. It will doubtless please your\nfriends to know that you are well, and that you look forward to getting\nhome to them. Is it not so?”"
+  },
+  {
+   "n": 29,
+   "para": 18,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "As he spoke he handed me three sheets of\nnote-paper and three envelopes. They were all of the thinnest foreign\npost, and looking at them, then at him, and noticing his quiet smile,\nwith the sharp, canine teeth lying over the red underlip, I understood\nas well as if he had spoken that I should be careful what I wrote, for\nhe would be able to read it. So I determined to write only formal notes\nnow, but to write fully to Mr. Hawkins in secret, and also to Mina, for\nto her I could write in shorthand, which would puzzle the Count, if he\ndid see it. When I had written my two letters I sat quiet, reading a\nbook whilst the Count wrote several notes, referring as he wrote them to\nsome books on his table. Then he took up my two and placed them with his\nown, and put by his writing materials, after which, the instant the door\nhad closed behind him, I leaned over and looked at the letters, which\nwere face down on the table. I felt no compunction in doing so, for\nunder the circumstances I felt that I should protect myself in every way\nI could."
+  },
+  {
+   "n": 30,
+   "para": 19,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "One of the letters was directed to Samuel F. Billington, No. 7, The\nCrescent, Whitby, another to Herr Leutner, Varna; the third was to\nCoutts & Co., London, and the fourth to Herren Klopstock & Billreuth,\nbankers, Buda-Pesth. The second and fourth were unsealed. I was just\nabout to look at them when I saw the door-handle move. I sank back in my\nseat, having just had time to replace the letters as they had been and\nto resume my book before the Count, holding still another letter in his\nhand, entered the room. He took up the letters on the table and stamped\nthem carefully, and then turning to me, said:—"
+  },
+  {
+   "n": 31,
+   "para": 20,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“I trust you will forgive me, but I have much work to do in private this\nevening. You will, I hope, find all things as you wish.”"
+  },
+  {
+   "n": 32,
+   "para": 20,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "At the door he\nturned, and after a moment’s pause said:—"
+  },
+  {
+   "n": 33,
+   "para": 21,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Let me advise you, my dear young friend—nay, let me warn you with all\nseriousness, that should you leave these rooms you will not by any\nchance go to sleep in any other part of the castle. It is old, and has\nmany memories, and there are bad dreams for those who sleep unwisely. Be\nwarned! Should sleep now or ever overcome you, or be like to do, then\nhaste to your own chamber or to these rooms, for your rest will then be\nsafe. But if you be not careful in this respect, then”"
+  },
+  {
+   "n": 34,
+   "para": 21,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "—He finished his\nspeech in a gruesome way, for he motioned with his hands as if he were\nwashing them. I quite understood; my only doubt was as to whether any\ndream could be more terrible than the unnatural, horrible net of gloom\nand mystery which seemed closing around me."
+  },
+  {
+   "n": 35,
+   "para": 22,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Later. —I endorse the last words written, but this time there is no\ndoubt in question. I shall not fear to sleep in any place where he is\nnot. I have placed the crucifix over the head of my bed—I imagine that\nmy rest is thus freer from dreams; and there it shall remain."
+  },
+  {
+   "n": 36,
+   "para": 23,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When he left me I went to my room. After a little while, not hearing any\nsound, I came out and went up the stone stair to where I could look out\ntowards the South. There was some sense of freedom in the vast expanse,\ninaccessible though it was to me, as compared with the narrow darkness\nof the courtyard. Looking out on this, I felt that I was indeed in\nprison, and I seemed to want a breath of fresh air, though it were of\nthe night. I am beginning to feel this nocturnal existence tell on me.\nIt is destroying my nerve. I start at my own shadow, and am full of all\nsorts of horrible imaginings. God knows that there is ground for my\nterrible fear in this accursed place! I looked out over the beautiful\nexpanse, bathed in soft yellow moonlight till it was almost as light as\nday. In the soft light the distant hills became melted, and the shadows\nin the valleys and gorges of velvety blackness. The mere beauty seemed\nto cheer me; there was peace and comfort in every breath I drew. As I\nleaned from the window my eye was caught by something moving a storey\nbelow me, and somewhat to my left, where I imagined, from the order of\nthe rooms, that the windows of the Count’s own room would look out. The\nwindow at which I stood was tall and deep, stone-mullioned, and though\nweatherworn, was still complete; but it was evidently many a day since\nthe case had been there. I drew back behind the stonework, and looked\ncarefully out."
+  },
+  {
+   "n": 37,
+   "para": 24,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "What I saw was the Count’s head coming out from the window. I did not\nsee the face, but I knew the man by the neck and the movement of his\nback and arms. In any case I could not mistake the hands which I had had\nso many opportunities of studying. I was at first interested and\nsomewhat amused, for it is wonderful how small a matter will interest\nand amuse a man when he is a prisoner. But my very feelings changed to\nrepulsion and terror when I saw the whole man slowly emerge from the\nwindow and begin to crawl down the castle wall over that dreadful abyss,\nface down with his cloak spreading out around him like great wings. At\nfirst I could not believe my eyes. I thought it was some trick of the\nmoonlight, some weird effect of shadow; but I kept looking, and it could\nbe no delusion. I saw the fingers and toes grasp the corners of the\nstones, worn clear of the mortar by the stress of years, and by thus\nusing every projection and inequality move downwards with considerable\nspeed, just as a lizard moves along a wall."
+  },
+  {
+   "n": 38,
+   "para": 25,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "What manner of man is this, or what manner of creature is it in the\nsemblance of man? I feel the dread of this horrible place overpowering\nme; I am in fear—in awful fear—and there is no escape for me; I am\nencompassed about with terrors that I dare not think of...."
+  },
+  {
+   "n": 39,
+   "sfx": [
+    {
+     "key": "chains",
+     "at": "unhook the great chains"
+    }
+   ],
+   "para": 26,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "15 May. —Once more have I seen the Count go out in his lizard fashion.\nHe moved downwards in a sidelong way, some hundred feet down, and a good\ndeal to the left. He vanished into some hole or window. When his head\nhad disappeared, I leaned out to try and see more, but without\navail—the distance was too great to allow a proper angle of sight. I\nknew he had left the castle now, and thought to use the opportunity to\nexplore more than I had dared to do as yet. I went back to the room, and\ntaking a lamp, tried all the doors. They were all locked, as I had\nexpected, and the locks were comparatively new; but I went down the\nstone stairs to the hall where I had entered originally. I found I could\npull back the bolts easily enough and unhook the great chains; but the\ndoor was locked, and the key was gone! That key must be in the Count’s\nroom; I must watch should his door be unlocked, so that I may get it and\nescape. I went on to make a thorough examination of the various stairs\nand passages, and to try the doors that opened from them. One or two\nsmall rooms near the hall were open, but there was nothing to see in\nthem except old furniture, dusty with age and moth-eaten. At last,\nhowever, I found one door at the top of the stairway which, though it\nseemed to be locked, gave a little under pressure. I tried it harder,\nand found that it was not really locked, but that the resistance came\nfrom the fact that the hinges had fallen somewhat, and the heavy door\nrested on the floor. Here was an opportunity which I might not have\nagain, so I exerted myself, and with many efforts forced it back so that\nI could enter. I was now in a wing of the castle further to the right\nthan the rooms I knew and a storey lower down. From the windows I could\nsee that the suite of rooms lay along to the south of the castle, the\nwindows of the end room looking out both west and south. On the latter\nside, as well as to the former, there was a great precipice. The castle\nwas built on the corner of a great rock, so that on three sides it was\nquite impregnable, and great windows were placed here where sling, or\nbow, or culverin could not reach, and consequently light and comfort,\nimpossible to a position which had to be guarded, were secured. To the\nwest was a great valley, and then, rising far away, great jagged\nmountain fastnesses, rising peak on peak, the sheer rock studded with\nmountain ash and thorn, whose roots clung in cracks and crevices and\ncrannies of the stone. This was evidently the portion of the castle\noccupied by the ladies in bygone days, for the furniture had more air of\ncomfort than any I had seen. The windows were curtainless, and the\nyellow moonlight, flooding in through the diamond panes, enabled one to\nsee even colours, whilst it softened the wealth of dust which lay over\nall and disguised in some measure the ravages of time and the moth. My\nlamp seemed to be of little effect in the brilliant moonlight, but I was\nglad to have it with me, for there was a dread loneliness in the place\nwhich chilled my heart and made my nerves tremble. Still, it was better\nthan living alone in the rooms which I had come to hate from the\npresence of the Count, and after trying a little to school my nerves, I\nfound a soft quietude come over me. Here I am, sitting at a little oak\ntable where in old times possibly some fair lady sat to pen, with much\nthought and many blushes, her ill-spelt love-letter, and writing in my\ndiary in shorthand all that has happened since I closed it last. It is\nnineteenth century up-to-date with a vengeance. And yet, unless my\nsenses deceive me, the old centuries had, and have, powers of their own\nwhich mere “modernity” cannot kill."
+  },
+  {
+   "n": 40,
+   "para": 27,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Later: the Morning of 16 May. —God preserve my sanity, for to this I\nam reduced. Safety and the assurance of safety are things of the past.\nWhilst I live on here there is but one thing to hope for, that I may not\ngo mad, if, indeed, I be not mad already. If I be sane, then surely it\nis maddening to think that of all the foul things that lurk in this\nhateful place the Count is the least dreadful to me; that to him alone I\ncan look for safety, even though this be only whilst I can serve his\npurpose. Great God! merciful God! Let me be calm, for out of that way\nlies madness indeed. I begin to get new lights on certain things which\nhave puzzled me. Up to now I never quite knew what Shakespeare meant\nwhen he made Hamlet say:—"
+  },
+  {
+   "n": 41,
+   "para": 28,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“My tablets! quick, my tablets!"
+  },
+  {
+   "n": 42,
+   "para": 29,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "’Tis meet that I put it down,” etc.,"
+  },
+  {
+   "n": 43,
+   "para": 30,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "for now, feeling as though my own brain were unhinged or as if the shock\nhad come which must end in its undoing, I turn to my diary for repose.\nThe habit of entering accurately must help to soothe me."
+  },
+  {
+   "n": 44,
+   "para": 31,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The Count’s mysterious warning frightened me at the time; it frightens\nme more now when I think of it, for in future he has a fearful hold upon\nme. I shall fear to doubt what he may say!"
+  },
+  {
+   "n": 45,
+   "para": 32,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When I had written in my diary and had fortunately replaced the book and\npen in my pocket I felt sleepy. The Count’s warning came into my mind,\nbut I took a pleasure in disobeying it. The sense of sleep was upon me,\nand with it the obstinacy which sleep brings as outrider. The soft\nmoonlight soothed, and the wide expanse without gave a sense of freedom\nwhich refreshed me. I determined not to return to-night to the\ngloom-haunted rooms, but to sleep here, where, of old, ladies had sat\nand sung and lived sweet lives whilst their gentle breasts were sad for\ntheir menfolk away in the midst of remorseless wars. I drew a great\ncouch out of its place near the corner, so that as I lay, I could look\nat the lovely view to east and south, and unthinking of and uncaring for\nthe dust, composed myself for sleep. I suppose I must have fallen\nasleep; I hope so, but I fear, for all that followed was startlingly\nreal—so real that now sitting here in the broad, full sunlight of the\nmorning, I cannot in the least believe that it was all sleep."
+  },
+  {
+   "n": 46,
+   "para": 33,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I was not alone. The room was the same, unchanged in any way since I\ncame into it; I could see along the floor, in the brilliant moonlight,\nmy own footsteps marked where I had disturbed the long accumulation of\ndust. In the moonlight opposite me were three young women, ladies by\ntheir dress and manner. I thought at the time that I must be dreaming\nwhen I saw them, for, though the moonlight was behind them, they threw\nno shadow on the floor. They came close to me, and looked at me for some\ntime, and then whispered together. Two were dark, and had high aquiline\nnoses, like the Count, and great dark, piercing eyes that seemed to be\nalmost red when contrasted with the pale yellow moon. The other was\nfair, as fair as can be, with great wavy masses of golden hair and eyes\nlike pale sapphires. I seemed somehow to know her face, and to know it\nin connection with some dreamy fear, but I could not recollect at the\nmoment how or where. All three had brilliant white teeth that shone like\npearls against the ruby of their voluptuous lips. There was something\nabout them that made me uneasy, some longing and at the same time some\ndeadly fear. I felt in my heart a wicked, burning desire that they would\nkiss me with those red lips. It is not good to note this down, lest some\nday it should meet Mina’s eyes and cause her pain; but it is the truth.\nThey whispered together, and then they all three laughed—such a\nsilvery, musical laugh, but as hard as though the sound never could have\ncome through the softness of human lips. It was like the intolerable,\ntingling sweetness of water-glasses when played on by a cunning hand.\nThe fair girl shook her head coquettishly, and the other two urged her\non. One said:—"
+  },
+  {
+   "n": 47,
+   "para": 34,
+   "role": "The First Dark Woman",
+   "cast": "Elizabeth Bathory",
+   "text": "“Go on! You are first, and we shall follow; yours is the right to\nbegin.”"
+  },
+  {
+   "n": 48,
+   "para": 34,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The other added:—"
+  },
+  {
+   "n": 49,
+   "para": 35,
+   "role": "The Second Dark Woman",
+   "cast": "Catherine de' Medici",
+   "text": "“He is young and strong; there are kisses for us all.”"
+  },
+  {
+   "n": 50,
+   "sfx": [
+    {
+     "key": "shudder",
+     "at": "I lay quiet, looking out under my eyelashes"
+    }
+   ],
+   "para": 35,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I lay quiet,\nlooking out under my eyelashes in an agony of delightful anticipation.\nThe fair girl advanced and bent over me till I could feel the movement\nof her breath upon me. Sweet it was in one sense, honey-sweet, and sent\nthe same tingling through the nerves as her voice, but with a bitter\nunderlying the sweet, a bitter offensiveness, as one smells in blood."
+  },
+  {
+   "n": 51,
+   "para": 36,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I was afraid to raise my eyelids, but looked out and saw perfectly under\nthe lashes. The girl went on her knees, and bent over me, simply\ngloating. There was a deliberate voluptuousness which was both thrilling\nand repulsive, and as she arched her neck she actually licked her lips\nlike an animal, till I could see in the moonlight the moisture shining\non the scarlet lips and on the red tongue as it lapped the white sharp\nteeth. Lower and lower went her head as the lips went below the range of\nmy mouth and chin and seemed about to fasten on my throat. Then she\npaused, and I could hear the churning sound of her tongue as it licked\nher teeth and lips, and could feel the hot breath on my neck. Then the\nskin of my throat began to tingle as one’s flesh does when the hand that\nis to tickle it approaches nearer—nearer. I could feel the soft,\nshivering touch of the lips on the super-sensitive skin of my throat,\nand the hard dents of two sharp teeth, just touching and pausing there.\nI closed my eyes in a languorous ecstasy and waited—waited with beating\nheart."
+  },
+  {
+   "n": 52,
+   "para": 37,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "But at that instant, another sensation swept through me as quick as\nlightning. I was conscious of the presence of the Count, and of his\nbeing as if lapped in a storm of fury. As my eyes opened involuntarily I\nsaw his strong hand grasp the slender neck of the fair woman and with\ngiant’s power draw it back, the blue eyes transformed with fury, the\nwhite teeth champing with rage, and the fair cheeks blazing red with\npassion. But the Count! Never did I imagine such wrath and fury, even to\nthe demons of the pit. His eyes were positively blazing. The red light\nin them was lurid, as if the flames of hell-fire blazed behind them. His\nface was deathly pale, and the lines of it were hard like drawn wires;\nthe thick eyebrows that met over the nose now seemed like a heaving bar\nof white-hot metal. With a fierce sweep of his arm, he hurled the woman\nfrom him, and then motioned to the others, as though he were beating\nthem back; it was the same imperious gesture that I had seen used to the\nwolves. In a voice which, though low and almost in a whisper seemed to\ncut through the air and then ring round the room he said:—"
+  },
+  {
+   "n": 53,
+   "para": 38,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“How dare you touch him, any of you? How dare you cast eyes on him when\nI had forbidden it? Back, I tell you all! This man belongs to me! Beware\nhow you meddle with him, or you’ll have to deal with me.”"
+  },
+  {
+   "n": 54,
+   "para": 38,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The fair girl,\nwith a laugh of ribald coquetry, turned to answer him:—"
+  },
+  {
+   "n": 55,
+   "para": 39,
+   "role": "The Fair Woman",
+   "cast": "Empress Elisabeth of Austria",
+   "text": "“You yourself never loved; you never love!”"
+  },
+  {
+   "n": 56,
+   "para": 39,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "On this the other women\njoined, and such a mirthless, hard, soulless laughter rang through the\nroom that it almost made me faint to hear; it seemed like the pleasure\nof fiends. Then the Count turned, after looking at my face attentively,\nand said in a soft whisper:—"
+  },
+  {
+   "n": 57,
+   "para": 40,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Yes, I too can love; you yourselves can tell it from the past. Is it\nnot so? Well, now I promise you that when I am done with him you shall\nkiss him at your will. Now go! go! I must awaken him, for there is work\nto be done.”"
+  },
+  {
+   "n": 58,
+   "para": 41,
+   "role": "The First Dark Woman",
+   "cast": "Elizabeth Bathory",
+   "text": "“Are we to have nothing to-night?”"
+  },
+  {
+   "n": 59,
+   "para": 41,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "said one of them, with a low laugh,\nas she pointed to the bag which he had thrown upon the floor, and which\nmoved as though there were some living thing within it. For answer he\nnodded his head. One of the women jumped forward and opened it. If my\nears did not deceive me there was a gasp and a low wail, as of a\nhalf-smothered child. The women closed round, whilst I was aghast with\nhorror; but as I looked they disappeared, and with them the dreadful\nbag. There was no door near them, and they could not have passed me\nwithout my noticing. They simply seemed to fade into the rays of the\nmoonlight and pass out through the window, for I could see outside the\ndim, shadowy forms for a moment before they entirely faded away."
+  },
+  {
+   "n": 60,
+   "para": 42,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Then the horror overcame me, and I sank down unconscious."
+  }
+ ]
+}

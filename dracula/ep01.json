@@ -1,255 +1,463 @@
 {
-  "work": "dracula",
-  "episode": 1,
-  "chapter": 2,
-  "title": "Enter Freely and of Your Own Free Will",
-  "document": "JONATHAN HARKER'S JOURNAL — 5 May, the Castle",
-  "source": {
-    "library": "library/bram-stoker/01-enter-freely.md",
-    "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ "work": "dracula",
+ "episode": 1,
+ "chapter": 1,
+ "title": "Bistritz, the Coach and the Borgo Pass",
+ "document": "JONATHAN HARKER'S JOURNAL — Munich to the Borgo Pass",
+ "source": {
+  "library": "library/bram-stoker/ch01.md",
+  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ },
+ "note": "Chapter I complete. Cue boundaries fall on paragraph breaks and on the quotation marks of real speech only; quoted words and titles stay in their narration. Every cue's text is byte-identical to the library file, line breaks included (chunkText strips them; the cache key is the text). A brief quotation inside a document — a passenger, a driver, an attendant, Renfield — is spoken by the document's writer; the principal characters always speak for themselves. Letters are read whole by their writers. Every speech attribution is listed in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Jonathan Harker",
+   "cast_as": "Charles Darwin"
   },
-  "note": "Episode one of the Amenti staged readings. THE TEXT IS PASSED THROUGH UNCHANGED: chunkText is deterministic and the R2 cache key is TTS_MODEL+voice+style+text, so any reformatting between renders orphans every stored measure. Cue boundaries fall on quotation marks only; the text inside a cue is byte-identical to the library file. CASTING RESOLVES BY NAME through resolveVoice(), which joins the roster on full name lower-cased — no per-figure code. THE COUNT HAS TWO STYLES AND ONE VOICE: he is met as an old man and is seen grown young after feeding, so the age is a plot mechanism and not a characterisation. Episode one is the old style throughout. Registers are the Speech Doctrine's six; 'danger' is its own line — speak quietly, and let the quiet be worse than shouting.",
-  "cast": [
+  {
+   "role": "Count Dracula",
+   "cast_as": "Vlad the Impaler"
+  },
+  {
+   "role": "The Landlady at Bistritz",
+   "cast_as": "Hildegard of Bingen"
+  },
+  {
+   "role": "Narrator",
+   "cast_as": "Bram Stoker"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "CHAPTER I"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "JONATHAN HARKER’S JOURNAL"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "( Kept in shorthand. )"
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "3 May. Bistritz. —Left Munich at 8:35 P. M. , on 1st May, arriving at\nVienna early next morning; should have arrived at 6:46, but train was an\nhour late. Buda-Pesth seems a wonderful place, from the glimpse which I\ngot of it from the train and the little I could walk through the\nstreets. I feared to go very far from the station, as we had arrived\nlate and would start as near the correct time as possible. The\nimpression I had was that we were leaving the West and entering the\nEast; the most western of splendid bridges over the Danube, which is\nhere of noble width and depth, took us among the traditions of Turkish\nrule."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "We left in pretty good time, and came after nightfall to Klausenburgh.\nHere I stopped for the night at the Hotel Royale. I had for dinner, or\nrather supper, a chicken done up some way with red pepper, which was\nvery good but thirsty. ( Mem. , get recipe for Mina.) I asked the\nwaiter, and he said it was called “paprika hendl,” and that, as it was a\nnational dish, I should be able to get it anywhere along the\nCarpathians. I found my smattering of German very useful here; indeed, I\ndon’t know how I should be able to get on without it."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Having had some time at my disposal when in London, I had visited the\nBritish Museum, and made search among the books and maps in the library\nregarding Transylvania; it had struck me that some foreknowledge of the\ncountry could hardly fail to have some importance in dealing with a\nnobleman of that country. I find that the district he named is in the\nextreme east of the country, just on the borders of three states,\nTransylvania, Moldavia and Bukovina, in the midst of the Carpathian\nmountains; one of the wildest and least known portions of Europe. I was\nnot able to light on any map or work giving the exact locality of the\nCastle Dracula, as there are no maps of this country as yet to compare\nwith our own Ordnance Survey maps; but I found that Bistritz, the post\ntown named by Count Dracula, is a fairly well-known place. I shall enter\nhere some of my notes, as they may refresh my memory when I talk over my\ntravels with Mina."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "In the population of Transylvania there are four distinct nationalities:\nSaxons in the South, and mixed with them the Wallachs, who are the\ndescendants of the Dacians; Magyars in the West, and Szekelys in the\nEast and North. I am going among the latter, who claim to be descended\nfrom Attila and the Huns. This may be so, for when the Magyars conquered\nthe country in the eleventh century they found the Huns settled in it. I\nread that every known superstition in the world is gathered into the\nhorseshoe of the Carpathians, as if it were the centre of some sort of\nimaginative whirlpool; if so my stay may be very interesting. ( Mem. , I\nmust ask the Count all about them.)"
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I did not sleep well, though my bed was comfortable enough, for I had\nall sorts of queer dreams. There was a dog howling all night under my\nwindow, which may have had something to do with it; or it may have been\nthe paprika, for I had to drink up all the water in my carafe, and was\nstill thirsty. Towards morning I slept and was wakened by the continuous\nknocking at my door, so I guess I must have been sleeping soundly then.\nI had for breakfast more paprika, and a sort of porridge of maize flour\nwhich they said was “mamaliga,” and egg-plant stuffed with forcemeat, a\nvery excellent dish, which they call “impletata.” ( Mem. , get recipe\nfor this also.) I had to hurry breakfast, for the train started a little\nbefore eight, or rather it ought to have done so, for after rushing to\nthe station at 7:30 I had to sit in the carriage for more than an hour\nbefore we began to move. It seems to me that the further east you go the\nmore unpunctual are the trains. What ought they to be in China?"
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "All day long we seemed to dawdle through a country which was full of\nbeauty of every kind. Sometimes we saw little towns or castles on the\ntop of steep hills such as we see in old missals; sometimes we ran by\nrivers and streams which seemed from the wide stony margin on each side\nof them to be subject to great floods. It takes a lot of water, and\nrunning strong, to sweep the outside edge of a river clear. At every\nstation there were groups of people, sometimes crowds, and in all sorts\nof attire. Some of them were just like the peasants at home or those I\nsaw coming through France and Germany, with short jackets and round hats\nand home-made trousers; but others were very picturesque. The women\nlooked pretty, except when you got near them, but they were very clumsy\nabout the waist. They had all full white sleeves of some kind or other,\nand most of them had big belts with a lot of strips of something\nfluttering from them like the dresses in a ballet, but of course there\nwere petticoats under them. The strangest figures we saw were the\nSlovaks, who were more barbarian than the rest, with their big cow-boy\nhats, great baggy dirty-white trousers, white linen shirts, and enormous\nheavy leather belts, nearly a foot wide, all studded over with brass\nnails. They wore high boots, with their trousers tucked into them, and\nhad long black hair and heavy black moustaches. They are very\npicturesque, but do not look prepossessing. On the stage they would be\nset down at once as some old Oriental band of brigands. They are,\nhowever, I am told, very harmless and rather wanting in natural\nself-assertion."
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "It was on the dark side of twilight when we got to Bistritz, which is a\nvery interesting old place. Being practically on the frontier—for the\nBorgo Pass leads from it into Bukovina—it has had a very stormy\nexistence, and it certainly shows marks of it. Fifty years ago a series\nof great fires took place, which made terrible havoc on five separate\noccasions. At the very beginning of the seventeenth century it underwent\na siege of three weeks and lost 13,000 people, the casualties of war\nproper being assisted by famine and disease."
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Count Dracula had directed me to go to the Golden Krone Hotel, which I\nfound, to my great delight, to be thoroughly old-fashioned, for of\ncourse I wanted to see all I could of the ways of the country. I was\nevidently expected, for when I got near the door I faced a\ncheery-looking elderly woman in the usual peasant dress—white\nundergarment with long double apron, front, and back, of coloured stuff\nfitting almost too tight for modesty. When I came close she bowed and\nsaid,"
+  },
+  {
+   "n": 12,
+   "para": 10,
+   "role": "The Landlady at Bistritz",
+   "cast": "Hildegard of Bingen",
+   "text": "“The Herr Englishman?”"
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Yes,” I said, “Jonathan Harker.” She\nsmiled, and gave some message to an elderly man in white shirt-sleeves,\nwho had followed her to the door. He went, but immediately returned with\na letter:—"
+  },
+  {
+   "n": 14,
+   "under": "piano_far",
+   "para": 11,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“My Friend.—Welcome to the Carpathians. I am anxiously expecting\nyou. Sleep well to-night. At three to-morrow the diligence will\nstart for Bukovina; a place on it is kept for you. At the Borgo\nPass my carriage will await you and will bring you to me. I trust\nthat your journey from London has been a happy one, and that you\nwill enjoy your stay in my beautiful land."
+  },
+  {
+   "n": 15,
+   "under": "piano_far",
+   "para": 12,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Your friend,\n“ Dracula .”"
+  },
+  {
+   "n": 16,
+   "para": 13,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "4 May. —I found that my landlord had got a letter from the Count,\ndirecting him to secure the best place on the coach for me; but on\nmaking inquiries as to details he seemed somewhat reticent, and\npretended that he could not understand my German. This could not be\ntrue, because up to then he had understood it perfectly; at least, he\nanswered my questions exactly as if he did. He and his wife, the old\nlady who had received me, looked at each other in a frightened sort of\nway. He mumbled out that the money had been sent in a letter, and that\nwas all he knew. When I asked him if he knew Count Dracula, and could\ntell me anything of his castle, both he and his wife crossed themselves,\nand, saying that they knew nothing at all, simply refused to speak\nfurther. It was so near the time of starting that I had no time to ask\nany one else, for it was all very mysterious and not by any means\ncomforting."
+  },
+  {
+   "n": 17,
+   "para": 14,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Just before I was leaving, the old lady came up to my room and said in a\nvery hysterical way:"
+  },
+  {
+   "n": 18,
+   "score": {
+    "key": "dread",
+    "xfade": 8
+   },
+   "para": 15,
+   "role": "The Landlady at Bistritz",
+   "cast": "Hildegard of Bingen",
+   "text": "“Must you go? Oh! young Herr, must you go?”"
+  },
+  {
+   "n": 19,
+   "para": 15,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "She was in such an excited\nstate that she seemed to have lost her grip of what German she knew, and\nmixed it all up with some other language which I did not know at all. I\nwas just able to follow her by asking many questions. When I told her\nthat I must go at once, and that I was engaged on important business,\nshe asked again:"
+  },
+  {
+   "n": 20,
+   "para": 16,
+   "role": "The Landlady at Bistritz",
+   "cast": "Hildegard of Bingen",
+   "text": "“Do you know what day it is?”"
+  },
+  {
+   "n": 21,
+   "para": 16,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I answered that it was the fourth of May.\nShe shook her head as she said again:"
+  },
+  {
+   "n": 22,
+   "para": 17,
+   "role": "The Landlady at Bistritz",
+   "cast": "Hildegard of Bingen",
+   "text": "“Oh, yes! I know that! I know that, but do you know what day it is?”"
+  },
+  {
+   "n": 23,
+   "para": 17,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "On\nmy saying that I did not understand, she went on:"
+  },
+  {
+   "n": 24,
+   "para": 18,
+   "role": "The Landlady at Bistritz",
+   "cast": "Hildegard of Bingen",
+   "text": "“It is the eve of St. George’s Day. Do you not know that to-night, when\nthe clock strikes midnight, all the evil things in the world will have\nfull sway? Do you know where you are going, and what you are going to?”"
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "She was in such evident distress that I tried to comfort her, but\nwithout effect. Finally she went down on her knees and implored me not\nto go; at least to wait a day or two before starting. It was all very\nridiculous but I did not feel comfortable. However, there was business\nto be done, and I could allow nothing to interfere with it. I therefore\ntried to raise her up, and said, as gravely as I could, that I thanked\nher, but my duty was imperative, and that I must go. She then rose and\ndried her eyes, and taking a crucifix from her neck offered it to me. I\ndid not know what to do, for, as an English Churchman, I have been\ntaught to regard such things as in some measure idolatrous, and yet it\nseemed so ungracious to refuse an old lady meaning so well and in such a\nstate of mind. She saw, I suppose, the doubt in my face, for she put the\nrosary round my neck, and said,"
+  },
+  {
+   "n": 26,
+   "para": 18,
+   "role": "The Landlady at Bistritz",
+   "cast": "Hildegard of Bingen",
+   "text": "“For your mother’s sake,”"
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "and went out\nof the room. I am writing up this part of the diary whilst I am waiting\nfor the coach, which is, of course, late; and the crucifix is still\nround my neck. Whether it is the old lady’s fear, or the many ghostly\ntraditions of this place, or the crucifix itself, I do not know, but I\nam not feeling nearly as easy in my mind as usual. If this book should\never reach Mina before I do, let it bring my good-bye. Here comes the\ncoach!"
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "5 May. The Castle. —The grey of the morning has passed, and the sun is\nhigh over the distant horizon, which seems jagged, whether with trees or\nhills I know not, for it is so far off that big things and little are\nmixed. I am not sleepy, and, as I am not to be called till I awake,\nnaturally I write till sleep comes. There are many odd things to put\ndown, and, lest who reads them may fancy that I dined too well before I\nleft Bistritz, let me put down my dinner exactly. I dined on what they\ncalled “robber steak”—bits of bacon, onion, and beef, seasoned with red\npepper, and strung on sticks and roasted over the fire, in the simple\nstyle of the London cat’s meat! The wine was Golden Mediasch, which\nproduces a queer sting on the tongue, which is, however, not\ndisagreeable. I had only a couple of glasses of this, and nothing else."
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When I got on the coach the driver had not taken his seat, and I saw him\ntalking with the landlady. They were evidently talking of me, for every\nnow and then they looked at me, and some of the people who were sitting\non the bench outside the door—which they call by a name meaning\n“word-bearer”—came and listened, and then looked at me, most of them\npityingly. I could hear a lot of words often repeated, queer words, for\nthere were many nationalities in the crowd; so I quietly got my polyglot\ndictionary from my bag and looked them out. I must say they were not\ncheering to me, for amongst them were “Ordog”—Satan, “pokol”—hell,\n“stregoica”—witch, “vrolok” and “vlkoslak”—both of which mean the same\nthing, one being Slovak and the other Servian for something that is\neither were-wolf or vampire. ( Mem. , I must ask the Count about these\nsuperstitions)"
+  },
+  {
+   "n": 30,
+   "bed": "pass",
+   "sfx": [
     {
-      "role": "Jonathan Harker",
-      "cast_as": "Charles Darwin",
-      "ledger": "English RP, careful and mild · aphoristic and patient",
-      "why": "the journal is a solicitor cataloguing an impossible thing in careful prose and refusing to conclude until the evidence forces him"
-    },
-    {
-      "role": "Count Dracula",
-      "cast_as": "Vlad the Impaler",
-      "ledger": "Romanian, cruel and grim · haunted and hollow",
-      "why": "Stoker took the name from him. Hungarian-Transylvanian is composed into the style rather than taken from the ledger, at the proprietor's direction"
+     "key": "horses_gallop",
+     "at": "cracked his big whip over his four small horses"
     }
-  ],
-  "cues": [
+   ],
+   "para": 21,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When we started, the crowd round the inn door, which had by this time\nswelled to a considerable size, all made the sign of the cross and\npointed two fingers towards me. With some difficulty I got a\nfellow-passenger to tell me what they meant; he would not answer at\nfirst, but on learning that I was English, he explained that it was a\ncharm or guard against the evil eye. This was not very pleasant for me,\njust starting for an unknown place to meet an unknown man; but every one\nseemed so kind-hearted, and so sorrowful, and so sympathetic that I\ncould not but be touched. I shall never forget the last glimpse which I\nhad of the inn-yard and its crowd of picturesque figures, all crossing\nthemselves, as they stood round the wide archway, with its background of\nrich foliage of oleander and orange trees in green tubs clustered in the\ncentre of the yard. Then our driver, whose wide linen drawers covered\nthe whole front of the box-seat—“gotza” they call them—cracked his big\nwhip over his four small horses, which ran abreast, and we set off on\nour journey."
+  },
+  {
+   "n": 31,
+   "para": 22,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I soon lost sight and recollection of ghostly fears in the beauty of the\nscene as we drove along, although had I known the language, or rather\nlanguages, which my fellow-passengers were speaking, I might not have\nbeen able to throw them off so easily. Before us lay a green sloping\nland full of forests and woods, with here and there steep hills, crowned\nwith clumps of trees or with farmhouses, the blank gable end to the\nroad. There was everywhere a bewildering mass of fruit blossom—apple,\nplum, pear, cherry; and as we drove by I could see the green grass under\nthe trees spangled with the fallen petals. In and out amongst these\ngreen hills of what they call here the “Mittel Land” ran the road,\nlosing itself as it swept round the grassy curve, or was shut out by the\nstraggling ends of pine woods, which here and there ran down the\nhillsides like tongues of flame. The road was rugged, but still we\nseemed to fly over it with a feverish haste. I could not understand then\nwhat the haste meant, but the driver was evidently bent on losing no\ntime in reaching Borgo Prund. I was told that this road is in summertime\nexcellent, but that it had not yet been put in order after the winter\nsnows. In this respect it is different from the general run of roads in\nthe Carpathians, for it is an old tradition that they are not to be kept\nin too good order. Of old the Hospadars would not repair them, lest the\nTurk should think that they were preparing to bring in foreign troops,\nand so hasten the war which was always really at loading point."
+  },
+  {
+   "n": 32,
+   "para": 23,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Beyond the green swelling hills of the Mittel Land rose mighty slopes\nof forest up to the lofty steeps of the Carpathians themselves. Right\nand left of us they towered, with the afternoon sun falling full upon\nthem and bringing out all the glorious colours of this beautiful range,\ndeep blue and purple in the shadows of the peaks, green and brown where\ngrass and rock mingled, and an endless perspective of jagged rock and\npointed crags, till these were themselves lost in the distance, where\nthe snowy peaks rose grandly. Here and there seemed mighty rifts in the\nmountains, through which, as the sun began to sink, we saw now and again\nthe white gleam of falling water. One of my companions touched my arm as\nwe swept round the base of a hill and opened up the lofty, snow-covered\npeak of a mountain, which seemed, as we wound on our serpentine way, to\nbe right before us:—"
+  },
+  {
+   "n": 33,
+   "para": 24,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Look! Isten szek!”—“God’s seat!”—and he crossed himself reverently."
+  },
+  {
+   "n": 34,
+   "para": 25,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "As we wound on our endless way, and the sun sank lower and lower behind\nus, the shadows of the evening began to creep round us. This was\nemphasised by the fact that the snowy mountain-top still held the\nsunset, and seemed to glow out with a delicate cool pink. Here and there\nwe passed Cszeks and Slovaks, all in picturesque attire, but I noticed\nthat goitre was painfully prevalent. By the roadside were many crosses,\nand as we swept by, my companions all crossed themselves. Here and there\nwas a peasant man or woman kneeling before a shrine, who did not even\nturn round as we approached, but seemed in the self-surrender of\ndevotion to have neither eyes nor ears for the outer world. There were\nmany things new to me: for instance, hay-ricks in the trees, and here\nand there very beautiful masses of weeping birch, their white stems\nshining like silver through the delicate green of the leaves. Now and\nagain we passed a leiter-wagon—the ordinary peasant’s cart—with its\nlong, snake-like vertebra, calculated to suit the inequalities of the\nroad. On this were sure to be seated quite a group of home-coming\npeasants, the Cszeks with their white, and the Slovaks with their\ncoloured, sheepskins, the latter carrying lance-fashion their long\nstaves, with axe at end. As the evening fell it began to get very cold,\nand the growing twilight seemed to merge into one dark mistiness the\ngloom of the trees, oak, beech, and pine, though in the valleys which\nran deep between the spurs of the hills, as we ascended through the\nPass, the dark firs stood out here and there against the background of\nlate-lying snow. Sometimes, as the road was cut through the pine woods\nthat seemed in the darkness to be closing down upon us, great masses of\ngreyness, which here and there bestrewed the trees, produced a\npeculiarly weird and solemn effect, which carried on the thoughts and\ngrim fancies engendered earlier in the evening, when the falling sunset\nthrew into strange relief the ghost-like clouds which amongst the\nCarpathians seem to wind ceaselessly through the valleys. Sometimes the\nhills were so steep that, despite our driver’s haste, the horses could\nonly go slowly. I wished to get down and walk up them, as we do at home,\nbut the driver would not hear of it. “No, no,” he said; “you must not\nwalk here; the dogs are too fierce”; and then he added, with what he\nevidently meant for grim pleasantry—for he looked round to catch the\napproving smile of the rest—“and you may have enough of such matters\nbefore you go to sleep.” The only stop he would make was a moment’s\npause to light his lamps."
+  },
+  {
+   "n": 35,
+   "sfx": [
     {
-      "n": 1,
-      "sfx": [{"key": "steps_approach", "at": "heavy step approaching"}, {"key": "chains", "at": "rattling chains"}, {"key": "bolts", "at": "massive bolts drawn back"}, {"key": "key_turn", "at": "long disuse"}, {"key": "door_heavy", "at": "the great door swung back"}],
-      "para": 0,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "Just as I had come to this conclusion I heard a heavy step approaching behind the great door, and saw through the chinks the gleam of a coming light. Then there was the sound of rattling chains and the clanking of massive bolts drawn back. A key was turned with the loud grating noise of long disuse, and the great door swung back."
-    },
-    {
-      "n": 2,
-      "para": 1,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "Within, stood a tall old man, clean shaven save for a long white moustache, and clad in black from head to foot, without a single speck of colour about him anywhere. He held in his hand an antique silver lamp, in which the flame burned without chimney or globe of any kind, throwing long quivering shadows as it flickered in the draught of the open door. The old man motioned me in with his right hand with a courtly gesture, saying in excellent English, but with a strange intonation:--"
-    },
-    {
-      "n": 3,
-      "para": 2,
-      "role": "Count Dracula",
-      "cast": "Vlad the Impaler",
-      "register": "danger",
-      "style_note": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
-      "text": "\"Welcome to my house! Enter freely and of your own will!\""
-    },
-    {
-      "n": 4,
-      "sfx": [{"key": "step_threshold", "at": "stepped over the threshold"}],
-      "para": 2,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "He made no motion of stepping to meet me, but stood like a statue, as though his gesture of welcome had fixed him into stone. The instant, however, that I had stepped over the threshold, he moved impulsively forward, and holding out his hand grasped mine with a strength which made me wince, an effect which was not lessened by the fact that it seemed as cold as ice--more like the hand of a dead than a living man. Again he said:--"
-    },
-    {
-      "n": 5,
-      "para": 3,
-      "role": "Count Dracula",
-      "cast": "Vlad the Impaler",
-      "register": "danger",
-      "style_note": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
-      "text": "\"Welcome to my house. Come freely. Go safely; and leave something of the happiness you bring!\""
-    },
-    {
-      "n": 6,
-      "para": 3,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "The strength of the handshake was so much akin to that which I had noticed in the driver, whose face I had not seen, that for a moment I doubted if it were not the same person to whom I was speaking; so to make sure, I said interrogatively:--"
-    },
-    {
-      "n": 7,
-      "para": 4,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "cool",
-      "style_note": "the same young man speaking aloud, courteous and a little uncertain",
-      "text": "\"Count Dracula?\""
-    },
-    {
-      "n": 8,
-      "para": 4,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "He bowed in a courtly way as he replied:--"
-    },
-    {
-      "n": 9,
-      "para": 5,
-      "role": "Count Dracula",
-      "cast": "Vlad the Impaler",
-      "register": "danger",
-      "style_note": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
-      "text": "\"I am Dracula; and I bid you welcome, Mr. Harker, to my house. Come in; the night air is chill, and you must need to eat and rest.\""
-    },
-    {
-      "n": 10,
-      "sfx": [{"key": "lamp_bracket", "at": "on a bracket on the wall"}, {"key": "luggage_lift", "at": "took my luggage"}],
-      "para": 5,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "As he was speaking, he put the lamp on a bracket on the wall, and stepping out, took my luggage; he had carried it in before I could forestall him. I protested but he insisted:--"
-    },
-    {
-      "n": 11,
-      "para": 6,
-      "role": "Count Dracula",
-      "cast": "Vlad the Impaler",
-      "register": "danger",
-      "style_note": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
-      "text": "\"Nay, sir, you are my guest. It is late, and my people are not available. Let me see to your comfort myself.\""
-    },
-    {
-      "n": 12,
-      "sfx": [{"key": "stairs", "at": "up a great winding stair"}, {"key": "steps_stone", "at": "our steps rang heavily"}, {"key": "door_open", "at": "threw open a heavy door"}, {"key": "fire_flare", "at": "flamed and flared"}],
-      "para": 6,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "He insisted on carrying my traps along the passage, and then up a great winding stair, and along another great passage, on whose stone floor our steps rang heavily. At the end of this he threw open a heavy door, and I rejoiced to see within a well-lit room in which a table was spread for supper, and on whose mighty hearth a great fire of logs, freshly replenished, flamed and flared."
-    },
-    {
-      "n": 13,
-      "sfx": [{"key": "luggage_down", "at": "putting down my bags"}, {"key": "door_close", "at": "closed the door,"}, {"key": "door_open", "at": "opened another door, which"}, {"key": "door_open", "at": "he opened another door"}, {"key": "fire_roar", "at": "up the wide chimney"}, {"key": "door_close", "at": "before he closed the door"}],
-      "para": 7,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "The Count halted, putting down my bags, closed the door, and crossing the room, opened another door, which led into a small octagonal room lit by a single lamp, and seemingly without a window of any sort. Passing through this, he opened another door, and motioned me to enter. It was a welcome sight; for here was a great bedroom well lighted and warmed with another log fire,--also added to but lately, for the top logs were fresh--which sent a hollow roar up the wide chimney. The Count himself left my luggage inside and withdrew, saying, before he closed the door:--"
-    },
-    {
-      "n": 14,
-      "para": 8,
-      "role": "Count Dracula",
-      "cast": "Vlad the Impaler",
-      "register": "danger",
-      "style_note": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
-      "text": "\"You will need, after your journey, to refresh yourself by making your toilet. I trust you will find all you wish. When you are ready, come into the other room, where you will find your supper prepared.\""
-    },
-    {
-      "n": 15,
-      "para": 9,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "The light and warmth and the Count's courteous welcome seemed to have dissipated all my doubts and fears. Having then reached my normal state, I discovered that I was half famished with hunger; so making a hasty toilet, I went into the other room."
-    },
-    {
-      "n": 16,
-      "para": 10,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "I found supper already laid out. My host, who stood on one side of the great fireplace, leaning against the stonework, made a graceful wave of his hand to the table, and said:--"
-    },
-    {
-      "n": 17,
-      "para": 11,
-      "role": "Count Dracula",
-      "cast": "Vlad the Impaler",
-      "register": "danger",
-      "style_note": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
-      "text": "\"I pray you, be seated and sup how you please. You will, I trust, excuse me that I do not join you; but I have dined already, and I do not sup.\""
-    },
-    {
-      "n": 18,
-      "sfx": [{"key": "letter", "at": "He opened it"}],
-      "para": 12,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "I handed to him the sealed letter which Mr. Hawkins had entrusted to me. He opened it and read it gravely; then, with a charming smile, he handed it to me to read. One passage of it, at least, gave me a thrill of pleasure."
-    },
-    {
-      "n": 19,
-      "under": "piano_far",
-      "para": 13,
-      "role": "Count Dracula",
-      "cast": "Vlad the Impaler",
-      "register": "danger",
-      "style_note": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
-      "text": "\"I must regret that an attack of gout, from which malady I am a constant sufferer, forbids absolutely any travelling on my part for some time to come; but I am happy to say I can send a sufficient substitute, one in whom I have every possible confidence. He is a young man, full of energy and talent in his own way, and of a very faithful disposition. He is discreet and silent, and has grown into manhood in my service. He shall be ready to attend on you when you will during his stay, and shall take your instructions in all matters.\""
-    },
-    {
-      "n": 20,
-      "sfx": [{"key": "dish_cover", "at": "cover of a dish"}, {"key": "wine", "at": "bottle of old Tokay"}],
-      "para": 14,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "The Count himself came forward and took off the cover of a dish, and I fell to at once on an excellent roast chicken. This, with some cheese and a salad and a bottle of old Tokay, of which I had two glasses, was my supper. During the time I was eating it the Count asked me many questions as to my journey, and I told him by degrees all I had experienced."
-    },
-    {
-      "n": 21,
-      "sfx": [{"key": "chair_draw", "at": "drawn up a chair"}, {"key": "match", "at": "begun to smoke a cigar"}],
-      "para": 15,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "By this time I had finished my supper, and by my host's desire had drawn up a chair by the fire and begun to smoke a cigar which he offered me, at the same time excusing himself that he did not smoke. I had now an opportunity of observing him, and found him of a very marked physiognomy."
-    },
-    {
-      "n": 22,
-      "para": 16,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "His face was a strong--a very strong--aquiline, with high bridge of the thin nose and peculiarly arched nostrils; with lofty domed forehead, and hair growing scantily round the temples but profusely elsewhere. His eyebrows were very massive, almost meeting over the nose, and with bushy hair that seemed to curl in its own profusion. The mouth, so far as I could see it under the heavy moustache, was fixed and rather cruel-looking, with peculiarly sharp white teeth; these protruded over the lips, whose remarkable ruddiness showed astonishing vitality in a man of his years. For the rest, his ears were pale, and at the tops extremely pointed; the chin was broad and strong, and the cheeks firm though thin. The general effect was one of extraordinary pallor."
-    },
-    {
-      "n": 23,
-      "sfx": [{"key": "shudder", "at": "repress a shudder"}, {"key": "chair_creak", "at": "sat himself down again"}],
-      "para": 17,
-      "role": "Jonathan Harker",
-      "cast": "Charles Darwin",
-      "register": "grave",
-      "style_note": "the journal of a careful young solicitor, read as a private record; English RP, careful and mild, unhurried, withholding judgment",
-      "text": "Hitherto I had noticed the backs of his hands as they lay on his knees in the firelight, and they had seemed rather white and fine; but seeing them now close to me, I could not but notice that they were rather coarse--broad, with squat fingers. Strange to say, there were hairs in the centre of the palm. The nails were long and fine, and cut to a sharp point. As the Count leaned over me and his hands touched me, I could not repress a shudder. It may have been that his breath was rank, but a horrible feeling of nausea came over me, which, do what I would, I could not conceal. The Count, evidently noticing it, drew back; and with a grim sort of smile, which showed more than he had yet done his protuberant teeth, sat himself down again on his own side of the fireplace. We were both silent for a while; and as I looked towards the window I saw the first dim streak of the coming dawn. There seemed a strange stillness over everything; but as I listened I heard as if from down below in the valley the howling of many wolves. The Count's eyes gleamed, and he said:--"
-    },
-    {
-      "n": 24,
-      "sfx": ["wolves_chorus"],
-      "para": 18,
-      "role": "Count Dracula",
-      "cast": "Vlad the Impaler",
-      "register": "danger",
-      "style_note": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
-      "text": "\"Listen to them--the children of the night. What music they make!"
+     "key": "horses_gallop",
+     "at": "He lashed the horses unmercifully"
     }
-  ]
+   ],
+   "para": 26,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When it grew dark there seemed to be some excitement amongst the\npassengers, and they kept speaking to him, one after the other, as\nthough urging him to further speed. He lashed the horses unmercifully\nwith his long whip, and with wild cries of encouragement urged them on\nto further exertions. Then through the darkness I could see a sort of\npatch of grey light ahead of us, as though there were a cleft in the\nhills. The excitement of the passengers grew greater; the crazy coach\nrocked on its great leather springs, and swayed like a boat tossed on a\nstormy sea. I had to hold on. The road grew more level, and we appeared\nto fly along. Then the mountains seemed to come nearer to us on each\nside and to frown down upon us; we were entering on the Borgo Pass. One\nby one several of the passengers offered me gifts, which they pressed\nupon me with an earnestness which would take no denial; these were\ncertainly of an odd and varied kind, but each was given in simple good\nfaith, with a kindly word, and a blessing, and that strange mixture of\nfear-meaning movements which I had seen outside the hotel at\nBistritz—the sign of the cross and the guard against the evil eye.\nThen, as we flew along, the driver leaned forward, and on each side the\npassengers, craning over the edge of the coach, peered eagerly into the\ndarkness. It was evident that something very exciting was either\nhappening or expected, but though I asked each passenger, no one would\ngive me the slightest explanation. This state of excitement kept on for\nsome little time; and at last we saw before us the Pass opening out on\nthe eastern side. There were dark, rolling clouds overhead, and in the\nair the heavy, oppressive sense of thunder. It seemed as though the\nmountain range had separated two atmospheres, and that now we had got\ninto the thunderous one. I was now myself looking out for the conveyance\nwhich was to take me to the Count. Each moment I expected to see the\nglare of lamps through the blackness; but all was dark. The only light\nwas the flickering rays of our own lamps, in which the steam from our\nhard-driven horses rose in a white cloud. We could see now the sandy\nroad lying white before us, but there was on it no sign of a vehicle.\nThe passengers drew back with a sigh of gladness, which seemed to mock\nmy own disappointment. I was already thinking what I had best do, when\nthe driver, looking at his watch, said to the others something which I\ncould hardly hear, it was spoken so quietly and in so low a tone; I\nthought it was “An hour less than the time.” Then turning to me, he said\nin German worse than my own:—"
+  },
+  {
+   "n": 36,
+   "sfx": [
+    {
+     "key": "horse_neigh",
+     "at": "the horses began to neigh and snort"
+    }
+   ],
+   "para": 27,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“There is no carriage here. The Herr is not expected after all. He will\nnow come on to Bukovina, and return to-morrow or the next day; better\nthe next day.” Whilst he was speaking the horses began to neigh and\nsnort and plunge wildly, so that the driver had to hold them up. Then,\namongst a chorus of screams from the peasants and a universal crossing\nof themselves, a calèche, with four horses, drove up behind us, overtook\nus, and drew up beside the coach. I could see from the flash of our\nlamps, as the rays fell on them, that the horses were coal-black and\nsplendid animals. They were driven by a tall man, with a long brown\nbeard and a great black hat, which seemed to hide his face from us. I\ncould only see the gleam of a pair of very bright eyes, which seemed red\nin the lamplight, as he turned to us. He said to the driver:—"
+  },
+  {
+   "n": 37,
+   "para": 28,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“You are early to-night, my friend.”"
+  },
+  {
+   "n": 38,
+   "para": 28,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The man stammered in reply:—"
+  },
+  {
+   "n": 39,
+   "para": 29,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“The English Herr was in a hurry,” to which the stranger replied:—"
+  },
+  {
+   "n": 40,
+   "para": 30,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“That is why, I suppose, you wished him to go on to Bukovina. You cannot\ndeceive me, my friend; I know too much, and my horses are swift.”"
+  },
+  {
+   "n": 41,
+   "para": 30,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "As he\nspoke he smiled, and the lamplight fell on a hard-looking mouth, with\nvery red lips and sharp-looking teeth, as white as ivory. One of my\ncompanions whispered to another the line from Burger’s “Lenore”:—"
+  },
+  {
+   "n": 42,
+   "para": 31,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Denn die Todten reiten schnell”—"
+  },
+  {
+   "n": 43,
+   "para": 32,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "(“For the dead travel fast.”)"
+  },
+  {
+   "n": 44,
+   "para": 33,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The strange driver evidently heard the words, for he looked up with a\ngleaming smile. The passenger turned his face away, at the same time\nputting out his two fingers and crossing himself."
+  },
+  {
+   "n": 45,
+   "para": 33,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“Give me the Herr’s\nluggage,”"
+  },
+  {
+   "n": 46,
+   "sfx": [
+    {
+     "key": "horses_gallop",
+     "at": "the driver cracked his whip and called to his horses"
+    }
+   ],
+   "para": 33,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "said the driver; and with exceeding alacrity my bags were\nhanded out and put in the calèche. Then I descended from the side of the\ncoach, as the calèche was close alongside, the driver helping me with a\nhand which caught my arm in a grip of steel; his strength must have been\nprodigious. Without a word he shook his reins, the horses turned, and we\nswept into the darkness of the Pass. As I looked back I saw the steam\nfrom the horses of the coach by the light of the lamps, and projected\nagainst it the figures of my late companions crossing themselves. Then\nthe driver cracked his whip and called to his horses, and off they swept\non their way to Bukovina. As they sank into the darkness I felt a\nstrange chill, and a lonely feeling came over me; but a cloak was thrown\nover my shoulders, and a rug across my knees, and the driver said in\nexcellent German:—"
+  },
+  {
+   "n": 47,
+   "para": 34,
+   "role": "Count Dracula",
+   "cast": "Vlad the Impaler",
+   "text": "“The night is chill, mein Herr, and my master the Count bade me take all\ncare of you. There is a flask of slivovitz (the plum brandy of the\ncountry) underneath the seat, if you should require it.”"
+  },
+  {
+   "n": 48,
+   "para": 34,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I did not take\nany, but it was a comfort to know it was there all the same. I felt a\nlittle strangely, and not a little frightened. I think had there been\nany alternative I should have taken it, instead of prosecuting that\nunknown night journey. The carriage went at a hard pace straight along,\nthen we made a complete turn and went along another straight road. It\nseemed to me that we were simply going over and over the same ground\nagain; and so I took note of some salient point, and found that this was\nso. I would have liked to have asked the driver what this all meant, but\nI really feared to do so, for I thought that, placed as I was, any\nprotest would have had no effect in case there had been an intention to\ndelay. By-and-by, however, as I was curious to know how time was\npassing, I struck a match, and by its flame looked at my watch; it was\nwithin a few minutes of midnight. This gave me a sort of shock, for I\nsuppose the general superstition about midnight was increased by my\nrecent experiences. I waited with a sick feeling of suspense."
+  },
+  {
+   "n": 49,
+   "sfx": [
+    {
+     "key": "wolf_howl",
+     "at": "a dog began to howl"
+    },
+    {
+     "key": "wolves_chorus",
+     "at": "that of wolves"
+    }
+   ],
+   "para": 35,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Then a dog began to howl somewhere in a farmhouse far down the road—a\nlong, agonised wailing, as if from fear. The sound was taken up by\nanother dog, and then another and another, till, borne on the wind which\nnow sighed softly through the Pass, a wild howling began, which seemed\nto come from all over the country, as far as the imagination could grasp\nit through the gloom of the night. At the first howl the horses began to\nstrain and rear, but the driver spoke to them soothingly, and they\nquieted down, but shivered and sweated as though after a runaway from\nsudden fright. Then, far off in the distance, from the mountains on each\nside of us began a louder and a sharper howling—that of wolves—which\naffected both the horses and myself in the same way—for I was minded to\njump from the calèche and run, whilst they reared again and plunged\nmadly, so that the driver had to use all his great strength to keep them\nfrom bolting. In a few minutes, however, my own ears got accustomed to\nthe sound, and the horses so far became quiet that the driver was able\nto descend and to stand before them. He petted and soothed them, and\nwhispered something in their ears, as I have heard of horse-tamers\ndoing, and with extraordinary effect, for under his caresses they became\nquite manageable again, though they still trembled. The driver again\ntook his seat, and shaking his reins, started off at a great pace. This\ntime, after going to the far side of the Pass, he suddenly turned down a\nnarrow roadway which ran sharply to the right."
+  },
+  {
+   "n": 50,
+   "sfx": [
+    {
+     "key": "wolves_chorus",
+     "at": "The baying of the wolves sounded nearer and nearer"
+    }
+   ],
+   "para": 36,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Soon we were hemmed in with trees, which in places arched right over the\nroadway till we passed as through a tunnel; and again great frowning\nrocks guarded us boldly on either side. Though we were in shelter, we\ncould hear the rising wind, for it moaned and whistled through the\nrocks, and the branches of the trees crashed together as we swept along.\nIt grew colder and colder still, and fine, powdery snow began to fall,\nso that soon we and all around us were covered with a white blanket. The\nkeen wind still carried the howling of the dogs, though this grew\nfainter as we went on our way. The baying of the wolves sounded nearer\nand nearer, as though they were closing round on us from every side. I\ngrew dreadfully afraid, and the horses shared my fear. The driver,\nhowever, was not in the least disturbed; he kept turning his head to\nleft and right, but I could not see anything through the darkness."
+  },
+  {
+   "n": 51,
+   "sfx": [
+    {
+     "key": "wolves_chorus",
+     "at": "howling of the wolves grew closer"
+    }
+   ],
+   "para": 37,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Suddenly, away on our left, I saw a faint flickering blue flame. The\ndriver saw it at the same moment; he at once checked the horses, and,\njumping to the ground, disappeared into the darkness. I did not know\nwhat to do, the less as the howling of the wolves grew closer; but while\nI wondered the driver suddenly appeared again, and without a word took\nhis seat, and we resumed our journey. I think I must have fallen asleep\nand kept dreaming of the incident, for it seemed to be repeated\nendlessly, and now looking back, it is like a sort of awful nightmare.\nOnce the flame appeared so near the road, that even in the darkness\naround us I could watch the driver’s motions. He went rapidly to where\nthe blue flame arose—it must have been very faint, for it did not seem\nto illumine the place around it at all—and gathering a few stones,\nformed them into some device. Once there appeared a strange optical\neffect: when he stood between me and the flame he did not obstruct it,\nfor I could see its ghostly flicker all the same. This startled me, but\nas the effect was only momentary, I took it that my eyes deceived me\nstraining through the darkness. Then for a time there were no blue\nflames, and we sped onwards through the gloom, with the howling of the\nwolves around us, as though they were following in a moving circle."
+  },
+  {
+   "n": 52,
+   "para": 38,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "At last there came a time when the driver went further afield than he\nhad yet gone, and during his absence, the horses began to tremble worse\nthan ever and to snort and scream with fright. I could not see any cause\nfor it, for the howling of the wolves had ceased altogether; but just\nthen the moon, sailing through the black clouds, appeared behind the\njagged crest of a beetling, pine-clad rock, and by its light I saw\naround us a ring of wolves, with white teeth and lolling red tongues,\nwith long, sinewy limbs and shaggy hair. They were a hundred times more\nterrible in the grim silence which held them than even when they howled.\nFor myself, I felt a sort of paralysis of fear. It is only when a man\nfeels himself face to face with such horrors that he can understand\ntheir true import."
+  },
+  {
+   "n": 53,
+   "para": 39,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "All at once the wolves began to howl as though the moonlight had had\nsome peculiar effect on them. The horses jumped about and reared, and\nlooked helplessly round with eyes that rolled in a way painful to see;\nbut the living ring of terror encompassed them on every side; and they\nhad perforce to remain within it. I called to the coachman to come, for\nit seemed to me that our only chance was to try to break out through the\nring and to aid his approach. I shouted and beat the side of the\ncalèche, hoping by the noise to scare the wolves from that side, so as\nto give him a chance of reaching the trap. How he came there, I know\nnot, but I heard his voice raised in a tone of imperious command, and\nlooking towards the sound, saw him stand in the roadway. As he swept his\nlong arms, as though brushing aside some impalpable obstacle, the wolves\nfell back and back further still. Just then a heavy cloud passed across\nthe face of the moon, so that we were again in darkness."
+  },
+  {
+   "n": 54,
+   "para": 40,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When I could see again the driver was climbing into the calèche, and the\nwolves had disappeared. This was all so strange and uncanny that a\ndreadful fear came upon me, and I was afraid to speak or move. The time\nseemed interminable as we swept on our way, now in almost complete\ndarkness, for the rolling clouds obscured the moon. We kept on\nascending, with occasional periods of quick descent, but in the main\nalways ascending. Suddenly, I became conscious of the fact that the\ndriver was in the act of pulling up the horses in the courtyard of a\nvast ruined castle, from whose tall black windows came no ray of light,\nand whose broken battlements showed a jagged line against the moonlit\nsky."
+  }
+ ]
 }

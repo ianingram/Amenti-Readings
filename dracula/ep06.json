@@ -1,0 +1,622 @@
+{
+ "work": "dracula",
+ "episode": 6,
+ "chapter": 6,
+ "title": "Whitby",
+ "document": "MINA MURRAY'S JOURNAL · DR SEWARD'S DIARY",
+ "source": {
+  "library": "library/bram-stoker/ch06.md",
+  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ },
+ "note": "Chapter VI complete. Cue boundaries fall on paragraph breaks and on the quotation marks of real speech only; quoted words and titles stay in their narration. Every cue's text is byte-identical to the library file, line breaks included (chunkText strips them; the cache key is the text). A brief quotation inside a document — a passenger, a driver, an attendant, Renfield — is spoken by the document's writer; the principal characters always speak for themselves. Letters are read whole by their writers. Every speech attribution is listed in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Mina Murray",
+   "cast_as": "Agatha Christie"
+  },
+  {
+   "role": "Mr Swales",
+   "cast_as": "James Cook"
+  },
+  {
+   "role": "Lucy Westenra",
+   "cast_as": "Mary Shelley"
+  },
+  {
+   "role": "Dr Seward",
+   "cast_as": "William Harvey"
+  },
+  {
+   "role": "Narrator",
+   "cast_as": "Bram Stoker"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "CHAPTER VI"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "MINA MURRAY’S JOURNAL"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "24 July. Whitby. —Lucy met me at the station, looking sweeter and\nlovelier than ever, and we drove up to the house at the Crescent in\nwhich they have rooms. This is a lovely place. The little river, the\nEsk, runs through a deep valley, which broadens out as it comes near the\nharbour. A great viaduct runs across, with high piers, through which the\nview seems somehow further away than it really is. The valley is\nbeautifully green, and it is so steep that when you are on the high land\non either side you look right across it, unless you are near enough to\nsee down. The houses of the old town—the side away from us—are all\nred-roofed, and seem piled up one over the other anyhow, like the\npictures we see of Nuremberg. Right over the town is the ruin of Whitby\nAbbey, which was sacked by the Danes, and which is the scene of part of\n“Marmion,” where the girl was built up in the wall. It is a most noble\nruin, of immense size, and full of beautiful and romantic bits; there is\na legend that a white lady is seen in one of the windows. Between it and\nthe town there is another church, the parish one, round which is a big\ngraveyard, all full of tombstones. This is to my mind the nicest spot in\nWhitby, for it lies right over the town, and has a full view of the\nharbour and all up the bay to where the headland called Kettleness\nstretches out into the sea. It descends so steeply over the harbour that\npart of the bank has fallen away, and some of the graves have been\ndestroyed. In one place part of the stonework of the graves stretches\nout over the sandy pathway far below. There are walks, with seats beside\nthem, through the churchyard; and people go and sit there all day long\nlooking at the beautiful view and enjoying the breeze. I shall come and\nsit here very often myself and work. Indeed, I am writing now, with my\nbook on my knee, and listening to the talk of three old men who are\nsitting beside me. They seem to do nothing all day but sit up here and\ntalk."
+  },
+  {
+   "n": 4,
+   "sfx": [
+    {
+     "key": "gulls",
+     "at": "The harbour lies below me"
+    }
+   ],
+   "para": 3,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "The harbour lies below me, with, on the far side, one long granite wall\nstretching out into the sea, with a curve outwards at the end of it, in\nthe middle of which is a lighthouse. A heavy sea-wall runs along outside\nof it. On the near side, the sea-wall makes an elbow crooked inversely,\nand its end too has a lighthouse. Between the two piers there is a\nnarrow opening into the harbour, which then suddenly widens."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "It is nice at high water; but when the tide is out it shoals away to\nnothing, and there is merely the stream of the Esk, running between\nbanks of sand, with rocks here and there. Outside the harbour on this\nside there rises for about half a mile a great reef, the sharp edge of\nwhich runs straight out from behind the south lighthouse. At the end of\nit is a buoy with a bell, which swings in bad weather, and sends in a\nmournful sound on the wind. They have a legend here that when a ship is\nlost bells are heard out at sea. I must ask the old man about this; he\nis coming this way...."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "He is a funny old man. He must be awfully old, for his face is all\ngnarled and twisted like the bark of a tree. He tells me that he is\nnearly a hundred, and that he was a sailor in the Greenland fishing\nfleet when Waterloo was fought. He is, I am afraid, a very sceptical\nperson, for when I asked him about the bells at sea and the White Lady\nat the abbey he said very brusquely:—"
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“I wouldn’t fash masel’ about them, miss. Them things be all wore out.\nMind, I don’t say that they never was, but I do say that they wasn’t in\nmy time. They be all very well for comers and trippers, an’ the like,\nbut not for a nice young lady like you. Them feet-folks from York and\nLeeds that be always eatin’ cured herrin’s an’ drinkin’ tea an’ lookin’\nout to buy cheap jet would creed aught. I wonder masel’ who’d be\nbothered tellin’ lies to them—even the newspapers, which is full of\nfool-talk.”"
+  },
+  {
+   "n": 8,
+   "sfx": [
+    {
+     "key": "clock_strike",
+     "at": "the clock struck six"
+    }
+   ],
+   "para": 6,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I thought he would be a good person to learn interesting\nthings from, so I asked him if he would mind telling me something about\nthe whale-fishing in the old days. He was just settling himself to begin\nwhen the clock struck six, whereupon he laboured to get up, and said:—"
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“I must gang ageeanwards home now, miss. My grand-daughter doesn’t like\nto be kept waitin’ when the tea is ready, for it takes me time to\ncrammle aboon the grees, for there be a many of ’em; an’, miss, I lack\nbelly-timber sairly by the clock.”"
+  },
+  {
+   "n": 10,
+   "para": 8,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "He hobbled away, and I could see him hurrying, as well as he could, down\nthe steps. The steps are a great feature on the place. They lead from\nthe town up to the church, there are hundreds of them—I do not know how\nmany—and they wind up in a delicate curve; the slope is so gentle that\na horse could easily walk up and down them. I think they must originally\nhave had something to do with the abbey. I shall go home too. Lucy went\nout visiting with her mother, and as they were only duty calls, I did\nnot go. They will be home by this."
+  },
+  {
+   "n": 11,
+   "para": 9,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "1 August. —I came up here an hour ago with Lucy, and we had a most\ninteresting talk with my old friend and the two others who always come\nand join him. He is evidently the Sir Oracle of them, and I should think\nmust have been in his time a most dictatorial person. He will not admit\nanything, and downfaces everybody. If he can’t out-argue them he bullies\nthem, and then takes their silence for agreement with his views. Lucy\nwas looking sweetly pretty in her white lawn frock; she has got a\nbeautiful colour since she has been here. I noticed that the old men did\nnot lose any time in coming up and sitting near her when we sat down.\nShe is so sweet with old people; I think they all fell in love with her\non the spot. Even my old man succumbed and did not contradict her, but\ngave me double share instead. I got him on the subject of the legends,\nand he went off at once into a sort of sermon. I must try to remember it\nand put it down:—"
+  },
+  {
+   "n": 12,
+   "para": 10,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“It be all fool-talk, lock, stock, and barrel; that’s what it be, an’\nnowt else. These bans an’ wafts an’ boh-ghosts an’ barguests an’ bogles\nan’ all anent them is only fit to set bairns an’ dizzy women\na-belderin’. They be nowt but air-blebs. They, an’ all grims an’ signs\nan’ warnin’s, be all invented by parsons an’ illsome beuk-bodies an’\nrailway touters to skeer an’ scunner hafflin’s, an’ to get folks to do\nsomethin’ that they don’t other incline to. It makes me ireful to think\no’ them. Why, it’s them that, not content with printin’ lies on paper\nan’ preachin’ them out of pulpits, does want to be cuttin’ them on the\ntombstones. Look here all around you in what airt ye will; all them\nsteans, holdin’ up their heads as well as they can out of their pride,\nis acant—simply tumblin’ down with the weight o’ the lies wrote on\nthem, ‘Here lies the body’ or ‘Sacred to the memory’ wrote on all of\nthem, an’ yet in nigh half of them there bean’t no bodies at all; an’\nthe memories of them bean’t cared a pinch of snuff about, much less\nsacred. Lies all of them, nothin’ but lies of one kind or another! My\ngog, but it’ll be a quare scowderment at the Day of Judgment when they\ncome tumblin’ up in their death-sarks, all jouped together an’ tryin’ to\ndrag their tombsteans with them to prove how good they was; some of them\ntrimmlin’ and ditherin’, with their hands that dozzened an’ slippy from\nlyin’ in the sea that they can’t even keep their grup o’ them.”"
+  },
+  {
+   "n": 13,
+   "para": 11,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I could see from the old fellow’s self-satisfied air and the way in\nwhich he looked round for the approval of his cronies that he was\n“showing off,” so I put in a word to keep him going:—"
+  },
+  {
+   "n": 14,
+   "para": 12,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“Oh, Mr. Swales, you can’t be serious. Surely these tombstones are not\nall wrong?”"
+  },
+  {
+   "n": 15,
+   "para": 13,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“Yabblins! There may be a poorish few not wrong, savin’ where they make\nout the people too good; for there be folk that do think a balm-bowl be\nlike the sea, if only it be their own. The whole thing be only lies. Now\nlook you here; you come here a stranger, an’ you see this kirk-garth.”"
+  },
+  {
+   "n": 16,
+   "para": 13,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I\nnodded, for I thought it better to assent, though I did not quite\nunderstand his dialect. I knew it had something to do with the church.\nHe went on:"
+  },
+  {
+   "n": 17,
+   "para": 13,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“And you consate that all these steans be aboon folk that be\nhapped here, snod an’ snog?”"
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I assented again."
+  },
+  {
+   "n": 19,
+   "para": 13,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“Then that be just where\nthe lie comes in. Why, there be scores of these lay-beds that be toom as\nold Dun’s ’bacca-box on Friday night.”"
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "He nudged one of his companions,\nand they all laughed."
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“And my gog! how could they be otherwise? Look at\nthat one, the aftest abaft the bier-bank: read it!”"
+  },
+  {
+   "n": 22,
+   "para": 13,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I went over and\nread:—"
+  },
+  {
+   "n": 23,
+   "para": 14,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“Edward Spencelagh, master mariner, murdered by pirates off the coast of\nAndres, April, 1854, æt. 30.” When I came back Mr. Swales went on:—"
+  },
+  {
+   "n": 24,
+   "para": 15,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“Who brought him home, I wonder, to hap him here? Murdered off the coast\nof Andres! an’ you consated his body lay under! Why, I could name ye a\ndozen whose bones lie in the Greenland seas above”"
+  },
+  {
+   "n": 25,
+   "para": 15,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "—he pointed\nnorthwards—"
+  },
+  {
+   "n": 26,
+   "para": 15,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“or where the currents may have drifted them. There be the\nsteans around ye. Ye can, with your young eyes, read the small-print of\nthe lies from here. This Braithwaite Lowrey—I knew his father, lost in\nthe Lively off Greenland in ’20; or Andrew Woodhouse, drowned in the\nsame seas in 1777; or John Paxton, drowned off Cape Farewell a year\nlater; or old John Rawlings, whose grandfather sailed with me, drowned\nin the Gulf of Finland in ’50. Do ye think that all these men will have\nto make a rush to Whitby when the trumpet sounds? I have me antherums\naboot it! I tell ye that when they got here they’d be jommlin’ an’\njostlin’ one another that way that it ’ud be like a fight up on the ice\nin the old days, when we’d be at one another from daylight to dark, an’\ntryin’ to tie up our cuts by the light of the aurora borealis.”"
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "This was\nevidently local pleasantry, for the old man cackled over it, and his\ncronies joined in with gusto."
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“But,” I said, “surely you are not quite correct, for you start on the\nassumption that all the poor people, or their spirits, will have to\ntake their tombstones with them on the Day of Judgment. Do you think\nthat will be really necessary?”"
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“Well, what else be they tombstones for? Answer me that, miss!”"
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“To please their relatives, I suppose.”"
+  },
+  {
+   "n": 31,
+   "para": 19,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“To please their relatives, you suppose!”"
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "This he said with intense\nscorn."
+  },
+  {
+   "n": 33,
+   "para": 19,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“How will it pleasure their relatives to know that lies is wrote\nover them, and that everybody in the place knows that they be lies?”"
+  },
+  {
+   "n": 34,
+   "para": 19,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "He\npointed to a stone at our feet which had been laid down as a slab, on\nwhich the seat was rested, close to the edge of the cliff."
+  },
+  {
+   "n": 35,
+   "para": 19,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“Read the\nlies on that thruff-stean,”"
+  },
+  {
+   "n": 36,
+   "para": 19,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "he said. The letters were upside down to me\nfrom where I sat, but Lucy was more opposite to them, so she leant over\nand read:—"
+  },
+  {
+   "n": 37,
+   "para": 20,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Sacred to the memory of George Canon, who died, in the hope of a\nglorious resurrection, on July, 29, 1873, falling from the rocks at\nKettleness. This tomb was erected by his sorrowing mother to her dearly\nbeloved son. ‘He was the only son of his mother, and she was a widow.’\nReally, Mr. Swales, I don’t see anything very funny in that!”"
+  },
+  {
+   "n": 38,
+   "para": 20,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "She spoke\nher comment very gravely and somewhat severely."
+  },
+  {
+   "n": 39,
+   "para": 21,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“Ye don’t see aught funny! Ha! ha! But that’s because ye don’t gawm the\nsorrowin’ mother was a hell-cat that hated him because he was\nacrewk’d—a regular lamiter he was—an’ he hated her so that he\ncommitted suicide in order that she mightn’t get an insurance she put on\nhis life. He blew nigh the top of his head off with an old musket that\nthey had for scarin’ the crows with. ’Twarn’t for crows then, for it\nbrought the clegs and the dowps to him. That’s the way he fell off the\nrocks. And, as to hopes of a glorious resurrection, I’ve often heard him\nsay masel’ that he hoped he’d go to hell, for his mother was so pious\nthat she’d be sure to go to heaven, an’ he didn’t want to addle where\nshe was. Now isn’t that stean at any rate”"
+  },
+  {
+   "n": 40,
+   "para": 21,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "—he hammered it with his\nstick as he spoke—"
+  },
+  {
+   "n": 41,
+   "para": 21,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“a pack of lies? and won’t it make Gabriel keckle\nwhen Geordie comes pantin’ up the grees with the tombstean balanced on\nhis hump, and asks it to be took as evidence!”"
+  },
+  {
+   "n": 42,
+   "para": 22,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I did not know what to say, but Lucy turned the conversation as she\nsaid, rising up:—"
+  },
+  {
+   "n": 43,
+   "para": 23,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Oh, why did you tell us of this? It is my favourite seat, and I cannot\nleave it; and now I find I must go on sitting over the grave of a\nsuicide.”"
+  },
+  {
+   "n": 44,
+   "para": 24,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“That won’t harm ye, my pretty; an’ it may make poor Geordie gladsome to\nhave so trim a lass sittin’ on his lap. That won’t hurt ye. Why, I’ve\nsat here off an’ on for nigh twenty years past, an’ it hasn’t done me\nno harm. Don’t ye fash about them as lies under ye, or that doesn’ lie\nthere either! It’ll be time for ye to be getting scart when ye see the\ntombsteans all run away with, and the place as bare as a stubble-field.\nThere’s the clock, an’ I must gang. My service to ye, ladies!”"
+  },
+  {
+   "n": 45,
+   "para": 24,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "And off\nhe hobbled."
+  },
+  {
+   "n": 46,
+   "para": 25,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "Lucy and I sat awhile, and it was all so beautiful before us that we\ntook hands as we sat; and she told me all over again about Arthur and\ntheir coming marriage. That made me just a little heart-sick, for I\nhaven’t heard from Jonathan for a whole month."
+  },
+  {
+   "n": 47,
+   "sfx": [
+    {
+     "key": "clock_strike",
+     "at": "The clock has just struck nine"
+    }
+   ],
+   "para": 26,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "The same day. I came up here alone, for I am very sad. There was no\nletter for me. I hope there cannot be anything the matter with Jonathan.\nThe clock has just struck nine. I see the lights scattered all over the\ntown, sometimes in rows where the streets are, and sometimes singly;\nthey run right up the Esk and die away in the curve of the valley. To my\nleft the view is cut off by a black line of roof of the old house next\nthe abbey. The sheep and lambs are bleating in the fields away behind\nme, and there is a clatter of a donkey’s hoofs up the paved road below.\nThe band on the pier is playing a harsh waltz in good time, and further\nalong the quay there is a Salvation Army meeting in a back street.\nNeither of the bands hears the other, but up here I hear and see them\nboth. I wonder where Jonathan is and if he is thinking of me! I wish he\nwere here."
+  },
+  {
+   "n": 48,
+   "bed": "london_interior",
+   "score": {
+    "key": "phonograph",
+    "xfade": 2.5
+   },
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Dr. Seward’s Diary."
+  },
+  {
+   "n": 49,
+   "para": 28,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "5 June. —The case of Renfield grows more interesting the more I get to\nunderstand the man. He has certain qualities very largely developed;\nselfishness, secrecy, and purpose. I wish I could get at what is the\nobject of the latter. He seems to have some settled scheme of his own,\nbut what it is I do not yet know. His redeeming quality is a love of\nanimals, though, indeed, he has such curious turns in it that I\nsometimes imagine he is only abnormally cruel. His pets are of odd\nsorts. Just now his hobby is catching flies. He has at present such a\nquantity that I have had myself to expostulate. To my astonishment, he\ndid not break out into a fury, as I expected, but took the matter in\nsimple seriousness. He thought for a moment, and then said: “May I have\nthree days? I shall clear them away.” Of course, I said that would do. I\nmust watch him."
+  },
+  {
+   "n": 50,
+   "para": 29,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "18 June. —He has turned his mind now to spiders, and has got several\nvery big fellows in a box. He keeps feeding them with his flies, and\nthe number of the latter is becoming sensibly diminished, although he\nhas used half his food in attracting more flies from outside to his\nroom."
+  },
+  {
+   "n": 51,
+   "para": 30,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "1 July. —His spiders are now becoming as great a nuisance as his\nflies, and to-day I told him that he must get rid of them. He looked\nvery sad at this, so I said that he must clear out some of them, at all\nevents. He cheerfully acquiesced in this, and I gave him the same time\nas before for reduction. He disgusted me much while with him, for when a\nhorrid blow-fly, bloated with some carrion food, buzzed into the room,\nhe caught it, held it exultantly for a few moments between his finger\nand thumb, and, before I knew what he was going to do, put it in his\nmouth and ate it. I scolded him for it, but he argued quietly that it\nwas very good and very wholesome; that it was life, strong life, and\ngave life to him. This gave me an idea, or the rudiment of one. I must\nwatch how he gets rid of his spiders. He has evidently some deep problem\nin his mind, for he keeps a little note-book in which he is always\njotting down something. Whole pages of it are filled with masses of\nfigures, generally single numbers added up in batches, and then the\ntotals added in batches again, as though he were “focussing” some\naccount, as the auditors put it."
+  },
+  {
+   "n": 52,
+   "para": 31,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "8 July. —There is a method in his madness, and the rudimentary idea in\nmy mind is growing. It will be a whole idea soon, and then, oh,\nunconscious cerebration! you will have to give the wall to your\nconscious brother. I kept away from my friend for a few days, so that I\nmight notice if there were any change. Things remain as they were except\nthat he has parted with some of his pets and got a new one. He has\nmanaged to get a sparrow, and has already partially tamed it. His means\nof taming is simple, for already the spiders have diminished. Those that\ndo remain, however, are well fed, for he still brings in the flies by\ntempting them with his food."
+  },
+  {
+   "n": 53,
+   "para": 32,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "19 July. —We are progressing. My friend has now a whole colony of\nsparrows, and his flies and spiders are almost obliterated. When I came\nin he ran to me and said he wanted to ask me a great favour—a very,\nvery great favour; and as he spoke he fawned on me like a dog. I asked\nhim what it was, and he said, with a sort of rapture in his voice and\nbearing:—"
+  },
+  {
+   "n": 54,
+   "para": 33,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“A kitten, a nice little, sleek playful kitten, that I can play with,\nand teach, and feed—and feed—and feed!” I was not unprepared for this\nrequest, for I had noticed how his pets went on increasing in size and\nvivacity, but I did not care that his pretty family of tame sparrows\nshould be wiped out in the same manner as the flies and the spiders; so\nI said I would see about it, and asked him if he would not rather have a\ncat than a kitten. His eagerness betrayed him as he answered:—"
+  },
+  {
+   "n": 55,
+   "para": 34,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Oh, yes, I would like a cat! I only asked for a kitten lest you should\nrefuse me a cat. No one would refuse me a kitten, would they?” I shook\nmy head, and said that at present I feared it would not be possible, but\nthat I would see about it. His face fell, and I could see a warning of\ndanger in it, for there was a sudden fierce, sidelong look which meant\nkilling. The man is an undeveloped homicidal maniac. I shall test him\nwith his present craving and see how it will work out; then I shall know\nmore."
+  },
+  {
+   "n": 56,
+   "para": 35,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "10 p. m. —I have visited him again and found him sitting in a corner\nbrooding. When I came in he threw himself on his knees before me and\nimplored me to let him have a cat; that his salvation depended upon it.\nI was firm, however, and told him that he could not have it, whereupon\nhe went without a word, and sat down, gnawing his fingers, in the corner\nwhere I had found him. I shall see him in the morning early."
+  },
+  {
+   "n": 57,
+   "para": 36,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "20 July. —Visited Renfield very early, before the attendant went his\nrounds. Found him up and humming a tune. He was spreading out his sugar,\nwhich he had saved, in the window, and was manifestly beginning his\nfly-catching again; and beginning it cheerfully and with a good grace. I\nlooked around for his birds, and not seeing them, asked him where they\nwere. He replied, without turning round, that they had all flown away.\nThere were a few feathers about the room and on his pillow a drop of\nblood. I said nothing, but went and told the keeper to report to me if\nthere were anything odd about him during the day."
+  },
+  {
+   "n": 58,
+   "para": 37,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "11 a. m. —The attendant has just been to me to say that Renfield has\nbeen very sick and has disgorged a whole lot of feathers. “My belief is,\ndoctor,” he said, “that he has eaten his birds, and that he just took\nand ate them raw!”"
+  },
+  {
+   "n": 59,
+   "para": 38,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "11 p. m. —I gave Renfield a strong opiate to-night, enough to make\neven him sleep, and took away his pocket-book to look at it. The thought\nthat has been buzzing about my brain lately is complete, and the theory\nproved. My homicidal maniac is of a peculiar kind. I shall have to\ninvent a new classification for him, and call him a zoöphagous\n(life-eating) maniac; what he desires is to absorb as many lives as he\ncan, and he has laid himself out to achieve it in a cumulative way. He\ngave many flies to one spider and many spiders to one bird, and then\nwanted a cat to eat the many birds. What would have been his later\nsteps? It would almost be worth while to complete the experiment. It\nmight be done if there were only a sufficient cause. Men sneered at\nvivisection, and yet look at its results to-day! Why not advance science\nin its most difficult and vital aspect—the knowledge of the brain? Had\nI even the secret of one such mind—did I hold the key to the fancy of\neven one lunatic—I might advance my own branch of science to a pitch\ncompared with which Burdon-Sanderson’s physiology or Ferrier’s\nbrain-knowledge would be as nothing. If only there were a sufficient\ncause! I must not think too much of this, or I may be tempted; a good\ncause might turn the scale with me, for may not I too be of an\nexceptional brain, congenitally?"
+  },
+  {
+   "n": 60,
+   "para": 39,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "How well the man reasoned; lunatics always do within their own scope. I\nwonder at how many lives he values a man, or if at only one. He has\nclosed the account most accurately, and to-day begun a new record. How\nmany of us begin a new record with each day of our lives?"
+  },
+  {
+   "n": 61,
+   "para": 40,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "To me it seems only yesterday that my whole life ended with my new hope,\nand that truly I began a new record. So it will be until the Great\nRecorder sums me up and closes my ledger account with a balance to\nprofit or loss. Oh, Lucy, Lucy, I cannot be angry with you, nor can I be\nangry with my friend whose happiness is yours; but I must only wait on\nhopeless and work. Work! work!"
+  },
+  {
+   "n": 62,
+   "para": 41,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "If I only could have as strong a cause as my poor mad friend there—a\ngood, unselfish cause to make me work—that would be indeed happiness."
+  },
+  {
+   "n": 63,
+   "bed": "whitby",
+   "score": {
+    "key": "pastoral_sour",
+    "xfade": 6
+   },
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Mina Murray’s Journal."
+  },
+  {
+   "n": 64,
+   "para": 43,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "26 July. —I am anxious, and it soothes me to express myself here; it\nis like whispering to one’s self and listening at the same time. And\nthere is also something about the shorthand symbols that makes it\ndifferent from writing. I am unhappy about Lucy and about Jonathan. I\nhad not heard from Jonathan for some time, and was very concerned; but\nyesterday dear Mr. Hawkins, who is always so kind, sent me a letter from\nhim. I had written asking him if he had heard, and he said the enclosed\nhad just been received. It is only a line dated from Castle Dracula,\nand says that he is just starting for home. That is not like Jonathan;\nI do not understand it, and it makes me uneasy. Then, too, Lucy,\nalthough she is so well, has lately taken to her old habit of walking in\nher sleep. Her mother has spoken to me about it, and we have decided\nthat I am to lock the door of our room every night. Mrs. Westenra has\ngot an idea that sleep-walkers always go out on roofs of houses and\nalong the edges of cliffs and then get suddenly wakened and fall over\nwith a despairing cry that echoes all over the place. Poor dear, she is\nnaturally anxious about Lucy, and she tells me that her husband, Lucy’s\nfather, had the same habit; that he would get up in the night and dress\nhimself and go out, if he were not stopped. Lucy is to be married in the\nautumn, and she is already planning out her dresses and how her house is\nto be arranged. I sympathise with her, for I do the same, only Jonathan\nand I will start in life in a very simple way, and shall have to try to\nmake both ends meet. Mr. Holmwood—he is the Hon. Arthur Holmwood, only\nson of Lord Godalming—is coming up here very shortly—as soon as he can\nleave town, for his father is not very well, and I think dear Lucy is\ncounting the moments till he comes. She wants to take him up to the seat\non the churchyard cliff and show him the beauty of Whitby. I daresay it\nis the waiting which disturbs her; she will be all right when he\narrives."
+  },
+  {
+   "n": 65,
+   "para": 44,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "27 July. —No news from Jonathan. I am getting quite uneasy about him,\nthough why I should I do not know; but I do wish that he would write, if\nit were only a single line. Lucy walks more than ever, and each night I\nam awakened by her moving about the room. Fortunately, the weather is so\nhot that she cannot get cold; but still the anxiety and the perpetually\nbeing wakened is beginning to tell on me, and I am getting nervous and\nwakeful myself. Thank God, Lucy’s health keeps up. Mr. Holmwood has been\nsuddenly called to Ring to see his father, who has been taken seriously\nill. Lucy frets at the postponement of seeing him, but it does not touch\nher looks; she is a trifle stouter, and her cheeks are a lovely\nrose-pink. She has lost that anæmic look which she had. I pray it will\nall last."
+  },
+  {
+   "n": 66,
+   "para": 45,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "3 August. —Another week gone, and no news from Jonathan, not even to\nMr. Hawkins, from whom I have heard. Oh, I do hope he is not ill. He\nsurely would have written. I look at that last letter of his, but\nsomehow it does not satisfy me. It does not read like him, and yet it is\nhis writing. There is no mistake of that. Lucy has not walked much in\nher sleep the last week, but there is an odd concentration about her\nwhich I do not understand; even in her sleep she seems to be watching\nme. She tries the door, and finding it locked, goes about the room\nsearching for the key."
+  },
+  {
+   "n": 67,
+   "sfx": [
+    {
+     "key": "log_warn",
+     "at": "we are in for a storm"
+    }
+   ],
+   "para": 46,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "6 August. —Another three days, and no news. This suspense is getting\ndreadful. If I only knew where to write to or where to go to, I should\nfeel easier; but no one has heard a word of Jonathan since that last\nletter. I must only pray to God for patience. Lucy is more excitable\nthan ever, but is otherwise well. Last night was very threatening, and\nthe fishermen say that we are in for a storm. I must try to watch it and\nlearn the weather signs. To-day is a grey day, and the sun as I write is\nhidden in thick clouds, high over Kettleness. Everything is grey—except\nthe green grass, which seems like emerald amongst it; grey earthy rock;\ngrey clouds, tinged with the sunburst at the far edge, hang over the\ngrey sea, into which the sand-points stretch like grey fingers. The sea\nis tumbling in over the shallows and the sandy flats with a roar,\nmuffled in the sea-mists drifting inland. The horizon is lost in a grey\nmist. All is vastness; the clouds are piled up like giant rocks, and\nthere is a “brool” over the sea that sounds like some presage of doom.\nDark figures are on the beach here and there, sometimes half shrouded in\nthe mist, and seem “men like trees walking.” The fishing-boats are\nracing for home, and rise and dip in the ground swell as they sweep into\nthe harbour, bending to the scuppers. Here comes old Mr. Swales. He is\nmaking straight for me, and I can see, by the way he lifts his hat, that\nhe wants to talk...."
+  },
+  {
+   "n": 68,
+   "para": 47,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I have been quite touched by the change in the poor old man. When he sat\ndown beside me, he said in a very gentle way:—"
+  },
+  {
+   "n": 69,
+   "para": 48,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“I want to say something to you, miss.”"
+  },
+  {
+   "n": 70,
+   "para": 48,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I could see he was not at ease,\nso I took his poor old wrinkled hand in mine and asked him to speak\nfully; so he said, leaving his hand in mine:—"
+  },
+  {
+   "n": 71,
+   "para": 49,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“I’m afraid, my deary, that I must have shocked you by all the wicked\nthings I’ve been sayin’ about the dead, and such like, for weeks past;\nbut I didn’t mean them, and I want ye to remember that when I’m gone. We\naud folks that be daffled, and with one foot abaft the krok-hooal, don’t\naltogether like to think of it, and we don’t want to feel scart of it;\nan’ that’s why I’ve took to makin’ light of it, so that I’d cheer up my\nown heart a bit. But, Lord love ye, miss, I ain’t afraid of dyin’, not a\nbit; only I don’t want to die if I can help it. My time must be nigh at\nhand now, for I be aud, and a hundred years is too much for any man to\nexpect; and I’m so nigh it that the Aud Man is already whettin’ his\nscythe. Ye see, I can’t get out o’ the habit of caffin’ about it all at\nonce; the chafts will wag as they be used to. Some day soon the Angel of\nDeath will sound his trumpet for me. But don’t ye dooal an’ greet, my\ndeary!”"
+  },
+  {
+   "n": 72,
+   "para": 49,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "—for he saw that I was crying—"
+  },
+  {
+   "n": 73,
+   "para": 49,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“if he should come this very\nnight I’d not refuse to answer his call. For life be, after all, only a\nwaitin’ for somethin’ else than what we’re doin’; and death be all that\nwe can rightly depend on. But I’m content, for it’s comin’ to me, my\ndeary, and comin’ quick. It may be comin’ while we be lookin’ and\nwonderin’. Maybe it’s in that wind out over the sea that’s bringin’ with\nit loss and wreck, and sore distress, and sad hearts. Look! look!”"
+  },
+  {
+   "n": 74,
+   "para": 49,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "he\ncried suddenly."
+  },
+  {
+   "n": 75,
+   "para": 49,
+   "role": "Mr Swales",
+   "cast": "James Cook",
+   "text": "“There’s something in that wind and in the hoast beyont\nthat sounds, and looks, and tastes, and smells like death. It’s in the\nair; I feel it comin’. Lord, make me answer cheerful when my call\ncomes!”"
+  },
+  {
+   "n": 76,
+   "para": 49,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "He held up his arms devoutly, and raised his hat. His mouth\nmoved as though he were praying. After a few minutes’ silence, he got\nup, shook hands with me, and blessed me, and said good-bye, and hobbled\noff. It all touched me, and upset me very much."
+  },
+  {
+   "n": 77,
+   "para": 50,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I was glad when the coastguard came along, with his spy-glass under his\narm. He stopped to talk with me, as he always does, but all the time\nkept looking at a strange ship."
+  },
+  {
+   "n": 78,
+   "sfx": [
+    {
+     "key": "log_warn",
+     "at": "she seems to see the storm coming"
+    }
+   ],
+   "para": 51,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“I can’t make her out,” he said; “she’s a Russian, by the look of her;\nbut she’s knocking about in the queerest way. She doesn’t know her mind\na bit; she seems to see the storm coming, but can’t decide whether to\nrun up north in the open, or to put in here. Look there again! She is\nsteered mighty strangely, for she doesn’t mind the hand on the wheel;\nchanges about with every puff of wind. We’ll hear more of her before\nthis time to-morrow.”"
+  }
+ ]
+}

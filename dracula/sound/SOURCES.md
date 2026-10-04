@@ -49,3 +49,25 @@ one is placed in a castle of stone with the same synthesized reverb.
 
 Both built by `build4.py`, in D minor's family (Dm, B♭, F, C, Gm, A) so either
 can sit under the dread score.
+
+## Chapter 7 — the Demeter (4 Oct 2026)
+
+Built by `build-ch7.py`. **Instruments: Versilian Studios, VSCO 2 Community
+Edition** — real recorded timpani, snare, tenor drums, bass drum and string
+sections, released CC0. Versilian ask for credit, gladly given: *orchestral
+samples by Versilian Studios (VSCO 2 CE), recorded by Sam Gossner and Simon
+Dalzell.* The raw samples are not redistributed here — only the music made
+from them.
+
+| file | made from | licence |
+|---|---|---|
+| `storm-1.wav`, `storm-3.wav`, `storm-4.wav` | VSCO 2 CE: double bass, cello and viola tremolo; timpani rolls; tenor drums. Loops. | CC0 |
+| `wreck-hit.mp3` | VSCO 2 CE: three timpani, two bass drums, a tenor drum, struck together | CC0 |
+| `pulse-8.wav` … `pulse-1.wav` | VSCO 2 CE: muffled tenor drum, one beat per soul aboard. Loops, exact bars. | CC0 |
+| `loss-heart.mp3`, `loss-heart-double.mp3`, `heart-last.mp3`, `captain-heart.wav` | VSCO 2 CE: snare ruff; heartbeat from muffled timpani and bass drum | CC0 |
+| `log-rain.mp3`, `log-rough-weather.mp3`, `log-distant-roll.mp3`, `log-tempest.mp3` | VSCO 2 CE: timpani and tenor drums | CC0 |
+| `mate-racing.mp3` | VSCO 2 CE: racing heart, rising snare roll | CC0 |
+| `lightning-depths.mp3` | VSCO 2 CE timpani and snares + *Storm thunderbolts* (stephan, pdsounds.org via Wikimedia Commons), sunk into the depths here | CC0 + PD |
+| `wolf-howl.mp3` | *Wolf howls* — U.S. Fish & Wildlife Service (PD-USGov-FWS) | PD |
+| `sea.mp3` | synthesized sea on shingle | synthesized |
+| `hull.mp3` | synthesized sea against a hull + *Creaky wooden casket* (stephan), slowed into ship's timbers | synthesized + PD |

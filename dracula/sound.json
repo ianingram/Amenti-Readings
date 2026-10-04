@@ -1,15 +1,15 @@
 {
   "_file": "Amenti-Readings/dracula/sound.json",
-  "_updated": "2026-10-03 07:00 UTC",
+  "_updated": "2026-10-04 03:30 UTC",
   "work": "dracula",
   "files": {
-    "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals.",
+    "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals. CHAPTER 7: the loops (storm, pulse, captain's heart) are WAV, cut to exact bars, because an MP3 loop stutters at its seam; everything else is MP3.",
     "base": "https://ianingram.github.io/Amenti-Readings/dracula/sound/",
     "beds": {
       "castle": "fire.mp3",
       "pass": "wind.mp3",
       "whitby": "sea.mp3",
-      "demeter": "sea.mp3"
+      "demeter": "hull.mp3"
     },
     "oneshots": {
       "door_heavy": "door_heavy.mp3",
@@ -35,16 +35,52 @@
       "chair_draw": "chair_draw.mp3",
       "match": "match.mp3",
       "shudder": "shudder.mp3",
-      "chair_creak": "chair_creak.mp3"
+      "chair_creak": "chair_creak.mp3",
+      "wreck_hit": "wreck-hit.mp3",
+      "loss_heart": "loss-heart.mp3",
+      "loss_heart_double": "loss-heart-double.mp3",
+      "log_rain": "log-rain.mp3",
+      "log_rough": "log-rough-weather.mp3",
+      "log_warn": "log-distant-roll.mp3",
+      "log_tempest": "log-tempest.mp3",
+      "mate_racing": "mate-racing.mp3",
+      "lightning_depths": "lightning-depths.mp3",
+      "wolf_howl": "wolf-howl.mp3",
+      "heart_last": "heart-last.mp3"
     },
     "score": {
-      "dread": "score-dread.mp3"
+      "dread": "score-dread.mp3",
+      "storm_1": "storm-1.wav",
+      "storm_3": "storm-3.wav",
+      "storm_4": "storm-4.wav",
+      "pulse_8": "pulse-8.wav",
+      "pulse_7": "pulse-7.wav",
+      "pulse_6": "pulse-6.wav",
+      "pulse_5": "pulse-5.wav",
+      "pulse_3": "pulse-3.wav",
+      "pulse_2": "pulse-2.wav",
+      "pulse_1": "pulse-1.wav",
+      "captain_heart": "captain-heart.wav"
     },
     "under": {
       "note": "MUSIC UNDER ONE LINE. piano_far: far away and airy, a few notes sprinkled, the odd soft chord — letters, memory, anything read rather than lived. piano_near: close and bold, full chords when the moment needs weight. Each use starts at a different seeded point in the minute-long piece.",
       "piano_far": "piano-far.mp3",
       "piano_near": "piano-near.mp3",
       "piano_letter": "piano-far.mp3"
+    },
+    "levels": {
+      "note": "Score gain per key, before ducking. Files are mastered relative to each other; these set them against the voices. Absent keys play at the default.",
+      "storm_1": 1.0,
+      "storm_3": 1.0,
+      "storm_4": 1.0,
+      "pulse_8": 1.0,
+      "pulse_7": 1.0,
+      "pulse_6": 1.0,
+      "pulse_5": 1.0,
+      "pulse_3": 1.0,
+      "pulse_2": 1.0,
+      "pulse_1": 1.0,
+      "captain_heart": 1.0
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
@@ -204,7 +240,8 @@
     "pastoral_turning": "The Whitby chapters. Open and warm at first and souring without changing key. Chapters 6-8, 11-13.",
     "pursuit": "The chase east. Momentum, and the only cue with a pulse. Chapters 26-27.",
     "earth_boxes": "The earth-boxes across London, ch 19-20. Industrial halftime, 60 BPM, percussion built from warehouse sounds rather than a drum kit. The only driving cue before the pursuit.",
-    "phonograph": "Seward's diary, kept on a phonograph. LO-FI, and tiered three ways — full beat, crackle only, or silence. Sixteen of twenty-seven chapters are this document, so an untiered beat would be wallpaper. Measured, unemotional, a little mechanical. Chapters 9-10, 14-18, 21, 23-25."
+    "phonograph": "Seward's diary, kept on a phonograph. LO-FI, and tiered three ways — full beat, crackle only, or silence. Sixteen of twenty-seven chapters are this document, so an untiered beat would be wallpaper. Measured, unemotional, a little mechanical. Chapters 9-10, 14-18, 21, 23-25.",
+    "demeter": "The Demeter (chapter 7). Not one cue: a scene scored from the cue sheet — storm loops, a hard cut, the pulse of the crew, hearts, lightning. See ep07.json."
   },
   "chapters": [
     {
@@ -269,14 +306,14 @@
     },
     {
       "n": 7,
-      "bed": "demeter",
+      "bed": "whitby",
       "state": 1,
-      "score": "dread",
+      "score": null,
       "sfx": [
         "ships_bell",
         "thunder"
       ],
-      "note": "THE BED ADVANCES WITHIN THE CHAPTER, 1 to 5, following the dated entries. This is the one chapter where state is not fixed — the cue sheet carries the state per cue. The last entry runs on state 5: wind, water, and the wheel."
+      "note": "SCORED FROM THE CUE SHEET (ep07.json), in the book's order: the storm builds under the correspondent (storm 1 → 3 → 4) and stops dead on \"pitched herself\" with the wreck hit; silence and the sea for the corpse and the dog. The room becomes the ship's hull at the log. The pulse loses a beat for every soul (8 → 1), each a snare ruff and a heart until it is no more; weather on kettle and toms; the mate's heart races, lightning and thunder take him into the depths, the wolf howls; then only the captain's heart, until he ties his hands to the wheel."
     },
     {
       "n": 8,

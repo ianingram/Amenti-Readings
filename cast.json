@@ -1,63 +1,73 @@
 {
-  "note": "One cast, every work. A role names a LEDGER FIGURE BY FULL NAME, because resolveVoice() joins the roster on name lower-cased and returns {voice, style} with no per-figure code. Get the name wrong and the lookup falls back to a neutral voice rather than failing — so a typo here is silent, which is the same class of failure as a mis-keyed plate. Every name below was verified against the live ledger on 1 October 2026.\n\nREGISTERS ARE THE SPEECH DOCTRINE'S SIX and are not invented here: warm, cool, sharp, grave, danger, humour. They are chosen per cue, not per role — a character does not have a register, a moment does.\n\nSTYLE IS PART OF THE CACHE KEY. The key is TTS_MODEL + voice + style + text. A style_note written into a cue composes into that string, so changing one after a render orphans every measure it produced. Decide a voice once.",
-  "engine": {
-    "speak": "Amenti.throttle.speak(text, { style, voice })",
-    "resolve": "resolveVoice(fullName) -> { voice, style }",
-    "page": "Page1 only. It retired its separate read-aloud pipeline — one chunker at 320, one strip, one style composition, one shared cache. Page2 still runs two pipelines with two cache namespaces and must not be used for readings until it is unified onto the throttle.",
-    "rule": "ONE CHUNKER, ONE STYLE COMPOSITION, ONE CACHE. The readings repo holds scripts and a thin player. The voice stays in Amenti.live."
+ "note": "One cast, every work. A role names a LEDGER FIGURE BY FULL NAME, because resolveVoice() joins the roster on name lower-cased and returns {voice, style} with no per-figure code. Get the name wrong and the lookup falls back to a neutral voice rather than failing — so a typo here is silent, which is the same class of failure as a mis-keyed plate. Every name below was verified against the live ledger on 1 October 2026.\n\nREGISTERS ARE THE SPEECH DOCTRINE'S SIX and are not invented here: warm, cool, sharp, grave, danger, humour. They are chosen per cue, not per role — a character does not have a register, a moment does.\n\nSTYLE IS PART OF THE CACHE KEY. The key is TTS_MODEL + voice + style + text. A style_note written into a cue composes into that string, so changing one after a render orphans every measure it produced. Decide a voice once.",
+ "engine": {
+  "speak": "Amenti.throttle.speak(text, { style, voice })",
+  "resolve": "resolveVoice(fullName) -> { voice, style }",
+  "page": "Page1 only. It retired its separate read-aloud pipeline — one chunker at 320, one strip, one style composition, one shared cache. Page2 still runs two pipelines with two cache namespaces and must not be used for readings until it is unified onto the throttle.",
+  "rule": "ONE CHUNKER, ONE STYLE COMPOSITION, ONE CACHE. The readings repo holds scripts and a thin player. The voice stays in Amenti.live."
+ },
+ "roles": {
+  "dracula": {
+   "narrator": {
+    "ledger_name": "Bram Stoker",
+    "ledger": "Anglo-Irish, gothic and atmospheric · haunted and hollow",
+    "why": "the book is a compiled dossier and the compiler is the author. He holds the frame; he does not read the documents."
+   },
+   "jonathan-harker": {
+    "ledger_name": "Charles Darwin",
+    "ledger": "English RP, careful and mild · aphoristic and patient",
+    "why": "the journal is a solicitor cataloguing an impossible thing in careful prose and refusing to conclude until the evidence forces him"
+   },
+   "count-dracula": {
+    "ledger_name": "Vlad the Impaler",
+    "ledger": "Romanian, cruel and grim · haunted and hollow",
+    "why": "Stoker took the name from him. Hungarian-Transylvanian is COMPOSED into the style rather than taken from the ledger, at the proprietor's direction.",
+    "two_styles": "ONE VOICE, TWO STYLES. Harker meets an old man, white-moustached, hands cold as ice; after feeding he sees him grown young, hair darkened, cheeks full. The age is a PLOT MECHANISM, not a characterisation, so the voice must stay recognisably one creature while the style shifts. Two cache keys per line, both decided once.",
+    "style_old": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
+    "style_young": "Hungarian-Transylvanian, the same voice with the age drawn out of it; fuller, quicker, and no less quiet"
+   },
+   "mina-murray": {
+    "ledger_name": "Agatha Christie",
+    "ledger": "English RP, sharp and ingenious · ironic and probing",
+    "why": "Mina assembles the case file and solves the pursuit. A detective novelist is the right instrument."
+   },
+   "dr-seward": {
+    "ledger_name": "William Harvey",
+    "ledger": "English RP, careful and probing · aphoristic and patient",
+    "why": "his diary is clinical observation of a patient he is losing, dictated to a phonograph"
+   },
+   "van-helsing": {
+    "ledger_name": "Antony van Leeuwenhoek",
+    "ledger": "Dutch, curious and plain · ironic and probing",
+    "why": "Van Helsing is Dutch and a doctor, and his broken English is written on the page deliberately"
+   },
+   "lucy-westenra": {
+    "ledger_name": "Mary Shelley",
+    "ledger": "English RP, gothic and visionary · haunted and hollow",
+    "why": "she is the one who is changed, and the voice should already carry it"
+   },
+   "the-correspondent": {
+    "ledger_name": "Charles Dickens",
+    "ledger": "English RP, vivid and warm",
+    "why": "began as a newspaper reporter; the Dailygraph account of the storm and the wreck is a writer on the scene"
+   },
+   "the-captain-of-the-demeter": {
+    "ledger_name": "Vitus Bering",
+    "ledger": "Danish-Russian, hardy and exacting · blunt and forceful",
+    "why": "a real sea captain in Russian service who died with his stranded crew; duty to the last, as in the log. He also speaks the mate's words, because it is his log."
+   }
   },
-  "roles": {
-    "dracula": {
-      "narrator": {
-        "ledger_name": "Bram Stoker",
-        "ledger": "Anglo-Irish, gothic and atmospheric · haunted and hollow",
-        "why": "the book is a compiled dossier and the compiler is the author. He holds the frame; he does not read the documents."
-      },
-      "jonathan-harker": {
-        "ledger_name": "Charles Darwin",
-        "ledger": "English RP, careful and mild · aphoristic and patient",
-        "why": "the journal is a solicitor cataloguing an impossible thing in careful prose and refusing to conclude until the evidence forces him"
-      },
-      "count-dracula": {
-        "ledger_name": "Vlad the Impaler",
-        "ledger": "Romanian, cruel and grim · haunted and hollow",
-        "why": "Stoker took the name from him. Hungarian-Transylvanian is COMPOSED into the style rather than taken from the ledger, at the proprietor's direction.",
-        "two_styles": "ONE VOICE, TWO STYLES. Harker meets an old man, white-moustached, hands cold as ice; after feeding he sees him grown young, hair darkened, cheeks full. The age is a PLOT MECHANISM, not a characterisation, so the voice must stay recognisably one creature while the style shifts. Two cache keys per line, both decided once.",
-        "style_old": "Hungarian-Transylvanian, aged and courteous; a dry voice with great age behind it; quiet, unhurried, and worse for being quiet",
-        "style_young": "Hungarian-Transylvanian, the same voice with the age drawn out of it; fuller, quicker, and no less quiet"
-      },
-      "mina-murray": {
-        "ledger_name": "Agatha Christie",
-        "ledger": "English RP, sharp and ingenious · ironic and probing",
-        "why": "Mina assembles the case file and solves the pursuit. A detective novelist is the right instrument."
-      },
-      "dr-seward": {
-        "ledger_name": "William Harvey",
-        "ledger": "English RP, careful and probing · aphoristic and patient",
-        "why": "his diary is clinical observation of a patient he is losing, dictated to a phonograph"
-      },
-      "van-helsing": {
-        "ledger_name": "Antony van Leeuwenhoek",
-        "ledger": "Dutch, curious and plain · ironic and probing",
-        "why": "Van Helsing is Dutch and a doctor, and his broken English is written on the page deliberately"
-      },
-      "lucy-westenra": {
-        "ledger_name": "Mary Shelley",
-        "ledger": "English RP, gothic and visionary · haunted and hollow",
-        "why": "she is the one who is changed, and the voice should already carry it"
-      }
-    },
-    "a-christmas-carol": {
-      "narrator": {
-        "ledger_name": "Charles Dickens",
-        "ledger": "English RP, vivid and warm",
-        "why": "he toured it as a staged reading for fifteen years and wrote his own performing text. He narrates his own."
-      }
-    }
-  },
-  "uncast": {
-    "note": "Two voices the text specifically calls for and the ledger cannot supply. Either add them to the ledger or absorb them into the narrator — do not approximate.",
-    "quincey-morris": "American frontier Texan. Nothing in 1,011 rows covers it.",
-    "whitby-dialect": "Yorkshire. The old sailor in the churchyard is the most heavily phonetic speech in the book, and the Demeter comes ashore there. No Yorkshire voice exists in the ledger."
+  "a-christmas-carol": {
+   "narrator": {
+    "ledger_name": "Charles Dickens",
+    "ledger": "English RP, vivid and warm",
+    "why": "he toured it as a staged reading for fifteen years and wrote his own performing text. He narrates his own."
+   }
   }
+ },
+ "uncast": {
+  "note": "Two voices the text specifically calls for and the ledger cannot supply. Either add them to the ledger or absorb them into the narrator — do not approximate.",
+  "quincey-morris": "American frontier Texan. Nothing in 1,011 rows covers it.",
+  "whitby-dialect": "Yorkshire. The old sailor in the churchyard is the most heavily phonetic speech in the book, and the Demeter comes ashore there. No Yorkshire voice exists in the ledger."
+ }
 }

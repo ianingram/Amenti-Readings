@@ -80,3 +80,15 @@ recorded for the theme through the Amenti voice service.
 | `boat-sinks.mp3` | the jolly-boat going down by the stern |
 | `flag-snap.mp3` | a flag snapping in the wind |
 | `stockade-attack.mp3` | the attack: the scattering volley, then hand to hand over the palisade (40 s) |
+
+## Part Five — My Sea Adventure (5 Oct 2026): the theme comes home
+
+Built by `build-part-five.py` from the theme's own material.
+
+| file | made from |
+|---|---|
+| `coracle.mp3` | the theme coda's water: built lapping, *Creaky wooden casket* (stephan, PD) slowed into the coracle's creak, this folder's `cove.mp3` far off |
+| `campfire-chorus.mp3`, `campfire-drone.mp3` | the crew's verse from the theme — Stevenson's words, the same three voice-service takes (Charon, Orus, Sadaltager) — set far off across the water |
+| `score-flute-drift.mp3` | the theme's tune on the VSCO 2 CE flute (CC0), slow and far, phrase after phrase |
+| `hands-drums.mp3` | VSCO 2 CE kettle-drum rolls and marching snare (CC0), rising and stopping dead |
+| `dirk-mast.mp3`, `body-water.mp3` | built; the thock from *Dull thud* (gregoryweir, PD) |

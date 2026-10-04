@@ -896,3 +896,103 @@ Every quotation and the voice it was given. **Tagged** lines follow Stevenson’
 - ¶50 · **Dr Livesey** · “but there’s five of them will never run again.”
 - ¶51 · **Captain Smollett** · “Five!”
 - ¶51 · **Captain Smollett** · “Come, that’s better. Five against three leaves us four to nine. That’s better odds than we had a…
+
+## Chapter XXII — How My Sea Adventure Began
+
+- ¶3 · **Jim Hawkins** · *corrected* · “got their rations for that day,”
+- ¶9 · **Jim Hawkins** · *inferred* · “Why, in the name of Davy Jones,”
+- ¶9 · **Jim Hawkins** · *inferred* · “is Dr. Livesey mad?”
+- ¶10 · **Jim Hawkins** · “Why no,”
+- ¶10 · **Jim Hawkins** · “He’s about the last of this crew for that, I take it.”
+- ¶11 · **Jim Hawkins** · “Well, shipmate,”
+- ¶11 · **Jim Hawkins** · “mad he may not be; but if HE’S not, you mark my words, I am.”
+- ¶12 · **Jim Hawkins** · “I take it,”
+- ¶12 · **Jim Hawkins** · “the doctor has his idea; and if I am right, he’s going now to see Ben Gunn.”
+
+## Chapter XXIII — The Ebb-tide Runs
+
+- ¶2 · **Jim Hawkins** · *corrected* · “queer to handle till you knew her way.”
+- ¶12 · **Jim Hawkins** · *inferred* · “But one man of her crew alive, What put to sea with seventy-five.”
+- ¶22 · **Jim Hawkins** · *inferred* · “Fifteen men on the dead man’s chest-- Yo-ho-ho, and a bottle of rum! Drink and the devil had don…
+
+## Chapter XXIV — The Cruise of the Coracle
+
+- ¶15 · **Jim Hawkins** · *corrected* · “Well, now,”
+- ¶15 · **Jim Hawkins** · *corrected* · “it is plain I must lie where I am and not disturb the balance; but it is plain also that I can p…
+- ¶20 · **Jim Hawkins** · “Clumsy fellows,”
+- ¶20 · **Jim Hawkins** · “they must still be drunk as owls.”
+
+## Chapter XXV — I Strike the Jolly Roger
+
+- ¶12 · **Jim Hawkins** · “Come aboard, Mr. Hands,”
+- ¶13 · **Israel Hands** · *corrected* · “Brandy.”
+- ¶19 · **Israel Hands** · *corrected* · “Aye,”
+- ¶19 · **Israel Hands** · *corrected* · “by thunder, but I wanted some o’ that!”
+- ¶21 · **Jim Hawkins** · “Much hurt?”
+- ¶23 · **Israel Hands** · *corrected* · “If that doctor was aboard,”
+- ¶23 · **Israel Hands** · *corrected* · “I’d be right enough in a couple of turns, but I don’t have no manner of luck, you see, and that’…
+- ¶23 · **Israel Hands** · *corrected* · “He warn’t no seaman anyhow. And where mought you have come from?”
+- ¶24 · **Jim Hawkins** · “Well,”
+- ¶24 · **Jim Hawkins** · “I’ve come aboard to take possession of this ship, Mr. Hands; and you’ll please regard me as your…
+- ¶26 · **Jim Hawkins** · “By the by,”
+- ¶26 · **Jim Hawkins** · “I can’t have these colours, Mr. Hands; and by your leave, I’ll strike ’em. Better none than these.”
+- ¶28 · **Jim Hawkins** · “God save the king!”
+- ¶28 · **Jim Hawkins** · “And there’s an end to Captain Silver!”
+- ¶30 · **Israel Hands** · *corrected* · “I reckon,”
+- ¶30 · **Israel Hands** · *corrected* · “I reckon, Cap’n Hawkins, you’ll kind of want to get ashore now. S’pose we talks.”
+- ¶31 · **Jim Hawkins** · “Why, yes,”
+- ¶31 · **Jim Hawkins** · “with all my heart, Mr. Hands. Say on.”
+- ¶32 · **Israel Hands** · *corrected* · “This man,”
+- ¶32 · **Israel Hands** · *corrected* · “--O’Brien were his name, a rank Irelander--this man and me got the canvas on her, meaning for to…
+- ¶33 · **Jim Hawkins** · “I’ll tell you one thing,”
+- ¶33 · **Jim Hawkins** · “I’m not going back to Captain Kidd’s anchorage. I mean to get into North Inlet and beach her qui…
+- ¶34 · **Israel Hands** · *corrected* · “To be sure you did,”
+- ¶34 · **Israel Hands** · *corrected* · “Why, I ain’t sich an infernal lubber after all. I can see, can’t I? I’ve tried my fling, I have,…
+
+## Chapter XXVI — Israel Hands
+
+- ¶3 · **Israel Hands** · *corrected* · “Cap’n,”
+- ¶3 · **Israel Hands** · *corrected* · “here’s my old shipmate, O’Brien; s’pose you was to heave him overboard. I ain’t partic’lar as a …
+- ¶4 · **Jim Hawkins** · “I’m not strong enough, and I don’t like the job; and there he lies, for me,”
+- ¶5 · **Israel Hands** · *corrected* · “This here’s an unlucky ship, this HISPANIOLA, Jim,”
+- ¶5 · **Israel Hands** · *corrected* · “There’s a power of men been killed in this HISPANIOLA--a sight o’ poor seamen dead and gone sinc…
+- ¶6 · **Jim Hawkins** · “You can kill the body, Mr. Hands, but not the spirit; you must know that already,”
+- ¶6 · **Jim Hawkins** · “O’Brien there is in another world, and may be watching us.”
+- ¶7 · **Israel Hands** · *corrected* · “Ah!”
+- ¶7 · **Israel Hands** · *corrected* · “Well, that’s unfort’nate--appears as if killing parties was a waste of time. Howsomever, sperrit…
+- ¶9 · **Jim Hawkins** · “Some wine?”
+- ¶9 · **Jim Hawkins** · “Far better. Will you have white or red?”
+- ¶10 · **Israel Hands** · *corrected* · “Well, I reckon it’s about the blessed same to me, shipmate,”
+- ¶10 · **Israel Hands** · *corrected* · “so it’s strong, and plenty of it, what’s the odds?”
+- ¶11 · **Jim Hawkins** · “All right,”
+- ¶11 · **Jim Hawkins** · “I’ll bring you port, Mr. Hands. But I’ll have to dig for it.”
+- ¶17 · **Israel Hands** · *corrected* · “Here’s luck!”
+- ¶18 · **Israel Hands** · *corrected* · “Cut me a junk o’ that,”
+- ¶18 · **Israel Hands** · *corrected* · “for I haven’t no knife and hardly strength enough, so be as I had. Ah, Jim, Jim, I reckon I’ve m…
+- ¶19 · **Jim Hawkins** · “Well,”
+- ¶19 · **Jim Hawkins** · “I’ll cut you some tobacco, but if I was you and thought myself so badly, I would go to my prayer…
+- ¶20 · **Israel Hands** · *corrected* · “Why?”
+- ¶20 · **Israel Hands** · *corrected* · “Now, you tell me why.”
+- ¶21 · **Jim Hawkins** · “Why?”
+- ¶21 · **Jim Hawkins** · “You were asking me just now about the dead. You’ve broken your trust; you’ve lived in sin and li…
+- ¶23 · **Israel Hands** · *corrected* · “For thirty years,”
+- ¶23 · **Israel Hands** · *corrected* · “I’ve sailed the seas and seen good and bad, better and worse, fair weather and foul, provisions …
+- ¶23 · **Israel Hands** · *corrected* · “we’ve had about enough of this foolery. The tide’s made good enough by now. You just take my ord…
+- ¶26 · **Israel Hands** · “Now,”
+- ¶26 · **Israel Hands** · “look there; there’s a pet bit for to beach a ship in. Fine flat sand, never a cat’s paw, trees a…
+- ¶27 · **Jim Hawkins** · “And once beached,”
+- ¶27 · **Jim Hawkins** · “how shall we get her off again?”
+- ¶28 · **Israel Hands** · *inferred* · “Why, so,”
+- ¶28 · **Israel Hands** · *inferred* · “you take a line ashore there on the other side at low water, take a turn about one of them big p…
+- ¶29 · **Israel Hands** · *corrected* · “Now, my hearty, luff!”
+- ¶40 · **Jim Hawkins** · “One more step, Mr. Hands,”
+- ¶40 · **Jim Hawkins** · “and I’ll blow your brains out! Dead men don’t bite, you know,”
+- ¶42 · **Israel Hands** · *inferred* · “Jim,”
+- ¶42 · **Israel Hands** · *inferred* · “I reckon we’re fouled, you and me, and we’ll have to sign articles. I’d have had you but for tha…
+
+## Chapter XXVII — “Pieces of Eight”
+
+- ¶24 · **Jim Hawkins** · *corrected* · “All’s well,”
+- ¶30 · **Jim Hawkins** · *inferred* · “Pieces of eight! Pieces of eight! Pieces of eight! Pieces of eight! Pieces of eight!”
+- ¶32 · **Long John Silver** · “Who goes?”
+- ¶34 · **Long John Silver** · “Bring a torch, Dick,”

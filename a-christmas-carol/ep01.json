@@ -1,0 +1,2335 @@
+{
+ "work": "a-christmas-carol",
+ "episode": 1,
+ "chapter": 1,
+ "title": "Marley's Ghost",
+ "document": "STAVE ONE · MARLEY’S GHOST",
+ "source": {
+  "library": "library/charles-dickens/01-a-christmas-carol.md",
+  "text": "Charles Dickens, A Christmas Carol (1843) · public domain"
+ },
+ "note": "Stave complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; the text inside every cue is byte-identical to the library file. Speech attributions are listed in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Ebenezer Scrooge",
+   "cast_as": "Oliver Cromwell"
+  },
+  {
+   "role": "Marley's Ghost",
+   "cast_as": "Lucian Freud"
+  },
+  {
+   "role": "The Ghost of Christmas Past",
+   "cast_as": "Audrey Hepburn"
+  },
+  {
+   "role": "The Ghost of Christmas Present",
+   "cast_as": "Henry VIII of England"
+  },
+  {
+   "role": "Bob Cratchit",
+   "cast_as": "Charlie Chaplin"
+  },
+  {
+   "role": "Fred",
+   "cast_as": "Oscar Wilde"
+  },
+  {
+   "role": "Mr Fezziwig",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Belle",
+   "cast_as": "Charlotte Brontë"
+  },
+  {
+   "role": "Mrs Cratchit",
+   "cast_as": "Florence Nightingale"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "score": {
+    "key": "carol",
+    "xfade": 2
+   },
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "STAVE ONE."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "MARLEY’S GHOST."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Marley was dead: to begin with. There is no\ndoubt whatever about that. The register of his burial was signed by the\nclergyman, the clerk, the undertaker, and the chief mourner. Scrooge\nsigned it: and Scrooge’s name was good upon ’Change, for\nanything he chose to put his hand to. Old Marley was as dead as a\ndoor-nail."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mind! I don’t mean to say that I know, of my own knowledge, what\nthere is particularly dead about a door-nail. I might have been\ninclined, myself, to regard a coffin-nail as the deadest piece of\nironmongery in the trade. But the wisdom of our ancestors is in the\nsimile; and my unhallowed hands shall not disturb it, or the Country’s\ndone for. You will therefore permit me to repeat, emphatically, that\nMarley was as dead as a door-nail."
+  },
+  {
+   "n": 5,
+   "score": {
+    "key": null,
+    "xfade": 14
+   },
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge knew he was dead? Of course he did. How could it be otherwise?\nScrooge and he were partners for I don’t know how many years.\nScrooge was his sole executor, his sole administrator, his sole assign,\nhis sole residuary legatee, his sole friend, and sole mourner. And even\nScrooge was not so dreadfully cut up by the sad event, but that he was\nan excellent man of business on the very day of the funeral, and\nsolemnised it with an undoubted bargain."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The mention of Marley’s funeral brings me back to the point I\nstarted from. There is no doubt that Marley was dead. This must be\ndistinctly understood, or nothing wonderful can come of the story I am\ngoing to relate. If we were not perfectly convinced that Hamlet’s\nFather died before the play began, there would be nothing more\nremarkable in his taking a stroll at night, in an easterly wind, upon\nhis own ramparts, than there would be in any other middle-aged gentleman\nrashly turning out after dark in a breezy spot—say Saint Paul’s\nChurchyard for instance—literally to astonish his son’s weak\nmind."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge never painted out Old Marley’s name. There it stood, years\nafterwards, above the warehouse door: Scrooge and Marley. The firm was\nknown as Scrooge and Marley. Sometimes people new to the business called\nScrooge Scrooge, and sometimes Marley, but he answered to both names. It\nwas all the same to him."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Oh! But he was a tight-fisted hand at the grindstone, Scrooge! a\nsqueezing, wrenching, grasping, scraping, clutching, covetous, old\nsinner! Hard and sharp as flint, from which no steel had ever struck out\ngenerous fire; secret, and self-contained, and solitary as an oyster.\nThe cold within him froze his old features, nipped his pointed nose,\nshrivelled his cheek, stiffened his gait; made his eyes red, his thin\nlips blue; and spoke out shrewdly in his grating voice. A frosty rime\nwas on his head, and on his eyebrows, and his wiry chin. He carried his\nown low temperature always about with him; he iced his office in the\ndog-days; and didn’t thaw it one degree at Christmas."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "External heat and cold had little influence on Scrooge. No warmth could\nwarm, no wintry weather chill him. No wind that blew was bitterer than\nhe, no falling snow was more intent upon its purpose, no pelting rain\nless open to entreaty. Foul weather didn’t know where to have him.\nThe heaviest rain, and snow, and hail, and sleet, could boast of the\nadvantage over him in only one respect. They often “came down”\nhandsomely, and Scrooge never did."
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Nobody ever stopped him in the street to say, with gladsome looks,\n“My dear Scrooge, how are you? When will you come to see me?”\nNo beggars implored him to bestow a trifle, no children asked him what\nit was o’clock, no man or woman ever once in all his life inquired\nthe way to such and such a place, of Scrooge. Even the blind men’s\ndogs appeared to know him; and when they saw him coming on, would tug\ntheir owners into doorways and up courts; and then would wag their tails\nas though they said, “No eye at all is better than an evil eye,\ndark master!”"
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "But what did Scrooge care! It was the very thing he liked. To edge his\nway along the crowded paths of life, warning all human sympathy to keep\nits distance, was what the knowing ones call “nuts” to\nScrooge."
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Once upon a time—of all the good days in the year, on Christmas\nEve—old Scrooge sat busy in his counting-house. It was cold,\nbleak, biting weather: foggy withal: and he could hear the people in the\ncourt outside, go wheezing up and down, beating their hands upon their\nbreasts, and stamping their feet upon the pavement stones to warm them.\nThe city clocks had only just gone three, but it was quite dark already—it\nhad not been light all day—and candles were flaring in the windows\nof the neighbouring offices, like ruddy smears upon the palpable brown\nair. The fog came pouring in at every chink and keyhole, and was so\ndense without, that although the court was of the narrowest, the houses\nopposite were mere phantoms. To see the dingy cloud come drooping down,\nobscuring everything, one might have thought that Nature lived hard by,\nand was brewing on a large scale."
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The door of Scrooge’s counting-house was open that he might keep\nhis eye upon his clerk, who in a dismal little cell beyond, a sort of\ntank, was copying letters. Scrooge had a very small fire, but the clerk’s\nfire was so very much smaller that it looked like one coal. But he\ncouldn’t replenish it, for Scrooge kept the coal-box in his own\nroom; and so surely as the clerk came in with the shovel, the master\npredicted that it would be necessary for them to part. Wherefore the\nclerk put on his white comforter, and tried to warm himself at the\ncandle; in which effort, not being a man of a strong imagination, he\nfailed."
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“A merry Christmas, uncle! God save you!”"
+  },
+  {
+   "n": 15,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried a cheerful\nvoice. It was the voice of Scrooge’s nephew, who came upon him so\nquickly that this was the first intimation he had of his approach."
+  },
+  {
+   "n": 16,
+   "para": 14,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Bah!”"
+  },
+  {
+   "n": 17,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge,"
+  },
+  {
+   "n": 18,
+   "para": 14,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Humbug!”"
+  },
+  {
+   "n": 19,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He had so heated himself with rapid walking in the fog and frost, this\nnephew of Scrooge’s, that he was all in a glow; his face was ruddy\nand handsome; his eyes sparkled, and his breath smoked again."
+  },
+  {
+   "n": 20,
+   "para": 16,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Christmas a humbug, uncle!”"
+  },
+  {
+   "n": 21,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge’s nephew."
+  },
+  {
+   "n": 22,
+   "para": 16,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“You don’t mean that, I am sure?”"
+  },
+  {
+   "n": 23,
+   "para": 17,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I do,”"
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 25,
+   "para": 17,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Merry Christmas! What right\nhave you to be merry? What reason have you to be merry? You’re\npoor enough.”"
+  },
+  {
+   "n": 26,
+   "para": 18,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Come, then,”"
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned the nephew gaily."
+  },
+  {
+   "n": 28,
+   "para": 18,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“What right\nhave you to be dismal? What reason have you to be morose? You’re\nrich enough.”"
+  },
+  {
+   "n": 29,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge having no better answer ready on the spur of the moment, said,"
+  },
+  {
+   "n": 30,
+   "para": 19,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Bah!”"
+  },
+  {
+   "n": 31,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "again; and followed it up with"
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Humbug.”"
+  },
+  {
+   "n": 33,
+   "para": 20,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Don’t be cross, uncle!”"
+  },
+  {
+   "n": 34,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the nephew."
+  },
+  {
+   "n": 35,
+   "para": 21,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“What else can I be,”"
+  },
+  {
+   "n": 36,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned the uncle,"
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“when I live\nin such a world of fools as this? Merry Christmas! Out upon merry\nChristmas! What’s Christmas time to you but a time for paying\nbills without money; a time for finding yourself a year older, but not\nan hour richer; a time for balancing your books and having every item in\n’em through a round dozen of months presented dead against you? If\nI could work my will,”"
+  },
+  {
+   "n": 38,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge indignantly,"
+  },
+  {
+   "n": 39,
+   "para": 21,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“every\nidiot who goes about with ‘Merry Christmas’ on his lips,\nshould be boiled with his own pudding, and buried with a stake of holly\nthrough his heart. He should!”"
+  },
+  {
+   "n": 40,
+   "para": 22,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Uncle!”"
+  },
+  {
+   "n": 41,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pleaded the nephew."
+  },
+  {
+   "n": 42,
+   "para": 23,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Nephew!”"
+  },
+  {
+   "n": 43,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned the uncle sternly,"
+  },
+  {
+   "n": 44,
+   "para": 23,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“keep Christmas\nin your own way, and let me keep it in mine.”"
+  },
+  {
+   "n": 45,
+   "para": 24,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Keep it!”"
+  },
+  {
+   "n": 46,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "repeated Scrooge’s nephew."
+  },
+  {
+   "n": 47,
+   "para": 24,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“But you\ndon’t keep it.”"
+  },
+  {
+   "n": 48,
+   "para": 25,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Let me leave it alone, then,”"
+  },
+  {
+   "n": 49,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 50,
+   "para": 25,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Much\ngood may it do you! Much good it has ever done you!”"
+  },
+  {
+   "n": 51,
+   "para": 26,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“There are many things from which I might have derived good, by\nwhich I have not profited, I dare say,”"
+  },
+  {
+   "n": 52,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned the nephew."
+  },
+  {
+   "n": 53,
+   "para": 26,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Christmas among the rest. But I am sure I have always thought of\nChristmas time, when it has come round—apart from the veneration\ndue to its sacred name and origin, if anything belonging to it can be\napart from that—as a good time; a kind, forgiving, charitable,\npleasant time; the only time I know of, in the long calendar of the\nyear, when men and women seem by one consent to open their shut-up\nhearts freely, and to think of people below them as if they really were\nfellow-passengers to the grave, and not another race of creatures bound\non other journeys. And therefore, uncle, though it has never put a scrap\nof gold or silver in my pocket, I believe that it has done me\ngood, and will do me good; and I say, God bless it!”"
+  },
+  {
+   "n": 54,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The clerk in the Tank involuntarily applauded. Becoming immediately\nsensible of the impropriety, he poked the fire, and extinguished the\nlast frail spark for ever."
+  },
+  {
+   "n": 55,
+   "para": 28,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Let me hear another sound from you ,”"
+  },
+  {
+   "n": 56,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge,"
+  },
+  {
+   "n": 57,
+   "para": 28,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“and you’ll keep your Christmas by losing your situation!\nYou’re quite a powerful speaker, sir,”"
+  },
+  {
+   "n": 58,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he added, turning to\nhis nephew."
+  },
+  {
+   "n": 59,
+   "para": 28,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I wonder you don’t go into Parliament.”"
+  },
+  {
+   "n": 60,
+   "para": 29,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Don’t be angry, uncle. Come! Dine with us to-morrow.”"
+  },
+  {
+   "n": 61,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge said that he would see him—yes, indeed he did. He went the\nwhole length of the expression, and said that he would see him in that\nextremity first."
+  },
+  {
+   "n": 62,
+   "para": 31,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“But why?”"
+  },
+  {
+   "n": 63,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried Scrooge’s nephew."
+  },
+  {
+   "n": 64,
+   "para": 31,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Why?”"
+  },
+  {
+   "n": 65,
+   "para": 32,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Why did you get married?”"
+  },
+  {
+   "n": 66,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 67,
+   "para": 33,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Because I fell in love.”"
+  },
+  {
+   "n": 68,
+   "para": 34,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Because you fell in love!”"
+  },
+  {
+   "n": 69,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "growled Scrooge, as if that were\nthe only one thing in the world more ridiculous than a merry Christmas."
+  },
+  {
+   "n": 70,
+   "para": 34,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Good afternoon!”"
+  },
+  {
+   "n": 71,
+   "para": 35,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“Nay, uncle, but you never came to see me before that happened.\nWhy give it as a reason for not coming now?”"
+  },
+  {
+   "n": 72,
+   "para": 36,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Good afternoon,”"
+  },
+  {
+   "n": 73,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 74,
+   "para": 37,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“I want nothing from you; I ask nothing of you; why cannot we be\nfriends?”"
+  },
+  {
+   "n": 75,
+   "para": 38,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Good afternoon,”"
+  },
+  {
+   "n": 76,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 77,
+   "para": 39,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“I am sorry, with all my heart, to find you so resolute. We have\nnever had any quarrel, to which I have been a party. But I have made the\ntrial in homage to Christmas, and I’ll keep my Christmas humour to\nthe last. So A Merry Christmas, uncle!”"
+  },
+  {
+   "n": 78,
+   "para": 40,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Good afternoon!”"
+  },
+  {
+   "n": 79,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 80,
+   "para": 41,
+   "role": "Fred",
+   "cast": "Oscar Wilde",
+   "text": "“And A Happy New Year!”"
+  },
+  {
+   "n": 81,
+   "para": 42,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Good afternoon!”"
+  },
+  {
+   "n": 82,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 83,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "His nephew left the room without an angry word, notwithstanding. He\nstopped at the outer door to bestow the greetings of the season on the\nclerk, who, cold as he was, was warmer than Scrooge; for he returned\nthem cordially."
+  },
+  {
+   "n": 84,
+   "para": 44,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“There’s another fellow,”"
+  },
+  {
+   "n": 85,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "muttered Scrooge; who\noverheard him:"
+  },
+  {
+   "n": 86,
+   "para": 44,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“my clerk, with fifteen shillings a week, and a\nwife and family, talking about a merry Christmas. I’ll retire to\nBedlam.”"
+  },
+  {
+   "n": 87,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "This lunatic, in letting Scrooge’s nephew out, had let two other\npeople in. They were portly gentlemen, pleasant to behold, and now\nstood, with their hats off, in Scrooge’s office. They had books\nand papers in their hands, and bowed to him."
+  },
+  {
+   "n": 88,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Scrooge and Marley’s, I believe,” said one of the\ngentlemen, referring to his list. “Have I the pleasure of\naddressing Mr. Scrooge, or Mr. Marley?”"
+  },
+  {
+   "n": 89,
+   "para": 47,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Mr. Marley has been dead these seven years,”"
+  },
+  {
+   "n": 90,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge\nreplied."
+  },
+  {
+   "n": 91,
+   "para": 47,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“He died seven years ago, this very night.”"
+  },
+  {
+   "n": 92,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“We have no doubt his liberality is well represented by his\nsurviving partner,” said the gentleman, presenting his\ncredentials."
+  },
+  {
+   "n": 93,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It certainly was; for they had been two kindred spirits. At the ominous\nword “liberality,” Scrooge frowned, and shook his head, and\nhanded the credentials back."
+  },
+  {
+   "n": 94,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“At this festive season of the year, Mr. Scrooge,” said the\ngentleman, taking up a pen, “it is more than usually desirable\nthat we should make some slight provision for the Poor and destitute,\nwho suffer greatly at the present time. Many thousands are in want of\ncommon necessaries; hundreds of thousands are in want of common\ncomforts, sir.”"
+  },
+  {
+   "n": 95,
+   "para": 51,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Are there no prisons?”"
+  },
+  {
+   "n": 96,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "asked Scrooge."
+  },
+  {
+   "n": 97,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Plenty of prisons,” said the gentleman, laying down the pen\nagain."
+  },
+  {
+   "n": 98,
+   "para": 53,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“And the Union workhouses?”"
+  },
+  {
+   "n": 99,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "demanded Scrooge."
+  },
+  {
+   "n": 100,
+   "para": 53,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Are\nthey still in operation?”"
+  },
+  {
+   "n": 101,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“They are. Still,” returned the gentleman, “I wish I\ncould say they were not.”"
+  },
+  {
+   "n": 102,
+   "para": 55,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“The Treadmill and the Poor Law are in full vigour, then?”"
+  },
+  {
+   "n": 103,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 104,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Both very busy, sir.”"
+  },
+  {
+   "n": 105,
+   "para": 57,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Oh! I was afraid, from what you said at first, that something had\noccurred to stop them in their useful course,”"
+  },
+  {
+   "n": 106,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 107,
+   "para": 57,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I’m very glad to hear it.”"
+  },
+  {
+   "n": 108,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Under the impression that they scarcely furnish Christian cheer\nof mind or body to the multitude,” returned the gentleman, “a\nfew of us are endeavouring to raise a fund to buy the Poor some meat and\ndrink, and means of warmth. We choose this time, because it is a time,\nof all others, when Want is keenly felt, and Abundance rejoices. What\nshall I put you down for?”"
+  },
+  {
+   "n": 109,
+   "para": 59,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Nothing!”"
+  },
+  {
+   "n": 110,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge replied."
+  },
+  {
+   "n": 111,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“You wish to be anonymous?”"
+  },
+  {
+   "n": 112,
+   "para": 61,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I wish to be left alone,”"
+  },
+  {
+   "n": 113,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 114,
+   "para": 61,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Since you\nask me what I wish, gentlemen, that is my answer. I don’t make\nmerry myself at Christmas and I can’t afford to make idle people\nmerry. I help to support the establishments I have mentioned—they\ncost enough; and those who are badly off must go there.”"
+  },
+  {
+   "n": 115,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Many can’t go there; and many would rather die.”"
+  },
+  {
+   "n": 116,
+   "para": 63,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“If they would rather die,”"
+  },
+  {
+   "n": 117,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge,"
+  },
+  {
+   "n": 118,
+   "para": 63,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“they had\nbetter do it, and decrease the surplus population. Besides—excuse\nme—I don’t know that.”"
+  },
+  {
+   "n": 119,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“But you might know it,” observed the gentleman."
+  },
+  {
+   "n": 120,
+   "para": 65,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“It’s not my business,”"
+  },
+  {
+   "n": 121,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge returned."
+  },
+  {
+   "n": 122,
+   "para": 65,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“It’s\nenough for a man to understand his own business, and not to interfere\nwith other people’s. Mine occupies me constantly. Good afternoon,\ngentlemen!”"
+  },
+  {
+   "n": 123,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Seeing clearly that it would be useless to pursue their point, the\ngentlemen withdrew. Scrooge resumed his labours with an improved opinion\nof himself, and in a more facetious temper than was usual with him."
+  },
+  {
+   "n": 124,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Meanwhile the fog and darkness thickened so, that people ran about with\nflaring links, proffering their services to go before horses in\ncarriages, and conduct them on their way. The ancient tower of a church,\nwhose gruff old bell was always peeping slily down at Scrooge out of a\nGothic window in the wall, became invisible, and struck the hours and\nquarters in the clouds, with tremulous vibrations afterwards as if its\nteeth were chattering in its frozen head up there. The cold became\nintense. In the main street, at the corner of the court, some labourers\nwere repairing the gas-pipes, and had lighted a great fire in a brazier,\nround which a party of ragged men and boys were gathered: warming their\nhands and winking their eyes before the blaze in rapture. The water-plug\nbeing left in solitude, its overflowings sullenly congealed, and turned\nto misanthropic ice. The brightness of the shops where holly sprigs and\nberries crackled in the lamp heat of the windows, made pale faces ruddy\nas they passed. Poulterers’ and grocers’ trades became a\nsplendid joke: a glorious pageant, with which it was next to impossible\nto believe that such dull principles as bargain and sale had anything to\ndo. The Lord Mayor, in the stronghold of the mighty Mansion House, gave\norders to his fifty cooks and butlers to keep Christmas as a Lord Mayor’s\nhousehold should; and even the little tailor, whom he had fined five\nshillings on the previous Monday for being drunk and bloodthirsty in the\nstreets, stirred up to-morrow’s pudding in his garret, while his\nlean wife and the baby sallied out to buy the beef."
+  },
+  {
+   "n": 125,
+   "sfx": [
+    {
+     "key": "keyhole_carol",
+     "at": "to regale him with a Christmas carol"
+    }
+   ],
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Foggier yet, and colder. Piercing, searching, biting cold. If the good\nSaint Dunstan had but nipped the Evil Spirit’s nose with a touch\nof such weather as that, instead of using his familiar weapons, then\nindeed he would have roared to lusty purpose. The owner of one scant\nyoung nose, gnawed and mumbled by the hungry cold as bones are gnawed by\ndogs, stooped down at Scrooge’s keyhole to regale him with a\nChristmas carol: but at the first sound of"
+  },
+  {
+   "n": 126,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“God bless you, merry gentleman! May nothing\nyou dismay!”"
+  },
+  {
+   "n": 127,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge seized the ruler with such energy of action, that the singer\nfled in terror, leaving the keyhole to the fog and even more congenial\nfrost."
+  },
+  {
+   "n": 128,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "At length the hour of shutting up the counting-house arrived. With an\nill-will Scrooge dismounted from his stool, and tacitly admitted the\nfact to the expectant clerk in the Tank, who instantly snuffed his\ncandle out, and put on his hat."
+  },
+  {
+   "n": 129,
+   "para": 72,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You’ll want all day to-morrow, I suppose?”"
+  },
+  {
+   "n": 130,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said\nScrooge."
+  },
+  {
+   "n": 131,
+   "para": 73,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“If quite convenient, sir.”"
+  },
+  {
+   "n": 132,
+   "para": 74,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“It’s not convenient,”"
+  },
+  {
+   "n": 133,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge,"
+  },
+  {
+   "n": 134,
+   "para": 74,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“and it’s\nnot fair. If I was to stop half-a-crown for it, you’d think\nyourself ill-used, I’ll be bound?”"
+  },
+  {
+   "n": 135,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The clerk smiled faintly."
+  },
+  {
+   "n": 136,
+   "para": 76,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“And yet,”"
+  },
+  {
+   "n": 137,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge,"
+  },
+  {
+   "n": 138,
+   "para": 76,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“you don’t think me\nill-used, when I pay a day’s wages for no work.”"
+  },
+  {
+   "n": 139,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The clerk observed that it was only once a year."
+  },
+  {
+   "n": 140,
+   "para": 78,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“A poor excuse for picking a man’s pocket every twenty-fifth\nof December!”"
+  },
+  {
+   "n": 141,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge, buttoning his great-coat to the chin."
+  },
+  {
+   "n": 142,
+   "para": 78,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“But I suppose you must have the whole day. Be here all the\nearlier next morning.”"
+  },
+  {
+   "n": 143,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The clerk promised that he would; and Scrooge walked out with a growl.\nThe office was closed in a twinkling, and the clerk, with the long ends\nof his white comforter dangling below his waist (for he boasted no\ngreat-coat), went down a slide on Cornhill, at the end of a lane of\nboys, twenty times, in honour of its being Christmas Eve, and then ran\nhome to Camden Town as hard as he could pelt, to play at blindman’s-buff."
+  },
+  {
+   "n": 144,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge took his melancholy dinner in his usual melancholy tavern; and\nhaving read all the newspapers, and beguiled the rest of the evening\nwith his banker’s-book, went home to bed. He lived in chambers\nwhich had once belonged to his deceased partner. They were a gloomy\nsuite of rooms, in a lowering pile of building up a yard, where it had\nso little business to be, that one could scarcely help fancying it must\nhave run there when it was a young house, playing at hide-and-seek with\nother houses, and forgotten the way out again. It was old enough now,\nand dreary enough, for nobody lived in it but Scrooge, the other rooms\nbeing all let out as offices. The yard was so dark that even Scrooge,\nwho knew its every stone, was fain to grope with his hands. The fog and\nfrost so hung about the black old gateway of the house, that it seemed\nas if the Genius of the Weather sat in mournful meditation on the\nthreshold."
+  },
+  {
+   "n": 145,
+   "score": {
+    "key": "dread",
+    "xfade": 5,
+    "at": "not a knocker, but Marley’s face"
+   },
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Now, it is a fact, that there was nothing at all particular about the\nknocker on the door, except that it was very large. It is also a fact,\nthat Scrooge had seen it, night and morning, during his whole residence\nin that place; also that Scrooge had as little of what is called fancy\nabout him as any man in the city of London, even including—which\nis a bold word—the corporation, aldermen, and livery. Let it also\nbe borne in mind that Scrooge had not bestowed one thought on Marley,\nsince his last mention of his seven years’ dead partner that\nafternoon. And then let any man explain to me, if he can, how it\nhappened that Scrooge, having his key in the lock of the door, saw in\nthe knocker, without its undergoing any intermediate process of change—not\na knocker, but Marley’s face."
+  },
+  {
+   "n": 146,
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Marley’s face. It was not in impenetrable shadow as the other\nobjects in the yard were, but had a dismal light about it, like a bad\nlobster in a dark cellar. It was not angry or ferocious, but looked at\nScrooge as Marley used to look: with ghostly spectacles turned up on its\nghostly forehead. The hair was curiously stirred, as if by breath or hot\nair; and, though the eyes were wide open, they were perfectly\nmotionless. That, and its livid colour, made it horrible; but its horror\nseemed to be in spite of the face and beyond its control, rather than a\npart of its own expression."
+  },
+  {
+   "n": 147,
+   "para": 83,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "As Scrooge looked fixedly at this phenomenon, it was a knocker again."
+  },
+  {
+   "n": 148,
+   "para": 84,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "To say that he was not startled, or that his blood was not conscious of\na terrible sensation to which it had been a stranger from infancy, would\nbe untrue. But he put his hand upon the key he had relinquished, turned\nit sturdily, walked in, and lighted his candle."
+  },
+  {
+   "n": 149,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He did pause, with a moment’s irresolution, before he shut\nthe door; and he did look cautiously behind it first, as if he\nhalf expected to be terrified with the sight of Marley’s pigtail\nsticking out into the hall. But there was nothing on the back of the\ndoor, except the screws and nuts that held the knocker on, so he said"
+  },
+  {
+   "n": 150,
+   "para": 85,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Pooh, pooh!”"
+  },
+  {
+   "n": 151,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "and closed it with a bang."
+  },
+  {
+   "n": 152,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The sound resounded through the house like thunder. Every room above,\nand every cask in the wine-merchant’s cellars below, appeared to\nhave a separate peal of echoes of its own. Scrooge was not a man to be\nfrightened by echoes. He fastened the door, and walked across the hall,\nand up the stairs; slowly too: trimming his candle as he went."
+  },
+  {
+   "n": 153,
+   "para": 87,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "You may talk vaguely about driving a coach-and-six up a good old flight\nof stairs, or through a bad young Act of Parliament; but I mean to say\nyou might have got a hearse up that staircase, and taken it broadwise,\nwith the splinter-bar towards the wall and the door towards the\nbalustrades: and done it easy. There was plenty of width for that, and\nroom to spare; which is perhaps the reason why Scrooge thought he saw a\nlocomotive hearse going on before him in the gloom. Half-a-dozen\ngas-lamps out of the street wouldn’t have lighted the entry too\nwell, so you may suppose that it was pretty dark with Scrooge’s\ndip."
+  },
+  {
+   "n": 154,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Up Scrooge went, not caring a button for that. Darkness is cheap, and\nScrooge liked it. But before he shut his heavy door, he walked through\nhis rooms to see that all was right. He had just enough recollection of\nthe face to desire to do that."
+  },
+  {
+   "n": 155,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Sitting-room, bedroom, lumber-room. All as they should be. Nobody under\nthe table, nobody under the sofa; a small fire in the grate; spoon and\nbasin ready; and the little saucepan of gruel (Scrooge had a cold in his\nhead) upon the hob. Nobody under the bed; nobody in the closet; nobody\nin his dressing-gown, which was hanging up in a suspicious attitude\nagainst the wall. Lumber-room as usual. Old fire-guard, old shoes, two\nfish-baskets, washing-stand on three legs, and a poker."
+  },
+  {
+   "n": 156,
+   "para": 90,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Quite satisfied, he closed his door, and locked himself in;\ndouble-locked himself in, which was not his custom. Thus secured against\nsurprise, he took off his cravat; put on his dressing-gown and slippers,\nand his nightcap; and sat down before the fire to take his gruel."
+  },
+  {
+   "n": 157,
+   "para": 91,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was a very low fire indeed; nothing on such a bitter night. He was\nobliged to sit close to it, and brood over it, before he could extract\nthe least sensation of warmth from such a handful of fuel. The fireplace\nwas an old one, built by some Dutch merchant long ago, and paved all\nround with quaint Dutch tiles, designed to illustrate the Scriptures.\nThere were Cains and Abels, Pharaoh’s daughters; Queens of Sheba,\nAngelic messengers descending through the air on clouds like\nfeather-beds, Abrahams, Belshazzars, Apostles putting off to sea in\nbutter-boats, hundreds of figures to attract his thoughts; and yet that\nface of Marley, seven years dead, came like the ancient Prophet’s\nrod, and swallowed up the whole. If each smooth tile had been a blank at\nfirst, with power to shape some picture on its surface from the\ndisjointed fragments of his thoughts, there would have been a copy of\nold Marley’s head on every one."
+  },
+  {
+   "n": 158,
+   "para": 92,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Humbug!”"
+  },
+  {
+   "n": 159,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge; and walked across the room."
+  },
+  {
+   "n": 160,
+   "sfx": [
+    {
+     "key": "house_bells",
+     "at": "every bell in the house"
+    }
+   ],
+   "para": 93,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "After several turns, he sat down again. As he threw his head back in the\nchair, his glance happened to rest upon a bell, a disused bell, that\nhung in the room, and communicated for some purpose now forgotten with a\nchamber in the highest story of the building. It was with great\nastonishment, and with a strange, inexplicable dread, that as he looked,\nhe saw this bell begin to swing. It swung so softly in the outset that\nit scarcely made a sound; but soon it rang out loudly, and so did every\nbell in the house."
+  },
+  {
+   "n": 161,
+   "sfx": [
+    {
+     "key": "chains",
+     "at": "dragging a heavy chain"
+    }
+   ],
+   "para": 94,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "This might have lasted half a minute, or a minute, but it seemed an\nhour. The bells ceased as they had begun, together. They were succeeded\nby a clanking noise, deep down below; as if some person were dragging a\nheavy chain over the casks in the wine-merchant’s cellar. Scrooge\nthen remembered to have heard that ghosts in haunted houses were\ndescribed as dragging chains."
+  },
+  {
+   "n": 162,
+   "sfx": [
+    {
+     "key": "door_heavy",
+     "at": "flew open with a booming"
+    },
+    {
+     "key": "steps_stone",
+     "at": "then coming up the stairs"
+    }
+   ],
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The cellar-door flew open with a booming sound, and then he heard the\nnoise much louder, on the floors below; then coming up the stairs; then\ncoming straight towards his door."
+  },
+  {
+   "n": 163,
+   "para": 96,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“It’s humbug still!”"
+  },
+  {
+   "n": 164,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 165,
+   "para": 96,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I won’t\nbelieve it.”"
+  },
+  {
+   "n": 166,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "His colour changed though, when, without a pause, it came on through the\nheavy door, and passed into the room before his eyes. Upon its coming\nin, the dying flame leaped up, as though it cried,"
+  },
+  {
+   "n": 167,
+   "para": 97,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I know him;\nMarley’s Ghost!”"
+  },
+  {
+   "n": 168,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "and fell again."
+  },
+  {
+   "n": 169,
+   "para": 98,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Marley’s Ghost"
+  },
+  {
+   "n": 170,
+   "para": 99,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The same face: the very same. Marley in his pigtail, usual waistcoat,\ntights and boots; the tassels on the latter bristling, like his pigtail,\nand his coat-skirts, and the hair upon his head. The chain he drew was\nclasped about his middle. It was long, and wound about him like a tail;\nand it was made (for Scrooge observed it closely) of cash-boxes, keys,\npadlocks, ledgers, deeds, and heavy purses wrought in steel. His body\nwas transparent; so that Scrooge, observing him, and looking through his\nwaistcoat, could see the two buttons on his coat behind."
+  },
+  {
+   "n": 171,
+   "para": 100,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge had often heard it said that Marley had no bowels, but he had\nnever believed it until now."
+  },
+  {
+   "n": 172,
+   "para": 101,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "No, nor did he believe it even now. Though he looked the phantom through\nand through, and saw it standing before him; though he felt the chilling\ninfluence of its death-cold eyes; and marked the very texture of the\nfolded kerchief bound about its head and chin, which wrapper he had not\nobserved before; he was still incredulous, and fought against his\nsenses."
+  },
+  {
+   "n": 173,
+   "para": 102,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“How now!”"
+  },
+  {
+   "n": 174,
+   "para": 102,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge, caustic and cold as ever."
+  },
+  {
+   "n": 175,
+   "para": 102,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“What\ndo you want with me?”"
+  },
+  {
+   "n": 176,
+   "para": 103,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Much!”"
+  },
+  {
+   "n": 177,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "—Marley’s voice, no doubt about it."
+  },
+  {
+   "n": 178,
+   "para": 104,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Who are you?”"
+  },
+  {
+   "n": 179,
+   "para": 105,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Ask me who I was .”"
+  },
+  {
+   "n": 180,
+   "para": 106,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Who were you then?”"
+  },
+  {
+   "n": 181,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge, raising his voice."
+  },
+  {
+   "n": 182,
+   "para": 106,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You’re particular, for a shade.”"
+  },
+  {
+   "n": 183,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He was going to say"
+  },
+  {
+   "n": 184,
+   "para": 106,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“ to a shade,”"
+  },
+  {
+   "n": 185,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "but substituted this, as more\nappropriate."
+  },
+  {
+   "n": 186,
+   "para": 107,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“In life I was your partner, Jacob Marley.”"
+  },
+  {
+   "n": 187,
+   "para": 108,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Can you—can you sit down?”"
+  },
+  {
+   "n": 188,
+   "para": 108,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "asked Scrooge, looking\ndoubtfully at him."
+  },
+  {
+   "n": 189,
+   "para": 109,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“I can.”"
+  },
+  {
+   "n": 190,
+   "para": 110,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Do it, then.”"
+  },
+  {
+   "n": 191,
+   "para": 111,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge asked the question, because he didn’t know whether a ghost\nso transparent might find himself in a condition to take a chair; and\nfelt that in the event of its being impossible, it might involve the\nnecessity of an embarrassing explanation. But the ghost sat down on the\nopposite side of the fireplace, as if he were quite used to it."
+  },
+  {
+   "n": 192,
+   "para": 112,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“You don’t believe in me,”"
+  },
+  {
+   "n": 193,
+   "para": 112,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "observed the Ghost."
+  },
+  {
+   "n": 194,
+   "para": 113,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I don’t,”"
+  },
+  {
+   "n": 195,
+   "para": 113,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 196,
+   "para": 114,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“What evidence would you have of my reality beyond that of your\nsenses?”"
+  },
+  {
+   "n": 197,
+   "para": 115,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I don’t know,”"
+  },
+  {
+   "n": 198,
+   "para": 115,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 199,
+   "para": 116,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Why do you doubt your senses?”"
+  },
+  {
+   "n": 200,
+   "para": 117,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Because,”"
+  },
+  {
+   "n": 201,
+   "para": 117,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge,"
+  },
+  {
+   "n": 202,
+   "para": 117,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“a little thing affects them.\nA slight disorder of the stomach makes them cheats. You may be an\nundigested bit of beef, a blot of mustard, a crumb of cheese, a fragment\nof an underdone potato. There’s more of gravy than of grave about\nyou, whatever you are!”"
+  },
+  {
+   "n": 203,
+   "para": 118,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge was not much in the habit of cracking jokes, nor did he feel, in\nhis heart, by any means waggish then. The truth is, that he tried to be\nsmart, as a means of distracting his own attention, and keeping down his\nterror; for the spectre’s voice disturbed the very marrow in his\nbones."
+  },
+  {
+   "n": 204,
+   "para": 119,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "To sit, staring at those fixed glazed eyes, in silence for a moment,\nwould play, Scrooge felt, the very deuce with him. There was something\nvery awful, too, in the spectre’s being provided with an infernal\natmosphere of its own. Scrooge could not feel it himself, but this was\nclearly the case; for though the Ghost sat perfectly motionless, its\nhair, and skirts, and tassels, were still agitated as by the hot vapour\nfrom an oven."
+  },
+  {
+   "n": 205,
+   "para": 120,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You see this toothpick?”"
+  },
+  {
+   "n": 206,
+   "para": 120,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge, returning quickly to\nthe charge, for the reason just assigned; and wishing, though it were\nonly for a second, to divert the vision’s stony gaze from himself."
+  },
+  {
+   "n": 207,
+   "para": 121,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“I do,”"
+  },
+  {
+   "n": 208,
+   "para": 121,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "replied the Ghost."
+  },
+  {
+   "n": 209,
+   "para": 122,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You are not looking at it,”"
+  },
+  {
+   "n": 210,
+   "para": 122,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 211,
+   "para": 123,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“But I see it,”"
+  },
+  {
+   "n": 212,
+   "para": 123,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the Ghost,"
+  },
+  {
+   "n": 213,
+   "para": 123,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“notwithstanding.”"
+  },
+  {
+   "n": 214,
+   "para": 124,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Well!”"
+  },
+  {
+   "n": 215,
+   "para": 124,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Scrooge,"
+  },
+  {
+   "n": 216,
+   "para": 124,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I have but to swallow this,\nand be for the rest of my days persecuted by a legion of goblins, all of\nmy own creation. Humbug, I tell you! humbug!”"
+  },
+  {
+   "n": 217,
+   "sfx": [
+    {
+     "key": "chains",
+     "at": "shook its chain with such a dismal"
+    }
+   ],
+   "para": 125,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "At this the spirit raised a frightful cry, and shook its chain with such\na dismal and appalling noise, that Scrooge held on tight to his chair,\nto save himself from falling in a swoon. But how much greater was his\nhorror, when the phantom taking off the bandage round its head, as if it\nwere too warm to wear indoors, its lower jaw dropped down upon its\nbreast!"
+  },
+  {
+   "n": 218,
+   "para": 126,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge fell upon his knees, and clasped his hands before his face."
+  },
+  {
+   "n": 219,
+   "para": 127,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Mercy!”"
+  },
+  {
+   "n": 220,
+   "para": 127,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he said."
+  },
+  {
+   "n": 221,
+   "para": 127,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Dreadful apparition, why do you\ntrouble me?”"
+  },
+  {
+   "n": 222,
+   "para": 128,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Man of the worldly mind!”"
+  },
+  {
+   "n": 223,
+   "para": 128,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "replied the Ghost,"
+  },
+  {
+   "n": 224,
+   "para": 128,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“do you\nbelieve in me or not?”"
+  },
+  {
+   "n": 225,
+   "para": 129,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I do,”"
+  },
+  {
+   "n": 226,
+   "para": 129,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 227,
+   "para": 129,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I must. But why do spirits walk\nthe earth, and why do they come to me?”"
+  },
+  {
+   "n": 228,
+   "para": 130,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“It is required of every man,”"
+  },
+  {
+   "n": 229,
+   "para": 130,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "the Ghost returned,"
+  },
+  {
+   "n": 230,
+   "para": 130,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“that\nthe spirit within him should walk abroad among his fellowmen, and travel\nfar and wide; and if that spirit goes not forth in life, it is condemned\nto do so after death. It is doomed to wander through the world—oh,\nwoe is me!—and witness what it cannot share, but might have shared\non earth, and turned to happiness!”"
+  },
+  {
+   "n": 231,
+   "sfx": [
+    {
+     "key": "chains",
+     "at": "shook its chain and wrung"
+    }
+   ],
+   "para": 131,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Again the spectre raised a cry, and shook its chain and wrung its\nshadowy hands."
+  },
+  {
+   "n": 232,
+   "para": 132,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You are fettered,”"
+  },
+  {
+   "n": 233,
+   "para": 132,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge, trembling."
+  },
+  {
+   "n": 234,
+   "para": 132,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Tell me\nwhy?”"
+  },
+  {
+   "n": 235,
+   "para": 133,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“I wear the chain I forged in life,”"
+  },
+  {
+   "n": 236,
+   "para": 133,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "replied the Ghost."
+  },
+  {
+   "n": 237,
+   "para": 133,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“I made it link by link, and yard by yard; I girded it on of my\nown free will, and of my own free will I wore it. Is its pattern strange\nto you? ”"
+  },
+  {
+   "n": 238,
+   "para": 134,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge trembled more and more."
+  },
+  {
+   "n": 239,
+   "para": 135,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Or would you know,”"
+  },
+  {
+   "n": 240,
+   "para": 135,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pursued the Ghost,"
+  },
+  {
+   "n": 241,
+   "para": 135,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“the weight\nand length of the strong coil you bear yourself? It was full as heavy\nand as long as this, seven Christmas Eves ago. You have laboured on it,\nsince. It is a ponderous chain!”"
+  },
+  {
+   "n": 242,
+   "para": 136,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge glanced about him on the floor, in the expectation of finding\nhimself surrounded by some fifty or sixty fathoms of iron cable: but he\ncould see nothing."
+  },
+  {
+   "n": 243,
+   "para": 137,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Jacob,”"
+  },
+  {
+   "n": 244,
+   "para": 137,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he said, imploringly."
+  },
+  {
+   "n": 245,
+   "para": 137,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Old Jacob Marley, tell\nme more. Speak comfort to me, Jacob!”"
+  },
+  {
+   "n": 246,
+   "para": 138,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“I have none to give,”"
+  },
+  {
+   "n": 247,
+   "para": 138,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "the Ghost replied."
+  },
+  {
+   "n": 248,
+   "para": 138,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“It comes\nfrom other regions, Ebenezer Scrooge, and is conveyed by other\nministers, to other kinds of men. Nor can I tell you what I would. A\nvery little more is all permitted to me. I cannot rest, I cannot stay, I\ncannot linger anywhere. My spirit never walked beyond our counting-house—mark\nme!—in life my spirit never roved beyond the narrow limits of our\nmoney-changing hole; and weary journeys lie before me!”"
+  },
+  {
+   "n": 249,
+   "para": 139,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was a habit with Scrooge, whenever he became thoughtful, to put his\nhands in his breeches pockets. Pondering on what the Ghost had said, he\ndid so now, but without lifting up his eyes, or getting off his knees."
+  },
+  {
+   "n": 250,
+   "para": 140,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You must have been very slow about it, Jacob,”"
+  },
+  {
+   "n": 251,
+   "para": 140,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge\nobserved, in a business-like manner, though with humility and deference."
+  },
+  {
+   "n": 252,
+   "para": 141,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Slow!”"
+  },
+  {
+   "n": 253,
+   "para": 141,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "the Ghost repeated."
+  },
+  {
+   "n": 254,
+   "para": 142,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Seven years dead,”"
+  },
+  {
+   "n": 255,
+   "para": 142,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "mused Scrooge."
+  },
+  {
+   "n": 256,
+   "para": 142,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“And travelling all\nthe time!”"
+  },
+  {
+   "n": 257,
+   "para": 143,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“The whole time,”"
+  },
+  {
+   "n": 258,
+   "para": 143,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the Ghost."
+  },
+  {
+   "n": 259,
+   "para": 143,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“No rest, no peace.\nIncessant torture of remorse.”"
+  },
+  {
+   "n": 260,
+   "para": 144,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You travel fast?”"
+  },
+  {
+   "n": 261,
+   "para": 144,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 262,
+   "para": 145,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“On the wings of the wind,”"
+  },
+  {
+   "n": 263,
+   "para": 145,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "replied the Ghost."
+  },
+  {
+   "n": 264,
+   "para": 146,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You might have got over a great quantity of ground in seven\nyears,”"
+  },
+  {
+   "n": 265,
+   "para": 146,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 266,
+   "para": 147,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Ghost, on hearing this, set up another cry, and clanked its chain so\nhideously in the dead silence of the night, that the Ward would have\nbeen justified in indicting it for a nuisance."
+  },
+  {
+   "n": 267,
+   "para": 148,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Oh! captive, bound, and double-ironed,”"
+  },
+  {
+   "n": 268,
+   "para": 148,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried the phantom,"
+  },
+  {
+   "n": 269,
+   "para": 148,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“not to know, that ages of incessant labour by immortal creatures,\nfor this earth must pass into eternity before the good of which it is\nsusceptible is all developed. Not to know that any Christian spirit\nworking kindly in its little sphere, whatever it may be, will find its\nmortal life too short for its vast means of usefulness. Not to know that\nno space of regret can make amends for one life’s opportunity\nmisused! Yet such was I! Oh! such was I!”"
+  },
+  {
+   "n": 270,
+   "para": 149,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“But you were always a good man of business, Jacob,”"
+  },
+  {
+   "n": 271,
+   "para": 149,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "faltered Scrooge, who now began to apply this to himself."
+  },
+  {
+   "n": 272,
+   "para": 150,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Business!”"
+  },
+  {
+   "n": 273,
+   "para": 150,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried the Ghost, wringing its hands again."
+  },
+  {
+   "n": 274,
+   "para": 150,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Mankind was my business. The common welfare was my business;\ncharity, mercy, forbearance, and benevolence, were, all, my business.\nThe dealings of my trade were but a drop of water in the comprehensive\nocean of my business!”"
+  },
+  {
+   "n": 275,
+   "para": 151,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It held up its chain at arm’s length, as if that were the cause of\nall its unavailing grief, and flung it heavily upon the ground again."
+  },
+  {
+   "n": 276,
+   "para": 152,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“At this time of the rolling year,”"
+  },
+  {
+   "n": 277,
+   "para": 152,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "the spectre said,"
+  },
+  {
+   "n": 278,
+   "para": 152,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“I suffer most. Why did I walk through crowds of fellow-beings\nwith my eyes turned down, and never raise them to that blessed Star\nwhich led the Wise Men to a poor abode! Were there no poor homes to\nwhich its light would have conducted me! ”"
+  },
+  {
+   "n": 279,
+   "para": 153,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge was very much dismayed to hear the spectre going on at this\nrate, and began to quake exceedingly."
+  },
+  {
+   "n": 280,
+   "para": 154,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Hear me!”"
+  },
+  {
+   "n": 281,
+   "para": 154,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried the Ghost."
+  },
+  {
+   "n": 282,
+   "para": 154,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“My time is nearly gone.”"
+  },
+  {
+   "n": 283,
+   "para": 155,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I will,”"
+  },
+  {
+   "n": 284,
+   "para": 155,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 285,
+   "para": 155,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“But don’t be hard upon\nme! Don’t be flowery, Jacob! Pray!”"
+  },
+  {
+   "n": 286,
+   "para": 156,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“How it is that I appear before you in a shape that you can see, I\nmay not tell. I have sat invisible beside you many and many a day.”"
+  },
+  {
+   "n": 287,
+   "para": 157,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was not an agreeable idea. Scrooge shivered, and wiped the\nperspiration from his brow."
+  },
+  {
+   "n": 288,
+   "para": 158,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“That is no light part of my penance,”"
+  },
+  {
+   "n": 289,
+   "para": 158,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pursued the Ghost."
+  },
+  {
+   "n": 290,
+   "para": 158,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“I am here to-night to warn you, that you have yet a chance and\nhope of escaping my fate. A chance and hope of my procuring, Ebenezer.”"
+  },
+  {
+   "n": 291,
+   "para": 159,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You were always a good friend to me,”"
+  },
+  {
+   "n": 292,
+   "para": 159,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 293,
+   "para": 159,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Thank’ee!”"
+  },
+  {
+   "n": 294,
+   "para": 160,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“You will be haunted,”"
+  },
+  {
+   "n": 295,
+   "para": 160,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "resumed the Ghost,"
+  },
+  {
+   "n": 296,
+   "para": 160,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“by Three\nSpirits.”"
+  },
+  {
+   "n": 297,
+   "para": 161,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge’s countenance fell almost as low as the Ghost’s had\ndone."
+  },
+  {
+   "n": 298,
+   "para": 162,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Is that the chance and hope you mentioned, Jacob?”"
+  },
+  {
+   "n": 299,
+   "para": 162,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he\ndemanded, in a faltering voice."
+  },
+  {
+   "n": 300,
+   "para": 163,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“It is.”"
+  },
+  {
+   "n": 301,
+   "para": 164,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I—I think I’d rather not,”"
+  },
+  {
+   "n": 302,
+   "para": 164,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 303,
+   "para": 165,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Without their visits,”"
+  },
+  {
+   "n": 304,
+   "para": 165,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the Ghost,"
+  },
+  {
+   "n": 305,
+   "para": 165,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“you cannot\nhope to shun the path I tread. Expect the first to-morrow, when the bell\ntolls One.”"
+  },
+  {
+   "n": 306,
+   "para": 166,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Couldn’t I take ’em all at once, and have it over,\nJacob?”"
+  },
+  {
+   "n": 307,
+   "para": 166,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "hinted Scrooge."
+  },
+  {
+   "n": 308,
+   "para": 167,
+   "role": "Marley's Ghost",
+   "cast": "Lucian Freud",
+   "text": "“Expect the second on the next night at the same hour. The third\nupon the next night when the last stroke of Twelve has ceased to\nvibrate. Look to see me no more; and look that, for your own sake, you\nremember what has passed between us!”"
+  },
+  {
+   "n": 309,
+   "para": 168,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When it had said these words, the spectre took its wrapper from the\ntable, and bound it round its head, as before. Scrooge knew this, by the\nsmart sound its teeth made, when the jaws were brought together by the\nbandage. He ventured to raise his eyes again, and found his supernatural\nvisitor confronting him in an erect attitude, with its chain wound over\nand about its arm."
+  },
+  {
+   "n": 310,
+   "para": 169,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The apparition walked backward from him; and at every step it took, the\nwindow raised itself a little, so that when the spectre reached it, it\nwas wide open."
+  },
+  {
+   "n": 311,
+   "para": 170,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It beckoned Scrooge to approach, which he did. When they were within two\npaces of each other, Marley’s Ghost held up its hand, warning him\nto come no nearer. Scrooge stopped."
+  },
+  {
+   "n": 312,
+   "para": 171,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Not so much in obedience, as in surprise and fear: for on the raising of\nthe hand, he became sensible of confused noises in the air; incoherent\nsounds of lamentation and regret; wailings inexpressibly sorrowful and\nself-accusatory. The spectre, after listening for a moment, joined in\nthe mournful dirge; and floated out upon the bleak, dark night."
+  },
+  {
+   "n": 313,
+   "para": 172,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge followed to the window: desperate in his curiosity. He looked\nout."
+  },
+  {
+   "n": 314,
+   "para": 173,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The air was filled with phantoms, wandering hither and thither in\nrestless haste, and moaning as they went. Every one of them wore chains\nlike Marley’s Ghost; some few (they might be guilty governments)\nwere linked together; none were free. Many had been personally known to\nScrooge in their lives. He had been quite familiar with one old ghost,\nin a white waistcoat, with a monstrous iron safe attached to its ankle,\nwho cried piteously at being unable to assist a wretched woman with an\ninfant, whom it saw below, upon a door-step. The misery with them all\nwas, clearly, that they sought to interfere, for good, in human matters,\nand had lost the power for ever."
+  },
+  {
+   "n": 315,
+   "para": 174,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Whether these creatures faded into mist, or mist enshrouded them, he\ncould not tell. But they and their spirit voices faded together; and the\nnight became as it had been when he walked home."
+  },
+  {
+   "n": 316,
+   "para": 175,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge closed the window, and examined the door by which the Ghost had\nentered. It was double-locked, as he had locked it with his own hands,\nand the bolts were undisturbed. He tried to say"
+  },
+  {
+   "n": 317,
+   "para": 175,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Humbug!”"
+  },
+  {
+   "n": 318,
+   "para": 175,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "but stopped at the first syllable. And being, from the emotion he had\nundergone, or the fatigues of the day, or his glimpse of the Invisible\nWorld, or the dull conversation of the Ghost, or the lateness of the\nhour, much in need of repose; went straight to bed, without undressing,\nand fell asleep upon the instant."
+  }
+ ]
+}

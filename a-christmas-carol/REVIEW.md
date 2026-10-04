@@ -1,0 +1,703 @@
+# A Christmas Carol — speech attributions to confirm
+
+Every quotation, with the voice it was given. **Tagged** lines follow Dickens’s own tag (“said Scrooge”). **Inferred** lines are untagged and alternate in a two-handed exchange — read those first. Lines given to the **Narrator** are the minor speakers (the charity gentlemen, Fan, Tiny Tim, the boy, Old Joe’s customers), spoken by Dickens as he spoke them on tour.
+
+NOTE: the library file carries a stray heading — “STAVE FIVE. / The Last of the Spirits” — inside Stave Four, before the grave scene ends. It is skipped here (a heading, not text) and is worth removing from the library file.
+
+## Stave One · Marley’S Ghost
+
+- ¶8 · **Narrator** · “came down”
+- ¶9 · **Narrator** · “My dear Scrooge, how are you? When will you come to see me?”
+- ¶9 · **Narrator** · “No eye at all is better than an evil eye, dark master!”
+- ¶10 · **Narrator** · “nuts”
+- ¶13 · **Fred** · “A merry Christmas, uncle! God save you!”
+- ¶14 · **Ebenezer Scrooge** · “Bah!”
+- ¶14 · **Ebenezer Scrooge** · “Humbug!”
+- ¶16 · **Fred** · “Christmas a humbug, uncle!”
+- ¶16 · **Fred** · “You don’t mean that, I am sure?”
+- ¶17 · **Ebenezer Scrooge** · “I do,”
+- ¶17 · **Ebenezer Scrooge** · “Merry Christmas! What right have you to be merry? What reason have you to be merry? You’re poor …
+- ¶18 · **Fred** · “Come, then,”
+- ¶18 · **Fred** · “What right have you to be dismal? What reason have you to be morose? You’re rich enough.”
+- ¶19 · **Ebenezer Scrooge** · *inferred* · “Bah!”
+- ¶19 · **Ebenezer Scrooge** · *inferred* · “Humbug.”
+- ¶20 · **Fred** · “Don’t be cross, uncle!”
+- ¶21 · **Ebenezer Scrooge** · “What else can I be,”
+- ¶21 · **Ebenezer Scrooge** · “when I live in such a world of fools as this? Merry Christmas! Out upon merry Christmas! What’s …
+- ¶21 · **Ebenezer Scrooge** · “every idiot who goes about with ‘Merry Christmas’ on his lips, should be boiled with his own pud…
+- ¶22 · **Fred** · “Uncle!”
+- ¶23 · **Ebenezer Scrooge** · “Nephew!”
+- ¶23 · **Ebenezer Scrooge** · “keep Christmas in your own way, and let me keep it in mine.”
+- ¶24 · **Fred** · “Keep it!”
+- ¶24 · **Fred** · “But you don’t keep it.”
+- ¶25 · **Ebenezer Scrooge** · “Let me leave it alone, then,”
+- ¶25 · **Ebenezer Scrooge** · “Much good may it do you! Much good it has ever done you!”
+- ¶26 · **Fred** · “There are many things from which I might have derived good, by which I have not profited, I dare…
+- ¶26 · **Fred** · “Christmas among the rest. But I am sure I have always thought of Christmas time, when it has com…
+- ¶28 · **Ebenezer Scrooge** · “Let me hear another sound from you ,”
+- ¶28 · **Ebenezer Scrooge** · “and you’ll keep your Christmas by losing your situation! You’re quite a powerful speaker, sir,”
+- ¶28 · **Ebenezer Scrooge** · “I wonder you don’t go into Parliament.”
+- ¶29 · **Fred** · *inferred* · “Don’t be angry, uncle. Come! Dine with us to-morrow.”
+- ¶31 · **Fred** · “But why?”
+- ¶31 · **Fred** · “Why?”
+- ¶32 · **Ebenezer Scrooge** · “Why did you get married?”
+- ¶33 · **Fred** · *inferred* · “Because I fell in love.”
+- ¶34 · **Ebenezer Scrooge** · “Because you fell in love!”
+- ¶34 · **Ebenezer Scrooge** · “Good afternoon!”
+- ¶35 · **Fred** · *inferred* · “Nay, uncle, but you never came to see me before that happened. Why give it as a reason for not c…
+- ¶36 · **Ebenezer Scrooge** · “Good afternoon,”
+- ¶37 · **Fred** · *inferred* · “I want nothing from you; I ask nothing of you; why cannot we be friends?”
+- ¶38 · **Ebenezer Scrooge** · “Good afternoon,”
+- ¶39 · **Fred** · *inferred* · “I am sorry, with all my heart, to find you so resolute. We have never had any quarrel, to which …
+- ¶40 · **Ebenezer Scrooge** · “Good afternoon!”
+- ¶41 · **Fred** · *inferred* · “And A Happy New Year!”
+- ¶42 · **Ebenezer Scrooge** · “Good afternoon!”
+- ¶44 · **Ebenezer Scrooge** · “There’s another fellow,”
+- ¶44 · **Ebenezer Scrooge** · “my clerk, with fifteen shillings a week, and a wife and family, talking about a merry Christmas.…
+- ¶46 · **Narrator** · “Scrooge and Marley’s, I believe,”
+- ¶46 · **Narrator** · “Have I the pleasure of addressing Mr. Scrooge, or Mr. Marley?”
+- ¶47 · **Ebenezer Scrooge** · “Mr. Marley has been dead these seven years,”
+- ¶47 · **Ebenezer Scrooge** · “He died seven years ago, this very night.”
+- ¶48 · **Narrator** · “We have no doubt his liberality is well represented by his surviving partner,”
+- ¶49 · **Narrator** · “liberality,”
+- ¶50 · **Narrator** · “At this festive season of the year, Mr. Scrooge,”
+- ¶50 · **Narrator** · “it is more than usually desirable that we should make some slight provision for the Poor and des…
+- ¶51 · **Ebenezer Scrooge** · “Are there no prisons?”
+- ¶52 · **Narrator** · “Plenty of prisons,”
+- ¶53 · **Ebenezer Scrooge** · “And the Union workhouses?”
+- ¶53 · **Ebenezer Scrooge** · “Are they still in operation?”
+- ¶54 · **Narrator** · “They are. Still,”
+- ¶54 · **Narrator** · “I wish I could say they were not.”
+- ¶55 · **Ebenezer Scrooge** · “The Treadmill and the Poor Law are in full vigour, then?”
+- ¶56 · **Narrator** · *inferred* · “Both very busy, sir.”
+- ¶57 · **Ebenezer Scrooge** · “Oh! I was afraid, from what you said at first, that something had occurred to stop them in their…
+- ¶57 · **Ebenezer Scrooge** · “I’m very glad to hear it.”
+- ¶58 · **Narrator** · “Under the impression that they scarcely furnish Christian cheer of mind or body to the multitude,”
+- ¶58 · **Narrator** · “a few of us are endeavouring to raise a fund to buy the Poor some meat and drink, and means of w…
+- ¶59 · **Ebenezer Scrooge** · “Nothing!”
+- ¶60 · **Narrator** · *inferred* · “You wish to be anonymous?”
+- ¶61 · **Ebenezer Scrooge** · “I wish to be left alone,”
+- ¶61 · **Ebenezer Scrooge** · “Since you ask me what I wish, gentlemen, that is my answer. I don’t make merry myself at Christm…
+- ¶62 · **Narrator** · *inferred* · “Many can’t go there; and many would rather die.”
+- ¶63 · **Ebenezer Scrooge** · “If they would rather die,”
+- ¶63 · **Ebenezer Scrooge** · “they had better do it, and decrease the surplus population. Besides—excuse me—I don’t know that.”
+- ¶64 · **Narrator** · “But you might know it,”
+- ¶65 · **Ebenezer Scrooge** · “It’s not my business,”
+- ¶65 · **Ebenezer Scrooge** · “It’s enough for a man to understand his own business, and not to interfere with other people’s. …
+- ¶69 · **Narrator** · *inferred* · “God bless you, merry gentleman! May nothing you dismay!”
+- ¶72 · **Ebenezer Scrooge** · “You’ll want all day to-morrow, I suppose?”
+- ¶73 · **Bob Cratchit** · “If quite convenient, sir.”
+- ¶74 · **Ebenezer Scrooge** · “It’s not convenient,”
+- ¶74 · **Ebenezer Scrooge** · “and it’s not fair. If I was to stop half-a-crown for it, you’d think yourself ill-used, I’ll be …
+- ¶76 · **Ebenezer Scrooge** · “And yet,”
+- ¶76 · **Ebenezer Scrooge** · “you don’t think me ill-used, when I pay a day’s wages for no work.”
+- ¶78 · **Ebenezer Scrooge** · “A poor excuse for picking a man’s pocket every twenty-fifth of December!”
+- ¶78 · **Ebenezer Scrooge** · “But I suppose you must have the whole day. Be here all the earlier next morning.”
+- ¶85 · **Ebenezer Scrooge** · “Pooh, pooh!”
+- ¶92 · **Ebenezer Scrooge** · “Humbug!”
+- ¶96 · **Ebenezer Scrooge** · “It’s humbug still!”
+- ¶96 · **Ebenezer Scrooge** · “I won’t believe it.”
+- ¶97 · **Ebenezer Scrooge** · “I know him; Marley’s Ghost!”
+- ¶102 · **Ebenezer Scrooge** · “How now!”
+- ¶102 · **Ebenezer Scrooge** · “What do you want with me?”
+- ¶103 · **Marley's Ghost** · “Much!”
+- ¶104 · **Ebenezer Scrooge** · *inferred* · “Who are you?”
+- ¶105 · **Marley's Ghost** · “Ask me who I was .”
+- ¶106 · **Ebenezer Scrooge** · “Who were you then?”
+- ¶106 · **Ebenezer Scrooge** · “You’re particular, for a shade.”
+- ¶106 · **Ebenezer Scrooge** · “ to a shade,”
+- ¶107 · **Marley's Ghost** · “In life I was your partner, Jacob Marley.”
+- ¶108 · **Ebenezer Scrooge** · “Can you—can you sit down?”
+- ¶109 · **Marley's Ghost** · “I can.”
+- ¶110 · **Ebenezer Scrooge** · *inferred* · “Do it, then.”
+- ¶112 · **Marley's Ghost** · “You don’t believe in me,”
+- ¶113 · **Ebenezer Scrooge** · “I don’t,”
+- ¶114 · **Marley's Ghost** · *inferred* · “What evidence would you have of my reality beyond that of your senses?”
+- ¶115 · **Ebenezer Scrooge** · “I don’t know,”
+- ¶116 · **Marley's Ghost** · *inferred* · “Why do you doubt your senses?”
+- ¶117 · **Ebenezer Scrooge** · “Because,”
+- ¶117 · **Ebenezer Scrooge** · “a little thing affects them. A slight disorder of the stomach makes them cheats. You may be an u…
+- ¶120 · **Ebenezer Scrooge** · “You see this toothpick?”
+- ¶121 · **Marley's Ghost** · “I do,”
+- ¶122 · **Ebenezer Scrooge** · “You are not looking at it,”
+- ¶123 · **Marley's Ghost** · “But I see it,”
+- ¶123 · **Marley's Ghost** · “notwithstanding.”
+- ¶124 · **Ebenezer Scrooge** · “Well!”
+- ¶124 · **Ebenezer Scrooge** · “I have but to swallow this, and be for the rest of my days persecuted by a legion of goblins, al…
+- ¶127 · **Ebenezer Scrooge** · “Mercy!”
+- ¶127 · **Ebenezer Scrooge** · “Dreadful apparition, why do you trouble me?”
+- ¶128 · **Marley's Ghost** · “Man of the worldly mind!”
+- ¶128 · **Marley's Ghost** · “do you believe in me or not?”
+- ¶129 · **Ebenezer Scrooge** · “I do,”
+- ¶129 · **Ebenezer Scrooge** · “I must. But why do spirits walk the earth, and why do they come to me?”
+- ¶130 · **Marley's Ghost** · “It is required of every man,”
+- ¶130 · **Marley's Ghost** · “that the spirit within him should walk abroad among his fellowmen, and travel far and wide; and …
+- ¶132 · **Ebenezer Scrooge** · “You are fettered,”
+- ¶132 · **Ebenezer Scrooge** · “Tell me why?”
+- ¶133 · **Marley's Ghost** · “I wear the chain I forged in life,”
+- ¶133 · **Marley's Ghost** · “I made it link by link, and yard by yard; I girded it on of my own free will, and of my own free…
+- ¶135 · **Marley's Ghost** · “Or would you know,”
+- ¶135 · **Marley's Ghost** · “the weight and length of the strong coil you bear yourself? It was full as heavy and as long as …
+- ¶137 · **Ebenezer Scrooge** · *inferred* · “Jacob,”
+- ¶137 · **Ebenezer Scrooge** · *inferred* · “Old Jacob Marley, tell me more. Speak comfort to me, Jacob!”
+- ¶138 · **Marley's Ghost** · “I have none to give,”
+- ¶138 · **Marley's Ghost** · “It comes from other regions, Ebenezer Scrooge, and is conveyed by other ministers, to other kind…
+- ¶140 · **Ebenezer Scrooge** · “You must have been very slow about it, Jacob,”
+- ¶141 · **Marley's Ghost** · “Slow!”
+- ¶142 · **Ebenezer Scrooge** · “Seven years dead,”
+- ¶142 · **Ebenezer Scrooge** · “And travelling all the time!”
+- ¶143 · **Marley's Ghost** · “The whole time,”
+- ¶143 · **Marley's Ghost** · “No rest, no peace. Incessant torture of remorse.”
+- ¶144 · **Ebenezer Scrooge** · “You travel fast?”
+- ¶145 · **Marley's Ghost** · “On the wings of the wind,”
+- ¶146 · **Ebenezer Scrooge** · “You might have got over a great quantity of ground in seven years,”
+- ¶148 · **Marley's Ghost** · “Oh! captive, bound, and double-ironed,”
+- ¶148 · **Marley's Ghost** · “not to know, that ages of incessant labour by immortal creatures, for this earth must pass into …
+- ¶149 · **Ebenezer Scrooge** · “But you were always a good man of business, Jacob,”
+- ¶150 · **Marley's Ghost** · “Business!”
+- ¶150 · **Marley's Ghost** · “Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and be…
+- ¶152 · **Marley's Ghost** · “At this time of the rolling year,”
+- ¶152 · **Marley's Ghost** · “I suffer most. Why did I walk through crowds of fellow-beings with my eyes turned down, and neve…
+- ¶154 · **Marley's Ghost** · “Hear me!”
+- ¶154 · **Marley's Ghost** · “My time is nearly gone.”
+- ¶155 · **Ebenezer Scrooge** · “I will,”
+- ¶155 · **Ebenezer Scrooge** · “But don’t be hard upon me! Don’t be flowery, Jacob! Pray!”
+- ¶156 · **Marley's Ghost** · *inferred* · “How it is that I appear before you in a shape that you can see, I may not tell. I have sat invis…
+- ¶158 · **Marley's Ghost** · “That is no light part of my penance,”
+- ¶158 · **Marley's Ghost** · “I am here to-night to warn you, that you have yet a chance and hope of escaping my fate. A chanc…
+- ¶159 · **Ebenezer Scrooge** · “You were always a good friend to me,”
+- ¶159 · **Ebenezer Scrooge** · “Thank’ee!”
+- ¶160 · **Marley's Ghost** · “You will be haunted,”
+- ¶160 · **Marley's Ghost** · “by Three Spirits.”
+- ¶162 · **Ebenezer Scrooge** · *inferred* · “Is that the chance and hope you mentioned, Jacob?”
+- ¶163 · **Marley's Ghost** · *inferred* · “It is.”
+- ¶164 · **Ebenezer Scrooge** · “I—I think I’d rather not,”
+- ¶165 · **Marley's Ghost** · “Without their visits,”
+- ¶165 · **Marley's Ghost** · “you cannot hope to shun the path I tread. Expect the first to-morrow, when the bell tolls One.”
+- ¶166 · **Ebenezer Scrooge** · *inferred* · “Couldn’t I take ’em all at once, and have it over, Jacob?”
+- ¶167 · **Marley's Ghost** · *inferred* · “Expect the second on the next night at the same hour. The third upon the next night when the las…
+- ¶175 · **Ebenezer Scrooge** · “Humbug!”
+
+## Stave Two · The First Of The Three Spirits
+
+- ¶181 · **Ebenezer Scrooge** · “Why, it isn’t possible,”
+- ¶181 · **Ebenezer Scrooge** · “that I can have slept through a whole day and far into another night. It isn’t possible that any…
+- ¶182 · **Narrator** · “three days after sight of this First of Exchange pay to Mr. Ebenezer Scrooge or his order,”
+- ¶184 · **Narrator** · “Was it a dream or not?”
+- ¶187 · **Narrator** · “Ding, dong!”
+- ¶188 · **Ebenezer Scrooge** · “A quarter past,”
+- ¶189 · **Narrator** · “Ding, dong!”
+- ¶190 · **Ebenezer Scrooge** · “Half-past!”
+- ¶191 · **Narrator** · “Ding, dong!”
+- ¶192 · **Ebenezer Scrooge** · “A quarter to it,”
+- ¶193 · **Narrator** · “Ding, dong!”
+- ¶194 · **Ebenezer Scrooge** · “The hour itself,”
+- ¶194 · **Ebenezer Scrooge** · “and nothing else!”
+- ¶199 · **Ebenezer Scrooge** · “Are you the Spirit, sir, whose coming was foretold to me?”
+- ¶200 · **The Ghost of Christmas Past** · “I am!”
+- ¶202 · **Ebenezer Scrooge** · “Who, and what are you?”
+- ¶203 · **The Ghost of Christmas Past** · “I am the Ghost of Christmas Past.”
+- ¶204 · **Ebenezer Scrooge** · “Long Past?”
+- ¶205 · **The Ghost of Christmas Past** · “No. Your past.”
+- ¶207 · **The Ghost of Christmas Past** · “What!”
+- ¶207 · **The Ghost of Christmas Past** · “would you so soon put out, with worldly hands, the light I give? Is it not enough that you are o…
+- ¶208 · **Narrator** · “bonneted”
+- ¶209 · **The Ghost of Christmas Past** · “Your welfare!”
+- ¶211 · **The Ghost of Christmas Past** · “Your reclamation, then. Take heed!”
+- ¶213 · **The Ghost of Christmas Past** · *inferred* · “Rise! and walk with me!”
+- ¶215 · **Ebenezer Scrooge** · “I am a mortal,”
+- ¶215 · **Ebenezer Scrooge** · “and liable to fall.”
+- ¶216 · **The Ghost of Christmas Past** · “Bear but a touch of my hand there ,”
+- ¶216 · **The Ghost of Christmas Past** · “and you shall be upheld in more than this!”
+- ¶218 · **Ebenezer Scrooge** · “Good Heaven!”
+- ¶218 · **Ebenezer Scrooge** · “I was bred in this place. I was a boy here!”
+- ¶220 · **The Ghost of Christmas Past** · “Your lip is trembling,”
+- ¶220 · **The Ghost of Christmas Past** · “And what is that upon your cheek?”
+- ¶222 · **The Ghost of Christmas Past** · “You recollect the way?”
+- ¶223 · **Ebenezer Scrooge** · “Remember it!”
+- ¶223 · **Ebenezer Scrooge** · “I could walk it blindfold.”
+- ¶224 · **The Ghost of Christmas Past** · “Strange to have forgotten it for so many years!”
+- ¶224 · **The Ghost of Christmas Past** · “Let us go on.”
+- ¶226 · **The Ghost of Christmas Past** · “These are but shadows of the things that have been,”
+- ¶226 · **The Ghost of Christmas Past** · “They have no consciousness of us.”
+- ¶228 · **The Ghost of Christmas Past** · “The school is not quite deserted,”
+- ¶228 · **The Ghost of Christmas Past** · “A solitary child, neglected by his friends, is left there still.”
+- ¶234 · **Ebenezer Scrooge** · “Why, it’s Ali Baba!”
+- ¶234 · **Ebenezer Scrooge** · “It’s dear old honest Ali Baba! Yes, yes, I know! One Christmas time, when yonder solitary child …
+- ¶234 · **Ebenezer Scrooge** · “and his wild brother, Orson; there they go! And what’s his name, who was put down in his drawers…
+- ¶236 · **Ebenezer Scrooge** · “There’s the Parrot!”
+- ¶236 · **Ebenezer Scrooge** · “Green body and yellow tail, with a thing like a lettuce growing out of the top of his head; ther…
+- ¶237 · **Ebenezer Scrooge** · “Poor boy!”
+- ¶238 · **Ebenezer Scrooge** · “I wish,”
+- ¶238 · **Ebenezer Scrooge** · “but it’s too late now.”
+- ¶239 · **The Ghost of Christmas Past** · “What is the matter?”
+- ¶240 · **Ebenezer Scrooge** · “Nothing,”
+- ¶240 · **Ebenezer Scrooge** · “Nothing. There was a boy singing a Christmas Carol at my door last night. I should like to have …
+- ¶241 · **The Ghost of Christmas Past** · *inferred* · “Let us see another Christmas!”
+- ¶244 · **Narrator** · “Dear, dear brother.”
+- ¶245 · **Narrator** · “I have come to bring you home, dear brother!”
+- ¶245 · **Narrator** · “To bring you home, home, home!”
+- ¶246 · **Narrator** · “Home, little Fan?”
+- ¶247 · **Narrator** · “Yes!”
+- ¶247 · **Narrator** · “Home, for good and all. Home, for ever and ever. Father is so much kinder than he used to be, th…
+- ¶247 · **Narrator** · “and are never to come back here; but first, we’re to be together all the Christmas long, and hav…
+- ¶248 · **Narrator** · “You are quite a woman, little Fan!”
+- ¶250 · **Narrator** · “Bring down Master Scrooge’s box, there!”
+- ¶250 · **Narrator** · “something”
+- ¶251 · **The Ghost of Christmas Past** · “Always a delicate creature, whom a breath might have withered,”
+- ¶251 · **The Ghost of Christmas Past** · “But she had a large heart!”
+- ¶252 · **Ebenezer Scrooge** · “So she had,”
+- ¶252 · **Ebenezer Scrooge** · “You’re right. I will not gainsay it, Spirit. God forbid!”
+- ¶253 · **The Ghost of Christmas Past** · “She died a woman,”
+- ¶253 · **The Ghost of Christmas Past** · “and had, as I think, children.”
+- ¶254 · **Ebenezer Scrooge** · “One child,”
+- ¶255 · **The Ghost of Christmas Past** · “True,”
+- ¶255 · **The Ghost of Christmas Past** · “Your nephew!”
+- ¶256 · **Ebenezer Scrooge** · *inferred* · “Yes.”
+- ¶259 · **Ebenezer Scrooge** · “Know it!”
+- ¶259 · **Ebenezer Scrooge** · “Was I apprenticed here!”
+- ¶261 · **Ebenezer Scrooge** · “Why, it’s old Fezziwig! Bless his heart; it’s Fezziwig alive again!”
+- ¶263 · **Mr Fezziwig** · “Yo ho, there! Ebenezer! Dick!”
+- ¶265 · **Ebenezer Scrooge** · “Dick Wilkins, to be sure!”
+- ¶265 · **Ebenezer Scrooge** · “Bless me, yes. There he is. He was very much attached to me, was Dick. Poor Dick! Dear, dear!”
+- ¶266 · **Mr Fezziwig** · “Yo ho, my boys!”
+- ¶266 · **Mr Fezziwig** · “No more work to-night. Christmas Eve, Dick. Christmas, Ebenezer! Let’s have the shutters up,”
+- ¶266 · **Mr Fezziwig** · “before a man can say Jack Robinson!”
+- ¶268 · **Mr Fezziwig** · “Hilli-ho!”
+- ¶268 · **Mr Fezziwig** · “Clear away, my lads, and let’s have lots of room here! Hilli-ho, Dick! Chirrup, Ebenezer!”
+- ¶270 · **Mr Fezziwig** · “Well done!”
+- ¶271 · **Narrator** · “Sir Roger de Coverley.”
+- ¶273 · **Narrator** · “cut”
+- ¶276 · **The Ghost of Christmas Past** · “A small matter,”
+- ¶276 · **The Ghost of Christmas Past** · “to make these silly folks so full of gratitude.”
+- ¶277 · **Ebenezer Scrooge** · “Small!”
+- ¶279 · **The Ghost of Christmas Past** · *inferred* · “Why! Is it not? He has spent but a few pounds of your mortal money: three or four perhaps. Is th…
+- ¶280 · **Ebenezer Scrooge** · “It isn’t that,”
+- ¶280 · **Ebenezer Scrooge** · “It isn’t that, Spirit. He has the power to render us happy or unhappy; to make our service light…
+- ¶282 · **The Ghost of Christmas Past** · “What is the matter?”
+- ¶283 · **Ebenezer Scrooge** · “Nothing particular,”
+- ¶284 · **The Ghost of Christmas Past** · *inferred* · “Something, I think?”
+- ¶285 · **Ebenezer Scrooge** · “No,”
+- ¶285 · **Ebenezer Scrooge** · “No. I should like to be able to say a word or two to my clerk just now. That’s all.”
+- ¶287 · **The Ghost of Christmas Past** · “My time grows short,”
+- ¶287 · **The Ghost of Christmas Past** · “Quick!”
+- ¶290 · **Belle** · “It matters little,”
+- ¶290 · **Belle** · “To you, very little. Another idol has displaced me; and if it can cheer and comfort you in time …
+- ¶291 · **Ebenezer Scrooge** · “What Idol has displaced you?”
+- ¶292 · **Belle** · “A golden one.”
+- ¶293 · **Ebenezer Scrooge** · “This is the even-handed dealing of the world!”
+- ¶293 · **Ebenezer Scrooge** · “There is nothing on which it is so hard as poverty; and there is nothing it professes to condemn…
+- ¶294 · **Belle** · “You fear the world too much,”
+- ¶294 · **Belle** · “All your other hopes have merged into the hope of being beyond the chance of its sordid reproach…
+- ¶295 · **Ebenezer Scrooge** · “What then?”
+- ¶295 · **Ebenezer Scrooge** · “Even if I have grown so much wiser, what then? I am not changed towards you.”
+- ¶297 · **Ebenezer Scrooge** · “Am I?”
+- ¶298 · **Belle** · “Our contract is an old one. It was made when we were both poor and content to be so, until, in g…
+- ¶299 · **Ebenezer Scrooge** · “I was a boy,”
+- ¶300 · **Belle** · “Your own feeling tells you that you were not what you are,”
+- ¶300 · **Belle** · “I am. That which promised happiness when we were one in heart, is fraught with misery now that w…
+- ¶301 · **Ebenezer Scrooge** · “Have I ever sought release?”
+- ¶302 · **Belle** · “In words. No. Never.”
+- ¶303 · **Ebenezer Scrooge** · “In what, then?”
+- ¶304 · **Belle** · “In a changed nature; in an altered spirit; in another atmosphere of life; another Hope as its gr…
+- ¶304 · **Belle** · “tell me, would you seek me out and try to win me now? Ah, no!”
+- ¶305 · **Ebenezer Scrooge** · “You think not.”
+- ¶306 · **Belle** · “I would gladly think otherwise if I could,”
+- ¶306 · **Belle** · “Heaven knows! When I have learned a Truth like this, I know how strong and irresistible it must …
+- ¶308 · **Belle** · “You may—the memory of what is past half makes me hope you will—have pain in this. A very, very b…
+- ¶310 · **Ebenezer Scrooge** · “Spirit!”
+- ¶310 · **Ebenezer Scrooge** · “show me no more! Conduct me home. Why do you delight to torture me?”
+- ¶311 · **The Ghost of Christmas Past** · “One shadow more!”
+- ¶312 · **Ebenezer Scrooge** · “No more!”
+- ¶312 · **Ebenezer Scrooge** · “No more. I don’t wish to see it. Show me no more!”
+- ¶317 · **Narrator** · “Belle,”
+- ¶317 · **Narrator** · “I saw an old friend of yours this afternoon.”
+- ¶318 · **Belle** · “Who was it?”
+- ¶319 · **Narrator** · “Guess!”
+- ¶320 · **Belle** · “How can I? Tut, don’t I know?”
+- ¶320 · **Belle** · “Mr. Scrooge.”
+- ¶321 · **Narrator** · “Mr. Scrooge it was. I passed his office window; and as it was not shut up, and he had a candle i…
+- ¶322 · **Ebenezer Scrooge** · “Spirit!”
+- ¶322 · **Ebenezer Scrooge** · “remove me from this place.”
+- ¶323 · **The Ghost of Christmas Past** · “I told you these were shadows of the things that have been,”
+- ¶323 · **The Ghost of Christmas Past** · “That they are what they are, do not blame me!”
+- ¶324 · **Ebenezer Scrooge** · “Remove me!”
+- ¶324 · **Ebenezer Scrooge** · “I cannot bear it!”
+- ¶326 · **Ebenezer Scrooge** · “Leave me! Take me back. Haunt me no longer!”
+
+## Stave Three · The Second Of The Three Spirits
+
+- ¶337 · **The Ghost of Christmas Present** · “Come in!”
+- ¶337 · **The Ghost of Christmas Present** · “Come in! and know me better, man!”
+- ¶339 · **The Ghost of Christmas Present** · “I am the Ghost of Christmas Present,”
+- ¶339 · **The Ghost of Christmas Present** · “Look upon me!”
+- ¶342 · **The Ghost of Christmas Present** · “You have never seen the like of me before!”
+- ¶343 · **Ebenezer Scrooge** · “Never,”
+- ¶344 · **The Ghost of Christmas Present** · “Have never walked forth with the younger members of my family; meaning (for I am very young) my …
+- ¶345 · **Ebenezer Scrooge** · “I don’t think I have,”
+- ¶345 · **Ebenezer Scrooge** · “I am afraid I have not. Have you had many brothers, Spirit?”
+- ¶346 · **The Ghost of Christmas Present** · “More than eighteen hundred,”
+- ¶347 · **Ebenezer Scrooge** · “A tremendous family to provide for!”
+- ¶349 · **Ebenezer Scrooge** · “Spirit,”
+- ¶349 · **Ebenezer Scrooge** · “conduct me where you will. I went forth last night on compulsion, and I learnt a lesson which is…
+- ¶350 · **The Ghost of Christmas Present** · *inferred* · “Touch my robe!”
+- ¶358 · **Ebenezer Scrooge** · “Is there a peculiar flavour in what you sprinkle from your torch?”
+- ¶359 · **The Ghost of Christmas Present** · *inferred* · “There is. My own.”
+- ¶360 · **Ebenezer Scrooge** · “Would it apply to any kind of dinner on this day?”
+- ¶361 · **The Ghost of Christmas Present** · *inferred* · “To any kindly given. To a poor one most.”
+- ¶362 · **Ebenezer Scrooge** · “Why to a poor one most?”
+- ¶363 · **The Ghost of Christmas Present** · *inferred* · “Because it needs it most.”
+- ¶364 · **Ebenezer Scrooge** · “Spirit,”
+- ¶364 · **Ebenezer Scrooge** · “I wonder you, of all the beings in the many worlds about us, should desire to cramp these people…
+- ¶365 · **The Ghost of Christmas Present** · “I!”
+- ¶366 · **Ebenezer Scrooge** · “You would deprive them of their means of dining every seventh day, often the only day on which t…
+- ¶366 · **Ebenezer Scrooge** · “Wouldn’t you?”
+- ¶367 · **The Ghost of Christmas Present** · “I!”
+- ¶368 · **Ebenezer Scrooge** · “You seek to close these places on the Seventh Day?”
+- ¶368 · **Ebenezer Scrooge** · “And it comes to the same thing.”
+- ¶369 · **The Ghost of Christmas Present** · “ I seek!”
+- ¶370 · **Ebenezer Scrooge** · “Forgive me if I am wrong. It has been done in your name, or at least in that of your family,”
+- ¶371 · **The Ghost of Christmas Present** · “There are some upon this earth of yours,”
+- ¶371 · **The Ghost of Christmas Present** · “who lay claim to know us, and who do their deeds of passion, pride, ill-will, hatred, envy, bigo…
+- ¶373 · **Narrator** · “Bob”
+- ¶375 · **Mrs Cratchit** · “What has ever got your precious father then?”
+- ¶375 · **Mrs Cratchit** · “And your brother, Tiny Tim! And Martha warn’t as late last Christmas Day by half-an-hour?”
+- ¶376 · **Narrator** · “Here’s Martha, mother!”
+- ¶377 · **Narrator** · “Here’s Martha, mother!”
+- ¶377 · **Narrator** · “Hurrah! There’s such a goose, Martha!”
+- ¶378 · **Mrs Cratchit** · “Why, bless your heart alive, my dear, how late you are!”
+- ¶379 · **Narrator** · “We’d a deal of work to finish up last night,”
+- ¶379 · **Narrator** · “and had to clear away this morning, mother!”
+- ¶380 · **Mrs Cratchit** · “Well! Never mind so long as you are come,”
+- ¶380 · **Mrs Cratchit** · “Sit ye down before the fire, my dear, and have a warm, Lord bless ye!”
+- ¶381 · **Narrator** · “No, no! There’s father coming,”
+- ¶381 · **Narrator** · “Hide, Martha, hide!”
+- ¶383 · **Bob Cratchit** · “Why, where’s our Martha?”
+- ¶384 · **Mrs Cratchit** · “Not coming,”
+- ¶385 · **Bob Cratchit** · “Not coming!”
+- ¶385 · **Bob Cratchit** · “Not coming upon Christmas Day!”
+- ¶387 · **Mrs Cratchit** · “And how did little Tim behave?”
+- ¶388 · **Bob Cratchit** · “As good as gold,”
+- ¶388 · **Bob Cratchit** · “and better. Somehow he gets thoughtful, sitting by himself so much, and thinks the strangest thi…
+- ¶398 · **Bob Cratchit** · “A Merry Christmas to us all, my dears. God bless us!”
+- ¶400 · **Narrator** · “God bless us every one!”
+- ¶402 · **Ebenezer Scrooge** · “Spirit,”
+- ¶402 · **Ebenezer Scrooge** · “tell me if Tiny Tim will live.”
+- ¶403 · **The Ghost of Christmas Present** · “I see a vacant seat,”
+- ¶403 · **The Ghost of Christmas Present** · “in the poor chimney-corner, and a crutch without an owner, carefully preserved. If these shadows…
+- ¶404 · **Ebenezer Scrooge** · “No, no,”
+- ¶404 · **Ebenezer Scrooge** · “Oh, no, kind Spirit! say he will be spared.”
+- ¶405 · **The Ghost of Christmas Present** · “If these shadows remain unaltered by the Future, none other of my race,”
+- ¶405 · **The Ghost of Christmas Present** · “will find him here. What then? If he be like to die, he had better do it, and decrease the surpl…
+- ¶407 · **The Ghost of Christmas Present** · “Man,”
+- ¶407 · **The Ghost of Christmas Present** · “if man you be in heart, not adamant, forbear that wicked cant until you have discovered What the…
+- ¶409 · **Bob Cratchit** · “Mr. Scrooge!”
+- ¶409 · **Bob Cratchit** · “I’ll give you Mr. Scrooge, the Founder of the Feast!”
+- ¶410 · **Mrs Cratchit** · “The Founder of the Feast indeed!”
+- ¶410 · **Mrs Cratchit** · “I wish I had him here. I’d give him a piece of my mind to feast upon, and I hope he’d have a goo…
+- ¶411 · **Bob Cratchit** · “My dear,”
+- ¶411 · **Bob Cratchit** · “the children! Christmas Day.”
+- ¶412 · **Mrs Cratchit** · *inferred* · “It should be Christmas Day, I am sure,”
+- ¶412 · **Mrs Cratchit** · *inferred* · “on which one drinks the health of such an odious, stingy, hard, unfeeling man as Mr. Scrooge. Yo…
+- ¶413 · **Bob Cratchit** · *inferred* · “My dear,”
+- ¶413 · **Bob Cratchit** · *inferred* · “Christmas Day.”
+- ¶414 · **Mrs Cratchit** · “I’ll drink his health for your sake and the Day’s,”
+- ¶414 · **Mrs Cratchit** · “not for his. Long life to him! A merry Christmas and a happy new year! He’ll be very merry and v…
+- ¶416 · **Narrator** · “was much about as tall as Peter;”
+- ¶421 · **Ebenezer Scrooge** · “What place is this?”
+- ¶422 · **The Ghost of Christmas Present** · “A place where Miners live, who labour in the bowels of the earth,”
+- ¶422 · **The Ghost of Christmas Present** · “But they know me. See!”
+- ¶429 · **Fred** · “Ha, ha!”
+- ¶429 · **Fred** · “Ha, ha, ha!”
+- ¶432 · **Fred** · “Ha, ha! Ha, ha, ha, ha!”
+- ¶433 · **Fred** · “He said that Christmas was a humbug, as I live!”
+- ¶433 · **Fred** · “He believed it too!”
+- ¶434 · **Narrator** · “More shame for him, Fred!”
+- ¶436 · **Fred** · “He’s a comical old fellow,”
+- ¶436 · **Fred** · “that’s the truth: and not so pleasant as he might be. However, his offences carry their own puni…
+- ¶437 · **Narrator** · *inferred* · “I’m sure he is very rich, Fred,”
+- ¶437 · **Narrator** · *inferred* · “At least you always tell me so.”
+- ¶438 · **Fred** · “What of that, my dear!”
+- ¶438 · **Fred** · “His wealth is of no use to him. He don’t do any good with it. He don’t make himself comfortable …
+- ¶439 · **Narrator** · “I have no patience with him,”
+- ¶440 · **Fred** · “Oh, I have!”
+- ¶440 · **Fred** · “I am sorry for him; I couldn’t be angry with him if I tried. Who suffers by his ill whims! Himse…
+- ¶441 · **Narrator** · “Indeed, I think he loses a very good dinner,”
+- ¶442 · **Fred** · “Well! I’m very glad to hear it,”
+- ¶442 · **Fred** · “because I haven’t great faith in these young housekeepers. What do you say, Topper?”
+- ¶444 · **Narrator** · “Do go on, Fred,”
+- ¶444 · **Narrator** · “He never finishes what he begins to say! He is such a ridiculous fellow!”
+- ¶446 · **Fred** · “I was only going to say,”
+- ¶446 · **Fred** · “that the consequence of his taking a dislike to us, and not making merry with us, is, as I think…
+- ¶452 · **Ebenezer Scrooge** · “Here is a new game,”
+- ¶452 · **Ebenezer Scrooge** · “One half hour, Spirit, only one!”
+- ¶454 · **Narrator** · “I have found it out! I know what it is, Fred! I know what it is!”
+- ¶455 · **Fred** · “What is it?”
+- ¶456 · **Narrator** · “It’s your Uncle Scro-o-o-o-oge!”
+- ¶457 · **Narrator** · “Is it a bear?”
+- ¶457 · **Narrator** · “Yes;”
+- ¶458 · **Fred** · “He has given us plenty of merriment, I am sure,”
+- ¶458 · **Fred** · “and it would be ungrateful not to drink his health. Here is a glass of mulled wine ready to our …
+- ¶459 · **Narrator** · “Well! Uncle Scrooge!”
+- ¶460 · **Fred** · “A Merry Christmas and a Happy New Year to the old man, whatever he is!”
+- ¶460 · **Fred** · “He wouldn’t take it from me, but may he have it, nevertheless. Uncle Scrooge!”
+- ¶464 · **Ebenezer Scrooge** · “Are spirits’ lives so short?”
+- ¶465 · **The Ghost of Christmas Present** · “My life upon this globe, is very brief,”
+- ¶465 · **The Ghost of Christmas Present** · “It ends to-night.”
+- ¶466 · **Ebenezer Scrooge** · “To-night!”
+- ¶467 · **The Ghost of Christmas Present** · *inferred* · “To-night at midnight. Hark! The time is drawing near.”
+- ¶469 · **Ebenezer Scrooge** · “Forgive me if I am not justified in what I ask,”
+- ¶469 · **Ebenezer Scrooge** · “but I see something strange, and not belonging to yourself, protruding from your skirts. Is it a…
+- ¶470 · **The Ghost of Christmas Present** · *inferred* · “It might be a claw, for the flesh there is upon it,”
+- ¶470 · **The Ghost of Christmas Present** · *inferred* · “Look here.”
+- ¶472 · **The Ghost of Christmas Present** · “Oh, Man! look here. Look, look, down here!”
+- ¶475 · **Ebenezer Scrooge** · *inferred* · “Spirit! are they yours?”
+- ¶476 · **The Ghost of Christmas Present** · “They are Man’s,”
+- ¶476 · **The Ghost of Christmas Present** · “And they cling to me, appealing from their fathers. This boy is Ignorance. This girl is Want. Be…
+- ¶476 · **The Ghost of Christmas Present** · “Slander those who tell it ye! Admit it for your factious purposes, and make it worse. And bide t…
+- ¶477 · **Ebenezer Scrooge** · “Have they no refuge or resource?”
+- ¶478 · **The Ghost of Christmas Present** · “Are there no prisons?”
+- ¶478 · **The Ghost of Christmas Present** · “Are there no workhouses?”
+
+## Stave Four · The Last Of The Spirits
+
+- ¶486 · **Ebenezer Scrooge** · “I am in the presence of the Ghost of Christmas Yet To Come?”
+- ¶488 · **Ebenezer Scrooge** · “You are about to show me shadows of the things that have not happened, but will happen in the ti…
+- ¶488 · **Ebenezer Scrooge** · “Is that so, Spirit?”
+- ¶492 · **Ebenezer Scrooge** · “Ghost of the Future!”
+- ¶492 · **Ebenezer Scrooge** · “I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and a…
+- ¶494 · **Ebenezer Scrooge** · “Lead on!”
+- ¶494 · **Ebenezer Scrooge** · “Lead on! The night is waning fast, and it is precious time to me, I know. Lead on, Spirit!”
+- ¶498 · **Narrator** · “No,”
+- ¶498 · **Narrator** · “I don’t know much about it, either way. I only know he’s dead.”
+- ¶499 · **Narrator** · “When did he die?”
+- ¶500 · **Narrator** · *inferred* · “Last night, I believe.”
+- ¶501 · **Narrator** · “Why, what was the matter with him?”
+- ¶501 · **Narrator** · “I thought he’d never die.”
+- ¶502 · **Narrator** · “God knows,”
+- ¶503 · **Narrator** · “What has he done with his money?”
+- ¶504 · **Narrator** · “I haven’t heard,”
+- ¶504 · **Narrator** · “Left it to his company, perhaps. He hasn’t left it to me . That’s all I know.”
+- ¶506 · **Narrator** · “It’s likely to be a very cheap funeral,”
+- ¶506 · **Narrator** · “for upon my life I don’t know of anybody to go to it. Suppose we make up a party and volunteer?”
+- ¶507 · **Narrator** · “I don’t mind going if a lunch is provided,”
+- ¶507 · **Narrator** · “But I must be fed, if I make one.”
+- ¶509 · **Narrator** · “Well, I am the most disinterested among you, after all,”
+- ¶509 · **Narrator** · “for I never wear black gloves, and I never eat lunch. But I’ll offer to go, if anybody else will…
+- ¶513 · **Narrator** · “How are you?”
+- ¶514 · **Narrator** · *inferred* · “How are you?”
+- ¶515 · **Narrator** · “Well!”
+- ¶515 · **Narrator** · “Old Scratch has got his own at last, hey?”
+- ¶516 · **Narrator** · “So I am told,”
+- ¶516 · **Narrator** · “Cold, isn’t it?”
+- ¶517 · **Narrator** · “Seasonable for Christmas time. You’re not a skater, I suppose?”
+- ¶518 · **Narrator** · *inferred* · “No. No. Something else to think of. Good morning!”
+- ¶526 · **Narrator** · “Let the charwoman alone to be the first!”
+- ¶526 · **Narrator** · “Let the laundress alone to be the second; and let the undertaker’s man alone to be the third. Lo…
+- ¶527 · **Narrator** · “You couldn’t have met in a better place,”
+- ¶527 · **Narrator** · “Come into the parlour. You were made free of it long ago, you know; and the other two an’t stran…
+- ¶530 · **Narrator** · “What odds then! What odds, Mrs. Dilber?”
+- ¶530 · **Narrator** · “Every person has a right to take care of themselves. He always did.”
+- ¶531 · **Narrator** · “That’s true, indeed!”
+- ¶531 · **Narrator** · “No man more so.”
+- ¶532 · **Narrator** · “Why then, don’t stand staring as if you was afraid, woman; who’s the wiser? We’re not going to p…
+- ¶533 · **Narrator** · “No, indeed!”
+- ¶533 · **Narrator** · “We should hope not.”
+- ¶534 · **Narrator** · “Very well, then!”
+- ¶534 · **Narrator** · “That’s enough. Who’s the worse for the loss of a few things like these? Not a dead man, I suppose.”
+- ¶535 · **Narrator** · “No, indeed,”
+- ¶536 · **Narrator** · “If he wanted to keep ’em after he was dead, a wicked old screw,”
+- ¶536 · **Narrator** · “why wasn’t he natural in his lifetime? If he had been, he’d have had somebody to look after him …
+- ¶537 · **Narrator** · “It’s the truest word that ever was spoke,”
+- ¶537 · **Narrator** · “It’s a judgment on him.”
+- ¶538 · **Narrator** · “I wish it was a little heavier judgment,”
+- ¶538 · **Narrator** · “and it should have been, you may depend upon it, if I could have laid my hands on anything else.…
+- ¶540 · **Narrator** · “That’s your account,”
+- ¶540 · **Narrator** · “and I wouldn’t give another sixpence, if I was to be boiled for not doing it. Who’s next?”
+- ¶542 · **Narrator** · “I always give too much to ladies. It’s a weakness of mine, and that’s the way I ruin myself,”
+- ¶542 · **Narrator** · “That’s your account. If you asked me for another penny, and made it an open question, I’d repent…
+- ¶543 · **Narrator** · “And now undo my bundle, Joe,”
+- ¶545 · **Narrator** · “What do you call this?”
+- ¶545 · **Narrator** · “Bed-curtains!”
+- ¶546 · **Narrator** · “Ah!”
+- ¶546 · **Narrator** · “Bed-curtains!”
+- ¶547 · **Narrator** · “You don’t mean to say you took ’em down, rings and all, with him lying there?”
+- ¶548 · **Narrator** · “Yes I do,”
+- ¶548 · **Narrator** · “Why not?”
+- ¶549 · **Narrator** · “You were born to make your fortune,”
+- ¶549 · **Narrator** · “and you’ll certainly do it.”
+- ¶550 · **Narrator** · “I certainly shan’t hold my hand, when I can get anything in it by reaching it out, for the sake …
+- ¶550 · **Narrator** · “Don’t drop that oil upon the blankets, now.”
+- ¶551 · **Narrator** · “His blankets?”
+- ¶552 · **Narrator** · “Whose else’s do you think?”
+- ¶552 · **Narrator** · “He isn’t likely to take cold without ’em, I dare say.”
+- ¶553 · **Narrator** · “I hope he didn’t die of anything catching? Eh?”
+- ¶554 · **Narrator** · “Don’t you be afraid of that,”
+- ¶554 · **Narrator** · “I an’t so fond of his company that I’d loiter about him for such things, if he did. Ah! you may …
+- ¶555 · **Narrator** · “What do you call wasting of it?”
+- ¶556 · **Narrator** · “Putting it on him to be buried in, to be sure,”
+- ¶556 · **Narrator** · “Somebody was fool enough to do it, but I took it off again. If calico an’t good enough for such …
+- ¶558 · **Narrator** · “Ha, ha!”
+- ¶558 · **Narrator** · “This is the end of it, you see! He frightened every one away from him when he was alive, to prof…
+- ¶559 · **Ebenezer Scrooge** · “Spirit!”
+- ¶559 · **Ebenezer Scrooge** · “I see, I see. The case of this unhappy man might be my own. My life tends that way, now. Mercifu…
+- ¶566 · **Ebenezer Scrooge** · “Spirit!”
+- ¶566 · **Ebenezer Scrooge** · “this is a fearful place. In leaving it, I shall not leave its lesson, trust me. Let us go!”
+- ¶568 · **Ebenezer Scrooge** · “I understand you,”
+- ¶568 · **Ebenezer Scrooge** · “and I would do it, if I could. But I have not the power, Spirit. I have not the power.”
+- ¶570 · **Ebenezer Scrooge** · “If there is any person in the town, who feels emotion caused by this man’s death,”
+- ¶570 · **Ebenezer Scrooge** · “show that person to me, Spirit, I beseech you!”
+- ¶575 · **Narrator** · “Is it good?”
+- ¶575 · **Narrator** · “or bad?”
+- ¶576 · **Narrator** · “Bad,”
+- ¶577 · **Narrator** · “We are quite ruined?”
+- ¶578 · **Narrator** · “No. There is hope yet, Caroline.”
+- ¶579 · **Narrator** · “If he relents,”
+- ¶579 · **Narrator** · “there is! Nothing is past hope, if such a miracle has happened.”
+- ¶580 · **Narrator** · “He is past relenting,”
+- ¶580 · **Narrator** · “He is dead.”
+- ¶582 · **Narrator** · “What the half-drunken woman whom I told you of last night, said to me, when I tried to see him a…
+- ¶583 · **Narrator** · “To whom will our debt be transferred?”
+- ¶584 · **Narrator** · “I don’t know. But before that time we shall be ready with the money; and even though we were not…
+- ¶586 · **Ebenezer Scrooge** · “Let me see some tenderness connected with a death,”
+- ¶586 · **Ebenezer Scrooge** · “or that dark chamber, Spirit, which we left just now, will be for ever present to me.”
+- ¶589 · **Narrator** · “ ‘And He took a child, and set him in the midst of them.’ ”
+- ¶592 · **Mrs Cratchit** · “The colour hurts my eyes,”
+- ¶594 · **Mrs Cratchit** · “They’re better now again,”
+- ¶594 · **Mrs Cratchit** · “It makes them weak by candle-light; and I wouldn’t show weak eyes to your father when he comes h…
+- ¶595 · **Narrator** · “Past it rather,”
+- ¶595 · **Narrator** · “But I think he has walked a little slower than he used, these few last evenings, mother.”
+- ¶597 · **Mrs Cratchit** · “I have known him walk with—I have known him walk with Tiny Tim upon his shoulder, very fast inde…
+- ¶598 · **Narrator** · “And so have I,”
+- ¶598 · **Narrator** · “Often.”
+- ¶599 · **Narrator** · “And so have I,”
+- ¶600 · **Mrs Cratchit** · “But he was very light to carry,”
+- ¶600 · **Mrs Cratchit** · “and his father loved him so, that it was no trouble: no trouble. And there is your father at the…
+- ¶601 · **Narrator** · “Don’t mind it, father. Don’t be grieved!”
+- ¶603 · **Mrs Cratchit** · “Sunday! You went to-day, then, Robert?”
+- ¶604 · **Bob Cratchit** · “Yes, my dear,”
+- ¶604 · **Bob Cratchit** · “I wish you could have gone. It would have done you good to see how green a place it is. But you’…
+- ¶604 · **Bob Cratchit** · “My little child!”
+- ¶607 · **Bob Cratchit** · “just a little down you know,”
+- ¶607 · **Bob Cratchit** · “On which,”
+- ¶607 · **Bob Cratchit** · “for he is the pleasantest-spoken gentleman you ever heard, I told him. ‘I am heartily sorry for …
+- ¶608 · **Mrs Cratchit** · “Knew what, my dear?”
+- ¶609 · **Bob Cratchit** · “Why, that you were a good wife,”
+- ¶610 · **Narrator** · “Everybody knows that!”
+- ¶611 · **Bob Cratchit** · “Very well observed, my boy!”
+- ¶611 · **Bob Cratchit** · “I hope they do. ‘Heartily sorry,’ he said, ‘for your good wife. If I can be of service to you in…
+- ¶611 · **Bob Cratchit** · “for the sake of anything he might be able to do for us, so much as for his kind way, that this w…
+- ¶612 · **Mrs Cratchit** · “I’m sure he’s a good soul!”
+- ¶613 · **Bob Cratchit** · “You would be surer of it, my dear,”
+- ¶613 · **Bob Cratchit** · “if you saw and spoke to him. I shouldn’t be at all surprised—mark what I say!—if he got Peter a …
+- ¶614 · **Mrs Cratchit** · “Only hear that, Peter,”
+- ¶615 · **Narrator** · “And then,”
+- ¶615 · **Narrator** · “Peter will be keeping company with some one, and setting up for himself.”
+- ¶616 · **Narrator** · “Get along with you!”
+- ¶617 · **Bob Cratchit** · “It’s just as likely as not,”
+- ¶617 · **Bob Cratchit** · “one of these days; though there’s plenty of time for that, my dear. But however and whenever we …
+- ¶618 · **Narrator** · “Never, father!”
+- ¶619 · **Bob Cratchit** · “And I know,”
+- ¶619 · **Bob Cratchit** · “I know, my dears, that when we recollect how patient and how mild he was; although he was a litt…
+- ¶620 · **Narrator** · “No, never, father!”
+- ¶621 · **Bob Cratchit** · “I am very happy,”
+- ¶621 · **Bob Cratchit** · “I am very happy!”
+- ¶623 · **Ebenezer Scrooge** · “Spectre,”
+- ¶623 · **Ebenezer Scrooge** · “something informs me that our parting moment is at hand. I know it, but I know not how. Tell me …
+- ¶625 · **Ebenezer Scrooge** · “This court,”
+- ¶625 · **Ebenezer Scrooge** · “through which we hurry now, is where my place of occupation is, and has been for a length of tim…
+- ¶627 · **Ebenezer Scrooge** · “The house is yonder,”
+- ¶627 · **Ebenezer Scrooge** · “Why do you point away?”
+- ¶633 · **Ebenezer Scrooge** · “Before I draw nearer to that stone to which you point,”
+- ¶633 · **Ebenezer Scrooge** · “answer me one question. Are these the shadows of the things that Will be, or are they shadows of…
+- ¶635 · **Ebenezer Scrooge** · “Men’s courses will foreshadow certain ends, to which, if persevered in, they must lead,”
+- ¶635 · **Ebenezer Scrooge** · “But if the courses be departed from, the ends will change. Say it is thus with what you show me!”
+- ¶640 · **Ebenezer Scrooge** · “Am I that man who lay upon the bed?”
+- ¶642 · **Ebenezer Scrooge** · “No, Spirit! Oh no, no!”
+- ¶644 · **Ebenezer Scrooge** · “Spirit!”
+- ¶644 · **Ebenezer Scrooge** · “hear me! I am not the man I was. I will not be the man I must have been but for this intercourse…
+- ¶646 · **Ebenezer Scrooge** · “Good Spirit,”
+- ¶646 · **Ebenezer Scrooge** · “Your nature intercedes for me, and pities me. Assure me that I yet may change these shadows you …
+- ¶648 · **Ebenezer Scrooge** · “I will honour Christmas in my heart, and try to keep it all the year. I will live in the Past, t…
+
+## Stave Five · The End Of It
+
+- ¶654 · **Ebenezer Scrooge** · “I will live in the Past, the Present, and the Future!”
+- ¶654 · **Ebenezer Scrooge** · “The Spirits of all Three shall strive within me. Oh Jacob Marley! Heaven, and the Christmas Time…
+- ¶656 · **Ebenezer Scrooge** · “They are not torn down,”
+- ¶656 · **Ebenezer Scrooge** · “they are not torn down, rings and all. They are here—I am here—the shadows of the things that wo…
+- ¶658 · **Ebenezer Scrooge** · “I don’t know what to do!”
+- ¶658 · **Ebenezer Scrooge** · “I am as light as a feather, I am as happy as an angel, I am as merry as a schoolboy. I am as gid…
+- ¶660 · **Ebenezer Scrooge** · “There’s the saucepan that the gruel was in!”
+- ¶660 · **Ebenezer Scrooge** · “There’s the door, by which the Ghost of Jacob Marley entered! There’s the corner where the Ghost…
+- ¶662 · **Ebenezer Scrooge** · “I don’t know what day of the month it is!”
+- ¶662 · **Ebenezer Scrooge** · “I don’t know how long I’ve been among the Spirits. I don’t know anything. I’m quite a baby. Neve…
+- ¶665 · **Ebenezer Scrooge** · “What’s to-day!”
+- ¶666 · **Narrator** · “ Eh ?”
+- ¶667 · **Ebenezer Scrooge** · “What’s to-day, my fine fellow?”
+- ¶668 · **Narrator** · “To-day!”
+- ¶668 · **Narrator** · “Why, Christmas Day .”
+- ¶669 · **Ebenezer Scrooge** · “It’s Christmas Day!”
+- ¶669 · **Ebenezer Scrooge** · “I haven’t missed it. The Spirits have done it all in one night. They can do anything they like. …
+- ¶670 · **Narrator** · “Hallo!”
+- ¶671 · **Ebenezer Scrooge** · “Do you know the Poulterer’s, in the next street but one, at the corner?”
+- ¶672 · **Narrator** · “I should hope I did,”
+- ¶673 · **Ebenezer Scrooge** · “An intelligent boy!”
+- ¶673 · **Ebenezer Scrooge** · “A remarkable boy! Do you know whether they’ve sold the prize Turkey that was hanging up there?—N…
+- ¶674 · **Narrator** · “What, the one as big as me?”
+- ¶675 · **Ebenezer Scrooge** · “What a delightful boy!”
+- ¶675 · **Ebenezer Scrooge** · “It’s a pleasure to talk to him. Yes, my buck!”
+- ¶676 · **Narrator** · “It’s hanging there now,”
+- ¶677 · **Ebenezer Scrooge** · “Is it?”
+- ¶677 · **Ebenezer Scrooge** · “Go and buy it.”
+- ¶678 · **Narrator** · “Walk- er !”
+- ¶679 · **Ebenezer Scrooge** · “No, no,”
+- ¶679 · **Ebenezer Scrooge** · “I am in earnest. Go and buy it, and tell ’em to bring it here, that I may give them the directio…
+- ¶681 · **Ebenezer Scrooge** · “I’ll send it to Bob Cratchit’s!”
+- ¶681 · **Ebenezer Scrooge** · “He sha’n’t know who sends it. It’s twice the size of Tiny Tim. Joe Miller never made such a joke…
+- ¶683 · **Ebenezer Scrooge** · “I shall love it, as long as I live!”
+- ¶683 · **Ebenezer Scrooge** · “I scarcely ever looked at it before. What an honest expression it has in its face! It’s a wonder…
+- ¶685 · **Ebenezer Scrooge** · “Why, it’s impossible to carry that to Camden Town,”
+- ¶685 · **Ebenezer Scrooge** · “You must have a cab.”
+- ¶688 · **Ebenezer Scrooge** · “all in his best,”
+- ¶688 · **Ebenezer Scrooge** · “Good morning, sir! A merry Christmas to you!”
+- ¶689 · **Narrator** · “Scrooge and Marley’s, I believe?”
+- ¶690 · **Ebenezer Scrooge** · “My dear sir,”
+- ¶690 · **Ebenezer Scrooge** · “How do you do? I hope you succeeded yesterday. It was very kind of you. A merry Christmas to you…
+- ¶691 · **Narrator** · “Mr. Scrooge?”
+- ¶692 · **Ebenezer Scrooge** · “Yes,”
+- ¶692 · **Ebenezer Scrooge** · “That is my name, and I fear it may not be pleasant to you. Allow me to ask your pardon. And will…
+- ¶693 · **Narrator** · “Lord bless me!”
+- ¶693 · **Narrator** · “My dear Mr. Scrooge, are you serious?”
+- ¶694 · **Ebenezer Scrooge** · “If you please,”
+- ¶694 · **Ebenezer Scrooge** · “Not a farthing less. A great many back-payments are included in it, I assure you. Will you do me…
+- ¶695 · **Narrator** · “My dear sir,”
+- ¶695 · **Narrator** · “I don’t know what to say to such munifi—”
+- ¶696 · **Ebenezer Scrooge** · “Don’t say anything, please,”
+- ¶696 · **Ebenezer Scrooge** · “Come and see me. Will you come and see me?”
+- ¶697 · **Narrator** · “I will!”
+- ¶698 · **Ebenezer Scrooge** · “Thank’ee,”
+- ¶698 · **Ebenezer Scrooge** · “I am much obliged to you. I thank you fifty times. Bless you!”
+- ¶701 · **Ebenezer Scrooge** · “Is your master at home, my dear?”
+- ¶702 · **Narrator** · “Yes, sir.”
+- ¶703 · **Ebenezer Scrooge** · “Where is he, my love?”
+- ¶704 · **Narrator** · “He’s in the dining-room, sir, along with mistress. I’ll show you up-stairs, if you please.”
+- ¶705 · **Ebenezer Scrooge** · “Thank’ee. He knows me,”
+- ¶705 · **Ebenezer Scrooge** · “I’ll go in here, my dear.”
+- ¶707 · **Ebenezer Scrooge** · “Fred!”
+- ¶709 · **Fred** · “Why bless my soul!”
+- ¶709 · **Fred** · “who’s that?”
+- ¶710 · **Ebenezer Scrooge** · *inferred* · “It’s I. Your uncle Scrooge. I have come to dinner. Will you let me in, Fred?”
+- ¶715 · **Ebenezer Scrooge** · “Hallo!”
+- ¶715 · **Ebenezer Scrooge** · “What do you mean by coming here at this time of day?”
+- ¶716 · **Bob Cratchit** · “I am very sorry, sir,”
+- ¶716 · **Bob Cratchit** · “I am behind my time.”
+- ¶717 · **Ebenezer Scrooge** · “You are?”
+- ¶717 · **Ebenezer Scrooge** · “Yes. I think you are. Step this way, sir, if you please.”
+- ¶718 · **Bob Cratchit** · “It’s only once a year, sir,”
+- ¶718 · **Bob Cratchit** · “It shall not be repeated. I was making rather merry yesterday, sir.”
+- ¶719 · **Ebenezer Scrooge** · “Now, I’ll tell you what, my friend,”
+- ¶719 · **Ebenezer Scrooge** · “I am not going to stand this sort of thing any longer. And therefore,”
+- ¶719 · **Ebenezer Scrooge** · “and therefore I am about to raise your salary!”
+- ¶721 · **Ebenezer Scrooge** · “A merry Christmas, Bob!”
+- ¶721 · **Ebenezer Scrooge** · “A merrier Christmas, Bob, my good fellow, than I have given you, for many a year! I’ll raise you…

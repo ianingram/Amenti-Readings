@@ -1,0 +1,92 @@
+{
+  "_file": "Amenti-Readings/a-christmas-carol/sound.json",
+  "_updated": "2026-10-04 07:00 UTC",
+  "work": "a-christmas-carol",
+  "note": "The sound of the Carol. Fog and frost in the City, the hearths of the Cratchits and of Fred, the wind among the graves. The score: the carol itself (God Rest Ye Merry, Gentlemen, traditional), a music box for the Ghost of Christmas Past, the warm pastoral for the Ghost of Christmas Present, the dread for Marley and for the last Spirit, Fezziwig’s fiddler, and the carol again, with bells, for Christmas morning. Shared sounds are borrowed from Dracula by URL rather than copied.",
+  "files": {
+    "note": "Keys to recordings. Names without a scheme live under base; full URLs are borrowed from another production.",
+    "base": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/",
+    "beds": {
+      "london": "https://ianingram.github.io/Amenti-Readings/dracula/sound/london.mp3",
+      "hearth": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3",
+      "wind": "https://ianingram.github.io/Amenti-Readings/dracula/sound/wind.mp3"
+    },
+    "oneshots": {
+      "keyhole_carol": "keyhole-carol.mp3",
+      "house_bells": "house-bells.mp3",
+      "chime": "chime.mp3",
+      "toll": "toll.mp3",
+      "chains": "https://ianingram.github.io/Amenti-Readings/dracula/sound/chains.mp3",
+      "door_heavy": "https://ianingram.github.io/Amenti-Readings/dracula/sound/door_heavy.mp3",
+      "steps_stone": "https://ianingram.github.io/Amenti-Readings/dracula/sound/steps_stone.mp3",
+      "church_bells": "https://ianingram.github.io/Amenti-Readings/dracula/sound/church-bells.mp3"
+    },
+    "score": {
+      "carol": "score-carol.mp3",
+      "carol_morning": "score-carol-morning.mp3",
+      "past": "score-past.mp3",
+      "fezziwig_dance": "fezziwig-dance.mp3",
+      "present": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-pastoral-warm.mp3",
+      "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3"
+    },
+    "under": {
+      "piano_far": "https://ianingram.github.io/Amenti-Readings/dracula/sound/piano-far.mp3"
+    },
+    "levels": {
+      "carol": 0.32,
+      "carol_morning": 0.34,
+      "past": 0.32,
+      "fezziwig_dance": 0.36,
+      "present": 0.3,
+      "dread": 0.3
+    }
+  },
+  "beds": {
+    "london": {
+      "note": "the City: a quiet room, the street muffled beyond the glass"
+    },
+    "hearth": {
+      "note": "a fire in the grate"
+    },
+    "wind": {
+      "note": "cold wind over the churchyard"
+    }
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "bed": "london",
+      "state": 1,
+      "score": null,
+      "note": "The carol under the opening, gone by \"Marley was dead\"; the boy at the keyhole; the dread from the knocker; every bell in the house, the chains, the cellar door."
+    },
+    {
+      "n": 2,
+      "bed": "london",
+      "state": 1,
+      "score": null,
+      "note": "The quarters chime and the hour tolls One; the music box for the Ghost of Christmas Past; Fezziwig’s fiddler for the ball."
+    },
+    {
+      "n": 3,
+      "bed": "london",
+      "state": 1,
+      "score": null,
+      "note": "The warm pastoral for the Ghost of Christmas Present; the steeples; the Cratchits’ hearth; the dread for Ignorance and Want."
+    },
+    {
+      "n": 4,
+      "bed": "wind",
+      "state": 1,
+      "score": "dread",
+      "note": "The last Spirit never speaks: wind and the dread throughout, the far piano under the Cratchits in grief."
+    },
+    {
+      "n": 5,
+      "bed": "london",
+      "state": 1,
+      "score": null,
+      "note": "Silence until the church bells ring out the lustiest peals; then the carol, bright, with bells."
+    }
+  ]
+}

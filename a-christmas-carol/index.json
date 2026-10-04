@@ -1,0 +1,45 @@
+{
+ "work": "a-christmas-carol",
+ "title": "A Christmas Carol",
+ "author": "Charles Dickens",
+ "first_published": 1843,
+ "source": "library/charles-dickens/01-a-christmas-carol.md in Amenti.live · public domain",
+ "note": "Five staves, one narrator, and the principal characters cast from the ledger. Dickens performed the Carol as a reading for fifteen years; minor speakers are his, as they were on tour.",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "a-christmas-carol/ep01.json",
+   "document": "STAVE ONE · MARLEY’S GHOST",
+   "summary": "Christmas Eve in the counting-house; Marley comes in chains",
+   "status": "scripted"
+  },
+  {
+   "n": 2,
+   "file": "a-christmas-carol/ep02.json",
+   "document": "STAVE TWO · THE FIRST OF THE THREE SPIRITS",
+   "summary": "The school, Fan, Fezziwig’s ball, and Belle",
+   "status": "scripted"
+  },
+  {
+   "n": 3,
+   "file": "a-christmas-carol/ep03.json",
+   "document": "STAVE THREE · THE SECOND OF THE THREE SPIRITS",
+   "summary": "The Cratchits’ Christmas, Fred’s party, Ignorance and Want",
+   "status": "scripted"
+  },
+  {
+   "n": 4,
+   "file": "a-christmas-carol/ep04.json",
+   "document": "STAVE FOUR · THE LAST OF THE SPIRITS",
+   "summary": "The Exchange, Old Joe’s shop, the Cratchits in grief, the grave",
+   "status": "scripted"
+  },
+  {
+   "n": 5,
+   "file": "a-christmas-carol/ep05.json",
+   "document": "STAVE FIVE · THE END OF IT",
+   "summary": "Christmas morning: the turkey, the gentleman, Fred’s door, and Bob a little late",
+   "status": "scripted"
+  }
+ ]
+}

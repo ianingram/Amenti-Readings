@@ -1,0 +1,1729 @@
+{
+ "work": "a-christmas-carol",
+ "episode": 4,
+ "chapter": 4,
+ "title": "The Last of the Spirits",
+ "document": "STAVE FOUR · THE LAST OF THE SPIRITS",
+ "source": {
+  "library": "library/charles-dickens/01-a-christmas-carol.md",
+  "text": "Charles Dickens, A Christmas Carol (1843) · public domain"
+ },
+ "note": "Stave complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; the text inside every cue is byte-identical to the library file. Speech attributions are listed in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Ebenezer Scrooge",
+   "cast_as": "Oliver Cromwell"
+  },
+  {
+   "role": "Marley's Ghost",
+   "cast_as": "Lucian Freud"
+  },
+  {
+   "role": "The Ghost of Christmas Past",
+   "cast_as": "Audrey Hepburn"
+  },
+  {
+   "role": "The Ghost of Christmas Present",
+   "cast_as": "Henry VIII of England"
+  },
+  {
+   "role": "Bob Cratchit",
+   "cast_as": "Charlie Chaplin"
+  },
+  {
+   "role": "Fred",
+   "cast_as": "Oscar Wilde"
+  },
+  {
+   "role": "Mr Fezziwig",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Belle",
+   "cast_as": "Charlotte Brontë"
+  },
+  {
+   "role": "Mrs Cratchit",
+   "cast_as": "Florence Nightingale"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 481,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "STAVE FOUR."
+  },
+  {
+   "n": 2,
+   "para": 482,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "THE LAST OF THE SPIRITS."
+  },
+  {
+   "n": 3,
+   "para": 483,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Phantom slowly, gravely, silently,\napproached. When it came near him, Scrooge bent down upon his knee; for\nin the very air through which this Spirit moved it seemed to scatter\ngloom and mystery."
+  },
+  {
+   "n": 4,
+   "para": 484,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was shrouded in a deep black garment, which concealed its head, its\nface, its form, and left nothing of it visible save one outstretched\nhand. But for this it would have been difficult to detach its figure\nfrom the night, and separate it from the darkness by which it was\nsurrounded."
+  },
+  {
+   "n": 5,
+   "para": 485,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He felt that it was tall and stately when it came beside him, and that\nits mysterious presence filled him with a solemn dread. He knew no more,\nfor the Spirit neither spoke nor moved."
+  },
+  {
+   "n": 6,
+   "para": 486,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I am in the presence of the Ghost of Christmas Yet To Come?”"
+  },
+  {
+   "n": 7,
+   "para": 486,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 8,
+   "para": 487,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Spirit answered not, but pointed onward with its hand."
+  },
+  {
+   "n": 9,
+   "para": 488,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“You are about to show me shadows of the things that have not\nhappened, but will happen in the time before us,”"
+  },
+  {
+   "n": 10,
+   "para": 488,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge pursued."
+  },
+  {
+   "n": 11,
+   "para": 488,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Is that so, Spirit?”"
+  },
+  {
+   "n": 12,
+   "para": 489,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The upper portion of the garment was contracted for an instant in its\nfolds, as if the Spirit had inclined its head. That was the only answer\nhe received."
+  },
+  {
+   "n": 13,
+   "para": 490,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Although well used to ghostly company by this time, Scrooge feared the\nsilent shape so much that his legs trembled beneath him, and he found\nthat he could hardly stand when he prepared to follow it. The Spirit\npaused a moment, as observing his condition, and giving him time to\nrecover."
+  },
+  {
+   "n": 14,
+   "para": 491,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "But Scrooge was all the worse for this. It thrilled him with a vague\nuncertain horror, to know that behind the dusky shroud, there were\nghostly eyes intently fixed upon him, while he, though he stretched his\nown to the utmost, could see nothing but a spectral hand and one great\nheap of black."
+  },
+  {
+   "n": 15,
+   "para": 492,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Ghost of the Future!”"
+  },
+  {
+   "n": 16,
+   "para": 492,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he exclaimed,"
+  },
+  {
+   "n": 17,
+   "para": 492,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I fear you more\nthan any spectre I have seen. But as I know your purpose is to do me\ngood, and as I hope to live to be another man from what I was, I am\nprepared to bear you company, and do it with a thankful heart. Will you\nnot speak to me?”"
+  },
+  {
+   "n": 18,
+   "para": 493,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It gave him no reply. The hand was pointed straight before them."
+  },
+  {
+   "n": 19,
+   "para": 494,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Lead on!”"
+  },
+  {
+   "n": 20,
+   "para": 494,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 21,
+   "para": 494,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Lead on! The night is waning\nfast, and it is precious time to me, I know. Lead on, Spirit!”"
+  },
+  {
+   "n": 22,
+   "para": 495,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Phantom moved away as it had come towards him. Scrooge followed in\nthe shadow of its dress, which bore him up, he thought, and carried him\nalong."
+  },
+  {
+   "n": 23,
+   "para": 496,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They scarcely seemed to enter the city; for the city rather seemed to\nspring up about them, and encompass them of its own act. But there they\nwere, in the heart of it; on ’Change, amongst the merchants; who\nhurried up and down, and chinked the money in their pockets, and\nconversed in groups, and looked at their watches, and trifled\nthoughtfully with their great gold seals; and so forth, as Scrooge had\nseen them often."
+  },
+  {
+   "n": 24,
+   "para": 497,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Spirit stopped beside one little knot of business men. Observing\nthat the hand was pointed to them, Scrooge advanced to listen to their\ntalk."
+  },
+  {
+   "n": 25,
+   "para": 498,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“No,” said a great fat man with a monstrous chin, “I\ndon’t know much about it, either way. I only know he’s dead.”"
+  },
+  {
+   "n": 26,
+   "para": 499,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“When did he die?” inquired another."
+  },
+  {
+   "n": 27,
+   "para": 500,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Last night, I believe.”"
+  },
+  {
+   "n": 28,
+   "para": 501,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Why, what was the matter with him?” asked a third, taking a\nvast quantity of snuff out of a very large snuff-box. “I thought\nhe’d never die.”"
+  },
+  {
+   "n": 29,
+   "para": 502,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“God knows,” said the first, with a yawn."
+  },
+  {
+   "n": 30,
+   "para": 503,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“What has he done with his money?” asked a red-faced\ngentleman with a pendulous excrescence on the end of his nose, that\nshook like the gills of a turkey-cock."
+  },
+  {
+   "n": 31,
+   "para": 504,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I haven’t heard,” said the man with the large chin,\nyawning again. “Left it to his company, perhaps. He hasn’t\nleft it to me . That’s all I know.”"
+  },
+  {
+   "n": 32,
+   "para": 505,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "This pleasantry was received with a general laugh."
+  },
+  {
+   "n": 33,
+   "para": 506,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“It’s likely to be a very cheap funeral,” said the\nsame speaker; “for upon my life I don’t know of anybody to\ngo to it. Suppose we make up a party and volunteer?”"
+  },
+  {
+   "n": 34,
+   "para": 507,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I don’t mind going if a lunch is provided,” observed\nthe gentleman with the excrescence on his nose. “But I must be\nfed, if I make one.”"
+  },
+  {
+   "n": 35,
+   "para": 508,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Another laugh."
+  },
+  {
+   "n": 36,
+   "para": 509,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Well, I am the most disinterested among you, after all,”\nsaid the first speaker, “for I never wear black gloves, and I\nnever eat lunch. But I’ll offer to go, if anybody else will. When\nI come to think of it, I’m not at all sure that I wasn’t his\nmost particular friend; for we used to stop and speak whenever we met.\nBye, bye!”"
+  },
+  {
+   "n": 37,
+   "para": 510,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Speakers and listeners strolled away, and mixed with other groups.\nScrooge knew the men, and looked towards the Spirit for an explanation."
+  },
+  {
+   "n": 38,
+   "para": 511,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Phantom glided on into a street. Its finger pointed to two persons\nmeeting. Scrooge listened again, thinking that the explanation might lie\nhere."
+  },
+  {
+   "n": 39,
+   "para": 512,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He knew these men, also, perfectly. They were men of business: very\nwealthy, and of great importance. He had made a point always of standing\nwell in their esteem: in a business point of view, that is; strictly in\na business point of view."
+  },
+  {
+   "n": 40,
+   "para": 513,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“How are you?” said one."
+  },
+  {
+   "n": 41,
+   "para": 514,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“How are you?” returned the other."
+  },
+  {
+   "n": 42,
+   "para": 515,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Well!” said the first. “Old Scratch has got his own\nat last, hey?”"
+  },
+  {
+   "n": 43,
+   "para": 516,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“So I am told,” returned the second. “Cold, isn’t\nit?”"
+  },
+  {
+   "n": 44,
+   "para": 517,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Seasonable for Christmas time. You’re not a skater, I\nsuppose?”"
+  },
+  {
+   "n": 45,
+   "para": 518,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“No. No. Something else to think of. Good morning!”"
+  },
+  {
+   "n": 46,
+   "para": 519,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Not another word. That was their meeting, their conversation, and their\nparting."
+  },
+  {
+   "n": 47,
+   "para": 520,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge was at first inclined to be surprised that the Spirit should\nattach importance to conversations apparently so trivial; but feeling\nassured that they must have some hidden purpose, he set himself to\nconsider what it was likely to be. They could scarcely be supposed to\nhave any bearing on the death of Jacob, his old partner, for that was\nPast, and this Ghost’s province was the Future. Nor could he think\nof any one immediately connected with himself, to whom he could apply\nthem. But nothing doubting that to whomsoever they applied they had some\nlatent moral for his own improvement, he resolved to treasure up every\nword he heard, and everything he saw; and especially to observe the\nshadow of himself when it appeared. For he had an expectation that the\nconduct of his future self would give him the clue he missed, and would\nrender the solution of these riddles easy."
+  },
+  {
+   "n": 48,
+   "para": 521,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He looked about in that very place for his own image; but another man\nstood in his accustomed corner, and though the clock pointed to his\nusual time of day for being there, he saw no likeness of himself among\nthe multitudes that poured in through the Porch. It gave him little\nsurprise, however; for he had been revolving in his mind a change of\nlife, and thought and hoped he saw his new-born resolutions carried out\nin this."
+  },
+  {
+   "n": 49,
+   "para": 522,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Quiet and dark, beside him stood the Phantom, with its outstretched\nhand. When he roused himself from his thoughtful quest, he fancied from\nthe turn of the hand, and its situation in reference to himself, that\nthe Unseen Eyes were looking at him keenly. It made him shudder, and\nfeel very cold."
+  },
+  {
+   "n": 50,
+   "para": 523,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They left the busy scene, and went into an obscure part of the town,\nwhere Scrooge had never penetrated before, although he recognised its\nsituation, and its bad repute. The ways were foul and narrow; the shops\nand houses wretched; the people half-naked, drunken, slipshod, ugly.\nAlleys and archways, like so many cesspools, disgorged their offences of\nsmell, and dirt, and life, upon the straggling streets; and the whole\nquarter reeked with crime, with filth, and misery."
+  },
+  {
+   "n": 51,
+   "para": 524,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Far in this den of infamous resort, there was a low-browed, beetling\nshop, below a pent-house roof, where iron, old rags, bottles, bones, and\ngreasy offal, were bought. Upon the floor within, were piled up heaps of\nrusty keys, nails, chains, hinges, files, scales, weights, and refuse\niron of all kinds. Secrets that few would like to scrutinise were bred\nand hidden in mountains of unseemly rags, masses of corrupted fat, and\nsepulchres of bones. Sitting in among the wares he dealt in, by a\ncharcoal stove, made of old bricks, was a grey-haired rascal, nearly\nseventy years of age; who had screened himself from the cold air\nwithout, by a frousy curtaining of miscellaneous tatters, hung upon a\nline; and smoked his pipe in all the luxury of calm retirement."
+  },
+  {
+   "n": 52,
+   "para": 525,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge and the Phantom came into the presence of this man, just as a\nwoman with a heavy bundle slunk into the shop. But she had scarcely\nentered, when another woman, similarly laden, came in too; and she was\nclosely followed by a man in faded black, who was no less startled by\nthe sight of them, than they had been upon the recognition of each\nother. After a short period of blank astonishment, in which the old man\nwith the pipe had joined them, they all three burst into a laugh."
+  },
+  {
+   "n": 53,
+   "para": 526,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Let the charwoman alone to be the first!” cried she who had\nentered first. “Let the laundress alone to be the second; and let\nthe undertaker’s man alone to be the third. Look here, old Joe,\nhere’s a chance! If we haven’t all three met here without\nmeaning it!”"
+  },
+  {
+   "n": 54,
+   "para": 527,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“You couldn’t have met in a better place,” said old\nJoe, removing his pipe from his mouth. “Come into the parlour. You\nwere made free of it long ago, you know; and the other two an’t\nstrangers. Stop till I shut the door of the shop. Ah! How it skreeks!\nThere an’t such a rusty bit of metal in the place as its own\nhinges, I believe; and I’m sure there’s no such old bones\nhere, as mine. Ha, ha! We’re all suitable to our calling, we’re\nwell matched. Come into the parlour. Come into the parlour.”"
+  },
+  {
+   "n": 55,
+   "para": 528,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The parlour was the space behind the screen of rags. The old man raked\nthe fire together with an old stair-rod, and having trimmed his smoky\nlamp (for it was night), with the stem of his pipe, put it in his mouth\nagain."
+  },
+  {
+   "n": 56,
+   "para": 529,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "While he did this, the woman who had already spoken threw her bundle on\nthe floor, and sat down in a flaunting manner on a stool; crossing her\nelbows on her knees, and looking with a bold defiance at the other two."
+  },
+  {
+   "n": 57,
+   "para": 530,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“What odds then! What odds, Mrs. Dilber?” said the woman.\n“Every person has a right to take care of themselves. He\nalways did.”"
+  },
+  {
+   "n": 58,
+   "para": 531,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“That’s true, indeed!” said the laundress. “No\nman more so.”"
+  },
+  {
+   "n": 59,
+   "para": 532,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Why then, don’t stand staring as if you was afraid, woman;\nwho’s the wiser? We’re not going to pick holes in each other’s\ncoats, I suppose?”"
+  },
+  {
+   "n": 60,
+   "para": 533,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“No, indeed!” said Mrs. Dilber and the man together. “We\nshould hope not.”"
+  },
+  {
+   "n": 61,
+   "para": 534,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Very well, then!” cried the woman. “That’s\nenough. Who’s the worse for the loss of a few things like these?\nNot a dead man, I suppose.”"
+  },
+  {
+   "n": 62,
+   "para": 535,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“No, indeed,” said Mrs. Dilber, laughing."
+  },
+  {
+   "n": 63,
+   "para": 536,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“If he wanted to keep ’em after he was dead, a wicked old\nscrew,” pursued the woman, “why wasn’t he natural in\nhis lifetime? If he had been, he’d have had somebody to look after\nhim when he was struck with Death, instead of lying gasping out his last\nthere, alone by himself.”"
+  },
+  {
+   "n": 64,
+   "para": 537,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“It’s the truest word that ever was spoke,” said Mrs.\nDilber. “It’s a judgment on him.”"
+  },
+  {
+   "n": 65,
+   "para": 538,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I wish it was a little heavier judgment,” replied the\nwoman; “and it should have been, you may depend upon it, if I\ncould have laid my hands on anything else. Open that bundle, old Joe,\nand let me know the value of it. Speak out plain. I’m not afraid\nto be the first, nor afraid for them to see it. We know pretty well that\nwe were helping ourselves, before we met here, I believe. It’s no\nsin. Open the bundle, Joe.”"
+  },
+  {
+   "n": 66,
+   "para": 539,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "But the gallantry of her friends would not allow of this; and the man in\nfaded black, mounting the breach first, produced his plunder. It\nwas not extensive. A seal or two, a pencil-case, a pair of\nsleeve-buttons, and a brooch of no great value, were all. They were\nseverally examined and appraised by old Joe, who chalked the sums he was\ndisposed to give for each, upon the wall, and added them up into a total\nwhen he found there was nothing more to come."
+  },
+  {
+   "n": 67,
+   "para": 540,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“That’s your account,” said Joe, “and I wouldn’t\ngive another sixpence, if I was to be boiled for not doing it. Who’s\nnext?”"
+  },
+  {
+   "n": 68,
+   "para": 541,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mrs. Dilber was next. Sheets and towels, a little wearing apparel, two\nold-fashioned silver teaspoons, a pair of sugar-tongs, and a few boots.\nHer account was stated on the wall in the same manner."
+  },
+  {
+   "n": 69,
+   "para": 542,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I always give too much to ladies. It’s a weakness of mine,\nand that’s the way I ruin myself,” said old Joe. “That’s\nyour account. If you asked me for another penny, and made it an open\nquestion, I’d repent of being so liberal and knock off\nhalf-a-crown.”"
+  },
+  {
+   "n": 70,
+   "para": 543,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“And now undo my bundle, Joe,” said the first woman."
+  },
+  {
+   "n": 71,
+   "para": 544,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Joe went down on his knees for the greater convenience of opening it,\nand having unfastened a great many knots, dragged out a large and heavy\nroll of some dark stuff."
+  },
+  {
+   "n": 72,
+   "para": 545,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“What do you call this?” said Joe. “Bed-curtains!”"
+  },
+  {
+   "n": 73,
+   "para": 546,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Ah!” returned the woman, laughing and leaning forward on\nher crossed arms. “Bed-curtains!”"
+  },
+  {
+   "n": 74,
+   "para": 547,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“You don’t mean to say you took ’em down, rings and\nall, with him lying there?” said Joe."
+  },
+  {
+   "n": 75,
+   "para": 548,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Yes I do,” replied the woman. “Why not?”"
+  },
+  {
+   "n": 76,
+   "para": 549,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“You were born to make your fortune,” said Joe, “and\nyou’ll certainly do it.”"
+  },
+  {
+   "n": 77,
+   "para": 550,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I certainly shan’t hold my hand, when I can get anything in\nit by reaching it out, for the sake of such a man as He was, I promise\nyou, Joe,” returned the woman coolly. “Don’t drop that\noil upon the blankets, now.”"
+  },
+  {
+   "n": 78,
+   "para": 551,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“His blankets?” asked Joe."
+  },
+  {
+   "n": 79,
+   "para": 552,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Whose else’s do you think?” replied the woman.\n“He isn’t likely to take cold without ’em, I dare say.”"
+  },
+  {
+   "n": 80,
+   "para": 553,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I hope he didn’t die of anything catching? Eh?” said\nold Joe, stopping in his work, and looking up."
+  },
+  {
+   "n": 81,
+   "para": 554,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Don’t you be afraid of that,” returned the woman.\n“I an’t so fond of his company that I’d loiter about\nhim for such things, if he did. Ah! you may look through that shirt till\nyour eyes ache; but you won’t find a hole in it, nor a threadbare\nplace. It’s the best he had, and a fine one too. They’d have\nwasted it, if it hadn’t been for me.”"
+  },
+  {
+   "n": 82,
+   "para": 555,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“What do you call wasting of it?” asked old Joe."
+  },
+  {
+   "n": 83,
+   "para": 556,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Putting it on him to be buried in, to be sure,” replied the\nwoman with a laugh. “Somebody was fool enough to do it, but I took\nit off again. If calico an’t good enough for such a purpose, it\nisn’t good enough for anything. It’s quite as becoming to\nthe body. He can’t look uglier than he did in that one.”"
+  },
+  {
+   "n": 84,
+   "para": 557,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge listened to this dialogue in horror. As they sat grouped about\ntheir spoil, in the scanty light afforded by the old man’s lamp,\nhe viewed them with a detestation and disgust, which could hardly have\nbeen greater, though they had been obscene demons, marketing the corpse\nitself."
+  },
+  {
+   "n": 85,
+   "para": 558,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Ha, ha!” laughed the same woman, when old Joe, producing a\nflannel bag with money in it, told out their several gains upon the\nground. “This is the end of it, you see! He frightened every one\naway from him when he was alive, to profit us when he was dead! Ha, ha,\nha!”"
+  },
+  {
+   "n": 86,
+   "para": 559,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Spirit!”"
+  },
+  {
+   "n": 87,
+   "para": 559,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge, shuddering from head to foot."
+  },
+  {
+   "n": 88,
+   "para": 559,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I see, I see. The case of this unhappy man might be my own. My\nlife tends that way, now. Merciful Heaven, what is this!”"
+  },
+  {
+   "n": 89,
+   "para": 560,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He recoiled in terror, for the scene had changed, and now he almost\ntouched a bed: a bare, uncurtained bed: on which, beneath a ragged\nsheet, there lay a something covered up, which, though it was dumb,\nannounced itself in awful language."
+  },
+  {
+   "n": 90,
+   "para": 561,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The room was very dark, too dark to be observed with any accuracy,\nthough Scrooge glanced round it in obedience to a secret impulse,\nanxious to know what kind of room it was. A pale light, rising in the\nouter air, fell straight upon the bed; and on it, plundered and bereft,\nunwatched, unwept, uncared for, was the body of this man."
+  },
+  {
+   "n": 91,
+   "para": 562,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge glanced towards the Phantom. Its steady hand was pointed to the\nhead. The cover was so carelessly adjusted that the slightest raising of\nit, the motion of a finger upon Scrooge’s part, would have\ndisclosed the face. He thought of it, felt how easy it would be to do,\nand longed to do it; but had no more power to withdraw the veil than to\ndismiss the spectre at his side."
+  },
+  {
+   "n": 92,
+   "para": 563,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Oh cold, cold, rigid, dreadful Death, set up thine altar here, and dress\nit with such terrors as thou hast at thy command: for this is thy\ndominion! But of the loved, revered, and honoured head, thou canst not\nturn one hair to thy dread purposes, or make one feature odious. It is\nnot that the hand is heavy and will fall down when released; it is not\nthat the heart and pulse are still; but that the hand was\nopen, generous, and true; the heart brave, warm, and tender; and the\npulse a man’s. Strike, Shadow, strike! And see his good deeds\nspringing from the wound, to sow the world with life immortal!"
+  },
+  {
+   "n": 93,
+   "para": 564,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "No voice pronounced these words in Scrooge’s ears, and yet he\nheard them when he looked upon the bed. He thought, if this man could be\nraised up now, what would be his foremost thoughts? Avarice,\nhard-dealing, griping cares? They have brought him to a rich end, truly!"
+  },
+  {
+   "n": 94,
+   "para": 565,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He lay, in the dark empty house, with not a man, a woman, or a child, to\nsay that he was kind to me in this or that, and for the memory of one\nkind word I will be kind to him. A cat was tearing at the door, and\nthere was a sound of gnawing rats beneath the hearth-stone. What they\nwanted in the room of death, and why they were so restless and\ndisturbed, Scrooge did not dare to think."
+  },
+  {
+   "n": 95,
+   "para": 566,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Spirit!”"
+  },
+  {
+   "n": 96,
+   "para": 566,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he said,"
+  },
+  {
+   "n": 97,
+   "para": 566,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“this is a fearful place. In\nleaving it, I shall not leave its lesson, trust me. Let us go!”"
+  },
+  {
+   "n": 98,
+   "para": 567,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Still the Ghost pointed with an unmoved finger to the head."
+  },
+  {
+   "n": 99,
+   "para": 568,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I understand you,”"
+  },
+  {
+   "n": 100,
+   "para": 568,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge returned,"
+  },
+  {
+   "n": 101,
+   "para": 568,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“and I would do\nit, if I could. But I have not the power, Spirit. I have not the power.”"
+  },
+  {
+   "n": 102,
+   "para": 569,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Again it seemed to look upon him."
+  },
+  {
+   "n": 103,
+   "para": 570,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“If there is any person in the town, who feels emotion caused by\nthis man’s death,”"
+  },
+  {
+   "n": 104,
+   "para": 570,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge quite agonised,"
+  },
+  {
+   "n": 105,
+   "para": 570,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“show\nthat person to me, Spirit, I beseech you!”"
+  },
+  {
+   "n": 106,
+   "para": 571,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Phantom spread its dark robe before him for a moment, like a wing;\nand withdrawing it, revealed a room by daylight, where a mother and her\nchildren were."
+  },
+  {
+   "n": 107,
+   "para": 572,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "She was expecting some one, and with anxious eagerness; for she walked\nup and down the room; started at every sound; looked out from the\nwindow; glanced at the clock; tried, but in vain, to work with her\nneedle; and could hardly bear the voices of the children in their play."
+  },
+  {
+   "n": 108,
+   "para": 573,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "At length the long-expected knock was heard. She hurried to the door,\nand met her husband; a man whose face was careworn and depressed, though\nhe was young. There was a remarkable expression in it now; a kind of\nserious delight of which he felt ashamed, and which he struggled to\nrepress."
+  },
+  {
+   "n": 109,
+   "para": 574,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He sat down to the dinner that had been hoarding for him by the fire;\nand when she asked him faintly what news (which was not until after a\nlong silence), he appeared embarrassed how to answer."
+  },
+  {
+   "n": 110,
+   "para": 575,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Is it good?” she said, “or bad?”—to help\nhim."
+  },
+  {
+   "n": 111,
+   "para": 576,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Bad,” he answered."
+  },
+  {
+   "n": 112,
+   "para": 577,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“We are quite ruined?”"
+  },
+  {
+   "n": 113,
+   "para": 578,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“No. There is hope yet, Caroline.”"
+  },
+  {
+   "n": 114,
+   "para": 579,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“If he relents,” she said, amazed, “there is!\nNothing is past hope, if such a miracle has happened.”"
+  },
+  {
+   "n": 115,
+   "para": 580,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“He is past relenting,” said her husband. “He is dead.”"
+  },
+  {
+   "n": 116,
+   "para": 581,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "She was a mild and patient creature if her face spoke truth; but she was\nthankful in her soul to hear it, and she said so, with clasped hands.\nShe prayed forgiveness the next moment, and was sorry; but the first was\nthe emotion of her heart."
+  },
+  {
+   "n": 117,
+   "para": 582,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“What the half-drunken woman whom I told you of last night, said\nto me, when I tried to see him and obtain a week’s delay; and what\nI thought was a mere excuse to avoid me; turns out to have been quite\ntrue. He was not only very ill, but dying, then.”"
+  },
+  {
+   "n": 118,
+   "para": 583,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“To whom will our debt be transferred?”"
+  },
+  {
+   "n": 119,
+   "para": 584,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I don’t know. But before that time we shall be ready with\nthe money; and even though we were not, it would be a bad fortune indeed\nto find so merciless a creditor in his successor. We may sleep to-night\nwith light hearts, Caroline!”"
+  },
+  {
+   "n": 120,
+   "para": 585,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Yes. Soften it as they would, their hearts were lighter. The children’s\nfaces, hushed and clustered round to hear what they so little\nunderstood, were brighter; and it was a happier house for this man’s\ndeath! The only emotion that the Ghost could show him, caused by the\nevent, was one of pleasure."
+  },
+  {
+   "n": 121,
+   "para": 586,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Let me see some tenderness connected with a death,”"
+  },
+  {
+   "n": 122,
+   "para": 586,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said\nScrooge;"
+  },
+  {
+   "n": 123,
+   "para": 586,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“or that dark chamber, Spirit, which we left just now,\nwill be for ever present to me.”"
+  },
+  {
+   "n": 124,
+   "para": 587,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Ghost conducted him through several streets familiar to his feet;\nand as they went along, Scrooge looked here and there to find himself,\nbut nowhere was he to be seen. They entered poor Bob Cratchit’s\nhouse; the dwelling he had visited before; and found the mother and the\nchildren seated round the fire."
+  },
+  {
+   "n": 125,
+   "para": 588,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Quiet. Very quiet. The noisy little Cratchits were as still as statues\nin one corner, and sat looking up at Peter, who had a book before him.\nThe mother and her daughters were engaged in sewing. But surely they\nwere very quiet!"
+  },
+  {
+   "n": 126,
+   "under": "piano_far",
+   "para": 589,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“ ‘And He took a child, and set him in the midst of\nthem.’ ”"
+  },
+  {
+   "n": 127,
+   "under": "piano_far",
+   "para": 590,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Where had Scrooge heard those words? He had not dreamed them. The boy\nmust have read them out, as he and the Spirit crossed the threshold. Why\ndid he not go on?"
+  },
+  {
+   "n": 128,
+   "under": "piano_far",
+   "para": 591,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The mother laid her work upon the table, and put her hand up to her\nface."
+  },
+  {
+   "n": 129,
+   "under": "piano_far",
+   "para": 592,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“The colour hurts my eyes,”"
+  },
+  {
+   "n": 130,
+   "under": "piano_far",
+   "para": 592,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "she said."
+  },
+  {
+   "n": 131,
+   "under": "piano_far",
+   "para": 593,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The colour? Ah, poor Tiny Tim!"
+  },
+  {
+   "n": 132,
+   "under": "piano_far",
+   "para": 594,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“They’re better now again,”"
+  },
+  {
+   "n": 133,
+   "under": "piano_far",
+   "para": 594,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Cratchit’s\nwife."
+  },
+  {
+   "n": 134,
+   "under": "piano_far",
+   "para": 594,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“It makes them weak by candle-light; and I wouldn’t\nshow weak eyes to your father when he comes home, for the world. It must\nbe near his time.”"
+  },
+  {
+   "n": 135,
+   "under": "piano_far",
+   "para": 595,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Past it rather,” Peter answered, shutting up his book.\n“But I think he has walked a little slower than he used, these few\nlast evenings, mother.”"
+  },
+  {
+   "n": 136,
+   "under": "piano_far",
+   "para": 596,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They were very quiet again. At last she said, and in a steady, cheerful\nvoice, that only faltered once:"
+  },
+  {
+   "n": 137,
+   "under": "piano_far",
+   "para": 597,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“I have known him walk with—I have known him walk with Tiny\nTim upon his shoulder, very fast indeed.”"
+  },
+  {
+   "n": 138,
+   "under": "piano_far",
+   "para": 598,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“And so have I,” cried Peter. “Often.”"
+  },
+  {
+   "n": 139,
+   "under": "piano_far",
+   "para": 599,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“And so have I,” exclaimed another. So had all."
+  },
+  {
+   "n": 140,
+   "under": "piano_far",
+   "para": 600,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“But he was very light to carry,”"
+  },
+  {
+   "n": 141,
+   "under": "piano_far",
+   "para": 600,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "she resumed, intent upon\nher work,"
+  },
+  {
+   "n": 142,
+   "under": "piano_far",
+   "para": 600,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“and his father loved him so, that it was no trouble: no\ntrouble. And there is your father at the door!”"
+  },
+  {
+   "n": 143,
+   "under": "piano_far",
+   "para": 601,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "She hurried out to meet him; and little Bob in his comforter—he\nhad need of it, poor fellow—came in. His tea was ready for him on\nthe hob, and they all tried who should help him to it most. Then the two\nyoung Cratchits got upon his knees and laid, each child a little cheek,\nagainst his face, as if they said, “Don’t mind it, father.\nDon’t be grieved!”"
+  },
+  {
+   "n": 144,
+   "under": "piano_far",
+   "para": 602,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Bob was very cheerful with them, and spoke pleasantly to all the family.\nHe looked at the work upon the table, and praised the industry and speed\nof Mrs. Cratchit and the girls. They would be done long before Sunday,\nhe said."
+  },
+  {
+   "n": 145,
+   "under": "piano_far",
+   "para": 603,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“Sunday! You went to-day, then, Robert?”"
+  },
+  {
+   "n": 146,
+   "under": "piano_far",
+   "para": 603,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said his wife."
+  },
+  {
+   "n": 147,
+   "under": "piano_far",
+   "para": 604,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“Yes, my dear,”"
+  },
+  {
+   "n": 148,
+   "under": "piano_far",
+   "para": 604,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Bob."
+  },
+  {
+   "n": 149,
+   "under": "piano_far",
+   "para": 604,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“I wish you could have\ngone. It would have done you good to see how green a place it is. But\nyou’ll see it often. I promised him that I would walk there on a\nSunday. My little, little child!”"
+  },
+  {
+   "n": 150,
+   "under": "piano_far",
+   "para": 604,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried Bob."
+  },
+  {
+   "n": 151,
+   "under": "piano_far",
+   "para": 604,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“My little\nchild!”"
+  },
+  {
+   "n": 152,
+   "under": "piano_far",
+   "para": 605,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He broke down all at once. He couldn’t help it. If he could have\nhelped it, he and his child would have been farther apart perhaps than\nthey were."
+  },
+  {
+   "n": 153,
+   "under": "piano_far",
+   "para": 606,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He left the room, and went up-stairs into the room above, which was\nlighted cheerfully, and hung with Christmas. There was a chair set close\nbeside the child, and there were signs of some one having been there,\nlately. Poor Bob sat down in it, and when he had thought a little and\ncomposed himself, he kissed the little face. He was reconciled to what\nhad happened, and went down again quite happy."
+  },
+  {
+   "n": 154,
+   "under": "piano_far",
+   "para": 607,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They drew about the fire, and talked; the girls and mother working\nstill. Bob told them of the extraordinary kindness of Mr. Scrooge’s\nnephew, whom he had scarcely seen but once, and who, meeting him in the\nstreet that day, and seeing that he looked a little—"
+  },
+  {
+   "n": 155,
+   "under": "piano_far",
+   "para": 607,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“just a\nlittle down you know,”"
+  },
+  {
+   "n": 156,
+   "under": "piano_far",
+   "para": 607,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Bob, inquired what had happened to\ndistress him."
+  },
+  {
+   "n": 157,
+   "under": "piano_far",
+   "para": 607,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“On which,”"
+  },
+  {
+   "n": 158,
+   "under": "piano_far",
+   "para": 607,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Bob,"
+  },
+  {
+   "n": 159,
+   "under": "piano_far",
+   "para": 607,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“for he is the\npleasantest-spoken gentleman you ever heard, I told him. ‘I am\nheartily sorry for it, Mr. Cratchit,’ he said, ‘and heartily\nsorry for your good wife.’ By the bye, how he ever knew that ,\nI don’t know.”"
+  },
+  {
+   "n": 160,
+   "under": "piano_far",
+   "para": 608,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“Knew what, my dear?”"
+  },
+  {
+   "n": 161,
+   "under": "piano_far",
+   "para": 609,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“Why, that you were a good wife,”"
+  },
+  {
+   "n": 162,
+   "under": "piano_far",
+   "para": 609,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "replied Bob."
+  },
+  {
+   "n": 163,
+   "under": "piano_far",
+   "para": 610,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Everybody knows that!” said Peter."
+  },
+  {
+   "n": 164,
+   "under": "piano_far",
+   "para": 611,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“Very well observed, my boy!”"
+  },
+  {
+   "n": 165,
+   "under": "piano_far",
+   "para": 611,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried Bob."
+  },
+  {
+   "n": 166,
+   "under": "piano_far",
+   "para": 611,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“I hope they\ndo. ‘Heartily sorry,’ he said, ‘for your good wife. If\nI can be of service to you in any way,’ he said, giving me his\ncard, ‘that’s where I live. Pray come to me.’ Now, it\nwasn’t,”"
+  },
+  {
+   "n": 167,
+   "under": "piano_far",
+   "para": 611,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried Bob,"
+  },
+  {
+   "n": 168,
+   "under": "piano_far",
+   "para": 611,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“for the sake of anything he might\nbe able to do for us, so much as for his kind way, that this was quite\ndelightful. It really seemed as if he had known our Tiny Tim, and felt\nwith us.”"
+  },
+  {
+   "n": 169,
+   "under": "piano_far",
+   "para": 612,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“I’m sure he’s a good soul!”"
+  },
+  {
+   "n": 170,
+   "under": "piano_far",
+   "para": 612,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mrs. Cratchit."
+  },
+  {
+   "n": 171,
+   "under": "piano_far",
+   "para": 613,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“You would be surer of it, my dear,”"
+  },
+  {
+   "n": 172,
+   "under": "piano_far",
+   "para": 613,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Bob,"
+  },
+  {
+   "n": 173,
+   "under": "piano_far",
+   "para": 613,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“if\nyou saw and spoke to him. I shouldn’t be at all surprised—mark\nwhat I say!—if he got Peter a better situation.”"
+  },
+  {
+   "n": 174,
+   "under": "piano_far",
+   "para": 614,
+   "role": "Mrs Cratchit",
+   "cast": "Florence Nightingale",
+   "text": "“Only hear that, Peter,”"
+  },
+  {
+   "n": 175,
+   "under": "piano_far",
+   "para": 614,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mrs. Cratchit."
+  },
+  {
+   "n": 176,
+   "under": "piano_far",
+   "para": 615,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“And then,” cried one of the girls, “Peter will be\nkeeping company with some one, and setting up for himself.”"
+  },
+  {
+   "n": 177,
+   "under": "piano_far",
+   "para": 616,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Get along with you!” retorted Peter, grinning."
+  },
+  {
+   "n": 178,
+   "under": "piano_far",
+   "para": 617,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“It’s just as likely as not,”"
+  },
+  {
+   "n": 179,
+   "under": "piano_far",
+   "para": 617,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Bob,"
+  },
+  {
+   "n": 180,
+   "under": "piano_far",
+   "para": 617,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“one of\nthese days; though there’s plenty of time for that, my dear. But\nhowever and whenever we part from one another, I am sure we shall none\nof us forget poor Tiny Tim—shall we—or this first parting\nthat there was among us?”"
+  },
+  {
+   "n": 181,
+   "under": "piano_far",
+   "para": 618,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Never, father!” cried they all."
+  },
+  {
+   "n": 182,
+   "under": "piano_far",
+   "para": 619,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“And I know,”"
+  },
+  {
+   "n": 183,
+   "under": "piano_far",
+   "para": 619,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Bob,"
+  },
+  {
+   "n": 184,
+   "under": "piano_far",
+   "para": 619,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“I know, my dears, that when\nwe recollect how patient and how mild he was; although he was a little,\nlittle child; we shall not quarrel easily among ourselves, and forget\npoor Tiny Tim in doing it.”"
+  },
+  {
+   "n": 185,
+   "under": "piano_far",
+   "para": 620,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“No, never, father!” they all cried again."
+  },
+  {
+   "n": 186,
+   "under": "piano_far",
+   "para": 621,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“I am very happy,”"
+  },
+  {
+   "n": 187,
+   "under": "piano_far",
+   "para": 621,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said little Bob,"
+  },
+  {
+   "n": 188,
+   "under": "piano_far",
+   "para": 621,
+   "role": "Bob Cratchit",
+   "cast": "Charlie Chaplin",
+   "text": "“I am very happy!”"
+  },
+  {
+   "n": 189,
+   "para": 622,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mrs. Cratchit kissed him, his daughters kissed him, the two young\nCratchits kissed him, and Peter and himself shook hands. Spirit of Tiny\nTim, thy childish essence was from God!"
+  },
+  {
+   "n": 190,
+   "para": 623,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Spectre,”"
+  },
+  {
+   "n": 191,
+   "para": 623,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge,"
+  },
+  {
+   "n": 192,
+   "para": 623,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“something informs me that\nour parting moment is at hand. I know it, but I know not how. Tell me\nwhat man that was whom we saw lying dead?”"
+  },
+  {
+   "n": 193,
+   "para": 624,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Ghost of Christmas Yet To Come conveyed him, as before—though\nat a different time, he thought: indeed, there seemed no order in these\nlatter visions, save that they were in the Future—into the resorts\nof business men, but showed him not himself. Indeed, the Spirit did not\nstay for anything, but went straight on, as to the end just now desired,\nuntil besought by Scrooge to tarry for a moment."
+  },
+  {
+   "n": 194,
+   "para": 625,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“This court,”"
+  },
+  {
+   "n": 195,
+   "para": 625,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge,"
+  },
+  {
+   "n": 196,
+   "para": 625,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“through which we hurry\nnow, is where my place of occupation is, and has been for a length of\ntime. I see the house. Let me behold what I shall be, in days to come!”"
+  },
+  {
+   "n": 197,
+   "para": 626,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Spirit stopped; the hand was pointed elsewhere."
+  },
+  {
+   "n": 198,
+   "para": 627,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“The house is yonder,”"
+  },
+  {
+   "n": 199,
+   "para": 627,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge exclaimed."
+  },
+  {
+   "n": 200,
+   "para": 627,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Why do you\npoint away?”"
+  },
+  {
+   "n": 201,
+   "para": 628,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The inexorable finger underwent no change."
+  },
+  {
+   "n": 202,
+   "para": 629,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge hastened to the window of his office, and looked in. It was an\noffice still, but not his. The furniture was not the same, and the\nfigure in the chair was not himself. The Phantom pointed as before."
+  },
+  {
+   "n": 203,
+   "para": 630,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He joined it once again, and wondering why and whither he had gone,\naccompanied it until they reached an iron gate. He paused to look round\nbefore entering."
+  },
+  {
+   "n": 204,
+   "para": 631,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "A churchyard. Here, then; the wretched man whose name he had now to\nlearn, lay underneath the ground. It was a worthy place. Walled in by\nhouses; overrun by grass and weeds, the growth of vegetation’s\ndeath, not life; choked up with too much burying; fat with repleted\nappetite. A worthy place!"
+  },
+  {
+   "n": 205,
+   "para": 632,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Spirit stood among the graves, and pointed down to One. He advanced\ntowards it trembling. The Phantom was exactly as it had been, but he\ndreaded that he saw new meaning in its solemn shape."
+  },
+  {
+   "n": 206,
+   "para": 633,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Before I draw nearer to that stone to which you point,”"
+  },
+  {
+   "n": 207,
+   "para": 633,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge,"
+  },
+  {
+   "n": 208,
+   "para": 633,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“answer me one question. Are these the shadows of\nthe things that Will be, or are they shadows of things that May be,\nonly?”"
+  },
+  {
+   "n": 209,
+   "para": 634,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Still the Ghost pointed downward to the grave by which it stood."
+  },
+  {
+   "n": 210,
+   "para": 635,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Men’s courses will foreshadow certain ends, to which, if\npersevered in, they must lead,”"
+  },
+  {
+   "n": 211,
+   "para": 635,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Scrooge."
+  },
+  {
+   "n": 212,
+   "para": 635,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“But if the\ncourses be departed from, the ends will change. Say it is thus with what\nyou show me!”"
+  },
+  {
+   "n": 213,
+   "para": 636,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Spirit was immovable as ever."
+  },
+  {
+   "n": 214,
+   "para": 637,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Scrooge crept towards it, trembling as he went; and following the\nfinger, read upon the stone of the neglected grave his own name, Ebenezer Scrooge ."
+  },
+  {
+   "n": 215,
+   "para": 640,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Am I that man who lay upon the bed?”"
+  },
+  {
+   "n": 216,
+   "para": 640,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he cried, upon\nhis knees."
+  },
+  {
+   "n": 217,
+   "para": 641,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The finger pointed from the grave to him, and back again."
+  },
+  {
+   "n": 218,
+   "para": 642,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“No, Spirit! Oh no, no!”"
+  },
+  {
+   "n": 219,
+   "para": 643,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The finger still was there."
+  },
+  {
+   "n": 220,
+   "para": 644,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Spirit!”"
+  },
+  {
+   "n": 221,
+   "para": 644,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he cried, tight clutching at its robe,"
+  },
+  {
+   "n": 222,
+   "para": 644,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“hear\nme! I am not the man I was. I will not be the man I must have been but\nfor this intercourse. Why show me this, if I am past all hope!”"
+  },
+  {
+   "n": 223,
+   "para": 645,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "For the first time the hand appeared to shake."
+  },
+  {
+   "n": 224,
+   "para": 646,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Good Spirit,”"
+  },
+  {
+   "n": 225,
+   "para": 646,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he pursued, as down upon the ground he fell\nbefore it:"
+  },
+  {
+   "n": 226,
+   "para": 646,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“Your nature intercedes for me, and pities me. Assure\nme that I yet may change these shadows you have shown me, by an altered\nlife!”"
+  },
+  {
+   "n": 227,
+   "para": 647,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The kind hand trembled."
+  },
+  {
+   "n": 228,
+   "para": 648,
+   "role": "Ebenezer Scrooge",
+   "cast": "Oliver Cromwell",
+   "text": "“I will honour Christmas in my heart, and try to keep it all the\nyear. I will live in the Past, the Present, and the Future. The Spirits\nof all Three shall strive within me. I will not shut out the lessons\nthat they teach. Oh, tell me I may sponge away the writing on this\nstone!”"
+  },
+  {
+   "n": 229,
+   "para": 649,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "In his agony, he caught the spectral hand. It sought to free itself, but\nhe was strong in his entreaty, and detained it. The Spirit, stronger\nyet, repulsed him."
+  },
+  {
+   "n": 230,
+   "para": 650,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Holding up his hands in a last prayer to have his fate reversed, he saw\nan alteration in the Phantom’s hood and dress. It shrunk,\ncollapsed, and dwindled down into a bedpost."
+  }
+ ]
+}

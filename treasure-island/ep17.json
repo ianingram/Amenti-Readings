@@ -1,0 +1,498 @@
+{
+ "work": "treasure-island",
+ "episode": 17,
+ "chapter": 17,
+ "title": "Narrative Continued by the Doctor: The Jolly-boat’s Last Trip",
+ "document": "PART FOUR · CHAPTER XVII",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch17.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Told by the doctor: the narrator is Dr Livesey, and the brief speakers he reports are his. Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Ben Gunn",
+   "cast_as": "James Joyce"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "CHAPTER XXVII"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "NARRATIVE CONTINUED BY THE DOCTOR: THE JOLLY-BOAT’S LAST TRIP"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "This fifth trip was quite different from any of the others. In the\nfirst place, the little gallipot of a boat that we were in was gravely\noverloaded. Five grown men, and three of them--Trelawney, Redruth, and\nthe captain--over six feet high, was already more than she was meant\nto carry. Add to that the powder, pork, and bread-bags. The gunwale was\nlipping astern. Several times we shipped a little water, and my breeches\nand the tails of my coat were all soaking wet before we had gone a\nhundred yards."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "The captain made us trim the boat, and we got her to lie a little more\nevenly. All the same, we were afraid to breathe."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "In the second place, the ebb was now making--a strong rippling current\nrunning westward through the basin, and then south’ard and seaward down\nthe straits by which we had entered in the morning. Even the ripples\nwere a danger to our overloaded craft, but the worst of it was that we\nwere swept out of our true course and away from our proper landing-place\nbehind the point. If we let the current have its way we should come\nashore beside the gigs, where the pirates might appear at any moment."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“I cannot keep her head for the stockade, sir,” said I to the captain.\nI was steering, while he and Redruth, two fresh men, were at the oars.\n“The tide keeps washing her down. Could you pull a little stronger?”"
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Not without swamping the boat,”"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "said he."
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“You must bear up, sir, if you\nplease--bear up until you see you’re gaining.”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "I tried and found by experiment that the tide kept sweeping us westward\nuntil I had laid her head due east, or just about right angles to the\nway we ought to go."
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“We’ll never get ashore at this rate,” said I."
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“If it’s the only course that we can lie, sir, we must even lie it,”"
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "returned the captain."
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“We must keep upstream. You see, sir,”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "he went on,"
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“if once we dropped to leeward of the landing-place, it’s hard to say\nwhere we should get ashore, besides the chance of being boarded by the\ngigs; whereas, the way we go the current must slacken, and then we can\ndodge back along the shore.”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“The current’s less a’ready, sir,” said the man Gray, who was sitting in\nthe fore-sheets; “you can ease her off a bit.”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Thank you, my man,” said I, quite as if nothing had happened, for we\nhad all quietly made up our minds to treat him like one of ourselves."
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "Suddenly the captain spoke up again, and I thought his voice was a\nlittle changed."
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“The gun!”"
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "said he."
+  },
+  {
+   "n": 22,
+   "para": 14,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“I have thought of that,” said I, for I made sure he was thinking of a\nbombardment of the fort. “They could never get the gun ashore, and if\nthey did, they could never haul it through the woods.”"
+  },
+  {
+   "n": 23,
+   "para": 15,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Look astern, doctor,”"
+  },
+  {
+   "n": 24,
+   "para": 15,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "replied the captain."
+  },
+  {
+   "n": 25,
+   "para": 16,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "We had entirely forgotten the long nine; and there, to our horror, were\nthe five rogues busy about her, getting off her jacket, as they called\nthe stout tarpaulin cover under which she sailed. Not only that, but\nit flashed into my mind at the same moment that the round-shot and the\npowder for the gun had been left behind, and a stroke with an axe would\nput it all into the possession of the evil ones abroad."
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Israel was Flint’s gunner,” said Gray hoarsely."
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "At any risk, we put the boat’s head direct for the landing-place. By\nthis time we had got so far out of the run of the current that we kept\nsteerage way even at our necessarily gentle rate of rowing, and I could\nkeep her steady for the goal. But the worst of it was that with the\ncourse I now held we turned our broadside instead of our stern to the\nHISPANIOLA and offered a target like a barn door."
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "I could hear as well as see that brandy-faced rascal Israel Hands\nplumping down a round-shot on the deck."
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Who’s the best shot?”"
+  },
+  {
+   "n": 30,
+   "para": 20,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "asked the captain."
+  },
+  {
+   "n": 31,
+   "para": 21,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Mr. Trelawney, out and away,” said I."
+  },
+  {
+   "n": 32,
+   "para": 22,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Mr. Trelawney, will you please pick me off one of these men, sir?\nHands, if possible,”"
+  },
+  {
+   "n": 33,
+   "para": 22,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "said the captain."
+  },
+  {
+   "n": 34,
+   "para": 23,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "Trelawney was as cool as steel. He looked to the priming of his gun."
+  },
+  {
+   "n": 35,
+   "para": 24,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Now,”"
+  },
+  {
+   "n": 36,
+   "para": 24,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "cried the captain,"
+  },
+  {
+   "n": 37,
+   "para": 24,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“easy with that gun, sir, or you’ll swamp the\nboat. All hands stand by to trim her when he aims.”"
+  },
+  {
+   "n": 38,
+   "para": 25,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "The squire raised his gun, the rowing ceased, and we leaned over to the\nother side to keep the balance, and all was so nicely contrived that we\ndid not ship a drop."
+  },
+  {
+   "n": 39,
+   "sfx": [
+    {
+     "key": "musket_near",
+     "at": "just as Trelawney fired"
+    },
+    {
+     "key": "crew_death",
+     "at": "it was one of the other four who fell",
+     "offset": 1.0
+    }
+   ],
+   "para": 26,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "They had the gun, by this time, slewed round upon the swivel, and Hands,\nwho was at the muzzle with the rammer, was in consequence the most\nexposed. However, we had no luck, for just as Trelawney fired, down he\nstooped, the ball whistled over him, and it was one of the other four\nwho fell."
+  },
+  {
+   "n": 40,
+   "para": 27,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "The cry he gave was echoed not only by his companions on board but by a\ngreat number of voices from the shore, and looking in that direction\nI saw the other pirates trooping out from among the trees and tumbling\ninto their places in the boats."
+  },
+  {
+   "n": 41,
+   "para": 28,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Here come the gigs, sir,” said I."
+  },
+  {
+   "n": 42,
+   "para": 29,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Give way, then,”"
+  },
+  {
+   "n": 43,
+   "para": 29,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "cried the captain."
+  },
+  {
+   "n": 44,
+   "para": 29,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“We mustn’t mind if we swamp her\nnow. If we can’t get ashore, all’s up.”"
+  },
+  {
+   "n": 45,
+   "para": 30,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Only one of the gigs is being manned, sir,” I added; “the crew of the\nother most likely going round by shore to cut us off.”"
+  },
+  {
+   "n": 46,
+   "para": 31,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“They’ll have a hot run, sir,”"
+  },
+  {
+   "n": 47,
+   "para": 31,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "returned the captain."
+  },
+  {
+   "n": 48,
+   "para": 31,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Jack ashore, you\nknow. It’s not them I mind; it’s the round-shot. Carpet bowls! My lady’s\nmaid couldn’t miss. Tell us, squire, when you see the match, and we’ll\nhold water.”"
+  },
+  {
+   "n": 49,
+   "para": 32,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "In the meanwhile we had been making headway at a good pace for a boat so\noverloaded, and we had shipped but little water in the process. We were\nnow close in; thirty or forty strokes and we should beach her, for the\nebb had already disclosed a narrow belt of sand below the clustering\ntrees. The gig was no longer to be feared; the little point had already\nconcealed it from our eyes. The ebb-tide, which had so cruelly delayed\nus, was now making reparation and delaying our assailants. The one\nsource of danger was the gun."
+  },
+  {
+   "n": 50,
+   "para": 33,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“If I durst,”"
+  },
+  {
+   "n": 51,
+   "para": 33,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "said the captain,"
+  },
+  {
+   "n": 52,
+   "para": 33,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I’d stop and pick off another man.”"
+  },
+  {
+   "n": 53,
+   "para": 34,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "But it was plain that they meant nothing should delay their shot. They\nhad never so much as looked at their fallen comrade, though he was not\ndead, and I could see him trying to crawl away."
+  },
+  {
+   "n": 54,
+   "para": 35,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Ready!”"
+  },
+  {
+   "n": 55,
+   "para": 35,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "cried the squire."
+  },
+  {
+   "n": 56,
+   "para": 36,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Hold!”"
+  },
+  {
+   "n": 57,
+   "para": 36,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "cried the captain, quick as an echo."
+  },
+  {
+   "n": 58,
+   "sfx": [
+    {
+     "key": "long_gun_splash",
+     "at": "sent her stern bodily under water",
+     "offset": -3.4
+    }
+   ],
+   "para": 37,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "And he and Redruth backed with a great heave that sent her stern bodily\nunder water. The report fell in at the same instant of time. This was\nthe first that Jim heard, the sound of the squire’s shot not having\nreached him. Where the ball passed, not one of us precisely knew, but I\nfancy it must have been over our heads and that the wind of it may have\ncontributed to our disaster."
+  },
+  {
+   "n": 59,
+   "sfx": [
+    {
+     "key": "boat_sinks",
+     "at": "the boat sank by the stern"
+    }
+   ],
+   "para": 38,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "At any rate, the boat sank by the stern, quite gently, in three feet of\nwater, leaving the captain and myself, facing each other, on our feet.\nThe other three took complete headers, and came up again drenched and\nbubbling."
+  },
+  {
+   "n": 60,
+   "para": 39,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "So far there was no great harm. No lives were lost, and we could wade\nashore in safety. But there were all our stores at the bottom, and to\nmake things worse, only two guns out of five remained in a state for\nservice. Mine I had snatched from my knees and held over my head, by\na sort of instinct. As for the captain, he had carried his over his\nshoulder by a bandoleer, and like a wise man, lock uppermost. The other\nthree had gone down with the boat."
+  },
+  {
+   "n": 61,
+   "para": 40,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "To add to our concern, we heard voices already drawing near us in the\nwoods along shore, and we had not only the danger of being cut off from\nthe stockade in our half-crippled state but the fear before us whether,\nif Hunter and Joyce were attacked by half a dozen, they would have the\nsense and conduct to stand firm. Hunter was steady, that we knew; Joyce\nwas a doubtful case--a pleasant, polite man for a valet and to brush\none’s clothes, but not entirely fitted for a man of war."
+  },
+  {
+   "n": 62,
+   "para": 41,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "With all this in our minds, we waded ashore as fast as we could, leaving\nbehind us the poor jolly-boat and a good half of all our powder and\nprovisions."
+  }
+ ]
+}

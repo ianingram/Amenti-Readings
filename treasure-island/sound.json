@@ -1,6 +1,6 @@
 {
   "_file": "Amenti-Readings/treasure-island/sound.json",
-  "_updated": "2026-10-05 05:00 UTC",
+  "_updated": "2026-10-05 07:00 UTC",
   "work": "treasure-island",
   "note": "The most physical book in the Studios: a lonely inn on a cove, Bristol docks, a ship at sea, an island. Every gun comes twice — near (sharp, dry, loud) and far (muffled, late, long echo) — and most of the shooting is far. Part One is the Admiral Benbow; Part Two the Bristol docks, the Spy-glass and the Hispaniola — the surf below the cliff, the parlour fire, the stick on the frozen road, the riders on the hill. Shared sounds are borrowed from Dracula by URL. THE CREW’S DEATH MOTIF: each time one of the ship’s company dies — honest man or pirate — the cellos and basses play a slow “yo… ho”, a short D and a long low A, the shape of the crew’s chant with the life gone out of it — and gulls crying over it, one near as the “ho” sounds, one answering further off.",
   "files": {
@@ -11,7 +11,8 @@
       "docks": "docks.mp3",
       "deck": "deck.mp3",
       "tavern": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3",
-      "island": "island.mp3"
+      "island": "island.mp3",
+      "stockade": "island.mp3"
     },
     "oneshots": {
       "sea_chest": "https://ianingram.github.io/Amenti-Readings/dracula/sound/luggage_down.mp3",
@@ -50,7 +51,13 @@
       "silver_whistle": "silver-whistle.mp3",
       "gravel": "gravel.mp3",
       "cannon_island": "cannon-island.mp3",
-      "crew_death": "crew-death.mp3"
+      "crew_death": "crew-death.mp3",
+      "long_gun_splash": "long-gun-splash.mp3",
+      "boat_sinks": "boat-sinks.mp3",
+      "round_shot_sand": "round-shot-sand.mp3",
+      "cannonade": "cannonade.mp3",
+      "stockade_attack": "stockade-attack.mp3",
+      "flag_snap": "flag-snap.mp3"
     },
     "score": {
       "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3"
@@ -77,6 +84,9 @@
     },
     "island": {
       "note": "the island in a stagnant heat: insects shrilling in the woods, the surf booming far off, shore birds"
+    },
+    "stockade": {
+      "note": "the log-house on its knoll: the island’s heat and insects around it"
     }
   },
   "chapters": [
@@ -180,6 +190,48 @@
       "state": 1,
       "score": null,
       "note": "gravel rattling through the trees — Ben Gunn; the cannon waking every echo of the island; the volley of small arms"
+    },
+    {
+      "n": 16,
+      "bed": "deck",
+      "state": 1,
+      "score": null,
+      "note": "the doctor’s narrative: the ship abandoned, the jolly-boat to the stockade"
+    },
+    {
+      "n": 17,
+      "bed": "cove",
+      "state": 1,
+      "score": null,
+      "note": "the overloaded jolly-boat; the long nine fired from the ship; the squire’s shot and a man falling; the boat going down by the stern"
+    },
+    {
+      "n": 18,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "a pistol in the bush and Redruth falling; the cannonade all evening, round shot plumping into the sand"
+    },
+    {
+      "n": 19,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "Jim at the stockade; the last of the cannonade"
+    },
+    {
+      "n": 20,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "Silver’s embassy under the flag of truce: the dread from the flag until he spits into the spring"
+    },
+    {
+      "n": 21,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "the attack: the scattering volley, the rush over the palisade, hand to hand; the death motif for the fallen"
     }
   ]
 }

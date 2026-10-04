@@ -670,3 +670,229 @@ Every quotation and the voice it was given. **Tagged** lines follow Stevenson’
 - ¶55 · **Ben Gunn** · *corrected* · “Left, left,”
 - ¶55 · **Ben Gunn** · *corrected* · “keep to your left hand, mate Jim! Under the trees with you! Theer’s where I killed my first goat…
 - ¶55 · **Ben Gunn** · *corrected* · “You see the mounds? I come here and prayed, nows and thens, when I thought maybe a Sunday would …
+
+## Chapter XVI — Narrative Continued by the Doctor: How the Ship Was Abandoned
+
+- ¶4 · **Dr Livesey** · *inferred* · “Lillibullero.”
+- ¶6 · **Dr Livesey** · *inferred* · “Lillibullero”
+- ¶6 · **Dr Livesey** · *inferred* · “Lillibullero.”
+- ¶10 · **Dr Livesey** · *inferred* · “Jim Hawkins is gone,”
+- ¶14 · **Captain Smollett** · “There’s a man,”
+- ¶14 · **Captain Smollett** · “new to this work. He came nigh-hand fainting, doctor, when he heard the cry. Another touch of th…
+- ¶18 · **Captain Smollett** · *corrected* · “Mr. Hands,”
+- ¶18 · **Captain Smollett** · *corrected* · “here are two of us with a brace of pistols each. If any one of you six make a signal of any desc…
+- ¶20 · **Captain Smollett** · “Down, dog!”
+- ¶23 · **Dr Livesey** · *corrected* · “Lillibullero”
+- ¶29 · **Captain Smollett** · *inferred* · “Now, men,”
+- ¶29 · **Captain Smollett** · *inferred* · “do you hear me?”
+- ¶31 · **Captain Smollett** · *corrected* · “It’s to you, Abraham Gray--it’s to you I am speaking.”
+- ¶33 · **Captain Smollett** · “Gray,”
+- ¶33 · **Captain Smollett** · “I am leaving this ship, and I order you to follow your captain. I know you are a good man at bot…
+- ¶35 · **Captain Smollett** · “Come, my fine fellow,”
+- ¶35 · **Captain Smollett** · “don’t hang so long in stays. I’m risking my life and the lives of these good gentlemen every sec…
+- ¶37 · **Dr Livesey** · *inferred* · “I’m with you, sir,”
+
+## Chapter XVII — Narrative Continued by the Doctor: The Jolly-boat’s Last Trip
+
+- ¶5 · **Dr Livesey** · *corrected* · “I cannot keep her head for the stockade, sir,”
+- ¶5 · **Dr Livesey** · *corrected* · “The tide keeps washing her down. Could you pull a little stronger?”
+- ¶6 · **Captain Smollett** · *inferred* · “Not without swamping the boat,”
+- ¶6 · **Captain Smollett** · *inferred* · “You must bear up, sir, if you please--bear up until you see you’re gaining.”
+- ¶8 · **Dr Livesey** · “We’ll never get ashore at this rate,”
+- ¶9 · **Captain Smollett** · “If it’s the only course that we can lie, sir, we must even lie it,”
+- ¶9 · **Captain Smollett** · “We must keep upstream. You see, sir,”
+- ¶9 · **Captain Smollett** · “if once we dropped to leeward of the landing-place, it’s hard to say where we should get ashore,…
+- ¶10 · **Dr Livesey** · “The current’s less a’ready, sir,”
+- ¶10 · **Dr Livesey** · “you can ease her off a bit.”
+- ¶11 · **Dr Livesey** · “Thank you, my man,”
+- ¶13 · **Captain Smollett** · *corrected* · “The gun!”
+- ¶14 · **Dr Livesey** · “I have thought of that,”
+- ¶14 · **Dr Livesey** · “They could never get the gun ashore, and if they did, they could never haul it through the woods.”
+- ¶15 · **Captain Smollett** · “Look astern, doctor,”
+- ¶17 · **Dr Livesey** · “Israel was Flint’s gunner,”
+- ¶20 · **Captain Smollett** · “Who’s the best shot?”
+- ¶21 · **Dr Livesey** · “Mr. Trelawney, out and away,”
+- ¶22 · **Captain Smollett** · “Mr. Trelawney, will you please pick me off one of these men, sir? Hands, if possible,”
+- ¶24 · **Captain Smollett** · “Now,”
+- ¶24 · **Captain Smollett** · “easy with that gun, sir, or you’ll swamp the boat. All hands stand by to trim her when he aims.”
+- ¶28 · **Dr Livesey** · “Here come the gigs, sir,”
+- ¶29 · **Captain Smollett** · “Give way, then,”
+- ¶29 · **Captain Smollett** · “We mustn’t mind if we swamp her now. If we can’t get ashore, all’s up.”
+- ¶30 · **Dr Livesey** · “Only one of the gigs is being manned, sir,”
+- ¶30 · **Dr Livesey** · “the crew of the other most likely going round by shore to cut us off.”
+- ¶31 · **Captain Smollett** · “They’ll have a hot run, sir,”
+- ¶31 · **Captain Smollett** · “Jack ashore, you know. It’s not them I mind; it’s the round-shot. Carpet bowls! My lady’s maid c…
+- ¶33 · **Captain Smollett** · “If I durst,”
+- ¶33 · **Captain Smollett** · “I’d stop and pick off another man.”
+- ¶35 · **Squire Trelawney** · “Ready!”
+- ¶36 · **Captain Smollett** · “Hold!”
+
+## Chapter XVIII — Narrative Continued by the Doctor: End of the First Day’s Fighting
+
+- ¶4 · **Dr Livesey** · “Captain,”
+- ¶4 · **Dr Livesey** · “Trelawney is the dead shot. Give him your gun; his own is useless.”
+- ¶14 · **Dr Livesey** · *corrected* · “Be I going, doctor?”
+- ¶15 · **Dr Livesey** · “Tom, my man,”
+- ¶15 · **Dr Livesey** · “you’re going home.”
+- ¶16 · **Dr Livesey** · *corrected* · “I wish I had had a lick at them with the gun first,”
+- ¶17 · **Squire Trelawney** · “Tom,”
+- ¶17 · **Squire Trelawney** · “say you forgive me, won’t you?”
+- ¶18 · **Dr Livesey** · *corrected* · “Would that be respectful like, from me to you, squire?”
+- ¶18 · **Dr Livesey** · *corrected* · “Howsoever, so be it, amen!”
+- ¶19 · **Dr Livesey** · *corrected* · “It’s the custom, sir,”
+- ¶22 · **Captain Smollett** · *corrected* · “Don’t you take on, sir,”
+- ¶22 · **Captain Smollett** · *corrected* · “All’s well with him; no fear for a hand that’s been shot down in his duty to captain and owner. …
+- ¶24 · **Captain Smollett** · *corrected* · “Dr. Livesey,”
+- ¶24 · **Captain Smollett** · *corrected* · “in how many weeks do you and squire expect the consort?”
+- ¶25 · **Dr Livesey** · “You can calculate for yourself,”
+- ¶26 · **Captain Smollett** · “Why, yes,”
+- ¶26 · **Captain Smollett** · “and making a large allowance, sir, for all the gifts of Providence, I should say we were pretty …
+- ¶27 · **Dr Livesey** · “How do you mean?”
+- ¶28 · **Captain Smollett** · “It’s a pity, sir, we lost that second load. That’s what I mean,”
+- ¶28 · **Captain Smollett** · “As for powder and shot, we’ll do. But the rations are short, very short--so short, Dr. Livesey, …
+- ¶31 · **Captain Smollett** · “Oho!”
+- ¶31 · **Captain Smollett** · “Blaze away! You’ve little enough powder already, my lads.”
+- ¶33 · **Squire Trelawney** · “Captain,”
+- ¶33 · **Squire Trelawney** · “the house is quite invisible from the ship. It must be the flag they are aiming at. Would it not…
+- ¶34 · **Captain Smollett** · “Strike my colours!”
+- ¶34 · **Captain Smollett** · “No, sir, not I”
+- ¶36 · **Captain Smollett** · “There is one good thing about all this,”
+- ¶36 · **Captain Smollett** · “the wood in front of us is likely clear. The ebb has made a good while; our stores should be unc…
+- ¶42 · **Dr Livesey** · “Somebody hailing us,”
+- ¶43 · **Jim Hawkins** · *corrected* · “Doctor! Squire! Captain! Hullo, Hunter, is that you?”
+
+## Chapter XIX — Narrative Resumed by Jim Hawkins: The Garrison in the Stockade
+
+- ¶3 · **Ben Gunn** · *corrected* · “Now,”
+- ¶3 · **Ben Gunn** · *corrected* · “there’s your friends, sure enough.”
+- ¶4 · **Jim Hawkins** · “Far more likely it’s the mutineers,”
+- ¶5 · **Ben Gunn** · *corrected* · “That!”
+- ¶5 · **Ben Gunn** · *corrected* · “Why, in a place like this, where nobody puts in but gen’lemen of fortune, Silver would fly the J…
+- ¶6 · **Jim Hawkins** · “Well,”
+- ¶6 · **Jim Hawkins** · “that may be so, and so be it; all the more reason that I should hurry on and join my friends.”
+- ¶7 · **Ben Gunn** · “Nay, mate,”
+- ¶7 · **Ben Gunn** · “not you. You’re a good boy, or I’m mistook; but you’re on’y a boy, all told. Now, Ben Gunn is fl…
+- ¶9 · **Ben Gunn** · *corrected* · “And when Ben Gunn is wanted, you know where to find him, Jim. Just wheer you found him today. An…
+- ¶10 · **Jim Hawkins** · “Well,”
+- ¶10 · **Jim Hawkins** · “I believe I understand. You have something to propose, and you wish to see the squire or the doc…
+- ¶11 · **Ben Gunn** · *inferred* · “And when? says you,”
+- ¶11 · **Ben Gunn** · *inferred* · “Why, from about noon observation to about six bells.”
+- ¶12 · **Jim Hawkins** · “Good,”
+- ¶12 · **Jim Hawkins** · “and now may I go?”
+- ¶13 · **Ben Gunn** · *corrected* · “You won’t forget?”
+- ¶13 · **Ben Gunn** · *corrected* · “Precious sight, and reasons of his own, says you. Reasons of his own; that’s the mainstay; as be…
+- ¶13 · **Ben Gunn** · *corrected* · “I reckon you can go, Jim. And, Jim, if you was to see Silver, you wouldn’t go for to sell Ben Gu…
+- ¶21 · **Jim Hawkins** · *corrected* · “to her bearings,”
+- ¶28 · **Dr Livesey** · *corrected* · “That man Smollett,”
+- ¶28 · **Dr Livesey** · *corrected* · “is a better man than I am. And when I say that it means a deal, Jim.”
+- ¶30 · **Dr Livesey** · *corrected* · “Is this Ben Gunn a man?”
+- ¶31 · **Jim Hawkins** · “I do not know, sir,”
+- ¶31 · **Jim Hawkins** · “I am not very sure whether he’s sane.”
+- ¶32 · **Dr Livesey** · “If there’s any doubt about the matter, he is,”
+- ¶32 · **Dr Livesey** · “A man who has been three years biting his nails on a desert island, Jim, can’t expect to appear …
+- ¶33 · **Jim Hawkins** · “Yes, sir, cheese,”
+- ¶34 · **Dr Livesey** · *inferred* · “Well, Jim,”
+- ¶34 · **Dr Livesey** · *inferred* · “just see the good that comes of being dainty in your food. You’ve seen my snuff-box, haven’t you…
+- ¶35 · **Jim Hawkins** · *inferred* · “must get back to this tomorrow rather livelier.”
+- ¶38 · **Dr Livesey** · *inferred* · “So,”
+- ¶38 · **Dr Livesey** · *inferred* · “if we are not all shot down first they’ll be glad to be packing in the schooner. It’s always a s…
+- ¶39 · **Captain Smollett** · “First ship that ever I lost,”
+- ¶42 · **Jim Hawkins** · *corrected* · “Flag of truce!”
+- ¶42 · **Jim Hawkins** · *corrected* · “Silver himself!”
+
+## Chapter XX — Silver’s Embassy
+
+- ¶4 · **Captain Smollett** · “Keep indoors, men,”
+- ¶4 · **Captain Smollett** · “Ten to one this is a trick.”
+- ¶6 · **Captain Smollett** · *inferred* · “Who goes? Stand, or we fire.”
+- ¶7 · **Long John Silver** · “Flag of truce,”
+- ¶8 · **Captain Smollett** · *corrected* · “Doctor’s watch on the lookout. Dr. Livesey take the north side, if you please; Jim, the east; Gr…
+- ¶10 · **Captain Smollett** · *corrected* · “And what do you want with your flag of truce?”
+- ¶12 · **Jim Hawkins** · *corrected* · “Cap’n Silver, sir, to come on board and make terms,”
+- ¶13 · **Captain Smollett** · “Cap’n Silver! Don’t know him. Who’s he?”
+- ¶13 · **Captain Smollett** · “Cap’n, is it? My heart, and here’s promotion!”
+- ¶14 · **Long John Silver** · “Me, sir. These poor lads have chosen me cap’n, after your desertion, sir”
+- ¶14 · **Long John Silver** · “desertion.”
+- ¶14 · **Long John Silver** · “We’re willing to submit, if we can come to terms, and no bones about it. All I ask is your word,…
+- ¶15 · **Captain Smollett** · “My man,”
+- ¶15 · **Captain Smollett** · “I have not the slightest desire to talk to you. If you wish to talk to me, you can come, that’s …
+- ¶16 · **Long John Silver** · “That’s enough, Cap’n,”
+- ¶16 · **Long John Silver** · “A word from you’s enough. I know a gentleman, and you may lay to that.”
+- ¶18 · **Jim Hawkins** · *corrected* · “Come, Lasses and Lads.”
+- ¶20 · **Captain Smollett** · “Here you are, my man,”
+- ¶20 · **Captain Smollett** · “You had better sit down.”
+- ¶21 · **Long John Silver** · *inferred* · “You ain’t a-going to let me inside, Cap’n?”
+- ¶21 · **Long John Silver** · *inferred* · “It’s a main cold morning, to be sure, sir, to sit outside upon the sand.”
+- ¶22 · **Captain Smollett** · “Why, Silver,”
+- ¶22 · **Captain Smollett** · “if you had pleased to be an honest man, you might have been sitting in your galley. It’s your ow…
+- ¶23 · **Long John Silver** · “Well, well, Cap’n,”
+- ¶23 · **Long John Silver** · “you’ll have to give me a hand up again, that’s all. A sweet pretty place you have of it here. Ah…
+- ¶24 · **Captain Smollett** · “If you have anything to say, my man, better say it,”
+- ¶25 · **Long John Silver** · “Right you were, Cap’n Smollett,”
+- ¶25 · **Long John Silver** · “Dooty is dooty, to be sure. Well now, you look here, that was a good lay of yours last night. I …
+- ¶26 · **Captain Smollett** · “Well?”
+- ¶28 · **Long John Silver** · “Well, here it is,”
+- ¶28 · **Long John Silver** · “We want that treasure, and we’ll have it--that’s our point! You would just as soon save your liv…
+- ¶29 · **Captain Smollett** · “That’s as may be,”
+- ¶30 · **Long John Silver** · “Oh, well, you have, I know that,”
+- ¶30 · **Long John Silver** · “You needn’t be so husky with a man; there ain’t a particle of service in that, and you may lay t…
+- ¶31 · **Captain Smollett** · “That won’t do with me, my man,”
+- ¶31 · **Captain Smollett** · “We know exactly what you meant to do, and we don’t care, for now, you see, you can’t do it.”
+- ¶33 · **Long John Silver** · *inferred* · “If Abe Gray--”
+- ¶34 · **Captain Smollett** · “Avast there!”
+- ¶34 · **Captain Smollett** · “Gray told me nothing, and I asked him nothing; and what’s more, I would see you and him and this…
+- ¶36 · **Long John Silver** · *inferred* · “Like enough,”
+- ¶36 · **Long John Silver** · *inferred* · “I would set no limits to what gentlemen might consider shipshape, or might not, as the case were…
+- ¶38 · **Long John Silver** · “Now,”
+- ¶38 · **Long John Silver** · “here it is. You give us the chart to get the treasure by, and drop shooting poor seamen and stov…
+- ¶38 · **Long John Silver** · “that all hands in this here block house will overhaul my words, for what is spoke to one is spok…
+- ¶40 · **Captain Smollett** · *inferred* · “Is that all?”
+- ¶41 · **Long John Silver** · “Every last word, by thunder!”
+- ¶41 · **Long John Silver** · “Refuse that, and you’ve seen the last of me but musket-balls.”
+- ¶42 · **Captain Smollett** · “Very good,”
+- ¶42 · **Captain Smollett** · “Now you’ll hear me. If you’ll come up one by one, unarmed, I’ll engage to clap you all in irons …
+- ¶44 · **Long John Silver** · *inferred* · “Give me a hand up!”
+- ¶45 · **Captain Smollett** · “Not I,”
+- ¶46 · **Long John Silver** · *inferred* · “Who’ll give me a hand up?”
+- ¶48 · **Long John Silver** · *corrected* · “There!”
+- ¶48 · **Long John Silver** · *corrected* · “That’s what I think of ye. Before an hour’s out, I’ll stove in your old block house like a rum p…
+
+## Chapter XXI — The Attack
+
+- ¶3 · **Captain Smollett** · *corrected* · “Quarters!”
+- ¶3 · **Captain Smollett** · *corrected* · “Gray,”
+- ¶3 · **Captain Smollett** · *corrected* · “I’ll put your name in the log; you’ve stood by your duty like a seaman. Mr. Trelawney, I’m surpr…
+- ¶6 · **Captain Smollett** · *corrected* · “My lads,”
+- ¶6 · **Captain Smollett** · *corrected* · “I’ve given Silver a broadside. I pitched it in red-hot on purpose; and before the hour’s out, as…
+- ¶9 · **Captain Smollett** · “Toss out the fire,”
+- ¶9 · **Captain Smollett** · “the chill is past, and we mustn’t have smoke in our eyes.”
+- ¶11 · **Captain Smollett** · “Hawkins hasn’t had his breakfast. Hawkins, help yourself, and back to your post to eat it,”
+- ¶11 · **Captain Smollett** · “Lively, now, my lad; you’ll want it before you’ve done. Hunter, serve out a round of brandy to a…
+- ¶13 · **Captain Smollett** · *corrected* · “Doctor, you will take the door,”
+- ¶13 · **Captain Smollett** · *corrected* · “See, and don’t expose yourself; keep within, and fire through the porch. Hunter, take the east s…
+- ¶16 · **Captain Smollett** · “Hang them!”
+- ¶16 · **Captain Smollett** · “This is as dull as the doldrums. Gray, whistle for a wind.”
+- ¶18 · **Jim Hawkins** · “If you please, sir,”
+- ¶18 · **Jim Hawkins** · “if I see anyone, am I to fire?”
+- ¶19 · **Captain Smollett** · “I told you so!”
+- ¶20 · **Jim Hawkins** · “Thank you, sir,”
+- ¶23 · **Captain Smollett** · “Did you hit your man?”
+- ¶24 · **Jim Hawkins** · “No, sir,”
+- ¶24 · **Jim Hawkins** · “I believe not, sir.”
+- ¶25 · **Captain Smollett** · “Next best thing to tell the truth,”
+- ¶25 · **Captain Smollett** · “Load his gun, Hawkins. How many should say there were on your side, doctor?”
+- ¶26 · **Dr Livesey** · “I know precisely,”
+- ¶26 · **Dr Livesey** · “Three shots were fired on this side. I saw the three flashes--two close together--one farther to…
+- ¶27 · **Captain Smollett** · “Three!”
+- ¶27 · **Captain Smollett** · “And how many on yours, Mr. Trelawney?”
+- ¶34 · **Jim Hawkins** · *corrected* · “At ’em, all hands--all hands!”
+- ¶38 · **Captain Smollett** · “Out, lads, out, and fight ’em in the open! Cutlasses!”
+- ¶40 · **Captain Smollett** · “Round the house, lads! Round the house!”
+- ¶44 · **Dr Livesey** · “Fire--fire from the house!”
+- ¶44 · **Dr Livesey** · “And you, lads, back into cover.”
+- ¶48 · **Squire Trelawney** · “The captain’s wounded,”
+- ¶49 · **Captain Smollett** · “Have they run?”
+- ¶50 · **Dr Livesey** · “All that could, you may be bound,”
+- ¶50 · **Dr Livesey** · “but there’s five of them will never run again.”
+- ¶51 · **Captain Smollett** · “Five!”
+- ¶51 · **Captain Smollett** · “Come, that’s better. Five against three leaves us four to nine. That’s better odds than we had a…

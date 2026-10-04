@@ -1,0 +1,537 @@
+{
+ "work": "treasure-island",
+ "episode": 18,
+ "chapter": 18,
+ "title": "Narrative Continued by the Doctor: End of the First Day’s Fighting",
+ "document": "PART FOUR · CHAPTER XVIII",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch18.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Told by the doctor: the narrator is Dr Livesey, and the brief speakers he reports are his. Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Ben Gunn",
+   "cast_as": "James Joyce"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "CHAPTER XVIII"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "NARRATIVE CONTINUED BY THE DOCTOR: END OF THE FIRST DAY’S FIGHTING"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "We made our best speed across the strip of wood that now divided us from\nthe stockade, and at every step we took the voices of the buccaneers\nrang nearer. Soon we could hear their footfalls as they ran and the\ncracking of the branches as they breasted across a bit of thicket."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "I began to see we should have a brush for it in earnest and looked to my\npriming."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Captain,” said I, “Trelawney is the dead shot. Give him your gun; his\nown is useless.”"
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "They exchanged guns, and Trelawney, silent and cool as he had been since\nthe beginning of the bustle, hung a moment on his heel to see that all\nwas fit for service. At the same time, observing Gray to be unarmed, I\nhanded him my cutlass. It did all our hearts good to see him spit in his\nhand, knit his brows, and make the blade sing through the air. It was\nplain from every line of his body that our new hand was worth his salt."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "Forty paces farther we came to the edge of the wood and saw the stockade\nin front of us. We struck the enclosure about the middle of the south\nside, and almost at the same time, seven mutineers--Job Anderson, the\nboatswain, at their head--appeared in full cry at the southwestern\ncorner."
+  },
+  {
+   "n": 8,
+   "sfx": [
+    {
+     "key": "musket_volley_far",
+     "at": "The four shots came in rather a scattering volley"
+    },
+    {
+     "key": "crew_death",
+     "at": "one of the enemy actually fell",
+     "offset": 1.2
+    }
+   ],
+   "para": 7,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "They paused as if taken aback, and before they recovered, not only the\nsquire and I, but Hunter and Joyce from the block house, had time to\nfire. The four shots came in rather a scattering volley, but they did\nthe business: one of the enemy actually fell, and the rest, without\nhesitation, turned and plunged into the trees."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "After reloading, we walked down the outside of the palisade to see to\nthe fallen enemy. He was stone dead--shot through the heart."
+  },
+  {
+   "n": 10,
+   "sfx": [
+    {
+     "key": "pistol_near",
+     "at": "a pistol cracked in the bush"
+    },
+    {
+     "key": "crew_death",
+     "at": "poor Tom Redruth stumbled and fell his length on the ground",
+     "offset": 0.8
+    }
+   ],
+   "para": 9,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "We began to rejoice over our good success when just at that moment a\npistol cracked in the bush, a ball whistled close past my ear, and poor\nTom Redruth stumbled and fell his length on the ground. Both the squire\nand I returned the shot, but as we had nothing to aim at, it is probable\nwe only wasted powder. Then we reloaded and turned our attention to poor\nTom."
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "The captain and Gray were already examining him, and I saw with half an\neye that all was over."
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "I believe the readiness of our return volley had scattered the mutineers\nonce more, for we were suffered without further molestation to get the\npoor old gamekeeper hoisted over the stockade and carried, groaning and\nbleeding, into the log-house."
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "Poor old fellow, he had not uttered one word of surprise, complaint,\nfear, or even acquiescence from the very beginning of our troubles till\nnow, when we had laid him down in the log-house to die. He had lain like\na Trojan behind his mattress in the gallery; he had followed every order\nsilently, doggedly, and well; he was the oldest of our party by a score\nof years; and now, sullen, old, serviceable servant, it was he that was\nto die."
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "The squire dropped down beside him on his knees and kissed his hand,\ncrying like a child."
+  },
+  {
+   "n": 15,
+   "para": 14,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Be I going, doctor?” he asked."
+  },
+  {
+   "n": 16,
+   "para": 15,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Tom, my man,” said I, “you’re going home.”"
+  },
+  {
+   "n": 17,
+   "para": 16,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“I wish I had had a lick at them with the gun first,” he replied."
+  },
+  {
+   "n": 18,
+   "para": 17,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Tom,”"
+  },
+  {
+   "n": 19,
+   "para": 17,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "said the squire,"
+  },
+  {
+   "n": 20,
+   "para": 17,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“say you forgive me, won’t you?”"
+  },
+  {
+   "n": 21,
+   "para": 18,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Would that be respectful like, from me to you, squire?” was the answer.\n“Howsoever, so be it, amen!”"
+  },
+  {
+   "n": 22,
+   "para": 19,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "After a little while of silence, he said he thought somebody might read\na prayer. “It’s the custom, sir,” he added apologetically. And not long\nafter, without another word, he passed away."
+  },
+  {
+   "n": 23,
+   "para": 20,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "In the meantime the captain, whom I had observed to be wonderfully\nswollen about the chest and pockets, had turned out a great many various\nstores--the British colours, a Bible, a coil of stoutish rope, pen, ink,\nthe log-book, and pounds of tobacco. He had found a longish fir-tree\nlying felled and trimmed in the enclosure, and with the help of Hunter\nhe had set it up at the corner of the log-house where the trunks crossed\nand made an angle. Then, climbing on the roof, he had with his own hand\nbent and run up the colours."
+  },
+  {
+   "n": 24,
+   "para": 21,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "This seemed mightily to relieve him. He re-entered the log-house and set\nabout counting up the stores as if nothing else existed. But he had an\neye on Tom’s passage for all that, and as soon as all was over, came\nforward with another flag and reverently spread it on the body."
+  },
+  {
+   "n": 25,
+   "para": 22,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Don’t you take on, sir,”"
+  },
+  {
+   "n": 26,
+   "para": 22,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "he said, shaking the squire’s hand."
+  },
+  {
+   "n": 27,
+   "para": 22,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“All’s\nwell with him; no fear for a hand that’s been shot down in his duty to\ncaptain and owner. It mayn’t be good divinity, but it’s a fact.”"
+  },
+  {
+   "n": 28,
+   "para": 23,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "Then he pulled me aside."
+  },
+  {
+   "n": 29,
+   "para": 24,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Dr. Livesey,”"
+  },
+  {
+   "n": 30,
+   "para": 24,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "he said,"
+  },
+  {
+   "n": 31,
+   "para": 24,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“in how many weeks do you and squire expect the\nconsort?”"
+  },
+  {
+   "n": 32,
+   "para": 25,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "I told him it was a question not of weeks but of months, that if we\nwere not back by the end of August Blandly was to send to find us, but\nneither sooner nor later. “You can calculate for yourself,” I said."
+  },
+  {
+   "n": 33,
+   "para": 26,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Why, yes,”"
+  },
+  {
+   "n": 34,
+   "para": 26,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "returned the captain, scratching his head;"
+  },
+  {
+   "n": 35,
+   "para": 26,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“and making a\nlarge allowance, sir, for all the gifts of Providence, I should say we\nwere pretty close hauled.”"
+  },
+  {
+   "n": 36,
+   "para": 27,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“How do you mean?” I asked."
+  },
+  {
+   "n": 37,
+   "para": 28,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“It’s a pity, sir, we lost that second load. That’s what I mean,”"
+  },
+  {
+   "n": 38,
+   "para": 28,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "replied the captain."
+  },
+  {
+   "n": 39,
+   "para": 28,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“As for powder and shot, we’ll do. But the rations\nare short, very short--so short, Dr. Livesey, that we’re perhaps as well\nwithout that extra mouth.”"
+  },
+  {
+   "n": 40,
+   "para": 29,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "And he pointed to the dead body under the flag."
+  },
+  {
+   "n": 41,
+   "sfx": [
+    {
+     "key": "round_shot_sand",
+     "at": "with a roar and a whistle, a round-shot passed high above the roof",
+     "offset": -1.3
+    }
+   ],
+   "para": 30,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "Just then, with a roar and a whistle, a round-shot passed high above the\nroof of the log-house and plumped far beyond us in the wood."
+  },
+  {
+   "n": 42,
+   "para": 31,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Oho!”"
+  },
+  {
+   "n": 43,
+   "para": 31,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "said the captain."
+  },
+  {
+   "n": 44,
+   "para": 31,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Blaze away! You’ve little enough powder\nalready, my lads.”"
+  },
+  {
+   "n": 45,
+   "sfx": [
+    {
+     "key": "round_shot_sand",
+     "at": "the ball descended inside the stockade",
+     "offset": -2.8
+    }
+   ],
+   "para": 32,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "At the second trial, the aim was better, and the ball descended inside\nthe stockade, scattering a cloud of sand but doing no further damage."
+  },
+  {
+   "n": 46,
+   "para": 33,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“Captain,”"
+  },
+  {
+   "n": 47,
+   "para": 33,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "said the squire,"
+  },
+  {
+   "n": 48,
+   "para": 33,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“the house is quite invisible from the ship.\nIt must be the flag they are aiming at. Would it not be wiser to take it\nin?”"
+  },
+  {
+   "n": 49,
+   "para": 34,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Strike my colours!”"
+  },
+  {
+   "n": 50,
+   "para": 34,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "cried the captain."
+  },
+  {
+   "n": 51,
+   "para": 34,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“No, sir, not I”"
+  },
+  {
+   "n": 52,
+   "para": 34,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "; and as soon\nas he had said the words, I think we all agreed with him. For it was\nnot only a piece of stout, seamanly, good feeling; it was good policy\nbesides and showed our enemies that we despised their cannonade."
+  },
+  {
+   "n": 53,
+   "sfx": [
+    {
+     "key": "cannonade",
+     "at": "All through the evening they kept thundering away"
+    }
+   ],
+   "para": 35,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "All through the evening they kept thundering away. Ball after ball flew\nover or fell short or kicked up the sand in the enclosure, but they had\nto fire so high that the shot fell dead and buried itself in the soft\nsand. We had no ricochet to fear, and though one popped in through the\nroof of the log-house and out again through the floor, we soon got used\nto that sort of horse-play and minded it no more than cricket."
+  },
+  {
+   "n": 54,
+   "para": 36,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“There is one good thing about all this,”"
+  },
+  {
+   "n": 55,
+   "para": 36,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "observed the captain;"
+  },
+  {
+   "n": 56,
+   "para": 36,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“the\nwood in front of us is likely clear. The ebb has made a good while; our\nstores should be uncovered. Volunteers to go and bring in pork.”"
+  },
+  {
+   "n": 57,
+   "para": 37,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "Gray and Hunter were the first to come forward. Well armed, they stole\nout of the stockade, but it proved a useless mission. The mutineers were\nbolder than we fancied or they put more trust in Israel’s gunnery. For\nfour or five of them were busy carrying off our stores and wading out\nwith them to one of the gigs that lay close by, pulling an oar or so to\nhold her steady against the current. Silver was in the stern-sheets in\ncommand; and every man of them was now provided with a musket from some\nsecret magazine of their own."
+  },
+  {
+   "n": 58,
+   "para": 38,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "The captain sat down to his log, and here is the beginning of the entry:"
+  },
+  {
+   "n": 59,
+   "para": 39,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "Alexander Smollett, master; David Livesey, ship’s\n     doctor; Abraham Gray, carpenter’s mate; John\n     Trelawney, owner; John Hunter and Richard Joyce,\n     owner’s servants, landsmen--being all that is left\n     faithful of the ship’s company--with stores for ten\n     days at short rations, came ashore this day and flew\n     British colours on the log-house in Treasure Island.\n     Thomas Redruth, owner’s servant, landsman, shot by the\n     mutineers; James Hawkins, cabin-boy--"
+  },
+  {
+   "n": 60,
+   "para": 40,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "And at the same time, I was wondering over poor Jim Hawkins’ fate."
+  },
+  {
+   "n": 61,
+   "para": 41,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "A hail on the land side."
+  },
+  {
+   "n": 62,
+   "para": 42,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Somebody hailing us,” said Hunter, who was on guard."
+  },
+  {
+   "n": 63,
+   "para": 43,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Doctor! Squire! Captain! Hullo, Hunter, is that you?”"
+  },
+  {
+   "n": 64,
+   "para": 43,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "came the cries."
+  },
+  {
+   "n": 65,
+   "para": 44,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "And I ran to the door in time to see Jim Hawkins, safe and sound, come\nclimbing over the stockade."
+  }
+ ]
+}

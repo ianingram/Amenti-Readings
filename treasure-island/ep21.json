@@ -1,0 +1,673 @@
+{
+ "work": "treasure-island",
+ "episode": 21,
+ "chapter": 21,
+ "title": "The Attack",
+ "document": "PART FOUR · CHAPTER XXI",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch21.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Ben Gunn",
+   "cast_as": "James Joyce"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER XXI"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "THE ATTACK"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "As soon as Silver disappeared, the captain, who had been closely\nwatching him, turned towards the interior of the house and found not a\nman of us at his post but Gray. It was the first time we had ever seen\nhim angry."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Quarters!”"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he roared. And then, as we all slunk back to our places,"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Gray,”"
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he said,"
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I’ll put your name in the log; you’ve stood by your\nduty like a seaman. Mr. Trelawney, I’m surprised at you, sir. Doctor,\nI thought you had worn the king’s coat! If that was how you served at\nFontenoy, sir, you’d have been better in your berth.”"
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The doctor’s watch were all back at their loopholes, the rest were busy\nloading the spare muskets, and everyone with a red face, you may be\ncertain, and a flea in his ear, as the saying is."
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The captain looked on for a while in silence. Then he spoke."
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“My lads,”"
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said he,"
+  },
+  {
+   "n": 13,
+   "para": 6,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I’ve given Silver a broadside. I pitched it in\nred-hot on purpose; and before the hour’s out, as he said, we shall be\nboarded. We’re outnumbered, I needn’t tell you that, but we fight in\nshelter; and a minute ago I should have said we fought with discipline.\nI’ve no manner of doubt that we can drub them, if you choose.”"
+  },
+  {
+   "n": 14,
+   "para": 7,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Then he went the rounds and saw, as he said, that all was clear."
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "On the two short sides of the house, east and west, there were only two\nloopholes; on the south side where the porch was, two again; and on the\nnorth side, five. There was a round score of muskets for the seven\nof us; the firewood had been built into four piles--tables, you might\nsay--one about the middle of each side, and on each of these tables some\nammunition and four loaded muskets were laid ready to the hand of the\ndefenders. In the middle, the cutlasses lay ranged."
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Toss out the fire,”"
+  },
+  {
+   "n": 17,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain;"
+  },
+  {
+   "n": 18,
+   "para": 9,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“the chill is past, and we\nmustn’t have smoke in our eyes.”"
+  },
+  {
+   "n": 19,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The iron fire-basket was carried bodily out by Mr. Trelawney, and the\nembers smothered among sand."
+  },
+  {
+   "n": 20,
+   "para": 11,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Hawkins hasn’t had his breakfast. Hawkins, help yourself, and back to\nyour post to eat it,”"
+  },
+  {
+   "n": 21,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "continued Captain Smollett."
+  },
+  {
+   "n": 22,
+   "para": 11,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Lively, now, my lad;\nyou’ll want it before you’ve done. Hunter, serve out a round of brandy\nto all hands.”"
+  },
+  {
+   "n": 23,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And while this was going on, the captain completed, in his own mind, the\nplan of the defence."
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Doctor, you will take the door,”"
+  },
+  {
+   "n": 25,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he resumed."
+  },
+  {
+   "n": 26,
+   "para": 13,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“See, and don’t expose\nyourself; keep within, and fire through the porch. Hunter, take the east\nside, there. Joyce, you stand by the west, my man. Mr. Trelawney, you\nare the best shot--you and Gray will take this long north side, with the\nfive loopholes; it’s there the danger is. If they can get up to it and\nfire in upon us through our own ports, things would begin to look dirty.\nHawkins, neither you nor I are much account at the shooting; we’ll stand\nby to load and bear a hand.”"
+  },
+  {
+   "n": 27,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "As the captain had said, the chill was past. As soon as the sun had\nclimbed above our girdle of trees, it fell with all its force upon the\nclearing and drank up the vapours at a draught. Soon the sand was baking\nand the resin melting in the logs of the block house. Jackets and coats\nwere flung aside, shirts thrown open at the neck and rolled up to the\nshoulders; and we stood there, each at his post, in a fever of heat and\nanxiety."
+  },
+  {
+   "n": 28,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "An hour passed away."
+  },
+  {
+   "n": 29,
+   "para": 16,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Hang them!”"
+  },
+  {
+   "n": 30,
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the captain."
+  },
+  {
+   "n": 31,
+   "para": 16,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“This is as dull as the doldrums. Gray,\nwhistle for a wind.”"
+  },
+  {
+   "n": 32,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And just at that moment came the first news of the attack."
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“If you please, sir,” said Joyce, “if I see anyone, am I to fire?”"
+  },
+  {
+   "n": 34,
+   "para": 19,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“I told you so!”"
+  },
+  {
+   "n": 35,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the captain."
+  },
+  {
+   "n": 36,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Thank you, sir,” returned Joyce with the same quiet civility."
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Nothing followed for a time, but the remark had set us all on the alert,\nstraining ears and eyes--the musketeers with their pieces balanced in\ntheir hands, the captain out in the middle of the block house with his\nmouth very tight and a frown on his face."
+  },
+  {
+   "n": 38,
+   "sfx": [
+    {
+     "key": "musket_near",
+     "at": "suddenly Joyce whipped up his musket and fired"
+    },
+    {
+     "key": "stockade_attack",
+     "at": "repeated and repeated from without in a scattering volley"
+    }
+   ],
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "So some seconds passed, till suddenly Joyce whipped up his musket\nand fired. The report had scarcely died away ere it was repeated and\nrepeated from without in a scattering volley, shot behind shot, like\na string of geese, from every side of the enclosure. Several bullets\nstruck the log-house, but not one entered; and as the smoke cleared away\nand vanished, the stockade and the woods around it looked as quiet and\nempty as before. Not a bough waved, not the gleam of a musket-barrel\nbetrayed the presence of our foes."
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Did you hit your man?”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "asked the captain."
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“No, sir,” replied Joyce. “I believe not, sir.”"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Next best thing to tell the truth,”"
+  },
+  {
+   "n": 43,
+   "para": 25,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "muttered Captain Smollett."
+  },
+  {
+   "n": 44,
+   "para": 25,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Load\nhis gun, Hawkins. How many should say there were on your side, doctor?”"
+  },
+  {
+   "n": 45,
+   "para": 26,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“I know precisely,”"
+  },
+  {
+   "n": 46,
+   "para": 26,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Dr. Livesey."
+  },
+  {
+   "n": 47,
+   "para": 26,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Three shots were fired on this\nside. I saw the three flashes--two close together--one farther to the\nwest.”"
+  },
+  {
+   "n": 48,
+   "para": 27,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Three!”"
+  },
+  {
+   "n": 49,
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "repeated the captain."
+  },
+  {
+   "n": 50,
+   "para": 27,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“And how many on yours, Mr. Trelawney?”"
+  },
+  {
+   "n": 51,
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "But this was not so easily answered. There had come many from the\nnorth--seven by the squire’s computation, eight or nine according to\nGray. From the east and west only a single shot had been fired. It was\nplain, therefore, that the attack would be developed from the north and\nthat on the other three sides we were only to be annoyed by a show of\nhostilities. But Captain Smollett made no change in his arrangements. If\nthe mutineers succeeded in crossing the stockade, he argued, they would\ntake possession of any unprotected loophole and shoot us down like rats\nin our own stronghold."
+  },
+  {
+   "n": 52,
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Nor had we much time left to us for thought. Suddenly, with a loud\nhuzza, a little cloud of pirates leaped from the woods on the north side\nand ran straight on the stockade. At the same moment, the fire was once\nmore opened from the woods, and a rifle ball sang through the doorway\nand knocked the doctor’s musket into bits."
+  },
+  {
+   "n": 53,
+   "sfx": [
+    {
+     "key": "crew_death",
+     "at": "three men fell, one forwards into the enclosure",
+     "offset": 1.0
+    }
+   ],
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The boarders swarmed over the fence like monkeys. Squire and Gray fired\nagain and yet again; three men fell, one forwards into the enclosure,\ntwo back on the outside. But of these, one was evidently more frightened\nthan hurt, for he was on his feet again in a crack and instantly\ndisappeared among the trees."
+  },
+  {
+   "n": 54,
+   "para": 31,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Two had bit the dust, one had fled, four had made good their footing\ninside our defences, while from the shelter of the woods seven or eight\nmen, each evidently supplied with several muskets, kept up a hot though\nuseless fire on the log-house."
+  },
+  {
+   "n": 55,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The four who had boarded made straight before them for the building,\nshouting as they ran, and the men among the trees shouted back to\nencourage them. Several shots were fired, but such was the hurry of the\nmarksmen that not one appears to have taken effect. In a moment, the\nfour pirates had swarmed up the mound and were upon us."
+  },
+  {
+   "n": 56,
+   "para": 33,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The head of Job Anderson, the boatswain, appeared at the middle\nloophole."
+  },
+  {
+   "n": 57,
+   "para": 34,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“At ’em, all hands--all hands!” he roared in a voice of thunder."
+  },
+  {
+   "n": 58,
+   "para": 35,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At the same moment, another pirate grasped Hunter’s musket by the\nmuzzle, wrenched it from his hands, plucked it through the loophole,\nand with one stunning blow, laid the poor fellow senseless on the floor.\nMeanwhile a third, running unharmed all around the house, appeared\nsuddenly in the doorway and fell with his cutlass on the doctor."
+  },
+  {
+   "n": 59,
+   "para": 36,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Our position was utterly reversed. A moment since we were firing, under\ncover, at an exposed enemy; now it was we who lay uncovered and could\nnot return a blow."
+  },
+  {
+   "n": 60,
+   "para": 37,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The log-house was full of smoke, to which we owed our comparative\nsafety. Cries and confusion, the flashes and reports of pistol-shots,\nand one loud groan rang in my ears."
+  },
+  {
+   "n": 61,
+   "para": 38,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Out, lads, out, and fight ’em in the open! Cutlasses!”"
+  },
+  {
+   "n": 62,
+   "para": 38,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the\ncaptain."
+  },
+  {
+   "n": 63,
+   "para": 39,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I snatched a cutlass from the pile, and someone, at the same time\nsnatching another, gave me a cut across the knuckles which I hardly\nfelt. I dashed out of the door into the clear sunlight. Someone was\nclose behind, I knew not whom. Right in front, the doctor was pursuing\nhis assailant down the hill, and just as my eyes fell upon him, beat\ndown his guard and sent him sprawling on his back with a great slash\nacross the face."
+  },
+  {
+   "n": 64,
+   "para": 40,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Round the house, lads! Round the house!”"
+  },
+  {
+   "n": 65,
+   "para": 40,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the captain; and even in\nthe hurly-burly, I perceived a change in his voice."
+  },
+  {
+   "n": 66,
+   "para": 41,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Mechanically, I obeyed, turned eastwards, and with my cutlass raised,\nran round the corner of the house. Next moment I was face to face\nwith Anderson. He roared aloud, and his hanger went up above his head,\nflashing in the sunlight. I had not time to be afraid, but as the blow\nstill hung impending, leaped in a trice upon one side, and missing my\nfoot in the soft sand, rolled headlong down the slope."
+  },
+  {
+   "n": 67,
+   "para": 42,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "When I had first sallied from the door, the other mutineers had been\nalready swarming up the palisade to make an end of us. One man, in a red\nnight-cap, with his cutlass in his mouth, had even got upon the top and\nthrown a leg across. Well, so short had been the interval that when I\nfound my feet again all was in the same posture, the fellow with the red\nnight-cap still half-way over, another still just showing his head above\nthe top of the stockade. And yet, in this breath of time, the fight was\nover and the victory was ours."
+  },
+  {
+   "n": 68,
+   "para": 43,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Gray, following close behind me, had cut down the big boatswain ere\nhe had time to recover from his last blow. Another had been shot at a\nloophole in the very act of firing into the house and now lay in agony,\nthe pistol still smoking in his hand. A third, as I had seen, the doctor\nhad disposed of at a blow. Of the four who had scaled the palisade, one\nonly remained unaccounted for, and he, having left his cutlass on the\nfield, was now clambering out again with the fear of death upon him."
+  },
+  {
+   "n": 69,
+   "para": 44,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Fire--fire from the house!”"
+  },
+  {
+   "n": 70,
+   "para": 44,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the doctor."
+  },
+  {
+   "n": 71,
+   "para": 44,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“And you, lads, back into\ncover.”"
+  },
+  {
+   "n": 72,
+   "para": 45,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "But his words were unheeded, no shot was fired, and the last boarder\nmade good his escape and disappeared with the rest into the wood. In\nthree seconds nothing remained of the attacking party but the five who\nhad fallen, four on the inside and one on the outside of the palisade."
+  },
+  {
+   "n": 73,
+   "para": 46,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The doctor and Gray and I ran full speed for shelter. The survivors\nwould soon be back where they had left their muskets, and at any moment\nthe fire might recommence."
+  },
+  {
+   "n": 74,
+   "sfx": [
+    {
+     "key": "crew_death",
+     "at": "shot through the head, never to move again",
+     "offset": 0.6
+    }
+   ],
+   "para": 47,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The house was by this time somewhat cleared of smoke, and we saw at\na glance the price we had paid for victory. Hunter lay beside his\nloophole, stunned; Joyce by his, shot through the head, never to move\nagain; while right in the centre, the squire was supporting the captain,\none as pale as the other."
+  },
+  {
+   "n": 75,
+   "para": 48,
+   "role": "Squire Trelawney",
+   "cast": "Francis Drake",
+   "text": "“The captain’s wounded,”"
+  },
+  {
+   "n": 76,
+   "para": 48,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Mr. Trelawney."
+  },
+  {
+   "n": 77,
+   "para": 49,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Have they run?”"
+  },
+  {
+   "n": 78,
+   "para": 49,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "asked Mr. Smollett."
+  },
+  {
+   "n": 79,
+   "para": 50,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“All that could, you may be bound,”"
+  },
+  {
+   "n": 80,
+   "para": 50,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned the doctor;"
+  },
+  {
+   "n": 81,
+   "sfx": [
+    {
+     "key": "crew_death",
+     "at": "five of them will never run again",
+     "offset": 0.6
+    }
+   ],
+   "para": 50,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“but there’s\nfive of them will never run again.”"
+  },
+  {
+   "n": 82,
+   "para": 51,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Five!”"
+  },
+  {
+   "n": 83,
+   "para": 51,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the captain."
+  },
+  {
+   "n": 84,
+   "para": 51,
+   "role": "Captain Smollett",
+   "cast": "James Cook",
+   "text": "“Come, that’s better. Five against three\nleaves us four to nine. That’s better odds than we had at starting. We\nwere seven to nineteen then, or thought we were, and that’s as bad to\nbear.”"
+  },
+  {
+   "n": 85,
+   "para": 51,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "*"
+  },
+  {
+   "n": 86,
+   "para": 52,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "*The mutineers were soon only eight in number, for the man shot by Mr.\nTrelawney on board the schooner died that same evening of his wound. But\nthis was, of course, not known till after by the faithful party."
+  }
+ ]
+}

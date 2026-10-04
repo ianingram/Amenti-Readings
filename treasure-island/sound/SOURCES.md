@@ -65,3 +65,18 @@ Built by `build-part-three.py`.
 | `scream-far.mp3` | one scream rendered through the Amenti voice service, set far off and echoed by the rocks | voice service |
 | `cannon-island.mp3` | this folder's `cannon-far.mp3`, echoed back from the hills | PD |
 | `crew-death.mp3` | the crew's death motif — VSCO 2 CE cello section and solo double bass: a short D, a long low A, the "yo… ho" of the chant, slowed and bowed; gulls crying over it (*Gull 1*, avphillips; *XC707075 Herring Gull*, Sonothèque ADVL) | CC0 / PD |
+
+## Part Four — the Stockade (5 Oct 2026)
+
+Built by `build-part-four.py` from this folder's gunfire and cannon (PD), *Dull thud*
+(gregoryweir, PD), built water, sand, whistling shot and flag, and the battle voices
+recorded for the theme through the Amenti voice service.
+
+| file | what it is |
+|---|---|
+| `long-gun-splash.mp3` | the long nine fired from the ship, the shot roaring over, the splash |
+| `round-shot-sand.mp3` | a round shot at the stockade, plumping into the sand |
+| `cannonade.mp3` | the evening's cannonade, ball after ball |
+| `boat-sinks.mp3` | the jolly-boat going down by the stern |
+| `flag-snap.mp3` | a flag snapping in the wind |
+| `stockade-attack.mp3` | the attack: the scattering volley, then hand to hand over the palisade (40 s) |

@@ -1,0 +1,286 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 2,
+ "chapter": 2,
+ "title": "Act I, Scene II — A Street",
+ "document": "ACT I · SCENE II",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Capulet",
+   "cast_as": "Luciano Pavarotti"
+  },
+  {
+   "role": "Paris",
+   "cast_as": "Titian"
+  },
+  {
+   "role": "Servant",
+   "cast_as": "Umberto Eco"
+  },
+  {
+   "role": "Benvolio",
+   "cast_as": "Guglielmo Marconi"
+  },
+  {
+   "role": "Romeo",
+   "cast_as": "Romulus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE II. A Street."
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Capulet, Paris and\nServant."
+  },
+  {
+   "n": 3,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "But Montague is bound as well as I,\n\nIn penalty alike; and ’tis not hard, I think,\n\nFor men so old as we to keep the peace."
+  },
+  {
+   "n": 4,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Of honourable reckoning are you both,\n\nAnd pity ’tis you liv’d at odds so long.\n\nBut now my lord, what say you to my suit?"
+  },
+  {
+   "n": 5,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "But saying o’er what I have said before.\n\nMy child is yet a stranger in the world,\n\nShe hath not seen the change of fourteen years;\n\nLet two more summers wither in their pride\n\nEre we may think her ripe to be a bride."
+  },
+  {
+   "n": 6,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Younger than she are happy mothers made."
+  },
+  {
+   "n": 7,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "And too soon marr’d are those so early made.\n\nThe earth hath swallowed all my hopes but she,\n\nShe is the hopeful lady of my earth:\n\nBut woo her, gentle Paris, get her heart,\n\nMy will to her consent is but a part;\n\nAnd she agree, within her scope of choice\n\nLies my consent and fair according voice.\n\nThis night I hold an old accustom’d feast,\n\nWhereto I have invited many a guest,\n\nSuch as I love, and you among the store,\n\nOne more, most welcome, makes my number more.\n\nAt my poor house look to behold this night\n\nEarth-treading stars that make dark heaven light:\n\nSuch comfort as do lusty young men feel\n\nWhen well apparell’d April on the heel\n\nOf limping winter treads, even such delight\n\nAmong fresh female buds shall you this night\n\nInherit at my house. Hear all, all see,\n\nAnd like her most whose merit most shall be:\n\nWhich, on more view of many, mine, being one,\n\nMay stand in number, though in reckoning none.\n\nCome, go with me. Go, sirrah, trudge about\n\nThrough fair Verona; find those persons out\n\nWhose names are written there,"
+  },
+  {
+   "n": 8,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*gives a paper*]"
+  },
+  {
+   "n": 9,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "and to them say,\n\nMy house and welcome on their pleasure stay."
+  },
+  {
+   "n": 10,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Capulet and\nParis.*]"
+  },
+  {
+   "n": 11,
+   "role": "Servant",
+   "cast": "Umberto Eco",
+   "text": "Find them out whose names are written here!\nIt is written that the shoemaker should meddle with\nhis yard and the tailor with his last, the fisher with\nhis pencil, and the painter with his nets; but I am\nsent to find those persons whose names are here writ,\nand can never find what names the writing person\nhath here writ. I must to the learned. In good time!"
+  },
+  {
+   "n": 12,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Benvolio and\nRomeo."
+  },
+  {
+   "n": 13,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Tut, man, one fire burns out another’s burning,\n\nOne pain is lessen’d by another’s anguish;\n\nTurn giddy, and be holp by backward turning;\n\nOne desperate grief cures with another’s languish:\n\nTake thou some new infection to thy eye,\n\nAnd the rank poison of the old will die."
+  },
+  {
+   "n": 14,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Your plantain leaf is excellent for that."
+  },
+  {
+   "n": 15,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "For what, I pray thee?"
+  },
+  {
+   "n": 16,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "For your broken shin."
+  },
+  {
+   "n": 17,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Why, Romeo, art thou mad?"
+  },
+  {
+   "n": 18,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Not mad, but bound more than a madman is:\n\nShut up in prison, kept without my food,\n\nWhipp’d and tormented and—God-den, good fellow."
+  },
+  {
+   "n": 19,
+   "role": "Servant",
+   "cast": "Umberto Eco",
+   "text": "God gi’ go-den. I pray, sir, can you read?"
+  },
+  {
+   "n": 20,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Ay, mine own fortune in my misery."
+  },
+  {
+   "n": 21,
+   "role": "Servant",
+   "cast": "Umberto Eco",
+   "text": "Perhaps you have learned it without book.\n\nBut I pray, can you read anything you see?"
+  },
+  {
+   "n": 22,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Ay, If I know the letters and the language."
+  },
+  {
+   "n": 23,
+   "role": "Servant",
+   "cast": "Umberto Eco",
+   "text": "Ye say honestly, rest you merry!"
+  },
+  {
+   "n": 24,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Stay, fellow; I can read."
+  },
+  {
+   "n": 25,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*He reads the letter.*]"
+  },
+  {
+   "n": 26,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "*Signior Martino and his wife and daughters;\n\nCounty Anselmo and his beauteous sisters;\n\nThe lady widow of Utruvio;\n\nSignior Placentio and his lovely nieces;\n\nMercutio and his brother Valentine;\n\nMine uncle Capulet, his wife, and daughters;\n\nMy fair niece Rosaline and Livia;\n\nSignior Valentio and his cousin Tybalt;\n\nLucio and the lively Helena.\n\n*\n\nA fair assembly."
+  },
+  {
+   "n": 27,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Gives back the paper*]"
+  },
+  {
+   "n": 28,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Whither should they\ncome?"
+  },
+  {
+   "n": 29,
+   "role": "Servant",
+   "cast": "Umberto Eco",
+   "text": "Up."
+  },
+  {
+   "n": 30,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Whither to supper?"
+  },
+  {
+   "n": 31,
+   "role": "Servant",
+   "cast": "Umberto Eco",
+   "text": "To our house."
+  },
+  {
+   "n": 32,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Whose house?"
+  },
+  {
+   "n": 33,
+   "role": "Servant",
+   "cast": "Umberto Eco",
+   "text": "My master’s."
+  },
+  {
+   "n": 34,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Indeed I should have ask’d you that before."
+  },
+  {
+   "n": 35,
+   "role": "Servant",
+   "cast": "Umberto Eco",
+   "text": "Now I’ll tell you without asking. My master is the great rich Capulet,\nand if you be not of the house of Montagues, I pray come and crush a cup of\nwine. Rest you merry."
+  },
+  {
+   "n": 36,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 37,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "At this same ancient feast of Capulet’s\n\nSups the fair Rosaline whom thou so lov’st;\n\nWith all the admired beauties of Verona.\n\nGo thither and with unattainted eye,\n\nCompare her face with some that I shall show,\n\nAnd I will make thee think thy swan a crow."
+  },
+  {
+   "n": 38,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "When the devout religion of mine eye\n\nMaintains such falsehood, then turn tears to fire;\n\nAnd these who, often drown’d, could never die,\n\nTransparent heretics, be burnt for liars.\n\nOne fairer than my love? The all-seeing sun\n\nNe’er saw her match since first the world begun."
+  },
+  {
+   "n": 39,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Tut, you saw her fair, none else being by,\n\nHerself pois’d with herself in either eye:\n\nBut in that crystal scales let there be weigh’d\n\nYour lady’s love against some other maid\n\nThat I will show you shining at this feast,\n\nAnd she shall scant show well that now shows best."
+  },
+  {
+   "n": 40,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "I’ll go along, no such sight to be shown,\n\nBut to rejoice in splendour of my own."
+  },
+  {
+   "n": 41,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

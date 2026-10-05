@@ -1,0 +1,105 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 19,
+ "chapter": 19,
+ "title": "Act IV, Scene III — Juliet’s Chamber",
+ "document": "ACT IV · SCENE III",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Juliet",
+   "cast_as": "Saint Joan of Arc"
+  },
+  {
+   "role": "Lady Capulet",
+   "cast_as": "Catherine de' Medici"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE III. Juliet’s Chamber."
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Juliet and\nNurse."
+  },
+  {
+   "n": 3,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Ay, those attires are best. But, gentle Nurse,\n\nI pray thee leave me to myself tonight;\n\nFor I have need of many orisons\n\nTo move the heavens to smile upon my state,\n\nWhich, well thou know’st, is cross and full of sin."
+  },
+  {
+   "n": 4,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Lady Capulet."
+  },
+  {
+   "n": 5,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "What, are you busy, ho? Need you my help?"
+  },
+  {
+   "n": 6,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "No, madam; we have cull’d such necessaries\n\nAs are behoveful for our state tomorrow.\n\nSo please you, let me now be left alone,\n\nAnd let the nurse this night sit up with you,\n\nFor I am sure you have your hands full all\n\nIn this so sudden business."
+  },
+  {
+   "n": 7,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Good night.\n\nGet thee to bed and rest, for thou hast need."
+  },
+  {
+   "n": 8,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Lady Capulet and\nNurse.*]"
+  },
+  {
+   "n": 9,
+   "score": {
+    "key": "dread",
+    "xfade": 8,
+    "at": "Farewell. God knows when we shall meet again."
+   },
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Farewell. God knows when we shall meet again.\n\nI have a faint cold fear thrills through my veins\n\nThat almost freezes up the heat of life.\n\nI’ll call them back again to comfort me.\n\nNurse!—What should she do here?\n\nMy dismal scene I needs must act alone.\n\nCome, vial.\n\nWhat if this mixture do not work at all?\n\nShall I be married then tomorrow morning?\n\nNo, No! This shall forbid it. Lie thou there."
+  },
+  {
+   "n": 10,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Laying down her dagger.*]"
+  },
+  {
+   "n": 11,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "What if it be a poison, which the Friar\n\nSubtly hath minister’d to have me dead,\n\nLest in this marriage he should be dishonour’d,\n\nBecause he married me before to Romeo?\n\nI fear it is. And yet methinks it should not,\n\nFor he hath still been tried a holy man.\n\nHow if, when I am laid into the tomb,\n\nI wake before the time that Romeo\n\nCome to redeem me? There’s a fearful point!\n\nShall I not then be stifled in the vault,\n\nTo whose foul mouth no healthsome air breathes in,\n\nAnd there die strangled ere my Romeo comes?\n\nOr, if I live, is it not very like,\n\nThe horrible conceit of death and night,\n\nTogether with the terror of the place,\n\nAs in a vault, an ancient receptacle,\n\nWhere for this many hundred years the bones\n\nOf all my buried ancestors are pack’d,\n\nWhere bloody Tybalt, yet but green in earth,\n\nLies festering in his shroud; where, as they say,\n\nAt some hours in the night spirits resort—\n\nAlack, alack, is it not like that I,\n\nSo early waking, what with loathsome smells,\n\nAnd shrieks like mandrakes torn out of the earth,\n\nThat living mortals, hearing them, run mad.\n\nO, if I wake, shall I not be distraught,\n\nEnvironed with all these hideous fears,\n\nAnd madly play with my forefathers’ joints?\n\nAnd pluck the mangled Tybalt from his shroud?\n\nAnd, in this rage, with some great kinsman’s bone,\n\nAs with a club, dash out my desperate brains?\n\nO look, methinks I see my cousin’s ghost\n\nSeeking out Romeo that did spit his body\n\nUpon a rapier’s point. Stay, Tybalt, stay!\n\nRomeo, Romeo, Romeo, here’s drink! I drink to thee."
+  },
+  {
+   "n": 12,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Throws herself on the bed.*]"
+  }
+ ]
+}

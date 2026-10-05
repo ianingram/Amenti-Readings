@@ -1,0 +1,98 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 15,
+ "chapter": 15,
+ "title": "Act III, Scene IV — A Room in Capulet’s House",
+ "document": "ACT III · SCENE IV",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Capulet",
+   "cast_as": "Luciano Pavarotti"
+  },
+  {
+   "role": "Paris",
+   "cast_as": "Titian"
+  },
+  {
+   "role": "Lady Capulet",
+   "cast_as": "Catherine de' Medici"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE IV. A Room in Capulet’s House."
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Capulet, Lady Capulet and\nParis."
+  },
+  {
+   "n": 3,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "Things have fallen out, sir, so unluckily\n\nThat we have had no time to move our daughter.\n\nLook you, she lov’d her kinsman Tybalt dearly,\n\nAnd so did I. Well, we were born to die.\n\n’Tis very late; she’ll not come down tonight.\n\nI promise you, but for your company,\n\nI would have been abed an hour ago."
+  },
+  {
+   "n": 4,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "These times of woe afford no tune to woo.\n\nMadam, good night. Commend me to your daughter."
+  },
+  {
+   "n": 5,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "I will, and know her mind early tomorrow;\n\nTonight she’s mew’d up to her heaviness."
+  },
+  {
+   "n": 6,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "Sir Paris, I will make a desperate tender\n\nOf my child’s love. I think she will be rul’d\n\nIn all respects by me; nay more, I doubt it not.\n\nWife, go you to her ere you go to bed,\n\nAcquaint her here of my son Paris’ love,\n\nAnd bid her, mark you me, on Wednesday next,\n\nBut, soft, what day is this?"
+  },
+  {
+   "n": 7,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Monday, my lord."
+  },
+  {
+   "n": 8,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "Monday! Ha, ha! Well, Wednesday is too soon,\n\nA Thursday let it be; a Thursday, tell her,\n\nShe shall be married to this noble earl.\n\nWill you be ready? Do you like this haste?\n\nWe’ll keep no great ado,—a friend or two,\n\nFor, hark you, Tybalt being slain so late,\n\nIt may be thought we held him carelessly,\n\nBeing our kinsman, if we revel much.\n\nTherefore we’ll have some half a dozen friends,\n\nAnd there an end. But what say you to Thursday?"
+  },
+  {
+   "n": 9,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "My lord, I would that Thursday were tomorrow."
+  },
+  {
+   "n": 10,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "Well, get you gone. A Thursday be it then.\n\nGo you to Juliet ere you go to bed,\n\nPrepare her, wife, against this wedding day.\n\nFarewell, my lord.—Light to my chamber, ho!\n\nAfore me, it is so very very late that we\n\nMay call it early by and by. Good night."
+  },
+  {
+   "n": 11,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

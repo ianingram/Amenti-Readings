@@ -1,0 +1,803 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 1,
+ "chapter": 1,
+ "title": "The Prologue · Act I, Scene I — A public place",
+ "document": "ACT I · SCENE I",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Chorus",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Sampson",
+   "cast_as": "Giuseppe Garibaldi"
+  },
+  {
+   "role": "Gregory",
+   "cast_as": "Umberto Eco"
+  },
+  {
+   "role": "Abram",
+   "cast_as": "Amerigo Vespucci"
+  },
+  {
+   "role": "Benvolio",
+   "cast_as": "Guglielmo Marconi"
+  },
+  {
+   "role": "Tybalt",
+   "cast_as": "Caravaggio"
+  },
+  {
+   "role": "First Citizen",
+   "cast_as": "Giuseppe Garibaldi"
+  },
+  {
+   "role": "Capulet",
+   "cast_as": "Luciano Pavarotti"
+  },
+  {
+   "role": "Lady Capulet",
+   "cast_as": "Catherine de' Medici"
+  },
+  {
+   "role": "Montague",
+   "cast_as": "Leonardo da Vinci"
+  },
+  {
+   "role": "Lady Montague",
+   "cast_as": "Maria Montessori"
+  },
+  {
+   "role": "Prince Escalus",
+   "cast_as": "Dante Alighieri"
+  },
+  {
+   "role": "Romeo",
+   "cast_as": "Romulus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "THE PROLOGUE"
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Chorus."
+  },
+  {
+   "n": 3,
+   "role": "Chorus",
+   "cast": "William Shakespeare",
+   "text": "Two households, both alike in dignity,\n\nIn fair Verona, where we lay our scene,\n\nFrom ancient grudge break to new mutiny,\n\nWhere civil blood makes civil hands unclean.\n\nFrom forth the fatal loins of these two foes\n\nA pair of star-cross’d lovers take their life;\n\nWhose misadventur’d piteous overthrows\n\nDoth with their death bury their parents’ strife.\n\nThe fearful passage of their death-mark’d love,\n\nAnd the continuance of their parents’ rage,\n\nWhich, but their children’s end, nought could remove,\n\nIs now the two hours’ traffic of our stage;\n\nThe which, if you with patient ears attend,\n\nWhat here shall miss, our toil shall strive to mend."
+  },
+  {
+   "n": 4,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 5,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "ACT I"
+  },
+  {
+   "n": 6,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE I. A public place."
+  },
+  {
+   "n": 7,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Sampson and\nGregory armed with swords and bucklers."
+  },
+  {
+   "n": 8,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Gregory, on my word, we’ll not carry coals."
+  },
+  {
+   "n": 9,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "No, for then we should be colliers."
+  },
+  {
+   "n": 10,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "I mean, if we be in choler, we’ll draw."
+  },
+  {
+   "n": 11,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "Ay, while you live, draw your neck out o’ the collar."
+  },
+  {
+   "n": 12,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "I strike quickly, being moved."
+  },
+  {
+   "n": 13,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "But thou art not quickly moved to strike."
+  },
+  {
+   "n": 14,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "A dog of the house of Montague moves me."
+  },
+  {
+   "n": 15,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "To move is to stir; and to be valiant is to stand:\ntherefore, if thou art moved, thou runn’st away."
+  },
+  {
+   "n": 16,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "A dog of that house shall move me to stand.\n\nI will take the wall of any man or maid of Montague’s."
+  },
+  {
+   "n": 17,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "That shows thee a weak slave, for the weakest goes to the wall."
+  },
+  {
+   "n": 18,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "True, and therefore women, being the weaker vessels,\nare ever thrust to the wall: therefore I will push Montague’s men\nfrom the wall, and thrust his maids to the wall."
+  },
+  {
+   "n": 19,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "The quarrel is between our masters and us their men."
+  },
+  {
+   "n": 20,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "’Tis all one, I will show myself a tyrant: when I have fought\nwith the men I will be civil with the maids, I will cut off their heads."
+  },
+  {
+   "n": 21,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "The heads of the maids?"
+  },
+  {
+   "n": 22,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Ay, the heads of the maids, or their maidenheads; take it in what sense\nthou wilt."
+  },
+  {
+   "n": 23,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "They must take it in sense that feel it."
+  },
+  {
+   "n": 24,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Me they shall feel while I am able to stand:\nand ’tis known I am a pretty piece of flesh."
+  },
+  {
+   "n": 25,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "’Tis well thou art not fish; if thou hadst, thou hadst been poor\nJohn. Draw thy tool; here comes of the house of Montagues."
+  },
+  {
+   "n": 26,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Abram and\nBalthasar."
+  },
+  {
+   "n": 27,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "My naked weapon is out: quarrel, I will back thee."
+  },
+  {
+   "n": 28,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "How? Turn thy back and run?"
+  },
+  {
+   "n": 29,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Fear me not."
+  },
+  {
+   "n": 30,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "No, marry; I fear thee!"
+  },
+  {
+   "n": 31,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Let us take the law of our sides; let them begin."
+  },
+  {
+   "n": 32,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "I will frown as I pass by, and let them take it as they\nlist."
+  },
+  {
+   "n": 33,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Nay, as they dare. I will bite my thumb at them, which is\ndisgrace to them if they bear it."
+  },
+  {
+   "n": 34,
+   "role": "Abram",
+   "cast": "Amerigo Vespucci",
+   "text": "Do you bite your thumb at us, sir?"
+  },
+  {
+   "n": 35,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "I do bite my thumb, sir."
+  },
+  {
+   "n": 36,
+   "role": "Abram",
+   "cast": "Amerigo Vespucci",
+   "text": "Do you bite your thumb at us, sir?"
+  },
+  {
+   "n": 37,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Is the law of our side if I say ay?"
+  },
+  {
+   "n": 38,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "No."
+  },
+  {
+   "n": 39,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "No sir, I do not bite my thumb at you, sir; but I bite my\nthumb, sir."
+  },
+  {
+   "n": 40,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "Do you quarrel, sir?"
+  },
+  {
+   "n": 41,
+   "role": "Abram",
+   "cast": "Amerigo Vespucci",
+   "text": "Quarrel, sir? No, sir."
+  },
+  {
+   "n": 42,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "But if you do, sir, I am for you. I serve as good a man as\nyou."
+  },
+  {
+   "n": 43,
+   "role": "Abram",
+   "cast": "Amerigo Vespucci",
+   "text": "No better."
+  },
+  {
+   "n": 44,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Well, sir."
+  },
+  {
+   "n": 45,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Benvolio."
+  },
+  {
+   "n": 46,
+   "role": "Gregory",
+   "cast": "Umberto Eco",
+   "text": "Say better; here comes one of my master’s kinsmen."
+  },
+  {
+   "n": 47,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Yes, better, sir."
+  },
+  {
+   "n": 48,
+   "role": "Abram",
+   "cast": "Amerigo Vespucci",
+   "text": "You lie."
+  },
+  {
+   "n": 49,
+   "role": "Sampson",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Draw, if you be men. Gregory, remember thy washing blow."
+  },
+  {
+   "n": 50,
+   "sfx": [
+    {
+     "key": "sword_clash",
+     "at": "They fight."
+    },
+    {
+     "key": "sword_clash",
+     "at": "They fight.",
+     "offset": 1.2
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*They fight.*]"
+  },
+  {
+   "n": 51,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Part, fools! put up your swords, you know not what you do."
+  },
+  {
+   "n": 52,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Beats down their swords.*]"
+  },
+  {
+   "n": 53,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Tybalt."
+  },
+  {
+   "n": 54,
+   "role": "Tybalt",
+   "cast": "Caravaggio",
+   "text": "What, art thou drawn among these heartless hinds?\n\nTurn thee Benvolio, look upon thy death."
+  },
+  {
+   "n": 55,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "I do but keep the peace, put up thy sword,\n\nOr manage it to part these men with me."
+  },
+  {
+   "n": 56,
+   "role": "Tybalt",
+   "cast": "Caravaggio",
+   "text": "What, drawn, and talk of peace? I hate the word\n\nAs I hate hell, all Montagues, and thee:\n\nHave at thee, coward."
+  },
+  {
+   "n": 57,
+   "sfx": [
+    {
+     "key": "sword_clash",
+     "at": "They fight."
+    },
+    {
+     "key": "sword_clash",
+     "at": "They fight.",
+     "offset": 1.0
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*They fight.*]"
+  },
+  {
+   "n": 58,
+   "sfx": [
+    {
+     "key": "sword_clash",
+     "at": "Enter three or four Citizens",
+     "offset": 0.2
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter three or four Citizens\nwith clubs."
+  },
+  {
+   "n": 59,
+   "role": "First Citizen",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Clubs, bills and partisans! Strike! Beat them down!\n\nDown with the Capulets! Down with the Montagues!"
+  },
+  {
+   "n": 60,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Capulet in his gown,\nand Lady Capulet."
+  },
+  {
+   "n": 61,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "What noise is this? Give me my long sword, ho!"
+  },
+  {
+   "n": 62,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "A crutch, a crutch! Why call you for a sword?"
+  },
+  {
+   "n": 63,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "My sword, I say! Old Montague is come,\n\nAnd flourishes his blade in spite of me."
+  },
+  {
+   "n": 64,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Montague and his\nLady Montague."
+  },
+  {
+   "n": 65,
+   "role": "Montague",
+   "cast": "Leonardo da Vinci",
+   "text": "Thou villain Capulet! Hold me not, let me go."
+  },
+  {
+   "n": 66,
+   "role": "Lady Montague",
+   "cast": "Maria Montessori",
+   "text": "Thou shalt not stir one foot to seek a foe."
+  },
+  {
+   "n": 67,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Prince Escalus, with\nAttendants."
+  },
+  {
+   "n": 68,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "Rebellious subjects, enemies to peace,\n\nProfaners of this neighbour-stained steel,—\n\nWill they not hear? What, ho! You men, you beasts,\n\nThat quench the fire of your pernicious rage\n\nWith purple fountains issuing from your veins,\n\nOn pain of torture, from those bloody hands\n\nThrow your mistemper’d weapons to the ground\n\nAnd hear the sentence of your moved prince.\n\nThree civil brawls, bred of an airy word,\n\nBy thee, old Capulet, and Montague,\n\nHave thrice disturb’d the quiet of our streets,\n\nAnd made Verona’s ancient citizens\n\nCast by their grave beseeming ornaments,\n\nTo wield old partisans, in hands as old,\n\nCanker’d with peace, to part your canker’d hate.\n\nIf ever you disturb our streets again,\n\nYour lives shall pay the forfeit of the peace.\n\nFor this time all the rest depart away:\n\nYou, Capulet, shall go along with me,\n\nAnd Montague, come you this afternoon,\n\nTo know our farther pleasure in this case,\n\nTo old Free-town, our common judgement-place.\n\nOnce more, on pain of death, all men depart."
+  },
+  {
+   "n": 69,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Prince and\nAttendants; Capulet, Lady Capulet, Tybalt,\nCitizens and Servants.*]"
+  },
+  {
+   "n": 70,
+   "role": "Montague",
+   "cast": "Leonardo da Vinci",
+   "text": "Who set this ancient quarrel new abroach?\n\nSpeak, nephew, were you by when it began?"
+  },
+  {
+   "n": 71,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Here were the servants of your adversary\n\nAnd yours, close fighting ere I did approach.\n\nI drew to part them, in the instant came\n\nThe fiery Tybalt, with his sword prepar’d,\n\nWhich, as he breath’d defiance to my ears,\n\nHe swung about his head, and cut the winds,\n\nWho nothing hurt withal, hiss’d him in scorn.\n\nWhile we were interchanging thrusts and blows\n\nCame more and more, and fought on part and part,\n\nTill the Prince came, who parted either part."
+  },
+  {
+   "n": 72,
+   "role": "Lady Montague",
+   "cast": "Maria Montessori",
+   "text": "O where is Romeo, saw you him today?\n\nRight glad I am he was not at this fray."
+  },
+  {
+   "n": 73,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Madam, an hour before the worshipp’d sun\n\nPeer’d forth the golden window of the east,\n\nA troubled mind drave me to walk abroad,\n\nWhere underneath the grove of sycamore\n\nThat westward rooteth from this city side,\n\nSo early walking did I see your son.\n\nTowards him I made, but he was ware of me,\n\nAnd stole into the covert of the wood.\n\nI, measuring his affections by my own,\n\nWhich then most sought where most might not be found,\n\nBeing one too many by my weary self,\n\nPursu’d my humour, not pursuing his,\n\nAnd gladly shunn’d who gladly fled from me."
+  },
+  {
+   "n": 74,
+   "role": "Montague",
+   "cast": "Leonardo da Vinci",
+   "text": "Many a morning hath he there been seen,\n\nWith tears augmenting the fresh morning’s dew,\n\nAdding to clouds more clouds with his deep sighs;\n\nBut all so soon as the all-cheering sun\n\nShould in the farthest east begin to draw\n\nThe shady curtains from Aurora’s bed,\n\nAway from light steals home my heavy son,\n\nAnd private in his chamber pens himself,\n\nShuts up his windows, locks fair daylight out\n\nAnd makes himself an artificial night.\n\nBlack and portentous must this humour prove,\n\nUnless good counsel may the cause remove."
+  },
+  {
+   "n": 75,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "My noble uncle, do you know the cause?"
+  },
+  {
+   "n": 76,
+   "role": "Montague",
+   "cast": "Leonardo da Vinci",
+   "text": "I neither know it nor can learn of him."
+  },
+  {
+   "n": 77,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Have you importun’d him by any means?"
+  },
+  {
+   "n": 78,
+   "role": "Montague",
+   "cast": "Leonardo da Vinci",
+   "text": "Both by myself and many other friends;\n\nBut he, his own affections’ counsellor,\n\nIs to himself—I will not say how true—\n\nBut to himself so secret and so close,\n\nSo far from sounding and discovery,\n\nAs is the bud bit with an envious worm\n\nEre he can spread his sweet leaves to the air,\n\nOr dedicate his beauty to the sun.\n\nCould we but learn from whence his sorrows grow,\n\nWe would as willingly give cure as know."
+  },
+  {
+   "n": 79,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Romeo."
+  },
+  {
+   "n": 80,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "See, where he comes. So please you step aside;\n\nI’ll know his grievance or be much denied."
+  },
+  {
+   "n": 81,
+   "role": "Montague",
+   "cast": "Leonardo da Vinci",
+   "text": "I would thou wert so happy by thy stay\n\nTo hear true shrift. Come, madam, let’s away,"
+  },
+  {
+   "n": 82,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Montague and\nLady Montague.*]"
+  },
+  {
+   "n": 83,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Good morrow, cousin."
+  },
+  {
+   "n": 84,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Is the day so young?"
+  },
+  {
+   "n": 85,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "But new struck nine."
+  },
+  {
+   "n": 86,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Ay me, sad hours seem long.\n\nWas that my father that went hence so fast?"
+  },
+  {
+   "n": 87,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "It was. What sadness lengthens Romeo’s hours?"
+  },
+  {
+   "n": 88,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Not having that which, having, makes them short."
+  },
+  {
+   "n": 89,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "In love?"
+  },
+  {
+   "n": 90,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Out."
+  },
+  {
+   "n": 91,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Of love?"
+  },
+  {
+   "n": 92,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Out of her favour where I am in love."
+  },
+  {
+   "n": 93,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Alas that love so gentle in his view,\n\nShould be so tyrannous and rough in proof."
+  },
+  {
+   "n": 94,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Alas that love, whose view is muffled still,\n\nShould, without eyes, see pathways to his will!\n\nWhere shall we dine? O me! What fray was here?\n\nYet tell me not, for I have heard it all.\n\nHere’s much to do with hate, but more with love:\n\nWhy, then, O brawling love! O loving hate!\n\nO anything, of nothing first create!\n\nO heavy lightness! serious vanity!\n\nMisshapen chaos of well-seeming forms!\n\nFeather of lead, bright smoke, cold fire, sick health!\n\nStill-waking sleep, that is not what it is!\n\nThis love feel I, that feel no love in this.\n\nDost thou not laugh?"
+  },
+  {
+   "n": 95,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "No coz, I rather weep."
+  },
+  {
+   "n": 96,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Good heart, at what?"
+  },
+  {
+   "n": 97,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "At thy good heart’s oppression."
+  },
+  {
+   "n": 98,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Why such is love’s transgression.\n\nGriefs of mine own lie heavy in my breast,\n\nWhich thou wilt propagate to have it prest\n\nWith more of thine. This love that thou hast shown\n\nDoth add more grief to too much of mine own.\n\nLove is a smoke made with the fume of sighs;\n\nBeing purg’d, a fire sparkling in lovers’ eyes;\n\nBeing vex’d, a sea nourish’d with lovers’ tears:\n\nWhat is it else? A madness most discreet,\n\nA choking gall, and a preserving sweet.\n\nFarewell, my coz."
+  },
+  {
+   "n": 99,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Going.*]"
+  },
+  {
+   "n": 100,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Soft! I will go along:\n\nAnd if you leave me so, you do me wrong."
+  },
+  {
+   "n": 101,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Tut! I have lost myself; I am not here.\n\nThis is not Romeo, he’s some other where."
+  },
+  {
+   "n": 102,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Tell me in sadness who is that you love?"
+  },
+  {
+   "n": 103,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "What, shall I groan and tell thee?"
+  },
+  {
+   "n": 104,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Groan! Why, no; but sadly tell me who."
+  },
+  {
+   "n": 105,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Bid a sick man in sadness make his will,\n\nA word ill urg’d to one that is so ill.\n\nIn sadness, cousin, I do love a woman."
+  },
+  {
+   "n": 106,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "I aim’d so near when I suppos’d you lov’d."
+  },
+  {
+   "n": 107,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "A right good markman, and she’s fair I love."
+  },
+  {
+   "n": 108,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "A right fair mark, fair coz, is soonest hit."
+  },
+  {
+   "n": 109,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Well, in that hit you miss: she’ll not be hit\n\nWith Cupid’s arrow, she hath Dian’s wit;\n\nAnd in strong proof of chastity well arm’d,\n\nFrom love’s weak childish bow she lives uncharm’d.\n\nShe will not stay the siege of loving terms\n\nNor bide th’encounter of assailing eyes,\n\nNor ope her lap to saint-seducing gold:\n\nO she’s rich in beauty, only poor\n\nThat when she dies, with beauty dies her store."
+  },
+  {
+   "n": 110,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Then she hath sworn that she will still live chaste?"
+  },
+  {
+   "n": 111,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "She hath, and in that sparing makes huge waste;\n\nFor beauty starv’d with her severity,\n\nCuts beauty off from all posterity.\n\nShe is too fair, too wise; wisely too fair,\n\nTo merit bliss by making me despair.\n\nShe hath forsworn to love, and in that vow\n\nDo I live dead, that live to tell it now."
+  },
+  {
+   "n": 112,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Be rul’d by me, forget to think of her."
+  },
+  {
+   "n": 113,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "O teach me how I should forget to think."
+  },
+  {
+   "n": 114,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "By giving liberty unto thine eyes;\n\nExamine other beauties."
+  },
+  {
+   "n": 115,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "’Tis the way\n\nTo call hers, exquisite, in question more.\n\nThese happy masks that kiss fair ladies’ brows,\n\nBeing black, puts us in mind they hide the fair;\n\nHe that is strucken blind cannot forget\n\nThe precious treasure of his eyesight lost.\n\nShow me a mistress that is passing fair,\n\nWhat doth her beauty serve but as a note\n\nWhere I may read who pass’d that passing fair?\n\nFarewell, thou canst not teach me to forget."
+  },
+  {
+   "n": 116,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "I’ll pay that doctrine, or else die in debt."
+  },
+  {
+   "n": 117,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

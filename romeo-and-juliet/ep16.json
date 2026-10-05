@@ -1,0 +1,535 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 16,
+ "chapter": 16,
+ "title": "Act III, Scene V — An open Gallery to Juliet’s Chamber, overlooking the Garden",
+ "document": "ACT III · SCENE V",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Juliet",
+   "cast_as": "Saint Joan of Arc"
+  },
+  {
+   "role": "Romeo",
+   "cast_as": "Romulus"
+  },
+  {
+   "role": "Nurse",
+   "cast_as": "Sophia Loren"
+  },
+  {
+   "role": "Lady Capulet",
+   "cast_as": "Catherine de' Medici"
+  },
+  {
+   "role": "Capulet",
+   "cast_as": "Luciano Pavarotti"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "score": {
+    "key": "lovers",
+    "xfade": 6
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE V. An open Gallery to Juliet’s Chamber, overlooking the\nGarden."
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Romeo and\nJuliet."
+  },
+  {
+   "n": 3,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Wilt thou be gone? It is not yet near day.\n\nIt was the nightingale, and not the lark,\n\nThat pierc’d the fearful hollow of thine ear;\n\nNightly she sings on yond pomegranate tree.\n\nBelieve me, love, it was the nightingale."
+  },
+  {
+   "n": 4,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "It was the lark, the herald of the morn,\n\nNo nightingale. Look, love, what envious streaks\n\nDo lace the severing clouds in yonder east.\n\nNight’s candles are burnt out, and jocund day\n\nStands tiptoe on the misty mountain tops.\n\nI must be gone and live, or stay and die."
+  },
+  {
+   "n": 5,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Yond light is not daylight, I know it, I.\n\nIt is some meteor that the sun exhales\n\nTo be to thee this night a torchbearer\n\nAnd light thee on thy way to Mantua.\n\nTherefore stay yet, thou need’st not to be gone."
+  },
+  {
+   "n": 6,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Let me be ta’en, let me be put to death,\n\nI am content, so thou wilt have it so.\n\nI’ll say yon grey is not the morning’s eye,\n\n’Tis but the pale reflex of Cynthia’s brow.\n\nNor that is not the lark whose notes do beat\n\nThe vaulty heaven so high above our heads.\n\nI have more care to stay than will to go.\n\nCome, death, and welcome. Juliet wills it so.\n\nHow is’t, my soul? Let’s talk. It is not day."
+  },
+  {
+   "n": 7,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "It is, it is! Hie hence, be gone, away.\n\nIt is the lark that sings so out of tune,\n\nStraining harsh discords and unpleasing sharps.\n\nSome say the lark makes sweet division;\n\nThis doth not so, for she divideth us.\n\nSome say the lark and loathed toad change eyes.\n\nO, now I would they had chang’d voices too,\n\nSince arm from arm that voice doth us affray,\n\nHunting thee hence with hunt’s-up to the day.\n\nO now be gone, more light and light it grows."
+  },
+  {
+   "n": 8,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "More light and light, more dark and dark our woes."
+  },
+  {
+   "n": 9,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Nurse."
+  },
+  {
+   "n": 10,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Madam."
+  },
+  {
+   "n": 11,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Nurse?"
+  },
+  {
+   "n": 12,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Your lady mother is coming to your chamber.\n\nThe day is broke, be wary, look about."
+  },
+  {
+   "n": 13,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 14,
+   "score": {
+    "key": null,
+    "xfade": 8,
+    "at": "Then, window, let day in, and let life out."
+   },
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Then, window, let day in, and let life out."
+  },
+  {
+   "n": 15,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Farewell, farewell, one kiss, and I’ll descend."
+  },
+  {
+   "n": 16,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Descends.*]"
+  },
+  {
+   "n": 17,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Art thou gone so? Love, lord, ay husband, friend,\n\nI must hear from thee every day in the hour,\n\nFor in a minute there are many days.\n\nO, by this count I shall be much in years\n\nEre I again behold my Romeo."
+  },
+  {
+   "n": 18,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Farewell!\n\nI will omit no opportunity\n\nThat may convey my greetings, love, to thee."
+  },
+  {
+   "n": 19,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "O thinkest thou we shall ever meet again?"
+  },
+  {
+   "n": 20,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "I doubt it not, and all these woes shall serve\n\nFor sweet discourses in our time to come."
+  },
+  {
+   "n": 21,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "O God! I have an ill-divining soul!\n\nMethinks I see thee, now thou art so low,\n\nAs one dead in the bottom of a tomb.\n\nEither my eyesight fails, or thou look’st pale."
+  },
+  {
+   "n": 22,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "And trust me, love, in my eye so do you.\n\nDry sorrow drinks our blood. Adieu, adieu."
+  },
+  {
+   "n": 23,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit below.*]"
+  },
+  {
+   "n": 24,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "O Fortune, Fortune! All men call thee fickle,\n\nIf thou art fickle, what dost thou with him\n\nThat is renown’d for faith? Be fickle, Fortune;\n\nFor then, I hope thou wilt not keep him long\n\nBut send him back."
+  },
+  {
+   "n": 25,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Within.*]"
+  },
+  {
+   "n": 26,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Ho, daughter, are you up?"
+  },
+  {
+   "n": 27,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Who is’t that calls? Is it my lady mother?\n\nIs she not down so late, or up so early?\n\nWhat unaccustom’d cause procures her hither?"
+  },
+  {
+   "n": 28,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Lady Capulet."
+  },
+  {
+   "n": 29,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Why, how now, Juliet?"
+  },
+  {
+   "n": 30,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Madam, I am not well."
+  },
+  {
+   "n": 31,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Evermore weeping for your cousin’s death?\n\nWhat, wilt thou wash him from his grave with tears?\n\nAnd if thou couldst, thou couldst not make him live.\n\nTherefore have done: some grief shows much of love,\n\nBut much of grief shows still some want of wit."
+  },
+  {
+   "n": 32,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Yet let me weep for such a feeling loss."
+  },
+  {
+   "n": 33,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "So shall you feel the loss, but not the friend\n\nWhich you weep for."
+  },
+  {
+   "n": 34,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Feeling so the loss,\n\nI cannot choose but ever weep the friend."
+  },
+  {
+   "n": 35,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Well, girl, thou weep’st not so much for his death\n\nAs that the villain lives which slaughter’d him."
+  },
+  {
+   "n": 36,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "What villain, madam?"
+  },
+  {
+   "n": 37,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "That same villain Romeo."
+  },
+  {
+   "n": 38,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Villain and he be many miles asunder.\n\nGod pardon him. I do, with all my heart.\n\nAnd yet no man like he doth grieve my heart."
+  },
+  {
+   "n": 39,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "That is because the traitor murderer lives."
+  },
+  {
+   "n": 40,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Ay madam, from the reach of these my hands.\n\nWould none but I might venge my cousin’s death."
+  },
+  {
+   "n": 41,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "We will have vengeance for it, fear thou not.\n\nThen weep no more. I’ll send to one in Mantua,\n\nWhere that same banish’d runagate doth live,\n\nShall give him such an unaccustom’d dram\n\nThat he shall soon keep Tybalt company:\n\nAnd then I hope thou wilt be satisfied."
+  },
+  {
+   "n": 42,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Indeed I never shall be satisfied\n\nWith Romeo till I behold him—dead—\n\nIs my poor heart so for a kinsman vex’d.\n\nMadam, if you could find out but a man\n\nTo bear a poison, I would temper it,\n\nThat Romeo should upon receipt thereof,\n\nSoon sleep in quiet. O, how my heart abhors\n\nTo hear him nam’d, and cannot come to him,\n\nTo wreak the love I bore my cousin\n\nUpon his body that hath slaughter’d him."
+  },
+  {
+   "n": 43,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Find thou the means, and I’ll find such a man.\n\nBut now I’ll tell thee joyful tidings, girl."
+  },
+  {
+   "n": 44,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "And joy comes well in such a needy time.\n\nWhat are they, I beseech your ladyship?"
+  },
+  {
+   "n": 45,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Well, well, thou hast a careful father, child;\n\nOne who to put thee from thy heaviness,\n\nHath sorted out a sudden day of joy,\n\nThat thou expects not, nor I look’d not for."
+  },
+  {
+   "n": 46,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Madam, in happy time, what day is that?"
+  },
+  {
+   "n": 47,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Marry, my child, early next Thursday morn\n\nThe gallant, young, and noble gentleman,\n\nThe County Paris, at Saint Peter’s Church,\n\nShall happily make thee there a joyful bride."
+  },
+  {
+   "n": 48,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Now by Saint Peter’s Church, and Peter too,\n\nHe shall not make me there a joyful bride.\n\nI wonder at this haste, that I must wed\n\nEre he that should be husband comes to woo.\n\nI pray you tell my lord and father, madam,\n\nI will not marry yet; and when I do, I swear\n\nIt shall be Romeo, whom you know I hate,\n\nRather than Paris. These are news indeed."
+  },
+  {
+   "n": 49,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Here comes your father, tell him so yourself,\n\nAnd see how he will take it at your hands."
+  },
+  {
+   "n": 50,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Capulet and\nNurse."
+  },
+  {
+   "n": 51,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "When the sun sets, the air doth drizzle dew;\n\nBut for the sunset of my brother’s son\n\nIt rains downright.\n\nHow now? A conduit, girl? What, still in tears?\n\nEvermore showering? In one little body\n\nThou counterfeits a bark, a sea, a wind.\n\nFor still thy eyes, which I may call the sea,\n\nDo ebb and flow with tears; the bark thy body is,\n\nSailing in this salt flood, the winds, thy sighs,\n\nWho raging with thy tears and they with them,\n\nWithout a sudden calm will overset\n\nThy tempest-tossed body. How now, wife?\n\nHave you deliver’d to her our decree?"
+  },
+  {
+   "n": 52,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Ay, sir; but she will none, she gives you thanks.\n\nI would the fool were married to her grave."
+  },
+  {
+   "n": 53,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "Soft. Take me with you, take me with you, wife.\n\nHow, will she none? Doth she not give us thanks?\n\nIs she not proud? Doth she not count her blest,\n\nUnworthy as she is, that we have wrought\n\nSo worthy a gentleman to be her bridegroom?"
+  },
+  {
+   "n": 54,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Not proud you have, but thankful that you have.\n\nProud can I never be of what I hate;\n\nBut thankful even for hate that is meant love."
+  },
+  {
+   "n": 55,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "How now, how now, chopp’d logic? What is this?\n\nProud, and, I thank you, and I thank you not;\n\nAnd yet not proud. Mistress minion you,\n\nThank me no thankings, nor proud me no prouds,\n\nBut fettle your fine joints ’gainst Thursday next\n\nTo go with Paris to Saint Peter’s Church,\n\nOr I will drag thee on a hurdle thither.\n\nOut, you green-sickness carrion! Out, you baggage!\n\nYou tallow-face!"
+  },
+  {
+   "n": 56,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Fie, fie! What, are you mad?"
+  },
+  {
+   "n": 57,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Good father, I beseech you on my knees,\n\nHear me with patience but to speak a word."
+  },
+  {
+   "n": 58,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "Hang thee young baggage, disobedient wretch!\n\nI tell thee what,—get thee to church a Thursday,\n\nOr never after look me in the face.\n\nSpeak not, reply not, do not answer me.\n\nMy fingers itch. Wife, we scarce thought us blest\n\nThat God had lent us but this only child;\n\nBut now I see this one is one too much,\n\nAnd that we have a curse in having her.\n\nOut on her, hilding."
+  },
+  {
+   "n": 59,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "God in heaven bless her.\n\nYou are to blame, my lord, to rate her so."
+  },
+  {
+   "n": 60,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "And why, my lady wisdom? Hold your tongue,\n\nGood prudence; smatter with your gossips, go."
+  },
+  {
+   "n": 61,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "I speak no treason."
+  },
+  {
+   "n": 62,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "O God ye good-en!"
+  },
+  {
+   "n": 63,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "May not one speak?"
+  },
+  {
+   "n": 64,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "Peace, you mumbling fool!\n\nUtter your gravity o’er a gossip’s bowl,\n\nFor here we need it not."
+  },
+  {
+   "n": 65,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "You are too hot."
+  },
+  {
+   "n": 66,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "God’s bread, it makes me mad!\n\nDay, night, hour, ride, time, work, play,\n\nAlone, in company, still my care hath been\n\nTo have her match’d, and having now provided\n\nA gentleman of noble parentage,\n\nOf fair demesnes, youthful, and nobly allied,\n\nStuff’d, as they say, with honourable parts,\n\nProportion’d as one’s thought would wish a man,\n\nAnd then to have a wretched puling fool,\n\nA whining mammet, in her fortune’s tender,\n\nTo answer, ‘I’ll not wed, I cannot love,\n\nI am too young, I pray you pardon me.’\n\nBut, and you will not wed, I’ll pardon you.\n\nGraze where you will, you shall not house with me.\n\nLook to’t, think on’t, I do not use to jest.\n\nThursday is near; lay hand on heart, advise.\n\nAnd you be mine, I’ll give you to my friend;\n\nAnd you be not, hang, beg, starve, die in the streets,\n\nFor by my soul, I’ll ne’er acknowledge thee,\n\nNor what is mine shall never do thee good.\n\nTrust to’t, bethink you, I’ll not be forsworn."
+  },
+  {
+   "n": 67,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 68,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Is there no pity sitting in the clouds,\n\nThat sees into the bottom of my grief?\n\nO sweet my mother, cast me not away,\n\nDelay this marriage for a month, a week,\n\nOr, if you do not, make the bridal bed\n\nIn that dim monument where Tybalt lies."
+  },
+  {
+   "n": 69,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "Talk not to me, for I’ll not speak a word.\n\nDo as thou wilt, for I have done with thee."
+  },
+  {
+   "n": 70,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 71,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "O God! O Nurse, how shall this be prevented?\n\nMy husband is on earth, my faith in heaven.\n\nHow shall that faith return again to earth,\n\nUnless that husband send it me from heaven\n\nBy leaving earth? Comfort me, counsel me.\n\nAlack, alack, that heaven should practise stratagems\n\nUpon so soft a subject as myself.\n\nWhat say’st thou? Hast thou not a word of joy?\n\nSome comfort, Nurse."
+  },
+  {
+   "n": 72,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Faith, here it is.\n\nRomeo is banished; and all the world to nothing\n\nThat he dares ne’er come back to challenge you.\n\nOr if he do, it needs must be by stealth.\n\nThen, since the case so stands as now it doth,\n\nI think it best you married with the County.\n\nO, he’s a lovely gentleman.\n\nRomeo’s a dishclout to him. An eagle, madam,\n\nHath not so green, so quick, so fair an eye\n\nAs Paris hath. Beshrew my very heart,\n\nI think you are happy in this second match,\n\nFor it excels your first: or if it did not,\n\nYour first is dead, or ’twere as good he were,\n\nAs living here and you no use of him."
+  },
+  {
+   "n": 73,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Speakest thou from thy heart?"
+  },
+  {
+   "n": 74,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "And from my soul too,\n\nOr else beshrew them both."
+  },
+  {
+   "n": 75,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Amen."
+  },
+  {
+   "n": 76,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "What?"
+  },
+  {
+   "n": 77,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Well, thou hast comforted me marvellous much.\n\nGo in, and tell my lady I am gone,\n\nHaving displeas’d my father, to Lawrence’ cell,\n\nTo make confession and to be absolv’d."
+  },
+  {
+   "n": 78,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Marry, I will; and this is wisely done."
+  },
+  {
+   "n": 79,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 80,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Ancient damnation! O most wicked fiend!\n\nIs it more sin to wish me thus forsworn,\n\nOr to dispraise my lord with that same tongue\n\nWhich she hath prais’d him with above compare\n\nSo many thousand times? Go, counsellor.\n\nThou and my bosom henceforth shall be twain.\n\nI’ll to the Friar to know his remedy.\n\nIf all else fail, myself have power to die."
+  },
+  {
+   "n": 81,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  }
+ ]
+}

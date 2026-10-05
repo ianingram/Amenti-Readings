@@ -1,0 +1,179 @@
+{
+ "work": "romeo-and-juliet",
+ "title": "Romeo and Juliet",
+ "author": "William Shakespeare",
+ "first_published": 1597,
+ "source": "library/shakespeare-william/30-romeo-and-juliet.md in Amenti.live · public domain",
+ "note": "A play is already a cast recording: every speech carries its speaker’s name, so nothing is inferred. Shakespeare reads the Chorus and every stage direction. Verona is played by Italians; Juliet by Joan of Arc; the small parts are doubled, as in Shakespeare’s own company. One episode per scene.",
+ "unit": "scenes",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "romeo-and-juliet/ep01.json",
+   "document": "ACT I · SCENE I",
+   "summary": "The Prologue · Act I, Scene I — A public place",
+   "status": "scripted"
+  },
+  {
+   "n": 2,
+   "file": "romeo-and-juliet/ep02.json",
+   "document": "ACT I · SCENE II",
+   "summary": "Act I, Scene II — A Street",
+   "status": "scripted"
+  },
+  {
+   "n": 3,
+   "file": "romeo-and-juliet/ep03.json",
+   "document": "ACT I · SCENE III",
+   "summary": "Act I, Scene III — Room in Capulet’s House",
+   "status": "scripted"
+  },
+  {
+   "n": 4,
+   "file": "romeo-and-juliet/ep04.json",
+   "document": "ACT I · SCENE IV",
+   "summary": "Act I, Scene IV — A Street",
+   "status": "scripted"
+  },
+  {
+   "n": 5,
+   "file": "romeo-and-juliet/ep05.json",
+   "document": "ACT I · SCENE V",
+   "summary": "Act I, Scene V — A Hall in Capulet’s House",
+   "status": "scripted"
+  },
+  {
+   "n": 6,
+   "file": "romeo-and-juliet/ep06.json",
+   "document": "ACT II · SCENE I",
+   "summary": "Chorus · Act II, Scene I — An open place adjoining Capulet’s Garden",
+   "status": "scripted"
+  },
+  {
+   "n": 7,
+   "file": "romeo-and-juliet/ep07.json",
+   "document": "ACT II · SCENE II",
+   "summary": "Act II, Scene II — Capulet’s Garden",
+   "status": "scripted"
+  },
+  {
+   "n": 8,
+   "file": "romeo-and-juliet/ep08.json",
+   "document": "ACT II · SCENE III",
+   "summary": "Act II, Scene III — Friar Lawrence’s Cell",
+   "status": "scripted"
+  },
+  {
+   "n": 9,
+   "file": "romeo-and-juliet/ep09.json",
+   "document": "ACT II · SCENE IV",
+   "summary": "Act II, Scene IV — A Street",
+   "status": "scripted"
+  },
+  {
+   "n": 10,
+   "file": "romeo-and-juliet/ep10.json",
+   "document": "ACT II · SCENE V",
+   "summary": "Act II, Scene V — Capulet’s Garden",
+   "status": "scripted"
+  },
+  {
+   "n": 11,
+   "file": "romeo-and-juliet/ep11.json",
+   "document": "ACT II · SCENE VI",
+   "summary": "Act II, Scene VI — Friar Lawrence’s Cell",
+   "status": "scripted"
+  },
+  {
+   "n": 12,
+   "file": "romeo-and-juliet/ep12.json",
+   "document": "ACT III · SCENE I",
+   "summary": "Act III, Scene I — A public Place",
+   "status": "scripted"
+  },
+  {
+   "n": 13,
+   "file": "romeo-and-juliet/ep13.json",
+   "document": "ACT III · SCENE II",
+   "summary": "Act III, Scene II — A Room in Capulet’s House",
+   "status": "scripted"
+  },
+  {
+   "n": 14,
+   "file": "romeo-and-juliet/ep14.json",
+   "document": "ACT III · SCENE III",
+   "summary": "Act III, Scene III — Friar Lawrence’s cell",
+   "status": "scripted"
+  },
+  {
+   "n": 15,
+   "file": "romeo-and-juliet/ep15.json",
+   "document": "ACT III · SCENE IV",
+   "summary": "Act III, Scene IV — A Room in Capulet’s House",
+   "status": "scripted"
+  },
+  {
+   "n": 16,
+   "file": "romeo-and-juliet/ep16.json",
+   "document": "ACT III · SCENE V",
+   "summary": "Act III, Scene V — An open Gallery to Juliet’s Chamber, overlooking the Garden",
+   "status": "scripted"
+  },
+  {
+   "n": 17,
+   "file": "romeo-and-juliet/ep17.json",
+   "document": "ACT IV · SCENE I",
+   "summary": "Act IV, Scene I — Friar Lawrence’s Cell",
+   "status": "scripted"
+  },
+  {
+   "n": 18,
+   "file": "romeo-and-juliet/ep18.json",
+   "document": "ACT IV · SCENE II",
+   "summary": "Act IV, Scene II — Hall in Capulet’s House",
+   "status": "scripted"
+  },
+  {
+   "n": 19,
+   "file": "romeo-and-juliet/ep19.json",
+   "document": "ACT IV · SCENE III",
+   "summary": "Act IV, Scene III — Juliet’s Chamber",
+   "status": "scripted"
+  },
+  {
+   "n": 20,
+   "file": "romeo-and-juliet/ep20.json",
+   "document": "ACT IV · SCENE IV",
+   "summary": "Act IV, Scene IV — Hall in Capulet’s House",
+   "status": "scripted"
+  },
+  {
+   "n": 21,
+   "file": "romeo-and-juliet/ep21.json",
+   "document": "ACT IV · SCENE V",
+   "summary": "Act IV, Scene V — Juliet’s Chamber; Juliet on the bed",
+   "status": "scripted"
+  },
+  {
+   "n": 22,
+   "file": "romeo-and-juliet/ep22.json",
+   "document": "ACT V · SCENE I",
+   "summary": "Act V, Scene I — Mantua. A Street",
+   "status": "scripted"
+  },
+  {
+   "n": 23,
+   "file": "romeo-and-juliet/ep23.json",
+   "document": "ACT V · SCENE II",
+   "summary": "Act V, Scene II — Friar Lawrence’s Cell",
+   "status": "scripted"
+  },
+  {
+   "n": 24,
+   "file": "romeo-and-juliet/ep24.json",
+   "document": "ACT V · SCENE III",
+   "summary": "Act V, Scene III — A churchyard; in it a Monument belonging to the Capulets",
+   "status": "scripted"
+  }
+ ]
+}

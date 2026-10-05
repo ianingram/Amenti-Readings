@@ -1,0 +1,106 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 23,
+ "chapter": 23,
+ "title": "Act V, Scene II — Friar Lawrence’s Cell",
+ "document": "ACT V · SCENE II",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Friar John",
+   "cast_as": "Amerigo Vespucci"
+  },
+  {
+   "role": "Friar Lawrence",
+   "cast_as": "Francis of Assisi"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE II. Friar Lawrence’s Cell."
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Friar John."
+  },
+  {
+   "n": 3,
+   "role": "Friar John",
+   "cast": "Amerigo Vespucci",
+   "text": "Holy Franciscan Friar! Brother, ho!"
+  },
+  {
+   "n": 4,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Friar Lawrence."
+  },
+  {
+   "n": 5,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "This same should be the voice of Friar John.\n\nWelcome from Mantua. What says Romeo?\n\nOr, if his mind be writ, give me his letter."
+  },
+  {
+   "n": 6,
+   "role": "Friar John",
+   "cast": "Amerigo Vespucci",
+   "text": "Going to find a barefoot brother out,\n\nOne of our order, to associate me,\n\nHere in this city visiting the sick,\n\nAnd finding him, the searchers of the town,\n\nSuspecting that we both were in a house\n\nWhere the infectious pestilence did reign,\n\nSeal’d up the doors, and would not let us forth,\n\nSo that my speed to Mantua there was stay’d."
+  },
+  {
+   "n": 7,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Who bare my letter then to Romeo?"
+  },
+  {
+   "n": 8,
+   "role": "Friar John",
+   "cast": "Amerigo Vespucci",
+   "text": "I could not send it,—here it is again,—\n\nNor get a messenger to bring it thee,\n\nSo fearful were they of infection."
+  },
+  {
+   "n": 9,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Unhappy fortune! By my brotherhood,\n\nThe letter was not nice, but full of charge,\n\nOf dear import, and the neglecting it\n\nMay do much danger. Friar John, go hence,\n\nGet me an iron crow and bring it straight\n\nUnto my cell."
+  },
+  {
+   "n": 10,
+   "role": "Friar John",
+   "cast": "Amerigo Vespucci",
+   "text": "Brother, I’ll go and bring it thee."
+  },
+  {
+   "n": 11,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 12,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Now must I to the monument alone.\n\nWithin this three hours will fair Juliet wake.\n\nShe will beshrew me much that Romeo\n\nHath had no notice of these accidents;\n\nBut I will write again to Mantua,\n\nAnd keep her at my cell till Romeo come.\n\nPoor living corse, clos’d in a dead man’s tomb."
+  },
+  {
+   "n": 13,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  }
+ ]
+}

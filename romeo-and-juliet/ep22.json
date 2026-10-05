@@ -1,0 +1,176 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 22,
+ "chapter": 22,
+ "title": "Act V, Scene I — Mantua. A Street",
+ "document": "ACT V · SCENE I",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Romeo",
+   "cast_as": "Romulus"
+  },
+  {
+   "role": "Balthasar",
+   "cast_as": "Amerigo Vespucci"
+  },
+  {
+   "role": "Apothecary",
+   "cast_as": "Caravaggio"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "ACT V"
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE I. Mantua. A Street."
+  },
+  {
+   "n": 3,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Romeo."
+  },
+  {
+   "n": 4,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "If I may trust the flattering eye of sleep,\n\nMy dreams presage some joyful news at hand.\n\nMy bosom’s lord sits lightly in his throne;\n\nAnd all this day an unaccustom’d spirit\n\nLifts me above the ground with cheerful thoughts.\n\nI dreamt my lady came and found me dead,—\n\nStrange dream, that gives a dead man leave to think!—\n\nAnd breath’d such life with kisses in my lips,\n\nThat I reviv’d, and was an emperor.\n\nAh me, how sweet is love itself possess’d,\n\nWhen but love’s shadows are so rich in joy."
+  },
+  {
+   "n": 5,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Balthasar."
+  },
+  {
+   "n": 6,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "News from Verona! How now, Balthasar?\n\nDost thou not bring me letters from the Friar?\n\nHow doth my lady? Is my father well?\n\nHow fares my Juliet? That I ask again;\n\nFor nothing can be ill if she be well."
+  },
+  {
+   "n": 7,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "Then she is well, and nothing can be ill.\n\nHer body sleeps in Capel’s monument,\n\nAnd her immortal part with angels lives.\n\nI saw her laid low in her kindred’s vault,\n\nAnd presently took post to tell it you.\n\nO pardon me for bringing these ill news,\n\nSince you did leave it for my office, sir."
+  },
+  {
+   "n": 8,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Is it even so? Then I defy you, stars!\n\nThou know’st my lodging. Get me ink and paper,\n\nAnd hire post-horses. I will hence tonight."
+  },
+  {
+   "n": 9,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "I do beseech you sir, have patience.\n\nYour looks are pale and wild, and do import\n\nSome misadventure."
+  },
+  {
+   "n": 10,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Tush, thou art deceiv’d.\n\nLeave me, and do the thing I bid thee do.\n\nHast thou no letters to me from the Friar?"
+  },
+  {
+   "n": 11,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "No, my good lord."
+  },
+  {
+   "n": 12,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "No matter. Get thee gone,\n\nAnd hire those horses. I’ll be with thee straight."
+  },
+  {
+   "n": 13,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Balthasar.*]"
+  },
+  {
+   "n": 14,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Well, Juliet, I will lie with thee tonight.\n\nLet’s see for means. O mischief thou art swift\n\nTo enter in the thoughts of desperate men.\n\nI do remember an apothecary,—\n\nAnd hereabouts he dwells,—which late I noted\n\nIn tatter’d weeds, with overwhelming brows,\n\nCulling of simples, meagre were his looks,\n\nSharp misery had worn him to the bones;\n\nAnd in his needy shop a tortoise hung,\n\nAn alligator stuff’d, and other skins\n\nOf ill-shaped fishes; and about his shelves\n\nA beggarly account of empty boxes,\n\nGreen earthen pots, bladders, and musty seeds,\n\nRemnants of packthread, and old cakes of roses\n\nWere thinly scatter’d, to make up a show.\n\nNoting this penury, to myself I said,\n\nAnd if a man did need a poison now,\n\nWhose sale is present death in Mantua,\n\nHere lives a caitiff wretch would sell it him.\n\nO, this same thought did but forerun my need,\n\nAnd this same needy man must sell it me.\n\nAs I remember, this should be the house.\n\nBeing holiday, the beggar’s shop is shut.\n\nWhat, ho! Apothecary!"
+  },
+  {
+   "n": 15,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Apothecary."
+  },
+  {
+   "n": 16,
+   "role": "Apothecary",
+   "cast": "Caravaggio",
+   "text": "Who calls so loud?"
+  },
+  {
+   "n": 17,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Come hither, man. I see that thou art poor.\n\nHold, there is forty ducats. Let me have\n\nA dram of poison, such soon-speeding gear\n\nAs will disperse itself through all the veins,\n\nThat the life-weary taker may fall dead,\n\nAnd that the trunk may be discharg’d of breath\n\nAs violently as hasty powder fir’d\n\nDoth hurry from the fatal cannon’s womb."
+  },
+  {
+   "n": 18,
+   "role": "Apothecary",
+   "cast": "Caravaggio",
+   "text": "Such mortal drugs I have, but Mantua’s law\n\nIs death to any he that utters them."
+  },
+  {
+   "n": 19,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Art thou so bare and full of wretchedness,\n\nAnd fear’st to die? Famine is in thy cheeks,\n\nNeed and oppression starveth in thine eyes,\n\nContempt and beggary hangs upon thy back.\n\nThe world is not thy friend, nor the world’s law;\n\nThe world affords no law to make thee rich;\n\nThen be not poor, but break it and take this."
+  },
+  {
+   "n": 20,
+   "role": "Apothecary",
+   "cast": "Caravaggio",
+   "text": "My poverty, but not my will consents."
+  },
+  {
+   "n": 21,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "I pay thy poverty, and not thy will."
+  },
+  {
+   "n": 22,
+   "role": "Apothecary",
+   "cast": "Caravaggio",
+   "text": "Put this in any liquid thing you will\n\nAnd drink it off; and, if you had the strength\n\nOf twenty men, it would despatch you straight."
+  },
+  {
+   "n": 23,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "There is thy gold, worse poison to men’s souls,\n\nDoing more murder in this loathsome world\n\nThan these poor compounds that thou mayst not sell.\n\nI sell thee poison, thou hast sold me none.\n\nFarewell, buy food, and get thyself in flesh.\n\nCome, cordial and not poison, go with me\n\nTo Juliet’s grave, for there must I use thee."
+  },
+  {
+   "n": 24,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

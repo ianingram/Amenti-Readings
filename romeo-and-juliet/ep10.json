@@ -1,0 +1,178 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 10,
+ "chapter": 10,
+ "title": "Act II, Scene V — Capulet’s Garden",
+ "document": "ACT II · SCENE V",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Juliet",
+   "cast_as": "Saint Joan of Arc"
+  },
+  {
+   "role": "Nurse",
+   "cast_as": "Sophia Loren"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE V. Capulet’s Garden."
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Juliet."
+  },
+  {
+   "n": 3,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "The clock struck nine when I did send the Nurse,\n\nIn half an hour she promised to return.\n\nPerchance she cannot meet him. That’s not so.\n\nO, she is lame. Love’s heralds should be thoughts,\n\nWhich ten times faster glides than the sun’s beams,\n\nDriving back shadows over lowering hills:\n\nTherefore do nimble-pinion’d doves draw love,\n\nAnd therefore hath the wind-swift Cupid wings.\n\nNow is the sun upon the highmost hill\n\nOf this day’s journey, and from nine till twelve\n\nIs three long hours, yet she is not come.\n\nHad she affections and warm youthful blood,\n\nShe’d be as swift in motion as a ball;\n\nMy words would bandy her to my sweet love,\n\nAnd his to me.\n\nBut old folks, many feign as they were dead;\n\nUnwieldy, slow, heavy and pale as lead."
+  },
+  {
+   "n": 4,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Nurse and\nPeter."
+  },
+  {
+   "n": 5,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "O God, she comes. O honey Nurse, what news?\n\nHast thou met with him? Send thy man away."
+  },
+  {
+   "n": 6,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Peter, stay at the gate."
+  },
+  {
+   "n": 7,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Peter.*]"
+  },
+  {
+   "n": 8,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Now, good sweet Nurse,—O Lord, why look’st thou sad?\n\nThough news be sad, yet tell them merrily;\n\nIf good, thou sham’st the music of sweet news\n\nBy playing it to me with so sour a face."
+  },
+  {
+   "n": 9,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "I am aweary, give me leave awhile;\n\nFie, how my bones ache! What a jaunt have I had!"
+  },
+  {
+   "n": 10,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "I would thou hadst my bones, and I thy news:\n\nNay come, I pray thee speak; good, good Nurse, speak."
+  },
+  {
+   "n": 11,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Jesu, what haste? Can you not stay a while?\nDo you not see that I am out of breath?"
+  },
+  {
+   "n": 12,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "How art thou out of breath, when thou hast breath\n\nTo say to me that thou art out of breath?\n\nThe excuse that thou dost make in this delay\n\nIs longer than the tale thou dost excuse.\n\nIs thy news good or bad? Answer to that;\n\nSay either, and I’ll stay the circumstance.\n\nLet me be satisfied, is’t good or bad?"
+  },
+  {
+   "n": 13,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Well, you have made a simple choice; you know not how to choose a man. Romeo?\nNo, not he. Though his face be better than any man’s, yet his leg excels\nall men’s, and for a hand and a foot, and a body, though they be not to\nbe talked on, yet they are past compare. He is not the flower of courtesy, but\nI’ll warrant him as gentle as a lamb. Go thy ways, wench, serve God.\nWhat, have you dined at home?"
+  },
+  {
+   "n": 14,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "No, no. But all this did I know before.\n\nWhat says he of our marriage? What of that?"
+  },
+  {
+   "n": 15,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Lord, how my head aches! What a head have I!\n\nIt beats as it would fall in twenty pieces.\n\nMy back o’ t’other side,—O my back, my back!\n\nBeshrew your heart for sending me about\n\nTo catch my death with jauncing up and down."
+  },
+  {
+   "n": 16,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "I’faith, I am sorry that thou art not well.\n\nSweet, sweet, sweet Nurse, tell me, what says my love?"
+  },
+  {
+   "n": 17,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Your love says like an honest gentleman,\n\nAnd a courteous, and a kind, and a handsome,\n\nAnd I warrant a virtuous,—Where is your mother?"
+  },
+  {
+   "n": 18,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Where is my mother? Why, she is within.\n\nWhere should she be? How oddly thou repliest.\n\n‘Your love says, like an honest gentleman,\n\n‘Where is your mother?’"
+  },
+  {
+   "n": 19,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "O God’s lady dear,\n\nAre you so hot? Marry, come up, I trow.\n\nIs this the poultice for my aching bones?\n\nHenceforward do your messages yourself."
+  },
+  {
+   "n": 20,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Here’s such a coil. Come, what says Romeo?"
+  },
+  {
+   "n": 21,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Have you got leave to go to shrift today?"
+  },
+  {
+   "n": 22,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "I have."
+  },
+  {
+   "n": 23,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Then hie you hence to Friar Lawrence’ cell;\n\nThere stays a husband to make you a wife.\n\nNow comes the wanton blood up in your cheeks,\n\nThey’ll be in scarlet straight at any news.\n\nHie you to church. I must another way,\n\nTo fetch a ladder by the which your love\n\nMust climb a bird’s nest soon when it is dark.\n\nI am the drudge, and toil in your delight;\n\nBut you shall bear the burden soon at night.\n\nGo. I’ll to dinner; hie you to the cell."
+  },
+  {
+   "n": 24,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Hie to high fortune! Honest Nurse, farewell."
+  },
+  {
+   "n": 25,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

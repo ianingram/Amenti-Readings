@@ -1,0 +1,272 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 17,
+ "chapter": 17,
+ "title": "Act IV, Scene I — Friar Lawrence’s Cell",
+ "document": "ACT IV · SCENE I",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Friar Lawrence",
+   "cast_as": "Francis of Assisi"
+  },
+  {
+   "role": "Paris",
+   "cast_as": "Titian"
+  },
+  {
+   "role": "Juliet",
+   "cast_as": "Saint Joan of Arc"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "ACT IV"
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE I. Friar Lawrence’s Cell."
+  },
+  {
+   "n": 3,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Friar Lawrence and\nParis."
+  },
+  {
+   "n": 4,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "On Thursday, sir? The time is very short."
+  },
+  {
+   "n": 5,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "My father Capulet will have it so;\n\nAnd I am nothing slow to slack his haste."
+  },
+  {
+   "n": 6,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "You say you do not know the lady’s mind.\n\nUneven is the course; I like it not."
+  },
+  {
+   "n": 7,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Immoderately she weeps for Tybalt’s death,\n\nAnd therefore have I little talk’d of love;\n\nFor Venus smiles not in a house of tears.\n\nNow, sir, her father counts it dangerous\n\nThat she do give her sorrow so much sway;\n\nAnd in his wisdom, hastes our marriage,\n\nTo stop the inundation of her tears,\n\nWhich, too much minded by herself alone,\n\nMay be put from her by society.\n\nNow do you know the reason of this haste."
+  },
+  {
+   "n": 8,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Aside.*]"
+  },
+  {
+   "n": 9,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "I would I knew not why it should be slow’d.—\n\nLook, sir, here comes the lady toward my cell."
+  },
+  {
+   "n": 10,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Juliet."
+  },
+  {
+   "n": 11,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Happily met, my lady and my wife!"
+  },
+  {
+   "n": 12,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "That may be, sir, when I may be a wife."
+  },
+  {
+   "n": 13,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "That may be, must be, love, on Thursday next."
+  },
+  {
+   "n": 14,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "What must be shall be."
+  },
+  {
+   "n": 15,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "That’s a certain text."
+  },
+  {
+   "n": 16,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Come you to make confession to this father?"
+  },
+  {
+   "n": 17,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "To answer that, I should confess to you."
+  },
+  {
+   "n": 18,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Do not deny to him that you love me."
+  },
+  {
+   "n": 19,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "I will confess to you that I love him."
+  },
+  {
+   "n": 20,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "So will ye, I am sure, that you love me."
+  },
+  {
+   "n": 21,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "If I do so, it will be of more price,\n\nBeing spoke behind your back than to your face."
+  },
+  {
+   "n": 22,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Poor soul, thy face is much abus’d with tears."
+  },
+  {
+   "n": 23,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "The tears have got small victory by that;\n\nFor it was bad enough before their spite."
+  },
+  {
+   "n": 24,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Thou wrong’st it more than tears with that report."
+  },
+  {
+   "n": 25,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "That is no slander, sir, which is a truth,\n\nAnd what I spake, I spake it to my face."
+  },
+  {
+   "n": 26,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Thy face is mine, and thou hast slander’d it."
+  },
+  {
+   "n": 27,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "It may be so, for it is not mine own.\n\nAre you at leisure, holy father, now,\n\nOr shall I come to you at evening mass?"
+  },
+  {
+   "n": 28,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "My leisure serves me, pensive daughter, now.—\n\nMy lord, we must entreat the time alone."
+  },
+  {
+   "n": 29,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "God shield I should disturb devotion!—\n\nJuliet, on Thursday early will I rouse ye,\n\nTill then, adieu; and keep this holy kiss."
+  },
+  {
+   "n": 30,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 31,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "O shut the door, and when thou hast done so,\n\nCome weep with me, past hope, past cure, past help!"
+  },
+  {
+   "n": 32,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "O Juliet, I already know thy grief;\n\nIt strains me past the compass of my wits.\n\nI hear thou must, and nothing may prorogue it,\n\nOn Thursday next be married to this County."
+  },
+  {
+   "n": 33,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Tell me not, Friar, that thou hear’st of this,\n\nUnless thou tell me how I may prevent it.\n\nIf in thy wisdom, thou canst give no help,\n\nDo thou but call my resolution wise,\n\nAnd with this knife I’ll help it presently.\n\nGod join’d my heart and Romeo’s, thou our hands;\n\nAnd ere this hand, by thee to Romeo’s seal’d,\n\nShall be the label to another deed,\n\nOr my true heart with treacherous revolt\n\nTurn to another, this shall slay them both.\n\nTherefore, out of thy long-experienc’d time,\n\nGive me some present counsel, or behold\n\n’Twixt my extremes and me this bloody knife\n\nShall play the empire, arbitrating that\n\nWhich the commission of thy years and art\n\nCould to no issue of true honour bring.\n\nBe not so long to speak. I long to die,\n\nIf what thou speak’st speak not of remedy."
+  },
+  {
+   "n": 34,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Hold, daughter. I do spy a kind of hope,\n\nWhich craves as desperate an execution\n\nAs that is desperate which we would prevent.\n\nIf, rather than to marry County Paris\n\nThou hast the strength of will to slay thyself,\n\nThen is it likely thou wilt undertake\n\nA thing like death to chide away this shame,\n\nThat cop’st with death himself to scape from it.\n\nAnd if thou dar’st, I’ll give thee remedy."
+  },
+  {
+   "n": 35,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "O, bid me leap, rather than marry Paris,\n\nFrom off the battlements of yonder tower,\n\nOr walk in thievish ways, or bid me lurk\n\nWhere serpents are. Chain me with roaring bears;\n\nOr hide me nightly in a charnel-house,\n\nO’er-cover’d quite with dead men’s rattling bones,\n\nWith reeky shanks and yellow chapless skulls.\n\nOr bid me go into a new-made grave,\n\nAnd hide me with a dead man in his shroud;\n\nThings that, to hear them told, have made me tremble,\n\nAnd I will do it without fear or doubt,\n\nTo live an unstain’d wife to my sweet love."
+  },
+  {
+   "n": 36,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Hold then. Go home, be merry, give consent\n\nTo marry Paris. Wednesday is tomorrow;\n\nTomorrow night look that thou lie alone,\n\nLet not thy Nurse lie with thee in thy chamber.\n\nTake thou this vial, being then in bed,\n\nAnd this distilled liquor drink thou off,\n\nWhen presently through all thy veins shall run\n\nA cold and drowsy humour; for no pulse\n\nShall keep his native progress, but surcease.\n\nNo warmth, no breath shall testify thou livest,\n\nThe roses in thy lips and cheeks shall fade\n\nTo paly ashes; thy eyes’ windows fall,\n\nLike death when he shuts up the day of life.\n\nEach part depriv’d of supple government,\n\nShall stiff and stark and cold appear like death.\n\nAnd in this borrow’d likeness of shrunk death\n\nThou shalt continue two and forty hours,\n\nAnd then awake as from a pleasant sleep.\n\nNow when the bridegroom in the morning comes\n\nTo rouse thee from thy bed, there art thou dead.\n\nThen as the manner of our country is,\n\nIn thy best robes, uncover’d, on the bier,\n\nThou shalt be borne to that same ancient vault\n\nWhere all the kindred of the Capulets lie.\n\nIn the meantime, against thou shalt awake,\n\nShall Romeo by my letters know our drift,\n\nAnd hither shall he come, and he and I\n\nWill watch thy waking, and that very night\n\nShall Romeo bear thee hence to Mantua.\n\nAnd this shall free thee from this present shame,\n\nIf no inconstant toy nor womanish fear\n\nAbate thy valour in the acting it."
+  },
+  {
+   "n": 37,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Give me, give me! O tell not me of fear!"
+  },
+  {
+   "n": 38,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Hold; get you gone, be strong and prosperous\n\nIn this resolve. I’ll send a friar with speed\n\nTo Mantua, with my letters to thy lord."
+  },
+  {
+   "n": 39,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Love give me strength, and strength shall help afford.\n\nFarewell, dear father."
+  },
+  {
+   "n": 40,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

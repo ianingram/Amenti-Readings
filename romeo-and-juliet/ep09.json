@@ -1,0 +1,640 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 9,
+ "chapter": 9,
+ "title": "Act II, Scene IV — A Street",
+ "document": "ACT II · SCENE IV",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Mercutio",
+   "cast_as": "Giacomo Casanova"
+  },
+  {
+   "role": "Benvolio",
+   "cast_as": "Guglielmo Marconi"
+  },
+  {
+   "role": "Romeo",
+   "cast_as": "Romulus"
+  },
+  {
+   "role": "Nurse",
+   "cast_as": "Sophia Loren"
+  },
+  {
+   "role": "Peter",
+   "cast_as": "Umberto Eco"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE IV. A Street."
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Benvolio and\nMercutio."
+  },
+  {
+   "n": 3,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Where the devil should this Romeo be? Came he not home tonight?"
+  },
+  {
+   "n": 4,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Not to his father’s; I spoke with his man."
+  },
+  {
+   "n": 5,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Why, that same pale hard-hearted wench, that Rosaline, torments him so that he\nwill sure run mad."
+  },
+  {
+   "n": 6,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Tybalt, the kinsman to old Capulet, hath sent a letter to his father’s\nhouse."
+  },
+  {
+   "n": 7,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "A challenge, on my life."
+  },
+  {
+   "n": 8,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Romeo will answer it."
+  },
+  {
+   "n": 9,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Any man that can write may answer a letter."
+  },
+  {
+   "n": 10,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Nay, he will answer the letter’s master, how he\ndares, being dared."
+  },
+  {
+   "n": 11,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Alas poor Romeo, he is already dead, stabbed with a white wench’s black\neye; run through the ear with a love song, the very pin of his heart cleft with\nthe blind bow-boy’s butt-shaft. And is he a man to encounter Tybalt?"
+  },
+  {
+   "n": 12,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Why, what is Tybalt?"
+  },
+  {
+   "n": 13,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "More than Prince of cats. O, he’s the courageous captain of compliments.\nHe fights as you sing prick-song, keeps time, distance, and proportion. He\nrests his minim rest, one, two, and the third in your bosom: the very butcher\nof a silk button, a duellist, a duellist; a gentleman of the very first house,\nof the first and second cause. Ah, the immortal passado, the punto reverso, the\nhay."
+  },
+  {
+   "n": 14,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "The what?"
+  },
+  {
+   "n": 15,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "The pox of such antic lisping, affecting phantasies; these new tuners of\naccent. By Jesu, a very good blade, a very tall man, a very good whore. Why, is\nnot this a lamentable thing, grandsire, that we should be thus afflicted with\nthese strange flies, these fashion-mongers, these pardon-me’s, who stand\nso much on the new form that they cannot sit at ease on the old bench? O their\nbones, their bones!"
+  },
+  {
+   "n": 16,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Romeo."
+  },
+  {
+   "n": 17,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Here comes Romeo, here comes Romeo!"
+  },
+  {
+   "n": 18,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Without his roe, like a dried herring. O flesh, flesh, how art thou fishified!\nNow is he for the numbers that Petrarch flowed in. Laura, to his lady, was but\na kitchen wench,—marry, she had a better love to berhyme her: Dido a\ndowdy; Cleopatra a gypsy; Helen and Hero hildings and harlots; Thisbe a grey\neye or so, but not to the purpose. Signior Romeo, bonjour! There’s a\nFrench salutation to your French slop. You gave us the counterfeit fairly last\nnight."
+  },
+  {
+   "n": 19,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Good morrow to you both. What counterfeit did I give you?"
+  },
+  {
+   "n": 20,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "The slip sir, the slip; can you not conceive?"
+  },
+  {
+   "n": 21,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Pardon, good Mercutio, my business was great, and in such a case as mine a man\nmay strain courtesy."
+  },
+  {
+   "n": 22,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "That’s as much as to say, such a case as yours constrains a man to bow in\nthe hams."
+  },
+  {
+   "n": 23,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Meaning, to curtsy."
+  },
+  {
+   "n": 24,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Thou hast most kindly hit it."
+  },
+  {
+   "n": 25,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "A most courteous exposition."
+  },
+  {
+   "n": 26,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Nay, I am the very pink of courtesy."
+  },
+  {
+   "n": 27,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Pink for flower."
+  },
+  {
+   "n": 28,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Right."
+  },
+  {
+   "n": 29,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Why, then is my pump well flowered."
+  },
+  {
+   "n": 30,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Sure wit, follow me this jest now, till thou hast worn out thy pump, that when\nthe single sole of it is worn, the jest may remain after the wearing, solely\nsingular."
+  },
+  {
+   "n": 31,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "O single-soled jest, solely singular for the singleness!"
+  },
+  {
+   "n": 32,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Come between us, good Benvolio; my wits faint."
+  },
+  {
+   "n": 33,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Swits and spurs, swits and spurs; or I’ll cry a match."
+  },
+  {
+   "n": 34,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Nay, if thy wits run the wild-goose chase, I am done. For thou hast more of the\nwild-goose in one of thy wits, than I am sure, I have in my whole five. Was I\nwith you there for the goose?"
+  },
+  {
+   "n": 35,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Thou wast never with me for anything, when thou wast not there for the goose."
+  },
+  {
+   "n": 36,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "I will bite thee by the ear for that jest."
+  },
+  {
+   "n": 37,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Nay, good goose, bite not."
+  },
+  {
+   "n": 38,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Thy wit is a very bitter sweeting, it is a most sharp sauce."
+  },
+  {
+   "n": 39,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "And is it not then well served in to a sweet goose?"
+  },
+  {
+   "n": 40,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "O here’s a wit of cheveril, that stretches from an inch narrow to an ell\nbroad."
+  },
+  {
+   "n": 41,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "I stretch it out for that word broad, which added to the goose, proves thee far\nand wide a broad goose."
+  },
+  {
+   "n": 42,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Why, is not this better now than groaning for love? Now art thou sociable, now\nart thou Romeo; now art thou what thou art, by art as well as by nature. For\nthis drivelling love is like a great natural, that runs lolling up and down to\nhide his bauble in a hole."
+  },
+  {
+   "n": 43,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Stop there, stop there."
+  },
+  {
+   "n": 44,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Thou desirest me to stop in my tale against the hair."
+  },
+  {
+   "n": 45,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "Thou wouldst else have made thy tale large."
+  },
+  {
+   "n": 46,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "O, thou art deceived; I would have made it short, for I was come to the whole\ndepth of my tale, and meant indeed to occupy the argument no longer."
+  },
+  {
+   "n": 47,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Nurse and\nPeter."
+  },
+  {
+   "n": 48,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Here’s goodly gear!\n\nA sail, a sail!"
+  },
+  {
+   "n": 49,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Two, two; a shirt and a smock."
+  },
+  {
+   "n": 50,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Peter!"
+  },
+  {
+   "n": 51,
+   "role": "Peter",
+   "cast": "Umberto Eco",
+   "text": "Anon."
+  },
+  {
+   "n": 52,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "My fan, Peter."
+  },
+  {
+   "n": 53,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Good Peter, to hide her face; for her fan’s the fairer face."
+  },
+  {
+   "n": 54,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "God ye good morrow, gentlemen."
+  },
+  {
+   "n": 55,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "God ye good-den, fair gentlewoman."
+  },
+  {
+   "n": 56,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Is it good-den?"
+  },
+  {
+   "n": 57,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "’Tis no less, I tell ye; for the bawdy hand of the dial is now upon the\nprick of noon."
+  },
+  {
+   "n": 58,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Out upon you! What a man are you?"
+  },
+  {
+   "n": 59,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "One, gentlewoman, that God hath made for himself to mar."
+  },
+  {
+   "n": 60,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "By my troth, it is well said; for himself to mar, quoth a? Gentlemen, can any\nof you tell me where I may find the young Romeo?"
+  },
+  {
+   "n": 61,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "I can tell you: but young Romeo will be older when you have found him than he\nwas when you sought him. I am the youngest of that name, for fault of a worse."
+  },
+  {
+   "n": 62,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "You say well."
+  },
+  {
+   "n": 63,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Yea, is the worst well? Very well took, i’faith; wisely, wisely."
+  },
+  {
+   "n": 64,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "If you be he, sir, I desire some confidence with you."
+  },
+  {
+   "n": 65,
+   "role": "Benvolio",
+   "cast": "Guglielmo Marconi",
+   "text": "She will endite him to some supper."
+  },
+  {
+   "n": 66,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "A bawd, a bawd, a bawd! So ho!"
+  },
+  {
+   "n": 67,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "What hast thou found?"
+  },
+  {
+   "n": 68,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "No hare, sir; unless a hare, sir, in a lenten pie, that is something stale\nand hoar ere it be spent."
+  },
+  {
+   "n": 69,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Sings.*]"
+  },
+  {
+   "n": 70,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "An old hare hoar,\n\nAnd an old hare hoar,\n\nIs very good meat in Lent;\n\nBut a hare that is hoar\n\nIs too much for a score\n\nWhen it hoars ere it be spent.\n\nRomeo, will you come to your father’s? We’ll to dinner thither."
+  },
+  {
+   "n": 71,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "I will follow you."
+  },
+  {
+   "n": 72,
+   "role": "Mercutio",
+   "cast": "Giacomo Casanova",
+   "text": "Farewell, ancient lady; farewell, lady, lady, lady."
+  },
+  {
+   "n": 73,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Mercutio and\nBenvolio.*]"
+  },
+  {
+   "n": 74,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "I pray you, sir, what saucy merchant was this that was so full of his ropery?"
+  },
+  {
+   "n": 75,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "A gentleman, Nurse, that loves to hear himself talk, and will speak more in a\nminute than he will stand to in a month."
+  },
+  {
+   "n": 76,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "And a speak anything against me, I’ll take him down, and a were lustier\nthan he is, and twenty such Jacks. And if I cannot, I’ll find those that\nshall. Scurvy knave! I am none of his flirt-gills; I am none of his\nskains-mates.—And thou must stand by too and suffer every knave to use me\nat his pleasure!"
+  },
+  {
+   "n": 77,
+   "role": "Peter",
+   "cast": "Umberto Eco",
+   "text": "I saw no man use you at his pleasure; if I had, my weapon should quickly have\nbeen out. I warrant you, I dare draw as soon as another man, if I see occasion\nin a good quarrel, and the law on my side."
+  },
+  {
+   "n": 78,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Now, afore God, I am so vexed that every part about me quivers. Scurvy knave.\nPray you, sir, a word: and as I told you, my young lady bid me enquire you out;\nwhat she bade me say, I will keep to myself. But first let me tell ye, if ye\nshould lead her in a fool’s paradise, as they say, it were a very gross\nkind of behaviour, as they say; for the gentlewoman is young. And therefore, if\nyou should deal double with her, truly it were an ill thing to be offered to\nany gentlewoman, and very weak dealing."
+  },
+  {
+   "n": 79,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Nurse, commend me to thy lady and mistress. I protest unto\nthee,—"
+  },
+  {
+   "n": 80,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Good heart, and i’faith I will tell her as much. Lord, Lord, she will be\na joyful woman."
+  },
+  {
+   "n": 81,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "What wilt thou tell her, Nurse? Thou dost not mark me."
+  },
+  {
+   "n": 82,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "I will tell her, sir, that you do protest, which, as I take it, is a\ngentlemanlike offer."
+  },
+  {
+   "n": 83,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Bid her devise\n\nSome means to come to shrift this afternoon,\n\nAnd there she shall at Friar Lawrence’ cell\n\nBe shriv’d and married. Here is for thy pains."
+  },
+  {
+   "n": 84,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "No truly, sir; not a penny."
+  },
+  {
+   "n": 85,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Go to; I say you shall."
+  },
+  {
+   "n": 86,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "This afternoon, sir? Well, she shall be there."
+  },
+  {
+   "n": 87,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "And stay, good Nurse, behind the abbey wall.\n\nWithin this hour my man shall be with thee,\n\nAnd bring thee cords made like a tackled stair,\n\nWhich to the high topgallant of my joy\n\nMust be my convoy in the secret night.\n\nFarewell, be trusty, and I’ll quit thy pains;\n\nFarewell; commend me to thy mistress."
+  },
+  {
+   "n": 88,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Now God in heaven bless thee. Hark you, sir."
+  },
+  {
+   "n": 89,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "What say’st thou, my dear Nurse?"
+  },
+  {
+   "n": 90,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Is your man secret? Did you ne’er hear say,\n\nTwo may keep counsel, putting one away?"
+  },
+  {
+   "n": 91,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "I warrant thee my man’s as true as steel."
+  },
+  {
+   "n": 92,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Well, sir, my mistress is the sweetest lady. Lord, Lord! When ’twas a\nlittle prating thing,—O, there is a nobleman in town, one Paris, that\nwould fain lay knife aboard; but she, good soul, had as lief see a toad, a very\ntoad, as see him. I anger her sometimes, and tell her that Paris is the\nproperer man, but I’ll warrant you, when I say so, she looks as pale as\nany clout in the versal world. Doth not rosemary and Romeo begin both with a\nletter?"
+  },
+  {
+   "n": 93,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Ay, Nurse; what of that? Both with an R."
+  },
+  {
+   "n": 94,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Ah, mocker! That’s the dog’s name. R is for the—no, I know it\nbegins with some other letter, and she hath the prettiest sententious of it, of\nyou and rosemary, that it would do you good to hear it."
+  },
+  {
+   "n": 95,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Commend me to thy lady."
+  },
+  {
+   "n": 96,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Ay, a thousand times. Peter!"
+  },
+  {
+   "n": 97,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Romeo.*]"
+  },
+  {
+   "n": 98,
+   "role": "Peter",
+   "cast": "Umberto Eco",
+   "text": "Anon."
+  },
+  {
+   "n": 99,
+   "role": "Nurse",
+   "cast": "Sophia Loren",
+   "text": "Before and apace."
+  },
+  {
+   "n": 100,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

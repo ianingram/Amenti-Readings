@@ -1,0 +1,815 @@
+{
+ "work": "romeo-and-juliet",
+ "episode": 24,
+ "chapter": 24,
+ "title": "Act V, Scene III — A churchyard; in it a Monument belonging to the Capulets",
+ "document": "ACT V · SCENE III",
+ "source": {
+  "library": "library/shakespeare-william/30-romeo-and-juliet.md",
+  "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Paris",
+   "cast_as": "Titian"
+  },
+  {
+   "role": "Page",
+   "cast_as": "Amerigo Vespucci"
+  },
+  {
+   "role": "Romeo",
+   "cast_as": "Romulus"
+  },
+  {
+   "role": "Balthasar",
+   "cast_as": "Amerigo Vespucci"
+  },
+  {
+   "role": "Friar Lawrence",
+   "cast_as": "Francis of Assisi"
+  },
+  {
+   "role": "Juliet",
+   "cast_as": "Saint Joan of Arc"
+  },
+  {
+   "role": "First Watch",
+   "cast_as": "Giuseppe Garibaldi"
+  },
+  {
+   "role": "Second Watch",
+   "cast_as": "Amerigo Vespucci"
+  },
+  {
+   "role": "Third Watch",
+   "cast_as": "Umberto Eco"
+  },
+  {
+   "role": "Prince Escalus",
+   "cast_as": "Dante Alighieri"
+  },
+  {
+   "role": "Capulet",
+   "cast_as": "Luciano Pavarotti"
+  },
+  {
+   "role": "Lady Capulet",
+   "cast_as": "Catherine de' Medici"
+  },
+  {
+   "role": "Montague",
+   "cast_as": "Leonardo da Vinci"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "score": {
+    "key": "dread",
+    "xfade": 6
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE III. A churchyard; in it a Monument belonging to the Capulets."
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Paris, and his\nPage bearing flowers and a torch."
+  },
+  {
+   "n": 3,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Give me thy torch, boy. Hence and stand aloof.\n\nYet put it out, for I would not be seen.\n\nUnder yond yew tree lay thee all along,\n\nHolding thy ear close to the hollow ground;\n\nSo shall no foot upon the churchyard tread,\n\nBeing loose, unfirm, with digging up of graves,\n\nBut thou shalt hear it. Whistle then to me,\n\nAs signal that thou hear’st something approach.\n\nGive me those flowers. Do as I bid thee, go."
+  },
+  {
+   "n": 4,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Aside.*]"
+  },
+  {
+   "n": 5,
+   "role": "Page",
+   "cast": "Amerigo Vespucci",
+   "text": "I am almost afraid to stand alone\n\nHere in the churchyard; yet I will adventure."
+  },
+  {
+   "n": 6,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Retires.*]"
+  },
+  {
+   "n": 7,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Sweet flower, with flowers thy bridal bed I strew.\n\nO woe, thy canopy is dust and stones,\n\nWhich with sweet water nightly I will dew,\n\nOr wanting that, with tears distill’d by moans.\n\nThe obsequies that I for thee will keep,\n\nNightly shall be to strew thy grave and weep."
+  },
+  {
+   "n": 8,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*The Page whistles.*]"
+  },
+  {
+   "n": 9,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "The boy gives warning something doth approach.\n\nWhat cursed foot wanders this way tonight,\n\nTo cross my obsequies and true love’s rite?\n\nWhat, with a torch! Muffle me, night, awhile."
+  },
+  {
+   "n": 10,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Retires.*]"
+  },
+  {
+   "n": 11,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Romeo and\nBalthasar with a torch, mattock, &c."
+  },
+  {
+   "n": 12,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Give me that mattock and the wrenching iron.\n\nHold, take this letter; early in the morning\n\nSee thou deliver it to my lord and father.\n\nGive me the light; upon thy life I charge thee,\n\nWhate’er thou hear’st or seest, stand all aloof\n\nAnd do not interrupt me in my course.\n\nWhy I descend into this bed of death\n\nIs partly to behold my lady’s face,\n\nBut chiefly to take thence from her dead finger\n\nA precious ring, a ring that I must use\n\nIn dear employment. Therefore hence, be gone.\n\nBut if thou jealous dost return to pry\n\nIn what I further shall intend to do,\n\nBy heaven I will tear thee joint by joint,\n\nAnd strew this hungry churchyard with thy limbs.\n\nThe time and my intents are savage-wild;\n\nMore fierce and more inexorable far\n\nThan empty tigers or the roaring sea."
+  },
+  {
+   "n": 13,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "I will be gone, sir, and not trouble you."
+  },
+  {
+   "n": 14,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "So shalt thou show me friendship. Take thou that.\n\nLive, and be prosperous, and farewell, good fellow."
+  },
+  {
+   "n": 15,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "For all this same, I’ll hide me hereabout.\n\nHis looks I fear, and his intents I doubt."
+  },
+  {
+   "n": 16,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Retires*]"
+  },
+  {
+   "n": 17,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Thou detestable maw, thou womb of death,\n\nGorg’d with the dearest morsel of the earth,\n\nThus I enforce thy rotten jaws to open,"
+  },
+  {
+   "n": 18,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Breaking open the door of the monument.*]"
+  },
+  {
+   "n": 19,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "And in despite, I’ll cram thee with more food."
+  },
+  {
+   "n": 20,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "This is that banish’d haughty Montague\n\nThat murder’d my love’s cousin,—with which grief,\n\nIt is supposed, the fair creature died,—\n\nAnd here is come to do some villainous shame\n\nTo the dead bodies. I will apprehend him."
+  },
+  {
+   "n": 21,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Advances.*]"
+  },
+  {
+   "n": 22,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "Stop thy unhallow’d toil, vile Montague.\n\nCan vengeance be pursu’d further than death?\n\nCondemned villain, I do apprehend thee.\n\nObey, and go with me, for thou must die."
+  },
+  {
+   "n": 23,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "I must indeed; and therefore came I hither.\n\nGood gentle youth, tempt not a desperate man.\n\nFly hence and leave me. Think upon these gone;\n\nLet them affright thee. I beseech thee, youth,\n\nPut not another sin upon my head\n\nBy urging me to fury. O be gone.\n\nBy heaven I love thee better than myself;\n\nFor I come hither arm’d against myself.\n\nStay not, be gone, live, and hereafter say,\n\nA madman’s mercy bid thee run away."
+  },
+  {
+   "n": 24,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "I do defy thy conjuration,\n\nAnd apprehend thee for a felon here."
+  },
+  {
+   "n": 25,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "Wilt thou provoke me? Then have at thee, boy!"
+  },
+  {
+   "n": 26,
+   "sfx": [
+    {
+     "key": "sword_clash",
+     "at": "They fight."
+    },
+    {
+     "key": "sword_clash",
+     "at": "They fight.",
+     "offset": 1.0
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*They fight.*]"
+  },
+  {
+   "n": 27,
+   "role": "Page",
+   "cast": "Amerigo Vespucci",
+   "text": "O lord, they fight! I will go call the watch."
+  },
+  {
+   "n": 28,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 29,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "O, I am slain!"
+  },
+  {
+   "n": 30,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Falls.*]"
+  },
+  {
+   "n": 31,
+   "role": "Paris",
+   "cast": "Titian",
+   "text": "If thou be merciful,\n\nOpen the tomb, lay me with Juliet."
+  },
+  {
+   "n": 32,
+   "sfx": [
+    {
+     "key": "passing_bell",
+     "at": "Dies.",
+     "offset": 0.4
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Dies.*]"
+  },
+  {
+   "n": 33,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "In faith, I will. Let me peruse this face.\n\nMercutio’s kinsman, noble County Paris!\n\nWhat said my man, when my betossed soul\n\nDid not attend him as we rode? I think\n\nHe told me Paris should have married Juliet.\n\nSaid he not so? Or did I dream it so?\n\nOr am I mad, hearing him talk of Juliet,\n\nTo think it was so? O, give me thy hand,\n\nOne writ with me in sour misfortune’s book.\n\nI’ll bury thee in a triumphant grave.\n\nA grave? O no, a lantern, slaught’red youth,\n\nFor here lies Juliet, and her beauty makes\n\nThis vault a feasting presence full of light.\n\nDeath, lie thou there, by a dead man interr’d."
+  },
+  {
+   "n": 34,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Laying Paris in the monument.*]"
+  },
+  {
+   "n": 35,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "How oft when men are at the point of death\n\nHave they been merry! Which their keepers call\n\nA lightning before death. O, how may I\n\nCall this a lightning? O my love, my wife,\n\nDeath that hath suck’d the honey of thy breath,\n\nHath had no power yet upon thy beauty.\n\nThou art not conquer’d. Beauty’s ensign yet\n\nIs crimson in thy lips and in thy cheeks,\n\nAnd death’s pale flag is not advanced there.\n\nTybalt, liest thou there in thy bloody sheet?\n\nO, what more favour can I do to thee\n\nThan with that hand that cut thy youth in twain\n\nTo sunder his that was thine enemy?\n\nForgive me, cousin. Ah, dear Juliet,\n\nWhy art thou yet so fair? Shall I believe\n\nThat unsubstantial death is amorous;\n\nAnd that the lean abhorred monster keeps\n\nThee here in dark to be his paramour?\n\nFor fear of that I still will stay with thee,\n\nAnd never from this palace of dim night\n\nDepart again. Here, here will I remain\n\nWith worms that are thy chambermaids. O, here\n\nWill I set up my everlasting rest;\n\nAnd shake the yoke of inauspicious stars\n\nFrom this world-wearied flesh. Eyes, look your last.\n\nArms, take your last embrace! And, lips, O you\n\nThe doors of breath, seal with a righteous kiss\n\nA dateless bargain to engrossing death.\n\nCome, bitter conduct, come, unsavoury guide.\n\nThou desperate pilot, now at once run on\n\nThe dashing rocks thy sea-sick weary bark.\n\nHere’s to my love!"
+  },
+  {
+   "n": 36,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Drinks.*]"
+  },
+  {
+   "n": 37,
+   "role": "Romeo",
+   "cast": "Romulus",
+   "text": "O true apothecary!\n\nThy drugs are quick. Thus with a kiss I die."
+  },
+  {
+   "n": 38,
+   "sfx": [
+    {
+     "key": "passing_bell",
+     "at": "Dies.",
+     "offset": 0.4
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Dies.*]"
+  },
+  {
+   "n": 39,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter, at the other end of the Churchyard,\nFriar Lawrence, with a lantern, crow, and spade."
+  },
+  {
+   "n": 40,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Saint Francis be my speed. How oft tonight\n\nHave my old feet stumbled at graves? Who’s there?\n\nWho is it that consorts, so late, the dead?"
+  },
+  {
+   "n": 41,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "Here’s one, a friend, and one that knows you well."
+  },
+  {
+   "n": 42,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Bliss be upon you. Tell me, good my friend,\n\nWhat torch is yond that vainly lends his light\n\nTo grubs and eyeless skulls? As I discern,\n\nIt burneth in the Capels’ monument."
+  },
+  {
+   "n": 43,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "It doth so, holy sir, and there’s my master,\n\nOne that you love."
+  },
+  {
+   "n": 44,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Who is it?"
+  },
+  {
+   "n": 45,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "Romeo."
+  },
+  {
+   "n": 46,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "How long hath he been there?"
+  },
+  {
+   "n": 47,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "Full half an hour."
+  },
+  {
+   "n": 48,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Go with me to the vault."
+  },
+  {
+   "n": 49,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "I dare not, sir;\n\nMy master knows not but I am gone hence,\n\nAnd fearfully did menace me with death\n\nIf I did stay to look on his intents."
+  },
+  {
+   "n": 50,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Stay then, I’ll go alone. Fear comes upon me.\n\nO, much I fear some ill unlucky thing."
+  },
+  {
+   "n": 51,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "As I did sleep under this yew tree here,\n\nI dreamt my master and another fought,\n\nAnd that my master slew him."
+  },
+  {
+   "n": 52,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Romeo!"
+  },
+  {
+   "n": 53,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Advances.*]"
+  },
+  {
+   "n": 54,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Alack, alack, what blood is this which stains\n\nThe stony entrance of this sepulchre?\n\nWhat mean these masterless and gory swords\n\nTo lie discolour’d by this place of peace?"
+  },
+  {
+   "n": 55,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Enters the monument.*]"
+  },
+  {
+   "n": 56,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "Romeo! O, pale! Who else? What, Paris too?\n\nAnd steep’d in blood? Ah what an unkind hour\n\nIs guilty of this lamentable chance?\n\nThe lady stirs."
+  },
+  {
+   "n": 57,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Juliet wakes and stirs.*]"
+  },
+  {
+   "n": 58,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "O comfortable Friar, where is my lord?\n\nI do remember well where I should be,\n\nAnd there I am. Where is my Romeo?"
+  },
+  {
+   "n": 59,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Noise within.*]"
+  },
+  {
+   "n": 60,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "I hear some noise. Lady, come from that nest\n\nOf death, contagion, and unnatural sleep.\n\nA greater power than we can contradict\n\nHath thwarted our intents. Come, come away.\n\nThy husband in thy bosom there lies dead;\n\nAnd Paris too. Come, I’ll dispose of thee\n\nAmong a sisterhood of holy nuns.\n\nStay not to question, for the watch is coming.\n\nCome, go, good Juliet. I dare no longer stay."
+  },
+  {
+   "n": 61,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Go, get thee hence, for I will not away."
+  },
+  {
+   "n": 62,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Friar Lawrence.*]"
+  },
+  {
+   "n": 63,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "What’s here? A cup clos’d in my true love’s hand?\n\nPoison, I see, hath been his timeless end.\n\nO churl. Drink all, and left no friendly drop\n\nTo help me after? I will kiss thy lips.\n\nHaply some poison yet doth hang on them,\n\nTo make me die with a restorative."
+  },
+  {
+   "n": 64,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Kisses him.*]"
+  },
+  {
+   "n": 65,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Thy lips are warm!"
+  },
+  {
+   "n": 66,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Within.*]"
+  },
+  {
+   "n": 67,
+   "role": "First Watch",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Lead, boy. Which way?"
+  },
+  {
+   "n": 68,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "Yea, noise? Then I’ll be brief. O happy dagger."
+  },
+  {
+   "n": 69,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Snatching Romeo’s\ndagger.*]"
+  },
+  {
+   "n": 70,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "This is thy sheath."
+  },
+  {
+   "n": 71,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*stabs herself*]"
+  },
+  {
+   "n": 72,
+   "role": "Juliet",
+   "cast": "Saint Joan of Arc",
+   "text": "There rest, and let me die."
+  },
+  {
+   "n": 73,
+   "sfx": [
+    {
+     "key": "passing_bell",
+     "at": "Falls on Romeo’s body and dies.",
+     "offset": 0.4
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Falls on Romeo’s\nbody and dies.*]"
+  },
+  {
+   "n": 74,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Watch with the\nPage of Paris."
+  },
+  {
+   "n": 75,
+   "role": "Page",
+   "cast": "Amerigo Vespucci",
+   "text": "This is the place. There, where the torch doth burn."
+  },
+  {
+   "n": 76,
+   "role": "First Watch",
+   "cast": "Giuseppe Garibaldi",
+   "text": "The ground is bloody. Search about the churchyard.\n\nGo, some of you, whoe’er you find attach."
+  },
+  {
+   "n": 77,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt some of the Watch.*]"
+  },
+  {
+   "n": 78,
+   "role": "First Watch",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Pitiful sight! Here lies the County slain,\n\nAnd Juliet bleeding, warm, and newly dead,\n\nWho here hath lain this two days buried.\n\nGo tell the Prince; run to the Capulets.\n\nRaise up the Montagues, some others search."
+  },
+  {
+   "n": 79,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt others of the Watch.*]"
+  },
+  {
+   "n": 80,
+   "role": "First Watch",
+   "cast": "Giuseppe Garibaldi",
+   "text": "We see the ground whereon these woes do lie,\n\nBut the true ground of all these piteous woes\n\nWe cannot without circumstance descry."
+  },
+  {
+   "n": 81,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Re-enter some of the Watch with\nBalthasar."
+  },
+  {
+   "n": 82,
+   "role": "Second Watch",
+   "cast": "Amerigo Vespucci",
+   "text": "Here’s Romeo’s man. We found him in the churchyard."
+  },
+  {
+   "n": 83,
+   "role": "First Watch",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Hold him in safety till the Prince come hither."
+  },
+  {
+   "n": 84,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Re-enter others of the Watch with\nFriar Lawrence."
+  },
+  {
+   "n": 85,
+   "role": "Third Watch",
+   "cast": "Umberto Eco",
+   "text": "Here is a Friar that trembles, sighs, and weeps.\n\nWe took this mattock and this spade from him\n\nAs he was coming from this churchyard side."
+  },
+  {
+   "n": 86,
+   "role": "First Watch",
+   "cast": "Giuseppe Garibaldi",
+   "text": "A great suspicion. Stay the Friar too."
+  },
+  {
+   "n": 87,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter the Prince and\nAttendants."
+  },
+  {
+   "n": 88,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "What misadventure is so early up,\n\nThat calls our person from our morning’s rest?"
+  },
+  {
+   "n": 89,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Capulet, Lady Capulet\nand others."
+  },
+  {
+   "n": 90,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "What should it be that they so shriek abroad?"
+  },
+  {
+   "n": 91,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "O the people in the street cry Romeo,\n\nSome Juliet, and some Paris, and all run\n\nWith open outcry toward our monument."
+  },
+  {
+   "n": 92,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "What fear is this which startles in our ears?"
+  },
+  {
+   "n": 93,
+   "role": "First Watch",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Sovereign, here lies the County Paris slain,\n\nAnd Romeo dead, and Juliet, dead before,\n\nWarm and new kill’d."
+  },
+  {
+   "n": 94,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "Search, seek, and know how this foul murder comes."
+  },
+  {
+   "n": 95,
+   "role": "First Watch",
+   "cast": "Giuseppe Garibaldi",
+   "text": "Here is a Friar, and slaughter’d Romeo’s man,\n\nWith instruments upon them fit to open\n\nThese dead men’s tombs."
+  },
+  {
+   "n": 96,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "O heaven! O wife, look how our daughter bleeds!\n\nThis dagger hath mista’en, for lo, his house\n\nIs empty on the back of Montague,\n\nAnd it mis-sheathed in my daughter’s bosom."
+  },
+  {
+   "n": 97,
+   "role": "Lady Capulet",
+   "cast": "Catherine de' Medici",
+   "text": "O me! This sight of death is as a bell\n\nThat warns my old age to a sepulchre."
+  },
+  {
+   "n": 98,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Montague and others."
+  },
+  {
+   "n": 99,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "Come, Montague, for thou art early up,\n\nTo see thy son and heir more early down."
+  },
+  {
+   "n": 100,
+   "role": "Montague",
+   "cast": "Leonardo da Vinci",
+   "text": "Alas, my liege, my wife is dead tonight.\n\nGrief of my son’s exile hath stopp’d her breath.\n\nWhat further woe conspires against mine age?"
+  },
+  {
+   "n": 101,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "Look, and thou shalt see."
+  },
+  {
+   "n": 102,
+   "role": "Montague",
+   "cast": "Leonardo da Vinci",
+   "text": "O thou untaught! What manners is in this,\n\nTo press before thy father to a grave?"
+  },
+  {
+   "n": 103,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "Seal up the mouth of outrage for a while,\n\nTill we can clear these ambiguities,\n\nAnd know their spring, their head, their true descent,\n\nAnd then will I be general of your woes,\n\nAnd lead you even to death. Meantime forbear,\n\nAnd let mischance be slave to patience.\n\nBring forth the parties of suspicion."
+  },
+  {
+   "n": 104,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "I am the greatest, able to do least,\n\nYet most suspected, as the time and place\n\nDoth make against me, of this direful murder.\n\nAnd here I stand, both to impeach and purge\n\nMyself condemned and myself excus’d."
+  },
+  {
+   "n": 105,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "Then say at once what thou dost know in this."
+  },
+  {
+   "n": 106,
+   "role": "Friar Lawrence",
+   "cast": "Francis of Assisi",
+   "text": "I will be brief, for my short date of breath\n\nIs not so long as is a tedious tale.\n\nRomeo, there dead, was husband to that Juliet,\n\nAnd she, there dead, that Romeo’s faithful wife.\n\nI married them; and their stol’n marriage day\n\nWas Tybalt’s doomsday, whose untimely death\n\nBanish’d the new-made bridegroom from this city;\n\nFor whom, and not for Tybalt, Juliet pin’d.\n\nYou, to remove that siege of grief from her,\n\nBetroth’d, and would have married her perforce\n\nTo County Paris. Then comes she to me,\n\nAnd with wild looks, bid me devise some means\n\nTo rid her from this second marriage,\n\nOr in my cell there would she kill herself.\n\nThen gave I her, so tutored by my art,\n\nA sleeping potion, which so took effect\n\nAs I intended, for it wrought on her\n\nThe form of death. Meantime I writ to Romeo\n\nThat he should hither come as this dire night\n\nTo help to take her from her borrow’d grave,\n\nBeing the time the potion’s force should cease.\n\nBut he which bore my letter, Friar John,\n\nWas stay’d by accident; and yesternight\n\nReturn’d my letter back. Then all alone\n\nAt the prefixed hour of her waking\n\nCame I to take her from her kindred’s vault,\n\nMeaning to keep her closely at my cell\n\nTill I conveniently could send to Romeo.\n\nBut when I came, some minute ere the time\n\nOf her awaking, here untimely lay\n\nThe noble Paris and true Romeo dead.\n\nShe wakes; and I entreated her come forth\n\nAnd bear this work of heaven with patience.\n\nBut then a noise did scare me from the tomb;\n\nAnd she, too desperate, would not go with me,\n\nBut, as it seems, did violence on herself.\n\nAll this I know; and to the marriage\n\nHer Nurse is privy. And if ought in this\n\nMiscarried by my fault, let my old life\n\nBe sacrific’d, some hour before his time,\n\nUnto the rigour of severest law."
+  },
+  {
+   "n": 107,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "We still have known thee for a holy man.\n\nWhere’s Romeo’s man? What can he say to this?"
+  },
+  {
+   "n": 108,
+   "role": "Balthasar",
+   "cast": "Amerigo Vespucci",
+   "text": "I brought my master news of Juliet’s death,\n\nAnd then in post he came from Mantua\n\nTo this same place, to this same monument.\n\nThis letter he early bid me give his father,\n\nAnd threaten’d me with death, going in the vault,\n\nIf I departed not, and left him there."
+  },
+  {
+   "n": 109,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "Give me the letter, I will look on it.\n\nWhere is the County’s Page that rais’d the watch?\n\nSirrah, what made your master in this place?"
+  },
+  {
+   "n": 110,
+   "role": "Page",
+   "cast": "Amerigo Vespucci",
+   "text": "He came with flowers to strew his lady’s grave,\n\nAnd bid me stand aloof, and so I did.\n\nAnon comes one with light to ope the tomb,\n\nAnd by and by my master drew on him,\n\nAnd then I ran away to call the watch."
+  },
+  {
+   "n": 111,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "This letter doth make good the Friar’s words,\n\nTheir course of love, the tidings of her death.\n\nAnd here he writes that he did buy a poison\n\nOf a poor ’pothecary, and therewithal\n\nCame to this vault to die, and lie with Juliet.\n\nWhere be these enemies? Capulet, Montague,\n\nSee what a scourge is laid upon your hate,\n\nThat heaven finds means to kill your joys with love!\n\nAnd I, for winking at your discords too,\n\nHave lost a brace of kinsmen. All are punish’d."
+  },
+  {
+   "n": 112,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "O brother Montague, give me thy hand.\n\nThis is my daughter’s jointure, for no more\n\nCan I demand."
+  },
+  {
+   "n": 113,
+   "role": "Montague",
+   "cast": "Leonardo da Vinci",
+   "text": "But I can give thee more,\n\nFor I will raise her statue in pure gold,\n\nThat whiles Verona by that name is known,\n\nThere shall no figure at such rate be set\n\nAs that of true and faithful Juliet."
+  },
+  {
+   "n": 114,
+   "role": "Capulet",
+   "cast": "Luciano Pavarotti",
+   "text": "As rich shall Romeo’s by his lady’s lie,\n\nPoor sacrifices of our enmity."
+  },
+  {
+   "n": 115,
+   "score": {
+    "key": "lovers",
+    "xfade": 8,
+    "at": "A glooming peace this morning with it brings"
+   },
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "A glooming peace this morning with it brings;\n\nThe sun for sorrow will not show his head.\n\nGo hence, to have more talk of these sad things.\n\nSome shall be pardon’d, and some punished,\n\nFor never was a story of more woe\n\nThan this of Juliet and her Romeo."
+  },
+  {
+   "n": 116,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  },
+  {
+   "n": 117,
+   "role": "Prince Escalus",
+   "cast": "Dante Alighieri",
+   "text": "##"
+  }
+ ]
+}

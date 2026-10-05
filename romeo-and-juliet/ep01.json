@@ -8,7 +8,7 @@
   "library": "library/shakespeare-william/30-romeo-and-juliet.md",
   "text": "William Shakespeare, The Tragedy of Romeo and Juliet · Project Gutenberg · public domain"
  },
- "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file.",
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Prologue is a recorded cue: Shakespeare speaks the sonnet in time, a line to each bar of 4/4, over a processional of tabor, bass and lute.",
  "cast": [
   {
    "role": "Stage directions",
@@ -82,6 +82,7 @@
   },
   {
    "n": 3,
+   "audio": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/prologue-chorus.mp3",
    "role": "Chorus",
    "cast": "William Shakespeare",
    "text": "Two households, both alike in dignity,\n\nIn fair Verona, where we lay our scene,\n\nFrom ancient grudge break to new mutiny,\n\nWhere civil blood makes civil hands unclean.\n\nFrom forth the fatal loins of these two foes\n\nA pair of star-cross’d lovers take their life;\n\nWhose misadventur’d piteous overthrows\n\nDoth with their death bury their parents’ strife.\n\nThe fearful passage of their death-mark’d love,\n\nAnd the continuance of their parents’ rage,\n\nWhich, but their children’s end, nought could remove,\n\nIs now the two hours’ traffic of our stage;\n\nThe which, if you with patient ears attend,\n\nWhat here shall miss, our toil shall strive to mend."

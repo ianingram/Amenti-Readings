@@ -16,3 +16,4 @@ samples by Versilian Studios; organ sampled by Simon Dalzell of Ivy Audio*) — 
 | `knock.mp3` | *Knocking on wood or door* (stephan) | PD |
 
 Borrowed by URL: the sword clash (Treasure Island), the dread (Dracula).
+| `prologue-chorus.mp3` | the Prologue in time (built by `build-prologue.py`): Shakespeare's fourteen lines, each the engine's own render in his voice (Charon + his ledger style), fitted to one bar of 4/4 at 76, over tabor, viola-pizzicato bass and lute (VSCO 2 CE, CC0) | voice service + CC0 |

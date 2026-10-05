@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/reader.js · 2026-10-03 04:00 UTC */
+/* Amenti-Readings/player/reader.js · 2026-10-05 15:00 UTC */
 /* ===========================================================================
    AMENTI READINGS · reader.js
    ---------------------------------------------------------------------------
@@ -51,6 +51,15 @@
 
    A probe can ask. If the engine is missing, the reader says so in the
    console in plain words and refuses to start, instead of appearing to work.
+
+   ── A RECORDED CUE (5 Oct 2026) ────────────────────────────────────────────
+   A cue may carry  "audio": "<url>"  — a finished performance of that cue's
+   own text (the Romeo and Juliet Prologue, spoken in time over music). The
+   reader plays the file instead of speaking the text, shows the text as
+   always, and moves on when the file ends. It is not a second voice path: no
+   chunker, no style, no fetch to /speak — the file was made beforehand from
+   the engine's own renders. warmAhead skips it (nothing to warm). If the file
+   will not play, the cue is spoken by the engine instead, so nothing is lost.
    =========================================================================== */
 (function () {
   'use strict';
@@ -223,7 +232,7 @@
       }
       for (var j = 1; j <= R.WARM_AHEAD; j++) {
         var k = R.i + j, c = cues[k];
-        if (!c || R._warmed[k]) continue;
+        if (!c || R._warmed[k] || c.audio) continue;     /* a recorded cue has nothing to warm */
         R._warmed[k] = true;
         try { eng.warm(c.text, R.nameFor(c)); } catch (e) {}
       }
@@ -249,6 +258,7 @@
          deterministic and the cache key contains the text, so touching it
          here orphans every measure this cue has ever rendered. */
       var at = R.i;
+      if (cue.audio && !cue._audioFailed) { R._playRecorded(cue, at); R._warmAhead(); return; }
       R.engine().speak(cue.text, null, name, function () {
         if (R.i !== at) return;
         R._tries = 0;
@@ -270,6 +280,33 @@
         if (typeof R.onError === 'function') { try { R.onError(R.error); } catch (e) {} }
       });
       R._warmAhead();
+    },
+
+    /* a recorded cue: play the file, advance when it ends, speak the text if it cannot play */
+    _playRecorded: function (cue, at) {
+      R._stopRecorded();
+      var a = new Audio(cue.audio);
+      a.preload = 'auto';
+      R._audio = a;
+      a.onended = function () {
+        if (R._audio !== a) return;
+        R._audio = null;
+        if (R.i !== at || R.state !== 'reading') return;
+        R.i += 1; R._next();
+      };
+      a.onerror = function () {
+        if (R._audio !== a) return;
+        R._audio = null;
+        console.warn('Readings: recorded cue ' + (at + 1) + ' would not play — speaking it instead.');
+        cue._audioFailed = true;
+        if (R.i === at && R.state === 'reading') R._next();
+      };
+      var p = a.play();
+      if (p && typeof p['catch'] === 'function') p['catch'](function () { if (a.onerror) a.onerror(); });
+    },
+    _stopRecorded: function () {
+      var a = R._audio; R._audio = null;
+      if (a) { try { a.onended = a.onerror = null; a.pause(); } catch (e) {} }
     },
 
     retry: function () {
@@ -319,6 +356,7 @@
     pause: function () {
       if (R.state !== 'reading') return;
       R.state = 'paused';
+      R._stopRecorded();
       var e = R.engine(); if (e) e.stop();
     },
 
@@ -331,6 +369,7 @@
     stop: function () {
       R._hideNotice(); R.error = null; R._tries = 0;
       R.state = 'idle'; R.cue = null; R.i = 0;
+      R._stopRecorded();
       var e = R.engine(); if (e) e.stop();
     },
 
@@ -338,6 +377,7 @@
     seek: function (n) {
       var i = Math.max(0, Math.min((R.sheet.cues || []).length - 1, (n | 0) - 1));
       var was = R.state;
+      R._stopRecorded();
       var e = R.engine(); if (e) e.stop();
       R._hideNotice(); R.error = null; R._tries = 0;
       R.i = i;

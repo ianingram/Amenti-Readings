@@ -1,0 +1,1183 @@
+{
+ "work": "dracula",
+ "episode": 10,
+ "chapter": 10,
+ "title": "The Transfusion",
+ "document": "DR SEWARD'S DIARY",
+ "source": {
+  "library": "library/bram-stoker/ch10.md",
+  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ },
+ "note": "Chapter X complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-VIII-XII.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Bram Stoker"
+  },
+  {
+   "role": "Dr Seward",
+   "cast_as": "William Harvey"
+  },
+  {
+   "role": "Van Helsing",
+   "cast_as": "Antony van Leeuwenhoek"
+  },
+  {
+   "role": "Arthur Holmwood",
+   "cast_as": "J.R.R. Tolkien"
+  },
+  {
+   "role": "Lucy Westenra",
+   "cast_as": "Mary Shelley"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "CHAPTER X"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Letter, Dr. Seward to Hon. Arthur Holmwood."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“ 6 September."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“My dear Art,—"
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“My news to-day is not so good. Lucy this morning had gone back a bit.\nThere is, however, one good thing which has arisen from it; Mrs.\nWestenra was naturally anxious concerning Lucy, and has consulted me\nprofessionally about her. I took advantage of the opportunity, and told\nher that my old master, Van Helsing, the great specialist, was coming to\nstay with me, and that I would put her in his charge conjointly with\nmyself; so now we can come and go without alarming her unduly, for a\nshock to her would mean sudden death, and this, in Lucy’s weak\ncondition, might be disastrous to her. We are hedged in with\ndifficulties, all of us, my poor old fellow; but, please God, we shall\ncome through them all right. If any need I shall write, so that, if you\ndo not hear from me, take it for granted that I am simply waiting for\nnews. In haste"
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Yours ever,\n“ John Seward. ”"
+  },
+  {
+   "n": 7,
+   "score": {
+    "key": "phonograph",
+    "at": "Dr. Seward’s Diary.",
+    "xfade": 4
+   },
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Dr. Seward’s Diary."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "7 September. —The first thing Van Helsing said to me when we met at\nLiverpool Street was:—"
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Have you said anything to our young friend the lover of her?”"
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“No,” I said. “I waited till I had seen you, as I said in my telegram. I\nwrote him a letter simply telling him that you were coming, as Miss\nWestenra was not so well, and that I should let him know if need be.”"
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Right, my friend,” he said, “quite right! Better he not know as yet;\nperhaps he shall never know. I pray so; but if it be needed, then he\nshall know all. And, my good friend John, let me caution you. You deal\nwith the madmen. All men are mad in some way or the other; and inasmuch\nas you deal discreetly with your madmen, so deal with God’s madmen,\ntoo—the rest of the world. You tell not your madmen what you do nor why\nyou do it; you tell them not what you think. So you shall keep knowledge\nin its place, where it may rest—where it may gather its kind around it\nand breed. You and I shall keep as yet what we know here, and here.” He\ntouched me on the heart and on the forehead, and then touched himself\nthe same way. “I have for myself thoughts at the present. Later I shall\nunfold to you.”"
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Why not now?” I asked. “It may do some good; we may arrive at some\ndecision.” He stopped and looked at me, and said:—"
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“My friend John, when the corn is grown, even before it has\nripened—while the milk of its mother-earth is in him, and the sunshine\nhas not yet begun to paint him with his gold, the husbandman he pull the\near and rub him between his rough hands, and blow away the green chaff,\nand say to you: ‘Look! he’s good corn; he will make good crop when the\ntime comes.’” I did not see the application, and told him so. For reply\nhe reached over and took my ear in his hand and pulled it playfully, as\nhe used long ago to do at lectures, and said: “The good husbandman tell\nyou so then because he knows, but not till then. But you do not find the\ngood husbandman dig up his planted corn to see if he grow; that is for\nthe children who play at husbandry, and not for those who take it as of\nthe work of their life. See you now, friend John? I have sown my corn,\nand Nature has her work to do in making it sprout; if he sprout at all,\nthere’s some promise; and I wait till the ear begins to swell.” He broke\noff, for he evidently saw that I understood. Then he went on, and very\ngravely:—"
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“You were always a careful student, and your case-book was ever more\nfull than the rest. You were only student then; now you are master, and\nI trust that good habit have not fail. Remember, my friend, that\nknowledge is stronger than memory, and we should not trust the weaker.\nEven if you have not kept the good practise, let me tell you that this\ncase of our dear miss is one that may be—mind, I say may be —of such\ninterest to us and others that all the rest may not make him kick the\nbeam, as your peoples say. Take then good note of it. Nothing is too\nsmall. I counsel you, put down in record even your doubts and surmises.\nHereafter it may be of interest to you to see how true you guess. We\nlearn from failure, not from success!”"
+  },
+  {
+   "n": 15,
+   "para": 14,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "When I described Lucy’s symptoms—the same as before, but infinitely\nmore marked—he looked very grave, but said nothing. He took with him a\nbag in which were many instruments and drugs,"
+  },
+  {
+   "n": 16,
+   "para": 14,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“the ghastly paraphernalia\nof our beneficial trade,”"
+  },
+  {
+   "n": 17,
+   "para": 14,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "as he once called, in one of his lectures, the\nequipment of a professor of the healing craft. When we were shown in,\nMrs. Westenra met us. She was alarmed, but not nearly so much as I\nexpected to find her. Nature in one of her beneficent moods has ordained\nthat even death has some antidote to its own terrors. Here, in a case\nwhere any shock may prove fatal, matters are so ordered that, from some\ncause or other, the things not personal—even the terrible change in her\ndaughter to whom she is so attached—do not seem to reach her. It is\nsomething like the way Dame Nature gathers round a foreign body an\nenvelope of some insensitive tissue which can protect from evil that\nwhich it would otherwise harm by contact. If this be an ordered\nselfishness, then we should pause before we condemn any one for the vice\nof egoism, for there may be deeper root for its causes than we have\nknowledge of."
+  },
+  {
+   "n": 18,
+   "para": 15,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I used my knowledge of this phase of spiritual pathology, and laid down\na rule that she should not be present with Lucy or think of her illness\nmore than was absolutely required. She assented readily, so readily that\nI saw again the hand of Nature fighting for life. Van Helsing and I were\nshown up to Lucy’s room. If I was shocked when I saw her yesterday, I\nwas horrified when I saw her to-day. She was ghastly, chalkily pale; the\nred seemed to have gone even from her lips and gums, and the bones of\nher face stood out prominently; her breathing was painful to see or\nhear. Van Helsing’s face grew set as marble, and his eyebrows converged\ntill they almost touched over his nose. Lucy lay motionless, and did not\nseem to have strength to speak, so for a while we were all silent. Then\nVan Helsing beckoned to me, and we went gently out of the room. The\ninstant we had closed the door he stepped quickly along the passage to\nthe next door, which was open. Then he pulled me quickly in with him and\nclosed the door."
+  },
+  {
+   "n": 19,
+   "para": 15,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“My God!”"
+  },
+  {
+   "n": 20,
+   "para": 15,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he said;"
+  },
+  {
+   "n": 21,
+   "para": 15,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“this is dreadful. There is no time\nto be lost. She will die for sheer want of blood to keep the heart’s\naction as it should be. There must be transfusion of blood at once. Is\nit you or me?”"
+  },
+  {
+   "n": 22,
+   "para": 16,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“I am younger and stronger, Professor. It must be me.”"
+  },
+  {
+   "n": 23,
+   "para": 17,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Then get ready at once. I will bring up my bag. I am prepared.”"
+  },
+  {
+   "n": 24,
+   "para": 18,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I went downstairs with him, and as we were going there was a knock at\nthe hall-door. When we reached the hall the maid had just opened the\ndoor, and Arthur was stepping quickly in. He rushed up to me, saying in\nan eager whisper:—"
+  },
+  {
+   "n": 25,
+   "para": 19,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Jack, I was so anxious. I read between the lines of your letter, and\nhave been in an agony. The dad was better, so I ran down here to see for\nmyself. Is not that gentleman Dr. Van Helsing? I am so thankful to you,\nsir, for coming.”"
+  },
+  {
+   "n": 26,
+   "para": 19,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "When first the Professor’s eye had lit upon him he had\nbeen angry at his interruption at such a time; but now, as he took in\nhis stalwart proportions and recognised the strong young manhood which\nseemed to emanate from him, his eyes gleamed. Without a pause he said to\nhim gravely as he held out his hand:—"
+  },
+  {
+   "n": 27,
+   "para": 20,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Sir, you have come in time. You are the lover of our dear miss. She is\nbad, very, very bad. Nay, my child, do not go like that.”"
+  },
+  {
+   "n": 28,
+   "para": 20,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "For he\nsuddenly grew pale and sat down in a chair almost fainting."
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“You are to\nhelp her. You can do more than any that live, and your courage is your\nbest help.”"
+  },
+  {
+   "n": 30,
+   "para": 21,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“What can I do?”"
+  },
+  {
+   "n": 31,
+   "para": 21,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "asked Arthur hoarsely."
+  },
+  {
+   "n": 32,
+   "para": 21,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Tell me, and I shall do it. My\nlife is hers, and I would give the last drop of blood in my body for\nher.”"
+  },
+  {
+   "n": 33,
+   "para": 21,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "The Professor has a strongly humorous side, and I could from old\nknowledge detect a trace of its origin in his answer:—"
+  },
+  {
+   "n": 34,
+   "para": 22,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“My young sir, I do not ask so much as that—not the last!”"
+  },
+  {
+   "n": 35,
+   "para": 23,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“What shall I do?”"
+  },
+  {
+   "n": 36,
+   "para": 23,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "There was fire in his eyes, and his open nostril\nquivered with intent. Van Helsing slapped him on the shoulder."
+  },
+  {
+   "n": 37,
+   "para": 23,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Come!”"
+  },
+  {
+   "n": 38,
+   "para": 23,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he said."
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“You are a man, and it is a man we want. You are better than\nme, better than my friend John.”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Arthur looked bewildered, and the\nProfessor went on by explaining in a kindly way:—"
+  },
+  {
+   "n": 41,
+   "score": {
+    "key": "vigil",
+    "at": "Young miss is bad, very bad.",
+    "xfade": 6
+   },
+   "para": 24,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Young miss is bad, very bad. She wants blood, and blood she must have\nor die. My friend John and I have consulted; and we are about to perform\nwhat we call transfusion of blood—to transfer from full veins of one to\nthe empty veins which pine for him. John was to give his blood, as he is\nthe more young and strong than me”"
+  },
+  {
+   "n": 42,
+   "para": 24,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "—here Arthur took my hand and wrung\nit hard in silence—"
+  },
+  {
+   "n": 43,
+   "para": 24,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“but, now you are here, you are more good than us,\nold or young, who toil much in the world of thought. Our nerves are not\nso calm and our blood not so bright than yours!”"
+  },
+  {
+   "n": 44,
+   "para": 24,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Arthur turned to him\nand said:—"
+  },
+  {
+   "n": 45,
+   "para": 25,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“If you only knew how gladly I would die for her you would\nunderstand——”"
+  },
+  {
+   "n": 46,
+   "para": 26,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He stopped, with a sort of choke in his voice."
+  },
+  {
+   "n": 47,
+   "para": 27,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Good boy!”"
+  },
+  {
+   "n": 48,
+   "para": 27,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "said Van Helsing."
+  },
+  {
+   "n": 49,
+   "para": 27,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“In the not-so-far-off you will be happy\nthat you have done all for her you love. Come now and be silent. You\nshall kiss her once before it is done, but then you must go; and you\nmust leave at my sign. Say no word to Madame; you know how it is with\nher! There must be no shock; any knowledge of this would be one. Come!”"
+  },
+  {
+   "n": 50,
+   "para": 28,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "We all went up to Lucy’s room. Arthur by direction remained outside.\nLucy turned her head and looked at us, but said nothing. She was not\nasleep, but she was simply too weak to make the effort. Her eyes spoke\nto us; that was all. Van Helsing took some things from his bag and laid\nthem on a little table out of sight. Then he mixed a narcotic, and\ncoming over to the bed, said cheerily:—"
+  },
+  {
+   "n": 51,
+   "para": 29,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Now, little miss, here is your medicine. Drink it off, like a good\nchild. See, I lift you so that to swallow is easy. Yes.”"
+  },
+  {
+   "n": 52,
+   "para": 29,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "She had made\nthe effort with success."
+  },
+  {
+   "n": 53,
+   "para": 30,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "It astonished me how long the drug took to act. This, in fact, marked\nthe extent of her weakness. The time seemed endless until sleep began to\nflicker in her eyelids. At last, however, the narcotic began to manifest\nits potency; and she fell into a deep sleep. When the Professor was\nsatisfied he called Arthur into the room, and bade him strip off his\ncoat. Then he added:"
+  },
+  {
+   "n": 54,
+   "para": 30,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“You may take that one little kiss whiles I bring\nover the table. Friend John, help to me!”"
+  },
+  {
+   "n": 55,
+   "para": 30,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "So neither of us looked whilst\nhe bent over her."
+  },
+  {
+   "n": 56,
+   "para": 31,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Van Helsing turning to me, said:"
+  },
+  {
+   "n": 57,
+   "para": 32,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“He is so young and strong and of blood so pure that we need not\ndefibrinate it.”"
+  },
+  {
+   "n": 58,
+   "para": 33,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Then with swiftness, but with absolute method, Van Helsing performed the\noperation. As the transfusion went on something like life seemed to come\nback to poor Lucy’s cheeks, and through Arthur’s growing pallor the joy\nof his face seemed absolutely to shine. After a bit I began to grow\nanxious, for the loss of blood was telling on Arthur, strong man as he\nwas. It gave me an idea of what a terrible strain Lucy’s system must\nhave undergone that what weakened Arthur only partially restored her.\nBut the Professor’s face was set, and he stood watch in hand and with\nhis eyes fixed now on the patient and now on Arthur. I could hear my own\nheart beat. Presently he said in a soft voice:"
+  },
+  {
+   "n": 59,
+   "para": 33,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Do not stir an instant.\nIt is enough. You attend him; I will look to her.”"
+  },
+  {
+   "n": 60,
+   "para": 33,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "When all was over I\ncould see how much Arthur was weakened. I dressed the wound and took his\narm to bring him away, when Van Helsing spoke without turning round—the\nman seems to have eyes in the back of his head:—"
+  },
+  {
+   "n": 61,
+   "para": 34,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“The brave lover, I think, deserve another kiss, which he shall have\npresently.”"
+  },
+  {
+   "n": 62,
+   "para": 34,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "And as he had now finished his operation, he adjusted the\npillow to the patient’s head. As he did so the narrow black velvet band\nwhich she seems always to wear round her throat, buckled with an old\ndiamond buckle which her lover had given her, was dragged a little up,\nand showed a red mark on her throat. Arthur did not notice it, but I\ncould hear the deep hiss of indrawn breath which is one of Van Helsing’s\nways of betraying emotion. He said nothing at the moment, but turned to\nme, saying:"
+  },
+  {
+   "n": 63,
+   "para": 34,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Now take down our brave young lover, give him of the port\nwine, and let him lie down a while. He must then go home and rest, sleep\nmuch and eat much, that he may be recruited of what he has so given to\nhis love. He must not stay here. Hold! a moment. I may take it, sir,\nthat you are anxious of result. Then bring it with you that in all ways\nthe operation is successful. You have saved her life this time, and you\ncan go home and rest easy in mind that all that can be is. I shall tell\nher all when she is well; she shall love you none the less for what you\nhave done. Good-bye.”"
+  },
+  {
+   "n": 64,
+   "para": 35,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "When Arthur had gone I went back to the room. Lucy was sleeping gently,\nbut her breathing was stronger; I could see the counterpane move as her\nbreast heaved. By the bedside sat Van Helsing, looking at her intently.\nThe velvet band again covered the red mark. I asked the Professor in a\nwhisper:—"
+  },
+  {
+   "n": 65,
+   "para": 36,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“What do you make of that mark on her throat?”"
+  },
+  {
+   "n": 66,
+   "para": 37,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“What do you make of it?”"
+  },
+  {
+   "n": 67,
+   "para": 38,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“I have not examined it yet,” I answered, and then and there proceeded\nto loose the band. Just over the external jugular vein there were two\npunctures, not large, but not wholesome-looking. There was no sign of\ndisease, but the edges were white and worn-looking, as if by some\ntrituration. It at once occurred to me that this wound, or whatever it\nwas, might be the means of that manifest loss of blood; but I abandoned\nthe idea as soon as formed, for such a thing could not be. The whole bed\nwould have been drenched to a scarlet with the blood which the girl must\nhave lost to leave such a pallor as she had before the transfusion."
+  },
+  {
+   "n": 68,
+   "para": 39,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Well?”"
+  },
+  {
+   "n": 69,
+   "para": 39,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "said Van Helsing."
+  },
+  {
+   "n": 70,
+   "para": 40,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Well,” said I, “I can make nothing of it.” The Professor stood up. “I\nmust go back to Amsterdam to-night,” he said. “There are books and\nthings there which I want. You must remain here all the night, and you\nmust not let your sight pass from her.”"
+  },
+  {
+   "n": 71,
+   "para": 41,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Shall I have a nurse?” I asked."
+  },
+  {
+   "n": 72,
+   "para": 42,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“We are the best nurses, you and I. You keep watch all night; see that\nshe is well fed, and that nothing disturbs her. You must not sleep all\nthe night. Later on we can sleep, you and I. I shall be back as soon as\npossible. And then we may begin.”"
+  },
+  {
+   "n": 73,
+   "para": 43,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“May begin?” I said. “What on earth do you mean?”"
+  },
+  {
+   "n": 74,
+   "para": 44,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“We shall see!”"
+  },
+  {
+   "n": 75,
+   "para": 44,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he answered, as he hurried out. He came back a moment\nlater and put his head inside the door and said with warning finger held\nup:—"
+  },
+  {
+   "n": 76,
+   "para": 45,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Remember, she is your charge. If you leave her, and harm befall, you\nshall not sleep easy hereafter!”"
+  },
+  {
+   "n": 77,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Dr. Seward’s Diary—continued."
+  },
+  {
+   "n": 78,
+   "para": 47,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "8 September. —I sat up all night with Lucy. The opiate worked itself\noff towards dusk, and she waked naturally; she looked a different being\nfrom what she had been before the operation. Her spirits even were good,\nand she was full of a happy vivacity, but I could see evidences of the\nabsolute prostration which she had undergone. When I told Mrs. Westenra\nthat Dr. Van Helsing had directed that I should sit up with her she\nalmost pooh-poohed the idea, pointing out her daughter’s renewed\nstrength and excellent spirits. I was firm, however, and made\npreparations for my long vigil. When her maid had prepared her for the\nnight I came in, having in the meantime had supper, and took a seat by\nthe bedside. She did not in any way make objection, but looked at me\ngratefully whenever I caught her eye. After a long spell she seemed\nsinking off to sleep, but with an effort seemed to pull herself together\nand shook it off. This was repeated several times, with greater effort\nand with shorter pauses as the time moved on. It was apparent that she\ndid not want to sleep, so I tackled the subject at once:—"
+  },
+  {
+   "n": 79,
+   "para": 48,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“You do not want to go to sleep?”"
+  },
+  {
+   "n": 80,
+   "para": 49,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“No; I am afraid.”"
+  },
+  {
+   "n": 81,
+   "para": 50,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Afraid to go to sleep! Why so? It is the boon we all crave for.”"
+  },
+  {
+   "n": 82,
+   "para": 51,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Ah, not if you were like me—if sleep was to you a presage of horror!”"
+  },
+  {
+   "n": 83,
+   "para": 52,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“A presage of horror! What on earth do you mean?”"
+  },
+  {
+   "n": 84,
+   "para": 53,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“I don’t know; oh, I don’t know. And that is what is so terrible. All\nthis weakness comes to me in sleep; until I dread the very thought.”"
+  },
+  {
+   "n": 85,
+   "para": 54,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“But, my dear girl, you may sleep to-night. I am here watching you, and\nI can promise that nothing will happen.”"
+  },
+  {
+   "n": 86,
+   "para": 55,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Ah, I can trust you!”"
+  },
+  {
+   "n": 87,
+   "para": 55,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I seized the opportunity, and said: “I promise\nyou that if I see any evidence of bad dreams I will wake you at once.”"
+  },
+  {
+   "n": 88,
+   "para": 56,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“You will? Oh, will you really? How good you are to me. Then I will\nsleep!”"
+  },
+  {
+   "n": 89,
+   "para": 56,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "And almost at the word she gave a deep sigh of relief, and sank\nback, asleep."
+  },
+  {
+   "n": 90,
+   "para": 57,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "All night long I watched by her. She never stirred, but slept on and on\nin a deep, tranquil, life-giving, health-giving sleep. Her lips were\nslightly parted, and her breast rose and fell with the regularity of a\npendulum. There was a smile on her face, and it was evident that no bad\ndreams had come to disturb her peace of mind."
+  },
+  {
+   "n": 91,
+   "para": 58,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "In the early morning her maid came, and I left her in her care and took\nmyself back home, for I was anxious about many things. I sent a short\nwire to Van Helsing and to Arthur, telling them of the excellent result\nof the operation. My own work, with its manifold arrears, took me all\nday to clear off; it was dark when I was able to inquire about my\nzoöphagous patient. The report was good; he had been quite quiet for the\npast day and night. A telegram came from Van Helsing at Amsterdam whilst\nI was at dinner, suggesting that I should be at Hillingham to-night, as\nit might be well to be at hand, and stating that he was leaving by the\nnight mail and would join me early in the morning."
+  },
+  {
+   "n": 92,
+   "para": 59,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "9 September .—I was pretty tired and worn out when I got to\nHillingham. For two nights I had hardly had a wink of sleep, and my\nbrain was beginning to feel that numbness which marks cerebral\nexhaustion. Lucy was up and in cheerful spirits. When she shook hands\nwith me she looked sharply in my face and said:—"
+  },
+  {
+   "n": 93,
+   "para": 60,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“No sitting up to-night for you. You are worn out. I am quite well\nagain; indeed, I am; and if there is to be any sitting up, it is I who\nwill sit up with you.”"
+  },
+  {
+   "n": 94,
+   "para": 60,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I would not argue the point, but went and had my\nsupper. Lucy came with me, and, enlivened by her charming presence, I\nmade an excellent meal, and had a couple of glasses of the more than\nexcellent port. Then Lucy took me upstairs, and showed me a room next\nher own, where a cozy fire was burning."
+  },
+  {
+   "n": 95,
+   "para": 60,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Now,”"
+  },
+  {
+   "n": 96,
+   "para": 60,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "she said,"
+  },
+  {
+   "n": 97,
+   "para": 60,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“you must stay\nhere. I shall leave this door open and my door too. You can lie on the\nsofa for I know that nothing would induce any of you doctors to go to\nbed whilst there is a patient above the horizon. If I want anything I\nshall call out, and you can come to me at once.”"
+  },
+  {
+   "n": 98,
+   "para": 60,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I could not but\nacquiesce, for I was “dog-tired,” and could not have sat up had I tried.\nSo, on her renewing her promise to call me if she should want anything,\nI lay on the sofa, and forgot all about everything."
+  },
+  {
+   "n": 99,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Lucy Westenra’s Diary."
+  },
+  {
+   "n": 100,
+   "para": 62,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "9 September. —I feel so happy to-night. I have been so miserably weak,\nthat to be able to think and move about is like feeling sunshine after\na long spell of east wind out of a steel sky. Somehow Arthur feels very,\nvery close to me. I seem to feel his presence warm about me. I suppose\nit is that sickness and weakness are selfish things and turn our inner\neyes and sympathy on ourselves, whilst health and strength give Love\nrein, and in thought and feeling he can wander where he wills. I know\nwhere my thoughts are. If Arthur only knew! My dear, my dear, your ears\nmust tingle as you sleep, as mine do waking. Oh, the blissful rest of\nlast night! How I slept, with that dear, good Dr. Seward watching me.\nAnd to-night I shall not fear to sleep, since he is close at hand and\nwithin call. Thank everybody for being so good to me! Thank God!\nGood-night, Arthur."
+  },
+  {
+   "n": 101,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Dr. Seward’s Diary."
+  },
+  {
+   "n": 102,
+   "para": 64,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "10 September. —I was conscious of the Professor’s hand on my head, and\nstarted awake all in a second. That is one of the things that we learn\nin an asylum, at any rate."
+  },
+  {
+   "n": 103,
+   "para": 65,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“And how is our patient?”"
+  },
+  {
+   "n": 104,
+   "para": 66,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Well, when I left her, or rather when she left me,” I answered."
+  },
+  {
+   "n": 105,
+   "para": 67,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Come, let us see,”"
+  },
+  {
+   "n": 106,
+   "para": 67,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he said. And together we went into the room."
+  },
+  {
+   "n": 107,
+   "para": 68,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "The blind was down, and I went over to raise it gently, whilst Van\nHelsing stepped, with his soft, cat-like tread, over to the bed."
+  },
+  {
+   "n": 108,
+   "para": 69,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "As I raised the blind, and the morning sunlight flooded the room, I\nheard the Professor’s low hiss of inspiration, and knowing its rarity, a\ndeadly fear shot through my heart. As I passed over he moved back, and\nhis exclamation of horror,"
+  },
+  {
+   "n": 109,
+   "score": {
+    "key": "dread",
+    "at": "Gott in Himmel!",
+    "xfade": 3
+   },
+   "para": 69,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Gott in Himmel!”"
+  },
+  {
+   "n": 110,
+   "para": 69,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "needed no enforcement from\nhis agonised face. He raised his hand and pointed to the bed, and his\niron face was drawn and ashen white. I felt my knees begin to tremble."
+  },
+  {
+   "n": 111,
+   "para": 70,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "There on the bed, seemingly in a swoon, lay poor Lucy, more horribly\nwhite and wan-looking than ever. Even the lips were white, and the gums\nseemed to have shrunken back from the teeth, as we sometimes see in a\ncorpse after a prolonged illness. Van Helsing raised his foot to stamp\nin anger, but the instinct of his life and all the long years of habit\nstood to him, and he put it down again softly."
+  },
+  {
+   "n": 112,
+   "para": 70,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Quick!”"
+  },
+  {
+   "n": 113,
+   "para": 70,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he said."
+  },
+  {
+   "n": 114,
+   "para": 70,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Bring\nthe brandy.”"
+  },
+  {
+   "n": 115,
+   "para": 70,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I flew to the dining-room, and returned with the decanter.\nHe wetted the poor white lips with it, and together we rubbed palm and\nwrist and heart. He felt her heart, and after a few moments of agonising\nsuspense said:—"
+  },
+  {
+   "n": 116,
+   "score": {
+    "key": "vigil",
+    "at": "It is not too late. It beats, though but feebly.",
+    "xfade": 8
+   },
+   "para": 71,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“It is not too late. It beats, though but feebly. All our work is\nundone; we must begin again. There is no young Arthur here now; I have\nto call on you yourself this time, friend John.”"
+  },
+  {
+   "n": 117,
+   "para": 71,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "As he spoke, he was\ndipping into his bag and producing the instruments for transfusion; I\nhad taken off my coat and rolled up my shirt-sleeve. There was no\npossibility of an opiate just at present, and no need of one; and so,\nwithout a moment’s delay, we began the operation. After a time—it did\nnot seem a short time either, for the draining away of one’s blood, no\nmatter how willingly it be given, is a terrible feeling—Van Helsing\nheld up a warning finger."
+  },
+  {
+   "n": 118,
+   "para": 71,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Do not stir,”"
+  },
+  {
+   "n": 119,
+   "para": 71,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he said,"
+  },
+  {
+   "n": 120,
+   "para": 71,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“but I fear that with\ngrowing strength she may wake; and that would make danger, oh, so much\ndanger. But I shall precaution take. I shall give hypodermic injection\nof morphia.”"
+  },
+  {
+   "n": 121,
+   "para": 71,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He proceeded then, swiftly and deftly, to carry out his\nintent. The effect on Lucy was not bad, for the faint seemed to merge\nsubtly into the narcotic sleep. It was with a feeling of personal pride\nthat I could see a faint tinge of colour steal back into the pallid\ncheeks and lips. No man knows, till he experiences it, what it is to\nfeel his own life-blood drawn away into the veins of the woman he loves."
+  },
+  {
+   "n": 122,
+   "para": 72,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "The Professor watched me critically."
+  },
+  {
+   "n": 123,
+   "para": 72,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“That will do,”"
+  },
+  {
+   "n": 124,
+   "para": 72,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he said. “Already?”\nI remonstrated. “You took a great deal more from Art.” To which he\nsmiled a sad sort of smile as he replied:—"
+  },
+  {
+   "n": 125,
+   "para": 73,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“He is her lover, her fiancé . You have work, much work, to do for her\nand for others; and the present will suffice.”"
+  },
+  {
+   "n": 126,
+   "para": 74,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "When we stopped the operation, he attended to Lucy, whilst I applied\ndigital pressure to my own incision. I laid down, whilst I waited his\nleisure to attend to me, for I felt faint and a little sick. By-and-by\nhe bound up my wound, and sent me downstairs to get a glass of wine for\nmyself. As I was leaving the room, he came after me, and half\nwhispered:—"
+  },
+  {
+   "n": 127,
+   "para": 75,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Mind, nothing must be said of this. If our young lover should turn up\nunexpected, as before, no word to him. It would at once frighten him and\nenjealous him, too. There must be none. So!”"
+  },
+  {
+   "n": 128,
+   "para": 76,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "When I came back he looked at me carefully, and then said:—"
+  },
+  {
+   "n": 129,
+   "para": 77,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“You are not much the worse. Go into the room, and lie on your sofa, and\nrest awhile; then have much breakfast, and come here to me.”"
+  },
+  {
+   "n": 130,
+   "para": 78,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I followed out his orders, for I knew how right and wise they were. I\nhad done my part, and now my next duty was to keep up my strength. I\nfelt very weak, and in the weakness lost something of the amazement at\nwhat had occurred. I fell asleep on the sofa, however, wondering over\nand over again how Lucy had made such a retrograde movement, and how\nshe could have been drained of so much blood with no sign anywhere to\nshow for it. I think I must have continued my wonder in my dreams, for,\nsleeping and waking, my thoughts always came back to the little\npunctures in her throat and the ragged, exhausted appearance of their\nedges—tiny though they were."
+  },
+  {
+   "n": 131,
+   "para": 79,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Lucy slept well into the day, and when she woke she was fairly well and\nstrong, though not nearly so much so as the day before. When Van Helsing\nhad seen her, he went out for a walk, leaving me in charge, with strict\ninjunctions that I was not to leave her for a moment. I could hear his\nvoice in the hall, asking the way to the nearest telegraph office."
+  },
+  {
+   "n": 132,
+   "para": 80,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Lucy chatted with me freely, and seemed quite unconscious that anything\nhad happened. I tried to keep her amused and interested. When her mother\ncame up to see her, she did not seem to notice any change whatever, but\nsaid to me gratefully:—"
+  },
+  {
+   "n": 133,
+   "para": 81,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“We owe you so much, Dr. Seward, for all you have done, but you really\nmust now take care not to overwork yourself. You are looking pale\nyourself. You want a wife to nurse and look after you a bit; that you\ndo!” As she spoke, Lucy turned crimson, though it was only momentarily,\nfor her poor wasted veins could not stand for long such an unwonted\ndrain to the head. The reaction came in excessive pallor as she turned\nimploring eyes on me. I smiled and nodded, and laid my finger on my\nlips; with a sigh, she sank back amid her pillows."
+  },
+  {
+   "n": 134,
+   "para": 82,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Van Helsing returned in a couple of hours, and presently said to me:"
+  },
+  {
+   "n": 135,
+   "para": 82,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Now you go home, and eat much and drink enough. Make yourself strong. I\nstay here to-night, and I shall sit up with little miss myself. You and\nI must watch the case, and we must have none other to know. I have grave\nreasons. No, do not ask them; think what you will. Do not fear to think\neven the most not-probable. Good-night.”"
+  },
+  {
+   "n": 136,
+   "para": 83,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "In the hall two of the maids came to me, and asked if they or either of\nthem might not sit up with Miss Lucy. They implored me to let them; and\nwhen I said it was Dr. Van Helsing’s wish that either he or I should sit\nup, they asked me quite piteously to intercede with the “foreign\ngentleman.” I was much touched by their kindness. Perhaps it is because\nI am weak at present, and perhaps because it was on Lucy’s account, that\ntheir devotion was manifested; for over and over again have I seen\nsimilar instances of woman’s kindness. I got back here in time for a\nlate dinner; went my rounds—all well; and set this down whilst waiting\nfor sleep. It is coming."
+  },
+  {
+   "n": 137,
+   "para": 84,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "11 September. —This afternoon I went over to Hillingham. Found Van\nHelsing in excellent spirits, and Lucy much better. Shortly after I had\narrived, a big parcel from abroad came for the Professor. He opened it\nwith much impressment—assumed, of course—and showed a great bundle of\nwhite flowers."
+  },
+  {
+   "n": 138,
+   "para": 85,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“These are for you, Miss Lucy,”"
+  },
+  {
+   "n": 139,
+   "para": 85,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he said."
+  },
+  {
+   "n": 140,
+   "para": 86,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“For me? Oh, Dr. Van Helsing!”"
+  },
+  {
+   "n": 141,
+   "para": 87,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Yes, my dear, but not for you to play with. These are medicines.”"
+  },
+  {
+   "n": 142,
+   "para": 87,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Here\nLucy made a wry face."
+  },
+  {
+   "n": 143,
+   "para": 87,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Nay, but they are not to take in a decoction or\nin nauseous form, so you need not snub that so charming nose, or I shall\npoint out to my friend Arthur what woes he may have to endure in seeing\nso much beauty that he so loves so much distort. Aha, my pretty miss,\nthat bring the so nice nose all straight again. This is medicinal, but\nyou do not know how. I put him in your window, I make pretty wreath, and\nhang him round your neck, so that you sleep well. Oh yes! they, like the\nlotus flower, make your trouble forgotten. It smell so like the waters\nof Lethe, and of that fountain of youth that the Conquistadores sought\nfor in the Floridas, and find him all too late.”"
+  },
+  {
+   "n": 144,
+   "para": 88,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Whilst he was speaking, Lucy had been examining the flowers and smelling\nthem. Now she threw them down, saying, with half-laughter, and\nhalf-disgust:—"
+  },
+  {
+   "n": 145,
+   "para": 89,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“Oh, Professor, I believe you are only putting up a joke on me. Why,\nthese flowers are only common garlic.”"
+  },
+  {
+   "n": 146,
+   "para": 90,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "To my surprise, Van Helsing rose up and said with all his sternness, his\niron jaw set and his bushy eyebrows meeting:—"
+  },
+  {
+   "n": 147,
+   "para": 91,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“No trifling with me! I never jest! There is grim purpose in all I do;\nand I warn you that you do not thwart me. Take care, for the sake of\nothers if not for your own.”"
+  },
+  {
+   "n": 148,
+   "para": 91,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Then seeing poor Lucy scared, as she might\nwell be, he went on more gently:"
+  },
+  {
+   "n": 149,
+   "para": 91,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Oh, little miss, my dear, do not fear\nme. I only do for your good; but there is much virtue to you in those so\ncommon flowers. See, I place them myself in your room. I make myself the\nwreath that you are to wear. But hush! no telling to others that make so\ninquisitive questions. We must obey, and silence is a part of obedience;\nand obedience is to bring you strong and well into loving arms that wait\nfor you. Now sit still awhile. Come with me, friend John, and you shall\nhelp me deck the room with my garlic, which is all the way from Haarlem,\nwhere my friend Vanderpool raise herb in his glass-houses all the year.\nI had to telegraph yesterday, or they would not have been here.”"
+  },
+  {
+   "n": 150,
+   "para": 92,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "We went into the room, taking the flowers with us. The Professor’s\nactions were certainly odd and not to be found in any pharmacopœia\nthat I ever heard of. First he fastened up the windows and latched them\nsecurely; next, taking a handful of the flowers, he rubbed them all over\nthe sashes, as though to ensure that every whiff of air that might get\nin would be laden with the garlic smell. Then with the wisp he rubbed\nall over the jamb of the door, above, below, and at each side, and round\nthe fireplace in the same way. It all seemed grotesque to me, and\npresently I said:—"
+  },
+  {
+   "n": 151,
+   "para": 93,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Well, Professor, I know you always have a reason for what you do, but\nthis certainly puzzles me. It is well we have no sceptic here, or he\nwould say that you were working some spell to keep out an evil spirit.”"
+  },
+  {
+   "n": 152,
+   "para": 94,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Perhaps I am!”"
+  },
+  {
+   "n": 153,
+   "para": 94,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he answered quietly as he began to make the wreath which\nLucy was to wear round her neck."
+  },
+  {
+   "n": 154,
+   "para": 95,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "We then waited whilst Lucy made her toilet for the night, and when she\nwas in bed he came and himself fixed the wreath of garlic round her\nneck. The last words he said to her were:—"
+  },
+  {
+   "n": 155,
+   "para": 96,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Take care you do not disturb it; and even if the room feel close, do\nnot to-night open the window or the door.”"
+  },
+  {
+   "n": 156,
+   "para": 97,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“I promise,”"
+  },
+  {
+   "n": 157,
+   "para": 97,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "said Lucy,"
+  },
+  {
+   "n": 158,
+   "para": 97,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“and thank you both a thousand times for all\nyour kindness to me! Oh, what have I done to be blessed with such\nfriends?”"
+  },
+  {
+   "n": 159,
+   "para": 98,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "As we left the house in my fly, which was waiting, Van Helsing said:—"
+  },
+  {
+   "n": 160,
+   "para": 99,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“To-night I can sleep in peace, and sleep I want—two nights of travel,\nmuch reading in the day between, and much anxiety on the day to follow,\nand a night to sit up, without to wink. To-morrow in the morning early\nyou call for me, and we come together to see our pretty miss, so much\nmore strong for my ‘spell’ which I have work. Ho! ho!”"
+  },
+  {
+   "n": 161,
+   "para": 100,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He seemed so confident that I, remembering my own confidence two nights\nbefore and with the baneful result, felt awe and vague terror. It must\nhave been my weakness that made me hesitate to tell it to my friend, but\nI felt it all the more, like unshed tears."
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "work": "dracula",
+ "episode": 8,
+ "chapter": 8,
+ "title": "The East Cliff",
+ "document": "MINA MURRAY'S JOURNAL · LETTERS · DR SEWARD'S DIARY",
+ "source": {
+  "library": "library/bram-stoker/ch08.md",
+  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ },
+ "note": "Chapter VIII complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-VIII-XII.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Bram Stoker"
+  },
+  {
+   "role": "Mina Murray",
+   "cast_as": "Agatha Christie"
+  },
+  {
+   "role": "Lucy Westenra",
+   "cast_as": "Mary Shelley"
+  },
+  {
+   "role": "Sister Agatha",
+   "cast_as": "Hildegard of Bingen"
+  },
+  {
+   "role": "Dr Seward",
+   "cast_as": "William Harvey"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "CHAPTER VIII"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "MINA MURRAY’S JOURNAL"
+  },
+  {
+   "n": 3,
+   "score": {
+    "key": "pastoral_warm",
+    "at": "Oh, but I am tired!",
+    "xfade": 6
+   },
+   "para": 2,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "Same day, 11 o’clock p. m. —Oh, but I am tired! If it were not that I\nhad made my diary a duty I should not open it to-night. We had a lovely\nwalk. Lucy, after a while, was in gay spirits, owing, I think, to some\ndear cows who came nosing towards us in a field close to the lighthouse,\nand frightened the wits out of us. I believe we forgot everything\nexcept, of course, personal fear, and it seemed to wipe the slate clean\nand give us a fresh start. We had a capital “severe tea” at Robin Hood’s\nBay in a sweet little old-fashioned inn, with a bow-window right over\nthe seaweed-covered rocks of the strand. I believe we should have\nshocked the “New Woman” with our appetites. Men are more tolerant, bless\nthem! Then we walked home with some, or rather many, stoppages to rest,\nand with our hearts full of a constant dread of wild bulls. Lucy was\nreally tired, and we intended to creep off to bed as soon as we could.\nThe young curate came in, however, and Mrs. Westenra asked him to stay\nfor supper. Lucy and I had both a fight for it with the dusty miller; I\nknow it was a hard fight on my part, and I am quite heroic. I think that\nsome day the bishops must get together and see about breeding up a new\nclass of curates, who don’t take supper, no matter how they may be\npressed to, and who will know when girls are tired. Lucy is asleep and\nbreathing softly. She has more colour in her cheeks than usual, and\nlooks, oh, so sweet. If Mr. Holmwood fell in love with her seeing her\nonly in the drawing-room, I wonder what he would say if he saw her now.\nSome of the “New Women” writers will some day start an idea that men and\nwomen should be allowed to see each other asleep before proposing or\naccepting. But I suppose the New Woman won’t condescend in future to\naccept; she will do the proposing herself. And a nice job she will make\nof it, too! There’s some consolation in that. I am so happy to-night,\nbecause dear Lucy seems better. I really believe she has turned the\ncorner, and that we are over her troubles with dreaming. I should be\nquite happy if I only knew if Jonathan.... God bless and keep him."
+  },
+  {
+   "n": 4,
+   "score": [
+    {
+     "key": "pastoral_sour",
+     "at": "There was a bright full moon, with heavy black",
+     "xfade": 8
+    },
+    {
+     "key": "dread",
+     "at": "There was undoubtedly something, long and black",
+     "xfade": 3
+    }
+   ],
+   "para": 3,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "11 August, 3 a. m. —Diary again. No sleep now, so I may as well write.\nI am too agitated to sleep. We have had such an adventure, such an\nagonising experience. I fell asleep as soon as I had closed my diary....\nSuddenly I became broad awake, and sat up, with a horrible sense of fear\nupon me, and of some feeling of emptiness around me. The room was dark,\nso I could not see Lucy’s bed; I stole across and felt for her. The bed\nwas empty. I lit a match and found that she was not in the room. The\ndoor was shut, but not locked, as I had left it. I feared to wake her\nmother, who has been more than usually ill lately, so threw on some\nclothes and got ready to look for her. As I was leaving the room it\nstruck me that the clothes she wore might give me some clue to her\ndreaming intention. Dressing-gown would mean house; dress, outside.\nDressing-gown and dress were both in their places. “Thank God,” I said\nto myself, “she cannot be far, as she is only in her nightdress.” I ran\ndownstairs and looked in the sitting-room. Not there! Then I looked in\nall the other open rooms of the house, with an ever-growing fear\nchilling my heart. Finally I came to the hall door and found it open. It\nwas not wide open, but the catch of the lock had not caught. The people\nof the house are careful to lock the door every night, so I feared that\nLucy must have gone out as she was. There was no time to think of what\nmight happen; a vague, overmastering fear obscured all details. I took a\nbig, heavy shawl and ran out. The clock was striking one as I was in the\nCrescent, and there was not a soul in sight. I ran along the North\nTerrace, but could see no sign of the white figure which I expected. At\nthe edge of the West Cliff above the pier I looked across the harbour to\nthe East Cliff, in the hope or fear—I don’t know which—of seeing Lucy\nin our favourite seat. There was a bright full moon, with heavy black,\ndriving clouds, which threw the whole scene into a fleeting diorama of\nlight and shade as they sailed across. For a moment or two I could see\nnothing, as the shadow of a cloud obscured St. Mary’s Church and all\naround it. Then as the cloud passed I could see the ruins of the abbey\ncoming into view; and as the edge of a narrow band of light as sharp as\na sword-cut moved along, the church and the churchyard became gradually\nvisible. Whatever my expectation was, it was not disappointed, for\nthere, on our favourite seat, the silver light of the moon struck a\nhalf-reclining figure, snowy white. The coming of the cloud was too\nquick for me to see much, for shadow shut down on light almost\nimmediately; but it seemed to me as though something dark stood behind\nthe seat where the white figure shone, and bent over it. What it was,\nwhether man or beast, I could not tell; I did not wait to catch another\nglance, but flew down the steep steps to the pier and along by the\nfish-market to the bridge, which was the only way to reach the East\nCliff. The town seemed as dead, for not a soul did I see; I rejoiced\nthat it was so, for I wanted no witness of poor Lucy’s condition. The\ntime and distance seemed endless, and my knees trembled and my breath\ncame laboured as I toiled up the endless steps to the abbey. I must have\ngone fast, and yet it seemed to me as if my feet were weighted with\nlead, and as though every joint in my body were rusty. When I got almost\nto the top I could see the seat and the white figure, for I was now\nclose enough to distinguish it even through the spells of shadow. There\nwas undoubtedly something, long and black, bending over the\nhalf-reclining white figure. I called in fright, “Lucy! Lucy!” and\nsomething raised a head, and from where I was I could see a white face\nand red, gleaming eyes. Lucy did not answer, and I ran on to the\nentrance of the churchyard. As I entered, the church was between me and\nthe seat, and for a minute or so I lost sight of her. When I came in\nview again the cloud had passed, and the moonlight struck so brilliantly\nthat I could see Lucy half reclining with her head lying over the back\nof the seat. She was quite alone, and there was not a sign of any living\nthing about."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "When I bent over her I could see that she was still asleep. Her lips\nwere parted, and she was breathing—not softly as usual with her, but in\nlong, heavy gasps, as though striving to get her lungs full at every\nbreath. As I came close, she put up her hand in her sleep and pulled the\ncollar of her nightdress close around her throat. Whilst she did so\nthere came a little shudder through her, as though she felt the cold. I\nflung the warm shawl over her, and drew the edges tight round her neck,\nfor I dreaded lest she should get some deadly chill from the night air,\nunclad as she was. I feared to wake her all at once, so, in order to\nhave my hands free that I might help her, I fastened the shawl at her\nthroat with a big safety-pin; but I must have been clumsy in my anxiety\nand pinched or pricked her with it, for by-and-by, when her breathing\nbecame quieter, she put her hand to her throat again and moaned. When I\nhad her carefully wrapped up I put my shoes on her feet and then began\nvery gently to wake her. At first she did not respond; but gradually she\nbecame more and more uneasy in her sleep, moaning and sighing\noccasionally. At last, as time was passing fast, and, for many other\nreasons, I wished to get her home at once, I shook her more forcibly,\ntill finally she opened her eyes and awoke. She did not seem surprised\nto see me, as, of course, she did not realise all at once where she was.\nLucy always wakes prettily, and even at such a time, when her body must\nhave been chilled with cold, and her mind somewhat appalled at waking\nunclad in a churchyard at night, she did not lose her grace. She\ntrembled a little, and clung to me; when I told her to come at once with\nme home she rose without a word, with the obedience of a child. As we\npassed along, the gravel hurt my feet, and Lucy noticed me wince. She\nstopped and wanted to insist upon my taking my shoes; but I would not.\nHowever, when we got to the pathway outside the churchyard, where there\nwas a puddle of water, remaining from the storm, I daubed my feet with\nmud, using each foot in turn on the other, so that as we went home, no\none, in case we should meet any one, should notice my bare feet."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "Fortune favoured us, and we got home without meeting a soul. Once we saw\na man, who seemed not quite sober, passing along a street in front of\nus; but we hid in a door till he had disappeared up an opening such as\nthere are here, steep little closes, or “wynds,” as they call them in\nScotland. My heart beat so loud all the time that sometimes I thought I\nshould faint. I was filled with anxiety about Lucy, not only for her\nhealth, lest she should suffer from the exposure, but for her reputation\nin case the story should get wind. When we got in, and had washed our\nfeet, and had said a prayer of thankfulness together, I tucked her into\nbed. Before falling asleep she asked—even implored—me not to say a\nword to any one, even her mother, about her sleep-walking adventure. I\nhesitated at first to promise; but on thinking of the state of her\nmother’s health, and how the knowledge of such a thing would fret her,\nand thinking, too, of how such a story might become distorted—nay,\ninfallibly would—in case it should leak out, I thought it wiser to do\nso. I hope I did right. I have locked the door, and the key is tied to\nmy wrist, so perhaps I shall not be again disturbed. Lucy is sleeping\nsoundly; the reflex of the dawn is high and far over the sea...."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "Same day, noon. —All goes well. Lucy slept till I woke her and seemed\nnot to have even changed her side. The adventure of the night does not\nseem to have harmed her; on the contrary, it has benefited her, for she\nlooks better this morning than she has done for weeks. I was sorry to\nnotice that my clumsiness with the safety-pin hurt her. Indeed, it might\nhave been serious, for the skin of her throat was pierced. I must have\npinched up a piece of loose skin and have transfixed it, for there are\ntwo little red points like pin-pricks, and on the band of her nightdress\nwas a drop of blood. When I apologised and was concerned about it, she\nlaughed and petted me, and said she did not even feel it. Fortunately it\ncannot leave a scar, as it is so tiny."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "Same day, night. —We passed a happy day. The air was clear, and the\nsun bright, and there was a cool breeze. We took our lunch to Mulgrave\nWoods, Mrs. Westenra driving by the road and Lucy and I walking by the\ncliff-path and joining her at the gate. I felt a little sad myself, for\nI could not but feel how absolutely happy it would have been had\nJonathan been with me. But there! I must only be patient. In the evening\nwe strolled in the Casino Terrace, and heard some good music by Spohr\nand Mackenzie, and went to bed early. Lucy seems more restful than she\nhas been for some time, and fell asleep at once. I shall lock the door\nand secure the key the same as before, though I do not expect any\ntrouble to-night."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "12 August. —My expectations were wrong, for twice during the night I\nwas wakened by Lucy trying to get out. She seemed, even in her sleep, to\nbe a little impatient at finding the door shut, and went back to bed\nunder a sort of protest. I woke with the dawn, and heard the birds\nchirping outside of the window. Lucy woke, too, and, I was glad to see,\nwas even better than on the previous morning. All her old gaiety of\nmanner seemed to have come back, and she came and snuggled in beside me\nand told me all about Arthur. I told her how anxious I was about\nJonathan, and then she tried to comfort me. Well, she succeeded\nsomewhat, for, though sympathy can’t alter facts, it can help to make\nthem more bearable."
+  },
+  {
+   "n": 10,
+   "sfx": [
+    {
+     "key": "wing_beat",
+     "at": "Between me and the moonlight flitted a great bat"
+    }
+   ],
+   "para": 9,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "13 August. —Another quiet day, and to bed with the key on my wrist as\nbefore. Again I awoke in the night, and found Lucy sitting up in bed,\nstill asleep, pointing to the window. I got up quietly, and pulling\naside the blind, looked out. It was brilliant moonlight, and the soft\neffect of the light over the sea and sky—merged together in one great,\nsilent mystery—was beautiful beyond words. Between me and the moonlight\nflitted a great bat, coming and going in great whirling circles. Once or\ntwice it came quite close, but was, I suppose, frightened at seeing me,\nand flitted away across the harbour towards the abbey. When I came back\nfrom the window Lucy had lain down again, and was sleeping peacefully.\nShe did not stir again all night."
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "14 August. —On the East Cliff, reading and writing all day. Lucy seems\nto have become as much in love with the spot as I am, and it is hard to\nget her away from it when it is time to come home for lunch or tea or\ndinner. This afternoon she made a funny remark. We were coming home for\ndinner, and had come to the top of the steps up from the West Pier and\nstopped to look at the view, as we generally do. The setting sun, low\ndown in the sky, was just dropping behind Kettleness; the red light was\nthrown over on the East Cliff and the old abbey, and seemed to bathe\neverything in a beautiful rosy glow. We were silent for a while, and\nsuddenly Lucy murmured as if to herself:—"
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“His red eyes again! They are just the same.” It was such an odd\nexpression, coming apropos of nothing, that it quite startled me. I\nslewed round a little, so as to see Lucy well without seeming to stare\nat her, and saw that she was in a half-dreamy state, with an odd look on\nher face that I could not quite make out; so I said nothing, but\nfollowed her eyes. She appeared to be looking over at our own seat,\nwhereon was a dark figure seated alone. I was a little startled myself,\nfor it seemed for an instant as if the stranger had great eyes like\nburning flames; but a second look dispelled the illusion. The red\nsunlight was shining on the windows of St. Mary’s Church behind our\nseat, and as the sun dipped there was just sufficient change in the\nrefraction and reflection to make it appear as if the light moved. I\ncalled Lucy’s attention to the peculiar effect, and she became herself\nwith a start, but she looked sad all the same; it may have been that she\nwas thinking of that terrible night up there. We never refer to it; so I\nsaid nothing, and we went home to dinner. Lucy had a headache and went\nearly to bed. I saw her asleep, and went out for a little stroll myself;\nI walked along the cliffs to the westward, and was full of sweet\nsadness, for I was thinking of Jonathan. When coming home—it was then\nbright moonlight, so bright that, though the front of our part of the\nCrescent was in shadow, everything could be well seen—I threw a glance\nup at our window, and saw Lucy’s head leaning out. I thought that\nperhaps she was looking out for me, so I opened my handkerchief and\nwaved it. She did not notice or make any movement whatever. Just then,\nthe moonlight crept round an angle of the building, and the light fell\non the window. There distinctly was Lucy with her head lying up against\nthe side of the window-sill and her eyes shut. She was fast asleep, and\nby her, seated on the window-sill, was something that looked like a\ngood-sized bird. I was afraid she might get a chill, so I ran upstairs,\nbut as I came into the room she was moving back to her bed, fast\nasleep, and breathing heavily; she was holding her hand to her throat,\nas though to protect it from cold."
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "I did not wake her, but tucked her up warmly; I have taken care that the\ndoor is locked and the window securely fastened."
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "She looks so sweet as she sleeps; but she is paler than is her wont, and\nthere is a drawn, haggard look under her eyes which I do not like. I\nfear she is fretting about something. I wish I could find out what it\nis."
+  },
+  {
+   "n": 15,
+   "para": 14,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "15 August. —Rose later than usual. Lucy was languid and tired, and\nslept on after we had been called. We had a happy surprise at breakfast.\nArthur’s father is better, and wants the marriage to come off soon. Lucy\nis full of quiet joy, and her mother is glad and sorry at once. Later on\nin the day she told me the cause. She is grieved to lose Lucy as her\nvery own, but she is rejoiced that she is soon to have some one to\nprotect her. Poor dear, sweet lady! She confided to me that she has got\nher death-warrant. She has not told Lucy, and made me promise secrecy;\nher doctor told her that within a few months, at most, she must die, for\nher heart is weakening. At any time, even now, a sudden shock would be\nalmost sure to kill her. Ah, we were wise to keep from her the affair of\nthe dreadful night of Lucy’s sleep-walking."
+  },
+  {
+   "n": 16,
+   "para": 15,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "17 August. —No diary for two whole days. I have not had the heart to\nwrite. Some sort of shadowy pall seems to be coming over our happiness.\nNo news from Jonathan, and Lucy seems to be growing weaker, whilst her\nmother’s hours are numbering to a close. I do not understand Lucy’s\nfading away as she is doing. She eats well and sleeps well, and enjoys\nthe fresh air; but all the time the roses in her cheeks are fading, and\nshe gets weaker and more languid day by day; at night I hear her gasping\nas if for air. I keep the key of our door always fastened to my wrist at\nnight, but she gets up and walks about the room, and sits at the open\nwindow. Last night I found her leaning out when I woke up, and when I\ntried to wake her I could not; she was in a faint. When I managed to\nrestore her she was as weak as water, and cried silently between long,\npainful struggles for breath. When I asked her how she came to be at the\nwindow she shook her head and turned away. I trust her feeling ill may\nnot be from that unlucky prick of the safety-pin. I looked at her throat\njust now as she lay asleep, and the tiny wounds seem not to have healed.\nThey are still open, and, if anything, larger than before, and the\nedges of them are faintly white. They are like little white dots with\nred centres. Unless they heal within a day or two, I shall insist on the\ndoctor seeing about them."
+  },
+  {
+   "n": 17,
+   "score": {
+    "key": null,
+    "at": "Letter, Samuel F. Billington & Son",
+    "xfade": 6
+   },
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Letter, Samuel F. Billington & Son, Solicitors, Whitby, to Messrs.\nCarter, Paterson & Co., London."
+  },
+  {
+   "n": 18,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“ 17 August."
+  },
+  {
+   "n": 19,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“Dear Sirs,—"
+  },
+  {
+   "n": 20,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“Herewith please receive invoice of goods sent by Great Northern\nRailway. Same are to be delivered at Carfax, near Purfleet, immediately\non receipt at goods station King’s Cross. The house is at present empty,\nbut enclosed please find keys, all of which are labelled."
+  },
+  {
+   "n": 21,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“You will please deposit the boxes, fifty in number, which form the\nconsignment, in the partially ruined building forming part of the house\nand marked ‘A’ on rough diagram enclosed. Your agent will easily\nrecognise the locality, as it is the ancient chapel of the mansion. The\ngoods leave by the train at 9:30 to-night, and will be due at King’s\nCross at 4:30 to-morrow afternoon. As our client wishes the delivery\nmade as soon as possible, we shall be obliged by your having teams ready\nat King’s Cross at the time named and forthwith conveying the goods to\ndestination. In order to obviate any delays possible through any routine\nrequirements as to payment in your departments, we enclose cheque\nherewith for ten pounds (£10), receipt of which please acknowledge.\nShould the charge be less than this amount, you can return balance; if\ngreater, we shall at once send cheque for difference on hearing from\nyou. You are to leave the keys on coming away in the main hall of the\nhouse, where the proprietor may get them on his entering the house by\nmeans of his duplicate key."
+  },
+  {
+   "n": 22,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“Pray do not take us as exceeding the bounds of business courtesy in\npressing you in all ways to use the utmost expedition."
+  },
+  {
+   "n": 23,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“We are, dear Sirs,\n“Faithfully yours,\n“ Samuel F. Billington & Son .”"
+  },
+  {
+   "n": 24,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Letter, Messrs. Carter, Paterson & Co., London, to Messrs. Billington &\nSon, Whitby."
+  },
+  {
+   "n": 25,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“ 21 August."
+  },
+  {
+   "n": 26,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“Dear Sirs,—"
+  },
+  {
+   "n": 27,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“We beg to acknowledge £10 received and to return cheque £1 17s. 9d,\namount of overplus, as shown in receipted account herewith. Goods are\ndelivered in exact accordance with instructions, and keys left in parcel\nin main hall, as directed."
+  },
+  {
+   "n": 28,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“We are, dear Sirs,\n“Yours respectfully.\n“ Pro Carter, Paterson & Co. ”"
+  },
+  {
+   "n": 29,
+   "score": {
+    "key": "pastoral_sour",
+    "at": "Mina Murray’s Journal.",
+    "xfade": 6
+   },
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Mina Murray’s Journal."
+  },
+  {
+   "n": 30,
+   "para": 29,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "18 August. —I am happy to-day, and write sitting on the seat in the\nchurchyard. Lucy is ever so much better. Last night she slept well all\nnight, and did not disturb me once. The roses seem coming back already\nto her cheeks, though she is still sadly pale and wan-looking. If she\nwere in any way anæmic I could understand it, but she is not. She is in\ngay spirits and full of life and cheerfulness. All the morbid reticence\nseems to have passed from her, and she has just reminded me, as if I\nneeded any reminding, of that night, and that it was here, on this\nvery seat, I found her asleep. As she told me she tapped playfully with\nthe heel of her boot on the stone slab and said:—"
+  },
+  {
+   "n": 31,
+   "para": 30,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "“My poor little feet didn’t make much noise then! I daresay poor old Mr.\nSwales would have told me that it was because I didn’t want to wake up\nGeordie.” As she was in such a communicative humour, I asked her if she\nhad dreamed at all that night. Before she answered, that sweet, puckered\nlook came into her forehead, which Arthur—I call him Arthur from her\nhabit—says he loves; and, indeed, I don’t wonder that he does. Then she\nwent on in a half-dreaming kind of way, as if trying to recall it to\nherself:—"
+  },
+  {
+   "n": 32,
+   "para": 31,
+   "role": "Lucy Westenra",
+   "cast": "Mary Shelley",
+   "text": "“I didn’t quite dream; but it all seemed to be real. I only wanted to be\nhere in this spot—I don’t know why, for I was afraid of something—I\ndon’t know what. I remember, though I suppose I was asleep, passing\nthrough the streets and over the bridge. A fish leaped as I went by, and\nI leaned over to look at it, and I heard a lot of dogs howling—the\nwhole town seemed as if it must be full of dogs all howling at once—as\nI went up the steps. Then I had a vague memory of something long and\ndark with red eyes, just as we saw in the sunset, and something very\nsweet and very bitter all around me at once; and then I seemed sinking\ninto deep green water, and there was a singing in my ears, as I have\nheard there is to drowning men; and then everything seemed passing away\nfrom me; my soul seemed to go out from my body and float about the air.\nI seem to remember that once the West Lighthouse was right under me,\nand then there was a sort of agonising feeling, as if I were in an\nearthquake, and I came back and found you shaking my body. I saw you do\nit before I felt you.”"
+  },
+  {
+   "n": 33,
+   "para": 32,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "Then she began to laugh. It seemed a little uncanny to me, and I\nlistened to her breathlessly. I did not quite like it, and thought it\nbetter not to keep her mind on the subject, so we drifted on to other\nsubjects, and Lucy was like her old self again. When we got home the\nfresh breeze had braced her up, and her pale cheeks were really more\nrosy. Her mother rejoiced when she saw her, and we all spent a very\nhappy evening together."
+  },
+  {
+   "n": 34,
+   "para": 33,
+   "role": "Mina Murray",
+   "cast": "Agatha Christie",
+   "text": "19 August. —Joy, joy, joy! although not all joy. At last, news of\nJonathan. The dear fellow has been ill; that is why he did not write. I\nam not afraid to think it or say it, now that I know. Mr. Hawkins sent\nme on the letter, and wrote himself, oh, so kindly. I am to leave in the\nmorning and go over to Jonathan, and to help to nurse him if necessary,\nand to bring him home. Mr. Hawkins says it would not be a bad thing if\nwe were to be married out there. I have cried over the good Sister’s\nletter till I can feel it wet against my bosom, where it lies. It is of\nJonathan, and must be next my heart, for he is in my heart. My journey\nis all mapped out, and my luggage ready. I am only taking one change of\ndress; Lucy will bring my trunk to London and keep it till I send for\nit, for it may be that ... I must write no more; I must keep it to say\nto Jonathan, my husband. The letter that he has seen and touched must\ncomfort me till we meet."
+  },
+  {
+   "n": 35,
+   "score": {
+    "key": "pastoral_warm",
+    "at": "Letter, Sister Agatha",
+    "xfade": 6
+   },
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Letter, Sister Agatha, Hospital of St. Joseph and Ste. Mary,\nBuda-Pesth, to Miss Wilhelmina Murray."
+  },
+  {
+   "n": 36,
+   "para": 35,
+   "role": "Sister Agatha",
+   "cast": "Hildegard of Bingen",
+   "text": "“ 12 August."
+  },
+  {
+   "n": 37,
+   "para": 36,
+   "role": "Sister Agatha",
+   "cast": "Hildegard of Bingen",
+   "text": "“Dear Madam,—"
+  },
+  {
+   "n": 38,
+   "para": 37,
+   "role": "Sister Agatha",
+   "cast": "Hildegard of Bingen",
+   "text": "“I write by desire of Mr. Jonathan Harker, who is himself not strong\nenough to write, though progressing well, thanks to God and St. Joseph\nand Ste. Mary. He has been under our care for nearly six weeks,\nsuffering from a violent brain fever. He wishes me to convey his love,\nand to say that by this post I write for him to Mr. Peter Hawkins,\nExeter, to say, with his dutiful respects, that he is sorry for his\ndelay, and that all of his work is completed. He will require some few\nweeks’ rest in our sanatorium in the hills, but will then return. He\nwishes me to say that he has not sufficient money with him, and that he\nwould like to pay for his staying here, so that others who need shall\nnot be wanting for help."
+  },
+  {
+   "n": 39,
+   "para": 38,
+   "role": "Sister Agatha",
+   "cast": "Hildegard of Bingen",
+   "text": "“Believe me,\n“Yours, with sympathy and all blessings,\n“ Sister Agatha ."
+  },
+  {
+   "n": 40,
+   "para": 39,
+   "role": "Sister Agatha",
+   "cast": "Hildegard of Bingen",
+   "text": "“P. S.—My patient being asleep, I open this to let you know something\nmore. He has told me all about you, and that you are shortly to be his\nwife. All blessings to you both! He has had some fearful shock—so says\nour doctor—and in his delirium his ravings have been dreadful; of\nwolves and poison and blood; of ghosts and demons; and I fear to say of\nwhat. Be careful with him always that there may be nothing to excite him\nof this kind for a long time to come; the traces of such an illness as\nhis do not lightly die away. We should have written long ago, but we\nknew nothing of his friends, and there was on him nothing that any one\ncould understand. He came in the train from Klausenburg, and the guard\nwas told by the station-master there that he rushed into the station\nshouting for a ticket for home. Seeing from his violent demeanour that\nhe was English, they gave him a ticket for the furthest station on the\nway thither that the train reached."
+  },
+  {
+   "n": 41,
+   "para": 40,
+   "role": "Sister Agatha",
+   "cast": "Hildegard of Bingen",
+   "text": "“Be assured that he is well cared for. He has won all hearts by his\nsweetness and gentleness. He is truly getting on well, and I have no\ndoubt will in a few weeks be all himself. But be careful of him for\nsafety’s sake. There are, I pray God and St. Joseph and Ste. Mary, many,\nmany, happy years for you both.”"
+  },
+  {
+   "n": 42,
+   "bed": "london_interior",
+   "score": {
+    "key": "phonograph",
+    "at": "Dr. Seward’s Diary.",
+    "xfade": 4
+   },
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Dr. Seward’s Diary."
+  },
+  {
+   "n": 43,
+   "para": 42,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "19 August. —Strange and sudden change in Renfield last night. About\neight o’clock he began to get excited and sniff about as a dog does when\nsetting. The attendant was struck by his manner, and knowing my interest\nin him, encouraged him to talk. He is usually respectful to the\nattendant and at times servile; but to-night, the man tells me, he was\nquite haughty. Would not condescend to talk with him at all. All he\nwould say was:—"
+  },
+  {
+   "n": 44,
+   "para": 43,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“I don’t want to talk to you: you don’t count now; the Master is at\nhand.”"
+  },
+  {
+   "n": 45,
+   "para": 44,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "The attendant thinks it is some sudden form of religious mania which has\nseized him. If so, we must look out for squalls, for a strong man with\nhomicidal and religious mania at once might be dangerous. The\ncombination is a dreadful one. At nine o’clock I visited him myself. His\nattitude to me was the same as that to the attendant; in his sublime\nself-feeling the difference between myself and attendant seemed to him\nas nothing. It looks like religious mania, and he will soon think that\nhe himself is God. These infinitesimal distinctions between man and man\nare too paltry for an Omnipotent Being. How these madmen give themselves\naway! The real God taketh heed lest a sparrow fall; but the God created\nfrom human vanity sees no difference between an eagle and a sparrow. Oh,\nif men only knew!"
+  },
+  {
+   "n": 46,
+   "para": 45,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "For half an hour or more Renfield kept getting excited in greater and\ngreater degree. I did not pretend to be watching him, but I kept strict\nobservation all the same. All at once that shifty look came into his\neyes which we always see when a madman has seized an idea, and with it\nthe shifty movement of the head and back which asylum attendants come to\nknow so well. He became quite quiet, and went and sat on the edge of his\nbed resignedly, and looked into space with lack-lustre eyes. I thought I\nwould find out if his apathy were real or only assumed, and tried to\nlead him to talk of his pets, a theme which had never failed to excite\nhis attention. At first he made no reply, but at length said testily:—"
+  },
+  {
+   "n": 47,
+   "para": 46,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Bother them all! I don’t care a pin about them.”"
+  },
+  {
+   "n": 48,
+   "para": 47,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“What?” I said. “You don’t mean to tell me you don’t care about\nspiders?” (Spiders at present are his hobby and the note-book is filling\nup with columns of small figures.) To this he answered enigmatically:—"
+  },
+  {
+   "n": 49,
+   "para": 48,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“The bride-maidens rejoice the eyes that wait the coming of the bride;\nbut when the bride draweth nigh, then the maidens shine not to the eyes\nthat are filled.”"
+  },
+  {
+   "n": 50,
+   "para": 49,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He would not explain himself, but remained obstinately seated on his bed\nall the time I remained with him."
+  },
+  {
+   "n": 51,
+   "para": 50,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I am weary to-night and low in spirits. I cannot but think of Lucy, and\nhow different things might have been. If I don’t sleep at once, chloral,\nthe modern Morpheus—C 2 HCl 3 O. H 2 O! I must be careful not to let\nit grow into a habit. No, I shall take none to-night! I have thought of\nLucy, and I shall not dishonour her by mixing the two. If need be,\nto-night shall be sleepless...."
+  },
+  {
+   "n": 52,
+   "para": 51,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Later. —Glad I made the resolution; gladder that I kept to it. I had\nlain tossing about, and had heard the clock strike only twice, when the\nnight-watchman came to me, sent up from the ward, to say that Renfield\nhad escaped. I threw on my clothes and ran down at once; my patient is\ntoo dangerous a person to be roaming about. Those ideas of his might\nwork out dangerously with strangers. The attendant was waiting for me.\nHe said he had seen him not ten minutes before, seemingly asleep in his\nbed, when he had looked through the observation-trap in the door. His\nattention was called by the sound of the window being wrenched out. He\nran back and saw his feet disappear through the window, and had at once\nsent up for me. He was only in his night-gear, and cannot be far off.\nThe attendant thought it would be more useful to watch where he should\ngo than to follow him, as he might lose sight of him whilst getting out\nof the building by the door. He is a bulky man, and couldn’t get through\nthe window. I am thin, so, with his aid, I got out, but feet foremost,\nand, as we were only a few feet above ground, landed unhurt. The\nattendant told me the patient had gone to the left, and had taken a\nstraight line, so I ran as quickly as I could. As I got through the belt\nof trees I saw a white figure scale the high wall which separates our\ngrounds from those of the deserted house."
+  },
+  {
+   "n": 53,
+   "para": 52,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I ran back at once, told the watchman to get three or four men\nimmediately and follow me into the grounds of Carfax, in case our friend\nmight be dangerous. I got a ladder myself, and crossing the wall,\ndropped down on the other side. I could see Renfield’s figure just\ndisappearing behind the angle of the house, so I ran after him. On the\nfar side of the house I found him pressed close against the old\nironbound oak door of the chapel. He was talking, apparently to some\none, but I was afraid to go near enough to hear what he was saying, lest\nI might frighten him, and he should run off. Chasing an errant swarm of\nbees is nothing to following a naked lunatic, when the fit of escaping\nis upon him! After a few minutes, however, I could see that he did not\ntake note of anything around him, and so ventured to draw nearer to\nhim—the more so as my men had now crossed the wall and were closing him\nin. I heard him say:—"
+  },
+  {
+   "n": 54,
+   "para": 53,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“I am here to do Your bidding, Master. I am Your slave, and You will\nreward me, for I shall be faithful. I have worshipped You long and afar\noff. Now that You are near, I await Your commands, and You will not pass\nme by, will You, dear Master, in Your distribution of good things?”"
+  },
+  {
+   "n": 55,
+   "para": 54,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He is a selfish old beggar anyhow. He thinks of the loaves and fishes\neven when he believes he is in a Real Presence. His manias make a\nstartling combination. When we closed in on him he fought like a tiger.\nHe is immensely strong, for he was more like a wild beast than a man. I\nnever saw a lunatic in such a paroxysm of rage before; and I hope I\nshall not again. It is a mercy that we have found out his strength and\nhis danger in good time. With strength and determination like his, he\nmight have done wild work before he was caged. He is safe now at any\nrate. Jack Sheppard himself couldn’t get free from the strait-waistcoat\nthat keeps him restrained, and he’s chained to the wall in the padded\nroom. His cries are at times awful, but the silences that follow are\nmore deadly still, for he means murder in every turn and movement."
+  },
+  {
+   "n": 56,
+   "para": 55,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Just now he spoke coherent words for the first time:—"
+  },
+  {
+   "n": 57,
+   "para": 56,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“I shall be patient, Master. It is coming—coming—coming!”"
+  },
+  {
+   "n": 58,
+   "para": 57,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "So I took the hint, and came too. I was too excited to sleep, but this\ndiary has quieted me, and I feel I shall get some sleep to-night."
+  }
+ ]
+}

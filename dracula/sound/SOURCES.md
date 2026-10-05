@@ -92,3 +92,14 @@ Versilian Studios, recorded by Sam Gossner and Simon Dalzell*).
 | `gulls.mp3` | *Gull 1* (avphillips, Wikimedia Commons) | PD |
 | `clock-strike.mp3` | synthesized bell | synthesized |
 | `hammering.mp3` | *Dull thud* (gregoryweir, Wikimedia Commons), struck in threes | PD |
+
+## Chapters VIII–XII (6 Oct 2026) — built by `build-ch8-12.py`
+
+| file | made from | licence |
+|---|---|---|
+| `wing-beat.mp3` | the bat at the window: built leathery beats against glass, a claw on the pane | synthesized |
+| `glass-crash.mp3` | the wolf through Lucy's window: *Dull thud* (gregoryweir, PD) for the frame, built shards bursting and falling | PD + synthesized |
+| `thunder.mp3` | *Storm thunderbolts* (stephan) | PD |
+| `score-vigil.mp3` | THE VIGIL — the sickroom: glockenspiel music box winding down, cello and viola pedal, upright piano (VSCO 2 CE) | CC0 |
+
+Borrowed by URL: the passing bell (Romeo and Juliet).

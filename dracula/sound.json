@@ -1,6 +1,6 @@
 {
   "_file": "Amenti-Readings/dracula/sound.json",
-  "_updated": "2026-10-04 06:00 UTC",
+  "_updated": "2026-10-06 05:00 UTC",
   "work": "dracula",
   "files": {
     "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals. CHAPTER 7: the loops (storm, pulse, captain's heart) are WAV, cut to exact bars, because an MP3 loop stutters at its seam; everything else is MP3.",
@@ -53,7 +53,11 @@
       "church_bells": "church-bells.mp3",
       "gulls": "gulls.mp3",
       "clock_strike": "clock-strike.mp3",
-      "hammering": "hammering.mp3"
+      "hammering": "hammering.mp3",
+      "wing_beat": "wing-beat.mp3",
+      "glass_crash": "glass-crash.mp3",
+      "thunder": "thunder.mp3",
+      "passing_bell": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/passing-bell.mp3"
     },
     "score": {
       "dread": "score-dread.mp3",
@@ -70,7 +74,8 @@
       "captain_heart": "captain-heart.wav",
       "pastoral_warm": "score-pastoral-warm.mp3",
       "pastoral_sour": "score-pastoral-sour.mp3",
-      "phonograph": "phonograph-crackle.wav"
+      "phonograph": "phonograph-crackle.wav",
+      "vigil": "score-vigil.mp3"
     },
     "under": {
       "note": "MUSIC UNDER ONE LINE. piano_far: far away and airy, a few notes sprinkled, the odd soft chord — letters, memory, anything read rather than lived. piano_near: close and bold, full chords when the moment needs weight. Each use starts at a different seeded point in the minute-long piece.",
@@ -94,7 +99,8 @@
       "dread": 0.3,
       "pastoral_warm": 0.3,
       "pastoral_sour": 0.3,
-      "phonograph": 0.8
+      "phonograph": 0.8,
+      "vigil": 0.32
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
@@ -255,7 +261,8 @@
     "pursuit": "The chase east. Momentum, and the only cue with a pulse. Chapters 26-27.",
     "earth_boxes": "The earth-boxes across London, ch 19-20. Industrial halftime, 60 BPM, percussion built from warehouse sounds rather than a drum kit. The only driving cue before the pursuit.",
     "phonograph": "Seward's diary, kept on a phonograph. LO-FI, and tiered three ways — full beat, crackle only, or silence. Sixteen of twenty-seven chapters are this document, so an untiered beat would be wallpaper. Measured, unemotional, a little mechanical. Chapters 9-10, 14-18, 21, 23-25.",
-    "demeter": "The Demeter (chapter 7). Not one cue: a scene scored from the cue sheet — storm loops, a hard cut, the pulse of the crew, hearts, lightning. See ep07.json."
+    "demeter": "The Demeter (chapter 7). Not one cue: a scene scored from the cue sheet — storm loops, a hard cut, the pulse of the crew, hearts, lightning. See ep07.json.",
+    "vigil": "THE SICKROOM, chapters 9–12: a music box (glockenspiel) that keeps winding down over a low cello and viola pedal, the piano barely touched. Added 6 Oct 2026, so Lucy’s nights are scored as hers and not only as Seward’s phonograph."
   },
   "chapters": [
     {
@@ -335,45 +342,50 @@
     {
       "n": 8,
       "bed": "whitby",
-      "score": "pastoral_turning",
+      "score": null,
       "sfx": [
         "sea_heavy",
         "dog",
         "thunder"
-      ]
+      ],
+      "note": "SCORED FROM THE CUE SHEET (ep08.json)."
     },
     {
       "n": 9,
       "bed": "london_interior",
-      "score": "phonograph",
+      "score": null,
       "sfx": [
         "clock_strike"
-      ]
+      ],
+      "note": "SCORED FROM THE CUE SHEET (ep09.json)."
     },
     {
       "n": 10,
       "bed": "london_interior",
-      "score": "phonograph",
-      "sfx": []
+      "score": null,
+      "sfx": [],
+      "note": "SCORED FROM THE CUE SHEET (ep10.json)."
     },
     {
       "n": 11,
-      "bed": "whitby",
-      "score": "pastoral_turning",
+      "bed": "london_interior",
+      "score": null,
       "sfx": [
         "wolf_near",
         "door_shut",
         "thunder"
-      ]
+      ],
+      "note": "SCORED FROM THE CUE SHEET (ep11.json)."
     },
     {
       "n": 12,
       "bed": "london_interior",
-      "score": "phonograph",
+      "score": null,
       "sfx": [
         "clock_strike"
       ],
-      "tier": "none"
+      "tier": "none",
+      "note": "SCORED FROM THE CUE SHEET (ep12.json)."
     },
     {
       "n": 13,

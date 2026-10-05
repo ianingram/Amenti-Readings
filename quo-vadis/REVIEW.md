@@ -1,0 +1,553 @@
+# Quo Vadis — speech attributions to confirm
+
+Every quotation and the voice it was given. **Tagged** lines follow Curtin’s own tag; **named** and **pronoun** lines take the speaker named, or referred to, in the narration that leads into the quote; **corrected** lines were read and set by hand; **inferred** lines are untagged and alternate within an exchange. Minor speakers are spoken by the narrator.
+
+## Chapter I — Petronius Wakes
+
+- ¶2 · **Narrator** · *confirmed* · “insula”
+- ¶6 · **Marcus Vinicius** · *tag* · “A greeting to Petronius,”
+- ¶6 · **Marcus Vinicius** · *tag* · “May all the gods grant thee success, but especially Asklepios and Kypris, for under their double…
+- ¶7 · **Petronius** · *tag* · “I greet thee in Rome, and may thy rest be sweet after war,”
+- ¶7 · **Petronius** · *tag* · “What’s to be heard in Armenia; or since thou wert in Asia, didst thou not stumble into Bithynia?”
+- ¶9 · **Marcus Vinicius** · *tag* · “I happened to visit Heraklea,”
+- ¶9 · **Marcus Vinicius** · *tag* · “Corbulo sent me there with an order to assemble reinforcements.”
+- ¶10 · **Petronius** · *inferred* · “Ah, Heraklea! I knew at Heraklea a certain maiden from Colchis, for whom I would have given all …
+- ¶11 · **Marcus Vinicius** · *inferred* · “The war is going badly, and but for Corbulo might be turned to defeat.”
+- ¶12 · **Petronius** · *inferred* · “Corbulo! by Bacchus! a real god of war, a genuine Mars, a great leader, at the same time quick-t…
+- ¶13 · **Marcus Vinicius** · *inferred* · “Corbulo is not a dull man.”
+- ¶14 · **Petronius** · *inferred* · “Perhaps thou art right, but for that matter it is all one. Dulness, as Pyrrho says, is in no way…
+- ¶17 · **Narrator** · *confirmed* · “Am I sitting?”
+- ¶18 · **Petronius** · *tag* · “Two years ago, it is true, I sent to Epidaurus three dozen live blackbirds and a goblet of gold;…
+- ¶19 · **Marcus Vinicius** · *tag* · “True,”
+- ¶19 · **Marcus Vinicius** · *tag* · “The arrows of the Parthians have not reached my body, but a dart of Amor has struck me--unexpect…
+- ¶20 · **Petronius** · *inferred* · “By the white knees of the Graces! thou wilt tell me of this at a leisure hour.”
+- ¶21 · **Marcus Vinicius** · *tag* · “I have come purposely to get thy advice,”
+- ¶23 · **Petronius** · *tag* · “Ah, I have not even asked whether thy feeling is reciprocated,”
+- ¶23 · **Petronius** · *tag* · “Had Lysippos seen thee, thou wouldst be ornamenting now the gate leading to the Palatine, as a s…
+- ¶26 · **Petronius** · *tag* · “Dost wish to listen?”
+- ¶27 · **Marcus Vinicius** · *tag* · “If it is thy creation, gladly!”
+- ¶27 · **Marcus Vinicius** · *tag* · “if not, I prefer conversation. Poets seize people at present on every street corner.”
+- ¶28 · **Petronius** · *inferred* · “Of course they do. Thou wilt not pass any basilica, bath, library, or book-shop without seeing a…
+- ¶29 · **Marcus Vinicius** · *inferred* · “Why ‘poor’?”
+- ¶30 · **Petronius** · *inferred* · “Because it has been communicated to him that he must dwell in Odyssa and not return to his domes…
+- ¶31 · **Marcus Vinicius** · *inferred* · “Are not thy affairs in it?”
+- ¶32 · **Petronius** · *inferred* · “They are; but the author is mistaken, for I am at once worse and less flat than he represents me…
+- ¶33 · **Marcus Vinicius** · *inferred* · “I am sorry, however, for Fabricius! He is a good companion.”
+- ¶34 · **Petronius** · *inferred* · “Vanity ruined the man. Every one suspected him, no one knew certainly; but he could not contain …
+- ¶35 · **Marcus Vinicius** · *inferred* · “No.”
+- ¶36 · **Petronius** · *inferred* · “Then come to the frigidarium to cool; there I will tell thee.”
+- ¶38 · **Marcus Vinicius** · *tag* · “He is right,”
+- ¶38 · **Marcus Vinicius** · *tag* · “That is what is best in life.”
+- ¶39 · **Petronius** · *inferred* · “More or less! But besides this thou lovest war, for which I have no liking, since under tents on…
+- ¶40 · **Marcus Vinicius** · *inferred* · “No; I have never composed a single hexameter.”
+- ¶41 · **Petronius** · *inferred* · “And dost thou not play on the lute and sing?”
+- ¶42 · **Marcus Vinicius** · *inferred* · “No.”
+- ¶43 · **Petronius** · *inferred* · “And dost thou drive a chariot?”
+- ¶44 · **Marcus Vinicius** · *inferred* · “I tried once in Antioch, but unsuccessfully.”
+- ¶45 · **Petronius** · *inferred* · “Then I am at rest concerning thee. And to what party in the hippodrome dost thou belong?”
+- ¶46 · **Marcus Vinicius** · *inferred* · “To the Greens.”
+- ¶47 · **Petronius** · *inferred* · “Now I am perfectly at rest, especially since thou hast a large property indeed, though thou art …
+- ¶48 · **Marcus Vinicius** · *tag* · “I understand him,”
+- ¶48 · **Marcus Vinicius** · *tag* · “but in his place I should have done something else.”
+- ¶49 · **Petronius** · *inferred* · “What, namely?”
+- ¶50 · **Marcus Vinicius** · *inferred* · “I should have enrolled faithful legions of mountaineers of that country. They are good soldiers,…
+- ¶51 · **Petronius** · *inferred* · “Vinicius! Vinicius! I almost wish to tell thee that thou wouldst not have been capable of that. …
+- ¶52 · **Marcus Vinicius** · *inferred* · “Thou wert to tell me his history.”
+- ¶53 · **Petronius** · *inferred* · “I will tell it in the unctorium.”
+- ¶55 · **Marcus Vinicius** · *tag* · “By the cloud-scattering Zeus!”
+- ¶55 · **Marcus Vinicius** · *tag* · “what a choice thou hast!”
+- ¶56 · **Petronius** · *tag* · “I prefer choice to numbers,”
+- ¶56 · **Petronius** · *tag* · “My whole ‘familia’ [household servants] in Rome does not exceed four hundred, and I judge that f…
+- ¶57 · **Marcus Vinicius** · *tag* · “More beautiful bodies even Bronzebeard does not possess,”
+- ¶58 · **Petronius** · *tag* · “Thou art my relative,”
+- ¶58 · **Petronius** · *tag* · “and I am neither so misanthropic as Barsus nor such a pedant as Aulus Plautius.”
+- ¶59 · **Marcus Vinicius** · *named* · “Whence did Aulus Plautius come to thy mind? Dost thou know that after I had disjointed my arm ou…
+- ¶60 · **Petronius** · *inferred* · “Why? Is it because thou hast fallen in love with Pomponia perchance? In that case I pity thee; s…
+- ¶61 · **Marcus Vinicius** · *tag* · “Not with Pomponia--eheu!”
+- ¶62 · **Petronius** · *inferred* · “With whom, then?”
+- ¶63 · **Marcus Vinicius** · *inferred* · “If I knew myself with whom? But I do not know to a certainty her name even,--Lygia or Callina? T…
+- ¶64 · **Petronius** · *inferred* · “If she is a slave, then purchase her.”
+- ¶65 · **Marcus Vinicius** · *inferred* · “She is not a slave.”
+- ¶66 · **Petronius** · *inferred* · “What is she? A freed woman of Plautius?”
+- ¶67 · **Marcus Vinicius** · *inferred* · “Never having been a slave, she could not be a freed woman.”
+- ¶68 · **Petronius** · *inferred* · “Who is she?”
+- ¶69 · **Marcus Vinicius** · *inferred* · “I know not,--a king’s daughter, or something of that sort.”
+- ¶70 · **Petronius** · *inferred* · “Thou dost rouse my curiosity, Vinicius.”
+- ¶71 · **Marcus Vinicius** · *inferred* · “But if thou wish to listen, I will satisfy thy curiosity straightway. Her story is not a long on…
+- ¶72 · **Petronius** · *inferred* · “I remember; that is of recent Claudian times.”
+- ¶73 · **Marcus Vinicius** · *inferred* · “Yes! War broke out. Vannius summoned to his aid the Yazygi; his dear nephews called in the Lygia…
+- ¶74 · **Petronius** · *inferred* · “Whence dost thou know all this?”
+- ¶75 · **Marcus Vinicius** · *inferred* · “Aulus Plautius told it himself. The Lygians did not cross the boundary, indeed; but barbarians c…
+- ¶76 · **Petronius** · *inferred* · “And what?”
+- ¶77 · **Marcus Vinicius** · *inferred* · “And I repeat to thee that from the moment when I saw how the sun-rays at that fountain passed th…
+- ¶78 · **Petronius** · *inferred* · “She is as transparent as a lamprey eel, then, or a youthful sardine?”
+- ¶79 · **Marcus Vinicius** · *inferred* · “Jest not, Petronius; but if the freedom with which I speak of my desire misleads thee, know this…
+- ¶80 · **Petronius** · *inferred* · “Pliny declares, as I hear, that he does not believe in the gods, but he believes in dreams; and …
+- ¶81 · **Marcus Vinicius** · *inferred* · “Alas! Petronius, it is easier to find philosophy in the world than wise counsel.”
+- ¶82 · **Petronius** · *inferred* · “Tell me, what is thy wish specially?”
+- ¶83 · **Marcus Vinicius** · *inferred* · “I wish to have Lygia. I wish that these arms of mine, which now embrace only air, might embrace …
+- ¶84 · **Petronius** · *inferred* · “She is not a slave, but she belongs to the ‘family’ of Plautius; and since she is a deserted mai…
+- ¶85 · **Marcus Vinicius** · *inferred* · “Then it seems that thou knowest not Pomponia Græcina. Both have become as much attached to her a…
+- ¶86 · **Petronius** · *inferred* · “Pomponia I know,--a real cypress. If she were not the wife of Aulus, she might be engaged as a m…
+- ¶87 · **Marcus Vinicius** · *inferred* · “Petronius! Petronius! Let us talk of the phoenix some other time.”
+- ¶88 · **Petronius** · *inferred* · “What shall I tell thee, my Marcus? I know Aulus Plautius, who, though he blames my mode of life,…
+- ¶89 · **Marcus Vinicius** · *inferred* · “I judge that thou hast the power. Thou hast influence over him; and, besides, thy mind possesses…
+- ¶90 · **Petronius** · *inferred* · “Thou hast too great an idea of my influence and wit; but if that is the only question, I will ta…
+- ¶91 · **Marcus Vinicius** · *inferred* · “They returned two days since.”
+- ¶92 · **Petronius** · *inferred* · “In that case let us go to the triclinium, where a meal is now ready, and when we have refreshed …
+- ¶93 · **Marcus Vinicius** · *tag* · “Thou hast ever been kind to me,”
+- ¶93 · **Marcus Vinicius** · *tag* · “but now I shall give command to rear thy statue among my lares,--just such a beauty as this one,…
+- ¶94 · **Marcus Vinicius** · *confirmed* · “By the light of Helios! if the ‘godlike’ Alexander resembled thee, I do not wonder at Helen.”
+- ¶96 · **Narrator** · *confirmed* · “Psst!”
+
+## Chapter II — The House of Aulus
+
+- ¶1 · **Petronius** · *confirmed* · “There are, it is true,”
+- ¶1 · **Petronius** · *confirmed* · “people who begin to visit their acquaintances about sunrise, thinking that custom an old Roman o…
+- ¶3 · **Narrator (minor speaker)** · *inferred* · “Thou wilt not believe,”
+- ¶3 · **Narrator (minor speaker)** · *inferred* · “how it enlivens and freshens one. Now I am ready.”
+- ¶4 · **Narrator** · *confirmed* · “insula”
+- ¶6 · **Narrator (minor speaker)** · *inferred* · “It occurs to me,”
+- ¶6 · **Narrator (minor speaker)** · *inferred* · “that if thy forest goddess is not a slave she might leave the house of Plautius, and transfer he…
+- ¶8 · **Petronius** · *tag* · “No?”
+- ¶8 · **Petronius** · *tag* · “In the worst event, the case would be left with Cæsar, and thou mayst be certain that, thanks ev…
+- ¶9 · **Marcus Vinicius** · *tag* · “Thou knowest not Lygia,”
+- ¶10 · **Petronius** · *inferred* · “Then permit me to ask if thou know her otherwise than by sight? Hast spoken with her? hast confe…
+- ¶11 · **Marcus Vinicius** · *inferred* · “I saw her first at the fountain; since then I have met her twice. Remember that during my stay i…
+- ¶12 · **Petronius** · *named* · “Happy man,”
+- ¶12 · **Petronius** · *named* · “though the world and life were the worst possible, one thing in them will remain eternally good,…
+- ¶13 · **Petronius** · *pronoun* · “And hast thou not spoken to her?”
+- ¶14 · **Petronius** · *inferred* · “When I had recovered somewhat, I told her that I was returning from Asia, that I had disjointed …
+- ¶15 · **Marcus Vinicius** · *inferred* · “She must have beautiful eyes.”
+- ¶16 · **Petronius** · *inferred* · “As the sea--and I was drowned in them, as in the sea. Believe me that the archipelago is less bl…
+- ¶17 · **Petronius** · *tag* · “O Athene!”
+- ¶17 · **Petronius** · *tag* · “remove from the eyes of this youth the bandage with which Eros has bound them; if not, he will b…
+- ¶18 · **Marcus Vinicius** · *inferred* · “O thou spring bud on the tree of life,”
+- ¶18 · **Marcus Vinicius** · *inferred* · “thou first green shoot of the vine! Instead of taking thee to the Plautiuses, I ought to give co…
+- ¶19 · **Petronius** · *inferred* · “What dost thou wish in particular?”
+- ¶20 · **Marcus Vinicius** · *inferred* · “But what did she write on the sand? Was it not the name of Amor, or a heart pierced with his dar…
+- ¶21 · **Marcus Vinicius** · *tag* · “It is longer since I have put on the toga than seems to thee,”
+- ¶21 · **Marcus Vinicius** · *tag* · “and before little Aulus ran up, I looked carefully at those marks, for I know that frequently ma…
+- ¶22 · **Petronius** · *inferred* · “If it is other than I supposed, I shall not guess.”
+- ¶23 · **Marcus Vinicius** · *inferred* · “A fish.”
+- ¶24 · **Petronius** · *inferred* · “What dost thou say?”
+- ¶25 · **Marcus Vinicius** · *inferred* · “I say, a fish. What did that mean,--that cold blood is flowing in her veins? So far I do not kno…
+- ¶26 · **Petronius** · *inferred* · “Carissime! ask such a thing of Pliny. He knows fish. If old Apicius were alive, he could tell th…
+- ¶31 · **Narrator** · *confirmed* · “the nest of the Quirites--without the Quirites.”
+- ¶31 · **Narrator** · *confirmed* · “insulæ”
+- ¶32 · **Petronius** · *tag* · “Hic est!”
+- ¶32 · **Petronius** · *tag* · “familia,”
+- ¶32 · **Petronius** · *tag* · “human.”
+- ¶33 · **Marcus Vinicius** · *inferred* · “Here is a gift for thee,”
+- ¶34 · **Marcus Vinicius** · *tag* · “Thanks!”
+- ¶34 · **Marcus Vinicius** · *tag* · “‘Satyricon’? Is this something new? Whose is it?”
+- ¶35 · **Petronius** · *inferred* · “Mine. But I do not wish to go in the road of Rufinus, whose history I was to tell thee, nor of F…
+- ¶36 · **Marcus Vinicius** · *tag* · “Thou hast said that thou art no writer of verses,”
+- ¶36 · **Marcus Vinicius** · *tag* · “but here I see prose thickly interwoven with them.”
+- ¶37 · **Petronius** · *inferred* · “When thou art reading, turn attention to Trimalchion’s feast. As to verses, they have disgusted …
+- ¶39 · **Marcus Vinicius** · *inferred* · “On the road I will tell thee the story of Rufinus,”
+- ¶39 · **Marcus Vinicius** · *inferred* · “as proof of what vanity in an author may be.”
+- ¶40 · **Narrator** · *confirmed* · “janitor”
+- ¶40 · **Narrator** · *confirmed* · “Salve!”
+- ¶41 · **Petronius** · *tag* · “Hast noticed that thee doorkeepers are without chains?”
+- ¶41 · **Petronius** · *tag* · “This is a wonderful house,”
+- ¶41 · **Petronius** · *tag* · “Of course it is known to thee that Pomponia Græcina is suspected of entertaining that Eastern su…
+- ¶42 · **Marcus Vinicius** · *inferred* · “To thy judgment this is a wonderful house. Later on I will tell thee what I heard and saw in it.”
+- ¶49 · **Aulus Plautius** · *tag* · “I have great love and esteem for Vespasian, whose life thou didst save,”
+- ¶49 · **Aulus Plautius** · *tag* · “when he had the misfortune to doze while listening to Nero’s verses.”
+- ¶50 · **Petronius** · *tag* · “He was fortunate,”
+- ¶50 · **Petronius** · *tag* · “for he did not hear them; but I will not deny that the matter might have ended with misfortune. …
+- ¶51 · **Aulus Plautius** · *confirmed* · “But thou, Petronius, laughed him out of it.”
+- ¶52 · **Petronius** · *confirmed* · “That is true, or rather it is not true. I told Nero that if Orpheus put wild beasts to sleep wit…
+- ¶53 · **Aulus Plautius** · *tag* · “Alas! such are the times,”
+- ¶53 · **Aulus Plautius** · *tag* · “I lack two front teeth, knocked out by a stone from the hand of a Briton, I speak with a hiss; s…
+- ¶54 · **Marcus Vinicius** · *tag* · “Because they were days of victory,”
+- ¶56 · **Aulus Plautius** · *confirmed* · “See,”
+- ¶56 · **Aulus Plautius** · *confirmed* · “in the neighborhood of Præneste country people found a dead wolf whelp with two heads; and durin…
+- ¶58 · **Petronius** · *tag* · “Thy house, Plautius, is not too large,”
+- ¶58 · **Petronius** · *tag* · “though a great man lives in it. Mine is indeed too large for such a wretched owner, though equal…
+- ¶60 · **Aulus Plautius** · *tag* · “It is an ancient seat,”
+- ¶60 · **Aulus Plautius** · *tag* · “in which nothing has been changed since I inherited it.”
+- ¶62 · **Petronius** · *tag* · “Oh, general!”
+- ¶62 · **Petronius** · *tag* · “permit us to listen from near by to that glad laughter which is of a kind heard so rarely in the…
+- ¶63 · **Aulus Plautius** · *tag* · “Willingly,”
+- ¶63 · **Aulus Plautius** · *tag* · “that is my little Aulus and Lygia, playing ball. But as to laughter, I think, Petronius, that ou…
+- ¶64 · **Petronius** · *tag* · “Life deserves laughter, hence people laugh at it,”
+- ¶64 · **Petronius** · *tag* · “but laughter here has another sound.”
+- ¶65 · **Marcus Vinicius** · *tag* · “Petronius does not laugh for days in succession,”
+- ¶65 · **Marcus Vinicius** · *tag* · “but then he laughs entire nights.”
+- ¶67 · **Narrator** · *confirmed* · “domina,”
+- ¶68 · **Pomponia Græcina** · *confirmed* · “We are growing old, and love our domestic quiet more and more, both of us.”
+- ¶69 · **Aulus Plautius** · *tag* · “And we feel stranger and stranger among people who give Greek names to our Roman divinities.”
+- ¶70 · **Petronius** · *tag* · “The gods have become for some time mere figures of rhetoric,”
+- ¶70 · **Petronius** · *tag* · “But since Greek rhetoricians taught us, it is easier for me even to say Hera than Juno.”
+- ¶72 · **Petronius** · *confirmed* · “People grow old quickly, it is true; but there are some who live another life entirely, and ther…
+- ¶75 · **Petronius** · *inferred* · “I supplicate thee, O queen, whether thou art some goddess or a mortal! If thou art one of the da…
+- ¶77 · **Aulus Plautius** · *inferred* · “Stranger, thou seemest no evil man nor foolish.”
+- ¶81 · **Petronius** · *inferred* · “We have in the house a pedagogue, a Greek,”
+- ¶81 · **Petronius** · *inferred* · “who teaches our boy, and the maiden overhears the lessons. She is a wagtail yet, but a dear one,…
+- ¶82 · **Narrator** · *confirmed* · “Spring.”
+- ¶83 · **Petronius** · *inferred* · “Vinicius is right,”
+- ¶83 · **Petronius** · *inferred* · “and my Chrysothemis is old, old!--as Troy!”
+- ¶84 · **Petronius** · *pronoun* · “I understand now, domina, why thou and thy husband prefer this house to the Circus and to feasts…
+- ¶85 · **Petronius** · *inferred* · “Yes,”
+- ¶88 · **Aulus Plautius** · *inferred* · “Yes,”
+- ¶88 · **Aulus Plautius** · *inferred* · “barely had I cast aside the pretexta, when I was sent to the legions in Asia. I had not become a…
+- ¶89 · **Marcus Vinicius** · *tag* · “But thou knowest of Vespasian’s son Titus? They say that he had scarcely ceased to be a youth wh…
+- ¶91 · **Marcus Vinicius** · *pronoun* · “Dost thou not divine what I say to thee, Lygia?”
+- ¶92 · **Marcus Vinicius** · *inferred* · “No,”
+- ¶93 · **Aulus Plautius** · *pronoun* · “The sun is setting; so beware of the evening coolness, and do not trifle with Libitina.”
+- ¶94 · **Marcus Vinicius** · *tag* · “No,”
+- ¶94 · **Marcus Vinicius** · *tag* · “I have not put on my toga yet, and I do not feel the cold.”
+- ¶95 · **Aulus Plautius** · *inferred* · “But see, barely half the sun’s shield is looking from behind the hill. That is a sweet climate o…
+- ¶96 · **Aulus Plautius** · *pronoun* · “He whose head winters have whitened has bad enough of hoar frost. Leaves are not falling from th…
+- ¶97 · **Marcus Vinicius** · *tag* · “Wouldst thou leave Rome?”
+- ¶98 · **Aulus Plautius** · *inferred* · “I have wished to do so this long time, for it is quieter in Sicily and safer.”
+- ¶101 · **Petronius** · *pronoun* · “I am considering in my soul how different this world of yours is from the world which our Nero r…
+- ¶102 · **Pomponia Græcina** · *pronoun* · “Not Nero, but God, rules the world.”
+- ¶103 · **Petronius** · *confirmed* · “But believest thou in the gods, then, Pomponia?”
+- ¶104 · **Aulus Plautius** · *tag* · “I believe in God, who is one, just, and all-powerful,”
+
+## Chapter III — The Plan
+
+- ¶1 · **Petronius** · *tag* · “SHE believes in God who is one, all-powerful, and just,”
+- ¶1 · **Petronius** · *tag* · “If her God is all-powerful, He controls life and death; and if He is just, He sends death justly…
+- ¶2 · **Marcus Vinicius** · *pronoun* · “I desired her before, but now I desire her still more. When I caught her arm, flame embraced me.…
+- ¶3 · **Petronius** · *tag* · “Calm thyself,”
+- ¶3 · **Petronius** · *tag* · “Thou hast the longing of a carpenter from the Subura.”
+- ¶4 · **Petronius** · *inferred* · “All one to me what thou sayst. I must have her. I have turned to thee for aid; but if thou wilt …
+- ¶5 · **Petronius** · *inferred* · “Calm thyself, mad descendant of consuls. We do not lead in barbarians bound behind our cars, to …
+- ¶7 · **Marcus Vinicius** · *tag* · “I thank thee,”
+- ¶7 · **Marcus Vinicius** · *tag* · “May Fortune be bountiful to thee.”
+- ¶8 · **Petronius** · *inferred* · “Be patient.”
+- ¶9 · **Marcus Vinicius** · *inferred* · “Whither hast thou given command to bear us?”
+- ¶10 · **Petronius** · *inferred* · “To Chrysothemis.”
+- ¶11 · **Marcus Vinicius** · *inferred* · “Thou art happy in possessing her whom thou lovest.”
+- ¶12 · **Petronius** · *inferred* · “I? Dost thou know what amuses me yet in Chrysothemis? This, that she is false to me with my free…
+- ¶14 · **Petronius** · *named* · “Wait; it seems to me that I have discovered a plan.”
+- ¶15 · **Petronius** · *inferred* · “May all the gods reward thee!”
+- ¶16 · **Marcus Vinicius** · *inferred* · “I have it! I judge that this plan is infallible. Knowest what, Marcus?”
+- ¶17 · **Petronius** · *inferred* · “I listen to thee, my wisdom.”
+- ¶18 · **Marcus Vinicius** · *inferred* · “Well, in a few days the divine Lygia will partake of Demeter’s grain in thy house.”
+- ¶19 · **Marcus Vinicius** · *tag* · “Thou art greater than Cæsar!”
+
+## Chapter IV — The Centurion at the Door
+
+- ¶2 · **Narrator** · *confirmed* · “Heu! heu, me miserum!”
+- ¶3 · **Aulus Plautius** · *pronoun* · “Let me go, Pomponia. If my end has come, we shall have time to take leave.”
+- ¶4 · **Pomponia Græcina** · *pronoun* · “God grant thy fate and mine to be one, O Aulus!”
+- ¶7 · **Narrator (minor speaker)** · *inferred* · “I greet thee, general,”
+- ¶7 · **Narrator (minor speaker)** · *inferred* · “I bring a command, and the greeting of Cæsar; here are the tablets and the signet to show that I…
+- ¶8 · **Aulus Plautius** · *tag* · “I am thankful to Cæsar for the greeting, and I shall obey the command,”
+- ¶8 · **Aulus Plautius** · *tag* · “Be welcome, Hasta, and say what command thou hast brought.”
+- ¶9 · **Narrator (minor speaker)** · *inferred* · “Aulus Plautius,”
+- ¶9 · **Narrator (minor speaker)** · *inferred* · “Cæsar has learned that in thy house is dwelling the daughter of the king of the Lygians, whom th…
+- ¶10 · **Aulus Plautius** · *confirmed* · “Wait, Hasta, in the atrium till the hostage is delivered to thee.”
+- ¶12 · **Narrator (minor speaker)** · *inferred* · “Death threatens no one, nor banishment to distant islands,”
+- ¶12 · **Narrator (minor speaker)** · *inferred* · “still Cæsar’s messenger is a herald of misfortune. It is a question of thee, Lygia.”
+- ¶13 · **Pomponia Græcina** · *tag* · “Of Lygia?”
+- ¶14 · **Aulus Plautius** · *tag* · “Yes,”
+- ¶15 · **Aulus Plautius** · *pronoun* · “Lygia, thou wert reared in our house as our own child; I and Pomponia love thee as our daughter.…
+- ¶17 · **Aulus Plautius** · *tag* · “The will of Cæsar must be accomplished,”
+- ¶18 · **Pomponia Græcina** · *tag* · “Aulus!”
+- ¶18 · **Pomponia Græcina** · *tag* · “it would be better for her to die.”
+- ¶19 · **Lygia** · *named* · “Mother, mother!”
+- ¶20 · **Aulus Plautius** · *named* · “If I were alone in the world,”
+- ¶20 · **Aulus Plautius** · *named* · “I would not surrender her alive, and my relatives might give offerings this day to ‘Jupiter Libe…
+- ¶22 · **Aulus Plautius** · *confirmed* · “Farewell, our joy, and the light of our eyes,”
+- ¶27 · **Pomponia Græcina** · *inferred* · “I grieve for thee, mother, and for father and for my brother; but I know that resistance is usel…
+- ¶28 · **Lygia** · *tag* · “O domina! permit me to go with my lady, to serve her and watch over her in the house of Cæsar.”
+- ¶29 · **Pomponia Græcina** · *tag* · “Thou art not our servant, but Lygia’s,”
+- ¶29 · **Pomponia Græcina** · *tag* · “but if they admit thee through Cæsar’s doors, in what way wilt thou be able to watch over her?”
+- ¶30 · **Lygia** · *inferred* · “I know not, domina; I know only that iron breaks in my hands just as wood does.”
+- ¶36 · **Aulus Plautius** · *confirmed* · “Listen to me, Pomponia. I will go to Cæsar, though I judge that my visit will be useless; and th…
+- ¶38 · **Lygia** · *inferred* · “Is it Petronius?”
+- ¶39 · **Pomponia Græcina** · *inferred* · “It is.”
+- ¶40 · **Aulus Plautius** · *named* · “See what it is to admit over the threshold any of those people without conscience or honor. Curs…
+- ¶42 · **Pomponia Græcina** · *inferred* · “I have revered the gods so far,”
+- ¶42 · **Pomponia Græcina** · *inferred* · “but at this moment I think that not they are over the world, but one mad, malicious monster name…
+- ¶43 · **Pomponia Græcina** · *tag* · “Aulus,”
+- ¶43 · **Pomponia Græcina** · *tag* · “Nero is only a handful of rotten dust before God.”
+- ¶45 · **Aulus Plautius** · *pronoun* · “I judge that Petronius has not taken her from us for Cæsar, since he would not offend Poppæa. Th…
+
+## Chapter V — Seneca
+
+- ¶2 · **Seneca** · *pronoun* · “I can render thee only one service, noble Plautius, not to show Cæsar at any time that my heart …
+- ¶3 · **Seneca** · *confirmed* · “Thou hast been silent, Plautius, thou hast been silent for whole years, and Cæsar does not like …
+- ¶4 · **Seneca** · *confirmed* · “Ah, Nero has a grateful heart. He loves thee because thou hast served Rome and glorified its nam…
+- ¶7 · **Narrator (minor speaker)** · *inferred* · “Noble Annæus,”
+- ¶7 · **Narrator (minor speaker)** · *inferred* · “I know how Cæsar rewarded thee for the care with which thou didst surround his years of youth. B…
+- ¶8 · **Seneca** · *tag* · “Petronius and I,”
+- ¶8 · **Seneca** · *tag* · “are men of two opposite camps; I know of no method against him, he yields to no man’s influence.…
+- ¶9 · **Narrator (minor speaker)** · *inferred* · “Thanks for that, even,”
+- ¶11 · **Seneca** · *inferred* · “General,”
+- ¶11 · **Seneca** · *inferred* · “return home and wait for me. Know that if Petronius were my own father, I would avenge on him th…
+- ¶12 · **Aulus Plautius** · *confirmed* · “By those mortal masks! I would rather kill her and myself.”
+- ¶12 · **Aulus Plautius** · *confirmed* · “Wait for me”
+- ¶17 · **Seneca** · *inferred* · “Read,”
+- ¶19 · **Narrator (minor speaker)** · *inferred* · “Marcus Vinicius to Aulus Plautius greeting. What has happened, has happened by the will of Cæsar…
+
+## Chapter VI — Petronius and Vinicius
+
+- ¶1 · **Marcus Vinicius** · *confirmed* · “What hast thou done with her? Where is she?”
+- ¶2 · **Petronius** · *pronoun* · “I am incapable only in the morning; in the evening I regain my former strength. Try to escape. A…
+- ¶4 · **Narrator (minor speaker)** · *inferred* · “Thou hast a steel hand,”
+- ¶4 · **Narrator (minor speaker)** · *inferred* · “but if thou hast betrayed me, I swear, by all the infernal gods, that I will thrust a knife into…
+- ¶5 · **Petronius** · *tag* · “Let us talk calmly,”
+- ¶5 · **Petronius** · *tag* · “Steel is stronger, as thou seest, than iron; hence, though out of one of thy arms two as large a…
+- ¶6 · **Narrator (minor speaker)** · *inferred* · “Where is Lygia?”
+- ¶7 · **Petronius** · *inferred* · “In a brothel,--that is, in the house of Cæsar.”
+- ¶8 · **Narrator (minor speaker)** · *inferred* · “Petronius!”
+- ¶9 · **Petronius** · *inferred* · “Calm thyself, and be seated. I asked Cæsar for two things, which he promised me,--first, to take…
+- ¶10 · **Marcus Vinicius** · *pronoun* · “Pardon me; I love her, and love is disturbing my faculties.”
+- ¶11 · **Petronius** · *inferred* · “Look at me, Marcus. The day before yesterday I spoke to Cæsar as follows: ‘My sister’s son, Vini…
+- ¶12 · **Narrator (minor speaker)** · *inferred* · “Petronius!”
+- ¶13 · **Petronius** · *inferred* · “If thou understand not that I said this to insure Lygia’s safety, I am ready to believe that I t…
+- ¶14 · **Narrator (minor speaker)** · *inferred* · “Is this true? Does nothing threaten her there in Cæsar’s house?”
+- ¶15 · **Petronius** · *inferred* · “If she had to live there permanently, Poppæa would talk about her to Locusta, but for a few days…
+- ¶16 · **Narrator (minor speaker)** · *inferred* · “Pardon me, Caius, my hastiness. I judged that thou hadst given command to take her for thyself o…
+- ¶17 · **Petronius** · *inferred* · “I can forgive thy hastiness; but it is more difficult to forgive rude gestures, vulgar shouts, a…
+- ¶19 · **Narrator (minor speaker)** · *inferred* · “The fault is mine,”
+- ¶19 · **Narrator (minor speaker)** · *inferred* · “Thou art kind and worthy. I thank thee from my whole soul. Permit me only to put one more questi…
+- ¶20 · **Petronius** · *inferred* · “Because Cæsar wishes to preserve appearances. People in Rome will talk about this,--that we remo…
+- ¶21 · **Marcus Vinicius** · *named* · “To-morrow I shall see Lygia, and then have her in my house daily, always, and till death.”
+- ¶22 · **Petronius** · *inferred* · “Thou wilt have Lygia, and I shall have Aulus on my head. He will summon the vengeance of all the…
+- ¶23 · **Narrator (minor speaker)** · *inferred* · “Aulus has been at my house. I promised to give him news of Lygia.”
+- ¶24 · **Petronius** · *inferred* · “Write to him that the will of the ‘divine’ Cæsar is the highest law, and that thy first son will…
+- ¶25 · **Narrator (minor speaker)** · *inferred* · “Do not do that. I am sorry for them, especially for Pomponia.”
+
+## Chapter VII — The Feast on the Palatine
+
+- ¶6 · **Narrator (minor speaker)** · *tag* · “So it is,”
+- ¶6 · **Narrator (minor speaker)** · *tag* · “I too have read the letters of Paul of Tarsus, and I know that above the earth is God, and the S…
+- ¶8 · **Lygia** · *named* · “Thou art kind, Acte.”
+- ¶9 · **Lygia** · *tag* · “My happiness has passed and my joy is gone, but I am not wicked.”
+- ¶10 · **Narrator (minor speaker)** · *inferred* · “No! And he was not wicked. He thought himself good at that time, and he wished to be good. I kno…
+- ¶11 · **Lygia** · *named* · “Art thou sorry for him, Acte?”
+- ¶12 · **Narrator (minor speaker)** · *inferred* · “I am sorry for him!”
+- ¶13 · **Lygia** · *tag* · “Dost thou love him yet, Acte?”
+- ¶14 · **Narrator (minor speaker)** · *inferred* · “I love him.”
+- ¶15 · **Narrator** · *confirmed* · “No one loves him but me.”
+- ¶17 · **Narrator (minor speaker)** · *inferred* · “Let us speak of thee, Lygia. Do not even think of opposing Cæsar; that would be madness. And be …
+- ¶18 · **Lygia** · *tag* · “Ah, Acte!”
+- ¶18 · **Lygia** · *tag* · “Petronius was with us before they took me, and my mother was convinced that Nero demanded my sur…
+- ¶19 · **Narrator (minor speaker)** · *tag* · “That would be bad,”
+- ¶19 · **Narrator (minor speaker)** · *tag* · “Perhaps Petronius only said, in Nero’s presence at some supper, that he saw a hostage of the Lyg…
+- ¶20 · **Lygia** · *inferred* · “I have seen Vespasian and Titus.”
+- ¶21 · **Narrator (minor speaker)** · *inferred* · “Cæsar does not like them.”
+- ¶22 · **Lygia** · *inferred* · “And Seneca.”
+- ¶23 · **Narrator (minor speaker)** · *inferred* · “If Seneca advised something, that would be enough to make Nero act otherwise.”
+- ¶24 · **Lygia** · *named* · “And Vinicius-”
+- ¶25 · **Narrator (minor speaker)** · *inferred* · “I do not know him.”
+- ¶26 · **Lygia** · *inferred* · “He is a relative of Petronius, and returned not long since from Armenia.”
+- ¶27 · **Narrator (minor speaker)** · *inferred* · “Dost thou think that Nero likes him?”
+- ¶28 · **Lygia** · *inferred* · “All like Vinicius.”
+- ¶29 · **Narrator (minor speaker)** · *inferred* · “And would he intercede for thee?”
+- ¶30 · **Lygia** · *inferred* · “He would.”
+- ¶31 · **Narrator (minor speaker)** · *named* · “Then thou wilt see him surely at the feast. Thou must be there, first, because thou must,--only …
+- ¶32 · **Lygia** · *tag* · “Thou art right,”
+- ¶32 · **Lygia** · *tag* · “and I will follow thy advice.”
+- ¶35 · **Narrator (minor speaker)** · *inferred* · “Lygia,”
+- ¶35 · **Narrator (minor speaker)** · *inferred* · “thou art a hundred times more beautiful than Poppæa!”
+- ¶38 · **Lygia** · *inferred* · “Oh, what hair thou hast! I will not sprinkle golden powder on it; it gleams of itself in one pla…
+- ¶39 · **Lygia** · *tag* · “I do not remember it,”
+- ¶39 · **Lygia** · *tag* · “but Ursus has told me that with us it is forests, forests, and forests.”
+- ¶40 · **Narrator (minor speaker)** · *tag* · “But flowers bloom in those forests,”
+- ¶46 · **Lygia** · *inferred* · “Mea culpa! mea culpa!”
+- ¶47 · **Marcus Vinicius** · *confirmed* · “A greeting, most beautiful of maidens on earth and of stars in heaven. A greeting to thee, divin…
+- ¶48 · **Lygia** · *named* · “A greeting, Marcus.”
+- ¶49 · **Narrator (minor speaker)** · *inferred* · “Happy,”
+- ¶49 · **Narrator (minor speaker)** · *inferred* · “are my eyes, which see thee; happy my ears, which hear thy voice, dearer to me than the sound of…
+- ¶51 · **Lygia** · *inferred* · “I knew that I should see thee in Cæsar’s house,”
+- ¶51 · **Lygia** · *inferred* · “but still, when I saw thee, such delight shook my whole soul, as if a happiness entirely unexpec…
+- ¶55 · **Marcus Vinicius** · *named* · “Speak on!”
+- ¶56 · **Marcus Vinicius** · *confirmed* · “I love thee, Callina,--divine one.”
+- ¶57 · **Lygia** · *tag* · “Let me go, Marcus,”
+- ¶58 · **Marcus Vinicius** · *pronoun* · “Love me, my goddess!”
+- ¶60 · **Lygia** · *inferred* · “Cæsar is looking at you both.”
+- ¶62 · **Narrator (minor speaker)** · *inferred* · “The hour has passed, Acte, when thou didst recline near Cæsar’s side at banquets, and they say t…
+- ¶63 · **Lygia** · *confirmed* · “Still I see him. He, too, has short sight, and is looking at thee through an emerald.”
+- ¶68 · **Narrator (minor speaker)** · *inferred* · “Is that the hostage with whom Vinicius is in love?”
+- ¶69 · **Petronius** · *tag* · “That is she,”
+- ¶70 · **Narrator (minor speaker)** · *inferred* · “What are her people called?”
+- ¶71 · **Petronius** · *confirmed* · “The Lygians.”
+- ¶72 · **Nero** · *confirmed* · “Does Vinicius think her beautiful?”
+- ¶73 · **Petronius** · *confirmed* · “Array a rotten olive trunk in the peplus of a woman, and Vinicius will declare it beautiful. But…
+- ¶74 · **Nero** · *tag* · “Too narrow in the hips,”
+- ¶75 · **Narrator** · *confirmed* · “Thou art mistaken! I hold with Cæsar.”
+- ¶76 · **Petronius** · *tag* · “Very well,”
+- ¶76 · **Petronius** · *tag* · “I have just maintained that thou hast a glimmer of understanding, but Cæsar insists that thou ar…
+- ¶77 · **Nero** · *tag* · “Habet!”
+- ¶78 · **Narrator (minor speaker)** · *named* · “But I believe in dreams, and Seneca told me on a time that he believes too.”
+- ¶79 · **Narrator (minor speaker)** · *tag* · “Last night I dreamt that I had become a vestal virgin,”
+- ¶81 · **Narrator (minor speaker)** · *pronoun* · “Well! They are all old and ugly. Rubria alone has a human semblance, and so there would be two o…
+- ¶82 · **Petronius** · *tag* · “But admit, purest Calvia,”
+- ¶82 · **Petronius** · *tag* · “that thou couldst become a vestal only in dreams.”
+- ¶83 · **Narrator** · *confirmed* · “But if Cæsar commanded?”
+- ¶84 · **Petronius** · *confirmed* · “I should believe that even the most impossible dreams might come true.”
+- ¶85 · **Narrator (minor speaker)** · *inferred* · “But they do come true,”
+- ¶85 · **Narrator (minor speaker)** · *inferred* · “I understand those who do not believe in the gods, but how is it possible not to believe in drea…
+- ¶86 · **Nero** · *tag* · “But predictions?”
+- ¶86 · **Nero** · *tag* · “It was predicted once to me, that Rome would cease to exist, and that I should rule the whole Or…
+- ¶87 · **Narrator (minor speaker)** · *inferred* · “Predictions and dreams are connected,”
+- ¶87 · **Narrator (minor speaker)** · *inferred* · “Once a certain proconsul, a great disbeliever, sent a slave to the temple of Mopsus with a seale…
+- ¶88 · **Narrator (minor speaker)** · *tag* · “What was in the letter?”
+- ¶89 · **Narrator** · *confirmed* · “In the letter was the question: ‘What is the color of the bull which I am to sacrifice: white or…
+- ¶91 · **Nero** · *tag* · “What is that keg of tallow laughing at?”
+- ¶92 · **Petronius** · *tag* · “Laughter distinguishes men from animals,”
+- ¶92 · **Petronius** · *tag* · “and he has no other proof that he is not a wild boar.”
+- ¶93 · **Narrator (minor speaker)** · *pronoun* · “The ring of a knight has fallen from my finger, and it was inherited from my father.”
+- ¶94 · **Nero** · *tag* · “Who was a tailor,”
+- ¶96 · **Narrator (minor speaker)** · *named* · “He is seeking what he has not lost.”
+- ¶97 · **Nero** · *inferred* · “And which will be useless to him if he finds it,”
+- ¶100 · **Lucan** · *confirmed* · “Be not cruel, O Cæsar!”
+- ¶101 · **Nero** · *inferred* · “Be not cruel!”
+- ¶104 · **Narrator** · *confirmed* · “Divine Augusta.”
+- ¶104 · **Narrator** · *confirmed* · “Ah, Marcus, can it be possible?”
+- ¶105 · **Marcus Vinicius** · *pronoun* · “Yes, she is beautiful, but thou art a hundred times more beautiful. Thou dost not know thyself, …
+- ¶108 · **Narrator** · *confirmed* · “Oh, heavenly voice!”
+- ¶109 · **Petronius** · *confirmed* · “If it is a question of music, Orpheus must at this moment be as yellow from envy as Lucan, who i…
+- ¶110 · **Nero** · *confirmed* · “Cursed fate, which commanded me to live contemporary with such a poet. One might have a place in…
+- ¶114 · **Marcus Vinicius** · *tag* · “I saw thee in the house of Aulus, at the fountain. It was daylight, and thou didst think that no…
+- ¶115 · **Pomponia Græcina** · *named* · “O Lygia, save thyself!”
+- ¶119 · **Narrator (minor speaker)** · *named* · “If the spheros of Xenophanes is round, then consider, such a god might be pushed along before on…
+- ¶121 · **Narrator** · *confirmed* · “Who says that Rome is perishing? What folly! I, a consul, know better. Videant consules! Thirty …
+- ¶122 · **Narrator** · *confirmed* · “Thirty legions! thirty legions! from Britain to the Parthian boundaries!”
+- ¶122 · **Narrator** · *confirmed* · “As I live, I think there are thirty-two.”
+- ¶125 · **Narrator** · *confirmed* · “What is a future life! Achilles was right,--better be a slave in the world beneath the sun than …
+- ¶126 · **Lucan** · *confirmed* · “I am not a man at all, but a faun.”
+- ¶127 · **Narrator** · *confirmed* · “heavenly”
+- ¶127 · **Narrator** · *confirmed* · “Such beautiful hands I have seen only once, and whose were they?”
+- ¶130 · **Marcus Vinicius** · *inferred* · “They say,”
+- ¶130 · **Marcus Vinicius** · *inferred* · “that she wanders by moonlight on the sea around Baiæ and Bauli. She merely walks,--walks as if s…
+- ¶131 · **Petronius** · *tag* · “Not a bad theme,”
+- ¶132 · **Narrator (minor speaker)** · *named* · “I do not believe in the gods; but I believe in spirits--Oi!”
+- ¶133 · **Nero** · *named* · “I celebrated the Lemuria, and have no wish to see her. This is the fifth year--I had to condemn …
+- ¶134 · **Marcus Vinicius** · *inferred* · “Thanks be to Cæsar, in the name of the city and the world!”
+- ¶135 · **Petronius** · *inferred* · “Wine! and let them strike the tympans!”
+- ¶136 · **Lucan** · *named* · “I am not a man, but a faun; and I dwell in the forest. Eho-o-o-oo!”
+- ¶136 · **Lucan** · *named* · “Give me thy lips! To-day, to-morrow, it is all one! Enough of this!
+- ¶137 · **Petronius** · *inferred* · “Cæsar took thee from Aulus to give thee to me, dost understand? To-morrow, about dusk, I will se…
+- ¶142 · **Marcus Vinicius** · *pronoun* · “Lygia! Lygia!”
+- ¶144 · **Petronius** · *inferred* · “Drink!”
+
+## Chapter VIII — Ursus
+
+- ¶2 · **Lygia** · *confirmed* · “Let us go home, Ursus! home, to the house of Aulus.”
+- ¶3 · **Ursus** · *tag* · “Let us go!”
+- ¶4 · **Lygia** · *pronoun* · “Let us go home, to the house of Aulus!”
+- ¶6 · **Lygia** · *tag* · “Yes, Ursus,”
+- ¶6 · **Lygia** · *tag* · “let us go.”
+- ¶9 · **Lygia** · *confirmed* · “Acte,”
+- ¶9 · **Lygia** · *confirmed* · “didst thou hear Vinicius say that Cæsar had given me to him, and that he will send slaves here t…
+- ¶10 · **Narrator (minor speaker)** · *tag* · “I did,”
+- ¶11 · **Lygia** · *inferred* · “In Cæsar’s house,”
+- ¶11 · **Lygia** · *inferred* · “it would not be safer for thee than in that of Vinicius.”
+- ¶12 · **Narrator** · *confirmed* · “Be resigned to fate and become the concubine of Vinicius.”
+- ¶14 · **Lygia** · *inferred* · “Never,”
+- ¶14 · **Lygia** · *inferred* · “will I remain here, or at the house of Vinicius,--never!”
+- ¶15 · **Narrator (minor speaker)** · *tag* · “But,”
+- ¶15 · **Narrator (minor speaker)** · *tag* · “is Vinicius hateful to thee?”
+- ¶17 · **Lygia** · *tag* · “Is he so hateful to thee?”
+- ¶18 · **Lygia** · *tag* · “No,”
+- ¶18 · **Lygia** · *tag* · “it is not permitted me to hate, for I am a Christian.”
+- ¶19 · **Narrator (minor speaker)** · *inferred* · “I know, Lygia. I know also from the letters of Paul of Tarsus, that it is not permitted to defil…
+- ¶20 · **Lygia** · *inferred* · “No.”
+- ¶21 · **Narrator (minor speaker)** · *inferred* · “Then how canst thou bring Cæsar’s vengeance on the house of Aulus?”
+- ¶22 · **Lygia** · *inferred* · “I ask,”
+- ¶22 · **Lygia** · *inferred* · “for I have compassion on thee--and I have compassion on the good Pomponia and Aulus, and on thei…
+- ¶27 · **Narrator (minor speaker)** · *inferred* · “May God bless Pomponia and Aulus,”
+- ¶27 · **Narrator (minor speaker)** · *inferred* · “It is not permitted me to bring ruin on them; therefore I shall never see them again.”
+- ¶32 · **Lygia** · *inferred* · “Thou wilt not betray, Acte, wilt thou?”
+- ¶33 · **Narrator (minor speaker)** · *inferred* · “By the shade of my mother,”
+- ¶33 · **Narrator (minor speaker)** · *inferred* · “I will not; but pray to thy God that Ursus be able to bear thee away.”
+- ¶36 · **Lygia** · *inferred* · “To the forest? Ai, what a forest, what a forest!”
+- ¶39 · **Narrator (minor speaker)** · *inferred* · “Ursus, do not kill,”
+- ¶40 · **Narrator** · *confirmed* · “his light.”
+- ¶41 · **Ursus** · *pronoun* · “Now I will go to the holy bishop.”
+
+## Chapter IX — Poppæa in the Garden
+
+- ¶3 · **Narrator (minor speaker)** · *inferred* · “She sleeps,--she is able to sleep,”
+- ¶3 · **Narrator (minor speaker)** · *inferred* · “She is a child yet.”
+- ¶4 · **Narrator (minor speaker)** · *inferred* · “Why?”
+- ¶5 · **Narrator** · *confirmed* · “How different from me!”
+- ¶8 · **Narrator (minor speaker)** · *inferred* · “That is thou, Acte?”
+- ¶9 · **Narrator (minor speaker)** · *inferred* · “I, Lygia.”
+- ¶10 · **Narrator (minor speaker)** · *inferred* · “Is it evening?”
+- ¶11 · **Narrator (minor speaker)** · *inferred* · “No, child; but midday has passed.”
+- ¶12 · **Narrator (minor speaker)** · *inferred* · “And has Ursus not returned?”
+- ¶13 · **Narrator (minor speaker)** · *inferred* · “Ursus did not say that he would return; he said that he would watch in the evening, with Christi…
+- ¶14 · **Narrator (minor speaker)** · *inferred* · “True.”
+- ¶18 · **Lygia** · *named* · “No. In Aulus’s house, Vinicius had been different, he had been very kind, but since yesterday’s …
+- ¶19 · **Narrator (minor speaker)** · *tag* · “But in Aulus’s house,”
+- ¶19 · **Narrator (minor speaker)** · *tag* · “he was dear to thee, was he not?”
+- ¶20 · **Lygia** · *tag* · “He was,”
+- ¶21 · **Narrator (minor speaker)** · *tag* · “And thou wert not a slave, as I was,”
+- ¶21 · **Narrator (minor speaker)** · *tag* · “Vinicius might marry thee. Thou art a hostage, and a daughter of the Lygian king. Aulus and Pomp…
+- ¶22 · **Lygia** · *tag* · “I would rather flee to the Lygians.”
+- ¶23 · **Narrator (minor speaker)** · *inferred* · “Lygia, dost thou wish me to go directly to Vinicius, rouse him, if he is sleeping, and tell him …
+- ¶25 · **Lygia** · *inferred* · “I would rather flee to the Lygians.”
+- ¶26 · **Poppæa** · *confirmed* · “Acte, the bells sent by thee for the doll were badly fastened; the child tore off one and put it…
+- ¶27 · **Narrator (minor speaker)** · *tag* · “Pardon, divinity,”
+- ¶29 · **Lygia** · *inferred* · “What slave is this?”
+- ¶30 · **Narrator (minor speaker)** · *inferred* · “She is not a slave, divine Augusta, but a foster child of Pomponia Græcina, and a daughter of th…
+- ¶31 · **Lygia** · *inferred* · “And has she come to visit thee?”
+- ¶32 · **Narrator (minor speaker)** · *inferred* · “No, Augusta. She is dwelling in the palace since the day before yesterday.”
+- ¶33 · **Lygia** · *inferred* · “Was she at the feast last night?”
+- ¶34 · **Narrator (minor speaker)** · *inferred* · “She was, Augusta.”
+- ¶35 · **Lygia** · *inferred* · “At whose command?”
+- ¶36 · **Narrator (minor speaker)** · *inferred* · “At Cæsar’s command.”
+- ¶37 · **Poppæa** · *confirmed* · “That is simply a nymph,”
+- ¶37 · **Poppæa** · *confirmed* · “and ‘twas Venus who gave birth to her.”
+- ¶37 · **Poppæa** · *confirmed* · “Perhaps Nero has not seen the girl, or, seeing her through the emerald, has not appreciated her.…
+- ¶38 · **Narrator (minor speaker)** · *inferred* · “Hast thou spoken with Cæsar?”
+- ¶39 · **Lygia** · *inferred* · “No, Augusta.”
+- ¶40 · **Narrator (minor speaker)** · *inferred* · “Why dost thou choose to be here rather than in the house of Aulus?”
+- ¶41 · **Lygia** · *inferred* · “I do not choose, lady. Petronius persuaded Cæsar to take me from Pomponia. I am here against my …
+- ¶42 · **Narrator (minor speaker)** · *inferred* · “And wouldst thou return to Pomponia?”
+- ¶44 · **Lygia** · *inferred* · “Lady,”
+- ¶44 · **Lygia** · *inferred* · “Cæsar promised to give me as a slave to Vinicius, but do thou intercede and return me to Pomponia.”
+- ¶45 · **Narrator (minor speaker)** · *inferred* · “Then Petronius persuaded Cæsar to take thee from Aulus, and give thee to Vinicius?”
+- ¶46 · **Lygia** · *inferred* · “True, lady. Vinicius is to send for me to-day, but thou art good, have compassion on me.”
+- ¶46 · **Lygia** · *inferred* · “Then I promise that thou wilt become the slave of Vinicius this day.”
+- ¶47 · **Lygia** · *pronoun* · “Let us return. Help is to be looked for only whence it can come.”
+- ¶50 · **Narrator (minor speaker)** · *tag* · “A greeting, divine Lygia, from Marcus Vinicius, who awaits thee with a feast in his house which …
+- ¶52 · **Lygia** · *inferred* · “I go,”
+
+## Chapter X — The Litter in the Dark
+
+- ¶2 · **Narrator (minor speaker)** · *inferred* · “Thou wert drunk yesterday,”
+- ¶2 · **Narrator (minor speaker)** · *inferred* · “I saw thee. Thou didst act with her like a quarryman from the Alban Hills. Be not over-insistent…
+- ¶3 · **Petronius** · *confirmed* · “Win her confidence, make her joyful, be magnanimous. I have no wish to see a gloomy feast. Swear…
+- ¶4 · **Petronius** · *confirmed* · “For five years I have acted thus more or less with this timid dove, and I cannot complain of her…
+- ¶5 · **Narrator (minor speaker)** · *named* · “But I did not resist, thou satyr!”
+- ¶6 · **Narrator (minor speaker)** · *inferred* · “Out of consideration for my predecessor--”
+- ¶7 · **Narrator (minor speaker)** · *inferred* · “But wert thou not at my feet?”
+- ¶8 · **Narrator (minor speaker)** · *inferred* · “Yes; to put rings on thy toes.”
+- ¶10 · **Marcus Vinicius** · *confirmed* · “They must have left the palace,”
+- ¶11 · **Petronius** · *tag* · “They must,”
+- ¶11 · **Petronius** · *tag* · “Meanwhile I may mention the predictions of Apollonius of Tyana, or that history of Rufinus which…
+- ¶14 · **Marcus Vinicius** · *tag* · “Now they are turning toward the Carinæ,”
+- ¶15 · **Narrator (minor speaker)** · *tag* · “He cannot wait; he will run to meet the litter, and is likely to miss them!”
+- ¶16 · **Marcus Vinicius** · *named* · “On the contrary, I will wait.”
+- ¶17 · **Petronius** · *named* · “There is not in him a philosopher to the value of one sestertium, and I shall never make a man o…
+- ¶18 · **Marcus Vinicius** · *inferred* · “They are now in the Carinæ.”
+- ¶19 · **Narrator (minor speaker)** · *inferred* · “Give way to the noble tribune, Marcus Vinicius!”
+- ¶21 · **Marcus Vinicius** · *inferred* · “That is he!--that is Ursus and the Christians! Now it will happen quickly,”
+- ¶21 · **Marcus Vinicius** · *inferred* · “O Christ, aid! O Christ, save!”
+- ¶22 · **Narrator (minor speaker)** · *inferred* · “Give way to the litter of the noble tribune!”
+- ¶26 · **Lygia** · *tag* · “Ursus! Ursus!”
+- ¶32 · **Narrator (minor speaker)** · *inferred* · “Let Gulo declare it,”
+- ¶32 · **Narrator (minor speaker)** · *inferred* · “blood is flowing from his face as from ours; and the master loves him; it is safer for Gulo than…
+- ¶34 · **Lygia** · *inferred* · “I will tell him; but do ye all come. Do not let his anger fall on my head alone.”
+- ¶36 · **Narrator (minor speaker)** · *inferred* · “They ought to be here! They ought to be here!”
+- ¶38 · **Narrator (minor speaker)** · *named* · “Aaaa!--aa!”
+- ¶40 · **Narrator (minor speaker)** · *inferred* · “Where is Lygia?”
+- ¶41 · **Lygia** · *inferred* · “Aaaa!”
+- ¶43 · **Narrator (minor speaker)** · *inferred* · “See our blood, lord! We fought! See our blood! See our blood!”
+- ¶44 · **Marcus Vinicius** · *named?* · “Me miserum! me miserum!”
+- ¶46 · **Narrator (minor speaker)** · *inferred* · “Whips!”
+- ¶47 · **Narrator (minor speaker)** · *tag* · “Lord! Aaaa! Take pity!”
+- ¶48 · **Petronius** · *named* · “Come, Chrysothemis!”
+- ¶48 · **Petronius** · *named* · “If ‘tis thy wish to look on raw flesh, I will give command to open a butcher’s stall on the Cari…

@@ -1,0 +1,241 @@
+{
+ "work": "quo-vadis",
+ "episode": 3,
+ "chapter": 3,
+ "title": "The Plan",
+ "document": "PART ONE · CHAPTER III",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch03.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER III"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“SHE believes in God who is one, all-powerful, and just,”"
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said\nPetronius, when he found himself again in the litter with Vinicius."
+  },
+  {
+   "n": 4,
+   "para": 1,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“If\nher God is all-powerful, He controls life and death; and if He is\njust, He sends death justly. Why, then, does Pomponia wear mourning for\nJulius? In mourning for Julius she blames her God. I must repeat this\nreasoning to our Bronzebeard, the monkey, since I consider that in\ndialectics I am the equal of Socrates. As to women, I agree that each\nhas three or four souls, but none of them a reasoning one. Let Pomponia\nmeditate with Seneca or Cornutus over the question of what their great\nLogos is. Let them summon at once the shades of Xenophanes, Parmenides,\nZeno, and Plato, who are as much wearied there in Cimmerian regions as\na finch in a cage. I wished to talk with her and with Plautius about\nsomething else. By the holy stomach of the Egyptian Isis! If I had told\nthem right out directly why we came, I suppose that their virtue would\nhave made as much noise as a bronze shield under the blow of a club.\nAnd I did not dare to tell! Wilt thou believe, Vinicius, I did not dare!\nPeacocks are beautiful birds, but they have too shrill a cry. I feared\nan outburst. But I must praise thy choice. A real ‘rosy-fingered\nAurora.’ And knowest thou what she reminded me of too?--Spring! not our\nspring in Italy, where an apple-tree merely puts forth a blossom here\nand there, and olive groves grow gray, just as they were gray before,\nbut the spring which I saw once in Helvetia,--young, fresh, bright\ngreen. By that pale moon, I do not wonder at thee, Marcus; but know that\nthou art loving Diana, because Aulus and Pomponia are ready to tear thee\nto pieces, as the dogs once tore Actæon.”"
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius was silent a time without raising his head; then he began to\nspeak with a voice broken by passion,--"
+  },
+  {
+   "n": 6,
+   "score": {
+    "key": "vinicius",
+    "at": "I desired her before, but now I desire her still more",
+    "xfade": 5
+   },
+   "para": 2,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I desired her before, but now I\ndesire her still more. When I caught her arm, flame embraced me. I\nmust have her. Were I Zeus, I would surround her with a cloud, as he\nsurrounded Io, or I would fall on her in rain, as he fell on Danaë; I\nwould kiss her lips till it pained! I would hear her scream in my arms.\nI would kill Aulus and Pomponia, and bear her home in my arms. I will\nnot sleep to-night. I will give command to flog one of my slaves, and\nlisten to his groans--”"
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Calm thyself,”"
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius."
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou hast the longing of a carpenter\nfrom the Subura.”"
+  },
+  {
+   "n": 10,
+   "para": 4,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“All one to me what thou sayst. I must have her. I have turned to thee\nfor aid; but if thou wilt not find it, I shall find it myself. Aulus\nconsiders Lygia as a daughter; why should I look on her as a slave? And\nsince there is no other way, let her ornament the door of my house, let\nher anoint it with wolf’s fat, and let her sit at my hearth as wife.”"
+  },
+  {
+   "n": 11,
+   "para": 5,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Calm thyself, mad descendant of consuls. We do not lead in barbarians\nbound behind our cars, to make wives of their daughters. Beware of\nextremes. Exhaust simple, honorable methods, and give thyself and me\ntime for meditation. Chrysothemis seemed to me too a daughter of Jove,\nand still I did not marry her, just as Nero did not marry Acte, though\nthey called her a daughter of King Attalus. Calm thyself! Think that if\nshe wishes to leave Aulus for thee, he will have no right to detain her.\nKnow also that thou art not burning alone, for Eros has roused in her\nthe flame too. I saw that, and it is well to believe me. Have patience.\nThere is a way to do everything, but to-day I have thought too much\nalready, and it tires me. But I promise that to-morrow I will think of\nthy love, and unless Petronius is not Petronius, he will discover some\nmethod.”"
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They were both silent again."
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I thank thee,”"
+  },
+  {
+   "n": 14,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius at last."
+  },
+  {
+   "n": 15,
+   "para": 7,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“May Fortune be bountiful to\nthee.”"
+  },
+  {
+   "n": 16,
+   "para": 8,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Be patient.”"
+  },
+  {
+   "n": 17,
+   "para": 9,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Whither hast thou given command to bear us?”"
+  },
+  {
+   "n": 18,
+   "para": 10,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“To Chrysothemis.”"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou art happy in possessing her whom thou lovest.”"
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I? Dost thou know what amuses me yet in Chrysothemis? This, that she is\nfalse to me with my freedman Theokles, and thinks that I do not\nnotice it. Once I loved her, but now she amuses me with her lying and\nstupidity. Come with me to her. Should she begin to flirt with thee, and\nwrite letters on the table with her fingers steeped in wine, know that I\nshall not be jealous.”"
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he gave command to bear them both to Chrysothemis."
+  },
+  {
+   "n": 22,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But in the entrance Petronius put his hand on Vinicius’s shoulder, and\nsaid,--"
+  },
+  {
+   "n": 23,
+   "score": {
+    "key": "opulence",
+    "at": "Wait; it seems to me that I have discovered a plan.",
+    "xfade": 6
+   },
+   "para": 14,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Wait; it seems to me that I have discovered a plan.”"
+  },
+  {
+   "n": 24,
+   "para": 15,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“May all the gods reward thee!”"
+  },
+  {
+   "n": 25,
+   "para": 16,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I have it! I judge that this plan is infallible. Knowest what, Marcus?”"
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I listen to thee, my wisdom.”"
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Well, in a few days the divine Lygia will partake of Demeter’s grain in\nthy house.”"
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou art greater than Cæsar!”"
+  },
+  {
+   "n": 29,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "exclaimed Vinicius with enthusiasm."
+  }
+ ]
+}

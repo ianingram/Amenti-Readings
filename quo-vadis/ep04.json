@@ -1,0 +1,573 @@
+{
+ "work": "quo-vadis",
+ "episode": 4,
+ "chapter": 4,
+ "title": "The Centurion at the Door",
+ "document": "PART ONE · CHAPTER IV",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch04.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Aulus Plautius",
+   "cast_as": "Vespasian"
+  },
+  {
+   "role": "Pomponia Græcina",
+   "cast_as": "Hypatia"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER IV"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "IN fact, Petronius kept his promise. He slept all the day following his\nvisit to Chrysothemis, it is true; but in the evening he gave command to\nbear him to the Palatine, where he had a confidential conversation with\nNero; in consequence of this, on the third day a centurion, at the\nhead of some tens of pretorian soldiers, appeared before the house of\nPlautius."
+  },
+  {
+   "n": 3,
+   "score": {
+    "key": "dread",
+    "at": "the centurion struck the hammer at Aulus’s door",
+    "xfade": 4
+   },
+   "sfx": [
+    {
+     "key": "knock",
+     "at": "the centurion struck the hammer at Aulus’s door"
+    }
+   ],
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The period was uncertain and terrible. Messengers of this kind were more\nfrequently heralds of death. So when the centurion struck the hammer at\nAulus’s door, and when the guard of the atrium announced that there\nwere soldiers in the anteroom, terror rose through the whole house.\nThe family surrounded the old general at once, for no one doubted that\ndanger hung over him above all. Pomponia, embracing his neck with\nher arms, clung to him with all her strength, and her blue lips moved\nquickly while uttering some whispered phrase. Lygia, with a face pale\nas linen, kissed his hand; little Aulus clung to his toga. From the\ncorridor, from chambers in the lower story intended for servant-women\nand attendants, from the bath, from the arches of lower dwellings, from\nthe whole house, crowds of slaves began to hurry out, and the cries of\n“Heu! heu, me miserum!” were heard. The women broke into great weeping;\nsome scratched their cheeks, or covered their heads with kerchiefs."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Only the old general himself, accustomed for years to look death\nstraight in the eye, remained calm, and his short eagle face became as\nrigid as if chiselled from stone. After a while, when he had silenced\nthe uproar, and commanded the attendants to disappear, he said,--"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Let me\ngo, Pomponia. If my end has come, we shall have time to take leave.”"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he pushed her aside gently; but she said,--"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“God grant thy fate and\nmine to be one, O Aulus!”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then, failing on her knees, she began to pray with that force which fear\nfor some dear one alone can give."
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Aulus passed out to the atrium, where the centurion was waiting for him.\nIt was old Caius Hasta, his former subordinate and companion in British\nwars."
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I greet thee, general,” said he. “I bring a command, and the greeting\nof Cæsar; here are the tablets and the signet to show that I come in his\nname.”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“I am thankful to Cæsar for the greeting, and I shall obey the command,”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Aulus."
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Be welcome, Hasta, and say what command thou hast\nbrought.”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Aulus Plautius,” began Hasta, “Cæsar has learned that in thy house is\ndwelling the daughter of the king of the Lygians, whom that king during\nthe life of the divine Claudius gave into the hands of the Romans as a\npledge that the boundaries of the empire would never be violated by the\nLygians. The divine Nero is grateful to thee, O general, because thou\nhast given her hospitality in thy house for so many years; but, not\nwishing to burden thee longer, and considering also that the maiden as\na hostage should be under the guardianship of Cæsar and the senate, he\ncommands thee to give her into my hands.”"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Aulus was too much a soldier and too much a veteran to permit himself\nregret in view of an order, or vain words, or complaint. A slight\nwrinkle of sudden anger and pain, however, appeared on his forehead.\nBefore that frown legions in Britain had trembled on a time, and even\nat that moment fear was evident on the face of Hasta. But in view of the\norder, Aulus Plautius felt defenceless. He looked for some time at the\ntablets and the signet; then raising his eyes to the old centurion, he\nsaid calmly,--"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Wait, Hasta, in the atrium till the hostage is delivered\nto thee.”"
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After these words he passed to the other end of the house, to the\nhall called oecus, where Pomponia Græcina, Lygia, and little Aulus were\nwaiting for him in fear and alarm."
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Death threatens no one, nor banishment to distant islands,” said he;\n“still Cæsar’s messenger is a herald of misfortune. It is a question of\nthee, Lygia.”"
+  },
+  {
+   "n": 19,
+   "para": 13,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“Of Lygia?”"
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "exclaimed Pomponia, with astonishment."
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 22,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Aulus."
+  },
+  {
+   "n": 23,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And turning to the maiden, he began:"
+  },
+  {
+   "n": 24,
+   "para": 15,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Lygia, thou wert reared in our\nhouse as our own child; I and Pomponia love thee as our daughter. But\nknow this, that thou art not our daughter. Thou art a hostage, given\nby thy people to Rome, and guardianship over thee belongs to Cæsar. Now\nCæsar takes thee from our house.”"
+  },
+  {
+   "n": 25,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The general spoke calmly, but with a certain strange, unusual voice.\nLygia listened to his words, blinking, as if not understanding what the\nquestion was. Pomponia’s cheeks became pallid. In the doors leading\nfrom the corridor to the oecus, terrified faces of slaves began to show\nthemselves a second time."
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“The will of Cæsar must be accomplished,”"
+  },
+  {
+   "n": 27,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Aulus."
+  },
+  {
+   "n": 28,
+   "para": 18,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“Aulus!”"
+  },
+  {
+   "n": 29,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "exclaimed Pomponia, embracing the maiden with her arms, as if\nwishing to defend her,"
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“it would be better for her to die.”"
+  },
+  {
+   "n": 31,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia, nestling up to her breast, repeated,"
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Mother, mother!”"
+  },
+  {
+   "n": 33,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "unable in\nher sobbing to find other words."
+  },
+  {
+   "n": 34,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "On Aulus’s face anger and pain were reflected again."
+  },
+  {
+   "n": 35,
+   "para": 20,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“If I were alone in\nthe world,”"
+  },
+  {
+   "n": 36,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, gloomily,"
+  },
+  {
+   "n": 37,
+   "para": 20,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“I would not surrender her alive, and my\nrelatives might give offerings this day to ‘Jupiter Liberator.’ But I\nhave not the right to kill thee and our child, who may live to happier\ntimes. I will go to Cæsar this day, and implore him to change his\ncommand. Whether he will hear me, I know not. Meanwhile, farewell,\nLygia, and know that I and Pomponia ever bless the day in which thou\ndidst take thy seat at our hearth.”"
+  },
+  {
+   "n": 38,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Thus speaking, he placed his hand on her head; but though he strove to\npreserve his calmness, when Lygia turned to him eyes filled with tears,\nand seizing his hand pressed it to her lips, his voice was filled with\ndeep fatherly sorrow."
+  },
+  {
+   "n": 39,
+   "score": [
+    {
+     "key": null,
+     "at": "Farewell, our joy, and the light of our eyes",
+     "xfade": 10
+    },
+    {
+     "key": "faith",
+     "at": "Farewell, our joy, and the light of our eyes",
+     "xfade": 10
+    }
+   ],
+   "para": 22,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Farewell, our joy, and the light of our eyes,”"
+  },
+  {
+   "n": 40,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 41,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he went to the atrium quickly, so as not to let himself be conquered\nby emotion unworthy of a Roman and a general."
+  },
+  {
+   "n": 42,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile Pomponia, when she had conducted Lygia to the cubiculum, began\nto comfort, console, and encourage her, uttering words meanwhile which\nsounded strangely in that house, where near them in an adjoining chamber\nthe lararium remained yet, and where the hearth was on which Aulus\nPlautius, faithful to ancient usage, made offerings to the household\ndivinities. Now the hour of trial had come. On a time Virginius had\npierced the bosom of his own daughter to save her from the hands of\nAppius; still earlier Lucretia had redeemed her shame with her life.\nThe house of Cæsar is a den of infamy, of evil, of crime. But we, Lygia,\nknow why we have not the right to raise hands on ourselves! Yes! The law\nunder which we both live is another, a greater, a holier, but it gives\npermission to defend oneself from evil and shame even should it happen\nto pay for that defence with life and torment. Whoso goes forth pure\nfrom the dwelling of corruption has the greater merit thereby. The earth\nis that dwelling; but fortunately life is one twinkle of the eye, and\nresurrection is only from the grave; beyond that not Nero, but Mercy\nbears rule, and there instead of pain is delight, there instead of tears\nis rejoicing."
+  },
+  {
+   "n": 43,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Next she began to speak of herself. Yes! she was calm; but in her breast\nthere was no lack of painful wounds. For example, Aulus was a cataract\non her eye; the fountain of light had not flowed to him yet. Neither was\nit permitted her to rear her son in Truth. When she thought, therefore,\nthat it might be thus to the end of her life, and that for them a moment\nof separation might come which would be a hundred times more grievous\nand terrible than that temporary one over which they were both suffering\nthen, she could not so much as understand how she might be happy even in\nheaven without them. And she had wept many nights through already, she\nhad passed many nights in prayer, imploring grace and mercy. But she\noffered her suffering to God, and waited and trusted. And now, when\na new blow struck her, when the tyrant’s command took from her a dear\none,--the one whom Aulus had called the light of their eyes,--she\ntrusted yet, believing that there was a power greater than Nero’s and a\nmercy mightier than his anger."
+  },
+  {
+   "n": 44,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And she pressed the maiden’s head to her bosom still more firmly. Lygia\ndropped to her knees after a while, and, covering her eyes in the folds\nof Pomponia’s peplus, she remained thus a long time in silence; but when\nshe stood up again, some calmness was evident on her face."
+  },
+  {
+   "n": 45,
+   "para": 27,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“I grieve for thee, mother, and for father and for my brother; but I\nknow that resistance is useless, and would destroy all of us. I promise\nthee that in the house of Cæsar I will never forget thy words.”"
+  },
+  {
+   "n": 46,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Once more she threw her arms around Pomponia’s neck; then both went out\nto the oecus, and she took farewell of little Aulus, of the old Greek\ntheir teacher, of the dressing-maid who had been her nurse, and of all\nthe slaves. One of these, a tall and broad-shouldered Lygian, called\nUrsus in the house, who with other servants had in his time gone with\nLygia’s mother and her to the camp of the Romans, fell now at her feet,\nand then bent down to the knees of Pomponia, saying,--"
+  },
+  {
+   "n": 47,
+   "para": 28,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“O domina! permit\nme to go with my lady, to serve her and watch over her in the house of\nCæsar.”"
+  },
+  {
+   "n": 48,
+   "para": 29,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“Thou art not our servant, but Lygia’s,”"
+  },
+  {
+   "n": 49,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Pomponia;"
+  },
+  {
+   "n": 50,
+   "para": 29,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“but if they\nadmit thee through Cæsar’s doors, in what way wilt thou be able to watch\nover her?”"
+  },
+  {
+   "n": 51,
+   "para": 30,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I know not, domina; I know only that iron breaks in my hands just as\nwood does.”"
+  },
+  {
+   "n": 52,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When Aulus, who came up at that moment, had heard what the question was,\nnot only did he not oppose the wishes of Ursus, but he declared that he\nhad not even the right to detain him. They were sending away Lygia as a\nhostage whom Cæsar had claimed, and they were obliged in the same way to\nsend her retinue, which passed with her to the control of Cæsar. Here he\nwhispered to Pomponia that under the form of an escort she could add as\nmany slaves as she thought proper, for the centurion could not refuse to\nreceive them."
+  },
+  {
+   "n": 53,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "There was a certain comfort for Lygia in this. Pomponia also was glad\nthat she could surround her with servants of her own choice. Therefore,\nbesides Ursus, she appointed to her the old tire-woman, two maidens from\nCyprus well skilled in hair-dressing, and two German maidens for the\nbath. Her choice fell exclusively on adherents of the new faith; Ursus,\ntoo, had professed it for a number of years. Pomponia could count on the\nfaithfulness of those servants, and at the same time consoled herself\nwith the thought that soon grains of truth would be in Cæsar’s house."
+  },
+  {
+   "n": 54,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She wrote a few words also, committing care over Lygia to Nero’s\nfreedwoman, Acte. Pomponia had not seen her, it is true, at meetings of\nconfessors of the new faith; but she had heard from them that Acte had\nnever refused them a service, and that she read the letters of Paul of\nTarsus eagerly. It was known to her also that the young freedwoman lived\nin melancholy, that she was a person different from all other women of\nNero’s house, and that in general she was the good spirit of the palace."
+  },
+  {
+   "n": 55,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Hasta engaged to deliver the letter himself to Acte. Considering it\nnatural that the daughter of a king should have a retinue of her own\nservants, he did not raise the least difficulty in taking them to the\npalace, but wondered rather that there should be so few. He begged\nhaste, however, fearing lest he might be suspected of want of zeal in\ncarrying out orders."
+  },
+  {
+   "n": 56,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The moment of parting came. The eyes of Pomponia and Lygia were filled\nwith fresh tears; Aulus placed his hand on her head again, and after a\nwhile the soldiers, followed by the cry of little Aulus, who in defence\nof his sister threatened the centurion with his small fists, conducted\nLygia to Cæsar’s house."
+  },
+  {
+   "n": 57,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The old general gave command to prepare his litter at once; meanwhile,\nshutting himself up with Pomponia in the pinacotheca adjoining the oecus,\nhe said to her,--"
+  },
+  {
+   "n": 58,
+   "para": 36,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Listen to me, Pomponia. I will go to Cæsar, though\nI judge that my visit will be useless; and though Seneca’s word means\nnothing with Nero now, I will go also to Seneca. To-day Sophonius,\nTigellinus, Petronius, or Vatinius have more influence. As to Cæsar,\nperhaps he has never even heard of the Lygian people; and if he has\ndemanded the delivery of Lygia, the hostage, he has done so because some\none persuaded him to it,--it is easy to guess who could do that.”"
+  },
+  {
+   "n": 59,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She raised her eyes to him quickly."
+  },
+  {
+   "n": 60,
+   "para": 38,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Is it Petronius?”"
+  },
+  {
+   "n": 61,
+   "para": 39,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“It is.”"
+  },
+  {
+   "n": 62,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "A moment of silence followed; then the general continued,--"
+  },
+  {
+   "n": 63,
+   "para": 40,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“See what it\nis to admit over the threshold any of those people without conscience or\nhonor. Cursed be the moment in which Vinicius entered our house, for\nhe brought Petronius. Woe to Lygia, since those men are not seeking a\nhostage, but a concubine.”"
+  },
+  {
+   "n": 64,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And his speech became more hissing than usual, because of helpless rage\nand of sorrow for his adopted daughter. He struggled with himself some\ntime, and only his clenched fists showed how severe was the struggle\nwithin him."
+  },
+  {
+   "n": 65,
+   "para": 42,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“I have revered the gods so far,”"
+  },
+  {
+   "n": 66,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he;"
+  },
+  {
+   "n": 67,
+   "para": 42,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“but at this moment I think\nthat not they are over the world, but one mad, malicious monster named\nNero.”"
+  },
+  {
+   "n": 68,
+   "para": 43,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“Aulus,”"
+  },
+  {
+   "n": 69,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Pomponia."
+  },
+  {
+   "n": 70,
+   "para": 43,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“Nero is only a handful of rotten dust before\nGod.”"
+  },
+  {
+   "n": 71,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Aulus began to walk with long steps over the mosaic of the\npinacotheca. In his life there had been great deeds, but no great\nmisfortunes; hence he was unused to them. The old soldier had grown more\nattached to Lygia than he himself had been aware of, and now he could\nnot be reconciled to the thought that he had lost her. Besides, he felt\nhumiliated. A hand was weighing on him which he despised, and at the\nsame time he felt that before its power his power was as nothing."
+  },
+  {
+   "n": 72,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But when at last he stifled in himself the anger which disturbed his\nthoughts, he said,--"
+  },
+  {
+   "n": 73,
+   "para": 45,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“I judge that Petronius has not taken her from\nus for Cæsar, since he would not offend Poppæa. Therefore he took her\neither for himself or Vinicius. Today I will discover this.”"
+  },
+  {
+   "n": 74,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And after a while the litter bore him in the direction of the Palatine.\nPomponia, when left alone, went to little Aulus, who did not cease\ncrying for his sister, or threatening Cæsar."
+  }
+ ]
+}

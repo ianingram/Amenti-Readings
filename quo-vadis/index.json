@@ -1,0 +1,521 @@
+{
+ "work": "quo-vadis",
+ "title": "Quo Vadis",
+ "author": "Henryk Sienkiewicz",
+ "first_published": 1896,
+ "source": "library/henryk-sienkiewicz/ch01.md … ch73.md in Amenti.live · Jeremiah Curtin’s translation (1896) · Project Gutenberg #2853 · public domain",
+ "note": "Seventy-three chapters. Sienkiewicz narrates; the real Romans play themselves — Petronius, Nero, Seneca, Peter, Paul, Lucan. Built in parts of about ten chapters; Part One is scripted.",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "quo-vadis/ep01.json",
+   "document": "CHAPTER 1",
+   "summary": "Petronius Wakes",
+   "status": "scripted"
+  },
+  {
+   "n": 2,
+   "file": "quo-vadis/ep02.json",
+   "document": "CHAPTER 2",
+   "summary": "The House of Aulus",
+   "status": "scripted"
+  },
+  {
+   "n": 3,
+   "file": "quo-vadis/ep03.json",
+   "document": "CHAPTER 3",
+   "summary": "The Plan",
+   "status": "scripted"
+  },
+  {
+   "n": 4,
+   "file": "quo-vadis/ep04.json",
+   "document": "CHAPTER 4",
+   "summary": "The Centurion at the Door",
+   "status": "scripted"
+  },
+  {
+   "n": 5,
+   "file": "quo-vadis/ep05.json",
+   "document": "CHAPTER 5",
+   "summary": "Seneca",
+   "status": "scripted"
+  },
+  {
+   "n": 6,
+   "file": "quo-vadis/ep06.json",
+   "document": "CHAPTER 6",
+   "summary": "Petronius and Vinicius",
+   "status": "scripted"
+  },
+  {
+   "n": 7,
+   "file": "quo-vadis/ep07.json",
+   "document": "CHAPTER 7",
+   "summary": "The Feast on the Palatine",
+   "status": "scripted"
+  },
+  {
+   "n": 8,
+   "file": "quo-vadis/ep08.json",
+   "document": "CHAPTER 8",
+   "summary": "Ursus",
+   "status": "scripted"
+  },
+  {
+   "n": 9,
+   "file": "quo-vadis/ep09.json",
+   "document": "CHAPTER 9",
+   "summary": "Poppæa in the Garden",
+   "status": "scripted"
+  },
+  {
+   "n": 10,
+   "file": "quo-vadis/ep10.json",
+   "document": "CHAPTER 10",
+   "summary": "The Litter in the Dark",
+   "status": "scripted"
+  },
+  {
+   "n": 11,
+   "file": "quo-vadis/ep11.json",
+   "document": "CHAPTER 11",
+   "summary": "Chapter 11",
+   "status": "not yet"
+  },
+  {
+   "n": 12,
+   "file": "quo-vadis/ep12.json",
+   "document": "CHAPTER 12",
+   "summary": "Chapter 12",
+   "status": "not yet"
+  },
+  {
+   "n": 13,
+   "file": "quo-vadis/ep13.json",
+   "document": "CHAPTER 13",
+   "summary": "Chapter 13",
+   "status": "not yet"
+  },
+  {
+   "n": 14,
+   "file": "quo-vadis/ep14.json",
+   "document": "CHAPTER 14",
+   "summary": "Chapter 14",
+   "status": "not yet"
+  },
+  {
+   "n": 15,
+   "file": "quo-vadis/ep15.json",
+   "document": "CHAPTER 15",
+   "summary": "Chapter 15",
+   "status": "not yet"
+  },
+  {
+   "n": 16,
+   "file": "quo-vadis/ep16.json",
+   "document": "CHAPTER 16",
+   "summary": "Chapter 16",
+   "status": "not yet"
+  },
+  {
+   "n": 17,
+   "file": "quo-vadis/ep17.json",
+   "document": "CHAPTER 17",
+   "summary": "Chapter 17",
+   "status": "not yet"
+  },
+  {
+   "n": 18,
+   "file": "quo-vadis/ep18.json",
+   "document": "CHAPTER 18",
+   "summary": "Chapter 18",
+   "status": "not yet"
+  },
+  {
+   "n": 19,
+   "file": "quo-vadis/ep19.json",
+   "document": "CHAPTER 19",
+   "summary": "Chapter 19",
+   "status": "not yet"
+  },
+  {
+   "n": 20,
+   "file": "quo-vadis/ep20.json",
+   "document": "CHAPTER 20",
+   "summary": "Chapter 20",
+   "status": "not yet"
+  },
+  {
+   "n": 21,
+   "file": "quo-vadis/ep21.json",
+   "document": "CHAPTER 21",
+   "summary": "Chapter 21",
+   "status": "not yet"
+  },
+  {
+   "n": 22,
+   "file": "quo-vadis/ep22.json",
+   "document": "CHAPTER 22",
+   "summary": "Chapter 22",
+   "status": "not yet"
+  },
+  {
+   "n": 23,
+   "file": "quo-vadis/ep23.json",
+   "document": "CHAPTER 23",
+   "summary": "Chapter 23",
+   "status": "not yet"
+  },
+  {
+   "n": 24,
+   "file": "quo-vadis/ep24.json",
+   "document": "CHAPTER 24",
+   "summary": "Chapter 24",
+   "status": "not yet"
+  },
+  {
+   "n": 25,
+   "file": "quo-vadis/ep25.json",
+   "document": "CHAPTER 25",
+   "summary": "Chapter 25",
+   "status": "not yet"
+  },
+  {
+   "n": 26,
+   "file": "quo-vadis/ep26.json",
+   "document": "CHAPTER 26",
+   "summary": "Chapter 26",
+   "status": "not yet"
+  },
+  {
+   "n": 27,
+   "file": "quo-vadis/ep27.json",
+   "document": "CHAPTER 27",
+   "summary": "Chapter 27",
+   "status": "not yet"
+  },
+  {
+   "n": 28,
+   "file": "quo-vadis/ep28.json",
+   "document": "CHAPTER 28",
+   "summary": "Chapter 28",
+   "status": "not yet"
+  },
+  {
+   "n": 29,
+   "file": "quo-vadis/ep29.json",
+   "document": "CHAPTER 29",
+   "summary": "Chapter 29",
+   "status": "not yet"
+  },
+  {
+   "n": 30,
+   "file": "quo-vadis/ep30.json",
+   "document": "CHAPTER 30",
+   "summary": "Chapter 30",
+   "status": "not yet"
+  },
+  {
+   "n": 31,
+   "file": "quo-vadis/ep31.json",
+   "document": "CHAPTER 31",
+   "summary": "Chapter 31",
+   "status": "not yet"
+  },
+  {
+   "n": 32,
+   "file": "quo-vadis/ep32.json",
+   "document": "CHAPTER 32",
+   "summary": "Chapter 32",
+   "status": "not yet"
+  },
+  {
+   "n": 33,
+   "file": "quo-vadis/ep33.json",
+   "document": "CHAPTER 33",
+   "summary": "Chapter 33",
+   "status": "not yet"
+  },
+  {
+   "n": 34,
+   "file": "quo-vadis/ep34.json",
+   "document": "CHAPTER 34",
+   "summary": "Chapter 34",
+   "status": "not yet"
+  },
+  {
+   "n": 35,
+   "file": "quo-vadis/ep35.json",
+   "document": "CHAPTER 35",
+   "summary": "Chapter 35",
+   "status": "not yet"
+  },
+  {
+   "n": 36,
+   "file": "quo-vadis/ep36.json",
+   "document": "CHAPTER 36",
+   "summary": "Chapter 36",
+   "status": "not yet"
+  },
+  {
+   "n": 37,
+   "file": "quo-vadis/ep37.json",
+   "document": "CHAPTER 37",
+   "summary": "Chapter 37",
+   "status": "not yet"
+  },
+  {
+   "n": 38,
+   "file": "quo-vadis/ep38.json",
+   "document": "CHAPTER 38",
+   "summary": "Chapter 38",
+   "status": "not yet"
+  },
+  {
+   "n": 39,
+   "file": "quo-vadis/ep39.json",
+   "document": "CHAPTER 39",
+   "summary": "Chapter 39",
+   "status": "not yet"
+  },
+  {
+   "n": 40,
+   "file": "quo-vadis/ep40.json",
+   "document": "CHAPTER 40",
+   "summary": "Chapter 40",
+   "status": "not yet"
+  },
+  {
+   "n": 41,
+   "file": "quo-vadis/ep41.json",
+   "document": "CHAPTER 41",
+   "summary": "Chapter 41",
+   "status": "not yet"
+  },
+  {
+   "n": 42,
+   "file": "quo-vadis/ep42.json",
+   "document": "CHAPTER 42",
+   "summary": "Chapter 42",
+   "status": "not yet"
+  },
+  {
+   "n": 43,
+   "file": "quo-vadis/ep43.json",
+   "document": "CHAPTER 43",
+   "summary": "Chapter 43",
+   "status": "not yet"
+  },
+  {
+   "n": 44,
+   "file": "quo-vadis/ep44.json",
+   "document": "CHAPTER 44",
+   "summary": "Chapter 44",
+   "status": "not yet"
+  },
+  {
+   "n": 45,
+   "file": "quo-vadis/ep45.json",
+   "document": "CHAPTER 45",
+   "summary": "Chapter 45",
+   "status": "not yet"
+  },
+  {
+   "n": 46,
+   "file": "quo-vadis/ep46.json",
+   "document": "CHAPTER 46",
+   "summary": "Chapter 46",
+   "status": "not yet"
+  },
+  {
+   "n": 47,
+   "file": "quo-vadis/ep47.json",
+   "document": "CHAPTER 47",
+   "summary": "Chapter 47",
+   "status": "not yet"
+  },
+  {
+   "n": 48,
+   "file": "quo-vadis/ep48.json",
+   "document": "CHAPTER 48",
+   "summary": "Chapter 48",
+   "status": "not yet"
+  },
+  {
+   "n": 49,
+   "file": "quo-vadis/ep49.json",
+   "document": "CHAPTER 49",
+   "summary": "Chapter 49",
+   "status": "not yet"
+  },
+  {
+   "n": 50,
+   "file": "quo-vadis/ep50.json",
+   "document": "CHAPTER 50",
+   "summary": "Chapter 50",
+   "status": "not yet"
+  },
+  {
+   "n": 51,
+   "file": "quo-vadis/ep51.json",
+   "document": "CHAPTER 51",
+   "summary": "Chapter 51",
+   "status": "not yet"
+  },
+  {
+   "n": 52,
+   "file": "quo-vadis/ep52.json",
+   "document": "CHAPTER 52",
+   "summary": "Chapter 52",
+   "status": "not yet"
+  },
+  {
+   "n": 53,
+   "file": "quo-vadis/ep53.json",
+   "document": "CHAPTER 53",
+   "summary": "Chapter 53",
+   "status": "not yet"
+  },
+  {
+   "n": 54,
+   "file": "quo-vadis/ep54.json",
+   "document": "CHAPTER 54",
+   "summary": "Chapter 54",
+   "status": "not yet"
+  },
+  {
+   "n": 55,
+   "file": "quo-vadis/ep55.json",
+   "document": "CHAPTER 55",
+   "summary": "Chapter 55",
+   "status": "not yet"
+  },
+  {
+   "n": 56,
+   "file": "quo-vadis/ep56.json",
+   "document": "CHAPTER 56",
+   "summary": "Chapter 56",
+   "status": "not yet"
+  },
+  {
+   "n": 57,
+   "file": "quo-vadis/ep57.json",
+   "document": "CHAPTER 57",
+   "summary": "Chapter 57",
+   "status": "not yet"
+  },
+  {
+   "n": 58,
+   "file": "quo-vadis/ep58.json",
+   "document": "CHAPTER 58",
+   "summary": "Chapter 58",
+   "status": "not yet"
+  },
+  {
+   "n": 59,
+   "file": "quo-vadis/ep59.json",
+   "document": "CHAPTER 59",
+   "summary": "Chapter 59",
+   "status": "not yet"
+  },
+  {
+   "n": 60,
+   "file": "quo-vadis/ep60.json",
+   "document": "CHAPTER 60",
+   "summary": "Chapter 60",
+   "status": "not yet"
+  },
+  {
+   "n": 61,
+   "file": "quo-vadis/ep61.json",
+   "document": "CHAPTER 61",
+   "summary": "Chapter 61",
+   "status": "not yet"
+  },
+  {
+   "n": 62,
+   "file": "quo-vadis/ep62.json",
+   "document": "CHAPTER 62",
+   "summary": "Chapter 62",
+   "status": "not yet"
+  },
+  {
+   "n": 63,
+   "file": "quo-vadis/ep63.json",
+   "document": "CHAPTER 63",
+   "summary": "Chapter 63",
+   "status": "not yet"
+  },
+  {
+   "n": 64,
+   "file": "quo-vadis/ep64.json",
+   "document": "CHAPTER 64",
+   "summary": "Chapter 64",
+   "status": "not yet"
+  },
+  {
+   "n": 65,
+   "file": "quo-vadis/ep65.json",
+   "document": "CHAPTER 65",
+   "summary": "Chapter 65",
+   "status": "not yet"
+  },
+  {
+   "n": 66,
+   "file": "quo-vadis/ep66.json",
+   "document": "CHAPTER 66",
+   "summary": "Chapter 66",
+   "status": "not yet"
+  },
+  {
+   "n": 67,
+   "file": "quo-vadis/ep67.json",
+   "document": "CHAPTER 67",
+   "summary": "Chapter 67",
+   "status": "not yet"
+  },
+  {
+   "n": 68,
+   "file": "quo-vadis/ep68.json",
+   "document": "CHAPTER 68",
+   "summary": "Chapter 68",
+   "status": "not yet"
+  },
+  {
+   "n": 69,
+   "file": "quo-vadis/ep69.json",
+   "document": "CHAPTER 69",
+   "summary": "Chapter 69",
+   "status": "not yet"
+  },
+  {
+   "n": 70,
+   "file": "quo-vadis/ep70.json",
+   "document": "CHAPTER 70",
+   "summary": "Chapter 70",
+   "status": "not yet"
+  },
+  {
+   "n": 71,
+   "file": "quo-vadis/ep71.json",
+   "document": "CHAPTER 71",
+   "summary": "Chapter 71",
+   "status": "not yet"
+  },
+  {
+   "n": 72,
+   "file": "quo-vadis/ep72.json",
+   "document": "CHAPTER 72",
+   "summary": "Chapter 72",
+   "status": "not yet"
+  },
+  {
+   "n": 73,
+   "file": "quo-vadis/ep73.json",
+   "document": "CHAPTER 73",
+   "summary": "Chapter 73",
+   "status": "not yet"
+  }
+ ]
+}

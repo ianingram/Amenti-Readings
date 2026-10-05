@@ -1,0 +1,108 @@
+{
+  "_file": "Amenti-Readings/quo-vadis/sound.json",
+  "_updated": "2026-10-05 23:00 UTC",
+  "work": "quo-vadis",
+  "note": "A MODERN SCORE THAT TELLS THE STORY, a different sound world for each kind of scene: opulence (eastern, sensual — the baths, Petronius, the luxury of the court), Lygia (spare piano and a string halo), Vinicius (a driving string ostinato, the cellos rising), the court (low brass clusters, a sliding bassoon, dripping pizzicato — Nero and Poppæa), faith (a warm string chorale — the Christians); later the arena (martial) and the fire (modern, 4/4). Rome in the reign of Nero. Part One: Petronius’s baths, the Roman house round its impluvium, Aulus’s garden, the streets of the city, Nero’s feast on the Palatine with lyre, aulos and frame drum over the banquet’s roar, the palace at night.",
+  "files": {
+    "base": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/",
+    "beds": {
+      "baths": "baths.mp3",
+      "domus": "domus.mp3",
+      "garden": "garden.mp3",
+      "rome_street": "rome-street.mp3",
+      "feast": "feast.mp3",
+      "palace_night": "palace-night.mp3"
+    },
+    "oneshots": {
+      "knock": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/knock.mp3",
+      "applause": "applause.mp3",
+      "cheer": "cheer.mp3"
+    },
+    "score": {
+      "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3",
+      "opulence": "score-opulence.mp3",
+      "lygia": "score-lygia.mp3",
+      "vinicius": "score-vinicius.mp3",
+      "court": "score-court.mp3",
+      "faith": "score-faith.mp3"
+    },
+    "levels": {
+      "dread": 0.26,
+      "opulence": 0.42,
+      "lygia": 0.42,
+      "vinicius": 0.38,
+      "court": 0.4,
+      "faith": 0.4
+    }
+  },
+  "beds": {
+    "baths": {},
+    "domus": {},
+    "garden": {},
+    "rome_street": {},
+    "feast": {},
+    "palace_night": {}
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "bed": "baths",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 2,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 3,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 4,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 5,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 6,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 7,
+      "bed": "feast",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 8,
+      "bed": "palace_night",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 9,
+      "bed": "garden",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 10,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    }
+  ]
+}

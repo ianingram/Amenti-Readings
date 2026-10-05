@@ -1,0 +1,264 @@
+{
+ "work": "quo-vadis",
+ "episode": 5,
+ "chapter": 5,
+ "title": "Seneca",
+ "document": "PART ONE · CHAPTER V",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch05.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Seneca",
+   "cast_as": "Seneca the Younger"
+  },
+  {
+   "role": "Aulus Plautius",
+   "cast_as": "Vespasian"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER V"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "AULUS had judged rightly that he would not be admitted to Nero’s\npresence. They told him that Cæsar was occupied in singing with the\nlute-player, Terpnos, and that in general he did not receive those whom\nhe himself had not summoned. In other words, that Aulus must not attempt\nin future to see him."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Seneca, though ill with a fever, received the old general with due\nhonor; but when he had heard what the question was, he laughed bitterly,\nand said,--"
+  },
+  {
+   "n": 4,
+   "score": {
+    "key": "court",
+    "at": "I can render thee only one service, noble Plautius",
+    "xfade": 6
+   },
+   "para": 2,
+   "role": "Seneca",
+   "cast": "Seneca the Younger",
+   "text": "“I can render thee only one service, noble Plautius, not to\nshow Cæsar at any time that my heart feels thy pain, or that I should\nlike to aid thee; for should Cæsar have the least suspicion on this\nhead, know that he would not give thee back Lygia, though for no other\nreason than to spite me.”"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He did not advise him, either, to go to Tigellinus or Vatinius or\nVitelius. It might be possible to do something with them through money;\nperhaps, also, they would like to do evil to Petronius, whose influence\nthey were trying to undermine, but most likely they would disclose\nbefore Nero how dear Lygia was to Plautius, and then Nero would all the\nmore resolve not to yield her to him. Here the old sage began to speak\nwith a biting irony, which he turned against himself:"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Seneca",
+   "cast": "Seneca the Younger",
+   "text": "“Thou hast been\nsilent, Plautius, thou hast been silent for whole years, and Cæsar does\nnot like those who are silent. How couldst thou help being carried\naway by his beauty, his virtue, his singing, his declamation, his\nchariot-driving, and his verses? Why didst thou not glorify the death\nof Britannicus, and repeat panegyrics in honor of the mother-slayer,\nand not offer congratulations after the stifling of Octavia? Thou art\nlacking in foresight, Aulus, which we who live happily at the court\npossess in proper measure.”"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Thus speaking, he raised a goblet which he carried at his belt, took\nwater from a fountain at the impluvium, freshened his burning lips, and\ncontinued,--"
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Seneca",
+   "cast": "Seneca the Younger",
+   "text": "“Ah, Nero has a grateful heart. He loves thee because thou\nhast served Rome and glorified its name at the ends of the earth; he\nloves me because I was his master in youth. Therefore, seest thou, I\nknow that this water is not poisoned, and I drink it in peace. Wine in\nmy own house would be less reliable. If thou art thirsty, drink boldly\nof this water. The aqueducts bring it from beyond the Alban hills, and\nany one wishing to poison it would have to poison every fountain in\nRome. As thou seest, it is possible yet to be safe in this world and to\nhave a quiet old age. I am sick, it is true, but rather in soul than in\nbody.”"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "This was true. Seneca lacked the strength of soul which Cornutus\npossessed, for example, or Thrasea; hence his life was a series of\nconcessions to crime. He felt this himself; he understood that an\nadherent of the principles of Zeno, of Citium, should go by another\nroad, and he suffered more from that cause than from the fear of death\nitself."
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But the general interrupted these reflections full of grief."
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Noble Annæus,” said he, “I know how Cæsar rewarded thee for the care\nwith which thou didst surround his years of youth. But the author of\nthe removal of Lygia is Petronius. Indicate to me a method against him,\nindicate the influences to which he yields, and use besides with him all\nthe eloquence with which friendship for me of long standing can inspire\nthee.”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Seneca",
+   "cast": "Seneca the Younger",
+   "text": "“Petronius and I,”"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Seneca,"
+  },
+  {
+   "n": 14,
+   "para": 8,
+   "role": "Seneca",
+   "cast": "Seneca the Younger",
+   "text": "“are men of two opposite camps; I\nknow of no method against him, he yields to no man’s influence. Perhaps\nwith all his corruption he is worthier than those scoundrels with whom\nNero surrounds himself at present. But to show him that he has done an\nevil deed is to lose time simply. Petronius has lost long since that\nfaculty which distinguishes good from evil. Show him that his act is\nugly, he will be ashamed of it. When I see him, I will say, ‘Thy act is\nworthy of a freedman.’ If that will not help thee, nothing can.”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thanks for that, even,” answered the general."
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he gave command to carry him to the house of Vinicius, whom he\nfound at sword practice with his domestic trainer. Aulus was borne away\nby terrible anger at sight of the young man occupied calmly with fencing\nduring the attack on Lygia; and barely had the curtain dropped\nbehind the trainer when this anger burst forth in a torrent of bitter\nreproaches and injuries. But Vinicius, when he learned that Lygia had\nbeen carried away, grew so terribly pale that Aulus could not for even\nan instant suspect him of sharing in the deed. The young man’s forehead\nwas covered with sweat; the blood, which had rushed to his heart for a\nmoment, returned to his face in a burning wave; his eyes began to shoot\nsparks, his mouth to hurl disconnected questions. Jealousy and rage\ntossed him in turn, like a tempest. It seemed to him that Lygia,\nonce she had crossed the threshold of Cæsar’s house, was lost to him\nabsolutely. When Aulus pronounced the name of Petronius, suspicion flew\nlike a lightning flash through the young soldier’s mind, that Petronius\nhad made sport of him, and either wanted to win new favor from Nero by\nthe gift of Lygia, or keep her for himself. That any one who had seen\nLygia would not desire her at once, did not find a place in his head.\nImpetuousness, inherited in his family, carried him away like a wild\nhorse, and took from him presence of mind."
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Seneca",
+   "cast": "Seneca the Younger",
+   "text": "“General,”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, with a broken voice,"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Seneca",
+   "cast": "Seneca the Younger",
+   "text": "“return home and wait for me.\nKnow that if Petronius were my own father, I would avenge on him the\nwrong done to Lygia. Return home and wait for me. Neither Petronius nor\nCæsar will have her.”"
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he went with clinched fists to the waxed masks standing clothed in\nthe atrium, and burst out,--"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“By those mortal masks! I would rather kill\nher and myself.”"
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When he had said this, he sent another"
+  },
+  {
+   "n": 23,
+   "para": 12,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Wait for me”"
+  },
+  {
+   "n": 24,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "after Aulus, then ran forth like a madman from the atrium, and flew to\nPetronius’s house, thrusting pedestrians aside on the way."
+  },
+  {
+   "n": 25,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Aulus returned home with a certain encouragement. He judged that if\nPetronius had persuaded Cæsar to take Lygia to give her to Vinicius,\nVinicius would bring her to their house. Finally, the thought was no\nlittle consolation to him, that should Lygia not be rescued she would be\navenged and protected by death from disgrace. He believed that Vinicius\nwould do everything that he had promised. He had seen his rage, and he\nknew the excitability innate in the whole family. He himself, though he\nloved Lygia as her own father, would rather kill her than give her\nto Cæsar; and had he not regarded his son, the last descendant of his\nstock, he would doubtless have done so. Aulus was a soldier; he had\nhardly heard of the Stoics, but in character he was not far from their\nideas,--death was more acceptable to his pride than disgrace."
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When he returned home, he pacified Pomponia, gave her the consolation\nthat he had, and both began to await news from Vinicius. At moments when\nthe steps of some of the slaves were heard in the atrium, they thought\nthat perhaps Vinicius was bringing their beloved child to them, and\nthey were ready in the depth of their souls to bless both. Time passed,\nhowever, and no news came. Only in the evening was the hammer heard on\nthe gate."
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After a while a slave entered and handed Aulus a letter. The old\ngeneral, though he liked to show command over himself, took it with a\nsomewhat trembling hand, and began to read as hastily as if it were a\nquestion of his whole house."
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "All at once his face darkened, as if a shadow from a passing cloud had\nfallen on it."
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Seneca",
+   "cast": "Seneca the Younger",
+   "text": "“Read,”"
+  },
+  {
+   "n": 30,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, turning to Pomponia."
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Pomponia took the letter and read as follows:--"
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Marcus Vinicius to Aulus Plautius greeting. What has happened, has\nhappened by the will of Cæsar, before which incline your heads, as I and\nPetronius incline ours.”"
+  },
+  {
+   "n": 33,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "A long silence followed."
+  }
+ ]
+}

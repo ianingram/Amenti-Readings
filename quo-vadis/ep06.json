@@ -1,0 +1,264 @@
+{
+ "work": "quo-vadis",
+ "episode": 6,
+ "chapter": 6,
+ "title": "Petronius and Vinicius",
+ "document": "PART ONE · CHAPTER VI",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch06.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER VI"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "PETRONIUS was at home. The doorkeeper did not dare to stop Vinicius, who\nburst into the atrium like a storm, and, learning that the master of\nthe house was in the library, he rushed into the library with the same\nimpetus. Finding Petronius writing, he snatched the reed from his hand,\nbroke it, trampled the reed on the floor, then fixed his fingers into\nhis shoulder, and, approaching his face to that of his uncle, asked,\nwith a hoarse voice,--"
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“What hast thou done with her? Where is she?”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Suddenly an amazing thing happened. That slender and effeminate\nPetronius seized the hand of the youthful athlete, which was grasping\nhis shoulder, then seized the other, and, holding them both in his one\nhand with the grip of an iron vice, he said,--"
+  },
+  {
+   "n": 5,
+   "score": {
+    "key": "opulence",
+    "at": "I am incapable only in the morning",
+    "xfade": 6
+   },
+   "para": 2,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I am incapable only in\nthe morning; in the evening I regain my former strength. Try to\nescape. A weaver must have taught thee gymnastics, and a blacksmith thy\nmanners.”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "On his face not even anger was evident, but in his eyes there was a\ncertain pale reflection of energy and daring. After a while he let\nthe hands of Vinicius drop. Vinicius stood before him shamefaced and\nenraged."
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thou hast a steel hand,” said he; “but if thou hast betrayed me, I\nswear, by all the infernal gods, that I will thrust a knife into thy\nbody, though thou be in the chambers of Cæsar.”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Let us talk calmly,”"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius."
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Steel is stronger, as thou seest,\nthan iron; hence, though out of one of thy arms two as large as mine\nmight be made, I have no need to fear thee. On the contrary, I grieve\nover thy rudeness, and if the ingratitude of men could astonish me yet,\nI should be astonished at thy ingratitude.”"
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Where is Lygia?”"
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“In a brothel,--that is, in the house of Cæsar.”"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Petronius!”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Calm thyself, and be seated. I asked Cæsar for two things, which he\npromised me,--first, to take Lygia from the house of Aulus, and second\nto give her to thee. Hast thou not a knife there under the folds of thy\ntoga? Perhaps thou wilt stab me! But I advise thee to wait a couple of\ndays, for thou wouldst be taken to prison, and meanwhile Lygia would be\nwearied in thy house.”"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Silence followed. Vinicius looked for some time with astonished eyes on\nPetronius; then he said,--"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Pardon me; I love her, and love is disturbing\nmy faculties.”"
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Look at me, Marcus. The day before yesterday I spoke to Cæsar as\nfollows: ‘My sister’s son, Vinicius, has so fallen in love with a lean\nlittle girl who is being reared with the Auluses that his house is\nturned into a steambath from sighs. Neither thou, O Cæsar, nor I--we who\nknow, each of us, what true beauty is--would give a thousand sesterces\nfor her; but that lad has ever been as dull as a tripod, and now he has\nlost all the wit that was in him.’”"
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Petronius!”"
+  },
+  {
+   "n": 19,
+   "para": 13,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“If thou understand not that I said this to insure Lygia’s safety, I am\nready to believe that I told the truth. I persuaded Bronzebeard that a\nman of his æsthetic nature could not consider such a girl beautiful; and\nNero, who so far has not dared to look otherwise than through my eyes,\nwill not find in her beauty, and, not finding it, will not desire her.\nIt was necessary to insure ourselves against the monkey and take him\non a rope. Not he, but Poppæa, will value Lygia now; and Poppæa will\nstrive, of course, to send the girl out of the palace at the earliest.\nI said further to Bronzebeard, in passing: ‘Take Lygia and give her to\nVinicius! Thou hast the right to do so, for she is a hostage; and if\nthou take her, thou wilt inflict pain on Aulus.’ He agreed; he had not\nthe least reason not to agree, all the more since I gave him a chance\nto annoy decent people. They will make thee official guardian of the\nhostage, and give into thy hands that Lygian treasure; thou, as a friend\nof the valiant Lygians, and also a faithful servant of Cæsar, wilt not\nwaste any of the treasure, but wilt strive to increase it. Cæsar, to\npreserve appearances, will keep her a few days in his house, and then\nsend her to thy insula. Lucky man!”"
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Is this true? Does nothing threaten her there in Cæsar’s house?”"
+  },
+  {
+   "n": 21,
+   "para": 15,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“If she had to live there permanently, Poppæa would talk about her to\nLocusta, but for a few days there is no danger. Ten thousand people\nlive in it. Nero will not see her, perhaps, all the more since he left\neverything to me, to the degree that just now the centurion was here\nwith information that he had conducted the maiden to the palace and\ncommitted her to Acte. She is a good soul, that Acte; hence I gave\ncommand to deliver Lygia to her. Clearly Pomponia Græcina is of that\nopinion too, for she wrote to Acte. To-morrow there is a feast at\nNero’s. I have requested a place for thee at the side of Lygia.”"
+  },
+  {
+   "n": 22,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Pardon me, Caius, my hastiness. I judged that thou hadst given command\nto take her for thyself or for Cæsar.”"
+  },
+  {
+   "n": 23,
+   "para": 17,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I can forgive thy hastiness; but it is more difficult to forgive rude\ngestures, vulgar shouts, and a voice reminding one of players at mora. I\ndo not like that style, Marcus, and do thou guard against it. Know that\nTigellinus is Cæsar’s pander; but know also that if I wanted the\ngirl for myself now, looking thee straight in the eyes, I would say,\n‘Vinicius! I take Lygia from thee and I will keep her till I am tired of\nher.”"
+  },
+  {
+   "n": 24,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Thus speaking, he began to look with his hazel eyes straight into the\neyes of Vinicius with a cold and insolent stare. The young man lost\nhimself completely."
+  },
+  {
+   "n": 25,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“The fault is mine,” said he. “Thou art kind and worthy. I thank thee\nfrom my whole soul. Permit me only to put one more question: Why didst\nthou not have Lygia sent directly to my house?”"
+  },
+  {
+   "n": 26,
+   "para": 20,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Because Cæsar wishes to preserve appearances. People in Rome will talk\nabout this,--that we removed Lygia as a hostage. While they are talking,\nshe will remain in Cæsar’s palace. Afterward she will be removed quietly\nto thy house, and that will be the end. Bronzebeard is a cowardly\ncur. He knows that his power is unlimited, and still he tries to give\nspecious appearances to every act. Hast thou recovered to the degree of\nbeing able to philosophize a little? More than once have I thought, Why\ndoes crime, even when as powerful as Cæsar, and assured of being beyond\npunishment, strive always for the appearances of truth, justice, and\nvirtue? Why does it take the trouble? I consider that to murder a\nbrother, a mother, a wife, is a thing worthy of some petty Asiatic king,\nnot a Roman Cæsar; but if that position were mine, I should not write\njustifying letters to the Senate. But Nero writes. Nero is looking for\nappearances, for Nero is a coward. But Tiberius was not a coward;\nstill he justified every step he took. Why is this? What a marvellous,\ninvoluntary homage paid to virtue by evil! And knowest thou what strikes\nme? This, that it is done because transgression is ugly and virtue\nis beautiful. Therefore a man of genuine æsthetic feeling is also a\nvirtuous man. Hence I am virtuous. To-day I must pour out a little\nwine to the shades of Protagoras, Prodicus, and Gorgias. It seems that\nsophists too can be of service. Listen, for I am speaking yet. I took\nLygia from Aulus to give her to thee. Well. But Lysippus would have made\nwonderful groups of her and thee. Ye are both beautiful; therefore my\nact is beautiful, and being beautiful it cannot be bad. Marcus, here\nsitting before thee is virtue incarnate in Caius Petronius! If Aristides\nwere living, it would be his duty to come to me and offer a hundred minæ\nfor a short treatise on virtue.”"
+  },
+  {
+   "n": 27,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Vinicius, as a man more concerned with reality than with treatises\non virtue, replied,--"
+  },
+  {
+   "n": 28,
+   "para": 21,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“To-morrow I shall see Lygia, and then have her in\nmy house daily, always, and till death.”"
+  },
+  {
+   "n": 29,
+   "para": 22,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou wilt have Lygia, and I shall have Aulus on my head. He will summon\nthe vengeance of all the infernal gods against me. And if the beast\nwould take at least a preliminary lesson in good declamation! He will\nblame me, however, as my former doorkeeper blamed my clients but him I\nsent to prison in the country.”"
+  },
+  {
+   "n": 30,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Aulus has been at my house. I promised to give him news of Lygia.”"
+  },
+  {
+   "n": 31,
+   "para": 24,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Write to him that the will of the ‘divine’ Cæsar is the highest law,\nand that thy first son will bear the name Aulus. It is necessary that\nthe old man should have some consolation. I am ready to pray Bronzebeard\nto invite him to-morrow to the feast. Let him see thee in the triclinium\nnext to Lygia.”"
+  },
+  {
+   "n": 32,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Do not do that. I am sorry for them, especially for Pomponia.”"
+  },
+  {
+   "n": 33,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he sat down to write that letter which took from the old general the\nremnant of his hope."
+  }
+ ]
+}

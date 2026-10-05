@@ -1,0 +1,505 @@
+{
+ "work": "quo-vadis",
+ "episode": 10,
+ "chapter": 10,
+ "title": "The Litter in the Dark",
+ "document": "PART ONE · CHAPTER X",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch10.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER X"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "vinicius",
+    "at": "THE house of Vinicius was indeed decked in the green of myrt",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "THE house of Vinicius was indeed decked in the green of myrtle and ivy,\nwhich had been hung on the walls and over the doors. The columns were\nwreathed with grape vine. In the atrium, which was closed above by a\npurple woollen cloth as protection from the night cold, it was as clear\nas in daylight. Eight and twelve flamed lamps were burning; these were\nlike vessels, trees, animals, birds, or statues, holding cups filled\nwith perfumed olive oil, lamps of alabaster, marble, or gilded\nCorinthian bronze, not so wonderful as that famed candlestick used by\nNero and taken from the temple of Apollo, but beautiful and made by\nfamous masters. Some of the lights were shaded by Alexandrian glass,\nor transparent stuffs from the Indus, of red, blue, yellow, or violet\ncolor, so that the whole atrium was filled with many colored rays.\nEverywhere was given out the odor of nard, to which Vinicius had grown\nused, and which he had learned to love in the Orient. The depths of the\nhouse, in which the forms of male and female slaves were moving, gleamed\nalso with light. In the triclinium a table was laid for four persons.\nAt the feast were to sit, besides Vinicius and Lygia, Petronius\nand Chrysothemis. Vinicius had followed in everything the words of\nPetronius, who advised him not to go for Lygia, but to send Atacinus\nwith the permission obtained from Cæsar, to receive her himself in the\nhouse, receive her with friendliness and even with marks of honor."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thou wert drunk yesterday,” said he; “I saw thee. Thou didst act with\nher like a quarryman from the Alban Hills. Be not over-insistent, and\nremember that one should drink good wine slowly. Know too that it is\nsweet to desire, but sweeter to be desired.”"
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chrysothemis had her own and a somewhat different opinion on this point;\nbut Petronius, calling her his vestal and his dove, began to explain the\ndifference which must exist between a trained charioteer of the Circus\nand the youth who sits on the quadriga for the first time. Then, turning\nto Vinicius, he continued,--"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Win her confidence, make her joyful, be\nmagnanimous. I have no wish to see a gloomy feast. Swear to her, by\nHades even, that thou wilt return her to Pomponia, and it will be thy\naffair that to-morrow she prefers to stay with thee.”"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then pointing to Chrysothemis, he added,--"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“For five years I have acted\nthus more or less with this timid dove, and I cannot complain of her\nharshness.”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chrysothemis struck him with her fan of peacock feathers, and\nsaid,--“But I did not resist, thou satyr!”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Out of consideration for my predecessor--”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“But wert thou not at my feet?”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Yes; to put rings on thy toes.”"
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chrysothemis looked involuntarily at her feet, on the toes of which\ndiamonds were really glittering; and she and Petronius began to laugh.\nBut Vinicius did not give ear to their bantering. His heart was beating\nunquietly under the robes of a Syrian priest, in which he had arrayed\nhimself to receive Lygia."
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“They must have left the palace,”"
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, as if in a monologue."
+  },
+  {
+   "n": 15,
+   "para": 11,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“They must,”"
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius."
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Meanwhile I may mention the\npredictions of Apollonius of Tyana, or that history of Rufinus which I\nhave not finished, I do not remember why.”"
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Vinicius cared no more for Apollonius of Tyana than for the history\nof Rufinus. His mind was with Lygia; and though he felt that it was more\nappropriate to receive her at home than to go in the rôle of a myrmidon\nto the palace, he was sorry at moments that he had not gone, for the\nsingle reason that he might have seen her sooner, and sat near her in\nthe dark, in the double litter."
+  },
+  {
+   "n": 19,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile slaves brought in a tripod ornamented with rams’ heads, bronze\ndishes with coals, on which they sprinkled bits of myrrh and nard."
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Now they are turning toward the Carinæ,”"
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius, again."
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“He cannot wait; he will run to meet the litter, and is likely to miss\nthem!” exclaimed Chrysothemis."
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius smiled without thinking, and said,--"
+  },
+  {
+   "n": 24,
+   "para": 16,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“On the contrary, I will\nwait.”"
+  },
+  {
+   "n": 25,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But he distended his nostrils and panted; seeing which, Petronius\nshrugged his shoulders, and said,--"
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“There is not in him a philosopher to\nthe value of one sestertium, and I shall never make a man of that son of\nMars.”"
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“They are now in the Carinæ.”"
+  },
+  {
+   "n": 28,
+   "bed": "rome_street",
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In fact, they were turning toward the Carinæ. The slaves called\nlampadarii were in front; others called pedisequii, were on both sides\nof the litter. Atacinus was right behind, overseeing the advance. But\nthey moved slowly, for lamps showed the way badly in a place not lighted\nat all. The streets near the palace were empty; here and there only\nsome man moved forward with a lantern, but farther on the place was\nuncommonly crowded. From almost every alley people were pushing out in\nthrees and fours, all without lamps, all in dark mantles. Some walked on\nwith the procession, mingling with the slaves; others in greater numbers\ncame from the opposite direction. Some staggered as if drunk. At moments\nthe advance grew so difficult that the lampadarii cried,--“Give way to\nthe noble tribune, Marcus Vinicius!”"
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia saw those dark crowds through the curtains which were pushed\naside, and trembled with emotion. She was carried away at one moment by\nhope, at another by fear."
+  },
+  {
+   "n": 30,
+   "para": 21,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“That is he!--that is Ursus and the Christians! Now it will happen\nquickly,”"
+  },
+  {
+   "n": 31,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said she, with trembling lips."
+  },
+  {
+   "n": 32,
+   "para": 21,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“O Christ, aid! O Christ,\nsave!”"
+  },
+  {
+   "n": 33,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Atacinus himself, who at first did not notice the uncommon animation of\nthe street, began at last to be alarmed. There was something strange in\nthis. The lampadarii had to cry oftener and oftener, “Give way to the\nlitter of the noble tribune!” From the sides unknown people crowded up\nto the litter so much that Atacinus commanded the slaves to repulse them\nwith clubs."
+  },
+  {
+   "n": 34,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Suddenly a cry was heard in front of the procession. In one instant all\nthe lights were extinguished. Around the litter came a rush, an uproar,\na struggle."
+  },
+  {
+   "n": 35,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Atacinus saw that this was simply an attack; and when he saw it he was\nfrightened. It was known to all that Cæsar with a crowd of attendants\nmade attacks frequently for amusement in the Subura and in other parts\nof the city. It was known that even at times he brought out of these\nnight adventures black and blue spots; but whoso defended himself went\nto his death, even if a senator. The house of the guards, whose duty it\nwas to watch over the city, was not very far; but during such attacks\nthe guards feigned to be deaf and blind."
+  },
+  {
+   "n": 36,
+   "score": {
+    "key": "dread",
+    "at": "Meanwhile there was an uproar around the litter",
+    "xfade": 3
+   },
+   "sfx": [
+    {
+     "key": "cheer",
+     "at": "Meanwhile there was an uproar around the litter",
+     "offset": 0.5
+    }
+   ],
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile there was an uproar around the litter; people struck,\nstruggled, threw, and trampled one another. The thought flashed on\nAtacinus to save Lygia and himself, above all, and leave the rest to\ntheir fate. So, drawing her out of the litter, he took her in his arms\nand strove to escape in the darkness."
+  },
+  {
+   "n": 37,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Lygia called,"
+  },
+  {
+   "n": 38,
+   "para": 26,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Ursus! Ursus!”"
+  },
+  {
+   "n": 39,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She was dressed in white; hence it was easy to see her. Atacinus, with\nhis other arm, which was free, was throwing his own mantle over\nher hastily, when terrible claws seized his neck, and on his head a\ngigantic, crushing mass fell like a stone."
+  },
+  {
+   "n": 40,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He dropped in one instant, as an ox felled by the back of an axe before\nthe altar of Jove."
+  },
+  {
+   "n": 41,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The slaves for the greater part were either lying on the ground, or had\nsaved themselves by scattering in the thick darkness, around the turns\nof the walls. On the spot remained only the litter, broken in the\nonset. Ursus bore away Lygia to the Subura; his comrades followed him,\ndispersing gradually along the way."
+  },
+  {
+   "n": 42,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The slaves assembled before the house of Vinicius, and took counsel.\nThey had not courage to enter. After a short deliberation they returned\nto the place of conflict, where they found a few corpses, and among\nthem Atacinus. He was quivering yet; but, after a moment of more violent\nconvulsion, he stretched and was motionless."
+  },
+  {
+   "n": 43,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They took him then, and, returning, stopped before the gate a second\ntime. But they must declare to their lord what had happened."
+  },
+  {
+   "n": 44,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Let Gulo declare it,” whispered some voices; “blood is flowing from his\nface as from ours; and the master loves him; it is safer for Gulo than\nfor others.”"
+  },
+  {
+   "n": 45,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Gulo, a German, an old slave, who had nursed Vinicius, and was inherited\nby him from his mother, the sister of Petronius, said,--"
+  },
+  {
+   "n": 46,
+   "para": 34,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I will tell him; but do ye all come. Do not let his anger fall on my\nhead alone.”"
+  },
+  {
+   "n": 47,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius was growing thoroughly impatient. Petronius and Chrysothemis\nwere laughing; but he walked with quick step up and down the atrium."
+  },
+  {
+   "n": 48,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“They ought to be here! They ought to be here!”"
+  },
+  {
+   "n": 49,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He wished to go out to meet the litter, but Petronius and Chrysothemis\ndetained him."
+  },
+  {
+   "n": 50,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Steps were heard suddenly in the entrance; the slaves rushed into the\natrium in a crowd, and, halting quickly at the wall, raised their hands,\nand began to repeat with groaning,--“Aaaa!--aa!”"
+  },
+  {
+   "n": 51,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius sprang toward them."
+  },
+  {
+   "n": 52,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Where is Lygia?” cried he, with a terrible and changed voice."
+  },
+  {
+   "n": 53,
+   "para": 41,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Aaaa!”"
+  },
+  {
+   "n": 54,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then Gulo pushed forward with his bloody face, and exclaimed, in haste\nand pitifully,--"
+  },
+  {
+   "n": 55,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“See our blood, lord! We fought! See our blood! See our blood!”"
+  },
+  {
+   "n": 56,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But he had not finished when Vinicius seized a bronze lamp, and with one\nblow shattered the skull of the slave; then, seizing his own head with\nboth hands, he drove his fingers into his hair, repeating hoarsely,--"
+  },
+  {
+   "n": 57,
+   "para": 44,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Me\nmiserum! me miserum!”"
+  },
+  {
+   "n": 58,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "His face became blue, his eyes turned in his head, foam came out on his\nlips."
+  },
+  {
+   "n": 59,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Whips!” roared he at last, with an unearthly voice."
+  },
+  {
+   "n": 60,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Lord! Aaaa! Take pity!” groaned the slaves."
+  },
+  {
+   "n": 61,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius stood up with an expression of disgust on his face."
+  },
+  {
+   "n": 62,
+   "para": 48,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Come,\nChrysothemis!”"
+  },
+  {
+   "n": 63,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 64,
+   "para": 48,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“If ‘tis thy wish to look on raw flesh, I will\ngive command to open a butcher’s stall on the Carinæ!”"
+  },
+  {
+   "n": 65,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he walked out of the atrium. But through the whole house, ornamented\nin the green of ivy and prepared for a feast, were heard, from moment\nto moment, groans and the whistling of whips, which lasted almost till\nmorning."
+  }
+ ]
+}

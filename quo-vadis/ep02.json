@@ -1,0 +1,1322 @@
+{
+ "work": "quo-vadis",
+ "episode": 2,
+ "chapter": 2,
+ "title": "The House of Aulus",
+ "document": "PART ONE · CHAPTER II",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch02.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Aulus Plautius",
+   "cast_as": "Vespasian"
+  },
+  {
+   "role": "Pomponia Græcina",
+   "cast_as": "Hypatia"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER II"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After a refreshment, which was called the morning meal and to which the\ntwo friends sat down at an hour when common mortals were already long\npast their midday prandium, Petronius proposed a light doze. According\nto him, it was too early for visits yet."
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“There are, it is true,”"
+  },
+  {
+   "n": 4,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 5,
+   "para": 1,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“people who begin to visit their acquaintances about sunrise,\nthinking that custom an old Roman one, but I look on this as barbarous.\nThe afternoon hours are most proper,--not earlier, however, than that\none when the sun passes to the side of Jove’s temple on the Capitol and\nbegins to look slantwise on the Forum. In autumn it is still hot, and\npeople are glad to sleep after eating. At the same time it is pleasant\nto hear the noise of the fountain in the atrium, and, after the\nobligatory thousand steps, to doze in the red light which filters in\nthrough the purple half-drawn velarium.”"
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius recognized the justice of these words; and the two men began\nto walk, speaking in a careless manner of what was to be heard on\nthe Palatine and in the city, and philosophizing a little upon life.\nPetronius withdrew then to the cubiculum, but did not sleep long. In\nhalf an hour he came out, and, having given command to bring verbena, he\ninhaled the perfume and rubbed his hands and temples with it."
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thou wilt not believe,” said he, “how it enlivens and freshens one. Now\nI am ready.”"
+  },
+  {
+   "n": 8,
+   "bed": "rome_street",
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The litter was waiting long since; hence they took their places, and\nPetronius gave command to bear them to the Vicus Patricius, to the\nhouse of Aulus. Petronius’s “insula” lay on the southern slope of the\nPalatine, near the so-called Carinæ; their nearest way, therefore, was\nbelow the Forum; but since Petronius wished to step in on the way to see\nthe jeweller Idomeneus, he gave the direction to carry them along the\nVicus Apollinis and the Forum in the direction of the Vicus Sceleratus,\non the corner of which were many tabernæ of every kind."
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Gigantic Africans bore the litter and moved on, preceded by slaves\ncalled pedisequii. Petronius, after some time, raised to his nostrils\nin silence his palm odorous with verbena, and seemed to be meditating on\nsomething."
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“It occurs to me,” said he after a while, “that if thy forest goddess is\nnot a slave she might leave the house of Plautius, and transfer herself\nto thine. Thou wouldst surround her with love and cover her with wealth,\nas I do my adored Chrysothemis, of whom, speaking between us, I have\nquite as nearly enough as she has of me.”"
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Marcus shook his head."
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“No?”"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Petronius."
+  },
+  {
+   "n": 14,
+   "para": 8,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“In the worst event, the case would be left\nwith Cæsar, and thou mayst be certain that, thanks even to my influence,\nour Bronzebeard would be on thy side.”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou knowest not Lygia,”"
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Vinicius."
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Then permit me to ask if thou know her otherwise than by sight? Hast\nspoken with her? hast confessed thy love to her?”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I saw her first at the fountain; since then I have met her twice.\nRemember that during my stay in the house of Aulus, I dwelt in a\nseparate villa, intended for guests, and, having a disjointed arm, I\ncould not sit at the common table. Only on the eve of the day for which\nI announced my departure did I meet Lygia at supper, but I could not\nsay a word to her. I had to listen to Aulus and his account of victories\ngained by him in Britain, and then of the fall of small states in Italy,\nwhich Licinius Stolo strove to prevent. In general I do not know whether\nAulus will be able to speak of aught else, and do not think that we\nshall escape this history unless it be thy wish to hear about the\neffeminacy of these days. They have pheasants in their preserves, but\nthey do not eat them, setting out from the principle that every pheasant\neaten brings nearer the end of Roman power. I met her a second time at\nthe garden cistern, with a freshly plucked reed in her hand, the top of\nwhich she dipped in the water and sprinkled the irises growing around.\nLook at my knees. By the shield of Hercules, I tell thee that they\ndid not tremble when clouds of Parthians advanced on our maniples with\nhowls, but they trembled before the cistern. And, confused as a youth\nwho still wears a bulla on his neck, I merely begged pity with my eyes,\nnot being able to utter a word for a long time.”"
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius looked at him, as if with a certain envy."
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Happy man,”"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said\nhe,"
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“though the world and life were the worst possible, one thing in\nthem will remain eternally good,--youth!”"
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After a while he inquired:"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“And hast thou not spoken to her?”"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“When I had recovered somewhat, I told her that I was returning from\nAsia, that I had disjointed my arm near the city, and had suffered\nseverely, but at the moment of leaving that hospitable house I saw that\nsuffering in it was more to be wished for than delight in another place,\nthat sickness there was better than health somewhere else. Confused\ntoo on her part, she listened to my words with bent head while drawing\nsomething with the reed on the saffron-colored sand. Afterward she\nraised her eyes, then looked down at the marks drawn already; once\nmore she looked at me, as if to ask about something, and then fled on a\nsudden like a hamadryad before a dull faun.”"
+  },
+  {
+   "n": 26,
+   "para": 15,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“She must have beautiful eyes.”"
+  },
+  {
+   "n": 27,
+   "para": 16,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“As the sea--and I was drowned in them, as in the sea. Believe me that\nthe archipelago is less blue. After a while a little son of Plautius ran\nup with a question. But I did not understand what he wanted.”"
+  },
+  {
+   "n": 28,
+   "para": 17,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“O Athene!”"
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "exclaimed Petronius,"
+  },
+  {
+   "n": 30,
+   "para": 17,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“remove from the eyes of this youth the\nbandage with which Eros has bound them; if not, he will break his head\nagainst the columns of Venus’s temple."
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“O thou spring bud on the tree of life,”"
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, turning to Vinicius,"
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“thou first green shoot of the vine! Instead of taking thee to the\nPlautiuses, I ought to give command to bear thee to the house of\nGelocius, where there is a school for youths unacquainted with life.”"
+  },
+  {
+   "n": 34,
+   "para": 19,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“What dost thou wish in particular?”"
+  },
+  {
+   "n": 35,
+   "para": 20,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“But what did she write on the sand? Was it not the name of Amor, or a\nheart pierced with his dart, or something of such sort, that one might\nknow from it that the satyrs had whispered to the ear of that nymph\nvarious secrets of life? How couldst thou help looking on those marks?”"
+  },
+  {
+   "n": 36,
+   "para": 21,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“It is longer since I have put on the toga than seems to thee,”"
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said\nVinicius,"
+  },
+  {
+   "n": 38,
+   "para": 21,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“and before little Aulus ran up, I looked carefully at those\nmarks, for I know that frequently maidens in Greece and in Rome draw on\nthe sand a confession which their lips will not utter. But guess what\nshe drew!”"
+  },
+  {
+   "n": 39,
+   "para": 22,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“If it is other than I supposed, I shall not guess.”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“A fish.”"
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“What dost thou say?”"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I say, a fish. What did that mean,--that cold blood is flowing in her\nveins? So far I do not know; but thou, who hast called me a spring bud\non the tree of life, wilt be able to understand the sign certainly.”"
+  },
+  {
+   "n": 43,
+   "para": 26,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Carissime! ask such a thing of Pliny. He knows fish. If old Apicius\nwere alive, he could tell thee something, for in the course of his\nlife he ate more fish than could find place at one time in the bay of\nNaples.”"
+  },
+  {
+   "n": 44,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Further conversation was interrupted, since they were borne into crowded\nstreets where the noise of people hindered them."
+  },
+  {
+   "n": 45,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "From the Vicus Apollinis they turned to the Boarium, and then entered\nthe Forum Romanum, where on clear days, before sunset, crowds of idle\npeople assembled to stroll among the columns, to tell and hear news, to\nsee noted people borne past in litters, and finally to look in at the\njewellery-shops, the book-shops, the arches where coin was changed,\nshops for silk, bronze, and all other articles with which the buildings\ncovering that part of the market placed opposite the Capitol were\nfilled."
+  },
+  {
+   "n": 46,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "One-half of the Forum, immediately under the rock of the Capitol, was\nburied already in shade; but the columns of the temples, placed higher,\nseemed golden in the sunshine and the blue. Those lying lower cast\nlengthened shadows on marble slabs. The place was so filled with columns\neverywhere that the eye was lost in them as in a forest."
+  },
+  {
+   "n": 47,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Those buildings and columns seemed huddled together. They towered some\nabove others, they stretched toward the right and the left, they climbed\ntoward the height, and they clung to the wall of the Capitol, or some\nof them clung to others, like greater and smaller, thicker and thinner,\nwhite or gold colored tree-trunks, now blooming under architraves,\nflowers of the acanthus, now surrounded with Ionic corners, now finished\nwith a simple Doric quadrangle. Above that forest gleamed colored\ntriglyphs; from tympans stood forth the sculptured forms of gods; from\nthe summits winged golden quadrigæ seemed ready to fly away through\nspace into the blue dome, fixed serenely above that crowded place of\ntemples. Through the middle of the market and along the edges of it\nflowed a river of people; crowds passed under the arches of the basilica\nof Julius Cæsar; crowds were sitting on the steps of Castor and Pollux,\nor walking around the temple of Vesta, resembling on that great marble\nbackground many-colored swarms of butterflies or beetles. Down immense\nsteps, from the side of the temple on the Capitol dedicated to Jupiter\nOptimus Maximus, came new waves; at the rostra people listened to chance\norators; in one place and another rose the shouts of hawkers selling\nfruit, wine, or water mixed with fig-juice; of tricksters; of venders\nof marvellous medicines; of soothsayers; of discoverers of hidden\ntreasures; of interpreters of dreams. Here and there, in the tumult of\nconversations and cries, were mingled sounds of the Egyptian sistra, of\nthe sambuké, or of Grecian flutes. Here and there the sick, the pious,\nor the afflicted were bearing offerings to the temples. In the midst of\nthe people, on the stone flags, gathered flocks of doves, eager for\nthe grain given them, and like movable many-colored and dark spots, now\nrising for a moment with a loud sound of wings, now dropping down again\nto places left vacant by people. From time to time the crowds opened\nbefore litters in which were visible the affected faces of women, or\nthe heads of senators and knights, with features, as it were, rigid and\nexhausted from living. The many-tongued population repeated aloud their\nnames, with the addition of some term of praise or ridicule. Among\nthe unordered groups pushed from time to time, advancing with measured\ntread, parties of soldiers, or watchers, preserving order on the\nstreets. Around about, the Greek language was heard as often as Latin."
+  },
+  {
+   "n": 48,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius, who had not been in the city for a long time, looked with a\ncertain curiosity on that swarm of people and on that Forum Romanum,\nwhich both dominated the sea of the world and was flooded by it, so that\nPetronius, who divined the thoughts of his companion, called it “the\nnest of the Quirites--without the Quirites.” In truth, the local element\nwas well-nigh lost in that crowd, composed of all races and nations.\nThere appeared Ethiopians, gigantic light-haired people from the distant\nnorth, Britons, Gauls, Germans, sloping-eyed dwellers of Lericum; people\nfrom the Euphrates and from the Indus, with beards dyed brick color;\nSyrians from the banks of the Orontes, with black and mild eyes;\ndwellers in the deserts of Arabia, dried up as a bone; Jews, with their\nflat breasts; Egyptians, with the eternal, indifferent smile on their\nfaces; Numidians and Africans; Greeks from Hellas, who equally with the\nRomans commanded the city, but commanded through science, art, wisdom,\nand deceit; Greeks from the islands, from Asia Minor, from Egypt, from\nItaly, from Narbonic Gaul. In the throng of slaves, with pierced ears,\nwere not lacking also freemen,--an idle population, which Cæsar amused,\nsupported, even clothed,--and free visitors, whom the ease of life and\nthe prospects of fortune enticed to the gigantic city; there was no lack\nof venal persons. There were priests of Serapis, with palm branches in\ntheir hands; priests of Isis, to whose altar more offerings were brought\nthan to the temple of the Capitoline Jove; priests of Cybele, bearing\nin their hands golden ears of rice; and priests of nomad divinities; and\ndancers of the East with bright head-dresses, and dealers in amulets,\nand snake-tamers, and Chaldean seers; and, finally, people without any\noccupation whatever, who applied for grain every week at the storehouses\non the Tiber, who fought for lottery-tickets to the Circus, who spent\ntheir nights in rickety houses of districts beyond the Tiber, and sunny\nand warm days under covered porticos, and in foul eating-houses of the\nSubura, on the Milvian bridge, or before the “insulæ” of the great,\nwhere from time to time remnants from the tables of slaves were thrown\nout to them."
+  },
+  {
+   "n": 49,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius was well known to those crowds. Vinicius’s ears were\nstruck continually by"
+  },
+  {
+   "n": 50,
+   "para": 32,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Hic est!”"
+  },
+  {
+   "n": 51,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "(Here he is). They loved him for his\nmunificence; and his peculiar popularity increased from the time when\nthey learned that he had spoken before Cæsar in opposition to the\nsentence of death issued against the whole"
+  },
+  {
+   "n": 52,
+   "para": 32,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“familia,”"
+  },
+  {
+   "n": 53,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "that is, against\nall the slaves of the prefect Pedanius Secundus, without distinction of\nsex or age, because one of them had killed that monster in a moment of\ndespair. Petronius repeated in public, it is true, that it was all one\nto him, and that he had spoken to Cæsar only privately, as the arbiter\nelegantiarum whose æsthetic taste was offended by a barbarous slaughter\nbefitting Scythians and not Romans. Nevertheless, people who were\nindignant because of the slaughter loved Petronius from that moment\nforth. But he did not care for their love. He remembered that that crowd\nof people had loved also Britannicus, poisoned by Nero; and Agrippina,\nkilled at his command; and Octavia, smothered in hot steam at the\nPandataria, after her veins had been opened previously; and Rubelius\nPlautus, who had been banished; and Thrasea, to whom any morning might\nbring a death sentence. The love of the mob might be considered rather\nof ill omen; and the sceptical Petronius was superstitious also. He had\na twofold contempt for the multitude,--as an aristocrat and an æsthetic\nperson. Men with the odor of roast beans, which they carried in their\nbosoms, and who besides were eternally hoarse and sweating from playing\nmora on the street-corners and peristyles, did not in his eyes deserve\nthe term"
+  },
+  {
+   "n": 54,
+   "para": 32,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“human.”"
+  },
+  {
+   "n": 55,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Hence he gave no answer whatever to the applause,\nor the kisses sent from lips here and there to him. He was relating to\nMarcus the case of Pedanius, reviling meanwhile the fickleness of that\nrabble which, next morning after the terrible butchery, applauded Nero\non his way to the temple of Jupiter Stator. But he gave command to\nhalt before the book-shop of Avirnus, and, descending from the litter,\npurchased an ornamented manuscript, which he gave to Vinicius."
+  },
+  {
+   "n": 56,
+   "para": 33,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Here is a gift for thee,”"
+  },
+  {
+   "n": 57,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 58,
+   "para": 34,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thanks!”"
+  },
+  {
+   "n": 59,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius. Then, looking at the title, he inquired,"
+  },
+  {
+   "n": 60,
+   "para": 34,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“‘Satyricon’? Is this something new? Whose is it?”"
+  },
+  {
+   "n": 61,
+   "para": 35,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Mine. But I do not wish to go in the road of Rufinus, whose history I\nwas to tell thee, nor of Fabricius Veiento; hence no one knows of this,\nand do thou mention it to no man.”"
+  },
+  {
+   "n": 62,
+   "para": 36,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou hast said that thou art no writer of verses,”"
+  },
+  {
+   "n": 63,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius,\nlooking at the middle of the manuscript;"
+  },
+  {
+   "n": 64,
+   "para": 36,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“but here I see prose thickly\ninterwoven with them.”"
+  },
+  {
+   "n": 65,
+   "para": 37,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“When thou art reading, turn attention to Trimalchion’s feast. As to\nverses, they have disgusted me, since Nero is writing an epic. Vitelius,\nwhen he wishes to relieve himself, uses ivory fingers to thrust down his\nthroat; others serve themselves with flamingo feathers steeped in olive\noil or in a decoction of wild thyme. I read Nero’s poetry, and the\nresult is immediate. Straightway I am able to praise it, if not with a\nclear conscience, at least with a clear stomach.”"
+  },
+  {
+   "n": 66,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When he had said this, he stopped the litter again before the shop of\nIdomeneus the goldsmith, and, having settled the affair of the gems,\ngave command to bear the litter directly to Aulus’s mansion."
+  },
+  {
+   "n": 67,
+   "para": 39,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“On the road I will tell thee the story of Rufinus,”"
+  },
+  {
+   "n": 68,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 69,
+   "para": 39,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“as proof\nof what vanity in an author may be.”"
+  },
+  {
+   "n": 70,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But before he had begun, they turned in to the Vicus Patricius, and\nsoon found themselves before the dwelling of Aulus. A young and sturdy\n“janitor” opened the door leading to the ostium, over which a magpie\nconfined in a cage greeted them noisily with the word, “Salve!”"
+  },
+  {
+   "n": 71,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "On the way from the second antechamber, called the ostium, to the atrium\nitself, Vinicius said,--"
+  },
+  {
+   "n": 72,
+   "para": 41,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Hast noticed that thee doorkeepers are\nwithout chains?”"
+  },
+  {
+   "n": 73,
+   "para": 41,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“This is a wonderful house,”"
+  },
+  {
+   "n": 74,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius, in\nan undertone."
+  },
+  {
+   "n": 75,
+   "para": 41,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Of course it is known to thee that Pomponia Græcina is\nsuspected of entertaining that Eastern superstition which consists in\nhonoring a certain Chrestos. It seems that Crispinilla rendered her\nthis service,--she who cannot forgive Pomponia because one husband has\nsufficed her for a lifetime. A one-man Woman! To-day, in Rome, it is\neasier to get a half-plate of fresh mushrooms from Noricum than to find\nsuch. They tried her before a domestic court--”"
+  },
+  {
+   "n": 76,
+   "para": 42,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“To thy judgment this is a wonderful house. Later on I will tell thee\nwhat I heard and saw in it.”"
+  },
+  {
+   "n": 77,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile they had entered the atrium. The slave appointed to it, called\natriensis, sent a nomenclator to announce the guests; and Petronius,\nwho, imagining that eternal sadness reigned in this severe house, had\nnever been in it, looked around with astonishment, and as it were with a\nfeeling of disappointment, for the atrium produced rather an impression\nof cheerfulness. A sheaf of bright light falling from above through\na large opening broke into a thousand sparks on a fountain in a\nquadrangular little basin, called the impluvium, which was in the middle\nto receive rain falling through the opening during bad weather; this\nwas surrounded by anemones and lilies. In that house a special love for\nlilies was evident, for there were whole clumps of them, both white and\nred; and, finally, sapphire irises, whose delicate leaves were as if\nsilvered from the spray of the fountain. Among the moist mosses, in\nwhich lily-pots were hidden, and among the bunches of lilies were little\nbronze statues representing children and water-birds. In one corner a\nbronze fawn, as if wishing to drink, was inclining its greenish head,\ngrizzled, too, by dampness. The floor of the atrium was of mosaic; the\nwalls, faced partly with red marble and partly with wood, on which were\npainted fish, birds, and griffins, attracted the eye by the play of\ncolors. From the door to the side chamber they were ornamented with\ntortoise-shell or even ivory; at the walls between the doors were\nstatues of Aulus’s ancestors. Everywhere calm plenty was evident, remote\nfrom excess, but noble and self-trusting."
+  },
+  {
+   "n": 78,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius, who lived with incomparably greater show and elegance, could\nfind nothing which offended his taste; and had just turned to Vinicius\nwith that remark, when a slave, the velarius, pushed aside the curtain\nseparating the atrium from the tablinum, and in the depth of the\nbuilding appeared Aulus Plautius approaching hurriedly."
+  },
+  {
+   "n": 79,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He was a man nearing the evening of life, with a head whitened by hoar\nfrost, but fresh, with an energetic face, a trifle too short, but still\nsomewhat eagle-like. This time there was expressed on it a certain\nastonishment, and even alarm, because of the unexpected arrival of\nNero’s friend, companion, and suggester."
+  },
+  {
+   "n": 80,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius was too much a man of the world and too quick not to notice\nthis; hence, after the first greetings, he announced with all the\neloquence and ease at his command that he had come to give thanks\nfor the care which his sister’s son had found in that house, and that\ngratitude alone was the cause of the visit, to which, moreover, he was\nemboldened by his old acquaintance with Aulus."
+  },
+  {
+   "n": 81,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Aulus assured him that he was a welcome guest; and as to gratitude, he\ndeclared that he had that feeling himself, though surely Petronius did\nnot divine the cause of it."
+  },
+  {
+   "n": 82,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In fact, Petronius did not divine it. In vain did he raise his hazel\neyes, endeavoring to remember the least service rendered to Aulus or to\nany one. He recalled none, unless it might be that which he intended\nto show Vinicius. Some such thing, it is true, might have happened\ninvoluntarily, but only involuntarily."
+  },
+  {
+   "n": 83,
+   "para": 49,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“I have great love and esteem for Vespasian, whose life thou didst\nsave,”"
+  },
+  {
+   "n": 84,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Aulus,"
+  },
+  {
+   "n": 85,
+   "para": 49,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“when he had the misfortune to doze while listening\nto Nero’s verses.”"
+  },
+  {
+   "n": 86,
+   "para": 50,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“He was fortunate,”"
+  },
+  {
+   "n": 87,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Petronius,"
+  },
+  {
+   "n": 88,
+   "para": 50,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“for he did not hear them; but\nI will not deny that the matter might have ended with misfortune.\nBronzebeard wished absolutely to send a centurion to him with the\nfriendly advice to open his veins.”"
+  },
+  {
+   "n": 89,
+   "para": 51,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“But thou, Petronius, laughed him out of it.”"
+  },
+  {
+   "n": 90,
+   "para": 52,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“That is true, or rather it is not true. I told Nero that if Orpheus put\nwild beasts to sleep with song, his triumph was equal, since he had put\nVespasian to sleep. Ahenobarbus may be blamed on condition that to a\nsmall criticism a great flattery be added. Our gracious Augusta, Poppæa,\nunderstands this to perfection.”"
+  },
+  {
+   "n": 91,
+   "para": 53,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Alas! such are the times,”"
+  },
+  {
+   "n": 92,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Aulus."
+  },
+  {
+   "n": 93,
+   "para": 53,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“I lack two front teeth,\nknocked out by a stone from the hand of a Briton, I speak with a hiss;\nstill my happiest days were passed in Britain.”"
+  },
+  {
+   "n": 94,
+   "para": 54,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Because they were days of victory,”"
+  },
+  {
+   "n": 95,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "added Vinicius."
+  },
+  {
+   "n": 96,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Petronius, alarmed lest the old general might begin a narrative of\nhis former wars, changed the conversation."
+  },
+  {
+   "n": 97,
+   "para": 56,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“See,”"
+  },
+  {
+   "n": 98,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 99,
+   "para": 56,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“in the neighborhood of Præneste country people found\na dead wolf whelp with two heads; and during a storm about that\ntime lightning struck off an angle of the temple of Luna,--a thing\nunparalleled, because of the late autumn. A certain Cotta, too, who\nhad told this, added, while telling it, that the priests of that temple\nprophesied the fall of the city or, at least, the ruin of a great\nhouse,--ruin to be averted only by uncommon sacrifices.”"
+  },
+  {
+   "n": 100,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Aulus, when he had heard the narrative, expressed the opinion that such\nsigns should not be neglected; that the gods might be angered by an\nover-measure of wickedness. In this there was nothing wonderful; and in\nsuch an event expiatory sacrifices were perfectly in order."
+  },
+  {
+   "n": 101,
+   "para": 58,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thy house, Plautius, is not too large,”"
+  },
+  {
+   "n": 102,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius,"
+  },
+  {
+   "n": 103,
+   "para": 58,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“though\na great man lives in it. Mine is indeed too large for such a wretched\nowner, though equally small. But if it is a question of the ruin of\nsomething as great, for example, as the domus transitoria, would it be\nworth while for us to bring offerings to avert that ruin?”"
+  },
+  {
+   "n": 104,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Plautius did not answer that question,--a carefulness which touched even\nPetronius somewhat, for, with all his inability to feel the difference\nbetween good and evil, he had never been an informer; and it was\npossible to talk with him in perfect safety. He changed the conversation\nagain, therefore, and began to praise Plautius’s dwelling and the good\ntaste which reigned in the house."
+  },
+  {
+   "n": 105,
+   "para": 60,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“It is an ancient seat,”"
+  },
+  {
+   "n": 106,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Plautius,"
+  },
+  {
+   "n": 107,
+   "para": 60,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“in which nothing has been\nchanged since I inherited it.”"
+  },
+  {
+   "n": 108,
+   "bed": "garden",
+   "score": {
+    "key": "lygia",
+    "at": "seemed from a distance like a bright image",
+    "xfade": 8
+   },
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After the curtain was pushed aside which divided the atrium from the\ntablinum, the house was open from end to end, so that through the\ntablinum and the following peristyle and the hall lying beyond it which\nwas called the oecus, the glance extended to the garden, which seemed\nfrom a distance like a bright image set in a dark frame. Joyous,\nchildlike laughter came from it to the atrium."
+  },
+  {
+   "n": 109,
+   "para": 62,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Oh, general!”"
+  },
+  {
+   "n": 110,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius,"
+  },
+  {
+   "n": 111,
+   "para": 62,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“permit us to listen from near by to that\nglad laughter which is of a kind heard so rarely in these days.”"
+  },
+  {
+   "n": 112,
+   "para": 63,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Willingly,”"
+  },
+  {
+   "n": 113,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Plautius, rising;"
+  },
+  {
+   "n": 114,
+   "para": 63,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“that is my little Aulus and\nLygia, playing ball. But as to laughter, I think, Petronius, that our\nwhole life is spent in it.”"
+  },
+  {
+   "n": 115,
+   "para": 64,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Life deserves laughter, hence people laugh at it,”"
+  },
+  {
+   "n": 116,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius,"
+  },
+  {
+   "n": 117,
+   "para": 64,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“but laughter here has another sound.”"
+  },
+  {
+   "n": 118,
+   "para": 65,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Petronius does not laugh for days in succession,”"
+  },
+  {
+   "n": 119,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius;"
+  },
+  {
+   "n": 120,
+   "para": 65,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“but\nthen he laughs entire nights.”"
+  },
+  {
+   "n": 121,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Thus conversing, they passed through the length of the house and reached\nthe garden, where Lygia and little Aulus were playing with balls, which\nslaves, appointed to that game exclusively and called spheristæ, picked\nup and placed in their hands. Petronius cast a quick passing glance at\nLygia; little Aulus, seeing Vinicius, ran to greet him; but the young\ntribune, going forward, bent his head before the beautiful maiden, who\nstood with a ball in her hand, her hair blown apart a little. She was\nsomewhat out of breath, and flushed."
+  },
+  {
+   "n": 122,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In the garden triclinium, shaded by ivy, grapes, and woodbine, sat\nPomponia Græcina; hence they went to salute her. She was known to\nPetronius, though he did not visit Plautius, for he had seen her at the\nhouse of Antistia, the daughter of Rubelius Plautus, and besides at the\nhouse of Seneca and Polion. He could not resist a certain admiration\nwith which he was filled by her face, pensive but mild, by the dignity\nof her bearing, by her movements, by her words. Pomponia disturbed his\nunderstanding of women to such a degree that that man, corrupted to the\nmarrow of his bones, and self-confident as no one in Rome, not only felt\nfor her a kind of esteem, but even lost his previous self-confidence.\nAnd now, thanking her for her care of Vinicius, he thrust in, as it were\ninvoluntarily, “domina,” which never occurred to him when speaking, for\nexample, to Calvia Crispinilla, Scribonia, Veleria, Solina, and other\nwomen of high society. After he had greeted her and returned thanks, he\nbegan to complain that he saw her so rarely, that it was not possible to\nmeet her either in the Circus or the Amphitheatre; to which she answered\ncalmly, laying her hand on the hand of her husband:"
+  },
+  {
+   "n": 123,
+   "para": 68,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“We are growing old, and love our domestic quiet more and more, both of\nus.”"
+  },
+  {
+   "n": 124,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius wished to oppose; but Aulus Plautius added in his hissing\nvoice,--"
+  },
+  {
+   "n": 125,
+   "para": 69,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“And we feel stranger and stranger among people who give Greek\nnames to our Roman divinities.”"
+  },
+  {
+   "n": 126,
+   "para": 70,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“The gods have become for some time mere figures of rhetoric,”"
+  },
+  {
+   "n": 127,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied\nPetronius, carelessly."
+  },
+  {
+   "n": 128,
+   "para": 70,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“But since Greek rhetoricians taught us, it is\neasier for me even to say Hera than Juno.”"
+  },
+  {
+   "n": 129,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He turned his eyes then to Pomponia, as if to signify that in presence\nof her no other divinity could come to his mind: and then he began to\ncontradict what she had said touching old age."
+  },
+  {
+   "n": 130,
+   "para": 72,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“People grow old quickly, it is true; but there are some who live\nanother life entirely, and there are faces moreover which Saturn seems\nto forget.”"
+  },
+  {
+   "n": 131,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius said this with a certain sincerity even, for Pomponia Græcina,\nthough descending from the midday of life, had preserved an uncommon\nfreshness of face; and since she had a small head and delicate features,\nshe produced at times, despite her dark robes, despite her solemnity and\nsadness, the impression of a woman quite young."
+  },
+  {
+   "n": 132,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile little Aulus, who had become uncommonly friendly with Vinicius\nduring his former stay in the house, approached the young man and\nentreated him to play ball. Lygia herself entered the triclinium after\nthe little boy. Under the climbing ivy, with the light quivering on her\nface, she seemed to Petronius more beautiful than at the first glance,\nand really like some nymph. As he had not spoken to her thus far,\nhe rose, inclined his head, and, instead of the usual expressions of\ngreeting, quoted the words with which Ulysses greeted Nausikaa,--"
+  },
+  {
+   "n": 133,
+   "para": 75,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I supplicate thee, O queen, whether thou art some goddess or a mortal!\nIf thou art one of the daughters of men who dwell on earth, thrice\nblessed are thy father and thy lady mother, and thrice blessed thy\nbrethren.”"
+  },
+  {
+   "n": 134,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The exquisite politeness of this man of the world pleased even Pomponia.\nAs to Lygia, she listened, confused and flushed, without boldness to\nraise her eyes. But a wayward smile began to quiver at the corners of\nher lips, and on her face a struggle was evident between the timidity\nof a maiden and the wish to answer; but clearly the wish was victorious,\nfor, looking quickly at Petronius, she answered him all at once with the\nwords of that same Nausikaa, quoting them at one breath, and a little\nlike a lesson learned,--"
+  },
+  {
+   "n": 135,
+   "para": 77,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Stranger, thou seemest no evil man nor foolish.”"
+  },
+  {
+   "n": 136,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then she turned and ran out as a frightened bird runs."
+  },
+  {
+   "n": 137,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "This time the turn for astonishment came to Petronius, for he had not\nexpected to hear verses of Homer from the lips of a maiden of whose\nbarbarian extraction he had heard previously from Vinicius. Hence he\nlooked with an inquiring glance at Pomponia; but she could not give\nhim an answer, for she was looking at that moment, with a smile, at the\npride reflected on the face of her husband."
+  },
+  {
+   "n": 138,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He was not able to conceal that pride. First, he had become attached\nto Lygia as to his own daughter; and second, in spite of his old Roman\nprejudices, which commanded him to thunder against Greek and the spread\nof the language, he considered it as the summit of social polish. He\nhimself had never been able to learn it well; over this he suffered in\nsecret. He was glad, therefore, that an answer was given in the language\nand poetry of Homer to this exquisite man both of fashion and letters,\nwho was ready to consider Plautius’s house as barbarian."
+  },
+  {
+   "n": 139,
+   "para": 81,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“We have in the house a pedagogue, a Greek,”"
+  },
+  {
+   "n": 140,
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, turning to\nPetronius,"
+  },
+  {
+   "n": 141,
+   "para": 81,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“who teaches our boy, and the maiden overhears the lessons.\nShe is a wagtail yet, but a dear one, to which we have both grown\nattached.”"
+  },
+  {
+   "n": 142,
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius looked through the branches of woodbine into the garden, and\nat the three persons who were playing there. Vinicius had thrown aside\nhis toga, and, wearing only his tunic, was striking the ball, which\nLygia, standing opposite, with raised arms was trying to catch. The\nmaiden did not make a great impression on Petronius at the first glance;\nshe seemed to him too slender. But from the moment when he saw her more\nnearly in the triclinium he thought to himself that Aurora might look\nlike her; and as a judge he understood that in her there was something\nuncommon. He considered everything and estimated everything; hence her\nface, rosy and clear, her fresh lips, as if set for a kiss, her eyes\nblue as the azure of the sea, the alabaster whiteness of her forehead,\nthe wealth of her dark hair, with the reflection of amber or Corinthian\nbronze gleaming in its folds, her slender neck, the divine slope of her\nshoulders, the whole posture, flexible, slender, young with the youth of\nMay and of freshly opened flowers. The artist was roused in him, and the\nworshipper of beauty, who felt that beneath a statue of that maiden one\nmight write “Spring.” All at once he remembered Chrysothemis, and pure\nlaughter seized him. Chrysothemis seemed to him, with golden powder on\nher hair and darkened brows, to be fabulously faded,--something in\nthe nature of a yellowed rose-tree shedding its leaves. But still Rome\nenvied him that Chrysothemis. Then he recalled Poppæa; and that most\nfamous Poppæa also seemed to him soulless, a waxen mask. In that maiden\nwith Tanagrian outlines there was not only spring, but a radiant soul,\nwhich shone through her rosy body as a flame through a lamp."
+  },
+  {
+   "n": 143,
+   "para": 83,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Vinicius is right,”"
+  },
+  {
+   "n": 144,
+   "para": 83,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "thought he,"
+  },
+  {
+   "n": 145,
+   "para": 83,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“and my Chrysothemis is old, old!--as\nTroy!”"
+  },
+  {
+   "n": 146,
+   "para": 84,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he turned to Pomponia Græcina, and, pointing to the garden,\nsaid,--"
+  },
+  {
+   "n": 147,
+   "para": 84,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I understand now, domina, why thou and thy husband prefer this\nhouse to the Circus and to feasts on the Palatine.”"
+  },
+  {
+   "n": 148,
+   "para": 85,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 149,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered she, turning her eyes in the direction of little Aulus\nand Lygia."
+  },
+  {
+   "n": 150,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But the old general began to relate the history of the maiden, and what\nhe had heard years before from Atelius Hister about the Lygian people\nwho lived in the gloom of the North."
+  },
+  {
+   "n": 151,
+   "para": 87,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The three outside had finished playing ball, and for some time had\nbeen walking along the sand of the garden, appearing against the dark\nbackground of myrtles and cypresses like three white statues. Lygia held\nlittle Aulus by the hand. After they had walked a while they sat on a\nbench near the fish-pond, which occupied the middle of the garden. After\na time Aulus sprang up to frighten the fish in the transparent water,\nbut Vinicius continued the conversation begun during the walk."
+  },
+  {
+   "n": 152,
+   "para": 88,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 153,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, in a low, quivering voice, scarcely audible;"
+  },
+  {
+   "n": 154,
+   "para": 88,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“barely had\nI cast aside the pretexta, when I was sent to the legions in Asia. I\nhad not become acquainted with the city, nor with life, nor with love.\nI know a small bit of Anacreon by heart, and Horace; but I cannot like\nPetronius quote verses, when reason is dumb from admiration and unable\nto find its own words. While a youth I went to school to Musonius,\nwho told me that happiness consists in wishing what the gods wish, and\ntherefore depends on our will. I think, however, that it is something\nelse,--something greater and more precious, which depends not on\nthe will, for love only can give it. The gods themselves seek that\nhappiness; hence I too, O Lygia, who have not known love thus\nfar, follow in their footsteps. I also seek her who would give me\nhappiness--”"
+  },
+  {
+   "n": 155,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He was silent--and for a time there was nothing to be heard save the\nlight plash of the water into which little Aulus was throwing pebbles\nto frighten the fish; but after a while Vinicius began again in a voice\nstill softer and lower,--"
+  },
+  {
+   "n": 156,
+   "para": 89,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“But thou knowest of Vespasian’s son Titus?\nThey say that he had scarcely ceased to be a youth when he so loved\nBerenice that grief almost drew the life out of him. So could I too\nlove, O Lygia! Riches, glory, power are mere smoke, vanity! The rich\nman will find a richer than himself; the greater glory of another\nwill eclipse a man who is famous; a strong man will be conquered by a\nstronger. But can Cæsar himself, can any god even, experience greater\ndelight or be happier than a simple mortal at the moment when at his\nbreast there is breathing another dear breast, or when he kisses beloved\nlips? Hence love makes us equal to the gods, O Lygia.”"
+  },
+  {
+   "n": 157,
+   "para": 90,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And she listened with alarm, with astonishment, and at the same time as\nif she were listening to the sound of a Grecian flute or a cithara. It\nseemed to her at moments that Vinicius was singing a kind of wonderful\nsong, which was instilling itself into her ears, moving the blood in\nher, and penetrating her heart with a faintness, a fear, and a kind\nof uncomprehended delight. It seemed to her also that he was telling\nsomething which was in her before, but of which she could not give\naccount to herself. She felt that he was rousing in her something which\nhad been sleeping hitherto, and that in that moment a hazy dream\nwas changing into a form more and more definite, more pleasing, more\nbeautiful."
+  },
+  {
+   "n": 158,
+   "para": 91,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile the sun had passed the Tiber long since, and had sunk low over\nthe Janiculum. On the motionless cypresses ruddy light was falling, and\nthe whole atmosphere was filled with it. Lygia raised on Vinicius her\nblue eyes as if roused from sleep; and he, bending over her with a\nprayer quivering in his eyes, seemed on a sudden, in the reflections\nof evening, more beautiful than all men, than all Greek and Roman gods\nwhose statues she had seen on the façades of temples. And with\nhis fingers he clasped her arm lightly just above the wrist and\nasked,--"
+  },
+  {
+   "n": 159,
+   "para": 91,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Dost thou not divine what I say to thee, Lygia?”"
+  },
+  {
+   "n": 160,
+   "para": 92,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“No,”"
+  },
+  {
+   "n": 161,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "whispered she as answer, in a voice so low that Vinicius barely\nheard it."
+  },
+  {
+   "n": 162,
+   "para": 93,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But he did not believe her, and, drawing her hand toward him more\nvigorously, he would have drawn it to his heart, which, under the\ninfluence of desire roused by the marvellous maiden, was beating like a\nhammer, and would have addressed burning words to her directly had not\nold Aulus appeared on a path set in a frame of myrtles, who said,\nwhile approaching them,--"
+  },
+  {
+   "n": 163,
+   "para": 93,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“The sun is setting; so beware of the evening\ncoolness, and do not trifle with Libitina.”"
+  },
+  {
+   "n": 164,
+   "para": 94,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“No,”"
+  },
+  {
+   "n": 165,
+   "para": 94,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius;"
+  },
+  {
+   "n": 166,
+   "para": 94,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I have not put on my toga yet, and I do not\nfeel the cold.”"
+  },
+  {
+   "n": 167,
+   "para": 95,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“But see, barely half the sun’s shield is looking from behind the hill.\nThat is a sweet climate of Sicily, where people gather on the square\nbefore sunset and take farewell of disappearing Phoebus with a choral\nsong.”"
+  },
+  {
+   "n": 168,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And, forgetting that a moment earlier he had warned them against\nLibitina, he began to tell about Sicily, where he had estates and large\ncultivated fields which he loved. He stated also that it had come to his\nmind more than once to remove to Sicily, and live out his life there in\nquietness."
+  },
+  {
+   "n": 169,
+   "para": 96,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“He whose head winters have whitened has bad enough of hoar\nfrost. Leaves are not falling from the trees yet, and the sky smiles on\nthe city lovingly; but when the grapevines grow yellow-leaved, when snow\nfalls on the Alban hills, and the gods visit the Campania with piercing\nwind, who knows but I may remove with my entire household to my quiet\ncountry-seat?”"
+  },
+  {
+   "n": 170,
+   "para": 97,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Wouldst thou leave Rome?”"
+  },
+  {
+   "n": 171,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Vinicius, with sudden alarm."
+  },
+  {
+   "n": 172,
+   "para": 98,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“I have wished to do so this long time, for it is quieter in Sicily and\nsafer.”"
+  },
+  {
+   "n": 173,
+   "para": 99,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And again he fell to praising his gardens, his herds, his house hidden\nin green, and the hills grown over with thyme and savory, among which\nwere swarms of buzzing bees. But Vinicius paid no heed to that bucolic\nnote; and from thinking only of this, that he might lose Lygia, he\nlooked toward Petronius as if expecting salvation from him alone."
+  },
+  {
+   "n": 174,
+   "para": 100,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile Petronius, sitting near Pomponia, was admiring the view of\nthe setting sun, the garden, and the people standing near the fish-pond.\nTheir white garments on the dark background of the myrtles gleamed like\ngold from the evening rays. On the sky the evening light had begun to\nassume purple and violet hues, and to change like an opal. A strip of\nthe sky became lily-colored. The dark silhouettes of the cypresses grew\nstill more pronounced than during bright daylight. In the people, in the\ntrees, in the whole garden there reigned an evening calm."
+  },
+  {
+   "n": 175,
+   "para": 101,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "That calm struck Petronius, and it struck him especially in the people.\nIn the faces of Pomponia, old Aulus, their son, and Lygia there was\nsomething such as he did not see in the faces which surrounded him every\nday, or rather every night. There was a certain light, a certain repose,\na certain serenity, flowing directly from the life which all lived\nthere. And with a species of astonishment he thought that a beauty and\nsweetness might exist which he, who chased after beauty and sweetness\ncontinually, had not known. He could not hide the thought in himself,\nand said, turning to Pomponia,--"
+  },
+  {
+   "n": 176,
+   "para": 101,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I am considering in my soul how\ndifferent this world of yours is from the world which our Nero rules.”"
+  },
+  {
+   "n": 177,
+   "para": 102,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She raised her delicate face toward the evening light, and said with\nsimplicity,--"
+  },
+  {
+   "n": 178,
+   "score": {
+    "key": "faith",
+    "at": "Not Nero, but God, rules the world.",
+    "xfade": 6
+   },
+   "para": 102,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“Not Nero, but God, rules the world.”"
+  },
+  {
+   "n": 179,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "A moment of silence followed. Near the triclinium were heard in the\nalley, the steps of the old general, Vinicius, Lygia, and little Aulus;\nbut before they arrived, Petronius had put another question--"
+  },
+  {
+   "n": 180,
+   "para": 103,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“But\nbelievest thou in the gods, then, Pomponia?”"
+  },
+  {
+   "n": 181,
+   "para": 104,
+   "role": "Aulus Plautius",
+   "cast": "Vespasian",
+   "text": "“I believe in God, who is one, just, and all-powerful,”"
+  },
+  {
+   "n": 182,
+   "para": 104,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered the\nwife of Aulus Plautius."
+  }
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "work": "quo-vadis",
+ "episode": 16,
+ "chapter": 16,
+ "title": "Glaucus",
+ "document": "PART TWO · CHAPTER XVI",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch16.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Chilo Chilonides",
+   "cast_as": "Diogenes"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XVI"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "vinicius",
+    "at": "BUT Chilo did not appear for some time, and Vinicius knew no",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "BUT Chilo did not appear for some time, and Vinicius knew not at last\nwhat to think of his absence. In vain he repeated to himself that\nsearching, if continued to a certain and successful issue, must be\ngradual. His blood and impulsive nature rebelled against the voice\nof judgment. To do nothing, to wait, to sit with folded arms, was so\nrepulsive to him that he could not be reconciled to it in any way. To\nsearch the alleys of the city in the dark garb of a slave, through this\nalone, that it was useless, seemed to him merely a mask for his own\ninefficiency, and could give no satisfaction. His freedmen, persons\nof experience, whom he commanded to search independently, turned out\na hundred times less expert than Chilo. Meanwhile there rose in him,\nbesides his love for Lygia, the stubbornness of a player resolved to\nwin. Vinicius had been always a person of this kind. From earliest youth\nhe had accomplished what he desired with the passionateness of one who\ndoes not understand failure, or the need of yielding something. For a\ntime military discipline had put his self-will within bounds, but also\nit had engrafted into him the conviction that every command of his to\nsubordinates must be fulfilled; his prolonged stay in the Orient, among\npeople pliant and inured to slavish obedience, confirmed in him the\nfaith that for his “I wish” there were no limits. At present his vanity,\ntoo, was wounded painfully. There was, besides, in Lygia’s\nopposition and resistance, and in her flight itself, which was to him\nincomprehensible, a kind of riddle. In trying to solve this riddle he\nracked his head terribly. He felt that Acte had told the truth, and that\nLygia was not indifferent. But if this were true, why had she preferred\nwandering and misery to his love, his tenderness, and a residence in his\nsplendid mansion? To this question he found no answer, and arrived only\nat a kind of dim understanding that between him and Lygia, between their\nideas, between the world which belonged to him and Petronius, and the\nworld of Lygia and Pomponia, there existed some sort of difference, some\nkind of misunderstanding as deep as an abyss, which nothing could fill\nup or make even. It seemed to him, then, that he must lose Lygia; and\nat this thought he lost the remnant of balance which Petronius wished to\npreserve in him. There were moments in which he did not know whether he\nloved Lygia or hated her; he understood only that he must find her, and\nhe would rather that the earth swallowed her than that he should not see\nand possess her. By the power of imagination he saw her as clearly at\ntimes as if she had been before his face. He recalled every word which\nhe had spoken to her; every word which he had heard from her. He felt\nher near; felt her on his bosom, in his arms; and then desire embraced\nhim like a flame. He loved her and called to her."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And when he thought that he was loved, that she might do with\nwillingness all that he wished of her, sore and endless sorrow seized\nhim, and a kind of deep tenderness flooded his heart, like a mighty\nwave. But there were moments, too, in which he grew pale from rage, and\ndelighted in thoughts of the humiliation and tortures which he would\ninflict on Lygia when he found her. He wanted not only to have her, but\nto have her as a trampled slave. At the same time he felt that if the\nchoice were left him, to be her slave or not to see her in life again,\nhe would rather be her slave. There were days in which he thought of the\nmarks which the lash would leave on her rosy body, and at the same time\nhe wanted to kiss those marks. It came to his head also that he would be\nhappy if he could kill her."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In this torture, torment, uncertainty, and suffering, he lost health,\nand even beauty. He became a cruel and incomprehensible master. His\nslaves, and even his freedmen, approached him with trembling; and when\npunishments fell on them causelessly,--punishments as merciless as\nundeserved,--they began to hate him in secret; while he, feeling this,\nand feeling his own isolation, took revenge all the more on them. He\nrestrained himself with Chilo alone, fearing lest he might cease his\nsearches; the Greek, noting this, began to gain control of him, and grew\nmore and more exacting. At first he assured Vinicius at each visit that\nthe affair would proceed easily and quickly; now he began to discover\ndifficulties, and without ceasing, it is true, to guarantee the\nundoubted success of the searches, he did not hide the fact that they\nmust continue yet for a good while."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At last he came, after long days of waiting, with a face so gloomy that\nthe young man grew pale at sight of him, and springing up had barely\nstrength to ask,--"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Is she not among the Christians?”"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“She is, lord,”"
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Chilo;"
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“but I found Glaucus among them.”"
+  },
+  {
+   "n": 10,
+   "para": 4,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Of what art thou\nspeaking, and who is Glaucus?”"
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Thou hast forgotten, lord, it seems,\nthat old man with whom I journeyed from Naples to Rome, and in whose\ndefence I lost these two fingers,--a loss which prevents me from\nwriting. Robbers, who bore away his wife and child, stabbed him with a\nknife. I left him dying at an inn in Minturna, and bewailed him long.\nAlas! I have convinced myself that he is alive yet, and belongs in Rome\nto the Christian community.”"
+  },
+  {
+   "n": 12,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius, who could not understand what the question was, understood\nonly that Glaucus was becoming a hindrance to the discovery of Lygia;\nhence he suppressed his rising anger, and said,--"
+  },
+  {
+   "n": 13,
+   "para": 5,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“If thou didst defend\nhim, he should be thankful and help thee.”"
+  },
+  {
+   "n": 14,
+   "para": 6,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Ah! worthy tribune, even gods are not always grateful, and what must\nthe case be with men? True, he should be thankful. But, unhappily, he is\nan old man, of a mind weak and darkened by age and disappointment; for\nwhich reason, not only is he not grateful, but, as I learned from his\nco-religionists, he accuses me of having conspired with the robbers, and\nsays that I am the cause of his misfortunes. That is the recompense for\nmy fingers!”"
+  },
+  {
+   "n": 15,
+   "para": 7,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Scoundrel! I am certain that it was as he says,”"
+  },
+  {
+   "n": 16,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Vinicius."
+  },
+  {
+   "n": 17,
+   "para": 8,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Then thou knowest more than he does, lord, for he only surmises that\nit was so; which, however, would not prevent him from summoning the\nChristians, and from revenging himself on me cruelly. He would have done\nthat undoubtedly, and others, with equal certainty, would have helped\nhim; but fortunately he does not know my name, and in the house of\nprayer where we met, he did not notice me. I, however, knew him at once,\nand at the first moment wished to throw myself on his neck. Wisdom,\nhowever, and the habit of thinking before every step which I intend to\ntake, restrained me. Therefore, on issuing from the house of prayer, I\ninquired concerning him, and those who knew him declared that he was\nthe man who had been betrayed by his comrade on the journey from Naples.\nOtherwise I should not have known that he gives out such a story.”"
+  },
+  {
+   "n": 18,
+   "para": 9,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“How does this concern me? Tell what thou sawest in the house of\nprayer.”"
+  },
+  {
+   "n": 19,
+   "para": 10,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“It does not concern thee, lord, but it concerns me just as much as\nmy life. Since I wish that my wisdom should survive me, I would rather\nrenounce the reward which thou hast offered, than expose my life for\nempty lucre; without which, I as a true philosopher shall be able to\nlive and seek divine wisdom.”"
+  },
+  {
+   "n": 20,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Vinicius approached him with an ominous countenance, and began in a\nsuppressed voice,--"
+  },
+  {
+   "n": 21,
+   "para": 11,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Who told thee that death would meet thee sooner at\nthe hands of Glaucus than at mine? Whence knowest thou, dog, that I will\nnot have thee buried right away in my garden?”"
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo, who was a coward, looked at Vinicius, and in the twinkle of\nan eye understood that one more unguarded word and he was lost beyond\nredemption."
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I will search for her, lord, and I will find her!”"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "cried he, hurriedly."
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Silence followed, during which were heard the quick breathing of\nVinicius, and the distant song of slaves at work in the garden."
+  },
+  {
+   "n": 26,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Only after a while did the Greek resume his speech, when he noticed that\nthe young patrician was somewhat pacified."
+  },
+  {
+   "n": 27,
+   "para": 16,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Death passed me, but I looked on it with the calmness of Socrates. No,\nlord, I have not said that I refuse to search for the maiden; I desired\nmerely to tell thee that search for her is connected now with great\nperil to me. On a time thou didst doubt that there was a certain\nEuricius in the world, and though thou wert convinced by thine own eyes\nthat the son of my father told the truth to thee, thou hast suspicions\nnow that I have invented Glaucus. Ah! would that he were only a fiction,\nthat I might go among the Christians with perfect safety, as I went some\ntime since; I would give up for that the poor old slave woman whom\nI bought, three days since, to care for my advanced age and maimed\ncondition. But Glaucus is living, lord; and if he had seen me once,\nthou wouldst not have seen me again, and in that case who would find the\nmaiden?”"
+  },
+  {
+   "n": 28,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here he was silent again, and began to dry his tears."
+  },
+  {
+   "n": 29,
+   "para": 18,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“But while Glaucus lives,”"
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "continued he,"
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“how can I search for her?--for\nI may meet him at any step; and if I meet him I shall perish, and with\nme will cease all my searching.”"
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“What art thou aiming at? What help is there? What dost thou wish to\nundertake?”"
+  },
+  {
+   "n": 33,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Vinicius."
+  },
+  {
+   "n": 34,
+   "para": 20,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Aristotle teaches us, lord, that less things should be sacrificed for\ngreater, and King Priam said frequently that old age was a grievous\nburden. Indeed, the burden of old age and misfortune weighs upon Glaucus\nthis long time, and so heavily that death would be to him a benefit. For\nwhat is death, according to Seneca, but liberation?”"
+  },
+  {
+   "n": 35,
+   "para": 21,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Play the fool with Petronius, not with me! Tell what thy desire is.”"
+  },
+  {
+   "n": 36,
+   "para": 22,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“If virtue is folly, may the gods permit me to be a fool all my life. I\ndesire, lord, to set aside Glaucus, for while he is living my life and\nsearches are in continual peril.”"
+  },
+  {
+   "n": 37,
+   "para": 23,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Hire men to beat him to death with clubs; I will pay them.”"
+  },
+  {
+   "n": 38,
+   "para": 24,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“They will rob thee, lord, and afterward make profit of the secret.\nThere are as many ruffians in Rome as grains of sand in the arena, but\nthou wilt not believe how dear they are when an honest man needs to\nemploy their villainy. No, worthy tribune! But if watchmen catch the\nmurderers in the act? They would tell, beyond doubt, who hired them, and\nthen thou wouldst have trouble. They will not point to me, for I shall\nnot give my name. Thou art doing ill not to trust in me, for, setting\naside my keenness, remember that there is a question of two other\nthings,--of my life, and the reward which thou has promised me.”"
+  },
+  {
+   "n": 39,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“How much dost thou need?”"
+  },
+  {
+   "n": 40,
+   "para": 26,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“A thousand sestertia, for turn attention to this, that I must find\nhonest ruffians, men who when they have received earnest money, will\nnot take it off without a trace. For good work there must be good pay!\nSomething might be added, too, for my sake, to wipe away the tears which\nI shall shed out of pity for Glaucus. I take the gods to witness how I\nlove him. If I receive a thousand sestertia to-day, two days hence his\nsoul will be in Hades; and then, if souls preserve memory and the gift\nof thought, he will know for the first time how I loved him. I will find\npeople this very day, and tell them that for each day of the life\nof Glaucus I will withhold one hundred sestertia. I have, besides, a\ncertain idea, which seems to me infallible.”"
+  },
+  {
+   "n": 41,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius promised him once more the desired sum, forbidding him to\nmention Glaucus again; but asked what other news he brought, where he\nhad been all the time, what he had seen, and what he had discovered.\nBut Chilo was not able to tell much. He had been in two more houses of\nprayer,--had observed each person carefully, especially the women,--but\nhad seen no one who resembled Lygia: the Christians, however, looked\non him as one of their own sect, and, since he redeemed the son of\nEuricius, they honored him as a man following in the steps of “Christ.”\n He had learned from them, also, that a great lawgiver of theirs, a\ncertain Paul of Tarsus, was in Rome, imprisoned because of charges\npreferred by the Jews, and with this man he had resolved to become\nacquainted. But most of all was he pleased by this,--that the supreme\npriest of the whole sect, who had been Christ’s disciple, and to whom\nChrist had confided government over the whole world of Christians, might\narrive in Rome any moment. All the Christians desired evidently to see\nhim, and hear his teachings. Some great meetings would follow, at which\nhe, Chilo, would be present; and what is more, since it is easy to hide\nin the crowd, he would take Vinicius to those meetings. Then they would\nfind Lygia certainly. If Glaucus were once set aside, it would not be\nconnected even with great danger. As to revenge, the Christians, too,\nwould revenge but in general they were peaceful people."
+  },
+  {
+   "n": 42,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here Chilo began to relate, with a certain surprise, that he had never\nseen that they gave themselves up to debauchery, that they poisoned\nwells or fountains, that they were enemies of the human race, worshipped\nan ass, or ate the flesh of children. No; he had seen nothing of that\nsort. Certainly he would find among them even people who would hide away\nGlaucus for money; but their religion, as far as he knew, did not incite\nto crime,--on the contrary, it enjoined forgiveness of offences."
+  },
+  {
+   "n": 43,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius remembered what Pomponia had said to him at Acte’s, and in\ngeneral he listened to Chilo’s words with pleasure. Though his feeling\nfor Lygia assumed at times the seeming of hatred, he felt a relief when\nhe heard that the religion which she and Pomponia confessed was neither\ncriminal nor repulsive. But a species of undefined feeling rose in him\nthat it was just that reverence for Christ, unknown and mysterious,\nwhich created the difference between himself and Lygia; hence he began\nat once to fear that religion and to hate it."
+  }
+ ]
+}

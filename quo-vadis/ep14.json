@@ -1,0 +1,956 @@
+{
+ "work": "quo-vadis",
+ "episode": 14,
+ "chapter": 14,
+ "title": "The Sign of the Fish",
+ "document": "PART TWO · CHAPTER XIV",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch14.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Nero",
+   "cast_as": "Nero"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Chilo Chilonides",
+   "cast_as": "Diogenes"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XIV"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "court",
+    "at": "FOR a number of days after the interview, Chilo did not show",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "FOR a number of days after the interview, Chilo did not show himself\nanywhere. Vinicius, since he had learned from Acte that Lygia loved him,\nwas a hundred times more eager to find her, and began himself to search.\nHe was unwilling, and also unable, to ask aid of Cæsar, who was in great\nfear because of the illness of the infant Augusta."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Sacrifices in the temples did not help, neither did prayers and\nofferings, nor the art of physicians, nor all the means of enchantment\nto which they turned finally. In a week the child died. Mourning fell\nupon the court and Rome. Cæsar, who at the birth of the infant was wild\nwith delight, was wild now from despair, and, confining himself in\nhis apartments, refused food for two days; and though the palace was\nswarming with senators and Augustians, who hastened with marks of sorrow\nand sympathy, he denied audience to every one. The senate assembled in\nan extraordinary session, at which the dead child was pronounced divine.\nIt was decided to rear to her a temple and appoint a special priest to\nher service. New sacrifices were offered in other temples in honor of\nthe deceased; statues of her were cast from precious metals; and her\nfuneral was one immense solemnity, during which the people wondered at\nthe unrestrained marks of grief which Cæsar exhibited; they wept\nwith him, stretched out their hands for gifts, and above all amused\nthemselves with the unparalleled spectacle."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "That death alarmed Petronius. All knew in Rome that Poppæa ascribed it\nto enchantment. The physicians, who were thus enabled to explain the\nvanity of their efforts, supported her; the priests, whose sacrifices\nproved powerless, did the same, as well as the sorcerers, who were\ntrembling for their lives, and also the people. Petronius was glad now\nthat Lygia had fled; for he wished no evil to Aulus and Pomponia, and he\nwished good to himself and Vinicius; therefore when the cypress, set out\nbefore the Palatine as a sign of mourning, was removed, he went to the\nreception appointed for the senators and Augustians to learn how far\nNero had lent ear to reports of spells, and to neutralize results which\nmight come from his belief."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Knowing Nero, he thought, too, that though he did not believe in charms,\nhe would feign belief, so as to magnify his own suffering, and take\nvengeance on some one, finally, to escape the suspicion that the gods\nhad begun to punish him for crimes. Petronius did not think that Cæsar\ncould love really and deeply even his own child; though he loved her\npassionately, he felt certain, however, that he would exaggerate his\nsuffering. He was not mistaken. Nero listened, with stony face and fixed\neyes, to the consolation offered by knights and senators. It was evident\nthat, even if he suffered, he was thinking of this: What impression\nwould his suffering make upon others? He was posing as a Niobe, and\ngiving an exhibition of parental sorrow, as an actor would give it on\nthe stage. He had not the power even then to endure in his silent and as\nit were petrified sorrow, for at moments he made a gesture as if to cast\nthe dust of the earth on his head, and at moments he groaned deeply; but\nseeing Petronius, he sprang up and cried in a tragic voice, so that all\npresent could hear him,--"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Eheu! And thou art guilty of her death! At thy\nadvice the evil spirit entered these walls,--the evil spirit which, with\none look, drew the life from her breast! Woe is me! Would that my eyes\nhad not seen the light of Helios! Woe is me! Eheu! eheu!”"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And raising his voice still more, he passed into a despairing shout; but\nPetronius resolved at that moment to put everything on one cast of the\ndice; hence, stretching out his hand, he seized the silk kerchief which\nNero wore around his neck always, and, placing it on the mouth of the\nImperator, said solemnly,--"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Lord, Rome and the world are benumbed with\npain; but do thou preserve thy voice for us!”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Those present were amazed; Nero himself was amazed for a moment.\nPetronius alone was unmoved; he knew too well what he was doing. He\nremembered, besides, that Terpnos and Diodorus had a direct order to\nclose Cæsar’s mouth whenever he raised his voice too much and exposed it\nto danger."
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“O Cæsar!” continued he, with the same seriousness and sorrow, “we have\nsuffered an immeasurable loss; let even this treasure of consolation\nremain to us!”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Nero’s face quivered, and after a while tears came from his eyes. All\nat once he rested his hands on Petronius’s shoulders, and, dropping his\nhead on his breast, began to repeat, amid sobs,"
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thou alone of all thought of this,--thou alone, O Petronius! thou\nalone!”"
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Tigellinus grew yellow from envy; but Petronius continued,--"
+  },
+  {
+   "n": 14,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Go to Antium! there she came to the world, there joy flowed in on\nthee, there solace will come to thee. Let the sea air freshen thy divine\nthroat; let thy breast breathe the salt dampness. We, thy devoted\nones, will follow thee everywhere; and when we assuage thy pain with\nfriendship, thou wilt comfort us with song."
+  },
+  {
+   "n": 15,
+   "para": 12,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“True!”"
+  },
+  {
+   "n": 16,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Nero, sadly,"
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I will write a hymn in her honor, and\ncompose music for it.”"
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“And then thou wilt find the warm sun in Baiæ.”"
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“And afterward--forgetfulness in Greece.”"
+  },
+  {
+   "n": 20,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“In the birthplace of poetry and song.”"
+  },
+  {
+   "n": 21,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And his stony, gloomy state of mind passed away gradually, as clouds\npass that are covering the sun; and then a conversation began which,\nthough full of sadness, yet was full of plans for the future,--touching\na journey, artistic exhibitions, and even the receptions required at the\npromised coming of Tiridates, King of Armenia. Tigellinus tried, it is\ntrue, to bring forward again the enchantment; but Petronius, sure now of\nvictory, took up the challenge directly."
+  },
+  {
+   "n": 22,
+   "para": 17,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Tigellinus,”"
+  },
+  {
+   "n": 23,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“dost thou think that enchantments can injure the\ngods?”"
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Cæsar himself has mentioned them,” answered the courtier."
+  },
+  {
+   "n": 26,
+   "para": 19,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Pain was speaking, not Cæsar; but thou--what is thy opinion of the\nmatter?”"
+  },
+  {
+   "n": 27,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“The gods are too mighty to be subject to charms.”"
+  },
+  {
+   "n": 28,
+   "para": 21,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Then wouldst thou deny divinity to Cæsar and his family?”"
+  },
+  {
+   "n": 29,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Peractum est!” muttered Eprius Marcellus, standing near, repeating\nthat shout which the people gave always when a gladiator in the arena\nreceived such a blow that he needed no other."
+  },
+  {
+   "n": 30,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Tigellinus gnawed his own anger. Between him and Petronius there had\nlong existed a rivalry touching Nero. Tigellinus had this superiority,\nthat Nero acted with less ceremony, or rather with none whatever in\nhis presence; while thus far Petronius overcame Tigellinus at every\nencounter with wit and intellect."
+  },
+  {
+   "n": 31,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "So it happened now. Tigellinus was silent, and simply recorded in his\nmemory those senators and knights who, when Petronius withdrew to the\ndepth of the chamber, surrounded him straightway, supposing that after\nthis incident he would surely be Cæsar’s first favorite."
+  },
+  {
+   "n": 32,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius, on leaving the palace, betook himself to Vinicius, and\ndescribed his encounter with Cæsar and Tigellinus."
+  },
+  {
+   "n": 33,
+   "para": 26,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Not only have I turned away danger,”"
+  },
+  {
+   "n": 34,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 35,
+   "para": 26,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“from Aulus Plautius,\nPomponia, and us, but even from Lygia, whom they will not seek, even\nfor this reason, that I have persuaded Bronzebeard, the monkey, to go to\nAntium, and thence to Naples or Baiæ and he will go. I know that he has\nnot ventured yet to appear in the theatre publicly; I have known this\nlong time that he intends to do so at Naples. He is dreaming, moreover,\nof Greece, where he wants to sing in all the more prominent cities, and\nthen make a triumphal entry into Rome, with all the crowns which the\n‘Græculi’ will bestow on him. During that time we shall be able to\nseek Lygia unhindered and secrete her in safety. But has not our noble\nphilosopher been here yet?”"
+  },
+  {
+   "n": 36,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thy noble philosopher is a cheat. No; he has not shown himself, and he\nwill not show himself again!”"
+  },
+  {
+   "n": 37,
+   "para": 28,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“But I have a better understanding, if not of his honesty, of his wit.\nHe has drawn blood once from thy purse, and will come even for this, to\ndraw it a second time.”"
+  },
+  {
+   "n": 38,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Let him beware lest I draw his own blood.”"
+  },
+  {
+   "n": 39,
+   "para": 30,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Draw it not; have patience till thou art convinced surely of his\ndeceit. Do not give him more money, but promise a liberal reward if he\nbrings thee certain information. Wilt thou thyself undertake something?”"
+  },
+  {
+   "n": 40,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“My two freedmen, Nymphidius and Demas, are searching for her with sixty\nmen. Freedom is promised the slave who finds her. Besides I have sent\nout special persons by all roads leading from Rome to inquire at every\ninn for the Lygian and the maiden. I course through the city myself day\nand night, counting on a chance meeting.”"
+  },
+  {
+   "n": 41,
+   "para": 32,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Whenever thou hast tidings let me know, for I must go to Antium.”"
+  },
+  {
+   "n": 42,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I will do so.”"
+  },
+  {
+   "n": 43,
+   "para": 34,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“And if thou wake up some morning and say, ‘It is not worth while to\ntorment myself for one girl, and take so much trouble because of her,’\ncome to Antium. There will be no lack of women there, or amusement.”"
+  },
+  {
+   "n": 44,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius began to walk with quick steps. Petronius looked for some time\nat him, and said at last,--"
+  },
+  {
+   "n": 45,
+   "para": 35,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Tell me sincerely, not as a mad head, who\ntalks something into his brain and excites himself, but as a man of\njudgment who is answering a friend: Art thou concerned as much as ever\nabout this Lygia?”"
+  },
+  {
+   "n": 46,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius stopped a moment, and looked at Petronius as if he had not\nseen him before; then he began to walk again. It was evident that he\nwas restraining an outburst. At last, from a feeling of helplessness,\nsorrow, anger, and invincible yearning, two tears gathered in his eyes,\nwhich spoke with greater power to Petronius than the most eloquent\nwords."
+  },
+  {
+   "n": 47,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then, meditating for a moment, he said,--"
+  },
+  {
+   "n": 48,
+   "para": 37,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“It is not Atlas who carries\nthe world on his shoulders, but woman; and sometimes she plays with it\nas with a ball.”"
+  },
+  {
+   "n": 49,
+   "para": 38,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“True,”"
+  },
+  {
+   "n": 50,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius."
+  },
+  {
+   "n": 51,
+   "score": {
+    "key": "chilo",
+    "at": "a slave announced that Chilo Chilonides was waiting",
+    "xfade": 4
+   },
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And they began to take farewell of each other. But at that moment a\nslave announced that Chilo Chilonides was waiting in the antechamber,\nand begged to be admitted to the presence of the lord."
+  },
+  {
+   "n": 52,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius gave command to admit him immediately, and Petronius\nsaid,--"
+  },
+  {
+   "n": 53,
+   "para": 40,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Ha! have I not told thee? By Hercules! keep thy calmness; or he\nwill command thee, not thou him.”"
+  },
+  {
+   "n": 54,
+   "para": 41,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“A greeting and honor to the noble tribune of the army, and to thee,\nlord,”"
+  },
+  {
+   "n": 55,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Chilo, entering."
+  },
+  {
+   "n": 56,
+   "para": 41,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“May your happiness be equal to your fame,\nand may your fame course through the world from the pillars of Hercules\nto the boundaries of the Arsacidæ.”"
+  },
+  {
+   "n": 57,
+   "para": 42,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“A greeting, O lawgiver of virtue and wisdom,”"
+  },
+  {
+   "n": 58,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius."
+  },
+  {
+   "n": 59,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Vinicius inquired with affected calmness,"
+  },
+  {
+   "n": 60,
+   "para": 43,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“What dost thou bring?”"
+  },
+  {
+   "n": 61,
+   "para": 44,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“The first time I came I brought thee hope, O lord; at present, I bring\ncertainty that the maiden will be found.”"
+  },
+  {
+   "n": 62,
+   "para": 45,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“That means that thou hast not found her yet?”"
+  },
+  {
+   "n": 63,
+   "para": 46,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Yes, lord; but I have found what that sign means which she made. I\nknow who the people are who rescued her, and I know the God among whose\nworshippers to seek her.”"
+  },
+  {
+   "n": 64,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius wished to spring from the chair in which he was sitting;\nbut Petronius placed his hand on his shoulder, and turning to Chilo\nsaid,--"
+  },
+  {
+   "n": 65,
+   "para": 47,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Speak on!”"
+  },
+  {
+   "n": 66,
+   "para": 48,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Art thou perfectly certain, lord, that she drew a fish on the sand?”"
+  },
+  {
+   "n": 67,
+   "para": 49,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 68,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "burst out Vinicius."
+  },
+  {
+   "n": 69,
+   "para": 50,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Then she is a Christian and Christians carried her away.”"
+  },
+  {
+   "n": 70,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "A moment of\nsilence followed."
+  },
+  {
+   "n": 71,
+   "para": 51,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Listen, Chilo,”"
+  },
+  {
+   "n": 72,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius."
+  },
+  {
+   "n": 73,
+   "para": 51,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“My relative has predestined to thee\na considerable sum of money for finding the girl, but a no less\nconsiderable number of rods if thou deceive him. In the first case thou\nwilt purchase not one, but three scribes; in the second, the philosophy\nof all the seven sages, with the addition of thy own, will not suffice\nto get thee ointment.”"
+  },
+  {
+   "n": 74,
+   "para": 52,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“The maiden is a Christian, lord,”"
+  },
+  {
+   "n": 75,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "cried the Greek."
+  },
+  {
+   "n": 76,
+   "para": 53,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Stop, Chilo. Thou art not a dull man. We know that Junia and Calvia\nCrispinilla accused Pomponia Græcina of confessing the Christian\nsuperstition; but we know too, that a domestic court acquitted her.\nWouldst thou raise this again? Wouldst thou persuade us that Pomponia,\nand with her Lygia, could belong to the enemies of the human race, to\nthe poisoners of wells and fountains, to the worshippers of an ass’s\nhead, to people who murder infants and give themselves up to the foulest\nlicense? Think, Chilo, if that thesis which thou art announcing to us\nwill not rebound as an antithesis on thy own back.”"
+  },
+  {
+   "n": 77,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo spread out his arms in sign that that was not his fault, and then\nsaid,--"
+  },
+  {
+   "n": 78,
+   "para": 54,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Lord, utter in Greek the following sentence: Jesus Christ, Son\nof God, Saviour.”"
+  },
+  {
+   "n": 79,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "[Iesous Christos, Theou Uios, Soter.]"
+  },
+  {
+   "n": 80,
+   "para": 55,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Well, I have uttered it. What comes of that?”"
+  },
+  {
+   "n": 81,
+   "para": 56,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Now take the first letters of each of those words and put them into one\nword.”"
+  },
+  {
+   "n": 82,
+   "para": 57,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Fish!”"
+  },
+  {
+   "n": 83,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius with astonishment. [Ichthus, the Greek word for"
+  },
+  {
+   "n": 84,
+   "para": 57,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“fish.”"
+  },
+  {
+   "n": 85,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "]"
+  },
+  {
+   "n": 86,
+   "para": 58,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“There, that is why fish has become the watchword of the Christians,”"
+  },
+  {
+   "n": 87,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Chilo, proudly."
+  },
+  {
+   "n": 88,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "A moment of silence followed. But there was something so striking in the\nconclusions of the Greek that the two friends could not guard themselves\nfrom amazement."
+  },
+  {
+   "n": 89,
+   "para": 60,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Vinicius, art thou not mistaken?”"
+  },
+  {
+   "n": 90,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked Petronius."
+  },
+  {
+   "n": 91,
+   "para": 60,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Did Lygia really\ndraw a fish for thee?”"
+  },
+  {
+   "n": 92,
+   "para": 61,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“By all the infernal gods, one might go mad!”"
+  },
+  {
+   "n": 93,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "cried the young man, with\nexcitement."
+  },
+  {
+   "n": 94,
+   "para": 61,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“If she had drawn a bird for me, I should have said a bird.”"
+  },
+  {
+   "n": 95,
+   "para": 62,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Therefore she is a Christian,”"
+  },
+  {
+   "n": 96,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "repeated Chilo."
+  },
+  {
+   "n": 97,
+   "para": 63,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“This signifies,”"
+  },
+  {
+   "n": 98,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius,"
+  },
+  {
+   "n": 99,
+   "para": 63,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“that Pomponia and Lygia poison\nwells, murder children caught on the street, and give themselves up to\ndissoluteness! Folly! Thou, Vinicius, wert at their house for a time, I\nwas there a little while; but I know Pomponia and Aulus enough, I know\neven Lygia enough, to say monstrous and foolish! If a fish is the symbol\nof the Christians, which it is difficult really to deny, and if those\nwomen are Christians, then, by Proserpina! evidently Christians are not\nwhat we hold them to be.”"
+  },
+  {
+   "n": 100,
+   "para": 64,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Thou speakest like Socrates, lord,”"
+  },
+  {
+   "n": 101,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Chilo."
+  },
+  {
+   "n": 102,
+   "para": 64,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Who has ever\nexamined a Christian? Who has learned their religion? When I was\ntravelling three years ago from Naples hither to Rome (oh, why did I\nnot stay in Naples!), a man joined me, whose name was Glaucus, of whom\npeople said that he was a Christian; but in spite of that I convinced\nmyself that he was a good and virtuous man.”"
+  },
+  {
+   "n": 103,
+   "para": 65,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Was it not from that virtuous man that thou hast learned now what the\nfish means?”"
+  },
+  {
+   "n": 104,
+   "para": 66,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Unfortunately, lord, on the way, at an inn, some one thrust a knife\ninto that honorable old man; and his wife and child were carried away\nby slave-dealers. I lost in their defence these two fingers; since, as\npeople say, there is no lack among Christians of miracles, I hope that\nthe fingers will grow out on my hand again.”"
+  },
+  {
+   "n": 105,
+   "para": 67,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“How is that? Hast thou become a Christian?”"
+  },
+  {
+   "n": 106,
+   "para": 68,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Since yesterday, lord, since yesterday! The fish made me a Christian.\nBut see what a power there is in it. For some days I shall be the most\nzealous of the zealous, so that they may admit me to all their secrets;\nand when they admit me to their secrets, I shall know where the maiden\nis hiding. Perhaps then my Christianity will pay me better than my\nphilosophy. I have made a vow also to Mercury, that if he helps me to\nfind the maiden, I will sacrifice to him two heifers of the same size\nand color and will gild their horns.”"
+  },
+  {
+   "n": 107,
+   "para": 69,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Then thy Christianity of yesterday and thy philosophy of long standing\npermit thee to believe in Mercury?”"
+  },
+  {
+   "n": 108,
+   "para": 70,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I believe always in that in which I need to believe; that is my\nphilosophy, which ought to please Mercury. Unfortunately (ye know,\nworthy lords, what a suspicious god he is), he does not trust the\npromises even of blameless philosophers, and prefers the heifers in\nadvance; meanwhile this outlay is immense. Not every one is a Seneca,\nand I cannot afford the sacrifice; should the noble Vinicius, however,\nwish to give something, on account of that sum which he promised--”"
+  },
+  {
+   "n": 109,
+   "para": 71,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Not an obolus, Chilo!”"
+  },
+  {
+   "n": 110,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius,"
+  },
+  {
+   "n": 111,
+   "para": 71,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“not an obolus. The bounty\nof Vinicius will surpass thy expectations, but only when Lygia is\nfound,--that is, when thou shalt indicate to us her hiding-place.\nMercury must trust thee for the two heifers, though I am not astonished\nat him for not wishing to do so; in this I recognize his acuteness.”"
+  },
+  {
+   "n": 112,
+   "para": 72,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Listen to me, worthy lords. The discovery which I have made is great;\nfor though I have not found the maiden yet, I have found the way in\nwhich I must seek her. Ye have sent freedmen and slaves throughout the\ncity and into the country; has any one given you a clew? No! I alone\nhave given one. I tell you more. Among your slaves there may be\nChristians, of whom ye have no knowledge, for this superstition has\nspread everywhere; and they, instead of aiding, will betray you. It is\nunfortunate that they see me here; do thou therefore, noble Petronius,\nenjoin silence on Eunice; and thou too, noble Vinicius, spread a report\nthat I sell thee an ointment which insures victory in the Circus to\nhorses rubbed with it. I alone will search for her, and single-handed I\nwill find the fugitives; and do ye trust in me, and know that whatever\nI receive in advance will be for me simply an encouragement, for I shall\nhope always for more, and shall feel the greater certainty that the\npromised reward will not fail me. Ah, it is true! As a philosopher I\ndespise money, though neither Seneca, nor even Musonius, nor Cornutus\ndespises it, though they have not lost fingers in any one’s defence, and\nare able themselves to write and leave their names to posterity. But,\naside from the slave, whom I intend to buy, and besides Mercury, to whom\nI have promised the heifers,--and ye know how dear cattle have become in\nthese times,--the searching itself involves much outlay. Only listen\nto me patiently. Well, for the last few days my feet are wounded from\ncontinual walking. I have gone to wine-shops to talk with people, to\nbakeries, to butcher-shops, to dealers in olive oil, and to fishermen.\nI have run through every street and alley; I have been in the hiding\nplaces of fugitive slaves; I have lost money, nearly a hundred ases,\nin playing mora; I have been in laundries, in drying-sheds, in cheap\nkitchens; I have seen mule-drivers and carvers; I have seen people who\ncure bladder complaints and pull teeth; I have talked with dealers in\ndried figs; I have been at cemeteries; and do ye know why? This is why;\nso as to outline a fish everywhere, look people in the eyes, and hear\nwhat they would say of that sign. For a long time I was unable to learn\nanything, till at last I saw an old slave at a fountain. He was drawing\nwater with a bucket, and weeping. Approaching him, I asked the cause\nof his tears. When we had sat down on the steps of the fountain, he\nanswered that all his life he had been collecting sestertium after\nsestertium, to redeem his beloved son; but his master, a certain Pansa,\nwhen the money was delivered to him, took it, but kept the son in\nslavery. ‘And so I am weeping,’ said the old man, ‘for though I repeat,\nLet the will of God be done, I, poor sinner, am not able to keep down my\ntears.’ Then, as if penetrated by a forewarning, I moistened my finger\nin the water and drew a fish for him. To this he answered, ‘My hope,\ntoo, is in Christ.’ I asked him then, ‘Hast thou confessed to me by that\nsign?’ ‘I have,’ said he; ‘and peace be with thee.’ I began then to draw\nhim out, and the honest old man told me everything. His master, that\nPansa, is himself a freedman of the great Pansa; and he brings stones by\nthe Tiber to Rome, where slaves and hired persons unload them from\nthe boats, and carry them to buildings in the night time, so as not to\nobstruct movement in the streets during daylight. Among these people\nmany Christians work, and also his son; as the work is beyond his son’s\nstrength, he wished to redeem him. But Pansa preferred to keep both the\nmoney and the slave. While telling me this, he began again to weep; and\nI mingled my tears with his,--tears came to me easily because of my kind\nheart, and the pain in my feet, which I got from walking excessively.\nI began also to lament that as I had come from Naples only a few days\nsince, I knew no one of the brotherhood, and did not know where they\nassembled for prayer. He wondered that Christians in Naples had not\ngiven me letters to their brethren in Rome; but I explained to him that\nthe letters were stolen from me on the road. Then he told me to come\nto the river at night, and he would acquaint me with brethren who would\nconduct me to houses of prayer and to elders who govern the Christian\ncommunity. When I heard this, I was so delighted that I gave him the\nsum needed to redeem his son, in the hope that the lordly Vinicius would\nreturn it to me twofold.”"
+  },
+  {
+   "n": 113,
+   "para": 73,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Chilo,”"
+  },
+  {
+   "n": 114,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "interrupted Petronius,"
+  },
+  {
+   "n": 115,
+   "para": 73,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“in thy narrative falsehood appears on\nthe surface of truth, as oil does on water. Thou hast brought important\ninformation; I do not deny that. I assert, even, that a great step is\nmade toward finding Lygia; but do not cover thy news with falsehood.\nWhat is the name of that old man from whom thou hast learned that the\nChristians recognize each other through the sign of a fish?”"
+  },
+  {
+   "n": 116,
+   "para": 74,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Euricius. A poor, unfortunate old man! He reminded me of Glaucus, whom\nI defended from murderers, and he touched me mainly by this.”"
+  },
+  {
+   "n": 117,
+   "para": 75,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I believe that thou didst discover him, and wilt be able to make use of\nthe acquaintance; but thou hast given him no money. Thou hast not given\nhim an as; dost understand me? Thou hast not given anything.”"
+  },
+  {
+   "n": 118,
+   "para": 76,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“But I helped him to lift the bucket, and I spoke of his son with the\ngreatest sympathy. Yes, lord, what can hide before the penetration of\nPetronius? Well, I did not give him money, or rather, I gave it to him,\nbut only in spirit, in intention, which, had he been a real philosopher,\nshould have sufficed him. I gave it to him because I saw that such an\nact was indispensable and useful; for think, lord, how this act has won\nall the Christians at once to me, what access to them it has opened, and\nwhat confidence it has roused in them.”"
+  },
+  {
+   "n": 119,
+   "para": 77,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“True,”"
+  },
+  {
+   "n": 120,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius,"
+  },
+  {
+   "n": 121,
+   "para": 77,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“and it was thy duty to do it.”"
+  },
+  {
+   "n": 122,
+   "para": 78,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“For this very reason I have come to get the means to do it.”"
+  },
+  {
+   "n": 123,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius turned to Vinicius,--"
+  },
+  {
+   "n": 124,
+   "para": 79,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Give command to count out to him five\nthousand sestertia, but in spirit, in intention.”"
+  },
+  {
+   "n": 125,
+   "para": 80,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I will give thee a young man,”"
+  },
+  {
+   "n": 126,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius,"
+  },
+  {
+   "n": 127,
+   "para": 80,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“who will take the sum\nnecessary; thou wilt say to Euricius that the youth is thy slave, and\nthou wilt count out to the old man, in the youth’s presence, this money.\nSince thou hast brought important tidings, thou wilt receive the same\namount for thyself. Come for the youth and the money this evening.”"
+  },
+  {
+   "n": 128,
+   "para": 81,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Thou art a real Cæsar!”"
+  },
+  {
+   "n": 129,
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Chilo."
+  },
+  {
+   "n": 130,
+   "para": 81,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Permit me, lord, to dedicate my\nwork to thee; but permit also that this evening I come only for the\nmoney, since Euricius told me that all the boats had been unloaded, and\nthat new ones would come from Ostia only after some days. Peace be with\nyou! Thus do Christians take farewell of one another. I will buy myself\na slave woman,--that is, I wanted to say a slave man. Fish are caught\nwith a bait, and Christians with fish. Fax vobiscum! pax! pax! pax!”"
+  }
+ ]
+}

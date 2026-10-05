@@ -30,3 +30,14 @@ tenor drum.
 | `score-vinicius.mp3` | cinematic — a driving string ostinato in D minor, the cellos rising, timpani |
 | `score-court.mp3` | heavy, unsettling — low brass clusters, a sliding bassoon, dripping pizzicato, a slow tread |
 | `score-faith.mp3` | warm and still — a string chorale in D major, soft piano bells |
+
+## Part Two (6 Oct 2026) — built by `build-part-two.py`
+
+| file | made from | licence |
+|---|---|---|
+| `rome-night.mp3` | the city asleep: the crowd recording far and dull, *Howling wind* (CC0), built crickets | CC0 + synthesized |
+| `mill-night.mp3` | built river and millstones through a wall, crickets | synthesized |
+| `ostrianum.mp3` | a hushed multitude (*Festival concert people crowd*, stephan, PD, far and dull), the wind in the pines, torches, crickets, a nightingale far off (Digweed1, CC0) | PD / CC0 |
+| `score-chilo.mp3` | Chilo's theme: bassoon and pizzicato on tiptoe, an oboe that sidles (VSCO 2 CE, CC0) | CC0 |
+
+Borrowed by URL: the wine-shop's fire (Dracula), the sea at Antium (Treasure Island's cove).

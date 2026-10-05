@@ -1,0 +1,505 @@
+{
+ "work": "quo-vadis",
+ "episode": 20,
+ "chapter": 20,
+ "title": "The Ostrianum",
+ "document": "PART TWO · CHAPTER XX",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch20.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Chilo Chilonides",
+   "cast_as": "Diogenes"
+  },
+  {
+   "role": "Peter",
+   "cast_as": "Saint Peter"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XX"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "THEY went through the Vicus Patricius, along the Viminal to the former\nViminal gate, near the plain on which Diocletian afterward built\nsplendid baths. They passed the remains of the wall of Servius\nTullius, and through places more and more deserted they reached the Via\nNomentana; there, turning to the left, towards the Via Salaria, they\nfound themselves among hills full of sand-pits, and here and there they\nfound graveyards."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile it had grown dark completely, and since the moon had not risen\nyet, it would have been rather difficult for them to find the road were\nit not that the Christians themselves indicated it, as Chilo foresaw."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In fact, on the right, on the left, and in front, dark forms were\nevident, making their way carefully toward sandy hollows. Some of these\npeople carried lanterns,--covering them, however, as far as possible\nwith mantles; others, knowing the road better, went in the dark. The\ntrained military eye of Vinicius distinguished, by their movements,\nyounger men from old ones, who walked with canes, and from women,\nwrapped carefully in long mantles. The highway police, and villagers\nleaving the city, took those night wanderers, evidently, for laborers,\ngoing to sand-pits; or grave-diggers, who at times celebrated ceremonies\nof their own in the night-time. In proportion, however, as the young\npatrician and his attendants pushed forward, more and more lanterns\ngleamed, and the number of persons grew greater. Some of them sang songs\nin low voices, which to Vinicius seemed filled with sadness. At\nmoments a separate word or a phrase of the song struck his ear, as,\nfor instance, “Awake, thou that sleepest,” or “Rise from the dead”; at\ntimes, again, the name of Christ was repeated by men and women."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Vinicius turned slight attention to the words, for it came to his\nhead that one of those dark forms might be Lygia. Some, passing near,\nsaid, “Peace be with thee!” or “Glory be to Christ!” but disquiet seized\nhim, and his heart began to beat with more life, for it seemed to him\nthat he heard Lygia’s voice. Forms or movements like hers deceived him\nin the darkness every moment, and only when he had corrected mistakes\nmade repeatedly did he begin to distrust his own eyes."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The way seemed long to him. He knew the neighborhood exactly, but could\nnot fix places in the darkness. Every moment they came to some narrow\npassage, or piece of wall, or booths, which he did not remember as being\nin the vicinity of the city. Finally the edge of the moon appeared from\nbehind a mass of clouds, and lighted the place better than dim lanterns.\nSomething from afar began at last to glimmer like a fire, or the flame\nof a torch. Vinicius turned to Chilo."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Is that Ostrianum?”"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked he."
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo, on whom night, distance from the city, and those ghostlike forms\nmade a deep impression, replied in a voice somewhat uncertain,--"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I know\nnot, lord; I have never been in Ostrianum. But they might praise God in\nsome spot nearer the city.”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After a while, feeling the need of conversation, and of strengthening\nhis courage, he added,--"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“They come together like murderers; still\nthey are not permitted to murder, unless that Lygian has deceived me\nshamefully.”"
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius, who was thinking of Lygia, was astonished also by the caution\nand mysteriousness with which her co-religionists assembled to hear\ntheir highest priest; hence he said,--"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Like all religions, this has its\nadherents in the midst of us; but the Christians are a Jewish sect.\nWhy do they assemble here, when in the Trans-Tiber there are temples to\nwhich the Jews take their offerings in daylight?”"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“The Jews, lord, are their bitterest enemies. I have heard that, before\nthe present Cæsar’s time, it came to war, almost, between Jews and\nChristians. Those outbreaks forced Claudius Cæsar to expell all the\nJews, but at present that edict is abolished. The Christians, however,\nhide themselves from Jews, and from the populace, who, as is known to\nthee, accuse them of crimes and hate them.”"
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They walked on some time in silence, till Chilo, whose fear increased\nas he receded from the gates, said,--"
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“When returning from the shop of\nEuricius, I borrowed a wig from a barber, and have put two beans in my\nnostrils. They must not recognize me; but if they do, they will not kill\nme. They are not malignant! They are even very honest. I esteem and love\nthem.”"
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Do not win them to thyself by premature praises,”"
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "retorted Vinicius."
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They went now into a narrow depression, closed, as it were, by two\nditches on the side, over which an aqueduct was thrown in one place. The\nmoon came out from behind clouds, and at the end of the depression\nthey saw a wall, covered thickly with ivy, which looked silvery in the\nmoonlight. That was Ostrianum."
+  },
+  {
+   "n": 21,
+   "bed": "ostrianum",
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius’s heart began to beat now with more vigor. At the gate two\nquarryrnen took the signs from them. In a moment Vinicius and his\nattendants were in a rather spacious place enclosed on all sides by a\nwall. Here and there were separate monuments, and in the centre was\nthe entrance to the hypogeum itself, or crypt. In the lower part of the\ncrypt, beneath the earth, were graves; before the entrance a fountain\nwas playing. But it was evident that no very large number of persons\ncould find room in the hypogeum; hence Vinicius divined without\ndifficulty that the ceremony would take place outside, in the space\nwhere a very numerous throng was soon gathered."
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "As far as the eye could reach, lantern gleamed near lantern, but many\nof those who came had no light whatever. With the exception of a few\nuncovered heads, all were hooded, from fear of treason or the cold; and\nthe young patrician thought with alarm that, should they remain thus, he\nwould not be able to recognize Lygia in that crowd and in the dim light."
+  },
+  {
+   "n": 23,
+   "score": {
+    "key": "faith",
+    "at": "After a while the crowd began to sing a certain strange hymn",
+    "xfade": 8
+   },
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But all at once, near the crypt, some pitch torches were ignited and put\ninto a little pile. There was more light. After a while the crowd\nbegan to sing a certain strange hymn, at first in a low voice, and then\nlouder. Vinicius had never heard such a hymn before. The same yearning\nwhich had struck him in the hymns murmured by separate persons on\nthe way to the cemetery, was heard now in that, but with far more\ndistinctness and power; and at last it became as penetrating and immense\nas if together with the people, the whole cemetery, the hills, the pits,\nand the region about, had begun to yearn. It might seem, also, that\nthere was in it a certain calling in the night, a certain humble prayer\nfor rescue in wandering and darkness."
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Eyes turned upward seemed to see some one far above, there on high,\nand outstretched hands seemed to implore him to descend. When the hymn\nceased, there followed a moment as it were of suspense,--so impressive\nthat Vinicius and his companions looked unwittingly toward the stars,\nas if in dread that something uncommon would happen, and that some one\nwould really descend to them."
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius had seen a multitude of temples of most various structure in\nAsia Minor, in Egypt, and in Rome itself; he had become acquainted with\na multitude of religions, most varied in character, and had heard many\nhymns; but here, for the first time, he saw people calling on a divinity\nwith hymns,--not to carry out a fixed ritual, but calling from the\nbottom of the heart, with the genuine yearning which children might\nfeel for a father or a mother. One had to be blind not to see that those\npeople not merely honored their God, but loved him with the whole\nsoul. Vinicius had not seen the like, so far, in any land, during any\nceremony, in any sanctuary; for in Rome and in Greece those who still\nrendered honor to the gods did so to gain aid for themselves or\nthrough fear; but it had not even entered any one’s head to love those\ndivinities."
+  },
+  {
+   "n": 26,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Though his mind was occupied with Lygia, and his attention with seeking\nher in the crowd, he could not avoid seeing those uncommon and wonderful\nthings which were happening around him. Meanwhile a few more torches\nwere thrown on the fire, which filled the cemetery with ruddy light and\ndarkened the gleam of the lanterns. That moment an old man, wearing a\nhooded mantle but with a bare head, issued from the hypogeum. This man\nmounted a stone which lay near the fire."
+  },
+  {
+   "n": 27,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The crowd swayed before him. Voices near Vinicius whispered, “Peter!\nPeter!” Some knelt, others extended their hands toward him. There\nfollowed a silence so deep that one heard every charred particle that\ndropped from the torches, the distant rattle of wheels on the Via\nNomentana, and the sound of wind through the few pines which grew close\nto the cemetery."
+  },
+  {
+   "n": 28,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo bent toward Vinicius and whispered,--"
+  },
+  {
+   "n": 29,
+   "para": 21,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“This is he! The foremost\ndisciple of Christ-a fisherman!”"
+  },
+  {
+   "n": 30,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The old man raised his hand, and with the sign of the cross blessed\nthose present, who fell on their knees simultaneously. Vinicius and his\nattendants, not wishing to betray themselves, followed the example of\nothers. The young man could not seize his impressions immediately, for\nit seemed to him that the form which he saw there before him was both\nsimple and uncommon, and, what was more, the uncommonness flowed just\nfrom the simplicity. The old man had no mitre on his head, no garland of\noak-leaves on his temples, no palm in his hand, no golden tablet on his\nbreast, he wore no white robe embroidered with stars; in a word, he\nbore no insignia of the kind worn by priests--Oriental, Egyptian,\nor Greek--or by Roman flamens. And Vinicius was struck by that same\ndifference again which he felt when listening to the Christian hymns;\nfor that “fisherman,” too, seemed to him, not like some high priest\nskilled in ceremonial, but as it were a witness, simple, aged, and\nimmensely venerable, who had journeyed from afar to relate a truth which\nhe had seen, which he had touched, which he believed as he believed\nin existence, and he had come to love this truth precisely because\nhe believed it. There was in his face, therefore, such a power of\nconvincing as truth itself has. And Vinicius, who had been a sceptic,\nwho did not wish to yield to the charm of the old man, yielded, however,\nto a certain feverish curiosity to know what would flow from the lips of\nthat companion of the mysterious “Christus,” and what that teaching was\nof which Lygia and Pomponia Græcina were followers."
+  },
+  {
+   "n": 31,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile Peter began to speak, and he spoke from the beginning like\na father instructing his children and teaching them how to live. He\nenjoined on them to renounce excess and luxury, to love poverty, purity\nof life, and truth, to endure wrongs and persecutions patiently, to obey\nthe government and those placed above them, to guard against treason,\ndeceit, and calumny; finally, to give an example in their own society to\neach other, and even to pagans."
+  },
+  {
+   "n": 32,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius, for whom good was only that which could bring back to him\nLygia, and evil everything which stood as a barrier between them, was\ntouched and angered by certain of those counsels. It seemed to him that\nby enjoining purity and a struggle with desires the old man dared, not\nonly to condemn his love, but to rouse Lygia against him and confirm her\nin opposition. He understood that if she were in the assembly listening\nto those words, and if she took them to heart, she must think of him as\nan enemy of that teaching and an outcast."
+  },
+  {
+   "n": 33,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Anger seized him at this thought."
+  },
+  {
+   "n": 34,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“What have I heard that is new?”"
+  },
+  {
+   "n": 35,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "thought he."
+  },
+  {
+   "n": 36,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Is this the new religion? Every one knows this, every\none has heard it. The Cynics enjoined poverty and a restriction of\nnecessities; Socrates enjoined virtue as an old thing and a good one;\nthe first Stoic one meets, even such a one as Seneca, who has five\nhundred tables of lemon-wood, praises moderation, enjoins truth,\npatience in adversity, endurance in misfortune,--and all that is like\nstale, mouse-eaten grain; but people do not wish to eat it because it\nsmells of age.”"
+  },
+  {
+   "n": 37,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And besides anger, he had a feeling of disappointment, for he expected\nthe discovery of unknown, magic secrets of some kind, and thought that\nat least he would hear a rhetor astonishing by his eloquence; meanwhile\nhe heard only words which were immensely simple, devoid of every\nornament. He was astonished only by the mute attention with which the\ncrowd listened."
+  },
+  {
+   "n": 38,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But the old man spoke on to those people sunk in listening,--told them\nto be kind, poor, peaceful, just, and pure; not that they might have\npeace during life, but that they might live eternally with Christ after\ndeath, in such joy and such glory, in such health and delight, as no one\non earth had attained at any time. And here Vinicius, though predisposed\nunfavorably, could not but notice that still there was a difference\nbetween the teaching of the old man and that of the Cynics, Stoics, and\nother philosophers; for they enjoin good and virtue as reasonable, and\nthe only thing practical in life, while he promised immortality,\nand that not some kind of hapless immortality beneath the earth, in\nwretchedness, emptiness, and want, but a magnificent life, equal to that\nof the gods almost. He spoke meanwhile of it as of a thing perfectly\ncertain; hence, in view of such a faith, virtue acquired a value simply\nmeasureless, and the misfortunes of this life became incomparably\ntrivial. To suffer temporally for inexhaustible happiness is a thing\nabsolutely different from suffering because such is the order of nature.\nBut the old man said further that virtue and truth should be loved\nfor themselves, since the highest eternal good and the virtue existing\nbefore ages is God; whoso therefore loves them loves God, and by that\nsame becomes a cherished child of His."
+  },
+  {
+   "n": 39,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius did not understand this well, but he knew previously, from\nwords spoken by Pomponia Græcina to Petronius, that, according to the\nbelief of Christians, God was one and almighty; when, therefore,\nhe heard now again that He is all good and all just, he thought\ninvoluntarily that, in presence of such a demiurge, Jupiter, Saturn,\nApollo, Juno, Vesta, and Venus would seem like some vain and noisy\nrabble, in which all were interfering at once, and each on his or her\nown account."
+  },
+  {
+   "n": 40,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But the greatest astonishment seized him when the old man declared\nthat God was universal love also; hence he who loves man fulfils God’s\nsupreme command. But it is not enough to love men of one’s own nation,\nfor the God-man shed his blood for all, and found among pagans such\nelect of his as Cornelius the Centurion; it is not enough either to love\nthose who do good to us, for Christ forgave the Jews who delivered him\nto death, and the Roman soldiers who nailed him to the cross, we should\nnot only forgive but love those who injure us, and return them good for\nevil; it is not enough to love the good, we must love the wicked also,\nsince by love alone is it possible to expel from them evil."
+  },
+  {
+   "n": 41,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo at these words thought to himself that his work had gone for\nnothing, that never in the world would Ursus dare to kill Glaucus,\neither that night or any other night. But he comforted himself at once\nby another inference from the teaching of the old man; namely, that\nneither would Glaucus kill him, though he should discover and recognize\nhim."
+  },
+  {
+   "n": 42,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius did not think now that there was nothing new in the words of\nthe old man, but with amazement he asked himself:"
+  },
+  {
+   "n": 43,
+   "para": 31,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“What kind of God is\nthis, what kind of religion is this, and what kind of people are these?”"
+  },
+  {
+   "n": 44,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "All that he had just heard could not find place in his head simply. For\nhim all was an unheard-of medley of ideas. He felt that if he wished,\nfor example, to follow that teaching, he would have to place on a\nburning pile all his thoughts, habits, and character, his whole nature\nup to that moment, burn them into ashes, and then fill himself with a\nlife altogether different, and an entirely new soul. To him the science\nor the religion which commanded a Roman to love Parthians, Syrians,\nGreeks, Egyptians, Gauls, and Britons, to forgive enemies, to return\nthem good for evil, and to love them, seemed madness. At the same\ntime he had a feeling that in that madness itself there was something\nmightier than all philosophies so far. He thought that because of its\nmadness it was impracticable, but because of its impracticability it was\ndivine. In his soul he rejected it; but he felt that he was parting as\nif from a field full of spikenard, a kind of intoxicating incense;\nwhen a man has once breathed of this he must, as in the land of the\nlotus-eaters, forget all things else ever after, and yearn for it only."
+  },
+  {
+   "n": 45,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "It seemed to him that there was nothing real in that religion, but that\nreality in presence of it was so paltry that it deserved not the time\nfor thought. Expanses of some kind, of which hitherto he had not had a\nsuspicion, surrounded him,--certain immensities, certain clouds. That\ncemetery began to produce on him the impression of a meeting-place for\nmadmen, but also of a place mysterious and awful, in which, as on a\nmystic bed, something was in progress of birth the like of which had\nnot been in the world so far. He brought before his mind all that, which\nfrom the first moment of his speech, the old man had said touching life,\ntruth, love, God; and his thoughts were dazed from the brightness, as\nthe eyes are blinded from lightning flashes which follow each other\nunceasingly."
+  },
+  {
+   "n": 46,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "As is usual with people for whom life has been turned into one single\npassion, Vinicius thought of all this through the medium of his love for\nLygia; and in the light of those flashes he saw one thing distinctly,\nthat if Lygia was in the cemetery, if she confessed that religion,\nobeyed and felt it, she never could and never would be his mistress."
+  },
+  {
+   "n": 47,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "For the first time, then, since he had made her acquaintance at Aulus’s,\nVinicius felt that though now he had found her he would not get her.\nNothing similar had come to his head so far, and he could not explain it\nto himself then, for that was not so much an express understanding as\na dim feeling of irreparable loss and misfortune. There rose in him\nan alarm, which was turned soon into a storm of anger against the\nChristians in general, and against the old man in particular. That\nfisherman, whom at the first cast of the eye he considered a peasant,\nnow filled him with fear almost, and seemed some mysterious power\ndeciding his fate inexorably and therefore tragically."
+  },
+  {
+   "n": 48,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The quarrymen again, unobserved, added torches to the fire; the wind\nceased to sound in the pines; the flame rose evenly, with a slender\npoint toward the stars, which were twinkling in a clear sky. Having\nmentioned the death of Christ, the old man talked now of Him only. All\nheld the breath in their breasts, and a silence set in which was deeper\nthan the preceding one, so that it was possible almost to hear the\nbeating of hearts. That man had seen! and he narrated as one in whose\nmemory every moment had been fixed in such a way that were he to close\nhis eyes he would see yet. He told, therefore, how on their return from\nthe Cross he and John had sat two days and nights in the supper-chamber,\nneither sleeping nor eating, in suffering, in sorrow, in doubt, in\nalarm, holding their heads in their hands, and thinking that He had\ndied. Oh, how grievous, how grievous that was! The third day had dawned\nand the light whitened the walls, but he and John were sitting in the\nchamber, without hope or comfort. How desire for sleep tortured them\n(for they had spent the night before the Passion without sleep)! They\nroused themselves then, and began again to lament. But barely had the\nsun risen when Mary of Magdala, panting, her hair dishevelled, rushed in\nwith the cry,"
+  },
+  {
+   "n": 49,
+   "para": 35,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“They have taken away the Lord!”"
+  },
+  {
+   "n": 50,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When they heard this,\nhe and John sprang up and ran toward the sepulchre. But John, being\nyounger, arrived first; he saw the place empty, and dared not enter.\nOnly when there were three at the entrance did he, the person now\nspeaking to them, enter, and find on the stone a shirt with a winding\nsheet; but the body he found not."
+  },
+  {
+   "n": 51,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Fear fell on them then, because they thought that the priests had\nborne away Christ, and both returned home in greater grief still. Other\ndisciples came later and raised a lament, now in company, so that the\nLord of Hosts might hear them more easily, and now separately and in\nturn. The spirit died within them, for they had hoped that the Master\nwould redeem Israel, and it was now the third day since his death; hence\nthey did not understand why the Father had deserted the Son, and they\npreferred not to look at the daylight, but to die, so grievous was the\nburden."
+  },
+  {
+   "n": 52,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The remembrance of those terrible moments pressed even then from the\neyes of the old man two tears, which were visible by the light of the\nfire, coursing down his gray beard. His hairless and aged head was\nshaking, and the voice died in his breast."
+  },
+  {
+   "n": 53,
+   "para": 38,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“That man is speaking the truth and is weeping over it,”"
+  },
+  {
+   "n": 54,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius\nin his soul. Sorrow seized by the throat the simple-hearted listeners\nalso. They had heard more than once of Christ’s sufferings, and it was\nknown to them that joy succeeded sorrow; but since an apostle who had\nseen it told this, they wrung their hands under the impression, and\nsobbed or beat their breasts."
+  },
+  {
+   "n": 55,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But they calmed themselves gradually, for the wish to hear more gained\nthe mastery. The old man closed his eyes, as if to see distant things\nmore distinctly in his soul, and continued,--"
+  },
+  {
+   "n": 56,
+   "para": 39,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“When the disciples had\nlamented in this way, Mary of Magdala rushed in a second time, crying\nthat she had seen the Lord. Unable to recognize him, she thought him\nthe gardener: but He said, ‘Mary!’ She cried ‘Rabboni!’ and fell at his\nfeet. He commanded her to go to the disciples, and vanished. But they,\nthe disciples, did not believe her; and when she wept for joy, some\nupbraided her, some thought that sorrow had disturbed her mind, for\nshe said, too, that she had seen angels at the grave, but they, running\nthither a second time, saw the grave empty. Later in the evening\nappeared Cleopas, who had come with another from Emmaus, and they\nreturned quickly, saying: ‘The Lord has indeed risen!’ And they\ndiscussed with closed doors, out of fear of the Jews. Meanwhile He stood\namong them, though the doors had made no sound, and when they feared, He\nsaid, ‘Peace be with you!’"
+  },
+  {
+   "n": 57,
+   "para": 40,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“And I saw Him, as did all, and He was like light, and like the\nhappiness of our hearts, for we believed that He had risen from the\ndead, and that the seas will dry and the mountains turn to dust, but His\nglory will not pass."
+  },
+  {
+   "n": 58,
+   "para": 41,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“After eight days Thomas Didymus put his finger in the Lord’s wounds and\ntouched His side; Thomas fell at His feet then, and cried, ‘My Lord and\nmy God!’ ‘Because thou hast seen me thou hast believed; blessed are they\nwho have not seen and have believed!’ said the Lord. And we heard those\nwords, and our eyes looked at Him, for He was among us.”"
+  },
+  {
+   "n": 59,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius listened, and something wonderful took place in him. He forgot\nfor a moment where he was; he began to lose the feeling of reality, of\nmeasure, of judgment. He stood in the presence of two impossibilities.\nHe could not believe what the old man said; and he felt that it would be\nnecessary either to be blind or renounce one’s own reason, to admit\nthat that man who said “I saw” was lying. There was something in his\nmovements, in his tears, in his whole figure, and in the details of\nthe events which he narrated, which made every suspicion impossible. To\nVinicius it seemed at moments that he was dreaming. But round about he\nsaw the silent throng; the odor of lanterns came to his nostrils; at a\ndistance the torches were blazing; and before him on the stone stood\nan aged man near the grave, with a head trembling somewhat, who, while\nbearing witness, repeated, “I saw!”"
+  },
+  {
+   "n": 60,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he narrated to them everything up to the Ascension into heaven. At\nmoments he rested, for he spoke very circumstantially; but it could be\nfelt that each minute detail had fixed itself in his memory, as a thing\nis fixed in a stone into which it has been engraved. Those who listened\nto him were seized by ecstasy. They threw back their hoods to hear him\nbetter, and not lose a word of those which for them were priceless. It\nseemed to them that some superhuman power had borne them to Galilee;\nthat they were walking with the disciples through those groves and on\nthose waters; that the cemetery was turned into the lake of Tiberius;\nthat on the bank, in the mist of morning, stood Christ, as he stood\nwhen John, looking from the boat, said,"
+  },
+  {
+   "n": 61,
+   "para": 43,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“It is the Lord,”"
+  },
+  {
+   "n": 62,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "and Peter cast\nhimself in to swim, so as to fall the more quickly at the beloved feet.\nIn the faces of those present were evident enthusiasm beyond bounds,\noblivion of life, happiness, and love immeasurable. It was clear that\nduring Peter’s long narrative some of them had visions. When he began\nto tell how, at the moment of Ascension, the clouds closed in under\nthe feet of the Saviour, covered Him, and hid Him from the eyes of the\nApostles, all heads were raised toward the sky unconsciously, and a\nmoment followed as it were of expectation, as if those people hoped to\nsee Him or as if they hoped that He would descend again from the fields\nof heaven, and see how the old Apostle was feeding the sheep confided to\nhim, and bless both the flock and him."
+  },
+  {
+   "n": 63,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Rome did not exist for those people, nor did the man Cæsar; there were\nno temples of pagan gods; there was only Christ, who filled the land,\nthe sea, the heavens, and the world."
+  },
+  {
+   "n": 64,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At the houses scattered here and there along the Via Nomentana, the\ncocks began to crow, announcing midnight. At that moment Chilo pulled\nthe corner of Vinicius’s mantle and whispered,--"
+  },
+  {
+   "n": 65,
+   "para": 45,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Lord, I see Urban over\nthere, not far from the old man, and with him is a maiden.”"
+  },
+  {
+   "n": 66,
+   "score": {
+    "key": "lygia",
+    "at": "he saw Lygia",
+    "xfade": 4
+   },
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius shook himself, as if out of a dream, and, turning in the\ndirection indicated by the Greek, he saw Lygia."
+  }
+ ]
+}

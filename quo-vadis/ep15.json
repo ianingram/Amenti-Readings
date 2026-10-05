@@ -1,0 +1,127 @@
+{
+ "work": "quo-vadis",
+ "episode": 15,
+ "chapter": 15,
+ "title": "A Letter from Antium",
+ "document": "PART TWO · CHAPTER XV",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch15.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Petronius’s letter from Antium, read in his own voice. Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XV"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "opulence",
+    "at": "PETRONIUS to VINICIUS:",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "PETRONIUS to VINICIUS:"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I send to thee from Antium, by a trusty slave, this letter, to which,\nthough thy hand is more accustomed to the sword and the javelin than the\npen, I think that thou wilt answer through the same messenger without\nneedless delay. I left thee on a good trail, and full of hope; hence\nI trust that thou hast either satisfied thy pleasant desires in the\nembraces of Lygia, or wilt satisfy them before the real wintry wind from\nthe summits of Soracte shall blow on the Campania. Oh, my Vinicius! may\nthy preceptress be the golden goddess of Cyprus; be thou, on thy part,\nthe preceptor of that Lygian Aurora, who is fleeing before the sun of\nlove. And remember always that marble, though most precious, is nothing\nof itself, and acquires real value only when the sculptor’s hand turns\nit into a masterpiece. Be thou such a sculptor, carissime! To love is\nnot sufficient; one must know how to love; one must know how to teach\nlove. Though the plebs, too, and even animals, experience pleasure, a\ngenuine man differs from them in this especially, that he makes love\nin some way a noble art, and, admiring it, knows all its divine value,\nmakes it present in his mind, thus satisfying not his body merely,\nbut his soul. More than once, when I think here of the emptiness, the\nuncertainty, the dreariness of life, it occurs to me that perhaps thou\nhast chosen better, and that not Cæsar’s court, but war and love, are\nthe only objects for which it is worth while to be born and to live."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou wert fortunate in war, be fortunate also in love; and if thou art\ncurious as to what men are doing at the court of Cæsar, I will inform\nthee from time to time. We are living here at Antium, and nursing our\nheavenly voice; we continue to cherish the same hatred of Rome, and\nthink of betaking ourselves to Baiæ for the winter, to appear in public\nat Naples, whose inhabitants, being Greeks, will appreciate us better\nthan that wolf brood on the banks of the Tiber. People will hasten\nthither from Baiæ, from Pompeii, Puteoli, Cumæ, and Stabia; neither\napplause nor crowns will be lacking, and that will be an encouragement\nfor the proposed expedition to Achæa."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“But the memory of the infant Augusta? Yes! we are bewailing her yet. We\nare singing hymns of our own composition, so wonderful that the sirens\nhave been hiding from envy in Amphitrite’s deepest caves. But the\ndolphins would listen to us, were they not prevented by the sound of the\nsea. Our suffering is not allayed yet; hence we will exhibit it to the\nworld in every form which sculpture can employ, and observe carefully if\nwe are beautiful in our suffering and if people recognize this beauty.\nOh, my dear! we shall die buffoons and comedians!"
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“All the Augustians are here, male and female, not counting ten thousand\nservants, and five hundred she asses, in whose milk Poppæa bathes. At\ntimes even it is cheerful here. Calvia Crispinilla is growing old. It\nis said that she has begged Poppæa to let her take the bath immediately\nafter herself. Lucan slapped Nigidia on the face, because he suspected\nher of relations with a gladiator. Sporus lost his wife at dice to\nSenecio. Torquatus Silanus has offered me for Eunice four chestnut\nhorses, which this year will win the prize beyond doubt. I would not\naccept! Thanks to thee, also, that thou didst not take her. As to\nTorquatus Silanus, the poor man does not even suspect that he is already\nmore a shade than a man. His death is decided. And knowest what his\ncrime is? He is the great-grandson of the deified Augustus. There is no\nrescue for him. Such is our world."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“As is known to thee, we have been expecting Tiridates here; meanwhile\nVologeses has written an offensive letter. Because he has conquered\nArmenia, he asks that it be left to him for Tiridates; if not, he\nwill not yield it in any case. Pure comedy! So we have decided on war.\nCorbulo will receive power such as Pompeius Magnus received in the war\nwith pirates. There was a moment, however, when Nero hesitated. He seems\nafraid of the glory which Corbulo will win in case of victory. It was\neven thought to offer the chief command to our Aulus. This was opposed\nby Poppæa, for whom evidently Pomponia’s virtue is as salt in the eye."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Vatinius described to us a remarkable fight of gladiators, which is\nto take place in Beneventum. See to what cobblers rise in our time,\nin spite of the saying, ‘Ne sutor ultra crepidam!’ Vitelius is the\ndescendant of a cobbler; but Vatinius is the son of one! Perhaps he\ndrew thread himself! The actor Aliturus represented Oedipus yesterday\nwonderfully. I asked him, by the way, as a Jew, if Christians and Jews\nwere the same. He answered that the Jews have an eternal religion, but\nthat Christians are a new sect risen recently in Judea; that in the time\nof Tiberius the Jews crucified a certain man, whose adherents increase\ndaily, and that the Christians consider him as God. They refuse, it\nseems, to recognize other gods, ours especially. I cannot understand\nwhat harm it would do them to recognize these gods."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Tigellinus shows me open enmity now. So far he is unequal to me; but\nhe is, superior in this, that he cares more for life, and is at the same\ntime a greater scoundrel, which brings him nearer Ahenobarbus. These two\nwill understand each other earlier or later, and then my turn will come.\nI know not when it will come; but I know this, that as things are it\nmust come; hence let time pass. Meanwhile we must amuse ourselves. Life\nof itself would not be bad were it not for Bronzebeard. Thanks to him,\na man at times is disgusted with himself. It is not correct to consider\nthe struggle for his favor as a kind of rivalry in a circus,--as a\nkind of game, as a struggle, in which victory flatters vanity. True, I\nexplain it to myself in that way frequently; but still it seems to me\nsometimes that I am like Chilo, and better in nothing than he. When he\nceases to be needful to thee, send him to me. I have taken a fancy to\nhis edifying conversation. A greeting from me to thy divine Christian,\nor rather beg her in my name not to be a fish to thee. Inform me of thy\nhealth, inform me of thy love, know how to love, teach how to love, and\nfarewell.”"
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "VINICIUS to PETRONIUS:"
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Lygia is not found yet! Were it not for the hope that I shall find her\nsoon, thou wouldst not receive an answer; for when a man is disgusted\nwith life, he has no wish to write letters. I wanted to learn whether\nChilo was not deceiving me; and at night when he came to get the money\nfor Euricius, I threw on a military mantle, and unobserved followed\nhim and the slave whom I sent with him. When they reached the place, I\nwatched from a distance, hidden behind a portico pillar, and convinced\nmyself that Euricius was not invented. Below, a number of tens of people\nwere unloading stones from a spacious barge, and piling them up on the\nbank. I saw Chilo approach them, and begin to talk with some old man,\nwho after a while fell at his feet. Others surrounded them with shouts\nof admiration. Before my eyes the boy gave a purse to Euricius, who on\nseizing it began to pray with upraised hands, while at his side some\nsecond person was kneeling, evidently his son. Chilo said something\nwhich I could not hear, and blessed the two who were kneeling, as well\nas others, making in the air signs in the form of a cross, which they\nhonor apparently, for all bent their knees. The desire seized me to go\namong them, and promise three such purses to him who would deliver to me\nLygia; but I feared to spoil Chilo’s work, and after hesitating a moment\nwent home."
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“This happened at least twelve days after thy departure. Since then\nChilo has been a number of times with me. He says that he has gained\ngreat significance among the Christians; that if he has not found Lygia\nso far, it is because the Christians in Rome are innumerable, hence all\nare not acquainted with each person in their community, and cannot know\neverything that is done in it. They are cautious, too, and in general\nreticent. He gives assurance, however, that when he reaches the elders,\nwho are called presbyters, he will learn every secret. He has made the\nacquaintance of a number of these already, and has begun to inquire of\nthem, though carefully, so as not to rouse suspicion by haste, and not\nto make the work still more difficult. Though it is hard to wait, though\npatience fails, I feel that he is right, and I wait."
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“He learned, too, that they have places of meeting for prayer,\nfrequently outside the city, in empty houses and even in sand-pits.\nThere they worship Christ, sing hymns, and have feasts. There are many\nsuch places. Chilo supposes that Lygia goes purposely to different ones\nfrom Pomponia, so that the latter, in case of legal proceedings or an\nexamination, might swear boldly that she knew nothing of Lygia’s hiding\nplace. It may be that the presbyters have advised caution. When Chilo\ndiscovers those places, I will go with him; and if the gods let me see\nLygia, I swear to thee by Jupiter that she will not escape my hands this\ntime."
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I am thinking continually of those places of prayer. Chilo is unwilling\nthat I should go with him; he is afraid. But I cannot stay at home. I\nshould know her at once, even in disguise or if veiled. They assemble in\nthe night, but I should recognize her in the night even. I should know\nher voice and motions anywhere. I will go myself in disguise, and look\nat every person who goes in or out. I am thinking of her always, and\nshall recognize her. Chilo is to come to-morrow, and we shall go. I\nwill take arms. Some of my slaves sent to the provinces have returned\nempty-handed. But I am certain now that she is in the city, perhaps\nnot far away even. I myself have visited many houses under pretext of\nrenting them. She will fare better with me a hundred times; where she\nis, whole legions of poor people dwell. Besides, I shall spare nothing\nfor her sake. Thou writest that I have chosen well. I have chosen\nsuffering and sorrow. We shall go first to those houses which are in\nthe city, then beyond the gates. Hope looks for something every morning,\notherwise life would be impossible. Thou sayest that one should know how\nto love. I knew how to talk of love to Lygia. But now I only yearn; I do\nnothing but wait for Chilo. Life to me is unendurable in my own house.\nFarewell!”"
+  }
+ ]
+}

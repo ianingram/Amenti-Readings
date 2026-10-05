@@ -1,0 +1,772 @@
+{
+ "work": "quo-vadis",
+ "episode": 12,
+ "chapter": 12,
+ "title": "Eunice",
+ "document": "PART TWO · CHAPTER XII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch12.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Eunice",
+   "cast_as": "Sappho"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XII"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "opulence",
+    "at": "WHEN they alighted in front of the arbiter’s house, the chie",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "WHEN they alighted in front of the arbiter’s house, the chief of the\natrium answered them that of slaves sent to the gates none had returned\nyet. The atriensis had given orders to take food to them, and a new\ncommand, that under penalty of rods they were to watch carefully all who\nleft the city."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou seest,”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius,"
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“that they are in Rome, beyond doubt, and\nin that case we shall find them. But command thy people also to watch\nat the gates,--those, namely, who were sent for Lygia, as they will\nrecognize her easily.”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I have given orders to send them to rural prisons,”"
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius,"
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“but\nI will recall the orders at once, and let them go to the gates.”"
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And writing a few words on a wax-covered tablet, he handed it to\nPetronius, who gave directions to send it at once to the house of\nVinicius. Then they passed into the interior portico, and, sitting on\na marble bench, began to talk. The golden-haired Eunice and Iras pushed\nbronze footstools under their feet, and poured wine for them into\ngoblets, out of wonderful narrow-necked pitchers from Volaterræ and\nCæcina."
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Hast thou among thy people any one who knows that giant Lygian?”"
+  },
+  {
+   "n": 11,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked\nPetronius."
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Atacinus and Gulo knew him; but Atacinus fell yesterday at the litter,\nand Gulo I killed.”"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I am sorry for him,”"
+  },
+  {
+   "n": 14,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius."
+  },
+  {
+   "n": 15,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“He carried not only thee, but me,\nin his arms.”"
+  },
+  {
+   "n": 16,
+   "para": 8,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I intended to free him,”"
+  },
+  {
+   "n": 17,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius;"
+  },
+  {
+   "n": 18,
+   "para": 8,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“but do not mention him.\nLet us speak of Lygia. Rome is a sea-”"
+  },
+  {
+   "n": 19,
+   "para": 9,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“A sea is just the place where men fish for pearls. Of course we shall\nnot find her to-day, or to-morrow, but we shall find her surely. Thou\nhast accused me just now of giving thee this method; but the method was\ngood in itself, and became bad only when turned to bad. Thou hast heard\nfrom Aulus himself, that he intends to go to Sicily with his whole\nfamily. In that case the girl would be far from thee.”"
+  },
+  {
+   "n": 20,
+   "para": 10,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I should follow them,”"
+  },
+  {
+   "n": 21,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius,"
+  },
+  {
+   "n": 22,
+   "para": 10,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“and in every case she would be\nout of danger; but now, if that child dies, Poppæa will believe, and\nwill persuade Cæsar, that she died because of Lygia.”"
+  },
+  {
+   "n": 23,
+   "para": 11,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“True; that alarmed me, too. But that little doll may recover. Should\nshe die, we shall find some way of escape.”"
+  },
+  {
+   "n": 24,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here Petronius meditated a while and added,--"
+  },
+  {
+   "n": 25,
+   "para": 12,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Poppæa, it is said,\nfollows the religion of the Jews, and believes in evil spirits. Cæsar\nis superstitious. If we spread the report that evil spirits carried off\nLygia, the news will find belief, especially as neither Cæsar nor Aulus\nPlautius intercepted her; her escape was really mysterious. The Lygian\ncould not have effected it alone; he must have had help. And where could\na slave find so many people in the course of one day?”"
+  },
+  {
+   "n": 26,
+   "para": 13,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Slaves help one another in Rome.”"
+  },
+  {
+   "n": 27,
+   "para": 14,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Some person pays for that with blood at times. True, they support one\nanother, but not some against others. In this case it was known that\nresponsibility and punishment would fall on thy people. If thou give\nthy people the idea of evil spirits, they will say at once that they saw\nsuch with their own eyes, because that will justify them in thy sight.\nAsk one of them, as a test, if he did not see spirits carrying off Lygia\nthrough the air, he will swear at once by the ægis of Zeus that he saw\nthem.”"
+  },
+  {
+   "n": 28,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius, who was superstitious also, looked at Petronius with sudden\nand great fear."
+  },
+  {
+   "n": 29,
+   "para": 16,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“If Ursus could not have men to help him, and was not able to take her\nalone, who could take her?”"
+  },
+  {
+   "n": 30,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius began to laugh."
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“See,”"
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“they will believe, since thou art half a believer\nthyself. Such is our society, which ridicules the gods. They, too, will\nbelieve, and they will not look for her. Meanwhile we shall put her away\nsomewhere far off from the city, in some villa of mine or thine.”"
+  },
+  {
+   "n": 34,
+   "para": 19,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“But who could help her?”"
+  },
+  {
+   "n": 35,
+   "para": 20,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Her co-religionists,”"
+  },
+  {
+   "n": 36,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius."
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Who are they? What deity does she worship? I ought to know that better\nthan thou.”"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Nearly every woman in Rome honors a different one. It is almost beyond\ndoubt that Pomponia reared her in the religion of that deity which\nshe herself worships; what one she worships I know not. One thing is\ncertain, that no person has seen her make an offering to our gods in any\ntemple. They have accused her even of being a Christian; but that is not\npossible; a domestic tribunal cleared her of the charge. They say that\nChristians not only worship an ass’s head, but are enemies of the human\nrace, and permit the foulest crimes. Pomponia cannot be a Christian,\nas her virtue is known, and an enemy of the human race could not treat\nslaves as she does.”"
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“In no house are they treated as at Aulus’s,”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "interrupted Vinicius."
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Ah! Pomponia mentioned to me some god, who must be one powerful and\nmerciful. Where she has put away all the others is her affair; it is\nenough that that Logos of hers cannot be very mighty, or rather he must\nbe a very weak god, since he has had only two adherents,--Pomponia and\nLygia,--and Ursus in addition. It must be that there are more of those\nadherents, and that they assisted Lygia.”"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“That faith commands forgiveness,”"
+  },
+  {
+   "n": 43,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius."
+  },
+  {
+   "n": 44,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“At Acte’s I met\nPomponia, who said to me: ‘May God forgive thee the evil which thou hast\ndone to us and to Lygia.’”"
+  },
+  {
+   "n": 45,
+   "para": 26,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Evidently their God is some curator who is very mild. Ha! let him\nforgive thee, and in sign of forgiveness return thee the maiden.”"
+  },
+  {
+   "n": 46,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I would offer him a hecatomb to-morrow! I have no wish for food, or the\nbath, or sleep. I will take a dark lantern and wander through the city.\nPerhaps I shall find her in disguise. I am sick.”"
+  },
+  {
+   "n": 47,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius looked at him with commiseration. In fact, there was blue\nunder his eyes, his pupils were gleaming with fever, his unshaven beard\nindicated a dark strip on his firmly outlined jaws, his hair was in\ndisorder, and he was really like a sick man. Iras and the golden-haired\nEunice looked at him also with sympathy; but he seemed not to see them,\nand he and Petronius took no notice whatever of the slave women, just as\nthey would not have noticed dogs moving around them."
+  },
+  {
+   "n": 48,
+   "para": 29,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Fever is tormenting thee,”"
+  },
+  {
+   "n": 49,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius."
+  },
+  {
+   "n": 50,
+   "para": 30,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“It is.”"
+  },
+  {
+   "n": 51,
+   "para": 31,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Then listen to me. I know not what the doctor has prescribed to thee,\nbut I know how I should act in thy place. Till this lost one is found I\nshould seek in another that which for the moment has gone from me with\nher. I saw splendid forms at thy villa. Do not contradict me. I know\nwhat love is; and I know that when one is desired another cannot\ntake her place. But in a beautiful slave it is possible to find even\nmomentary distraction.”"
+  },
+  {
+   "n": 52,
+   "para": 32,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I do not need it,”"
+  },
+  {
+   "n": 53,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius."
+  },
+  {
+   "n": 54,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Petronius, who had for him a real weakness, and who wished to soften\nhis pain, began to meditate how he might do so."
+  },
+  {
+   "n": 55,
+   "para": 34,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Perhaps thine have not for thee the charm of novelty,”"
+  },
+  {
+   "n": 56,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, after a\nwhile (and here he began to look in turn at Iras and Eunice, and finally\nhe placed his palm on the hip of the golden-haired Eunice)."
+  },
+  {
+   "n": 57,
+   "para": 34,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Look\nat this grace! for whom some days since Fonteius Capiton the younger\noffered three wonderful boys from Clazomene. A more beautiful figure\nthan hers even Skopas himself has not chiselled. I myself cannot tell\nwhy I have remained indifferent to her thus far, since thoughts of\nChrysothemis have not restrained me. Well, I give her to thee; take her\nfor thyself!”"
+  },
+  {
+   "n": 58,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When the golden-haired Eunice heard this, she grew pale in one moment,\nand, looking with frightened eyes on Vinicius, seemed to wait for his\nanswer without breath in her breast."
+  },
+  {
+   "n": 59,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But he sprang up suddenly, and, pressing his temples with his hands,\nsaid quickly, like a man who is tortured by disease, and will not hear\nanything,--"
+  },
+  {
+   "n": 60,
+   "para": 36,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“No, no! I care not for her! I care not for others! I thank\nthee, but I do not want her. I will seek that one through the city. Give\ncommand to bring me a Gallic cloak with a hood. I will go beyond the\nTiber--if I could see even Ursus.”"
+  },
+  {
+   "n": 61,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he hurried away. Petronius, seeing that he could not remain in one\nplace, did not try to detain him. Taking, however, his refusal as a\ntemporary dislike for all women save Lygia, and not wishing his own\nmagnanimity to go for naught, he said, turning to the slave,--"
+  },
+  {
+   "n": 62,
+   "para": 37,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Eunice,\nthou wilt bathe and anoint thyself, then dress: after that thou wilt go\nto the house of Vinicius.”"
+  },
+  {
+   "n": 63,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But she dropped before him on her knees, and with joined palms implored\nhim not to remove her from the house. She would not go to Vinicius, she\nsaid. She would rather carry fuel to the hypocaustum in his house than\nbe chief servant in that of Vinicius. She would not, she could not go;\nand she begged him to have pity on her. Let him give command to flog her\ndaily, only not send her away."
+  },
+  {
+   "n": 64,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And trembling like a leaf with fear and excitement, she stretched her\nhands to him, while he listened with amazement. A slave who ventured to\nbeg relief from the fulfilment of a command, who said “I will not and\nI cannot,” was something so unheard-of in Rome that Petronius could not\nbelieve his own ears at first. Finally he frowned. He was too refined\nto be cruel. His slaves, especially in the department of pleasure,\nwere freer than others, on condition of performing their service in an\nexemplary manner, and honoring the will of their master, like that of a\ngod. In case they failed in these two respects, he was able not to spare\npunishment, to which, according to general custom, they were subject.\nSince, besides this, he could not endure opposition, nor anything which\nruffled his calmness, he looked for a while at the kneeling girl, and\nthen said,--“Call Tiresias, and return with him.”"
+  },
+  {
+   "n": 65,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Eunice rose, trembling, with tears in her eyes, and went out; after a\ntime she returned with the chief of the atrium, Tiresias, a Cretan."
+  },
+  {
+   "n": 66,
+   "para": 41,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou wilt take Eunice,”"
+  },
+  {
+   "n": 67,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius,"
+  },
+  {
+   "n": 68,
+   "para": 41,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“and give her five-and-twenty\nlashes, in such fashion, however, as not to harm her skin.”"
+  },
+  {
+   "n": 69,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When he had said this, he passed into the library, and, sitting down\nat a table of rose-colored marble, began to work on his “Feast of\nTrimalchion.” But the flight of Lygia and the illness of the infant\nAugusta had disturbed his mind so much that he could not work long. That\nillness, above all, was important. It occurred to Petronius that\nwere Cæsar to believe that Lygia had cast spells on the infant, the\nresponsibility might fall on him also, for the girl had been brought\nat his request to the palace. But he could reckon on this, that at the\nfirst interview with Cæsar he would be able in some way to show the\nutter absurdity of such an idea; he counted a little, too, on a certain\nweakness which Poppæa had for him,--a weakness hidden carefully, it is\ntrue, but not so carefully that he could not divine it. After a while\nhe shrugged his shoulders at these fears, and decided to go to the\ntriclinium to strengthen himself, and then order the litter to bear him\nonce more to the palace, after that to the Campus Martius, and then to\nChrysothemis."
+  },
+  {
+   "n": 70,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But on the way to the triclinium at the entrance to the corridor\nassigned to servants, he saw unexpectedly the slender form of Eunice\nstanding, among other slaves, at the wall; and forgetting that he had\ngiven Tiresias no order beyond flogging her, he wrinkled his brow again,\nand looked around for the atriensis. Not seeing him among the servants,\nhe turned to Eunice."
+  },
+  {
+   "n": 71,
+   "para": 44,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Hast thou received the lashes?”"
+  },
+  {
+   "n": 72,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She cast herself at his feet a second time, pressed the border of his\ntoga to her lips, and said,--"
+  },
+  {
+   "n": 73,
+   "para": 45,
+   "role": "Eunice",
+   "cast": "Sappho",
+   "text": "“Oh, yes, lord, I have received them! Oh,\nyes, lord!”"
+  },
+  {
+   "n": 74,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In her voice were heard, as it were, joy and gratitude. It\nwas clear that she looked on the lashes as a substitute for her removal\nfrom the house, and that now she might stay there. Petronius, who\nunderstood this, wondered at the passionate resistance of the girl; but\nhe was too deeply versed in human nature not to know that love alone\ncould call forth such resistance."
+  },
+  {
+   "n": 75,
+   "para": 46,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Dost thou love some one in this house?”"
+  },
+  {
+   "n": 76,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked he."
+  },
+  {
+   "n": 77,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She raised her blue, tearful eyes to him, and answered, in a voice so\nlow that it was hardly possible to hear her,--"
+  },
+  {
+   "n": 78,
+   "para": 47,
+   "role": "Eunice",
+   "cast": "Sappho",
+   "text": "“Yes, lord.”"
+  },
+  {
+   "n": 79,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And with those eyes, with that golden hair thrown back, with fear\nand hope in her face, she was so beautiful, she looked at him so\nentreatingly, that Petronius, who, as a philosopher, had proclaimed the\nmight of love, and who, as a man of æsthetic nature, had given homage to\nall beauty, felt for her a certain species of compassion."
+  },
+  {
+   "n": 80,
+   "para": 49,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Whom of those dost thou love?”"
+  },
+  {
+   "n": 81,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired he, indicating the servants\nwith his head."
+  },
+  {
+   "n": 82,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "There was no answer to that question. Eunice inclined her head to his\nfeet and remained motionless."
+  },
+  {
+   "n": 83,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius looked at the slaves, among whom were beautiful and stately\nyouths. He could read nothing on any face; on the contrary, all had\ncertain strange smiles. He looked then for a while on Eunice lying at\nhis feet, and went in silence to the triclinium."
+  },
+  {
+   "n": 84,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After he had eaten, he gave command to bear him to the palace, and then\nto Chrysothemis, with whom he remained till late at night. But when he\nreturned, he gave command to call Tiresias."
+  },
+  {
+   "n": 85,
+   "para": 53,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Did Eunice receive the flogging?”"
+  },
+  {
+   "n": 86,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired he."
+  },
+  {
+   "n": 87,
+   "para": 54,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“She did, lord. Thou didst not let the skin be cut, however.”"
+  },
+  {
+   "n": 88,
+   "para": 55,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Did I give no other command touching her?”"
+  },
+  {
+   "n": 89,
+   "para": 56,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“No, lord,”"
+  },
+  {
+   "n": 90,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered the atriensis with alarm."
+  },
+  {
+   "n": 91,
+   "para": 57,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“That is well. Whom of the slaves does she love?”"
+  },
+  {
+   "n": 92,
+   "para": 58,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“No one, lord.”"
+  },
+  {
+   "n": 93,
+   "para": 59,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“What dost thou know of her?”"
+  },
+  {
+   "n": 94,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Tiresias began to speak in a somewhat uncertain voice:"
+  },
+  {
+   "n": 95,
+   "para": 61,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“At night Eunice never leaves the cubiculum in which she lives with\nold Acrisiona and Ifida; after thou art dressed she never goes to the\nbath-rooms. Other slaves ridicule her, and call her Diana.”"
+  },
+  {
+   "n": 96,
+   "para": 62,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Enough,”"
+  },
+  {
+   "n": 97,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius."
+  },
+  {
+   "n": 98,
+   "para": 62,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“My relative, Vinicius, to whom I offered her\nto-day, did not accept her; hence she may stay in the house. Thou art\nfree to go.”"
+  },
+  {
+   "n": 99,
+   "para": 63,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Is it permitted me to speak more of Eunice, lord?”"
+  },
+  {
+   "n": 100,
+   "para": 64,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I have commanded thee to say all thou knowest.”"
+  },
+  {
+   "n": 101,
+   "para": 65,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“The whole familia are speaking of the flight of the maiden who was to\ndwell in the house of the noble Vinicius. After thy departure, Eunice\ncame to me and said that she knew a man who could find her.”"
+  },
+  {
+   "n": 102,
+   "para": 66,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Ah! What kind of man is he?”"
+  },
+  {
+   "n": 103,
+   "para": 67,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I know not, lord; but I thought that I ought to inform thee of this\nmatter.”"
+  },
+  {
+   "n": 104,
+   "para": 68,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“That is well. Let that man wait to-morrow in my house for the arrival\nof the tribune, whom thou wilt request in my name to meet me here.”"
+  },
+  {
+   "n": 105,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The atriensis bowed and went out. But Petronius began to think of\nEunice. At first it seemed clear to him that the young slave wished\nVinicius to find Lygia for this reason only, that she would not be\nforced from his house. Afterward, however, it occurred to him that the\nman whom Eunice was pushing forward might be her lover, and all at once\nthat thought seemed to him disagreeable. There was, it is true, a simple\nway of learning the truth, for it was enough to summon Eunice; but\nthe hour was late, Petronius felt tired after his long visit with\nChrysothemis, and was in a hurry to sleep. But on the way to the\ncubiculum he remembered--it is unknown why--that he had noticed\nwrinkles, that day, in the corners of Chrysothemis’s eyes. He thought,\nalso, that her beauty was more celebrated in Rome than it deserved; and\nthat Fonteius Capiton, who had offered him three boys from Clazomene for\nEunice, wanted to buy her too cheaply."
+  }
+ ]
+}

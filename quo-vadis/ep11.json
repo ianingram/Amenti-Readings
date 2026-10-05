@@ -1,0 +1,742 @@
+{
+ "work": "quo-vadis",
+ "episode": 11,
+ "chapter": 11,
+ "title": "The Palace",
+ "document": "PART TWO · CHAPTER XI",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch11.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  },
+  {
+   "role": "Pomponia Græcina",
+   "cast_as": "Hypatia"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XI"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "vinicius",
+    "at": "VINICIUS did not lie down that night. Some time after the de",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "VINICIUS did not lie down that night. Some time after the departure of\nPetronius, when the groans of his flogged slaves could allay neither his\nrage nor his pain, he collected a crowd of other servants, and, though\nthe night was far advanced, rushed forth at the head of these to look\nfor Lygia. He visited the district of the Esquiline, then the Subura,\nVicus Sceleratus, and all the adjoining alleys. Passing next around the\nCapitol, he went to the island over the bridge of Fabricius; after that\nhe passed through a part of the Trans-Tiber. But that was a pursuit\nwithout object, for he himself had no hope of finding Lygia, and if he\nsought her it was mainly to fill out with something a terrible night.\nIn fact he returned home about daybreak, when the carts and mules of\ndealers in vegetables began to appear in the city, and when bakers were\nopening their shops."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "On returning he gave command to put away Gulo’s corpse, which no one had\nventured to touch. The slaves from whom Lygia had been taken he sent to\nrural prisons,--a punishment almost more dreadful than death. Throwing\nhimself at last on a couch in the atrium, he began to think confusedly\nof how he was to find and seize Lygia."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "To resign her, to lose her, not to see her again, seemed to him\nimpossible; and at this thought alone frenzy took hold of him. For the\nfirst time in life the imperious nature of the youthful soldier met\nresistance, met another unbending will, and he could not understand\nsimply how any one could have the daring to thwart his wishes. Vinicius\nwould have chosen to see the world and the city sink in ruins rather\nthan fail of his purpose. The cup of delight had been snatched from\nbefore his lips almost; hence it seemed to him that something unheard of\nhad happened, something crying to divine and human laws for vengeance."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But, first of all, he was unwilling and unable to be reconciled with\nfate, for never in life had he so desired anything as Lygia. It seemed\nto him that he could not exist without her. He could not tell himself\nwhat he was to do without her on the morrow, how he was to survive the\ndays following. At moments he was transported by a rage against her,\nwhich approached madness. He wanted to have her, to beat her, to drag\nher by the hair to the cubiculum, and gloat over her; then, again, he\nwas carried away by a terrible yearning for her voice, her form, her\neyes, and he felt that he would be ready to lie at her feet. He called\nto her, gnawed his fingers, clasped his head with his hands. He strove\nwith all his might to think calmly about searching for her,--and was\nunable. A thousand methods and means flew through his head, but one\nwilder than another. At last the thought flashed on him that no one else\nhad intercepted her but Aulus, that in every case Aulus must know where\nshe was hiding. And he sprang up to run to the house of Aulus."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "If they will not yield her to him, if they have no fear of his threats,\nhe will go to Cæsar, accuse the old general of disobedience, and obtain\na sentence of death against him; but before that, he will gain from them\na confession of where Lygia is. If they give her, even willingly, he\nwill be revenged. They received him, it is true, in their house and\nnursed him,--but that is nothing! With this one injustice they have\nfreed him from every debt of gratitude. Here his vengeful and stubborn\nsoul began to take pleasure at the despair of Pomponia Græcina, when\nthe centurion would bring the death sentence to old Aulus. He was almost\ncertain that he would get it. Petronius would assist him. Moreover,\nCæsar never denies anything to his intimates, the Augustians, unless\npersonal dislike or desire enjoins a refusal."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Suddenly his heart almost died within him, under the influence of this\nterrible supposition,--"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“But if Cæsar himself has taken Lygia?”"
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "All knew that Nero from tedium sought recreation in night attacks. Even\nPetronius took part in these amusements. Their main object was to seize\nwomen and toss each on a soldier’s mantle till she fainted. Even Nero\nhimself on occasions called these expeditions"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“pearl hunts,”"
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "for it\nhappened that in the depth of districts occupied by a numerous and needy\npopulation they caught a real pearl of youth and beauty sometimes. Then\nthe"
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“sagatio,”"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "as they termed the tossing, was changed into a genuine\ncarrying away, and the pearl was sent either to the Palatine or to one\nof Cæsar’s numberless villas, or finally Cæsar yielded it to one of his\nintimates. So might it happen also with Lygia. Cæsar had seen her during\nthe feast; and Vinicius doubted not for an instant that she must have\nseemed to him the most beautiful woman he had seen yet. How could it\nbe otherwise? It is true that Lygia had been in Nero’s own house on\nthe Palatine, and he might have kept her openly. But, as Petronius said\ntruly, Cæsar had no courage in crime, and, with power to act openly, he\nchose to act always in secret. This time fear of Poppæa might incline\nhim also to secrecy. It occurred now to the young soldier that Aulus\nwould not have dared, perhaps, to carry off forcibly a girl given\nhim, Vinicius, by Cæsar. Besides, who would dare? Would that gigantic\nblue-eyed Lygian, who had the courage to enter the triclinium and carry\nher from the feast on his arm? But where could he hide with her; whither\ncould he take her? No! a slave would not have ventured that far. Hence\nno one had done the deed except Cæsar."
+  },
+  {
+   "n": 14,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At this thought it grew dark in his eyes, and drops of sweat covered his\nforehead. In that case Lygia was lost to him forever. It was possible\nto wrest her from the hands of any one else, but not from the hands of\nCæsar. Now, with greater truth than ever, could he exclaim,"
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Væ misero\nmihi!”"
+  },
+  {
+   "n": 16,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "His imagination represented Lygia in Nero’s arms, and, for the\nfirst time in life, he understood that there are thoughts which are\nsimply beyond man’s endurance. He knew then, for the first time, how he\nloved her. As his whole life flashes through the memory of a drowning\nman, so Lygia began to pass through his. He saw her, heard every word\nof hers,--saw her at the fountain, saw her at the house of Aulus, and at\nthe feast; felt her near him, felt the odor of her hair, the warmth of\nher body, the delight of the kisses which at the feast he had pressed\non her innocent lips. She seemed to him a hundred times sweeter, more\nbeautiful, more desired than ever,--a hundred times more the only\none, the one chosen from among all mortals and divinities. And when he\nthought that all this which had become so fixed in his heart, which had\nbecome his blood and life, might be possessed by Nero, a pain seized\nhim, which was purely physical, and so piercing that he wanted to beat\nhis head against the wall of the atrium, until he should break it. He\nfelt that he might go mad; and he would have gone mad beyond doubt, had\nnot vengeance remained to him. But as hitherto he had thought that he\ncould not live unless he got Lygia, he thought now that he would not\ndie till he had avenged her. This gave him a certain kind of comfort."
+  },
+  {
+   "n": 17,
+   "para": 8,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I\nwill be thy Cassius Chærea!”"
+  },
+  {
+   "n": 18,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "[The slayer of Caligula] said he to himself\nin thinking of Nero. After a while, seizing earth in his hands from\nthe flower vases surrounding the impluvium, he made a dreadful vow\nto Erebus, Hecate, and his own household lares, that he would have\nvengeance."
+  },
+  {
+   "n": 19,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he received a sort of consolation. He had at least something to live\nfor and something with which to fill his nights and days. Then, dropping\nhis idea of visiting Aulus, he gave command to bear him to the Palatine.\nAlong the way he concluded that if they would not admit him to Cæsar,\nor if they should try to find weapons on his person, it would be a proof\nthat Cæsar had taken Lygia. He had no weapons with him. He had lost\npresence of mind in general; but as is usual with persons possessed by a\nsingle idea, he preserved it in that which concerned his revenge. He did\nnot wish his desire of revenge to fall away prematurely. He wished above\nall to see Acte, for he expected to learn the truth from her. At moments\nthe hope flashed on him that he might see Lygia also, and at that\nthought he began to tremble. For if Cæsar had carried her away without\nknowledge of whom he was taking, he might return her that day. But after\na while he cast aside this supposition. Had there been a wish to return\nher to him, she would have been sent yesterday. Acte was the only person\nwho could explain everything, and there was need to see her before\nothers."
+  },
+  {
+   "n": 20,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Convinced of this, he commanded the slaves to hasten; and along the road\nhe thought without order, now of Lygia, now of revenge. He had heard\nthat Egyptian priests of the goddess Pasht could bring disease on\nwhomever they wished, and he determined to learn the means of doing\nthis. In the Orient they had told him, too, that Jews have certain\ninvocations by which they cover their enemies’ bodies with ulcers.\nHe had a number of Jews among his domestic slaves; hence he promised\nhimself to torture them on his return till they divulged the secret. He\nfound most delight, however, in thinking of the short Roman sword which\nlets out a stream of blood such as had gushed from Caius Caligula and\nmade ineffaceable stains on the columns of the portico. He was ready\nto exterminate all Rome; and had vengeful gods promised that all people\nshould die except him and Lygia, he would have accepted the promise."
+  },
+  {
+   "n": 21,
+   "score": {
+    "key": "court",
+    "at": "In front of the arch he regained presence of mind",
+    "xfade": 5
+   },
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In front of the arch he regained presence of mind, and thought when he\nsaw the pretorian guard,"
+  },
+  {
+   "n": 22,
+   "para": 11,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“If they make the least difficulty in admitting\nme, they will prove that Lygia is in the palace by the will of Cæsar.”"
+  },
+  {
+   "n": 23,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But the chief centurion smiled at him in a friendly manner, then\nadvanced a number of steps, and said,--“A greeting, noble tribune.\nIf thou desire to give an obeisance to Cæsar, thou hast found an\nunfortunate moment. I do not think that thou wilt be able to see him.”"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“What has happened?”"
+  },
+  {
+   "n": 25,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Vinicius."
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“The infant Augusta fell ill yesterday on a sudden. Cæsar and the august\nPoppæa are attending her, with physicians whom they have summoned from\nthe whole city.”"
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "This was an important event. When that daughter was born to him, Cæsar\nwas simply wild from delight, and received her with extra humanum\ngaudium. Previously the senate had committed the womb of Poppæa to the\ngods with the utmost solemnity. A votive offering was made at Antium,\nwhere the delivery took place; splendid games were celebrated, and\nbesides a temple was erected to the two Fortunes. Nero, unable to be\nmoderate in anything, loved the infant beyond measure; to Poppæa the\nchild was dear also, even for this, that it strengthened her position\nand made her influence irresistible."
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The fate of the whole empire might depend on the health and life of the\ninfant Augusta; but Vinicius was so occupied with himself, his own case\nand his love, that without paying attention to the news of the centurion\nhe answered, “I only wish to see Acte.” And he passed in."
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Acte was occupied also near the child, and he had to wait a long\ntime to see her. She came only about midday, with a face pale and\nwearied, which grew paler still at sight of Vinicius."
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Acte!”"
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "cried Vinicius, seizing her hand and drawing her to the middle\nof the atrium,"
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“where is Lygia?”"
+  },
+  {
+   "n": 33,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I wanted to ask thee touching that,” answered she, looking him in the\neyes with reproach."
+  },
+  {
+   "n": 34,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But though he had promised himself to inquire of her calmly, he pressed\nhis head with his hands again, and said, with a face distorted by pain\nand anger,--"
+  },
+  {
+   "n": 35,
+   "para": 20,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“She is gone. She was taken from me on the way!”"
+  },
+  {
+   "n": 36,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After a while, however, he recovered, and thrusting his face up to\nActe’s, said through his set teeth,--“Acte! If life be dear to thee,\nif thou wish not to cause misfortunes which thou are unable even to\nimagine, answer me truly. Did Cæsar take her?”"
+  },
+  {
+   "n": 37,
+   "para": 22,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Cæsar did not leave the palace yesterday.”"
+  },
+  {
+   "n": 38,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“By the shade of thy mother, by all the gods, is she not in the palace?”"
+  },
+  {
+   "n": 39,
+   "para": 24,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“By the shade of my mother, Marcus, she is not in the palace, and Cæsar\ndid not intercept her. The infant Augusta is ill since yesterday, and\nNero has not left her cradle.”"
+  },
+  {
+   "n": 40,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius drew breath. That which had seemed the most terrible ceased to\nthreaten him."
+  },
+  {
+   "n": 41,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Ah, then,” said he, sitting on the bench and clinching his fists,\n“Aulus intercepted her, and in that case woe to him!”"
+  },
+  {
+   "n": 42,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Aulus Plautius was here this morning. He could not see me, for I was\noccupied with the child; but he inquired of Epaphroditus, and others of\nCæsar’s servants, touching Lygia, and told them that he would come again\nto see me.”"
+  },
+  {
+   "n": 43,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“He wished to turn suspicion from himself. If he knew not what happened,\nhe would have come to seek Lygia in my house.”"
+  },
+  {
+   "n": 44,
+   "para": 29,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“He left a few words on a tablet, from which thou wilt see that, knowing\nLygia to have been taken from his house by Cæsar, at thy request and\nthat of Petronius, he expected that she would be sent to thee, and\nthis morning early he was at thy house, where they told him what had\nhappened.”"
+  },
+  {
+   "n": 45,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When she had said this, she went to the cubiculum and returned soon with\nthe tablet which Aulus had left."
+  },
+  {
+   "n": 46,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius read the tablet, and was silent; Acte seemed to read the\nthoughts on his gloomy face, for she said after a while,--“No, Marcus.\nThat has happened which Lygia herself wished.”"
+  },
+  {
+   "n": 47,
+   "para": 32,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“It was known to thee that she wished to flee!”"
+  },
+  {
+   "n": 48,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "burst out Vinicius."
+  },
+  {
+   "n": 49,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I knew that she would not become thy concubine.” And she looked at him\nwith her misty eyes almost sternly."
+  },
+  {
+   "n": 50,
+   "para": 34,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“And thou,--what hast thou been all thy life?”"
+  },
+  {
+   "n": 51,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I was a slave, first of all.”"
+  },
+  {
+   "n": 52,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Vinicius did not cease to be enraged. Cæsar had given him Lygia;\nhence he had no need to inquire what she had been before. He would find\nher, even under the earth, and he would do what he liked with her. He\nwould indeed! She should be his concubine. He would give command to flog\nher as often as he pleased. If she grew distasteful to him, he would\ngive her to the lowest of his slaves, or he would command her to turn a\nhandmill on his lands in Africa. He would seek her out now, and find her\nonly to bend her, to trample on her, and conquer her."
+  },
+  {
+   "n": 53,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And, growing more and more excited, he lost every sense of measure, to\nthe degree that even Acte saw that he was promising more than he could\nexecute; that he was talking because of pain and anger. She might have\nhad even compassion on him, but his extravagance exhausted her patience,\nand at last she inquired why he had come to her."
+  },
+  {
+   "n": 54,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius did not find an answer immediately. He had come to her\nbecause he wished to come, because he judged that she would give him\ninformation; but really he had come to Cæsar, and, not being able to see\nhim, he came to her. Lygia, by fleeing, opposed the will of Cæsar; hence\nhe would implore him to give an order to search for her throughout the\ncity and the empire, even if it came to using for that purpose all the\nlegions, and to ransacking in turn every house within Roman dominion.\nPetronius would support his prayer, and the search would begin from that\nday."
+  },
+  {
+   "n": 55,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Have a care,” answered Acte, “lest thou lose her forever the moment she\nis found, at command of Cæsar.”"
+  },
+  {
+   "n": 56,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius wrinkled his brows."
+  },
+  {
+   "n": 57,
+   "para": 40,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“What does that mean?”"
+  },
+  {
+   "n": 58,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired he."
+  },
+  {
+   "n": 59,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Listen to me, Marcus. Yesterday Lygia and I were in the gardens here,\nand we met Poppæa, with the infant Augusta, borne by an African woman,\nLilith. In the evening the child fell ill, and Lilith insists that\nshe was bewitched; that that foreign woman whom they met in the garden\nbewitched her. Should the child recover, they will forget this, but\nin the opposite case Poppæa will be the first to accuse Lygia of\nwitchcraft, and wherever she is found there will be no rescue for her.”"
+  },
+  {
+   "n": 60,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "A moment of silence followed; then Vinicius said,--"
+  },
+  {
+   "n": 61,
+   "para": 42,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“But perhaps she did\nbewitch her, and has bewitched me.”"
+  },
+  {
+   "n": 62,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Lilith repeats that the child began to cry the moment she carried her\npast us. And really the child did begin to cry. It is certain that she\nwas sick when they took her out of the garden. Marcus, seek for Lygia\nwhenever it may please thee, but till the infant Augusta recovers, speak\nnot of her to Cæsar, or thou wilt bring on her Poppæa’s vengeance. Her\neyes have wept enough because of thee already, and may all the gods\nguard her poor head.”"
+  },
+  {
+   "n": 63,
+   "para": 44,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Dost thou love her, Acte?”"
+  },
+  {
+   "n": 64,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Vinicius, gloomily."
+  },
+  {
+   "n": 65,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Yes, I love her.” And tears glittered in the eyes of the freedwoman."
+  },
+  {
+   "n": 66,
+   "para": 46,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou lovest her because she has not repaid thee with hatred, as she has\nme.”"
+  },
+  {
+   "n": 67,
+   "score": {
+    "key": "lygia",
+    "at": "O blind and passionate man--she loved thee.",
+    "xfade": 6
+   },
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Acte looked at him for a time as if hesitating, or as if wishing to\nlearn if he spoke sincerely; then she said,--“O blind and passionate\nman--she loved thee.”"
+  },
+  {
+   "n": 68,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius sprang up under the influence of those words, as if possessed."
+  },
+  {
+   "n": 69,
+   "para": 48,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“It is not true.”"
+  },
+  {
+   "n": 70,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She hated him. How could Acte know? Would Lygia make a confession to her\nafter one day’s acquaintance? What love is that which prefers wandering,\nthe disgrace of poverty, the uncertainty of to-morrow, or a shameful\ndeath even, to a wreath-bedecked house, in which a lover is waiting with\na feast? It is better for him not to hear such things, for he is ready\nto go mad. He would not have given that girl for all Cæsar’s treasures,\nand she fled. What kind of love is that which dreads delight and gives\npain? Who can understand it? Who can fathom it? Were it not for the\nhope that he should find her, he would sink a sword in himself. Love\nsurrenders; it does not take away. There were moments at the house of\nAulus when he himself believed in near happiness, but now he knows\nthat she hated him, that she hates him, and will die with hatred in her\nheart."
+  },
+  {
+   "n": 71,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Acte, usually mild and timid, burst forth in her turn with\nindignation. How had he tried to win Lygia? Instead of bowing before\nAulus and Pomponia to get her, he took the child away from her parents\nby stratagem. He wanted to make, not a wife, but a concubine of her, the\nfoster daughter of an honorable house, and the daughter of a king.\nHe had her brought to this abode of crime and infamy; he defiled her\ninnocent eyes with the sight of a shameful feast; he acted with her as\nwith a wanton. Had he forgotten the house of Aulus and Pomponia Græcina,\nwho had reared Lygia? Had he not sense enough to understand that there\nare women different from Nigidia or Calvia Crispinilla or Poppæa, and\nfrom all those whom he meets in Cæsar’s house? Did he not understand at\nonce on seeing Lygia that she is an honest maiden, who prefers death to\ninfamy? Whence does he know what kind of gods she worships, and whether\nthey are not purer and better than the wanton Venus, or than Isis,\nworshipped by the profligate women of Rome? No! Lygia had made no\nconfession to her, but she had said that she looked for rescue to him,\nto Vinicius: she had hoped that he would obtain for her permission from\nCæsar to return home, that he would restore her to Pomponia. And while\nspeaking of this, Lygia blushed like a maiden who loves and trusts.\nLygia’s heart beat for him; but he, Vinicius, had terrified and offended\nher; had made her indignant; let him seek her now with the aid of\nCæsar’s soldiers, but let him know that should Poppæa’s child die,\nsuspicion will fall on Lygia, whose destruction will then be inevitable."
+  },
+  {
+   "n": 72,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Emotion began to force its way through the anger and pain of Vinicius.\nThe information that he was loved by Lygia shook him to the depth of his\nsoul. He remembered her in Aulus’s garden, when she was listening to his\nwords with blushes on her face and her eyes full of light. It seemed\nto him then that she had begun to love him; and all at once, at that\nthought, a feeling of certain happiness embraced him, a hundred times\ngreater than that which he desired. He thought that he might have won\nher gradually, and besides as one loving him. She would have wreathed\nhis door, rubbed it with wolf’s fat, and then sat as his wife by\nhis hearth on the sheepskin. He would have heard from her mouth the\nsacramental: “Where thou art, Caius, there am I, Caia.” And she would\nhave been his forever. Why did he not act thus? True, he had been ready\nso to act. But now she is gone, and it may be impossible to find her;\nand should he find her, perhaps he will cause her death, and should he\nnot cause her death, neither she nor Aulus nor Pomponia Græcina will\nfavor him. Here anger raised the hair on his head again; but his anger\nturned now, not against the house of Aulus, or Lygia, but against\nPetronius. Petronius was to blame for everything. Had it not been\nfor him Lygia would not have been forced to wander; she would be his\nbetrothed, and no danger would be hanging over her dear head. But now\nall is past, and it is too late to correct the evil which will not yield\nto correction."
+  },
+  {
+   "n": 73,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Too late!” And it seemed to him that a gulf had opened before his\nfeet. He did not know what to begin, how to proceed, whither to betake\nhimself. Acte repeated as an echo the words, “Too late,” which from\nanother’s mouth sounded like a death sentence. He understood one thing,\nhowever, that he must find Lygia, or something evil would happen to him."
+  },
+  {
+   "n": 74,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And wrapping himself mechanically in his toga, he was about to depart\nwithout taking farewell even of Acte, when suddenly the curtain\nseparating the entrance from the atrium was pushed aside, and he saw\nbefore him the pensive figure of Pomponia Græcina."
+  },
+  {
+   "n": 75,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Evidently she too had heard of the disappearance of Lygia, and, judging\nthat she could see Acte more easily than Aulus, had come for news to\nher."
+  },
+  {
+   "n": 76,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But, seeing Vinicius, she turned her pale, delicate face to him, and\nsaid, after a pause,--"
+  },
+  {
+   "n": 77,
+   "score": {
+    "key": "faith",
+    "at": "May God forgive thee the wrong, Marcus",
+    "xfade": 6
+   },
+   "para": 55,
+   "role": "Pomponia Græcina",
+   "cast": "Hypatia",
+   "text": "“May God forgive thee the wrong, Marcus, which\nthou hast done to us and to Lygia.”"
+  },
+  {
+   "n": 78,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He stood with drooping head, with a feeling of misfortune and guilt, not\nunderstanding what God was to forgive him or could forgive him. Pomponia\nhad no cause to mention forgiveness; she ought to have spoken of\nrevenge."
+  },
+  {
+   "n": 79,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At last he went out with a head devoid of counsel, full of grievous\nthoughts, immense care, and amazement."
+  },
+  {
+   "n": 80,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In the court and under the gallery were crowds of anxious people. Among\nslaves of the palace were knights and senators who had come to inquire\nabout the health of the infant, and at the same time to show themselves\nin the palace, and exhibit a proof of their anxiety, even in presence of\nNero’s slaves. News of the illness of the “divine” had spread quickly\nit was evident, for new forms appeared in the gateway every moment, and\nthrough the opening of the arcade whole crowds were visible. Some of the\nnewly arrived, seeing that Vinicius was coming from the palace, attacked\nhim for news; but he hurried on without answering their questions,\ntill Petronius, who had come for news too, almost struck his breast and\nstopped him."
+  },
+  {
+   "n": 81,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Beyond doubt Vinicius would have become enraged at sight of Petronius,\nand let himself do some lawless act in Cæsar’s palace, had it not\nbeen that when he had left Acte he was so crushed, so weighed down and\nexhausted, that for the moment even his innate irascibility had left\nhim. He pushed Petronius aside and wished to pass; but the other\ndetained him, by force almost."
+  },
+  {
+   "n": 82,
+   "para": 60,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“How is the divine infant?”"
+  },
+  {
+   "n": 83,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked he."
+  },
+  {
+   "n": 84,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But this constraint angered Vinicius a second time, and roused his\nindignation in an instant."
+  },
+  {
+   "n": 85,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“May Hades swallow her and all this house!” said he, gritting his teeth."
+  },
+  {
+   "n": 86,
+   "para": 63,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Silence, hapless man!”"
+  },
+  {
+   "n": 87,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius, and looking around he added\nhurriedly,--"
+  },
+  {
+   "n": 88,
+   "para": 63,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“If thou wish to know something of Lygia, come with me; I\nwill tell nothing here! Come with me; I will tell my thoughts in the\nlitter.”"
+  },
+  {
+   "n": 89,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And putting his arm around the young tribune, he conducted him from the\npalace as quickly as possible. That was his main concern, for he had no\nnews whatever; but being a man of resources, and having, in spite of\nhis indignation of yesterday, much sympathy for Vinicius, and finally\nfeeling responsible for all that had happened, he had undertaken\nsomething already, and when they entered the litter he said,--"
+  },
+  {
+   "n": 90,
+   "para": 64,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I have\ncommanded my slaves to watch at every gate. I gave them an accurate\ndescription of the girl, and that giant who bore her from the feast at\nCæsar’s,--for he is the man, beyond doubt, who intercepted her. Listen\nto me: Perhaps Aulus and Pomponia wish to secrete her in some estate\nof theirs; in that case we shall learn the direction in which they took\nher. If my slaves do not see her at some gate, we shall know that she\nis in the city yet, and shall begin this very day to search in Rome for\nher.”"
+  },
+  {
+   "n": 91,
+   "para": 65,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Aulus does not know where she is,”"
+  },
+  {
+   "n": 92,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius."
+  },
+  {
+   "n": 93,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Art thou sure of that?”"
+  },
+  {
+   "n": 94,
+   "para": 67,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I saw Pomponia. She too is looking for her.”"
+  },
+  {
+   "n": 95,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“She could not leave the city yesterday, for the gates are closed at\nnight. Two of my people are watching at each gate. One is to follow\nLygia and the giant, the other to return at once and inform me. If she\nis in the city, we shall find her, for that Lygian is easily recognized,\neven by his stature and his shoulders. Thou art lucky that it was not\nCæsar who took her, and I can assure thee that he did not, for there are\nno secrets from me on the Palatine.”"
+  },
+  {
+   "n": 96,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Vinicius burst forth in sorrow still more than in anger, and in a\nvoice broken by emotion told Petronius what he had heard from Acte,\nand what new dangers were threatening Lygia,--dangers so dreadful\nthat because of them there would be need to hide her from Poppæa most\ncarefully, in case they discovered her. Then he reproached Petronius\nbitterly for his counsel. Had it not been for him, everything would have\ngone differently. Lygia would have been at the house of Aulus, and he,\nVinicius, might have seen her every day, and he would have been happier\nat that moment than Cæsar. And carried away as he went on with his\nnarrative, he yielded more and more to emotion, till at last tears of\nsorrow and rage began to fall from his eyes."
+  },
+  {
+   "n": 97,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius, who had not even thought that the young man could love\nand desire to such a degree, when he saw the tears of despair said to\nhimself, with a certain astonishment,--"
+  },
+  {
+   "n": 98,
+   "para": 70,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“O mighty Lady of Cyprus, thou\nalone art ruler of gods and men!”"
+  }
+ ]
+}

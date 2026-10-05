@@ -1,8 +1,8 @@
 {
   "_file": "Amenti-Readings/quo-vadis/sound.json",
-  "_updated": "2026-10-05 23:00 UTC",
+  "_updated": "2026-10-06 01:00 UTC",
   "work": "quo-vadis",
-  "note": "A MODERN SCORE THAT TELLS THE STORY, a different sound world for each kind of scene: opulence (eastern, sensual — the baths, Petronius, the luxury of the court), Lygia (spare piano and a string halo), Vinicius (a driving string ostinato, the cellos rising), the court (low brass clusters, a sliding bassoon, dripping pizzicato — Nero and Poppæa), faith (a warm string chorale — the Christians); later the arena (martial) and the fire (modern, 4/4). Rome in the reign of Nero. Part One: Petronius’s baths, the Roman house round its impluvium, Aulus’s garden, the streets of the city, Nero’s feast on the Palatine with lyre, aulos and frame drum over the banquet’s roar, the palace at night.",
+  "note": "A MODERN SCORE THAT TELLS THE STORY, a different sound world for each kind of scene: opulence (eastern, sensual — the baths, Petronius, the luxury of the court), Lygia (spare piano and a string halo), Vinicius (a driving string ostinato, the cellos rising), the court (low brass clusters, a sliding bassoon, dripping pizzicato — Nero and Poppæa), faith (a warm string chorale — the Christians), Chilo (bassoon and pizzicato on tiptoe, an oboe that sidles — the sly Greek); later the arena (martial) and the fire (modern, 4/4). Rome in the reign of Nero. Part One: Petronius’s baths, the Roman house round its impluvium, Aulus’s garden, the streets of the city, Nero’s feast on the Palatine with lyre, aulos and frame drum over the banquet’s roar, the palace at night.",
   "files": {
     "base": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/",
     "beds": {
@@ -11,7 +11,12 @@
       "garden": "garden.mp3",
       "rome_street": "rome-street.mp3",
       "feast": "feast.mp3",
-      "palace_night": "palace-night.mp3"
+      "palace_night": "palace-night.mp3",
+      "rome_night": "rome-night.mp3",
+      "mill_night": "mill-night.mp3",
+      "ostrianum": "ostrianum.mp3",
+      "tavern": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3",
+      "antium": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/cove.mp3"
     },
     "oneshots": {
       "knock": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/knock.mp3",
@@ -24,7 +29,8 @@
       "lygia": "score-lygia.mp3",
       "vinicius": "score-vinicius.mp3",
       "court": "score-court.mp3",
-      "faith": "score-faith.mp3"
+      "faith": "score-faith.mp3",
+      "chilo": "score-chilo.mp3"
     },
     "levels": {
       "dread": 0.26,
@@ -32,7 +38,8 @@
       "lygia": 0.42,
       "vinicius": 0.38,
       "court": 0.4,
-      "faith": 0.4
+      "faith": 0.4,
+      "chilo": 0.42
     }
   },
   "beds": {
@@ -41,7 +48,12 @@
     "garden": {},
     "rome_street": {},
     "feast": {},
-    "palace_night": {}
+    "palace_night": {},
+    "rome_night": {},
+    "mill_night": {},
+    "ostrianum": {},
+    "tavern": {},
+    "antium": {}
   },
   "chapters": [
     {
@@ -101,6 +113,66 @@
     {
       "n": 10,
       "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 11,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 12,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 13,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 14,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 15,
+      "bed": "antium",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 16,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 17,
+      "bed": "rome_night",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 18,
+      "bed": "antium",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 19,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 20,
+      "bed": "rome_night",
       "state": 1,
       "score": null
     }

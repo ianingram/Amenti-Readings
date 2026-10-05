@@ -1,0 +1,85 @@
+{
+ "work": "quo-vadis",
+ "episode": 18,
+ "chapter": 18,
+ "title": "A Second Letter",
+ "document": "PART TWO · CHAPTER XVIII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch18.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Petronius’s letter from Antium, read in his own voice. Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XVIII"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "opulence",
+    "at": "PETRONIUS to VINICIUS:",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "PETRONIUS to VINICIUS:"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thy case is a bad one, carissime. It is clear that Venus has disturbed\nthy mind, deprived thee of reason and memory, as well as the power to\nthink of aught else except love. Read some time thy answer to my letter,\nand thou wilt see how indifferent thy mind is to all except Lygia; how\nexclusively it is occupied with her, how it returns to her always, and\ncircles above her, as a falcon above chosen prey. By Pollux! find her\nquickly, or that of thee which fire has not turned into ashes will\nbecome an Egyptian sphinx, which, enamored, as ‘tis said, of pale Isis,\ngrew deaf and indifferent to all things, waiting only for night, so as\nto gaze with stony eyes at the loved one."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Run disguised through the city in the evening, even honor Christian\nhouses of prayer in thy philosopher’s company. Whatever excites hope\nand kills time is praiseworthy. But for my friendship’s sake do this one\nthing: Ursus, Lygia’s slave, is a man of uncommon strength very likely;\nhire Croton, and go out three together; that will be safer and wiser.\nThe Christians, since Pomponia and Lygia belong to them, are surely not\nsuch scoundrels as most people imagine. But when a lamb of their flock\nis in question they are no triflers, as they have shown by carrying away\nLygia. When thou seest Lygia thou wilt not restrain thyself, I am\nsure, and wilt try to bear her away on the spot. But how wilt thou and\nChilonides do it? Croton would take care of himself, even though ten\nlike Ursus defended the maiden. Be not plundered by Chilo, but be not\nsparing of money on Croton. Of all counsels which I can give this is the\nbest one."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Here they have ceased to speak of the infant Augusta, or to say that\nshe perished through witchcraft. Poppæa mentions her at times yet; but\nCæsar’s mind is stuffed with something else. Moreover, if it be true\nthat the divine Augusta is in a changed state again, the memory of that\nchild will be blown away without trace. We have been in Naples for some\ndays, or rather in Baiæ. If thou art capable of any thought, echoes of\nour life must strike thy ear, for surely Rome talks of naught else. We\nwent directly to Baiæ, where at first memories of the mother attacked\nus, and reproaches of conscience. But dost thou know to what Ahenobarbus\nhas gone already? To this, that for him even the murder of his mother is\na mere theme for verses, and a reason for buffoonish tragic scenes."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Formerly he felt real reproaches only in so far as he was a coward;\nnow, when he is convinced that the earth is under his feet as before,\nand that no god is taking vengeance, he feigns them only to move people\nby his fate. He springs up at night sometimes declaring that the Furies\nare hunting him; he rouses us, looks around, assumes the posture of an\nactor playing the role of Orestes, and the posture of a bad actor too;\nhe declaims Greek verses, and looks to see if we are admiring him. We\nadmire him apparently; and instead of saying to him, Go to sleep, thou\nbuffoon! we bring ourselves also to the tone of tragedy, and protect the\ngreat artist from the Furies. By Castor! this news at least must have\nreached thee, that he has appeared in public at Naples. They drove in\nfrom the city and the surrounding towns all the Greek ruffians, who\nfilled the arena with such a vile odor of sweat and garlic that I thank\nthe gods that, instead of sitting in the first rows with the Augustians,\nI was behind the scenes with Ahenobarbus. And wilt thou believe it, he\nwas afraid really! He took my hand and put it to his heart, which was\nbeating with increased pulsation; his breath was short; and at the\nmoment when he had to appear he grew as pale as a parchment, and his\nforehead was covered with drops of sweat. Still he saw that in every row\nof seats were pretorians, armed with clubs, to rouse enthusiasm if the\nneed came. But there was no need. No herd of monkeys from the environs\nof Carthage could howl as did this rabble. I tell thee that the smell of\ngarlic came to the stage; but Nero bowed, pressed his hand to his heart,\nsent kisses from his lips, and shed tears. Then he rushed in among us,\nwho were waiting behind the scenes, like a drunken man, crying, ‘What\nwere the triumphs of Julius compared with this triumph of mine?’ But the\nrabble was howling yet and applauding, knowing that it would applaud to\nitself favors, gifts, banquets, lottery tickets, and a fresh exhibition\nby the Imperial buffoon. I do not wonder that they applauded, for such a\nsight had not been seen till that evening. And every moment he repeated:\n‘See what the Greeks are! see what the Greeks are!’ From that evening\nit has seemed to me that his hatred for Rome is increasing. Meanwhile\nspecial couriers were hurried to Rome announcing the triumph, and we\nexpect thanks from the Senate one of these days. Immediately after\nNero’s first exhibition, a strange event happened here. The theatre fell\nin on a sudden, but just after the audience had gone. I was there, and\ndid not see even one corpse taken from the ruins. Many, even among the\nGreeks, see in this event the anger of the gods, because the dignity of\nCæsar was disgraced; he, on the contrary, finds in it favor of the\ngods, who have his song, and those who listen to it, under their evident\nprotection. Hence there are offerings in all the temples, and great\nthanks. For Nero it is a great encouragement to make the journey to\nAchæa. A few days since he told me, however, that he had doubts as to\nwhat the Roman people might say; that they might revolt out of love for\nhim, and fear touching the distribution of grain and touching the games,\nwhich might fail them in case of his prolonged absence."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“We are going, however, to Beneventum to look at the cobbler\nmagnificence which Vatinius will exhibit, and thence to Greece, under\nthe protection of the divine brothers of Helen. As to me, I have noted\none thing, that when a man is among the mad he grows mad himself,\nand, what is more, finds a certain charm in mad pranks. Greece and the\njourney in a thousand ships; a kind of triumphal advance of Bacchus\namong nymphs and bacchantes crowned with myrtle, vine, and honeysuckle;\nthere will be women in tiger skins harnessed to chariots; flowers,\nthyrses, garlands, shouts of ‘Evoe!’ music, poetry, and applauding\nHellas. All this is well; but we cherish besides more daring projects.\nWe wish to create a species of Oriental Imperium,--an empire of\npalm-trees, sunshine, poetry, and reality turned into a dream, reality\nturned into the delight of life only. We want to forget Rome; to fix the\nbalancing point of the world somewhere between Greece, Asia, and Egypt;\nto live the life not of men but of gods; not to know what commonness is;\nto wander in golden galleys under the shadow of purple sails along the\nArchipelago; to be Apollo, Osiris, and Baal in one person; to be rosy\nwith the dawn, golden with the sun, silver with the moon; to command,\nto sing, to dream. And wilt thou believe that I, who have still sound\njudgment to the value of a sestertium, and sense to the value of an\nas, let myself be borne away by these fantasies, and I do this for the\nreason that, if they are not possible, they are at least grandiose and\nuncommon? Such a fabulous empire would be a thing which, some time or\nother, after long ages, would seem a dream to mankind. Except when\nVenus takes the form of Lygia, or even of a slave Eunice, or when art\nbeautifies it, life itself is empty, and many a time it has the face\nof a monkey. But Bronzebeard will not realize his plans, even for this\ncause, that in his fabulous kingdom of poetry and the Orient no place is\ngiven to treason, meanness, and death; and that in him with the poses\nof a poet sits a wretched comedian, a dull charioteer, and a frivolous\ntyrant. Meanwhile we are killing people whenever they displease us in\nany way. Poor Torquatus Silanus is now a shade; he opened his veins a\nfew days since. Lecanius and Licinus will enter on the consulate with\nterror. Old Thrasea will not escape death, for he dares to be honest.\nTigellinus is not able yet to frame a command for me to open my veins.\nI am still needed not only as elegantiæ arbiter, but as a man without\nwhose counsel and taste the expedition to Achæa might fail. More than\nonce, however, I think that sooner or later it must end in opening my\nveins; and knowest thou what the question will be then with me?--that\nBronzebeard should not get my goblet, which thou knowest and admirest.\nShouldst thou be near at the moment of my death, I will give it to thee;\nshouldst thou be at a distance, I will break it. But meanwhile I have\nbefore me yet Beneventum of the cobblers and Olympian Greece; I have\nFate too, which, unknown and unforeseen, points out the road to every\none."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Be well, and engage Croton; otherwise they will snatch Lygia from thee\na second time. When Chilonides ceases to be needful, send him to me\nwherever I may be. Perhaps I shall make him a second Vatinius, and\nconsuls and senators may tremble before him yet, as they trembled before\nthat knight Dratevka. It would be worth while to live to see such a\nspectacle. When thou hast found Lygia, let me know, so that I may offer\nfor you both a pair of swans and a pair of doves in the round temple of\nVenus here. Once I saw Lygia in a dream, sitting on thy knee, seeking\nthy kisses. Try to make that dream prophetic. May there be no clouds on\nthy sky; or if there be, let them have the color and the odor of roses!\nBe in good health; and farewell!”"
+  }
+ ]
+}

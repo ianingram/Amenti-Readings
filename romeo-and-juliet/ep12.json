@@ -280,18 +280,8 @@
    "n": 39,
    "sfx": [
     {
-     "key": "sword_clash",
+     "key": "fight_mercutio",
      "at": "They fight."
-    },
-    {
-     "key": "sword_clash",
-     "at": "They fight.",
-     "offset": 1.1
-    },
-    {
-     "key": "sword_clash",
-     "at": "They fight.",
-     "offset": 2.3
     }
    ],
    "role": "Stage directions",
@@ -429,18 +419,13 @@
    "n": 60,
    "sfx": [
     {
-     "key": "sword_clash",
-     "at": "They fight; Tybalt falls."
-    },
-    {
-     "key": "sword_clash",
-     "at": "They fight; Tybalt falls.",
-     "offset": 0.9
-    },
-    {
      "key": "passing_bell",
      "at": "They fight; Tybalt falls.",
-     "offset": 2.4
+     "offset": 8.6
+    },
+    {
+     "key": "fight_romeo_tybalt",
+     "at": "They fight; Tybalt falls."
     }
    ],
    "role": "Stage directions",

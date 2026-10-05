@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""The Prologue, in time. Shakespeare speaks his sonnet one line to a bar, 4/4 at 76,
+"""The Prologue, in time. A kettle drum on every fourth beat; on every sixteenth —
+the last word of each quatrain, and the end of the couplet — a clash of swords, each one whistling in through the air first.
+ Shakespeare speaks his sonnet one line to a bar, 4/4 at 76,
 over a processional of tabor, viola-pizzicato bass and lute, the harmony walking the
 sonnet's quatrains (Dm Bb C A · Dm Bb Gm A · F C Dm A) and its couplet home to D.
 Each line is the engine's own render in his voice (Charon + his ledger style), cut at
@@ -31,6 +33,19 @@ for b, (root, tri) in enumerate(bars):
     for k, m in enumerate([tri[0], tri[1], tri[2], tri[1]] * 2):                                              # lute in quavers
         put(band, pluck(VPIZZ, m + 12, 0.5 if k % 2 else 0.62), t0 + k * BT / 2 + 0.004 * (k % 3))
     for t_, x, g in ((0, TABL, 0.8), (2 * BT, TAB, 0.6), (3.5 * BT, TAB, 0.3)): put(band, x, t0 + t_, g)       # the tabor: 1, 3, and the and of 4
+# THE KETTLE DRUM on beat four of every bar, tuned down to D; THE SWORDS on every sixteenth
+# beat counted from the first line — 'unclean', 'strife', 'stage' — and on the couplet's close
+import subprocess as _sp
+TIMP = load16('/tmp/vsco/Percussion/Timpani/Timpani1_Hit_v3_rr1_Sum.wav', -3.4)
+TIMP2 = load16('/tmp/vsco/Percussion/Timpani/Timpani1_Hit_v3_rr2_Sum.wav', -3.4)
+CLASH = np.frombuffer(_sp.run(['ffmpeg', '-v', 'error', '-i', '/tmp/rj/sound/sword-clash.mp3', '-f', 'f32le', '-ac', '1', '-ar', str(SR), '-'], capture_output=True).stdout, np.float32).copy()
+perc = np.zeros(N, np.float32)
+for b in range(len(bars) - 1):
+    put(perc, TIMP if b % 2 else TIMP2, b * BAR + 3 * BT, 0.85)
+SWISH = np.frombuffer(_sp.run(['ffmpeg', '-v', 'error', '-i', '/tmp/rj/sound/sword-swish.mp3', '-f', 'f32le', '-ac', '1', '-ar', str(SR), '-'], capture_output=True).stdout, np.float32).copy()
+for line in (4, 8, 12, 14):
+    put(perc, SWISH, (INTRO + line - 1) * BAR + 3 * BT - 0.45 * 0.55 - 0.02, 0.55)      # the blade whistles in on A…
+    put(perc, CLASH[: int(3.6 * SR)], (INTRO + line - 1) * BAR + 3 * BT - 0.01, 1.0)    # …and lands
 fin = len(bars) - 1; root, tri = bars[fin]
 for m in [root - 12, tri[0], tri[1], tri[2], tri[2] + 12]: put(band, pluck(VPIZZ if m > 45 else VAPZ, m, 0.7), fin * BAR + 0.01 * (m % 5))   # a last spread chord
 put(band, TABL, fin * BAR, 0.9)
@@ -43,9 +58,10 @@ for i in range(LINES):
     put(voice, x, (INTRO + i) * BAR - 0.03)                            # the line lands on the downbeat
 voice = reverb(hp(voice, 70), 1.4, 0.16, seed=31, bright=6000)
 band = reverb(band, 1.8, 0.22, seed=32)
+perc = reverb(perc, 2.0, 0.22, seed=33)
 def at(x, db, a=INTRO * BAR, b=(INTRO + LINES) * BAR):
     s_ = x[int(a * SR): int(b * SR)]; return x * (10 ** (db / 20) / (np.sqrt(np.mean(s_ ** 2)) + 1e-12))
-mix = at(voice, -17) + at(band, -25)
+mix = at(voice, -17) + at(band, -25) + at(perc, -23)
 mix = mix[: int((len(bars) * BAR + 4) * SR)]
 mix = env(mix, [(0, 0), (0.05, 1), (len(mix) / SR - 2.5, 1), (len(mix) / SR, 0)])
 write_mp3(rms_db(mix, -19), 'prologue-chorus.mp3', br='192k')

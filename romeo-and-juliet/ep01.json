@@ -367,13 +367,8 @@
    "n": 50,
    "sfx": [
     {
-     "key": "sword_clash",
+     "key": "fight_brawl",
      "at": "They fight."
-    },
-    {
-     "key": "sword_clash",
-     "at": "They fight.",
-     "offset": 1.2
     }
    ],
    "role": "Stage directions",
@@ -420,13 +415,8 @@
    "n": 57,
    "sfx": [
     {
-     "key": "sword_clash",
+     "key": "fight_brawl_2",
      "at": "They fight."
-    },
-    {
-     "key": "sword_clash",
-     "at": "They fight.",
-     "offset": 1.0
     }
    ],
    "role": "Stage directions",
@@ -435,13 +425,6 @@
   },
   {
    "n": 58,
-   "sfx": [
-    {
-     "key": "sword_clash",
-     "at": "Enter three or four Citizens",
-     "offset": 0.2
-    }
-   ],
    "role": "Stage directions",
    "cast": "William Shakespeare",
    "text": "Enter three or four Citizens\nwith clubs."

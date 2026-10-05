@@ -1,8 +1,8 @@
 {
   "_file": "Amenti-Readings/romeo-and-juliet/sound.json",
-  "_updated": "2026-10-05 13:00 UTC",
+  "_updated": "2026-10-05 17:00 UTC",
   "work": "romeo-and-juliet",
-  "note": "Verona: the fountain in the piazza by day; the Capulets’ feast on lute, recorder and tabor; the garden at night with crickets and the nightingale; the dawn the lovers would deny; the friar’s stone cell; Juliet’s still chamber; the vault. The lovers’ theme on solo violin over a harp; the church organ for the wedding and the dirges; the passing bell for every death.",
+  "note": "Verona: the fountain in the piazza by day; the Capulets’ feast on lute, recorder and tabor; the garden at night with crickets and the nightingale; the dawn the lovers would deny; the friar’s stone cell; Juliet’s still chamber; the vault. The lovers’ theme on solo violin over a harp; the church organ for the wedding and the dirges; the passing bell for every death. THE SWORDS ARE INSTRUMENTS: every blade is a tuned steel bar ringing in D (D, F, A, C), struck broad, parried tip to tip, wrung edge along edge, and every swing whistles through the air on a note of the key — and each fight is choreographed in time.",
   "files": {
     "base": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/",
     "beds": {
@@ -15,9 +15,18 @@
       "tomb": "tomb.mp3"
     },
     "oneshots": {
-      "sword_clash": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/cutlass-clash.mp3",
+      "sword_clash": "sword-clash.mp3",
       "passing_bell": "passing-bell.mp3",
-      "knock": "knock.mp3"
+      "knock": "knock.mp3",
+      "sword_parry": "sword-parry.mp3",
+      "sword_wring": "sword-wring.mp3",
+      "sword_beat": "sword-beat.mp3",
+      "fight_brawl": "fight-brawl.mp3",
+      "fight_brawl_2": "fight-brawl-2.mp3",
+      "fight_mercutio": "fight-mercutio.mp3",
+      "fight_romeo_tybalt": "fight-romeo-tybalt.mp3",
+      "fight_paris": "fight-paris.mp3",
+      "sword_swish": "sword-swish.mp3"
     },
     "score": {
       "lovers": "score-lovers.mp3",

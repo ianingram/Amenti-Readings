@@ -1,6 +1,6 @@
 # Dracula, Chapters VIII–XII — speech attributions
 
-Each document is read by its writer; a principal character inside a journal or diary speaks for himself or herself; anyone else — a maid, the keeper Bilder, Mrs Westenra, Renfield — is spoken by the document’s writer. Letters, telegrams and memoranda are read whole. **Corrected** lines were read and set by hand.
+Each document is read by its writer; a principal character inside a journal or diary speaks for himself or herself; anyone else — a maid, the keeper Bilder, Mrs Westenra — is spoken by the document’s writer. Renfield has his own voice from chapter VIII (and his two lines in chapter VI were recast to match). Letters, telegrams and memoranda are read whole. **Corrected** lines were read and set by hand.
 
 ## Chapter VIII — The East Cliff
 
@@ -30,13 +30,13 @@ Each document is read by its writer; a principal character inside a journal or d
 - ¶38 · **Sister Agatha** · *letter* · “Believe me, “Yours, with sympathy and all blessings, “ Sister Agatha .
 - ¶39 · **Sister Agatha** · *letter* · “P. S.—My patient being asleep, I open this to let you know something more. He has told me all ab…
 - ¶40 · **Sister Agatha** · *letter* · “Be assured that he is well cared for. He has won all hearts by his sweetness and gentleness. He …
-- ¶43 · **Dr Seward** · *inferred* · “I don’t want to talk to you: you don’t count now; the Master is at hand.”
-- ¶46 · **Dr Seward (minor speaker)** · *inferred* · “Bother them all! I don’t care a pin about them.”
+- ¶43 · **Renfield** · *confirmed* · “I don’t want to talk to you: you don’t count now; the Master is at hand.”
+- ¶46 · **Renfield** · *confirmed* · “Bother them all! I don’t care a pin about them.”
 - ¶47 · **Dr Seward** · *tag* · “What?”
 - ¶47 · **Dr Seward** · *tag* · “You don’t mean to tell me you don’t care about spiders?”
-- ¶48 · **Dr Seward (minor speaker)** · *inferred* · “The bride-maidens rejoice the eyes that wait the coming of the bride; but when the bride draweth…
-- ¶53 · **Dr Seward** · *inferred* · “I am here to do Your bidding, Master. I am Your slave, and You will reward me, for I shall be fa…
-- ¶56 · **Dr Seward (minor speaker)** · *inferred* · “I shall be patient, Master. It is coming—coming—coming!”
+- ¶48 · **Renfield** · *confirmed* · “The bride-maidens rejoice the eyes that wait the coming of the bride; but when the bride draweth…
+- ¶53 · **Renfield** · *confirmed* · “I am here to do Your bidding, Master. I am Your slave, and You will reward me, for I shall be fa…
+- ¶56 · **Renfield** · *confirmed* · “I shall be patient, Master. It is coming—coming—coming!”
 
 ## Chapter IX — Letters, and the Patient
 
@@ -56,12 +56,12 @@ Each document is read by its writer; a principal character inside a journal or d
 - ¶16 · **Lucy Westenra** · *letter* · “ Lucy.
 - ¶17 · **Lucy Westenra** · *letter* · “P. S.—Mother sends her love. She seems better, poor dear.
 - ¶18 · **Lucy Westenra** · *letter* · “P. P. S.—We are to be married on 28 September.”
-- ¶20 · **Dr Seward (minor speaker)** · *inferred* · “Now I can wait; now I can wait.”
-- ¶20 · **Dr Seward (minor speaker)** · *inferred* · “cringing”
-- ¶21 · **Dr Seward (minor speaker)** · *inferred* · “They think I could hurt you! Fancy me hurting you ! The fools!”
-- ¶22 · **Dr Seward (minor speaker)** · *pronoun* · “I don’t take any stock in cats. I have more to think of now, and I can wait; I can wait.”
-- ¶25 · **Dr Seward (minor speaker)** · *inferred* · “The unexpected always happens.”
-- ¶27 · **Dr Seward (minor speaker)** · *inferred* · “You needn’t tie me; I shall go quietly!”
+- ¶20 · **Renfield** · *confirmed* · “Now I can wait; now I can wait.”
+- ¶20 · **Dr Seward** · *confirmed* · “cringing”
+- ¶21 · **Renfield** · *confirmed* · “They think I could hurt you! Fancy me hurting you ! The fools!”
+- ¶22 · **Renfield** · *confirmed* · “I don’t take any stock in cats. I have more to think of now, and I can wait; I can wait.”
+- ¶25 · **Dr Seward** · *confirmed* · “The unexpected always happens.”
+- ¶27 · **Renfield** · *confirmed* · “You needn’t tie me; I shall go quietly!”
 - ¶32 · **Dr Seward** · *letter* · “ Albemarle Hotel, 31 August.
 - ¶33 · **Dr Seward** · *letter* · “My dear Jack,—
 - ¶34 · **Dr Seward** · *letter* · “I want you to do me a favour. Lucy is ill; that is, she has no special disease, but she looks aw…
@@ -85,13 +85,13 @@ Each document is read by its writer; a principal character inside a journal or d
 - ¶56 · **Dr Seward** · *letter* · “Well, as to the visit. Lucy was more cheerful than on the day I first saw her, and certainly loo…
 - ¶57 · **Dr Seward** · *letter* · “‘My dear young miss, I have the so great pleasure because you are so much beloved. That is much,…
 - ¶58 · **Dr Seward** · *letter* · “As I tell you, he would not say a word more, even when we were alone. And so now, Art, you know …
-- ¶62 · **Dr Seward (minor speaker)** · *inferred* · “All over! all over! He has deserted me. No hope for me now unless I do it for myself!”
-- ¶62 · **Dr Seward (minor speaker)** · *inferred* · “Doctor, won’t you be very good to me and let me have a little more sugar? I think it would be go…
+- ¶62 · **Renfield** · *confirmed* · “All over! all over! He has deserted me. No hope for me now unless I do it for myself!”
+- ¶62 · **Renfield** · *confirmed* · “Doctor, won’t you be very good to me and let me have a little more sugar? I think it would be go…
 - ¶63 · **Dr Seward** · *tag* · “And the flies?”
-- ¶64 · **Dr Seward (minor speaker)** · *inferred* · “Yes! The flies like it, too, and I like the flies; therefore I like it.”
+- ¶64 · **Renfield** · *confirmed* · “Yes! The flies like it, too, and I like the flies; therefore I like it.”
 - ¶65 · **Dr Seward** · *tag* · “Are you not going to keep flies any more?”
-- ¶66 · **Dr Seward (minor speaker)** · *inferred* · “No,”
-- ¶66 · **Dr Seward (minor speaker)** · *inferred* · “I am sick of all that rubbish!”
+- ¶66 · **Renfield** · *confirmed* · “No,”
+- ¶66 · **Renfield** · *confirmed* · “I am sick of all that rubbish!”
 - ¶68 · **Dr Seward** · *letter* · “ 4 September. —Patient still better to-day.”
 - ¶70 · **Dr Seward** · *letter* · “ 5 September. —Patient greatly improved. Good appetite; sleeps naturally; good spirits; colour c…
 - ¶72 · **Dr Seward** · *letter* · “ 6 September. —Terrible change for the worse. Come at once; do not lose an hour. I hold over tel…
@@ -249,7 +249,7 @@ Each document is read by its writer; a principal character inside a journal or d
 - ¶54 · **The Correspondent** · *confirmed* · “God bless me!”
 - ¶54 · **The Correspondent** · *confirmed* · “If there ain’t old Bersicker come back by ’isself!”
 - ¶58 · **The Correspondent** · *confirmed* · “There, I knew the poor old chap would get into some kind of trouble; didn’t I say it all along? …
-- ¶62 · **Dr Seward (minor speaker)** · *pronoun* · “The blood is the life! The blood is the life!”
+- ¶62 · **Renfield** · *confirmed* · “The blood is the life! The blood is the life!”
 - ¶66 · **Van Helsing** · *letter* · “ 17 September. —Do not fail to be at Hillingham to-night. If not watching all the time frequentl…
 - ¶72 · **Lucy Westenra** · *letter* · “Is there anybody there?”
 - ¶73 · **Lucy Westenra** · *letter* · “I was uneasy about you, darling, and came in to see that you were all right.”

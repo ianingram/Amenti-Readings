@@ -8,7 +8,7 @@
   "library": "library/bram-stoker/ch06.md",
   "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
  },
- "note": "Chapter VI complete. Cue boundaries fall on paragraph breaks and on the quotation marks of real speech only; quoted words and titles stay in their narration. Every cue's text is byte-identical to the library file, line breaks included (chunkText strips them; the cache key is the text). A brief quotation inside a document — a passenger, a driver, an attendant, Renfield — is spoken by the document's writer; the principal characters always speak for themselves. Letters are read whole by their writers. Every speech attribution is listed in REVIEW.md.",
+ "note": "Chapter VI complete. Cue boundaries fall on paragraph breaks and on the quotation marks of real speech only; quoted words and titles stay in their narration. Every cue's text is byte-identical to the library file, line breaks included (chunkText strips them; the cache key is the text). A brief quotation inside a document — a passenger, a driver, an attendant — is spoken by the document's writer; the principal characters always speak for themselves. Letters are read whole by their writers. Every speech attribution is listed in REVIEW.md. Renfield’s two lines were recast to his own voice (Jack the Ripper) on 6 Oct 2026.",
  "cast": [
   {
    "role": "Mina Murray",
@@ -29,6 +29,10 @@
   {
    "role": "Narrator",
    "cast_as": "Bram Stoker"
+  },
+  {
+   "role": "Renfield",
+   "cast_as": "Jack the Ripper"
   }
  ],
  "cues": [
@@ -429,15 +433,15 @@
   {
    "n": 54,
    "para": 33,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
+   "role": "Renfield",
+   "cast": "Jack the Ripper",
    "text": "“A kitten, a nice little, sleek playful kitten, that I can play with,\nand teach, and feed—and feed—and feed!” I was not unprepared for this\nrequest, for I had noticed how his pets went on increasing in size and\nvivacity, but I did not care that his pretty family of tame sparrows\nshould be wiped out in the same manner as the flies and the spiders; so\nI said I would see about it, and asked him if he would not rather have a\ncat than a kitten. His eagerness betrayed him as he answered:—"
   },
   {
    "n": 55,
    "para": 34,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
+   "role": "Renfield",
+   "cast": "Jack the Ripper",
    "text": "“Oh, yes, I would like a cat! I only asked for a kitten lest you should\nrefuse me a cat. No one would refuse me a kitten, would they?” I shook\nmy head, and said that at present I feared it would not be possible, but\nthat I would see about it. His face fell, and I could see a warning of\ndanger in it, for there was a sudden fierce, sidelong look which meant\nkilling. The man is an undeveloped homicidal maniac. I shall test him\nwith his present craving and see how it will work out; then I shall know\nmore."
   },
   {

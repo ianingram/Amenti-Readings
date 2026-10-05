@@ -8,7 +8,7 @@
   "library": "library/bram-stoker/ch08.md",
   "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
  },
- "note": "Chapter VIII complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-VIII-XII.md.",
+ "note": "Chapter VIII complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters — and Renfield — speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-VIII-XII.md.",
  "cast": [
   {
    "role": "Narrator",
@@ -29,6 +29,10 @@
   {
    "role": "Dr Seward",
    "cast_as": "William Harvey"
+  },
+  {
+   "role": "Renfield",
+   "cast_as": "Jack the Ripper"
   }
  ],
  "cues": [
@@ -380,8 +384,8 @@
   {
    "n": 44,
    "para": 43,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
+   "role": "Renfield",
+   "cast": "Jack the Ripper",
    "text": "“I don’t want to talk to you: you don’t count now; the Master is at\nhand.”"
   },
   {
@@ -401,8 +405,8 @@
   {
    "n": 47,
    "para": 46,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
+   "role": "Renfield",
+   "cast": "Jack the Ripper",
    "text": "“Bother them all! I don’t care a pin about them.”"
   },
   {
@@ -415,8 +419,8 @@
   {
    "n": 49,
    "para": 48,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
+   "role": "Renfield",
+   "cast": "Jack the Ripper",
    "text": "“The bride-maidens rejoice the eyes that wait the coming of the bride;\nbut when the bride draweth nigh, then the maidens shine not to the eyes\nthat are filled.”"
   },
   {
@@ -450,8 +454,8 @@
   {
    "n": 54,
    "para": 53,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
+   "role": "Renfield",
+   "cast": "Jack the Ripper",
    "text": "“I am here to do Your bidding, Master. I am Your slave, and You will\nreward me, for I shall be faithful. I have worshipped You long and afar\noff. Now that You are near, I await Your commands, and You will not pass\nme by, will You, dear Master, in Your distribution of good things?”"
   },
   {
@@ -471,8 +475,8 @@
   {
    "n": 57,
    "para": 56,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
+   "role": "Renfield",
+   "cast": "Jack the Ripper",
    "text": "“I shall be patient, Master. It is coming—coming—coming!”"
   },
   {

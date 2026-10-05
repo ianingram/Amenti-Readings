@@ -1,6 +1,6 @@
 {
   "_file": "Amenti-Readings/treasure-island/sound.json",
-  "_updated": "2026-10-05 09:00 UTC",
+  "_updated": "2026-10-05 11:00 UTC",
   "work": "treasure-island",
   "note": "The most physical book in the Studios: a lonely inn on a cove, Bristol docks, a ship at sea, an island. Every gun comes twice — near (sharp, dry, loud) and far (muffled, late, long echo) — and most of the shooting is far. Part One is the Admiral Benbow; Part Two the Bristol docks, the Spy-glass and the Hispaniola — the surf below the cliff, the parlour fire, the stick on the frozen road, the riders on the hill. Shared sounds are borrowed from Dracula by URL. THE CREW’S DEATH MOTIF: each time one of the ship’s company dies — honest man or pirate — the cellos and basses play a slow “yo… ho”, a short D and a long low A, the shape of the crew’s chant with the life gone out of it — and gulls crying over it, one near as the “ho” sounds, one answering further off.",
   "files": {
@@ -63,15 +63,18 @@
       "campfire_drone": "campfire-drone.mp3",
       "hands_drums": "hands-drums.mp3",
       "dirk_mast": "dirk-mast.mp3",
-      "body_water": "body-water.mp3"
+      "body_water": "body-water.mp3",
+      "coins": "coins.mp3"
     },
     "score": {
       "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3",
-      "flute_drift": "score-flute-drift.mp3"
+      "flute_drift": "score-flute-drift.mp3",
+      "hollow": "score-hollow.mp3"
     },
     "levels": {
       "dread": 0.26,
-      "flute_drift": 0.5
+      "flute_drift": 0.5,
+      "hollow": 0.45
     }
   },
   "beds": {
@@ -285,6 +288,55 @@
       "state": 1,
       "score": null,
       "note": "back to the stockade in the dark; Captain Flint gives him away; the dread to the end"
+    },
+    {
+      "n": 28,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "the enemy’s camp by torchlight; the dread until Silver strikes his bargain with Jim"
+    },
+    {
+      "n": 29,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "the black spot; the crew’s cheer for Barbecue"
+    },
+    {
+      "n": 30,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "morning: the doctor at the stockade"
+    },
+    {
+      "n": 31,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "the march; the dread at Flint’s skeleton"
+    },
+    {
+      "n": 32,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "the voice among the trees: the dread from the first thin note until Silver names Ben Gunn"
+    },
+    {
+      "n": 33,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "the empty pit and the theme turned hollow, cut dead by Silver’s pistol; the muskets from the thicket; the motif for Merry and the man with the bandage; Flint’s gold"
+    },
+    {
+      "n": 34,
+      "bed": "island",
+      "state": 1,
+      "score": null,
+      "note": "the marooned three shrieking and singing far off; the shot through the mainsail; home under the theme’s flute; Captain Flint has the last word"
     }
   ]
 }

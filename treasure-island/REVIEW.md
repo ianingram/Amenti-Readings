@@ -996,3 +996,346 @@ Every quotation and the voice it was given. **Tagged** lines follow Stevenson’
 - ¶30 · **Jim Hawkins** · *inferred* · “Pieces of eight! Pieces of eight! Pieces of eight! Pieces of eight! Pieces of eight!”
 - ¶32 · **Long John Silver** · “Who goes?”
 - ¶34 · **Long John Silver** · “Bring a torch, Dick,”
+
+## Chapter XXVIII — In the Enemy’s Camp
+
+- ¶6 · **Long John Silver** · *corrected* · “So,”
+- ¶6 · **Long John Silver** · *corrected* · “here’s Jim Hawkins, shiver my timbers! Dropped in, like, eh? Well, come, I take that friendly.”
+- ¶8 · **Long John Silver** · *corrected* · “Give me a loan of the link, Dick,”
+- ¶8 · **Long John Silver** · *corrected* · “That’ll do, lad,”
+- ¶8 · **Long John Silver** · *corrected* · “stick the glim in the wood heap; and you, gentlemen, bring yourselves to! You needn’t stand up f…
+- ¶8 · **Long John Silver** · *corrected* · “here you were, and quite a pleasant surprise for poor old John. I see you were smart when first …
+- ¶11 · **Long John Silver** · *corrected* · “Now, you see, Jim, so be as you ARE here,”
+- ¶11 · **Long John Silver** · *corrected* · “I’ll give you a piece of my mind. I’ve always liked you, I have, for a lad of spirit, and the pi…
+- ¶13 · **Long John Silver** · “I don’t say nothing as to your being in our hands,”
+- ¶13 · **Long John Silver** · “though there you are, and you may lay to it. I’m all for argyment; I never seen good come out o’…
+- ¶14 · **Jim Hawkins** · “Am I to answer, then?”
+- ¶15 · **Long John Silver** · “Lad,”
+- ¶15 · **Long John Silver** · “no one’s a-pressing of you. Take your bearings. None of us won’t hurry you, mate; time goes so p…
+- ¶16 · **Jim Hawkins** · “Well,”
+- ¶16 · **Jim Hawkins** · “if I’m to choose, I declare I have a right to know what’s what, and why you’re here, and where m…
+- ¶17 · **Jim Hawkins** · “Wot’s wot?”
+- ¶17 · **Jim Hawkins** · “Ah, he’d be a lucky one as knowed that!”
+- ¶18 · **Long John Silver** · “You’ll perhaps batten down your hatches till you’re spoke to, my friend,”
+- ¶18 · **Long John Silver** · “Yesterday morning, Mr. Hawkins,”
+- ¶18 · **Long John Silver** · “in the dog-watch, down came Doctor Livesey with a flag of truce. Says he, ‘Cap’n Silver, you’re …
+- ¶20 · **Long John Silver** · *corrected* · “And lest you should take it into that head of yours,”
+- ¶20 · **Long John Silver** · *corrected* · “that you was included in the treaty, here’s the last word that was said: ‘How many are you,’ say…
+- ¶21 · **Jim Hawkins** · “Is that all?”
+- ¶22 · **Long John Silver** · “Well, it’s all that you’re to hear, my son,”
+- ¶23 · **Jim Hawkins** · *inferred* · “And now I am to choose?”
+- ¶24 · **Long John Silver** · “And now you are to choose, and you may lay to that,”
+- ¶25 · **Jim Hawkins** · “Well,”
+- ¶25 · **Jim Hawkins** · “I am not such a fool but I know pretty well what I have to look for. Let the worst come to the w…
+- ¶25 · **Jim Hawkins** · “and the first is this: here you are, in a bad way--ship lost, treasure lost, men lost, your whol…
+- ¶26 · **Jim Hawkins** · “And now, Mr. Silver,”
+- ¶26 · **Jim Hawkins** · “I believe you’re the best man here, and if things go to the worst, I’ll take it kind of you to l…
+- ¶27 · **Long John Silver** · “I’ll bear it in mind,”
+- ¶28 · **Jim Hawkins** · “I’ll put one to that,”
+- ¶28 · **Jim Hawkins** · “It was him that knowed Black Dog.”
+- ¶29 · **Long John Silver** · “Well, and see here,”
+- ¶29 · **Long John Silver** · “I’ll put another again to that, by thunder! For it was this same boy that faked the chart from B…
+- ¶30 · **Jim Hawkins** · “Then here goes!”
+- ¶32 · **Long John Silver** · “Avast, there!”
+- ¶32 · **Long John Silver** · “Who are you, Tom Morgan? Maybe you thought you was cap’n here, perhaps. By the powers, but I’ll …
+- ¶34 · **Jim Hawkins** · *corrected* · “Tom’s right,”
+- ¶35 · **Jim Hawkins** · “I stood hazing long enough from one,”
+- ¶35 · **Jim Hawkins** · “I’ll be hanged if I’ll be hazed by you, John Silver.”
+- ¶36 · **Long John Silver** · “Did any of you gentlemen want to have it out with ME?”
+- ¶36 · **Long John Silver** · “Put a name on what you’re at; you ain’t dumb, I reckon. Him that wants shall get it. Have I live…
+- ¶38 · **Long John Silver** · *corrected* · “That’s your sort, is it?”
+- ¶38 · **Long John Silver** · *corrected* · “Well, you’re a gay lot to look at, anyway. Not much worth to fight, you ain’t. P’r’aps you can u…
+- ¶40 · **Long John Silver** · “You seem to have a lot to say,”
+- ¶40 · **Long John Silver** · “Pipe up and let me hear it, or lay to.”
+- ¶41 · **Jim Hawkins** · *corrected* · “Ax your pardon, sir,”
+- ¶41 · **Jim Hawkins** · *corrected* · “you’re pretty free with some of the rules; maybe you’ll kindly keep an eye upon the rest. This c…
+- ¶42 · **Jim Hawkins** · *corrected* · “According to rules,”
+- ¶42 · **Jim Hawkins** · *corrected* · “Forecastle council,”
+- ¶44 · **Long John Silver** · *inferred* · “Now, look you here, Jim Hawkins,”
+- ¶44 · **Long John Silver** · *inferred* · “you’re within half a plank of death, and what’s a long sight worse, of torture. They’re going to…
+- ¶46 · **Jim Hawkins** · “You mean all’s lost?”
+- ¶47 · **Long John Silver** · *inferred* · “Aye, by gum, I do!”
+- ¶47 · **Long John Silver** · *inferred* · “Ship gone, neck gone--that’s the size of it. Once I looked into that bay, Jim Hawkins, and seen …
+- ¶49 · **Jim Hawkins** · “What I can do, that I’ll do,”
+- ¶50 · **Long John Silver** · “It’s a bargain!”
+- ¶50 · **Long John Silver** · “You speak up plucky, and by thunder, I’ve a chance!”
+- ¶52 · **Long John Silver** · *corrected* · “Understand me, Jim,”
+- ¶52 · **Long John Silver** · *corrected* · “I’ve a head on my shoulders, I have. I’m on squire’s side now. I know you’ve got that ship safe …
+- ¶54 · **Long John Silver** · *inferred* · “Will you taste, messmate?”
+- ¶54 · **Long John Silver** · *inferred* · “Well, I’ll take a dram myself, Jim,”
+- ¶54 · **Long John Silver** · *inferred* · “I need a caulker, for there’s trouble on hand. And talking o’ trouble, why did that doctor give …
+- ¶56 · **Long John Silver** · *corrected* · “Ah, well, he did, though,”
+- ¶56 · **Long John Silver** · *corrected* · “And there’s something under that, no doubt--something, surely, under that, Jim--bad or good.”
+
+## Chapter XXIX — The Black Spot Again
+
+- ¶3 · **Long John Silver** · “There’s a breeze coming, Jim,”
+- ¶5 · **Jim Hawkins** · “Here they come,”
+- ¶6 · **Long John Silver** · “Well, let ’em come, lad--let ’em come,”
+- ¶6 · **Long John Silver** · “I’ve still a shot in my locker.”
+- ¶8 · **Long John Silver** · “Step up, lad,”
+- ¶8 · **Long John Silver** · “I won’t eat you. Hand it over, lubber. I know the rules, I do; I won’t hurt a depytation.”
+- ¶11 · **Long John Silver** · *corrected* · “The black spot! I thought so,”
+- ¶11 · **Long John Silver** · *corrected* · “Where might you have got the paper? Why, hillo! Look here, now; this ain’t lucky! You’ve gone an…
+- ¶12 · **Jim Hawkins** · *corrected* · “Ah, there!”
+- ¶12 · **Jim Hawkins** · *corrected* · “There! Wot did I say? No good’ll come o’ that, I said.”
+- ¶13 · **Long John Silver** · “Well, you’ve about fixed it now, among you,”
+- ¶13 · **Long John Silver** · “You’ll all swing now, I reckon. What soft-headed lubber had a Bible?”
+- ¶14 · **Jim Hawkins** · *corrected* · “It was Dick,”
+- ¶15 · **Long John Silver** · “Dick, was it? Then Dick can get to prayers,”
+- ¶15 · **Long John Silver** · “He’s seen his slice of luck, has Dick, and you may lay to that.”
+- ¶17 · **Jim Hawkins** · *corrected* · “Belay that talk, John Silver,”
+- ¶17 · **Jim Hawkins** · *corrected* · “This crew has tipped you the black spot in full council, as in dooty bound; just you turn it ove…
+- ¶18 · **Long John Silver** · “Thanky, George,”
+- ¶18 · **Long John Silver** · “You always was brisk for business, and has the rules by heart, George, as I’m pleased to see. We…
+- ¶19 · **Jim Hawkins** · “Come, now,”
+- ¶19 · **Jim Hawkins** · “you don’t fool this crew no more. You’re a funny man, by your account; but you’re over now, and …
+- ¶20 · **Long John Silver** · “I thought you said you knowed the rules,”
+- ¶20 · **Long John Silver** · “Leastways, if you don’t, I do; and I wait here--and I’m still your cap’n, mind--till you outs wi…
+- ¶21 · **Jim Hawkins** · “Oh,”
+- ¶21 · **Jim Hawkins** · “you don’t be under no kind of apprehension; WE’RE all square, we are. First, you’ve made a hash …
+- ¶22 · **Long John Silver** · “Is that all?”
+- ¶23 · **Jim Hawkins** · “Enough, too,”
+- ¶23 · **Jim Hawkins** · “We’ll all swing and sun-dry for your bungling.”
+- ¶24 · **Long John Silver** · *corrected* · “Well now, look here, I’ll answer these four p’ints; one after another I’ll answer ’em. I made a …
+- ¶26 · **Long John Silver** · *corrected* · “That’s for number one,”
+- ¶26 · **Long John Silver** · *corrected* · “Why, I give you my word, I’m sick to speak to you. You’ve neither sense nor memory, and I leave …
+- ¶27 · **Jim Hawkins** · “Go on, John,”
+- ¶27 · **Jim Hawkins** · “Speak up to the others.”
+- ¶28 · **Long John Silver** · “Ah, the others!”
+- ¶28 · **Long John Silver** · “They’re a nice lot, ain’t they? You say this cruise is bungled. Ah! By gum, if you could underst…
+- ¶31 · **Jim Hawkins** · *corrected* · “Yes,”
+- ¶31 · **Jim Hawkins** · *corrected* · “that’s Flint, sure enough. J. F., and a score below, with a clove hitch to it; so he done ever.”
+- ¶32 · **Jim Hawkins** · “Mighty pretty,”
+- ¶32 · **Jim Hawkins** · “But how are we to get away with it, and us no ship.”
+- ¶33 · **Long John Silver** · *inferred* · “Now I give you warning, George,”
+- ¶33 · **Long John Silver** · *inferred* · “One more word of your sauce, and I’ll call you down and fight you. How? Why, how do I know? You …
+- ¶34 · **Jim Hawkins** · “That’s fair enow,”
+- ¶35 · **Long John Silver** · “Fair! I reckon so,”
+- ¶35 · **Long John Silver** · “You lost the ship; I found the treasure. Who’s the better man at that? And now I resign, by thun…
+- ¶36 · **Jim Hawkins** · *corrected* · “Silver!”
+- ¶36 · **Jim Hawkins** · *corrected* · “Barbecue forever! Barbecue for cap’n!”
+- ¶37 · **Long John Silver** · “So that’s the toon, is it?”
+- ¶37 · **Long John Silver** · “George, I reckon you’ll have to wait another turn, friend; and lucky for you as I’m not a reveng…
+- ¶38 · **Jim Hawkins** · “It’ll do to kiss the book on still, won’t it?”
+- ¶39 · **Long John Silver** · “A Bible with a bit cut out!”
+- ¶39 · **Long John Silver** · “Not it. It don’t bind no more’n a ballad-book.”
+- ¶40 · **Jim Hawkins** · “Don’t it, though?”
+- ¶40 · **Jim Hawkins** · “Well, I reckon that’s worth having too.”
+- ¶41 · **Long John Silver** · “Here, Jim--here’s a cur’osity for you,”
+- ¶42 · **Jim Hawkins** · *corrected* · “Without are dogs and murderers.”
+- ¶42 · **Jim Hawkins** · *corrected* · “Depposed.”
+
+## Chapter XXX — On Parole
+
+- ¶3 · **Dr Livesey** · *corrected* · “Block house, ahoy!”
+- ¶3 · **Dr Livesey** · *corrected* · “Here’s the doctor.”
+- ¶6 · **Long John Silver** · “You, doctor! Top o’ the morning to you, sir!”
+- ¶6 · **Long John Silver** · “Bright and early, to be sure; and it’s the early bird, as the saying goes, that gets the rations…
+- ¶8 · **Long John Silver** · *corrected* · “We’ve quite a surprise for you too, sir,”
+- ¶8 · **Long John Silver** · *corrected* · “We’ve a little stranger here--he! he! A noo boarder and lodger, sir, and looking fit and taut as…
+- ¶9 · **Dr Livesey** · *corrected* · “Not Jim?”
+- ¶10 · **Long John Silver** · “The very same Jim as ever was,”
+- ¶12 · **Dr Livesey** · *corrected* · “Well, well,”
+- ¶12 · **Dr Livesey** · *corrected* · “duty first and pleasure afterwards, as you might have said yourself, Silver. Let us overhaul the…
+- ¶14 · **Dr Livesey** · *corrected* · “You’re doing well, my friend,”
+- ¶14 · **Dr Livesey** · *corrected* · “and if ever any person had a close shave, it was you; your head must be as hard as iron. Well, G…
+- ¶15 · **Jim Hawkins** · “Aye, aye, sir, he took it, sure enough,”
+- ¶16 · **Dr Livesey** · “Because, you see, since I am mutineers’ doctor, or prison doctor as I prefer to call it,”
+- ¶16 · **Dr Livesey** · “I make it a point of honour not to lose a man for King George (God bless him!) and the gallows.”
+- ¶18 · **Jim Hawkins** · *inferred* · “Dick don’t feel well, sir,”
+- ¶19 · **Dr Livesey** · “Don’t he?”
+- ¶19 · **Dr Livesey** · “Well, step up here, Dick, and let me see your tongue. No, I should be surprised if he did! The m…
+- ¶20 · **Jim Hawkins** · “Ah, there,”
+- ¶20 · **Jim Hawkins** · “that comed of sp’iling Bibles.”
+- ¶21 · **Dr Livesey** · “That comes--as you call it--of being arrant asses,”
+- ¶21 · **Dr Livesey** · “and not having sense enough to know honest air from poison, and the dry land from a vile, pestif…
+- ¶22 · **Dr Livesey** · *corrected* · “Well,”
+- ¶22 · **Dr Livesey** · *corrected* · “well, that’s done for today. And now I should wish to have a talk with that boy, please.”
+- ¶24 · **Jim Hawkins** · *corrected* · “No!”
+- ¶26 · **Long John Silver** · *corrected* · “Si-lence!”
+- ¶26 · **Long John Silver** · *corrected* · “Doctor,”
+- ¶26 · **Long John Silver** · *corrected* · “I was a-thinking of that, knowing as how you had a fancy for the boy. We’re all humbly grateful …
+- ¶28 · **Long John Silver** · “Then, doctor,”
+- ¶28 · **Long John Silver** · “you just step outside o’ that stockade, and once you’re there I’ll bring the boy down on the ins…
+- ¶30 · **Long John Silver** · *corrected* · “No, by thunder!”
+- ¶30 · **Long John Silver** · *corrected* · “It’s us must break the treaty when the time comes; and till then I’ll gammon that doctor, if I h…
+- ¶32 · **Long John Silver** · *inferred* · “Slow, lad, slow,”
+- ¶32 · **Long John Silver** · *inferred* · “They might round upon us in a twinkle of an eye if we was seen to hurry.”
+- ¶34 · **Long John Silver** · *corrected* · “You’ll make a note of this here also, doctor,”
+- ¶34 · **Long John Silver** · *corrected* · “and the boy’ll tell you how I saved his life, and were deposed for it too, and you may lay to th…
+- ¶36 · **Dr Livesey** · “Why, John, you’re not afraid?”
+- ¶37 · **Long John Silver** · *corrected* · “Doctor, I’m no coward; no, not I--not SO much!”
+- ¶37 · **Long John Silver** · *corrected* · “If I was I wouldn’t say it. But I’ll own up fairly, I’ve the shakes upon me for the gallows. You…
+- ¶39 · **Dr Livesey** · “So, Jim,”
+- ¶39 · **Dr Livesey** · “here you are. As you have brewed, so shall you drink, my boy. Heaven knows, I cannot find it in …
+- ¶40 · **Jim Hawkins** · “Doctor,”
+- ¶40 · **Jim Hawkins** · “you might spare me. I have blamed myself enough; my life’s forfeit anyway, and I should have bee…
+- ¶41 · **Dr Livesey** · “Jim,”
+- ¶41 · **Dr Livesey** · “Jim, I can’t have this. Whip over, and we’ll run for it.”
+- ¶42 · **Jim Hawkins** · “Doctor,”
+- ¶42 · **Jim Hawkins** · “I passed my word.”
+- ¶43 · **Dr Livesey** · *inferred* · “I know, I know,”
+- ¶43 · **Dr Livesey** · *inferred* · “We can’t help that, Jim, now. I’ll take it on my shoulders, holus bolus, blame and shame, my boy…
+- ¶44 · **Jim Hawkins** · “No,”
+- ¶44 · **Jim Hawkins** · “you know right well you wouldn’t do the thing yourself--neither you nor squire nor captain; and …
+- ¶45 · **Dr Livesey** · “The ship!”
+- ¶47 · **Dr Livesey** · *corrected* · “There is a kind of fate in this,”
+- ¶47 · **Dr Livesey** · *corrected* · “Every step, it’s you that saves our lives; and do you suppose by any chance that we are going to…
+- ¶47 · **Dr Livesey** · *corrected* · “Silver! I’ll give you a piece of advice,”
+- ¶47 · **Dr Livesey** · *corrected* · “don’t you be in any great hurry after that treasure.”
+- ¶48 · **Long John Silver** · “Why, sir, I do my possible, which that ain’t,”
+- ¶48 · **Long John Silver** · “I can only, asking your pardon, save my life and the boy’s by seeking for that treasure; and you…
+- ¶49 · **Dr Livesey** · “Well, Silver,”
+- ¶49 · **Dr Livesey** · “if that is so, I’ll go one step further: look out for squalls when you find it.”
+- ¶50 · **Long John Silver** · “Sir,”
+- ¶50 · **Long John Silver** · “as between man and man, that’s too much and too little. What you’re after, why you left the bloc…
+- ¶51 · **Dr Livesey** · “No,”
+- ¶51 · **Dr Livesey** · “I’ve no right to say more; it’s not my secret, you see, Silver, or, I give you my word, I’d tell…
+- ¶52 · **Long John Silver** · *inferred* · “You couldn’t say more, I’m sure, sir, not if you was my mother,”
+- ¶53 · **Dr Livesey** · “Well, that’s my first concession,”
+- ¶53 · **Dr Livesey** · “My second is a piece of advice: keep the boy close beside you, and when you need help, halloo. I…
+
+## Chapter XXXI — The Treasure-hunt — Flint’s Pointer
+
+- ¶2 · **Long John Silver** · “Jim,”
+- ¶2 · **Long John Silver** · “if I saved your life, you saved mine; and I’ll not forget it. I seen the doctor waving you to ru…
+- ¶5 · **Long John Silver** · *inferred* · “Aye, mates,”
+- ¶5 · **Long John Silver** · *inferred* · “it’s lucky you have Barbecue to think for you with this here head. I got what I wanted, I did. S…
+- ¶7 · **Long John Silver** · *inferred* · “As for hostage,”
+- ¶7 · **Long John Silver** · *inferred* · “that’s his last talk, I guess, with them he loves so dear. I’ve got my piece o’ news, and thanky…
+- ¶10 · **Dr Livesey** · *corrected* · “Look out for squalls when you find it,”
+- ¶16 · **Jim Hawkins** · *corrected* · “tall tree”
+- ¶22 · **Jim Hawkins** · “He can’t ’a found the treasure,”
+- ¶22 · **Jim Hawkins** · “for that’s clean a-top.”
+- ¶24 · **Jim Hawkins** · “He was a seaman,”
+- ¶24 · **Jim Hawkins** · “Leastways, this is good sea-cloth.”
+- ¶25 · **Long John Silver** · “Aye, aye,”
+- ¶25 · **Long John Silver** · “like enough; you wouldn’t look to find a bishop here, I reckon. But what sort of a way is that f…
+- ¶27 · **Long John Silver** · “I’ve taken a notion into my old numbskull,”
+- ¶27 · **Long John Silver** · “Here’s the compass; there’s the tip-top p’int o’ Skeleton Island, stickin’ out like a tooth. Jus…
+- ¶29 · **Long John Silver** · “I thought so,”
+- ¶29 · **Long John Silver** · “this here is a p’inter. Right up there is our line for the Pole Star and the jolly dollars. But,…
+- ¶30 · **Jim Hawkins** · “Aye, aye,”
+- ¶30 · **Jim Hawkins** · “I mind him; he owed me money, he did, and took my knife ashore with him.”
+- ¶31 · **Jim Hawkins** · “Speaking of knives,”
+- ¶31 · **Jim Hawkins** · “why don’t we find his’n lying round? Flint warn’t the man to pick a seaman’s pocket; and the bir…
+- ¶32 · **Long John Silver** · “By the powers, and that’s true!”
+- ¶33 · **Jim Hawkins** · “There ain’t a thing left here,”
+- ¶33 · **Jim Hawkins** · “not a copper doit nor a baccy box. It don’t look nat’ral to me.”
+- ¶34 · **Long John Silver** · “No, by gum, it don’t,”
+- ¶34 · **Long John Silver** · “not nat’ral, nor not nice, says you. Great guns! Messmates, but if Flint was living, this would …
+- ¶35 · **Jim Hawkins** · “I saw him dead with these here deadlights,”
+- ¶35 · **Jim Hawkins** · “Billy took me in. There he laid, with penny-pieces on his eyes.”
+- ¶36 · **Jim Hawkins** · “Dead--aye, sure enough he’s dead and gone below,”
+- ¶36 · **Jim Hawkins** · “but if ever sperrit walked, it would be Flint’s. Dear heart, but he died bad, did Flint!”
+- ¶37 · **Jim Hawkins** · “Aye, that he did,”
+- ¶37 · **Jim Hawkins** · “now he raged, and now he hollered for the rum, and now he sang. ‘Fifteen Men’ were his only song…
+- ¶38 · **Long John Silver** · “Come, come,”
+- ¶38 · **Long John Silver** · “stow this talk. He’s dead, and he don’t walk, that I know; leastways, he won’t walk by day, and …
+
+## Chapter XXXII — The Treasure-hunt — The Voice Among the Trees
+
+- ¶5 · **Long John Silver** · *corrected* · “There are three ‘tall trees,’”
+- ¶5 · **Long John Silver** · *corrected* · “about in the right line from Skeleton Island. ‘Spy-glass shoulder,’ I take it, means that lower …
+- ¶6 · **Jim Hawkins** · “I don’t feel sharp,”
+- ¶6 · **Jim Hawkins** · “Thinkin’ o’ Flint--I think it were--as done me.”
+- ¶7 · **Long John Silver** · “Ah, well, my son, you praise your stars he’s dead,”
+- ¶8 · **Jim Hawkins** · “He were an ugly devil,”
+- ¶8 · **Jim Hawkins** · “that blue in the face too!”
+- ¶9 · **Jim Hawkins** · “That was how the rum took him,”
+- ¶9 · **Jim Hawkins** · “Blue! Well, I reckon he was blue. That’s a true word.”
+- ¶11 · **Ben Gunn** · *corrected* · “Fifteen men on the dead man’s chest-- Yo-ho-ho, and a bottle of rum!”
+- ¶13 · **Jim Hawkins** · “It’s Flint, by ----!”
+- ¶15 · **Long John Silver** · “Come,”
+- ¶15 · **Long John Silver** · “this won’t do. Stand by to go about. This is a rum start, and I can’t name the voice, but it’s s…
+- ¶17 · **Ben Gunn** · *corrected* · “Darby M’Graw,”
+- ¶17 · **Ben Gunn** · *corrected* · “Darby M’Graw! Darby M’Graw!”
+- ¶17 · **Ben Gunn** · *corrected* · “Fetch aft the rum, Darby!”
+- ¶19 · **Jim Hawkins** · *corrected* · “That fixes it!”
+- ¶19 · **Jim Hawkins** · *corrected* · “Let’s go.”
+- ¶20 · **Jim Hawkins** · *inferred* · “They was his last words,”
+- ¶20 · **Jim Hawkins** · *inferred* · “his last words above board.”
+- ¶23 · **Long John Silver** · *inferred* · “Nobody in this here island ever heard of Darby,”
+- ¶23 · **Long John Silver** · *inferred* · “not one but us that’s here.”
+- ¶23 · **Long John Silver** · *inferred* · “Shipmates,”
+- ¶23 · **Long John Silver** · *inferred* · “I’m here to get that stuff, and I’ll not be beat by man or devil. I never was feared of Flint in…
+- ¶25 · **Jim Hawkins** · “Belay there, John!”
+- ¶25 · **Jim Hawkins** · “Don’t you cross a sperrit.”
+- ¶27 · **Long John Silver** · *inferred* · “Sperrit? Well, maybe,”
+- ¶27 · **Long John Silver** · *inferred* · “But there’s one thing not clear to me. There was an echo. Now, no man ever seen a sperrit with a…
+- ¶29 · **Jim Hawkins** · *inferred* · “Well, that’s so,”
+- ¶29 · **Jim Hawkins** · *inferred* · “You’ve a head upon your shoulders, John, and no mistake. ’Bout ship, mates! This here crew is on…
+- ¶30 · **Long John Silver** · “By the powers, Ben Gunn!”
+- ¶31 · **Jim Hawkins** · “Aye, and so it were,”
+- ¶31 · **Jim Hawkins** · “Ben Gunn it were!”
+- ¶32 · **Jim Hawkins** · “It don’t make much odds, do it, now?”
+- ¶32 · **Jim Hawkins** · “Ben Gunn’s not here in the body any more’n Flint.”
+- ¶34 · **Jim Hawkins** · “Why, nobody minds Ben Gunn,”
+- ¶34 · **Jim Hawkins** · “dead or alive, nobody minds him.”
+- ¶37 · **Long John Silver** · *inferred* · “I told you,”
+- ¶37 · **Long John Silver** · *inferred* · “I told you you had sp’iled your Bible. If it ain’t no good to swear by, what do you suppose a sp…
+- ¶45 · **Jim Hawkins** · “Huzza, mates, all together!”
+
+## Chapter XXXIII — The Fall of a Chieftain
+
+- ¶3 · **Long John Silver** · *corrected* · “Jim,”
+- ¶3 · **Long John Silver** · *corrected* · “take that, and stand by for trouble.”
+- ¶5 · **Long John Silver** · *corrected* · “Here is a narrow corner,”
+- ¶5 · **Long John Silver** · *corrected* · “So you’ve changed sides again.”
+- ¶7 · **Jim Hawkins** · “Two guineas!”
+- ¶7 · **Jim Hawkins** · “That’s your seven hundred thousand pounds, is it? You’re the man for bargains, ain’t you? You’re…
+- ¶8 · **Long John Silver** · “Dig away, boys,”
+- ¶8 · **Long John Silver** · “you’ll find some pig-nuts and I shouldn’t wonder.”
+- ¶9 · **Jim Hawkins** · “Pig-nuts!”
+- ¶9 · **Jim Hawkins** · “Mates, do you hear that? I tell you now, that man there knew it all along. Look in the face of h…
+- ¶10 · **Long John Silver** · “Ah, Merry,”
+- ¶10 · **Long John Silver** · “standing for cap’n again? You’re a pushing lad, to be sure.”
+- ¶14 · **Jim Hawkins** · *corrected* · “Mates,”
+- ¶14 · **Jim Hawkins** · *corrected* · “there’s two of them alone there; one’s the old cripple that brought us all here and blundered us…
+- ¶16 · **Long John Silver** · *inferred* · “George,”
+- ¶16 · **Long John Silver** · *inferred* · “I reckon I settled you.”
+- ¶18 · **Dr Livesey** · “Forward!”
+- ¶18 · **Dr Livesey** · “Double quick, my lads. We must head ’em off the boats.”
+- ¶21 · **Long John Silver** · *inferred* · “Doctor,”
+- ¶21 · **Long John Silver** · *inferred* · “see there! No hurry!”
+- ¶23 · **Long John Silver** · *corrected* · “Thank ye kindly, doctor,”
+- ¶23 · **Long John Silver** · *corrected* · “You came in in about the nick, I guess, for me and Hawkins. And so it’s you, Ben Gunn!”
+- ¶23 · **Long John Silver** · *corrected* · “Well, you’re a nice one, to be sure.”
+- ¶24 · **Ben Gunn** · “I’m Ben Gunn, I am,”
+- ¶24 · **Ben Gunn** · “And,”
+- ¶24 · **Ben Gunn** · “how do, Mr. Silver? Pretty well, I thank ye, says you.”
+- ¶25 · **Long John Silver** · “Ben, Ben,”
+- ¶25 · **Long John Silver** · “to think as you’ve done me!”
+- ¶29 · **Dr Livesey** · *corrected* · “As for you, Jim,”
+- ¶29 · **Dr Livesey** · *corrected* · “it went against my heart, but I did what I thought best for those who had stood by their duty; a…
+- ¶31 · **Long John Silver** · “Ah,”
+- ¶31 · **Long John Silver** · “it were fortunate for me that I had Hawkins here. You would have let old John be cut to bits, an…
+- ¶32 · **Dr Livesey** · “Not a thought,”
+- ¶38 · **Squire Trelawney** · *corrected* · “John Silver,”
+- ¶38 · **Squire Trelawney** · *corrected* · “you’re a prodigious villain and imposter--a monstrous imposter, sir. I am told I am not to prose…
+- ¶39 · **Long John Silver** · “Thank you kindly, sir,”
+- ¶40 · **Squire Trelawney** · “I dare you to thank me!”
+- ¶40 · **Squire Trelawney** · “It is a gross dereliction of my duty. Stand back.”
+- ¶42 · **Captain Smollett** · “Come in, Jim,”
+- ¶42 · **Captain Smollett** · “You’re a good boy in your line, Jim, but I don’t think you and me’ll go to sea again. You’re too…
+- ¶43 · **Long John Silver** · “Come back to my dooty, sir,”
+- ¶44 · **Captain Smollett** · “Ah!”
+
+## Chapter XXXIV — And Last
+
+- ¶7 · **Dr Livesey** · “Heaven forgive them,”
+- ¶7 · **Dr Livesey** · “’tis the mutineers!”
+- ¶8 · **Long John Silver** · “All drunk, sir,”
+- ¶10 · **Dr Livesey** · *corrected* · “Drunk or raving,”
+- ¶11 · **Long John Silver** · “Right you were, sir,”
+- ¶11 · **Long John Silver** · “and precious little odds which, to you and me.”
+- ¶12 · **Dr Livesey** · “I suppose you would hardly ask me to call you a humane man,”
+- ¶12 · **Dr Livesey** · “and so my feelings may surprise you, Master Silver. But if I were sure they were raving--as I am…
+- ¶13 · **Long John Silver** · *inferred* · “Ask your pardon, sir, you would be very wrong,”
+- ¶13 · **Long John Silver** · *inferred* · “You would lose your precious life, and you may lay to that. I’m on your side now, hand and glove…
+- ¶14 · **Dr Livesey** · “No,”
+- ¶14 · **Dr Livesey** · “You’re the man to keep your word, we know that.”
+- ¶22 · **Ben Gunn** · *corrected* · “that man with the one leg had stayed aboard.”
+- ¶24 · **Jim Hawkins** · *corrected* · “Drink and the devil had done for the rest,”
+- ¶28 · **Jim Hawkins** · *corrected* · “Pieces of eight! Pieces of eight!”

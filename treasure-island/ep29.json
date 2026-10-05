@@ -1,0 +1,571 @@
+{
+ "work": "treasure-island",
+ "episode": 29,
+ "chapter": 29,
+ "title": "The Black Spot Again",
+ "document": "PART SIX · CHAPTER XXIX",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch29.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md. The pirates of the last chapters — Morgan, George Merry, Dick — are minor parts, spoken by the narrator as Jim tells it.",
+ "cast": [
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Ben Gunn",
+   "cast_as": "James Joyce"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER XXIX"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "THE BLACK SPOT AGAIN"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The council of buccaneers had lasted some time, when one of them\nre-entered the house, and with a repetition of the same salute, which\nhad in my eyes an ironical air, begged for a moment’s loan of the torch.\nSilver briefly agreed, and this emissary retired again, leaving us\ntogether in the dark."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“There’s a breeze coming, Jim,”"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver, who had by this time\nadopted quite a friendly and familiar tone."
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I turned to the loophole nearest me and looked out. The embers of the\ngreat fire had so far burned themselves out and now glowed so low and\nduskily that I understood why these conspirators desired a torch. About\nhalf-way down the slope to the stockade, they were collected in a group;\none held the light, another was on his knees in their midst, and I saw\nthe blade of an open knife shine in his hand with varying colours in\nthe moon and torchlight. The rest were all somewhat stooping, as though\nwatching the manoeuvres of this last. I could just make out that he\nhad a book as well as a knife in his hand, and was still wondering how\nanything so incongruous had come in their possession when the kneeling\nfigure rose once more to his feet and the whole party began to move\ntogether towards the house."
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Here they come,” said I; and I returned to my former position, for it\nseemed beneath my dignity that they should find me watching them."
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Well, let ’em come, lad--let ’em come,”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver cheerily."
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“I’ve\nstill a shot in my locker.”"
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The door opened, and the five men, standing huddled together just\ninside, pushed one of their number forward. In any other circumstances\nit would have been comical to see his slow advance, hesitating as he set\ndown each foot, but holding his closed right hand in front of him."
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Step up, lad,”"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried Silver."
+  },
+  {
+   "n": 14,
+   "para": 8,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“I won’t eat you. Hand it over, lubber. I\nknow the rules, I do; I won’t hurt a depytation.”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Thus encouraged, the buccaneer stepped forth more briskly, and having\npassed something to Silver, from hand to hand, slipped yet more smartly\nback again to his companions."
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The sea-cook looked at what had been given him."
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“The black spot! I thought so,”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he observed."
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Where might you have got\nthe paper? Why, hillo! Look here, now; this ain’t lucky! You’ve gone and\ncut this out of a Bible. What fool’s cut a Bible?”"
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Ah, there!” said Morgan. “There! Wot did I say? No good’ll come o’\nthat, I said.”"
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Well, you’ve about fixed it now, among you,”"
+  },
+  {
+   "n": 22,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "continued Silver."
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“You’ll\nall swing now, I reckon. What soft-headed lubber had a Bible?”"
+  },
+  {
+   "n": 24,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“It was Dick,” said one."
+  },
+  {
+   "n": 25,
+   "para": 15,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Dick, was it? Then Dick can get to prayers,”"
+  },
+  {
+   "n": 26,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver."
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“He’s seen\nhis slice of luck, has Dick, and you may lay to that.”"
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "But here the long man with the yellow eyes struck in."
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Belay that talk, John Silver,” he said. “This crew has tipped you the\nblack spot in full council, as in dooty bound; just you turn it over, as\nin dooty bound, and see what’s wrote there. Then you can talk.”"
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Thanky, George,”"
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "replied the sea-cook."
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“You always was brisk for\nbusiness, and has the rules by heart, George, as I’m pleased to see.\nWell, what is it, anyway? Ah! ‘Deposed’--that’s it, is it? Very pretty\nwrote, to be sure; like print, I swear. Your hand o’ write, George? Why,\nyou was gettin’ quite a leadin’ man in this here crew. You’ll be cap’n\nnext, I shouldn’t wonder. Just oblige me with that torch again, will\nyou? This pipe don’t draw.”"
+  },
+  {
+   "n": 33,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Come, now,” said George, “you don’t fool this crew no more. You’re a\nfunny man, by your account; but you’re over now, and you’ll maybe step\ndown off that barrel and help vote.”"
+  },
+  {
+   "n": 34,
+   "para": 20,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“I thought you said you knowed the rules,”"
+  },
+  {
+   "n": 35,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned Silver\ncontemptuously."
+  },
+  {
+   "n": 36,
+   "para": 20,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Leastways, if you don’t, I do; and I wait here--and I’m\nstill your cap’n, mind--till you outs with your grievances and I reply;\nin the meantime, your black spot ain’t worth a biscuit. After that,\nwe’ll see.”"
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Oh,” replied George, “you don’t be under no kind of apprehension; WE’RE\nall square, we are. First, you’ve made a hash of this cruise--you’ll be\na bold man to say no to that. Second, you let the enemy out o’ this here\ntrap for nothing. Why did they want out? I dunno, but it’s pretty plain\nthey wanted it. Third, you wouldn’t let us go at them upon the march.\nOh, we see through you, John Silver; you want to play booty, that’s\nwhat’s wrong with you. And then, fourth, there’s this here boy.”"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Is that all?”"
+  },
+  {
+   "n": 39,
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "asked Silver quietly."
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Enough, too,” retorted George. “We’ll all swing and sun-dry for your\nbungling.”"
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Well now, look here, I’ll answer these four p’ints; one after another\nI’ll answer ’em. I made a hash o’ this cruise, did I? Well now, you all\nknow what I wanted, and you all know if that had been done that we’d\n’a been aboard the HISPANIOLA this night as ever was, every man of us\nalive, and fit, and full of good plum-duff, and the treasure in the hold\nof her, by thunder! Well, who crossed me? Who forced my hand, as was the\nlawful cap’n? Who tipped me the black spot the day we landed and began\nthis dance? Ah, it’s a fine dance--I’m with you there--and looks mighty\nlike a hornpipe in a rope’s end at Execution Dock by London town, it\ndoes. But who done it? Why, it was Anderson, and Hands, and you, George\nMerry! And you’re the last above board of that same meddling crew;\nand you have the Davy Jones’s insolence to up and stand for cap’n over\nme--you, that sank the lot of us! By the powers! But this tops the\nstiffest yarn to nothing.”"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Silver paused, and I could see by the faces of George and his late\ncomrades that these words had not been said in vain."
+  },
+  {
+   "n": 43,
+   "para": 26,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“That’s for number one,”"
+  },
+  {
+   "n": 44,
+   "para": 26,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the accused, wiping the sweat from his\nbrow, for he had been talking with a vehemence that shook the house."
+  },
+  {
+   "n": 45,
+   "para": 26,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Why, I give you my word, I’m sick to speak to you. You’ve neither sense\nnor memory, and I leave it to fancy where your mothers was that let you\ncome to sea. Sea! Gentlemen o’ fortune! I reckon tailors is your trade.”"
+  },
+  {
+   "n": 46,
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Go on, John,” said Morgan. “Speak up to the others.”"
+  },
+  {
+   "n": 47,
+   "para": 28,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Ah, the others!”"
+  },
+  {
+   "n": 48,
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned John."
+  },
+  {
+   "n": 49,
+   "para": 28,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“They’re a nice lot, ain’t they? You\nsay this cruise is bungled. Ah! By gum, if you could understand how bad\nit’s bungled, you would see! We’re that near the gibbet that my neck’s\nstiff with thinking on it. You’ve seen ’em, maybe, hanged in chains,\nbirds about ’em, seamen p’inting ’em out as they go down with the tide.\n‘Who’s that?’ says one. ‘That! Why, that’s John Silver. I knowed him\nwell,’ says another. And you can hear the chains a-jangle as you go\nabout and reach for the other buoy. Now, that’s about where we are,\nevery mother’s son of us, thanks to him, and Hands, and Anderson, and\nother ruination fools of you. And if you want to know about number four,\nand that boy, why, shiver my timbers, isn’t he a hostage? Are we a-going\nto waste a hostage? No, not us; he might be our last chance, and I\nshouldn’t wonder. Kill that boy? Not me, mates! And number three? Ah,\nwell, there’s a deal to say to number three. Maybe you don’t count it\nnothing to have a real college doctor to see you every day--you, John,\nwith your head broke--or you, George Merry, that had the ague shakes\nupon you not six hours agone, and has your eyes the colour of lemon peel\nto this same moment on the clock? And maybe, perhaps, you didn’t know\nthere was a consort coming either? But there is, and not so long till\nthen; and we’ll see who’ll be glad to have a hostage when it comes to\nthat. And as for number two, and why I made a bargain--well, you came\ncrawling on your knees to me to make it--on your knees you came, you was\nthat downhearted--and you’d have starved too if I hadn’t--but that’s a\ntrifle! You look there--that’s why!”"
+  },
+  {
+   "n": 50,
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "And he cast down upon the floor a paper that I instantly\nrecognized--none other than the chart on yellow paper, with the three\nred crosses, that I had found in the oilcloth at the bottom of the\ncaptain’s chest. Why the doctor had given it to him was more than I\ncould fancy."
+  },
+  {
+   "n": 51,
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "But if it were inexplicable to me, the appearance of the chart was\nincredible to the surviving mutineers. They leaped upon it like cats\nupon a mouse. It went from hand to hand, one tearing it from another;\nand by the oaths and the cries and the childish laughter with which they\naccompanied their examination, you would have thought, not only they\nwere fingering the very gold, but were at sea with it, besides, in\nsafety."
+  },
+  {
+   "n": 52,
+   "para": 31,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Yes,” said one, “that’s Flint, sure enough. J. F., and a score below,\nwith a clove hitch to it; so he done ever.”"
+  },
+  {
+   "n": 53,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Mighty pretty,” said George. “But how are we to get away with it, and\nus no ship.”"
+  },
+  {
+   "n": 54,
+   "para": 33,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Silver suddenly sprang up, and supporting himself with a hand against\nthe wall:"
+  },
+  {
+   "n": 55,
+   "para": 33,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Now I give you warning, George,”"
+  },
+  {
+   "n": 56,
+   "para": 33,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he cried."
+  },
+  {
+   "n": 57,
+   "para": 33,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“One more word\nof your sauce, and I’ll call you down and fight you. How? Why, how do I\nknow? You had ought to tell me that--you and the rest, that lost me my\nschooner, with your interference, burn you! But not you, you can’t; you\nhain’t got the invention of a cockroach. But civil you can speak, and\nshall, George Merry, you may lay to that.”"
+  },
+  {
+   "n": 58,
+   "para": 34,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“That’s fair enow,” said the old man Morgan."
+  },
+  {
+   "n": 59,
+   "para": 35,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Fair! I reckon so,”"
+  },
+  {
+   "n": 60,
+   "para": 35,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the sea-cook."
+  },
+  {
+   "n": 61,
+   "para": 35,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“You lost the ship; I found the\ntreasure. Who’s the better man at that? And now I resign, by thunder!\nElect whom you please to be your cap’n now; I’m done with it.”"
+  },
+  {
+   "n": 62,
+   "sfx": [
+    {
+     "key": "crew_cheer",
+     "at": "Barbecue forever! Barbecue for cap’n!"
+    }
+   ],
+   "para": 36,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Silver!” they cried. “Barbecue forever! Barbecue for cap’n!”"
+  },
+  {
+   "n": 63,
+   "para": 37,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“So that’s the toon, is it?”"
+  },
+  {
+   "n": 64,
+   "para": 37,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the cook."
+  },
+  {
+   "n": 65,
+   "para": 37,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“George, I reckon you’ll\nhave to wait another turn, friend; and lucky for you as I’m not a\nrevengeful man. But that was never my way. And now, shipmates, this\nblack spot? ’Tain’t much good now, is it? Dick’s crossed his luck and\nspoiled his Bible, and that’s about all.”"
+  },
+  {
+   "n": 66,
+   "para": 38,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“It’ll do to kiss the book on still, won’t it?” growled Dick, who was\nevidently uneasy at the curse he had brought upon himself."
+  },
+  {
+   "n": 67,
+   "para": 39,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“A Bible with a bit cut out!”"
+  },
+  {
+   "n": 68,
+   "para": 39,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned Silver derisively."
+  },
+  {
+   "n": 69,
+   "para": 39,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Not it. It\ndon’t bind no more’n a ballad-book.”"
+  },
+  {
+   "n": 70,
+   "para": 40,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Don’t it, though?” cried Dick with a sort of joy. “Well, I reckon\nthat’s worth having too.”"
+  },
+  {
+   "n": 71,
+   "para": 41,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Here, Jim--here’s a cur’osity for you,”"
+  },
+  {
+   "n": 72,
+   "para": 41,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver, and he tossed me\nthe paper."
+  },
+  {
+   "n": 73,
+   "para": 42,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "It was around about the size of a crown piece. One side was blank,\nfor it had been the last leaf; the other contained a verse or two of\nRevelation--these words among the rest, which struck sharply home upon\nmy mind: “Without are dogs and murderers.” The printed side had been\nblackened with wood ash, which already began to come off and soil my\nfingers; on the blank side had been written with the same material the\none word “Depposed.” I have that curiosity beside me at this moment, but\nnot a trace of writing now remains beyond a single scratch, such as a\nman might make with his thumb-nail."
+  },
+  {
+   "n": 74,
+   "para": 43,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "That was the end of the night’s business. Soon after, with a drink all\nround, we lay down to sleep, and the outside of Silver’s vengeance was\nto put George Merry up for sentinel and threaten him with death if he\nshould prove unfaithful."
+  },
+  {
+   "n": 75,
+   "para": 44,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "It was long ere I could close an eye, and heaven knows I had matter\nenough for thought in the man whom I had slain that afternoon, in my own\nmost perilous position, and above all, in the remarkable game that I saw\nSilver now engaged upon--keeping the mutineers together with one hand\nand grasping with the other after every means, possible and impossible,\nto make his peace and save his miserable life. He himself slept\npeacefully and snored aloud, yet my heart was sore for him, wicked as he\nwas, to think on the dark perils that environed and the shameful gibbet\nthat awaited him."
+  }
+ ]
+}

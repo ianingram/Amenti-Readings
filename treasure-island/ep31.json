@@ -1,0 +1,463 @@
+{
+ "work": "treasure-island",
+ "episode": 31,
+ "chapter": 31,
+ "title": "The Treasure-hunt — Flint’s Pointer",
+ "document": "PART SIX · CHAPTER XXXI",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch31.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md. The pirates of the last chapters — Morgan, George Merry, Dick — are minor parts, spoken by the narrator as Jim tells it.",
+ "cast": [
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Ben Gunn",
+   "cast_as": "James Joyce"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER XXXI"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "THE TREASURE-HUNT--FLINT’S POINTER"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Jim,”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver when we were alone,"
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“if I saved your life, you saved\nmine; and I’ll not forget it. I seen the doctor waving you to run for\nit--with the tail of my eye, I did; and I seen you say no, as plain as\nhearing. Jim, that’s one to you. This is the first glint of hope I had\nsince the attack failed, and I owe it you. And now, Jim, we’re to go in\nfor this here treasure-hunting, with sealed orders too, and I don’t like\nit; and you and me must stick close, back to back like, and we’ll save\nour necks in spite o’ fate and fortune.”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Just then a man hailed us from the fire that breakfast was ready, and\nwe were soon seated here and there about the sand over biscuit and fried\njunk. They had lit a fire fit to roast an ox, and it was now grown so\nhot that they could only approach it from the windward, and even there\nnot without precaution. In the same wasteful spirit, they had cooked,\nI suppose, three times more than we could eat; and one of them, with an\nempty laugh, threw what was left into the fire, which blazed and roared\nagain over this unusual fuel. I never in my life saw men so careless of\nthe morrow; hand to mouth is the only word that can describe their way\nof doing; and what with wasted food and sleeping sentries, though they\nwere bold enough for a brush and be done with it, I could see their\nentire unfitness for anything like a prolonged campaign."
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Even Silver, eating away, with Captain Flint upon his shoulder, had not\na word of blame for their recklessness. And this the more surprised me,\nfor I thought he had never shown himself so cunning as he did then."
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Aye, mates,”"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said he,"
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“it’s lucky you have Barbecue to think for you\nwith this here head. I got what I wanted, I did. Sure enough, they have\nthe ship. Where they have it, I don’t know yet; but once we hit the\ntreasure, we’ll have to jump about and find out. And then, mates, us\nthat has the boats, I reckon, has the upper hand.”"
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Thus he kept running on, with his mouth full of the hot bacon; thus he\nrestored their hope and confidence, and, I more than suspect, repaired\nhis own at the same time."
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“As for hostage,”"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "he continued,"
+  },
+  {
+   "n": 14,
+   "para": 7,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“that’s his last talk, I guess, with\nthem he loves so dear. I’ve got my piece o’ news, and thanky to him\nfor that; but it’s over and done. I’ll take him in a line when we go\ntreasure-hunting, for we’ll keep him like so much gold, in case of\naccidents, you mark, and in the meantime. Once we got the ship and\ntreasure both and off to sea like jolly companions, why then we’ll talk\nMr. Hawkins over, we will, and we’ll give him his share, to be sure, for\nall his kindness.”"
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "It was no wonder the men were in a good humour now. For my part, I\nwas horribly cast down. Should the scheme he had now sketched prove\nfeasible, Silver, already doubly a traitor, would not hesitate to adopt\nit. He had still a foot in either camp, and there was no doubt he\nwould prefer wealth and freedom with the pirates to a bare escape from\nhanging, which was the best he had to hope on our side."
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Nay, and even if things so fell out that he was forced to keep his faith\nwith Dr. Livesey, even then what danger lay before us! What a moment\nthat would be when the suspicions of his followers turned to certainty\nand he and I should have to fight for dear life--he a cripple and I a\nboy--against five strong and active seamen!"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Add to this double apprehension the mystery that still hung over the\nbehaviour of my friends, their unexplained desertion of the stockade,\ntheir inexplicable cession of the chart, or harder still to understand,\nthe doctor’s last warning to Silver,"
+  },
+  {
+   "n": 18,
+   "para": 10,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Look out for squalls when you\nfind it,”"
+  },
+  {
+   "n": 19,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "and you will readily believe how little taste I found in my\nbreakfast and with how uneasy a heart I set forth behind my captors on\nthe quest for treasure."
+  },
+  {
+   "n": 20,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "We made a curious figure, had anyone been there to see us--all in soiled\nsailor clothes and all but me armed to the teeth. Silver had two guns\nslung about him--one before and one behind--besides the great cutlass\nat his waist and a pistol in each pocket of his square-tailed coat.\nTo complete his strange appearance, Captain Flint sat perched upon his\nshoulder and gabbling odds and ends of purposeless sea-talk. I had a\nline about my waist and followed obediently after the sea-cook, who\nheld the loose end of the rope, now in his free hand, now between his\npowerful teeth. For all the world, I was led like a dancing bear."
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The other men were variously burthened, some carrying picks and\nshovels--for that had been the very first necessary they brought ashore\nfrom the HISPANIOLA--others laden with pork, bread, and brandy for the\nmidday meal. All the stores, I observed, came from our stock, and I\ncould see the truth of Silver’s words the night before. Had he not\nstruck a bargain with the doctor, he and his mutineers, deserted by the\nship, must have been driven to subsist on clear water and the proceeds\nof their hunting. Water would have been little to their taste; a sailor\nis not usually a good shot; and besides all that, when they were so\nshort of eatables, it was not likely they would be very flush of powder."
+  },
+  {
+   "n": 22,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Well, thus equipped, we all set out--even the fellow with the broken\nhead, who should certainly have kept in shadow--and straggled, one after\nanother, to the beach, where the two gigs awaited us. Even these bore\ntrace of the drunken folly of the pirates, one in a broken thwart, and\nboth in their muddy and unbailed condition. Both were to be carried\nalong with us for the sake of safety; and so, with our numbers divided\nbetween them, we set forth upon the bosom of the anchorage."
+  },
+  {
+   "n": 23,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "As we pulled over, there was some discussion on the chart. The red cross\nwas, of course, far too large to be a guide; and the terms of the note\non the back, as you will hear, admitted of some ambiguity. They ran, the\nreader may remember, thus:"
+  },
+  {
+   "n": 24,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Tall tree, Spy-glass shoulder, bearing a point to\n     the N. of N.N.E.\n     Skeleton Island E.S.E. and by E.\n     Ten feet."
+  },
+  {
+   "n": 25,
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "A tall tree was thus the principal mark. Now, right before us the\nanchorage was bounded by a plateau from two to three hundred feet high,\nadjoining on the north the sloping southern shoulder of the Spy-glass\nand rising again towards the south into the rough, cliffy eminence\ncalled the Mizzenmast Hill. The top of the plateau was dotted thickly\nwith pine-trees of varying height. Every here and there, one of a\ndifferent species rose forty or fifty feet clear above its neighbours,\nand which of these was the particular “tall tree” of Captain Flint could\nonly be decided on the spot, and by the readings of the compass."
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Yet, although that was the case, every man on board the boats had\npicked a favourite of his own ere we were half-way over, Long John alone\nshrugging his shoulders and bidding them wait till they were there."
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "We pulled easily, by Silver’s directions, not to weary the hands\nprematurely, and after quite a long passage, landed at the mouth of\nthe second river--that which runs down a woody cleft of the Spy-glass.\nThence, bending to our left, we began to ascend the slope towards the\nplateau."
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At the first outset, heavy, miry ground and a matted, marish vegetation\ngreatly delayed our progress; but by little and little the hill began\nto steepen and become stony under foot, and the wood to change its\ncharacter and to grow in a more open order. It was, indeed, a most\npleasant portion of the island that we were now approaching. A\nheavy-scented broom and many flowering shrubs had almost taken the place\nof grass. Thickets of green nutmeg-trees were dotted here and there with\nthe red columns and the broad shadow of the pines; and the first mingled\ntheir spice with the aroma of the others. The air, besides, was fresh\nand stirring, and this, under the sheer sunbeams, was a wonderful\nrefreshment to our senses."
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The party spread itself abroad, in a fan shape, shouting and leaping to\nand fro. About the centre, and a good way behind the rest, Silver and\nI followed--I tethered by my rope, he ploughing, with deep pants, among\nthe sliding gravel. From time to time, indeed, I had to lend him a hand,\nor he must have missed his footing and fallen backward down the hill."
+  },
+  {
+   "n": 30,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "We had thus proceeded for about half a mile and were approaching the\nbrow of the plateau when the man upon the farthest left began to cry\naloud, as if in terror. Shout after shout came from him, and the others\nbegan to run in his direction."
+  },
+  {
+   "n": 31,
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“He can’t ’a found the treasure,” said old Morgan, hurrying past us from\nthe right, “for that’s clean a-top.”"
+  },
+  {
+   "n": 32,
+   "score": {
+    "key": "dread",
+    "xfade": 4,
+    "at": "a human skeleton lay"
+   },
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Indeed, as we found when we also reached the spot, it was something\nvery different. At the foot of a pretty big pine and involved in a green\ncreeper, which had even partly lifted some of the smaller bones, a human\nskeleton lay, with a few shreds of clothing, on the ground. I believe a\nchill struck for a moment to every heart."
+  },
+  {
+   "n": 33,
+   "para": 24,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“He was a seaman,” said George Merry, who, bolder than the rest, had\ngone up close and was examining the rags of clothing. “Leastways, this\nis good sea-cloth.”"
+  },
+  {
+   "n": 34,
+   "para": 25,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Aye, aye,”"
+  },
+  {
+   "n": 35,
+   "para": 25,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver;"
+  },
+  {
+   "n": 36,
+   "para": 25,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“like enough; you wouldn’t look to find a\nbishop here, I reckon. But what sort of a way is that for bones to lie?\n’Tain’t in natur’.”"
+  },
+  {
+   "n": 37,
+   "para": 26,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Indeed, on a second glance, it seemed impossible to fancy that the body\nwas in a natural position. But for some disarray (the work, perhaps, of\nthe birds that had fed upon him or of the slow-growing creeper that had\ngradually enveloped his remains) the man lay perfectly straight--his\nfeet pointing in one direction, his hands, raised above his head like a\ndiver’s, pointing directly in the opposite."
+  },
+  {
+   "n": 38,
+   "para": 27,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“I’ve taken a notion into my old numbskull,”"
+  },
+  {
+   "n": 39,
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "observed Silver."
+  },
+  {
+   "n": 40,
+   "para": 27,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Here’s\nthe compass; there’s the tip-top p’int o’ Skeleton Island, stickin’\nout like a tooth. Just take a bearing, will you, along the line of them\nbones.”"
+  },
+  {
+   "n": 41,
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "It was done. The body pointed straight in the direction of the island,\nand the compass read duly E.S.E. and by E."
+  },
+  {
+   "n": 42,
+   "para": 29,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“I thought so,”"
+  },
+  {
+   "n": 43,
+   "para": 29,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried the cook;"
+  },
+  {
+   "n": 44,
+   "para": 29,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“this here is a p’inter. Right up there\nis our line for the Pole Star and the jolly dollars. But, by thunder!\nIf it don’t make me cold inside to think of Flint. This is one of HIS\njokes, and no mistake. Him and these six was alone here; he killed ’em,\nevery man; and this one he hauled here and laid down by compass, shiver\nmy timbers! They’re long bones, and the hair’s been yellow. Aye, that\nwould be Allardyce. You mind Allardyce, Tom Morgan?”"
+  },
+  {
+   "n": 45,
+   "para": 30,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Aye, aye,” returned Morgan; “I mind him; he owed me money, he did, and\ntook my knife ashore with him.”"
+  },
+  {
+   "n": 46,
+   "para": 31,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Speaking of knives,” said another, “why don’t we find his’n lying\nround? Flint warn’t the man to pick a seaman’s pocket; and the birds, I\nguess, would leave it be.”"
+  },
+  {
+   "n": 47,
+   "para": 32,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“By the powers, and that’s true!”"
+  },
+  {
+   "n": 48,
+   "para": 32,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "cried Silver."
+  },
+  {
+   "n": 49,
+   "para": 33,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“There ain’t a thing left here,” said Merry, still feeling round among\nthe bones; “not a copper doit nor a baccy box. It don’t look nat’ral to\nme.”"
+  },
+  {
+   "n": 50,
+   "para": 34,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“No, by gum, it don’t,”"
+  },
+  {
+   "n": 51,
+   "para": 34,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "agreed Silver;"
+  },
+  {
+   "n": 52,
+   "para": 34,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“not nat’ral, nor not nice, says\nyou. Great guns! Messmates, but if Flint was living, this would be a hot\nspot for you and me. Six they were, and six are we; and bones is what\nthey are now.”"
+  },
+  {
+   "n": 53,
+   "para": 35,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“I saw him dead with these here deadlights,” said Morgan. “Billy took me\nin. There he laid, with penny-pieces on his eyes.”"
+  },
+  {
+   "n": 54,
+   "para": 36,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Dead--aye, sure enough he’s dead and gone below,” said the fellow with\nthe bandage; “but if ever sperrit walked, it would be Flint’s. Dear\nheart, but he died bad, did Flint!”"
+  },
+  {
+   "n": 55,
+   "para": 37,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "“Aye, that he did,” observed another; “now he raged, and now he hollered\nfor the rum, and now he sang. ‘Fifteen Men’ were his only song, mates;\nand I tell you true, I never rightly liked to hear it since. It was\nmain hot, and the windy was open, and I hear that old song comin’ out as\nclear as clear--and the death-haul on the man already.”"
+  },
+  {
+   "n": 56,
+   "para": 38,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Come, come,”"
+  },
+  {
+   "n": 57,
+   "para": 38,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said Silver;"
+  },
+  {
+   "n": 58,
+   "score": {
+    "key": null,
+    "xfade": 8,
+    "at": "stow this talk"
+   },
+   "para": 38,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“stow this talk. He’s dead, and he don’t\nwalk, that I know; leastways, he won’t walk by day, and you may lay to\nthat. Care killed a cat. Fetch ahead for the doubloons.”"
+  },
+  {
+   "n": 59,
+   "para": 39,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "We started, certainly; but in spite of the hot sun and the staring\ndaylight, the pirates no longer ran separate and shouting through the\nwood, but kept side by side and spoke with bated breath. The terror of\nthe dead buccaneer had fallen on their spirits."
+  }
+ ]
+}

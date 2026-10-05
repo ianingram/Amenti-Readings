@@ -92,3 +92,12 @@ Built by `build-part-five.py` from the theme's own material.
 | `score-flute-drift.mp3` | the theme's tune on the VSCO 2 CE flute (CC0), slow and far, phrase after phrase |
 | `hands-drums.mp3` | VSCO 2 CE kettle-drum rolls and marching snare (CC0), rising and stopping dead |
 | `dirk-mast.mp3`, `body-water.mp3` | built; the thock from *Dull thud* (gregoryweir, PD) |
+
+## Part Six — Captain Silver (5 Oct 2026)
+
+Built by `build-part-six.py`.
+
+| file | made from |
+|---|---|
+| `score-hollow.mp3` | the theme turned hollow: its first phrase very slow on the VSCO 2 CE cello section (CC0), the last note held over nothing — the empty pit |
+| `coins.mp3` | built: coins slipping and chinking in heaps — Flint's gold in Ben Gunn's cave |

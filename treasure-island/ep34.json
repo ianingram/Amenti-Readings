@@ -1,0 +1,370 @@
+{
+ "work": "treasure-island",
+ "episode": 34,
+ "chapter": 34,
+ "title": "And Last",
+ "document": "PART SIX · CHAPTER XXXIV",
+ "source": {
+  "library": "library/robert-louis-stevenson/ch34.md",
+  "text": "Robert Louis Stevenson, Treasure Island (1883) · Project Gutenberg #120 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md. The pirates of the last chapters — Morgan, George Merry, Dick — are minor parts, spoken by the narrator as Jim tells it.",
+ "cast": [
+  {
+   "role": "Jim Hawkins",
+   "cast_as": "Robert Louis Stevenson"
+  },
+  {
+   "role": "Long John Silver",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Dr Livesey",
+   "cast_as": "David Livingstone"
+  },
+  {
+   "role": "Ben Gunn",
+   "cast_as": "James Joyce"
+  },
+  {
+   "role": "Squire Trelawney",
+   "cast_as": "Francis Drake"
+  },
+  {
+   "role": "Captain Smollett",
+   "cast_as": "James Cook"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "CHAPTER XXXIV"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "AND LAST"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The next morning we fell early to work, for the transportation of this\ngreat mass of gold near a mile by land to the beach, and thence three\nmiles by boat to the HISPANIOLA, was a considerable task for so small\na number of workmen. The three fellows still abroad upon the island did\nnot greatly trouble us; a single sentry on the shoulder of the hill was\nsufficient to ensure us against any sudden onslaught, and we thought,\nbesides, they had had more than enough of fighting."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Therefore the work was pushed on briskly. Gray and Ben Gunn came and\nwent with the boat, while the rest during their absences piled treasure\non the beach. Two of the bars, slung in a rope’s end, made a good load\nfor a grown man--one that he was glad to walk slowly with. For my part,\nas I was not much use at carrying, I was kept busy all day in the cave\npacking the minted money into bread-bags."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "It was a strange collection, like Billy Bones’s hoard for the diversity\nof coinage, but so much larger and so much more varied that I think I\nnever had more pleasure than in sorting them. English, French, Spanish,\nPortuguese, Georges, and Louises, doubloons and double guineas and\nmoidores and sequins, the pictures of all the kings of Europe for the\nlast hundred years, strange Oriental pieces stamped with what looked\nlike wisps of string or bits of spider’s web, round pieces and square\npieces, and pieces bored through the middle, as if to wear them round\nyour neck--nearly every variety of money in the world must, I think,\nhave found a place in that collection; and for number, I am sure they\nwere like autumn leaves, so that my back ached with stooping and my\nfingers with sorting them out."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Day after day this work went on; by every evening a fortune had been\nstowed aboard, but there was another fortune waiting for the morrow; and\nall this time we heard nothing of the three surviving mutineers."
+  },
+  {
+   "n": 7,
+   "sfx": [
+    {
+     "key": "campfire_drone",
+     "at": "a noise between shrieking and singing"
+    }
+   ],
+   "para": 6,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At last--I think it was on the third night--the doctor and I were\nstrolling on the shoulder of the hill where it overlooks the lowlands of\nthe isle, when, from out the thick darkness below, the wind brought us\na noise between shrieking and singing. It was only a snatch that reached\nour ears, followed by the former silence."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Heaven forgive them,”"
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor;"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“’tis the mutineers!”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“All drunk, sir,”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "struck in the voice of Silver from behind us."
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Silver, I should say, was allowed his entire liberty, and in spite of\ndaily rebuffs, seemed to regard himself once more as quite a privileged\nand friendly dependent. Indeed, it was remarkable how well he bore\nthese slights and with what unwearying politeness he kept on trying to\ningratiate himself with all. Yet, I think, none treated him better than\na dog, unless it was Ben Gunn, who was still terribly afraid of his old\nquartermaster, or myself, who had really something to thank him for;\nalthough for that matter, I suppose, I had reason to think even worse of\nhim than anybody else, for I had seen him meditating a fresh treachery\nupon the plateau. Accordingly, it was pretty gruffly that the doctor\nanswered him."
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“Drunk or raving,”"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said he."
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Right you were, sir,”"
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "replied Silver;"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“and precious little odds which,\nto you and me.”"
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“I suppose you would hardly ask me to call you a humane man,”"
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "returned\nthe doctor with a sneer,"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“and so my feelings may surprise you, Master\nSilver. But if I were sure they were raving--as I am morally certain\none, at least, of them is down with fever--I should leave this camp,\nand at whatever risk to my own carcass, take them the assistance of my\nskill.”"
+  },
+  {
+   "n": 22,
+   "para": 13,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“Ask your pardon, sir, you would be very wrong,”"
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "quoth Silver."
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Long John Silver",
+   "cast": "Richard III of England",
+   "text": "“You\nwould lose your precious life, and you may lay to that. I’m on your side\nnow, hand and glove; and I shouldn’t wish for to see the party weakened,\nlet alone yourself, seeing as I know what I owes you. But these men down\nthere, they couldn’t keep their word--no, not supposing they wished to;\nand what’s more, they couldn’t believe as you could.”"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“No,”"
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "said the doctor."
+  },
+  {
+   "n": 27,
+   "para": 14,
+   "role": "Dr Livesey",
+   "cast": "David Livingstone",
+   "text": "“You’re the man to keep your word, we know that.”"
+  },
+  {
+   "n": 28,
+   "para": 15,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Well, that was about the last news we had of the three pirates. Only\nonce we heard a gunshot a great way off and supposed them to be hunting.\nA council was held, and it was decided that we must desert them on the\nisland--to the huge glee, I must say, of Ben Gunn, and with the strong\napproval of Gray. We left a good stock of powder and shot, the bulk\nof the salt goat, a few medicines, and some other necessaries, tools,\nclothing, a spare sail, a fathom or two of rope, and by the particular\ndesire of the doctor, a handsome present of tobacco."
+  },
+  {
+   "n": 29,
+   "para": 16,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "That was about our last doing on the island. Before that, we had got the\ntreasure stowed and had shipped enough water and the remainder of the\ngoat meat in case of any distress; and at last, one fine morning, we\nweighed anchor, which was about all that we could manage, and stood out\nof North Inlet, the same colours flying that the captain had flown and\nfought under at the palisade."
+  },
+  {
+   "n": 30,
+   "para": 17,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The three fellows must have been watching us closer than we thought for,\nas we soon had proved. For coming through the narrows, we had to\nlie very near the southern point, and there we saw all three of\nthem kneeling together on a spit of sand, with their arms raised in\nsupplication. It went to all our hearts, I think, to leave them in that\nwretched state; but we could not risk another mutiny; and to take them\nhome for the gibbet would have been a cruel sort of kindness. The doctor\nhailed them and told them of the stores we had left, and where they were\nto find them. But they continued to call us by name and appeal to us,\nfor God’s sake, to be merciful and not leave them to die in such a\nplace."
+  },
+  {
+   "n": 31,
+   "sfx": [
+    {
+     "key": "musket_far",
+     "at": "a shot whistling over Silver’s head"
+    }
+   ],
+   "para": 18,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "At last, seeing the ship still bore on her course and was now swiftly\ndrawing out of earshot, one of them--I know not which it was--leapt to\nhis feet with a hoarse cry, whipped his musket to his shoulder, and sent\na shot whistling over Silver’s head and through the main-sail."
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "After that, we kept under cover of the bulwarks, and when next I looked\nout they had disappeared from the spit, and the spit itself had almost\nmelted out of sight in the growing distance. That was, at least, the end\nof that; and before noon, to my inexpressible joy, the highest rock of\nTreasure Island had sunk into the blue round of sea."
+  },
+  {
+   "n": 33,
+   "para": 20,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "We were so short of men that everyone on board had to bear a hand--only\nthe captain lying on a mattress in the stern and giving his orders, for\nthough greatly recovered he was still in want of quiet. We laid her\nhead for the nearest port in Spanish America, for we could not risk the\nvoyage home without fresh hands; and as it was, what with baffling winds\nand a couple of fresh gales, we were all worn out before we reached it."
+  },
+  {
+   "n": 34,
+   "para": 21,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "It was just at sundown when we cast anchor in a most beautiful\nland-locked gulf, and were immediately surrounded by shore boats full\nof Negroes and Mexican Indians and half-bloods selling fruits and\nvegetables and offering to dive for bits of money. The sight of so many\ngood-humoured faces (especially the blacks), the taste of the tropical\nfruits, and above all the lights that began to shine in the town made a\nmost charming contrast to our dark and bloody sojourn on the island;\nand the doctor and the squire, taking me along with them, went ashore\nto pass the early part of the night. Here they met the captain of an\nEnglish man-of-war, fell in talk with him, went on board his ship, and,\nin short, had so agreeable a time that day was breaking when we came\nalongside the HISPANIOLA."
+  },
+  {
+   "n": 35,
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Ben Gunn was on deck alone, and as soon as we came on board he began,\nwith wonderful contortions, to make us a confession. Silver was gone.\nThe maroon had connived at his escape in a shore boat some hours ago,\nand he now assured us he had only done so to preserve our lives, which\nwould certainly have been forfeit if"
+  },
+  {
+   "n": 36,
+   "para": 22,
+   "role": "Ben Gunn",
+   "cast": "James Joyce",
+   "text": "“that man with the one leg\nhad stayed aboard.”"
+  },
+  {
+   "n": 37,
+   "para": 22,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "But this was not all. The sea-cook had not gone\nempty-handed. He had cut through a bulkhead unobserved and had removed\none of the sacks of coin, worth perhaps three or four hundred guineas,\nto help him on his further wanderings."
+  },
+  {
+   "n": 38,
+   "para": 23,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "I think we were all pleased to be so cheaply quit of him."
+  },
+  {
+   "n": 39,
+   "bed": "deck",
+   "score": {
+    "key": "flute_drift",
+    "xfade": 8,
+    "at": "Well, to make a long story short"
+   },
+   "para": 24,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Well, to make a long story short, we got a few hands on board, made a\ngood cruise home, and the HISPANIOLA reached Bristol just as Mr. Blandly\nwas beginning to think of fitting out her consort. Five men only of\nthose who had sailed returned with her. “Drink and the devil had done\nfor the rest,” with a vengeance, although, to be sure, we were not quite\nin so bad a case as that other ship they sang about:"
+  },
+  {
+   "n": 40,
+   "para": 25,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "With one man of her crew alive,\n     What put to sea with seventy-five."
+  },
+  {
+   "n": 41,
+   "para": 26,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "All of us had an ample share of the treasure and used it wisely or\nfoolishly, according to our natures. Captain Smollett is now retired\nfrom the sea. Gray not only saved his money, but being suddenly smit\nwith the desire to rise, also studied his profession, and he is now\nmate and part owner of a fine full-rigged ship, married besides, and the\nfather of a family. As for Ben Gunn, he got a thousand pounds, which he\nspent or lost in three weeks, or to be more exact, in nineteen days, for\nhe was back begging on the twentieth. Then he was given a lodge to keep,\nexactly as he had feared upon the island; and he still lives, a great\nfavourite, though something of a butt, with the country boys, and a\nnotable singer in church on Sundays and saints’ days."
+  },
+  {
+   "n": 42,
+   "para": 27,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "Of Silver we have heard no more. That formidable seafaring man with one\nleg has at last gone clean out of my life; but I dare say he met his old\nNegress, and perhaps still lives in comfort with her and Captain Flint.\nIt is to be hoped so, I suppose, for his chances of comfort in another\nworld are very small."
+  },
+  {
+   "n": 43,
+   "sfx": [
+    {
+     "key": "parrot",
+     "at": "Pieces of eight! Pieces of eight!"
+    },
+    {
+     "key": "parrot_2",
+     "at": "Pieces of eight! Pieces of eight!",
+     "offset": 0.9
+    }
+   ],
+   "para": 28,
+   "role": "Jim Hawkins",
+   "cast": "Robert Louis Stevenson",
+   "text": "The bar silver and the arms still lie, for all that I know, where\nFlint buried them; and certainly they shall lie there for me. Oxen and\nwain-ropes would not bring me back again to that accursed island; and\nthe worst dreams that ever I have are when I hear the surf booming about\nits coasts or start upright in bed with the sharp voice of Captain Flint\nstill ringing in my ears: “Pieces of eight! Pieces of eight!”"
+  }
+ ]
+}

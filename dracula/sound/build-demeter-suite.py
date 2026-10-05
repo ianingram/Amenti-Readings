@@ -20,6 +20,7 @@ muffled, boom-boom, from the first bar to the last. 96 bars; the storm is the la
   bars 65–88  THE STORM — the last third. Wind, rain, thunder, timpani, low brass; the heart racing.
   bar  89     THE WRECK — a hard cut. The sea; the captain's heart slowing to its last beat; a dog howls.
 
+v3 (6 Oct 2026) — the first voice now comes at ~0:30; the opening half-minute is the harbour alone.
 v2 (6 Oct 2026) — the voices, on the log's own timeline; the synthesized creak (it croaked
 like a frog) replaced by real wood: the PD "Creaky wooden casket" slowed into big timbers,
 a door-handle creak slowed into a rope under strain.
@@ -180,8 +181,9 @@ def place_v(x, where):
     if where == 'close': return reverb(lp(x, 7000), 0.4, 0.08, seed=11) * 0.9
     return x
 VO = [  # (line, bar, beat, place, gain)
- ('d4', 2, 0.3, 'quay', 1.0), ('d1', 3, 2.0, 'quay', 1.0), ('d2', 5, 0.5, 'quay', 0.9), ('d3', 6, 2.5, 'quay', 0.9),
- ('d6', 8, 0.5, 'quay', 0.8), ('d5', 9, 2.0, 'quay', 0.9), ('d4', 10, 3.0, 'far', 0.7), ('d7', 11, 1.0, 'quay', 0.9), ('d8', 12, 2.0, 'deck', 0.75),
+ # the first half-minute is the harbour alone — ship, water, the quay, the heart; the first voice at ~0:30
+ ('d4', 8, 2.0, 'quay', 1.0), ('d1', 9, 0.5, 'quay', 1.0), ('d2', 9, 3.0, 'quay', 0.9), ('d3', 10, 2.0, 'quay', 0.9),
+ ('d6', 11, 0.5, 'quay', 0.8), ('d5', 11, 3.0, 'quay', 0.9), ('d4', 12, 2.0, 'far', 0.7), ('d7', 13, 0.0, 'quay', 0.9), ('d8', 13, 3.0, 'deck', 0.75),
  ('c1', 15, 0.5, 'deck', 1.0), ('a1a', 16, 0.2, 'deck', 0.9), ('a1b', 16, 0.45, 'far', 0.9),
  ('c2', 17, 0.5, 'deck', 1.0), ('a2', 18, 0.0, 'far', 0.9), ('c3', 21, 0.0, 'deck', 1.0), ('a3', 21, 3.0, 'far', 1.0),
  ('c4', 22, 2.0, 'deck', 1.0), ('a4', 23, 2.5, 'far', 0.9), ('c5', 24, 0.5, 'deck', 0.8), ('a5', 25, 0.0, 'deck', 0.7),

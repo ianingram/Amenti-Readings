@@ -1,6 +1,6 @@
 {
   "_file": "Amenti-Readings/quo-vadis/sound.json",
-  "_updated": "2026-10-06 01:00 UTC",
+  "_updated": "2026-10-06 03:00 UTC",
   "work": "quo-vadis",
   "note": "A MODERN SCORE THAT TELLS THE STORY, a different sound world for each kind of scene: opulence (eastern, sensual — the baths, Petronius, the luxury of the court), Lygia (spare piano and a string halo), Vinicius (a driving string ostinato, the cellos rising), the court (low brass clusters, a sliding bassoon, dripping pizzicato — Nero and Poppæa), faith (a warm string chorale — the Christians), Chilo (bassoon and pizzicato on tiptoe, an oboe that sidles — the sly Greek); later the arena (martial) and the fire (modern, 4/4). Rome in the reign of Nero. Part One: Petronius’s baths, the Roman house round its impluvium, Aulus’s garden, the streets of the city, Nero’s feast on the Palatine with lyre, aulos and frame drum over the banquet’s roar, the palace at night.",
   "files": {
@@ -16,12 +16,14 @@
       "mill_night": "mill-night.mp3",
       "ostrianum": "ostrianum.mp3",
       "tavern": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3",
-      "antium": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/cove.mp3"
+      "antium": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/cove.mp3",
+      "christian_house": "christian-house.mp3"
     },
     "oneshots": {
       "knock": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/knock.mp3",
       "applause": "applause.mp3",
-      "cheer": "cheer.mp3"
+      "cheer": "cheer.mp3",
+      "corridor_fight": "corridor-fight.mp3"
     },
     "score": {
       "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3",
@@ -53,7 +55,8 @@
     "mill_night": {},
     "ostrianum": {},
     "tavern": {},
-    "antium": {}
+    "antium": {},
+    "christian_house": {}
   },
   "chapters": [
     {
@@ -173,6 +176,66 @@
     {
       "n": 20,
       "bed": "rome_night",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 21,
+      "bed": "ostrianum",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 22,
+      "bed": "rome_night",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 23,
+      "bed": "christian_house",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 24,
+      "bed": "christian_house",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 25,
+      "bed": "christian_house",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 26,
+      "bed": "christian_house",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 27,
+      "bed": "christian_house",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 28,
+      "bed": "christian_house",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 29,
+      "bed": "domus",
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 30,
+      "bed": "domus",
       "state": 1,
       "score": null
     }

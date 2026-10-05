@@ -1,0 +1,537 @@
+{
+ "work": "quo-vadis",
+ "episode": 23,
+ "chapter": 23,
+ "title": "The House in the Trans-Tiber",
+ "document": "PART THREE · CHAPTER XXIII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch23.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Crispus",
+   "cast_as": "Galba"
+  },
+  {
+   "role": "Ursus",
+   "cast_as": "Spartacus"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXIII"
+  },
+  {
+   "n": 2,
+   "bed": "christian_house",
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "A PIERCING pain roused Vinicius. At the first moment he could not\nunderstand where he was, nor what was happening. He felt a roaring in\nhis head, and his eyes were covered as if with mist. Gradually, however,\nhis consciousness returned, and at last he beheld through that mist\nthree persons bending over him. Two he recognized: one was Ursus, the\nother the old man whom he had thrust aside when carrying off Lygia. The\nthird, an utter stranger, was holding his left arm, and feeling it from\nthe elbow upward as far as the shoulder-blade. This caused so terrible\na pain that Vinicius, thinking it a kind of revenge which they were\ntaking, said through his set teeth,"
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Kill me!”"
+  },
+  {
+   "n": 4,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But they paid no apparent\nheed to his words, just as though they heard them not, or considered\nthem the usual groans of suffering. Ursus, with his anxious and also\nthreatening face of a barbarian, held a bundle of white cloth torn in\nlong strips. The old man spoke to the person who was pressing the arm of\nVinicius,--"
+  },
+  {
+   "n": 5,
+   "para": 1,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Glaucus, art thou certain that the wound in the head is not\nmortal?”"
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Yes, worthy Crispus,” answered Glaucus. “While serving in the fleet as\na slave, and afterward while living at Naples, I cured many wounds, and\nwith the pay which came to me from that occupation I freed myself and my\nrelatives at last. The wound in the head is slight. When this one [here\nhe pointed to Ursus with his head] took the girl from the young man,\nhe pushed him against the wall; the young man while falling put out his\narm, evidently to save himself; he broke and disjointed it, but by so\ndoing saved his head and his life.”"
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“Thou hast had more than one of the brotherhood in thy care,”"
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "added\nCrispus,"
+  },
+  {
+   "n": 9,
+   "para": 3,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“and hast the repute of a skilful physician; therefore I sent\nUrsus to bring thee.”"
+  },
+  {
+   "n": 10,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Ursus, who on the road confessed that yesterday he was ready to kill\nme!”"
+  },
+  {
+   "n": 11,
+   "para": 5,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“He confessed his intention earlier to me than to thee; but I, who know\nthee and thy love for Christ, explained to him that the traitor is not\nthou, but the unknown, who tried to persuade him to murder.”"
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“That was an evil spirit, but I took him for an angel,”"
+  },
+  {
+   "n": 13,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Ursus, with\na sigh."
+  },
+  {
+   "n": 14,
+   "para": 7,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“Some other time thou wilt tell me, but now we must think of this\nwounded man.”"
+  },
+  {
+   "n": 15,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Thus speaking, he began to set the arm. Though Crispus\nsprinkled water on his face, Vinicius fainted repeatedly from suffering;\nthat was, however, a fortunate circumstance, since he did not feel the\npain of putting his arm into joint, nor of setting it. Glaucus fixed the\nlimb between two strips of wood, which he bound quickly and firmly, so\nas to keep the arm motionless. When the operation was over, Vinicius\nrecovered consciousness again and saw Lygia above him. She stood there\nat the bed holding a brass basin with water, in which from time to time\nGlaucus dipped a sponge and moistened the head of his patient."
+  },
+  {
+   "n": 16,
+   "score": {
+    "key": "lygia",
+    "at": "and only after a long time could he whisper",
+    "xfade": 6
+   },
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius gazed and could not believe his eyes. What he saw seemed a\ndream, or the pleasant vision brought by fever, and only after a long\ntime could he whisper,--"
+  },
+  {
+   "n": 17,
+   "para": 8,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Lygia!”"
+  },
+  {
+   "n": 18,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The basin trembled in her hand at that sound, but she turned on him eyes\nfull of sadness."
+  },
+  {
+   "n": 19,
+   "para": 10,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“Peace be with thee!”"
+  },
+  {
+   "n": 20,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered she, in a low voice."
+  },
+  {
+   "n": 21,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She stood there with extended arms, her face full of pity and sorrow.\nBut he gazed, as if to fill his sight with her, so that after his lids\nwere closed the picture might remain under them. He looked at her face,\npaler and smaller than it had been, at the tresses of dark hair, at the\npoor dress of a laboring woman; he looked so intently that her snowy\nforehead began to grow rose-colored under the influence of his look. And\nfirst he thought that he would love her always; and second, that that\npaleness of hers and that poverty were his work,--that it was he who had\ndriven her from a house where she was loved, and surrounded with plenty\nand comfort, and thrust her into that squalid room, and clothed her in\nthat poor robe of dark wool."
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He would have arrayed her in the costliest brocade, in all the jewels of\nthe earth; hence astonishment, alarm, and pity seized him, and sorrow so\ngreat that he would have fallen at her feet had he been able to move."
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Lygia,”"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 25,
+   "para": 13,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“thou didst not permit my death.”"
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“May God return health to thee,”"
+  },
+  {
+   "n": 27,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "she answered, with sweetness."
+  },
+  {
+   "n": 28,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "For Vinicius, who had a feeling both of those wrongs which he had\ninflicted on her formerly, and those which he had wished to inflict on\nher recently, there was a real balsam in Lygia’s words. He forgot at the\nmoment that through her mouth Christian teaching might speak; he felt\nonly that a beloved woman was speaking, and that in her answer there was\na special tenderness, a goodness simply preterhuman, which shook him to\nthe depth of his soul. As just before he had grown weak from pain, so\nnow he grew weak from emotion. A certain faintness came on him, at once\nimmense and agreeable. He felt as if falling into some abyss, but he\nfelt that to fall was pleasant, and that he was happy. He thought at\nthat moment of weakness that a divinity was standing above him."
+  },
+  {
+   "n": 29,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile Glaucus had finished washing the wound in his head, and had\napplied a healing ointment. Ursus took the brass basin from Lygia’s\nhands; she brought a cup of water and wine which stood ready on the\ntable, and put it to the wounded man’s lips. Vinicius drank eagerly, and\nfelt great relief. After the operation the pain had almost passed; the\nwound and contusion began to grow firm; perfect consciousness returned\nto him."
+  },
+  {
+   "n": 30,
+   "para": 17,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Give me another drink,”"
+  },
+  {
+   "n": 31,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia took the empty cup to the next room; meanwhile Crispus, after a\nfew words with Glaucus, approached the bed saying,--"
+  },
+  {
+   "n": 33,
+   "para": 19,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“God has not permitted thee, Vinicius, to accomplish an evil deed, and\nhas preserved thee in life so that thou shouldst come to thy mind. He,\nbefore whom man is but dust, delivered thee defenceless into our hands;\nbut Christ, in whom we believe, commanded us to love even our enemies.\nTherefore we have dressed thy wounds, and, as Lygia has said, we will\nimplore God to restore thy health, but we cannot watch over thee longer.\nBe in peace, then, and think whether it beseems thee to continue thy\npursuit of Lygia. Thou hast deprived her of guardians, and us of a roof,\nthough we return thee good for evil.”"
+  },
+  {
+   "n": 34,
+   "para": 20,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Do ye wish to leave me? inquired Vinicius."
+  },
+  {
+   "n": 35,
+   "para": 21,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“We wish to leave this house, in which prosecution by the prefect of\nthe city may reach us. Thy companion was killed; thou, who art powerful\namong thy own people, art wounded. This did not happen through our\nfault, but the anger of the law might fall on us.”"
+  },
+  {
+   "n": 36,
+   "para": 22,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Have no fear of prosecution,”"
+  },
+  {
+   "n": 37,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Vinicius;"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I will protect you.”"
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Crispus did not like to tell him that with them it was not only a\nquestion of the prefect and the police, but of him; they wished to\nsecure Lygia from his further pursuit."
+  },
+  {
+   "n": 40,
+   "para": 24,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“Lord,”"
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 42,
+   "para": 24,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“thy right arm is well. Here are tablets and a stilus;\nwrite to thy servants to bring a litter this evening and bear thee to\nthy own house, where thou wilt have more comfort than in our poverty.\nWe dwell here with a poor widow, who will return soon with her son,\nand this youth will take thy letter; as to us, we must all find another\nhiding-place.”"
+  },
+  {
+   "n": 43,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius grew pale, for he understood that they wished to separate him\nfrom Lygia, and that if he lost her now he might never see her in life\nagain. He knew indeed that things of great import had come between him\nand her, in virtue of which, if he wished to possess her, he must\nseek some new methods which he had not had time yet to think over.\nHe understood too that whatever he might tell these people, though he\nshould swear that he would return Lygia to Pomponia Græcina, they would\nnot believe him, and were justified in refusing belief. Moreover, he\nmight have done that before. Instead of hunting for Lygia, he might have\ngone to Pomponia and sworn to her that he renounced pursuit, and in that\ncase Pomponia herself would have found Lygia and brought her home. No;\nhe felt that such promises would not restrain them, and no solemn oath\nwould be received, the more since, not being a Christian, he could swear\nonly by the immortal gods, in whom he did not himself believe greatly,\nand whom they considered evil spirits."
+  },
+  {
+   "n": 44,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He desired desperately to influence Lygia and her guardians in some way,\nbut for that there was need of time. For him it was all-important to see\nher, to look at her for a few days even. As every fragment of a plank\nor an oar seems salvation to a drowning man, so to him it seemed that\nduring those few days he might say something to bring him nearer to\nher, that he might think out something, that something favorable might\nhappen. Hence he collected his thoughts and said,--"
+  },
+  {
+   "n": 45,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Listen to me, Christians. Yesterday I was with you in Ostrianum, and\nI heard your teaching; but though I did not know it, your deeds have\nconvinced me that you are honest and good people. Tell that widow who\noccupies this house to stay in it, stay in it yourselves, and let me\nstay. Let this man [here he turned to Glaucus], who is a physician, or\nat least understands the care of wounds, tell whether it is possible to\ncarry me from here to-day. I am sick, I have a broken arm, which must\nremain immovable for a few days even; therefore I declare to you that I\nwill not leave this house unless you bear me hence by force!”"
+  },
+  {
+   "n": 46,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here he stopped, for breath failed in his breast, and Crispus said,--"
+  },
+  {
+   "n": 47,
+   "para": 28,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“We\nwill use no force against thee, lord; we will only take away our own\nheads.”"
+  },
+  {
+   "n": 48,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At this the young man, unused to resistance, frowned and said,--"
+  },
+  {
+   "n": 49,
+   "para": 29,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Permit\nme to recover breath”"
+  },
+  {
+   "n": 50,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "; and after a time he began again to speak,--"
+  },
+  {
+   "n": 51,
+   "para": 29,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Of\nCroton, whom Ursus killed, no one will inquire. He had to go to-day\nto Beneventum, whither he was summoned by Vatinius, therefore all will\nthink that he has gone there. When I entered this house in company with\nCroton, no one saw us except a Greek who was with us in Ostrianum. I\nwill indicate to you his lodgings; bring that man to me. On him I will\nenjoin silence; he is paid by me. I will send a letter to my own house\nstating that I too went to Beneventum. If the Greek has informed the\nprefect already, I will declare that I myself killed Croton, and that it\nwas he who broke my arm. I will do this, by my father’s shade and by my\nmother’s! Ye may remain in safety here; not a hair will fall from the\nhead of one of you. Bring hither, and bring in haste, the Greek whose\nname is Chilo Chilonides!”"
+  },
+  {
+   "n": 52,
+   "para": 30,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“Then Glaucus will remain with thee,”"
+  },
+  {
+   "n": 53,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Crispus,"
+  },
+  {
+   "n": 54,
+   "para": 30,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“and the widow will\nnurse thee.”"
+  },
+  {
+   "n": 55,
+   "para": 31,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Consider, old man, what I say,”"
+  },
+  {
+   "n": 56,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius, who frowned still more."
+  },
+  {
+   "n": 57,
+   "para": 31,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I owe thee gratitude, and thou seemest good and honest; but thou dost\nnot tell me what thou hast in the bottom of thy soul. Thou art afraid\nlest I summon my slaves and command them to take Lygia. Is this true?”"
+  },
+  {
+   "n": 58,
+   "para": 32,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“It is,”"
+  },
+  {
+   "n": 59,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Crispus, with sternness."
+  },
+  {
+   "n": 60,
+   "para": 33,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Then remember this, I shall speak before all to Chilo, and write a\nletter home that I have gone to Beneventum. I shall have no messengers\nhereafter but you. Remember this, and do not irritate me longer.”"
+  },
+  {
+   "n": 61,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here he was indignant, and his face was contorted with anger. Afterward\nhe began to speak excitedly,--"
+  },
+  {
+   "n": 62,
+   "para": 35,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“Hast thou thought that I would deny that I wish to stay here to see\nher? A fool would have divined that, even had I denied it. But I will\nnot try to take her by force any longer. I will tell thee more: if she\nwill not stay here, I will tear the bandages with this sound hand from\nmy arm, will take neither food nor drink; let my death fall on thee and\nthy brethren. Why hast thou nursed me? Why hast thou not commanded to\nkill me?”"
+  },
+  {
+   "n": 63,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He grew pale from weakness and anger."
+  },
+  {
+   "n": 64,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia, who had heard all from the other room and who was certain that\nVinicius would do what he promised, was terrified. She would not\nhave him die for anything. Wounded and defenceless, he roused in her\ncompassion, not fear. Living from the time of her flight among people in\ncontinual religious enthusiasm, thinking only of sacrifices, offerings,\nand boundless charity, she had grown so excited herself through that\nnew inspiration, that for her it took the place of house, family, lost\nhappiness, and made her one of those Christian maidens who, later on,\nchanged the former soul of the world. Vinicius had been too important\nin her fate, had been thrust too much on her, to let her forget him. She\nhad thought of him whole days, and more than once had begged God for the\nmoment in which, following the inspiration of religion, she might return\ngood for his evil, mercy for his persecution, break him, win him to\nChrist, save him. And now it seemed to her that precisely that moment\nhad come, and that her prayers had been heard."
+  },
+  {
+   "n": 65,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She approached Crispus therefore with a face as if inspired, and\naddressed him as though some other voice spoke through her,--"
+  },
+  {
+   "n": 66,
+   "score": {
+    "key": "faith",
+    "at": "Let him stay among us, Crispus",
+    "xfade": 6
+   },
+   "para": 37,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Let him\nstay among us, Crispus, and we will stay with him till Christ gives him\nhealth.”"
+  },
+  {
+   "n": 67,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The old presbyter, accustomed to seek in all things the inspiration of\nGod, beholding her exaltation, thought at once that perhaps a higher\npower was speaking through her, and, fearing in his heart, he bent his\ngray head, saying,--"
+  },
+  {
+   "n": 68,
+   "para": 38,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“Let it be as thou sayest.”"
+  },
+  {
+   "n": 69,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "On Vinicius, who the whole time had not taken his eyes from her,\nthis ready obedience of Crispus produced a wonderful and pervading\nimpression. It seemed to him that among the Christians Lygia was a kind\nof sibyl or priestess whom they surrounded with obedience and honor;\nand he yielded himself also to that honor. To the love which he felt\nwas joined now a certain awe, in presence of which love itself became\nsomething almost insolent. He could not familiarize himself, however,\nwith the thought that their relations had changed: that now not she was\ndependent on his will, but he on hers; that he was lying there sick and\nbroken; that he had ceased to be an attacking, a conquering force;\nthat he was like a defenceless child in her care. For his proud and\ncommanding nature such relations with any other person would have been\nhumiliating; now, however, not only did he not feel humiliated, but\nhe was thankful to her as to his sovereign. In him those were feelings\nunheard-of, feelings which he could not have entertained the day before,\nand which would have amazed him even on that day had he been able to\nanalyze them clearly. But he did not inquire at the moment why it was\nso, just as if the position had been perfectly natural; he merely felt\nhappy because he remained there."
+  },
+  {
+   "n": 70,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he wished to thank her with gratefulness, and still with a kind of\nfeeling unknown to him in such a degree that he knew not what to\ncall it, for it was simply submission. His previous excitement had so\nexhausted him that he could not speak, and he thanked her only with his\neyes, which were gleaming from delight because he remained near her, and\nwould be able to see her--to-morrow, next day, perhaps a long time. That\ndelight was diminished only by the dread that he might lose what he had\ngained. So great was this dread that when Lygia gave him water a second\ntime, and the wish seized him to take her hand, he feared to do so. He\nfeared!--he, that Vinicius who at Cæsar’s feast had kissed her lips\nin spite of her! he, that Vinicius who after her flight had promised\nhimself to drag her by the hair to the cubiculum, or give command to\nflog her!"
+  }
+ ]
+}

@@ -1,0 +1,620 @@
+{
+ "work": "quo-vadis",
+ "episode": 22,
+ "chapter": 22,
+ "title": "Ursus and Croton",
+ "document": "PART THREE · CHAPTER XXII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch22.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  },
+  {
+   "role": "Chilo Chilonides",
+   "cast_as": "Diogenes"
+  },
+  {
+   "role": "Ursus",
+   "cast_as": "Spartacus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXII"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "ONLY inside the entrance did Vinicius comprehend the whole difficulty\nof the undertaking. The house was large, of several stories, one of the\nkind of which thousands were built in Rome, in view of profit from rent;\nhence, as a rule, they were built so hurriedly and badly that scarcely\na year passed in which numbers of them did not fall on the heads of\ntenants. Real hives, too high and too narrow, full of chambers and\nlittle dens, in which poor people fixed themselves too numerously. In a\ncity where many streets had no names, those houses had no numbers; the\nowners committed the collection of rent to slaves, who, not obliged by\nthe city government to give names of occupants, were ignorant themselves\nof them frequently. To find some one by inquiry in such a house was\noften very difficult, especially when there was no gate-keeper."
+  },
+  {
+   "n": 3,
+   "score": {
+    "key": "dread",
+    "at": "Vinicius and Croton came to a narrow, corridor-like passage",
+    "xfade": 4
+   },
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius and Croton came to a narrow, corridor-like passage walled in on\nfour sides, forming a kind of common atrium for the whole house, with a\nfountain in the middle whose stream fell into a stone basin fixed in the\nground. At all the walls were internal stairways, some of stone, some of\nwood, leading to galleries from which there were entrances to lodgings.\nThere were lodgings on the ground, also; some provided with wooden\ndoors, others separated from the yard by woollen screens only. These,\nfor the greater part, were worn, rent, or patched."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The hour was early, and there was not a living soul in the yard. It was\nevident that all were asleep in the house except those who had returned\nfrom Ostrianum."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“What shall we do, lord?” asked Croton, halting."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Let us wait here; some one may appear,”"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Vinicius."
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“We should\nnot be seen in the yard.”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At this moment, he thought Chilo’s counsel practical. If there were\nsome tens of slaves present, it would be easy to occupy the gate, which\nseemed the only exit, search all the lodgings simultaneously, and thus\ncome to Lygia’s; otherwise Christians, who surely were not lacking in\nthat house, might give notice that people were seeking her. In view\nof this, there was risk in inquiring of strangers. Vinicius stopped to\nthink whether it would not be better to go for his slaves. Just then,\nfrom behind a screen hiding a remoter lodging, came a man with a sieve\nin his hand, and approached the fountain."
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At the first glance the young tribune recognized Ursus."
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“That is the Lygian!”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "whispered Vinicius."
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Am I to break his bones now?”"
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Wait awhile!”"
+  },
+  {
+   "n": 15,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Ursus did not notice the two men, as they were in the shadow of the\nentrance, and he began quietly to sink in water vegetables which\nfilled the sieve. It was evident that, after a whole night spent in the\ncemetery, he intended to prepare a meal. After a while the washing\nwas finished; he took the wet sieve and disappeared behind the screen.\nCroton and Vinicius followed him, thinking that they would come directly\nto Lygia’s lodgings. Their astonishment was great when they saw that the\nscreen divided from the court, not lodgings, but another dark corridor,\nat the end of which was a little garden containing a few cypresses, some\nmyrtle bushes, and a small house fixed to the windowless stone wall of\nanother stone building."
+  },
+  {
+   "n": 16,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Both understood at once that this was for them a favoring circumstance.\nIn the courtyard all the tenants might assemble; the seclusion of the\nlittle house facilitated the enterprise. They would set aside defenders,\nor rather Ursus, quickly, and would reach the street just as quickly\nwith the captured Lygia; and there they would help themselves. It was\nlikely that no one would attack them; if attacked, they would say that\na hostage was fleeing from Cæsar. Vinicius would declare himself then to\nthe guards, and summon their assistance."
+  },
+  {
+   "n": 17,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Ursus was almost entering the little house, when the sound of steps\nattracted his attention; he halted, and, seeing two persons, put his\nsieve on the balustrade and turned to them."
+  },
+  {
+   "n": 18,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“What do ye want here?” asked he."
+  },
+  {
+   "n": 19,
+   "para": 15,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thee!”"
+  },
+  {
+   "n": 20,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius."
+  },
+  {
+   "n": 21,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then, turning to Croton, he said in a low, hurried voice:"
+  },
+  {
+   "n": 22,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Kill!”"
+  },
+  {
+   "n": 23,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Croton rushed at him like a tiger, and in one moment, before the Lygian\nwas able to think or to recognize his enemies, Croton had caught him in\nhis arms of steel."
+  },
+  {
+   "n": 24,
+   "sfx": [
+    {
+     "key": "corridor_fight",
+     "at": "Vinicius was too confident in the man’s preternatural strength",
+     "offset": -1.0
+    }
+   ],
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius was too confident in the man’s preternatural strength to wait\nfor the end of the struggle. He passed the two, sprang to the door of\nthe little house, pushed it open and found himself in a room a trifle\ndark, lighted, however, by a fire burning in the chimney. A gleam of\nthis fire fell on Lygia’s face directly. A second person, sitting at the\nfire, was that old man who had accompanied the young girl and Ursus on\nthe road from Ostrianum."
+  },
+  {
+   "n": 25,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius rushed in so suddenly that before Lygia could recognize him he\nhad seized her by the waist, and, raising her, rushed toward the door\nagain. The old man barred the way, it is true; but pressing the girl\nwith one arm to his breast, Vinicius pushed him aside with the other,\nwhich was free. The hood fell from his head, and at sight of that face,\nwhich was known to her and which at that moment was terrible, the blood\ngrew cold in Lygia from fright, and the voice died in her throat. She\nwished to summon aid, but had not the power. Equally vain was her wish\nto grasp the door, to resist. Her fingers slipped along the stone, and\nshe would have fainted but for the terrible picture which struck her\neyes when Vinicius rushed into the garden."
+  },
+  {
+   "n": 26,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Ursus was holding in his arms some man doubled back completely, with\nhanging head and mouth filled with blood. When he saw them, he struck\nthe head once more with his fist, and in the twinkle of an eye sprang\ntoward Vinicius like a raging wild beast."
+  },
+  {
+   "n": 27,
+   "para": 22,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Death!”"
+  },
+  {
+   "n": 28,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "thought the young patrician."
+  },
+  {
+   "n": 29,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he heard, as through a dream, the scream of Lygia,"
+  },
+  {
+   "n": 30,
+   "para": 23,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Kill not!”"
+  },
+  {
+   "n": 31,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He felt that something, as it were a thunderbolt, opened the arms with\nwhich he held Lygia; then the earth turned round with him, and the light\nof day died in his eyes."
+  },
+  {
+   "n": 32,
+   "score": {
+    "key": "chilo",
+    "at": "Chilo, hidden behind the angle of the corner house",
+    "xfade": 6
+   },
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo, hidden behind the angle of the corner house, was waiting for\nwhat would happen, since curiosity was struggling with fear in him. He\nthought that if they succeeded in carrying off Lygia, he would fare well\nnear Vinicius. He feared Urban no longer, for he also felt certain that\nCroton would kill him. And he calculated that in case a gathering should\nbegin on the streets, which so far were empty,--if Christians, or people\nof any kind, should offer resistance,--he, Chilo, would speak to them as\none representing authority, as an executor of Cæsar’s will, and if need\ncame, call the guards to aid the young patrician against the street\nrabble--thus winning to himself fresh favor. In his soul he judged\nyet that the young tribune’s method was unwise; considering, however,\nCroton’s terrible strength, he admitted that it might succeed, and\nthought,"
+  },
+  {
+   "n": 33,
+   "para": 24,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“If it go hard with him, Vinicius can carry the girl, and\nCroton clear the way.”"
+  },
+  {
+   "n": 34,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Delay grew wearisome, however; the silence of the\nentrance which he watched alarmed him."
+  },
+  {
+   "n": 35,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“If they do not hit upon her hiding-place, and make an uproar, they will\nfrighten her.”"
+  },
+  {
+   "n": 36,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But this thought was not disagreeable; for Chilo understood that in that\nevent he would be necessary again to Vinicius, and could squeeze afresh\na goodly number of sestertia from the tribune."
+  },
+  {
+   "n": 37,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Whatever they do,”"
+  },
+  {
+   "n": 38,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he to himself,"
+  },
+  {
+   "n": 39,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“they will work for me, though\nno one divines that. O gods! O gods! only permit me-”"
+  },
+  {
+   "n": 40,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he stopped suddenly, for it seemed to him that some one was bending\nforward through the entrance; then, squeezing up to the wall, he began\nto look, holding the breath in his breast."
+  },
+  {
+   "n": 41,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he had not deceived himself, for a head thrust itself half out of\nthe entrance and looked around. After a while, however, it vanished."
+  },
+  {
+   "n": 42,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“That is Vinicius, or Croton,” thought Chilo; “but if they have taken\nthe girl, why does she not scream, and why are they looking out to the\nstreet? They must meet people anyhow, for before they reach the Carinæ\nthere will be movement in the city--What is that? By the immortal gods!”"
+  },
+  {
+   "n": 43,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And suddenly the remnant of his hair stood on end."
+  },
+  {
+   "n": 44,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In the door appeared Ursus, with the body of Croton hanging on his arm,\nand looking around once more, he began to run, bearing it along the\nempty street toward the river."
+  },
+  {
+   "n": 45,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo made himself as flat against the wall as a bit of mud."
+  },
+  {
+   "n": 46,
+   "para": 34,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I am lost if he sees me!”"
+  },
+  {
+   "n": 47,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "thought he."
+  },
+  {
+   "n": 48,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Ursus ran past the corner quickly, and disappeared beyond the\nneighboring house. Chilo, without further waiting, his teeth chattering\nfrom terror, ran along the cross street with a speed which even in a\nyoung man might have roused admiration."
+  },
+  {
+   "n": 49,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“If he sees me from a distance when he is returning, he will catch and\nkill me,” said he to himself. “Save me, Zeus; save me, Apollo; save\nme, Hermes; save me, O God of the Christians! I will leave Rome, I will\nreturn to Mesembria, but save me from the hands of that demon!”"
+  },
+  {
+   "n": 50,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And that Lygian who had killed Croton seemed to him at that moment some\nsuperhuman being. While running, he thought that he might be some god\nwho had taken the form of a barbarian. At that moment he believed in all\nthe gods of the world, and in all myths, at which he jeered usually. It\nflew through his head, too, that it might be the God of the Christians\nwho had killed Croton; and his hair stood on end again at the thought\nthat he was in conflict with such a power."
+  },
+  {
+   "n": 51,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Only when he had run through a number of alleys, and saw some workmen\ncoming toward him from a distance, was he calmed somewhat. Breath failed\nin his breast; so he sat on the threshold of a house and began to wipe,\nwith a corner of his mantle, his sweat-covered forehead."
+  },
+  {
+   "n": 52,
+   "para": 39,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I am old, and need calm,”"
+  },
+  {
+   "n": 53,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 54,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The people coming toward him turned into some little side street, and\nagain the place round about was empty. The city was sleeping yet. In the\nmorning movement began earlier in the wealthier parts of the city,\nwhere the slaves of rich houses were forced to rise before daylight; in\nportions inhabited by a free population, supported at the cost of the\nState, hence unoccupied, they woke rather late, especially in winter.\nChilo, after he had sat some time on the threshold, felt a piercing\ncold; so he rose, and, convincing himself that he had not lost the purse\nreceived from Vinicius, turned toward the river with a step now much\nslower."
+  },
+  {
+   "n": 55,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I may see Croton’s body somewhere,” said he to himself. “O gods! that\nLygian, if he is a man, might make millions of sestertia in the course\nof one year; for if he choked Croton, like a whelp, who can resist him?\nThey would give for his every appearance in the arena as much gold as he\nhimself weighs. He guards that maiden better than Cerberus does Hades.\nBut may Hades swallow him, for all that! I will have nothing to do with\nhim. He is too bony. But where shall I begin in this case? A dreadful\nthing has happened. If he has broken the bones of such a man as Croton,\nbeyond a doubt the soul of Vinicius is puling above that cursed house\nnow, awaiting his burial. By Castor! but he is a patrician, a friend\nof Cæsar, a relative of Petronius, a man known in all Rome, a military\ntribune. His death cannot pass without punishment. Suppose I were to go\nto the pretorian camp, or the guards of the city, for instance?”"
+  },
+  {
+   "n": 56,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here he stopped and began to think, but said after a while,--"
+  },
+  {
+   "n": 57,
+   "para": 42,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Woe is me!\nWho took him to that house if not I? His freedmen and his slaves know\nthat I came to his house, and some of them know with what object. What\nwill happen if they suspect me of having pointed out to him purposely\nthe house in which his death met him? Though it appear afterward, in the\ncourt, that I did not wish his death, they will say that I was the\ncause of it. Besides, he is a patrician; hence in no event can I avoid\npunishment. But if I leave Rome in silence, and go far away somewhere, I\nshall place myself under still greater suspicion.”"
+  },
+  {
+   "n": 58,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "It was bad in every case. The only question was to choose the less evil.\nRome was immense; still Chilo felt that it might become too small for\nhim. Any other man might go directly to the prefect of the city guards\nand tell what had happened, and, though some suspicion might fall\non him, await the issue calmly. But Chilo’s whole past was of such\ncharacter that every closer acquaintance with the prefect of the city\nor the prefect of the guard must cause him very serious trouble, and\nconfirm also every suspicion which might enter the heads of officials."
+  },
+  {
+   "n": 59,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "On the other hand, to flee would be to confirm Petronius in the opinion\nthat Vinicius had been betrayed and murdered through conspiracy.\nPetronius was a powerful man, who could command the police of the whole\nEmpire, and who beyond doubt would try to find the guilty parties even\nat the ends of the earth. Still, Chilo thought to go straight to him,\nand tell what had happened. Yes; that was the best plan. Petronius was\ncalm, and Chilo might be sure of this, at least, that he would hear him\nto the end. Petronius, who knew the affair from its inception, would\nbelieve in Chilo’s innocence more easily than would the prefects."
+  },
+  {
+   "n": 60,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But to go to him, it was needful to know with certainty what had\nhappened to Vinicius. Chilo did not know that. He had seen, it is true,\nthe Lygian stealing with Croton’s body to the river, but nothing more.\nVinicius might be killed; but he might be wounded or detained. Now it\noccurred to Chilo for the first time, that surely the Christians would\nnot dare to kill a man so powerful,--a friend of Cæsar, and a high\nmilitary official,--for that kind of act might draw on them a general\npersecution. It was more likely that they had detained him by superior\nforce, to give Lygia means to hide herself a second time."
+  },
+  {
+   "n": 61,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "This thought filled Chilo with hope."
+  },
+  {
+   "n": 62,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“If that Lygian dragon has not torn him to pieces at the first attack,\nhe is alive, and if he is alive he himself will testify that I have not\nbetrayed him; and then not only does nothing threaten me, but--O Hermes,\ncount again on two heifers--a fresh field is opening. I can inform\none of the freedmen where to seek his lord; and whether he goes to the\nprefect or not is his affair, the only point being that I should not go.\nAlso, I can go to Petronius, and count on a reward. I have found Lygia;\nnow I shall find Vinicius, and then again Lygia. It is needful to know\nfirst whether Vinicius is dead or living.”"
+  },
+  {
+   "n": 63,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here it occurred to him that he might go in the night to the baker Demas\nand inquire about Ursus. But he rejected that thought immediately. He\npreferred to have nothing to do with Ursus. He might suppose, justly,\nthat if Ursus had not killed Glaucus he had been warned, evidently, by\nthe Christian elder to whom he had confessed his design,--warned that\nthe affair was an unclean one, to which some traitor had persuaded him.\nIn every case, at the mere recollection of Ursus, a shiver ran through\nChilo’s whole body. But he thought that in the evening he would send\nEuricius for news to that house in which the thing had happened.\nMeanwhile he needed refreshment, a bath, and rest. The sleepless night,\nthe journey to Ostrianum, the flight from the Trans-Tiber, had wearied\nhim exceedingly."
+  },
+  {
+   "n": 64,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "One thing gave him permanent comfort: he had on his person two\npurses,--that which Vinicius had given him at home, and that which\nhe had thrown him on the way from the cemetery. In view of this happy\ncircumstance, and of all the excitement through which he had passed, he\nresolved to eat abundantly, and drink better wine than he drank usually."
+  },
+  {
+   "n": 65,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When the hour for opening the wine-shop came at last, he did so in such\na marked measure that he forgot the bath; he wished to sleep, above all,\nand drowsiness overcame his strength so that he returned with tottering\nstep to his dwelling in the Subura, where a slave woman, purchased with\nmoney obtained from Vinicius, was waiting for him."
+  },
+  {
+   "n": 66,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When he had entered a sleeping-room, as dark as the den of a fox, he\nthrew himself on the bed, and fell asleep in one instant. He woke only\nin the evening, or rather he was roused by the slave woman, who called\nhim to rise, for some one was inquiring, and wished to see him on urgent\nbusiness."
+  },
+  {
+   "n": 67,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The watchful Chilo came to himself in one moment, threw on his hooded\nmantle hastily, and, commanding the slave woman to stand aside, looked\nout cautiously."
+  },
+  {
+   "n": 68,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he was benumbed! for he saw before the door of the sleeping-room the\ngigantic form of Ursus."
+  },
+  {
+   "n": 69,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At that sight he felt his feet and head grow icy-cold, the heart ceased\nto beat in his bosom, and shivers were creeping along his back. For\na time he was unable to speak; then with chattering teeth he said, or\nrather groaned,--"
+  },
+  {
+   "n": 70,
+   "para": 55,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Syra--I am not at home--I don’t know that--good man-”"
+  },
+  {
+   "n": 71,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I told him that thou wert at home, but asleep, lord,” answered the\ngirl; “he asked to rouse thee.”"
+  },
+  {
+   "n": 72,
+   "para": 57,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“O gods! I will command that thou--”"
+  },
+  {
+   "n": 73,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Ursus, as if impatient of delay, approached the door of the\nsleeping-room, and, bending, thrust in his head."
+  },
+  {
+   "n": 74,
+   "para": 59,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“O Chilo Chilonides!”"
+  },
+  {
+   "n": 75,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 76,
+   "para": 60,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Pax tecum! pax! pax!”"
+  },
+  {
+   "n": 77,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Chilo."
+  },
+  {
+   "n": 78,
+   "para": 60,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“O best of Christians! Yes, I am\nChilo; but this is a mistake,--I do not know thee!”"
+  },
+  {
+   "n": 79,
+   "para": 61,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Chilo Chilonides,”"
+  },
+  {
+   "n": 80,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "repeated Ursus,"
+  },
+  {
+   "n": 81,
+   "para": 61,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“thy lord, Vinicius, summons thee to\ngo with me to him.”"
+  }
+ ]
+}

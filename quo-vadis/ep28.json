@@ -1,0 +1,118 @@
+{
+ "work": "quo-vadis",
+ "episode": 28,
+ "chapter": 28,
+ "title": "A Letter from Petronius",
+ "document": "PART THREE · CHAPTER XXVIII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch28.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXVIII"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "opulence",
+    "at": "PETRONIUS to VINICIUS:--",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "PETRONIUS to VINICIUS:--"
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Have pity, carissime; imitate not in thy\nletters the Lacedemonians or Julius Cæsar! Couldst thou, like Julius,\nwrite Veni, vidi, vici (I came, I saw, I conquered), I might understand\nthy brevity. But thy letter means absolutely Veni, vidi, fugi (I came, I\nsaw, I fled). Since such a conclusion of the affair is directly opposed\nto thy nature, since thou art wounded, and since, finally, uncommon\nthings are happening to thee, thy letter needs explanation. I could\nnot believe my eyes when I read that the Lygian giant killed Croton as\neasily as a Caledonian dog would kill a wolf in the defiles of Hibernia.\nThat man is worth as much gold as he himself weighs, and it depends on\nhim alone to become a favorite of Cæsar. When I return to the city,\nI must gain a nearer acquaintance with that Lygian, and have a bronze\nstatue of him made for myself. Ahenobarbus will burst from curiosity,\nwhen I tell him that it is from nature. Bodies really athletic are\nbecoming rarer in Italy and in Greece; of the Orient no mention need be\nmade; the Germans, though large, have muscles covered with fat, and\nare greater in bulk than in strength. Learn from the Lygian if he is an\nexception, or if in his country there are more men like him. Should it\nhappen sometime to thee or me to organize games officially, it would be\nwell to know where to seek for the best bodies."
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“But praise to the gods of the Orient and the Occident that thou hast\ncome out of such hands alive. Thou hast escaped, of course, because\nthou art a patrician, and the son of a consul; but everything which has\nhappened astonishes me in the highest degree,--that cemetery where thou\nwert among the Christians, they, their treatment of thee, the subsequent\nflight of Lygia; finally, that peculiar sadness and disquiet which\nbreathes from thy short letter. Explain, for there are many points\nwhich I cannot understand; and if thou wish the truth, I will tell thee\nplainly, that I understand neither the Christians nor thee nor Lygia.\nWonder not that I, who care for few things on earth except my own\nperson, inquire of thee so eagerly. I have contributed to all this\naffair of thine; hence it is my affair so far. Write soon, for I cannot\nforesee surely when we may meet. In Bronzebeard’s head plans change, as\nwinds do in autumn. At present, while tarrying in Beneventum, he has the\nwish to go straightway to Greece, without returning to Rome. Tigellinus,\nhowever, advises him to visit the city even for a time, since the\npeople, yearning overmuch for his person (read ‘for games and bread’)\nmay revolt. So I cannot tell how it will be. Should Achæa overbalance,\nwe may want to see Egypt. I should insist with all my might on thy\ncoming, for I think that in thy state of mind travelling and our\namusements would be a medicine, but thou mightst not find us. Consider,\nthen, whether in that case repose in thy Sicilian estates would not\nbe preferable to remaining in Rome. Write me minutely of thyself, and\nfarewell. I add no wish this time, except health; for, by Pollux! I know\nnot what to wish thee.”"
+  },
+  {
+   "n": 5,
+   "score": {
+    "key": "vinicius",
+    "at": "Vinicius, on receiving this letter, felt at first no desire to reply",
+    "xfade": 6
+   },
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius, on receiving this letter, felt at first no desire to reply.\nHe had a kind of feeling that it was not worth while to reply, that an\nanswer would benefit no one in any way, that it would explain nothing.\nDiscontent, and a feeling of the vanity of life, possessed him. He\nthought, moreover, that Petronius would not comprehend him in any case,\nand that something had happened which would remove them from each other.\nHe could not come to an agreement with himself, even. When he returned\nfrom the Trans-Tiber to his splendid “insula,” he was exhausted, and\nfound for the first days a certain satisfaction in rest and in the\ncomfort and abundance about him. That satisfaction lasted but a short\ntime, however. He felt soon that he was living in vanity; that all which\nso far had formed the interest of his life either had ceased to exist\nfor him or had shrunk to proportions barely perceptible. He had a\nfeeling as if those ties which hitherto had connected him with life\nhad been cut in his soul, and that no new ones had been formed. At the\nthought that he might go to Beneventum and thence to Achæa, to swim in a\nlife of luxury and wild excess, he had a feeling of emptiness. “To what\nend? What shall I gain from it?” These were the first questions which\npassed through his head. And for the first time in life, also, he\nthought that if he went, the conversation of Petronius, his wit, his\nquickness, his exquisite outlining of thought, and his choice of apt\nphrases for every idea might annoy him."
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But solitude, too, had begun to annoy him. All his acquaintances were\nwith Cæsar in Beneventum; so he had to stay at home alone, with a\nhead full of thoughts, and a heart full of feelings which he could not\nanalyze. He had moments, however, in which he judged that if he could\nconverse with some one about everything that took place in him, perhaps\nhe might be able to grasp it all somehow, bring it to order, and\nestimate it better. Under the influence of this hope, and after some\ndays of hesitation, he decided to answer Petronius; and, though not\ncertain that he would send the answer, he wrote it in the following\nwords:--"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“It is thy wish that I write more minutely, agreed then; whether I shall\nbe able to do it more clearly, I cannot tell, for there are many knots\nwhich I know not myself how to loosen. I described to thee my stay among\nthe Christians, and their treatment of enemies, among whom they had a\nright to count both me and Chilo; finally, of the kindness with which\nthey nursed me, and of the disappearance of Lygia. No, my dear friend, I\nwas not spared because of being the son of a consul. Such considerations\ndo not exist for them, since they forgave even Chilo, though I urged\nthem to bury him in the garden. Those are people such as the world has\nnot seen hitherto, and their teaching is of a kind that the world has\nnot heard up to this time. I can say nothing else, and he errs who\nmeasures them with our measure. I tell thee that, if I had been lying\nwith a broken arm in my own house, and if my own peoples, even my own\nfamily, had nursed me, I should have had more comforts, of course, but I\nshould not have received half the care which I found among them."
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Know this, too, that Lygia is like the others. Had she been my sister\nor my wife, she could not have nursed me more tenderly. Delight filled\nmy heart more than once, for I judged that love alone could inspire the\nlike tenderness. More than once I saw love in her look, in her face;\nand, wilt thou believe me? among those simple people then in that poor\nchamber, which was at once a culina and a triclinium, I felt happier\nthan ever before. No; she was not indifferent to me--and to-day even I\ncannot think that she was. Still that same Lygia left Miriam’s dwelling\nin secret because of me. I sit now whole days with my head on my hands,\nand think, Why did she do so? Have I written thee that I volunteered\nto restore her to Aulus? True, she declared that to be impossible at\npresent, because Aulus and Pomponia had gone to Sicily, and because news\nof her return going from house to house, through slaves, would reach the\nPalatine, and Cæsar might take her from Aulus again. But she knew that I\nwould not pursue her longer; that I had left the way of violence; that,\nunable to cease loving her or to live without her, I would bring her\ninto my house through a wreathed door, and seat her on a sacred skin at\nmy hearth. Still she fled! Why? Nothing was threatening her. Did she not\nlove me, she might have rejected me. The day before her flight, I made\nthe acquaintance of a wonderful man, a certain Paul of Tarsus, who spoke\nto me of Christ and His teachings, and spoke with such power that every\nword of his, without his willing it, turns all the foundations of our\nsociety into ashes. That same man visited me after her flight, and said:\n‘If God open thy eyes to the light, and take the beam from them as He\ntook it from mine, thou wilt feel that she acted properly; and then,\nperhaps, thou wilt find her.’ And now I am breaking my head over these\nwords, as if I had heard them from the mouth of the Pythoness at Delphi.\nI seem to understand something. Though they love people, the Christians\nare enemies of our life, our gods, and our crimes; hence she fled from\nme, as from a man who belongs to our society, and with whom she would\nhave to share a life counted criminal by Christians. Thou wilt say that\nsince she might reject me, she had no need to withdraw. But if she loved\nme? In that case she desired to flee from love. At the very thought of\nthis I wish to send slaves into every alley in Rome, and command them\nto cry throughout the houses, ‘Return, Lygia!’ But I cease to understand\nwhy she fled. I should not have stopped her from believing in her\nChrist, and would myself have reared an altar to Him in the atrium. What\nharm could one more god do me? Why might I not believe in him,--I who\ndo not believe overmuch in the old gods? I know with full certainty that\nthe Christians do not lie; and they say that he rose from the dead.\nA man cannot rise from the dead. That Paul of Tarsus, who is a Roman\ncitizen, but who, as a Jew, knows the old Hebrew writings, told me that\nthe coming of Christ was promised by prophets for whole thousands of\nyears. All these are uncommon things, but does not the uncommon surround\nus on every side? People have not ceased talking yet of Apollonius of\nTyana. Paul’s statement that there is one God, not a whole assembly of\nthem, seems sound to me. Perhaps Seneca is of this opinion, and before\nhim many others. Christ lived, gave Himself to be crucified for the\nsalvation of the world, and rose from the dead. All this is perfectly\ncertain. I do not see, therefore, a reason why I should insist on an\nopposite opinion, or why I should not rear to Him an altar, if I am\nready to rear one to Serapis, for instance. It would not be difficult\nfor me even to renounce other gods, for no reasoning mind believes in\nthem at present. But it seems that all this is not enough yet for\nthe Christians. It is not enough to honor Christ, one must also live\naccording to His teachings; and here thou art on the shore of a sea\nwhich they command thee to wade through."
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“If I promised to do so, they themselves would feel that the promise was\nan empty sound of words. Paul told me so openly. Thou knowest how I love\nLygia, and knowest that there is nothing that I would not do for her.\nStill, even at her wish, I cannot raise Soracte or Vesuvius on my\nshoulders, or place Thrasymene Lake on the palm of my hand, or from\nblack make my eyes blue, like those of the Lygians. If she so desired, I\ncould have the wish, but the change does not lie in my power. I am not\na philosopher, but also I am not so dull as I have seemed, perhaps, more\nthan once to thee. I will state now the following: I know not how the\nChristians order their own lives, but I know that where their religion\nbegins, Roman rule ends, Rome itself ends, our mode of life ends, the\ndistinction between conquered and conqueror, between rich and poor, lord\nand slave, ends, government ends, Cæsar ends, law and all the order\nof the world ends; and in place of those appear Christ, with a certain\nmercy not existent hitherto, and kindness, opposed to human and our\nRoman instincts. It is true that Lygia is more to me than all Rome and\nits lordship; and I would let society vanish could I have her in my\nhouse. But that is another thing. Agreement in words does not satisfy\nthe Christians; a man must feel that their teaching is truth, and not\nhave aught else in his soul. But that, the gods are my witnesses, is\nbeyond me. Dost understand what that means? There is something in my\nnature which shudders at this religion; and were my lips to glorify it,\nwere I to conform to its precepts, my soul and my reason would say that\nI do so through love for Lygia, and that apart from her there is to me\nnothing on earth more repulsive. And, a strange thing, Paul of Tarsus\nunderstands this, and so does that old theurgus Peter, who in spite of\nall his simplicity and low origin is the highest among them, and was\nthe disciple of Christ. And dost thou know what they are doing? They are\npraying for me, and calling down something which they call grace; but\nnothing descends on me, save disquiet, and a greater yearning for Lygia."
+  },
+  {
+   "n": 10,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I have written thee that she went away secretly; but when going she\nleft me a cross which she put together from twigs of boxwood. When I\nwoke up, I found it near my bed. I have it now in the lararium, and I\napproach it yet, I cannot tell why, as if there were something divine in\nit,--that is, with awe and reverence. I love it because her hand bound\nit, and I hate it because it divides us. At times it seems to me that\nthere are enchantments of some kind in all this affair, and that the\ntheurgus, Peter, though he declares himself to be a simple shepherd,\nis greater than Apollonius, and all who preceded him, and that he has\ninvolved us all--Lygia, Pomponia, and me--with them."
+  },
+  {
+   "n": 11,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thou hast written that in my previous letter disquiet and sadness are\nvisible. Sadness there must be, for I have lost her again, and there\nis disquiet because something has changed in me. I tell thee sincerely,\nthat nothing is more repugnant to my nature than that religion, and\nstill I cannot recognize myself since I met Lygia. Is it enchantment,\nor love? Circe changed people’s bodies by touching them, but my soul\nhas been changed. No one but Lygia could have done that, or rather Lygia\nthrough that wonderful religion which she professes. When I returned\nto my house from the Christians, no one was waiting for me. The slaves\nthought that I was in Beneventum, and would not return soon; hence there\nwas disorder in the house. I found the slaves drunk, and a feast, which\nthey were giving themselves, in my triclinium. They had more thought\nof seeing death than me, and would have been less terrified by it.\nThou knowest with what a firm hand I hold my house; all to the last one\ndropped on their knees, and some fainted from terror. But dost thou know\nhow I acted? At the first moment I wished to call for rods and hot iron,\nbut immediately a kind of shame seized me, and, wilt thou lend belief?\na species of pity for those wretched people. Among them are old slaves\nwhom my grandfather, Marcus Vinicius, brought from the Rhine in the\ntime of Augustus. I shut myself up alone in the library, and there came\nstranger thoughts still to my head; namely, that after what I had heard\nand seen among the Christians, it did not become me to act with slaves\nas I had acted hitherto--that they too were people. For a number of days\nthey moved about in mortal terror, in the belief that I was delaying so\nas to invent punishment the more cruel, but I did not punish, and did\nnot punish because I was not able. Summoning them on the third day, I\nsaid, ‘I forgive you; strive then with earnest service to correct your\nfault!’ They fell on their knees, covering their faces with tears,\nstretching forth their hands with groans, and called me lord and father;\nbut I--with shame do I write this--was equally moved. It seemed to me\nthat at that moment I was looking at the sweet face of Lygia, and her\neyes filled with tears, thanking me for that act. And, proh pudor! I\nfelt that my lips too were moist. Dost know what I will confess to thee?\nThis--that I cannot do without her, that it is ill for me alone, that I\nam simply unhappy, and that my sadness is greater than thou wilt admit.\nBut, as to my slaves, one thing arrested my attention. The forgiveness\nwhich they received not only did not make them insolent, not only did\nnot weaken discipline, but never had fear roused them to such ready\nservice as has gratitude. Not only do they serve, but they seem to vie\nwith one another to divine my wishes. I mention this to thee because,\nwhen, the day before I left the Christians, I told Paul that society\nwould fall apart because of his religion, as a cask without hoops, he\nanswered, ‘Love is a stronger hoop than fear.’ And now I see that in\ncertain cases his opinion may be right. I have verified it also with\nreferences to clients, who, learning of my return, hurried to salute me.\nThou knowest that I have never been penurious with them; but my father\nacted haughtily with clients on principle, and taught me to treat them\nin like manner. But when I saw their worn mantles and hungry faces, I\nhad a feeling something like compassion. I gave command to bring them\nfood, and conversed besides with them,--called some by name, some I\nasked about their wives and children,--and again in the eyes before me\nI saw tears; again it seemed to me that Lygia saw what I was doing, that\nshe praised and was delighted. Is my mind beginning to wander, or is\nlove confusing my feelings? I cannot tell. But this I do know; I have\na continual feeling that she is looking at me from a distance, and I am\nafraid to do aught that might trouble or offend her."
+  },
+  {
+   "n": 12,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“So it is, Caius! but they have changed my soul, and sometimes I feel\nwell for that reason. At times again I am tormented with the thought,\nfor I fear that my manhood and energy are taken from me; that, perhaps,\nI am useless, not only for counsel, for judgment, for feasts, but for\nwar even. These are undoubted enchantments! And to such a degree am I\nchanged that I tell thee this, too, which came to my head when I lay\nwounded: that if Lygia were like Nigidia, Poppæa, Crispinilla, and our\ndivorced women, if she were as vile, as pitiless, and as cheap as they,\nI should not love her as I do at present. But since I love her for that\nwhich divides us, thou wilt divine what a chaos is rising in my soul, in\nwhat darkness I live, how it is that I cannot see certain roads before\nme, and how far I am from knowing what to begin. If life may be compared\nto a spring, in my spring disquiet flows instead of water. I live\nthrough the hope that I shall see her, perhaps, and sometimes it seems\nto me that I shall see her surely. But what will happen to me in a year\nor two years, I know not, and cannot divine. I shall not leave Rome.\nI could not endure the society of the Augustians; and besides, the one\nsolace in my sadness and disquiet is the thought that I am near Lygia,\nthat through Glaucus the physician, who promised to visit me, or through\nPaul of Tarsus, I can learn something of her at times. No; I would not\nleave Rome, even were ye to offer me the government of Egypt. Know also,\nthat I have ordered the sculptor to make a stone monument for Gulo, whom\nI slew in anger. Too late did it come to my mind that he had carried me\nin his arms, and was the first to teach me how to put an arrow on a bow.\nI know not why it was that a recollection of him rose in me which was\nsorrow and reproach. If what I write astonish thee, I reply that it\nastonishes me no less, but I write pure truth.--Farewell.”"
+  }
+ ]
+}

@@ -1,0 +1,607 @@
+{
+ "work": "quo-vadis",
+ "episode": 21,
+ "chapter": 21,
+ "title": "Lygia",
+ "document": "PART THREE · CHAPTER XXI",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch21.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Chilo Chilonides",
+   "cast_as": "Diogenes"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXI"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "vinicius",
+    "at": "EVERY drop of blood quivered in the young patrician at sight",
+    "xfade": 5
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "EVERY drop of blood quivered in the young patrician at sight of her.\nHe forgot the crowd, the old man, his own astonishment at the\nincomprehensible things which he had heard,--he saw only her. At last,\nafter all his efforts, after long days of alarm, trouble, and suffering,\nhe had found her! For the first time he realized that joy might rush at\nthe heart, like a wild beast, and squeeze it till breath was lost. He,\nwho had supposed hitherto that on “Fortuna” had been imposed a kind of\nduty to accomplish all his wishes, hardly believed his own eyes now and\nhis own happiness. Were it not for that disbelief, his passionate\nnature might have urged him to some unconsidered step; but he wished\nto convince himself first that that was not the continuation of those\nmiracles with which his head was filled, and that he was not dreaming.\nBut there was no doubt,--he saw Lygia, and an interval of barely a few\nsteps divided them. She stood in perfect light, so that he could rejoice\nin the sight of her as much as he liked. The hood had fallen from her\nhead and dishevelled her hair; her mouth was open slightly, her eyes\nraised toward the Apostle, her face fixed in listening and delighted.\nShe was dressed in a dark woollen mantle, like a daughter of the people,\nbut never had Vinicius seen her more beautiful; and notwithstanding all\nthe disorder which had risen in him, he was struck by the nobility of\nthat wonderful patrician head in distinction to the dress, almost that\nof a slave. Love flew over him like a flame, immense, mixed with a\nmarvellous feeling of yearning, homage, honor, and desire. He felt\nthe delight which the sight of her caused him; he drank of her as of\nlife-giving water after long thirst. Standing near the gigantic Lygian,\nshe seemed to him smaller than before, almost a child; he noticed,\ntoo, that she had grown more slender. Her complexion had become almost\ntransparent; she made on him the impression of a flower, and a spirit.\nBut all the more did he desire to possess that woman, so different from\nall women whom he had seen or possessed in Rome or the Orient. He felt\nthat for her he would have given them all, and with them Rome and the\nworld in addition."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He would have lost himself in gazing, and forgotten himself altogether,\nhad it not been for Chilo, who pulled the corner of his mantle, out of\nfear that he might do something to expose them to danger. Meanwhile the\nChristians began to pray and sing. After a while Maranatha thundered\nforth, and then the Great Apostle baptized with water from the fountain\nthose whom the presbyters presented as ready for baptism. It seemed to\nVinicius that that night would never end. He wished now to follow Lygia\nas soon as possible, and seize her on the road or at her house."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At last some began to leave the cemetery, and Chilo whispered,--"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Let us\ngo out before the gate, lord, we have not removed our hoods, and people\nlook at us.”"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Such was the case, for during the discourse of the Apostle all had cast\naside their hoods so as to hear better, and they had not followed the\ngeneral example. Chilo’s advice seemed wise, therefore. Standing before\nthe gate, they could look at all who passed; Ursus it was easy to\nrecognize by his form and size."
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Let us follow them,”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Chilo;"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“we shall see to what house they\ngo. To-morrow, or rather to-day, thou wilt surround the entrances with\nslaves and take her.”"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“No!”"
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius."
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“What dost thou wish to do, lord?”"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“We will follow her to the house and take her now, if thou wilt\nundertake that task, Croton?”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I will,”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Croton,"
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“and I will give myself to thee as a slave if\nI do not break the back of that bison who is guarding her.”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Chilo fell to dissuading and entreating them by all the gods not\nto do so. Croton was taken only for defence against attack in case they\nwere recognized, not to carry off the girl. To take her when there were\nonly two of them was to expose themselves to death, and, what was\nworse, they might let her out of their hands, and then she would hide\nin another place or leave Rome. And what could they do? Why not act\nwith certainty? Why expose themselves to destruction and the whole\nundertaking to failure?"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Though Vinicius restrained himself with the greatest effort from seizing\nLygia in his arms at once, right there in the cemetery, he felt that the\nGreek was right, and would have lent ear, perhaps, to his counsels, had\nit not been for Croton, to whom reward was the question."
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Lord, command that old goat to be silent,”"
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“or let me drop my\nfist on his head. Once in Buxentum, whither Lucius Saturnius took me to\na play, seven drunken gladiators fell on me at an inn, and none of them\nescaped with sound ribs. I do not say to take the girl now from the\ncrowd, for they might throw stones before our feet, but once she is at\nhome I will seize her, carry her away, and take her whithersoever thou\nshalt indicate.”"
+  },
+  {
+   "n": 22,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius was pleased to hear those words, and answered,--"
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thus let it\nbe, by Hercules! To-morrow we may not find her at home; if we surprise\nthem they will remove the girl surely.”"
+  },
+  {
+   "n": 24,
+   "para": 14,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“This Lygian seems tremendously strong!”"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "groaned Chilo."
+  },
+  {
+   "n": 26,
+   "para": 15,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“No one will ask thee to hold his hands,”"
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Croton."
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But they had to wait long yet, and the cocks had begun to crow before\ndawn when they saw Ursus coming through the gate, and with him Lygia.\nThey were accompanied by a number of other persons. It seemed to Chilo\nthat he recognized among them the Great Apostle; next to him walked\nanother old man, considerably lower in stature, two women who were not\nyoung, and a boy, who lighted the way with a lantern. After that handful\nfollowed a crowd, about two hundred in number; Vinicius, Chilo, and\nCroton walked with these people."
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Yes, lord,”"
+  },
+  {
+   "n": 30,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Chilo,"
+  },
+  {
+   "n": 31,
+   "para": 17,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“thy maiden is under powerful protection. That\nis the Great Apostle with her, for see how passing people kneel to him.”"
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "People did in fact kneel before him, but Vinicius did not look at them.\nHe did not lose Lygia from his eyes for a moment; he thought only of\nbearing her away and, accustomed as he had been in wars to stratagems\nof all sorts, he arranged in his head the whole plan of seizure with\nsoldierly precision. He felt that the step on which he had decided was\nbold, but he knew well that bold attacks give success generally."
+  },
+  {
+   "n": 33,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The way was long; hence at moments he thought too of the gulf which\nthat wonderful religion had dug between him and Lygia. Now he understood\neverything that had happened in the past, and why it had happened. He\nwas sufficiently penetrating for that. Lygia he had not known hitherto.\nHe had seen in her a maiden wonderful beyond others, a maiden toward\nwhom his feelings were inflamed: he knew now that her religion made her\ndifferent from other women, and his hope that feeling, desire, wealth,\nluxury, would attract her he knew now to be a vain illusion. Finally he\nunderstood this, which he and Petronius had not understood, that the\nnew religion ingrafted into the soul something unknown to that world\nin which he lived, and that Lygia, even if she loved him, would not\nsacrifice any of her Christian truths for his sake, and that, if\npleasure existed for her, it was a pleasure different altogether\nfrom that which he and Petronius and Cæsar’s court and all Rome were\npursuing. Every other woman whom he knew might become his mistress,\nbut that Christian would become only his victim. And when he thought\nof this, he felt anger and burning pain, for he felt that his anger was\npowerless. To carry off Lygia seemed to him possible; he was almost sure\nthat he could take her, but he was equally sure that, in view of her\nreligion, he himself with his bravery was nothing, that his power\nwas nothing, and that through it he could effect nothing. That Roman\nmilitary tribune, convinced that the power of the sword and the fist\nwhich had conquered the world, would command it forever, saw for the\nfirst time in life that beyond that power there might be something else;\nhence he asked himself with amazement what it was. And he could\nnot answer distinctly; through his head flew merely pictures of the\ncemetery, the assembled crowd, and Lygia, listening with her whole soul\nto the words of the old man, as he narrated the passion, death, and\nresurrection of the God-man, who had redeemed the world, and promised it\nhappiness on the other shore of the Styx."
+  },
+  {
+   "n": 34,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When he thought of this, chaos rose in his head. But he was brought\nout of this chaos by Chilo, who fell to lamenting his own fate. He had\nagreed to find Lygia. He had sought for her in peril of his life, and he\nhad pointed her out. But what more do they want? Had he offered to\ncarry the maiden away? Who could ask anything like this of a maimed man\ndeprived of two fingers, an old man, devoted to meditation, to science,\nand virtue? What would happen were a lord of such dignity as Vinicius to\nmeet some mishap while bearing the maiden away? It is true that the gods\nare bound to watch over their chosen ones,--but have not such things\nhappened more than once, as if the gods were playing games instead of\nwatching what was passing in the world? Fortune is blindfold, as is\nwell known, and does not see even in daylight; what must the case be at\nnight? Let something happen,--let that Lygian bear hurl a millstone at\nthe noble Vinicius, or a keg of wine, or, still worse, water,--who\nwill give assurance that instead of a reward blame will not fall on\nthe hapless Chilo? He, the poor sage, has attached himself to the noble\nVinicius as Aristotle to Alexander of Macedon. If the noble lord should\ngive him at least that purse which he had thrust into his girdle before\nleaving home, there would be something with which to invoke aid in\ncase of need, or to influence the Christians. Oh, why not listen to the\ncounsels of an old man, counsels dictated by experience and prudence?"
+  },
+  {
+   "n": 35,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius, hearing this, took the purse from his belt, and threw it to\nthe fingers of Chilo."
+  },
+  {
+   "n": 36,
+   "para": 22,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou hast it; be silent!”"
+  },
+  {
+   "n": 37,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The Greek felt that it was unusually heavy, and gained confidence."
+  },
+  {
+   "n": 38,
+   "para": 24,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“My whole hope is in this,”"
+  },
+  {
+   "n": 39,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 40,
+   "para": 24,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“that Hercules or Theseus performed\ndeeds still more arduous; what is my personal, nearest friend, Croton,\nif not Hercules? Thee, worthy lord, I will not call a demigod, for thou\nart a full god, and in future thou wilt not forget a poor, faithful\nservant, whose needs it will be necessary to provide for from time to\ntime, for once he is sunk in books, he thinks of nothing else; some\nfew stadia of garden land and a little house, even with the smallest\nportico, for coolness in summer, would befit such a donor. Meanwhile\nI shall admire thy heroic deeds from afar, and invoke Jove to befriend\nthee, and if need be I will make such an outcry that half Rome will be\nroused to thy assistance. What a wretched, rough road! The olive oil\nis burned out in the lantern; and if Croton, who is as noble as he is\nstrong, would bear me to the gate in his arms, he would learn, to begin\nwith, whether he will carry the maiden easily; second, he would act\nlike Æneas, and win all the good gods to such a degree that touching the\nresult of the enterprise I should be thoroughly satisfied.”"
+  },
+  {
+   "n": 41,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I should rather carry a sheep which died of mange a month ago,”"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered the gladiator;"
+  },
+  {
+   "n": 43,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“but give that purse, bestowed by the worthy\ntribune, and I will bear thee to the gate.”"
+  },
+  {
+   "n": 44,
+   "para": 26,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Mayst thou knock the great toe from thy foot,”"
+  },
+  {
+   "n": 45,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied the Greek;"
+  },
+  {
+   "n": 46,
+   "para": 26,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“what profit hast thou from the teachings of that worthy old man, who\ndescribed poverty and charity as the two foremost virtues? Has he not\ncommanded thee expressly to love me? Never shall I make thee, I see,\neven a poor Christian; it would be easier for the sun to pierce the\nwalls of the Mamertine prison than for truth to penetrate thy skull of a\nhippopotamus.”"
+  },
+  {
+   "n": 47,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Never fear!”"
+  },
+  {
+   "n": 48,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Croton, who with the strength of a beast had no human\nfeeling."
+  },
+  {
+   "n": 49,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I shall not be a Christian! I have no wish to lose my bread.”"
+  },
+  {
+   "n": 50,
+   "para": 28,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“But if thou knew even the rudiments of philosophy, thou wouldst know\nthat gold is vanity.”"
+  },
+  {
+   "n": 51,
+   "para": 29,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Come to me with thy philosophy. I will give thee one blow of my head in\nthe stomach; we shall see then who wins.”"
+  },
+  {
+   "n": 52,
+   "para": 30,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“An ox might have said the same to Aristotle,”"
+  },
+  {
+   "n": 53,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "retorted Chilo."
+  },
+  {
+   "n": 54,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "It was growing gray in the world. The dawn covered with pale light the\noutlines of the walls. The trees along the wayside, the buildings, and\nthe gravestones scattered here and there began to issue from the shade.\nThe road was no longer quite empty. Marketmen were moving toward the\ngates, leading asses and mules laden with vegetables; here and there\nmoved creaking carts in which game was conveyed. On the road and along\nboth sides of it was a light mist at the very earth, which promised good\nweather. People at some distance seemed like apparitions in that mist.\nVinicius stared at the slender form of Lygia, which became more silvery\nas the light increased."
+  },
+  {
+   "n": 55,
+   "para": 32,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Lord,”"
+  },
+  {
+   "n": 56,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Chilo,"
+  },
+  {
+   "n": 57,
+   "para": 32,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I should offend thee were I to foresee the end of\nthy bounty, but now, when thou hast paid me, I may not be suspected of\nspeaking for my own interest only. I advise thee once more to go home\nfor slaves and a litter, when thou hast learned in what house the divine\nLygia dwells; listen not to that elephant trunk, Croton, who undertakes\nto carry off the maiden only to squeeze thy purse as if it were a bag of\ncurds.”"
+  },
+  {
+   "n": 58,
+   "para": 33,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I have a blow of the fist to be struck between the shoulders, which\nmeans that thou wilt perish,”"
+  },
+  {
+   "n": 59,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Croton."
+  },
+  {
+   "n": 60,
+   "para": 34,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I have a cask of Cephalonian wine, which means that I shall be well,”"
+  },
+  {
+   "n": 61,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Chilo."
+  },
+  {
+   "n": 62,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius made no answer, for he approached the gate, at which a\nwonderful sight struck his eyes. Two soldiers knelt when the Apostle was\npassing; Peter placed his hand on their iron helmets for a moment, and\nthen made the sign of the cross on them. It had never occurred to\nthe patrician before that there could be Christians in the army; with\nastonishment he thought that as fire in a burning city takes in more\nand more houses, so to all appearances that doctrine embraces new souls\nevery day, and extends itself over all human understandings. This struck\nhim also with reference to Lygia, for he was convinced that, had\nshe wished to flee from the city, there would be guards willing to\nfacilitate her flight. He thanked the gods then that this had not\nhappened."
+  },
+  {
+   "n": 63,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After they had passed vacant places beyond the wall, the Christians\nbegan to scatter. There was need, therefore, to follow Lygia more from\na distance, and more carefully, so as not to rouse attention. Chilo fell\nto complaining of wounds, of pains in his legs, and dropped more\nand more to the rear. Vinicius did not oppose this, judging that the\ncowardly and incompetent Greek would not be needed. He would even have\npermitted him to depart, had he wished; but the worthy sage was detained\nby circumspection. Curiosity pressed him evidently, since he continued\nbehind, and at moments even approached with his previous counsels; he\nthought too that the old man accompanying the Apostle might be Glaucus,\nwere it not for his rather low stature."
+  },
+  {
+   "n": 64,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They walked a good while before reaching the Trans-Tiber, and the sun\nwas near rising when the group surrounding Lygia dispersed. The Apostle,\nan old woman, and a boy went up the river; the old man of lower stature,\nUrsus, and Lygia entered a narrow vicus, and, advancing still about a\nhundred yards, went into a house in which were two shops,--one for the\nsale of olives, the other for poultry."
+  },
+  {
+   "n": 65,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo, who walked about fifty yards behind Vinicius and Croton, halted\nall at once, as if fixed to the earth, and, squeezing up to the wall,\nbegan to hiss at them to turn."
+  },
+  {
+   "n": 66,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They did so, for they needed to take counsel."
+  },
+  {
+   "n": 67,
+   "para": 40,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Go, Chilo,”"
+  },
+  {
+   "n": 68,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius,"
+  },
+  {
+   "n": 69,
+   "para": 40,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“and see if this house fronts on another\nstreet.”"
+  },
+  {
+   "n": 70,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo, though he had complained of wounds in his feet, sprang\naway as quickly as if he had had the wings of Mercury on his ankles, and\nreturned in a moment."
+  },
+  {
+   "n": 71,
+   "para": 41,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“No,”"
+  },
+  {
+   "n": 72,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 73,
+   "para": 41,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“there is but one entrance.”"
+  },
+  {
+   "n": 74,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then, putting his hands together, he said,"
+  },
+  {
+   "n": 75,
+   "para": 42,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I implore thee, lord, by\nJupiter, Apollo, Vesta, Cybele, Isis, Osiris, Mithra Baal, and all the\ngods of the Orient and the Occident to drop this plan. Listen to me--”"
+  },
+  {
+   "n": 76,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But he stopped on a sudden, for he saw that Vinicius’s face was pale\nfrom emotion, and that his eyes were glittering like the eyes of a wolf.\nIt was enough to look at him to understand that nothing in the world\nwould restrain him from the undertaking. Croton began to draw air into\nhis herculean breast, and to sway his undeveloped skull from side to\nside as bears do when confined in a cage, but on his face not the least\nfear was evident."
+  },
+  {
+   "n": 77,
+   "para": 44,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I will go in first,”"
+  },
+  {
+   "n": 78,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 79,
+   "para": 45,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou wilt follow me,”"
+  },
+  {
+   "n": 80,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius, in commanding tones."
+  },
+  {
+   "n": 81,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And after a while both vanished in the dark entrance."
+  },
+  {
+   "n": 82,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo sprang to the corner of the nearest alley and watched from behind\nit, waiting for what would happen."
+  }
+ ]
+}

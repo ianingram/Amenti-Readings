@@ -1,0 +1,395 @@
+{
+ "work": "quo-vadis",
+ "episode": 27,
+ "chapter": 27,
+ "title": "Peter and Paul",
+ "document": "PART THREE · CHAPTER XXVII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch27.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  },
+  {
+   "role": "Peter",
+   "cast_as": "Saint Peter"
+  },
+  {
+   "role": "Crispus",
+   "cast_as": "Galba"
+  },
+  {
+   "role": "Paul of Tarsus",
+   "cast_as": "Paul the Apostle"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXVII"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "faith",
+    "at": "FROM that moment Lygia showed herself more rarely in the com",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "FROM that moment Lygia showed herself more rarely in the common chamber,\nand approached his couch less frequently. But peace did not return to\nher. She saw that Vinicius followed her with imploring glance; that he\nwas waiting for every word of hers, as for a favor; that he suffered and\ndared not complain, lest he might turn her away from him; that she alone\nwas his health and delight. And then her heart swelled with compassion.\nSoon she observed, too, that the more she tried to avoid him, the more\ncompassion she had for him; and by this itself the more tender were the\nfeelings which rose in her. Peace left her. At times she said to herself\nthat it was her special duty to be near him always, first, because\nthe religion of God commands return of good for evil; second, that by\nconversing with him, she might attract him to the faith. But at the same\ntime conscience told her that she was tempting herself; that only love\nfor him and the charm which he exerted were attracting her, nothing\nelse. Thus she lived in a ceaseless struggle, which was intensified\ndaily. At times it seemed that a kind of net surrounded her, and that in\ntrying to break through it she entangled herself more and more. She had\nalso to confess that for her the sight of him was becoming more needful,\nhis voice was becoming dearer, and that she had to struggle with all her\nmight against the wish to sit at his bedside. When she approached him,\nand he grew radiant, delight filled her heart. On a certain day she\nnoticed traces of tears on his eyelids, and for the first time in life\nthe thought came to her, to dry them with kisses. Terrified by that\nthought, and full of self-contempt, she wept all the night following."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He was as enduring as if he had made a vow of patience. When at moments\nhis eyes flashed with petulance, self-will, and anger, he restrained\nthose flashes promptly, and looked with alarm at her, as if to implore\npardon. This acted still more on her. Never had she such a feeling of\nbeing greatly loved as then; and when she thought of this, she felt at\nonce guilty and happy. Vinicius, too, had changed essentially. In his\nconversations with Glaucus there was less pride. It occurred to him\nfrequently that even that poor slave physician and that foreign woman,\nold Miriam, who surrounded him with attention, and Crispus, whom he saw\nabsorbed in continual prayer, were still human. He was astonished at\nsuch thoughts, but he had them. After a time he conceived a liking for\nUrsus, with whom he conversed entire days; for with him he could talk\nabout Lygia. The giant, on his part, was inexhaustible in narrative, and\nwhile performing the most simple services for the sick man, he began to\nshow him also some attachment. For Vinicius, Lygia had been at all times\na being of another order, higher a hundred times than those around her:\nnevertheless, he began to observe simple and poor people,--a thing which\nhe had never done before,--and he discovered in them various traits the\nexistence of which he had never suspected."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Nazarius, however, he could not endure, for it seemed to him that the\nyoung lad had dared to fall in love with Lygia. He had restrained his\naversion for a long time, it is true; but once when he brought her two\nquails, which he had bought in the market with his own earned money, the\ndescendant of the Quirites spoke out in Vinicius, for whom one who had\nwandered in from a strange people had less worth than the meanest worm.\nWhen he heard Lygia’s thanks, he grew terribly pale; and when Nazarius\nwent out to get water for the birds, he said,--"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Lygia, canst thou endure\nthat he should give thee gifts? Dost thou not know that the Greeks call\npeople of his nation Jewish dogs?”"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I do not know what the Greeks call them; but I know that Nazarius is a\nChristian and my brother.”"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When she had said this she looked at Vinicius with astonishment and\nregret, for he had disaccustomed her to similar outbursts; and he set\nhis teeth, so as not to tell her that he would have given command to\nbeat such a brother with sticks, or would have sent him as a compeditus\n[A man who labors with chained feet] to dig earth in his Sicilian\nvineyards. He restrained himself, however, throttled the anger within\nhim, and only after a while did he say,--"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Pardon me, Lygia. For me thou\nart the daughter of a king and the adopted child of Plautius.”"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And\nhe subdued himself to that degree that when Nazarius appeared in the\nchamber again, he promised him, on returning to his villa, the gift of a\npair of peacocks or flamingoes, of which he had a garden full."
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia understood what such victories over himself must have cost him;\nbut the oftener he gained them the more her heart turned to him. His\nmerit with regard to Nazarius was less, however, than she supposed.\nVinicius might be indignant for a moment, but he could not be jealous of\nhim. In fact the son of Miriam did not, in his eyes, mean much more than\na dog; besides, he was a child yet, who, if he loved Lygia, loved her\nunconsciously and servilely. Greater struggles must the young tribune\nhave with himself to submit, even in silence, to that honor with which\namong those people the name of Christ and His religion was surrounded.\nIn this regard wonderful things took place in Vinicius. That was in\nevery case a religion which Lygia believed; hence for that single reason\nhe was ready to receive it. Afterward, the more he returned to health,\nthe more he remembered the whole series of events which had happened\nsince that night at Ostrianum, and the whole series of thoughts which\nhad come to his head from that time, the more he was astonished at the\nsuperhuman power of that religion which changed the souls of men\nto their foundations. He understood that in it there was something\nuncommon, something which had not been on earth before, and he felt that\ncould it embrace the whole world, could it ingraft on the world its love\nand charity, an epoch would come recalling that in which not Jupiter,\nbut Saturn had ruled. He did not dare either to doubt the supernatural\norigin of Christ, or His resurrection, or the other miracles. The\neye-witnesses who spoke of them were too trustworthy and despised\nfalsehood too much to let him suppose that they were telling things that\nhad not happened. Finally, Roman scepticism permitted disbelief in the\ngods, but believed in miracles. Vinicius, therefore, stood before a\nkind of marvellous puzzle which he could not solve. On the other hand,\nhowever, that religion seemed to him opposed to the existing state of\nthings, impossible of practice, and mad in a degree beyond all others.\nAccording to him, people in Rome and in the whole world might be bad,\nbut the order of things was good. Had Cæsar, for example, been an honest\nman, had the Senate been composed, not of insignificant libertines,\nbut of men like Thrasea, what more could one wish? Nay, Roman peace and\nsupremacy were good; distinction among people just and proper. But that\nreligion, according to the understanding of Vinicius, would destroy all\norder, all supremacy, every distinction. What would happen then to the\ndominion and lordship of Rome? Could the Romans cease to rule, or could\nthey recognize a whole herd of conquered nations as equal to themselves?\nThat was a thought which could find no place in the head of a patrician.\nAs regarded him personally, that religion was opposed to all his ideas\nand habits, his whole character and understanding of life. He was simply\nunable to imagine how he could exist were he to accept it. He feared\nand admired it; but as to accepting it, his nature shuddered at that. He\nunderstood, finally, that nothing save that religion separated him from\nLygia; and when he thought of this, he hated it with all the powers of\nhis soul."
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Still he acknowledged to himself that it had adorned Lygia with that\nexceptional, unexplained beauty which in his heart had produced, besides\nlove, respect, besides desire, homage, and had made of that same Lygia\na being dear to him beyond all others in the world. And then he wished\nanew to love Christ. And he understood clearly that he must either love\nor hate Him; he could not remain indifferent. Meanwhile two opposing\ncurrents were as if driving him: he hesitated in thoughts, in feelings;\nhe knew not how to choose, he bowed his head, however, to that God by\nhim uncomprehended, and paid silent honor for this sole reason, that He\nwas Lygia’s God."
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia saw what was happening in him; she saw how he was breaking\nhimself, how his nature was rejecting that religion; and though this\nmortified her to the death, compassion, pity, and gratitude for the\nsilent respect which he showed Christ inclined her heart to him with\nirresistible force. She recalled Pomponia Græcina and Aulus. For\nPomponia a source of ceaseless sorrow and tears that never dried was the\nthought that beyond the grave she would not find Aulus. Lygia began now\nto understand better that pain, that bitterness. She too had found a\nbeing dear to her, and she was threatened by eternal separation from\nthis dear one."
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At times, it is true, she was self-deceived, thinking that his soul\nwould open itself to Christ’s teaching; but these illusions could\nnot remain. She knew and understood him too well. Vinicius a\nChristian!--These two ideas could find no place together in her\nunenlightened head. If the thoughtful, discreet Aulus had not become\na Christian under the influence of the wise and perfect Pomponia, how\ncould Vinicius become one? To this there was no answer, or rather there\nwas only one,--that for him there was neither hope nor salvation."
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Lygia saw with terror that that sentence of condemnation which hung\nover him instead of making him repulsive made him still dearer simply\nthrough compassion. At moments the wish seized her to speak to him of\nhis dark future; but once, when she had sat near him and told him that\noutside Christian truth there was no life, he, having grown stronger\nat that time, rose on his sound arm and placed his head on her knees\nsuddenly."
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou art life!”"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he. And that moment breath failed in her\nbreast, presence of mind left her, a certain quiver of ecstasy rushed\nover her from head to feet. Seizing his temples with her hands, she\ntried to raise him, but bent the while so that her lips touched his\nhair; and for a moment both were overcome with delight, with themselves,\nand with love, which urged them the one to the other."
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia rose at last and rushed away, with a flame in her veins and a\ngiddiness in her head; but that was the drop which overflowed the cup\nfilled already to the brim. Vinicius did not divine how dearly he would\nhave to pay for that happy moment, but Lygia understood that now she\nherself needed rescue. She spent the night after that evening without\nsleep, in tears and in prayer, with the feeling that she was unworthy\nto pray and could not be heard. Next morning she went from the cubiculum\nearly, and, calling Crispus to the garden summer-house, covered with ivy\nand withered vines, opened her whole soul to him, imploring him at the\nsame time to let her leave Miriam’s house, since she could not trust\nherself longer, and could not overcome her heart’s love for Vinicius."
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Crispus, an old man, severe and absorbed in endless enthusiasm,\nconsented to the plan of leaving Miriam’s house, but he had no words\nof forgiveness for that love, to his thinking sinful. His heart swelled\nwith indignation at the very thought that Lygia, whom he had guarded\nsince the time of her flight, whom he had loved, whom he had confirmed\nin the faith, and on whom he looked now as a white lily grown up on the\nfield of Christian teaching undefiled by any earthly breath, could have\nfound a place in her soul for love other than heavenly. He had believed\nhitherto that nowhere in the world did there beat a heart more purely\ndevoted to the glory of Christ. He wanted to offer her to Him as\na pearl, a jewel, the precious work of his own hands; hence the\ndisappointment which he felt filled him with grief and amazement."
+  },
+  {
+   "n": 19,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Go and beg God to forgive thy fault,” said he, gloomily. “Flee before\nthe evil spirit who involved thee bring thee to utter fall, and before\nthou oppose the Saviour. God died on the cross to redeem thy soul with\nHis blood, but thou hast preferred to love him who wished to make thee\nhis concubine. God saved thee by a miracle of His own hands, but thou\nhast opened thy heart to impure desire, and hast loved the son of\ndarkness. Who is he? The friend and servant of Antichrist, his copartner\nin crime and profligacy. Whither will he lead thee, if not to that abyss\nand to that Sodom in which he himself is living, but which God will\ndestroy with the flame of His anger? But I say to thee, would thou hadst\ndied, would the walls of this house had fallen on thy head before that\nserpent had crept into thy bosom and beslimed it with the poison of\niniquity.”"
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he was borne away more and more, for Lygia’s fault filled him not\nonly with anger but with loathing and contempt for human nature in\ngeneral, and in particular for women, whom even Christian truth could\nnot save from Eve’s weakness. To him it seemed nothing that the maiden\nhad remained pure, that she wished to flee from that love, that she\nhad confessed it with compunction and penitence. Crispus had wished\nto transform her into an angel, to raise her to heights where love for\nChrist alone existed, and she had fallen in love with an Augustian. The\nvery thought of that filled his heart with horror, strengthened by a\nfeeling of disillusion and disappointment. No, no, he could not forgive\nher. Words of horror burned his lips like glowing coals; he struggled\nstill with himself not to utter them, but he shook his emaciated hands\nover the terrified girl. Lygia felt guilty, but not to that degree. She\nhad judged even that withdrawal from Miriam’s house would be her victory\nover temptation, and would lessen her fault. Crispus rubbed her into the\ndust; showed her all the misery and insignificance of her soul, which\nshe had not suspected hitherto. She had judged even that the old\npresbyter, who from the moment of her flight from the Palatine had been\nto her as a father, would show some compassion, console her, give her\ncourage, and strengthen her."
+  },
+  {
+   "n": 21,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I offer my pain and disappointment to God,” said he, “but thou hast\ndeceived the Saviour also, for thou hast gone as it were to a quagmire\nwhich has poisoned thy soul with its miasma. Thou mightst have offered\nit to Christ as a costly vessel, and said to Him, ‘Fill it with grace,\nO Lord!’ but thou hast preferred to offer it to the servant of the evil\none. May God forgive thee and have mercy on thee; for till thou cast out\nthe serpent, I who held thee as chosen-”"
+  },
+  {
+   "n": 22,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But he ceased suddenly to speak, for he saw that they were not alone.\nThrough the withered vines and the ivy, which was green alike in summer\nand winter, he saw two men, one of whom was Peter the Apostle. The\nother he was unable to recognize at once, for a mantle of coarse woollen\nstuff, called cilicium, concealed a part of his face. It seemed to\nCrispus for a moment that that was Chilo."
+  },
+  {
+   "n": 23,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They, hearing the loud voice of Crispus, entered the summer-house and\nsat on a stone bench. Peter’s companion had an emaciated face; his head,\nwhich was growing bald, was covered at the sides with curly hair; he had\nreddened eyelids and a crooked nose; in the face, ugly and at the same\ntime inspired, Crispus recognized the features of Paul of Tarsus."
+  },
+  {
+   "n": 24,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia, casting herself on her knees, embraced Peter’s feet, as if from\ndespair, and, sheltering her tortured head in the fold of his mantle,\nremained thus in silence."
+  },
+  {
+   "n": 25,
+   "para": 19,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Peace to your souls!”"
+  },
+  {
+   "n": 26,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Peter."
+  },
+  {
+   "n": 27,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And seeing the child at his feet he asked what had happened. Crispus\nbegan then to narrate all that Lygia had confessed to him,--her sinful\nlove, her desire to flee from Miriam’s house,--and his sorrow that a\nsoul which he had thought to offer to Christ pure as a tear had defiled\nitself with earthly feelings for a sharer in all those crimes into which\nthe pagan world had sunk, and which called for God’s vengeance."
+  },
+  {
+   "n": 28,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia during his speech embraced with increasing force the feet of\nthe Apostle, as if wishing to seek refuge near them, and to beg even a\nlittle compassion."
+  },
+  {
+   "n": 29,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But the Apostle, when he had listened to the end, bent down and placed\nhis aged hand on her head; then he raised his eyes to the old presbyter,\nand said,--"
+  },
+  {
+   "n": 30,
+   "para": 22,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Crispus, hast thou not heard that our beloved Master was in\nCana, at a wedding, and blessed love between man and woman?”"
+  },
+  {
+   "n": 31,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Crispus’s hands dropped, and he looked with astonishment on the speaker,\nwithout power to utter one word. After a moment’s silence Peter asked\nagain,--"
+  },
+  {
+   "n": 32,
+   "para": 23,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Crispus, dost thou think that Christ, who permitted Mary of\nMagdala to lie at his feet, and who forgave the public sinner, would\nturn from this maiden, who is as pure as a lily of the field?”"
+  },
+  {
+   "n": 33,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia nestled up more urgently to the feet of Peter, with sobbing,\nunderstanding that she had not sought refuge in vain. The Apostle raised\nher face, which was covered with tears, and said to her,--"
+  },
+  {
+   "n": 34,
+   "para": 24,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“While the\neyes of him whom thou lovest are not open to the light of truth, avoid\nhim, lest he bring thee to sin, but pray for him, and know that there is\nno sin in thy love. And since it is thy wish to avoid temptation, this\nwill be accounted to thee as a merit. Do not suffer, and do not weep;\nfor I tell thee that the grace of the Redeemer has not deserted thee,\nand that thy prayers will be heard; after sorrow will come days of\ngladness.”"
+  },
+  {
+   "n": 35,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When he had said this, he placed both hands on her head, and, raising\nhis eyes, blessed her. From his face there shone a goodness beyond that\nof earth."
+  },
+  {
+   "n": 36,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The penitent Crispus began humbly to explain himself;"
+  },
+  {
+   "n": 37,
+   "para": 26,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“I have sinned\nagainst mercy,”"
+  },
+  {
+   "n": 38,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he;"
+  },
+  {
+   "n": 39,
+   "para": 26,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“but I thought that by admitting to her heart\nan earthly love she had denied Christ.”"
+  },
+  {
+   "n": 40,
+   "para": 27,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“I denied Him thrice,”"
+  },
+  {
+   "n": 41,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Peter,"
+  },
+  {
+   "n": 42,
+   "para": 27,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“and still He forgave me, and\ncommanded me to feed His sheep.”"
+  },
+  {
+   "n": 43,
+   "para": 28,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“And because,”"
+  },
+  {
+   "n": 44,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "concluded Crispus,"
+  },
+  {
+   "n": 45,
+   "para": 28,
+   "role": "Crispus",
+   "cast": "Galba",
+   "text": "“Vinicius is an Augustian.”"
+  },
+  {
+   "n": 46,
+   "para": 29,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Christ softened harder hearts than his,”"
+  },
+  {
+   "n": 47,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Peter."
+  },
+  {
+   "n": 48,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then Paul of Tarsus, who had been silent so far, placed his finger on\nhis breast, pointing to himself, and said,--"
+  },
+  {
+   "n": 49,
+   "para": 30,
+   "role": "Paul of Tarsus",
+   "cast": "Paul the Apostle",
+   "text": "“I am he who persecuted\nand hurried servants of Christ to their death; I am he who during the\nstoning of Stephen kept the garments of those who stoned him; I am he\nwho wished to root out the truth in every part of the inhabited earth,\nand yet the Lord predestined me to declare it in every land. I have\ndeclared it in Judea, in Greece, on the Islands, and in this godless\ncity, where first I resided as a prisoner. And now when Peter, my\nsuperior, has summoned me, I enter this house to bend that proud head to\nthe feet of Christ, and cast a grain of seed in that stony field,\nwhich the Lord will fertilize, so that it may bring forth a bountiful\nharvest.”"
+  },
+  {
+   "n": 50,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he rose. To Crispus that diminutive hunchback seemed then that\nwhich he was in reality,--a giant, who was to stir the world to its\nfoundations and gather in lands and nations."
+  }
+ ]
+}

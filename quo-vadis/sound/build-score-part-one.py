@@ -78,17 +78,22 @@ mix = stems((reverb(pn, 3.2, 0.32, seed=5), -26), (reverb(halo, 3.8, 0.45, seed=
 render('score-lygia.mp3', mix[: int((bars * BAR + 3) * SR)])
 
 # ═══ VINICIUS — cinematic: a driving string ostinato, the cellos rising, timpani breathing ══
-BT = 60 / 92; BAR = 4 * BT; bars = 8; N = int((bars * BAR + 5) * SR)
+# (16 bars: the second half climbs to F major and back, the cellos an octave higher)
+BT = 60 / 92; BAR = 4 * BT; bars = 16; N = int((bars * BAR + 5) * SR)
 ost, line, tim = np.zeros(N, np.float32), np.zeros(N, np.float32), np.zeros(N, np.float32)
-CH = [(38, [62, 65, 69]), (34, [62, 65, 70]), (36, [60, 64, 67]), (33, [61, 64, 69])] * 2
+CH = [(38, [62, 65, 69]), (34, [62, 65, 70]), (36, [60, 64, 67]), (33, [61, 64, 69])] * 2 + \
+     [(41, [65, 69, 72]), (36, [64, 67, 72]), (34, [62, 65, 70]), (33, [61, 64, 69])] * 2
+TR = load16(TIMPR(2))
 for b, (root, tri) in enumerate(CH):
     t0 = b * BAR
-    for k in range(8):                                                                   # quavers, pulsing
+    for k in range(8):
         m = [tri[0], tri[1], tri[2], tri[1]][k % 4]
         put(ost, sustain(VLA, m, BT / 2 * 0.9, head=0.05, kx=0.03, tail=0.05), t0 + k * BT / 2, 0.6 if k % 2 else 0.8)
     put(ost, sustain(CTREM, root, BAR, head=0.1, kx=0.2, tail=0.3), t0, 0.5)
-    tr = load16(TIMPR(2)); put(tim, tr[: int(BAR * SR)] * np.linspace(0.2, 1, int(BAR * SR) if len(tr) >= int(BAR * SR) else len(tr))[: min(len(tr), int(BAR * SR))], t0 + 0.0, 0.4) if b % 2 == 1 else None
-RISE = [(0, 50, 4), (4, 53, 2), (6, 55, 2), (8, 57, 6), (14, 58, 2), (16, 57, 4), (20, 60, 2), (22, 62, 2), (24, 64, 4), (28, 62, 4)]
+    if b % 2 == 1:
+        n_ = min(len(TR), int(BAR * SR)); put(tim, TR[:n_] * np.linspace(0.2, 1, n_).astype(np.float32), t0, 0.4)
+RISE = [(0, 50, 4), (4, 53, 2), (6, 55, 2), (8, 57, 6), (14, 58, 2), (16, 57, 4), (20, 60, 2), (22, 62, 2), (24, 64, 4), (28, 62, 4),
+        (32, 65, 4), (36, 64, 2), (38, 65, 2), (40, 67, 6), (46, 69, 2), (48, 70, 4), (52, 69, 2), (54, 67, 2), (56, 65, 4), (60, 62, 4)]
 for st, m, d in RISE: put(line, sustain(CEL, m, d * BT * 1.03 + 0.3, head=0.3, kx=0.3, tail=0.5), st * BT, 0.7)
 mix = stems((reverb(ost, 1.8, 0.22, seed=7), -27), (reverb(line, 2.6, 0.3, seed=8), -25), (reverb(tim, 2.2, 0.3, seed=9), -33))
 render('score-vinicius.mp3', mix[: int((bars * BAR + 2) * SR)])

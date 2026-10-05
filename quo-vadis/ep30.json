@@ -1,0 +1,594 @@
+{
+ "work": "quo-vadis",
+ "episode": 30,
+ "chapter": 30,
+ "title": "Nero",
+ "document": "PART THREE · CHAPTER XXX",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch30.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Nero",
+   "cast_as": "Nero"
+  },
+  {
+   "role": "Tigellinus",
+   "cast_as": "Caligula"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXX"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "court",
+    "at": "Cæsar, on returning to Rome, was angry because he had return",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Cæsar, on returning to Rome, was angry because he had returned, and\nafter some days was filled anew with a wish to visit Achæa. He even\nissued an edict in which he declared that his absence would be short,\nand that public affairs would not be exposed to detriment because of it.\nIn company with Augustians, among whom was Vinicius, he repaired to the\nCapitol to make offerings to the gods for an auspicious journey. But on\nthe second day, when he visited the temple of Vesta, an event took place\nwhich changed all his projects. Nero feared the gods, though he did not\nbelieve in them; he feared especially the mysterious Vesta, who filled\nhim with such awe that at sight of the divinity and the sacred fire his\nhair rose on a sudden from terror, his teeth chattered, a shiver\nran through his limbs, and he dropped into the arms of Vinicius, who\nhappened there behind him. He was borne out of the temple at once, and\nconveyed to the Palatine, where he recovered soon, but did not leave the\nbed for that day. He declared, moreover, to the great astonishment of\nthose present, that he deferred his journey, since the divinity had\nwarned him secretly against haste. An hour later it was announced\nthroughout Rome that Cæsar, seeing the gloomy faces of the citizens, and\nmoved by love for them, as a father for his children, would remain\nto share their lot and their pleasures. The people, rejoiced at\nthis decision, and certain also that they would not miss games and\na distribution of wheat, assembled in crowds before the gates of\nthe Palatine, and raised shouts in honor of the divine Cæsar, who\ninterrupted the play at dice with which he was amusing himself with\nAugustians, and said:"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Yes, there was need to defer the journey. Egypt, and predicted dominion\nover the Orient, cannot escape me; hence Achæa, too, will not be lost.\nI will give command to cut through the isthmus of Corinth; I will rear\nsuch monuments in Egypt that the pyramids will seem childish toys in\ncomparison; I will have a sphinx built seven times greater than that\nwhich is gazing into the desert outside Memphis; but I will command that\nit have my face. Coming ages will speak only of that monument and of\nme.”"
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“With thy verses thou hast reared a monument to thyself already, not\nseven, but thrice seven, times greater than the pyramid of Cheops,”"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said\nPetronius."
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“But with my song?”"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Nero."
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Ah! if men could only build for thee a statue, like that of Memnon, to\ncall with thy voice at sunrise! For all ages to come the seas adjoining\nEgypt would swarm with ships in which crowds from the three parts of the\nworld would be lost in listening to thy song.”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Alas! who can do that?”"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Nero."
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“But thou canst give command to cut out of basalt thyself driving a\nquadriga.”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“True! I will do that!”"
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou wilt bestow a gift on humanity.”"
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“In Egypt I will marry the Moon, who is now a widow, and I shall be a\ngod really.”"
+  },
+  {
+   "n": 15,
+   "para": 11,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“And thou wilt give us stars for wives; we will make a new\nconstellation, which will be called the constellation of Nero. But do\nthou marry Vitelius to the Nile, so that he may beget hippopotamuses.\nGive the desert to Tigellinus, he will be king of the jackals.”"
+  },
+  {
+   "n": 16,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“And what dost thou predestine to me?” inquired Vatinius."
+  },
+  {
+   "n": 17,
+   "para": 13,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Apis bless thee! Thou didst arrange such splendid games in Beneventum\nthat I cannot wish thee ill. Make a pair of boots for the sphinx, whose\npaws must grow numb during night-dews; after that thou will make sandals\nfor the Colossi which form the alleys before the temples. Each one will\nfind there a fitting occupation. Domitius Afer, for example, will be\ntreasurer, since he is known for his honesty. I am glad, Cæsar, when\nthou art dreaming of Egypt, and I am saddened because thou hast deferred\nthy plan of a journey.”"
+  },
+  {
+   "n": 18,
+   "para": 14,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Thy mortal eyes saw nothing, for the deity becomes invisible to\nwhomever it wishes,”"
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Nero."
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Know that when I was in the temple of\nVesta she herself stood near me, and whispered in my ear, ‘Defer the\njourney.’ That happened so unexpectedly that I was terrified, though for\nsuch an evident care of the gods for me I should be thankful.”"
+  },
+  {
+   "n": 21,
+   "para": 15,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“We were all terrified,”"
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Tigellinus,"
+  },
+  {
+   "n": 23,
+   "para": 15,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“and the vestal Rubria\nfainted.”"
+  },
+  {
+   "n": 24,
+   "para": 16,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Rubria!”"
+  },
+  {
+   "n": 25,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Nero;"
+  },
+  {
+   "n": 26,
+   "para": 16,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“what a snowy neck she has!”"
+  },
+  {
+   "n": 27,
+   "para": 17,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“But she blushed at sight of the divine Cæsar--”"
+  },
+  {
+   "n": 28,
+   "para": 18,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“True! I noticed that myself. That is wonderful. There is something\ndivine in every vestal, and Rubria is very beautiful."
+  },
+  {
+   "n": 29,
+   "para": 19,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Tell me,”"
+  },
+  {
+   "n": 30,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, after a moment’s meditation,"
+  },
+  {
+   "n": 31,
+   "para": 19,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“why people fear Vesta\nmore than other gods. What does this mean? Though I am the chief priest,\nfear seized me to-day. I remember only that I was falling back, and\nshould have dropped to the ground had not some one supported me. Who was\nit?”"
+  },
+  {
+   "n": 32,
+   "para": 20,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I,”"
+  },
+  {
+   "n": 33,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius."
+  },
+  {
+   "n": 34,
+   "para": 21,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Oh, thou ‘stern Mars’! Why wert thou not in Beneventum? They told me\nthat thou wert ill, and indeed thy face is changed. But I heard that\nCroton wished to kill thee? Is that true?”"
+  },
+  {
+   "n": 35,
+   "para": 22,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“It is, and he broke my arm; but I defended myself.”"
+  },
+  {
+   "n": 36,
+   "para": 23,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“With a broken arm?”"
+  },
+  {
+   "n": 37,
+   "para": 24,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“A certain barbarian helped me; he was stronger than Croton.”"
+  },
+  {
+   "n": 38,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Nero looked at him with astonishment."
+  },
+  {
+   "n": 39,
+   "para": 25,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Stronger than Croton? Art thou\njesting? Croton was the strongest of men, but now here is Syphax from\nEthiopia.”"
+  },
+  {
+   "n": 40,
+   "para": 26,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I tell thee, Cæsar, what I saw with my own eyes.”"
+  },
+  {
+   "n": 41,
+   "para": 27,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Where is that pearl? Has he not become king of Nemi?”"
+  },
+  {
+   "n": 42,
+   "para": 28,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I cannot tell, Cæsar. I lost sight of him.”"
+  },
+  {
+   "n": 43,
+   "para": 29,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Thou knowest not even of what people he is?”"
+  },
+  {
+   "n": 44,
+   "para": 30,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I had a broken arm, and could not inquire for him.”"
+  },
+  {
+   "n": 45,
+   "para": 31,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Seek him, and find him for me.”"
+  },
+  {
+   "n": 46,
+   "para": 32,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“I will occupy myself with that,”"
+  },
+  {
+   "n": 47,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Tigellinus."
+  },
+  {
+   "n": 48,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Nero spoke further to Vinicius:"
+  },
+  {
+   "n": 49,
+   "para": 33,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I thank thee for having supported\nme; I might have broken my head by a fall. On a time thou wert a good\ncompanion, but campaigning and service with Corbulo have made thee wild\nin some way; I see thee rarely."
+  },
+  {
+   "n": 50,
+   "para": 34,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“How is that maiden too narrow in the hips, with whom thou wert in\nlove,”"
+  },
+  {
+   "n": 51,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked he after a while,"
+  },
+  {
+   "n": 52,
+   "para": 34,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“and whom I took from Aulus for thee?”"
+  },
+  {
+   "n": 53,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius was confused, but Petronius came to his aid at that moment."
+  },
+  {
+   "n": 54,
+   "para": 35,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I\nwill lay a wager, lord,”"
+  },
+  {
+   "n": 55,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 56,
+   "para": 35,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“that he has forgotten. Dost thou see\nhis confusion? Ask him how many of them there were since that time, and\nI will not give assurance of his power to answer. The Vinicius are good\nsoldiers, but still better gamecocks. They need whole flocks. Punish\nhim for that, lord, by not inviting him to the feast which Tigellinus\npromises to arrange in thy honor on the pond of Agrippa.”"
+  },
+  {
+   "n": 57,
+   "para": 36,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“I will not do that. I trust, Tigellinus, that flocks of beauty will not\nbe lacking there.”"
+  },
+  {
+   "n": 58,
+   "para": 37,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Could the Graces be absent where Amor will be present?”"
+  },
+  {
+   "n": 59,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered\nTigellinus."
+  },
+  {
+   "n": 60,
+   "para": 38,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Weariness tortures me,”"
+  },
+  {
+   "n": 61,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Nero."
+  },
+  {
+   "n": 62,
+   "para": 38,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I have remained in Rome at the will\nof the goddess, but I cannot endure the city. I will go to Antium. I\nam stifled in these narrow streets, amid these tumble-down houses, amid\nthese alleys. Foul air flies even here to my house and my gardens. Oh,\nif an earthquake would destroy Rome, if some angry god would level it to\nthe earth! I would show how a city should be built, which is the head of\nthe world and my capital.”"
+  },
+  {
+   "n": 63,
+   "para": 39,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Cæsar,”"
+  },
+  {
+   "n": 64,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Tigellinus,"
+  },
+  {
+   "n": 65,
+   "para": 39,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“thou sayest, ‘If some angry god would\ndestroy the city,’--is it so?”"
+  },
+  {
+   "n": 66,
+   "para": 40,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“It is! What then?”"
+  },
+  {
+   "n": 67,
+   "para": 41,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“But art thou not a god?”"
+  },
+  {
+   "n": 68,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Nero waved his hand with an expression of weariness, and said,--"
+  },
+  {
+   "n": 69,
+   "para": 42,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“We\nshall see thy work on the pond of Agrippa. Afterward I go to Antium. Ye\nare all little, hence do not understand that I need immense things.”"
+  },
+  {
+   "n": 70,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he closed his eyes, giving to understand in that way that he needed\nrest. In fact, the Augustians were beginning to depart. Petronius went\nout with Vinicius, and said to him,--"
+  },
+  {
+   "n": 71,
+   "para": 43,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou art invited, then, to share\nin the amusement. Bronzebeard has renounced the journey, but he will be\nmadder than ever; he has fixed himself in the city as in his own house.\nTry thou, too, to find in these madnesses amusement and forgetfulness.\nWell! we have conquered the world, and have a right to amuse ourselves.\nThou, Marcus, art a very comely fellow, and to that I ascribe in part\nthe weakness which I have for thee. By the Ephesian Diana! if thou\ncouldst see thy joined brows, and thy face in which the ancient blood\nof the Quirites is evident! Others near thee looked like freedmen. True!\nwere it not for that mad religion, Lygia would be in thy house to-day.\nAttempt once more to prove to me that they are not enemies of life and\nmankind. They have acted well toward thee, hence thou mayst be grateful\nto them; but in thy place I should detest that religion, and seek\npleasure where I could find it. Thou art a comely fellow, I repeat, and\nRome is swarming with divorced women.”"
+  },
+  {
+   "n": 72,
+   "para": 44,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I wonder only that all this does not torture thee yet?”"
+  },
+  {
+   "n": 73,
+   "para": 45,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Who has told thee that it does not? It tortures me this long time,\nbut I am not of thy years. Besides, I have other attachments which are\nlacking thee. I love books, thou hast no love for them; I love poetry,\nwhich annoys thee; I love pottery, gems, a multitude of things, at which\nthou dost not look; I have a pain in my loins, which thou hast not; and,\nfinally, I have found Eunice, but thou hast found nothing similar. For\nme, it is pleasant in my house, among masterpieces; of thee I can never\nmake a man of æsthetic feeling. I know that in life I shall never find\nanything beyond what I have found; thou thyself knowest not that thou\nart hoping yet continually, and seeking. If death were to visit thee,\nwith all thy courage and sadness, thou wouldst die with astonishment\nthat it was necessary to leave the world; but I should accept death as a\nnecessity, with the conviction that there is no fruit in the world which\nI have not tasted. I do not hurry, neither shall I loiter; I shall\ntry merely to be joyful to the end. There are cheerful sceptics in the\nworld. For me, the Stoics are fools; but stoicism tempers men, at least,\nwhile thy Christians bring sadness into the world, which in life is the\nsame as rain in nature. Dost thou know what I have learned? That during\nthe festivities which Tigellinus will arrange at the pond of Agrippa,\nthere will be lupanaria, and in them women from the first houses of\nRome. Will there be not even one sufficiently beautiful to console thee?\nThere will be maidens, too, appearing in society for the first time--as\nnymphs. Such is our Roman Cæsardom! The air is mild already; the midday\nbreeze will warm the water and not bring pimples on naked bodies.\nAnd thou, Narcissus, know this, that there will not be one to refuse\nthee,--not one, even though she be a vestal virgin.”"
+  },
+  {
+   "n": 74,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius began to strike his head with his palm, like a man occupied\neternally with one thought."
+  },
+  {
+   "n": 75,
+   "para": 47,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I should need luck to find such a one.”"
+  },
+  {
+   "n": 76,
+   "para": 48,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“And who did this for thee, if not the Christians? But people whose\nstandard is a cross cannot be different. Listen to me: Greece was\nbeautiful, and created wisdom; we created power; and what, to thy\nthinking, can this teaching create? If thou know, explain; for, by\nPollux! I cannot divine it.”"
+  },
+  {
+   "n": 77,
+   "para": 49,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou art afraid, it seems, lest I become a Christian,”"
+  },
+  {
+   "n": 78,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius,\nshrugging his shoulders."
+  },
+  {
+   "n": 79,
+   "para": 50,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“I am afraid that thou hast spoiled life for thyself. If thou canst\nnot be a Grecian, be a Roman; possess and enjoy. Our madnesses have\na certain sense, for there is in them a kind of thought of our own. I\ndespise Bronzebeard, because he is a Greek buffoon. If he held himself\na Roman, I should recognize that he was right in permitting himself\nmadness. Promise me that if thou find some Christian on returning home,\nthou wilt show thy tongue to him. If he be Glaucus the physician, he\nwill not wonder.--Till we meet on the pond of Agrippa.”"
+  }
+ ]
+}

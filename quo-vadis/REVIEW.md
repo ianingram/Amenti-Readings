@@ -1073,3 +1073,444 @@ Every quotation and the voice it was given. **Tagged** lines follow Curtin’s o
 - ¶42 · **Narrator** · *confirmed* · “I saw!”
 - ¶43 · **Peter** · *confirmed* · “It is the Lord,”
 - ¶45 · **Chilo Chilonides** · *named* · “Lord, I see Urban over there, not far from the old man, and with him is a maiden.”
+
+## Chapter XXI — Lygia
+
+- ¶1 · **Narrator** · *confirmed* · “Fortuna”
+- ¶3 · **Chilo Chilonides** · *tag* · “Let us go out before the gate, lord, we have not removed our hoods, and people look at us.”
+- ¶5 · **Chilo Chilonides** · *tag* · “Let us follow them,”
+- ¶5 · **Chilo Chilonides** · *tag* · “we shall see to what house they go. To-morrow, or rather to-day, thou wilt surround the entrance…
+- ¶6 · **Marcus Vinicius** · *tag* · “No!”
+- ¶7 · **Chilo Chilonides** · *inferred* · “What dost thou wish to do, lord?”
+- ¶8 · **Marcus Vinicius** · *inferred* · “We will follow her to the house and take her now, if thou wilt undertake that task, Croton?”
+- ¶9 · **Chilo Chilonides** · *inferred* · “I will,”
+- ¶9 · **Chilo Chilonides** · *inferred* · “and I will give myself to thee as a slave if I do not break the back of that bison who is guardi…
+- ¶12 · **Marcus Vinicius** · *inferred* · “Lord, command that old goat to be silent,”
+- ¶12 · **Marcus Vinicius** · *inferred* · “or let me drop my fist on his head. Once in Buxentum, whither Lucius Saturnius took me to a play…
+- ¶13 · **Marcus Vinicius** · *named* · “Thus let it be, by Hercules! To-morrow we may not find her at home; if we surprise them they wil…
+- ¶14 · **Chilo Chilonides** · *tag* · “This Lygian seems tremendously strong!”
+- ¶15 · **Marcus Vinicius** · *inferred* · “No one will ask thee to hold his hands,”
+- ¶17 · **Chilo Chilonides** · *tag* · “Yes, lord,”
+- ¶17 · **Chilo Chilonides** · *tag* · “thy maiden is under powerful protection. That is the Great Apostle with her, for see how passing…
+- ¶22 · **Marcus Vinicius** · *inferred* · “Thou hast it; be silent!”
+- ¶24 · **Chilo Chilonides** · *inferred* · “My whole hope is in this,”
+- ¶24 · **Chilo Chilonides** · *inferred* · “that Hercules or Theseus performed deeds still more arduous; what is my personal, nearest friend…
+- ¶25 · **Marcus Vinicius** · *inferred* · “I should rather carry a sheep which died of mange a month ago,”
+- ¶25 · **Marcus Vinicius** · *inferred* · “but give that purse, bestowed by the worthy tribune, and I will bear thee to the gate.”
+- ¶26 · **Chilo Chilonides** · *tag* · “Mayst thou knock the great toe from thy foot,”
+- ¶26 · **Chilo Chilonides** · *tag* · “what profit hast thou from the teachings of that worthy old man, who described poverty and chari…
+- ¶27 · **Marcus Vinicius** · *inferred* · “Never fear!”
+- ¶27 · **Marcus Vinicius** · *inferred* · “I shall not be a Christian! I have no wish to lose my bread.”
+- ¶28 · **Chilo Chilonides** · *inferred* · “But if thou knew even the rudiments of philosophy, thou wouldst know that gold is vanity.”
+- ¶29 · **Marcus Vinicius** · *inferred* · “Come to me with thy philosophy. I will give thee one blow of my head in the stomach; we shall se…
+- ¶30 · **Chilo Chilonides** · *tag* · “An ox might have said the same to Aristotle,”
+- ¶32 · **Chilo Chilonides** · *tag* · “Lord,”
+- ¶32 · **Chilo Chilonides** · *tag* · “I should offend thee were I to foresee the end of thy bounty, but now, when thou hast paid me, I…
+- ¶33 · **Marcus Vinicius** · *inferred* · “I have a blow of the fist to be struck between the shoulders, which means that thou wilt perish,”
+- ¶34 · **Chilo Chilonides** · *tag* · “I have a cask of Cephalonian wine, which means that I shall be well,”
+- ¶40 · **Marcus Vinicius** · *tag* · “Go, Chilo,”
+- ¶40 · **Marcus Vinicius** · *tag* · “and see if this house fronts on another street.”
+- ¶41 · **Chilo Chilonides** · *inferred* · “No,”
+- ¶41 · **Chilo Chilonides** · *inferred* · “there is but one entrance.”
+- ¶42 · **Chilo Chilonides** · *pronoun* · “I implore thee, lord, by Jupiter, Apollo, Vesta, Cybele, Isis, Osiris, Mithra Baal, and all the …
+- ¶44 · **Chilo Chilonides** · *inferred* · “I will go in first,”
+- ¶45 · **Marcus Vinicius** · *tag* · “Thou wilt follow me,”
+
+## Chapter XXII — Ursus and Croton
+
+- ¶4 · **Narrator (minor speaker)** · *inferred* · “What shall we do, lord?”
+- ¶5 · **Marcus Vinicius** · *tag* · “Let us wait here; some one may appear,”
+- ¶5 · **Marcus Vinicius** · *tag* · “We should not be seen in the yard.”
+- ¶8 · **Marcus Vinicius** · *tag* · “That is the Lygian!”
+- ¶9 · **Narrator (minor speaker)** · *inferred* · “Am I to break his bones now?”
+- ¶10 · **Marcus Vinicius** · *inferred* · “Wait awhile!”
+- ¶14 · **Narrator (minor speaker)** · *inferred* · “What do ye want here?”
+- ¶15 · **Marcus Vinicius** · *tag* · “Thee!”
+- ¶17 · **Narrator (minor speaker)** · *inferred* · “Kill!”
+- ¶22 · **Marcus Vinicius** · *inferred* · “Death!”
+- ¶23 · **Lygia** · *confirmed* · “Kill not!”
+- ¶24 · **Chilo Chilonides** · *confirmed* · “If it go hard with him, Vinicius can carry the girl, and Croton clear the way.”
+- ¶25 · **Narrator (minor speaker)** · *inferred* · “If they do not hit upon her hiding-place, and make an uproar, they will frighten her.”
+- ¶27 · **Marcus Vinicius** · *inferred* · “Whatever they do,”
+- ¶27 · **Marcus Vinicius** · *inferred* · “they will work for me, though no one divines that. O gods! O gods! only permit me-”
+- ¶30 · **Narrator (minor speaker)** · *inferred* · “That is Vinicius, or Croton,”
+- ¶30 · **Narrator (minor speaker)** · *inferred* · “but if they have taken the girl, why does she not scream, and why are they looking out to the st…
+- ¶34 · **Marcus Vinicius** · *inferred* · “I am lost if he sees me!”
+- ¶36 · **Narrator (minor speaker)** · *inferred* · “If he sees me from a distance when he is returning, he will catch and kill me,”
+- ¶36 · **Narrator (minor speaker)** · *inferred* · “Save me, Zeus; save me, Apollo; save me, Hermes; save me, O God of the Christians! I will leave …
+- ¶39 · **Marcus Vinicius** · *inferred* · “I am old, and need calm,”
+- ¶41 · **Narrator (minor speaker)** · *inferred* · “I may see Croton’s body somewhere,”
+- ¶41 · **Narrator (minor speaker)** · *inferred* · “O gods! that Lygian, if he is a man, might make millions of sestertia in the course of one year;…
+- ¶42 · **Chilo Chilonides** · *confirmed* · “Woe is me! Who took him to that house if not I? His freedmen and his slaves know that I came to …
+- ¶47 · **Narrator (minor speaker)** · *inferred* · “If that Lygian dragon has not torn him to pieces at the first attack, he is alive, and if he is …
+- ¶55 · **Chilo Chilonides** · *confirmed* · “Syra--I am not at home--I don’t know that--good man-”
+- ¶56 · **Narrator (minor speaker)** · *confirmed* · “I told him that thou wert at home, but asleep, lord,”
+- ¶56 · **Narrator (minor speaker)** · *confirmed* · “he asked to rouse thee.”
+- ¶57 · **Chilo Chilonides** · *confirmed* · “O gods! I will command that thou--”
+- ¶59 · **Ursus** · *confirmed* · “O Chilo Chilonides!”
+- ¶60 · **Chilo Chilonides** · *tag* · “Pax tecum! pax! pax!”
+- ¶60 · **Chilo Chilonides** · *tag* · “O best of Christians! Yes, I am Chilo; but this is a mistake,--I do not know thee!”
+- ¶61 · **Ursus** · *tag* · “Chilo Chilonides,”
+- ¶61 · **Ursus** · *tag* · “thy lord, Vinicius, summons thee to go with me to him.”
+
+## Chapter XXIII — The House in the Trans-Tiber
+
+- ¶1 · **Marcus Vinicius** · *named* · “Kill me!”
+- ¶1 · **Marcus Vinicius** · *named* · “Glaucus, art thou certain that the wound in the head is not mortal?”
+- ¶2 · **Narrator (minor speaker)** · *tag* · “Yes, worthy Crispus,”
+- ¶2 · **Narrator (minor speaker)** · *tag* · “While serving in the fleet as a slave, and afterward while living at Naples, I cured many wounds…
+- ¶3 · **Crispus** · *tag* · “Thou hast had more than one of the brotherhood in thy care,”
+- ¶3 · **Crispus** · *tag* · “and hast the repute of a skilful physician; therefore I sent Ursus to bring thee.”
+- ¶4 · **Narrator (minor speaker)** · *inferred* · “Ursus, who on the road confessed that yesterday he was ready to kill me!”
+- ¶5 · **Crispus** · *inferred* · “He confessed his intention earlier to me than to thee; but I, who know thee and thy love for Chr…
+- ¶6 · **Ursus** · *tag* · “That was an evil spirit, but I took him for an angel,”
+- ¶7 · **Crispus** · *inferred* · “Some other time thou wilt tell me, but now we must think of this wounded man.”
+- ¶8 · **Marcus Vinicius** · *confirmed* · “Lygia!”
+- ¶10 · **Crispus** · *inferred* · “Peace be with thee!”
+- ¶13 · **Ursus** · *inferred* · “Lygia,”
+- ¶13 · **Ursus** · *inferred* · “thou didst not permit my death.”
+- ¶14 · **Crispus** · *inferred* · “May God return health to thee,”
+- ¶17 · **Ursus** · *inferred* · “Give me another drink,”
+- ¶19 · **Crispus** · *inferred* · “God has not permitted thee, Vinicius, to accomplish an evil deed, and has preserved thee in life…
+- ¶20 · **Ursus** · *inferred* · “Do ye wish to leave me? inquired Vinicius.
+- ¶21 · **Crispus** · *inferred* · “We wish to leave this house, in which prosecution by the prefect of the city may reach us. Thy c…
+- ¶22 · **Marcus Vinicius** · *tag* · “Have no fear of prosecution,”
+- ¶22 · **Marcus Vinicius** · *tag* · “I will protect you.”
+- ¶24 · **Crispus** · *inferred* · “Lord,”
+- ¶24 · **Crispus** · *inferred* · “thy right arm is well. Here are tablets and a stilus; write to thy servants to bring a litter th…
+- ¶27 · **Marcus Vinicius** · *inferred* · “Listen to me, Christians. Yesterday I was with you in Ostrianum, and I heard your teaching; but …
+- ¶28 · **Crispus** · *tag* · “We will use no force against thee, lord; we will only take away our own heads.”
+- ¶29 · **Marcus Vinicius** · *inferred* · “Permit me to recover breath”
+- ¶29 · **Marcus Vinicius** · *inferred* · “Of Croton, whom Ursus killed, no one will inquire. He had to go to-day to Beneventum, whither he…
+- ¶30 · **Crispus** · *tag* · “Then Glaucus will remain with thee,”
+- ¶30 · **Crispus** · *tag* · “and the widow will nurse thee.”
+- ¶31 · **Marcus Vinicius** · *tag* · “Consider, old man, what I say,”
+- ¶31 · **Marcus Vinicius** · *tag* · “I owe thee gratitude, and thou seemest good and honest; but thou dost not tell me what thou hast…
+- ¶32 · **Crispus** · *tag* · “It is,”
+- ¶33 · **Marcus Vinicius** · *inferred* · “Then remember this, I shall speak before all to Chilo, and write a letter home that I have gone …
+- ¶35 · **Crispus** · *inferred* · “Hast thou thought that I would deny that I wish to stay here to see her? A fool would have divin…
+- ¶37 · **Lygia** · *confirmed* · “Let him stay among us, Crispus, and we will stay with him till Christ gives him health.”
+- ¶38 · **Crispus** · *inferred* · “Let it be as thou sayest.”
+
+## Chapter XXIV — Glaucus Forgives
+
+- ¶3 · **Crispus** · *tag* · “I give a tablet, for this man is suspicious and cunning. Frequently when summoned by me, he gave…
+- ¶4 · **Ursus** · *tag* · “If I find him, I will bring him, willing or unwilling,”
+- ¶7 · **Crispus** · *inferred* · “And then Vinicius will protect me in case of need,”
+- ¶7 · **Crispus** · *inferred* · “of course he does not send to deliver me to death.”
+- ¶8 · **Chilo Chilonides** · *confirmed* · “My good man, has not my friend the noble Vinicius sent a litter? My feet are swollen; I cannot w…
+- ¶9 · **Ursus** · *tag* · “He has not,”
+- ¶9 · **Ursus** · *tag* · “we shall go on foot.”
+- ¶10 · **Crispus** · *inferred* · “But if I refuse?”
+- ¶11 · **Ursus** · *inferred* · “Do not, for thou wilt have to go.”
+- ¶12 · **Crispus** · *inferred* · “And I will go, but of my own will. No one could force me, for I am a free man, and a friend of t…
+- ¶14 · **Ursus** · *inferred* · “Where wilt thou take me?”
+- ¶15 · **Crispus** · *inferred* · “To the Trans-Tiber.”
+- ¶16 · **Ursus** · *inferred* · “I am not long in Rome, and I have never been there, but there too, of course, live men who love …
+- ¶17 · **Ursus** · *named* · “Speak no untruth, old man, for to-day thou wert with Vinicius in Ostrianum and under our gate.”
+- ¶18 · **Chilo Chilonides** · *tag* · “Ah!”
+- ¶18 · **Chilo Chilonides** · *tag* · “then is your house in the Trans-Tiber? I have not been long in Rome, and know not how the differ…
+- ¶19 · **Ursus** · *tag* · “That is true,”
+- ¶21 · **Chilo Chilonides** · *inferred* · “Vinicius is a powerful lord,”
+- ¶21 · **Chilo Chilonides** · *inferred* · “and a friend of Cæsar. He listens often yet to the whisperings of the evil spirit; but if even a…
+- ¶22 · **Ursus** · *inferred* · “A higher power is protecting us.”
+- ¶23 · **Chilo Chilonides** · *tag* · “Surely, surely! But what do ye intend to do with Vinicius?”
+- ¶24 · **Ursus** · *inferred* · “I know not. Christ commands mercy.”
+- ¶25 · **Chilo Chilonides** · *inferred* · “Thou hast answered excellently. Think of this always, or thou wilt fry in hell like a sausage in…
+- ¶26 · **Ursus** · *tag* · “How did ye treat Croton? Speak, and do not prevaricate.”
+- ¶27 · **Ursus** · *tag* · “Vinicius will tell thee.”
+- ¶28 · **Chilo Chilonides** · *inferred* · “That means that thou didst stab him with a knife, or kill him with a club.”
+- ¶29 · **Ursus** · *inferred* · “I was without arms.”
+- ¶31 · **Chilo Chilonides** · *inferred* · “May Pluto--that is to say, may Christ pardon thee!”
+- ¶33 · **Ursus** · *inferred* · “I will not betray thee; but have a care of the watches.”
+- ¶34 · **Chilo Chilonides** · *inferred* · “I fear Christ, not the watches.”
+- ¶35 · **Ursus** · *inferred* · “And that is proper. There is no more grievous crime than murder. I will pray for thee; but I kno…
+- ¶36 · **Ursus** · *tag* · “As it is, I have not killed purposely,”
+- ¶38 · **Chilo Chilonides** · *inferred* · “It is small consolation to me,”
+- ¶38 · **Chilo Chilonides** · *inferred* · “if he kills me unwillingly. I prefer in every case that paralysis should strike him, and with hi…
+- ¶39 · **Chilo Chilonides** · *pronoun* · “Let me draw breath, or I shall not be able to speak with Vinicius and give him saving advice.”
+- ¶42 · **Chilo Chilonides** · *tag* · “What is that?”
+- ¶43 · **Ursus** · *tag* · “Thou sayest that thou art a Christian, and knowest not that among us it is the custom after ever…
+- ¶43 · **Ursus** · *tag* · “Miriam and her son must have returned, and perhaps the Apostle is with them, for he visits the w…
+- ¶44 · **Chilo Chilonides** · *inferred* · “Conduct me directly to Vinicius.”
+- ¶45 · **Ursus** · *inferred* · “Vinicius is in the same room with all, for that is the only large one; the others are very small…
+- ¶47 · **Chilo Chilonides** · *inferred* · “Oh, lord, why didst thou not listen to my counsels?”
+- ¶48 · **Marcus Vinicius** · *tag* · “Silence!”
+- ¶48 · **Marcus Vinicius** · *tag* · “and listen!”
+- ¶50 · **Chilo Chilonides** · *inferred* · “Croton threw himself on me to kill and rob me, dost understand? I killed him then, and these peo…
+- ¶51 · **Chilo Chilonides** · *pronoun* · “That was a faith-breaking ruffian! But I warned thee, lord, not to trust him; my teachings bound…
+- ¶53 · **Marcus Vinicius** · *tag* · “Were it not for the ‘sica,’ which I brought, he would have slain me,”
+- ¶54 · **Chilo Chilonides** · *inferred* · “I bless the moment in which I advised thee to take a knife even.”
+- ¶55 · **Marcus Vinicius** · *named* · “What hast thou done to-day?”
+- ¶56 · **Chilo Chilonides** · *inferred* · “How? What! have I not told thee, lord, that I made a vow for thy health?”
+- ¶57 · **Marcus Vinicius** · *inferred* · “Nothing more?”
+- ¶58 · **Chilo Chilonides** · *inferred* · “I was just preparing to visit thee, when this good man came and said that thou hadst sent for me.”
+- ¶59 · **Marcus Vinicius** · *inferred* · “Here is a tablet. Thou wilt go with it to my house; thou wilt find my freedman and give it to hi…
+- ¶59 · **Marcus Vinicius** · *inferred* · “I have gone to Beneventum, dost understand?”
+- ¶60 · **Chilo Chilonides** · *inferred* · “Thou has gone, lord. This morning I took leave of thee at the Porta Capena, and from the time of…
+- ¶62 · **Marcus Vinicius** · *inferred* · “Therefore I will write that thy tears be wiped away. Give me the candle.”
+- ¶63 · **Chilo Chilonides** · *inferred* · “Dost thou not recognize me, Cephas?”
+- ¶64 · **Chilo Chilonides** · *pronoun* · “I am not he--I am not he! Mercy!”
+- ¶65 · **Narrator (minor speaker)** · *named* · “This is the man who betrayed--who ruined me and my family!”
+- ¶66 · **Narrator (minor speaker)** · *confirmed* · “This is the man who persuaded me to kill Glaucus!”
+- ¶67 · **Chilo Chilonides** · *tag* · “Mercy!”
+- ¶67 · **Chilo Chilonides** · *tag* · “I will give you--O lord!”
+- ¶67 · **Chilo Chilonides** · *tag* · “save me! I trusted in thee, take my part. Thy letter--I will deliver it. O lord, lord!”
+- ¶68 · **Marcus Vinicius** · *named* · “Bury him in the garden; some one else will take the letter.”
+- ¶70 · **Chilo Chilonides** · *inferred* · “By your God, pity!”
+- ¶70 · **Chilo Chilonides** · *inferred* · “I am a Christian! Pax vobiscum! I am a Christian; and if ye do not believe me, baptize me again,…
+- ¶72 · **Marcus Vinicius** · *inferred* · “The Saviour said this to us: ‘If thy brother has sinned against thee, chastise him; but if he is…
+- ¶73 · **Narrator (minor speaker)** · *pronoun* · “Cephas, may God forgive thy offences, as I forgive them in the name of Christ.”
+- ¶75 · **Marcus Vinicius** · *inferred* · “May the Saviour be merciful to thee as I forgive thee.”
+- ¶77 · **Peter** · *tag* · “Depart in peace!”
+- ¶79 · **Marcus Vinicius** · *inferred* · “Give the letter, lord,--give the letter!”
+- ¶81 · **Chilo Chilonides** · *named* · “Urban--in Christ’s name”
+- ¶82 · **Narrator (minor speaker)** · *confirmed* · “Fear not. The Apostle commanded me to lead thee out beyond the gate, lest thou might go astray i…
+- ¶83 · **Chilo Chilonides** · *tag* · “What dost thou say?”
+- ¶83 · **Chilo Chilonides** · *tag* · “What? Thou wilt not kill me?”
+- ¶84 · **Marcus Vinicius** · *inferred* · “No, I will not; and if I seized thee too roughly and harmed a bone in thee, pardon me.”
+- ¶85 · **Chilo Chilonides** · *tag* · “Help me to rise,”
+- ¶85 · **Chilo Chilonides** · *tag* · “Thou wilt not kill me? Thou wilt not? Take me to the Street; I will go farther alone.”
+- ¶86 · **Chilo Chilonides** · *tag* · “It is all over with me!”
+- ¶86 · **Chilo Chilonides** · *tag* · “I can go on alone.”
+- ¶87 · **Marcus Vinicius** · *inferred* · “Peace be with thee.”
+- ¶88 · **Chilo Chilonides** · *inferred* · “And with thee! and with thee! Let me draw breath.”
+- ¶90 · **Marcus Vinicius** · *inferred* · “But why did they not kill me?”
+
+## Chapter XXV — The Apostle by the Fire
+
+- ¶1 · **Narrator** · *confirmed* · “May God forgive thee, as I forgive thee”
+- ¶2 · **Narrator** · *confirmed* · “king,”
+- ¶2 · **Narrator** · *confirmed* · “In thee Christ has triumphed.”
+- ¶4 · **Marcus Vinicius** · *pronoun* · “Then must thou also forgive me?”
+- ¶5 · **Narrator (minor speaker)** · *inferred* · “We are Christians; it is not permitted us to keep anger in the heart.”
+- ¶6 · **Narrator (minor speaker)** · *inferred* · “Lygia,”
+- ¶6 · **Narrator (minor speaker)** · *inferred* · “whoever thy God is, I honor Him only because He is thine.”
+- ¶7 · **Narrator (minor speaker)** · *inferred* · “Thou wilt honor Him in thy heart when thou lovest Him.”
+- ¶8 · **Marcus Vinicius** · *tag* · “Only because He is thine,”
+- ¶10 · **Chilo Chilonides** · *named* · “Do not do that, lord; she is a priestess, for whom He will take vengeance.”
+- ¶11 · **Marcus Vinicius** · *inferred* · “Do not raise a hand; she belongs to me.”
+- ¶15 · **Narrator (minor speaker)** · *inferred* · “They live only through that name,”
+- ¶16 · **Peter** · *confirmed* · “A company came, and servants of the priest to seize Him. When the Saviour asked whom they were s…
+- ¶17 · **Peter** · *named* · “The night was cold, like this one, but the heart in me was seething; so, drawing a sword to defe…
+- ¶19 · **Marcus Vinicius** · *inferred* · “No matter what happened. I--”
+- ¶22 · **Lygia** · *named* · “Come, I will lead thee!”
+- ¶27 · **Lygia** · *pronoun* · “I am with thee.”
+- ¶28 · **Narrator (minor speaker)** · *inferred* · “I saw thy soul in a dream,”
+
+## Chapter XXVI — Ursus
+
+- ¶2 · **Narrator (minor speaker)** · *inferred* · “Thanks to Mercury that my neck was not broken by him,”
+- ¶2 · **Narrator (minor speaker)** · *inferred* · “By Pollux! if the other Lygians are like this one, the Danubian legions will have heavy work som…
+- ¶3 · **Marcus Vinicius** · *pronoun* · “Hei, slave!”
+- ¶4 · **Ursus** · *named* · “God give thee a good day, lord, and good health; but I am a free man, not a slave.”
+- ¶6 · **Marcus Vinicius** · *confirmed* · “Then thou dost not belong to Aulus?”
+- ¶7 · **Ursus** · *confirmed* · “No, lord, I serve Callina, as I served her mother, of my own will.”
+- ¶8 · **Ursus** · *confirmed* · “With us there are no slaves.”
+- ¶9 · **Marcus Vinicius** · *tag* · “Where is Lygia?”
+- ¶10 · **Narrator (minor speaker)** · *inferred* · “She has gone out, and I am to cook food for thee. She watched over thee the whole night.”
+- ¶11 · **Marcus Vinicius** · *inferred* · “Why didst thou not relieve her?”
+- ¶12 · **Narrator (minor speaker)** · *inferred* · “Because she wished to watch, and it is for me to obey.”
+- ¶13 · **Marcus Vinicius** · *inferred* · “If I had disobeyed her, thou wouldst not be living.”
+- ¶14 · **Narrator (minor speaker)** · *inferred* · “Art thou sorry for not having killed me?”
+- ¶15 · **Marcus Vinicius** · *inferred* · “No, lord. Christ has not commanded us to kill.”
+- ¶16 · **Narrator (minor speaker)** · *inferred* · “But Atacinus and Croton?”
+- ¶17 · **Ursus** · *tag* · “I could not do otherwise,”
+- ¶18 · **Narrator (minor speaker)** · *inferred* · “That was thy fault, lord,”
+- ¶18 · **Narrator (minor speaker)** · *inferred* · “Why didst thou raise thy hand against her, a king’s daughter?”
+- ¶22 · **Ursus** · *inferred* · “We live in the woods,”
+- ¶22 · **Ursus** · *inferred* · “but we have so much land that no man knows where the end is, and there are many people on it. Th…
+- ¶23 · **Marcus Vinicius** · *tag* · “The gods gave Rome dominion over the earth,”
+- ¶24 · **Ursus** · *tag* · “The gods are evil spirits,”
+- ¶24 · **Ursus** · *tag* · “and where there are no Romans, there is no supremacy.”
+- ¶25 · **Ursus** · *pronoun* · “When Cæsar took Callina to the palace, and I thought that harm might meet her, I wanted to go to…
+- ¶26 · **Ursus** · *pronoun* · “Glaucus advises thee, lord, to move even thy sound arm as little as possible; Callina has comman…
+- ¶28 · **Ursus** · *confirmed* · “Li! it would be easier to lead an aurochs out of a snare.”
+- ¶30 · **Ursus** · *inferred* · “Hast thou tried to take such beasts by the horns?”
+- ¶31 · **Ursus** · *tag* · “Till the twentieth winter passed over me, I was afraid,”
+- ¶31 · **Ursus** · *tag* · “but after that it happened.”
+- ¶33 · **Marcus Vinicius** · *inferred* · “I must ask Miriam or Nazarius,”
+- ¶35 · **Ursus** · *inferred* · “I will assist directly,”
+- ¶35 · **Ursus** · *inferred* · “I was just preparing to sleep, but first I will take the place of Ursus.”
+- ¶37 · **Marcus Vinicius** · *pronoun* · “Enough! Go to rest, my divine one.”
+- ¶38 · **Lygia** · *tag* · “Do not address me in that way,”
+- ¶38 · **Lygia** · *tag* · “it is not proper for me to hear such words.”
+- ¶40 · **Marcus Vinicius** · *inferred* · “Lygia,”
+- ¶40 · **Marcus Vinicius** · *inferred* · “I did not know thee hitherto. But I know now that I wished to attain thee by a false way; hence …
+- ¶41 · **Lygia** · *confirmed* · “I should be happy,”
+- ¶41 · **Lygia** · *confirmed* · “could I look at her, even from a distance; but I cannot return to her now.”
+- ¶42 · **Marcus Vinicius** · *tag* · “Why?”
+- ¶43 · **Lygia** · *inferred* · “We Christians know, through Acte, what is done on the Palatine. Hast thou not heard that Cæsar, …
+- ¶44 · **Lygia** · *pronoun* · “I know that Pomponia, too, yearns for me; but we have consolation which others have not.”
+- ¶45 · **Marcus Vinicius** · *tag* · “Yes,”
+- ¶45 · **Marcus Vinicius** · *tag* · “Christ is your consolation, but I do not understand that.”
+- ¶46 · **Lygia** · *inferred* · “Look at us! For us there are no partings, no pains, no sufferings; or if they come they are turn…
+- ¶47 · **Marcus Vinicius** · *inferred* · “I heard those teachings in Ostrianum, and I have seen how ye acted with me and with Chilo; when …
+- ¶48 · **Lygia** · *tag* · “I am,”
+- ¶48 · **Lygia** · *tag* · “One who confesses Christ cannot be unhappy.”
+- ¶49 · **Marcus Vinicius** · *inferred* · “And hast thou no wish to return to Pomponia?”
+- ¶50 · **Lygia** · *inferred* · “I should like, from my whole soul, to return to her; and shall return, if such be God’s will.”
+- ¶51 · **Marcus Vinicius** · *inferred* · “I say to thee, therefore, return; and I swear by my lares that I will not raise a hand against t…
+- ¶52 · **Lygia** · *named* · “No, I cannot expose those near me to danger. Cæsar does not like the Plautiuses. Should I return…
+- ¶53 · **Marcus Vinicius** · *tag* · “True,”
+- ¶53 · **Marcus Vinicius** · *tag* · “that would be possible. He would do so, even to show that his will must be obeyed. It is true th…
+- ¶54 · **Lygia** · *tag* · “Vinicius, wouldst thou see me again on the Palatine?”
+- ¶55 · **Marcus Vinicius** · *pronoun* · “No. Thou art right. I spoke like a fool! No!”
+- ¶58 · **Lygia** · *inferred* · “Dost thou know that thou art happier than I? Thou art in poverty, and in this one chamber, among…
+- ¶62 · **Marcus Vinicius** · *named* · “Come with us.”
+
+## Chapter XXVII — Peter and Paul
+
+- ¶3 · **Marcus Vinicius** · *pronoun* · “Lygia, canst thou endure that he should give thee gifts? Dost thou not know that the Greeks call…
+- ¶4 · **Lygia** · *confirmed* · “I do not know what the Greeks call them; but I know that Nazarius is a Christian and my brother.”
+- ¶5 · **Marcus Vinicius** · *confirmed* · “Pardon me, Lygia. For me thou art the daughter of a king and the adopted child of Plautius.”
+- ¶10 · **Marcus Vinicius** · *confirmed* · “Thou art life!”
+- ¶13 · **Narrator (minor speaker)** · *inferred* · “Go and beg God to forgive thy fault,”
+- ¶13 · **Narrator (minor speaker)** · *inferred* · “Flee before the evil spirit who involved thee bring thee to utter fall, and before thou oppose t…
+- ¶15 · **Narrator (minor speaker)** · *inferred* · “I offer my pain and disappointment to God,”
+- ¶15 · **Narrator (minor speaker)** · *inferred* · “but thou hast deceived the Saviour also, for thou hast gone as it were to a quagmire which has p…
+- ¶19 · **Peter** · *tag* · “Peace to your souls!”
+- ¶22 · **Peter** · *pronoun* · “Crispus, hast thou not heard that our beloved Master was in Cana, at a wedding, and blessed love…
+- ¶23 · **Peter** · *tag* · “Crispus, dost thou think that Christ, who permitted Mary of Magdala to lie at his feet, and who …
+- ¶24 · **Peter** · *confirmed* · “While the eyes of him whom thou lovest are not open to the light of truth, avoid him, lest he br…
+- ¶26 · **Crispus** · *tag* · “I have sinned against mercy,”
+- ¶26 · **Crispus** · *tag* · “but I thought that by admitting to her heart an earthly love she had denied Christ.”
+- ¶27 · **Peter** · *tag* · “I denied Him thrice,”
+- ¶27 · **Peter** · *tag* · “and still He forgave me, and commanded me to feed His sheep.”
+- ¶28 · **Crispus** · *inferred* · “And because,”
+- ¶28 · **Crispus** · *inferred* · “Vinicius is an Augustian.”
+- ¶29 · **Peter** · *tag* · “Christ softened harder hearts than his,”
+- ¶30 · **Paul of Tarsus** · *named* · “I am he who persecuted and hurried servants of Christ to their death; I am he who during the sto…
+
+## Chapter XXVIII — A Letter from Petronius
+
+- ¶1 · **Petronius** · *confirmed* · “Have pity, carissime; imitate not in thy letters the Lacedemonians or Julius Cæsar! Couldst thou…
+- ¶2 · **Petronius** · *confirmed* · “But praise to the gods of the Orient and the Occident that thou hast come out of such hands aliv…
+- ¶3 · **Narrator** · *confirmed* · “insula,”
+- ¶3 · **Narrator** · *confirmed* · “To what end? What shall I gain from it?”
+- ¶5 · **Narrator (minor speaker)** · *inferred* · “It is thy wish that I write more minutely, agreed then; whether I shall be able to do it more cl…
+- ¶6 · **Narrator (minor speaker)** · *inferred* · “Know this, too, that Lygia is like the others. Had she been my sister or my wife, she could not …
+- ¶7 · **Narrator (minor speaker)** · *inferred* · “If I promised to do so, they themselves would feel that the promise was an empty sound of words.…
+- ¶8 · **Narrator (minor speaker)** · *inferred* · “I have written thee that she went away secretly; but when going she left me a cross which she pu…
+- ¶9 · **Narrator (minor speaker)** · *inferred* · “Thou hast written that in my previous letter disquiet and sadness are visible. Sadness there mus…
+- ¶10 · **Narrator (minor speaker)** · *inferred* · “So it is, Caius! but they have changed my soul, and sometimes I feel well for that reason. At ti…
+
+## Chapter XXIX — Eunice
+
+- ¶1 · **Narrator** · *confirmed* · “One must have a Christian soul, too,”
+- ¶7 · **Narrator (minor speaker)** · *inferred* · “Dost know,”
+- ¶7 · **Narrator (minor speaker)** · *inferred* · “that thou hast gray hairs on thy temple?”
+- ¶8 · **Marcus Vinicius** · *tag* · “Perhaps I have,”
+- ¶8 · **Marcus Vinicius** · *tag* · “I should not be astonished were all my hair to grow white soon.”
+- ¶10 · **Narrator (minor speaker)** · *inferred* · “These must be enchantments.”
+- ¶11 · **Marcus Vinicius** · *tag* · “I too have thought so,”
+- ¶11 · **Marcus Vinicius** · *tag* · “more than once it seemed to me that we were enchanted, both of us.”
+- ¶12 · **Petronius** · *tag* · “And if thou,”
+- ¶12 · **Petronius** · *tag* · “were to go, for example, to the priests of Serapis? Among them, as among priests in general, the…
+- ¶14 · **Marcus Vinicius** · *named* · “Enchantments! I have seen sorcerers who employed unknown and subterranean powers to their person…
+- ¶15 · **Petronius** · *pronoun* · “That is a new sect.”
+- ¶15 · **Petronius** · *pronoun* · “By the divine dweller in Paphian groves, how all that injures life! Thou wilt admire the goodnes…
+- ¶16 · **Marcus Vinicius** · *tag* · “I have tried,”
+- ¶17 · **Petronius** · *tag* · “Ah, traitor!”
+- ¶17 · **Petronius** · *tag* · “news spreads quickly through slaves; thou hast seduced from me Chrysothemis!”
+- ¶19 · **Petronius** · *tag* · “In every case I thank thee,”
+- ¶19 · **Petronius** · *tag* · “I will send her a pair of slippers embroidered with pearls. In my language of a lover that means…
+- ¶20 · **Marcus Vinicius** · *inferred* · “Thou hast proclaimed it always; there is nothing new in it.”
+- ¶21 · **Petronius** · *inferred* · “There is substance, which was lacking.”
+- ¶23 · **Petronius** · *named* · “Come.”
+- ¶25 · **Petronius** · *inferred* · “Happy he who, like me, has found love enclosed in such a form! At times it seems to me that we a…
+- ¶26 · **Petronius** · *named* · “But think now, what are thy gloomy Christians in comparison with this? And if thou understand no…
+- ¶28 · **Petronius** · *tag* · “Eunice,”
+- ¶28 · **Petronius** · *tag* · “give command, thou divine one, to prepare garlands for our heads and a meal.”
+- ¶30 · **Marcus Vinicius** · *inferred* · “I offered to make her free, but knowest thou what she answered?--‘I would rather be thy slave th…
+- ¶30 · **Marcus Vinicius** · *inferred* · “Love changes some more, others less, but it has changed even me. Once I loved the odor of verben…
+- ¶31 · **Petronius** · *confirmed* · “But as to thee, dost thou keep always to nard?”
+- ¶32 · **Marcus Vinicius** · *tag* · “Give me peace!”
+- ¶33 · **Petronius** · *inferred* · “I wished thee to see Eunice, and I mentioned her to thee, because thou, perhaps, art seeking als…
+- ¶34 · **Marcus Vinicius** · *tag* · “All is one torment merely,”
+- ¶34 · **Marcus Vinicius** · *tag* · “I saw thee kissing Eunice’s shoulders, and I thought then that if Lygia would lay hers bare to m…
+- ¶35 · **Petronius** · *inferred* · “In that case no injustice is done thee. But I do not understand the position.”
+- ¶36 · **Marcus Vinicius** · *tag* · “True, true!”
+- ¶36 · **Marcus Vinicius** · *tag* · “We understand each other no longer.”
+- ¶38 · **Petronius** · *tag* · “May Hades swallow thy Christians!”
+- ¶38 · **Petronius** · *tag* · “They have filled thee with disquiet, and destroyed thy sense of life. May Hades devour them! Tho…
+- ¶39 · **Marcus Vinicius** · *inferred* · “No, the pay is not the same; but according to their teaching it begins in a future life, which i…
+- ¶40 · **Petronius** · *inferred* · “I do not enter into that question, for we shall see hereafter if it be possible to see anything …
+- ¶41 · **Marcus Vinicius** · *inferred* · “For them life begins with death.”
+- ¶42 · **Petronius** · *inferred* · “Which is as if one were to say, ‘Day begins with night.’ Hast thou the intent to carry off Lygia?”
+- ¶43 · **Marcus Vinicius** · *inferred* · “No, I cannot pay her evil for good, and I swore that I would not.”
+- ¶44 · **Petronius** · *inferred* · “Dost thou intend to accept the religion of Christ?”
+- ¶45 · **Marcus Vinicius** · *inferred* · “I wish to do so, but my nature cannot endure it.”
+- ¶46 · **Petronius** · *inferred* · “But wilt thou be able to forget Lygia?”
+- ¶47 · **Marcus Vinicius** · *inferred* · “No.”
+- ¶48 · **Petronius** · *inferred* · “Then travel.”
+- ¶49 · **Petronius** · *confirmed* · “Thou has ridden over a part of the world, but only as a soldier hastening to his place of destin…
+- ¶50 · **Petronius** · *confirmed* · “What hast thou seen in Corbulo’s service? Nothing. Hast thou seen the Grecian temples thoroughly…
+- ¶51 · **Eunice** · *tag* · “I am thy slave,”
+- ¶52 · **Petronius** · *confirmed* · “Then I am the slave of a slave. I admire thee, divine one, from feet to head!”
+- ¶53 · **Petronius** · *confirmed* · “Come with us to Cyprus. But first remember that thou must see Cæsar. It is bad that thou hast no…
+- ¶54 · **Marcus Vinicius** · *tag* · “Dost thou know,”
+- ¶54 · **Marcus Vinicius** · *tag* · “that there are people who have no fear of Cæsar, and who live as calmly as if he were non-existe…
+- ¶55 · **Petronius** · *confirmed* · “I know whom thou hast in mind--the Christians.”
+- ¶56 · **Marcus Vinicius** · *inferred* · “Yes; they alone. But our life,--what is it if not unbroken terror?”
+- ¶57 · **Petronius** · *confirmed* · “Do not mention thy Christians. They fear not Cæsar, because he has not even heard of them perhap…
+- ¶58 · **Petronius** · *tag* · “We shall be able to live and die!”
+
+## Chapter XXX — Nero
+
+- ¶2 · **Narrator (minor speaker)** · *inferred* · “Yes, there was need to defer the journey. Egypt, and predicted dominion over the Orient, cannot …
+- ¶3 · **Petronius** · *tag* · “With thy verses thou hast reared a monument to thyself already, not seven, but thrice seven, tim…
+- ¶4 · **Nero** · *tag* · “But with my song?”
+- ¶5 · **Petronius** · *inferred* · “Ah! if men could only build for thee a statue, like that of Memnon, to call with thy voice at su…
+- ¶6 · **Nero** · *tag* · “Alas! who can do that?”
+- ¶7 · **Petronius** · *inferred* · “But thou canst give command to cut out of basalt thyself driving a quadriga.”
+- ¶8 · **Nero** · *inferred* · “True! I will do that!”
+- ¶9 · **Petronius** · *inferred* · “Thou wilt bestow a gift on humanity.”
+- ¶10 · **Nero** · *inferred* · “In Egypt I will marry the Moon, who is now a widow, and I shall be a god really.”
+- ¶11 · **Petronius** · *inferred* · “And thou wilt give us stars for wives; we will make a new constellation, which will be called th…
+- ¶12 · **Narrator (minor speaker)** · *tag* · “And what dost thou predestine to me?”
+- ¶13 · **Petronius** · *inferred* · “Apis bless thee! Thou didst arrange such splendid games in Beneventum that I cannot wish thee il…
+- ¶14 · **Nero** · *tag* · “Thy mortal eyes saw nothing, for the deity becomes invisible to whomever it wishes,”
+- ¶14 · **Nero** · *tag* · “Know that when I was in the temple of Vesta she herself stood near me, and whispered in my ear, …
+- ¶15 · **Tigellinus** · *tag* · “We were all terrified,”
+- ¶15 · **Tigellinus** · *tag* · “and the vestal Rubria fainted.”
+- ¶16 · **Nero** · *tag* · “Rubria!”
+- ¶16 · **Nero** · *tag* · “what a snowy neck she has!”
+- ¶17 · **Tigellinus** · *inferred* · “But she blushed at sight of the divine Cæsar--”
+- ¶18 · **Nero** · *inferred* · “True! I noticed that myself. That is wonderful. There is something divine in every vestal, and R…
+- ¶19 · **Tigellinus** · *inferred* · “Tell me,”
+- ¶19 · **Tigellinus** · *inferred* · “why people fear Vesta more than other gods. What does this mean? Though I am the chief priest, f…
+- ¶20 · **Marcus Vinicius** · *tag* · “I,”
+- ¶21 · **Tigellinus** · *inferred* · “Oh, thou ‘stern Mars’! Why wert thou not in Beneventum? They told me that thou wert ill, and ind…
+- ¶22 · **Marcus Vinicius** · *inferred* · “It is, and he broke my arm; but I defended myself.”
+- ¶23 · **Tigellinus** · *inferred* · “With a broken arm?”
+- ¶24 · **Marcus Vinicius** · *inferred* · “A certain barbarian helped me; he was stronger than Croton.”
+- ¶25 · **Nero** · *named* · “Stronger than Croton? Art thou jesting? Croton was the strongest of men, but now here is Syphax …
+- ¶26 · **Marcus Vinicius** · *inferred* · “I tell thee, Cæsar, what I saw with my own eyes.”
+- ¶27 · **Tigellinus** · *inferred* · “Where is that pearl? Has he not become king of Nemi?”
+- ¶28 · **Marcus Vinicius** · *inferred* · “I cannot tell, Cæsar. I lost sight of him.”
+- ¶29 · **Tigellinus** · *inferred* · “Thou knowest not even of what people he is?”
+- ¶30 · **Marcus Vinicius** · *inferred* · “I had a broken arm, and could not inquire for him.”
+- ¶31 · **Tigellinus** · *inferred* · “Seek him, and find him for me.”
+- ¶32 · **Tigellinus** · *tag* · “I will occupy myself with that,”
+- ¶33 · **Nero** · *named* · “I thank thee for having supported me; I might have broken my head by a fall. On a time thou wert…
+- ¶34 · **Tigellinus** · *inferred* · “How is that maiden too narrow in the hips, with whom thou wert in love,”
+- ¶34 · **Tigellinus** · *inferred* · “and whom I took from Aulus for thee?”
+- ¶35 · **Marcus Vinicius** · *named* · “I will lay a wager, lord,”
+- ¶35 · **Marcus Vinicius** · *named* · “that he has forgotten. Dost thou see his confusion? Ask him how many of them there were since th…
+- ¶36 · **Tigellinus** · *inferred* · “I will not do that. I trust, Tigellinus, that flocks of beauty will not be lacking there.”
+- ¶37 · **Tigellinus** · *tag* · “Could the Graces be absent where Amor will be present?”
+- ¶38 · **Nero** · *tag* · “Weariness tortures me,”
+- ¶38 · **Nero** · *tag* · “I have remained in Rome at the will of the goddess, but I cannot endure the city. I will go to A…
+- ¶39 · **Tigellinus** · *tag* · “Cæsar,”
+- ¶39 · **Tigellinus** · *tag* · “thou sayest, ‘If some angry god would destroy the city,’--is it so?”
+- ¶40 · **Nero** · *inferred* · “It is! What then?”
+- ¶41 · **Tigellinus** · *inferred* · “But art thou not a god?”
+- ¶42 · **Nero** · *named* · “We shall see thy work on the pond of Agrippa. Afterward I go to Antium. Ye are all little, hence…
+- ¶43 · **Petronius** · *named* · “Thou art invited, then, to share in the amusement. Bronzebeard has renounced the journey, but he…
+- ¶44 · **Nero** · *inferred* · “I wonder only that all this does not torture thee yet?”
+- ¶45 · **Tigellinus** · *inferred* · “Who has told thee that it does not? It tortures me this long time, but I am not of thy years. Be…
+- ¶47 · **Nero** · *inferred* · “I should need luck to find such a one.”
+- ¶48 · **Tigellinus** · *inferred* · “And who did this for thee, if not the Christians? But people whose standard is a cross cannot be…
+- ¶49 · **Marcus Vinicius** · *tag* · “Thou art afraid, it seems, lest I become a Christian,”
+- ¶50 · **Tigellinus** · *inferred* · “I am afraid that thou hast spoiled life for thyself. If thou canst not be a Grecian, be a Roman;…

@@ -1,0 +1,770 @@
+{
+ "work": "quo-vadis",
+ "episode": 26,
+ "chapter": 26,
+ "title": "Ursus",
+ "document": "PART THREE · CHAPTER XXVI",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch26.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Ursus",
+   "cast_as": "Spartacus"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXVI"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "lygia",
+    "at": "NEXT morning he woke up weak, but with a cool head and free ",
+    "xfade": 6
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "NEXT morning he woke up weak, but with a cool head and free of fever. It\nseemed to him that a whispered conversation had roused him; but when\nhe opened his eyes, Lygia was not there. Ursus, stooping before the\nchimney, was raking apart the gray ashes, and seeking live coals beneath\nthem. When he found some, he began to blow, not with his mouth, but as\nit were with the bellows of a blacksmith. Vinicius, remembering how that\nman had crushed Croton the day before, examined with attention befitting\na lover of the arena his gigantic back, which resembled the back of a\nCyclops, and his limbs strong as columns."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thanks to Mercury that my neck was not broken by him,” thought\nVinicius. “By Pollux! if the other Lygians are like this one, the\nDanubian legions will have heavy work some time!”"
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But aloud he said,"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Hei, slave!”"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Ursus drew his head out of the chimney, and, smiling in a manner almost\nfriendly, said,--"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“God give thee a good day, lord, and good health; but I\nam a free man, not a slave.”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "On Vinicius who wished to question Ursus touching Lygia’s birthplace,\nthese words produced a certain pleasant impression; for discourse with\na free though a common man was less disagreeable to his Roman and\npatrician pride, than with a slave, in whom neither law nor custom\nrecognized human nature."
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Then thou dost not belong to Aulus?”"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked he."
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“No, lord, I serve Callina, as I served her mother, of my own will.”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here he hid his head again in the chimney, to blow the coals, on which\nhe had placed some wood. When he had finished, he took it out and\nsaid,--"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“With us there are no slaves.”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Where is Lygia?”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Vinicius."
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“She has gone out, and I am to cook food for thee. She watched over thee\nthe whole night.”"
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Why didst thou not relieve her?”"
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Because she wished to watch, and it is for me to obey.” Here his eyes\ngrew gloomy, and after a while he added:"
+  },
+  {
+   "n": 19,
+   "para": 13,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“If I had disobeyed her, thou wouldst not be living.”"
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Art thou sorry for not having killed me?”"
+  },
+  {
+   "n": 21,
+   "para": 15,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“No, lord. Christ has not commanded us to kill.”"
+  },
+  {
+   "n": 22,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“But Atacinus and Croton?”"
+  },
+  {
+   "n": 23,
+   "para": 17,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“I could not do otherwise,”"
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "muttered Ursus. And he looked with regret\non his hands, which had remained pagan evidently, though his soul\nhad accepted the cross. Then he put a pot on the crane, and fixed his\nthoughtful eyes on the fire."
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“That was thy fault, lord,” said he at last. “Why didst thou raise thy\nhand against her, a king’s daughter?”"
+  },
+  {
+   "n": 26,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Pride boiled up, at the first moment, in Vinicius, because a common man\nand a barbarian had not merely dared to speak to him thus familiarly,\nbut to blame him in addition. To those uncommon and improbable things\nwhich had met him since yesterday, was added another. But being weak and\nwithout his slaves, he restrained himself, especially since a wish to\nlearn some details of Lygia’s life gained the upper hand in him."
+  },
+  {
+   "n": 27,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When he had calmed himself, therefore, he inquired about the war of the\nLygians against Vannius and the Suevi. Ursus was glad to converse, but\ncould not add much that was new to what in his time Aulus Plautius had\ntold. Ursus had not been in battle, for he had attended the hostages to\nthe camp of Atelius Hister. He knew only that the Lygians had beaten the\nSuevi and the Yazygi, but that their leader and king had fallen from\nthe arrows of the Yazygi. Immediately after they received news that the\nSemnones had set fire to forests on their boundaries, they returned in\nhaste to avenge the wrong, and the hostages remained with Atelius, who\nordered at first to give them kingly honors. Afterward Lygia’s mother\ndied. The Roman commander knew not what to do with the child. Ursus\nwished to return with her to their own country, but the road was unsafe\nbecause of wild beasts and wild tribes. When news came that an\nembassy of Lygians had visited Pomponius, offering him aid against the\nMarcomani, Hister sent him with Lygia to Pomponius. When they came to\nhim they learned, however, that no ambassadors had been there, and in\nthat way they remained in the camp; whence Pomponius took them to Rome,\nand at the conclusion of his triumph he gave the king’s daughter to\nPomponia Græcina."
+  },
+  {
+   "n": 28,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Though only certain small details of this narrative had been unknown to\nVinicius, he listened with pleasure, for his enormous pride of family\nwas pleased that an eye-witness had confirmed Lygia’s royal descent. As\na king’s daughter she might occupy a position at Cæsar’s court equal to\nthe daughters of the very first families, all the more since the nation\nwhose ruler her father had been, had not warred with Rome so far, and,\nthough barbarian, it might become terrible; for, according to Atelius\nHister himself, it possessed an immense force of warriors. Ursus,\nmoreover, confirmed this completely."
+  },
+  {
+   "n": 29,
+   "para": 22,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“We live in the woods,”"
+  },
+  {
+   "n": 30,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, in answer to Vinicius,"
+  },
+  {
+   "n": 31,
+   "para": 22,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“but we have so\nmuch land that no man knows where the end is, and there are many people\non it. There are also wooden towns in the forest, in which there is\ngreat plenty; for what the Semnones, the Marcomani, the Vandals, and the\nQuadi plunder through the world, we take from them. They dare not come\nto us; but when the wind blows from their side, they burn our forests.\nWe fear neither them nor the Roman Cæsar.”"
+  },
+  {
+   "n": 32,
+   "para": 23,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“The gods gave Rome dominion over the earth,”"
+  },
+  {
+   "n": 33,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius severely."
+  },
+  {
+   "n": 34,
+   "para": 24,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“The gods are evil spirits,”"
+  },
+  {
+   "n": 35,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Ursus, with simplicity,"
+  },
+  {
+   "n": 36,
+   "para": 24,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“and where\nthere are no Romans, there is no supremacy.”"
+  },
+  {
+   "n": 37,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here he fixed the fire, and said, as if to himself,--"
+  },
+  {
+   "n": 38,
+   "para": 25,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“When Cæsar took\nCallina to the palace, and I thought that harm might meet her, I wanted\nto go to the forest and bring Lygians to help the king’s daughter. And\nLygians would have moved toward the Danube, for they are virtuous people\nthough pagan. There I should have given them ‘good tidings.’ But as it\nis, if ever Callina returns to Pomponia Græcina I will bow down to her\nfor permission to go to them; for Christus was born far away, and they\nhave not even heard of Him. He knew better than I where He should be\nborn; but if He had come to the world with us, in the forests, we would\nnot have tortured Him to death, that is certain. We would have taken\ncare of the Child, and guarded Him, so that never should He want for\ngame, mushrooms, beaver-skins, or amber. And what we plundered from the\nSuevi and the Marcomani we would have given Him, so that He might have\ncomfort and plenty.”"
+  },
+  {
+   "n": 39,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Thus speaking, he put near the fire the vessel with food for Vinicius,\nand was silent. His thoughts wandered evidently, for a time yet, through\nthe Lygian wildernesses, till the liquid began to boil; then he poured\nit into a shallow plate, and, cooling it properly, said,--"
+  },
+  {
+   "n": 40,
+   "para": 26,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Glaucus\nadvises thee, lord, to move even thy sound arm as little as possible;\nCallina has commanded me to give thee food.”"
+  },
+  {
+   "n": 41,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia commanded! There was no answer to that. It did not even come to\nVinicius’s head to oppose her will, just as if she had been the daughter\nof Cæsar or a goddess. He uttered not a word, therefore; and Ursus,\nsitting near his bed, took out the liquid with a small cup, and put it\nto his mouth. He did this so carefully, and with such a kindly smile,\nthat Vinicius could not believe his own eyes, could not think him the\nsame terrible Titan who the day before had crushed Croton, and, rushing\non him like a storm, would have torn him to pieces but for Lygia’s pity.\nThe young patrician, for the first time in life, began to ponder over\nthis: What can take place in the breast of a simple man, a barbarian,\nand a servant?"
+  },
+  {
+   "n": 42,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Ursus proved to be a nurse as awkward as painstaking; the cup was\nlost among his herculean fingers so completely that there was no place\nleft for the mouth of the sick man. After a few fruitless efforts the\ngiant was troubled greatly, and said,--"
+  },
+  {
+   "n": 43,
+   "para": 28,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Li! it would be easier to lead\nan aurochs out of a snare.”"
+  },
+  {
+   "n": 44,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The anxiety of the Lygian amused Vinicius, but his remark did not\ninterest him less. He had seen in circuses the terrible urus, brought\nfrom wildernesses of the north, against which the most daring bestiarii\nwent with dread, and which yielded only to elephants in size and\nstrength."
+  },
+  {
+   "n": 45,
+   "para": 30,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Hast thou tried to take such beasts by the horns?”"
+  },
+  {
+   "n": 46,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired he, with\nastonishment."
+  },
+  {
+   "n": 47,
+   "para": 31,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Till the twentieth winter passed over me, I was afraid,”"
+  },
+  {
+   "n": 48,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered\nUrsus;"
+  },
+  {
+   "n": 49,
+   "para": 31,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“but after that it happened.”"
+  },
+  {
+   "n": 50,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he began to feed Vinicius still more awkwardly than before."
+  },
+  {
+   "n": 51,
+   "para": 33,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I must ask Miriam or Nazarius,”"
+  },
+  {
+   "n": 52,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 53,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But now Lygia’s pale face appeared from behind the curtain."
+  },
+  {
+   "n": 54,
+   "para": 35,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“I will assist directly,”"
+  },
+  {
+   "n": 55,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said she. And after a while she came from the\ncubiculum, in which she had been preparing to sleep, as it seemed,\nfor she was in a single close tunic, called by the ancients capitium,\ncovering the breast completely, and her hair was unbound. Vinicius,\nwhose heart beat with more quickness at sight of her, began to upbraid\nher for not thinking of sleep yet; but she answered joyously,--"
+  },
+  {
+   "n": 56,
+   "para": 35,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“I was\njust preparing to sleep, but first I will take the place of Ursus.”"
+  },
+  {
+   "n": 57,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She took the cup, and, sitting on the edge of the bed, began to give\nfood to Vinicius, who felt at once overcome and delighted. When she\ninclined toward him, the warmth of her body struck him, and her unbound\nhair fell on his breast. He grew pale from the impression; but in the\nconfusion and impulse of desires he felt also that that was a head dear\nabove all and magnified above all, in comparison with which the whole\nworld was nothing. At first he had desired her; now he began to love her\nwith a full breast. Before that, as generally in life and in feeling, he\nhad been, like all people of that time, a blind, unconditional egotist,\nwho thought only of himself; at present he began to think of her."
+  },
+  {
+   "n": 58,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After a while, therefore, he refused further nourishment; and though he\nfound inexhaustible delight in her presence and in looking at her, he\nsaid,--"
+  },
+  {
+   "n": 59,
+   "para": 37,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Enough! Go to rest, my divine one.”"
+  },
+  {
+   "n": 60,
+   "para": 38,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Do not address me in that way,”"
+  },
+  {
+   "n": 61,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Lygia;"
+  },
+  {
+   "n": 62,
+   "para": 38,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“it is not proper for\nme to hear such words.”"
+  },
+  {
+   "n": 63,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She smiled at him, however, and said that sleep had fled from her, that\nshe felt no toil, that she would not go to rest till Glaucus came.\nHe listened to her words as to music; his heart rose with increasing\ndelight, increasing gratitude, and his thought was struggling to show\nher that gratitude."
+  },
+  {
+   "n": 64,
+   "para": 40,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Lygia,”"
+  },
+  {
+   "n": 65,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, after a moment of silence,"
+  },
+  {
+   "n": 66,
+   "para": 40,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I did not know thee\nhitherto. But I know now that I wished to attain thee by a false way;\nhence I say, return to Pomponia Græcina, and be assured that in future\nno hand will be raised against thee.”"
+  },
+  {
+   "n": 67,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Her face became sad on a sudden."
+  },
+  {
+   "n": 68,
+   "para": 41,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I should be happy,”"
+  },
+  {
+   "n": 69,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered she,"
+  },
+  {
+   "n": 70,
+   "para": 41,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“could I look at her, even from a distance; but I cannot return to her\nnow.”"
+  },
+  {
+   "n": 71,
+   "para": 42,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Why?”"
+  },
+  {
+   "n": 72,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Vinicius, with astonishment."
+  },
+  {
+   "n": 73,
+   "para": 43,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“We Christians know, through Acte, what is done on the Palatine. Hast\nthou not heard that Cæsar, soon after my flight and before his departure\nfor Naples, summoned Aulus and Pomponia, and, thinking that they had\nhelped me, threatened them with his anger? Fortunately Aulus was able to\nsay to him, ‘Thou knowest, lord, that a lie has never passed my lips;\nI swear to thee now that we did not help her to escape, and we do not\nknow, as thou dost not, what has happened to her.’ Cæsar believed, and\nafterward forgot. By the advice of the elders I have never written to\nmother where I am, so that she might take an oath boldly at all times\nthat she has no knowledge of me. Thou wilt not understand this, perhaps,\nO Vinicius; but it is not permitted us to lie, even in a question\ninvolving life. Such is the religion on which we fashion our hearts;\ntherefore I have not seen Pomponia from the hour when I left her house.\nFrom time to time distant echoes barely reach her that I am alive and\nnot in danger.”"
+  },
+  {
+   "n": 74,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here a longing seized Lygia, and her eyes were moist with tears; but she\ncalmed herself quickly, and said,--"
+  },
+  {
+   "n": 75,
+   "para": 44,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I know that Pomponia, too, yearns\nfor me; but we have consolation which others have not.”"
+  },
+  {
+   "n": 76,
+   "para": 45,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 77,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius,"
+  },
+  {
+   "n": 78,
+   "para": 45,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Christ is your consolation, but I do not\nunderstand that.”"
+  },
+  {
+   "n": 79,
+   "para": 46,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Look at us! For us there are no partings, no pains, no sufferings; or\nif they come they are turned into pleasure. And death itself, which for\nyou is the end of life, is for us merely its beginning,--the exchange of\na lower for a higher happiness, a happiness less calm for one calmer and\neternal. Consider what must a religion be which enjoins on us love even\nfor our enemies, forbids falsehood, purifies our souls from hatred, and\npromises happiness inexhaustible after death.”"
+  },
+  {
+   "n": 80,
+   "para": 47,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I heard those teachings in Ostrianum, and I have seen how ye acted with\nme and with Chilo; when I remember your deeds, they are like a dream,\nand it seems to me that I ought not to believe my ears or eyes. But\nanswer me this question: Art thou happy?”"
+  },
+  {
+   "n": 81,
+   "para": 48,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I am,”"
+  },
+  {
+   "n": 82,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Lygia."
+  },
+  {
+   "n": 83,
+   "para": 48,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“One who confesses Christ cannot be unhappy.”"
+  },
+  {
+   "n": 84,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius looked at her, as though what she said passed every measure of\nhuman understanding."
+  },
+  {
+   "n": 85,
+   "para": 49,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“And hast thou no wish to return to Pomponia?”"
+  },
+  {
+   "n": 86,
+   "para": 50,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I should like, from my whole soul, to return to her; and shall return,\nif such be God’s will.”"
+  },
+  {
+   "n": 87,
+   "para": 51,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I say to thee, therefore, return; and I swear by my lares that I will\nnot raise a hand against thee.”"
+  },
+  {
+   "n": 88,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia thought for a moment, and answered,--"
+  },
+  {
+   "n": 89,
+   "para": 52,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“No, I cannot expose\nthose near me to danger. Cæsar does not like the Plautiuses. Should\nI return--thou knowest how every news is spread throughout Rome by\nslaves--my return would be noised about in the city. Nero would hear of\nit surely through his slaves, and punish Aulus and Pomponia,--at least\ntake me from them a second time.”"
+  },
+  {
+   "n": 90,
+   "para": 53,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“True,”"
+  },
+  {
+   "n": 91,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius, frowning,"
+  },
+  {
+   "n": 92,
+   "para": 53,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“that would be possible. He would\ndo so, even to show that his will must be obeyed. It is true that he\nonly forgot thee, or would remember thee, because the loss was not his,\nbut mine. Perhaps, if he took thee from Aulus and Pomponia, he would\nsend thee to me and I could give thee back to them.”"
+  },
+  {
+   "n": 93,
+   "para": 54,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Vinicius, wouldst thou see me again on the Palatine?”"
+  },
+  {
+   "n": 94,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Lygia."
+  },
+  {
+   "n": 95,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He set his teeth, and answered,--"
+  },
+  {
+   "n": 96,
+   "para": 55,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“No. Thou art right. I spoke like a\nfool! No!”"
+  },
+  {
+   "n": 97,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And all at once he saw before him a precipice, as it were without\nbottom. He was a patrician, a military tribune, a powerful man; but\nabove every power of that world to which he belonged was a madman whose\nwill and malignity it was impossible to foresee. Only such people as the\nChristians might cease to reckon with Nero or fear him,--people for whom\nthis whole world, with its separations and sufferings, was as nothing;\npeople for whom death itself was as nothing. All others had to\ntremble before him. The terrors of the time in which they lived showed\nthemselves to Vinicius in all their monstrous extent. He could not\nreturn Lygia to Aulus and Pomponia, then, through fear that the monster\nwould remember her, and turn on her his anger; for the very same reason,\nif he should take her as wife, he might expose her, himself, and Aulus.\nA moment of ill-humor was enough to ruin all. Vinicius felt, for\nthe first time in life, that either the world must change and be\ntransformed, or life would become impossible altogether. He understood\nalso this, which a moment before had been dark to him, that in such\ntimes only Christians could be happy."
+  },
+  {
+   "n": 98,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But above all, sorrow seized him, for he understood, too, that it was\nhe who had so involved his own life and Lygia’s that out of the\ncomplication there was scarcely an outcome. And under the influence of\nthat sorrow he began to speak:"
+  },
+  {
+   "n": 99,
+   "para": 58,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Dost thou know that thou art happier than I? Thou art in poverty, and\nin this one chamber, among simple people, thou hast thy religion and thy\nChrist; but I have only thee, and when I lacked thee I was like a beggar\nwithout a roof above him and without bread. Thou art dearer to me than\nthe whole world. I sought thee, for I could not live without thee. I\nwished neither feasts nor sleep. Had it not been for the hope of finding\nthee, I should have cast myself on a sword. But I fear death, for if\ndead I could not see thee. I speak the pure truth in saying that I shall\nnot be able to live without thee. I have lived so far only in the hope\nof finding and beholding thee. Dost thou remember our conversations at\nthe house of Aulus? Once thou didst draw a fish for me on the sand, and\nI knew not what its meaning was. Dost thou remember how we played ball?\nI loved thee then above life, and thou hadst begun already to divine\nthat I loved thee. Aulus came, frightened us with Libitina, and\ninterrupted our talk. Pomponia, at parting, told Petronius that God is\none, all-mighty and all-merciful, but it did not even occur to us that\nChrist was thy God and hers. Let Him give thee to me and I will love\nHim, though He seems to me a god of slaves, foreigners, and beggars.\nThou sittest near me, and thinkest of Him only. Think of me too, or I\nshall hate Him. For me thou alone art a divinity. Blessed be thy father\nand mother; blessed the land which produced thee! I should wish to\nembrace thy feet and pray to thee, give thee honor, homage, offerings,\nthou thrice divine! Thou knowest not, or canst not know, how I love\nthee.”"
+  },
+  {
+   "n": 100,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Thus speaking, he placed his hand on his pale forehead and closed his\neyes. His nature never knew bounds in love or anger. He spoke with\nenthusiasm, like a man who, having lost self-control, has no wish to\nobserve any measure in words or feelings. But he spoke from the depth\nof his soul, and sincerely. It was to be felt that the pain, ecstasy,\ndesire, and homage accumulated in his breast had burst forth at last\nin an irresistible torrent of words. To Lygia his words appeared\nblasphemous, but still her heart began to beat as if it would tear the\ntunic enclosing her bosom. She could not resist pity for him and his\nsuffering. She was moved by the homage with which he spoke to her. She\nfelt beloved and deified without bounds; she felt that that unbending\nand dangerous man belonged to her now, soul and body, like a slave;\nand that feeling of his submission and her own power filled her with\nhappiness. Her recollections revived in one moment. He was for her again\nthat splendid Vinicius, beautiful as a pagan god; he, who in the house\nof Aulus had spoken to her of love, and roused as if from sleep her\nheart half childlike at that time; he from whose embraces Ursus had\nwrested her on the Palatine, as he might have wrested her from flames.\nBut at present, with ecstasy, and at the same time with pain in his\neagle face, with pale forehead and imploring eyes,--wounded, broken by\nlove, loving, full of homage and submissive,--he seemed to her such as\nshe would have wished him, and such as she would have loved with her\nwhole soul, therefore dearer than he had ever been before."
+  },
+  {
+   "n": 101,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "All at once she understood that a moment might come in which his love\nwould seize her and bear her away, as a whirlwind; and when she felt\nthis, she had the same impression that he had a moment before,--that she\nwas standing on the edge of a precipice. Was it for this that she had\nleft the house of Aulus? Was it for this that she had saved herself by\nflight? Was it for this that she had hidden so long in wretched parts of\nthe city? Who was that Vinicius? An Augustian, a soldier, a courtier of\nNero! Moreover he took part in his profligacy and madness, as was shown\nby that feast, which she could not forget; and he went with others\nto the temples, and made offerings to vile gods, in whom he did not\nbelieve, perhaps, but still he gave them official honor. Still more he\nhad pursued her to make her his slave and mistress, and at the same time\nto thrust her into that terrible world of excess, luxury, crime, and\ndishonor which calls for the anger and vengeance of God. He seemed\nchanged, it is true, but still he had just said to her that if she would\nthink more of Christ than of him, he was ready to hate Christ. It seemed\nto Lygia that the very idea of any other love than the love of Christ\nwas a sin against Him and against religion. When she saw then that other\nfeelings and desires might be roused in the depth of her soul, she was\nseized by alarm for her own future and her own heart."
+  },
+  {
+   "n": 102,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At this moment of internal struggle appeared Glaucus, who had come to\ncare for the patient and study his health. In the twinkle of an eye,\nanger and impatience were reflected on the face of Vinicius. He was\nangry that his conversation with Lygia had been interrupted; and when\nGlaucus questioned him, he answered with contempt almost. It is true\nthat he moderated himself quickly; but if Lygia had any illusions as\nto this,--that what he had heard in Ostrianum might have acted on his\nunyielding nature,--those illusions must vanish. He had changed only\nfor her; but beyond that single feeling there remained in his breast the\nformer harsh and selfish heart, truly Roman and wolfish, incapable not\nonly of the sweet sentiment of Christian teaching but even of gratitude."
+  },
+  {
+   "n": 103,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She went away at last filled with internal care and anxiety. Formerly in\nher prayers she had offered to Christ a heart calm, and really pure as\na tear. Now that calmness was disturbed. To the interior of the flower a\npoisonous insect had come and began to buzz. Even sleep, in spite of the\ntwo nights passed without sleep, brought her no relief. She dreamed\nthat at Ostrianum Nero, at the head of a whole band of Augustians,\nbacchantes, corybantes, and gladiators, was trampling crowds of\nChristians with his chariot wreathed in roses; and Vinicius seized her\nby the arm, drew her to the quadriga, and, pressing her to his bosom,\nwhispered"
+  },
+  {
+   "n": 104,
+   "score": {
+    "key": "vinicius",
+    "at": "Come with us.",
+    "xfade": 4
+   },
+   "para": 62,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Come with us.”"
+  }
+ ]
+}

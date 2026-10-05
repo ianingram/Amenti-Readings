@@ -35,17 +35,18 @@ put(os_, reverb(lp(nig[int(30 * SR): int(50 * SR)], 5000), 3, 0.5) * 0.04, 12.0)
 loopfile('ostrianum.mp3', os_, 4.0, -31)
 
 # ═══ CHILO — the sly Greek: bassoon and pizzicato on tiptoe, an oboe that sidles ════════════
-BT = 60 / 104; BAR = 4 * BT; bars = 8; N2 = int((bars * BAR + 4) * SR)
+BT = 60 / 104; BAR = 4 * BT; bars = 16; N2 = int((bars * BAR + 4) * SR)          # 16 bars: the second half a fourth higher, the oboe answering itself
 bs, pz, ob = (np.zeros(N2, np.float32) for _ in range(3))
 BASS = [43, 0, 46, 0, 44, 0, 41, 0, 43, 0, 49, 0, 48, 0, 46, 0]                    # staccato steps, a chromatic sidle
 for b in range(bars):
     t0 = b * BAR
     for k in range(8):
-        m = BASS[(b * 2 + k) % 16]
+        m = BASS[(b * 2 + k) % 16] + (5 if b >= 8 and BASS[(b * 2 + k) % 16] else 0)
         if m: put(bs, sustain(BSN, m, BT * 0.35, head=0.05, kx=0.03, tail=0.05), t0 + k * BT / 2, 0.8)
         if k % 2 == 1: put(pz, pluck(VPIZZ, [67, 70, 68, 73][(b + k) % 4], 0.5), t0 + k * BT / 2 + 0.03)
 SLY = [(2, 74, 1), (3, 73, 1), (4, 74, 2), (8, 77, 1), (9, 76, 1), (10, 73, 1), (11, 70, 1), (12, 69, 3), (18, 74, 1), (19, 75, 1), (20, 77, 2), (24, 80, 1), (25, 79, 1), (26, 77, 1), (27, 74, 1), (28, 73, 4)]
 for st, m, d in SLY: put(ob, sustain(OBOE, m, d * BT * 0.8, head=0.08, kx=0.05, tail=0.1), st * BT, 0.45)
+for st, m, d in SLY: put(ob, sustain(OBOE, m + 5 if st < 16 else m - 2, d * BT * 0.8, head=0.08, kx=0.05, tail=0.1), 32 * BT + st * BT, 0.42)
 mix = stems((reverb(bs, 1.4, 0.2, seed=21), -28), (reverb(pz, 1.6, 0.25, seed=22), -31), (reverb(ob, 2.0, 0.28, seed=23), -29))
 render('score-chilo.mp3', mix[: int((bars * BAR + 2) * SR)])
 json.dump(files, open(OUT + 'manifest.json', 'w'), indent=1)

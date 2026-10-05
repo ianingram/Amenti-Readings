@@ -103,3 +103,13 @@ Versilian Studios, recorded by Sam Gossner and Simon Dalzell*).
 | `score-vigil.mp3` | THE VIGIL — the sickroom: glockenspiel music box winding down, cello and viola pedal, upright piano (VSCO 2 CE) | CC0 |
 
 Borrowed by URL: the passing bell (Romeo and Juliet).
+
+## The Voyage of the Demeter — a suite (6 Oct 2026, DRAFT) — built by `build-demeter-suite.py`
+
+A standalone track (6:38) after the captain's log: Varna loading, setting sail, the
+Bosphorus, the blow, the murmuring, the search, the shouting, the mate's madness, the fog,
+and the storm in the last third; then the wreck. 4/4 at 60 BPM, D major turning minor, a
+muffled heartbeat throughout. Voices from the Amenti voice service (the lines and their
+delivery are in `demeter-suite-lines.json`); 24 of 47 still to render when the voice quota
+resets. Real timbers: *Creaky wooden casket* and *Door handle creaking* (PD), slowed.
+Everything else is listed in the build script's header.

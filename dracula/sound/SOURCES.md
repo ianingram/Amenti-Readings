@@ -126,3 +126,12 @@ Everything else is listed in the build script's header.
 | file | made from | licence |
 |---|---|---|
 | `score-requiem.mp3` | *Dies.irae.ogg* — "Sequence of the Requiem Dies Irae, Gregorian chant" (Membeth, Wikimedia Commons), its first minutes slowed to 88 % with pitch kept; under it a 4/4 cortège pulse at 40 BPM (VSCO 2 CE bass and tenor drums) and the passing bell every four bars | PD / CC0 |
+
+### The Voyage of the Demeter, v4 (6 Oct 2026)
+
+A 48-second prologue on the road to Varna (the folder's horses-gallop and wolves, built wheels,
+harness bells, a whip, *Howling wind*); the requiem's progression in D minor as the harmony;
+the real *Dies irae* (PD, Membeth), retuned from E-flat to D, from the road through the
+loading, returning with the losses and dying away after the mate goes overboard. All 47 voice
+lines now rendered (one prayer repeats). v5: cut to about 6 minutes — whole bars taken from
+the quiet stretches, each splice on a downbeat — and the deck voices raised as the ship comes apart.

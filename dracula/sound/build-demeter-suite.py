@@ -1,5 +1,17 @@
 #!/usr/bin/env python3
-"""THE VOYAGE OF THE DEMETER — a suite, after the captain's log. Amenti Studios · Dracula, chapter VII.
+"""THE VOYAGE OF THE DEMETER — a suite, after the captain's log. (v4, 6 Oct 2026)
+
+v4 — at Ian's direction: the voyage begins on land. A PROLOGUE of twelve bars: night on the
+road down from the mountains, the Count's boxes going to the sea by carriage — horses at the
+trot, iron-shod wheels on a stony road, the body creaking, the harness bells, a whip, the
+wind, wolves far behind. THE REQUIEM begins on the road (the real Dies irae, retuned from the
+choir's E-flat to D so it sits in the suite's key), carries on through the loading at Varna
+and fades as we reach the shore and put to sea. It returns with the losses — under the
+crew's murmured prayers — and dies away after the mate goes overboard. The storm and the
+wreck have none. The harmony throughout (bar the storm and the mate) is the requiem's own
+progression moved into D minor: Dm C F C | Dm Am C Dm, a chord a bar on the downbeat;
+the flute sings the sea tune in the minor from the start.
+ Amenti Studios · Dracula, chapter VII.
 
 4/4 at 60 BPM, so the music and the heart share one pulse: the heart beats once a beat,
 muffled, boom-boom, from the first bar to the last. 96 bars; the storm is the last third.
@@ -38,9 +50,9 @@ def mp3(path):
     raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', path, '-f', 'f32le', '-ac', '1', '-ar', str(SR), '-'], capture_output=True).stdout
     return np.frombuffer(raw, np.float32).copy()
 D = '/tmp/rd2/dracula/sound/'; T = '/tmp/rd2/treasure-island/sound/'
-BPM = 60; BT = 60 / BPM; BAR = 4 * BT; BARS = 96
+BPM = 60; BT = 60 / BPM; BAR = 4 * BT; PRE = 12; BARS = 96 + PRE
 LEN = BARS * BAR + 22; N = int(LEN * SR)
-def at(bar, beat=0.0): return (bar - 1) * BAR + beat * BT
+def at(bar, beat=0.0): return (bar - 1 + PRE) * BAR + beat * BT        # bar 1 = Varna; bars -11..0 = the road
 def env_lin(n, pts):                                     # piecewise gain over the whole piece, by bar
     x = np.zeros(n, np.float32); tt = np.arange(n) / SR
     xs = [at(b) for b, _ in pts]; ys = [g for _, g in pts]
@@ -62,7 +74,7 @@ while t_ < WRECK:
         put(heart, LUB, t_, 1.1); put(heart, DUB, t_ + 0.17, 0.7); t_ += BT / 2; continue
     put(heart, LUB, t_); put(heart, DUB, t_ + 0.24); t_ += BT     # steady: one heartbeat per beat
 t_ = WRECK + 2 * BT; gap = BT
-for k in range(14):                                      # the captain alone: slowing, fainter, then the last beat
+for k in range(9):                                       # the captain alone: slowing, fainter, then the last beat (v5: shorter)
     g = 0.95 - k * 0.05
     put(heart, LUB, t_, g); put(heart, DUB, t_ + 0.26, g * 0.6)
     t_ += gap; gap *= 1.13
@@ -87,12 +99,12 @@ for b in range(1, 89):
     put(ship, timber(1.7 + 0.5 * rng.random(), 0.9 * sway), at(b, 1) - 0.25)          # port
     put(ship, timber(2.1 + 0.5 * rng.random(), 0.75 * sway), at(b, 3) - 0.25)         # starboard
     if b % 4 == 2: put(ship, rope(0.5 * sway), at(b, 2.5))                           # a rope under strain
-ship = reverb(ship, 0.9, 0.2, seed=2) * env_lin(N, [(1, 1), (64, 1), (65, 1.2), (88.99, 1.3), (89, 0), (97, 0)])
-hull = tile(mp3(D + 'hull.mp3')) * env_lin(N, [(1, 0.8), (24, 0.9), (64, 1.0), (65, 1.1), (88.99, 1.2), (89, 0.8), (97, 0.7)])
+ship = reverb(ship, 0.9, 0.2, seed=2) * env_lin(N, [(-11, 0), (0.5, 0), (1, 1), (64, 1), (65, 1.2), (88.99, 1.3), (89, 0), (97, 0)])
+hull = tile(mp3(D + 'hull.mp3')) * env_lin(N, [(-11, 0), (0.25, 0), (1, 0.8), (24, 0.9), (64, 1.0), (65, 1.1), (88.99, 1.2), (89, 0.8), (97, 0.7)])
 
 # ═══ THE HARBOUR — dock workers muffled through the timbers, gulls; fading as she shoves off ═══
-docks = lp(tile(mp3(T + 'docks.mp3')), 1400) * env_lin(N, [(1, 1), (15, 1), (20, 0.5), (23, 0), (97, 0)])
-crowd = lp(tile(load('/tmp/qv/src/360703_eguobyte_large-crowd-medium-distance-stereo_m.wav')), 900) * env_lin(N, [(1, 1), (15, 0.9), (20, 0.3), (23, 0), (97, 0)])
+docks = lp(tile(mp3(T + 'docks.mp3')), 1400) * env_lin(N, [(-11, 0), (-1, 0), (1, 1), (15, 1), (20, 0.5), (23, 0), (97, 0)])
+crowd = lp(tile(load('/tmp/qv/src/360703_eguobyte_large-crowd-medium-distance-stereo_m.wav')), 900) * env_lin(N, [(-11, 0), (-1, 0), (1, 1), (15, 0.9), (20, 0.3), (23, 0), (97, 0)])
 fx = np.zeros(N, np.float32)
 gull = mp3(T + 'gull.mp3')
 for b, g in ((2, 0.5), (6, 0.35), (10, 0.45), (13, 0.3), (17, 0.25), (21, 0.15)): put(fx, gull * g, at(b, 2.3))
@@ -115,8 +127,8 @@ for b in (36, 52, 54, 62):
     for k in range(5): put(fx, snare[k % 3] * (0.25 + 0.12 * k), at(b, 3) - 0.3 + k * 0.06)    # the ruff, into the downbeat
     put(fx, snare[0] * 0.9, at(b + 1)); put(fx, bell * 0.32, at(b + 1, 0.05)); losses.append(b + 1)
 # ═══ THE STORM — the last third ═══
-wind = tile(load('/tmp/snd/src3/Howling_wind.wav')) * env_lin(N, [(1, 0), (60, 0), (64, 0.12), (66, 0.35), (78, 0.8), (88.99, 1.0), (89, 0), (97, 0)])
-rain = (bp(rng.standard_normal(N).astype(np.float32), 1200, 7000) * env_lin(N, [(1, 0), (68, 0), (72, 0.5), (88.99, 0.9), (89, 0), (97, 0)]))
+wind = tile(load('/tmp/snd/src3/Howling_wind.wav')) * env_lin(N, [(-11, 0), (1, 0), (60, 0), (64, 0.12), (66, 0.35), (78, 0.8), (88.99, 1.0), (89, 0), (97, 0)])
+rain = (bp(rng.standard_normal(N).astype(np.float32), 1200, 7000) * env_lin(N, [(-11, 0), (1, 0), (68, 0), (72, 0.5), (88.99, 0.9), (89, 0), (97, 0)]))
 th = load('/tmp/snd/th/Storm_thunderbolts.wav')
 envt = np.array([np.sqrt(np.mean(th[i:i + 4800] ** 2)) for i in range(0, len(th) - 4800, 4800)])
 pk = int(np.argmax(envt)) * 4800; bolt = th[max(0, pk - int(0.4 * SR)): pk + int(5 * SR)]
@@ -133,21 +145,17 @@ put(fx, mp3(D + 'wolf-howl.mp3') * 0.22, last_beat + 2.5)                       
 C_ = lambda r, q: (r, q)          # root (bass MIDI) + triad (MIDI)
 Dm_, D_, G_, Gm_, A_, Bm_, Em_, Bb_, Eb_ = (38, [62, 66, 69]), (38, [62, 66, 69]), (43, [62, 67, 71]), (43, [62, 67, 70]), (45, [61, 64, 69]), (47, [62, 66, 71]), (40, [64, 67, 71]), (46, [62, 65, 70]), (39, [63, 67, 70])
 Dm_ = (38, [62, 65, 69])
-PROG = ([D_, D_, G_, D_, Bm_, G_, A_, A_, D_, D_, G_, D_, Em_, A_] +          # 1–14   Varna, D major
-        [D_, G_, D_, A_, D_, G_, A_, D_, G_, A_] +                               # 15–24  under way
-        [D_, Bm_, G_, A_] +                                                      # 25–28  the Bosphorus
-        [D_, Gm_, D_, Bb_] +                                                     # 29–32  the blow: the turn
-        [Dm_, Gm_, A_, Dm_] +                                                    # 33–36  all quiet
-        [Dm_, Bb_, Gm_, A_, Dm_, Eb_, Dm_, A_] +                                 # 37–44  murmuring
-        [Dm_, Bb_, Gm_, A_, Dm_, A_, Dm_, Dm_] +                                 # 45–52  the search; calm
-        [Dm_, Eb_, Dm_, A_] +                                                    # 53–56  shouting
-        [Eb_, Dm_, Eb_, A_] +                                                    # 57–60  the mate
-        [Dm_, Bb_, Gm_, A_] +                                                    # 61–64  fog
-        [Dm_, Eb_, Dm_, Eb_, Bb_, A_] * 4)                                      # 65–88  the storm
-assert len(PROG) == 88
+C_m = (36, [60, 64, 67]); F_ = (41, [60, 65, 69]); Am_ = (45, [57, 60, 64])
+REQ = [Dm_, C_m, F_, C_m, Dm_, Am_, C_m, Dm_]                           # the requiem's i VII III VII i v VII i, in D
+PROG = ([REQ[i % 8] for i in range(PRE)] +                              # -11..0  the road
+        [REQ[i % 8] for i in range(56)] +                               # 1–56   Varna, the voyage, the losses
+        [Eb_, Dm_, Eb_, A_] +                                           # 57–60  the mate
+        [Dm_, Bb_, Gm_, A_] +                                           # 61–64  fog
+        [Dm_, Eb_, Dm_, Eb_, Bb_, A_] * 4)                              # 65–88  the storm
+assert len(PROG) == 88 + PRE
 strings, horns, low, flute, oboe, viol, timp = (np.zeros(N, np.float32) for _ in range(7))
 for i, (root, tri) in enumerate(PROG):
-    b = i + 1; t0 = at(b)
+    b = i + 1 - PRE; t0 = at(b)
     storm = b >= STORM
     put(low, sustain(CEL, root, BAR + 0.5, head=0.4, kx=0.4, tail=0.8), t0, 0.7 if not storm else 0.9)
     for m in tri: put(strings, sustain(VLA if m < 66 else VLN, m, BAR + 0.6, head=0.5, kx=0.5, tail=1.0), t0, 0.32 if b < 33 else 0.38)
@@ -158,10 +166,9 @@ for i, (root, tri) in enumerate(PROG):
         tr = load16(TIMPR(2 if b % 2 else 3)); n_ = min(len(tr), int(BAR * SR))
         put(timp, tr[:n_] * np.linspace(0.3, 1.0, n_).astype(np.float32), t0, 0.5 + 0.02 * (b - STORM))
 # the sea tune — flute in the major, oboe once it has turned
-TUNE = [(0, 69, 2), (2, 71, 1), (3, 69, 1), (4, 66, 2), (6, 64, 2), (8, 66, 3), (11, 62, 1), (12, 64, 4)]
+TUNE_M = [(0, 69, 2), (2, 70, 1), (3, 69, 1), (4, 65, 2), (6, 64, 2), (8, 65, 3), (11, 62, 1), (12, 61, 4)]   # the sea tune, in the minor
 for start in (5, 9, 17, 21):
-    for st, m, d in TUNE: put(flute, sustain(FLNV, m + 12 if start >= 17 else m, d * BT * 1.02, head=0.12, kx=0.1, tail=0.2), at(start) + st * BT, 0.42)
-TUNE_M = [(0, 69, 2), (2, 70, 1), (3, 69, 1), (4, 65, 2), (6, 64, 2), (8, 65, 3), (11, 62, 1), (12, 61, 4)]
+    for st, m, d in TUNE_M: put(flute, sustain(FLNV, m + 12 if start >= 17 else m, d * BT * 1.02, head=0.12, kx=0.1, tail=0.2), at(start) + st * BT, 0.42)
 for start in (37, 41, 45, 61):
     for st, m, d in TUNE_M: put(oboe, sustain(OBOE, m, d * BT * 1.02, head=0.12, kx=0.1, tail=0.2), at(start) + st * BT, 0.42)
 # the end: after the wreck, one long low D under the sea and the slowing heart
@@ -170,7 +177,7 @@ for x in (strings, horns, low, flute, oboe, viol, timp):                        
     cut = int(WRECK * SR); x[cut: cut + int(0.04 * SR)] *= np.linspace(1, 0, int(0.04 * SR)); x[cut + int(0.04 * SR):] *= (x is low)
 music = stems((reverb(strings, 2.6, 0.3, seed=11), -27), (reverb(low, 2.4, 0.28, seed=12), -27), (reverb(viol, 1.8, 0.22, seed=13), -31),
               (reverb(flute, 2.4, 0.32, seed=14), -29), (reverb(oboe, 2.4, 0.32, seed=15), -29), (reverb(horns, 2.8, 0.3, seed=16), -27), (reverb(timp, 2.2, 0.3, seed=17), -29))
-music *= env_lin(N, [(1, 0), (2, 0.8), (3, 0.85), (14, 0.85), (15, 1), (28, 1), (29, 0.7), (33, 0.8), (37, 0.9), (52, 0.9), (53, 0.65), (61, 0.8), (64, 0.9), (65, 1.05), (88.99, 1.3), (89, 1), (97, 1)])
+music *= env_lin(N, [(-11, 0), (-10, 0.6), (-1, 0.75), (1, 0.8), (3, 0.85), (14, 0.85), (15, 1), (28, 1), (29, 0.7), (33, 0.8), (37, 0.9), (52, 0.9), (53, 0.65), (61, 0.8), (64, 0.9), (65, 1.05), (88.99, 1.3), (89, 1), (97, 1)])
 # ═══ THE VOICES — placed on the log's timeline; each given its place: quay, deck, below, close ═══
 VX = '/tmp/dem/vox/'
 def place_v(x, where):
@@ -189,7 +196,7 @@ VO = [  # (line, bar, beat, place, gain)
  ('c4', 22, 2.0, 'deck', 1.0), ('a4', 23, 2.5, 'far', 0.9), ('c5', 24, 0.5, 'deck', 0.8), ('a5', 25, 0.0, 'deck', 0.7),
  ('k1', 25, 2.0, 'deck', 0.9), ('k2', 26, 1.5, 'deck', 0.85), ('k3', 27, 2.5, 'deck', 0.85),
  ('m1', 29, 0.5, 'deck', 1.0), ('m2', 30, 0.5, 'deck', 0.8), ('m3', 30, 3.0, 'deck', 1.1), ('m4', 31, 1.2, 'deck', 0.9), ('m5', 31, 2.6, 'deck', 1.0),
- ('p1', 38, 0.0, 'below', 0.8), ('p3', 39, 1.0, 'below', 0.9), ('p2', 40, 2.0, 'below', 0.7), ('p4', 41, 1.5, 'below', 0.9), ('p1', 43, 0.0, 'below', 0.6),
+ ('p1', 38, 0.0, 'below', 0.8), ('p3', 39, 1.0, 'below', 0.9), ('p1', 40, 2.0, 'below', 0.55), ('p4', 41, 1.5, 'below', 0.9), ('p1', 43, 0.0, 'below', 0.6),
  ('s1', 45, 0.5, 'deck', 1.0), ('s2a', 46, 0.5, 'below', 1.0), ('s2b', 47, 0.0, 'far', 0.9), ('s3', 48, 1.0, 'below', 1.0), ('s4', 49, 0.5, 'below', 0.9),
  ('x1', 53, 0.3, 'deck', 1.1), ('x5', 53, 3.0, 'deck', 1.0), ('x2', 54, 2.0, 'deck', 1.0), ('x3', 55, 1.5, 'deck', 1.1), ('x4', 56, 1.0, 'deck', 1.1),
  ('h1', 57, 0.5, 'close', 0.9), ('h2', 58, 0.2, 'close', 1.0), ('h3', 60, 0.0, 'deck', 1.2), ('h4', 60, 2.0, 'deck', 1.0), ('h5', 60, 3.6, 'deck', 1.1),
@@ -200,9 +207,60 @@ for k, b, bt, where, g in VO:
     f = VX + k + '.wav'
     if not (os.path.exists(f) and open(f, 'rb').read(4) == b'RIFF'): missing.append(k); continue
     put(voices, place_v(load(f), where) * g, at(b, bt))
-mix = (music + at_rms(voices, -27) + at_rms(heart, -30) + at_rms(ship, -33) + at_rms(hull, -36) + at_rms(docks, -37) + at_rms(crowd, -42)
+# ═══ THE ROAD — the boxes come down from the mountains by night ═══
+road = np.zeros(N, np.float32); t_end = at(1) + 6
+gal = mp3(D + 'horses-gallop.mp3'); trot = lp(np.tile(gal, int(np.ceil(t_end * SR / len(gal))))[: int(t_end * SR)], 1800)
+put(road, trot * 0.8, 0.0)
+n_ = int(t_end * SR); tt = np.arange(n_) / SR                                            # iron tyres on a stony road
+rumble = lp(rng.standard_normal(n_).astype(np.float32), 220) * (0.7 + 0.3 * np.sin(2 * np.pi * 1.6 * tt)).astype(np.float32)
+grit = (bp(rng.standard_normal(n_).astype(np.float32), 1500, 5000) * (rng.random(n_) < 0.004)).astype(np.float32) * 3
+put(road, (rumble + grit * 0.2), 0.0)
+for k in range(int(t_end / 3.1)): put(road, timber(2.3 + 0.4 * rng.random(), 0.45), 1.0 + k * 3.1 + rng.random())   # the carriage body working
+def bells(g):                                                                            # harness bells, a few jingles
+    y = np.zeros(int(0.5 * SR), np.float32)
+    for j in range(5):
+        f = 2400 + 900 * rng.random(); q = int(0.35 * SR); tq = np.arange(q) / SR
+        put(y, (np.sin(2 * np.pi * f * tq) * np.exp(-tq * 18) * 0.3).astype(np.float32), j * 0.03 * rng.random())
+    return y * g
+for k in range(int(t_end / 0.75)): put(road, bells(0.25 + 0.2 * rng.random()), k * 0.75 + 0.2 * rng.random())
+n2 = int(0.05 * SR); whip = (hp(rng.standard_normal(n2), 2000) * np.exp(-np.arange(n2) / SR * 60)).astype(np.float32) * 1.5
+put(road, whip, at(-8, 2)); put(road, whip * 0.8, at(-3, 1))
+wolves = mp3(D + 'wolves.mp3'); put(road, reverb(lp(wolves, 2500), 2.5, 0.5) * 0.35, at(-9)); put(road, reverb(lp(wolves, 2000), 2.5, 0.5) * 0.25, at(-4))
+road_wind = lp(tile(load('/tmp/snd/src3/Howling_wind.wav')), 1500)
+road = road * env_lin(N, [(-11, 0.0), (-10.5, 1), (0, 1), (1, 0.3), (2.5, 0), (97, 0)])
+road_wind = road_wind * env_lin(N, [(-11, 0), (-10, 0.6), (0, 0.5), (2, 0), (97, 0)])
+# ═══ THE REQUIEM — the real Dies irae, retuned from the choir's E-flat to D (chant_d.wav) ═══
+ch_ = load('/tmp/req/chant_d.wav'); chant = np.zeros(N, np.float32)
+a1, b1 = at(-8), at(24)                                                       # from the road, through Varna, out to sea
+put(chant, ch_[: int((b1 - a1) * SR)], a1)
+a2, b2 = at(37), at(63)                                                       # the losses, the prayers, the mate — then gone
+put(chant, ch_[int(30 * SR): int(30 * SR) + int((b2 - a2) * SR)], a2)
+chant *= env_lin(N, [(-11, 0), (-8, 0), (-6, 1.0), (14, 1.0), (19, 0.6), (24, 0), (37, 0), (39, 0.55), (56, 0.55), (60, 0.5), (61.5, 0.3), (63, 0), (97, 0)])
+voices *= env_lin(N, [(-11, 1), (28, 1), (29, 1.6), (32, 1.6), (33, 1), (44, 1), (45, 1.3), (52, 1.3),
+                       (53, 1.9), (60.9, 2.0), (61.5, 1.2), (97, 1.2)])          # v5: the blow, the search, the panic, the mate
+mix = (music + at_rms(chant, -25) + at_rms(road, -30) + at_rms(road_wind, -36) + at_rms(voices, -24.5) + at_rms(heart, -30) + at_rms(ship, -33) + at_rms(hull, -36) + at_rms(docks, -37) + at_rms(crowd, -42)
        + at_rms(fx, -30) + at_rms(wind, -31) + at_rms(rain, -38))
 end = int((last_beat + 9) * SR); mix = mix[:end]
+# ═══ v5: 6:00 — whole bars cut from the quiet stretches, each splice on a downbeat (60 ms crossfade) ═══
+CUTS = [(-2, 0), (2, 5), (34, 36), (44, 45), (51, 53), (64, 65), (75, 77), (79, 81)]   # [first bar cut, first bar kept)
+def splice(x, cuts):
+    out, pos, xf = [], 0, int(0.06 * SR)
+    for a, b in cuts:
+        s0, s1 = int(at(a) * SR), int(at(b) * SR)
+        seg = x[pos:s0].copy()
+        if out:                                                   # crossfade into the segment
+            prev = out[-1]; f = np.linspace(0, 1, xf, dtype=np.float32)
+            seg[:xf] = seg[:xf] * f + prev[-xf:] * (1 - f); out[-1] = prev[:-xf]
+        out.append(seg); pos = s1
+    tail = x[pos:].copy(); prev = out[-1]; f = np.linspace(0, 1, xf, dtype=np.float32)
+    tail[:xf] = tail[:xf] * f + prev[-xf:] * (1 - f); out[-1] = prev[:-xf]; out.append(tail)
+    return np.concatenate(out)
+CUT_S = [(at(a), at(b)) for a, b in CUTS]
+def newtime(t):                                                   # where an old moment lands after the cuts
+    return t - sum(min(max(t - a, 0), b - a) for a, b in CUT_S)
+mix = splice(mix, CUTS)
+print('page times:', {k: round(newtime(v), 1) for k, v in {'varna': at(1), 'underway': at(18.5), 'at_sea': at(29), 'fog': at(61), 'storm': at(65), 'wreck': WRECK}.items()},
+      'bolts:', [round(newtime(at(b)), 1) for b in (70, 74, 78, 82, 85, 87)])
 mix[-int(5 * SR):] *= np.linspace(1, 0, int(5 * SR))
 mix = mix / (np.abs(mix).max() + 1e-9) * 10 ** (-1.5 / 20)
 write_mp3(mix.astype(np.float32), 'voyage-of-the-demeter.mp3')

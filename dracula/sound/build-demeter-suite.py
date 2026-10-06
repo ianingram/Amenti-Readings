@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""THE VOYAGE OF THE DEMETER — a suite, after the captain's log. (v4, 6 Oct 2026)
+"""THE VOYAGE OF THE DEMETER — a suite, after the captain's log. (v6, 6 Oct 2026: real thunder)
 
 v4 — at Ian's direction: the voyage begins on land. A PROLOGUE of twelve bars: night on the
 road down from the mountains, the Count's boxes going to the sea by carriage — horses at the
@@ -129,10 +129,39 @@ for b in (36, 52, 54, 62):
 # ═══ THE STORM — the last third ═══
 wind = tile(load('/tmp/snd/src3/Howling_wind.wav')) * env_lin(N, [(-11, 0), (1, 0), (60, 0), (64, 0.12), (66, 0.35), (78, 0.8), (88.99, 1.0), (89, 0), (97, 0)])
 rain = (bp(rng.standard_normal(N).astype(np.float32), 1200, 7000) * env_lin(N, [(-11, 0), (1, 0), (68, 0), (72, 0.5), (88.99, 0.9), (89, 0), (97, 0)]))
+# ═══ THUNDER (v6, Ian: "the thunder sounds like someone popping a balloon") ═══
+# A strike is a crack and then a long roll. The old strike was the sharpest transient in a
+# recording — all crack, no roll. Now each strike is three layers:
+#   CRACK — the thunderbolts recording's transient, low-passed and saturated so it has weight,
+#           with a short cascade of crackle (the bolt tearing the air)
+#   ROLL  — a real 16-second roll from the summer-storm recording (159.5–175.5 s)
+#   SUB   — a sub-bass rumble, 25–90 Hz, swelling and rolling away over ~10 s
+# Distance: the first strikes have no crack and a delayed, darker roll; the last are on top of us.
 th = load('/tmp/snd/th/Storm_thunderbolts.wav')
 envt = np.array([np.sqrt(np.mean(th[i:i + 4800] ** 2)) for i in range(0, len(th) - 4800, 4800)])
-pk = int(np.argmax(envt)) * 4800; bolt = th[max(0, pk - int(0.4 * SR)): pk + int(5 * SR)]
-for b, g in ((70, 0.35), (74, 0.5), (78, 0.65), (82, 0.8), (85, 0.9), (87, 1.0)): put(fx, bolt * g, at(b, 0))
+pk = int(np.argmax(envt)) * 4800
+crack0 = lp(th[max(0, pk - int(0.05 * SR)): pk + int(1.2 * SR)], 4500)
+crack0 = (np.tanh(crack0 / (np.abs(crack0).max() + 1e-9) * 2.5) / np.tanh(2.5)).astype(np.float32)
+summer = load('/tmp/snd/th/Thunderstorm_after_hot_summer_day_17_minutes_01_of_04.wav')
+ROLL = summer[int(159.5 * SR): int(175.5 * SR)].copy(); ROLL = ROLL / (np.abs(ROLL).max() + 1e-9)
+def thunder(dist, seed):
+    r = np.random.default_rng(seed); n = int(14 * SR); y = np.zeros(n, np.float32); t = np.arange(n) / SR
+    delay = 0.15 + 1.6 * dist                                                      # light first, sound later
+    if dist < 0.6:                                                                 # the crack, and the air tearing
+        c = crack0 * (1.0 - dist); put(y, c, 0.0)
+        for k in range(int(12 * (1 - dist))):
+            g = (hp(r.standard_normal(int(0.03 * SR)), 1800) * np.exp(-np.arange(int(0.03 * SR)) / SR * 90)).astype(np.float32)
+            put(y, g * (0.5 * (1 - dist)) * r.random(), 0.02 + 0.35 * r.random())
+    roll = lp(ROLL, 2500 - 1800 * dist) * (0.9 - 0.3 * dist)                      # further off: darker
+    put(y, roll[: n - int(delay * SR)], delay)
+    sub = lp(r.standard_normal(n).astype(np.float32), 90); sub = hp(sub, 25)
+    swell = np.clip((t - delay) / 0.6, 0, 1) * np.exp(-np.clip(t - delay, 0, None) / (3.0 + 2.0 * dist))
+    am = 0.6 + 0.4 * np.sin(2 * np.pi * (0.7 + 0.5 * r.random()) * t + r.random() * 6) ** 2   # the rolling
+    y += (sub / (np.abs(sub).max() + 1e-9) * swell * am * 1.1).astype(np.float32)
+    return y
+THUNDER = np.zeros(N, np.float32)                                                 # its own channel, mixed above the storm
+for k, (b, dist, g) in enumerate(((70, 0.9, 0.5), (74, 0.7, 0.65), (78, 0.5, 0.8), (82, 0.3, 0.95), (85, 0.15, 1.0), (87, 0.0, 1.1))):
+    put(THUNDER, thunder(dist, 300 + k) * g, at(b, 0))
 put(fx, mp3(D + 'lightning-depths.mp3') * 0.8, at(84))
 swish = mp3('/tmp/rd2/romeo-and-juliet/sound/sword-swish.mp3')
 for bb in (58.5, 58.8, 59.15): put(fx, lp(swish, 3500) * 0.5, at(int(bb), (bb % 1) * 4))       # the knife driven into the air
@@ -240,6 +269,12 @@ voices *= env_lin(N, [(-11, 1), (28, 1), (29, 1.6), (32, 1.6), (33, 1), (44, 1),
                        (53, 1.9), (60.9, 2.0), (61.5, 1.2), (97, 1.2)])          # v5: the blow, the search, the panic, the mate
 mix = (music + at_rms(chant, -25) + at_rms(road, -30) + at_rms(road_wind, -36) + at_rms(voices, -24.5) + at_rms(heart, -30) + at_rms(ship, -33) + at_rms(hull, -36) + at_rms(docks, -37) + at_rms(crowd, -42)
        + at_rms(fx, -30) + at_rms(wind, -31) + at_rms(rain, -38))
+# the thunder rides ~9 dB over the storm around it (measured over the strikes' first 6 s), then a soft limiter
+w_ = np.zeros(N, bool)
+for b in (70, 74, 78, 82, 85, 87): w_[int(at(b) * SR): int((at(b) + 6) * SR)] = True
+bed_rms = np.sqrt(np.mean(mix[w_] ** 2)); th_rms = np.sqrt(np.mean(THUNDER[w_] ** 2)) + 1e-9
+mix = mix + THUNDER * (bed_rms * 10 ** (9 / 20) / th_rms)
+pk_ = np.percentile(np.abs(mix), 99.9); mix = (np.tanh(mix / pk_ * 1.2) * pk_ / np.tanh(1.2)).astype(np.float32)
 end = int((last_beat + 9) * SR); mix = mix[:end]
 # ═══ v5: 6:00 — whole bars cut from the quiet stretches, each splice on a downbeat (60 ms crossfade) ═══
 CUTS = [(-2, 0), (2, 5), (34, 36), (44, 45), (51, 53), (64, 65), (75, 77), (79, 81)]   # [first bar cut, first bar kept)

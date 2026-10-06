@@ -135,3 +135,8 @@ the real *Dies irae* (PD, Membeth), retuned from E-flat to D, from the road thro
 loading, returning with the losses and dying away after the mate goes overboard. All 47 voice
 lines now rendered (one prayer repeats). v5: cut to about 6 minutes — whole bars taken from
 the quiet stretches, each splice on a downbeat — and the deck voices raised as the ship comes apart.
+
+v6 — real thunder: each strike is a crack (the thunderbolts transient, low-passed and saturated,
+with crackle), a real 16-second roll from *Thunderstorm after hot summer day* (159.5–175.5 s),
+and a sub-bass rumble; distant strikes first, closer each time; mixed on its own channel ~9 dB
+over the storm, under a soft limiter.

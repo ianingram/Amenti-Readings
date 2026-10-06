@@ -113,3 +113,10 @@ muffled heartbeat throughout. Voices from the Amenti voice service (the lines an
 delivery are in `demeter-suite-lines.json`); 24 of 47 still to render when the voice quota
 resets. Real timbers: *Creaky wooden casket* and *Door handle creaking* (PD), slowed.
 Everything else is listed in the build script's header.
+
+## The last two cues (6 Oct 2026) — built by `build-earth-boxes-pursuit.py`
+
+| file | made from | licence |
+|---|---|---|
+| `score-earth-boxes.mp3` | chapters 19–20 — industrial halftime at 60 BPM; the percussion is the folder's own luggage, door, hammering and chains recordings and *Dull thud* (PD) — the crates are the drums — over a D pedal and the dread's D–E♭ on cellos and violas (VSCO 2 CE) | PD / CC0 |
+| `score-pursuit.mp3` | chapters 26–27 — 132 BPM, a galloping string ostinato in D minor, timpani, low brass climbing a fourth each phrase (VSCO 2 CE), the folder's horses-gallop and wolf-howl underneath | CC0 / PD |

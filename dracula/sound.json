@@ -1,6 +1,6 @@
 {
   "_file": "Amenti-Readings/dracula/sound.json",
-  "_updated": "2026-10-06 08:00 UTC",
+  "_updated": "2026-10-06 09:00 UTC",
   "work": "dracula",
   "files": {
     "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals. CHAPTER 7: the loops (storm, pulse, captain's heart) are WAV, cut to exact bars, because an MP3 loop stutters at its seam; everything else is MP3.",
@@ -77,7 +77,8 @@
       "phonograph": "phonograph-crackle.wav",
       "vigil": "score-vigil.mp3",
       "earth_boxes": "score-earth-boxes.mp3",
-      "pursuit": "score-pursuit.mp3"
+      "pursuit": "score-pursuit.mp3",
+      "requiem": "score-requiem.mp3"
     },
     "under": {
       "note": "MUSIC UNDER ONE LINE. piano_far: far away and airy, a few notes sprinkled, the odd soft chord — letters, memory, anything read rather than lived. piano_near: close and bold, full chords when the moment needs weight. Each use starts at a different seeded point in the minute-long piece.",
@@ -104,7 +105,8 @@
       "phonograph": 0.8,
       "vigil": 0.32,
       "earth_boxes": 0.34,
-      "pursuit": 0.36
+      "pursuit": 0.36,
+      "requiem": 0.36
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
@@ -266,7 +268,8 @@
     "earth_boxes": "The earth-boxes across London, ch 19-20. Industrial halftime, 60 BPM, percussion built from warehouse sounds rather than a drum kit. The only driving cue before the pursuit. BUILT 6 Oct 2026: score-earth-boxes.mp3 (63 s loop) — luggage, door, hammer and chains as the kit; D pedal and the D–E♭ lean.",
     "phonograph": "Seward's diary, kept on a phonograph. LO-FI, and tiered three ways — full beat, crackle only, or silence. Sixteen of twenty-seven chapters are this document, so an untiered beat would be wallpaper. Measured, unemotional, a little mechanical. Chapters 9-10, 14-18, 21, 23-25.",
     "demeter": "The Demeter (chapter 7). Not one cue: a scene scored from the cue sheet — storm loops, a hard cut, the pulse of the crew, hearts, lightning. See ep07.json.",
-    "vigil": "THE SICKROOM, chapters 9–12: a music box (glockenspiel) that keeps winding down over a low cello and viola pedal, the piano barely touched. Added 6 Oct 2026, so Lucy’s nights are scored as hers and not only as Seward’s phonograph."
+    "vigil": "THE SICKROOM, chapters 9–12: a music box (glockenspiel) that keeps winding down over a low cello and viola pedal, the piano barely touched. Added 6 Oct 2026, so Lucy’s nights are scored as hers and not only as Seward’s phonograph.",
+    "requiem": "LUCY'S FUNERAL, chapter 13 — at Ian's direction: Gregorian chant, 4/4, very slow. The real Dies irae (PD), slowed to 88 %, over a cortège step at 40 BPM and the passing bell. Built 6 Oct 2026."
   },
   "chapters": [
     {

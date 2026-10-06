@@ -120,3 +120,9 @@ Everything else is listed in the build script's header.
 |---|---|---|
 | `score-earth-boxes.mp3` | chapters 19–20 — industrial halftime at 60 BPM; the percussion is the folder's own luggage, door, hammering and chains recordings and *Dull thud* (PD) — the crates are the drums — over a D pedal and the dread's D–E♭ on cellos and violas (VSCO 2 CE) | PD / CC0 |
 | `score-pursuit.mp3` | chapters 26–27 — 132 BPM, a galloping string ostinato in D minor, timpani, low brass climbing a fourth each phrase (VSCO 2 CE), the folder's horses-gallop and wolf-howl underneath | CC0 / PD |
+
+## The requiem, for Lucy's funeral (6 Oct 2026) — built by `build-requiem.py`
+
+| file | made from | licence |
+|---|---|---|
+| `score-requiem.mp3` | *Dies.irae.ogg* — "Sequence of the Requiem Dies Irae, Gregorian chant" (Membeth, Wikimedia Commons), its first minutes slowed to 88 % with pitch kept; under it a 4/4 cortège pulse at 40 BPM (VSCO 2 CE bass and tenor drums) and the passing bell every four bars | PD / CC0 |

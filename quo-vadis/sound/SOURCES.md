@@ -50,3 +50,9 @@ Borrowed by URL: the wine-shop's fire (Dracula), the sea at Antium (Treasure Isl
 | `corridor-fight.mp3` | Ursus and Croton in the dark passage: built shoving, scraping, the long crush, a crack, a fall (*Dull thud*, gregoryweir, PD) | PD + synthesized |
 
 `score-vinicius.mp3` and `score-chilo.mp3` are now 16 bars, each second half a variation on the first, so they repeat less under long scenes.
+
+## The overture (6 Oct 2026)
+
+`overture.mp3` — the landing page's sound: the production's own themes in story order,
+crossfaded over five seconds each — opulence (twice), the court, Lygia, Vinicius, faith —
+3 min 11 s, levelled to one loudness. Made from the score files in this folder; nothing new.

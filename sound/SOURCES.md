@@ -18,8 +18,9 @@ A modern score, one sound world per kind of scene. Instruments: **VSCO 2 Communi
 
 ## The Forum — the landing page's suite — built by `build-the-forum.py`
 
-Three stanzas at 80 BPM — market, rhythm and cheer, horns over drums, the rise, and a line of Antony's
-speech (III.ii) — then a coda. 2 min 40 s.
+Three stanzas at 80 BPM — market; rhythm and cheer; the crowd's swell; French horns over drums; the hush;
+and a line of Antony's speech (III.ii), heard across an open-air theatre (built acoustics: the stage wall,
+the stepped tiers, a long natural tail) — then a coda. 2 min 40 s.
 
 | element | source | licence |
 |---|---|---|
@@ -28,3 +29,7 @@ speech (III.ii) — then a coda. 2 min 40 s.
 | voices | the Amenti speech engine — Antony in Mark Antony's ledger voice; the street calls, citizens and chant in six Roman voices | — |
 | footsteps | synthesized | — |
 | horns, trombones, tuba, cellos, timpani, bass drum | VSCO 2 CE | CC0 |
+
+## The Forum v3 (7 Oct 2026)
+- The legion in the market (bars 1–4): VSCO 2 CE (CC0) bass drum (BDrumNewhit v7), snare (Snare2 hits and roll), crash cymbal; hobnailed footsteps synthesized; the soldiers' shout is the first word of the existing "Caesar!" chant voices. Placed in a synthesized stone-Forum acoustic, coming from far off to near.
+- The great bell (bar 10, three strikes before the horns): a synthesized bronze bell in G (hum, prime, tierce, quint, nominal partials), struck with the VSCO 2 CE anvil (Anvil_Hit1 v3).

@@ -1,0 +1,115 @@
+{
+ "_file": "Amenti-Readings/julius-caesar/sound.json",
+ "_updated": "2026-10-07 08:30 UTC",
+ "work": "julius-caesar",
+ "note": "Rome: the street and the Forum crowd; the night of portents, wind and rain and thunder; Brutus’s orchard under the crickets; Caesar’s palace at night; the senators murmuring under the Capitol’s portico. Trumpets for every flourish and sennet, a tower bell striking three, the assassination in blows, and the Forum’s great bell in G for Caesar’s death. The score is six sound worlds: CAESAR (C minor, the Colossus), CONSPIRACY (D minor, the storm night), BRUTUS (E minor, the quiet heart), FORUM (G minor, the crowd turned), GHOST (no pulse) and PHILIPPI (A minor, the battle).",
+ "files": {
+  "base": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/",
+  "beds": {
+   "rome_street": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/rome-street.mp3",
+   "rome_night": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/rome-night.mp3",
+   "palace_night": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/palace-night.mp3",
+   "orchard_night": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/garden-night.mp3",
+   "storm_night": "storm-night.mp3",
+   "senate": "senate.mp3"
+  },
+  "oneshots": {
+   "thunder": "https://ianingram.github.io/Amenti-Readings/dracula/sound/thunder.mp3",
+   "knock": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/knock.mp3",
+   "cheer": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/cheer.mp3",
+   "applause": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/applause.mp3",
+   "flourish": "flourish.mp3",
+   "sennet": "sennet.mp3",
+   "clock_three": "clock-three.mp3",
+   "stabbing": "stabbing.mp3",
+   "bell_toll": "bell-toll.mp3",
+   "mob": "mob.mp3"
+  },
+  "score": {
+   "caesar": "score-caesar.mp3",
+   "conspiracy": "score-conspiracy.mp3",
+   "brutus": "score-brutus.mp3",
+   "forum": "score-forum.mp3",
+   "ghost": "score-ghost.mp3",
+   "philippi": "score-philippi.mp3"
+  },
+  "levels": {
+   "caesar": 0.36,
+   "conspiracy": 0.34,
+   "brutus": 0.36,
+   "forum": 0.38,
+   "ghost": 0.3,
+   "philippi": 0.38
+  }
+ },
+ "beds": {
+  "rome_street": {},
+  "rome_night": {},
+  "palace_night": {},
+  "orchard_night": {},
+  "storm_night": {},
+  "senate": {}
+ },
+ "chapters": [
+  {
+   "n": 1,
+   "bed": "rome_street",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 2,
+   "bed": "rome_street",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 3,
+   "bed": "storm_night",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 4,
+   "bed": "orchard_night",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 5,
+   "bed": "palace_night",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 6,
+   "bed": "rome_street",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 7,
+   "bed": "rome_street",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 8,
+   "bed": "senate",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 9,
+   "bed": "rome_street",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 10,
+   "bed": "rome_night",
+   "state": 1,
+   "score": null
+  }
+ ]
+}

@@ -1,0 +1,722 @@
+{
+ "work": "julius-caesar",
+ "episode": 9,
+ "chapter": 9,
+ "title": "Act III, Scene II — The same. The Forum",
+ "document": "ACT III · SCENE II",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Citizens",
+   "cast_as": "Spartacus"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "First Citizen",
+   "cast_as": "Spartacus"
+  },
+  {
+   "role": "Second Citizen",
+   "cast_as": "Plautus"
+  },
+  {
+   "role": "Third Citizen",
+   "cast_as": "Horatius Cocles"
+  },
+  {
+   "role": "Fourth Citizen",
+   "cast_as": "Remus"
+  },
+  {
+   "role": "Mark Antony",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Servant",
+   "cast_as": "Terence"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE II. The same. The Forum."
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Brutus and goes into the pulpit, and Cassius, with a throng of Citizens."
+  },
+  {
+   "n": 3,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "We will be satisfied; let us be satisfied."
+  },
+  {
+   "n": 4,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Then follow me, and give me audience, friends.\n\nCassius, go you into the other street\n\nAnd part the numbers.\n\nThose that will hear me speak, let ’em stay here;\n\nThose that will follow Cassius, go with him;\n\nAnd public reasons shall be rendered\n\nOf Caesar’s death."
+  },
+  {
+   "n": 5,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "I will hear Brutus speak."
+  },
+  {
+   "n": 6,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "I will hear Cassius; and compare their reasons,\n\nWhen severally we hear them rendered."
+  },
+  {
+   "n": 7,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Cassius, with some of the Citizens. Brutus goes into the rostrum.*]"
+  },
+  {
+   "n": 8,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "The noble Brutus is ascended: silence!"
+  },
+  {
+   "n": 9,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Be patient till the last.\n\nRomans, countrymen, and lovers, hear me for my cause; and be silent, that you\nmay hear. Believe me for mine honour, and have respect to mine honour, that you\nmay believe. Censure me in your wisdom, and awake your senses, that you may the\nbetter judge. If there be any in this assembly, any dear friend of Caesar’s, to\nhim I say that Brutus’ love to Caesar was no less than his. If then that friend\ndemand why Brutus rose against Caesar, this is my answer: Not that I loved\nCaesar less, but that I loved Rome more. Had you rather Caesar were living, and\ndie all slaves, than that Caesar were dead, to live all free men? As Caesar\nloved me, I weep for him; as he was fortunate, I rejoice at it; as he was\nvaliant, I honour him; but, as he was ambitious, I slew him. There is tears,\nfor his love; joy for his fortune; honour for his valour; and death, for his\nambition. Who is here so base, that would be a bondman? If any, speak; for him\nhave I offended. Who is here so rude, that would not be a Roman? If any, speak;\nfor him have I offended. Who is here so vile, that will not love his country?\nIf any, speak; for him have I offended. I pause for a reply."
+  },
+  {
+   "n": 10,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "None, Brutus, none."
+  },
+  {
+   "n": 11,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Then none have I offended. I have done no more to Caesar than you shall do to\nBrutus. The question of his death is enroll’d in the Capitol, his glory not\nextenuated, wherein he was worthy; nor his offences enforc’d, for which he\nsuffered death."
+  },
+  {
+   "n": 12,
+   "sfx": [
+    {
+     "key": "applause",
+     "offset": 0.5,
+     "at": "Enter Antony and others, with Caesar’s body."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Antony and others, with Caesar’s body."
+  },
+  {
+   "n": 13,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Here comes his body, mourned by Mark Antony, who, though he had no hand in his\ndeath, shall receive the benefit of his dying, a place in the commonwealth; as\nwhich of you shall not? With this I depart, that, as I slew my best lover for\nthe good of Rome, I have the same dagger for myself, when it shall please my\ncountry to need my death."
+  },
+  {
+   "n": 14,
+   "sfx": [
+    {
+     "key": "cheer",
+     "offset": 0.3,
+     "at": "Live, Brutus! live, live!"
+    }
+   ],
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "Live, Brutus! live, live!"
+  },
+  {
+   "n": 15,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "Bring him with triumph home unto his house."
+  },
+  {
+   "n": 16,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Give him a statue with his ancestors."
+  },
+  {
+   "n": 17,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Let him be Caesar."
+  },
+  {
+   "n": 18,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "Caesar’s better parts\n\nShall be crown’d in Brutus."
+  },
+  {
+   "n": 19,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "We’ll bring him to his house with shouts and clamours."
+  },
+  {
+   "n": 20,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "My countrymen,—"
+  },
+  {
+   "n": 21,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Peace! Silence! Brutus speaks."
+  },
+  {
+   "n": 22,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "Peace, ho!"
+  },
+  {
+   "n": 23,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Good countrymen, let me depart alone,\n\nAnd, for my sake, stay here with Antony.\n\nDo grace to Caesar’s corpse, and grace his speech\n\nTending to Caesar’s glories, which Mark Antony,\n\nBy our permission, is allow’d to make.\n\nI do entreat you, not a man depart,\n\nSave I alone, till Antony have spoke."
+  },
+  {
+   "n": 24,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 25,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "Stay, ho! and let us hear Mark Antony."
+  },
+  {
+   "n": 26,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Let him go up into the public chair.\n\nWe’ll hear him. Noble Antony, go up."
+  },
+  {
+   "n": 27,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "For Brutus’ sake, I am beholding to you."
+  },
+  {
+   "n": 28,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Goes up.*]"
+  },
+  {
+   "n": 29,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "What does he say of Brutus?"
+  },
+  {
+   "n": 30,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "He says, for Brutus’ sake\n\nHe finds himself beholding to us all."
+  },
+  {
+   "n": 31,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "’Twere best he speak no harm of Brutus here!"
+  },
+  {
+   "n": 32,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "This Caesar was a tyrant."
+  },
+  {
+   "n": 33,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Nay, that’s certain.\n\nWe are blest that Rome is rid of him."
+  },
+  {
+   "n": 34,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Peace! let us hear what Antony can say."
+  },
+  {
+   "n": 35,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "You gentle Romans,—"
+  },
+  {
+   "n": 36,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "Peace, ho! let us hear him."
+  },
+  {
+   "n": 37,
+   "score": {
+    "key": "forum",
+    "xfade": 8,
+    "at": "Friends, Romans, countrymen, lend me your ears;"
+   },
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Friends, Romans, countrymen, lend me your ears;\n\nI come to bury Caesar, not to praise him.\n\nThe evil that men do lives after them,\n\nThe good is oft interred with their bones;\n\nSo let it be with Caesar. The noble Brutus\n\nHath told you Caesar was ambitious.\n\nIf it were so, it was a grievous fault,\n\nAnd grievously hath Caesar answer’d it.\n\nHere, under leave of Brutus and the rest,\n\nFor Brutus is an honourable man,\n\nSo are they all, all honourable men,\n\nCome I to speak in Caesar’s funeral.\n\nHe was my friend, faithful and just to me;\n\nBut Brutus says he was ambitious,\n\nAnd Brutus is an honourable man.\n\nHe hath brought many captives home to Rome,\n\nWhose ransoms did the general coffers fill:\n\nDid this in Caesar seem ambitious?\n\nWhen that the poor have cried, Caesar hath wept;\n\nAmbition should be made of sterner stuff:\n\nYet Brutus says he was ambitious;\n\nAnd Brutus is an honourable man.\n\nYou all did see that on the Lupercal\n\nI thrice presented him a kingly crown,\n\nWhich he did thrice refuse. Was this ambition?\n\nYet Brutus says he was ambitious;\n\nAnd sure he is an honourable man.\n\nI speak not to disprove what Brutus spoke,\n\nBut here I am to speak what I do know.\n\nYou all did love him once, not without cause;\n\nWhat cause withholds you then to mourn for him?\n\nO judgement, thou art fled to brutish beasts,\n\nAnd men have lost their reason. Bear with me.\n\nMy heart is in the coffin there with Caesar,\n\nAnd I must pause till it come back to me."
+  },
+  {
+   "n": 38,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "Methinks there is much reason in his sayings."
+  },
+  {
+   "n": 39,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "If thou consider rightly of the matter,\n\nCaesar has had great wrong."
+  },
+  {
+   "n": 40,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Has he, masters?\n\nI fear there will a worse come in his place."
+  },
+  {
+   "n": 41,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "Mark’d ye his words? He would not take the crown;\n\nTherefore ’tis certain he was not ambitious."
+  },
+  {
+   "n": 42,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "If it be found so, some will dear abide it."
+  },
+  {
+   "n": 43,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Poor soul, his eyes are red as fire with weeping."
+  },
+  {
+   "n": 44,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "There’s not a nobler man in Rome than Antony."
+  },
+  {
+   "n": 45,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "Now mark him; he begins again to speak."
+  },
+  {
+   "n": 46,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "But yesterday the word of Caesar might\n\nHave stood against the world; now lies he there,\n\nAnd none so poor to do him reverence.\n\nO masters! If I were dispos’d to stir\n\nYour hearts and minds to mutiny and rage,\n\nI should do Brutus wrong and Cassius wrong,\n\nWho, you all know, are honourable men.\n\nI will not do them wrong; I rather choose\n\nTo wrong the dead, to wrong myself and you,\n\nThan I will wrong such honourable men.\n\nBut here’s a parchment with the seal of Caesar,\n\nI found it in his closet; ’tis his will:\n\nLet but the commons hear this testament,\n\nWhich, pardon me, I do not mean to read,\n\nAnd they would go and kiss dead Caesar’s wounds,\n\nAnd dip their napkins in his sacred blood;\n\nYea, beg a hair of him for memory,\n\nAnd, dying, mention it within their wills,\n\nBequeathing it as a rich legacy\n\nUnto their issue."
+  },
+  {
+   "n": 47,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "We’ll hear the will. Read it, Mark Antony."
+  },
+  {
+   "n": 48,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "The will, the will! We will hear Caesar’s will."
+  },
+  {
+   "n": 49,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Have patience, gentle friends, I must not read it.\n\nIt is not meet you know how Caesar loved you.\n\nYou are not wood, you are not stones, but men;\n\nAnd being men, hearing the will of Caesar,\n\nIt will inflame you, it will make you mad.\n\n’Tis good you know not that you are his heirs;\n\nFor if you should, O, what would come of it?"
+  },
+  {
+   "n": 50,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "Read the will! We’ll hear it, Antony;\n\nYou shall read us the will, Caesar’s will!"
+  },
+  {
+   "n": 51,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Will you be patient? Will you stay awhile?\n\nI have o’ershot myself to tell you of it.\n\nI fear I wrong the honourable men\n\nWhose daggers have stabb’d Caesar; I do fear it."
+  },
+  {
+   "n": 52,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "They were traitors. Honourable men!"
+  },
+  {
+   "n": 53,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "The will! The testament!"
+  },
+  {
+   "n": 54,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "They were villains, murderers. The will! Read the will!"
+  },
+  {
+   "n": 55,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "You will compel me then to read the will?\n\nThen make a ring about the corpse of Caesar,\n\nAnd let me show you him that made the will.\n\nShall I descend? and will you give me leave?"
+  },
+  {
+   "n": 56,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "Come down."
+  },
+  {
+   "n": 57,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Descend."
+  },
+  {
+   "n": 58,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*He comes down.*]"
+  },
+  {
+   "n": 59,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "You shall have leave."
+  },
+  {
+   "n": 60,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "A ring! Stand round."
+  },
+  {
+   "n": 61,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "Stand from the hearse, stand from the body."
+  },
+  {
+   "n": 62,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Room for Antony, most noble Antony!"
+  },
+  {
+   "n": 63,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Nay, press not so upon me; stand far off."
+  },
+  {
+   "n": 64,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "Stand back; room! bear back."
+  },
+  {
+   "n": 65,
+   "score": {
+    "key": "ghost",
+    "xfade": 6,
+    "at": "If you have tears, prepare to shed them now."
+   },
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "If you have tears, prepare to shed them now.\n\nYou all do know this mantle. I remember\n\nThe first time ever Caesar put it on;\n\n’Twas on a Summer’s evening, in his tent,\n\nThat day he overcame the Nervii.\n\nLook, in this place ran Cassius’ dagger through:\n\nSee what a rent the envious Casca made:\n\nThrough this the well-beloved Brutus stabb’d;\n\nAnd as he pluck’d his cursed steel away,\n\nMark how the blood of Caesar follow’d it,\n\nAs rushing out of doors, to be resolv’d\n\nIf Brutus so unkindly knock’d, or no;\n\nFor Brutus, as you know, was Caesar’s angel.\n\nJudge, O you gods, how dearly Caesar lov’d him.\n\nThis was the most unkindest cut of all;\n\nFor when the noble Caesar saw him stab,\n\nIngratitude, more strong than traitors’ arms,\n\nQuite vanquish’d him: then burst his mighty heart;\n\nAnd in his mantle muffling up his face,\n\nEven at the base of Pompey’s statue\n\nWhich all the while ran blood, great Caesar fell.\n\nO, what a fall was there, my countrymen!\n\nThen I, and you, and all of us fell down,\n\nWhilst bloody treason flourish’d over us.\n\nO, now you weep; and I perceive you feel\n\nThe dint of pity. These are gracious drops.\n\nKind souls, what weep you when you but behold\n\nOur Caesar’s vesture wounded? Look you here,\n\nHere is himself, marr’d, as you see, with traitors."
+  },
+  {
+   "n": 66,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "O piteous spectacle!"
+  },
+  {
+   "n": 67,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "O noble Caesar!"
+  },
+  {
+   "n": 68,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "O woeful day!"
+  },
+  {
+   "n": 69,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "O traitors, villains!"
+  },
+  {
+   "n": 70,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "O most bloody sight!"
+  },
+  {
+   "n": 71,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "We will be revenged."
+  },
+  {
+   "n": 72,
+   "score": {
+    "key": "forum",
+    "xfade": 3,
+    "at": "Revenge,—about,—seek,—burn,"
+   },
+   "sfx": [
+    {
+     "key": "mob",
+     "at": "Revenge,—about,—seek,—burn,"
+    }
+   ],
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "Revenge,—about,—seek,—burn,—fire,—kill,—slay,—let not a traitor live!"
+  },
+  {
+   "n": 73,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Stay, countrymen."
+  },
+  {
+   "n": 74,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "Peace there! Hear the noble Antony."
+  },
+  {
+   "n": 75,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "We’ll hear him, we’ll follow him, we’ll die with him."
+  },
+  {
+   "n": 76,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Good friends, sweet friends, let me not stir you up\n\nTo such a sudden flood of mutiny.\n\nThey that have done this deed are honourable.\n\nWhat private griefs they have, alas, I know not,\n\nThat made them do it. They’re wise and honourable,\n\nAnd will, no doubt, with reasons answer you.\n\nI come not, friends, to steal away your hearts.\n\nI am no orator, as Brutus is;\n\nBut, as you know me all, a plain blunt man,\n\nThat love my friend; and that they know full well\n\nThat gave me public leave to speak of him.\n\nFor I have neither wit, nor words, nor worth,\n\nAction, nor utterance, nor the power of speech,\n\nTo stir men’s blood. I only speak right on.\n\nI tell you that which you yourselves do know,\n\nShow you sweet Caesar’s wounds, poor poor dumb mouths,\n\nAnd bid them speak for me. But were I Brutus,\n\nAnd Brutus Antony, there were an Antony\n\nWould ruffle up your spirits, and put a tongue\n\nIn every wound of Caesar, that should move\n\nThe stones of Rome to rise and mutiny."
+  },
+  {
+   "n": 77,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "We’ll mutiny."
+  },
+  {
+   "n": 78,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "We’ll burn the house of Brutus."
+  },
+  {
+   "n": 79,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Away, then! come, seek the conspirators."
+  },
+  {
+   "n": 80,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Yet hear me, countrymen; yet hear me speak."
+  },
+  {
+   "n": 81,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "Peace, ho! Hear Antony; most noble Antony."
+  },
+  {
+   "n": 82,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Why, friends, you go to do you know not what.\n\nWherein hath Caesar thus deserved your loves?\n\nAlas, you know not; I must tell you then.\n\nYou have forgot the will I told you of."
+  },
+  {
+   "n": 83,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "Most true; the will!—let’s stay, and hear the will."
+  },
+  {
+   "n": 84,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Here is the will, and under Caesar’s seal.\n\nTo every Roman citizen he gives,\n\nTo every several man, seventy-five drachmas."
+  },
+  {
+   "n": 85,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Most noble Caesar! We’ll revenge his death."
+  },
+  {
+   "n": 86,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "O, royal Caesar!"
+  },
+  {
+   "n": 87,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Hear me with patience."
+  },
+  {
+   "n": 88,
+   "role": "Citizens",
+   "cast": "Spartacus",
+   "text": "Peace, ho!"
+  },
+  {
+   "n": 89,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Moreover, he hath left you all his walks,\n\nHis private arbors, and new-planted orchards,\n\nOn this side Tiber; he hath left them you,\n\nAnd to your heirs forever; common pleasures,\n\nTo walk abroad, and recreate yourselves.\n\nHere was a Caesar! when comes such another?"
+  },
+  {
+   "n": 90,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "Never, never. Come, away, away!\n\nWe’ll burn his body in the holy place,\n\nAnd with the brands fire the traitors’ houses.\n\nTake up the body."
+  },
+  {
+   "n": 91,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Go, fetch fire."
+  },
+  {
+   "n": 92,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Pluck down benches."
+  },
+  {
+   "n": 93,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "Pluck down forms, windows, anything."
+  },
+  {
+   "n": 94,
+   "sfx": [
+    {
+     "key": "mob",
+     "at": "Exeunt Citizens, with the body."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Citizens, with the body.*]"
+  },
+  {
+   "n": 95,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Now let it work. Mischief, thou art afoot,\n\nTake thou what course thou wilt!"
+  },
+  {
+   "n": 96,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter a Servant."
+  },
+  {
+   "n": 97,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "How now, fellow?"
+  },
+  {
+   "n": 98,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "Sir, Octavius is already come to Rome."
+  },
+  {
+   "n": 99,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Where is he?"
+  },
+  {
+   "n": 100,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "He and Lepidus are at Caesar’s house."
+  },
+  {
+   "n": 101,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "And thither will I straight to visit him.\n\nHe comes upon a wish. Fortune is merry,\n\nAnd in this mood will give us anything."
+  },
+  {
+   "n": 102,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "I heard him say Brutus and Cassius\n\nAre rid like madmen through the gates of Rome."
+  },
+  {
+   "n": 103,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Belike they had some notice of the people,\n\nHow I had moved them. Bring me to Octavius."
+  },
+  {
+   "n": 104,
+   "score": {
+    "key": null,
+    "xfade": 8,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "work": "julius-caesar",
+ "episode": 1,
+ "chapter": 1,
+ "title": "Act I, Scene I — Rome. A street",
+ "document": "ACT I · SCENE I",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Flavius",
+   "cast_as": "Publius Clodius Pulcher"
+  },
+  {
+   "role": "Carpenter",
+   "cast_as": "Horatius Cocles"
+  },
+  {
+   "role": "Marullus",
+   "cast_as": "Sallust"
+  },
+  {
+   "role": "Cobbler",
+   "cast_as": "Plautus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "ACT I"
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE I. Rome. A street."
+  },
+  {
+   "n": 3,
+   "sfx": [
+    {
+     "key": "cheer",
+     "offset": 0.6,
+     "at": "Enter Flavius, Marullus"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Flavius, Marullus and a throng of Citizens."
+  },
+  {
+   "n": 4,
+   "role": "Flavius",
+   "cast": "Publius Clodius Pulcher",
+   "text": "Hence! home, you idle creatures, get you home.\n\nIs this a holiday? What, know you not,\n\nBeing mechanical, you ought not walk\n\nUpon a labouring day without the sign\n\nOf your profession? Speak, what trade art thou?"
+  },
+  {
+   "n": 5,
+   "role": "Carpenter",
+   "cast": "Horatius Cocles",
+   "text": "Why, sir, a carpenter."
+  },
+  {
+   "n": 6,
+   "role": "Marullus",
+   "cast": "Sallust",
+   "text": "Where is thy leather apron and thy rule?\n\nWhat dost thou with thy best apparel on?\n\nYou, sir, what trade are you?"
+  },
+  {
+   "n": 7,
+   "role": "Cobbler",
+   "cast": "Plautus",
+   "text": "Truly, sir, in respect of a fine workman, I am but, as you would say, a\ncobbler."
+  },
+  {
+   "n": 8,
+   "role": "Marullus",
+   "cast": "Sallust",
+   "text": "But what trade art thou? Answer me directly."
+  },
+  {
+   "n": 9,
+   "role": "Cobbler",
+   "cast": "Plautus",
+   "text": "A trade, sir, that I hope I may use with a safe conscience, which is indeed,\nsir, a mender of bad soles."
+  },
+  {
+   "n": 10,
+   "role": "Marullus",
+   "cast": "Sallust",
+   "text": "What trade, thou knave? Thou naughty knave, what trade?"
+  },
+  {
+   "n": 11,
+   "role": "Cobbler",
+   "cast": "Plautus",
+   "text": "Nay, I beseech you, sir, be not out with me; yet, if you be out, sir, I can\nmend you."
+  },
+  {
+   "n": 12,
+   "role": "Marullus",
+   "cast": "Sallust",
+   "text": "What mean’st thou by that? Mend me, thou saucy fellow!"
+  },
+  {
+   "n": 13,
+   "role": "Cobbler",
+   "cast": "Plautus",
+   "text": "Why, sir, cobble you."
+  },
+  {
+   "n": 14,
+   "role": "Flavius",
+   "cast": "Publius Clodius Pulcher",
+   "text": "Thou art a cobbler, art thou?"
+  },
+  {
+   "n": 15,
+   "role": "Cobbler",
+   "cast": "Plautus",
+   "text": "Truly, sir, all that I live by is with the awl; I meddle with no tradesman’s\nmatters, nor women’s matters, but withal I am indeed, sir, a surgeon to old\nshoes: when they are in great danger, I recover them. As proper men as ever\ntrod upon neat’s leather have gone upon my handiwork."
+  },
+  {
+   "n": 16,
+   "role": "Flavius",
+   "cast": "Publius Clodius Pulcher",
+   "text": "But wherefore art not in thy shop today?\n\nWhy dost thou lead these men about the streets?"
+  },
+  {
+   "n": 17,
+   "role": "Cobbler",
+   "cast": "Plautus",
+   "text": "Truly, sir, to wear out their shoes, to get myself into more work. But indeed,\nsir, we make holiday to see Caesar, and to rejoice in his triumph."
+  },
+  {
+   "n": 18,
+   "role": "Marullus",
+   "cast": "Sallust",
+   "text": "Wherefore rejoice? What conquest brings he home?\n\nWhat tributaries follow him to Rome,\n\nTo grace in captive bonds his chariot wheels?\n\nYou blocks, you stones, you worse than senseless things!\n\nO you hard hearts, you cruel men of Rome,\n\nKnew you not Pompey? Many a time and oft\n\nHave you climb’d up to walls and battlements,\n\nTo towers and windows, yea, to chimney tops,\n\nYour infants in your arms, and there have sat\n\nThe livelong day with patient expectation,\n\nTo see great Pompey pass the streets of Rome.\n\nAnd when you saw his chariot but appear,\n\nHave you not made an universal shout,\n\nThat Tiber trembled underneath her banks\n\nTo hear the replication of your sounds\n\nMade in her concave shores?\n\nAnd do you now put on your best attire?\n\nAnd do you now cull out a holiday?\n\nAnd do you now strew flowers in his way,\n\nThat comes in triumph over Pompey’s blood?\n\nBe gone!\n\nRun to your houses, fall upon your knees,\n\nPray to the gods to intermit the plague\n\nThat needs must light on this ingratitude."
+  },
+  {
+   "n": 19,
+   "role": "Flavius",
+   "cast": "Publius Clodius Pulcher",
+   "text": "Go, go, good countrymen, and, for this fault\n\nAssemble all the poor men of your sort,\n\nDraw them to Tiber banks, and weep your tears\n\nInto the channel, till the lowest stream\n\nDo kiss the most exalted shores of all."
+  },
+  {
+   "n": 20,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Citizens.*]"
+  },
+  {
+   "n": 21,
+   "role": "Flavius",
+   "cast": "Publius Clodius Pulcher",
+   "text": "See whether their basest metal be not mov’d;\n\nThey vanish tongue-tied in their guiltiness.\n\nGo you down that way towards the Capitol;\n\nThis way will I. Disrobe the images,\n\nIf you do find them deck’d with ceremonies."
+  },
+  {
+   "n": 22,
+   "role": "Marullus",
+   "cast": "Sallust",
+   "text": "May we do so?\n\nYou know it is the feast of Lupercal."
+  },
+  {
+   "n": 23,
+   "role": "Flavius",
+   "cast": "Publius Clodius Pulcher",
+   "text": "It is no matter; let no images\n\nBe hung with Caesar’s trophies. I’ll about\n\nAnd drive away the vulgar from the streets;\n\nSo do you too, where you perceive them thick.\n\nThese growing feathers pluck’d from Caesar’s wing\n\nWill make him fly an ordinary pitch,\n\nWho else would soar above the view of men,\n\nAnd keep us all in servile fearfulness."
+  },
+  {
+   "n": 24,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

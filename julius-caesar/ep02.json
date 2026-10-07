@@ -1,0 +1,722 @@
+{
+ "work": "julius-caesar",
+ "episode": 2,
+ "chapter": 2,
+ "title": "Act I, Scene II — The same. A public place",
+ "document": "ACT I · SCENE II",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Julius Caesar",
+   "cast_as": "Julius Caesar"
+  },
+  {
+   "role": "Casca",
+   "cast_as": "Vespasian"
+  },
+  {
+   "role": "Calpurnia",
+   "cast_as": "Venus"
+  },
+  {
+   "role": "Mark Antony",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Soothsayer",
+   "cast_as": "Nostradamus"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "Cassius",
+   "cast_as": "Gaius Cassius Longinus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE II. The same. A public place."
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "caesar",
+    "xfade": 4,
+    "at": "Enter, in procession, with music"
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter, in procession, with music, Caesar; Antony,\nfor the course; Calphurnia, Portia, Decius, Cicero,\nBrutus, Cassius and Casca; a great crowd\nfollowing, among them a Soothsayer."
+  },
+  {
+   "n": 3,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Calphurnia."
+  },
+  {
+   "n": 4,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Peace, ho! Caesar speaks."
+  },
+  {
+   "n": 5,
+   "score": {
+    "key": null,
+    "xfade": 3,
+    "at": "Music ceases."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Music ceases.*]"
+  },
+  {
+   "n": 6,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Calphurnia."
+  },
+  {
+   "n": 7,
+   "role": "Calpurnia",
+   "cast": "Venus",
+   "text": "Here, my lord."
+  },
+  {
+   "n": 8,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Stand you directly in Antonius’ way,\n\nWhen he doth run his course. Antonius."
+  },
+  {
+   "n": 9,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Caesar, my lord?"
+  },
+  {
+   "n": 10,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Forget not in your speed, Antonius,\n\nTo touch Calphurnia; for our elders say,\n\nThe barren, touched in this holy chase,\n\nShake off their sterile curse."
+  },
+  {
+   "n": 11,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "I shall remember.\n\nWhen Caesar says “Do this,” it is perform’d."
+  },
+  {
+   "n": 12,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Set on; and leave no ceremony out."
+  },
+  {
+   "n": 13,
+   "score": {
+    "key": "caesar",
+    "xfade": 3,
+    "at": "Music."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Music.*]"
+  },
+  {
+   "n": 14,
+   "role": "Soothsayer",
+   "cast": "Nostradamus",
+   "text": "Caesar!"
+  },
+  {
+   "n": 15,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Ha! Who calls?"
+  },
+  {
+   "n": 16,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Bid every noise be still; peace yet again!"
+  },
+  {
+   "n": 17,
+   "score": {
+    "key": null,
+    "xfade": 4,
+    "at": "Music ceases."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Music ceases.*]"
+  },
+  {
+   "n": 18,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Who is it in the press that calls on me?\n\nI hear a tongue shriller than all the music,\n\nCry “Caesar”! Speak. Caesar is turn’d to hear."
+  },
+  {
+   "n": 19,
+   "role": "Soothsayer",
+   "cast": "Nostradamus",
+   "text": "Beware the Ides of March."
+  },
+  {
+   "n": 20,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "What man is that?"
+  },
+  {
+   "n": 21,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "A soothsayer bids you beware the Ides of March."
+  },
+  {
+   "n": 22,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Set him before me; let me see his face."
+  },
+  {
+   "n": 23,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Fellow, come from the throng; look upon Caesar."
+  },
+  {
+   "n": 24,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "What say’st thou to me now? Speak once again."
+  },
+  {
+   "n": 25,
+   "role": "Soothsayer",
+   "cast": "Nostradamus",
+   "text": "Beware the Ides of March."
+  },
+  {
+   "n": 26,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "He is a dreamer; let us leave him. Pass."
+  },
+  {
+   "n": 27,
+   "sfx": [
+    {
+     "key": "sennet",
+     "at": "Sennet. Exeunt all but Brutus and Cassius."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Sennet. Exeunt all but Brutus and Cassius.*]"
+  },
+  {
+   "n": 28,
+   "score": {
+    "key": "brutus",
+    "xfade": 8,
+    "at": "Will you go see the order of the course?"
+   },
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Will you go see the order of the course?"
+  },
+  {
+   "n": 29,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Not I."
+  },
+  {
+   "n": 30,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I pray you, do."
+  },
+  {
+   "n": 31,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I am not gamesome: I do lack some part\n\nOf that quick spirit that is in Antony.\n\nLet me not hinder, Cassius, your desires;\n\nI’ll leave you."
+  },
+  {
+   "n": 32,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Brutus, I do observe you now of late:\n\nI have not from your eyes that gentleness\n\nAnd show of love as I was wont to have.\n\nYou bear too stubborn and too strange a hand\n\nOver your friend that loves you."
+  },
+  {
+   "n": 33,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Cassius,\n\nBe not deceived: if I have veil’d my look,\n\nI turn the trouble of my countenance\n\nMerely upon myself. Vexed I am\n\nOf late with passions of some difference,\n\nConceptions only proper to myself,\n\nWhich give some soil perhaps to my behaviors;\n\nBut let not therefore my good friends be grieved\n\n(Among which number, Cassius, be you one)\n\nNor construe any further my neglect,\n\nThan that poor Brutus, with himself at war,\n\nForgets the shows of love to other men."
+  },
+  {
+   "n": 34,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Then, Brutus, I have much mistook your passion;\n\nBy means whereof this breast of mine hath buried\n\nThoughts of great value, worthy cogitations.\n\nTell me, good Brutus, can you see your face?"
+  },
+  {
+   "n": 35,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "No, Cassius, for the eye sees not itself\n\nBut by reflection, by some other thing."
+  },
+  {
+   "n": 36,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "’Tis just:\n\nAnd it is very much lamented, Brutus,\n\nThat you have no such mirrors as will turn\n\nYour hidden worthiness into your eye,\n\nThat you might see your shadow. I have heard\n\nWhere many of the best respect in Rome,\n\n(Except immortal Caesar) speaking of Brutus,\n\nAnd groaning underneath this age’s yoke,\n\nHave wish’d that noble Brutus had his eyes."
+  },
+  {
+   "n": 37,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Into what dangers would you lead me, Cassius,\n\nThat you would have me seek into myself\n\nFor that which is not in me?"
+  },
+  {
+   "n": 38,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Therefore, good Brutus, be prepared to hear;\n\nAnd since you know you cannot see yourself\n\nSo well as by reflection, I, your glass,\n\nWill modestly discover to yourself\n\nThat of yourself which you yet know not of.\n\nAnd be not jealous on me, gentle Brutus:\n\nWere I a common laugher, or did use\n\nTo stale with ordinary oaths my love\n\nTo every new protester; if you know\n\nThat I do fawn on men, and hug them hard,\n\nAnd after scandal them; or if you know\n\nThat I profess myself in banqueting,\n\nTo all the rout, then hold me dangerous."
+  },
+  {
+   "n": 39,
+   "sfx": [
+    {
+     "key": "flourish",
+     "at": "Flourish and shout."
+    },
+    {
+     "key": "cheer",
+     "offset": 1.2,
+     "at": "Flourish and shout."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Flourish and shout.*]"
+  },
+  {
+   "n": 40,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "What means this shouting? I do fear the people\n\nChoose Caesar for their king."
+  },
+  {
+   "n": 41,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Ay, do you fear it?\n\nThen must I think you would not have it so."
+  },
+  {
+   "n": 42,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I would not, Cassius; yet I love him well,\n\nBut wherefore do you hold me here so long?\n\nWhat is it that you would impart to me?\n\nIf it be aught toward the general good,\n\nSet honour in one eye and death i’ the other,\n\nAnd I will look on both indifferently;\n\nFor let the gods so speed me as I love\n\nThe name of honour more than I fear death."
+  },
+  {
+   "n": 43,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I know that virtue to be in you, Brutus,\n\nAs well as I do know your outward favour.\n\nWell, honour is the subject of my story.\n\nI cannot tell what you and other men\n\nThink of this life; but, for my single self,\n\nI had as lief not be as live to be\n\nIn awe of such a thing as I myself.\n\nI was born free as Caesar; so were you;\n\nWe both have fed as well, and we can both\n\nEndure the winter’s cold as well as he:\n\nFor once, upon a raw and gusty day,\n\nThe troubled Tiber chafing with her shores,\n\nCaesar said to me, “Dar’st thou, Cassius, now\n\nLeap in with me into this angry flood,\n\nAnd swim to yonder point?” Upon the word,\n\nAccoutred as I was, I plunged in,\n\nAnd bade him follow: so indeed he did.\n\nThe torrent roar’d, and we did buffet it\n\nWith lusty sinews, throwing it aside\n\nAnd stemming it with hearts of controversy.\n\nBut ere we could arrive the point propos’d,\n\nCaesar cried, “Help me, Cassius, or I sink!”\n\nI, as Aeneas, our great ancestor,\n\nDid from the flames of Troy upon his shoulder\n\nThe old Anchises bear, so from the waves of Tiber\n\nDid I the tired Caesar. And this man\n\nIs now become a god; and Cassius is\n\nA wretched creature, and must bend his body,\n\nIf Caesar carelessly but nod on him.\n\nHe had a fever when he was in Spain,\n\nAnd when the fit was on him I did mark\n\nHow he did shake: ’tis true, this god did shake:\n\nHis coward lips did from their colour fly,\n\nAnd that same eye whose bend doth awe the world\n\nDid lose his lustre. I did hear him groan:\n\nAy, and that tongue of his, that bade the Romans\n\nMark him, and write his speeches in their books,\n\nAlas, it cried, “Give me some drink, Titinius,”\n\nAs a sick girl. Ye gods, it doth amaze me,\n\nA man of such a feeble temper should\n\nSo get the start of the majestic world,\n\nAnd bear the palm alone."
+  },
+  {
+   "n": 44,
+   "sfx": [
+    {
+     "key": "cheer",
+     "at": "Shout. Flourish."
+    },
+    {
+     "key": "flourish",
+     "offset": 1.4,
+     "at": "Shout. Flourish."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Shout. Flourish.*]"
+  },
+  {
+   "n": 45,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Another general shout?\n\nI do believe that these applauses are\n\nFor some new honours that are heap’d on Caesar."
+  },
+  {
+   "n": 46,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Why, man, he doth bestride the narrow world\n\nLike a Colossus, and we petty men\n\nWalk under his huge legs, and peep about\n\nTo find ourselves dishonourable graves.\n\nMen at some time are masters of their fates:\n\nThe fault, dear Brutus, is not in our stars,\n\nBut in ourselves, that we are underlings.\n\n“Brutus” and “Caesar”: what should be in that “Caesar”?\n\nWhy should that name be sounded more than yours?\n\nWrite them together, yours is as fair a name;\n\nSound them, it doth become the mouth as well;\n\nWeigh them, it is as heavy; conjure with ’em,\n\n“Brutus” will start a spirit as soon as “Caesar.”\n\nNow in the names of all the gods at once,\n\nUpon what meat doth this our Caesar feed,\n\nThat he is grown so great? Age, thou art sham’d!\n\nRome, thou hast lost the breed of noble bloods!\n\nWhen went there by an age since the great flood,\n\nBut it was fam’d with more than with one man?\n\nWhen could they say, till now, that talk’d of Rome,\n\nThat her wide walls encompass’d but one man?\n\nNow is it Rome indeed, and room enough,\n\nWhen there is in it but one only man.\n\nO, you and I have heard our fathers say,\n\nThere was a Brutus once that would have brook’d\n\nTh’ eternal devil to keep his state in Rome,\n\nAs easily as a king!"
+  },
+  {
+   "n": 47,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "That you do love me, I am nothing jealous;\n\nWhat you would work me to, I have some aim:\n\nHow I have thought of this, and of these times,\n\nI shall recount hereafter. For this present,\n\nI would not, so with love I might entreat you,\n\nBe any further mov’d. What you have said,\n\nI will consider; what you have to say\n\nI will with patience hear; and find a time\n\nBoth meet to hear and answer such high things.\n\nTill then, my noble friend, chew upon this:\n\nBrutus had rather be a villager\n\nThan to repute himself a son of Rome\n\nUnder these hard conditions as this time\n\nIs like to lay upon us."
+  },
+  {
+   "n": 48,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I am glad that my weak words\n\nHave struck but thus much show of fire from Brutus."
+  },
+  {
+   "n": 49,
+   "score": {
+    "key": "caesar",
+    "xfade": 5,
+    "at": "Enter Caesar and his Train."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Caesar and his Train."
+  },
+  {
+   "n": 50,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "The games are done, and Caesar is returning."
+  },
+  {
+   "n": 51,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "As they pass by, pluck Casca by the sleeve,\n\nAnd he will, after his sour fashion, tell you\n\nWhat hath proceeded worthy note today."
+  },
+  {
+   "n": 52,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I will do so. But, look you, Cassius,\n\nThe angry spot doth glow on Caesar’s brow,\n\nAnd all the rest look like a chidden train:\n\nCalphurnia’s cheek is pale; and Cicero\n\nLooks with such ferret and such fiery eyes\n\nAs we have seen him in the Capitol,\n\nBeing cross’d in conference by some senators."
+  },
+  {
+   "n": 53,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Casca will tell us what the matter is."
+  },
+  {
+   "n": 54,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Antonius."
+  },
+  {
+   "n": 55,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Caesar?"
+  },
+  {
+   "n": 56,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Let me have men about me that are fat,\n\nSleek-headed men, and such as sleep a-nights:\n\nYond Cassius has a lean and hungry look;\n\nHe thinks too much: such men are dangerous."
+  },
+  {
+   "n": 57,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Fear him not, Caesar; he’s not dangerous;\n\nHe is a noble Roman and well given."
+  },
+  {
+   "n": 58,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Would he were fatter! But I fear him not:\n\nYet if my name were liable to fear,\n\nI do not know the man I should avoid\n\nSo soon as that spare Cassius. He reads much,\n\nHe is a great observer, and he looks\n\nQuite through the deeds of men. He loves no plays,\n\nAs thou dost, Antony; he hears no music.\n\nSeldom he smiles; and smiles in such a sort\n\nAs if he mock’d himself and scorn’d his spirit\n\nThat could be mov’d to smile at anything.\n\nSuch men as he be never at heart’s ease\n\nWhiles they behold a greater than themselves,\n\nAnd therefore are they very dangerous.\n\nI rather tell thee what is to be fear’d\n\nThan what I fear; for always I am Caesar.\n\nCome on my right hand, for this ear is deaf,\n\nAnd tell me truly what thou think’st of him."
+  },
+  {
+   "n": 59,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exeunt Caesar and his Train. Casca stays."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Caesar and his Train. Casca stays.*]"
+  },
+  {
+   "n": 60,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "You pull’d me by the cloak; would you speak with me?"
+  },
+  {
+   "n": 61,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Ay, Casca, tell us what hath chanc’d today,\n\nThat Caesar looks so sad."
+  },
+  {
+   "n": 62,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Why, you were with him, were you not?"
+  },
+  {
+   "n": 63,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I should not then ask Casca what had chanc’d."
+  },
+  {
+   "n": 64,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Why, there was a crown offer’d him; and being offer’d him, he put it by with\nthe back of his hand, thus; and then the people fell a-shouting."
+  },
+  {
+   "n": 65,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "What was the second noise for?"
+  },
+  {
+   "n": 66,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Why, for that too."
+  },
+  {
+   "n": 67,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "They shouted thrice: what was the last cry for?"
+  },
+  {
+   "n": 68,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Why, for that too."
+  },
+  {
+   "n": 69,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Was the crown offer’d him thrice?"
+  },
+  {
+   "n": 70,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Ay, marry, was’t, and he put it by thrice, every time gentler than other; and\nat every putting-by mine honest neighbours shouted."
+  },
+  {
+   "n": 71,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Who offer’d him the crown?"
+  },
+  {
+   "n": 72,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Why, Antony."
+  },
+  {
+   "n": 73,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Tell us the manner of it, gentle Casca."
+  },
+  {
+   "n": 74,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "I can as well be hang’d, as tell the manner of it: it was mere foolery; I did\nnot mark it. I saw Mark Antony offer him a crown; yet ’twas not a crown\nneither, ’twas one of these coronets; and, as I told you, he put it by once:\nbut, for all that, to my thinking, he would fain have had it. Then he offered\nit to him again: then he put it by again: but, to my thinking, he was very\nloath to lay his fingers off it. And then he offered it the third time; he put\nit the third time by; and still, as he refus’d it, the rabblement hooted, and\nclapp’d their chopt hands, and threw up their sweaty night-caps, and uttered\nsuch a deal of stinking breath because Caesar refus’d the crown, that it had,\nalmost, choked Caesar, for he swooned, and fell down at it. And for mine own\npart, I durst not laugh, for fear of opening my lips and receiving the bad air."
+  },
+  {
+   "n": 75,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "But, soft! I pray you. What, did Caesar swoon?"
+  },
+  {
+   "n": 76,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "He fell down in the market-place, and foam’d at mouth, and was speechless."
+  },
+  {
+   "n": 77,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "’Tis very like: he hath the falling-sickness."
+  },
+  {
+   "n": 78,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "No, Caesar hath it not; but you, and I,\n\nAnd honest Casca, we have the falling-sickness."
+  },
+  {
+   "n": 79,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "I know not what you mean by that; but I am sure Caesar fell down. If the\ntag-rag people did not clap him and hiss him, according as he pleased and\ndispleased them, as they use to do the players in the theatre, I am no true\nman."
+  },
+  {
+   "n": 80,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "What said he when he came unto himself?"
+  },
+  {
+   "n": 81,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Marry, before he fell down, when he perceived the common herd was glad he\nrefused the crown, he pluck’d me ope his doublet, and offer’d them his throat\nto cut. And I had been a man of any occupation, if I would not have taken him\nat a word, I would I might go to hell among the rogues. And so he fell. When he\ncame to himself again, he said, if he had done or said anything amiss, he\ndesir’d their worships to think it was his infirmity. Three or four wenches\nwhere I stood cried, “Alas, good soul!” and forgave him with all their hearts.\nBut there’s no heed to be taken of them: if Caesar had stabb’d their mothers,\nthey would have done no less."
+  },
+  {
+   "n": 82,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "And, after that, he came thus sad away?"
+  },
+  {
+   "n": 83,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Ay."
+  },
+  {
+   "n": 84,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Did Cicero say anything?"
+  },
+  {
+   "n": 85,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Ay, he spoke Greek."
+  },
+  {
+   "n": 86,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "To what effect?"
+  },
+  {
+   "n": 87,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Nay, and I tell you that, I’ll ne’er look you i’ the face again. But those that\nunderstood him smil’d at one another and shook their heads; but for mine own\npart, it was Greek to me. I could tell you more news too: Marullus and Flavius,\nfor pulling scarfs off Caesar’s images, are put to silence. Fare you well.\nThere was more foolery yet, if I could remember it."
+  },
+  {
+   "n": 88,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Will you sup with me tonight, Casca?"
+  },
+  {
+   "n": 89,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "No, I am promis’d forth."
+  },
+  {
+   "n": 90,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Will you dine with me tomorrow?"
+  },
+  {
+   "n": 91,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Ay, if I be alive, and your mind hold, and your dinner worth the eating."
+  },
+  {
+   "n": 92,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Good. I will expect you."
+  },
+  {
+   "n": 93,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Do so; farewell both."
+  },
+  {
+   "n": 94,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Casca.*]"
+  },
+  {
+   "n": 95,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "What a blunt fellow is this grown to be!\n\nHe was quick mettle when he went to school."
+  },
+  {
+   "n": 96,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "So is he now in execution\n\nOf any bold or noble enterprise,\n\nHowever he puts on this tardy form.\n\nThis rudeness is a sauce to his good wit,\n\nWhich gives men stomach to digest his words\n\nWith better appetite."
+  },
+  {
+   "n": 97,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "And so it is. For this time I will leave you:\n\nTomorrow, if you please to speak with me,\n\nI will come home to you; or, if you will,\n\nCome home to me, and I will wait for you."
+  },
+  {
+   "n": 98,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I will do so: till then, think of the world."
+  },
+  {
+   "n": 99,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Brutus.*]"
+  },
+  {
+   "n": 100,
+   "score": {
+    "key": "conspiracy",
+    "xfade": 6,
+    "at": "Well, Brutus, thou art noble"
+   },
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Well, Brutus, thou art noble; yet I see,\n\nThy honourable metal may be wrought\n\nFrom that it is dispos’d: therefore ’tis meet\n\nThat noble minds keep ever with their likes;\n\nFor who so firm that cannot be seduc’d?\n\nCaesar doth bear me hard, but he loves Brutus.\n\nIf I were Brutus now, and he were Cassius,\n\nHe should not humour me. I will this night,\n\nIn several hands, in at his windows throw,\n\nAs if they came from several citizens,\n\nWritings, all tending to the great opinion\n\nThat Rome holds of his name; wherein obscurely\n\nCaesar’s ambition shall be glanced at.\n\nAnd after this, let Caesar seat him sure,\n\nFor we will shake him, or worse days endure."
+  },
+  {
+   "n": 101,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  }
+ ]
+}

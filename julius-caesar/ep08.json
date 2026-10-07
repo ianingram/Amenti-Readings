@@ -1,0 +1,803 @@
+{
+ "work": "julius-caesar",
+ "episode": 8,
+ "chapter": 8,
+ "title": "Act III, Scene I — Rome. Before the Capitol; the Senate sitting",
+ "document": "ACT III · SCENE I",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Julius Caesar",
+   "cast_as": "Julius Caesar"
+  },
+  {
+   "role": "Soothsayer",
+   "cast_as": "Nostradamus"
+  },
+  {
+   "role": "Artemidorus",
+   "cast_as": "Plutarch"
+  },
+  {
+   "role": "Decius Brutus",
+   "cast_as": "Marcus Licinius Crassus"
+  },
+  {
+   "role": "Publius",
+   "cast_as": "Numa Pompilius"
+  },
+  {
+   "role": "Cassius",
+   "cast_as": "Gaius Cassius Longinus"
+  },
+  {
+   "role": "Popilius Lena",
+   "cast_as": "Marcus Terentius Varro"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "Cinna",
+   "cast_as": "Sextus Pompey"
+  },
+  {
+   "role": "Metellus Cimber",
+   "cast_as": "Pompey"
+  },
+  {
+   "role": "Casca",
+   "cast_as": "Vespasian"
+  },
+  {
+   "role": "Trebonius",
+   "cast_as": "Tiberius"
+  },
+  {
+   "role": "Servant",
+   "cast_as": "Terence"
+  },
+  {
+   "role": "Mark Antony",
+   "cast_as": "Mark Antony"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "ACT III"
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE I. Rome. Before the Capitol; the Senate sitting."
+  },
+  {
+   "n": 3,
+   "score": {
+    "key": "caesar",
+    "xfade": 4,
+    "at": "Flourish. Enter Caesar"
+   },
+   "sfx": [
+    {
+     "key": "flourish",
+     "at": "Flourish. Enter Caesar"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "A crowd of people in the street leading to the Capitol. Flourish. Enter Caesar, Brutus, Cassius, Casca, Decius, Metellus, Trebonius,\nCinna, Antony, Lepidus, Artemidorus, Publius, Popilius and the Soothsayer."
+  },
+  {
+   "n": 4,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "The Ides of March are come."
+  },
+  {
+   "n": 5,
+   "role": "Soothsayer",
+   "cast": "Nostradamus",
+   "text": "Ay, Caesar; but not gone."
+  },
+  {
+   "n": 6,
+   "role": "Artemidorus",
+   "cast": "Plutarch",
+   "text": "Hail, Caesar! Read this schedule."
+  },
+  {
+   "n": 7,
+   "role": "Decius Brutus",
+   "cast": "Marcus Licinius Crassus",
+   "text": "Trebonius doth desire you to o’er-read,\n\nAt your best leisure, this his humble suit."
+  },
+  {
+   "n": 8,
+   "role": "Artemidorus",
+   "cast": "Plutarch",
+   "text": "O Caesar, read mine first; for mine’s a suit\n\nThat touches Caesar nearer. Read it, great Caesar."
+  },
+  {
+   "n": 9,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "What touches us ourself shall be last serv’d."
+  },
+  {
+   "n": 10,
+   "role": "Artemidorus",
+   "cast": "Plutarch",
+   "text": "Delay not, Caesar. Read it instantly."
+  },
+  {
+   "n": 11,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "What, is the fellow mad?"
+  },
+  {
+   "n": 12,
+   "role": "Publius",
+   "cast": "Numa Pompilius",
+   "text": "Sirrah, give place."
+  },
+  {
+   "n": 13,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "What, urge you your petitions in the street?\n\nCome to the Capitol."
+  },
+  {
+   "n": 14,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Caesar enters the Capitol, the rest following.\nAll the Senators rise."
+  },
+  {
+   "n": 15,
+   "role": "Popilius Lena",
+   "cast": "Marcus Terentius Varro",
+   "text": "I wish your enterprise today may thrive."
+  },
+  {
+   "n": 16,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "What enterprise, Popilius?"
+  },
+  {
+   "n": 17,
+   "role": "Popilius Lena",
+   "cast": "Marcus Terentius Varro",
+   "text": "Fare you well."
+  },
+  {
+   "n": 18,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Advances to Caesar.*]"
+  },
+  {
+   "n": 19,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "What said Popilius Lena?"
+  },
+  {
+   "n": 20,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "He wish’d today our enterprise might thrive.\n\nI fear our purpose is discovered."
+  },
+  {
+   "n": 21,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Look how he makes to Caesar: mark him."
+  },
+  {
+   "n": 22,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Casca, be sudden, for we fear prevention.\n\nBrutus, what shall be done? If this be known,\n\nCassius or Caesar never shall turn back,\n\nFor I will slay myself."
+  },
+  {
+   "n": 23,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Cassius, be constant:\n\nPopilius Lena speaks not of our purposes;\n\nFor look, he smiles, and Caesar doth not change."
+  },
+  {
+   "n": 24,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Trebonius knows his time, for look you, Brutus,\n\nHe draws Mark Antony out of the way."
+  },
+  {
+   "n": 25,
+   "score": {
+    "key": "conspiracy",
+    "xfade": 5,
+    "at": "Exeunt Antony and Trebonius."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Antony and Trebonius. Caesar and the Senators take their\nseats.*]"
+  },
+  {
+   "n": 26,
+   "role": "Decius Brutus",
+   "cast": "Marcus Licinius Crassus",
+   "text": "Where is Metellus Cimber? Let him go,\n\nAnd presently prefer his suit to Caesar."
+  },
+  {
+   "n": 27,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "He is address’d; press near and second him."
+  },
+  {
+   "n": 28,
+   "role": "Cinna",
+   "cast": "Sextus Pompey",
+   "text": "Casca, you are the first that rears your hand."
+  },
+  {
+   "n": 29,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Are we all ready? What is now amiss\n\nThat Caesar and his Senate must redress?"
+  },
+  {
+   "n": 30,
+   "role": "Metellus Cimber",
+   "cast": "Pompey",
+   "text": "Most high, most mighty, and most puissant Caesar,\n\nMetellus Cimber throws before thy seat\n\nAn humble heart."
+  },
+  {
+   "n": 31,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Kneeling.*]"
+  },
+  {
+   "n": 32,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "I must prevent thee, Cimber.\n\nThese couchings and these lowly courtesies\n\nMight fire the blood of ordinary men,\n\nAnd turn pre-ordinance and first decree\n\nInto the law of children. Be not fond,\n\nTo think that Caesar bears such rebel blood\n\nThat will be thaw’d from the true quality\n\nWith that which melteth fools; I mean sweet words,\n\nLow-crooked curtsies, and base spaniel fawning.\n\nThy brother by decree is banished:\n\nIf thou dost bend, and pray, and fawn for him,\n\nI spurn thee like a cur out of my way.\n\nKnow, Caesar dost not wrong, nor without cause\n\nWill he be satisfied."
+  },
+  {
+   "n": 33,
+   "role": "Metellus Cimber",
+   "cast": "Pompey",
+   "text": "Is there no voice more worthy than my own,\n\nTo sound more sweetly in great Caesar’s ear\n\nFor the repealing of my banish’d brother?"
+  },
+  {
+   "n": 34,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I kiss thy hand, but not in flattery, Caesar;\n\nDesiring thee that Publius Cimber may\n\nHave an immediate freedom of repeal."
+  },
+  {
+   "n": 35,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "What, Brutus?"
+  },
+  {
+   "n": 36,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Pardon, Caesar; Caesar, pardon:\n\nAs low as to thy foot doth Cassius fall,\n\nTo beg enfranchisement for Publius Cimber."
+  },
+  {
+   "n": 37,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "I could be well mov’d, if I were as you;\n\nIf I could pray to move, prayers would move me:\n\nBut I am constant as the northern star,\n\nOf whose true-fix’d and resting quality\n\nThere is no fellow in the firmament.\n\nThe skies are painted with unnumber’d sparks,\n\nThey are all fire, and every one doth shine;\n\nBut there’s but one in all doth hold his place.\n\nSo in the world; ’tis furnish’d well with men,\n\nAnd men are flesh and blood, and apprehensive;\n\nYet in the number I do know but one\n\nThat unassailable holds on his rank,\n\nUnshak’d of motion: and that I am he,\n\nLet me a little show it, even in this,\n\nThat I was constant Cimber should be banish’d,\n\nAnd constant do remain to keep him so."
+  },
+  {
+   "n": 38,
+   "role": "Cinna",
+   "cast": "Sextus Pompey",
+   "text": "O Caesar,—"
+  },
+  {
+   "n": 39,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Hence! wilt thou lift up Olympus?"
+  },
+  {
+   "n": 40,
+   "role": "Decius Brutus",
+   "cast": "Marcus Licinius Crassus",
+   "text": "Great Caesar,—"
+  },
+  {
+   "n": 41,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Doth not Brutus bootless kneel?"
+  },
+  {
+   "n": 42,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Speak, hands, for me!"
+  },
+  {
+   "n": 43,
+   "score": {
+    "key": null,
+    "xfade": 0.4,
+    "cut": true,
+    "at": "Casca stabs Caesar in the neck"
+   },
+   "sfx": [
+    {
+     "key": "stabbing",
+     "at": "Casca stabs Caesar in the neck"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Casca stabs Caesar in the neck. Caesar catches hold of his arm. He is then stabbed by\nseveral other Conspirators, and at last by Marcus\nBrutus.*]"
+  },
+  {
+   "n": 44,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "*Et tu, Brute?*—Then fall, Caesar!"
+  },
+  {
+   "n": 45,
+   "sfx": [
+    {
+     "key": "bell_toll",
+     "offset": 0.3,
+     "at": "Dies. The Senators and People retire in confusion."
+    },
+    {
+     "key": "mob",
+     "offset": 4.0,
+     "at": "Dies. The Senators and People retire in confusion."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Dies. The Senators and People retire in confusion.*]"
+  },
+  {
+   "n": 46,
+   "role": "Cinna",
+   "cast": "Sextus Pompey",
+   "text": "Liberty! Freedom! Tyranny is dead!\n\nRun hence, proclaim, cry it about the streets."
+  },
+  {
+   "n": 47,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Some to the common pulpits and cry out,\n\n“Liberty, freedom, and enfranchisement!”"
+  },
+  {
+   "n": 48,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "People and Senators, be not affrighted.\n\nFly not; stand still; ambition’s debt is paid."
+  },
+  {
+   "n": 49,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Go to the pulpit, Brutus."
+  },
+  {
+   "n": 50,
+   "role": "Decius Brutus",
+   "cast": "Marcus Licinius Crassus",
+   "text": "And Cassius too."
+  },
+  {
+   "n": 51,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Where’s Publius?"
+  },
+  {
+   "n": 52,
+   "role": "Cinna",
+   "cast": "Sextus Pompey",
+   "text": "Here, quite confounded with this mutiny."
+  },
+  {
+   "n": 53,
+   "role": "Metellus Cimber",
+   "cast": "Pompey",
+   "text": "Stand fast together, lest some friend of Caesar’s\n\nShould chance—"
+  },
+  {
+   "n": 54,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Talk not of standing. Publius, good cheer!\n\nThere is no harm intended to your person,\n\nNor to no Roman else. So tell them, Publius."
+  },
+  {
+   "n": 55,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "And leave us, Publius; lest that the people\n\nRushing on us, should do your age some mischief."
+  },
+  {
+   "n": 56,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Do so; and let no man abide this deed\n\nBut we the doers."
+  },
+  {
+   "n": 57,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Trebonius."
+  },
+  {
+   "n": 58,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Where’s Antony?"
+  },
+  {
+   "n": 59,
+   "role": "Trebonius",
+   "cast": "Tiberius",
+   "text": "Fled to his house amaz’d.\n\nMen, wives, and children stare, cry out, and run,\n\nAs it were doomsday."
+  },
+  {
+   "n": 60,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Fates, we will know your pleasures.\n\nThat we shall die, we know; ’tis but the time\n\nAnd drawing days out, that men stand upon."
+  },
+  {
+   "n": 61,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Why, he that cuts off twenty years of life\n\nCuts off so many years of fearing death."
+  },
+  {
+   "n": 62,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Grant that, and then is death a benefit:\n\nSo are we Caesar’s friends, that have abridg’d\n\nHis time of fearing death. Stoop, Romans, stoop,\n\nAnd let us bathe our hands in Caesar’s blood\n\nUp to the elbows, and besmear our swords:\n\nThen walk we forth, even to the market-place,\n\nAnd waving our red weapons o’er our heads,\n\nLet’s all cry, “Peace, freedom, and liberty!”"
+  },
+  {
+   "n": 63,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Stoop then, and wash. How many ages hence\n\nShall this our lofty scene be acted over\n\nIn States unborn, and accents yet unknown!"
+  },
+  {
+   "n": 64,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "How many times shall Caesar bleed in sport,\n\nThat now on Pompey’s basis lies along,\n\nNo worthier than the dust!"
+  },
+  {
+   "n": 65,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "So oft as that shall be,\n\nSo often shall the knot of us be call’d\n\nThe men that gave their country liberty."
+  },
+  {
+   "n": 66,
+   "role": "Decius Brutus",
+   "cast": "Marcus Licinius Crassus",
+   "text": "What, shall we forth?"
+  },
+  {
+   "n": 67,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Ay, every man away.\n\nBrutus shall lead; and we will grace his heels\n\nWith the most boldest and best hearts of Rome."
+  },
+  {
+   "n": 68,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter a Servant."
+  },
+  {
+   "n": 69,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Soft, who comes here? A friend of Antony’s."
+  },
+  {
+   "n": 70,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "Thus, Brutus, did my master bid me kneel;\n\nThus did Mark Antony bid me fall down;\n\nAnd, being prostrate, thus he bade me say:\n\nBrutus is noble, wise, valiant, and honest;\n\nCaesar was mighty, bold, royal, and loving;\n\nSay I love Brutus and I honour him;\n\nSay I fear’d Caesar, honour’d him, and lov’d him.\n\nIf Brutus will vouchsafe that Antony\n\nMay safely come to him, and be resolv’d\n\nHow Caesar hath deserv’d to lie in death,\n\nMark Antony shall not love Caesar dead\n\nSo well as Brutus living; but will follow\n\nThe fortunes and affairs of noble Brutus\n\nThorough the hazards of this untrod state,\n\nWith all true faith. So says my master Antony."
+  },
+  {
+   "n": 71,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Thy master is a wise and valiant Roman;\n\nI never thought him worse.\n\nTell him, so please him come unto this place,\n\nHe shall be satisfied and, by my honour,\n\nDepart untouch’d."
+  },
+  {
+   "n": 72,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "I’ll fetch him presently."
+  },
+  {
+   "n": 73,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 74,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I know that we shall have him well to friend."
+  },
+  {
+   "n": 75,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I wish we may: but yet have I a mind\n\nThat fears him much; and my misgiving still\n\nFalls shrewdly to the purpose."
+  },
+  {
+   "n": 76,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Antony."
+  },
+  {
+   "n": 77,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "But here comes Antony. Welcome, Mark Antony."
+  },
+  {
+   "n": 78,
+   "score": {
+    "key": "brutus",
+    "xfade": 6,
+    "at": "O mighty Caesar! Dost thou lie so low?"
+   },
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "O mighty Caesar! Dost thou lie so low?\n\nAre all thy conquests, glories, triumphs, spoils,\n\nShrunk to this little measure? Fare thee well.\n\nI know not, gentlemen, what you intend,\n\nWho else must be let blood, who else is rank:\n\nIf I myself, there is no hour so fit\n\nAs Caesar’s death’s hour; nor no instrument\n\nOf half that worth as those your swords, made rich\n\nWith the most noble blood of all this world.\n\nI do beseech ye, if you bear me hard,\n\nNow, whilst your purpled hands do reek and smoke,\n\nFulfill your pleasure. Live a thousand years,\n\nI shall not find myself so apt to die.\n\nNo place will please me so, no means of death,\n\nAs here by Caesar, and by you cut off,\n\nThe choice and master spirits of this age."
+  },
+  {
+   "n": 79,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "O Antony, beg not your death of us.\n\nThough now we must appear bloody and cruel,\n\nAs by our hands and this our present act\n\nYou see we do; yet see you but our hands\n\nAnd this the bleeding business they have done.\n\nOur hearts you see not; they are pitiful;\n\nAnd pity to the general wrong of Rome—\n\nAs fire drives out fire, so pity pity—\n\nHath done this deed on Caesar. For your part,\n\nTo you our swords have leaden points, Mark Antony;\n\nOur arms in strength of malice, and our hearts\n\nOf brothers’ temper, do receive you in\n\nWith all kind love, good thoughts, and reverence."
+  },
+  {
+   "n": 80,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Your voice shall be as strong as any man’s\n\nIn the disposing of new dignities."
+  },
+  {
+   "n": 81,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Only be patient till we have appeas’d\n\nThe multitude, beside themselves with fear,\n\nAnd then we will deliver you the cause\n\nWhy I, that did love Caesar when I struck him,\n\nHave thus proceeded."
+  },
+  {
+   "n": 82,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "I doubt not of your wisdom.\n\nLet each man render me his bloody hand.\n\nFirst, Marcus Brutus, will I shake with you;\n\nNext, Caius Cassius, do I take your hand.\n\nNow, Decius Brutus, yours; now yours, Metellus;\n\nYours, Cinna; and, my valiant Casca, yours;\n\nThough last, not least in love, yours, good Trebonius.\n\nGentlemen all—alas, what shall I say?\n\nMy credit now stands on such slippery ground,\n\nThat one of two bad ways you must conceit me,\n\nEither a coward or a flatterer.\n\nThat I did love thee, Caesar, O, ’tis true:\n\nIf then thy spirit look upon us now,\n\nShall it not grieve thee dearer than thy death,\n\nTo see thy Antony making his peace,\n\nShaking the bloody fingers of thy foes,\n\nMost noble, in the presence of thy corse?\n\nHad I as many eyes as thou hast wounds,\n\nWeeping as fast as they stream forth thy blood,\n\nIt would become me better than to close\n\nIn terms of friendship with thine enemies.\n\nPardon me, Julius! Here wast thou bay’d, brave hart;\n\nHere didst thou fall; and here thy hunters stand,\n\nSign’d in thy spoil, and crimson’d in thy lethe.\n\nO world, thou wast the forest to this hart;\n\nAnd this indeed, O world, the heart of thee.\n\nHow like a deer strucken by many princes,\n\nDost thou here lie!"
+  },
+  {
+   "n": 83,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Mark Antony,—"
+  },
+  {
+   "n": 84,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Pardon me, Caius Cassius:\n\nThe enemies of Caesar shall say this;\n\nThen, in a friend, it is cold modesty."
+  },
+  {
+   "n": 85,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I blame you not for praising Caesar so;\n\nBut what compact mean you to have with us?\n\nWill you be prick’d in number of our friends,\n\nOr shall we on, and not depend on you?"
+  },
+  {
+   "n": 86,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Therefore I took your hands; but was indeed\n\nSway’d from the point, by looking down on Caesar.\n\nFriends am I with you all, and love you all,\n\nUpon this hope, that you shall give me reasons\n\nWhy, and wherein, Caesar was dangerous."
+  },
+  {
+   "n": 87,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Or else were this a savage spectacle.\n\nOur reasons are so full of good regard\n\nThat were you, Antony, the son of Caesar,\n\nYou should be satisfied."
+  },
+  {
+   "n": 88,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "That’s all I seek,\n\nAnd am moreover suitor that I may\n\nProduce his body to the market-place;\n\nAnd in the pulpit, as becomes a friend,\n\nSpeak in the order of his funeral."
+  },
+  {
+   "n": 89,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "You shall, Mark Antony."
+  },
+  {
+   "n": 90,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Brutus, a word with you."
+  },
+  {
+   "n": 91,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Aside to Brutus.*]"
+  },
+  {
+   "n": 92,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "You know not what you do. Do not consent\n\nThat Antony speak in his funeral.\n\nKnow you how much the people may be mov’d\n\nBy that which he will utter?"
+  },
+  {
+   "n": 93,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Aside to Cassius.*]"
+  },
+  {
+   "n": 94,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "By your pardon:\n\nI will myself into the pulpit first,\n\nAnd show the reason of our Caesar’s death.\n\nWhat Antony shall speak, I will protest\n\nHe speaks by leave and by permission;\n\nAnd that we are contented Caesar shall\n\nHave all true rights and lawful ceremonies.\n\nIt shall advantage more than do us wrong."
+  },
+  {
+   "n": 95,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Aside to Brutus.*]"
+  },
+  {
+   "n": 96,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I know not what may fall; I like it not."
+  },
+  {
+   "n": 97,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Mark Antony, here, take you Caesar’s body.\n\nYou shall not in your funeral speech blame us,\n\nBut speak all good you can devise of Caesar,\n\nAnd say you do’t by our permission;\n\nElse shall you not have any hand at all\n\nAbout his funeral. And you shall speak\n\nIn the same pulpit whereto I am going,\n\nAfter my speech is ended."
+  },
+  {
+   "n": 98,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Be it so;\n\nI do desire no more."
+  },
+  {
+   "n": 99,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Prepare the body, then, and follow us."
+  },
+  {
+   "n": 100,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt all but Antony.*]"
+  },
+  {
+   "n": 101,
+   "score": {
+    "key": "ghost",
+    "xfade": 6,
+    "at": "O, pardon me, thou bleeding piece of earth"
+   },
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "O, pardon me, thou bleeding piece of earth,\n\nThat I am meek and gentle with these butchers.\n\nThou art the ruins of the noblest man\n\nThat ever lived in the tide of times.\n\nWoe to the hand that shed this costly blood!\n\nOver thy wounds now do I prophesy,\n\nWhich, like dumb mouths do ope their ruby lips\n\nTo beg the voice and utterance of my tongue,\n\nA curse shall light upon the limbs of men;\n\nDomestic fury and fierce civil strife\n\nShall cumber all the parts of Italy;\n\nBlood and destruction shall be so in use,\n\nAnd dreadful objects so familiar,\n\nThat mothers shall but smile when they behold\n\nTheir infants quartered with the hands of war;\n\nAll pity chok’d with custom of fell deeds:\n\nAnd Caesar’s spirit, ranging for revenge,\n\nWith Ate by his side come hot from Hell,\n\nShall in these confines with a monarch’s voice\n\nCry havoc and let slip the dogs of war,\n\nThat this foul deed shall smell above the earth\n\nWith carrion men, groaning for burial."
+  },
+  {
+   "n": 102,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter a Servant."
+  },
+  {
+   "n": 103,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "You serve Octavius Caesar, do you not?"
+  },
+  {
+   "n": 104,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "I do, Mark Antony."
+  },
+  {
+   "n": 105,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Caesar did write for him to come to Rome."
+  },
+  {
+   "n": 106,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "He did receive his letters, and is coming,\n\nAnd bid me say to you by word of mouth,—"
+  },
+  {
+   "n": 107,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Seeing the body.*]"
+  },
+  {
+   "n": 108,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "O Caesar!"
+  },
+  {
+   "n": 109,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Thy heart is big, get thee apart and weep.\n\nPassion, I see, is catching; for mine eyes,\n\nSeeing those beads of sorrow stand in thine,\n\nBegan to water. Is thy master coming?"
+  },
+  {
+   "n": 110,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "He lies tonight within seven leagues of Rome."
+  },
+  {
+   "n": 111,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Post back with speed, and tell him what hath chanc’d.\n\nHere is a mourning Rome, a dangerous Rome,\n\nNo Rome of safety for Octavius yet.\n\nHie hence, and tell him so. Yet stay awhile;\n\nThou shalt not back till I have borne this corse\n\nInto the market-place: there shall I try,\n\nIn my oration, how the people take\n\nThe cruel issue of these bloody men;\n\nAccording to the which thou shalt discourse\n\nTo young Octavius of the state of things.\n\nLend me your hand."
+  },
+  {
+   "n": 112,
+   "score": {
+    "key": null,
+    "xfade": 8,
+    "at": "Exeunt with Caesar’s body."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt with Caesar’s body.*]"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "work": "julius-caesar",
+ "episode": 6,
+ "chapter": 6,
+ "title": "Act II, Scene III — A street near the Capitol",
+ "document": "ACT II · SCENE III",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Artemidorus",
+   "cast_as": "Plutarch"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE III. A street near the\nCapitol."
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "conspiracy",
+    "xfade": 4,
+    "at": "Enter Artemidorus, reading a paper."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Artemidorus, reading a paper."
+  },
+  {
+   "n": 3,
+   "role": "Artemidorus",
+   "cast": "Plutarch",
+   "text": "*“Caesar, beware of Brutus; take heed of Cassius; come not near Casca; have\nan eye to Cinna; trust not Trebonius; mark well Metellus Cimber; Decius Brutus\nloves thee not; thou hast wrong’d Caius Ligarius. There is but one mind in all\nthese men, and it is bent against Caesar. If thou be’st not immortal, look\nabout you: security gives way to conspiracy. The mighty gods defend thee!\n\nThy lover, Artemidorus.”*\nHere will I stand till Caesar pass along,\nAnd as a suitor will I give him this.\nMy heart laments that virtue\ncannot live\nOut of the teeth of emulation.\nIf thou read this, O\nCaesar, thou mayest live;\nIf not, the Fates with traitors do contrive."
+  },
+  {
+   "n": 4,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exit."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  }
+ ]
+}

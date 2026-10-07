@@ -1,0 +1,341 @@
+{
+ "work": "julius-caesar",
+ "episode": 3,
+ "chapter": 3,
+ "title": "Act I, Scene III — The same. A street",
+ "document": "ACT I · SCENE III",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Cicero",
+   "cast_as": "Marcus Tullius Cicero"
+  },
+  {
+   "role": "Casca",
+   "cast_as": "Vespasian"
+  },
+  {
+   "role": "Cassius",
+   "cast_as": "Gaius Cassius Longinus"
+  },
+  {
+   "role": "Cinna",
+   "cast_as": "Sextus Pompey"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE III. The same. A street."
+  },
+  {
+   "n": 2,
+   "sfx": [
+    {
+     "key": "thunder",
+     "at": "Thunder and lightning."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Thunder and lightning. Enter, from opposite sides, Casca with his sword drawn, and Cicero."
+  },
+  {
+   "n": 3,
+   "role": "Cicero",
+   "cast": "Marcus Tullius Cicero",
+   "text": "Good even, Casca: brought you Caesar home?\n\nWhy are you breathless, and why stare you so?"
+  },
+  {
+   "n": 4,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Are not you moved, when all the sway of earth\n\nShakes like a thing unfirm? O Cicero,\n\nI have seen tempests, when the scolding winds\n\nHave riv’d the knotty oaks; and I have seen\n\nTh’ ambitious ocean swell and rage and foam,\n\nTo be exalted with the threatening clouds:\n\nBut never till tonight, never till now,\n\nDid I go through a tempest dropping fire.\n\nEither there is a civil strife in heaven,\n\nOr else the world too saucy with the gods,\n\nIncenses them to send destruction."
+  },
+  {
+   "n": 5,
+   "role": "Cicero",
+   "cast": "Marcus Tullius Cicero",
+   "text": "Why, saw you anything more wonderful?"
+  },
+  {
+   "n": 6,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "A common slave, you’d know him well by sight,\n\nHeld up his left hand, which did flame and burn\n\nLike twenty torches join’d, and yet his hand,\n\nNot sensible of fire remain’d unscorch’d.\n\nBesides, I ha’ not since put up my sword,\n\nAgainst the Capitol I met a lion,\n\nWho glared upon me, and went surly by,\n\nWithout annoying me. And there were drawn\n\nUpon a heap a hundred ghastly women,\n\nTransformed with their fear; who swore they saw\n\nMen, all in fire, walk up and down the streets.\n\nAnd yesterday the bird of night did sit,\n\nEven at noonday upon the marketplace,\n\nHooting and shrieking. When these prodigies\n\nDo so conjointly meet, let not men say,\n\n“These are their reasons; they are natural”;\n\nFor I believe, they are portentous things\n\nUnto the climate that they point upon."
+  },
+  {
+   "n": 7,
+   "role": "Cicero",
+   "cast": "Marcus Tullius Cicero",
+   "text": "Indeed, it is a strange-disposed time.\n\nBut men may construe things after their fashion,\n\nClean from the purpose of the things themselves.\n\nComes Caesar to the Capitol tomorrow?"
+  },
+  {
+   "n": 8,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "He doth, for he did bid Antonius\n\nSend word to you he would be there tomorrow."
+  },
+  {
+   "n": 9,
+   "role": "Cicero",
+   "cast": "Marcus Tullius Cicero",
+   "text": "Goodnight then, Casca: this disturbed sky\n\nIs not to walk in."
+  },
+  {
+   "n": 10,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Farewell, Cicero."
+  },
+  {
+   "n": 11,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Cicero.*]"
+  },
+  {
+   "n": 12,
+   "score": {
+    "key": "conspiracy",
+    "xfade": 6,
+    "at": "Enter Cassius."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Cassius."
+  },
+  {
+   "n": 13,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Who’s there?"
+  },
+  {
+   "n": 14,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "A Roman."
+  },
+  {
+   "n": 15,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Casca, by your voice."
+  },
+  {
+   "n": 16,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Your ear is good. Cassius, what night is this!"
+  },
+  {
+   "n": 17,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "A very pleasing night to honest men."
+  },
+  {
+   "n": 18,
+   "sfx": [
+    {
+     "key": "thunder",
+     "offset": 2.0,
+     "at": "Who ever knew the heavens menace so?"
+    }
+   ],
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Who ever knew the heavens menace so?"
+  },
+  {
+   "n": 19,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Those that have known the earth so full of faults.\n\nFor my part, I have walk’d about the streets,\n\nSubmitting me unto the perilous night;\n\nAnd, thus unbraced, Casca, as you see,\n\nHave bar’d my bosom to the thunder-stone;\n\nAnd when the cross blue lightning seem’d to open\n\nThe breast of heaven, I did present myself\n\nEven in the aim and very flash of it."
+  },
+  {
+   "n": 20,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "But wherefore did you so much tempt the Heavens?\n\nIt is the part of men to fear and tremble,\n\nWhen the most mighty gods by tokens send\n\nSuch dreadful heralds to astonish us."
+  },
+  {
+   "n": 21,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "You are dull, Casca; and those sparks of life\n\nThat should be in a Roman you do want,\n\nOr else you use not. You look pale and gaze,\n\nAnd put on fear and cast yourself in wonder,\n\nTo see the strange impatience of the Heavens:\n\nBut if you would consider the true cause\n\nWhy all these fires, why all these gliding ghosts,\n\nWhy birds and beasts, from quality and kind;\n\nWhy old men, fools, and children calculate,\n\nWhy all these things change from their ordinance,\n\nTheir natures, and pre-formed faculties,\n\nTo monstrous quality; why, you shall find\n\nThat Heaven hath infus’d them with these spirits,\n\nTo make them instruments of fear and warning\n\nUnto some monstrous state.\n\nNow could I, Casca, name to thee a man\n\nMost like this dreadful night,\n\nThat thunders, lightens, opens graves, and roars,\n\nAs doth the lion in the Capitol;\n\nA man no mightier than thyself, or me,\n\nIn personal action; yet prodigious grown,\n\nAnd fearful, as these strange eruptions are."
+  },
+  {
+   "n": 22,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "’Tis Caesar that you mean; is it not, Cassius?"
+  },
+  {
+   "n": 23,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Let it be who it is: for Romans now\n\nHave thews and limbs like to their ancestors;\n\nBut, woe the while! our fathers’ minds are dead,\n\nAnd we are govern’d with our mothers’ spirits;\n\nOur yoke and sufferance show us womanish."
+  },
+  {
+   "n": 24,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Indeed, they say the senators tomorrow\n\nMean to establish Caesar as a king;\n\nAnd he shall wear his crown by sea and land,\n\nIn every place, save here in Italy."
+  },
+  {
+   "n": 25,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I know where I will wear this dagger then;\n\nCassius from bondage will deliver Cassius:\n\nTherein, ye gods, you make the weak most strong;\n\nTherein, ye gods, you tyrants do defeat.\n\nNor stony tower, nor walls of beaten brass,\n\nNor airless dungeon, nor strong links of iron,\n\nCan be retentive to the strength of spirit;\n\nBut life, being weary of these worldly bars,\n\nNever lacks power to dismiss itself.\n\nIf I know this, know all the world besides,\n\nThat part of tyranny that I do bear\n\nI can shake off at pleasure."
+  },
+  {
+   "n": 26,
+   "sfx": [
+    {
+     "key": "thunder",
+     "at": "Thunder still."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Thunder still.*]"
+  },
+  {
+   "n": 27,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "So can I:\n\nSo every bondman in his own hand bears\n\nThe power to cancel his captivity."
+  },
+  {
+   "n": 28,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "And why should Caesar be a tyrant then?\n\nPoor man! I know he would not be a wolf,\n\nBut that he sees the Romans are but sheep:\n\nHe were no lion, were not Romans hinds.\n\nThose that with haste will make a mighty fire\n\nBegin it with weak straws. What trash is Rome,\n\nWhat rubbish, and what offal, when it serves\n\nFor the base matter to illuminate\n\nSo vile a thing as Caesar! But, O grief,\n\nWhere hast thou led me? I, perhaps, speak this\n\nBefore a willing bondman: then I know\n\nMy answer must be made; but I am arm’d,\n\nAnd dangers are to me indifferent."
+  },
+  {
+   "n": 29,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "You speak to Casca, and to such a man\n\nThat is no fleering tell-tale. Hold, my hand:\n\nBe factious for redress of all these griefs,\n\nAnd I will set this foot of mine as far\n\nAs who goes farthest."
+  },
+  {
+   "n": 30,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "There’s a bargain made.\n\nNow know you, Casca, I have mov’d already\n\nSome certain of the noblest-minded Romans\n\nTo undergo with me an enterprise\n\nOf honourable-dangerous consequence;\n\nAnd I do know by this, they stay for me\n\nIn Pompey’s Porch: for now, this fearful night,\n\nThere is no stir or walking in the streets;\n\nAnd the complexion of the element\n\nIn favour’s like the work we have in hand,\n\nMost bloody, fiery, and most terrible."
+  },
+  {
+   "n": 31,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Cinna."
+  },
+  {
+   "n": 32,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "Stand close awhile, for here comes one in haste."
+  },
+  {
+   "n": 33,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "’Tis Cinna; I do know him by his gait;\n\nHe is a friend. Cinna, where haste you so?"
+  },
+  {
+   "n": 34,
+   "role": "Cinna",
+   "cast": "Sextus Pompey",
+   "text": "To find out you. Who’s that? Metellus Cimber?"
+  },
+  {
+   "n": 35,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "No, it is Casca, one incorporate\n\nTo our attempts. Am I not stay’d for, Cinna?"
+  },
+  {
+   "n": 36,
+   "role": "Cinna",
+   "cast": "Sextus Pompey",
+   "text": "I am glad on’t. What a fearful night is this!\n\nThere’s two or three of us have seen strange sights."
+  },
+  {
+   "n": 37,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Am I not stay’d for? tell me."
+  },
+  {
+   "n": 38,
+   "role": "Cinna",
+   "cast": "Sextus Pompey",
+   "text": "Yes, you are. O Cassius, if you could\n\nBut win the noble Brutus to our party—"
+  },
+  {
+   "n": 39,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Be you content. Good Cinna, take this paper,\n\nAnd look you lay it in the praetor’s chair,\n\nWhere Brutus may but find it; and throw this\n\nIn at his window; set this up with wax\n\nUpon old Brutus’ statue: all this done,\n\nRepair to Pompey’s Porch, where you shall find us.\n\nIs Decius Brutus and Trebonius there?"
+  },
+  {
+   "n": 40,
+   "role": "Cinna",
+   "cast": "Sextus Pompey",
+   "text": "All but Metellus Cimber, and he’s gone\n\nTo seek you at your house. Well, I will hie,\n\nAnd so bestow these papers as you bade me."
+  },
+  {
+   "n": 41,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "That done, repair to Pompey’s theatre."
+  },
+  {
+   "n": 42,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Cinna.*]"
+  },
+  {
+   "n": 43,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Come, Casca, you and I will yet, ere day,\n\nSee Brutus at his house: three parts of him\n\nIs ours already, and the man entire\n\nUpon the next encounter, yields him ours."
+  },
+  {
+   "n": 44,
+   "role": "Casca",
+   "cast": "Vespasian",
+   "text": "O, he sits high in all the people’s hearts!\n\nAnd that which would appear offence in us,\n\nHis countenance, like richest alchemy,\n\nWill change to virtue and to worthiness."
+  },
+  {
+   "n": 45,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Him, and his worth, and our great need of him,\n\nYou have right well conceited. Let us go,\n\nFor it is after midnight; and ere day,\n\nWe will awake him, and be sure of him."
+  },
+  {
+   "n": 46,
+   "score": {
+    "key": null,
+    "xfade": 8,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

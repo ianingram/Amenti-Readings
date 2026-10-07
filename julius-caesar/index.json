@@ -1,0 +1,137 @@
+{
+ "work": "julius-caesar",
+ "title": "Julius Caesar",
+ "author": "William Shakespeare",
+ "first_published": 1599,
+ "source": "library/shakespeare-william/17-julius-caesar.md in Amenti.live · public domain",
+ "note": "A play is already a cast recording: every speech carries its speaker’s name, so nothing is inferred. Shakespeare reads every stage direction. The Romans play themselves — Caesar, Brutus, Cassius, Antony, Octavius (Augustus), Lepidus, Cicero; Calpurnia by Venus, Portia by Zenobia; the small parts doubled, as in Shakespeare’s own company. One episode per scene. Part One (Acts I–III) is scripted.",
+ "unit": "scenes",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "julius-caesar/ep01.json",
+   "document": "ACT I · SCENE I",
+   "summary": "Act I, Scene I — Rome. A street",
+   "status": "scripted"
+  },
+  {
+   "n": 2,
+   "file": "julius-caesar/ep02.json",
+   "document": "ACT I · SCENE II",
+   "summary": "Act I, Scene II — The same. A public place",
+   "status": "scripted"
+  },
+  {
+   "n": 3,
+   "file": "julius-caesar/ep03.json",
+   "document": "ACT I · SCENE III",
+   "summary": "Act I, Scene III — The same. A street",
+   "status": "scripted"
+  },
+  {
+   "n": 4,
+   "file": "julius-caesar/ep04.json",
+   "document": "ACT II · SCENE I",
+   "summary": "Act II, Scene I — Rome. Brutus’ orchard",
+   "status": "scripted"
+  },
+  {
+   "n": 5,
+   "file": "julius-caesar/ep05.json",
+   "document": "ACT II · SCENE II",
+   "summary": "Act II, Scene II — A room in Caesar’s palace",
+   "status": "scripted"
+  },
+  {
+   "n": 6,
+   "file": "julius-caesar/ep06.json",
+   "document": "ACT II · SCENE III",
+   "summary": "Act II, Scene III — A street near the Capitol",
+   "status": "scripted"
+  },
+  {
+   "n": 7,
+   "file": "julius-caesar/ep07.json",
+   "document": "ACT II · SCENE IV",
+   "summary": "Act II, Scene IV — Another part of the same street, before the house of Brutus",
+   "status": "scripted"
+  },
+  {
+   "n": 8,
+   "file": "julius-caesar/ep08.json",
+   "document": "ACT III · SCENE I",
+   "summary": "Act III, Scene I — Rome. Before the Capitol; the Senate sitting",
+   "status": "scripted"
+  },
+  {
+   "n": 9,
+   "file": "julius-caesar/ep09.json",
+   "document": "ACT III · SCENE II",
+   "summary": "Act III, Scene II — The same. The Forum",
+   "status": "scripted"
+  },
+  {
+   "n": 10,
+   "file": "julius-caesar/ep10.json",
+   "document": "ACT III · SCENE III",
+   "summary": "Act III, Scene III — The same. A street",
+   "status": "scripted"
+  },
+  {
+   "n": 11,
+   "file": "julius-caesar/ep11.json",
+   "document": "ACT IV · SCENE I",
+   "summary": "Act IV, Scene I — Rome. A room in Antony’s house",
+   "status": "not yet"
+  },
+  {
+   "n": 12,
+   "file": "julius-caesar/ep12.json",
+   "document": "ACT IV · SCENE II",
+   "summary": "Act IV, Scene II — Before Brutus’ tent, in the camp near Sardis",
+   "status": "not yet"
+  },
+  {
+   "n": 13,
+   "file": "julius-caesar/ep13.json",
+   "document": "ACT IV · SCENE III",
+   "summary": "Act IV, Scene III — Within the tent of Brutus",
+   "status": "not yet"
+  },
+  {
+   "n": 14,
+   "file": "julius-caesar/ep14.json",
+   "document": "ACT V · SCENE I",
+   "summary": "Act V, Scene I — The plains of Philippi",
+   "status": "not yet"
+  },
+  {
+   "n": 15,
+   "file": "julius-caesar/ep15.json",
+   "document": "ACT V · SCENE II",
+   "summary": "Act V, Scene II — The same. The field of battle",
+   "status": "not yet"
+  },
+  {
+   "n": 16,
+   "file": "julius-caesar/ep16.json",
+   "document": "ACT V · SCENE III",
+   "summary": "Act V, Scene III — Another part of the field",
+   "status": "not yet"
+  },
+  {
+   "n": 17,
+   "file": "julius-caesar/ep17.json",
+   "document": "ACT V · SCENE IV",
+   "summary": "Act V, Scene IV — Another part of the field",
+   "status": "not yet"
+  },
+  {
+   "n": 18,
+   "file": "julius-caesar/ep18.json",
+   "document": "ACT V · SCENE V",
+   "summary": "Act V, Scene V — Another part of the field",
+   "status": "not yet"
+  }
+ ]
+}

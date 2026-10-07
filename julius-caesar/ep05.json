@@ -1,0 +1,373 @@
+{
+ "work": "julius-caesar",
+ "episode": 5,
+ "chapter": 5,
+ "title": "Act II, Scene II — A room in Caesar’s palace",
+ "document": "ACT II · SCENE II",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Julius Caesar",
+   "cast_as": "Julius Caesar"
+  },
+  {
+   "role": "Servant",
+   "cast_as": "Terence"
+  },
+  {
+   "role": "Calpurnia",
+   "cast_as": "Venus"
+  },
+  {
+   "role": "Decius Brutus",
+   "cast_as": "Marcus Licinius Crassus"
+  },
+  {
+   "role": "Publius",
+   "cast_as": "Numa Pompilius"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "Mark Antony",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Trebonius",
+   "cast_as": "Tiberius"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE II. A room in Caesar’s palace."
+  },
+  {
+   "n": 2,
+   "sfx": [
+    {
+     "key": "thunder",
+     "at": "Thunder and lightning."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Thunder and lightning. Enter Caesar, in his\nnightgown."
+  },
+  {
+   "n": 3,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Nor heaven nor earth have been at peace tonight:\n\nThrice hath Calphurnia in her sleep cried out,\n\n“Help, ho! They murder Caesar!” Who’s within?"
+  },
+  {
+   "n": 4,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter a Servant."
+  },
+  {
+   "n": 5,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "My lord?"
+  },
+  {
+   "n": 6,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Go bid the priests do present sacrifice,\n\nAnd bring me their opinions of success."
+  },
+  {
+   "n": 7,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "I will, my lord."
+  },
+  {
+   "n": 8,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 9,
+   "score": {
+    "key": "ghost",
+    "xfade": 6,
+    "at": "Enter Calphurnia."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Calphurnia."
+  },
+  {
+   "n": 10,
+   "role": "Calpurnia",
+   "cast": "Venus",
+   "text": "What mean you, Caesar? Think you to walk forth?\n\nYou shall not stir out of your house today."
+  },
+  {
+   "n": 11,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Caesar shall forth. The things that threaten’d me\n\nNe’er look’d but on my back; when they shall see\n\nThe face of Caesar, they are vanished."
+  },
+  {
+   "n": 12,
+   "role": "Calpurnia",
+   "cast": "Venus",
+   "text": "Caesar, I never stood on ceremonies,\n\nYet now they fright me. There is one within,\n\nBesides the things that we have heard and seen,\n\nRecounts most horrid sights seen by the watch.\n\nA lioness hath whelped in the streets,\n\nAnd graves have yawn’d, and yielded up their dead;\n\nFierce fiery warriors fight upon the clouds\n\nIn ranks and squadrons and right form of war,\n\nWhich drizzled blood upon the Capitol;\n\nThe noise of battle hurtled in the air,\n\nHorses did neigh, and dying men did groan,\n\nAnd ghosts did shriek and squeal about the streets.\n\nO Caesar, these things are beyond all use,\n\nAnd I do fear them!"
+  },
+  {
+   "n": 13,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "What can be avoided\n\nWhose end is purpos’d by the mighty gods?\n\nYet Caesar shall go forth; for these predictions\n\nAre to the world in general as to Caesar."
+  },
+  {
+   "n": 14,
+   "role": "Calpurnia",
+   "cast": "Venus",
+   "text": "When beggars die, there are no comets seen;\n\nThe heavens themselves blaze forth the death of princes."
+  },
+  {
+   "n": 15,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Cowards die many times before their deaths;\n\nThe valiant never taste of death but once.\n\nOf all the wonders that I yet have heard,\n\nIt seems to me most strange that men should fear,\n\nSeeing that death, a necessary end,\n\nWill come when it will come."
+  },
+  {
+   "n": 16,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Servant."
+  },
+  {
+   "n": 17,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "What say the augurers?"
+  },
+  {
+   "n": 18,
+   "role": "Servant",
+   "cast": "Terence",
+   "text": "They would not have you to stir forth today.\n\nPlucking the entrails of an offering forth,\n\nThey could not find a heart within the beast."
+  },
+  {
+   "n": 19,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "The gods do this in shame of cowardice:\n\nCaesar should be a beast without a heart\n\nIf he should stay at home today for fear.\n\nNo, Caesar shall not. Danger knows full well\n\nThat Caesar is more dangerous than he.\n\nWe are two lions litter’d in one day,\n\nAnd I the elder and more terrible,\n\nAnd Caesar shall go forth."
+  },
+  {
+   "n": 20,
+   "role": "Calpurnia",
+   "cast": "Venus",
+   "text": "Alas, my lord,\n\nYour wisdom is consum’d in confidence.\n\nDo not go forth today: call it my fear\n\nThat keeps you in the house, and not your own.\n\nWe’ll send Mark Antony to the Senate-house,\n\nAnd he shall say you are not well today.\n\nLet me upon my knee prevail in this."
+  },
+  {
+   "n": 21,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Mark Antony shall say I am not well,\n\nAnd for thy humour, I will stay at home."
+  },
+  {
+   "n": 22,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Decius."
+  },
+  {
+   "n": 23,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Here’s Decius Brutus, he shall tell them so."
+  },
+  {
+   "n": 24,
+   "role": "Decius Brutus",
+   "cast": "Marcus Licinius Crassus",
+   "text": "Caesar, all hail! Good morrow, worthy Caesar.\n\nI come to fetch you to the Senate-house."
+  },
+  {
+   "n": 25,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "And you are come in very happy time\n\nTo bear my greeting to the Senators,\n\nAnd tell them that I will not come today.\n\nCannot, is false; and that I dare not, falser:\n\nI will not come today. Tell them so, Decius."
+  },
+  {
+   "n": 26,
+   "role": "Calpurnia",
+   "cast": "Venus",
+   "text": "Say he is sick."
+  },
+  {
+   "n": 27,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Shall Caesar send a lie?\n\nHave I in conquest stretch’d mine arm so far,\n\nTo be afeard to tell grey-beards the truth?\n\nDecius, go tell them Caesar will not come."
+  },
+  {
+   "n": 28,
+   "role": "Decius Brutus",
+   "cast": "Marcus Licinius Crassus",
+   "text": "Most mighty Caesar, let me know some cause,\n\nLest I be laugh’d at when I tell them so."
+  },
+  {
+   "n": 29,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "The cause is in my will; I will not come.\n\nThat is enough to satisfy the Senate.\n\nBut for your private satisfaction,\n\nBecause I love you, I will let you know:\n\nCalphurnia here, my wife, stays me at home.\n\nShe dreamt tonight she saw my statue,\n\nWhich like a fountain with an hundred spouts\n\nDid run pure blood; and many lusty Romans\n\nCame smiling, and did bathe their hands in it.\n\nAnd these does she apply for warnings and portents\n\nAnd evils imminent; and on her knee\n\nHath begg’d that I will stay at home today."
+  },
+  {
+   "n": 30,
+   "score": {
+    "key": "caesar",
+    "xfade": 6,
+    "at": "This dream is all amiss interpreted"
+   },
+   "role": "Decius Brutus",
+   "cast": "Marcus Licinius Crassus",
+   "text": "This dream is all amiss interpreted:\n\nIt was a vision fair and fortunate.\n\nYour statue spouting blood in many pipes,\n\nIn which so many smiling Romans bath’d,\n\nSignifies that from you great Rome shall suck\n\nReviving blood, and that great men shall press\n\nFor tinctures, stains, relics, and cognizance.\n\nThis by Calphurnia’s dream is signified."
+  },
+  {
+   "n": 31,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "And this way have you well expounded it."
+  },
+  {
+   "n": 32,
+   "role": "Decius Brutus",
+   "cast": "Marcus Licinius Crassus",
+   "text": "I have, when you have heard what I can say;\n\nAnd know it now. The Senate have concluded\n\nTo give this day a crown to mighty Caesar.\n\nIf you shall send them word you will not come,\n\nTheir minds may change. Besides, it were a mock\n\nApt to be render’d, for someone to say,\n\n“Break up the Senate till another time,\n\nWhen Caesar’s wife shall meet with better dreams.”\n\nIf Caesar hide himself, shall they not whisper\n\n“Lo, Caesar is afraid”?\n\nPardon me, Caesar; for my dear dear love\n\nTo your proceeding bids me tell you this,\n\nAnd reason to my love is liable."
+  },
+  {
+   "n": 33,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "How foolish do your fears seem now, Calphurnia!\n\nI am ashamed I did yield to them.\n\nGive me my robe, for I will go."
+  },
+  {
+   "n": 34,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Brutus, Ligarius, Metellus, Casca, Trebonius,\nCinna and Publius."
+  },
+  {
+   "n": 35,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "And look where Publius is come to fetch me."
+  },
+  {
+   "n": 36,
+   "role": "Publius",
+   "cast": "Numa Pompilius",
+   "text": "Good morrow, Caesar."
+  },
+  {
+   "n": 37,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Welcome, Publius.\n\nWhat, Brutus, are you stirr’d so early too?\n\nGood morrow, Casca. Caius Ligarius,\n\nCaesar was ne’er so much your enemy\n\nAs that same ague which hath made you lean.\n\nWhat is’t o’clock?"
+  },
+  {
+   "n": 38,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Caesar, ’tis strucken eight."
+  },
+  {
+   "n": 39,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "I thank you for your pains and courtesy."
+  },
+  {
+   "n": 40,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Antony."
+  },
+  {
+   "n": 41,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "See! Antony, that revels long a-nights,\n\nIs notwithstanding up. Good morrow, Antony."
+  },
+  {
+   "n": 42,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "So to most noble Caesar."
+  },
+  {
+   "n": 43,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Bid them prepare within.\n\nI am to blame to be thus waited for.\n\nNow, Cinna; now, Metellus; what, Trebonius!\n\nI have an hour’s talk in store for you:\n\nRemember that you call on me today;\n\nBe near me, that I may remember you."
+  },
+  {
+   "n": 44,
+   "role": "Trebonius",
+   "cast": "Tiberius",
+   "text": "Caesar, I will."
+  },
+  {
+   "n": 45,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Aside.*]"
+  },
+  {
+   "n": 46,
+   "role": "Trebonius",
+   "cast": "Tiberius",
+   "text": "and so near will I be,\n\nThat your best friends shall wish I had been further."
+  },
+  {
+   "n": 47,
+   "role": "Julius Caesar",
+   "cast": "Julius Caesar",
+   "text": "Good friends, go in, and taste some wine with me;\n\nAnd we, like friends, will straightway go together."
+  },
+  {
+   "n": 48,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Aside.*]"
+  },
+  {
+   "n": 49,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "That every like is not the same, O Caesar,\n\nThe heart of Brutus yearns to think upon."
+  },
+  {
+   "n": 50,
+   "score": {
+    "key": null,
+    "xfade": 8,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

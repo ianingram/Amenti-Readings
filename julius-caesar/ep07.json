@@ -1,0 +1,210 @@
+{
+ "work": "julius-caesar",
+ "episode": 7,
+ "chapter": 7,
+ "title": "Act II, Scene IV — Another part of the same street, before the house of Brutus",
+ "document": "ACT II · SCENE IV",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Portia",
+   "cast_as": "Zenobia"
+  },
+  {
+   "role": "Lucius",
+   "cast_as": "Virgil"
+  },
+  {
+   "role": "Soothsayer",
+   "cast_as": "Nostradamus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE IV. Another part of the same street,\nbefore the house of Brutus."
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "brutus",
+    "xfade": 5,
+    "at": "Enter Portia and Lucius."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Portia and Lucius."
+  },
+  {
+   "n": 3,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "I pr’ythee, boy, run to the Senate-house;\n\nStay not to answer me, but get thee gone.\n\nWhy dost thou stay?"
+  },
+  {
+   "n": 4,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "To know my errand, madam."
+  },
+  {
+   "n": 5,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "I would have had thee there and here again,\n\nEre I can tell thee what thou shouldst do there."
+  },
+  {
+   "n": 6,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Aside.*]"
+  },
+  {
+   "n": 7,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "O constancy, be strong upon my side,\n\nSet a huge mountain ’tween my heart and tongue!\n\nI have a man’s mind, but a woman’s might.\n\nHow hard it is for women to keep counsel!\n\nArt thou here yet?"
+  },
+  {
+   "n": 8,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "Madam, what should I do?\n\nRun to the Capitol, and nothing else?\n\nAnd so return to you, and nothing else?"
+  },
+  {
+   "n": 9,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "Yes, bring me word, boy, if thy lord look well,\n\nFor he went sickly forth: and take good note\n\nWhat Caesar doth, what suitors press to him.\n\nHark, boy, what noise is that?"
+  },
+  {
+   "n": 10,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "I hear none, madam."
+  },
+  {
+   "n": 11,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "Pr’ythee, listen well.\n\nI heard a bustling rumour, like a fray,\n\nAnd the wind brings it from the Capitol."
+  },
+  {
+   "n": 12,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "Sooth, madam, I hear nothing."
+  },
+  {
+   "n": 13,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter the Soothsayer."
+  },
+  {
+   "n": 14,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "Come hither, fellow:\n\nWhich way hast thou been?"
+  },
+  {
+   "n": 15,
+   "role": "Soothsayer",
+   "cast": "Nostradamus",
+   "text": "At mine own house, good lady."
+  },
+  {
+   "n": 16,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "What is’t o’clock?"
+  },
+  {
+   "n": 17,
+   "role": "Soothsayer",
+   "cast": "Nostradamus",
+   "text": "About the ninth hour, lady."
+  },
+  {
+   "n": 18,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "Is Caesar yet gone to the Capitol?"
+  },
+  {
+   "n": 19,
+   "role": "Soothsayer",
+   "cast": "Nostradamus",
+   "text": "Madam, not yet. I go to take my stand,\n\nTo see him pass on to the Capitol."
+  },
+  {
+   "n": 20,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "Thou hast some suit to Caesar, hast thou not?"
+  },
+  {
+   "n": 21,
+   "role": "Soothsayer",
+   "cast": "Nostradamus",
+   "text": "That I have, lady, if it will please Caesar\n\nTo be so good to Caesar as to hear me,\n\nI shall beseech him to befriend himself."
+  },
+  {
+   "n": 22,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "Why, know’st thou any harm’s intended towards him?"
+  },
+  {
+   "n": 23,
+   "role": "Soothsayer",
+   "cast": "Nostradamus",
+   "text": "None that I know will be, much that I fear may chance.\n\nGood morrow to you. Here the street is narrow.\n\nThe throng that follows Caesar at the heels,\n\nOf Senators, of Praetors, common suitors,\n\nWill crowd a feeble man almost to death:\n\nI’ll get me to a place more void, and there\n\nSpeak to great Caesar as he comes along."
+  },
+  {
+   "n": 24,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 25,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "I must go in."
+  },
+  {
+   "n": 26,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Aside.*]"
+  },
+  {
+   "n": 27,
+   "role": "Portia",
+   "cast": "Zenobia",
+   "text": "Ay me, how weak a thing\n\nThe heart of woman is! O Brutus,\n\nThe heavens speed thee in thine enterprise!\n\nSure, the boy heard me. Brutus hath a suit\n\nThat Caesar will not grant. O, I grow faint.\n\nRun, Lucius, and commend me to my lord;\n\nSay I am merry; come to me again,\n\nAnd bring me word what he doth say to thee."
+  },
+  {
+   "n": 28,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "work": "julius-caesar",
+ "episode": 10,
+ "chapter": 10,
+ "title": "Act III, Scene III — The same. A street",
+ "document": "ACT III · SCENE III",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Cinna the poet",
+   "cast_as": "Catullus"
+  },
+  {
+   "role": "First Citizen",
+   "cast_as": "Spartacus"
+  },
+  {
+   "role": "Second Citizen",
+   "cast_as": "Plautus"
+  },
+  {
+   "role": "Third Citizen",
+   "cast_as": "Horatius Cocles"
+  },
+  {
+   "role": "Fourth Citizen",
+   "cast_as": "Remus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE III. The same. A street."
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "forum",
+    "xfade": 5,
+    "at": "Enter Cinna, the poet"
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Cinna, the poet, and after him the\ncitizens."
+  },
+  {
+   "n": 3,
+   "role": "Cinna the poet",
+   "cast": "Catullus",
+   "text": "I dreamt tonight that I did feast with Caesar,\n\nAnd things unluckily charge my fantasy.\n\nI have no will to wander forth of doors,\n\nYet something leads me forth."
+  },
+  {
+   "n": 4,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "What is your name?"
+  },
+  {
+   "n": 5,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Whither are you going?"
+  },
+  {
+   "n": 6,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Where do you dwell?"
+  },
+  {
+   "n": 7,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "Are you a married man or a bachelor?"
+  },
+  {
+   "n": 8,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "Answer every man directly."
+  },
+  {
+   "n": 9,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "Ay, and briefly."
+  },
+  {
+   "n": 10,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "Ay, and wisely."
+  },
+  {
+   "n": 11,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Ay, and truly, you were best."
+  },
+  {
+   "n": 12,
+   "role": "Cinna the poet",
+   "cast": "Catullus",
+   "text": "What is my name? Whither am I going? Where do I dwell? Am I a married man or a\nbachelor? Then, to answer every man directly and briefly, wisely and truly.\nWisely I say I am a bachelor."
+  },
+  {
+   "n": 13,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "That’s as much as to say they are fools that marry; you’ll bear me a bang for\nthat, I fear. Proceed, directly."
+  },
+  {
+   "n": 14,
+   "role": "Cinna the poet",
+   "cast": "Catullus",
+   "text": "Directly, I am going to Caesar’s funeral."
+  },
+  {
+   "n": 15,
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "As a friend, or an enemy?"
+  },
+  {
+   "n": 16,
+   "role": "Cinna the poet",
+   "cast": "Catullus",
+   "text": "As a friend."
+  },
+  {
+   "n": 17,
+   "role": "Second Citizen",
+   "cast": "Plautus",
+   "text": "That matter is answered directly."
+  },
+  {
+   "n": 18,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "For your dwelling, briefly."
+  },
+  {
+   "n": 19,
+   "role": "Cinna the poet",
+   "cast": "Catullus",
+   "text": "Briefly, I dwell by the Capitol."
+  },
+  {
+   "n": 20,
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Your name, sir, truly."
+  },
+  {
+   "n": 21,
+   "role": "Cinna the poet",
+   "cast": "Catullus",
+   "text": "Truly, my name is Cinna."
+  },
+  {
+   "n": 22,
+   "sfx": [
+    {
+     "key": "mob",
+     "offset": 0.2,
+     "at": "Tear him to pieces"
+    }
+   ],
+   "role": "First Citizen",
+   "cast": "Spartacus",
+   "text": "Tear him to pieces! He’s a conspirator."
+  },
+  {
+   "n": 23,
+   "role": "Cinna the poet",
+   "cast": "Catullus",
+   "text": "I am Cinna the poet, I am Cinna the poet."
+  },
+  {
+   "n": 24,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "Tear him for his bad verses, tear him for his bad verses."
+  },
+  {
+   "n": 25,
+   "role": "Cinna the poet",
+   "cast": "Catullus",
+   "text": "I am not Cinna the conspirator."
+  },
+  {
+   "n": 26,
+   "role": "Fourth Citizen",
+   "cast": "Remus",
+   "text": "It is no matter, his name’s Cinna; pluck but his name out of his heart, and\nturn him going."
+  },
+  {
+   "n": 27,
+   "sfx": [
+    {
+     "key": "mob",
+     "at": "Tear him, tear him! Come; brands, ho!"
+    }
+   ],
+   "role": "Third Citizen",
+   "cast": "Horatius Cocles",
+   "text": "Tear him, tear him! Come; brands, ho! firebrands. To Brutus’, to Cassius’; burn\nall. Some to Decius’ house, and some to Casca’s, some to Ligarius’. Away, go!"
+  },
+  {
+   "n": 28,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

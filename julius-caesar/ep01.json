@@ -51,6 +51,10 @@
      "key": "cheer",
      "offset": 0.6,
      "at": "Enter Flavius, Marullus"
+    },
+    {
+     "key": "tribunes_ride",
+     "at": "Marullus"
     }
    ],
    "role": "Stage directions",
@@ -85,7 +89,10 @@
    "n": 8,
    "role": "Marullus",
    "cast": "Sallust",
-   "text": "But what trade art thou? Answer me directly."
+   "text": "But what trade art thou? Answer me directly.",
+   "sfx": [
+    "crowd_giggle"
+   ]
   },
   {
    "n": 9,
@@ -121,7 +128,10 @@
    "n": 14,
    "role": "Flavius",
    "cast": "Publius Clodius Pulcher",
-   "text": "Thou art a cobbler, art thou?"
+   "text": "Thou art a cobbler, art thou?",
+   "sfx": [
+    "crowd_giggle"
+   ]
   },
   {
    "n": 15,
@@ -133,7 +143,10 @@
    "n": 16,
    "role": "Flavius",
    "cast": "Publius Clodius Pulcher",
-   "text": "But wherefore art not in thy shop today?\n\nWhy dost thou lead these men about the streets?"
+   "text": "But wherefore art not in thy shop today?\n\nWhy dost thou lead these men about the streets?",
+   "sfx": [
+    "crowd_giggle"
+   ]
   },
   {
    "n": 17,
@@ -157,7 +170,8 @@
    "n": 20,
    "role": "Stage directions",
    "cast": "William Shakespeare",
-   "text": "[*Exeunt Citizens.*]"
+   "text": "[*Exeunt Citizens.*]",
+   "bed": "rome_street"
   },
   {
    "n": 21,
@@ -175,7 +189,13 @@
    "n": 23,
    "role": "Flavius",
    "cast": "Publius Clodius Pulcher",
-   "text": "It is no matter; let no images\n\nBe hung with Caesar’s trophies. I’ll about\n\nAnd drive away the vulgar from the streets;\n\nSo do you too, where you perceive them thick.\n\nThese growing feathers pluck’d from Caesar’s wing\n\nWill make him fly an ordinary pitch,\n\nWho else would soar above the view of men,\n\nAnd keep us all in servile fearfulness."
+   "text": "It is no matter; let no images\n\nBe hung with Caesar’s trophies. I’ll about\n\nAnd drive away the vulgar from the streets;\n\nSo do you too, where you perceive them thick.\n\nThese growing feathers pluck’d from Caesar’s wing\n\nWill make him fly an ordinary pitch,\n\nWho else would soar above the view of men,\n\nAnd keep us all in servile fearfulness.",
+   "sfx": [
+    {
+     "key": "stalls_overturned",
+     "at": "drive away the vulgar"
+    }
+   ]
   },
   {
    "n": 24,

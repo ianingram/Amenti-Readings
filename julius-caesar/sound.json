@@ -1,6 +1,6 @@
 {
  "_file": "Amenti-Readings/julius-caesar/sound.json",
- "_updated": "2026-10-07 08:30 UTC",
+ "_updated": "2026-10-09 17:10 UTC",
  "work": "julius-caesar",
  "note": "Rome: the street and the Forum crowd; the night of portents, wind and rain and thunder; Brutus’s orchard under the crickets; Caesar’s palace at night; the senators murmuring under the Capitol’s portico. Trumpets for every flourish and sennet, a tower bell striking three, the assassination in blows, and the Forum’s great bell in G for Caesar’s death. The score is six sound worlds: CAESAR (C minor, the Colossus), CONSPIRACY (D minor, the storm night), BRUTUS (E minor, the quiet heart), FORUM (G minor, the crowd turned), GHOST (no pulse) and PHILIPPI (A minor, the battle).",
  "files": {
@@ -11,7 +11,8 @@
    "palace_night": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/palace-night.mp3",
    "orchard_night": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/garden-night.mp3",
    "storm_night": "storm-night.mp3",
-   "senate": "senate.mp3"
+   "senate": "senate.mp3",
+   "holiday_street": "holiday-street.mp3"
   },
   "oneshots": {
    "thunder": "https://ianingram.github.io/Amenti-Readings/dracula/sound/thunder.mp3",
@@ -23,7 +24,10 @@
    "clock_three": "clock-three.mp3",
    "stabbing": "stabbing.mp3",
    "bell_toll": "bell-toll.mp3",
-   "mob": "mob.mp3"
+   "mob": "mob.mp3",
+   "tribunes_ride": "tribunes-ride.mp3",
+   "crowd_giggle": "crowd-giggle.mp3",
+   "stalls_overturned": "stalls-overturned.mp3"
   },
   "score": {
    "caesar": "score-caesar.mp3",
@@ -48,12 +52,13 @@
   "palace_night": {},
   "orchard_night": {},
   "storm_night": {},
-  "senate": {}
+  "senate": {},
+  "holiday_street": {}
  },
  "chapters": [
   {
    "n": 1,
-   "bed": "rome_street",
+   "bed": "holiday_street",
    "state": 1,
    "score": null
   },

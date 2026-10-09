@@ -6,14 +6,16 @@
    "open": [
     "February, 44 BC. The Feast of Lupercal. Garlands hang from the statues; the shops are shuttered for the holiday.",
     "A THRONG OF CITIZENS pours down the street toward the Forum — tradesmen in their best tunics, laughing, shoving, a few waving sprigs of laurel for Caesar.",
-    "Two TRIBUNES step into their path: FLAVIUS, hard and quick, and MARULLUS, older, colder. The purple stripe on their togas stops the crowd dead."
+    "Laughter, shouting, whistling — a holiday crowd in full cry.",
+    "Hooves on the stones. Two TRIBUNES ride into the crowd and rein in hard: FLAVIUS, hard and quick, and MARULLUS, older, colder. The horses snort and stamp, pacing back and forth. The purple stripe on their togas stops the crowd dead."
    ],
    "before": {
     "5": [
      "A broad-shouldered CARPENTER is shoved to the front by the men behind him."
     ],
     "7": [
-     "Beside him, a wiry COBBLER with a grin that has never once been respectful. He plays to the crowd behind him."
+     "Beside him, a wiry COBBLER with a grin that has never once been respectful. He plays to the crowd behind him.",
+     "The crowd giggles and murmurs."
     ],
     "13": [
      "The crowd laughs. Marullus does not."
@@ -25,19 +27,25 @@
      "The crowd has gone quiet, shamed. Caps come off."
     ],
     "21": [
-     "The street empties. Flavius and Marullus are left alone among the garlands."
+     "The crowd melts away; the shuffling and the noise die to nothing. Flavius and Marullus are left alone among the garlands."
     ],
     "23": [
-     "Flavius reaches up and tears a wreath from a statue of Caesar. He drops it in the dust."
+     "Flavius reaches up and tears a wreath from a statue of Caesar. He drops it in the dust, wheels his horse and rides down the street, overturning the stalls; his shouts carry back over Marullus."
     ]
    },
    "paren": {
+    "4": "from the saddle — angry, scolding, condescending; the questions sharp and badgering",
     "5": "cap in hand",
+    "6": "sharp, impatient",
     "7": "to the crowd, grinning",
+    "8": "sharp, badgering",
+    "10": "impatient",
     "11": "innocently",
     "13": "beat",
+    "14": "from the saddle, scornful",
+    "16": "badgering",
     "17": "cheerful, to the crowd",
-    "18": "quietly, then building",
+    "18": "sharp, exasperated — let each question hang",
     "22": "uneasy",
     "23": "pulling down the garland"
    }

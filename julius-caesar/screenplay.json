@@ -1,0 +1,169 @@
+{
+ "_note": "Julius Caesar — the screenplay layer (8 Oct 2026). Read-only: it is shown on the page beside the\nreading and never spoken. The dialogue is Shakespeare's, untouched (it comes from the cue sheets);\nthis file adds only the scene headings, the action and blocking, and parentheticals.\nKeys: 'slug' (scene heading), 'open' (action before the first line), 'before' {cue n: [action\nparagraphs shown before that cue]}, 'paren' {cue n: parenthetical under the speaker's name}.\nWritten by Claude for Ian to correct in the margins.",
+ "scenes": {
+  "1": {
+   "slug": "EXT. ROME — A STREET NEAR THE FORUM — DAY",
+   "open": [
+    "February, 44 BC. The Feast of Lupercal. Garlands hang from the statues; the shops are shuttered for the holiday.",
+    "A THRONG OF CITIZENS pours down the street toward the Forum — tradesmen in their best tunics, laughing, shoving, a few waving sprigs of laurel for Caesar.",
+    "Two TRIBUNES step into their path: FLAVIUS, hard and quick, and MARULLUS, older, colder. The purple stripe on their togas stops the crowd dead."
+   ],
+   "before": {
+    "5": [
+     "A broad-shouldered CARPENTER is shoved to the front by the men behind him."
+    ],
+    "7": [
+     "Beside him, a wiry COBBLER with a grin that has never once been respectful. He plays to the crowd behind him."
+    ],
+    "13": [
+     "The crowd laughs. Marullus does not."
+    ],
+    "18": [
+     "Marullus mounts the base of a statue so the whole street can see him."
+    ],
+    "19": [
+     "The crowd has gone quiet, shamed. Caps come off."
+    ],
+    "21": [
+     "The street empties. Flavius and Marullus are left alone among the garlands."
+    ],
+    "23": [
+     "Flavius reaches up and tears a wreath from a statue of Caesar. He drops it in the dust."
+    ]
+   },
+   "paren": {
+    "5": "cap in hand",
+    "7": "to the crowd, grinning",
+    "11": "innocently",
+    "13": "beat",
+    "17": "cheerful, to the crowd",
+    "18": "quietly, then building",
+    "22": "uneasy",
+    "23": "pulling down the garland"
+   }
+  },
+  "2": {
+   "slug": "EXT. ROME — THE VIA SACRA, A PUBLIC PLACE — DAY",
+   "open": [
+    "Flutes and drums. The PROCESSION fills the street: lictors with their rods, then CAESAR in a purple toga and a laurel wreath, borne along on the roar of the crowd.",
+    "Beside him CALPURNIA, his wife, veiled. MARK ANTONY, stripped to a goatskin for the sacred race, bouncing on his toes. Behind them the great men of Rome: DECIUS, CICERO, CASCA — and, a little apart from the rest, BRUTUS and CASSIUS.",
+    "Somewhere in the press, an old SOOTHSAYER pushes forward."
+   ],
+   "before": {
+    "3": [
+     "Caesar raises a hand. The procession halts."
+    ],
+    "8": [
+     "Calpurnia steps to the edge of the course. Antony grins at her."
+    ],
+    "14": [
+     "A thin cry cuts through the music. Heads turn."
+    ],
+    "18": [
+     "The crowd parts. The SOOTHSAYER stands alone in the open street — blind, ragged, utterly still."
+    ],
+    "23": [
+     "Cassius takes the old man by the arm and leads him to Caesar. Caesar studies his face for a long moment."
+    ],
+    "26": [
+     "Caesar laughs it off. The procession moves on."
+    ],
+    "28": [
+     "The street empties around BRUTUS and CASSIUS. Far off, the roar of the games."
+    ],
+    "32": [
+     "Cassius moves closer. They walk together, slowly, under the colonnade."
+    ],
+    "40": [
+     "Brutus stops dead, looking toward the noise."
+    ],
+    "46": [
+     "Cassius drops his voice. Brutus does not look at him."
+    ],
+    "50": [
+     "The procession returns. Caesar walks fast, his face set. Calpurnia pale. The others follow in an uneasy silence."
+    ],
+    "54": [
+     "Caesar stops — and looks straight at Cassius across the street. Then he beckons Antony close."
+    ],
+    "60": [
+     "CASCA lingers, then ambles over, brushing at the sleeve Brutus pulled."
+    ],
+    "76": [
+     "Casca mimes it — the fall, the foaming mouth — enjoying himself."
+    ],
+    "95": [
+     "Casca saunters off, whistling. Brutus watches him go."
+    ],
+    "100": [
+     "Cassius alone. The cheerful mask drops from his face."
+    ]
+   },
+   "paren": {
+    "4": "shouting over the music",
+    "9": "turning, eager",
+    "14": "from the crowd",
+    "19": "quietly",
+    "21": "low",
+    "25": "the same, unmoved",
+    "29": "turning away",
+    "33": "after a pause",
+    "46": "with sudden heat",
+    "52": "watching Caesar",
+    "56": "aside, to Antony",
+    "57": "lightly",
+    "60": "to Brutus",
+    "64": "with relish",
+    "85": "deadpan",
+    "98": "smiling",
+    "100": "alone"
+   }
+  },
+  "3": {
+   "slug": "EXT. ROME — A STREET — NIGHT",
+   "open": [
+    "The night before the Ides of March. A storm the city will talk about for a hundred years.",
+    "Lightning splits the sky. Rain sheets across the paving. CASCA comes running down the empty street, sword drawn, soaked and wild-eyed — and almost collides with CICERO, wrapped in his cloak, walking home as if nothing were the matter."
+   ],
+   "before": {
+    "6": [
+     "Thunder. Casca grips Cicero’s arm; his words tumble out."
+    ],
+    "11": [
+     "Cicero pulls his cloak tight and goes. Casca is alone in the storm."
+    ],
+    "12": [
+     "A figure strides out of the rain: CASSIUS, bareheaded, his cloak open to the lightning."
+    ],
+    "19": [
+     "Cassius throws his arms wide to the storm."
+    ],
+    "25": [
+     "Cassius draws a dagger and holds it up in the lightning."
+    ],
+    "31": [
+     "Footsteps. Both men shrink back into a doorway. CINNA hurries past — then stops, peering at them."
+    ],
+    "39": [
+     "Cassius pulls out a packet of papers, sealed, and presses them into Cinna’s hands."
+    ],
+    "43": [
+     "Cinna runs off into the rain. Cassius turns to Casca with a fierce smile."
+    ]
+   },
+   "paren": {
+    "3": "calm",
+    "4": "shouting over the storm",
+    "13": "out of the dark",
+    "14": "warily",
+    "17": "savouring it",
+    "22": "low",
+    "25": "drawing his dagger",
+    "32": "pulling Cassius into the doorway",
+    "34": "peering",
+    "36": "shivering",
+    "43": "to Casca"
+   }
+  }
+ }
+}

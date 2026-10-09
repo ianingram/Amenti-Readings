@@ -21,6 +21,8 @@ ending on the next line of Antony's speech (Shakespeare, Julius Caesar III.ii):
   bars 15–16 VOICE    Antony, heard from a distance across an open-air theatre: the stone stage,
                       the tiers of seats throwing the voice back, a long natural tail; the crowd's
                       murmur stays alive beneath him and stirs again after each line
+(v6, Ian, 8 Oct: "the score should fade in slowly; the first shouts of Caesar around 15 seconds" — twelve seconds
+of opening, the crowd rising out of silence and the legion's drum far off, before the first stanza.)
 (v4, Ian, 7 Oct: "take what we have and create a 4/4 chord progression" — a chord bed under the
 whole suite, one chord to the bar, a swell on beat 1 and a pulse on 2, 3, 4; "keep the soft G
 underneath" Antony; and "why not C for Caesar" — so the Forum stays in G minor, G being the chord
@@ -65,9 +67,10 @@ TIMPR = load16(P + 'Timpani/Rolls/Timpani1_Roll_v5_rr1_Sum.wav')
 BD = load16(P + 'BDrumNewhit_v5_rr1_Sum.wav')
 
 BPM = 80; BT = 60 / BPM; BAR = 4 * BT; STZ = 16; NST = 3
-END = NST * STZ * BAR + 4 * BAR                     # three stanzas and a coda of four bars
+PRE = 12.0                                          # v6: a slow opening before the first stanza (Ian, 8 Oct)
+END = PRE + NST * STZ * BAR + 4 * BAR                     # three stanzas and a coda of four bars
 N = int((END + 6) * SR)
-def at(stanza, bar, beat=0.0): return (stanza * STZ + bar - 1) * BAR + beat * BT
+def at(stanza, bar, beat=0.0): return PRE + (stanza * STZ + bar - 1) * BAR + beat * BT
 
 crowd, calls, feet, beat, chant, horns, drums, rise, speech = (np.zeros(N, np.float32) for _ in range(9))
 
@@ -85,7 +88,7 @@ for s in range(NST):
             (at(s, 14, 1), 0.5), (at(s, 14.9), 0.13),                            # the hush
             (at(s, 16, 0), 0.15), (at(s, 16, 2.5), 0.38), (at(s, 16.95), 0.6)]   # alive under the voice, stirring after it
 lvl += [(at(NST, 1), 1.2), (at(NST, 3), 1.0), (END + 4, 0.0)]
-crowd *= env_lin(N, [(0, 0.0), (2.5, 0.9)] + lvl)
+crowd *= env_lin(N, [(0, 0.0), (10.0, 0.9)] + lvl)
 for s in range(NST):                                 # bars 5–8: the murmur breathes on the beat
     for k in range(16):
         t0 = int(at(s, 5, k) * SR); seg = crowd[t0:t0 + len(one)]
@@ -164,9 +167,26 @@ def theatre(x, seed):
     wet = sg.fftconvolve(x, ir)[: len(x) + int(2.5 * SR)].astype(np.float32)
     dry = np.zeros_like(wet); dry[: len(x)] = x
     return dry * 0.35 + wet * 0.9
-SPEECH = ['ant1', 'ant2', 'ant3']
+# v5 (Ian, 7 Oct: "it's all about the beat — friends.. romans... countrymen.... lend me.. your.. ears...";
+# fuse the Roman sound with the English): Antony recorded for this file alone, in an English stage voice with
+# Italian vowels, each phrase set to start on a beat, the open-air theatre filling the gaps. Not the ledger voice.
+V5 = os.environ.get('V5', 'a')
+def phrases(path):
+    x = read(path); w = int(.02 * SR); e = np.sqrt(np.convolve(x ** 2, np.ones(w) / w, 'same')); idx = np.where(e > 0.04 * e.max())[0]
+    out = []; a = idx[0]; pv = idx[0]
+    for j in idx[1:]:
+        if j - pv > int(.12 * SR): out.append((a, pv)); a = j
+        pv = j
+    out.append((a, pv))
+    return [x[max(0, a - 600): b + 2400] for a, b in out if (b - a) > 0.25 * SR]
+def on_beat(segs, t0):
+    t = t0; y = np.zeros(int(16 * SR), np.float32)
+    for g in segs:
+        put(y, g, t - t0); end = t + len(g) / SR
+        t = t0 + np.ceil((end + 0.12 - t0) / BT) * BT
+    return y
 for s in range(NST):
-    put(speech, theatre(vox(SPEECH[s]), 70 + s), at(s, 14, 3.4))
+    put(speech, theatre(on_beat(phrases(HERE + f'v5/{V5}{s + 1}.wav'), at(s, 15)), 70 + s), at(s, 15))
     put(crowd, np.zeros(1, np.float32), 0)
 
 # ── the coda: a last cheer, the brass, the Forum empties ──
@@ -230,6 +250,11 @@ for s in range(NST):
     mixw += [(at(s, 1), 0.0), (at(s, 4, 3), 0.85), (at(s, 5, 2), 1.0), (at(s, 5, 3.9), 0.0)]
 w = env_lin(N, mixw)
 legion = lg_far * (1 - w) + lg_near * w
+far_drum = np.zeros(N, np.float32)                   # v6: the legion's drum far off in the opening, no voices yet
+t = 3.0
+while t < PRE - 0.05:
+    put(far_drum, BDL, t, 0.25 + 0.75 * (t / PRE) ** 2); t += BT
+legion += forum(far_drum, 98, 1.0) * 0.6
 lvl_l = [(0, 0.0)]
 for s in range(NST):
     lvl_l += [(at(s, 1) - 0.01, 0.0), (at(s, 1, 0.01), 0.75), (at(s, 4, 3), 1.0), (at(s, 5, 2.5), 1.0), (at(s, 6), 0.0)]
@@ -305,7 +330,7 @@ mix = stems((crowd, -27), (reverb(calls, 1.0, 0.2, seed=90), -22), (reverb(feet,
             (chant, -22), (reverb(horns, 2.8, 0.34, seed=92), -22), (reverb(drums, 2.2, 0.3, seed=93), -24),
             (reverb(rise, 2.4, 0.3, seed=94), -24), (speech, -16.8), (legion, -16), (bell, -15), (reverb(chords, 2.6, 0.35, seed=97), -25))
 mix = mix[: int((END + 4) * SR)]
-n = int(2 * SR); mix[:n] *= np.linspace(0, 1, n)
+n = int(8 * SR); mix[:n] *= np.linspace(0, 1, n) ** 1.5
 os.makedirs(HERE + 'out', exist_ok=True)
 write_mp3(rms_db(mix, -21), HERE + 'out/the-forum.mp3')
 print('the forum', round(len(mix) / SR, 1), 's · voice at', [round(at(s, 14, 3.4), 1) for s in range(NST)])

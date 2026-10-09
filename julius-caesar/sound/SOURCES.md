@@ -37,18 +37,8 @@ the stepped tiers, a long natural tail) — then a coda. 2 min 40 s.
 ## The Forum v4 (7 Oct 2026)
 - A 4/4 chord bed under the whole suite, one chord to the bar: VSCO 2 CE (CC0) cello section and viola section (sustain, vibrato), tenor trombone and tuba. G minor (Gm – E♭ – B♭ – F; Cm – D; Gm – E♭ – D), a soft low G held under Antony, the third stanza turning to C minor (Caesar's key) and the coda landing on a full C minor chord.
 
-## Part One — Acts I–III (7 Oct 2026)
-Built in `build-part1-sound.py`:
+## The Forum v5 (7 Oct 2026)
+Antony recorded for this file alone through the Amenti voice service (Charon), in "an English stage voice with the open vowels and rolled R of an Italian — a Roman orator on the English stage"; each phrase set to start on a beat of the 4/4, the open-air theatre filling the gaps. His voice in the play itself comes from the ledger (English RP).
 
-| file | what | licence |
-|---|---|---|
-| `storm-night.mp3` | the night of portents: Dracula's `wind.mp3` and `log-rain.mp3`, with *Storm thunderbolts* (stephan, PD) far off under it | PD + synthesized |
-| `senate.mp3` | before the Capitol: Quo Vadis's `rome-street.mp3` band-passed into a murmur under a stone portico | PD/CC0 + synthesized |
-| `flourish.mp3` | trumpets, a short fanfare in C — VSCO 2 CE | CC0 |
-| `sennet.mp3` | trumpets and horns, the longer call — VSCO 2 CE | CC0 |
-| `clock-three.mp3` | a tower bell striking three — synthesized bell, VSCO 2 CE anvil | CC0 + synthesized |
-| `stabbing.mp3` | the assassination: blows, the struggle, the mantle, the fall | synthesized |
-| `bell-toll.mp3` | the Forum's great bell in G, struck once — synthesized bell, VSCO 2 CE anvil | CC0 + synthesized |
-| `mob.mp3` | the mob turned: Quo Vadis's `cheer.mp3` pitched down, with stamping | PD/CC0 + synthesized |
-
-Borrowed by URL: Quo Vadis's rome-street, rome-night, palace-night, cheer and applause; Romeo and Juliet's garden-night and knock; Dracula's thunder.
+## The Forum v6 (8 Oct 2026)
+A twelve-second opening before the first stanza: the crowd rising out of silence and the legion's drum far off; the first "Caesar!" at about 15 seconds. Nothing else changed.

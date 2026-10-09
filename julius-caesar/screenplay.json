@@ -1,8 +1,9 @@
 {
- "_note": "Julius Caesar — the screenplay layer (8 Oct 2026). Read-only: it is shown on the page beside the\nreading and never spoken. The dialogue is Shakespeare's, untouched (it comes from the cue sheets);\nthis file adds only the scene headings, the action and blocking, and parentheticals.\nKeys: 'slug' (scene heading), 'open' (action before the first line), 'before' {cue n: [action\nparagraphs shown before that cue]}, 'paren' {cue n: parenthetical under the speaker's name}.\nWritten by Claude for Ian to correct in the margins.",
+ "_note": "Julius Caesar — the screenplay layer (8 Oct 2026). Shown on the page beside the reading. Since 9 Oct 2026 the scene's 'voice' and each line's 'paren'\nare also sent to the voice as its direction (never spoken aloud). The dialogue is Shakespeare's, untouched (it comes from the cue sheets);\nthis file adds the scene headings, the action and blocking, and parentheticals.\nKeys: 'voice' (where the scene is played — SENT TO THE VOICE with every spoken line, 9 Oct 2026), 'slug' (scene heading), 'open' (action before the first line), 'before' {cue n: [action\nparagraphs shown before that cue]}, 'paren' {cue n: parenthetical under the speaker's name}.\nWritten by Claude for Ian to correct in the margins.",
  "scenes": {
   "1": {
    "slug": "EXT. ROME — A STREET NEAR THE FORUM — DAY",
+   "voice": "Outdoors on a crowded, noisy holiday street: a raised, projected voice that carries over the crowd",
    "open": [
     "February, 44 BC. The Feast of Lupercal. Garlands hang from the statues; the shops are shuttered for the holiday.",
     "A THRONG OF CITIZENS pours down the street toward the Forum — tradesmen in their best tunics, laughing, shoving, a few waving sprigs of laurel for Caesar.",
@@ -52,6 +53,7 @@
   },
   "2": {
    "slug": "EXT. ROME — THE VIA SACRA, A PUBLIC PLACE — DAY",
+   "voice": "Outdoors in a public street during a procession, music and crowds nearby: a projected voice; quieter and closer when two speak apart",
    "open": [
     "Flutes and drums. The PROCESSION fills the street: lictors with their rods, then CAESAR in a purple toga and a laurel wreath, borne along on the roar of the crowd.",
     "Beside him CALPURNIA, his wife, veiled. MARK ANTONY, stripped to a goatskin for the sacred race, bouncing on his toes. Behind them the great men of Rome: DECIUS, CICERO, CASCA — and, a little apart from the rest, BRUTUS and CASSIUS.",
@@ -129,6 +131,7 @@
   },
   "3": {
    "slug": "EXT. ROME — A STREET — NIGHT",
+   "voice": "Outdoors at night in a violent thunderstorm: voices raised over wind, rain and thunder",
    "open": [
     "The night before the Ides of March. A storm the city will talk about for a hundred years.",
     "Lightning splits the sky. Rain sheets across the paving. CASCA comes running down the empty street, sword drawn, soaked and wild-eyed — and almost collides with CICERO, wrapped in his cloak, walking home as if nothing were the matter."

@@ -103,6 +103,18 @@
        the chunker then cuts it only at sentence ends, up to its 320 limit.
        The text on the page is unchanged. This changes the cache key of every
        multi-line cue, so those cues are recorded once more, whole. */
+    /* ── THE LINE'S DIRECTION · 9 OCT 2026 ─────────────────────────────────
+       From the screenplay: the scene's "voice" (where it is played — a crowded
+       street, a quiet orchard) and the line's parenthetical. Sent with the line
+       so it is PERFORMED, not only printed. Stage directions get none. */
+    direction: function (c) {
+      var sp = R.play_ && R.play_.scenes && R.sheet && R.play_.scenes[String(R.sheet.episode)];
+      if (!sp || !c || /^stage direction/i.test(c.role || '')) return '';
+      var parts = [];
+      if (sp.voice) parts.push(sp.voice);
+      if (sp.paren && sp.paren[String(c.n)]) parts.push(sp.paren[String(c.n)]);
+      return parts.join('; ');
+    },
     spoken: function (c) { return String(c.text).replace(/\s*\n+\s*/g, ' ').trim(); },
     WARM_AHEAD: 2,
     _tries: 0,
@@ -131,6 +143,11 @@
         .then(function (both) {
           R.sheet = both[0];
           R.cast = both[1];
+          /* the screenplay, if the work has one: where each scene is, how each line is played */
+          R.play_ = null;
+          var w = R.sheet && R.sheet.work;
+          return w ? R._json(w + '/screenplay.json').then(function (sp) { R.play_ = sp; }, function () {}) : null;
+        }).then(function () {
           R.i = 0;
           R.state = 'idle';
           return R.sheet;
@@ -245,7 +262,7 @@
         var k = R.i + j, c = cues[k];
         if (!c || R._warmed[k] || c.audio) continue;     /* a recorded cue has nothing to warm */
         R._warmed[k] = true;
-        try { eng.warm(R.spoken(c), R.nameFor(c)); } catch (e) {}
+        try { eng.warm(R.spoken(c), R.nameFor(c), R.direction(c)); } catch (e) {}
       }
     },
 
@@ -289,7 +306,7 @@
                       why + '. The reading is stopped here, not skipped silently.');
         R._showNotice();
         if (typeof R.onError === 'function') { try { R.onError(R.error); } catch (e) {} }
-      });
+      }, R.direction(cue));
       R._warmAhead();
     },
 

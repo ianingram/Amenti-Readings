@@ -93,6 +93,17 @@
        The engine now reports failure (onFail). The cue is retried once; if it
        fails again the reading stops, says which cue, and offers Retry / Skip.
        state is 'stalled' while that notice is up. */
+    /* ── ONE SPEECH, ONE BREATH · 9 OCT 2026 (Ian: "the same character speaks in
+       several different voices from one line to the next") ─────────────────
+       Verse cues keep a blank line between every verse line, so the engine's
+       chunker (which splits on blank lines) sent each verse line to the voice
+       as its own recording; each came back with its own accent. Casca's
+       storm speech in I.iii was eleven separate performances.
+       The text the VOICE hears is now the speech joined into one paragraph:
+       the chunker then cuts it only at sentence ends, up to its 320 limit.
+       The text on the page is unchanged. This changes the cache key of every
+       multi-line cue, so those cues are recorded once more, whole. */
+    spoken: function (c) { return String(c.text).replace(/\s*\n+\s*/g, ' ').trim(); },
     WARM_AHEAD: 2,
     _tries: 0,
     _warmed: {},
@@ -234,7 +245,7 @@
         var k = R.i + j, c = cues[k];
         if (!c || R._warmed[k] || c.audio) continue;     /* a recorded cue has nothing to warm */
         R._warmed[k] = true;
-        try { eng.warm(c.text, R.nameFor(c)); } catch (e) {}
+        try { eng.warm(R.spoken(c), R.nameFor(c)); } catch (e) {}
       }
     },
 
@@ -259,7 +270,7 @@
          here orphans every measure this cue has ever rendered. */
       var at = R.i;
       if (cue.audio && !cue._audioFailed) { R._playRecorded(cue, at); R._warmAhead(); return; }
-      R.engine().speak(cue.text, null, name, function () {
+      R.engine().speak(R.spoken(cue), null, name, function () {
         if (R.i !== at) return;
         R._tries = 0;
         R.i += 1;

@@ -100,19 +100,23 @@
    "n": 9,
    "role": "Marcus Brutus",
    "cast": "Marcus Junius Brutus",
-   "text": "Be patient till the last.\n\nRomans, countrymen, and lovers, hear me for my cause; and be silent, that you\nmay hear. Believe me for mine honour, and have respect to mine honour, that you\nmay believe. Censure me in your wisdom, and awake your senses, that you may the\nbetter judge. If there be any in this assembly, any dear friend of Caesar’s, to\nhim I say that Brutus’ love to Caesar was no less than his. If then that friend\ndemand why Brutus rose against Caesar, this is my answer: Not that I loved\nCaesar less, but that I loved Rome more. Had you rather Caesar were living, and\ndie all slaves, than that Caesar were dead, to live all free men? As Caesar\nloved me, I weep for him; as he was fortunate, I rejoice at it; as he was\nvaliant, I honour him; but, as he was ambitious, I slew him. There is tears,\nfor his love; joy for his fortune; honour for his valour; and death, for his\nambition. Who is here so base, that would be a bondman? If any, speak; for him\nhave I offended. Who is here so rude, that would not be a Roman? If any, speak;\nfor him have I offended. Who is here so vile, that will not love his country?\nIf any, speak; for him have I offended. I pause for a reply."
+   "text": "Be patient till the last.\n\nRomans, countrymen, and lovers, hear me for my cause; and be silent, that you\nmay hear. Believe me for mine honour, and have respect to mine honour, that you\nmay believe. Censure me in your wisdom, and awake your senses, that you may the\nbetter judge. If there be any in this assembly, any dear friend of Caesar’s, to\nhim I say that Brutus’ love to Caesar was no less than his. If then that friend\ndemand why Brutus rose against Caesar, this is my answer: Not that I loved\nCaesar less, but that I loved Rome more. Had you rather Caesar were living, and\ndie all slaves, than that Caesar were dead, to live all free men? As Caesar\nloved me, I weep for him; as he was fortunate, I rejoice at it; as he was\nvaliant, I honour him; but, as he was ambitious, I slew him. There is tears,\nfor his love; joy for his fortune; honour for his valour; and death, for his\nambition. Who is here so base, that would be a bondman? If any, speak; for him\nhave I offended. Who is here so rude, that would not be a Roman? If any, speak;\nfor him have I offended. Who is here so vile, that will not love his country?\nIf any, speak; for him have I offended. I pause for a reply.",
+   "audio": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/brutus-forum-1.mp3",
+   "state": 2
   },
   {
    "n": 10,
    "role": "Citizens",
    "cast": "Spartacus",
-   "text": "None, Brutus, none."
+   "text": "None, Brutus, none.",
+   "audio": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/brutus-forum-2.mp3"
   },
   {
    "n": 11,
    "role": "Marcus Brutus",
    "cast": "Marcus Junius Brutus",
-   "text": "Then none have I offended. I have done no more to Caesar than you shall do to\nBrutus. The question of his death is enroll’d in the Capitol, his glory not\nextenuated, wherein he was worthy; nor his offences enforc’d, for which he\nsuffered death."
+   "text": "Then none have I offended. I have done no more to Caesar than you shall do to\nBrutus. The question of his death is enroll’d in the Capitol, his glory not\nextenuated, wherein he was worthy; nor his offences enforc’d, for which he\nsuffered death.",
+   "audio": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/brutus-forum-3.mp3"
   },
   {
    "n": 12,
@@ -125,7 +129,8 @@
    ],
    "role": "Stage directions",
    "cast": "William Shakespeare",
-   "text": "Enter Antony and others, with Caesar’s body."
+   "text": "Enter Antony and others, with Caesar’s body.",
+   "state": 1
   },
   {
    "n": 13,

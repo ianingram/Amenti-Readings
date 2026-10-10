@@ -175,6 +175,313 @@
     "36": "shivering",
     "43": "to Casca"
    }
+  },
+  "4": {
+   "slug": "EXT. ROME — BRUTUS’S ORCHARD — NIGHT",
+   "voice": "Outdoors at night in a quiet walled garden, the storm passing: low, private voices, close and unhurried",
+   "open": [
+    "The small hours before the Ides. Wind in the fig trees; the last of the storm grumbling far off. A lamp in the doorway of the house.",
+    "BRUTUS walks the paths alone, cloak loose, unable to sleep. He calls into the dark for his boy."
+   ],
+   "before": {
+    "10": [
+     "Brutus stops beneath a tree. He speaks to no one."
+    ],
+    "24": [
+     "A knock at the gate. Brutus does not move."
+    ],
+    "37": [
+     "Hooded men slip in through the gate, faces buried in their cloaks."
+    ],
+    "81": [
+     "The conspirators melt into the dark. The garden is still again."
+    ],
+    "84": [
+     "PORTIA in the doorway, barefoot, a shawl around her shoulders."
+    ],
+    "91": [
+     "She kneels on the wet stones. He lifts her."
+    ]
+   },
+   "paren": {
+    "10": "alone, wrestling with himself",
+    "91": "tenderly",
+    "90": "quiet, wounded",
+    "64": "firm, convincing himself"
+   }
+  },
+  "5": {
+   "slug": "INT. ROME — CAESAR’S HOUSE — DAWN",
+   "voice": "Indoors in a great house at dawn, thunder still rolling outside: voices in a large stone room, intimate but strained",
+   "open": [
+    "Thunder over the roofs. Grey light through high windows. CAESAR in his nightgown, sleepless, restless as a caged lion.",
+    "Somewhere in the house a servant hurries away with an order for the priests."
+   ],
+   "before": {
+    "9": [
+     "CALPURNIA comes in fast, hair unbound, white with fear from her dream."
+    ],
+    "30": [
+     "DECIUS, smiling, steps between husband and wife."
+    ],
+    "34": [
+     "The conspirators arrive in their best togas, smiling, to escort Caesar to the Senate."
+    ]
+   },
+   "paren": {
+    "12": "urgent, frightened",
+    "15": "scornful, proud",
+    "30": "smooth, flattering",
+    "47": "warm, unsuspecting"
+   }
+  },
+  "6": {
+   "slug": "EXT. ROME — A STREET NEAR THE CAPITOL — MORNING",
+   "voice": "Outdoors on a busy morning street: a single man reading half-aloud to himself, urgent and low",
+   "open": [
+    "The Ides of March. Crowds already gathering toward the Capitol. ARTEMIDORUS, an old teacher, stands in a doorway reading his own letter over and over."
+   ],
+   "before": {},
+   "paren": {
+    "3": "reading under his breath, urgent"
+   }
+  },
+  "7": {
+   "slug": "EXT. ROME — BEFORE BRUTUS’S HOUSE — MORNING",
+   "voice": "Outdoors in a doorway on a noisy morning street: an anxious woman, breathless, voice catching",
+   "open": [
+    "PORTIA paces the threshold of her house, sending her boy LUCIUS to the Capitol and calling him back before he reaches the gate."
+   ],
+   "before": {
+    "13": [
+     "The old SOOTHSAYER shuffles past, toward the Capitol."
+    ]
+   },
+   "paren": {
+    "3": "breathless, distracted",
+    "27": "to herself, faint"
+   }
+  },
+  "8": {
+   "slug": "INT. ROME — THE SENATE, BEFORE THE CAPITOL — DAY",
+   "voice": "In a great stone senate hall echoing with voices: formal, public, every word carrying",
+   "open": [
+    "The Ides of March. Trumpets. CAESAR sweeps up the steps through the crowd, senators in his wake. The SOOTHSAYER waits on the steps.",
+    "Inside, the marble hall: tiers of senators, the statue of Pompey watching over all."
+   ],
+   "before": {
+    "43": [
+     "The petitioners close around Caesar. CASCA strikes first; then all the knives."
+    ],
+    "44": [
+     "Caesar sees BRUTUS among them. He stops fighting."
+    ],
+    "45": [
+     "Caesar falls at the foot of Pompey’s statue. Silence — then the hall erupts."
+    ],
+    "68": [
+     "The conspirators stand over the body, hands red."
+    ],
+    "78": [
+     "ANTONY enters, sees the body, and goes to it before he sees anyone else."
+    ]
+   },
+   "paren": {
+    "4": "proud, mocking",
+    "5": "quiet, certain",
+    "42": "a shout",
+    "44": "shocked, almost a whisper",
+    "46": "shouting, wild",
+    "78": "breaking",
+    "101": "alone, low and terrible"
+   }
+  },
+  "9": {
+   "slug": "EXT. ROME — THE FORUM — DAY",
+   "voice": "Outdoors in the vast Roman Forum before a huge restless crowd: projected voices that carry across the square",
+   "open": [
+    "The Forum, packed to the colonnades. BRUTUS mounts the speakers’ platform. Below, Caesar’s body is carried in under a bloody mantle."
+   ],
+   "before": {
+    "12": [
+     "ANTONY walks behind the bier, slow, head bowed."
+    ],
+    "65": [
+     "Antony comes down from the platform and stands among the crowd, at the body."
+    ],
+    "72": [
+     "The crowd turns. Torches. The Forum becomes a mob."
+    ]
+   },
+   "paren": {
+    "65": "quiet, drawing them close",
+    "72": "a roar",
+    "95": "alone, cold satisfaction"
+   }
+  },
+  "10": {
+   "slug": "EXT. ROME — A STREET — EVENING",
+   "voice": "Outdoors in a street overrun by a torch-lit mob: shouting, menacing voices over the noise",
+   "open": [
+    "Smoke and torchlight. CINNA THE POET, a gentle man in a scholar’s cloak, wanders out of his house, troubled by a dream — into the mob."
+   ],
+   "before": {
+    "22": [
+     "The crowd closes in."
+    ]
+   },
+   "paren": {
+    "23": "frightened, pleading",
+    "24": "savage, laughing"
+   }
+  },
+  "11": {
+   "slug": "INT. ROME — A ROOM IN ANTONY’S HOUSE — NIGHT",
+   "voice": "Indoors, a private room at night: three men at a table, low, businesslike voices",
+   "open": [
+    "Lamplight on a table covered with lists. ANTONY, OCTAVIUS and LEPIDUS sit pricking names — the men who will die."
+   ],
+   "before": {
+    "12": [
+     "Lepidus leaves. Antony waits until the door closes."
+    ]
+   },
+   "paren": {
+    "4": "cold, matter-of-fact",
+    "13": "contemptuous, once he is gone"
+   }
+  },
+  "12": {
+   "slug": "EXT. CAMP NEAR SARDIS — BEFORE BRUTUS’S TENT — DUSK",
+   "voice": "Outdoors in an army camp at dusk, soldiers about: clipped military voices",
+   "open": [
+    "Campfires coming alight across the hills. Drums. BRUTUS stands before his tent as a messenger rides in from Cassius."
+   ],
+   "before": {
+    "16": [
+     "CASSIUS marches in with his men, angry before he has said a word."
+    ]
+   },
+   "paren": {
+    "23": "bitter, holding it in",
+    "26": "low, warning"
+   }
+  },
+  "13": {
+   "slug": "INT. BRUTUS’S TENT — NIGHT",
+   "voice": "Inside a soldier’s tent at night: close, private voices; the anger kept low so the camp will not hear",
+   "open": [
+    "A lamp, a table of maps, a cot. The tent flap drops. BRUTUS and CASSIUS face each other alone."
+   ],
+   "before": {
+    "82": [
+     "The quarrel spent. LUCIUS brings wine; they drink together."
+    ],
+    "148": [
+     "Lucius takes up his lute. The music slows; the boy’s head drops. Brutus reads by the taper."
+    ],
+    "150": [
+     "The taper gutters. A shape stands at the tent’s mouth: CAESAR, as he died."
+    ]
+   },
+   "paren": {
+    "3": "furious, low",
+    "74": "quietly",
+    "152": "hollow, distant",
+    "154": "hollow, distant",
+    "153": "frozen, a whisper",
+    "157": "steadying himself"
+   }
+  },
+  "14": {
+   "slug": "EXT. THE PLAINS OF PHILIPPI — DAY",
+   "voice": "Outdoors on an open plain, two armies drawn up: commanders shouting across open ground, wind carrying the words",
+   "open": [
+    "A wide plain under a hard sky. Two armies face each other. The four generals ride out to parley in the middle ground."
+   ],
+   "before": {
+    "39": [
+     "The parley breaks. Brutus and Cassius are left alone in the wind."
+    ]
+   },
+   "paren": {
+    "26": "contemptuous, loud",
+    "50": "quiet, tender",
+    "33": "scornful"
+   }
+  },
+  "15": {
+   "slug": "EXT. PHILIPPI — THE FIELD OF BATTLE — DAY",
+   "voice": "Outdoors in the middle of a battle: shouted orders over the noise",
+   "open": [
+    "Dust and noise. BRUTUS gallops up with a handful of written orders."
+   ],
+   "before": {},
+   "paren": {
+    "3": "shouting over the battle"
+   }
+  },
+  "16": {
+   "slug": "EXT. PHILIPPI — A HILL ON THE FIELD — DAY",
+   "voice": "Outdoors on a hilltop above a battle: urgent voices, the fighting below",
+   "open": [
+    "A rise of ground. CASSIUS, his standard-bearer fled, his tents on fire, watches the field with TITINIUS."
+   ],
+   "before": {
+    "13": [
+     "PINDARUS climbs to the crest to look."
+    ],
+    "20": [
+     "A shout from below — Titinius among horsemen. Cassius misreads it."
+    ],
+    "28": [
+     "TITINIUS returns, a wreath of victory in his hand — too late."
+    ],
+    "44": [
+     "BRUTUS comes upon the bodies."
+    ]
+   },
+   "paren": {
+    "22": "broken",
+    "24": "quietly, at the end",
+    "49": "grief and awe"
+   }
+  },
+  "17": {
+   "slug": "EXT. PHILIPPI — ANOTHER PART OF THE FIELD — DAY",
+   "voice": "Outdoors in the thick of a battle: young men shouting their names in defiance",
+   "open": [
+    "Hand to hand. Young CATO and LUCILIUS fight back to back."
+   ],
+   "before": {
+    "16": [
+     "ANTONY rides up as Lucilius is dragged before him."
+    ]
+   },
+   "paren": {
+    "4": "defiant, shouting",
+    "19": "proud, steady"
+   }
+  },
+  "18": {
+   "slug": "EXT. PHILIPPI — A ROCK ON THE FIELD — EVENING",
+   "voice": "Outdoors at evening as a lost battle fades: tired, close voices among a few men",
+   "open": [
+    "The battle lost. A rock at the edge of the field. BRUTUS and the last of his friends rest in the failing light."
+   ],
+   "before": {
+    "36": [
+     "Strato holds the sword. Brutus runs upon it."
+    ],
+    "37": [
+     "The victors arrive. ANTONY stands over the body."
+    ]
+   },
+   "paren": {
+    "35": "at peace, at last",
+    "48": "quiet, generous",
+    "5": "exhausted"
+   }
   }
  }
 }

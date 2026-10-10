@@ -1,0 +1,1026 @@
+{
+ "work": "dracula",
+ "episode": 13,
+ "chapter": 13,
+ "title": "The Funeral",
+ "document": "DR SEWARD'S DIARY · MINA HARKER'S JOURNAL · THE WESTMINSTER GAZETTE",
+ "source": {
+  "library": "library/bram-stoker/ch13.md",
+  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ },
+ "note": "Chapter XIII complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-XIII-XVII.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Bram Stoker"
+  },
+  {
+   "role": "Dr Seward",
+   "cast_as": "William Harvey"
+  },
+  {
+   "role": "Van Helsing",
+   "cast_as": "Antony van Leeuwenhoek"
+  },
+  {
+   "role": "Arthur Holmwood",
+   "cast_as": "J.R.R. Tolkien"
+  },
+  {
+   "role": "Mina Harker",
+   "cast_as": "Agatha Christie"
+  },
+  {
+   "role": "Jonathan Harker",
+   "cast_as": "Charles Darwin"
+  },
+  {
+   "role": "The Correspondent",
+   "cast_as": "Charles Dickens"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "CHAPTER XIII"
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "phonograph",
+    "at": "DR. SEWARD’S DIARY",
+    "xfade": 4
+   },
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "DR. SEWARD’S DIARY— continued ."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "T HE funeral was arranged for the next succeeding day, so that Lucy and\nher mother might be buried together. I attended to all the ghastly\nformalities, and the urbane undertaker proved that his staff were\nafflicted—or blessed—with something of his own obsequious suavity.\nEven the woman who performed the last offices for the dead remarked to\nme, in a confidential, brother-professional way, when she had come out\nfrom the death-chamber:—"
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“She makes a very beautiful corpse, sir. It’s quite a privilege to\nattend on her. It’s not too much to say that she will do credit to our\nestablishment!”"
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I noticed that Van Helsing never kept far away. This was possible from\nthe disordered state of things in the household. There were no relatives\nat hand; and as Arthur had to be back the next day to attend at his\nfather’s funeral, we were unable to notify any one who should have been\nbidden. Under the circumstances, Van Helsing and I took it upon\nourselves to examine papers, etc. He insisted upon looking over Lucy’s\npapers himself. I asked him why, for I feared that he, being a\nforeigner, might not be quite aware of English legal requirements, and\nso might in ignorance make some unnecessary trouble. He answered me:—"
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“I know; I know. You forget that I am a lawyer as well as a doctor. But\nthis is not altogether for the law. You knew that, when you avoided the\ncoroner. I have more than him to avoid. There may be papers more—such\nas this.”"
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "As he spoke he took from his pocket-book the memorandum which had been\nin Lucy’s breast, and which she had torn in her sleep."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“When you find anything of the solicitor who is for the late Mrs.\nWestenra, seal all her papers, and write him to-night. For me, I watch\nhere in the room and in Miss Lucy’s old room all night, and I myself\nsearch for what may be. It is not well that her very thoughts go into\nthe hands of strangers.”"
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I went on with my part of the work, and in another half hour had found\nthe name and address of Mrs. Westenra’s solicitor and had written to\nhim. All the poor lady’s papers were in order; explicit directions\nregarding the place of burial were given. I had hardly sealed the\nletter, when, to my surprise, Van Helsing walked into the room,\nsaying:—"
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Can I help you, friend John? I am free, and if I may, my service is to\nyou.”"
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Have you got what you looked for?” I asked, to which he replied:—"
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“I did not look for any specific thing. I only hoped to find, and find I\nhave, all that there was—only some letters and a few memoranda, and a\ndiary new begun. But I have them here, and we shall for the present say\nnothing of them. I shall see that poor lad to-morrow evening, and, with\nhis sanction, I shall use some.”"
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "When we had finished the work in hand, he said to me:—"
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“And now, friend John, I think we may to bed. We want sleep, both you\nand I, and rest to recuperate. To-morrow we shall have much to do, but\nfor the to-night there is no need of us. Alas!”"
+  },
+  {
+   "n": 15,
+   "score": {
+    "key": "requiem",
+    "at": "Before turning in we went to look at poor Lucy",
+    "xfade": 6
+   },
+   "para": 14,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Before turning in we went to look at poor Lucy. The undertaker had\ncertainly done his work well, for the room was turned into a small\nchapelle ardente . There was a wilderness of beautiful white flowers,\nand death was made as little repulsive as might be. The end of the\nwinding-sheet was laid over the face; when the Professor bent over and\nturned it gently back, we both started at the beauty before us, the tall\nwax candles showing a sufficient light to note it well. All Lucy’s\nloveliness had come back to her in death, and the hours that had passed,\ninstead of leaving traces of “decay’s effacing fingers,” had but\nrestored the beauty of life, till positively I could not believe my eyes\nthat I was looking at a corpse."
+  },
+  {
+   "n": 16,
+   "para": 15,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "The Professor looked sternly grave. He had not loved her as I had, and\nthere was no need for tears in his eyes. He said to me:"
+  },
+  {
+   "n": 17,
+   "para": 15,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Remain till I\nreturn,”"
+  },
+  {
+   "n": 18,
+   "para": 15,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "and left the room. He came back with a handful of wild garlic\nfrom the box waiting in the hall, but which had not been opened, and\nplaced the flowers amongst the others on and around the bed. Then he\ntook from his neck, inside his collar, a little gold crucifix, and\nplaced it over the mouth. He restored the sheet to its place, and we\ncame away."
+  },
+  {
+   "n": 19,
+   "score": {
+    "key": "phonograph",
+    "at": "I was undressing in my own room",
+    "xfade": 8
+   },
+   "para": 16,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I was undressing in my own room, when, with a premonitory tap at the\ndoor, he entered, and at once began to speak:—"
+  },
+  {
+   "n": 20,
+   "para": 17,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“To-morrow I want you to bring me, before night, a set of post-mortem\nknives.”"
+  },
+  {
+   "n": 21,
+   "para": 18,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Must we make an autopsy?” I asked."
+  },
+  {
+   "n": 22,
+   "para": 19,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Yes and no. I want to operate, but not as you think. Let me tell you\nnow, but not a word to another. I want to cut off her head and take out\nher heart. Ah! you a surgeon, and so shocked! You, whom I have seen with\nno tremble of hand or heart, do operations of life and death that make\nthe rest shudder. Oh, but I must not forget, my dear friend John, that\nyou loved her; and I have not forgotten it, for it is I that shall\noperate, and you must only help. I would like to do it to-night, but for\nArthur I must not; he will be free after his father’s funeral to-morrow,\nand he will want to see her—to see it . Then, when she is coffined\nready for the next day, you and I shall come when all sleep. We shall\nunscrew the coffin-lid, and shall do our operation: and then replace\nall, so that none know, save we alone.”"
+  },
+  {
+   "n": 23,
+   "para": 20,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“But why do it at all? The girl is dead. Why mutilate her poor body\nwithout need? And if there is no necessity for a post-mortem and nothing\nto gain by it—no good to her, to us, to science, to human\nknowledge—why do it? Without such it is monstrous.”"
+  },
+  {
+   "n": 24,
+   "para": 21,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "For answer he put his hand on my shoulder, and said, with infinite\ntenderness:—"
+  },
+  {
+   "n": 25,
+   "para": 22,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Friend John, I pity your poor bleeding heart; and I love you the more\nbecause it does so bleed. If I could, I would take on myself the burden\nthat you do bear. But there are things that you know not, but that you\nshall know, and bless me for knowing, though they are not pleasant\nthings. John, my child, you have been my friend now many years, and yet\ndid you ever know me to do any without good cause? I may err—I am but\nman; but I believe in all I do. Was it not for these causes that you\nsend for me when the great trouble came? Yes! Were you not amazed, nay\nhorrified, when I would not let Arthur kiss his love—though she was\ndying—and snatched him away by all my strength? Yes! And yet you saw\nhow she thanked me, with her so beautiful dying eyes, her voice, too, so\nweak, and she kiss my rough old hand and bless me? Yes! And did you not\nhear me swear promise to her, that so she closed her eyes grateful? Yes!"
+  },
+  {
+   "n": 26,
+   "para": 23,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Well, I have good reason now for all I want to do. You have for many\nyears trust me; you have believe me weeks past, when there be things so\nstrange that you might have well doubt. Believe me yet a little, friend\nJohn. If you trust me not, then I must tell what I think; and that is\nnot perhaps well. And if I work—as work I shall, no matter trust or no\ntrust—without my friend trust in me, I work with heavy heart and feel,\noh! so lonely when I want all help and courage that may be!”"
+  },
+  {
+   "n": 27,
+   "para": 23,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He paused a\nmoment and went on solemnly:"
+  },
+  {
+   "n": 28,
+   "para": 23,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Friend John, there are strange and\nterrible days before us. Let us not be two, but one, that so we work to\na good end. Will you not have faith in me?”"
+  },
+  {
+   "n": 29,
+   "para": 24,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I took his hand, and promised him. I held my door open as he went away,\nand watched him go into his room and close the door. As I stood without\nmoving, I saw one of the maids pass silently along the passage—she had\nher back towards me, so did not see me—and go into the room where Lucy\nlay. The sight touched me. Devotion is so rare, and we are so grateful\nto those who show it unasked to those we love. Here was a poor girl\nputting aside the terrors which she naturally had of death to go watch\nalone by the bier of the mistress whom she loved, so that the poor clay\nmight not be lonely till laid to eternal rest...."
+  },
+  {
+   "n": 30,
+   "para": 25,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I must have slept long and soundly, for it was broad daylight when Van\nHelsing waked me by coming into my room. He came over to my bedside and\nsaid:—"
+  },
+  {
+   "n": 31,
+   "para": 26,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“You need not trouble about the knives; we shall not do it.”"
+  },
+  {
+   "n": 32,
+   "para": 27,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Why not?” I asked. For his solemnity of the night before had greatly\nimpressed me."
+  },
+  {
+   "n": 33,
+   "para": 28,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Because,”"
+  },
+  {
+   "n": 34,
+   "para": 28,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he said sternly,"
+  },
+  {
+   "n": 35,
+   "para": 28,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“it is too late—or too early. See!”"
+  },
+  {
+   "n": 36,
+   "para": 28,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Here he\nheld up the little golden crucifix."
+  },
+  {
+   "n": 37,
+   "para": 28,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“This was stolen in the night.”"
+  },
+  {
+   "n": 38,
+   "para": 29,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“How, stolen,” I asked in wonder, “since you have it now?”"
+  },
+  {
+   "n": 39,
+   "para": 30,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Because I get it back from the worthless wretch who stole it, from the\nwoman who robbed the dead and the living. Her punishment will surely\ncome, but not through me; she knew not altogether what she did and thus\nunknowing, she only stole. Now we must wait.”"
+  },
+  {
+   "n": 40,
+   "para": 31,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He went away on the word, leaving me with a new mystery to think of, a\nnew puzzle to grapple with."
+  },
+  {
+   "n": 41,
+   "para": 32,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "The forenoon was a dreary time, but at noon the solicitor came: Mr.\nMarquand, of Wholeman, Sons, Marquand & Lidderdale. He was very genial\nand very appreciative of what we had done, and took off our hands all\ncares as to details. During lunch he told us that Mrs. Westenra had for\nsome time expected sudden death from her heart, and had put her affairs\nin absolute order; he informed us that, with the exception of a certain\nentailed property of Lucy’s father’s which now, in default of direct\nissue, went back to a distant branch of the family, the whole estate,\nreal and personal, was left absolutely to Arthur Holmwood. When he had\ntold us so much he went on:—"
+  },
+  {
+   "n": 42,
+   "para": 33,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Frankly we did our best to prevent such a testamentary disposition, and\npointed out certain contingencies that might leave her daughter either\npenniless or not so free as she should be to act regarding a matrimonial\nalliance. Indeed, we pressed the matter so far that we almost came into\ncollision, for she asked us if we were or were not prepared to carry out\nher wishes. Of course, we had then no alternative but to accept. We were\nright in principle, and ninety-nine times out of a hundred we should\nhave proved, by the logic of events, the accuracy of our judgment.\nFrankly, however, I must admit that in this case any other form of\ndisposition would have rendered impossible the carrying out of her\nwishes. For by her predeceasing her daughter the latter would have come\ninto possession of the property, and, even had she only survived her\nmother by five minutes, her property would, in case there were no\nwill—and a will was a practical impossibility in such a case—have been\ntreated at her decease as under intestacy. In which case Lord Godalming,\nthough so dear a friend, would have had no claim in the world; and the\ninheritors, being remote, would not be likely to abandon their just\nrights, for sentimental reasons regarding an entire stranger. I assure\nyou, my dear sirs, I am rejoiced at the result, perfectly rejoiced.”"
+  },
+  {
+   "n": 43,
+   "para": 34,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He was a good fellow, but his rejoicing at the one little part—in which\nhe was officially interested—of so great a tragedy, was an\nobject-lesson in the limitations of sympathetic understanding."
+  },
+  {
+   "n": 44,
+   "para": 35,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He did not remain long, but said he would look in later in the day and\nsee Lord Godalming. His coming, however, had been a certain comfort to\nus, since it assured us that we should not have to dread hostile\ncriticism as to any of our acts. Arthur was expected at five o’clock, so\na little before that time we visited the death-chamber. It was so in\nvery truth, for now both mother and daughter lay in it. The undertaker,\ntrue to his craft, had made the best display he could of his goods, and\nthere was a mortuary air about the place that lowered our spirits at\nonce. Van Helsing ordered the former arrangement to be adhered to,\nexplaining that, as Lord Godalming was coming very soon, it would be\nless harrowing to his feelings to see all that was left of his fiancée\nquite alone. The undertaker seemed shocked at his own stupidity and\nexerted himself to restore things to the condition in which we left them\nthe night before, so that when Arthur came such shocks to his feelings\nas we could avoid were saved."
+  },
+  {
+   "n": 45,
+   "para": 36,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Poor fellow! He looked desperately sad and broken; even his stalwart\nmanhood seemed to have shrunk somewhat under the strain of his\nmuch-tried emotions. He had, I knew, been very genuinely and devotedly\nattached to his father; and to lose him, and at such a time, was a\nbitter blow to him. With me he was warm as ever, and to Van Helsing he\nwas sweetly courteous; but I could not help seeing that there was some\nconstraint with him. The Professor noticed it, too, and motioned me to\nbring him upstairs. I did so, and left him at the door of the room, as I\nfelt he would like to be quite alone with her, but he took my arm and\nled me in, saying huskily:—"
+  },
+  {
+   "n": 46,
+   "para": 37,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“You loved her too, old fellow; she told me all about it, and there was\nno friend had a closer place in her heart than you. I don’t know how to\nthank you for all you have done for her. I can’t think yet....”"
+  },
+  {
+   "n": 47,
+   "para": 38,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Here he suddenly broke down, and threw his arms round my shoulders and\nlaid his head on my breast, crying:—"
+  },
+  {
+   "n": 48,
+   "para": 39,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Oh, Jack! Jack! What shall I do! The whole of life seems gone from me\nall at once, and there is nothing in the wide world for me to live for.”"
+  },
+  {
+   "n": 49,
+   "para": 40,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I comforted him as well as I could. In such cases men do not need much\nexpression. A grip of the hand, the tightening of an arm over the\nshoulder, a sob in unison, are expressions of sympathy dear to a man’s\nheart. I stood still and silent till his sobs died away, and then I said\nsoftly to him:—"
+  },
+  {
+   "n": 50,
+   "para": 41,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Come and look at her.”"
+  },
+  {
+   "n": 51,
+   "score": {
+    "key": "requiem",
+    "at": "Together we moved over to the bed",
+    "xfade": 6
+   },
+   "para": 42,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Together we moved over to the bed, and I lifted the lawn from her face.\nGod! how beautiful she was. Every hour seemed to be enhancing her\nloveliness. It frightened and amazed me somewhat; and as for Arthur, he\nfell a-trembling, and finally was shaken with doubt as with an ague. At\nlast, after a long pause, he said to me in a faint whisper:—"
+  },
+  {
+   "n": 52,
+   "para": 43,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Jack, is she really dead?”"
+  },
+  {
+   "n": 53,
+   "para": 44,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I assured him sadly that it was so, and went on to suggest—for I felt\nthat such a horrible doubt should not have life for a moment longer than\nI could help—that it often happened that after death faces became\nsoftened and even resolved into their youthful beauty; that this was\nespecially so when death had been preceded by any acute or prolonged\nsuffering. It seemed to quite do away with any doubt, and, after\nkneeling beside the couch for a while and looking at her lovingly and\nlong, he turned aside. I told him that that must be good-bye, as the\ncoffin had to be prepared; so he went back and took her dead hand in his\nand kissed it, and bent over and kissed her forehead. He came away,\nfondly looking back over his shoulder at her as he came."
+  },
+  {
+   "n": 54,
+   "para": 45,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I left him in the drawing-room, and told Van Helsing that he had said\ngood-bye; so the latter went to the kitchen to tell the undertaker’s men\nto proceed with the preparations and to screw up the coffin. When he\ncame out of the room again I told him of Arthur’s question, and he\nreplied:—"
+  },
+  {
+   "n": 55,
+   "para": 46,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“I am not surprised. Just now I doubted for a moment myself!”"
+  },
+  {
+   "n": 56,
+   "score": {
+    "key": null,
+    "at": "We all dined together",
+    "xfade": 8
+   },
+   "para": 47,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "We all dined together, and I could see that poor Art was trying to make\nthe best of things. Van Helsing had been silent all dinner-time; but\nwhen we had lit our cigars he said—"
+  },
+  {
+   "n": 57,
+   "para": 48,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Lord——”"
+  },
+  {
+   "n": 58,
+   "para": 48,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "; but Arthur interrupted him:—"
+  },
+  {
+   "n": 59,
+   "para": 49,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“No, no, not that, for God’s sake! not yet at any rate. Forgive me, sir:\nI did not mean to speak offensively; it is only because my loss is so\nrecent.”"
+  },
+  {
+   "n": 60,
+   "para": 50,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "The Professor answered very sweetly:—"
+  },
+  {
+   "n": 61,
+   "para": 51,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“I only used that name because I was in doubt. I must not call you\n‘Mr.,’ and I have grown to love you—yes, my dear boy, to love you—as\nArthur.”"
+  },
+  {
+   "n": 62,
+   "para": 52,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Arthur held out his hand, and took the old man’s warmly."
+  },
+  {
+   "n": 63,
+   "para": 53,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Call me what you will,”"
+  },
+  {
+   "n": 64,
+   "para": 53,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "he said."
+  },
+  {
+   "n": 65,
+   "para": 53,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“I hope I may always have the title of\na friend. And let me say that I am at a loss for words to thank you for\nyour goodness to my poor dear.”"
+  },
+  {
+   "n": 66,
+   "para": 53,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He paused a moment, and went on:"
+  },
+  {
+   "n": 67,
+   "para": 53,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“I know\nthat she understood your goodness even better than I do; and if I was\nrude or in any way wanting at that time you acted so—you remember”"
+  },
+  {
+   "n": 68,
+   "para": 53,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "—the\nProfessor nodded—"
+  },
+  {
+   "n": 69,
+   "para": 53,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“you must forgive me.”"
+  },
+  {
+   "n": 70,
+   "para": 54,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "He answered with a grave kindness:—"
+  },
+  {
+   "n": 71,
+   "para": 55,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“I know it was hard for you to quite trust me then, for to trust such\nviolence needs to understand; and I take it that you do not—that you\ncannot—trust me now, for you do not yet understand. And there may be\nmore times when I shall want you to trust when you cannot—and may\nnot—and must not yet understand. But the time will come when your trust\nshall be whole and complete in me, and when you shall understand as\nthough the sunlight himself shone through. Then you shall bless me from\nfirst to last for your own sake, and for the sake of others and for her\ndear sake to whom I swore to protect.”"
+  },
+  {
+   "n": 72,
+   "para": 56,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“And, indeed, indeed, sir,”"
+  },
+  {
+   "n": 73,
+   "para": 56,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "said Arthur warmly,"
+  },
+  {
+   "n": 74,
+   "para": 56,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“I shall in all ways\ntrust you. I know and believe you have a very noble heart, and you are\nJack’s friend, and you were hers. You shall do what you like.”"
+  },
+  {
+   "n": 75,
+   "para": 57,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "The Professor cleared his throat a couple of times, as though about to\nspeak, and finally said:—"
+  },
+  {
+   "n": 76,
+   "para": 58,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“May I ask you something now?”"
+  },
+  {
+   "n": 77,
+   "para": 59,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Certainly.”"
+  },
+  {
+   "n": 78,
+   "para": 60,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“You know that Mrs. Westenra left you all her property?”"
+  },
+  {
+   "n": 79,
+   "para": 61,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“No, poor dear; I never thought of it.”"
+  },
+  {
+   "n": 80,
+   "para": 62,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“And as it is all yours, you have a right to deal with it as you will. I\nwant you to give me permission to read all Miss Lucy’s papers and\nletters. Believe me, it is no idle curiosity. I have a motive of which,\nbe sure, she would have approved. I have them all here. I took them\nbefore we knew that all was yours, so that no strange hand might touch\nthem—no strange eye look through words into her soul. I shall keep\nthem, if I may; even you may not see them yet, but I shall keep them\nsafe. No word shall be lost; and in the good time I shall give them back\nto you. It’s a hard thing I ask, but you will do it, will you not, for\nLucy’s sake?”"
+  },
+  {
+   "n": 81,
+   "para": 63,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "Arthur spoke out heartily, like his old self:—"
+  },
+  {
+   "n": 82,
+   "para": 64,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Dr. Van Helsing, you may do what you will. I feel that in saying this I\nam doing what my dear one would have approved. I shall not trouble you\nwith questions till the time comes.”"
+  },
+  {
+   "n": 83,
+   "para": 65,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "The old Professor stood up as he said solemnly:—"
+  },
+  {
+   "n": 84,
+   "para": 66,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“And you are right. There will be pain for us all; but it will not be\nall pain, nor will this pain be the last. We and you too—you most of\nall, my dear boy—will have to pass through the bitter water before we\nreach the sweet. But we must be brave of heart and unselfish, and do our\nduty, and all will be well!”"
+  },
+  {
+   "n": 85,
+   "para": 67,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I slept on a sofa in Arthur’s room that night. Van Helsing did not go to\nbed at all. He went to and fro, as if patrolling the house, and was\nnever out of sight of the room where Lucy lay in her coffin, strewn with\nthe wild garlic flowers, which sent, through the odour of lily and rose,\na heavy, overpowering smell into the night."
+  },
+  {
+   "n": 86,
+   "score": {
+    "key": "pastoral_sour",
+    "at": "Mina Harker’s Journal",
+    "xfade": 6
+   },
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Mina Harker’s Journal."
+  },
+  {
+   "n": 87,
+   "para": 69,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "22 September. —In the train to Exeter. Jonathan sleeping."
+  },
+  {
+   "n": 88,
+   "para": 70,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "It seems only yesterday that the last entry was made, and yet how much\nbetween then, in Whitby and all the world before me, Jonathan away and\nno news of him; and now, married to Jonathan, Jonathan a solicitor, a\npartner, rich, master of his business, Mr. Hawkins dead and buried, and\nJonathan with another attack that may harm him. Some day he may ask me\nabout it. Down it all goes. I am rusty in my shorthand—see what\nunexpected prosperity does for us—so it may be as well to freshen it up\nagain with an exercise anyhow...."
+  },
+  {
+   "n": 89,
+   "para": 71,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "The service was very simple and very solemn. There were only ourselves\nand the servants there, one or two old friends of his from Exeter, his\nLondon agent, and a gentleman representing Sir John Paxton, the\nPresident of the Incorporated Law Society. Jonathan and I stood hand in\nhand, and we felt that our best and dearest friend was gone from us...."
+  },
+  {
+   "n": 90,
+   "para": 72,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "We came back to town quietly, taking a ’bus to Hyde Park Corner.\nJonathan thought it would interest me to go into the Row for a while, so\nwe sat down; but there were very few people there, and it was\nsad-looking and desolate to see so many empty chairs. It made us think\nof the empty chair at home; so we got up and walked down Piccadilly.\nJonathan was holding me by the arm, the way he used to in old days\nbefore I went to school. I felt it very improper, for you can’t go on\nfor some years teaching etiquette and decorum to other girls without the\npedantry of it biting into yourself a bit; but it was Jonathan, and he\nwas my husband, and we didn’t know anybody who saw us—and we didn’t\ncare if they did—so on we walked. I was looking at a very beautiful\ngirl, in a big cart-wheel hat, sitting in a victoria outside Guiliano’s,\nwhen I felt Jonathan clutch my arm so tight that he hurt me, and he said\nunder his breath:"
+  },
+  {
+   "n": 91,
+   "para": 72,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“My God!”"
+  },
+  {
+   "n": 92,
+   "para": 72,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "I am always anxious about Jonathan, for I\nfear that some nervous fit may upset him again; so I turned to him\nquickly, and asked him what it was that disturbed him."
+  },
+  {
+   "n": 93,
+   "score": {
+    "key": "dread",
+    "at": "he gazed at a tall, thin man",
+    "xfade": 4
+   },
+   "para": 73,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "He was very pale, and his eyes seemed bulging out as, half in terror and\nhalf in amazement, he gazed at a tall, thin man, with a beaky nose and\nblack moustache and pointed beard, who was also observing the pretty\ngirl. He was looking at her so hard that he did not see either of us,\nand so I had a good view of him. His face was not a good face; it was\nhard, and cruel, and sensual, and his big white teeth, that looked all\nthe whiter because his lips were so red, were pointed like an animal’s.\nJonathan kept staring at him, till I was afraid he would notice. I\nfeared he might take it ill, he looked so fierce and nasty. I asked\nJonathan why he was disturbed, and he answered, evidently thinking that\nI knew as much about it as he did:"
+  },
+  {
+   "n": 94,
+   "para": 73,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Do you see who it is?”"
+  },
+  {
+   "n": 95,
+   "para": 74,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“No, dear,” I said; “I don’t know him; who is it?” His answer seemed to\nshock and thrill me, for it was said as if he did not know that it was\nto me, Mina, to whom he was speaking:—"
+  },
+  {
+   "n": 96,
+   "para": 75,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“It is the man himself!”"
+  },
+  {
+   "n": 97,
+   "para": 76,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "The poor dear was evidently terrified at something—very greatly\nterrified; I do believe that if he had not had me to lean on and to\nsupport him he would have sunk down. He kept staring; a man came out of\nthe shop with a small parcel, and gave it to the lady, who then drove\noff. The dark man kept his eyes fixed on her, and when the carriage\nmoved up Piccadilly he followed in the same direction, and hailed a\nhansom. Jonathan kept looking after him, and said, as if to himself:—"
+  },
+  {
+   "n": 98,
+   "para": 77,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“I believe it is the Count, but he has grown young. My God, if this be\nso! Oh, my God! my God! If I only knew! if I only knew!”"
+  },
+  {
+   "n": 99,
+   "para": 77,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "He was\ndistressing himself so much that I feared to keep his mind on the\nsubject by asking him any questions, so I remained silent. I drew him\naway quietly, and he, holding my arm, came easily. We walked a little\nfurther, and then went in and sat for a while in the Green Park. It was\na hot day for autumn, and there was a comfortable seat in a shady place.\nAfter a few minutes’ staring at nothing, Jonathan’s eyes closed, and he\nwent quietly into a sleep, with his head on my shoulder. I thought it\nwas the best thing for him, so did not disturb him. In about twenty\nminutes he woke up, and said to me quite cheerfully:—"
+  },
+  {
+   "n": 100,
+   "para": 78,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Why, Mina, have I been asleep! Oh, do forgive me for being so rude.\nCome, and we’ll have a cup of tea somewhere.”"
+  },
+  {
+   "n": 101,
+   "para": 78,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "He had evidently forgotten\nall about the dark stranger, as in his illness he had forgotten all that\nthis episode had reminded him of. I don’t like this lapsing into\nforgetfulness; it may make or continue some injury to the brain. I must\nnot ask him, for fear I shall do more harm than good; but I must somehow\nlearn the facts of his journey abroad. The time is come, I fear, when I\nmust open that parcel, and know what is written. Oh, Jonathan, you will,\nI know, forgive me if I do wrong, but it is for your own dear sake."
+  },
+  {
+   "n": 102,
+   "score": {
+    "key": "pastoral_sour",
+    "at": "A sad home-coming in every way",
+    "xfade": 8
+   },
+   "para": 79,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "Later. —A sad home-coming in every way—the house empty of the dear\nsoul who was so good to us; Jonathan still pale and dizzy under a slight\nrelapse of his malady; and now a telegram from Van Helsing, whoever he\nmay be:—"
+  },
+  {
+   "n": 103,
+   "para": 80,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“You will be grieved to hear that Mrs. Westenra died five days ago, and\nthat Lucy died the day before yesterday. They were both buried to-day.”"
+  },
+  {
+   "n": 104,
+   "para": 81,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "Oh, what a wealth of sorrow in a few words! Poor Mrs. Westenra! poor\nLucy! Gone, gone, never to return to us! And poor, poor Arthur, to have\nlost such sweetness out of his life! God help us all to bear our\ntroubles."
+  },
+  {
+   "n": 105,
+   "score": {
+    "key": "phonograph",
+    "at": "Dr. Seward’s Diary",
+    "xfade": 6
+   },
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "Dr. Seward’s Diary."
+  },
+  {
+   "n": 106,
+   "para": 83,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "22 September. —It is all over. Arthur has gone back to Ring, and has\ntaken Quincey Morris with him. What a fine fellow is Quincey! I believe\nin my heart of hearts that he suffered as much about Lucy’s death as any\nof us; but he bore himself through it like a moral Viking. If America\ncan go on breeding men like that, she will be a power in the world\nindeed. Van Helsing is lying down, having a rest preparatory to his\njourney. He goes over to Amsterdam to-night, but says he returns\nto-morrow night; that he only wants to make some arrangements which can\nonly be made personally. He is to stop with me then, if he can; he says\nhe has work to do in London which may take him some time. Poor old\nfellow! I fear that the strain of the past week has broken down even his\niron strength. All the time of the burial he was, I could see, putting\nsome terrible restraint on himself. When it was all over, we were\nstanding beside Arthur, who, poor fellow, was speaking of his part in\nthe operation where his blood had been transfused to his Lucy’s veins; I\ncould see Van Helsing’s face grow white and purple by turns. Arthur was\nsaying that he felt since then as if they two had been really married\nand that she was his wife in the sight of God. None of us said a word of\nthe other operations, and none of us ever shall. Arthur and Quincey went\naway together to the station, and Van Helsing and I came on here. The\nmoment we were alone in the carriage he gave way to a regular fit of\nhysterics. He has denied to me since that it was hysterics, and insisted\nthat it was only his sense of humour asserting itself under very\nterrible conditions. He laughed till he cried, and I had to draw down\nthe blinds lest any one should see us and misjudge; and then he cried,\ntill he laughed again; and laughed and cried together, just as a woman\ndoes. I tried to be stern with him, as one is to a woman under the\ncircumstances; but it had no effect. Men and women are so different in\nmanifestations of nervous strength or weakness! Then when his face grew\ngrave and stern again I asked him why his mirth, and why at such a time.\nHis reply was in a way characteristic of him, for it was logical and\nforceful and mysterious. He said:—"
+  },
+  {
+   "n": 107,
+   "para": 84,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Ah, you don’t comprehend, friend John. Do not think that I am not sad,\nthough I laugh. See, I have cried even when the laugh did choke me. But\nno more think that I am all sorry when I cry, for the laugh he come\njust the same. Keep it always with you that laughter who knock at your\ndoor and say, ‘May I come in?’ is not the true laughter. No! he is a\nking, and he come when and how he like. He ask no person; he choose no\ntime of suitability. He say, ‘I am here.’ Behold, in example I grieve my\nheart out for that so sweet young girl; I give my blood for her, though\nI am old and worn; I give my time, my skill, my sleep; I let my other\nsufferers want that so she may have all. And yet I can laugh at her very\ngrave—laugh when the clay from the spade of the sexton drop upon her\ncoffin and say ‘Thud! thud!’ to my heart, till it send back the blood\nfrom my cheek. My heart bleed for that poor boy—that dear boy, so of\nthe age of mine own boy had I been so blessed that he live, and with his\nhair and eyes the same. There, you know now why I love him so. And yet\nwhen he say things that touch my husband-heart to the quick, and make my\nfather-heart yearn to him as to no other man—not even to you, friend\nJohn, for we are more level in experiences than father and son—yet even\nat such moment King Laugh he come to me and shout and bellow in my ear,\n‘Here I am! here I am!’ till the blood come dance back and bring some of\nthe sunshine that he carry with him to my cheek. Oh, friend John, it is\na strange world, a sad world, a world full of miseries, and woes, and\ntroubles; and yet when King Laugh come he make them all dance to the\ntune he play. Bleeding hearts, and dry bones of the churchyard, and\ntears that burn as they fall—all dance together to the music that he\nmake with that smileless mouth of him. And believe me, friend John, that\nhe is good to come, and kind. Ah, we men and women are like ropes drawn\ntight with strain that pull us different ways. Then tears come; and,\nlike the rain on the ropes, they brace us up, until perhaps the strain\nbecome too great, and we break. But King Laugh he come like the\nsunshine, and he ease off the strain again; and we bear to go on with\nour labour, what it may be.”"
+  },
+  {
+   "n": 108,
+   "para": 85,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I did not like to wound him by pretending not to see his idea; but, as I\ndid not yet understand the cause of his laughter, I asked him. As he\nanswered me his face grew stern, and he said in quite a different\ntone:—"
+  },
+  {
+   "n": 109,
+   "score": {
+    "key": "requiem",
+    "at": "Oh, it was the grim irony of it all",
+    "xfade": 6
+   },
+   "para": 86,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Oh, it was the grim irony of it all—this so lovely lady garlanded with\nflowers, that looked so fair as life, till one by one we wondered if she\nwere truly dead; she laid in that so fine marble house in that lonely\nchurchyard, where rest so many of her kin, laid there with the mother\nwho loved her, and whom she loved; and that sacred bell going ‘Toll!\ntoll! toll!’ so sad and slow; and those holy men, with the white\ngarments of the angel, pretending to read books, and yet all the time\ntheir eyes never on the page; and all of us with the bowed head. And all\nfor what? She is dead; so! Is it not?”"
+  },
+  {
+   "n": 110,
+   "score": {
+    "key": "phonograph",
+    "at": "Well, for the life of me, Professor",
+    "xfade": 6
+   },
+   "para": 87,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Well, for the life of me, Professor,” I said, “I can’t see anything to\nlaugh at in all that. Why, your explanation makes it a harder puzzle\nthan before. But even if the burial service was comic, what about poor\nArt and his trouble? Why, his heart was simply breaking.”"
+  },
+  {
+   "n": 111,
+   "para": 88,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Just so. Said he not that the transfusion of his blood to her veins had\nmade her truly his bride?”"
+  },
+  {
+   "n": 112,
+   "para": 89,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“Yes, and it was a sweet and comforting idea for him.”"
+  },
+  {
+   "n": 113,
+   "para": 90,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Quite so. But there was a difficulty, friend John. If so that, then\nwhat about the others? Ho, ho! Then this so sweet maid is a polyandrist,\nand me, with my poor wife dead to me, but alive by Church’s law, though\nno wits, all gone—even I, who am faithful husband to this now-no-wife,\nam bigamist.”"
+  },
+  {
+   "n": 114,
+   "para": 91,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“I don’t see where the joke comes in there either!” I said; and I did\nnot feel particularly pleased with him for saying such things. He laid\nhis hand on my arm, and said:—"
+  },
+  {
+   "n": 115,
+   "para": 92,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Friend John, forgive me if I pain. I showed not my feeling to others\nwhen it would wound, but only to you, my old friend, whom I can trust.\nIf you could have looked into my very heart then when I want to laugh;\nif you could have done so when the laugh arrived; if you could do so\nnow, when King Laugh have pack up his crown, and all that is to him—for\nhe go far, far away from me, and for a long, long time—maybe you would\nperhaps pity me the most of all.”"
+  },
+  {
+   "n": 116,
+   "para": 93,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "I was touched by the tenderness of his tone, and asked why."
+  },
+  {
+   "n": 117,
+   "para": 94,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Because I know!”"
+  },
+  {
+   "n": 118,
+   "score": {
+    "key": "requiem",
+    "at": "And now we are all scattered",
+    "xfade": 8
+   },
+   "sfx": [
+    {
+     "key": "passing_bell",
+     "at": "Lucy lies in the tomb of her kin",
+     "offset": 0.3
+    }
+   ],
+   "para": 95,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "And now we are all scattered; and for many a long day loneliness will\nsit over our roofs with brooding wings. Lucy lies in the tomb of her\nkin, a lordly death-house in a lonely churchyard, away from teeming\nLondon; where the air is fresh, and the sun rises over Hampstead Hill,\nand where wild flowers grow of their own accord."
+  },
+  {
+   "n": 119,
+   "para": 96,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "So I can finish this diary; and God only knows if I shall ever begin\nanother. If I do, or if I even open this again, it will be to deal with\ndifferent people and different themes; for here at the end, where the\nromance of my life is told, ere I go back to take up the thread of my\nlife-work, I say sadly and without hope,"
+  },
+  {
+   "n": 120,
+   "para": 97,
+   "role": "Dr Seward",
+   "cast": "William Harvey",
+   "text": "“ FINIS. ”"
+  },
+  {
+   "n": 121,
+   "score": {
+    "key": "vigil",
+    "at": "The Westminster Gazette",
+    "xfade": 6
+   },
+   "para": 98,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“The Westminster Gazette,” 25 September."
+  },
+  {
+   "n": 122,
+   "para": 99,
+   "role": "The Correspondent",
+   "cast": "Charles Dickens",
+   "text": "A HAMPSTEAD MYSTERY."
+  },
+  {
+   "n": 123,
+   "para": 100,
+   "role": "The Correspondent",
+   "cast": "Charles Dickens",
+   "text": "The neighbourhood of Hampstead is just at present exercised with a\nseries of events which seem to run on lines parallel to those of what\nwas known to the writers of headlines as “The Kensington Horror,” or\n“The Stabbing Woman,” or “The Woman in Black.” During the past two or\nthree days several cases have occurred of young children straying from\nhome or neglecting to return from their playing on the Heath. In all\nthese cases the children were too young to give any properly\nintelligible account of themselves, but the consensus of their excuses\nis that they had been with a “bloofer lady.” It has always been late in\nthe evening when they have been missed, and on two occasions the\nchildren have not been found until early in the following morning. It is\ngenerally supposed in the neighbourhood that, as the first child missed\ngave as his reason for being away that a “bloofer lady” had asked him to\ncome for a walk, the others had picked up the phrase and used it as\noccasion served. This is the more natural as the favourite game of the\nlittle ones at present is luring each other away by wiles. A\ncorrespondent writes us that to see some of the tiny tots pretending to\nbe the “bloofer lady” is supremely funny. Some of our caricaturists\nmight, he says, take a lesson in the irony of grotesque by comparing the\nreality and the picture. It is only in accordance with general\nprinciples of human nature that the “bloofer lady” should be the popular\nrôle at these al fresco performances. Our correspondent naïvely says\nthat even Ellen Terry could not be so winningly attractive as some of\nthese grubby-faced little children pretend—and even imagine\nthemselves—to be."
+  },
+  {
+   "n": 124,
+   "para": 101,
+   "role": "The Correspondent",
+   "cast": "Charles Dickens",
+   "text": "There is, however, possibly a serious side to the question, for some of\nthe children, indeed all who have been missed at night, have been\nslightly torn or wounded in the throat. The wounds seem such as might be\nmade by a rat or a small dog, and although of not much importance\nindividually, would tend to show that whatever animal inflicts them has\na system or method of its own. The police of the division have been\ninstructed to keep a sharp look-out for straying children, especially\nwhen very young, in and around Hampstead Heath, and for any stray dog\nwhich may be about."
+  },
+  {
+   "n": 125,
+   "para": 102,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "“The Westminster Gazette,” 25 September."
+  },
+  {
+   "n": 126,
+   "para": 103,
+   "role": "The Correspondent",
+   "cast": "Charles Dickens",
+   "text": "Extra Special."
+  },
+  {
+   "n": 127,
+   "para": 104,
+   "role": "The Correspondent",
+   "cast": "Charles Dickens",
+   "text": "THE HAMPSTEAD HORROR."
+  },
+  {
+   "n": 128,
+   "para": 105,
+   "role": "The Correspondent",
+   "cast": "Charles Dickens",
+   "text": "ANOTHER CHILD INJURED."
+  },
+  {
+   "n": 129,
+   "para": 106,
+   "role": "The Correspondent",
+   "cast": "Charles Dickens",
+   "text": "The “Bloofer Lady.”"
+  },
+  {
+   "n": 130,
+   "para": 107,
+   "role": "The Correspondent",
+   "cast": "Charles Dickens",
+   "text": "We have just received intelligence that another child, missed last\nnight, was only discovered late in the morning under a furze bush at the\nShooter’s Hill side of Hampstead Heath, which is, perhaps, less\nfrequented than the other parts. It has the same tiny wound in the\nthroat as has been noticed in other cases. It was terribly weak, and\nlooked quite emaciated. It too, when partially restored, had the common\nstory to tell of being lured away by the “bloofer lady.”"
+  }
+ ]
+}

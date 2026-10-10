@@ -100,37 +100,42 @@
   {
    "n": 13,
    "file": "dracula/ep13.json",
-   "document": "DR SEWARD'S DIARY · MINA'S JOURNAL",
+   "document": "DR SEWARD'S DIARY · MINA HARKER'S JOURNAL · THE WESTMINSTER GAZETTE",
    "summary": "The funeral. The Westminster Gazette and the bloofer lady",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-XIII-XVII.md."
   },
   {
    "n": 14,
    "file": "dracula/ep14.json",
-   "document": "MINA HARKER'S JOURNAL · DR SEWARD'S DIARY",
+   "document": "MINA HARKER'S JOURNAL · LETTERS · JONATHAN HARKER'S JOURNAL · DR SEWARD'S DIARY",
    "summary": "Van Helsing reads Jonathan's journal and believes it",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-XIII-XVII.md."
   },
   {
    "n": 15,
    "file": "dracula/ep15.json",
-   "document": "DR SEWARD'S DIARY",
+   "document": "DR SEWARD'S DIARY · A NOTE LEFT BY VAN HELSING",
    "summary": "The tomb at Kingstead, by day and by night",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-XIII-XVII.md."
   },
   {
    "n": 16,
    "file": "dracula/ep16.json",
    "document": "DR SEWARD'S DIARY",
    "summary": "The stake, the garlic, and the peace that came after",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-XIII-XVII.md."
   },
   {
    "n": 17,
    "file": "dracula/ep17.json",
-   "document": "DR SEWARD'S DIARY · MINA HARKER'S JOURNAL",
+   "document": "DR SEWARD'S DIARY · MINA HARKER'S JOURNAL · JONATHAN HARKER'S JOURNAL",
    "summary": "Mina types the whole record into one document",
-   "status": "unscripted"
+   "status": "scripted",
+   "note": "Scripted whole, scored. Speech attributions listed in dracula/REVIEW-XIII-XVII.md."
   },
   {
    "n": 18,

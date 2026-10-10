@@ -1,598 +1,605 @@
 {
-  "_file": "Amenti-Readings/dracula/sound.json",
-  "_updated": "2026-10-06 09:00 UTC",
-  "work": "dracula",
-  "files": {
-    "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals. CHAPTER 7: the loops (storm, pulse, captain's heart) are WAV, cut to exact bars, because an MP3 loop stutters at its seam; everything else is MP3.",
-    "base": "https://ianingram.github.io/Amenti-Readings/dracula/sound/",
-    "beds": {
-      "castle": "fire.mp3",
-      "pass": "wind.mp3",
-      "whitby": "sea.mp3",
-      "demeter": "hull.mp3",
-      "london_interior": "london.mp3"
-    },
-    "oneshots": {
-      "door_heavy": "door_heavy.mp3",
-      "wolves_chorus": "wolves.mp3",
-      "wolf_near": "wolves.mp3",
-      "steps_approach": "steps_approach.mp3",
-      "chains": "chains.mp3",
-      "bolts": "bolts.mp3",
-      "key_turn": "key_turn.mp3",
-      "step_threshold": "step_threshold.mp3",
-      "lamp_bracket": "lamp_bracket.mp3",
-      "luggage_lift": "luggage_lift.mp3",
-      "luggage_down": "luggage_down.mp3",
-      "stairs": "stairs.mp3",
-      "steps_stone": "steps_stone.mp3",
-      "door_open": "door_open.mp3",
-      "door_close": "door_close.mp3",
-      "fire_flare": "fire_flare.mp3",
-      "fire_roar": "fire_roar.mp3",
-      "letter": "letter.mp3",
-      "dish_cover": "dish_cover.mp3",
-      "wine": "wine.mp3",
-      "chair_draw": "chair_draw.mp3",
-      "match": "match.mp3",
-      "shudder": "shudder.mp3",
-      "chair_creak": "chair_creak.mp3",
-      "wreck_hit": "wreck-hit.mp3",
-      "loss_heart": "loss-heart.mp3",
-      "loss_heart_double": "loss-heart-double.mp3",
-      "log_rain": "log-rain.mp3",
-      "log_rough": "log-rough-weather.mp3",
-      "log_warn": "log-distant-roll.mp3",
-      "log_tempest": "log-tempest.mp3",
-      "mate_racing": "mate-racing.mp3",
-      "lightning_depths": "lightning-depths.mp3",
-      "wolf_howl": "wolf-howl.mp3",
-      "heart_last": "heart-last.mp3",
-      "horses_gallop": "horses-gallop.mp3",
-      "horse_neigh": "horse-neigh.mp3",
-      "church_bells": "church-bells.mp3",
-      "gulls": "gulls.mp3",
-      "clock_strike": "clock-strike.mp3",
-      "hammering": "hammering.mp3",
-      "wing_beat": "wing-beat.mp3",
-      "glass_crash": "glass-crash.mp3",
-      "thunder": "thunder.mp3",
-      "passing_bell": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/passing-bell.mp3"
-    },
-    "score": {
-      "dread": "score-dread.mp3",
-      "storm_1": "storm-1.wav",
-      "storm_3": "storm-3.wav",
-      "storm_4": "storm-4.wav",
-      "pulse_8": "pulse-8.wav",
-      "pulse_7": "pulse-7.wav",
-      "pulse_6": "pulse-6.wav",
-      "pulse_5": "pulse-5.wav",
-      "pulse_3": "pulse-3.wav",
-      "pulse_2": "pulse-2.wav",
-      "pulse_1": "pulse-1.wav",
-      "captain_heart": "captain-heart.wav",
-      "pastoral_warm": "score-pastoral-warm.mp3",
-      "pastoral_sour": "score-pastoral-sour.mp3",
-      "phonograph": "phonograph-crackle.wav",
-      "vigil": "score-vigil.mp3",
-      "earth_boxes": "score-earth-boxes.mp3",
-      "pursuit": "score-pursuit.mp3",
-      "requiem": "score-requiem.mp3"
-    },
-    "under": {
-      "note": "MUSIC UNDER ONE LINE. piano_far: far away and airy, a few notes sprinkled, the odd soft chord — letters, memory, anything read rather than lived. piano_near: close and bold, full chords when the moment needs weight. Each use starts at a different seeded point in the minute-long piece.",
-      "piano_far": "piano-far.mp3",
-      "piano_near": "piano-near.mp3",
-      "piano_letter": "piano-far.mp3"
-    },
-    "levels": {
-      "note": "Score gain per key, before ducking. Files are mastered relative to each other; these set them against the voices. Absent keys play at the default.",
-      "storm_1": 1.0,
-      "storm_3": 1.0,
-      "storm_4": 1.0,
-      "pulse_8": 1.0,
-      "pulse_7": 1.0,
-      "pulse_6": 1.0,
-      "pulse_5": 1.0,
-      "pulse_3": 1.0,
-      "pulse_2": 1.0,
-      "pulse_1": 1.0,
-      "captain_heart": 1.0,
-      "dread": 0.3,
-      "pastoral_warm": 0.3,
-      "pastoral_sour": 0.3,
-      "phonograph": 0.8,
-      "vigil": 0.32,
-      "earth_boxes": 0.34,
-      "pursuit": 0.36,
-      "requiem": 0.36
-    }
-  },
-  "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
-  "techniques": {
-    "coprime_loops": "A bed is three layers at PRIME lengths — 37s, 53s, 71s — not one loop at 30s. They do not realign for roughly 38 hours, so nothing audibly repeats, and it costs three files and no logic. The same trick runs the mist on the production page at 92s and 137s.",
-    "variant_pools": "Every one-shot has 3-4 recordings. Playback adds random detune of plus or minus 40 cents and playbackRate of plus or minus 4 per cent, both native to Web Audio. A door closing twelve times is twelve doors.",
-    "deterministic_randomness": "SEED THE VARIATION FROM THE CUE NUMBER, never from Math.random(). An episode then sounds identical every time it is played, which matters because people return to episodes — and it is the same argument as recording plate seeds. A reading that is subtly different on each listen is not a recording, it is a generator.",
-    "progression": "VARIATION IS WRONG FOR TWO SEQUENCES AND PROGRESSION IS RIGHT. The Demeter log and the castle chapters are both about a place emptying out. A bed that varies says 'still here, slightly different'. A bed that DEGRADES says what the text says. Those two get numbered states instead of variants; everything else gets variants."
-  },
+ "_file": "Amenti-Readings/dracula/sound.json",
+ "_updated": "2026-10-10 12:00 UTC",
+ "work": "dracula",
+ "files": {
+  "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals. CHAPTER 7: the loops (storm, pulse, captain's heart) are WAV, cut to exact bars, because an MP3 loop stutters at its seam; everything else is MP3.",
+  "base": "https://ianingram.github.io/Amenti-Readings/dracula/sound/",
   "beds": {
-    "castle": {
-      "note": "Stone, a fire in the grate, and wolves at a great distance. PROGRESSIVE: Harker does not know he is a prisoner in chapter 1 and knows it by chapter 3, so the room closes in around him. The fire is the last thing left.",
-      "progressive": true,
-      "layers": [
-        "stone room tone 37s",
-        "fire in a grate 53s",
-        "distant wolves 71s"
-      ],
-      "states": {
-        "1": "all three layers, fire warm, wolves far off — a cold house, not yet a trap",
-        "2": "room tone up, wolves nearer, the first long gaps",
-        "3": "wolves gone, only stone and fire, long silences between — he has stopped hearing the outside",
-        "4": "fire low and almost nothing else. The quiet is the point."
-      },
-      "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
-    },
-    "pass": {
-      "note": "The Borgo Pass and the Carpathian road. Wind, snow, enormous distance.",
-      "progressive": false,
-      "layers": [
-        "high wind 37s",
-        "snow and emptiness 53s",
-        "far wolves 71s"
-      ],
-      "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
-    },
-    "demeter": {
-      "note": "THE SEQUENCE THIS WHOLE APPROACH WAS BUILT FOR. The log is dated entries over about three weeks in which the crew goes one at a time. Variation would be exactly wrong — the bed must EMPTY. The listener should not notice the mechanism and should feel the ship go quiet.",
-      "progressive": true,
-      "layers": [
-        "sea against a hull 37s",
-        "rigging and timber 53s",
-        "crew and deck 71s"
-      ],
-      "states": {
-        "1": "a working ship — rigging, voices on deck, steady sea, a bell",
-        "2": "weather rising, fewer voices, the bell still rung",
-        "3": "wind over the voices, rope working, one man calling",
-        "4": "no voices. Timber under stress. Sea heavier.",
-        "5": "wind and water only, and the wheel turning untended."
-      },
-      "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
-    },
-    "whitby": {
-      "note": "Sea, gulls, weather off the North Sea. Pastoral, and it goes wrong without the sound changing much — the text does that work.",
-      "progressive": false,
-      "layers": [
-        "sea on shingle 37s",
-        "gulls and air 53s",
-        "church and town far off 71s"
-      ],
-      "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
-    },
-    "london_interior": {
-      "note": "Seward's asylum and the Piccadilly houses. A clock, a fire, the street muffled beyond glass. Clinical.",
-      "progressive": false,
-      "layers": [
-        "room tone 37s",
-        "clock 53s",
-        "muffled street 71s"
-      ],
-      "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
-    }
+   "castle": "fire.mp3",
+   "pass": "wind.mp3",
+   "whitby": "sea.mp3",
+   "demeter": "hull.mp3",
+   "london_interior": "london.mp3"
   },
   "oneshots": {
-    "note": "THIRTEEN SOURCES, ONE RECORDING EACH. Variation is generated at playback from detune and playbackRate, not from a pool of files. See scope above.",
-    "door_heavy": {
-      "note": "the castle door — bolts drawn, chains, great weight. 17 mentions, the most of anything.",
-      "files": 1
-    },
-    "door_shut": {
-      "note": "an ordinary door, interiors",
-      "files": 1
-    },
-    "wolf_near": {
-      "note": "close, single animal. Used sparingly — the bed carries the distant ones.",
-      "files": 1
-    },
-    "wolves_chorus": {
-      "note": "the pass, and the pursuit",
-      "files": 1
-    },
-    "carriage": {
-      "note": "hooves and wheels, arriving and departing. The calèche in chapter 1.",
-      "files": 1
-    },
-    "horse": {
-      "note": "single animal, uneasy",
-      "files": 1
-    },
-    "dog": {
-      "note": "Whitby and the guest",
-      "files": 1
-    },
-    "clock_strike": {
-      "note": "hours. Harker's journal and the asylum.",
-      "files": 1
-    },
-    "thunder": {
-      "files": 1,
-      "note": "22 mentions of thunder, lightning or gale across eight chapters, and ch 7 alone has 10 — the storm that drives the Demeter onto the shingle at Whitby is the largest weather event in the book and the timpani cue is written to it. Also ch 11, where Lucy's window is broken during a storm, and ch 1 in the pass. Distant rolls for the bed, one close crack for the landing."
-    },
-    "ships_bell": {
-      "note": "the Demeter, early entries only. Its absence later is the point.",
-      "files": 1
-    },
-    "wing_beat": {
-      "note": "bat at a window",
-      "files": 1
-    },
-    "earth_box": {
-      "note": "a heavy wooden crate dragged on stone. Chapters 19-20.",
-      "files": 1
-    },
-    "sea_heavy": {
-      "note": "a sea getting up — the Whitby storm that brings the Demeter in",
-      "files": 1
-    },
-    "train": {
-      "files": 1,
-      "note": "40 mentions, 24 of 'station', 8 of 'railway'. Harker travels Munich-Vienna-Buda-Pesth-Bistritz by rail in ch 1, and the chase east in ch 26 is rail and cart. A steam locomotive at speed, heard from inside a carriage."
-    },
-    "typewriter": {
-      "files": 1,
-      "note": "21 mentions. MINA'S MEDIUM. She types the whole dossier together in ch 17, transcribing Seward's cylinders — which is where the treatment changes mid-chapter from phonograph to clean. A manual machine, keys and carriage return."
-    },
-    "phonograph": {
-      "files": 1,
-      "note": "16 mentions. Not the crackle — the MACHINE. A wax cylinder starting, the needle dropping, the mechanism winding down. Seward's diary is 16 of 27 chapters and this is what the reader is sitting inside."
-    },
-    "clock_tick": {
-      "files": 1,
-      "note": "88 mentions of clock or struck, by a distance the commonest sound word in the book. clock_strike already covers the hour; this is the TICK, for the asylum interiors where nothing is happening and the text keeps saying so."
-    },
-    "knock": {
-      "files": 1,
-      "note": "22 mentions, plus 52 of lock and 12 of chain. A fist on wood, and a key turning. The castle runs on doors being secured."
-    },
-    "crowd_street": {
-      "files": 1,
-      "note": "17 of street, 15 of crowd. London exteriors — ch 19-21, the earth-boxes tracked across the city. Muffled, mid-distance, Victorian."
-    }
+   "door_heavy": "door_heavy.mp3",
+   "wolves_chorus": "wolves.mp3",
+   "wolf_near": "wolves.mp3",
+   "steps_approach": "steps_approach.mp3",
+   "chains": "chains.mp3",
+   "bolts": "bolts.mp3",
+   "key_turn": "key_turn.mp3",
+   "step_threshold": "step_threshold.mp3",
+   "lamp_bracket": "lamp_bracket.mp3",
+   "luggage_lift": "luggage_lift.mp3",
+   "luggage_down": "luggage_down.mp3",
+   "stairs": "stairs.mp3",
+   "steps_stone": "steps_stone.mp3",
+   "door_open": "door_open.mp3",
+   "door_close": "door_close.mp3",
+   "fire_flare": "fire_flare.mp3",
+   "fire_roar": "fire_roar.mp3",
+   "letter": "letter.mp3",
+   "dish_cover": "dish_cover.mp3",
+   "wine": "wine.mp3",
+   "chair_draw": "chair_draw.mp3",
+   "match": "match.mp3",
+   "shudder": "shudder.mp3",
+   "chair_creak": "chair_creak.mp3",
+   "wreck_hit": "wreck-hit.mp3",
+   "loss_heart": "loss-heart.mp3",
+   "loss_heart_double": "loss-heart-double.mp3",
+   "log_rain": "log-rain.mp3",
+   "log_rough": "log-rough-weather.mp3",
+   "log_warn": "log-distant-roll.mp3",
+   "log_tempest": "log-tempest.mp3",
+   "mate_racing": "mate-racing.mp3",
+   "lightning_depths": "lightning-depths.mp3",
+   "wolf_howl": "wolf-howl.mp3",
+   "heart_last": "heart-last.mp3",
+   "horses_gallop": "horses-gallop.mp3",
+   "horse_neigh": "horse-neigh.mp3",
+   "church_bells": "church-bells.mp3",
+   "gulls": "gulls.mp3",
+   "clock_strike": "clock-strike.mp3",
+   "hammering": "hammering.mp3",
+   "wing_beat": "wing-beat.mp3",
+   "glass_crash": "glass-crash.mp3",
+   "thunder": "thunder.mp3",
+   "passing_bell": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/passing-bell.mp3"
   },
   "score": {
-    "note": "FOUR CUES, NOT TWENTY-SEVEN. The book has four tonal registers and they map to the document types rather than to the plot.",
-    "dread": "Harker's journal. Slow, low, almost static. Chapters 1-4, 19, 22. REBUILT ON REAL INSTRUMENTS, 4 Oct 2026: VSCO 2 CE double bass and cellos on D–A, violas leaning D–E♭, the upright piano.",
-    "pastoral_turning": "The Whitby chapters. Open and warm at first and souring without changing key. Chapters 6-8, 11-13. BUILT AS TWO LOOPS, 4 Oct 2026: pastoral_warm (F major, strings breathing, piano broken chords, the flute) and pastoral_sour (the same key, the iv turned minor, the flat sixth, an E held against the F, no flute). The cue sheet chooses.",
-    "pursuit": "The chase east. Momentum, and the only cue with a pulse. Chapters 26-27. BUILT 6 Oct 2026: score-pursuit.mp3 (58 s loop) — 132 BPM galloping strings, timpani, brass climbing by fourths, horses, wolves far off.",
-    "earth_boxes": "The earth-boxes across London, ch 19-20. Industrial halftime, 60 BPM, percussion built from warehouse sounds rather than a drum kit. The only driving cue before the pursuit. BUILT 6 Oct 2026: score-earth-boxes.mp3 (63 s loop) — luggage, door, hammer and chains as the kit; D pedal and the D–E♭ lean.",
-    "phonograph": "Seward's diary, kept on a phonograph. LO-FI, and tiered three ways — full beat, crackle only, or silence. Sixteen of twenty-seven chapters are this document, so an untiered beat would be wallpaper. Measured, unemotional, a little mechanical. Chapters 9-10, 14-18, 21, 23-25.",
-    "demeter": "The Demeter (chapter 7). Not one cue: a scene scored from the cue sheet — storm loops, a hard cut, the pulse of the crew, hearts, lightning. See ep07.json.",
-    "vigil": "THE SICKROOM, chapters 9–12: a music box (glockenspiel) that keeps winding down over a low cello and viola pedal, the piano barely touched. Added 6 Oct 2026, so Lucy’s nights are scored as hers and not only as Seward’s phonograph.",
-    "requiem": "LUCY'S FUNERAL, chapter 13 — at Ian's direction: Gregorian chant, 4/4, very slow. The real Dies irae (PD), slowed to 88 %, over a cortège step at 40 BPM and the passing bell. Built 6 Oct 2026."
+   "dread": "score-dread.mp3",
+   "storm_1": "storm-1.wav",
+   "storm_3": "storm-3.wav",
+   "storm_4": "storm-4.wav",
+   "pulse_8": "pulse-8.wav",
+   "pulse_7": "pulse-7.wav",
+   "pulse_6": "pulse-6.wav",
+   "pulse_5": "pulse-5.wav",
+   "pulse_3": "pulse-3.wav",
+   "pulse_2": "pulse-2.wav",
+   "pulse_1": "pulse-1.wav",
+   "captain_heart": "captain-heart.wav",
+   "pastoral_warm": "score-pastoral-warm.mp3",
+   "pastoral_sour": "score-pastoral-sour.mp3",
+   "phonograph": "phonograph-crackle.wav",
+   "vigil": "score-vigil.mp3",
+   "earth_boxes": "score-earth-boxes.mp3",
+   "pursuit": "score-pursuit.mp3",
+   "requiem": "score-requiem.mp3"
   },
-  "chapters": [
-    {
-      "n": 1,
-      "bed": null,
-      "score": null,
-      "sfx": [
-        "carriage",
-        "horse",
-        "wolves_chorus",
-        "thunder"
-      ],
-      "note": "Silence at the inns; the dread enters with the landlady (\"Must you go?\"); the Borgo Pass wind from the coach onward. Scored from ep01.json."
-    },
-    {
-      "n": 2,
-      "bed": "castle",
-      "state": 1,
-      "score": "dread",
-      "sfx": [
-        "carriage",
-        "door_heavy",
-        "wolves_chorus"
-      ]
-    },
-    {
-      "n": 3,
-      "bed": "castle",
-      "state": 2,
-      "score": "dread",
-      "sfx": [
-        "door_shut",
-        "thunder",
-        "wing_beat"
-      ]
-    },
-    {
-      "n": 4,
-      "bed": "castle",
-      "state": 4,
-      "score": "dread",
-      "sfx": [
-        "earth_box",
-        "door_heavy"
-      ]
-    },
-    {
-      "n": 5,
-      "bed": "london_interior",
-      "score": "pastoral_warm",
-      "sfx": [
-        "clock_strike"
-      ],
-      "note": "The letters warm; Seward's phonograph crackle under his diary; warm again for Quincey and Arthur. Scored from ep05.json."
-    },
-    {
-      "n": 6,
-      "bed": "whitby",
-      "score": "pastoral_warm",
-      "sfx": [
-        "dog",
-        "ships_bell"
-      ],
-      "note": "Whitby warm; the asylum and the phonograph for Seward; back at Whitby the pastoral sours, in the same key, as Jonathan stays silent and the storm comes. Scored from ep06.json."
-    },
-    {
-      "n": 7,
-      "bed": "whitby",
-      "state": 1,
-      "score": null,
-      "sfx": [
-        "ships_bell",
-        "thunder"
-      ],
-      "note": "SCORED FROM THE CUE SHEET (ep07.json), in the book's order: the storm builds under the correspondent (storm 1 → 3 → 4) and stops dead on \"pitched herself\" with the wreck hit; silence and the sea for the corpse and the dog. The room becomes the ship's hull at the log. The pulse loses a beat for every soul (8 → 1), each a snare ruff and a heart until it is no more; weather on kettle and toms; the mate's heart races, lightning and thunder take him into the depths, the wolf howls; then only the captain's heart, until he ties his hands to the wheel."
-    },
-    {
-      "n": 8,
-      "bed": "whitby",
-      "score": null,
-      "sfx": [
-        "sea_heavy",
-        "dog",
-        "thunder"
-      ],
-      "note": "SCORED FROM THE CUE SHEET (ep08.json)."
-    },
-    {
-      "n": 9,
-      "bed": "london_interior",
-      "score": null,
-      "sfx": [
-        "clock_strike"
-      ],
-      "note": "SCORED FROM THE CUE SHEET (ep09.json)."
-    },
-    {
-      "n": 10,
-      "bed": "london_interior",
-      "score": null,
-      "sfx": [],
-      "note": "SCORED FROM THE CUE SHEET (ep10.json)."
-    },
-    {
-      "n": 11,
-      "bed": "london_interior",
-      "score": null,
-      "sfx": [
-        "wolf_near",
-        "door_shut",
-        "thunder"
-      ],
-      "note": "SCORED FROM THE CUE SHEET (ep11.json)."
-    },
-    {
-      "n": 12,
-      "bed": "london_interior",
-      "score": null,
-      "sfx": [
-        "clock_strike"
-      ],
-      "tier": "none",
-      "note": "SCORED FROM THE CUE SHEET (ep12.json)."
-    },
-    {
-      "n": 13,
-      "bed": "london_interior",
-      "score": "pastoral_turning",
-      "sfx": [
-        "dog"
-      ]
-    },
-    {
-      "n": 14,
-      "bed": "london_interior",
-      "score": "phonograph",
-      "sfx": []
-    },
-    {
-      "n": 15,
-      "bed": "london_interior",
-      "score": "phonograph",
-      "sfx": [
-        "door_heavy",
-        "clock_strike"
-      ]
-    },
-    {
-      "n": 16,
-      "bed": "london_interior",
-      "score": "phonograph",
-      "sfx": [
-        "door_heavy"
-      ],
-      "tier": "crackle"
-    },
-    {
-      "n": 17,
-      "bed": "london_interior",
-      "score": "phonograph",
-      "sfx": []
-    },
-    {
-      "n": 18,
-      "bed": "london_interior",
-      "score": "phonograph",
-      "sfx": [
-        "wolf_near",
-        "wing_beat",
-        "thunder"
-      ]
-    },
-    {
-      "n": 19,
-      "bed": "london_interior",
-      "score": "earth_boxes",
-      "sfx": [
-        "earth_box",
-        "door_heavy"
-      ],
-      "note": "Industrial halftime at 60 BPM built from the earth_box pool — the crates ARE the percussion. See PROMPT_dracula-score.txt cue 5."
-    },
-    {
-      "n": 20,
-      "bed": "london_interior",
-      "score": "earth_boxes",
-      "sfx": [
-        "earth_box",
-        "carriage"
-      ],
-      "note": "Industrial halftime at 60 BPM built from the earth_box pool — the crates ARE the percussion. See PROMPT_dracula-score.txt cue 5."
-    },
-    {
-      "n": 21,
-      "bed": "london_interior",
-      "score": "phonograph",
-      "sfx": [
-        "door_shut",
-        "wing_beat",
-        "thunder"
-      ],
-      "tier": "crackle"
-    },
-    {
-      "n": 22,
-      "bed": "london_interior",
-      "score": "dread",
-      "sfx": []
-    },
-    {
-      "n": 23,
-      "bed": "london_interior",
-      "score": "phonograph",
-      "sfx": [
-        "door_shut",
-        "wing_beat"
-      ]
-    },
-    {
-      "n": 24,
-      "bed": "demeter",
-      "state": 5,
-      "score": "phonograph",
-      "sfx": [
-        "ships_bell"
-      ],
-      "note": "MINA HYPNOTISED HEARS A SHIP. The text gives lapping water and creaking wood, so the Demeter bed returns at its emptiest state — the sound she describes is the sound of chapter 7's ending. Nobody will consciously connect them and the connection is the reason to do it.",
-      "tier": "crackle"
-    },
-    {
-      "n": 25,
-      "bed": "london_interior",
-      "score": "phonograph",
-      "sfx": [
-        "thunder"
-      ]
-    },
-    {
-      "n": 26,
-      "bed": "pass",
-      "score": "pursuit",
-      "sfx": [
-        "carriage",
-        "horse",
-        "wolves_chorus"
-      ]
-    },
-    {
-      "n": 27,
-      "bed": "pass",
-      "score": "pursuit",
-      "sfx": [
-        "wolves_chorus",
-        "horse"
-      ],
-      "note": "The snow and the ring of fire. The bed thins to wind alone for the last cues."
-    }
-  ],
-  "sourcing": {
-    "note": "THE HARDER HALF, AND IT IS NOT A TECHNICAL PROBLEM. A public-domain COMPOSITION is not a public-domain RECORDING: an 1890s score performed in 2019 is a copyrighted performance. Every file below has to be cleared on the recording, not the work.",
-    "effects": "Freesound CC0 covers almost all twelve one-shots — wind, sea, doors, horses, thunder, bells. Filter to CC0 rather than CC-BY so there is no attribution chain to maintain across an archive.",
-    "beds": "Field recordings, same source, layered at the prime lengths above. Three layers per bed, five beds, so fifteen files — but the Demeter needs five mixes of its three layers, which makes it the expensive one.",
-    "score": "Four cues. Either commissioned, or AI-generated, which sidesteps the recording-rights problem entirely and is consistent with a production that is already AI-voiced. Check the licence terms of whichever generator — some grant commercial use, some do not.",
-    "total": "Roughly 15 bed layers + 8 extra Demeter mixes + 36 one-shot variants + 4 score cues = about 63 files. Small enough to be real."
+  "under": {
+   "note": "MUSIC UNDER ONE LINE. piano_far: far away and airy, a few notes sprinkled, the odd soft chord — letters, memory, anything read rather than lived. piano_near: close and bold, full chords when the moment needs weight. Each use starts at a different seeded point in the minute-long piece.",
+   "piano_far": "piano-far.mp3",
+   "piano_near": "piano-near.mp3",
+   "piano_letter": "piano-far.mp3"
   },
-  "engine": {
-    "note": "The speech engine already plays through Web Audio — createBufferSource into ctx.destination, scheduled on a timeline — so a bed is another source node on the same context and mixing is a GainNode. No new audio stack.",
-    "one_change_needed": "EVERY VOICE SOURCE CURRENTLY CONNECTS STRAIGHT TO ctx.destination, so there is nothing to duck against. A voiceGain node has to be inserted between the sources and the destination. It touches amenti-throttle.js, which is the file least worth breaking, and it changes no cache key and no chunk boundary.",
-    "cue_fields": "A cue gains optional 'sfx' and 'state'. reader.js already knows exactly when a cue ends — onDone — so a sting fires at a boundary with no new timing machinery. Word-level placement inside a cue is NOT possible: there is no word timing, and faking it would be worse than not doing it."
-  },
-  "envelopes": {
-    "note": "NOTHING STARTS OR STOPS ABRUPTLY. Every gain change is a ramp — a change without one is a step discontinuity and the listener hears a click. 15 ms removes it. There is no case in this production for setting gain by assignment.",
-    "bed": {
-      "in": 4,
-      "out": 6,
-      "crossfade": 8
-    },
-    "score": {
-      "in": 6,
-      "out": 8,
-      "crossfade": 10,
-      "note": "Always longer than the bed. When both change at a chapter boundary the bed leads and the score follows; two staggered changes read as one smooth one."
-    },
-    "oneshot": {
-      "in": 0,
-      "out": "natural tail",
-      "note": "NEVER FADE IN A TRANSIENT. The attack IS the sound — a door, a timpani hit, a crate landing. Fading one in makes it audible as a sample being faded in."
-    },
-    "duck": {
-      "down": 0.25,
-      "up": 1.2,
-      "note": "ASYMMETRIC ON PURPOSE. Fast down so the bed clears before the first syllable, slow up so it returns unnoticed. Equal times sound like a machine breathing."
-    },
-    "crossfade_curve": "EQUAL-POWER, not linear. Two linear ramps crossing sum to about 70% at the midpoint, so every transition dips. gain = cos(t*PI/2) outgoing and sin(t*PI/2) incoming keeps the sum constant. setValueCurveAtTime takes the array.",
-    "zero": "exponentialRampToValueAtTime cannot reach 0. Ramp to 0.0001, then setValueAtTime(0), then stop. Exponential for fades (loudness is logarithmic, so it sounds linear); linear for ducking, where the move is small and speed matters more.",
-    "seams": {
-      "chapter": "Outgoing bed and score start fading BEFORE the last cue ends — about 8 s of overlap under the final sentences, so a chapter ends into the next rather than against it.",
-      "state_change": "The Demeter and castle state changes are 10-12 s crossfades between two mixes of the same material, and must be imperceptible. The listener must never catch the ship emptying.",
-      "exception": "THE DEMETER LANDING. One timpani hit and the pulse stops dead — no fade, no tail. The only hard cut in the production, and it only works because everything else is ramped.",
-      "silence": "Chapter 12 has no cue, but chapter 11 must still fade out INTO that silence over 8 s and 13 must fade up out of it. Arriving at silence abruptly reads as a fault; approaching it reads as a decision."
-    }
-  },
-  "scope": {
-    "note": "CUT FROM 65 FILES TO 13, AND A FIRST PASS OF 5. The first version of this sheet specified 38 one-shot variants plus 23 bed layers, which is a sourcing project rather than an afternoon — and every file from a mixed-licence site is a separate licence decision. Three cuts fixed it.",
-    "one_source_one_licence": "Take everything from PIXABAY. Its licence is site-wide and behaves as CC0: no attribution, commercial use cleared, no per-file terms, no account. That makes vetting ONE decision instead of thirteen. Freesound has more depth and about 381,000 CC0 files, but it mixes CC0, CC-BY and CC-BY-NC per file, so every download is its own check. Use it only when Pixabay has no match.\n\nAND NOT THE BBC ARCHIVE. 33,000 professionally recorded clips, exactly the period register this production wants, and its RemArc licence is NON-COMMERCIAL ONLY. It is the most tempting source on the list and the one that is hardest to unwind once it is in the mix.",
-    "variants_are_free": "ONE RECORDING PER SOUND, NOT FOUR. The variant pools existed to stop repetition, but Web Audio already does that: random detune of plus or minus 40 cents and playbackRate of plus or minus 4 per cent make a door a different door every time it plays. Seeded from the cue number so an episode sounds identical on every listen. 38 files become 13.",
-    "beds_too": "A bed is ONE recording played on three loops at different rates and offsets — slowed slightly, raised slightly, started apart. That is three layers from one file. 23 bed layers become 5.",
-    "first_pass": [
-      "wind",
-      "sea",
-      "door_heavy",
-      "wolves",
-      "fire"
-    ],
-    "first_pass_note": "Five files covers most of the book: the pass and chapter 27 (wind), Whitby and the Demeter (sea), the castle (door and fire), the pass and the pursuit (wolves). Clock, carriage, thunder, dogs, bells, wings and crates come when a chapter actually needs them. An hour, not a project.",
-    "second_pass": [
-      "train",
-      "typewriter",
-      "phonograph",
-      "horse",
-      "carriage",
-      "clock_tick"
-    ],
-    "second_pass_note": "Added after scanning all 27 chapters for sound words rather than working from memory. The counts: clock 88, lock 52, train 40, cart 24, knock 22, typewriter 21, phonograph 16, street 17, crowd 15. THE TYPEWRITER AND THE PHONOGRAPH ARE NOT ATMOSPHERE — they are the two machines the dossier is made on, and the medium doctrine depends on hearing them. Missing them would have been the real gap."
+  "levels": {
+   "note": "Score gain per key, before ducking. Files are mastered relative to each other; these set them against the voices. Absent keys play at the default.",
+   "storm_1": 1.0,
+   "storm_3": 1.0,
+   "storm_4": 1.0,
+   "pulse_8": 1.0,
+   "pulse_7": 1.0,
+   "pulse_6": 1.0,
+   "pulse_5": 1.0,
+   "pulse_3": 1.0,
+   "pulse_2": 1.0,
+   "pulse_1": 1.0,
+   "captain_heart": 1.0,
+   "dread": 0.3,
+   "pastoral_warm": 0.3,
+   "pastoral_sour": 0.3,
+   "phonograph": 0.8,
+   "vigil": 0.32,
+   "earth_boxes": 0.34,
+   "pursuit": 0.36,
+   "requiem": 0.36
   }
+ },
+ "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
+ "techniques": {
+  "coprime_loops": "A bed is three layers at PRIME lengths — 37s, 53s, 71s — not one loop at 30s. They do not realign for roughly 38 hours, so nothing audibly repeats, and it costs three files and no logic. The same trick runs the mist on the production page at 92s and 137s.",
+  "variant_pools": "Every one-shot has 3-4 recordings. Playback adds random detune of plus or minus 40 cents and playbackRate of plus or minus 4 per cent, both native to Web Audio. A door closing twelve times is twelve doors.",
+  "deterministic_randomness": "SEED THE VARIATION FROM THE CUE NUMBER, never from Math.random(). An episode then sounds identical every time it is played, which matters because people return to episodes — and it is the same argument as recording plate seeds. A reading that is subtly different on each listen is not a recording, it is a generator.",
+  "progression": "VARIATION IS WRONG FOR TWO SEQUENCES AND PROGRESSION IS RIGHT. The Demeter log and the castle chapters are both about a place emptying out. A bed that varies says 'still here, slightly different'. A bed that DEGRADES says what the text says. Those two get numbered states instead of variants; everything else gets variants."
+ },
+ "beds": {
+  "castle": {
+   "note": "Stone, a fire in the grate, and wolves at a great distance. PROGRESSIVE: Harker does not know he is a prisoner in chapter 1 and knows it by chapter 3, so the room closes in around him. The fire is the last thing left.",
+   "progressive": true,
+   "layers": [
+    "stone room tone 37s",
+    "fire in a grate 53s",
+    "distant wolves 71s"
+   ],
+   "states": {
+    "1": "all three layers, fire warm, wolves far off — a cold house, not yet a trap",
+    "2": "room tone up, wolves nearer, the first long gaps",
+    "3": "wolves gone, only stone and fire, long silences between — he has stopped hearing the outside",
+    "4": "fire low and almost nothing else. The quiet is the point."
+   },
+   "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
+  },
+  "pass": {
+   "note": "The Borgo Pass and the Carpathian road. Wind, snow, enormous distance.",
+   "progressive": false,
+   "layers": [
+    "high wind 37s",
+    "snow and emptiness 53s",
+    "far wolves 71s"
+   ],
+   "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
+  },
+  "demeter": {
+   "note": "THE SEQUENCE THIS WHOLE APPROACH WAS BUILT FOR. The log is dated entries over about three weeks in which the crew goes one at a time. Variation would be exactly wrong — the bed must EMPTY. The listener should not notice the mechanism and should feel the ship go quiet.",
+   "progressive": true,
+   "layers": [
+    "sea against a hull 37s",
+    "rigging and timber 53s",
+    "crew and deck 71s"
+   ],
+   "states": {
+    "1": "a working ship — rigging, voices on deck, steady sea, a bell",
+    "2": "weather rising, fewer voices, the bell still rung",
+    "3": "wind over the voices, rope working, one man calling",
+    "4": "no voices. Timber under stress. Sea heavier.",
+    "5": "wind and water only, and the wheel turning untended."
+   },
+   "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
+  },
+  "whitby": {
+   "note": "Sea, gulls, weather off the North Sea. Pastoral, and it goes wrong without the sound changing much — the text does that work.",
+   "progressive": false,
+   "layers": [
+    "sea on shingle 37s",
+    "gulls and air 53s",
+    "church and town far off 71s"
+   ],
+   "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
+  },
+  "london_interior": {
+   "note": "Seward's asylum and the Piccadilly houses. A clock, a fire, the street muffled beyond glass. Clinical.",
+   "progressive": false,
+   "layers": [
+    "room tone 37s",
+    "clock 53s",
+    "muffled street 71s"
+   ],
+   "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
+  }
+ },
+ "oneshots": {
+  "note": "THIRTEEN SOURCES, ONE RECORDING EACH. Variation is generated at playback from detune and playbackRate, not from a pool of files. See scope above.",
+  "door_heavy": {
+   "note": "the castle door — bolts drawn, chains, great weight. 17 mentions, the most of anything.",
+   "files": 1
+  },
+  "door_shut": {
+   "note": "an ordinary door, interiors",
+   "files": 1
+  },
+  "wolf_near": {
+   "note": "close, single animal. Used sparingly — the bed carries the distant ones.",
+   "files": 1
+  },
+  "wolves_chorus": {
+   "note": "the pass, and the pursuit",
+   "files": 1
+  },
+  "carriage": {
+   "note": "hooves and wheels, arriving and departing. The calèche in chapter 1.",
+   "files": 1
+  },
+  "horse": {
+   "note": "single animal, uneasy",
+   "files": 1
+  },
+  "dog": {
+   "note": "Whitby and the guest",
+   "files": 1
+  },
+  "clock_strike": {
+   "note": "hours. Harker's journal and the asylum.",
+   "files": 1
+  },
+  "thunder": {
+   "files": 1,
+   "note": "22 mentions of thunder, lightning or gale across eight chapters, and ch 7 alone has 10 — the storm that drives the Demeter onto the shingle at Whitby is the largest weather event in the book and the timpani cue is written to it. Also ch 11, where Lucy's window is broken during a storm, and ch 1 in the pass. Distant rolls for the bed, one close crack for the landing."
+  },
+  "ships_bell": {
+   "note": "the Demeter, early entries only. Its absence later is the point.",
+   "files": 1
+  },
+  "wing_beat": {
+   "note": "bat at a window",
+   "files": 1
+  },
+  "earth_box": {
+   "note": "a heavy wooden crate dragged on stone. Chapters 19-20.",
+   "files": 1
+  },
+  "sea_heavy": {
+   "note": "a sea getting up — the Whitby storm that brings the Demeter in",
+   "files": 1
+  },
+  "train": {
+   "files": 1,
+   "note": "40 mentions, 24 of 'station', 8 of 'railway'. Harker travels Munich-Vienna-Buda-Pesth-Bistritz by rail in ch 1, and the chase east in ch 26 is rail and cart. A steam locomotive at speed, heard from inside a carriage."
+  },
+  "typewriter": {
+   "files": 1,
+   "note": "21 mentions. MINA'S MEDIUM. She types the whole dossier together in ch 17, transcribing Seward's cylinders — which is where the treatment changes mid-chapter from phonograph to clean. A manual machine, keys and carriage return."
+  },
+  "phonograph": {
+   "files": 1,
+   "note": "16 mentions. Not the crackle — the MACHINE. A wax cylinder starting, the needle dropping, the mechanism winding down. Seward's diary is 16 of 27 chapters and this is what the reader is sitting inside."
+  },
+  "clock_tick": {
+   "files": 1,
+   "note": "88 mentions of clock or struck, by a distance the commonest sound word in the book. clock_strike already covers the hour; this is the TICK, for the asylum interiors where nothing is happening and the text keeps saying so."
+  },
+  "knock": {
+   "files": 1,
+   "note": "22 mentions, plus 52 of lock and 12 of chain. A fist on wood, and a key turning. The castle runs on doors being secured."
+  },
+  "crowd_street": {
+   "files": 1,
+   "note": "17 of street, 15 of crowd. London exteriors — ch 19-21, the earth-boxes tracked across the city. Muffled, mid-distance, Victorian."
+  }
+ },
+ "score": {
+  "note": "FOUR CUES, NOT TWENTY-SEVEN. The book has four tonal registers and they map to the document types rather than to the plot.",
+  "dread": "Harker's journal. Slow, low, almost static. Chapters 1-4, 19, 22. REBUILT ON REAL INSTRUMENTS, 4 Oct 2026: VSCO 2 CE double bass and cellos on D–A, violas leaning D–E♭, the upright piano.",
+  "pastoral_turning": "The Whitby chapters. Open and warm at first and souring without changing key. Chapters 6-8, 11-13. BUILT AS TWO LOOPS, 4 Oct 2026: pastoral_warm (F major, strings breathing, piano broken chords, the flute) and pastoral_sour (the same key, the iv turned minor, the flat sixth, an E held against the F, no flute). The cue sheet chooses.",
+  "pursuit": "The chase east. Momentum, and the only cue with a pulse. Chapters 26-27. BUILT 6 Oct 2026: score-pursuit.mp3 (58 s loop) — 132 BPM galloping strings, timpani, brass climbing by fourths, horses, wolves far off.",
+  "earth_boxes": "The earth-boxes across London, ch 19-20. Industrial halftime, 60 BPM, percussion built from warehouse sounds rather than a drum kit. The only driving cue before the pursuit. BUILT 6 Oct 2026: score-earth-boxes.mp3 (63 s loop) — luggage, door, hammer and chains as the kit; D pedal and the D–E♭ lean.",
+  "phonograph": "Seward's diary, kept on a phonograph. LO-FI, and tiered three ways — full beat, crackle only, or silence. Sixteen of twenty-seven chapters are this document, so an untiered beat would be wallpaper. Measured, unemotional, a little mechanical. Chapters 9-10, 14-18, 21, 23-25.",
+  "demeter": "The Demeter (chapter 7). Not one cue: a scene scored from the cue sheet — storm loops, a hard cut, the pulse of the crew, hearts, lightning. See ep07.json.",
+  "vigil": "THE SICKROOM, chapters 9–12: a music box (glockenspiel) that keeps winding down over a low cello and viola pedal, the piano barely touched. Added 6 Oct 2026, so Lucy’s nights are scored as hers and not only as Seward’s phonograph.",
+  "requiem": "LUCY'S FUNERAL, chapter 13 — at Ian's direction: Gregorian chant, 4/4, very slow. The real Dies irae (PD), slowed to 88 %, over a cortège step at 40 BPM and the passing bell. Built 6 Oct 2026."
+ },
+ "chapters": [
+  {
+   "n": 1,
+   "bed": null,
+   "score": null,
+   "sfx": [
+    "carriage",
+    "horse",
+    "wolves_chorus",
+    "thunder"
+   ],
+   "note": "Silence at the inns; the dread enters with the landlady (\"Must you go?\"); the Borgo Pass wind from the coach onward. Scored from ep01.json."
+  },
+  {
+   "n": 2,
+   "bed": "castle",
+   "state": 1,
+   "score": "dread",
+   "sfx": [
+    "carriage",
+    "door_heavy",
+    "wolves_chorus"
+   ]
+  },
+  {
+   "n": 3,
+   "bed": "castle",
+   "state": 2,
+   "score": "dread",
+   "sfx": [
+    "door_shut",
+    "thunder",
+    "wing_beat"
+   ]
+  },
+  {
+   "n": 4,
+   "bed": "castle",
+   "state": 4,
+   "score": "dread",
+   "sfx": [
+    "earth_box",
+    "door_heavy"
+   ]
+  },
+  {
+   "n": 5,
+   "bed": "london_interior",
+   "score": "pastoral_warm",
+   "sfx": [
+    "clock_strike"
+   ],
+   "note": "The letters warm; Seward's phonograph crackle under his diary; warm again for Quincey and Arthur. Scored from ep05.json."
+  },
+  {
+   "n": 6,
+   "bed": "whitby",
+   "score": "pastoral_warm",
+   "sfx": [
+    "dog",
+    "ships_bell"
+   ],
+   "note": "Whitby warm; the asylum and the phonograph for Seward; back at Whitby the pastoral sours, in the same key, as Jonathan stays silent and the storm comes. Scored from ep06.json."
+  },
+  {
+   "n": 7,
+   "bed": "whitby",
+   "state": 1,
+   "score": null,
+   "sfx": [
+    "ships_bell",
+    "thunder"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep07.json), in the book's order: the storm builds under the correspondent (storm 1 → 3 → 4) and stops dead on \"pitched herself\" with the wreck hit; silence and the sea for the corpse and the dog. The room becomes the ship's hull at the log. The pulse loses a beat for every soul (8 → 1), each a snare ruff and a heart until it is no more; weather on kettle and toms; the mate's heart races, lightning and thunder take him into the depths, the wolf howls; then only the captain's heart, until he ties his hands to the wheel."
+  },
+  {
+   "n": 8,
+   "bed": "whitby",
+   "score": null,
+   "sfx": [
+    "sea_heavy",
+    "dog",
+    "thunder"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep08.json)."
+  },
+  {
+   "n": 9,
+   "bed": "london_interior",
+   "score": null,
+   "sfx": [
+    "clock_strike"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep09.json)."
+  },
+  {
+   "n": 10,
+   "bed": "london_interior",
+   "score": null,
+   "sfx": [],
+   "note": "SCORED FROM THE CUE SHEET (ep10.json)."
+  },
+  {
+   "n": 11,
+   "bed": "london_interior",
+   "score": null,
+   "sfx": [
+    "wolf_near",
+    "door_shut",
+    "thunder"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep11.json)."
+  },
+  {
+   "n": 12,
+   "bed": "london_interior",
+   "score": null,
+   "sfx": [
+    "clock_strike"
+   ],
+   "tier": "none",
+   "note": "SCORED FROM THE CUE SHEET (ep12.json)."
+  },
+  {
+   "n": 13,
+   "bed": "london_interior",
+   "score": null,
+   "sfx": [
+    "passing_bell"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep13.json). Lucy’s funeral on the requiem (Gregorian chant, 4/4, very slow) — at her laying-out, at Arthur’s farewell, in Van Helsing’s telling of the burial, and at “Lucy lies in the tomb of her kin”."
+  },
+  {
+   "n": 14,
+   "bed": "london_interior",
+   "score": null,
+   "sfx": [
+    "door_open"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep14.json)."
+  },
+  {
+   "n": 15,
+   "bed": "london_interior",
+   "score": null,
+   "sfx": [
+    "clock_strike"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep15.json)."
+  },
+  {
+   "n": 16,
+   "bed": "london_interior",
+   "score": null,
+   "sfx": [
+    "door_heavy",
+    "hammering"
+   ],
+   "tier": "crackle",
+   "note": "SCORED FROM THE CUE SHEET (ep16.json). The requiem returns under the prayer for the dead as Arthur strikes."
+  },
+  {
+   "n": 17,
+   "bed": "london_interior",
+   "score": null,
+   "sfx": [],
+   "note": "SCORED FROM THE CUE SHEET (ep17.json)."
+  },
+  {
+   "n": 18,
+   "bed": "london_interior",
+   "score": "phonograph",
+   "sfx": [
+    "wolf_near",
+    "wing_beat",
+    "thunder"
+   ]
+  },
+  {
+   "n": 19,
+   "bed": "london_interior",
+   "score": "earth_boxes",
+   "sfx": [
+    "earth_box",
+    "door_heavy"
+   ],
+   "note": "Industrial halftime at 60 BPM built from the earth_box pool — the crates ARE the percussion. See PROMPT_dracula-score.txt cue 5."
+  },
+  {
+   "n": 20,
+   "bed": "london_interior",
+   "score": "earth_boxes",
+   "sfx": [
+    "earth_box",
+    "carriage"
+   ],
+   "note": "Industrial halftime at 60 BPM built from the earth_box pool — the crates ARE the percussion. See PROMPT_dracula-score.txt cue 5."
+  },
+  {
+   "n": 21,
+   "bed": "london_interior",
+   "score": "phonograph",
+   "sfx": [
+    "door_shut",
+    "wing_beat",
+    "thunder"
+   ],
+   "tier": "crackle"
+  },
+  {
+   "n": 22,
+   "bed": "london_interior",
+   "score": "dread",
+   "sfx": []
+  },
+  {
+   "n": 23,
+   "bed": "london_interior",
+   "score": "phonograph",
+   "sfx": [
+    "door_shut",
+    "wing_beat"
+   ]
+  },
+  {
+   "n": 24,
+   "bed": "demeter",
+   "state": 5,
+   "score": "phonograph",
+   "sfx": [
+    "ships_bell"
+   ],
+   "note": "MINA HYPNOTISED HEARS A SHIP. The text gives lapping water and creaking wood, so the Demeter bed returns at its emptiest state — the sound she describes is the sound of chapter 7's ending. Nobody will consciously connect them and the connection is the reason to do it.",
+   "tier": "crackle"
+  },
+  {
+   "n": 25,
+   "bed": "london_interior",
+   "score": "phonograph",
+   "sfx": [
+    "thunder"
+   ]
+  },
+  {
+   "n": 26,
+   "bed": "pass",
+   "score": "pursuit",
+   "sfx": [
+    "carriage",
+    "horse",
+    "wolves_chorus"
+   ]
+  },
+  {
+   "n": 27,
+   "bed": "pass",
+   "score": "pursuit",
+   "sfx": [
+    "wolves_chorus",
+    "horse"
+   ],
+   "note": "The snow and the ring of fire. The bed thins to wind alone for the last cues."
+  }
+ ],
+ "sourcing": {
+  "note": "THE HARDER HALF, AND IT IS NOT A TECHNICAL PROBLEM. A public-domain COMPOSITION is not a public-domain RECORDING: an 1890s score performed in 2019 is a copyrighted performance. Every file below has to be cleared on the recording, not the work.",
+  "effects": "Freesound CC0 covers almost all twelve one-shots — wind, sea, doors, horses, thunder, bells. Filter to CC0 rather than CC-BY so there is no attribution chain to maintain across an archive.",
+  "beds": "Field recordings, same source, layered at the prime lengths above. Three layers per bed, five beds, so fifteen files — but the Demeter needs five mixes of its three layers, which makes it the expensive one.",
+  "score": "Four cues. Either commissioned, or AI-generated, which sidesteps the recording-rights problem entirely and is consistent with a production that is already AI-voiced. Check the licence terms of whichever generator — some grant commercial use, some do not.",
+  "total": "Roughly 15 bed layers + 8 extra Demeter mixes + 36 one-shot variants + 4 score cues = about 63 files. Small enough to be real."
+ },
+ "engine": {
+  "note": "The speech engine already plays through Web Audio — createBufferSource into ctx.destination, scheduled on a timeline — so a bed is another source node on the same context and mixing is a GainNode. No new audio stack.",
+  "one_change_needed": "EVERY VOICE SOURCE CURRENTLY CONNECTS STRAIGHT TO ctx.destination, so there is nothing to duck against. A voiceGain node has to be inserted between the sources and the destination. It touches amenti-throttle.js, which is the file least worth breaking, and it changes no cache key and no chunk boundary.",
+  "cue_fields": "A cue gains optional 'sfx' and 'state'. reader.js already knows exactly when a cue ends — onDone — so a sting fires at a boundary with no new timing machinery. Word-level placement inside a cue is NOT possible: there is no word timing, and faking it would be worse than not doing it."
+ },
+ "envelopes": {
+  "note": "NOTHING STARTS OR STOPS ABRUPTLY. Every gain change is a ramp — a change without one is a step discontinuity and the listener hears a click. 15 ms removes it. There is no case in this production for setting gain by assignment.",
+  "bed": {
+   "in": 4,
+   "out": 6,
+   "crossfade": 8
+  },
+  "score": {
+   "in": 6,
+   "out": 8,
+   "crossfade": 10,
+   "note": "Always longer than the bed. When both change at a chapter boundary the bed leads and the score follows; two staggered changes read as one smooth one."
+  },
+  "oneshot": {
+   "in": 0,
+   "out": "natural tail",
+   "note": "NEVER FADE IN A TRANSIENT. The attack IS the sound — a door, a timpani hit, a crate landing. Fading one in makes it audible as a sample being faded in."
+  },
+  "duck": {
+   "down": 0.25,
+   "up": 1.2,
+   "note": "ASYMMETRIC ON PURPOSE. Fast down so the bed clears before the first syllable, slow up so it returns unnoticed. Equal times sound like a machine breathing."
+  },
+  "crossfade_curve": "EQUAL-POWER, not linear. Two linear ramps crossing sum to about 70% at the midpoint, so every transition dips. gain = cos(t*PI/2) outgoing and sin(t*PI/2) incoming keeps the sum constant. setValueCurveAtTime takes the array.",
+  "zero": "exponentialRampToValueAtTime cannot reach 0. Ramp to 0.0001, then setValueAtTime(0), then stop. Exponential for fades (loudness is logarithmic, so it sounds linear); linear for ducking, where the move is small and speed matters more.",
+  "seams": {
+   "chapter": "Outgoing bed and score start fading BEFORE the last cue ends — about 8 s of overlap under the final sentences, so a chapter ends into the next rather than against it.",
+   "state_change": "The Demeter and castle state changes are 10-12 s crossfades between two mixes of the same material, and must be imperceptible. The listener must never catch the ship emptying.",
+   "exception": "THE DEMETER LANDING. One timpani hit and the pulse stops dead — no fade, no tail. The only hard cut in the production, and it only works because everything else is ramped.",
+   "silence": "Chapter 12 has no cue, but chapter 11 must still fade out INTO that silence over 8 s and 13 must fade up out of it. Arriving at silence abruptly reads as a fault; approaching it reads as a decision."
+  }
+ },
+ "scope": {
+  "note": "CUT FROM 65 FILES TO 13, AND A FIRST PASS OF 5. The first version of this sheet specified 38 one-shot variants plus 23 bed layers, which is a sourcing project rather than an afternoon — and every file from a mixed-licence site is a separate licence decision. Three cuts fixed it.",
+  "one_source_one_licence": "Take everything from PIXABAY. Its licence is site-wide and behaves as CC0: no attribution, commercial use cleared, no per-file terms, no account. That makes vetting ONE decision instead of thirteen. Freesound has more depth and about 381,000 CC0 files, but it mixes CC0, CC-BY and CC-BY-NC per file, so every download is its own check. Use it only when Pixabay has no match.\n\nAND NOT THE BBC ARCHIVE. 33,000 professionally recorded clips, exactly the period register this production wants, and its RemArc licence is NON-COMMERCIAL ONLY. It is the most tempting source on the list and the one that is hardest to unwind once it is in the mix.",
+  "variants_are_free": "ONE RECORDING PER SOUND, NOT FOUR. The variant pools existed to stop repetition, but Web Audio already does that: random detune of plus or minus 40 cents and playbackRate of plus or minus 4 per cent make a door a different door every time it plays. Seeded from the cue number so an episode sounds identical on every listen. 38 files become 13.",
+  "beds_too": "A bed is ONE recording played on three loops at different rates and offsets — slowed slightly, raised slightly, started apart. That is three layers from one file. 23 bed layers become 5.",
+  "first_pass": [
+   "wind",
+   "sea",
+   "door_heavy",
+   "wolves",
+   "fire"
+  ],
+  "first_pass_note": "Five files covers most of the book: the pass and chapter 27 (wind), Whitby and the Demeter (sea), the castle (door and fire), the pass and the pursuit (wolves). Clock, carriage, thunder, dogs, bells, wings and crates come when a chapter actually needs them. An hour, not a project.",
+  "second_pass": [
+   "train",
+   "typewriter",
+   "phonograph",
+   "horse",
+   "carriage",
+   "clock_tick"
+  ],
+  "second_pass_note": "Added after scanning all 27 chapters for sound words rather than working from memory. The counts: clock 88, lock 52, train 40, cart 24, knock 22, typewriter 21, phonograph 16, street 17, crowd 15. THE TYPEWRITER AND THE PHONOGRAPH ARE NOT ATMOSPHERE — they are the two machines the dossier is made on, and the medium doctrine depends on hearing them. Missing them would have been the real gap."
+ }
 }

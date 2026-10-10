@@ -280,20 +280,22 @@
   },
   {
    "n": 37,
-   "score": {
-    "key": "forum",
-    "xfade": 8,
-    "at": "Friends, Romans, countrymen, lend me your ears;"
-   },
    "role": "Mark Antony",
    "cast": "Mark Antony",
-   "text": "Friends, Romans, countrymen, lend me your ears;\n\nI come to bury Caesar, not to praise him.\n\nThe evil that men do lives after them,\n\nThe good is oft interred with their bones;\n\nSo let it be with Caesar. The noble Brutus\n\nHath told you Caesar was ambitious.\n\nIf it were so, it was a grievous fault,\n\nAnd grievously hath Caesar answer’d it.\n\nHere, under leave of Brutus and the rest,\n\nFor Brutus is an honourable man,\n\nSo are they all, all honourable men,\n\nCome I to speak in Caesar’s funeral.\n\nHe was my friend, faithful and just to me;\n\nBut Brutus says he was ambitious,\n\nAnd Brutus is an honourable man.\n\nHe hath brought many captives home to Rome,\n\nWhose ransoms did the general coffers fill:\n\nDid this in Caesar seem ambitious?\n\nWhen that the poor have cried, Caesar hath wept;\n\nAmbition should be made of sterner stuff:\n\nYet Brutus says he was ambitious;\n\nAnd Brutus is an honourable man.\n\nYou all did see that on the Lupercal\n\nI thrice presented him a kingly crown,\n\nWhich he did thrice refuse. Was this ambition?\n\nYet Brutus says he was ambitious;\n\nAnd sure he is an honourable man.\n\nI speak not to disprove what Brutus spoke,\n\nBut here I am to speak what I do know.\n\nYou all did love him once, not without cause;\n\nWhat cause withholds you then to mourn for him?\n\nO judgement, thou art fled to brutish beasts,\n\nAnd men have lost their reason. Bear with me.\n\nMy heart is in the coffin there with Caesar,\n\nAnd I must pause till it come back to me."
+   "text": "Friends, Romans, countrymen, lend me your ears;\n\nI come to bury Caesar, not to praise him.\n\nThe evil that men do lives after them,\n\nThe good is oft interred with their bones;\n\nSo let it be with Caesar. The noble Brutus\n\nHath told you Caesar was ambitious.\n\nIf it were so, it was a grievous fault,\n\nAnd grievously hath Caesar answer’d it.\n\nHere, under leave of Brutus and the rest,\n\nFor Brutus is an honourable man,\n\nSo are they all, all honourable men,\n\nCome I to speak in Caesar’s funeral.\n\nHe was my friend, faithful and just to me;\n\nBut Brutus says he was ambitious,\n\nAnd Brutus is an honourable man.\n\nHe hath brought many captives home to Rome,\n\nWhose ransoms did the general coffers fill:\n\nDid this in Caesar seem ambitious?\n\nWhen that the poor have cried, Caesar hath wept;\n\nAmbition should be made of sterner stuff:\n\nYet Brutus says he was ambitious;\n\nAnd Brutus is an honourable man.\n\nYou all did see that on the Lupercal\n\nI thrice presented him a kingly crown,\n\nWhich he did thrice refuse. Was this ambition?\n\nYet Brutus says he was ambitious;\n\nAnd sure he is an honourable man.\n\nI speak not to disprove what Brutus spoke,\n\nBut here I am to speak what I do know.\n\nYou all did love him once, not without cause;\n\nWhat cause withholds you then to mourn for him?\n\nO judgement, thou art fled to brutish beasts,\n\nAnd men have lost their reason. Bear with me.\n\nMy heart is in the coffin there with Caesar,\n\nAnd I must pause till it come back to me.",
+   "audio": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/antony-oration.mp3",
+   "state": 2
   },
   {
    "n": 38,
    "role": "First Citizen",
    "cast": "Spartacus",
-   "text": "Methinks there is much reason in his sayings."
+   "text": "Methinks there is much reason in his sayings.",
+   "state": 1,
+   "score": {
+    "key": "forum",
+    "xfade": 8
+   }
   },
   {
    "n": 39,

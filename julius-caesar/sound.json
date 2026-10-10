@@ -1,6 +1,6 @@
 {
  "_file": "Amenti-Readings/julius-caesar/sound.json",
- "_updated": "2026-10-09 21:10 UTC",
+ "_updated": "2026-10-10 00:10 UTC",
  "work": "julius-caesar",
  "note": "Rome: the street and the Forum crowd; the night of portents, wind and rain and thunder; Brutus’s orchard under the crickets; Caesar’s palace at night; the senators murmuring under the Capitol’s portico. Trumpets for every flourish and sennet, a tower bell striking three, the assassination in blows, and the Forum’s great bell in G for Caesar’s death. The score is six sound worlds: CAESAR (C minor, the Colossus), CONSPIRACY (D minor, the storm night), BRUTUS (E minor, the quiet heart), FORUM (G minor, the crowd turned), GHOST (no pulse) and PHILIPPI (A minor, the battle).",
  "files": {
@@ -47,7 +47,12 @@
   }
  },
  "beds": {
-  "rome_street": {},
+  "rome_street": {
+   "levels": {
+    "1": 1.0,
+    "2": 0.04
+   }
+  },
   "rome_night": {},
   "palace_night": {},
   "orchard_night": {},

@@ -1,0 +1,406 @@
+{
+ "work": "julius-caesar",
+ "episode": 16,
+ "chapter": 16,
+ "title": "Act V, Scene III — Another part of the field",
+ "document": "ACT V · SCENE III",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Cassius",
+   "cast_as": "Gaius Cassius Longinus"
+  },
+  {
+   "role": "Titinius",
+   "cast_as": "Horace"
+  },
+  {
+   "role": "Pindarus",
+   "cast_as": "Terence"
+  },
+  {
+   "role": "Messala",
+   "cast_as": "Livy"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "Young Cato",
+   "cast_as": "Cato the Younger"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE III. Another part of the field."
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "philippi",
+    "xfade": 3,
+    "at": "Alarum. Enter Cassius and Titinius."
+   },
+   "sfx": [
+    {
+     "key": "alarum",
+     "at": "Alarum. Enter Cassius and Titinius."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Alarum. Enter Cassius and Titinius."
+  },
+  {
+   "n": 3,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "O, look, Titinius, look, the villains fly!\n\nMyself have to mine own turn’d enemy:\n\nThis ensign here of mine was turning back;\n\nI slew the coward, and did take it from him."
+  },
+  {
+   "n": 4,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "O Cassius, Brutus gave the word too early,\n\nWho, having some advantage on Octavius,\n\nTook it too eagerly: his soldiers fell to spoil,\n\nWhilst we by Antony are all enclos’d."
+  },
+  {
+   "n": 5,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Pindarus."
+  },
+  {
+   "n": 6,
+   "role": "Pindarus",
+   "cast": "Terence",
+   "text": "Fly further off, my lord, fly further off;\n\nMark Antony is in your tents, my lord.\n\nFly, therefore, noble Cassius, fly far off."
+  },
+  {
+   "n": 7,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "This hill is far enough. Look, look, Titinius;\n\nAre those my tents where I perceive the fire?"
+  },
+  {
+   "n": 8,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "They are, my lord."
+  },
+  {
+   "n": 9,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Titinius, if thou lovest me,\n\nMount thou my horse and hide thy spurs in him,\n\nTill he have brought thee up to yonder troops\n\nAnd here again, that I may rest assur’d\n\nWhether yond troops are friend or enemy."
+  },
+  {
+   "n": 10,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "I will be here again, even with a thought."
+  },
+  {
+   "n": 11,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 12,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Go, Pindarus, get higher on that hill,\n\nMy sight was ever thick. Regard Titinius,\n\nAnd tell me what thou notest about the field."
+  },
+  {
+   "n": 13,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Pindarus goes up.*]"
+  },
+  {
+   "n": 14,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "This day I breathed first. Time is come round,\n\nAnd where I did begin, there shall I end.\n\nMy life is run his compass. Sirrah, what news?"
+  },
+  {
+   "n": 15,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Above.*]"
+  },
+  {
+   "n": 16,
+   "role": "Pindarus",
+   "cast": "Terence",
+   "text": "O my lord!"
+  },
+  {
+   "n": 17,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "What news?"
+  },
+  {
+   "n": 18,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Above.*]"
+  },
+  {
+   "n": 19,
+   "role": "Pindarus",
+   "cast": "Terence",
+   "text": "Titinius is enclosed round about\n\nWith horsemen, that make to him on the spur,\n\nYet he spurs on. Now they are almost on him.\n\nNow, Titinius! Now some light. O, he lights too.\n\nHe’s ta’en!"
+  },
+  {
+   "n": 20,
+   "sfx": [
+    {
+     "key": "cheer",
+     "at": "Shout."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Shout.*]"
+  },
+  {
+   "n": 21,
+   "role": "Pindarus",
+   "cast": "Terence",
+   "text": "And, hark! they shout for joy."
+  },
+  {
+   "n": 22,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Come down; behold no more.\n\nO, coward that I am, to live so long,\n\nTo see my best friend ta’en before my face!"
+  },
+  {
+   "n": 23,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Pindarus descends.*]"
+  },
+  {
+   "n": 24,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Come hither, sirrah.\n\nIn Parthia did I take thee prisoner;\n\nAnd then I swore thee, saving of thy life,\n\nThat whatsoever I did bid thee do,\n\nThou shouldst attempt it. Come now, keep thine oath.\n\nNow be a freeman; and with this good sword,\n\nThat ran through Caesar’s bowels, search this bosom.\n\nStand not to answer. Here, take thou the hilts;\n\nAnd when my face is cover’d, as ’tis now,\n\nGuide thou the sword.—Caesar, thou art reveng’d,\n\nEven with the sword that kill’d thee."
+  },
+  {
+   "n": 25,
+   "score": {
+    "key": "ghost",
+    "xfade": 4,
+    "at": "Dies."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Dies.*]"
+  },
+  {
+   "n": 26,
+   "role": "Pindarus",
+   "cast": "Terence",
+   "text": "So, I am free, yet would not so have been,\n\nDurst I have done my will. O Cassius!\n\nFar from this country Pindarus shall run,\n\nWhere never Roman shall take note of him."
+  },
+  {
+   "n": 27,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit.*]"
+  },
+  {
+   "n": 28,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Titinius with Messala."
+  },
+  {
+   "n": 29,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "It is but change, Titinius; for Octavius\n\nIs overthrown by noble Brutus’ power,\n\nAs Cassius’ legions are by Antony."
+  },
+  {
+   "n": 30,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "These tidings would well comfort Cassius."
+  },
+  {
+   "n": 31,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Where did you leave him?"
+  },
+  {
+   "n": 32,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "All disconsolate,\n\nWith Pindarus his bondman, on this hill."
+  },
+  {
+   "n": 33,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Is not that he that lies upon the ground?"
+  },
+  {
+   "n": 34,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "He lies not like the living. O my heart!"
+  },
+  {
+   "n": 35,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Is not that he?"
+  },
+  {
+   "n": 36,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "No, this was he, Messala,\n\nBut Cassius is no more. O setting sun,\n\nAs in thy red rays thou dost sink to night,\n\nSo in his red blood Cassius’ day is set.\n\nThe sun of Rome is set. Our day is gone;\n\nClouds, dews, and dangers come; our deeds are done.\n\nMistrust of my success hath done this deed."
+  },
+  {
+   "n": 37,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Mistrust of good success hath done this deed.\n\nO hateful Error, Melancholy’s child!\n\nWhy dost thou show to the apt thoughts of men\n\nThe things that are not? O Error, soon conceiv’d,\n\nThou never com’st unto a happy birth,\n\nBut kill’st the mother that engender’d thee!"
+  },
+  {
+   "n": 38,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "What, Pindarus! where art thou, Pindarus?"
+  },
+  {
+   "n": 39,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Seek him, Titinius, whilst I go to meet\n\nThe noble Brutus, thrusting this report\n\nInto his ears. I may say thrusting it;\n\nFor piercing steel and darts envenomed\n\nShall be as welcome to the ears of Brutus\n\nAs tidings of this sight."
+  },
+  {
+   "n": 40,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "Hie you, Messala,\n\nAnd I will seek for Pindarus the while."
+  },
+  {
+   "n": 41,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Messala.*]"
+  },
+  {
+   "n": 42,
+   "role": "Titinius",
+   "cast": "Horace",
+   "text": "Why didst thou send me forth, brave Cassius?\n\nDid I not meet thy friends? And did not they\n\nPut on my brows this wreath of victory,\n\nAnd bid me give it thee? Didst thou not hear their shouts?\n\nAlas, thou hast misconstrued everything!\n\nBut, hold thee, take this garland on thy brow;\n\nThy Brutus bid me give it thee, and I\n\nWill do his bidding. Brutus, come apace,\n\nAnd see how I regarded Caius Cassius.\n\nBy your leave, gods. This is a Roman’s part.\n\nCome, Cassius’ sword, and find Titinius’ heart."
+  },
+  {
+   "n": 43,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Dies.*]"
+  },
+  {
+   "n": 44,
+   "score": {
+    "key": "brutus",
+    "xfade": 6,
+    "at": "Alarum. Enter Brutus, Messala"
+   },
+   "sfx": [
+    {
+     "key": "alarum",
+     "at": "Alarum. Enter Brutus, Messala"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Alarum. Enter Brutus, Messala, young Cato, Strato,\nVolumnius and Lucilius."
+  },
+  {
+   "n": 45,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Where, where, Messala, doth his body lie?"
+  },
+  {
+   "n": 46,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Lo, yonder, and Titinius mourning it."
+  },
+  {
+   "n": 47,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Titinius’ face is upward."
+  },
+  {
+   "n": 48,
+   "role": "Young Cato",
+   "cast": "Cato the Younger",
+   "text": "He is slain."
+  },
+  {
+   "n": 49,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "O Julius Caesar, thou art mighty yet!\n\nThy spirit walks abroad, and turns our swords\n\nIn our own proper entrails."
+  },
+  {
+   "n": 50,
+   "sfx": [
+    {
+     "key": "alarum_low",
+     "at": "Low alarums."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Low alarums.*]"
+  },
+  {
+   "n": 51,
+   "role": "Young Cato",
+   "cast": "Cato the Younger",
+   "text": "Brave Titinius!\n\nLook whether he have not crown’d dead Cassius!"
+  },
+  {
+   "n": 52,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Are yet two Romans living such as these?\n\nThe last of all the Romans, fare thee well!\n\nIt is impossible that ever Rome\n\nShould breed thy fellow. Friends, I owe more tears\n\nTo this dead man than you shall see me pay.\n\nI shall find time, Cassius, I shall find time.\n\nCome therefore, and to Thassos send his body.\n\nHis funerals shall not be in our camp,\n\nLest it discomfort us. Lucilius, come;\n\nAnd come, young Cato; let us to the field.\n\nLabeo and Flavius, set our battles on.\n\n’Tis three o’clock; and Romans, yet ere night\n\nWe shall try fortune in a second fight."
+  },
+  {
+   "n": 53,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

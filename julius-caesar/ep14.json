@@ -1,0 +1,387 @@
+{
+ "work": "julius-caesar",
+ "episode": 14,
+ "chapter": 14,
+ "title": "Act V, Scene I — The plains of Philippi",
+ "document": "ACT V · SCENE I",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Octavius Caesar",
+   "cast_as": "Augustus Caesar"
+  },
+  {
+   "role": "Mark Antony",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Messenger",
+   "cast_as": "Terence"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "Cassius",
+   "cast_as": "Gaius Cassius Longinus"
+  },
+  {
+   "role": "Lucilius",
+   "cast_as": "Suetonius"
+  },
+  {
+   "role": "Messala",
+   "cast_as": "Livy"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "ACT V"
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE I. The plains of Philippi."
+  },
+  {
+   "n": 3,
+   "score": {
+    "key": "philippi",
+    "xfade": 6,
+    "at": "Enter Octavius, Antony and their Army."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Octavius, Antony and their Army."
+  },
+  {
+   "n": 4,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Now, Antony, our hopes are answered.\n\nYou said the enemy would not come down,\n\nBut keep the hills and upper regions.\n\nIt proves not so; their battles are at hand,\n\nThey mean to warn us at Philippi here,\n\nAnswering before we do demand of them."
+  },
+  {
+   "n": 5,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Tut, I am in their bosoms, and I know\n\nWherefore they do it. They could be content\n\nTo visit other places, and come down\n\nWith fearful bravery, thinking by this face\n\nTo fasten in our thoughts that they have courage;\n\nBut ’tis not so."
+  },
+  {
+   "n": 6,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter a Messenger."
+  },
+  {
+   "n": 7,
+   "role": "Messenger",
+   "cast": "Terence",
+   "text": "Prepare you, generals.\n\nThe enemy comes on in gallant show;\n\nTheir bloody sign of battle is hung out,\n\nAnd something to be done immediately."
+  },
+  {
+   "n": 8,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Octavius, lead your battle softly on\n\nUpon the left hand of the even field."
+  },
+  {
+   "n": 9,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Upon the right hand I. Keep thou the left."
+  },
+  {
+   "n": 10,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Why do you cross me in this exigent?"
+  },
+  {
+   "n": 11,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "I do not cross you; but I will do so."
+  },
+  {
+   "n": 12,
+   "sfx": [
+    {
+     "key": "drum",
+     "at": "March."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*March.*]"
+  },
+  {
+   "n": 13,
+   "sfx": [
+    {
+     "key": "drum",
+     "at": "Drum. Enter Brutus, Cassius"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Drum. Enter Brutus, Cassius and their Army; Lucilius, Titinius, Messala and others."
+  },
+  {
+   "n": 14,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "They stand, and would have parley."
+  },
+  {
+   "n": 15,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Stand fast, Titinius; we must out and talk."
+  },
+  {
+   "n": 16,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Mark Antony, shall we give sign of battle?"
+  },
+  {
+   "n": 17,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "No, Caesar, we will answer on their charge.\n\nMake forth; the generals would have some words."
+  },
+  {
+   "n": 18,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Stir not until the signal."
+  },
+  {
+   "n": 19,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Words before blows: is it so, countrymen?"
+  },
+  {
+   "n": 20,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Not that we love words better, as you do."
+  },
+  {
+   "n": 21,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Good words are better than bad strokes, Octavius."
+  },
+  {
+   "n": 22,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "In your bad strokes, Brutus, you give good words;\n\nWitness the hole you made in Caesar’s heart,\n\nCrying, “Long live! Hail, Caesar!”"
+  },
+  {
+   "n": 23,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Antony,\n\nThe posture of your blows are yet unknown;\n\nBut for your words, they rob the Hybla bees,\n\nAnd leave them honeyless."
+  },
+  {
+   "n": 24,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Not stingless too."
+  },
+  {
+   "n": 25,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "O yes, and soundless too,\n\nFor you have stol’n their buzzing, Antony,\n\nAnd very wisely threat before you sting."
+  },
+  {
+   "n": 26,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Villains, you did not so when your vile daggers\n\nHack’d one another in the sides of Caesar:\n\nYou show’d your teeth like apes, and fawn’d like hounds,\n\nAnd bow’d like bondmen, kissing Caesar’s feet;\n\nWhilst damned Casca, like a cur, behind\n\nStruck Caesar on the neck. O you flatterers!"
+  },
+  {
+   "n": 27,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Flatterers! Now, Brutus, thank yourself.\n\nThis tongue had not offended so today,\n\nIf Cassius might have rul’d."
+  },
+  {
+   "n": 28,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Come, come, the cause. If arguing makes us sweat,\n\nThe proof of it will turn to redder drops.\n\nLook, I draw a sword against conspirators.\n\nWhen think you that the sword goes up again?\n\nNever, till Caesar’s three and thirty wounds\n\nBe well aveng’d; or till another Caesar\n\nHave added slaughter to the sword of traitors."
+  },
+  {
+   "n": 29,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Caesar, thou canst not die by traitors’ hands,\n\nUnless thou bring’st them with thee."
+  },
+  {
+   "n": 30,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "So I hope.\n\nI was not born to die on Brutus’ sword."
+  },
+  {
+   "n": 31,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "O, if thou wert the noblest of thy strain,\n\nYoung man, thou couldst not die more honourable."
+  },
+  {
+   "n": 32,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "A peevish school-boy, worthless of such honour,\n\nJoin’d with a masker and a reveller."
+  },
+  {
+   "n": 33,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Old Cassius still!"
+  },
+  {
+   "n": 34,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Come, Antony; away!\n\nDefiance, traitors, hurl we in your teeth.\n\nIf you dare fight today, come to the field;\n\nIf not, when you have stomachs."
+  },
+  {
+   "n": 35,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Octavius, Antony and their Army.*]"
+  },
+  {
+   "n": 36,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Why now, blow wind, swell billow, and swim bark!\n\nThe storm is up, and all is on the hazard."
+  },
+  {
+   "n": 37,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Ho, Lucilius! Hark, a word with you."
+  },
+  {
+   "n": 38,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "My lord?"
+  },
+  {
+   "n": 39,
+   "score": {
+    "key": "brutus",
+    "xfade": 6,
+    "at": "Brutus and Lucilius talk apart."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Brutus and Lucilius talk apart.*]"
+  },
+  {
+   "n": 40,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Messala."
+  },
+  {
+   "n": 41,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "What says my General?"
+  },
+  {
+   "n": 42,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Messala,\n\nThis is my birth-day; as this very day\n\nWas Cassius born. Give me thy hand, Messala:\n\nBe thou my witness that against my will\n\nAs Pompey was, am I compell’d to set\n\nUpon one battle all our liberties.\n\nYou know that I held Epicurus strong,\n\nAnd his opinion. Now I change my mind,\n\nAnd partly credit things that do presage.\n\nComing from Sardis, on our former ensign\n\nTwo mighty eagles fell, and there they perch’d,\n\nGorging and feeding from our soldiers’ hands,\n\nWho to Philippi here consorted us.\n\nThis morning are they fled away and gone,\n\nAnd in their steads do ravens, crows, and kites\n\nFly o’er our heads, and downward look on us,\n\nAs we were sickly prey: their shadows seem\n\nA canopy most fatal, under which\n\nOur army lies, ready to give up the ghost."
+  },
+  {
+   "n": 43,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Believe not so."
+  },
+  {
+   "n": 44,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I but believe it partly,\n\nFor I am fresh of spirit, and resolv’d\n\nTo meet all perils very constantly."
+  },
+  {
+   "n": 45,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Even so, Lucilius."
+  },
+  {
+   "n": 46,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Now, most noble Brutus,\n\nThe gods today stand friendly, that we may,\n\nLovers in peace, lead on our days to age!\n\nBut, since the affairs of men rest still incertain,\n\nLet’s reason with the worst that may befall.\n\nIf we do lose this battle, then is this\n\nThe very last time we shall speak together:\n\nWhat are you then determined to do?"
+  },
+  {
+   "n": 47,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Even by the rule of that philosophy\n\nBy which I did blame Cato for the death\n\nWhich he did give himself, I know not how,\n\nBut I do find it cowardly and vile,\n\nFor fear of what might fall, so to prevent\n\nThe time of life, arming myself with patience\n\nTo stay the providence of some high powers\n\nThat govern us below."
+  },
+  {
+   "n": 48,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Then, if we lose this battle,\n\nYou are contented to be led in triumph\n\nThorough the streets of Rome?"
+  },
+  {
+   "n": 49,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "No, Cassius, no: think not, thou noble Roman,\n\nThat ever Brutus will go bound to Rome;\n\nHe bears too great a mind. But this same day\n\nMust end that work the Ides of March begun;\n\nAnd whether we shall meet again I know not.\n\nTherefore our everlasting farewell take.\n\nFor ever, and for ever, farewell, Cassius.\n\nIf we do meet again, why, we shall smile;\n\nIf not, why then this parting was well made."
+  },
+  {
+   "n": 50,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "For ever and for ever farewell, Brutus.\n\nIf we do meet again, we’ll smile indeed;\n\nIf not, ’tis true this parting was well made."
+  },
+  {
+   "n": 51,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Why then, lead on. O, that a man might know\n\nThe end of this day’s business ere it come!\n\nBut it sufficeth that the day will end,\n\nAnd then the end is known. Come, ho! away!"
+  },
+  {
+   "n": 52,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

@@ -89,3 +89,63 @@ Cinna the poet (8), Fourth Citizen (5), First Citizen (4), Second Citizen (4), T
 - cue 22 · First Citizen · “Tear him to pieces! He’s a conspirator.” · sound: mob
 - cue 27 · Third Citizen · “Tear him, tear him! Come; brands, ho! firebrands. To Brutus’” · sound: mob
 - cue 28 · Stage directions · “[*Exeunt.*]” · score → silence
+
+## Part Two — Acts IV–V
+
+### 11 · Act IV, Scene I — Rome. A room in Antony’s house — 19 cues
+Octavius Caesar (6), Stage directions (5), Mark Antony (5), Lepidus (3)
+- cue 3 · Stage directions · “Enter Antony, Octavius and Lepidus, seated at a table.” · score → caesar
+- cue 19 · Stage directions · “[*Exeunt.*]” · score → silence
+
+### 12 · Act IV, Scene II — Before Brutus’ tent, in the camp near Sardis — 29 cues
+Marcus Brutus (11), Stage directions (6), Lucilius (4), Cassius (4), Pindarus (1), First Soldier (1), Second Soldier (1), Third Soldier (1)
+- cue 2 · Stage directions · “Drum. Enter Brutus, Lucilius, Titinius and Soldiers; Pindaru” · sound: drum
+- cue 13 · Stage directions · “[*Low march within.*]” · sound: drum_low
+- cue 16 · Stage directions · “Enter Cassius and Soldiers.” · score → conspiracy; sound: drum
+- cue 29 · Stage directions · “[*Exeunt.*]” · score → silence
+
+### 13 · Act IV, Scene III — Within the tent of Brutus — 177 cues
+Marcus Brutus (74), Cassius (46), Stage directions (24), Lucius (10), Messala (8), Varro (6), A Poet (3), Ghost of Caesar (3), Claudius (2), Lucilius (1)
+- cue 2 · Stage directions · “Enter Brutus and Cassius.” · score → conspiracy
+- cue 82 · Stage directions · “Enter Lucius, with wine and a taper.” · score → brutus
+- cue 148 · Stage directions · “[*Lucius plays and sings till he falls asleep.*]” · score → silence; sound: lute
+- cue 150 · Stage directions · “Enter the Ghost of Caesar.” · score → ghost
+- cue 158 · Stage directions · “[*Ghost vanishes.*]” · score → silence
+- cue 177 · Stage directions · “[*Exeunt.*]” · score → silence
+
+### 14 · Act V, Scene I — The plains of Philippi — 52 cues
+Marcus Brutus (11), Cassius (11), Stage directions (9), Octavius Caesar (9), Mark Antony (8), Messala (2), Messenger (1), Lucilius (1)
+- cue 3 · Stage directions · “Enter Octavius, Antony and their Army.” · score → philippi
+- cue 12 · Stage directions · “[*March.*]” · sound: drum
+- cue 13 · Stage directions · “Drum. Enter Brutus, Cassius and their Army; Lucilius, Titini” · sound: drum
+- cue 39 · Stage directions · “[*Brutus and Lucilius talk apart.*]” · score → brutus
+- cue 52 · Stage directions · “[*Exeunt.*]” · score → silence
+
+### 15 · Act V, Scene II — The same. The field of battle — 6 cues
+Stage directions (4), Marcus Brutus (2)
+- cue 2 · Stage directions · “Alarum. Enter Brutus and Messala.” · score → philippi; sound: alarum
+- cue 4 · Stage directions · “[*Loud alarum.*]” · sound: alarum
+
+### 16 · Act V, Scene III — Another part of the field — 53 cues
+Stage directions (17), Titinius (10), Cassius (8), Messala (7), Pindarus (5), Marcus Brutus (4), Young Cato (2)
+- cue 2 · Stage directions · “Alarum. Enter Cassius and Titinius.” · score → philippi; sound: alarum
+- cue 20 · Stage directions · “[*Shout.*]” · sound: cheer
+- cue 25 · Stage directions · “[*Dies.*]” · score → ghost
+- cue 44 · Stage directions · “Alarum. Enter Brutus, Messala, young Cato, Strato, Volumnius” · score → brutus; sound: alarum
+- cue 50 · Stage directions · “[*Low alarums.*]” · sound: alarum_low
+- cue 53 · Stage directions · “[*Exeunt.*]” · score → silence
+
+### 17 · Act V, Scene IV — Another part of the field — 21 cues
+Stage directions (7), Lucilius (5), First Soldier (4), Mark Antony (2), Marcus Brutus (1), Young Cato (1), Second Soldier (1)
+- cue 2 · Stage directions · “Alarum. Enter fighting soldiers of both armies; then Brutus,” · score → philippi; sound: alarum
+- cue 21 · Stage directions · “[*Exeunt.*]” · score → silence
+
+### 18 · Act V, Scene V — Another part of the field — 51 cues
+Marcus Brutus (12), Stage directions (11), Clitus (8), Octavius Caesar (5), Strato (4), Dardanius (3), Volumnius (3), Messala (3), Lucilius (1), Mark Antony (1)
+- cue 2 · Stage directions · “Enter Brutus, Dardanius, Clitus, Strato and Volumnius.” · score → brutus
+- cue 23 · Stage directions · “[*Low alarums.*]” · sound: alarum_low
+- cue 26 · Stage directions · “[*Alarums still.*]” · sound: alarum_low
+- cue 29 · Stage directions · “[*Alarums. Cry within, “Fly, fly, fly!”.*]” · sound: alarum; sound: mob
+- cue 36 · Stage directions · “[*He runs on his sword, and dies.*]” · score → ghost; sound: stabbing
+- cue 37 · Stage directions · “Alarum. Retreat. Enter Antony, Octavius, Messala, Lucilius a” · score → caesar; sound: sennet
+

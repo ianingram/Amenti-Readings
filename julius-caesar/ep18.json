@@ -1,0 +1,413 @@
+{
+ "work": "julius-caesar",
+ "episode": 18,
+ "chapter": 18,
+ "title": "Act V, Scene V — Another part of the field",
+ "document": "ACT V · SCENE V",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "Clitus",
+   "cast_as": "Lucretius"
+  },
+  {
+   "role": "Dardanius",
+   "cast_as": "Cassius Dio"
+  },
+  {
+   "role": "Volumnius",
+   "cast_as": "Cincinnatus"
+  },
+  {
+   "role": "Strato",
+   "cast_as": "Seneca the Younger"
+  },
+  {
+   "role": "Octavius Caesar",
+   "cast_as": "Augustus Caesar"
+  },
+  {
+   "role": "Messala",
+   "cast_as": "Livy"
+  },
+  {
+   "role": "Lucilius",
+   "cast_as": "Suetonius"
+  },
+  {
+   "role": "Mark Antony",
+   "cast_as": "Mark Antony"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE V. Another part of the field."
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "brutus",
+    "xfade": 6,
+    "at": "Enter Brutus, Dardanius, Clitus"
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Brutus, Dardanius, Clitus, Strato and Volumnius."
+  },
+  {
+   "n": 3,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Come, poor remains of friends, rest on this rock."
+  },
+  {
+   "n": 4,
+   "role": "Clitus",
+   "cast": "Lucretius",
+   "text": "Statilius show’d the torch-light; but, my lord,\n\nHe came not back: he is or ta’en or slain."
+  },
+  {
+   "n": 5,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Sit thee down, Clitus. Slaying is the word;\n\nIt is a deed in fashion. Hark thee, Clitus."
+  },
+  {
+   "n": 6,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Whispering.*]"
+  },
+  {
+   "n": 7,
+   "role": "Clitus",
+   "cast": "Lucretius",
+   "text": "What, I, my lord? No, not for all the world."
+  },
+  {
+   "n": 8,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Peace then, no words."
+  },
+  {
+   "n": 9,
+   "role": "Clitus",
+   "cast": "Lucretius",
+   "text": "I’ll rather kill myself."
+  },
+  {
+   "n": 10,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Hark thee, Dardanius."
+  },
+  {
+   "n": 11,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Whispers him.*]"
+  },
+  {
+   "n": 12,
+   "role": "Dardanius",
+   "cast": "Cassius Dio",
+   "text": "Shall I do such a deed?"
+  },
+  {
+   "n": 13,
+   "role": "Clitus",
+   "cast": "Lucretius",
+   "text": "O Dardanius!"
+  },
+  {
+   "n": 14,
+   "role": "Dardanius",
+   "cast": "Cassius Dio",
+   "text": "O Clitus!"
+  },
+  {
+   "n": 15,
+   "role": "Clitus",
+   "cast": "Lucretius",
+   "text": "What ill request did Brutus make to thee?"
+  },
+  {
+   "n": 16,
+   "role": "Dardanius",
+   "cast": "Cassius Dio",
+   "text": "To kill him, Clitus. Look, he meditates."
+  },
+  {
+   "n": 17,
+   "role": "Clitus",
+   "cast": "Lucretius",
+   "text": "Now is that noble vessel full of grief,\n\nThat it runs over even at his eyes."
+  },
+  {
+   "n": 18,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Come hither, good Volumnius; list a word."
+  },
+  {
+   "n": 19,
+   "role": "Volumnius",
+   "cast": "Cincinnatus",
+   "text": "What says my lord?"
+  },
+  {
+   "n": 20,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Why, this, Volumnius:\n\nThe ghost of Caesar hath appear’d to me\n\nTwo several times by night; at Sardis once,\n\nAnd this last night here in Philippi fields.\n\nI know my hour is come."
+  },
+  {
+   "n": 21,
+   "role": "Volumnius",
+   "cast": "Cincinnatus",
+   "text": "Not so, my lord."
+  },
+  {
+   "n": 22,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Nay I am sure it is, Volumnius.\n\nThou seest the world, Volumnius, how it goes;\n\nOur enemies have beat us to the pit."
+  },
+  {
+   "n": 23,
+   "sfx": [
+    {
+     "key": "alarum_low",
+     "at": "Low alarums."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Low alarums.*]"
+  },
+  {
+   "n": 24,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "It is more worthy to leap in ourselves\n\nThan tarry till they push us. Good Volumnius,\n\nThou know’st that we two went to school together;\n\nEven for that our love of old, I pr’ythee\n\nHold thou my sword-hilts, whilst I run on it."
+  },
+  {
+   "n": 25,
+   "role": "Volumnius",
+   "cast": "Cincinnatus",
+   "text": "That’s not an office for a friend, my lord."
+  },
+  {
+   "n": 26,
+   "sfx": [
+    {
+     "key": "alarum_low",
+     "at": "Alarums still."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Alarums still.*]"
+  },
+  {
+   "n": 27,
+   "role": "Clitus",
+   "cast": "Lucretius",
+   "text": "Fly, fly, my lord! there is no tarrying here."
+  },
+  {
+   "n": 28,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Farewell to you; and you; and you, Volumnius.\n\nStrato, thou hast been all this while asleep;\n\nFarewell to thee too, Strato.—Countrymen,\n\nMy heart doth joy, that yet in all my life\n\nI found no man but he was true to me.\n\nI shall have glory by this losing day\n\nMore than Octavius and Mark Antony\n\nBy this vile conquest shall attain unto.\n\nSo fare you well at once; for Brutus’ tongue\n\nHath almost ended his life’s history.\n\nNight hangs upon mine eyes; my bones would rest,\n\nThat have but labour’d to attain this hour."
+  },
+  {
+   "n": 29,
+   "sfx": [
+    {
+     "key": "alarum",
+     "at": "Fly, fly, fly!"
+    },
+    {
+     "key": "mob",
+     "offset": 1.0,
+     "at": "Fly, fly, fly!"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Alarums. Cry within, “Fly, fly, fly!”.*]"
+  },
+  {
+   "n": 30,
+   "role": "Clitus",
+   "cast": "Lucretius",
+   "text": "Fly, my lord, fly!"
+  },
+  {
+   "n": 31,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Hence! I will follow."
+  },
+  {
+   "n": 32,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Clitus, Dardanius and Volumnius.*]"
+  },
+  {
+   "n": 33,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I pr’ythee, Strato, stay thou by thy lord.\n\nThou art a fellow of a good respect;\n\nThy life hath had some smatch of honour in it.\n\nHold then my sword, and turn away thy face,\n\nWhile I do run upon it. Wilt thou, Strato?"
+  },
+  {
+   "n": 34,
+   "role": "Strato",
+   "cast": "Seneca the Younger",
+   "text": "Give me your hand first. Fare you well, my lord."
+  },
+  {
+   "n": 35,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Farewell, good Strato.—Caesar, now be still:\n\nI kill’d not thee with half so good a will."
+  },
+  {
+   "n": 36,
+   "score": {
+    "key": "ghost",
+    "xfade": 2,
+    "at": "runs on his sword"
+   },
+   "sfx": [
+    {
+     "key": "stabbing",
+     "at": "runs on his sword"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*He runs on his sword, and dies.*]"
+  },
+  {
+   "n": 37,
+   "score": {
+    "key": "caesar",
+    "xfade": 6,
+    "at": "Alarum. Retreat. Enter Antony"
+   },
+   "sfx": [
+    {
+     "key": "sennet",
+     "offset": 0.5,
+     "at": "Alarum. Retreat. Enter Antony"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Alarum. Retreat. Enter Antony, Octavius, Messala,\nLucilius and the Army."
+  },
+  {
+   "n": 38,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "What man is that?"
+  },
+  {
+   "n": 39,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "My master’s man. Strato, where is thy master?"
+  },
+  {
+   "n": 40,
+   "role": "Strato",
+   "cast": "Seneca the Younger",
+   "text": "Free from the bondage you are in, Messala.\n\nThe conquerors can but make a fire of him;\n\nFor Brutus only overcame himself,\n\nAnd no man else hath honour by his death."
+  },
+  {
+   "n": 41,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "So Brutus should be found. I thank thee, Brutus,\n\nThat thou hast prov’d Lucilius’ saying true."
+  },
+  {
+   "n": 42,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "All that serv’d Brutus, I will entertain them.\n\nFellow, wilt thou bestow thy time with me?"
+  },
+  {
+   "n": 43,
+   "role": "Strato",
+   "cast": "Seneca the Younger",
+   "text": "Ay, if Messala will prefer me to you."
+  },
+  {
+   "n": 44,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Do so, good Messala."
+  },
+  {
+   "n": 45,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "How died my master, Strato?"
+  },
+  {
+   "n": 46,
+   "role": "Strato",
+   "cast": "Seneca the Younger",
+   "text": "I held the sword, and he did run on it."
+  },
+  {
+   "n": 47,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Octavius, then take him to follow thee,\n\nThat did the latest service to my master."
+  },
+  {
+   "n": 48,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "This was the noblest Roman of them all.\n\nAll the conspirators save only he,\n\nDid that they did in envy of great Caesar;\n\nHe only, in a general honest thought\n\nAnd common good to all, made one of them.\n\nHis life was gentle, and the elements\n\nSo mix’d in him that Nature might stand up\n\nAnd say to all the world, “This was a man!”"
+  },
+  {
+   "n": 49,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "According to his virtue let us use him\n\nWith all respect and rites of burial.\n\nWithin my tent his bones tonight shall lie,\n\nMost like a soldier, order’d honourably.\n\nSo call the field to rest, and let’s away,\n\nTo part the glories of this happy day."
+  },
+  {
+   "n": 50,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  },
+  {
+   "n": 51,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "##"
+  }
+ ]
+}

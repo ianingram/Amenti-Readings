@@ -1,0 +1,156 @@
+{
+ "work": "julius-caesar",
+ "episode": 11,
+ "chapter": 11,
+ "title": "Act IV, Scene I — Rome. A room in Antony’s house",
+ "document": "ACT IV · SCENE I",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Mark Antony",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Octavius Caesar",
+   "cast_as": "Augustus Caesar"
+  },
+  {
+   "role": "Lepidus",
+   "cast_as": "Lepidus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "ACT IV"
+  },
+  {
+   "n": 2,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE I. Rome. A room in Antony’s house."
+  },
+  {
+   "n": 3,
+   "score": {
+    "key": "caesar",
+    "xfade": 5,
+    "at": "Enter Antony, Octavius and Lepidus"
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Antony, Octavius and Lepidus, seated at a table."
+  },
+  {
+   "n": 4,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "These many then shall die; their names are prick’d."
+  },
+  {
+   "n": 5,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Your brother too must die; consent you, Lepidus?"
+  },
+  {
+   "n": 6,
+   "role": "Lepidus",
+   "cast": "Lepidus",
+   "text": "I do consent,—"
+  },
+  {
+   "n": 7,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Prick him down, Antony."
+  },
+  {
+   "n": 8,
+   "role": "Lepidus",
+   "cast": "Lepidus",
+   "text": "Upon condition Publius shall not live,\n\nWho is your sister’s son, Mark Antony."
+  },
+  {
+   "n": 9,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "He shall not live; look, with a spot I damn him.\n\nBut, Lepidus, go you to Caesar’s house;\n\nFetch the will hither, and we shall determine\n\nHow to cut off some charge in legacies."
+  },
+  {
+   "n": 10,
+   "role": "Lepidus",
+   "cast": "Lepidus",
+   "text": "What, shall I find you here?"
+  },
+  {
+   "n": 11,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Or here, or at the Capitol."
+  },
+  {
+   "n": 12,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Lepidus.*]"
+  },
+  {
+   "n": 13,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "This is a slight unmeritable man,\n\nMeet to be sent on errands. Is it fit,\n\nThe three-fold world divided, he should stand\n\nOne of the three to share it?"
+  },
+  {
+   "n": 14,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "So you thought him,\n\nAnd took his voice who should be prick’d to die\n\nIn our black sentence and proscription."
+  },
+  {
+   "n": 15,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Octavius, I have seen more days than you;\n\nAnd though we lay these honours on this man,\n\nTo ease ourselves of divers sland’rous loads,\n\nHe shall but bear them as the ass bears gold,\n\nTo groan and sweat under the business,\n\nEither led or driven, as we point the way;\n\nAnd having brought our treasure where we will,\n\nThen take we down his load, and turn him off,\n\nLike to the empty ass, to shake his ears,\n\nAnd graze in commons."
+  },
+  {
+   "n": 16,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "You may do your will;\n\nBut he’s a tried and valiant soldier."
+  },
+  {
+   "n": 17,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "So is my horse, Octavius; and for that\n\nI do appoint him store of provender.\n\nIt is a creature that I teach to fight,\n\nTo wind, to stop, to run directly on,\n\nHis corporal motion govern’d by my spirit.\n\nAnd, in some taste, is Lepidus but so:\n\nHe must be taught, and train’d, and bid go forth:\n\nA barren-spirited fellow; one that feeds\n\nOn objects, arts, and imitations,\n\nWhich, out of use and stal’d by other men,\n\nBegin his fashion. Do not talk of him\n\nBut as a property. And now, Octavius,\n\nListen great things. Brutus and Cassius\n\nAre levying powers; we must straight make head.\n\nTherefore let our alliance be combin’d,\n\nOur best friends made, our means stretch’d;\n\nAnd let us presently go sit in council,\n\nHow covert matters may be best disclos’d,\n\nAnd open perils surest answered."
+  },
+  {
+   "n": 18,
+   "role": "Octavius Caesar",
+   "cast": "Augustus Caesar",
+   "text": "Let us do so: for we are at the stake,\n\nAnd bay’d about with many enemies;\n\nAnd some that smile have in their hearts, I fear,\n\nMillions of mischiefs."
+  },
+  {
+   "n": 19,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

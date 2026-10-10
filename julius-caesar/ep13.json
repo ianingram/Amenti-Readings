@@ -1,0 +1,1154 @@
+{
+ "work": "julius-caesar",
+ "episode": 13,
+ "chapter": 13,
+ "title": "Act IV, Scene III — Within the tent of Brutus",
+ "document": "ACT IV · SCENE III",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Cassius",
+   "cast_as": "Gaius Cassius Longinus"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "A Poet",
+   "cast_as": "Ovid"
+  },
+  {
+   "role": "Lucilius",
+   "cast_as": "Suetonius"
+  },
+  {
+   "role": "Messala",
+   "cast_as": "Livy"
+  },
+  {
+   "role": "Lucius",
+   "cast_as": "Virgil"
+  },
+  {
+   "role": "Varro",
+   "cast_as": "Marcus Terentius Varro"
+  },
+  {
+   "role": "Ghost of Caesar",
+   "cast_as": "Julius Caesar"
+  },
+  {
+   "role": "Claudius",
+   "cast_as": "Tiberius"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE III. Within the tent of\nBrutus."
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "conspiracy",
+    "xfade": 5,
+    "at": "Enter Brutus and Cassius."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Brutus and Cassius."
+  },
+  {
+   "n": 3,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "That you have wrong’d me doth appear in this:\n\nYou have condemn’d and noted Lucius Pella\n\nFor taking bribes here of the Sardians;\n\nWherein my letters, praying on his side\n\nBecause I knew the man, were slighted off."
+  },
+  {
+   "n": 4,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "You wrong’d yourself to write in such a case."
+  },
+  {
+   "n": 5,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "In such a time as this it is not meet\n\nThat every nice offence should bear his comment."
+  },
+  {
+   "n": 6,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Let me tell you, Cassius, you yourself\n\nAre much condemn’d to have an itching palm,\n\nTo sell and mart your offices for gold\n\nTo undeservers."
+  },
+  {
+   "n": 7,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I an itching palm!\n\nYou know that you are Brutus that speak this,\n\nOr, by the gods, this speech were else your last."
+  },
+  {
+   "n": 8,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "The name of Cassius honours this corruption,\n\nAnd chastisement doth therefore hide his head."
+  },
+  {
+   "n": 9,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Chastisement!"
+  },
+  {
+   "n": 10,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Remember March, the Ides of March remember:\n\nDid not great Julius bleed for justice’ sake?\n\nWhat villain touch’d his body, that did stab,\n\nAnd not for justice? What! Shall one of us,\n\nThat struck the foremost man of all this world\n\nBut for supporting robbers, shall we now\n\nContaminate our fingers with base bribes,\n\nAnd sell the mighty space of our large honours\n\nFor so much trash as may be grasped thus?\n\nI had rather be a dog, and bay the moon,\n\nThan such a Roman."
+  },
+  {
+   "n": 11,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Brutus, bait not me,\n\nI’ll not endure it. You forget yourself,\n\nTo hedge me in. I am a soldier, I,\n\nOlder in practice, abler than yourself\n\nTo make conditions."
+  },
+  {
+   "n": 12,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Go to; you are not, Cassius."
+  },
+  {
+   "n": 13,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I am."
+  },
+  {
+   "n": 14,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I say you are not."
+  },
+  {
+   "n": 15,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Urge me no more, I shall forget myself;\n\nHave mind upon your health, tempt me no farther."
+  },
+  {
+   "n": 16,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Away, slight man!"
+  },
+  {
+   "n": 17,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Is’t possible?"
+  },
+  {
+   "n": 18,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Hear me, for I will speak.\n\nMust I give way and room to your rash choler?\n\nShall I be frighted when a madman stares?"
+  },
+  {
+   "n": 19,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "O ye gods, ye gods! Must I endure all this?"
+  },
+  {
+   "n": 20,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "All this? ay, more: fret till your proud heart break;\n\nGo show your slaves how choleric you are,\n\nAnd make your bondmen tremble. Must I budge?\n\nMust I observe you? Must I stand and crouch\n\nUnder your testy humour? By the gods,\n\nYou shall digest the venom of your spleen,\n\nThough it do split you; for, from this day forth,\n\nI’ll use you for my mirth, yea, for my laughter,\n\nWhen you are waspish."
+  },
+  {
+   "n": 21,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Is it come to this?"
+  },
+  {
+   "n": 22,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "You say you are a better soldier:\n\nLet it appear so; make your vaunting true,\n\nAnd it shall please me well. For mine own part,\n\nI shall be glad to learn of noble men."
+  },
+  {
+   "n": 23,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "You wrong me every way, you wrong me, Brutus.\n\nI said, an elder soldier, not a better:\n\nDid I say better?"
+  },
+  {
+   "n": 24,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "If you did, I care not."
+  },
+  {
+   "n": 25,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "When Caesar liv’d, he durst not thus have mov’d me."
+  },
+  {
+   "n": 26,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Peace, peace! you durst not so have tempted him."
+  },
+  {
+   "n": 27,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I durst not?"
+  },
+  {
+   "n": 28,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "No."
+  },
+  {
+   "n": 29,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "What? durst not tempt him?"
+  },
+  {
+   "n": 30,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "For your life you durst not."
+  },
+  {
+   "n": 31,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Do not presume too much upon my love.\n\nI may do that I shall be sorry for."
+  },
+  {
+   "n": 32,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "You have done that you should be sorry for.\n\nThere is no terror, Cassius, in your threats,\n\nFor I am arm’d so strong in honesty,\n\nThat they pass by me as the idle wind,\n\nWhich I respect not. I did send to you\n\nFor certain sums of gold, which you denied me;\n\nFor I can raise no money by vile means:\n\nBy Heaven, I had rather coin my heart,\n\nAnd drop my blood for drachmas, than to wring\n\nFrom the hard hands of peasants their vile trash\n\nBy any indirection. I did send\n\nTo you for gold to pay my legions,\n\nWhich you denied me: was that done like Cassius?\n\nShould I have answer’d Caius Cassius so?\n\nWhen Marcus Brutus grows so covetous,\n\nTo lock such rascal counters from his friends,\n\nBe ready, gods, with all your thunderbolts,\n\nDash him to pieces!"
+  },
+  {
+   "n": 33,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I denied you not."
+  },
+  {
+   "n": 34,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "You did."
+  },
+  {
+   "n": 35,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I did not. He was but a fool\n\nThat brought my answer back. Brutus hath riv’d my heart.\n\nA friend should bear his friend’s infirmities;\n\nBut Brutus makes mine greater than they are."
+  },
+  {
+   "n": 36,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I do not, till you practise them on me."
+  },
+  {
+   "n": 37,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "You love me not."
+  },
+  {
+   "n": 38,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I do not like your faults."
+  },
+  {
+   "n": 39,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "A friendly eye could never see such faults."
+  },
+  {
+   "n": 40,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "A flatterer’s would not, though they do appear\n\nAs huge as high Olympus."
+  },
+  {
+   "n": 41,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Come, Antony, and young Octavius, come,\n\nRevenge yourselves alone on Cassius,\n\nFor Cassius is a-weary of the world:\n\nHated by one he loves; brav’d by his brother;\n\nCheck’d like a bondman; all his faults observ’d,\n\nSet in a note-book, learn’d and conn’d by rote,\n\nTo cast into my teeth. O, I could weep\n\nMy spirit from mine eyes! There is my dagger,\n\nAnd here my naked breast; within, a heart\n\nDearer than Plutus’ mine, richer than gold:\n\nIf that thou be’st a Roman, take it forth.\n\nI, that denied thee gold, will give my heart:\n\nStrike as thou didst at Caesar; for I know,\n\nWhen thou didst hate him worst, thou lovedst him better\n\nThan ever thou lovedst Cassius."
+  },
+  {
+   "n": 42,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Sheathe your dagger.\n\nBe angry when you will, it shall have scope;\n\nDo what you will, dishonour shall be humour.\n\nO Cassius, you are yoked with a lamb\n\nThat carries anger as the flint bears fire,\n\nWho, much enforced, shows a hasty spark,\n\nAnd straight is cold again."
+  },
+  {
+   "n": 43,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Hath Cassius liv’d\n\nTo be but mirth and laughter to his Brutus,\n\nWhen grief and blood ill-temper’d vexeth him?"
+  },
+  {
+   "n": 44,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "When I spoke that, I was ill-temper’d too."
+  },
+  {
+   "n": 45,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Do you confess so much? Give me your hand."
+  },
+  {
+   "n": 46,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "And my heart too."
+  },
+  {
+   "n": 47,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "O Brutus!"
+  },
+  {
+   "n": 48,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "What’s the matter?"
+  },
+  {
+   "n": 49,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Have not you love enough to bear with me,\n\nWhen that rash humour which my mother gave me\n\nMakes me forgetful?"
+  },
+  {
+   "n": 50,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Yes, Cassius; and from henceforth,\n\nWhen you are over-earnest with your Brutus,\n\nHe’ll think your mother chides, and leave you so."
+  },
+  {
+   "n": 51,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Poet, followed by Lucilius, Titinius and Lucius."
+  },
+  {
+   "n": 52,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Within.*]"
+  },
+  {
+   "n": 53,
+   "role": "A Poet",
+   "cast": "Ovid",
+   "text": "Let me go in to see the generals,\n\nThere is some grudge between ’em; ’tis not meet\n\nThey be alone."
+  },
+  {
+   "n": 54,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Within.*]"
+  },
+  {
+   "n": 55,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "You shall not come to them."
+  },
+  {
+   "n": 56,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Within.*]"
+  },
+  {
+   "n": 57,
+   "role": "A Poet",
+   "cast": "Ovid",
+   "text": "Nothing but death shall stay me."
+  },
+  {
+   "n": 58,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "How now! What’s the matter?"
+  },
+  {
+   "n": 59,
+   "role": "A Poet",
+   "cast": "Ovid",
+   "text": "For shame, you generals! What do you mean?\n\nLove, and be friends, as two such men should be;\n\nFor I have seen more years, I’m sure, than ye."
+  },
+  {
+   "n": 60,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Ha, ha! How vilely doth this cynic rhyme!"
+  },
+  {
+   "n": 61,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Get you hence, sirrah. Saucy fellow, hence!"
+  },
+  {
+   "n": 62,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Bear with him, Brutus; ’tis his fashion."
+  },
+  {
+   "n": 63,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I’ll know his humour when he knows his time.\n\nWhat should the wars do with these jigging fools?\n\nCompanion, hence!"
+  },
+  {
+   "n": 64,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Away, away, be gone!"
+  },
+  {
+   "n": 65,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Poet.*]"
+  },
+  {
+   "n": 66,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Lucilius and Titinius, bid the commanders\n\nPrepare to lodge their companies tonight."
+  },
+  {
+   "n": 67,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "And come yourselves and bring Messala with you\n\nImmediately to us."
+  },
+  {
+   "n": 68,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Lucilius and Titinius.*]"
+  },
+  {
+   "n": 69,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Lucius, a bowl of wine."
+  },
+  {
+   "n": 70,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Lucius.*]"
+  },
+  {
+   "n": 71,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I did not think you could have been so angry."
+  },
+  {
+   "n": 72,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "O Cassius, I am sick of many griefs."
+  },
+  {
+   "n": 73,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Of your philosophy you make no use,\n\nIf you give place to accidental evils."
+  },
+  {
+   "n": 74,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "No man bears sorrow better. Portia is dead."
+  },
+  {
+   "n": 75,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Ha? Portia?"
+  },
+  {
+   "n": 76,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "She is dead."
+  },
+  {
+   "n": 77,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "How ’scap’d I killing, when I cross’d you so?\n\nO insupportable and touching loss!\n\nUpon what sickness?"
+  },
+  {
+   "n": 78,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Impatient of my absence,\n\nAnd grief that young Octavius with Mark Antony\n\nHave made themselves so strong; for with her death\n\nThat tidings came. With this she fell distract,\n\nAnd, her attendants absent, swallow’d fire."
+  },
+  {
+   "n": 79,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "And died so?"
+  },
+  {
+   "n": 80,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Even so."
+  },
+  {
+   "n": 81,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "O ye immortal gods!"
+  },
+  {
+   "n": 82,
+   "score": {
+    "key": "brutus",
+    "xfade": 6,
+    "at": "Enter Lucius, with wine and a taper."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Lucius, with wine and a taper."
+  },
+  {
+   "n": 83,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Speak no more of her. Give me a bowl of wine.\n\nIn this I bury all unkindness, Cassius."
+  },
+  {
+   "n": 84,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Drinks.*]"
+  },
+  {
+   "n": 85,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "My heart is thirsty for that noble pledge.\n\nFill, Lucius, till the wine o’erswell the cup.\n\nI cannot drink too much of Brutus’ love."
+  },
+  {
+   "n": 86,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Drinks.*]"
+  },
+  {
+   "n": 87,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Lucius.*]"
+  },
+  {
+   "n": 88,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Titinius and Messala."
+  },
+  {
+   "n": 89,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Come in, Titinius!\n\nWelcome, good Messala.\n\nNow sit we close about this taper here,\n\nAnd call in question our necessities."
+  },
+  {
+   "n": 90,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Portia, art thou gone?"
+  },
+  {
+   "n": 91,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "No more, I pray you.\n\nMessala, I have here received letters,\n\nThat young Octavius and Mark Antony\n\nCome down upon us with a mighty power,\n\nBending their expedition toward Philippi."
+  },
+  {
+   "n": 92,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Myself have letters of the selfsame tenor."
+  },
+  {
+   "n": 93,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "With what addition?"
+  },
+  {
+   "n": 94,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "That by proscription and bills of outlawry\n\nOctavius, Antony, and Lepidus\n\nHave put to death an hundred Senators."
+  },
+  {
+   "n": 95,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Therein our letters do not well agree.\n\nMine speak of seventy Senators that died\n\nBy their proscriptions, Cicero being one."
+  },
+  {
+   "n": 96,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Cicero one!"
+  },
+  {
+   "n": 97,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Cicero is dead,\n\nAnd by that order of proscription.\n\nHad you your letters from your wife, my lord?"
+  },
+  {
+   "n": 98,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "No, Messala."
+  },
+  {
+   "n": 99,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Nor nothing in your letters writ of her?"
+  },
+  {
+   "n": 100,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Nothing, Messala."
+  },
+  {
+   "n": 101,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "That, methinks, is strange."
+  },
+  {
+   "n": 102,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Why ask you? Hear you aught of her in yours?"
+  },
+  {
+   "n": 103,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "No, my lord."
+  },
+  {
+   "n": 104,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Now as you are a Roman, tell me true."
+  },
+  {
+   "n": 105,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Then like a Roman bear the truth I tell,\n\nFor certain she is dead, and by strange manner."
+  },
+  {
+   "n": 106,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Why, farewell, Portia. We must die, Messala.\n\nWith meditating that she must die once,\n\nI have the patience to endure it now."
+  },
+  {
+   "n": 107,
+   "role": "Messala",
+   "cast": "Livy",
+   "text": "Even so great men great losses should endure."
+  },
+  {
+   "n": 108,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I have as much of this in art as you,\n\nBut yet my nature could not bear it so."
+  },
+  {
+   "n": 109,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Well, to our work alive. What do you think\n\nOf marching to Philippi presently?"
+  },
+  {
+   "n": 110,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "I do not think it good."
+  },
+  {
+   "n": 111,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Your reason?"
+  },
+  {
+   "n": 112,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "This it is:\n\n’Tis better that the enemy seek us;\n\nSo shall he waste his means, weary his soldiers,\n\nDoing himself offence, whilst we, lying still,\n\nAre full of rest, defence, and nimbleness."
+  },
+  {
+   "n": 113,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Good reasons must of force give place to better.\n\nThe people ’twixt Philippi and this ground\n\nDo stand but in a forced affection;\n\nFor they have grudg’d us contribution.\n\nThe enemy, marching along by them,\n\nBy them shall make a fuller number up,\n\nCome on refresh’d, new-added, and encourag’d;\n\nFrom which advantage shall we cut him off\n\nIf at Philippi we do face him there,\n\nThese people at our back."
+  },
+  {
+   "n": 114,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Hear me, good brother."
+  },
+  {
+   "n": 115,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Under your pardon. You must note besides,\n\nThat we have tried the utmost of our friends,\n\nOur legions are brim-full, our cause is ripe.\n\nThe enemy increaseth every day;\n\nWe, at the height, are ready to decline.\n\nThere is a tide in the affairs of men,\n\nWhich, taken at the flood, leads on to fortune;\n\nOmitted, all the voyage of their life\n\nIs bound in shallows and in miseries.\n\nOn such a full sea are we now afloat,\n\nAnd we must take the current when it serves,\n\nOr lose our ventures."
+  },
+  {
+   "n": 116,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Then, with your will, go on:\n\nWe’ll along ourselves, and meet them at Philippi."
+  },
+  {
+   "n": 117,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "The deep of night is crept upon our talk,\n\nAnd nature must obey necessity,\n\nWhich we will niggard with a little rest.\n\nThere is no more to say?"
+  },
+  {
+   "n": 118,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "No more. Good night:\n\nEarly tomorrow will we rise, and hence."
+  },
+  {
+   "n": 119,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Lucius."
+  },
+  {
+   "n": 120,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Lucius! My gown."
+  },
+  {
+   "n": 121,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit Lucius.*]"
+  },
+  {
+   "n": 122,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Farewell now, good Messala.\n\nGood night, Titinius. Noble, noble Cassius,\n\nGood night, and good repose."
+  },
+  {
+   "n": 123,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "O my dear brother!\n\nThis was an ill beginning of the night.\n\nNever come such division ’tween our souls!\n\nLet it not, Brutus."
+  },
+  {
+   "n": 124,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Lucius with the gown."
+  },
+  {
+   "n": 125,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Everything is well."
+  },
+  {
+   "n": 126,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Good night, my lord."
+  },
+  {
+   "n": 127,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Good night, good brother.\n\nTITINIUS and MESSALA.\n\nGood night, Lord Brutus."
+  },
+  {
+   "n": 128,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Farewell, everyone."
+  },
+  {
+   "n": 129,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt Cassius, Titinius and Messala.*]"
+  },
+  {
+   "n": 130,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Give me the gown. Where is thy instrument?"
+  },
+  {
+   "n": 131,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "Here in the tent."
+  },
+  {
+   "n": 132,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "What, thou speak’st drowsily?\n\nPoor knave, I blame thee not, thou art o’er-watch’d.\n\nCall Claudius and some other of my men;\n\nI’ll have them sleep on cushions in my tent."
+  },
+  {
+   "n": 133,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "Varro and Claudius!"
+  },
+  {
+   "n": 134,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Varro and Claudius."
+  },
+  {
+   "n": 135,
+   "role": "Varro",
+   "cast": "Marcus Terentius Varro",
+   "text": "Calls my lord?"
+  },
+  {
+   "n": 136,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I pray you, sirs, lie in my tent and sleep;\n\nIt may be I shall raise you by-and-by\n\nOn business to my brother Cassius."
+  },
+  {
+   "n": 137,
+   "role": "Varro",
+   "cast": "Marcus Terentius Varro",
+   "text": "So please you, we will stand and watch your pleasure."
+  },
+  {
+   "n": 138,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I will not have it so; lie down, good sirs,\n\nIt may be I shall otherwise bethink me.\n\nLook, Lucius, here’s the book I sought for so;\n\nI put it in the pocket of my gown."
+  },
+  {
+   "n": 139,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Servants lie down.*]"
+  },
+  {
+   "n": 140,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "I was sure your lordship did not give it me."
+  },
+  {
+   "n": 141,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Bear with me, good boy, I am much forgetful.\n\nCanst thou hold up thy heavy eyes awhile,\n\nAnd touch thy instrument a strain or two?"
+  },
+  {
+   "n": 142,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "Ay, my lord, an’t please you."
+  },
+  {
+   "n": 143,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "It does, my boy.\n\nI trouble thee too much, but thou art willing."
+  },
+  {
+   "n": 144,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "It is my duty, sir."
+  },
+  {
+   "n": 145,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "I should not urge thy duty past thy might;\n\nI know young bloods look for a time of rest."
+  },
+  {
+   "n": 146,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "I have slept, my lord, already."
+  },
+  {
+   "n": 147,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "It was well done, and thou shalt sleep again;\n\nI will not hold thee long. If I do live,\n\nI will be good to thee."
+  },
+  {
+   "n": 148,
+   "score": {
+    "key": null,
+    "xfade": 4,
+    "at": "plays and sings"
+   },
+   "sfx": [
+    {
+     "key": "lute",
+     "at": "plays and sings"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Lucius plays and sings till he falls\nasleep.*]"
+  },
+  {
+   "n": 149,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "This is a sleepy tune. O murd’rous slumber,\n\nLayest thou thy leaden mace upon my boy,\n\nThat plays thee music? Gentle knave, good night;\n\nI will not do thee so much wrong to wake thee.\n\nIf thou dost nod, thou break’st thy instrument;\n\nI’ll take it from thee; and, good boy, good night.\n\nLet me see, let me see; is not the leaf turn’d down\n\nWhere I left reading? Here it is, I think."
+  },
+  {
+   "n": 150,
+   "score": {
+    "key": "ghost",
+    "xfade": 3,
+    "at": "Enter the Ghost of Caesar."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter the Ghost of Caesar."
+  },
+  {
+   "n": 151,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "How ill this taper burns! Ha! who comes here?\n\nI think it is the weakness of mine eyes\n\nThat shapes this monstrous apparition.\n\nIt comes upon me. Art thou anything?\n\nArt thou some god, some angel, or some devil,\n\nThat mak’st my blood cold and my hair to stare?\n\nSpeak to me what thou art."
+  },
+  {
+   "n": 152,
+   "role": "Ghost of Caesar",
+   "cast": "Julius Caesar",
+   "text": "Thy evil spirit, Brutus."
+  },
+  {
+   "n": 153,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Why com’st thou?"
+  },
+  {
+   "n": 154,
+   "role": "Ghost of Caesar",
+   "cast": "Julius Caesar",
+   "text": "To tell thee thou shalt see me at Philippi."
+  },
+  {
+   "n": 155,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Well; then I shall see thee again?"
+  },
+  {
+   "n": 156,
+   "role": "Ghost of Caesar",
+   "cast": "Julius Caesar",
+   "text": "Ay, at Philippi."
+  },
+  {
+   "n": 157,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Why, I will see thee at Philippi then."
+  },
+  {
+   "n": 158,
+   "score": {
+    "key": null,
+    "xfade": 5,
+    "at": "Ghost vanishes."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Ghost vanishes.*]"
+  },
+  {
+   "n": 159,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Now I have taken heart, thou vanishest.\n\nIll spirit, I would hold more talk with thee.\n\nBoy! Lucius! Varro! Claudius! Sirs, awake! Claudius!"
+  },
+  {
+   "n": 160,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "The strings, my lord, are false."
+  },
+  {
+   "n": 161,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "He thinks he still is at his instrument.\n\nLucius, awake!"
+  },
+  {
+   "n": 162,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "My lord?"
+  },
+  {
+   "n": 163,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Didst thou dream, Lucius, that thou so criedst out?"
+  },
+  {
+   "n": 164,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "My lord, I do not know that I did cry."
+  },
+  {
+   "n": 165,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Yes, that thou didst. Didst thou see anything?"
+  },
+  {
+   "n": 166,
+   "role": "Lucius",
+   "cast": "Virgil",
+   "text": "Nothing, my lord."
+  },
+  {
+   "n": 167,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Sleep again, Lucius. Sirrah Claudius!\n\nFellow thou, awake!"
+  },
+  {
+   "n": 168,
+   "role": "Varro",
+   "cast": "Marcus Terentius Varro",
+   "text": "My lord?"
+  },
+  {
+   "n": 169,
+   "role": "Claudius",
+   "cast": "Tiberius",
+   "text": "My lord?"
+  },
+  {
+   "n": 170,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Why did you so cry out, sirs, in your sleep?"
+  },
+  {
+   "n": 171,
+   "role": "Varro",
+   "cast": "Marcus Terentius Varro",
+   "text": "Did we, my lord?"
+  },
+  {
+   "n": 172,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Ay. Saw you anything?"
+  },
+  {
+   "n": 173,
+   "role": "Varro",
+   "cast": "Marcus Terentius Varro",
+   "text": "No, my lord, I saw nothing."
+  },
+  {
+   "n": 174,
+   "role": "Claudius",
+   "cast": "Tiberius",
+   "text": "Nor I, my lord."
+  },
+  {
+   "n": 175,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Go and commend me to my brother Cassius;\n\nBid him set on his powers betimes before,\n\nAnd we will follow."
+  },
+  {
+   "n": 176,
+   "role": "Varro",
+   "cast": "Marcus Terentius Varro",
+   "text": "It shall be done, my lord."
+  },
+  {
+   "n": 177,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

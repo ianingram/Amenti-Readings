@@ -1,0 +1,186 @@
+{
+ "work": "julius-caesar",
+ "episode": 17,
+ "chapter": 17,
+ "title": "Act V, Scene IV — Another part of the field",
+ "document": "ACT V · SCENE IV",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "Young Cato",
+   "cast_as": "Cato the Younger"
+  },
+  {
+   "role": "Lucilius",
+   "cast_as": "Suetonius"
+  },
+  {
+   "role": "First Soldier",
+   "cast_as": "Horatius Cocles"
+  },
+  {
+   "role": "Second Soldier",
+   "cast_as": "Remus"
+  },
+  {
+   "role": "Mark Antony",
+   "cast_as": "Mark Antony"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE IV. Another part of the field."
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "philippi",
+    "xfade": 3,
+    "at": "Alarum. Enter fighting soldiers"
+   },
+   "sfx": [
+    {
+     "key": "alarum",
+     "at": "Alarum. Enter fighting soldiers"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Alarum. Enter fighting soldiers of both armies; then Brutus, Messala, young Cato, Lucilius, Flavius and\nothers."
+  },
+  {
+   "n": 3,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Yet, countrymen, O, yet hold up your heads!"
+  },
+  {
+   "n": 4,
+   "role": "Young Cato",
+   "cast": "Cato the Younger",
+   "text": "What bastard doth not? Who will go with me?\n\nI will proclaim my name about the field.\n\nI am the son of Marcus Cato, ho!\n\nA foe to tyrants, and my country’s friend.\n\nI am the son of Marcus Cato, ho!"
+  },
+  {
+   "n": 5,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Charges the enemy.*]"
+  },
+  {
+   "n": 6,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "And I am Brutus, Marcus Brutus, I;\n\nBrutus, my country’s friend; know me for Brutus!"
+  },
+  {
+   "n": 7,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exit, charging the enemy. Cato is\noverpowered, and falls.*]"
+  },
+  {
+   "n": 8,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "O young and noble Cato, art thou down?\n\nWhy, now thou diest as bravely as Titinius,\n\nAnd mayst be honour’d, being Cato’s son."
+  },
+  {
+   "n": 9,
+   "role": "First Soldier",
+   "cast": "Horatius Cocles",
+   "text": "Yield, or thou diest."
+  },
+  {
+   "n": 10,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "Only I yield to die:\n\nThere is so much that thou wilt kill me straight;"
+  },
+  {
+   "n": 11,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Offering money*]"
+  },
+  {
+   "n": 12,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "Kill Brutus, and be honour’d in his death."
+  },
+  {
+   "n": 13,
+   "role": "First Soldier",
+   "cast": "Horatius Cocles",
+   "text": "We must not. A noble prisoner!"
+  },
+  {
+   "n": 14,
+   "role": "Second Soldier",
+   "cast": "Remus",
+   "text": "Room, ho! Tell Antony, Brutus is ta’en."
+  },
+  {
+   "n": 15,
+   "role": "First Soldier",
+   "cast": "Horatius Cocles",
+   "text": "I’ll tell the news. Here comes the General."
+  },
+  {
+   "n": 16,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Antony."
+  },
+  {
+   "n": 17,
+   "role": "First Soldier",
+   "cast": "Horatius Cocles",
+   "text": "Brutus is ta’en, Brutus is ta’en, my lord."
+  },
+  {
+   "n": 18,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "Where is he?"
+  },
+  {
+   "n": 19,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "Safe, Antony; Brutus is safe enough.\n\nI dare assure thee that no enemy\n\nShall ever take alive the noble Brutus.\n\nThe gods defend him from so great a shame!\n\nWhen you do find him, or alive or dead,\n\nHe will be found like Brutus, like himself."
+  },
+  {
+   "n": 20,
+   "role": "Mark Antony",
+   "cast": "Mark Antony",
+   "text": "This is not Brutus, friend; but, I assure you,\n\nA prize no less in worth. Keep this man safe,\n\nGive him all kindness. I had rather have\n\nSuch men my friends than enemies. Go on,\n\nAnd see whether Brutus be alive or dead;\n\nAnd bring us word unto Octavius’ tent\n\nHow everything is chanc’d."
+  },
+  {
+   "n": 21,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

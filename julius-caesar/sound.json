@@ -1,6 +1,6 @@
 {
  "_file": "Amenti-Readings/julius-caesar/sound.json",
- "_updated": "2026-10-10 00:10 UTC",
+ "_updated": "2026-10-10 01:00 UTC",
  "work": "julius-caesar",
  "note": "Rome: the street and the Forum crowd; the night of portents, wind and rain and thunder; Brutus’s orchard under the crickets; Caesar’s palace at night; the senators murmuring under the Capitol’s portico. Trumpets for every flourish and sennet, a tower bell striking three, the assassination in blows, and the Forum’s great bell in G for Caesar’s death. The score is six sound worlds: CAESAR (C minor, the Colossus), CONSPIRACY (D minor, the storm night), BRUTUS (E minor, the quiet heart), FORUM (G minor, the crowd turned), GHOST (no pulse) and PHILIPPI (A minor, the battle).",
  "files": {
@@ -12,7 +12,9 @@
    "orchard_night": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/garden-night.mp3",
    "storm_night": "storm-night.mp3",
    "senate": "senate.mp3",
-   "holiday_street": "holiday-street.mp3"
+   "holiday_street": "holiday-street.mp3",
+   "camp_night": "camp-night.mp3",
+   "philippi": "philippi.mp3"
   },
   "oneshots": {
    "thunder": "https://ianingram.github.io/Amenti-Readings/dracula/sound/thunder.mp3",
@@ -27,7 +29,12 @@
    "mob": "mob.mp3",
    "tribunes_ride": "tribunes-ride.mp3",
    "crowd_giggle": "crowd-giggle.mp3",
-   "stalls_overturned": "stalls-overturned.mp3"
+   "stalls_overturned": "stalls-overturned.mp3",
+   "drum": "drum-march.mp3",
+   "drum_low": "drum-low.mp3",
+   "alarum": "alarum.mp3",
+   "alarum_low": "alarum-low.mp3",
+   "lute": "lute.mp3"
   },
   "score": {
    "caesar": "score-caesar.mp3",
@@ -63,7 +70,9 @@
     "1": 1.0,
     "2": 0.04
    }
-  }
+  },
+  "camp_night": {},
+  "philippi": {}
  },
  "chapters": [
   {
@@ -123,6 +132,54 @@
   {
    "n": 10,
    "bed": "rome_night",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 11,
+   "bed": "palace_night",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 12,
+   "bed": "camp_night",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 13,
+   "bed": "camp_night",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 14,
+   "bed": "philippi",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 15,
+   "bed": "philippi",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 16,
+   "bed": "philippi",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 17,
+   "bed": "philippi",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 18,
+   "bed": "philippi",
    "state": 1,
    "score": null
   }

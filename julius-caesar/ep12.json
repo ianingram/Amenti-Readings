@@ -1,0 +1,250 @@
+{
+ "work": "julius-caesar",
+ "episode": 12,
+ "chapter": 12,
+ "title": "Act IV, Scene II — Before Brutus’ tent, in the camp near Sardis",
+ "document": "ACT IV · SCENE II",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  },
+  {
+   "role": "Lucilius",
+   "cast_as": "Suetonius"
+  },
+  {
+   "role": "Pindarus",
+   "cast_as": "Terence"
+  },
+  {
+   "role": "Cassius",
+   "cast_as": "Gaius Cassius Longinus"
+  },
+  {
+   "role": "First Soldier",
+   "cast_as": "Horatius Cocles"
+  },
+  {
+   "role": "Second Soldier",
+   "cast_as": "Remus"
+  },
+  {
+   "role": "Third Soldier",
+   "cast_as": "Spartacus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE II. Before Brutus’ tent, in the camp\nnear Sardis."
+  },
+  {
+   "n": 2,
+   "sfx": [
+    {
+     "key": "drum",
+     "at": "Drum. Enter Brutus"
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Drum. Enter Brutus, Lucilius, Titinius and Soldiers; Pindarus meeting them; Lucius at some distance."
+  },
+  {
+   "n": 3,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Stand, ho!"
+  },
+  {
+   "n": 4,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "Give the word, ho! and stand."
+  },
+  {
+   "n": 5,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "What now, Lucilius! is Cassius near?"
+  },
+  {
+   "n": 6,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "He is at hand, and Pindarus is come\n\nTo do you salutation from his master."
+  },
+  {
+   "n": 7,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Pindarus gives a letter to Brutus.*]"
+  },
+  {
+   "n": 8,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "He greets me well. Your master, Pindarus,\n\nIn his own change, or by ill officers,\n\nHath given me some worthy cause to wish\n\nThings done, undone: but, if he be at hand,\n\nI shall be satisfied."
+  },
+  {
+   "n": 9,
+   "role": "Pindarus",
+   "cast": "Terence",
+   "text": "I do not doubt\n\nBut that my noble master will appear\n\nSuch as he is, full of regard and honour."
+  },
+  {
+   "n": 10,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "He is not doubted. A word, Lucilius;\n\nHow he received you, let me be resolv’d."
+  },
+  {
+   "n": 11,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "With courtesy and with respect enough,\n\nBut not with such familiar instances,\n\nNor with such free and friendly conference,\n\nAs he hath us’d of old."
+  },
+  {
+   "n": 12,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Thou hast describ’d\n\nA hot friend cooling. Ever note, Lucilius,\n\nWhen love begins to sicken and decay\n\nIt useth an enforced ceremony.\n\nThere are no tricks in plain and simple faith;\n\nBut hollow men, like horses hot at hand,\n\nMake gallant show and promise of their mettle;"
+  },
+  {
+   "n": 13,
+   "sfx": [
+    {
+     "key": "drum_low",
+     "at": "Low march within."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Low march within.*]"
+  },
+  {
+   "n": 14,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "But when they should endure the bloody spur,\n\nThey fall their crests, and like deceitful jades\n\nSink in the trial. Comes his army on?"
+  },
+  {
+   "n": 15,
+   "role": "Lucilius",
+   "cast": "Suetonius",
+   "text": "They meant this night in Sardis to be quarter’d;\n\nThe greater part, the horse in general,\n\nAre come with Cassius."
+  },
+  {
+   "n": 16,
+   "score": {
+    "key": "conspiracy",
+    "xfade": 5,
+    "at": "Enter Cassius and Soldiers."
+   },
+   "sfx": [
+    {
+     "key": "drum",
+     "at": "Enter Cassius and Soldiers."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Enter Cassius and Soldiers."
+  },
+  {
+   "n": 17,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Hark! he is arriv’d.\n\nMarch gently on to meet him."
+  },
+  {
+   "n": 18,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Stand, ho!"
+  },
+  {
+   "n": 19,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Stand, ho! Speak the word along."
+  },
+  {
+   "n": 20,
+   "role": "First Soldier",
+   "cast": "Horatius Cocles",
+   "text": "Stand!"
+  },
+  {
+   "n": 21,
+   "role": "Second Soldier",
+   "cast": "Remus",
+   "text": "Stand!"
+  },
+  {
+   "n": 22,
+   "role": "Third Soldier",
+   "cast": "Spartacus",
+   "text": "Stand!"
+  },
+  {
+   "n": 23,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Most noble brother, you have done me wrong."
+  },
+  {
+   "n": 24,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Judge me, you gods; wrong I mine enemies?\n\nAnd if not so, how should I wrong a brother?"
+  },
+  {
+   "n": 25,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Brutus, this sober form of yours hides wrongs;\n\nAnd when you do them—"
+  },
+  {
+   "n": 26,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Cassius, be content.\n\nSpeak your griefs softly, I do know you well.\n\nBefore the eyes of both our armies here,\n\nWhich should perceive nothing but love from us,\n\nLet us not wrangle. Bid them move away;\n\nThen in my tent, Cassius, enlarge your griefs,\n\nAnd I will give you audience."
+  },
+  {
+   "n": 27,
+   "role": "Cassius",
+   "cast": "Gaius Cassius Longinus",
+   "text": "Pindarus,\n\nBid our commanders lead their charges off\n\nA little from this ground."
+  },
+  {
+   "n": 28,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Lucilius, do you the like; and let no man\n\nCome to our tent till we have done our conference.\n\nLucius and Titinius, guard our door."
+  },
+  {
+   "n": 29,
+   "score": {
+    "key": null,
+    "xfade": 6,
+    "at": "Exeunt."
+   },
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

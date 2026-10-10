@@ -1,0 +1,77 @@
+{
+ "work": "julius-caesar",
+ "episode": 15,
+ "chapter": 15,
+ "title": "Act V, Scene II — The same. The field of battle",
+ "document": "ACT V · SCENE II",
+ "source": {
+  "library": "library/shakespeare-william/17-julius-caesar.md",
+  "text": "William Shakespeare, The Tragedy of Julius Caesar · Project Gutenberg · public domain"
+ },
+ "note": "Scene complete. One cue per speech in its speaker’s voice; every heading and stage direction is a cue for Shakespeare. Every cue is byte-identical to the library file. The Romans play themselves.",
+ "cast": [
+  {
+   "role": "Stage directions",
+   "cast_as": "William Shakespeare"
+  },
+  {
+   "role": "Marcus Brutus",
+   "cast_as": "Marcus Junius Brutus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "SCENE II. The same. The field of\nbattle."
+  },
+  {
+   "n": 2,
+   "score": {
+    "key": "philippi",
+    "xfade": 3,
+    "at": "Alarum. Enter Brutus and Messala."
+   },
+   "sfx": [
+    {
+     "key": "alarum",
+     "at": "Alarum. Enter Brutus and Messala."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "Alarum. Enter Brutus and Messala."
+  },
+  {
+   "n": 3,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Ride, ride, Messala, ride, and give these bills\n\nUnto the legions on the other side."
+  },
+  {
+   "n": 4,
+   "sfx": [
+    {
+     "key": "alarum",
+     "at": "Loud alarum."
+    }
+   ],
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Loud alarum.*]"
+  },
+  {
+   "n": 5,
+   "role": "Marcus Brutus",
+   "cast": "Marcus Junius Brutus",
+   "text": "Let them set on at once; for I perceive\n\nBut cold demeanor in Octavius’ wing,\n\nAnd sudden push gives them the overthrow.\n\nRide, ride, Messala; let them all come down."
+  },
+  {
+   "n": 6,
+   "role": "Stage directions",
+   "cast": "William Shakespeare",
+   "text": "[*Exeunt.*]"
+  }
+ ]
+}

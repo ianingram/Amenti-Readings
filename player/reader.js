@@ -60,6 +60,16 @@
    chunker, no style, no fetch to /speak — the file was made beforehand from
    the engine's own renders. warmAhead skips it (nothing to warm). If the file
    will not play, the cue is spoken by the engine instead, so nothing is lost.
+
+   ── A RECORDED SCENE (11 Oct 2026) ─────────────────────────────────────────
+   A recorded cue may also carry  "through": <n>  and  "marks": [[n, sec], …]
+   — one finished file for the whole scene, from this cue through cue n (the
+   Romeo and Juliet scenes, mixed with their sound and score). The reader
+   plays the one file, moves the current line along the marks so the script
+   follows the voices, never warms or speaks the covered cues, and carries on
+   after cue n when the file ends. Pause, resume and seek land at the right
+   place in the file. If the file will not play, the scene is spoken line by
+   line by the engine as before.
    =========================================================================== */
 (function () {
   'use strict';
@@ -260,7 +270,7 @@
       }
       for (var j = 1; j <= R.WARM_AHEAD; j++) {
         var k = R.i + j, c = cues[k];
-        if (!c || R._warmed[k] || c.audio) continue;     /* a recorded cue has nothing to warm */
+        if (!c || R._warmed[k] || c.audio || R._sceneFor(k)) continue;     /* a recorded cue or scene has nothing to warm */
         R._warmed[k] = true;
         try { eng.warm(R.spoken(c), R.nameFor(c), R.direction(c)); } catch (e) {}
       }
@@ -286,6 +296,8 @@
          deterministic and the cache key contains the text, so touching it
          here orphans every measure this cue has ever rendered. */
       var at = R.i;
+      var scene = R._sceneFor(at);
+      if (scene) { R._playScene(scene, at); R._warmAhead(); return; }
       if (cue.audio && !cue._audioFailed) { R._playRecorded(cue, at); R._warmAhead(); return; }
       R.engine().speak(R.spoken(cue), null, name, function () {
         if (R.i !== at) return;
@@ -332,6 +344,65 @@
       var p = a.play();
       if (p && typeof p['catch'] === 'function') p['catch'](function () { if (a.onerror) a.onerror(); });
     },
+    /* the recorded scene that covers cue index i, if any: { head, cue } */
+    _sceneFor: function (i) {
+      var cs = R.sheet && R.sheet.cues;
+      if (!cs || !cs[i]) return null;
+      for (var j = i; j >= 0; j--) {
+        var c = cs[j];
+        if (c.audio && c.through) {
+          if (c._audioFailed || cs[i].n > c.through) return null;
+          return { head: j, cue: c };
+        }
+      }
+      return null;
+    },
+
+    /* play a recorded scene from the cue at index `at`; the line follows the marks */
+    _playScene: function (scene, at) {
+      R._stopRecorded();
+      var cs = R.sheet.cues, c = scene.cue, marks = c.marks || [];
+      var idxOf = function (n) { for (var k = scene.head; k < cs.length; k++) if (cs[k].n === n) return k; return -1; };
+      var start = 0;
+      for (var m = 0; m < marks.length; m++) if (marks[m][0] === cs[at].n) { start = marks[m][1]; break; }
+      var a = new Audio(c.audio);
+      a.preload = 'auto';
+      R._audio = a;
+      a.ontimeupdate = function () {
+        if (R._audio !== a || R.state !== 'reading') return;
+        var t = a.currentTime + 0.05, n = null;
+        for (var m = 0; m < marks.length; m++) if (marks[m][1] <= t) n = marks[m][0];
+        if (n == null) return;
+        var k = idxOf(n);
+        if (k > R.i) {
+          R.i = k; R.cue = cs[k];
+          if (typeof R.onCue === 'function') { try { R.onCue(cs[k], k, cs.length); } catch (e) {} }
+        }
+      };
+      a.onended = function () {
+        if (R._audio !== a) return;
+        R._audio = null;
+        if (R.state !== 'reading') return;
+        var last = idxOf(c.through);
+        R.i = (last < 0 ? R.i : last) + 1; R._tries = 0;
+        R._next();
+      };
+      a.onerror = function () {
+        if (R._audio !== a) return;
+        R._audio = null;
+        console.warn('Readings: the recorded scene would not play — speaking it line by line instead.');
+        c._audioFailed = true;
+        if (R.state === 'reading') R._next();
+      };
+      /* play at once — still inside the click, so Safari allows it — and move to the line's place when the file can seek */
+      if (start) {
+        var place = function () { if (R._audio === a) { try { a.currentTime = start; } catch (e) {} } };
+        if (a.readyState >= 1) place(); else a.addEventListener('loadedmetadata', place, { once: true });
+      }
+      var p = a.play();
+      if (p && typeof p['catch'] === 'function') p['catch'](function () { if (a.onerror) a.onerror(); });
+    },
+
     _stopRecorded: function () {
       var a = R._audio; R._audio = null;
       if (a) { try { a.onended = a.onerror = null; a.pause(); } catch (e) {} }

@@ -33,3 +33,26 @@ ringing in the play's key — D, F, A and C.
 | `fight-mercutio.mp3` | III.1: Mercutio and Tybalt — quick parries, a long bind, the thrust |
 | `fight-romeo-tybalt.mp3` | III.1: Romeo's fury, broad blow on broad blow |
 | `fight-paris.mp3` | V.3: Paris and Romeo, the vault ringing |
+
+## The recorded scenes — `scene-ep01-v1.mp3` … `scene-ep11-v1.mp3` (11 Oct 2026)
+
+Each file is a whole scene (Prologue and Act I, Act II), mixed in the studio sessions with Ian:
+voices, rooms, sound and score in one file. The cue sheets carry `"audio"`, `"through"` and
+`"marks"` on their first cue; the player plays the file and follows the lines.
+
+**Voices.** The cast's Gemini voices (Vertex `gemini-2.5-pro-tts` through the Amenti Worker),
+rendered as test renders; 1.1 in the original style, the rest in the conversational style.
+
+**Recordings.**
+- BigSoundBank (CC0, site-wide licence): 0039 0095 0103 0110 0112 0128 0129 0137 0148 0222 0362
+  0480 0496 0498 0516 0606 0610 0611 0666 0682 0740 0771 0785 0868 0916 0999 1022 1023 1060
+  1103 1189 1192 1193 1204 1205 1299 1300 1318 1319 1331 1420 1470 1543 1643 1650 1660 1704
+  1764 1806 1807 1808 1841 1842 2195 2452 2453 2454 2580 2728 2857 2953 2954 2955 2969 3087
+  3113 3115 3515 3537 3542 3588 3590 — `https://bigsoundbank.com/UPLOAD/mp3/NNNN.mp3`
+- Freesound, courter, "Sword Clashes (Assorted)" — CC0 (downloaded by Ian).
+- Freesound horse recordings and the Bruges cart used in Dracula (see `dracula/sound/SOURCES.md`).
+- VSCO 2 Community Edition (CC0): low strings, marching snare, bass drum, horns, trumpets,
+  trombone, and the balcony's horns and strings.
+
+**Synthesis (our own).** The steel ring and blade-on-blade scrapes, the swishes, the sword
+draws, the cannon and the shells' hiss, the heartbeat; the dance in D.

@@ -1,197 +1,208 @@
 {
-  "_file": "Amenti-Readings/romeo-and-juliet/sound.json",
-  "_updated": "2026-10-05 17:00 UTC",
-  "work": "romeo-and-juliet",
-  "note": "Verona: the fountain in the piazza by day; the Capulets’ feast on lute, recorder and tabor; the garden at night with crickets and the nightingale; the dawn the lovers would deny; the friar’s stone cell; Juliet’s still chamber; the vault. The lovers’ theme on solo violin over a harp; the church organ for the wedding and the dirges; the passing bell for every death. THE SWORDS ARE INSTRUMENTS: every blade is a tuned steel bar ringing in D (D, F, A, C), struck broad, parried tip to tip, wrung edge along edge, and every swing whistles through the air on a note of the key — and each fight is choreographed in time.",
-  "files": {
-    "base": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/",
-    "beds": {
-      "verona": "verona.mp3",
-      "feast": "feast.mp3",
-      "garden_night": "garden-night.mp3",
-      "dawn": "dawn.mp3",
-      "cell": "cell.mp3",
-      "chamber": "chamber.mp3",
-      "tomb": "tomb.mp3"
-    },
-    "oneshots": {
-      "sword_clash": "sword-clash.mp3",
-      "passing_bell": "passing-bell.mp3",
-      "knock": "knock.mp3",
-      "sword_parry": "sword-parry.mp3",
-      "sword_wring": "sword-wring.mp3",
-      "sword_beat": "sword-beat.mp3",
-      "fight_brawl": "fight-brawl.mp3",
-      "fight_brawl_2": "fight-brawl-2.mp3",
-      "fight_mercutio": "fight-mercutio.mp3",
-      "fight_romeo_tybalt": "fight-romeo-tybalt.mp3",
-      "fight_paris": "fight-paris.mp3",
-      "sword_swish": "sword-swish.mp3"
-    },
-    "score": {
-      "lovers": "score-lovers.mp3",
-      "organ": "score-organ.mp3",
-      "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3"
-    },
-    "levels": {
-      "lovers": 0.45,
-      "organ": 0.4,
-      "dread": 0.26
-    }
-  },
+ "_file": "Amenti-Readings/romeo-and-juliet/sound.json",
+ "_updated": "2026-10-12 02:30 UTC",
+ "work": "romeo-and-juliet",
+ "note": "Verona: the fountain in the piazza by day; the Capulets’ feast on lute, recorder and tabor; the garden at night with crickets and the nightingale; the dawn the lovers would deny; the friar’s stone cell; Juliet’s still chamber; the vault. The lovers’ theme on solo violin over a harp; the church organ for the wedding and the dirges; the passing bell for every death. THE SWORDS ARE INSTRUMENTS: every blade is a tuned steel bar ringing in D (D, F, A, C), struck broad, parried tip to tip, wrung edge along edge, and every swing whistles through the air on a note of the key — and each fight is choreographed in time.",
+ "files": {
+  "base": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/",
   "beds": {
-    "verona": {},
-    "feast": {},
-    "garden_night": {},
-    "dawn": {},
-    "cell": {},
-    "chamber": {},
-    "tomb": {}
+   "verona": "verona.mp3",
+   "feast": "feast.mp3",
+   "garden_night": "garden-night.mp3",
+   "dawn": "dawn.mp3",
+   "cell": "cell.mp3",
+   "chamber": "chamber.mp3",
+   "tomb": "tomb.mp3"
   },
-  "chapters": [
-    {
-      "n": 1,
-      "bed": "verona",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 2,
-      "bed": "verona",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 3,
-      "bed": "chamber",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 4,
-      "bed": "garden_night",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 5,
-      "bed": "feast",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 6,
-      "bed": "garden_night",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 7,
-      "bed": "garden_night",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 8,
-      "bed": "cell",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 9,
-      "bed": "verona",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 10,
-      "bed": "verona",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 11,
-      "bed": "cell",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 12,
-      "bed": "verona",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 13,
-      "bed": "chamber",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 14,
-      "bed": "cell",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 15,
-      "bed": "chamber",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 16,
-      "bed": "dawn",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 17,
-      "bed": "cell",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 18,
-      "bed": "chamber",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 19,
-      "bed": "chamber",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 20,
-      "bed": "chamber",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 21,
-      "bed": "chamber",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 22,
-      "bed": "verona",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 23,
-      "bed": "cell",
-      "state": 1,
-      "score": null
-    },
-    {
-      "n": 24,
-      "bed": "tomb",
-      "state": 1,
-      "score": null
-    }
-  ]
+  "oneshots": {
+   "sword_clash": "sword-clash.mp3",
+   "passing_bell": "passing-bell.mp3",
+   "knock": "knock.mp3",
+   "sword_parry": "sword-parry.mp3",
+   "sword_wring": "sword-wring.mp3",
+   "sword_beat": "sword-beat.mp3",
+   "fight_brawl": "fight-brawl.mp3",
+   "fight_brawl_2": "fight-brawl-2.mp3",
+   "fight_mercutio": "fight-mercutio.mp3",
+   "fight_romeo_tybalt": "fight-romeo-tybalt.mp3",
+   "fight_paris": "fight-paris.mp3",
+   "sword_swish": "sword-swish.mp3"
+  },
+  "score": {
+   "lovers": "score-lovers.mp3",
+   "organ": "score-organ.mp3",
+   "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3"
+  },
+  "levels": {
+   "lovers": 0.45,
+   "organ": 0.4,
+   "dread": 0.26
+  }
+ },
+ "beds": {
+  "verona": {},
+  "feast": {},
+  "garden_night": {},
+  "dawn": {},
+  "cell": {},
+  "chamber": {},
+  "tomb": {}
+ },
+ "chapters": [
+  {
+   "n": 1,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep01-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 2,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep02-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 3,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep03-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 4,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep04-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 5,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep05-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 6,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep06-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 7,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep07-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 8,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep08-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 9,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep09-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 10,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep10-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 11,
+   "bed": null,
+   "state": 0,
+   "score": null,
+   "recorded": "scene-ep11-v1.mp3 — the whole scene, mixed with its own sound and score"
+  },
+  {
+   "n": 12,
+   "bed": "verona",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 13,
+   "bed": "chamber",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 14,
+   "bed": "cell",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 15,
+   "bed": "chamber",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 16,
+   "bed": "dawn",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 17,
+   "bed": "cell",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 18,
+   "bed": "chamber",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 19,
+   "bed": "chamber",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 20,
+   "bed": "chamber",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 21,
+   "bed": "chamber",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 22,
+   "bed": "verona",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 23,
+   "bed": "cell",
+   "state": 1,
+   "score": null
+  },
+  {
+   "n": 24,
+   "bed": "tomb",
+   "state": 1,
+   "score": null
+  }
+ ]
 }

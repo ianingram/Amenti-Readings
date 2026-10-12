@@ -75,14 +75,27 @@
    "para": 2,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Marley was dead: to begin with. There is no\ndoubt whatever about that. The register of his burial was signed by the\nclergyman, the clerk, the undertaker, and the chief mourner. Scrooge\nsigned it: and Scrooge’s name was good upon ’Change, for\nanything he chose to put his hand to. Old Marley was as dead as a\ndoor-nail."
+   "text": "Marley was dead: to begin with. There is no\ndoubt whatever about that. The register of his burial was signed by the\nclergyman, the clerk, the undertaker, and the chief mourner. Scrooge\nsigned it: and Scrooge’s name was good upon ’Change, for\nanything he chose to put his hand to. Old Marley was as dead as a\ndoor-nail.",
+   "sfx": [
+    "funeral_toll",
+    {
+     "key": "coffin_nails",
+     "at": "as dead as a door-nail"
+    }
+   ]
   },
   {
    "n": 4,
    "para": 3,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Mind! I don’t mean to say that I know, of my own knowledge, what\nthere is particularly dead about a door-nail. I might have been\ninclined, myself, to regard a coffin-nail as the deadest piece of\nironmongery in the trade. But the wisdom of our ancestors is in the\nsimile; and my unhallowed hands shall not disturb it, or the Country’s\ndone for. You will therefore permit me to repeat, emphatically, that\nMarley was as dead as a door-nail."
+   "text": "Mind! I don’t mean to say that I know, of my own knowledge, what\nthere is particularly dead about a door-nail. I might have been\ninclined, myself, to regard a coffin-nail as the deadest piece of\nironmongery in the trade. But the wisdom of our ancestors is in the\nsimile; and my unhallowed hands shall not disturb it, or the Country’s\ndone for. You will therefore permit me to repeat, emphatically, that\nMarley was as dead as a door-nail.",
+   "sfx": [
+    {
+     "key": "coffin_nail_short",
+     "at": "a coffin-nail"
+    }
+   ]
   },
   {
    "n": 5,

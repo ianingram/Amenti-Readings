@@ -1,6 +1,6 @@
 {
  "_file": "Amenti-Readings/a-christmas-carol/sound.json",
- "_updated": "2026-10-12 05:00 UTC",
+ "_updated": "2026-10-12 05:20 UTC",
  "work": "a-christmas-carol",
  "note": "The sound of the Carol. Fog and frost in the City, the hearths of the Cratchits and of Fred, the wind among the graves. The score: the carol itself (God Rest Ye Merry, Gentlemen, traditional), a music box for the Ghost of Christmas Past, the warm pastoral for the Ghost of Christmas Present, the dread for Marley and for the last Spirit, Fezziwig’s fiddler, and the carol again, with bells, for Christmas morning. Shared sounds are borrowed from Dracula by URL rather than copied.",
  "files": {
@@ -10,35 +10,38 @@
    "london": "https://ianingram.github.io/Amenti-Readings/dracula/sound/london.mp3",
    "hearth": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3",
    "wind": "https://ianingram.github.io/Amenti-Readings/dracula/sound/wind.mp3",
-   "counting_house": "bed-counting-house.mp3",
-   "street_fog": "bed-street-fog.mp3",
-   "tavern": "bed-tavern.mp3",
-   "yard": "bed-yard.mp3",
-   "chambers": "bed-chambers.mp3"
+   "counting_house": "bed-counting-house-v2.mp3",
+   "street_fog": "bed-street-fog-v2.mp3",
+   "tavern": "bed-tavern-v2.mp3",
+   "yard": "bed-yard-v2.mp3",
+   "chambers": "bed-chambers-v2.mp3"
   },
   "oneshots": {
-   "keyhole_carol": "keyhole-carol.mp3",
-   "house_bells": "house-bells.mp3",
-   "chime": "chime.mp3",
-   "toll": "toll.mp3",
-   "chains": "https://ianingram.github.io/Amenti-Readings/dracula/sound/chains.mp3",
-   "door_heavy": "https://ianingram.github.io/Amenti-Readings/dracula/sound/door_heavy.mp3",
-   "steps_stone": "https://ianingram.github.io/Amenti-Readings/dracula/sound/steps_stone.mp3",
-   "church_bells": "https://ianingram.github.io/Amenti-Readings/dracula/sound/church-bells.mp3",
-   "door_bell": "door-bell.mp3",
-   "door_close": "door-close.mp3",
-   "poke_fire": "poke-fire.mp3",
-   "ruler": "ruler.mp3",
-   "run_off": "run-off.mp3",
-   "stool": "stool.mp3",
-   "snuff": "snuff.mp3",
-   "boys_slide": "boys-slide.mp3",
-   "key_lock": "key-lock.mp3",
-   "door_bang": "door-bang.mp3",
-   "double_lock": "double-lock.mp3",
-   "flame_leap": "flame-leap.mp3",
-   "window": "window.mp3",
-   "lament": "lament.mp3"
+   "keyhole_carol": "keyhole-carol-v2.mp3",
+   "house_bells": "house-bells-v2.mp3",
+   "chime": "chime-v2.mp3",
+   "toll": "toll-v2.mp3",
+   "chains": "chains-v2.mp3",
+   "door_heavy": "door-heavy-v2.mp3",
+   "steps_stone": "steps-stone-v2.mp3",
+   "church_bells": "church-bells-v2.mp3",
+   "door_bell": "door-bell-v2.mp3",
+   "door_close": "door-close-v2.mp3",
+   "poke_fire": "poke-fire-v2.mp3",
+   "ruler": "ruler-v2.mp3",
+   "run_off": "run-off-v2.mp3",
+   "stool": "stool-v2.mp3",
+   "snuff": "snuff-v2.mp3",
+   "boys_slide": "boys-slide-v2.mp3",
+   "key_lock": "key-lock-v2.mp3",
+   "door_bang": "door-bang-v2.mp3",
+   "double_lock": "double-lock-v2.mp3",
+   "flame_leap": "flame-leap-v2.mp3",
+   "window": "window-v2.mp3",
+   "lament": "lament-v2.mp3",
+   "funeral_toll": "funeral-toll-v1.mp3",
+   "coffin_nails": "coffin-nails-v1.mp3",
+   "coffin_nail_short": "coffin-nail-short-v1.mp3"
   },
   "score": {
    "carol": "score-carol.mp3",
@@ -52,12 +55,12 @@
    "piano_far": "https://ianingram.github.io/Amenti-Readings/dracula/sound/piano-far.mp3"
   },
   "levels": {
-   "carol": 0.32,
-   "carol_morning": 0.34,
-   "past": 0.32,
-   "fezziwig_dance": 0.36,
-   "present": 0.3,
-   "dread": 0.3
+   "carol": 0.7,
+   "carol_morning": 0.75,
+   "past": 0.7,
+   "fezziwig_dance": 0.79,
+   "present": 0.66,
+   "dread": 0.66
   }
  },
  "beds": {
@@ -122,5 +125,6 @@
    "score": null,
    "note": "Silence until the church bells ring out the lustiest peals; then the carol, bright, with bells."
   }
- ]
+ ],
+ "note_levels": "12 Oct 2026: everything brought up — Ian heard only the clock under the voices. One-shots and beds about 3x, the score about 2x; the borrowed one-shots copied as -v2 at full level for the Carol only."
 }

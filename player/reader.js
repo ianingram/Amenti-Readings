@@ -322,28 +322,49 @@
       R._warmAhead();
     },
 
+    /* ── ONE MEDIA ELEMENT, UNLOCKED BY THE CLICK · 12 Oct 2026 ─────────────
+       Safari lets an <audio> element play with sound only if it was first
+       played inside a click. A recorded cue starts after the sheet has been
+       fetched — outside the click — so a fresh new Audio() there can be
+       refused. So the reader keeps ONE element, plays a silent blip on it
+       inside "Begin the reading" (Amenti.reading.unlock()), and every recorded
+       cue or scene after that reuses the same, already-allowed element. */
+    _SILENT: 'data:audio/wav;base64,UklGRmQGAABXQVZFZm10IBAAAAABAAEAQB8AAIA+AAACABAAZGF0YUAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA',
+    _tok: 0,
+    _media: function () {
+      if (!R._el) { R._el = new Audio(); R._el.preload = 'auto'; }
+      return R._el;
+    },
+    unlock: function () {
+      var a = R._media();
+      if (R._unlocked) return;
+      R._unlocked = true;
+      try { a.src = R._SILENT; var p = a.play(); if (p && typeof p['catch'] === 'function') p['catch'](function () { R._unlocked = false; }); } catch (e) { R._unlocked = false; }
+    },
+
     /* a recorded cue: play the file, advance when it ends, speak the text if it cannot play */
     _playRecorded: function (cue, at) {
       R._stopRecorded();
-      var a = new Audio(cue.audio);
-      a.preload = 'auto';
+      var a = R._media(), tok = ++R._tok;
       R._audio = a;
       a.onended = function () {
-        if (R._audio !== a) return;
+        if (tok !== R._tok) return;
         R._audio = null;
         if (R.i !== at || R.state !== 'reading') return;
         R.i += 1; R._next();
       };
       a.onerror = function () {
-        if (R._audio !== a) return;
+        if (tok !== R._tok) return;
         R._audio = null;
-        console.warn('Readings: recorded cue ' + (at + 1) + ' would not play — speaking it instead.');
+        console.warn('Readings: recorded cue ' + (at + 1) + ' would not play \u2014 speaking it instead.');
         cue._audioFailed = true;
         if (R.i === at && R.state === 'reading') R._next();
       };
+      a.src = cue.audio;
       var p = a.play();
-      if (p && typeof p['catch'] === 'function') p['catch'](function () { if (a.onerror) a.onerror(); });
+      if (p && typeof p['catch'] === 'function') p['catch'](function () { if (tok === R._tok && a.onerror) a.onerror(); });
     },
+
     /* the recorded scene that covers cue index i, if any: { head, cue } */
     _sceneFor: function (i) {
       var cs = R.sheet && R.sheet.cues;
@@ -365,11 +386,10 @@
       var idxOf = function (n) { for (var k = scene.head; k < cs.length; k++) if (cs[k].n === n) return k; return -1; };
       var start = 0;
       for (var m = 0; m < marks.length; m++) if (marks[m][0] === cs[at].n) { start = marks[m][1]; break; }
-      var a = new Audio(c.audio);
-      a.preload = 'auto';
+      var a = R._media(), tok = ++R._tok;
       R._audio = a;
       a.ontimeupdate = function () {
-        if (R._audio !== a || R.state !== 'reading') return;
+        if (tok !== R._tok || R.state !== 'reading') return;
         var t = a.currentTime + 0.05, n = null;
         for (var m = 0; m < marks.length; m++) if (marks[m][1] <= t) n = marks[m][0];
         if (n == null) return;
@@ -380,7 +400,7 @@
         }
       };
       a.onended = function () {
-        if (R._audio !== a) return;
+        if (tok !== R._tok) return;
         R._audio = null;
         if (R.state !== 'reading') return;
         var last = idxOf(c.through);
@@ -388,24 +408,23 @@
         R._next();
       };
       a.onerror = function () {
-        if (R._audio !== a) return;
+        if (tok !== R._tok) return;
         R._audio = null;
-        console.warn('Readings: the recorded scene would not play — speaking it line by line instead.');
+        console.warn('Readings: the recorded scene would not play \u2014 speaking it line by line instead.');
         c._audioFailed = true;
         if (R.state === 'reading') R._next();
       };
-      /* play at once — still inside the click, so Safari allows it — and move to the line's place when the file can seek */
-      if (start) {
-        var place = function () { if (R._audio === a) { try { a.currentTime = start; } catch (e) {} } };
-        if (a.readyState >= 1) place(); else a.addEventListener('loadedmetadata', place, { once: true });
-      }
+      a.onloadedmetadata = function () { if (tok === R._tok && start) { try { a.currentTime = start; } catch (e) {} } };
+      /* play at once on the unlocked element; move to the line's place when the file can seek */
+      a.src = c.audio;
       var p = a.play();
-      if (p && typeof p['catch'] === 'function') p['catch'](function () { if (a.onerror) a.onerror(); });
+      if (p && typeof p['catch'] === 'function') p['catch'](function () { if (tok === R._tok && a.onerror) a.onerror(); });
     },
 
     _stopRecorded: function () {
+      R._tok++;
       var a = R._audio; R._audio = null;
-      if (a) { try { a.onended = a.onerror = null; a.pause(); } catch (e) {} }
+      if (a) { try { a.onended = a.onerror = a.ontimeupdate = a.onloadedmetadata = null; a.pause(); } catch (e) {} }
     },
 
     retry: function () {

@@ -236,7 +236,7 @@
 
     bind: function () {
       P.el.querySelector('.pb-close').onclick = P.close;
-      P.el.querySelector('.pb-go').onclick = function () { P.close(); R.play(); };
+      P.el.querySelector('.pb-go').onclick = function () { if (R.unlock) R.unlock(); P.close(); R.play(); };   /* unlock inside the click: Safari */
       P.el.querySelector('.pb-restore').onclick = function () {
         C.clear(P.sheet.work); P.open();
       };
@@ -365,9 +365,9 @@
     while (i >= 0 && i < cs.length && /^stage direction/i.test(cs[i].role || '')) i += dir;
     return Math.max(0, Math.min(cs.length - 1, i));
   }
-  function back() { if (!cues().length) return; R.seek(spokenIdx(R.i, -1) + 1); if (R.state === 'paused') R.resume(); }
-  function fwd()  { if (!cues().length) return; R.seek(spokenIdx(R.i, +1) + 1); if (R.state === 'paused') R.resume(); }
-  function toggle() { if (R.state === 'reading') R.pause(); else if (R.state === 'paused') R.resume(); paint(true); }
+  function back() { if (R.unlock) R.unlock(); if (!cues().length) return; R.seek(spokenIdx(R.i, -1) + 1); if (R.state === 'paused') R.resume(); }
+  function fwd()  { if (R.unlock) R.unlock(); if (!cues().length) return; R.seek(spokenIdx(R.i, +1) + 1); if (R.state === 'paused') R.resume(); }
+  function toggle() { if (R.unlock) R.unlock(); if (R.state === 'reading') R.pause(); else if (R.state === 'paused') R.resume(); paint(true); }
   function show() { build().classList.add('on'); document.body.classList.add('tb-pad'); shown = true; }
   function hide() { if (el) el.classList.remove('on'); document.body.classList.remove('tb-pad'); shown = false; }
   function paint(force) {

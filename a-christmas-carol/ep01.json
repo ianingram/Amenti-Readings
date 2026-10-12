@@ -54,21 +54,19 @@
  "cues": [
   {
    "n": 1,
-   "score": {
-    "key": "carol",
-    "xfade": 2
-   },
    "para": 0,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "STAVE ONE."
+   "text": "STAVE ONE.",
+   "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/intro-bells-v1.mp3"
   },
   {
    "n": 2,
    "para": 1,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "MARLEY’S GHOST."
+   "text": "MARLEY’S GHOST.",
+   "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/pause-v1.mp3"
   },
   {
    "n": 3,
@@ -77,12 +75,15 @@
    "cast": "Charles Dickens",
    "text": "Marley was dead: to begin with. There is no\ndoubt whatever about that. The register of his burial was signed by the\nclergyman, the clerk, the undertaker, and the chief mourner. Scrooge\nsigned it: and Scrooge’s name was good upon ’Change, for\nanything he chose to put his hand to. Old Marley was as dead as a\ndoor-nail.",
    "sfx": [
-    "funeral_toll",
     {
      "key": "coffin_nails",
      "at": "as dead as a door-nail"
     }
-   ]
+   ],
+   "score": {
+    "key": "carol",
+    "xfade": 2
+   }
   },
   {
    "n": 4,

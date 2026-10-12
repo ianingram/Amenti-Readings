@@ -299,3 +299,100 @@
               'background:#d4a017;color:#000;padding:2px 6px',
               '\u00b7 Amenti.playbill.open("dracula/ep01.json")');
 })();
+
+/* ===========================================================================
+   THE TRANSPORT · 12 Oct 2026
+   ---------------------------------------------------------------------------
+   A slim bar across the top while a reading runs: back a line, pause/play,
+   forward a line, who is speaking and what — and a close. It only calls the
+   reader's own pause / resume / seek / stop, so a recorded scene (Romeo and
+   Juliet) jumps inside its file and a spoken reading re-speaks from the line
+   (cached, so no new render). Keys: space = pause/play, ← / → = a line back /
+   forward (never while typing in a box). It appears when the reading starts
+   and goes when it ends or is closed.
+   =========================================================================== */
+(function () {
+  'use strict';
+  var A = window.Amenti || {}, R = A.reading;
+  if (!R) return;
+  var el = null, shown = false, lastKey = '';
+
+  function css() {
+    if (document.getElementById('tb-css')) return;
+    var s = document.createElement('style'); s.id = 'tb-css';
+    s.textContent =
+      '#amenti-transport{position:fixed;top:0;left:0;right:0;z-index:1900;display:none;'
+      + 'align-items:center;gap:10px;padding:8px 14px;box-sizing:border-box;'
+      + 'background:rgba(8,10,9,.94);border-bottom:1px solid rgba(212,160,23,.35);'
+      + 'font:13px/1.35 Georgia,serif;color:#e9e2d0;box-shadow:0 4px 18px rgba(0,0,0,.45);}'
+      + '#amenti-transport.on{display:flex;}'
+      + '#amenti-transport button{background:none;border:1px solid rgba(212,160,23,.55);color:#d4a017;'
+      + 'width:38px;height:34px;border-radius:3px;cursor:pointer;font-size:15px;line-height:1;flex:0 0 auto;padding:0;}'
+      + '#amenti-transport button:hover{background:#d4a017;color:#000;}'
+      + '#amenti-transport .tb-play{width:46px;font-size:16px;}'
+      + '#amenti-transport .tb-close{border-color:transparent;color:#6a7a70;width:30px;}'
+      + '#amenti-transport .tb-now{flex:1 1 auto;min-width:0;}'
+      + '#amenti-transport .tb-who{font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:#d4a017;'
+      + 'white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}'
+      + '#amenti-transport .tb-line{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#cfc8b6;}'
+      + '#amenti-transport .tb-pos{font-size:10px;color:#6a7a70;white-space:nowrap;flex:0 0 auto;}'
+      + 'body.tb-pad{padding-top:52px;}';
+    document.head.appendChild(s);
+  }
+  function build() {
+    if (el) return el;
+    css();
+    el = document.createElement('div'); el.id = 'amenti-transport'; el.setAttribute('role', 'toolbar');
+    el.setAttribute('aria-label', 'Reading controls');
+    el.innerHTML =
+        '<button class="tb-back" title="Back a line (←)" aria-label="Back a line">⏮</button>'
+      + '<button class="tb-play" title="Pause / play (space)" aria-label="Pause">⏸</button>'
+      + '<button class="tb-fwd" title="Forward a line (→)" aria-label="Forward a line">⏭</button>'
+      + '<div class="tb-now"><div class="tb-who"></div><div class="tb-line"></div></div>'
+      + '<div class="tb-pos"></div>'
+      + '<button class="tb-close" title="Stop the reading" aria-label="Stop">×</button>';
+    document.body.appendChild(el);
+    el.querySelector('.tb-back').onclick = back;
+    el.querySelector('.tb-fwd').onclick = fwd;
+    el.querySelector('.tb-play').onclick = toggle;
+    el.querySelector('.tb-close').onclick = function () { R.stop(); hide(); };
+    return el;
+  }
+  function cues() { return (R.sheet && R.sheet.cues) || []; }
+  /* a line that is spoken — stage directions are skipped when stepping */
+  function spokenIdx(i, dir) {
+    var cs = cues(); i += dir;
+    while (i >= 0 && i < cs.length && /^stage direction/i.test(cs[i].role || '')) i += dir;
+    return Math.max(0, Math.min(cs.length - 1, i));
+  }
+  function back() { if (!cues().length) return; R.seek(spokenIdx(R.i, -1) + 1); if (R.state === 'paused') R.resume(); }
+  function fwd()  { if (!cues().length) return; R.seek(spokenIdx(R.i, +1) + 1); if (R.state === 'paused') R.resume(); }
+  function toggle() { if (R.state === 'reading') R.pause(); else if (R.state === 'paused') R.resume(); paint(true); }
+  function show() { build().classList.add('on'); document.body.classList.add('tb-pad'); shown = true; }
+  function hide() { if (el) el.classList.remove('on'); document.body.classList.remove('tb-pad'); shown = false; }
+  function paint(force) {
+    var live = R.state === 'reading' || R.state === 'paused' || R.state === 'stalled';
+    if (!live) { if (shown) hide(); return; }
+    if (!shown) show();
+    var c = R.cue || cues()[R.i] || {}, key = R.state + '|' + R.i;
+    if (!force && key === lastKey) return; lastKey = key;
+    var p = el.querySelector('.tb-play');
+    p.textContent = R.state === 'paused' ? '▶' : '⏸';
+    p.setAttribute('aria-label', R.state === 'paused' ? 'Play' : 'Pause');
+    var role = String(c.role || '').replace(/^stage directions?$/i, 'Stage direction');
+    var who = role + (c.cast && !/stage direction/i.test(role) ? ' · ' + c.cast : '');
+    el.querySelector('.tb-who').textContent = who;
+    el.querySelector('.tb-line').textContent = String(c.text || '').replace(/\s+/g, ' ').replace(/^[“"]|[”"]$/g, '');
+    el.querySelector('.tb-pos').textContent = (R.i + 1) + ' / ' + cues().length;
+  }
+  setInterval(function () { paint(false); }, 250);
+  document.addEventListener('keydown', function (e) {
+    if (!shown) return;
+    var t = e.target && e.target.tagName;
+    if (t === 'INPUT' || t === 'TEXTAREA' || (e.target && e.target.isContentEditable)) return;
+    if (e.key === ' ' || e.key === 'Spacebar') { e.preventDefault(); toggle(); }
+    else if (e.key === 'ArrowLeft') { e.preventDefault(); back(); }
+    else if (e.key === 'ArrowRight') { e.preventDefault(); fwd(); }
+  });
+  A.transport = { show: show, hide: hide };
+})();

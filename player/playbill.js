@@ -91,6 +91,7 @@
   + '.pb-go{border-color:var(--gold,#d4a017);color:var(--gold,#d4a017);padding:10px 22px;'
   +   'font-size:10px;letter-spacing:.24em;}'
   + '.pb-go:hover{background:var(--gold,#d4a017);color:#000;}'
+  + '.pb-top{margin:4px 0 24px;}'
   + '.pb-close{position:fixed;top:18px;right:22px;background:none;border:none;'
   +   'color:#6a7a70;font-size:22px;cursor:pointer;}'
   + '.pb-close:hover{color:#fff;}'
@@ -169,6 +170,10 @@
       }
       h.push('<div class="pb-ep">Episode ' + (s.episode || 1) + '</div>');
       h.push('<div class="pb-doc">' + esc(s.document || '') + '</div>');
+      /* the way in sits at the top, before the cast (Ian, 12 Oct 2026) */
+      h.push('<div class="pb-actions pb-top">');
+      h.push('<button class="pb-btn pb-go">Begin the reading</button>');
+      h.push('</div>');
       h.push('<div class="pb-rule"></div>');
       h.push('<div class="pb-head">The Cast</div>');
 
@@ -204,7 +209,6 @@
 
       var noplate = rows.filter(function (r) { return !P._hasPlate[P.slug(r.cast)]; }).length;
       h.push('<div class="pb-actions">');
-      h.push('<button class="pb-btn pb-go">Begin the reading</button>');
       h.push('<button class="pb-btn pb-restore">Restore house cast</button>');
       h.push('<button class="pb-btn pb-export">Export cast</button>');
       h.push('</div>');

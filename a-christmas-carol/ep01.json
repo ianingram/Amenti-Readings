@@ -142,7 +142,9 @@
    "para": 11,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Once upon a time—of all the good days in the year, on Christmas\nEve—old Scrooge sat busy in his counting-house. It was cold,\nbleak, biting weather: foggy withal: and he could hear the people in the\ncourt outside, go wheezing up and down, beating their hands upon their\nbreasts, and stamping their feet upon the pavement stones to warm them.\nThe city clocks had only just gone three, but it was quite dark already—it\nhad not been light all day—and candles were flaring in the windows\nof the neighbouring offices, like ruddy smears upon the palpable brown\nair. The fog came pouring in at every chink and keyhole, and was so\ndense without, that although the court was of the narrowest, the houses\nopposite were mere phantoms. To see the dingy cloud come drooping down,\nobscuring everything, one might have thought that Nature lived hard by,\nand was brewing on a large scale."
+   "text": "Once upon a time—of all the good days in the year, on Christmas\nEve—old Scrooge sat busy in his counting-house. It was cold,\nbleak, biting weather: foggy withal: and he could hear the people in the\ncourt outside, go wheezing up and down, beating their hands upon their\nbreasts, and stamping their feet upon the pavement stones to warm them.\nThe city clocks had only just gone three, but it was quite dark already—it\nhad not been light all day—and candles were flaring in the windows\nof the neighbouring offices, like ruddy smears upon the palpable brown\nair. The fog came pouring in at every chink and keyhole, and was so\ndense without, that although the court was of the narrowest, the houses\nopposite were mere phantoms. To see the dingy cloud come drooping down,\nobscuring everything, one might have thought that Nature lived hard by,\nand was brewing on a large scale.",
+   "bed": "counting_house",
+   "state": 1
   },
   {
    "n": 13,
@@ -156,7 +158,10 @@
    "para": 13,
    "role": "Fred",
    "cast": "Oscar Wilde",
-   "text": "“A merry Christmas, uncle! God save you!”"
+   "text": "“A merry Christmas, uncle! God save you!”",
+   "sfx": [
+    "door_bell"
+   ]
   },
   {
    "n": 15,
@@ -436,7 +441,13 @@
    "para": 27,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The clerk in the Tank involuntarily applauded. Becoming immediately\nsensible of the impropriety, he poked the fire, and extinguished the\nlast frail spark for ever."
+   "text": "The clerk in the Tank involuntarily applauded. Becoming immediately\nsensible of the impropriety, he poked the fire, and extinguished the\nlast frail spark for ever.",
+   "sfx": [
+    {
+     "key": "poke_fire",
+     "at": "he poked the fire"
+    }
+   ]
   },
   {
    "n": 55,
@@ -639,7 +650,13 @@
    "para": 43,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "His nephew left the room without an angry word, notwithstanding. He\nstopped at the outer door to bestow the greetings of the season on the\nclerk, who, cold as he was, was warmer than Scrooge; for he returned\nthem cordially."
+   "text": "His nephew left the room without an angry word, notwithstanding. He\nstopped at the outer door to bestow the greetings of the season on the\nclerk, who, cold as he was, was warmer than Scrooge; for he returned\nthem cordially.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "returned them cordially"
+    }
+   ]
   },
   {
    "n": 84,
@@ -667,7 +684,13 @@
    "para": 45,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "This lunatic, in letting Scrooge’s nephew out, had let two other\npeople in. They were portly gentlemen, pleasant to behold, and now\nstood, with their hats off, in Scrooge’s office. They had books\nand papers in their hands, and bowed to him."
+   "text": "This lunatic, in letting Scrooge’s nephew out, had let two other\npeople in. They were portly gentlemen, pleasant to behold, and now\nstood, with their hats off, in Scrooge’s office. They had books\nand papers in their hands, and bowed to him.",
+   "sfx": [
+    {
+     "key": "door_bell",
+     "at": "had let two other people in"
+    }
+   ]
   },
   {
    "n": 88,
@@ -919,14 +942,28 @@
    "para": 66,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Seeing clearly that it would be useless to pursue their point, the\ngentlemen withdrew. Scrooge resumed his labours with an improved opinion\nof himself, and in a more facetious temper than was usual with him."
+   "text": "Seeing clearly that it would be useless to pursue their point, the\ngentlemen withdrew. Scrooge resumed his labours with an improved opinion\nof himself, and in a more facetious temper than was usual with him.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "withdrew"
+    }
+   ]
   },
   {
    "n": 124,
    "para": 67,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Meanwhile the fog and darkness thickened so, that people ran about with\nflaring links, proffering their services to go before horses in\ncarriages, and conduct them on their way. The ancient tower of a church,\nwhose gruff old bell was always peeping slily down at Scrooge out of a\nGothic window in the wall, became invisible, and struck the hours and\nquarters in the clouds, with tremulous vibrations afterwards as if its\nteeth were chattering in its frozen head up there. The cold became\nintense. In the main street, at the corner of the court, some labourers\nwere repairing the gas-pipes, and had lighted a great fire in a brazier,\nround which a party of ragged men and boys were gathered: warming their\nhands and winking their eyes before the blaze in rapture. The water-plug\nbeing left in solitude, its overflowings sullenly congealed, and turned\nto misanthropic ice. The brightness of the shops where holly sprigs and\nberries crackled in the lamp heat of the windows, made pale faces ruddy\nas they passed. Poulterers’ and grocers’ trades became a\nsplendid joke: a glorious pageant, with which it was next to impossible\nto believe that such dull principles as bargain and sale had anything to\ndo. The Lord Mayor, in the stronghold of the mighty Mansion House, gave\norders to his fifty cooks and butlers to keep Christmas as a Lord Mayor’s\nhousehold should; and even the little tailor, whom he had fined five\nshillings on the previous Monday for being drunk and bloodthirsty in the\nstreets, stirred up to-morrow’s pudding in his garret, while his\nlean wife and the baby sallied out to buy the beef."
+   "text": "Meanwhile the fog and darkness thickened so, that people ran about with\nflaring links, proffering their services to go before horses in\ncarriages, and conduct them on their way. The ancient tower of a church,\nwhose gruff old bell was always peeping slily down at Scrooge out of a\nGothic window in the wall, became invisible, and struck the hours and\nquarters in the clouds, with tremulous vibrations afterwards as if its\nteeth were chattering in its frozen head up there. The cold became\nintense. In the main street, at the corner of the court, some labourers\nwere repairing the gas-pipes, and had lighted a great fire in a brazier,\nround which a party of ragged men and boys were gathered: warming their\nhands and winking their eyes before the blaze in rapture. The water-plug\nbeing left in solitude, its overflowings sullenly congealed, and turned\nto misanthropic ice. The brightness of the shops where holly sprigs and\nberries crackled in the lamp heat of the windows, made pale faces ruddy\nas they passed. Poulterers’ and grocers’ trades became a\nsplendid joke: a glorious pageant, with which it was next to impossible\nto believe that such dull principles as bargain and sale had anything to\ndo. The Lord Mayor, in the stronghold of the mighty Mansion House, gave\norders to his fifty cooks and butlers to keep Christmas as a Lord Mayor’s\nhousehold should; and even the little tailor, whom he had fined five\nshillings on the previous Monday for being drunk and bloodthirsty in the\nstreets, stirred up to-morrow’s pudding in his garret, while his\nlean wife and the baby sallied out to buy the beef.",
+   "bed": "street_fog",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "chime",
+     "at": "struck the hours and quarters"
+    }
+   ]
   },
   {
    "n": 125,
@@ -953,14 +990,36 @@
    "para": 70,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Scrooge seized the ruler with such energy of action, that the singer\nfled in terror, leaving the keyhole to the fog and even more congenial\nfrost."
+   "text": "Scrooge seized the ruler with such energy of action, that the singer\nfled in terror, leaving the keyhole to the fog and even more congenial\nfrost.",
+   "bed": "counting_house",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "ruler",
+     "at": "seized the ruler"
+    },
+    {
+     "key": "run_off",
+     "at": "the singer fled in terror"
+    }
+   ]
   },
   {
    "n": 128,
    "para": 71,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "At length the hour of shutting up the counting-house arrived. With an\nill-will Scrooge dismounted from his stool, and tacitly admitted the\nfact to the expectant clerk in the Tank, who instantly snuffed his\ncandle out, and put on his hat."
+   "text": "At length the hour of shutting up the counting-house arrived. With an\nill-will Scrooge dismounted from his stool, and tacitly admitted the\nfact to the expectant clerk in the Tank, who instantly snuffed his\ncandle out, and put on his hat.",
+   "sfx": [
+    {
+     "key": "stool",
+     "at": "dismounted from his stool"
+    },
+    {
+     "key": "snuff",
+     "at": "snuffed his candle out"
+    }
+   ]
   },
   {
    "n": 129,
@@ -1065,14 +1124,24 @@
    "para": 79,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The clerk promised that he would; and Scrooge walked out with a growl.\nThe office was closed in a twinkling, and the clerk, with the long ends\nof his white comforter dangling below his waist (for he boasted no\ngreat-coat), went down a slide on Cornhill, at the end of a lane of\nboys, twenty times, in honour of its being Christmas Eve, and then ran\nhome to Camden Town as hard as he could pelt, to play at blindman’s-buff."
+   "text": "The clerk promised that he would; and Scrooge walked out with a growl.\nThe office was closed in a twinkling, and the clerk, with the long ends\nof his white comforter dangling below his waist (for he boasted no\ngreat-coat), went down a slide on Cornhill, at the end of a lane of\nboys, twenty times, in honour of its being Christmas Eve, and then ran\nhome to Camden Town as hard as he could pelt, to play at blindman’s-buff.",
+   "bed": "street_fog",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "boys_slide",
+     "at": "Cornhill"
+    }
+   ]
   },
   {
    "n": 144,
    "para": 80,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Scrooge took his melancholy dinner in his usual melancholy tavern; and\nhaving read all the newspapers, and beguiled the rest of the evening\nwith his banker’s-book, went home to bed. He lived in chambers\nwhich had once belonged to his deceased partner. They were a gloomy\nsuite of rooms, in a lowering pile of building up a yard, where it had\nso little business to be, that one could scarcely help fancying it must\nhave run there when it was a young house, playing at hide-and-seek with\nother houses, and forgotten the way out again. It was old enough now,\nand dreary enough, for nobody lived in it but Scrooge, the other rooms\nbeing all let out as offices. The yard was so dark that even Scrooge,\nwho knew its every stone, was fain to grope with his hands. The fog and\nfrost so hung about the black old gateway of the house, that it seemed\nas if the Genius of the Weather sat in mournful meditation on the\nthreshold."
+   "text": "Scrooge took his melancholy dinner in his usual melancholy tavern; and\nhaving read all the newspapers, and beguiled the rest of the evening\nwith his banker’s-book, went home to bed. He lived in chambers\nwhich had once belonged to his deceased partner. They were a gloomy\nsuite of rooms, in a lowering pile of building up a yard, where it had\nso little business to be, that one could scarcely help fancying it must\nhave run there when it was a young house, playing at hide-and-seek with\nother houses, and forgotten the way out again. It was old enough now,\nand dreary enough, for nobody lived in it but Scrooge, the other rooms\nbeing all let out as offices. The yard was so dark that even Scrooge,\nwho knew its every stone, was fain to grope with his hands. The fog and\nfrost so hung about the black old gateway of the house, that it seemed\nas if the Genius of the Weather sat in mournful meditation on the\nthreshold.",
+   "bed": "tavern",
+   "state": 1
   },
   {
    "n": 145,
@@ -1084,7 +1153,15 @@
    "para": 81,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Now, it is a fact, that there was nothing at all particular about the\nknocker on the door, except that it was very large. It is also a fact,\nthat Scrooge had seen it, night and morning, during his whole residence\nin that place; also that Scrooge had as little of what is called fancy\nabout him as any man in the city of London, even including—which\nis a bold word—the corporation, aldermen, and livery. Let it also\nbe borne in mind that Scrooge had not bestowed one thought on Marley,\nsince his last mention of his seven years’ dead partner that\nafternoon. And then let any man explain to me, if he can, how it\nhappened that Scrooge, having his key in the lock of the door, saw in\nthe knocker, without its undergoing any intermediate process of change—not\na knocker, but Marley’s face."
+   "text": "Now, it is a fact, that there was nothing at all particular about the\nknocker on the door, except that it was very large. It is also a fact,\nthat Scrooge had seen it, night and morning, during his whole residence\nin that place; also that Scrooge had as little of what is called fancy\nabout him as any man in the city of London, even including—which\nis a bold word—the corporation, aldermen, and livery. Let it also\nbe borne in mind that Scrooge had not bestowed one thought on Marley,\nsince his last mention of his seven years’ dead partner that\nafternoon. And then let any man explain to me, if he can, how it\nhappened that Scrooge, having his key in the lock of the door, saw in\nthe knocker, without its undergoing any intermediate process of change—not\na knocker, but Marley’s face.",
+   "bed": "yard",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "key_lock",
+     "at": "key in the lock"
+    }
+   ]
   },
   {
    "n": 146,
@@ -1126,14 +1203,28 @@
    "para": 85,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "and closed it with a bang."
+   "text": "and closed it with a bang.",
+   "sfx": [
+    {
+     "key": "door_bang",
+     "at": "with a bang"
+    }
+   ]
   },
   {
    "n": 152,
    "para": 86,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The sound resounded through the house like thunder. Every room above,\nand every cask in the wine-merchant’s cellars below, appeared to\nhave a separate peal of echoes of its own. Scrooge was not a man to be\nfrightened by echoes. He fastened the door, and walked across the hall,\nand up the stairs; slowly too: trimming his candle as he went."
+   "text": "The sound resounded through the house like thunder. Every room above,\nand every cask in the wine-merchant’s cellars below, appeared to\nhave a separate peal of echoes of its own. Scrooge was not a man to be\nfrightened by echoes. He fastened the door, and walked across the hall,\nand up the stairs; slowly too: trimming his candle as he went.",
+   "bed": "chambers",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "steps_stone",
+     "at": "up the stairs"
+    }
+   ]
   },
   {
    "n": 153,
@@ -1161,7 +1252,13 @@
    "para": 90,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Quite satisfied, he closed his door, and locked himself in;\ndouble-locked himself in, which was not his custom. Thus secured against\nsurprise, he took off his cravat; put on his dressing-gown and slippers,\nand his nightcap; and sat down before the fire to take his gruel."
+   "text": "Quite satisfied, he closed his door, and locked himself in;\ndouble-locked himself in, which was not his custom. Thus secured against\nsurprise, he took off his cravat; put on his dressing-gown and slippers,\nand his nightcap; and sat down before the fire to take his gruel.",
+   "sfx": [
+    {
+     "key": "double_lock",
+     "at": "double-locked himself in"
+    }
+   ]
   },
   {
    "n": 157,
@@ -1253,7 +1350,13 @@
    "para": 97,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "His colour changed though, when, without a pause, it came on through the\nheavy door, and passed into the room before his eyes. Upon its coming\nin, the dying flame leaped up, as though it cried,"
+   "text": "His colour changed though, when, without a pause, it came on through the\nheavy door, and passed into the room before his eyes. Upon its coming\nin, the dying flame leaped up, as though it cried,",
+   "sfx": [
+    {
+     "key": "flame_leap",
+     "at": "the dying flame leaped up"
+    }
+   ]
   },
   {
    "n": 167,
@@ -1965,7 +2068,13 @@
    "para": 147,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The Ghost, on hearing this, set up another cry, and clanked its chain so\nhideously in the dead silence of the night, that the Ward would have\nbeen justified in indicting it for a nuisance."
+   "text": "The Ghost, on hearing this, set up another cry, and clanked its chain so\nhideously in the dead silence of the night, that the Ward would have\nbeen justified in indicting it for a nuisance.",
+   "sfx": [
+    {
+     "key": "chains",
+     "at": "clanked its chain so hideously"
+    }
+   ]
   },
   {
    "n": 267,
@@ -2028,7 +2137,13 @@
    "para": 151,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "It held up its chain at arm’s length, as if that were the cause of\nall its unavailing grief, and flung it heavily upon the ground again."
+   "text": "It held up its chain at arm’s length, as if that were the cause of\nall its unavailing grief, and flung it heavily upon the ground again.",
+   "sfx": [
+    {
+     "key": "chains",
+     "at": "flung it heavily upon the ground"
+    }
+   ]
   },
   {
    "n": 276,
@@ -2273,7 +2388,13 @@
    "para": 169,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The apparition walked backward from him; and at every step it took, the\nwindow raised itself a little, so that when the spectre reached it, it\nwas wide open."
+   "text": "The apparition walked backward from him; and at every step it took, the\nwindow raised itself a little, so that when the spectre reached it, it\nwas wide open.",
+   "sfx": [
+    {
+     "key": "window",
+     "at": "the window raised itself"
+    }
+   ]
   },
   {
    "n": 311,
@@ -2287,7 +2408,13 @@
    "para": 171,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Not so much in obedience, as in surprise and fear: for on the raising of\nthe hand, he became sensible of confused noises in the air; incoherent\nsounds of lamentation and regret; wailings inexpressibly sorrowful and\nself-accusatory. The spectre, after listening for a moment, joined in\nthe mournful dirge; and floated out upon the bleak, dark night."
+   "text": "Not so much in obedience, as in surprise and fear: for on the raising of\nthe hand, he became sensible of confused noises in the air; incoherent\nsounds of lamentation and regret; wailings inexpressibly sorrowful and\nself-accusatory. The spectre, after listening for a moment, joined in\nthe mournful dirge; and floated out upon the bleak, dark night.",
+   "sfx": [
+    {
+     "key": "lament",
+     "at": "confused noises in the air"
+    }
+   ]
   },
   {
    "n": 313,
@@ -2308,14 +2435,25 @@
    "para": 174,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Whether these creatures faded into mist, or mist enshrouded them, he\ncould not tell. But they and their spirit voices faded together; and the\nnight became as it had been when he walked home."
+   "text": "Whether these creatures faded into mist, or mist enshrouded them, he\ncould not tell. But they and their spirit voices faded together; and the\nnight became as it had been when he walked home.",
+   "score": {
+    "key": null,
+    "xfade": 10,
+    "at": "the night became as it had been"
+   }
   },
   {
    "n": 316,
    "para": 175,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Scrooge closed the window, and examined the door by which the Ghost had\nentered. It was double-locked, as he had locked it with his own hands,\nand the bolts were undisturbed. He tried to say"
+   "text": "Scrooge closed the window, and examined the door by which the Ghost had\nentered. It was double-locked, as he had locked it with his own hands,\nand the bolts were undisturbed. He tried to say",
+   "sfx": [
+    {
+     "key": "window",
+     "at": "Scrooge closed the window"
+    }
+   ]
   },
   {
    "n": 317,

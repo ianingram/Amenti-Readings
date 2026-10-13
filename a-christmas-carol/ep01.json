@@ -944,32 +944,23 @@
       "text": "Meanwhile the fog and darkness thickened so, that people ran about with\nflaring links, proffering their services to go before horses in\ncarriages, and conduct them on their way. The ancient tower of a church,\nwhose gruff old bell was always peeping slily down at Scrooge out of a\nGothic window in the wall, became invisible, and struck the hours and\nquarters in the clouds, with tremulous vibrations afterwards as if its\nteeth were chattering in its frozen head up there. The cold became\nintense. In the main street, at the corner of the court, some labourers\nwere repairing the gas-pipes, and had lighted a great fire in a brazier,\nround which a party of ragged men and boys were gathered: warming their\nhands and winking their eyes before the blaze in rapture. The water-plug\nbeing left in solitude, its overflowings sullenly congealed, and turned\nto misanthropic ice. The brightness of the shops where holly sprigs and\nberries crackled in the lamp heat of the windows, made pale faces ruddy\nas they passed. Poulterers’ and grocers’ trades became a\nsplendid joke: a glorious pageant, with which it was next to impossible\nto believe that such dull principles as bargain and sale had anything to\ndo. The Lord Mayor, in the stronghold of the mighty Mansion House, gave\norders to his fifty cooks and butlers to keep Christmas as a Lord Mayor’s\nhousehold should; and even the little tailor, whom he had fined five\nshillings on the previous Monday for being drunk and bloodthirsty in the\nstreets, stirred up to-morrow’s pudding in his garret, while his\nlean wife and the baby sallied out to buy the beef.",
       "bed": "street_fog",
       "state": 1,
-      "sfx": [
-        {
-          "key": "chime",
-          "at": "struck the hours and quarters"
-        }
-      ]
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/fog-124-v1.mp3"
     },
     {
       "n": 125,
-      "sfx": [
-        {
-          "key": "keyhole_carol",
-          "at": "to regale him with a Christmas carol"
-        }
-      ],
       "para": 68,
       "role": "Narrator",
       "cast": "Charles Dickens",
-      "text": "Foggier yet, and colder. Piercing, searching, biting cold. If the good\nSaint Dunstan had but nipped the Evil Spirit’s nose with a touch\nof such weather as that, instead of using his familiar weapons, then\nindeed he would have roared to lusty purpose. The owner of one scant\nyoung nose, gnawed and mumbled by the hungry cold as bones are gnawed by\ndogs, stooped down at Scrooge’s keyhole to regale him with a\nChristmas carol: but at the first sound of"
+      "text": "Foggier yet, and colder. Piercing, searching, biting cold. If the good\nSaint Dunstan had but nipped the Evil Spirit’s nose with a touch\nof such weather as that, instead of using his familiar weapons, then\nindeed he would have roared to lusty purpose. The owner of one scant\nyoung nose, gnawed and mumbled by the hungry cold as bones are gnawed by\ndogs, stooped down at Scrooge’s keyhole to regale him with a\nChristmas carol: but at the first sound of",
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/keyhole-125-v1.mp3"
     },
     {
       "n": 126,
       "para": 69,
       "role": "Narrator",
       "cast": "Charles Dickens",
-      "text": "“God bless you, merry gentleman! May nothing\nyou dismay!”"
+      "text": "“God bless you, merry gentleman! May nothing\nyou dismay!”",
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/carol-126-v1.mp3"
     },
     {
       "n": 127,
@@ -979,16 +970,7 @@
       "text": "Scrooge seized the ruler with such energy of action, that the singer\nfled in terror, leaving the keyhole to the fog and even more congenial\nfrost.",
       "bed": "counting_house",
       "state": 1,
-      "sfx": [
-        {
-          "key": "ruler",
-          "at": "seized the ruler"
-        },
-        {
-          "key": "run_off",
-          "at": "the singer fled in terror"
-        }
-      ]
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/ruler-127-v1.mp3"
     },
     {
       "n": 128,

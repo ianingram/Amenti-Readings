@@ -978,16 +978,7 @@
       "role": "Narrator",
       "cast": "Charles Dickens",
       "text": "At length the hour of shutting up the counting-house arrived. With an\nill-will Scrooge dismounted from his stool, and tacitly admitted the\nfact to the expectant clerk in the Tank, who instantly snuffed his\ncandle out, and put on his hat.",
-      "sfx": [
-        {
-          "key": "stool",
-          "at": "dismounted from his stool"
-        },
-        {
-          "key": "snuff",
-          "at": "snuffed his candle out"
-        }
-      ]
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/shutting-127-v1.mp3"
     },
     {
       "n": 129,
@@ -1078,7 +1069,8 @@
       "para": 78,
       "role": "Narrator",
       "cast": "Charles Dickens",
-      "text": "said Scrooge, buttoning his great-coat to the chin."
+      "text": "said Scrooge, buttoning his great-coat to the chin.",
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/coat-140-v1.mp3"
     },
     {
       "n": 142,
@@ -1095,12 +1087,7 @@
       "text": "The clerk promised that he would; and Scrooge walked out with a growl.\nThe office was closed in a twinkling, and the clerk, with the long ends\nof his white comforter dangling below his waist (for he boasted no\ngreat-coat), went down a slide on Cornhill, at the end of a lane of\nboys, twenty times, in honour of its being Christmas Eve, and then ran\nhome to Camden Town as hard as he could pelt, to play at blindman’s-buff.",
       "bed": "street_fog",
       "state": 1,
-      "sfx": [
-        {
-          "key": "boys_slide",
-          "at": "Cornhill"
-        }
-      ]
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/cornhill-142-v1.mp3"
     },
     {
       "n": 144,
@@ -1109,55 +1096,54 @@
       "cast": "Charles Dickens",
       "text": "Scrooge took his melancholy dinner in his usual melancholy tavern; and\nhaving read all the newspapers, and beguiled the rest of the evening\nwith his banker’s-book, went home to bed. He lived in chambers\nwhich had once belonged to his deceased partner. They were a gloomy\nsuite of rooms, in a lowering pile of building up a yard, where it had\nso little business to be, that one could scarcely help fancying it must\nhave run there when it was a young house, playing at hide-and-seek with\nother houses, and forgotten the way out again. It was old enough now,\nand dreary enough, for nobody lived in it but Scrooge, the other rooms\nbeing all let out as offices. The yard was so dark that even Scrooge,\nwho knew its every stone, was fain to grope with his hands. The fog and\nfrost so hung about the black old gateway of the house, that it seemed\nas if the Genius of the Weather sat in mournful meditation on the\nthreshold.",
       "bed": "tavern",
-      "state": 1
+      "state": 1,
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/home-143-v1.mp3"
     },
     {
       "n": 145,
-      "score": {
-        "key": "dread",
-        "xfade": 5,
-        "at": "not a knocker, but Marley’s face"
-      },
       "para": 81,
       "role": "Narrator",
       "cast": "Charles Dickens",
       "text": "Now, it is a fact, that there was nothing at all particular about the\nknocker on the door, except that it was very large. It is also a fact,\nthat Scrooge had seen it, night and morning, during his whole residence\nin that place; also that Scrooge had as little of what is called fancy\nabout him as any man in the city of London, even including—which\nis a bold word—the corporation, aldermen, and livery. Let it also\nbe borne in mind that Scrooge had not bestowed one thought on Marley,\nsince his last mention of his seven years’ dead partner that\nafternoon. And then let any man explain to me, if he can, how it\nhappened that Scrooge, having his key in the lock of the door, saw in\nthe knocker, without its undergoing any intermediate process of change—not\na knocker, but Marley’s face.",
       "bed": "yard",
       "state": 1,
-      "sfx": [
-        {
-          "key": "key_lock",
-          "at": "key in the lock"
-        }
-      ]
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/knocker-144-v1.mp3"
     },
     {
       "n": 146,
       "para": 82,
       "role": "Narrator",
       "cast": "Charles Dickens",
-      "text": "Marley’s face. It was not in impenetrable shadow as the other\nobjects in the yard were, but had a dismal light about it, like a bad\nlobster in a dark cellar. It was not angry or ferocious, but looked at\nScrooge as Marley used to look: with ghostly spectacles turned up on its\nghostly forehead. The hair was curiously stirred, as if by breath or hot\nair; and, though the eyes were wide open, they were perfectly\nmotionless. That, and its livid colour, made it horrible; but its horror\nseemed to be in spite of the face and beyond its control, rather than a\npart of its own expression."
+      "text": "Marley’s face. It was not in impenetrable shadow as the other\nobjects in the yard were, but had a dismal light about it, like a bad\nlobster in a dark cellar. It was not angry or ferocious, but looked at\nScrooge as Marley used to look: with ghostly spectacles turned up on its\nghostly forehead. The hair was curiously stirred, as if by breath or hot\nair; and, though the eyes were wide open, they were perfectly\nmotionless. That, and its livid colour, made it horrible; but its horror\nseemed to be in spite of the face and beyond its control, rather than a\npart of its own expression.",
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/face-145-v1.mp3",
+      "score": {
+        "key": "dread",
+        "xfade": 3
+      }
     },
     {
       "n": 147,
       "para": 83,
       "role": "Narrator",
       "cast": "Charles Dickens",
-      "text": "As Scrooge looked fixedly at this phenomenon, it was a knocker again."
+      "text": "As Scrooge looked fixedly at this phenomenon, it was a knocker again.",
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/knocker-again-146-v1.mp3"
     },
     {
       "n": 148,
       "para": 84,
       "role": "Narrator",
       "cast": "Charles Dickens",
-      "text": "To say that he was not startled, or that his blood was not conscious of\na terrible sensation to which it had been a stranger from infancy, would\nbe untrue. But he put his hand upon the key he had relinquished, turned\nit sturdily, walked in, and lighted his candle."
+      "text": "To say that he was not startled, or that his blood was not conscious of\na terrible sensation to which it had been a stranger from infancy, would\nbe untrue. But he put his hand upon the key he had relinquished, turned\nit sturdily, walked in, and lighted his candle.",
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/candle-147-v1.mp3"
     },
     {
       "n": 149,
       "para": 85,
       "role": "Narrator",
       "cast": "Charles Dickens",
-      "text": "He did pause, with a moment’s irresolution, before he shut\nthe door; and he did look cautiously behind it first, as if he\nhalf expected to be terrified with the sight of Marley’s pigtail\nsticking out into the hall. But there was nothing on the back of the\ndoor, except the screws and nuts that held the knocker on, so he said"
+      "text": "He did pause, with a moment’s irresolution, before he shut\nthe door; and he did look cautiously behind it first, as if he\nhalf expected to be terrified with the sight of Marley’s pigtail\nsticking out into the hall. But there was nothing on the back of the\ndoor, except the screws and nuts that held the knocker on, so he said",
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/behind-door-148-v1.mp3"
     },
     {
       "n": 150,
@@ -1172,12 +1158,7 @@
       "role": "Narrator",
       "cast": "Charles Dickens",
       "text": "and closed it with a bang.",
-      "sfx": [
-        {
-          "key": "door_bang",
-          "at": "with a bang"
-        }
-      ]
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bang-150-v1.mp3"
     },
     {
       "n": 152,
@@ -1187,12 +1168,7 @@
       "text": "The sound resounded through the house like thunder. Every room above,\nand every cask in the wine-merchant’s cellars below, appeared to\nhave a separate peal of echoes of its own. Scrooge was not a man to be\nfrightened by echoes. He fastened the door, and walked across the hall,\nand up the stairs; slowly too: trimming his candle as he went.",
       "bed": "chambers",
       "state": 1,
-      "sfx": [
-        {
-          "key": "steps_stone",
-          "at": "up the stairs"
-        }
-      ]
+      "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/echoes-151-v1.mp3"
     },
     {
       "n": 153,

@@ -74,16 +74,11 @@
    "role": "Narrator",
    "cast": "Charles Dickens",
    "text": "Marley was dead: to begin with. There is no\ndoubt whatever about that. The register of his burial was signed by the\nclergyman, the clerk, the undertaker, and the chief mourner. Scrooge\nsigned it: and Scrooge’s name was good upon ’Change, for\nanything he chose to put his hand to. Old Marley was as dead as a\ndoor-nail.",
-   "sfx": [
-    {
-     "key": "coffin_nails",
-     "at": "as dead as a door-nail"
-    }
-   ],
    "score": {
     "key": "carol",
     "xfade": 2
-   }
+   },
+   "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/eulogy-3-v1.mp3"
   },
   {
    "n": 4,
@@ -91,12 +86,7 @@
    "role": "Narrator",
    "cast": "Charles Dickens",
    "text": "Mind! I don’t mean to say that I know, of my own knowledge, what\nthere is particularly dead about a door-nail. I might have been\ninclined, myself, to regard a coffin-nail as the deadest piece of\nironmongery in the trade. But the wisdom of our ancestors is in the\nsimile; and my unhallowed hands shall not disturb it, or the Country’s\ndone for. You will therefore permit me to repeat, emphatically, that\nMarley was as dead as a door-nail.",
-   "sfx": [
-    {
-     "key": "coffin_nail_short",
-     "at": "a coffin-nail"
-    }
-   ]
+   "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/eulogy-4-v1.mp3"
   },
   {
    "n": 5,
@@ -107,14 +97,16 @@
    "para": 4,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Scrooge knew he was dead? Of course he did. How could it be otherwise?\nScrooge and he were partners for I don’t know how many years.\nScrooge was his sole executor, his sole administrator, his sole assign,\nhis sole residuary legatee, his sole friend, and sole mourner. And even\nScrooge was not so dreadfully cut up by the sad event, but that he was\nan excellent man of business on the very day of the funeral, and\nsolemnised it with an undoubted bargain."
+   "text": "Scrooge knew he was dead? Of course he did. How could it be otherwise?\nScrooge and he were partners for I don’t know how many years.\nScrooge was his sole executor, his sole administrator, his sole assign,\nhis sole residuary legatee, his sole friend, and sole mourner. And even\nScrooge was not so dreadfully cut up by the sad event, but that he was\nan excellent man of business on the very day of the funeral, and\nsolemnised it with an undoubted bargain.",
+   "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/eulogy-5-v1.mp3"
   },
   {
    "n": 6,
    "para": 5,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The mention of Marley’s funeral brings me back to the point I\nstarted from. There is no doubt that Marley was dead. This must be\ndistinctly understood, or nothing wonderful can come of the story I am\ngoing to relate. If we were not perfectly convinced that Hamlet’s\nFather died before the play began, there would be nothing more\nremarkable in his taking a stroll at night, in an easterly wind, upon\nhis own ramparts, than there would be in any other middle-aged gentleman\nrashly turning out after dark in a breezy spot—say Saint Paul’s\nChurchyard for instance—literally to astonish his son’s weak\nmind."
+   "text": "The mention of Marley’s funeral brings me back to the point I\nstarted from. There is no doubt that Marley was dead. This must be\ndistinctly understood, or nothing wonderful can come of the story I am\ngoing to relate. If we were not perfectly convinced that Hamlet’s\nFather died before the play began, there would be nothing more\nremarkable in his taking a stroll at night, in an easterly wind, upon\nhis own ramparts, than there would be in any other middle-aged gentleman\nrashly turning out after dark in a breezy spot—say Saint Paul’s\nChurchyard for instance—literally to astonish his son’s weak\nmind.",
+   "audio": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/eulogy-6-v1.mp3"
   },
   {
    "n": 7,

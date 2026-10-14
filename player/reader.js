@@ -158,6 +158,16 @@
           var w = R.sheet && R.sheet.work;
           return w ? R._json(w + '/screenplay.json').then(function (sp) { R.play_ = sp; }, function () {}) : null;
         }).then(function () {
+          /* [FLASH-QV] 14 Oct 2026: the work's index may name the voice model it is recorded on
+             ("voice_model": "gemini-2.5-flash-tts" — Quo Vadis only). Every other work, or no
+             index, or an engine without setModel: the engine's default, exactly as before. */
+          var eng = R.engine(), w = R.sheet && R.sheet.work;
+          if (!eng || typeof eng.setModel !== 'function') return null;
+          if (!w) { eng.setModel(null); return null; }
+          return R._json(w + '/index.json').then(function (ix) {
+            eng.setModel(ix && typeof ix.voice_model === 'string' ? ix.voice_model : null);
+          }, function () { eng.setModel(null); });
+        }).then(function () {
           R.i = 0;
           R.state = 'idle';
           return R.sheet;

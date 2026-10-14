@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Amenti Readings — Record a Book</title>
+<style>
+  :root { --bg:#0e0c0a; --panel:#17140f; --ink:#e9e1cf; --dim:#9c927d; --gold:#c9a45a; --red:#d0644f; --green:#7fae6a; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 Georgia, 'Times New Roman', serif; }
+  main { max-width:760px; margin:0 auto; padding:28px 16px 60px; }
+  h1 { font-weight:normal; letter-spacing:.06em; color:var(--gold); margin:0 0 4px; font-size:26px; }
+  .sub { color:var(--dim); margin:0 0 22px; font-size:14px; }
+  .panel { background:var(--panel); border:1px solid #2b251b; border-radius:6px; padding:16px; margin-bottom:16px; }
+  label { color:var(--dim); font-size:13px; display:block; margin-bottom:4px; }
+  select, button { font:inherit; font-size:15px; background:#221d15; color:var(--ink); border:1px solid #3a3224; border-radius:4px; padding:8px 12px; }
+  button { cursor:pointer; }
+  button.go { background:var(--gold); color:#1a1408; border-color:var(--gold); }
+  button:disabled { opacity:.45; cursor:default; }
+  .row { display:flex; gap:12px; flex-wrap:wrap; align-items:flex-end; }
+  .row > div { flex:1 1 200px; }
+  .bar { height:10px; background:#2a241a; border-radius:5px; overflow:hidden; margin:10px 0 6px; }
+  .bar i { display:block; height:100%; width:0; background:var(--gold); transition:width .4s; }
+  .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:8px 16px; font-size:14px; }
+  .stats b { display:block; font-weight:normal; color:var(--dim); font-size:12px; letter-spacing:.04em; text-transform:uppercase; }
+  .model { font-size:14px; margin-top:10px; }
+  .warn { color:var(--red); }
+  .ok { color:var(--green); }
+  #log { font:12px/1.5 Menlo, monospace; color:var(--dim); max-height:260px; overflow:auto; white-space:pre-wrap; }
+  .note { font-size:13px; color:var(--dim); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Record a Book</h1>
+  <p class="sub">Walks every line of the chosen chapters through the voice, in order, so each is recorded once and kept in the archive. Lines already recorded are skipped at no cost.</p>
+
+  <div class="panel">
+    <div class="row">
+      <div><label for="work">Work</label><select id="work"><option value="quo-vadis">Quo Vadis</option></select></div>
+      <div><label for="book">Book</label><select id="book"></select></div>
+    </div>
+    <div class="model" id="model">Checking the voice model…</div>
+    <div class="row" style="margin-top:14px">
+      <div style="flex:0 0 auto"><button class="go" id="start" disabled>Record</button></div>
+      <div style="flex:0 0 auto"><button id="stop" disabled>Pause</button></div>
+    </div>
+    <p class="note">Keep this tab in front while it runs — Safari slows tabs it cannot see. Pausing is safe; recording again carries on where it stopped.</p>
+  </div>
+
+  <div class="panel">
+    <div id="where">Not started.</div>
+    <div class="bar"><i id="fill"></i></div>
+    <div class="stats">
+      <div><b>Lines</b><span id="s-lines">0 / 0</span></div>
+      <div><b>Pieces sent</b><span id="s-pieces">0</span></div>
+      <div><b>Characters</b><span id="s-chars">0</span></div>
+      <div><b>Failed (retried)</b><span id="s-fail">0</span></div>
+      <div><b>Elapsed</b><span id="s-time">0:00</span></div>
+      <div><b>Remaining (est.)</b><span id="s-left">—</span></div>
+    </div>
+  </div>
+
+  <div class="panel"><div id="log"></div></div>
+</main>
+
+<script src="https://ianingram.github.io/Amenti.live/amenti-core.bundle.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/reader.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/casting.js"></script>
+<script>
+/* RECORD A BOOK · 14 Oct 2026 ([FLASH-QV]).
+   Uses exactly what the player uses — R.load, R.spoken, R.nameFor, R.direction and the
+   engine's warm() — so every request is the one a listener's page would send, and lands
+   on the same archive key. Paced under the Worker's 60-a-minute limit (PACE pieces a
+   minute). A piece that comes back fast was already in the archive and costs nothing,
+   so it does not count against the pace. Failed lines are retried at the end. */
+(function () {
+  var PACE = 50, PARALLEL = 4, FAST_MS = 1200;
+  var R = window.Amenti && window.Amenti.reading;
+  var E = window.Amenti && window.Amenti.throttle;
+  var $ = function (id) { return document.getElementById(id); };
+  var idx = null, running = false, stopAsked = false, t0 = 0, sent = [], tick = null;
+  var S = { lines: 0, total: 0, pieces: 0, chars: 0, fail: 0 };
+
+  function log(s) { var el = $('log'); el.textContent += s + '\n'; el.scrollTop = el.scrollHeight; }
+  function mmss(ms) { var s = Math.round(ms / 1000), h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60); s = s % 60;
+    return (h ? h + ':' + (m < 10 ? '0' : '') : '') + m + ':' + (s < 10 ? '0' : '') + s; }
+  function draw() {
+    $('s-lines').textContent = S.lines + ' / ' + S.total;
+    $('s-pieces').textContent = S.pieces; $('s-chars').textContent = S.chars.toLocaleString();
+    $('s-fail').textContent = S.fail; $('fill').style.width = (S.total ? 100 * S.lines / S.total : 0) + '%';
+    if (t0) { var el = Date.now() - t0; $('s-time').textContent = mmss(el);
+      $('s-left').textContent = S.lines > 20 ? mmss(el / S.lines * (S.total - S.lines)) : '—'; }
+  }
+  function sleep(ms) { return new Promise(function (r) { setTimeout(r, ms); }); }
+  /* the pace: no more than PACE new pieces in any rolling minute */
+  function room() { var now = Date.now(); sent = sent.filter(function (t) { return now - t < 60000; }); return PACE - sent.length; }
+  function waitRoom(n) { return room() >= n ? Promise.resolve() : sleep(1000).then(function () { return waitRoom(n); }); }
+
+  if (!R || !E || typeof E.warm !== 'function') {
+    $('model').innerHTML = '<span class="warn">The voice engine did not load. Nothing can be recorded from this page.</span>';
+    return;
+  }
+
+  function chapters() {
+    var b = idx.books[+$('book').value];
+    var out = []; for (var c = b.chapters[0]; c <= b.chapters[1]; c++) out.push(c); return out;
+  }
+  function pad(n) { return (n < 10 ? '0' : '') + n; }
+
+  function checkModel() {
+    var want = idx.voice_model || null;
+    var can = typeof E.setModel === 'function';
+    if (want && !can) {
+      $('model').innerHTML = '<span class="warn">This book is set to record on <b>' + want + '</b>, but the engine on the page has no model switch yet. ' +
+        'Update amenti-core.bundle.js first — recording now would use the default voice instead.</span>';
+      $('start').disabled = true; return false;
+    }
+    $('model').innerHTML = 'Recording on: <b class="ok">' + (want || 'the default voice (Pro)') + '</b>';
+    $('start').disabled = false; return true;
+  }
+
+  function loadWork() {
+    var w = $('work').value;
+    return R._json(w + '/index.json').then(function (ix) {
+      idx = ix; var sel = $('book'); sel.innerHTML = '';
+      (ix.books || [{ numeral: '', title: 'All chapters', chapters: [1, ix.chapters.length] }]).forEach(function (b, i) {
+        var o = document.createElement('option'); o.value = i;
+        o.textContent = (b.numeral ? 'Book ' + b.numeral + ' — ' : '') + b.title + '  (chapters ' + b.chapters[0] + '–' + b.chapters[1] + ')';
+        sel.appendChild(o);
+      });
+      if (!ix.books) idx.books = [{ title: 'All chapters', chapters: [1, ix.chapters.length] }];
+      checkModel();
+    }, function (e) { $('model').innerHTML = '<span class="warn">Cannot read ' + w + '/index.json — ' + e.message + '</span>'; });
+  }
+
+  /* every line of a chapter that the voice speaks */
+  function linesOf(ch) {
+    return R.load(idx.work + '/ep' + pad(ch) + '.json').then(function (sheet) {
+      var out = [];
+      sheet.cues.forEach(function (c, k) {
+        var scene = false; try { scene = typeof R._sceneFor === 'function' && R._sceneFor(k); } catch (e) {}
+        if (c.audio || scene) return;
+        var text = R.spoken(c); if (!text || !/\w/.test(text)) return;
+        out.push({ ch: ch, k: k, text: text, name: R.nameFor(c), dir: R.direction(c), pieces: E.chunk(text).length });
+      });
+      return out;
+    });
+  }
+
+  function recordLine(L) {
+    return waitRoom(L.pieces).then(function () {
+      if (stopAsked) return 'stopped';
+      var stamp = Date.now(), mine = [];
+      for (var i = 0; i < L.pieces; i++) { sent.push(stamp); mine.push(stamp); }
+      return Promise.resolve(E.warm(L.text, L.name, L.dir)).then(function (res) {
+        var ok = Array.isArray(res) ? res.every(Boolean) : !!res;
+        if (Date.now() - stamp < FAST_MS) {                     /* came back fast: it was archived, free */
+          mine.forEach(function () { var j = sent.indexOf(stamp); if (j >= 0) sent.splice(j, 1); });
+        }
+        if (!ok) return 'fail';
+        S.pieces += L.pieces; S.chars += L.text.length; return 'ok';
+      }, function () { return 'fail'; });
+    });
+  }
+
+  function runLines(lines, retry) {
+    var i = 0, failed = [];
+    function worker() {
+      if (stopAsked || i >= lines.length) return Promise.resolve();
+      var L = lines[i++];
+      $('where').textContent = (retry ? 'Retrying — ' : '') + 'Chapter ' + L.ch + ', line ' + (L.k + 1);
+      return recordLine(L).then(function (r) {
+        if (r === 'ok') { S.lines++; }
+        else if (r === 'fail') { S.fail++; failed.push(L); return sleep(retry ? 20000 : 5000); }
+        draw();
+      }).then(worker);
+    }
+    var ws = []; for (var p = 0; p < PARALLEL; p++) ws.push(worker());
+    return Promise.all(ws).then(function () { return failed; });
+  }
+
+  $('start').onclick = function () {
+    if (running) return;
+    if (!checkModel()) return;
+    running = true; stopAsked = false; $('start').disabled = true; $('stop').disabled = false;
+    $('book').disabled = $('work').disabled = true;
+    S = { lines: 0, total: 0, pieces: 0, chars: 0, fail: 0 }; t0 = Date.now(); sent = [];
+    tick = setInterval(draw, 1000);
+    var chs = chapters(), all = [];
+    log('Reading the scripts for chapters ' + chs[0] + '–' + chs[chs.length - 1] + '…');
+    chs.reduce(function (p, ch) { return p.then(function () { return linesOf(ch).then(function (l) { all = all.concat(l); }); }); }, Promise.resolve())
+      .then(function () {
+        checkModel();                                           /* R.load set the model from the index; confirm it took */
+        if (idx.voice_model && E.model && E.model() !== idx.voice_model) throw new Error('the engine did not take the model ' + idx.voice_model);
+        S.total = all.length; draw();
+        log(all.length + ' lines, ' + all.reduce(function (n, l) { return n + l.pieces; }, 0) + ' pieces. Recording on ' + (E.model && E.model() || 'the default voice') + '.');
+        return runLines(all, false);
+      })
+      .then(function (failed) {
+        if (failed.length && !stopAsked) { log(failed.length + ' lines failed the first time — retrying them now.'); S.fail = 0; return runLines(failed, true); }
+        return failed;
+      })
+      .then(function (still) {
+        draw();
+        if (stopAsked) log('Paused at ' + S.lines + ' of ' + S.total + ' lines. Press Record to carry on — finished lines come back free.');
+        else if (still.length) { log(still.length + ' lines could not be recorded:'); still.forEach(function (L) { log('  chapter ' + L.ch + ', line ' + (L.k + 1)); }); log('Press Record again later to try them.'); }
+        else log('Done. ' + S.total + ' lines recorded in ' + mmss(Date.now() - t0) + '.');
+        $('where').textContent = stopAsked ? 'Paused.' : (still.length ? 'Finished, with lines left to retry.' : 'Finished.');
+      })
+      ['catch'](function (e) { log('Stopped: ' + e.message); $('where').textContent = 'Stopped.'; })
+      .then(function () {
+        running = false; clearInterval(tick); draw();
+        $('start').disabled = false; $('stop').disabled = true; $('book').disabled = $('work').disabled = false;
+      });
+  };
+  $('stop').onclick = function () { stopAsked = true; $('stop').disabled = true; log('Pausing after the lines already in flight…'); };
+  $('work').onchange = loadWork;
+  loadWork();
+})();
+</script>
+</body>
+</html>

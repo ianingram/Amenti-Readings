@@ -4,518 +4,630 @@
  "author": "Henryk Sienkiewicz",
  "first_published": 1896,
  "source": "library/henryk-sienkiewicz/ch01.md … ch73.md in Amenti.live · Jeremiah Curtin’s translation (1896) · Project Gutenberg #2853 · public domain",
- "note": "Seventy-three chapters. Sienkiewicz narrates; the real Romans play themselves — Petronius, Nero, Seneca, Peter, Paul, Lucan. Built in parts of about ten chapters; all eight parts are scripted.",
+ "note": "Seventy-three chapters in four books. Sienkiewicz narrates; the real Romans play themselves — Petronius, Nero, Seneca, Peter, Paul, Lucan. All four books are scripted.",
+ "voice_model": "gemini-2.5-flash-tts",
  "chapters": [
   {
    "n": 1,
    "file": "quo-vadis/ep01.json",
    "document": "CHAPTER 1",
    "summary": "Petronius Wakes",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 2,
    "file": "quo-vadis/ep02.json",
    "document": "CHAPTER 2",
    "summary": "The House of Aulus",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 3,
    "file": "quo-vadis/ep03.json",
    "document": "CHAPTER 3",
    "summary": "The Plan",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 4,
    "file": "quo-vadis/ep04.json",
    "document": "CHAPTER 4",
    "summary": "The Centurion at the Door",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 5,
    "file": "quo-vadis/ep05.json",
    "document": "CHAPTER 5",
    "summary": "Seneca",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 6,
    "file": "quo-vadis/ep06.json",
    "document": "CHAPTER 6",
    "summary": "Petronius and Vinicius",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 7,
    "file": "quo-vadis/ep07.json",
    "document": "CHAPTER 7",
    "summary": "The Feast on the Palatine",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 8,
    "file": "quo-vadis/ep08.json",
    "document": "CHAPTER 8",
    "summary": "Ursus",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 9,
    "file": "quo-vadis/ep09.json",
    "document": "CHAPTER 9",
    "summary": "Poppæa in the Garden",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 10,
    "file": "quo-vadis/ep10.json",
    "document": "CHAPTER 10",
    "summary": "The Litter in the Dark",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 1
   },
   {
    "n": 11,
    "file": "quo-vadis/ep11.json",
    "document": "CHAPTER 11",
    "summary": "The Palace",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 12,
    "file": "quo-vadis/ep12.json",
    "document": "CHAPTER 12",
    "summary": "Eunice",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 13,
    "file": "quo-vadis/ep13.json",
    "document": "CHAPTER 13",
    "summary": "Chilo Chilonides",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 14,
    "file": "quo-vadis/ep14.json",
    "document": "CHAPTER 14",
    "summary": "The Sign of the Fish",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 15,
    "file": "quo-vadis/ep15.json",
    "document": "CHAPTER 15",
    "summary": "A Letter from Antium",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 16,
    "file": "quo-vadis/ep16.json",
    "document": "CHAPTER 16",
    "summary": "Glaucus",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 17,
    "file": "quo-vadis/ep17.json",
    "document": "CHAPTER 17",
    "summary": "The Mill by the River",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 18,
    "file": "quo-vadis/ep18.json",
    "document": "CHAPTER 18",
    "summary": "A Second Letter",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 19,
    "file": "quo-vadis/ep19.json",
    "document": "CHAPTER 19",
    "summary": "Croton",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 20,
    "file": "quo-vadis/ep20.json",
    "document": "CHAPTER 20",
    "summary": "The Ostrianum",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 21,
    "file": "quo-vadis/ep21.json",
    "document": "CHAPTER 21",
    "summary": "Lygia",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 22,
    "file": "quo-vadis/ep22.json",
    "document": "CHAPTER 22",
    "summary": "Ursus and Croton",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 23,
    "file": "quo-vadis/ep23.json",
    "document": "CHAPTER 23",
    "summary": "The House in the Trans-Tiber",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 24,
    "file": "quo-vadis/ep24.json",
    "document": "CHAPTER 24",
    "summary": "Glaucus Forgives",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 25,
    "file": "quo-vadis/ep25.json",
    "document": "CHAPTER 25",
    "summary": "The Apostle by the Fire",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 26,
    "file": "quo-vadis/ep26.json",
    "document": "CHAPTER 26",
    "summary": "Ursus",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 2
   },
   {
    "n": 27,
    "file": "quo-vadis/ep27.json",
    "document": "CHAPTER 27",
    "summary": "Peter and Paul",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 28,
    "file": "quo-vadis/ep28.json",
    "document": "CHAPTER 28",
    "summary": "A Letter from Petronius",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 29,
    "file": "quo-vadis/ep29.json",
    "document": "CHAPTER 29",
    "summary": "Eunice",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 30,
    "file": "quo-vadis/ep30.json",
    "document": "CHAPTER 30",
    "summary": "Nero",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 31,
    "file": "quo-vadis/ep31.json",
    "document": "CHAPTER 31",
    "summary": "The Floating Feast",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 32,
    "file": "quo-vadis/ep32.json",
    "document": "CHAPTER 32",
    "summary": "Three Hundred Stripes",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 33,
    "file": "quo-vadis/ep33.json",
    "document": "CHAPTER 33",
    "summary": "We Bring Love",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 34,
    "file": "quo-vadis/ep34.json",
    "document": "CHAPTER 34",
    "summary": "The Garden",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 35,
    "file": "quo-vadis/ep35.json",
    "document": "CHAPTER 35",
    "summary": "The Betrothal",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 36,
    "file": "quo-vadis/ep36.json",
    "document": "CHAPTER 36",
    "summary": "The Procession",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 37,
    "file": "quo-vadis/ep37.json",
    "document": "CHAPTER 37",
    "summary": "Letter from Laurentum",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 38,
    "file": "quo-vadis/ep38.json",
    "document": "CHAPTER 38",
    "summary": "Letter from Antium",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 39,
    "file": "quo-vadis/ep39.json",
    "document": "CHAPTER 39",
    "summary": "Lions in the Night",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 40,
    "file": "quo-vadis/ep40.json",
    "document": "CHAPTER 40",
    "summary": "The Troyad",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 41,
    "file": "quo-vadis/ep41.json",
    "document": "CHAPTER 41",
    "summary": "Rome Burns",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 42,
    "file": "quo-vadis/ep42.json",
    "document": "CHAPTER 42",
    "summary": "The Ride to Rome",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 43,
    "file": "quo-vadis/ep43.json",
    "document": "CHAPTER 43",
    "summary": "Into the Fire",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 44,
    "file": "quo-vadis/ep44.json",
    "document": "CHAPTER 44",
    "summary": "The Burning City",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 45,
    "file": "quo-vadis/ep45.json",
    "document": "CHAPTER 45",
    "summary": "The Sand-Pit",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 46,
    "file": "quo-vadis/ep46.json",
    "document": "CHAPTER 46",
    "summary": "Panem et Circenses",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 47,
    "file": "quo-vadis/ep47.json",
    "document": "CHAPTER 47",
    "summary": "The Quarryman's Hut",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 48,
    "file": "quo-vadis/ep48.json",
    "document": "CHAPTER 48",
    "summary": "A Victim",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 3
   },
   {
    "n": 49,
    "file": "quo-vadis/ep49.json",
    "document": "CHAPTER 49",
    "summary": "Chilo Accuses",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 50,
    "file": "quo-vadis/ep50.json",
    "document": "CHAPTER 50",
    "summary": "Lygia Seized",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 51,
    "file": "quo-vadis/ep51.json",
    "document": "CHAPTER 51",
    "summary": "The Persecution",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 52,
    "file": "quo-vadis/ep52.json",
    "document": "CHAPTER 52",
    "summary": "The Vineyard",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 53,
    "file": "quo-vadis/ep53.json",
    "document": "CHAPTER 53",
    "summary": "Chilo's Litter",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 54,
    "file": "quo-vadis/ep54.json",
    "document": "CHAPTER 54",
    "summary": "Rufius",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 55,
    "file": "quo-vadis/ep55.json",
    "document": "CHAPTER 55",
    "summary": "The Arena",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 56,
    "file": "quo-vadis/ep56.json",
    "document": "CHAPTER 56",
    "summary": "The Coffin",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 57,
    "file": "quo-vadis/ep57.json",
    "document": "CHAPTER 57",
    "summary": "Crispus",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 58,
    "file": "quo-vadis/ep58.json",
    "document": "CHAPTER 58",
    "summary": "Chilo's Night",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 59,
    "file": "quo-vadis/ep59.json",
    "document": "CHAPTER 59",
    "summary": "The Esquiline Prison",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 60,
    "file": "quo-vadis/ep60.json",
    "document": "CHAPTER 60",
    "summary": "The Last Nights",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 61,
    "file": "quo-vadis/ep61.json",
    "document": "CHAPTER 61",
    "summary": "The Living Torches",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 62,
    "file": "quo-vadis/ep62.json",
    "document": "CHAPTER 62",
    "summary": "Chilo's Cross",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 63,
    "file": "quo-vadis/ep63.json",
    "document": "CHAPTER 63",
    "summary": "Waiting for Death",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 64,
    "file": "quo-vadis/ep64.json",
    "document": "CHAPTER 64",
    "summary": "The Wedding Feast",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 65,
    "file": "quo-vadis/ep65.json",
    "document": "CHAPTER 65",
    "summary": "Ursus and the Aurochs",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 66,
    "file": "quo-vadis/ep66.json",
    "document": "CHAPTER 66",
    "summary": "Saved",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 67,
    "file": "quo-vadis/ep67.json",
    "document": "CHAPTER 67",
    "summary": "The Garden",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 68,
    "file": "quo-vadis/ep68.json",
    "document": "CHAPTER 68",
    "summary": "The Quarry",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 69,
    "file": "quo-vadis/ep69.json",
    "document": "CHAPTER 69",
    "summary": "Quo Vadis",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 70,
    "file": "quo-vadis/ep70.json",
    "document": "CHAPTER 70",
    "summary": "The Apostles",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 71,
    "file": "quo-vadis/ep71.json",
    "document": "CHAPTER 71",
    "summary": "Piso's Conspiracy",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 72,
    "file": "quo-vadis/ep72.json",
    "document": "CHAPTER 72",
    "summary": "The Letters",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
   },
   {
    "n": 73,
    "file": "quo-vadis/ep73.json",
    "document": "CHAPTER 73",
    "summary": "The Last Feast",
-   "status": "scripted"
+   "status": "scripted",
+   "book": 4
+  }
+ ],
+ "books": [
+  {
+   "n": 1,
+   "numeral": "I",
+   "title": "Lygia",
+   "chapters": [
+    1,
+    10
+   ]
+  },
+  {
+   "n": 2,
+   "numeral": "II",
+   "title": "The Sign of the Fish",
+   "chapters": [
+    11,
+    26
+   ]
+  },
+  {
+   "n": 3,
+   "numeral": "III",
+   "title": "The Fire",
+   "chapters": [
+    27,
+    48
+   ]
+  },
+  {
+   "n": 4,
+   "numeral": "IV",
+   "title": "The Arena",
+   "chapters": [
+    49,
+    73
+   ]
   }
  ]
 }

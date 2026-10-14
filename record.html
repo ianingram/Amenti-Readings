@@ -75,7 +75,41 @@
    minute). A piece that comes back fast was already in the archive and costs nothing,
    so it does not count against the pace. Failed lines are retried at the end. */
 (function () {
-  var PACE = 50, PARALLEL = 4, FAST_MS = 1200;
+  var PACE = 10, PARALLEL = 1, FAST_MS = 1200, MIN_PACE = 4;   /* start within Google's default Flash quota; climb when it allows */
+  /* [v2] Watch the voice service's answers without touching the engine: a thin wrapper on
+     fetch notes the status and error of every /speak reply. A refusal (429) halves the pace
+     and pauses the queue for a minute; the reason is shown in the log, once per kind. */
+  var errSeen = {}, holdUntil = 0, lastErr = '', last429 = Date.now(), TOP = 50;
+  /* a quiet minute (no refusals): try half again as fast, up to TOP — so a raised quota is used at once */
+  setInterval(function () {
+    if (running && PACE < TOP && Date.now() - last429 > 60000 && Date.now() > holdUntil) {
+      PACE = Math.min(TOP, Math.ceil(PACE * 1.5)); PARALLEL = Math.max(1, Math.min(4, Math.ceil(PACE / 12)));
+      last429 = Date.now(); log('No refusals for a minute — trying ' + PACE + ' pieces a minute.');
+    }
+  }, 10000);
+  var _fetch = window.fetch;
+  window.fetch = function (u, o) {
+    var p = _fetch.apply(this, arguments);
+    if (String(u).indexOf('/speak') < 0) return p;
+    return p.then(function (r) {
+      if (!r.ok) {
+        r.clone().text().then(function (t) {
+          var why = r.status + ' ' + (t || '').replace(/\s+/g, ' ').slice(0, 160);
+          lastErr = why;
+          var kind = r.status + ':' + (t || '').slice(0, 40);
+          if (!errSeen[kind]) { errSeen[kind] = 1; log('Voice service said: ' + why); }
+          if (r.status === 429) {
+            last429 = Date.now();
+            if (Date.now() < holdUntil) return;                 /* one slow-down per refusal wave */
+            var np = Math.max(MIN_PACE, Math.floor(PACE / 2));
+            if (np < PACE) { PACE = np; PARALLEL = Math.min(PARALLEL, Math.max(1, Math.ceil(PACE / 12))); log('Slowing to ' + PACE + ' pieces a minute.'); }
+            holdUntil = Date.now() + 60000;
+          }
+        });
+      }
+      return r;
+    });
+  };
   var R = window.Amenti && window.Amenti.reading;
   var E = window.Amenti && window.Amenti.throttle;
   var $ = function (id) { return document.getElementById(id); };
@@ -95,7 +129,7 @@
   function sleep(ms) { return new Promise(function (r) { setTimeout(r, ms); }); }
   /* the pace: no more than PACE new pieces in any rolling minute */
   function room() { var now = Date.now(); sent = sent.filter(function (t) { return now - t < 60000; }); return PACE - sent.length; }
-  function waitRoom(n) { return room() >= n ? Promise.resolve() : sleep(1000).then(function () { return waitRoom(n); }); }
+  function waitRoom(n) { return (Date.now() >= holdUntil && room() >= Math.min(n, PACE)) ? Promise.resolve() : sleep(1000).then(function () { return waitRoom(n); }); }
 
   if (!R || !E || typeof E.warm !== 'function') {
     $('model').innerHTML = '<span class="warn">The voice engine did not load. Nothing can be recorded from this page.</span>';
@@ -166,17 +200,19 @@
 
   function runLines(lines, retry) {
     var i = 0, failed = [];
-    function worker() {
+    /* lane p works only while p < PARALLEL: when the pace drops, the extra lanes wait */
+    function lane(p) {
       if (stopAsked || i >= lines.length) return Promise.resolve();
+      if (p >= PARALLEL) return sleep(2000).then(function () { return lane(p); });
       var L = lines[i++];
       $('where').textContent = (retry ? 'Retrying — ' : '') + 'Chapter ' + L.ch + ', line ' + (L.k + 1);
       return recordLine(L).then(function (r) {
         if (r === 'ok') { S.lines++; }
-        else if (r === 'fail') { S.fail++; failed.push(L); return sleep(retry ? 20000 : 5000); }
+        else if (r === 'fail') { S.fail++; failed.push(L); }
         draw();
-      }).then(worker);
+      }).then(function () { return lane(p); });
     }
-    var ws = []; for (var p = 0; p < PARALLEL; p++) ws.push(worker());
+    var ws = []; for (var p = 0; p < 4; p++) ws.push(lane(p));
     return Promise.all(ws).then(function () { return failed; });
   }
 
@@ -185,7 +221,7 @@
     if (!checkModel()) return;
     running = true; stopAsked = false; $('start').disabled = true; $('stop').disabled = false;
     $('book').disabled = $('work').disabled = true;
-    S = { lines: 0, total: 0, pieces: 0, chars: 0, fail: 0 }; t0 = Date.now(); sent = [];
+    S = { lines: 0, total: 0, pieces: 0, chars: 0, fail: 0 }; t0 = Date.now(); sent = []; last429 = Date.now();
     tick = setInterval(draw, 1000);
     var chs = chapters(), all = [];
     log('Reading the scripts for chapters ' + chs[0] + '–' + chs[chs.length - 1] + '…');

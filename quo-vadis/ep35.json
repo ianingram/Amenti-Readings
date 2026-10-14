@@ -1,0 +1,763 @@
+{
+ "work": "quo-vadis",
+ "episode": 35,
+ "chapter": 35,
+ "title": "The Betrothal",
+ "document": "PART FOUR · CHAPTER XXXV",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch35.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXXV"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "ON the evening of that day Vinicius, while returning home through the\nForum, saw at the entrance to the Vicus Tuscus the gilded litter of\nPetronius, carried by eight stalwart Bithynians, and, stopping it with a\nsign of his hand, he approached the curtains."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou hast had a pleasant dream, I trust, and a happy one!”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "cried he,\nlaughing at sight of the slumbering Petronius."
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Oh, is it thou?”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius, waking up."
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Yes; I dropped asleep for\na moment, as I passed the night at the Palatine. I have come out to buy\nsomething to read on the road to Antium. What is the news?”"
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Art thou visiting the book-shops?”"
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Vinicius."
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Yes, I do not like to bring disorder into my library, so I am\ncollecting a special supply for the journey. It is likely that some\nnew things of Musonius and Seneca have come out. I am looking also for\nPersius, and a certain edition of the Eclogues of Vergilius, which I do\nnot possess. Oh, how tired I am; and how my hands ache from covers and\nrings! For when a man is once in a book-shop curiosity seizes him\nto look here and there. I was at the shop of Avirnus, and at that of\nAtractus on the Argiletum, and with the Sozii on Vicus Sandalarius. By\nCastor! how I want to sleep!”"
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou wert on the Palatine? Then I would ask thee what is it to be heard\nthere? Or, knowest what?--send home the litter and the tubes with books,\nand come to my house. We will talk of Antium, and of something else.”"
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“That is well,”"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius, coming out of the litter."
+  },
+  {
+   "n": 14,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou must\nknow, besides, that we start for Antium the day after to-morrow.”"
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Whence should I know that?”"
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“In what world art thou living? Well, I shall be the first to announce\nthe news to thee. Yes; be ready for the day after to-morrow in the\nmorning. Peas in olive oil have not helped, a cloth around his thick\nneck has not helped, and Bronzebeard is hoarse. In view of this, delay\nis not to be mentioned. He curses Rome and its atmosphere, with what the\nworld stands on; he would be glad to level it to the earth or to destroy\nit with fire, and he longs for the sea at the earliest. He says that\nthe smells which the wind brings from the narrow streets are driving him\ninto the grave. To-day great sacrifices were offered in all the temples\nto restore his voice; and woe to Rome, but especially to the Senate,\nshould it not return quickly!”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Then there would be no reason for his visit to Achæa?”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“But is that the only talent possessed by our divine Cæsar?”"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked\nPetronius, smiling."
+  },
+  {
+   "n": 20,
+   "para": 11,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“He would appear in the Olympic games, as a poet,\nwith his ‘Burning of Troy’; as a charioteer, as a musician, as an\nathlete,--nay, even as a dancer, and would receive in every case all\nthe crowns intended for victors. Dost know why that monkey grew hoarse?\nYesterday he wanted to equal our Paris in dancing, and danced for us the\nadventures of Leda, during which he sweated and caught cold. He was as\nwet and slippery as an eel freshly taken from water. He changed masks\none after another, whirled like a spindle, waved his hands like a\ndrunken sailor, till disgust seized me while looking at that great\nstomach and those slim legs. Paris taught him during two weeks; but\nimagine to thyself Ahenobarbus as Leda or as the divine swan. That was a\nswan!--there is no use in denying it. But he wants to appear before the\npublic in that pantomime,--first in Antium, and then in Rome.”"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“People are offended already because he sang in public; but to think\nthat a Roman Cæsar will appear as a mime! No; even Rome will not endure\nthat!”"
+  },
+  {
+   "n": 22,
+   "para": 13,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“My dear friend, Rome will endure anything; the Senate will pass a vote\nof thanks to the ‘Father of his country.’ And the rabble will be elated\nbecause Cæsar is its buffoon.”"
+  },
+  {
+   "n": 23,
+   "para": 14,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Say thyself, is it possible to be more debased?”"
+  },
+  {
+   "n": 24,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius shrugged his shoulders."
+  },
+  {
+   "n": 25,
+   "para": 15,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou art living by thyself at home,\nand meditating, now about Lygia, now about Christians, so thou knowest\nnot, perhaps, what happened two days since. Nero married, in public,\nPythagoras, who appeared as a bride. That passed the measure of madness,\nit would seem, would it not? And what wilt thou say? the flamens, who\nwere summoned, came and performed the ceremony with solemnity. I was\npresent. I can endure much; still I thought, I confess, that the gods,\nif there be any, should give a sign. But Cæsar does not believe in the\ngods, and he is right.”"
+  },
+  {
+   "n": 26,
+   "para": 16,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“So he is in one person chief priest, a god, and an atheist,”"
+  },
+  {
+   "n": 27,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said\nVinicius."
+  },
+  {
+   "n": 28,
+   "para": 17,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“True,”"
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius, beginning to laugh."
+  },
+  {
+   "n": 30,
+   "para": 17,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“That had not entered my\nhead; but the combination is such as the world has not seen.”"
+  },
+  {
+   "n": 31,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then,\nstopping a moment, he said:"
+  },
+  {
+   "n": 32,
+   "para": 17,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“One should add that this chief priest who\ndoes not believe in the gods, and this god who reviles the gods, fears\nthem in his character of atheist.”"
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“The proof of this is what happened in the temple of Vesta.”"
+  },
+  {
+   "n": 34,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“What a\nsociety!”"
+  },
+  {
+   "n": 35,
+   "para": 19,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“As the society is, so is Cæsar. But this will not last long.”"
+  },
+  {
+   "n": 36,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Thus conversing, they entered the house of Vinicius, who called for\nsupper joyously; then, turning to Petronius he said,--"
+  },
+  {
+   "n": 37,
+   "para": 20,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“No, my dear,\nsociety must be renewed.”"
+  },
+  {
+   "n": 38,
+   "para": 21,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“We shall not renew it,”"
+  },
+  {
+   "n": 39,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius,"
+  },
+  {
+   "n": 40,
+   "para": 21,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“even for the reason that\nin Nero’s time man is like a butterfly,--he lives in the sunshine of\nfavor, and at the first cold wind he perishes, even against his will.\nBy the son of Maia! more than once have I given myself this question: By\nwhat miracle has such a man as Lucius Saturninus been able to reach the\nage of ninety-three, to survive Tiberius, Caligula, Claudius? But never\nmind. Wilt thou permit me to send thy litter for Eunice? My wish to\nsleep has gone, somehow, and I should like to be joyous. Give command\nto cithara players to come to the supper, and afterward we will talk of\nAntium. It is needful to think of it, especially for thee.”"
+  },
+  {
+   "n": 41,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius gave the order to send for Eunice, but declared that he had no\nthought of breaking his head over the stay in Antium."
+  },
+  {
+   "n": 42,
+   "para": 23,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Let those break their heads who cannot live otherwise than in the rays\nof Cæsar’s favor. The world does not end on the Palatine, especially for\nthose who have something else in their hearts and souls.”"
+  },
+  {
+   "n": 43,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He said this so carelessly and with such animation and gladness that\nhis whole manner struck Petronius; hence, looking for a time at him, he\nasked,--"
+  },
+  {
+   "n": 44,
+   "para": 24,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“What is taking place in thee? Thou art to-day as thou wert when\nwearing the golden bulla on thy neck.”"
+  },
+  {
+   "n": 45,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I am happy,”"
+  },
+  {
+   "n": 46,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius."
+  },
+  {
+   "n": 47,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I have invited thee purposely to tell\nthee so.”"
+  },
+  {
+   "n": 48,
+   "para": 26,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“What has happened?”"
+  },
+  {
+   "n": 49,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Something which I would not give for the Roman Empire.”"
+  },
+  {
+   "n": 50,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he sat down, and, leaning on the arm of the chair, rested his head\non his hand, and asked,--"
+  },
+  {
+   "n": 51,
+   "para": 28,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Dost remember how we were at the house of\nAulus Plautius, and there thou didst see for the first time the godlike\nmaiden called by thee ‘the dawn and the spring’? Dost remember that\nPsyche, that incomparable, that one more beautiful than our maidens and\nour goddesses?”"
+  },
+  {
+   "n": 52,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius looked at him with astonishment, as if he wished to make sure\nthat his head was right."
+  },
+  {
+   "n": 53,
+   "para": 30,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Of whom art thou speaking?”"
+  },
+  {
+   "n": 54,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked he at last."
+  },
+  {
+   "n": 55,
+   "para": 30,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Evidently I remember\nLygia.”"
+  },
+  {
+   "n": 56,
+   "para": 31,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I am her betrothed.”"
+  },
+  {
+   "n": 57,
+   "para": 32,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“What!”"
+  },
+  {
+   "n": 58,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Vinicius sprang up and called his dispensator."
+  },
+  {
+   "n": 59,
+   "para": 34,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Let the slaves stand before me to the last soul, quickly!”"
+  },
+  {
+   "n": 60,
+   "para": 35,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Art thou her betrothed?”"
+  },
+  {
+   "n": 61,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "repeated Petronius."
+  },
+  {
+   "n": 62,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But before he recovered from his astonishment the immense atrium was\nswarming with people. Panting old men ran in, men in the vigor of life,\nwomen, boys, and girls. With each moment the atrium was filled more\nand more; in corridors, called “fauces,” voices were heard calling in\nvarious languages. Finally, all took their places in rows at the walls\nand among the columns. Vinicius, standing near the impluvium, turned to\nDemas, the freedman, and said,--"
+  },
+  {
+   "n": 63,
+   "para": 37,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Those who have served twenty years in my house are to appear tomorrow\nbefore the pretor, where they will receive freedom; those who have not\nserved out the time will receive three pieces of gold and double rations\nfor a week. Send an order to the village prisons to remit punishment,\nstrike the fetters from people’s feet, and feed them sufficiently. Know\nthat a happy day has come to me, and I wish rejoicing in the house.”"
+  },
+  {
+   "n": 64,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "For a moment they stood in silence, as if not believing their ears;\nthen all hands were raised at once, and all mouths cried,--“A-a! lord!\na-a-a!”"
+  },
+  {
+   "n": 65,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius dismissed them with a wave of his hand. Though they desired to\nthank him and to fall at his feet, they went away hurriedly, filling the\nhouse with happiness from cellar to roof."
+  },
+  {
+   "n": 66,
+   "para": 40,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“To-morrow,”"
+  },
+  {
+   "n": 67,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius,"
+  },
+  {
+   "n": 68,
+   "para": 40,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I will command them to meet again in the\ngarden, and to make such signs on the ground as they choose. Lygia will\nfree those who draw a fish.”"
+  },
+  {
+   "n": 69,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius, who never wondered long at anything, had grown indifferent,\nand asked,--"
+  },
+  {
+   "n": 70,
+   "para": 41,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“A fish, is it? Ah, ha! According to Chilo, that is the sign\nof a Christian, I remember.”"
+  },
+  {
+   "n": 71,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he extended his hand to Vinicius, and\nsaid:"
+  },
+  {
+   "n": 72,
+   "para": 41,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Happiness is always where a man sees it. May Flora strew flowers\nunder thy feet for long years. I wish thee everything which thou wishest\nthyself.”"
+  },
+  {
+   "n": 73,
+   "para": 42,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I thank thee, for I thought that thou wouldst dissuade me, and that, as\nthou seest, would be time lost.”"
+  },
+  {
+   "n": 74,
+   "para": 43,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I? Dissuade? By no means. On the contrary, I tell thee that thou art\ndoing well.”"
+  },
+  {
+   "n": 75,
+   "para": 44,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Ha, traitor!”"
+  },
+  {
+   "n": 76,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius, joyfully;"
+  },
+  {
+   "n": 77,
+   "para": 44,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“hast forgotten what thou\ndidst tell me once when we were leaving the house of Pomponia Græcina?”"
+  },
+  {
+   "n": 78,
+   "para": 45,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“No,”"
+  },
+  {
+   "n": 79,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius, with cool blood;"
+  },
+  {
+   "n": 80,
+   "para": 45,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“but I have changed my\nopinion. My dear,”"
+  },
+  {
+   "n": 81,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "added he after a while,"
+  },
+  {
+   "n": 82,
+   "para": 45,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“in Rome everything changes.\nHusbands change wives, wives change husbands; why should not I change\nopinions? It lacked little of Nero’s marrying Acte, whom for his sake\nthey represented as the descendant of a kingly line. Well, he would have\nhad an honest wife, and we an honest Augusta. By Proteus and his barren\nspaces in the sea! I shall change my opinion as often as I find it\nappropriate or profitable. As to Lygia, her royal descent is more\ncertain than Acte’s. But in Antium be on thy guard against Poppæa, who\nis revengeful.”"
+  },
+  {
+   "n": 83,
+   "para": 46,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I do not think of doing so. A hair will not fall from my head in\nAntium.”"
+  },
+  {
+   "n": 84,
+   "para": 47,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“If thou think to astonish me a second time, thou art mistaken; but\nwhence hast thou that certainty?”"
+  },
+  {
+   "n": 85,
+   "para": 48,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“The Apostle Peter told me so.”"
+  },
+  {
+   "n": 86,
+   "para": 49,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Ah, the Apostle Peter told thee! Against that there is no argument;\npermit me, however, to take certain measures of precaution even to\nthis end, that the Apostle Peter may not turn out a false prophet; for,\nshould the Apostle be mistaken, perchance he might lose thy confidence,\nwhich certainly will be of use to him in the future.”"
+  },
+  {
+   "n": 87,
+   "para": 50,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Do what may please thee, but I believe him. And if thou think to turn\nme against him by repeating his name with irony, thou art mistaken.”"
+  },
+  {
+   "n": 88,
+   "para": 51,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“But one question more. Hast thou become a Christian?”"
+  },
+  {
+   "n": 89,
+   "para": 52,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Not yet; but Paul of Tarsus will travel with me to explain the\nteachings of Christ, and afterward I will receive baptism; for thy\nstatement that they are enemies of life and pleasantness is not true.”"
+  },
+  {
+   "n": 90,
+   "para": 53,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“All the better for thee and Lygia,”"
+  },
+  {
+   "n": 91,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius; then, shrugging\nhis shoulders, he said, as if to himself,"
+  },
+  {
+   "n": 92,
+   "para": 53,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“But it is astonishing how\nskilled those people are in gaining adherents, and how that sect is\nextending.”"
+  },
+  {
+   "n": 93,
+   "para": 54,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 94,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius, with as much warmth as if he had been baptized\nalready;"
+  },
+  {
+   "n": 95,
+   "para": 54,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“there are thousands and tens of thousands of them in Rome, in\nthe cities of Italy, in Greece and Asia. There are Christians among\nthe legions and among the pretorians; they are in the palace of Cæsar\nitself. Slaves and citizens, poor and rich, plebeian and patrician,\nconfess that faith. Dost thou know that the Cornelii are Christians,\nthat Pomponia Græcina is a Christian, that likely Octavia was, and Acte\nis? Yes, that teaching will embrace the world, and it alone is able to\nrenew it. Do not shrug thy shoulders, for who knows whether in a month\nor a year thou wilt not receive it thyself?”"
+  },
+  {
+   "n": 96,
+   "para": 55,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I?”"
+  },
+  {
+   "n": 97,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius."
+  },
+  {
+   "n": 98,
+   "para": 55,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“No, by the son of Leto! I will not receive it;\neven if the truth and wisdom of gods and men were contained in it. That\nwould require labor, and I have no fondness for labor. Labor demands\nself-denial, and I will not deny myself anything. With thy nature, which\nis like fire and boiling water, something like this may happen any time.\nBut I? I have my gems, my cameos, my vases, my Eunice. I do not believe\nin Olympus, but I arrange it on earth for myself; and I shall flourish\ntill the arrows of the divine archer pierce me, or till Cæsar commands\nme to open my veins. I love the odor of violets too much, and a\ncomfortable triclinium. I love even our gods, as rhetorical figures,\nand Achæa, to which I am preparing to go with our fat, thin-legged,\nincomparable, godlike Cæsar, the august period-compelling Hercules,\nNero.”"
+  },
+  {
+   "n": 99,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he was joyous at the very supposition that he could accept the\nteaching of Galilean fishermen, and began to sing in an undertone,--"
+  },
+  {
+   "n": 100,
+   "para": 57,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I will entwine my bright sword in myrtle, After the example of\nHarmodius and Aristogiton.”"
+  },
+  {
+   "n": 101,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But he stopped, for the arrival of Eunice was announced. Immediately\nafter her coming supper was served, during which songs were sung by the\ncithara players; Vinicius told of Chilo’s visit, and also how that visit\nhad given the idea of going to the Apostles directly,--an idea which\ncame to him while they were flogging Chilo."
+  },
+  {
+   "n": 102,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At mention of this, Petronius, who began to be drowsy, placed his hand\non his forehead, and said,--"
+  },
+  {
+   "n": 103,
+   "para": 59,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“The thought was good, since the object was\ngood. But as to Chilo, I should have given him five pieces of gold; but\nas it was thy will to flog him, it was better to flog him, for who knows\nbut in time senators will bow to him, as to-day they are bowing to our\ncobbler-knight, Vatinius. Good-night.”"
+  },
+  {
+   "n": 104,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And, removing his wreath, he, with Eunice, prepared for home. When they\nhad gone, Vinicius went to his library and wrote to Lygia as follows:--"
+  },
+  {
+   "n": 105,
+   "para": 61,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“When thou openest thy beautiful eyes, I wish this letter to say\nGood-day! to thee. Hence I write now, though I shall see thee tomorrow.\nCæsar will go to Antium after to-morrow,--and I, eheu! must go with him.\nI have told thee already that not to obey would be to risk life--and at\npresent I could not find courage to die. But if thou wish me not to go,\nwrite one word, and I will stay. Petronius will turn away danger from me\nwith a speech. To-day, in the hour of my delight, I gave rewards to all\nmy slaves; those who have served in the house twenty years I shall take\nto the pretor to-morrow and free. Thou, my dear, shouldst praise me,\nsince this act as I think will be in accord with that mild religion\nof thine; secondly, I do this for thy sake. They are to thank thee\nfor their freedom. I shall tell them so to-morrow, so that they may\nbe grateful to thee and praise thy name. I give myself in bondage to\nhappiness and thee. God grant that I never see liberation. May Antium be\ncursed, and the journey of Ahenobarbus! Thrice and four times happy am\nI in not being so wise as Petronius; if I were, I should be forced to\ngo to Greece perhaps. Meanwhile the moment of separation will sweeten my\nmemory of thee. Whenever I can tear myself away, I shall sit on a horse,\nand rush back to Rome, to gladden my eyes with sight of thee, and my\nears with thy voice. When I cannot come I shall send a slave with\na letter, and an inquiry about thee. I salute thee, divine one, and\nembrace thy feet. Be not angry that I call thee divine. If thou forbid,\nI shall obey, but to-day I cannot call thee otherwise. I congratulate\nthee on thy future house with my whole soul.”"
+  }
+ ]
+}

@@ -1,0 +1,628 @@
+{
+ "work": "quo-vadis",
+ "episode": 47,
+ "chapter": 47,
+ "title": "The Quarryman's Hut",
+ "document": "PART FIVE · CHAPTER XLVII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch47.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Peter",
+   "cast_as": "Saint Peter"
+  },
+  {
+   "role": "Chilo Chilonides",
+   "cast_as": "Diogenes"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Ursus",
+   "cast_as": "Spartacus"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XLVII"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "THE Apostle’s words put confidence in the souls of the Christians. The\nend of the world seemed ever near to them, but they began to think that\nthe day of judgment would not come immediately, that first they would\nsee the end of Nero’s reign, which they looked on as the reign of Satan,\nand the punishment of God for Cæsar’s crimes, which were crying for\nvengeance. Strengthened in heart, they dispersed, after the prayer, to\ntheir temporary dwellings, and even to the Trans-Tiber; for news had\ncome that the fire, set there in a number of places, had, with the\nchange of wind, turned back toward the river, and, after devouring what\nit could here and there, had ceased to extend."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The Apostle, with Vinicius and Chilo, who followed him, left the\nexcavation also. The young tribune did not venture to interrupt his\nprayers; hence he walked on in silence, merely imploring pity with his\neyes, and trembling from alarm. Many approached to kiss Peter’s hands,\nand the hem of his mantle; mothers held out their children to him;\nsome knelt in the dark, long passage, and, holding up tapers, begged\na blessing; others, going alongside, sang: so there was no chance for\nquestion or answer. Thus it was in the narrow passage. Only when they\ncame out to broader spaces, from which the burning city was in view, did\nthe Apostle bless them three times, and say, turning to Vinicius,--"
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Fear not. The hut of the quarryman is near; in it we shall find Linus,\nand Lygia, with her faithful servant. Christ, who predestined her to\nthee, has preserved her.”"
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius tottered, and placed his hand against the cliff. The road from\nAntium, the events at the wall, the search for Lygia amidst burning\nhouses, sleeplessness, and his terrible alarm had exhausted him; and the\nnews that the dearest person in the world was near by, and that soon\nhe would see her, took the remnant of his strength from him. So great\na weakness possessed him on a sudden that he dropped to the Apostle’s\nfeet, and, embracing his knees, remained thus, without power to say a\nword."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Not to me, not to me, but to Christ,”"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said the Apostle, who warded off\nthanks and honor."
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“What a good God!”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said the voice of Chilo from behind,"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“but what shall\nI do with the mules that are waiting down here?”"
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Rise and come with me,”"
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Peter to the young man."
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius rose. By the light of the burning, tears were visible on his\nface, which was pale from emotion. His lips moved, as if in prayer."
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Let us go,”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Chilo repeated again:"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Lord, what shall I do with the mules that are\nwaiting? Perhaps this worthy prophet prefers riding to walking.”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius did not know himself what to answer; but hearing from Peter\nthat the quarryman’s hut was near by, he said,--"
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Take the mules to Macrinus.”"
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Pardon me, lord, if I mention the house in Ameriola. In view of such an\nawful fire, it is easy to forget a thing so paltry.”"
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Thou wilt get it.”"
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“O grandson of Numa Pompilius, I have always been sure, but now, when\nthis magnanimous prophet also has heard the promise, I will not remind\nthee even of this, that thou hast promised me a vineyard. Pax vobiscum.\nI shall find thee, lord. Pax vobiscum.”"
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They answered,"
+  },
+  {
+   "n": 24,
+   "para": 16,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“And peace with thee.”"
+  },
+  {
+   "n": 25,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then both turned to the right toward the hills. Along the road Vinicius\nsaid,"
+  },
+  {
+   "n": 26,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Lord, wash me with the water of baptism, so that I may call myself a\nreal confessor of Christ, for I love Him with all the power of my soul.\nWash me quickly, for I am ready in heart. And what thou commandest I\nwill do, but tell me, so that I may do it in addition.”"
+  },
+  {
+   "n": 27,
+   "para": 19,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Love men as thy own brothers,”"
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered the Apostle,"
+  },
+  {
+   "n": 29,
+   "para": 19,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“for only with\nlove mayst thou serve Him.”"
+  },
+  {
+   "n": 30,
+   "para": 20,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Yes, I understand and feel that. When a child I believed in the Roman\ngods, though I did not love them. But I so love Him the One God that\nI would give my life for Him gladly.”"
+  },
+  {
+   "n": 31,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he looked toward the sky,\nrepeating with exaltation:"
+  },
+  {
+   "n": 32,
+   "para": 20,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“For He is one, for He alone is kind and\nmerciful; hence, let not only this city perish, but the whole world, Him\nalone will I confess and recognize.”"
+  },
+  {
+   "n": 33,
+   "para": 21,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“And He will bless thee and thy house,”"
+  },
+  {
+   "n": 34,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "concluded the Apostle."
+  },
+  {
+   "n": 35,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile they turned into another ravine, at the end of which a faint\nlight was visible. Peter pointed to it and said,--"
+  },
+  {
+   "n": 36,
+   "para": 23,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“There is the hut of the quarryman who gave us a refuge when, on the way\nfrom Ostrianum with the sick Linus, we could not go to the Trans-Tiber.”"
+  },
+  {
+   "n": 37,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "After a while they arrived. The hut was rather a cave rounded Out in\nan indentation of the hill, and was faced outside with a wall made of\nreeds. The door was closed, but through an opening, which served for\na window, the interior was visible, lighted by a fire. Some dark giant\nfigure rose up to meet them, and inquired,--"
+  },
+  {
+   "n": 38,
+   "para": 24,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Who are ye?”"
+  },
+  {
+   "n": 39,
+   "para": 25,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Servants of Christ,”"
+  },
+  {
+   "n": 40,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Peter."
+  },
+  {
+   "n": 41,
+   "para": 25,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Peace be with thee, Ursus.”"
+  },
+  {
+   "n": 42,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Ursus bent to the Apostle’s feet; then, recognizing Vinicius, seized his\nhand by the wrist, and raised it to his lips."
+  },
+  {
+   "n": 43,
+   "para": 27,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“And thou, lord,”"
+  },
+  {
+   "n": 44,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he."
+  },
+  {
+   "n": 45,
+   "para": 27,
+   "role": "Ursus",
+   "cast": "Spartacus",
+   "text": "“Blessed be the name of the Lamb, for the joy\nwhich thou wilt bring to Callina.”"
+  },
+  {
+   "n": 46,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He opened the door then, and entered. Linus was lying on a bundle of\nstraw, with an emaciated face and a forehead as yellow as ivory. Near\nthe fire sat Lygia with a string of small fish, intended evidently for\nsupper. Occupied in removing the fish from the string, and thinking that\nit was Ursus who had entered, she did not raise her eyes. But Vinicius\napproached, and, pronouncing her name, stretched his hand to her. She\nsprang up quickly then; a flash of astonishment and delight shot across\nher face. Without a word, like a child who after days of fear and sorrow\nhad found father or mother, she threw herself into his open arms."
+  },
+  {
+   "n": 47,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He embraced her, pressed her to his bosom for some time with such\necstasy as if she had been saved by a miracle. Then, withdrawing his\narms, he took her temples between his hands, kissed her forehead and her\neyes, embraced her again, repeated her name, bent to her knees, to her\npalms, greeted her, did her homage, honored her. His delight had no\nbounds; neither had his love and happiness."
+  },
+  {
+   "n": 48,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At last he told her how he had rushed in from Antium; had searched\nfor her at the walls, in the smoke at the house of Linus; how he had\nsuffered and was terrified; how much he had endured before the Apostle\nhad shown him her retreat."
+  },
+  {
+   "n": 49,
+   "para": 31,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“But now,”"
+  },
+  {
+   "n": 50,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 51,
+   "para": 31,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“that I have found thee, I will not leave thee near\nfire and raging crowds. People are slaying one another under the walls,\nslaves are revolting and plundering. God alone knows what miseries may\nfall yet on Rome. But I will save thee and all of you. Oh, my dear, let\nus go to Antium; we will take a ship there and sail to Sicily. My land\nis thy land, my houses are thy houses. Listen to me! In Sicily we shall\nfind Aulus. I will give thee back to Pomponia, and take thee from her\nhands afterward. But, O carissima, have no further fear of me. Christ\nhas not washed me yet, but ask Peter if on the way hither I have not\ntold him my wish to be a real confessor of Christ, and begged him\nto baptize me, even in this hut of a quarryman. Believe, and let all\nbelieve me.”"
+  },
+  {
+   "n": 52,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Lygia heard these words with radiant face. The Christians formerly,\nbecause of Jewish persecutions, and then because of the fire and\ndisturbance caused by the disaster, lived in fear and uncertainty. A\njourney to quiet Sicily would put an end to all danger, and open a new\nepoch of happiness in their lives. If Vinicius had wished to take only\nLygia, she would have resisted the temptation surely, as she did not\nwish to leave Peter and Linus; but Vinicius said to them,"
+  },
+  {
+   "n": 53,
+   "para": 32,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Come with me;\nmy lands are your lands, my houses your houses.”"
+  },
+  {
+   "n": 54,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At this Lygia inclined\nto kiss his hand, in sign of obedience, and said,--"
+  },
+  {
+   "n": 55,
+   "para": 33,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Where thou art, Caius, there am I, Caia.”"
+  },
+  {
+   "n": 56,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then confused that she had spoken words which by Roman custom were\nrepeated only at marriage, she blushed deeply, and stood in the light\nof the fire, with drooping head, in doubt lest he might take them ill of\nher. But in his face boundless homage alone was depicted. He turned then\nto Peter, and continued,--"
+  },
+  {
+   "n": 57,
+   "para": 35,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Rome is burning at command of Cæsar. In Antium he complained that\nhe had never seen a great fire. And if he has not hesitated at such a\ncrime, think what may happen yet. Who knows that he may not bring in\ntroops, and command a slaughter? Who knows what proscriptions may come;\nwho knows whether after the fire, civil war, murder, and famine may not\ncome?"
+  },
+  {
+   "n": 58,
+   "para": 36,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Hide yourselves, therefore, and let us hide Lygia. There ye can wait\ntill the storm passes, and when it is over return to sow your grain\nanew.”"
+  },
+  {
+   "n": 59,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Outside, from the direction of the Vatican Field, as if to confirm his\nfears, distant cries were heard full of rage and terror. At that moment\nthe quarryman entered, the master of the hut, and, shutting the door\nhastily, he cried,--"
+  },
+  {
+   "n": 60,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“People are killing one another near the Circus of Nero. Slaves and\ngladiators have attacked the citizens.”"
+  },
+  {
+   "n": 61,
+   "para": 39,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Do ye hear?”"
+  },
+  {
+   "n": 62,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius."
+  },
+  {
+   "n": 63,
+   "para": 40,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“The measure is full,”"
+  },
+  {
+   "n": 64,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said the Apostle;"
+  },
+  {
+   "n": 65,
+   "para": 40,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“and disasters will come, like\na boundless sea.”"
+  },
+  {
+   "n": 66,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he turned, and, pointing to Lygia, said,"
+  },
+  {
+   "n": 67,
+   "para": 40,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Take\nthe maiden, whom God has predestined to thee, and save her, and let\nLinus, who is sick, and Ursus go with you.”"
+  },
+  {
+   "n": 68,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Vinicius, who had come to love the Apostle with all the power of his\nimpetuous soul, exclaimed:"
+  },
+  {
+   "n": 69,
+   "para": 41,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I swear, my teacher, that I will not leave\nthee here to destruction.”"
+  },
+  {
+   "n": 70,
+   "para": 42,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“The Lord bless thee for thy wish,”"
+  },
+  {
+   "n": 71,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Peter;"
+  },
+  {
+   "n": 72,
+   "para": 42,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“but hast thou not\nheard that Christ repeated thrice on the lake to me, ‘Feed my lambs’?”"
+  },
+  {
+   "n": 73,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius was silent."
+  },
+  {
+   "n": 74,
+   "para": 44,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“If thou, to whom no one has confided care over me, sayest that thou\nwilt not leave me to destruction, how canst thou wish me to leave my\nflock in the day of disaster? When there was a storm on the lake, and we\nwere terrified in heart, He did not desert us; why should I, a servant,\nnot follow my Master’s example?”"
+  },
+  {
+   "n": 75,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then Linus raised his emaciated face and inquired,--"
+  },
+  {
+   "n": 76,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“O viceregent of the Lord, why should I not follow thy example?”"
+  },
+  {
+   "n": 77,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius began to pass his hand over his head, as if struggling with\nhimself or fighting with his thoughts; then, seizing Lygia by the\nhand, he said, in a voice in which the energy of a Roman soldier was\nquivering,--"
+  },
+  {
+   "n": 78,
+   "para": 48,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Hear me, Peter, Linus, and thou, Lygia! I spoke as my human reason\ndictated; but ye have another reason, which regards, not your own\ndanger, but the commands of the Redeemer. True, I did not understand\nthis, and I erred, for the beam is not taken from my eyes yet, and the\nformer nature is heard in me. But since I love Christ, and wish to be\nHis servant, though it is a question for me of something more than my\nown life, I kneel here before thee, and swear that I will accomplish the\ncommand of love, and will not leave my brethren in the day of trouble.”"
+  },
+  {
+   "n": 79,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he knelt, and enthusiasm possessed him; raising his hands and eyes,\nhe cried:"
+  },
+  {
+   "n": 80,
+   "para": 49,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Do I understand Thee, O Christ? Am I worthy of Thee?”"
+  },
+  {
+   "n": 81,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "His hands trembled; his eyes glistened with tears; his body trembled\nwith faith and love. Peter took an earthen vessel with water, and,\nbringing it near him, said with solemnity,--"
+  },
+  {
+   "n": 82,
+   "para": 51,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Behold, I baptize thee in the name of the Father, Son, and Holy Ghost.\nAmen.”"
+  },
+  {
+   "n": 83,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then a religious ecstasy seized all present. They thought that some\nlight from beyond this world had filled the hut, that they heard some\nsuperhuman music, that the cliffs had opened above their heads, that\nchoirs of angels were floating down from heaven, and far up there they\nsaw a cross, and pierced hands blessing them."
+  },
+  {
+   "n": 84,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile the shouts of fighting were heard outside, and the roar of\nflames in the burning city."
+  }
+ ]
+}

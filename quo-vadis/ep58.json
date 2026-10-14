@@ -1,0 +1,687 @@
+{
+ "work": "quo-vadis",
+ "episode": 58,
+ "chapter": 58,
+ "title": "Chilo's Night",
+ "document": "PART SIX · CHAPTER LVIII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch58.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Chilo Chilonides",
+   "cast_as": "Diogenes"
+  },
+  {
+   "role": "Nero",
+   "cast_as": "Nero"
+  },
+  {
+   "role": "Tigellinus",
+   "cast_as": "Caligula"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER LVIII"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“LORD,”"
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Chilo,"
+  },
+  {
+   "n": 4,
+   "para": 1,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“the sea is like olive oil, the waves seem to sleep.\nLet us go to Achæa. There the glory of Apollo is awaiting thee, crowns\nand triumph are awaiting thee, the people will deify thee, the gods will\nreceive thee as a guest, their own equal; but here, O lord--”"
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he stopped, for his lower lip began to quiver so violently that his\nwords passed into meaningless sounds."
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“We will go when the games are over,”"
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Nero."
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I know that even\nnow some call the Christians innoxia corpora. If I were to go, all would\nrepeat this. What dost thou fear?”"
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then he frowned, but looked with inquiring glance at Chilo, as if\nexpecting an answer, for he only feigned cool blood. At the last\nexhibition he himself feared the words of Crispus; and when he had\nreturned to the Palatine, he could not sleep from rage and shame, but\nalso from fear."
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then Vestinius, who heard their conversation in silence, looked around,\nand said in a mysterious voice,--"
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Listen, lord, to this old man. There is something strange in those\nChristians. Their deity gives them an easy death, but he may be\nvengeful.”"
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“It was not I who arranged the games, but Tigellinus,”"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Nero,\nquickly."
+  },
+  {
+   "n": 14,
+   "para": 8,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“True! it was I,”"
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "added Tigellinus, who heard Cæsar’s answer,"
+  },
+  {
+   "n": 16,
+   "para": 8,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“and I\njeer at all Christian gods. Vestinius is a bladder full of prejudices,\nand this valiant Greek is ready to die of terror at sight of a hen with\nfeathers up in defence of her chickens.”"
+  },
+  {
+   "n": 17,
+   "para": 9,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“True!”"
+  },
+  {
+   "n": 18,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Nero;"
+  },
+  {
+   "n": 19,
+   "para": 9,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“but henceforth give command to cut the tongues out\nof Christians and stop their mouths.”"
+  },
+  {
+   "n": 20,
+   "para": 10,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Fire will stop them, O divinity.”"
+  },
+  {
+   "n": 21,
+   "para": 11,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Woe is me!”"
+  },
+  {
+   "n": 22,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "groaned Chilo."
+  },
+  {
+   "n": 23,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Cæsar, to whom the insolent confidence of Tigellinus gave courage,\nbegan to laugh, and said, pointing to the old Greek,--"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“See how the descendant of Achilles looks!”"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Indeed Chilo looked terribly. The remnant of hair on his head had grown\nwhite; on his face was fixed an expression of some immense dread, alarm,\nand oppression. He seemed at times, too, as if stunned and only half\nconscious. Often he gave no answer to questions; then again he fell\ninto anger, and became so insolent that the Augustians preferred not to\nattack him. Such a moment had come to him then."
+  },
+  {
+   "n": 26,
+   "para": 15,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Do what ye like with me, but I will not go to the games!”"
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "cried he, in\ndesperation."
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Nero looked at him for a while, and, turning to Tigellinus, said,--"
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Have a care that this Stoic is near me in the gardens. I want to see\nwhat impression our torches will make on him.”"
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Chilo was afraid of the threat which quivered in Cæsar’s voice."
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“O lord,”"
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I shall see nothing, for I cannot see in the\nnight-time.”"
+  },
+  {
+   "n": 34,
+   "para": 19,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“The night will be as bright as day,”"
+  },
+  {
+   "n": 35,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Cæsar, with a threatening\nlaugh."
+  },
+  {
+   "n": 36,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Turning then to the Augustians, Nero talked about races which he\nintended to have when the games were over."
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius approached Chilo, and asked, pushing him on the shoulder,--"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Have I not said that thou wouldst not hold out?”"
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I wish to drink,”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Chilo, stretching his trembling hand toward a\ngoblet of wine; but he was unable to raise it to his lips. Seeing this,\nVestinius took the vessel; but later he drew near, and inquired with\ncurious and frightened face,--"
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Are the Furies pursuing thee?”"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The old man looked at him a certain time with open lips, as if not\nunderstanding what he said. But Vestinius repeated,"
+  },
+  {
+   "n": 43,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Are the Furies pursuing thee?”"
+  },
+  {
+   "n": 44,
+   "para": 27,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“No,”"
+  },
+  {
+   "n": 45,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Chilo;"
+  },
+  {
+   "n": 46,
+   "para": 27,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“but night is before me.”"
+  },
+  {
+   "n": 47,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“How, night? May the gods have mercy on thee. How night?”"
+  },
+  {
+   "n": 48,
+   "para": 29,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Night, ghastly and impenetrable, in which something is moving,\nsomething coming toward me; but I know not what it is, and I am\nterrified.”"
+  },
+  {
+   "n": 49,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I have always been sure that there are witches. Dost thou not dream of\nsomething?”"
+  },
+  {
+   "n": 50,
+   "para": 31,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“No, for I do not sleep. I did not think that they would be punished\nthus.”"
+  },
+  {
+   "n": 51,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Art thou sorry for them?”"
+  },
+  {
+   "n": 52,
+   "para": 33,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Why do ye shed so much blood? Hast heard what that one said from the\ncross? Woe to us!”"
+  },
+  {
+   "n": 53,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I heard,” answered Vestinius, in a low voice. “But they are\nincendiaries.”"
+  },
+  {
+   "n": 54,
+   "para": 35,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Not true!”"
+  },
+  {
+   "n": 55,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“And enemies of the human race.”"
+  },
+  {
+   "n": 56,
+   "para": 37,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Not true!”"
+  },
+  {
+   "n": 57,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“And poisoners of water.”"
+  },
+  {
+   "n": 58,
+   "para": 39,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Not true!”"
+  },
+  {
+   "n": 59,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“And murderers of children.”"
+  },
+  {
+   "n": 60,
+   "para": 41,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Not true!”"
+  },
+  {
+   "n": 61,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“How?” inquired Vestinius, with astonishment. “Thou hast said so\nthyself, and given them into the hands of Tigellinus.”"
+  },
+  {
+   "n": 62,
+   "para": 43,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Therefore night has surrounded me, and death is coming toward me. At\ntimes it seems to me that I am dead already, and ye also.”"
+  },
+  {
+   "n": 63,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“No! it is they who are dying; we are alive. But tell me, what do they\nsee when they are dying?”"
+  },
+  {
+   "n": 64,
+   "para": 45,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Christ.”"
+  },
+  {
+   "n": 65,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“That is their god. Is he a mighty god?”"
+  },
+  {
+   "n": 66,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Chilo answered with a question,--"
+  },
+  {
+   "n": 67,
+   "para": 48,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“What kind of torches are to burn in the gardens? Hast thou heard what\nCæsar said?”"
+  },
+  {
+   "n": 68,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I heard, and I know. Those torches are called Sarmentitii and Semaxii.\nThey are made by arraying men in painful tunics, steeped in pitch, and\nbinding them to pillars, to which fire is set afterward. May their\ngod not send misfortune on the city. Semaxii! that is a dreadful\npunishment!”"
+  },
+  {
+   "n": 69,
+   "para": 50,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“I would rather see it, for there will not be blood,”"
+  },
+  {
+   "n": 70,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Chilo."
+  },
+  {
+   "n": 71,
+   "para": 50,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“Command a slave to hold the goblet to my mouth. I wish to drink, but I\nspill the wine; my hand trembles from age.”"
+  },
+  {
+   "n": 72,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Others also were speaking of the Christians. Old Domitius Afer reviled\nthem."
+  },
+  {
+   "n": 73,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“There is such a multitude of them,” said he, “that they might raise a\ncivil war; and, remember, there were fears lest they might arm. But they\ndie like sheep.”"
+  },
+  {
+   "n": 74,
+   "para": 53,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Let them try to die otherwise!”"
+  },
+  {
+   "n": 75,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Tigellinus."
+  },
+  {
+   "n": 76,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "To this Petronius answered,"
+  },
+  {
+   "n": 77,
+   "para": 54,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Ye deceive yourselves. They are arming.”"
+  },
+  {
+   "n": 78,
+   "para": 55,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“With what?”"
+  },
+  {
+   "n": 79,
+   "para": 56,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“With patience.”"
+  },
+  {
+   "n": 80,
+   "para": 57,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“That is a new kind of weapon.”"
+  },
+  {
+   "n": 81,
+   "para": 58,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“True. But can ye say that they die like common criminals? No! They die\nas if the criminals were those who condemned them to death,--that is, we\nand the whole Roman people.”"
+  },
+  {
+   "n": 82,
+   "para": 59,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“What raving!”"
+  },
+  {
+   "n": 83,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Tigellinus."
+  },
+  {
+   "n": 84,
+   "para": 60,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Hic Abdera!”"
+  },
+  {
+   "n": 85,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius."
+  },
+  {
+   "n": 86,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "[A proverbial expression meaning “The dullest of the dull”--Note by the\nAuthor.]"
+  },
+  {
+   "n": 87,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But others, struck by the justice of his remark, began to look at one\nanother with astonishment, and repeat,--"
+  },
+  {
+   "n": 88,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“True! there is something peculiar and strange in their death.”"
+  },
+  {
+   "n": 89,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I tell you that they see their divinity!” cried Vestinius, from one\nside. Thereupon a number of Augustians turned to Chilo,--"
+  },
+  {
+   "n": 90,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Hai, old man, thou knowest them well; tell us what they see.”"
+  },
+  {
+   "n": 91,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The Greek spat out wine on his tunic, and answered,--"
+  },
+  {
+   "n": 92,
+   "para": 67,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“The resurrection.”"
+  },
+  {
+   "n": 93,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he began to tremble so that the guests sitting\nnearer burst into loud laughter."
+  }
+ ]
+}

@@ -1,0 +1,386 @@
+{
+ "work": "quo-vadis",
+ "episode": 33,
+ "chapter": 33,
+ "title": "We Bring Love",
+ "document": "PART FOUR · CHAPTER XXXIII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch33.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Peter",
+   "cast_as": "Saint Peter"
+  },
+  {
+   "role": "Paul of Tarsus",
+   "cast_as": "Paul the Apostle"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXXIII"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "VINICIUS went directly to the house in which Miriam lived. Before the\ngate he met Nazarius, who was confused at sight of him; but greeting the\nlad cordially, he asked to be conducted to his mother’s lodgings."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Besides Miriam, Vinicius found Peter, Glaucus, Crispus, and Paul of\nTarsus, who had returned recently from Fregellæ. At sight of the young\ntribune, astonishment was reflected on all faces; but he said,--"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I greet\nyou in the name of Christ, whom ye honor.”"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“May His name be glorified forever!” answered they."
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I have seen your virtue and experienced your kindness, hence I come as\na friend.”"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“And we greet thee as a friend,”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Peter."
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Sit down, lord, and\npartake of our refreshment, as a guest.”"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I will sit down and share your repast; but first listen to me, thou\nPeter, and thou Paul of Tarsus, so that ye may know my sincerity. I know\nwhere Lygia is. I have returned from before the house of Linus, which is\nnear this dwelling. I have a right to her given me by Cæsar. I have at\nmy houses in the city nearly five hundred slaves. I might surround her\nhiding-place and seize her; still I have not done so, and will not.”"
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“For this reason the blessing of the Lord will be upon thee, and thy\nheart will be purified,”"
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Peter."
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I thank thee. But listen to me further: I have not done so, though I am\nliving in suffering and sadness. Before I knew you, I should have\ntaken her undoubtedly, and held her by force; but your virtue and your\nreligion, though I do not profess it, have changed something in my soul,\nso that I do not venture on violence. I know not myself why this is\nso, but it is so; hence I come to you, for ye take the place of Lygia’s\nfather and mother, and I say to you: Give her to me as wife, and I swear\nthat not only will I not forbid her to confess Christ, but I will begin\nmyself to learn His religion.”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He spoke with head erect and decisively; but still he was moved, and his\nlegs trembled beneath his mantle. When silence followed his words, he\ncontinued, as if wishing to anticipate an unfavorable answer,--"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I know what obstacles exist, but I love her as my own eyes; and though\nI am not a Christian yet, I am neither your enemy nor Christ’s. I wish\nto be sincere, so that you may trust me. At this moment it is a question\nof life with me, still I tell you the truth. Another might say, Baptize\nme; I say, Enlighten me. I believe that Christ rose from the dead,\nfor people say so who love the truth, and who saw Him after death. I\nbelieve, for I have seen myself, that your religion produces virtue,\njustice, and mercy,--not crime, which is laid to your charge. I have not\nknown your religion much so far. A little from you, a little from your\nworks, a little from Lygia, a little from conversations with you. Still\nI repeat that it has made some change in me. Formerly I held my servants\nwith an iron hand; I cannot do so now. I knew no pity; I know it now. I\nwas fond of pleasure; the other night I fled from the pond of Agrippa,\nfor the breath was taken from me through disgust. Formerly I believed in\nsuperior force; now I have abandoned it. Know ye that I do not recognize\nmyself. I am disgusted by feasts, wine, singing, citharæ, garlands, the\ncourt of Cæsar, naked bodies, and every crime. When I think that Lygia\nis like snow in the mountains, I love her the more; and when I think\nthat she is what she is through your religion, I love and desire that\nreligion. But since I understand it not, since I know not whether I\nshall be able to live according to it, nor whether my nature can endure\nit, I am in uncertainty and suffering, as if I were in prison.”"
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here his brows met in wrinkle of pain, and a flush appeared on his\ncheeks; after that he spoke on with growing haste and greater emotion,--"
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“As ye see, I am tortured from love and uncertainty. Men tell me that in\nyour religion there is no place for life, or human joy, or happiness, or\nlaw, or order, or authority, or Roman dominion. Is this true? Men tell\nme that ye are madmen; but tell me yourselves what ye bring. Is it a sin\nto love, a sin to feel joy, a sin to want happiness? Are ye enemies of\nlife? Must a Christian be wretched? Must I renounce Lygia? What is truth\nin your view? Your deeds and words are like transparent water, but what\nis under that water? Ye see that I am sincere. Scatter the darkness.\nMen say this to me also: Greece created beauty and wisdom, Rome created\npower; but they--what do they bring? Tell, then, what ye bring. If there\nis brightness beyond your doors, open them.”"
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“We bring love,”"
+  },
+  {
+   "n": 19,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Peter."
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And Paul of Tarsus added,--"
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Paul of Tarsus",
+   "cast": "Paul the Apostle",
+   "text": "“If I speak with the tongues of men and of\nangels, but have not love, I am become sounding brass.”"
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But the heart of the old Apostle was stirred by that soul in suffering,\nwhich, like a bird in a cage, was struggling toward air and the sun;\nhence, stretching his hand to Vinicius, he said,--"
+  },
+  {
+   "n": 23,
+   "para": 15,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Whoso knocketh, to\nhim will be opened. The favor and grace of God is upon thee; for this\nreason I bless thee, thy soul and thy love, in the name of the Redeemer\nof mankind.”"
+  },
+  {
+   "n": 24,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius, who had spoken with enthusiasm already, sprang toward Peter on\nhearing this blessing, and an uncommon thing happened. That descendant\nof Quirites, who till recently had not recognized humanity in a\nforeigner, seized the hand of the old Galilean, and pressed it in\ngratitude to his lips."
+  },
+  {
+   "n": 25,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Peter was pleased; for he understood that his sowing had fallen on an\nadditional field, that his fishing-net had gathered in a new soul."
+  },
+  {
+   "n": 26,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Those present, not less pleased by that evident expression of honor for\nthe Apostle of God, exclaimed in one voice,--“Praise to the Lord in the\nhighest!”"
+  },
+  {
+   "n": 27,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius rose with a radiant face, and began,--"
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I see that happiness may\ndwell among you, for I feel happy, and I think that ye can convince me\nof other things in the same way. But I will add that this cannot happen\nin Rome. Cæsar is going to Antium and I must go with him, for I have the\norder. Ye know that not to obey is death. But if I have found favor in\nyour eyes, go with me to teach your truth. It will be safer for you than\nfor me. Even in that great throng of people, ye can announce your truth\nin the very court of Cæsar. They say that Acte is a Christian; and there\nare Christians among pretorians even, for I myself have seen soldiers\nkneeling before thee, Peter, at the Nomentan gate. In Antium I have\na villa where we shall assemble to hear your teaching, at the side of\nNero. Glaucus told me that ye are ready to go to the end of the earth\nfor one soul; so do for me what ye have done for those for whose sake ye\nhave come from Judea,--do it, and desert not my soul.”"
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Hearing this, they began to take counsel, thinking with delight of the\nvictory of their religion, and of the significance for the pagan world\nwhich the conversion of an Augustian, and a descendant of one of the\noldest Roman families, would have. They were ready, indeed, to wander\nto the end of the earth for one human soul, and since the death of the\nMaster they had, in fact, done nothing else; hence a negative answer did\nnot even come to their minds. Peter was at that moment the pastor of a\nwhole multitude, hence he could not go; but Paul of Tarsus, who had been\nin Aricium and Fregellæ not long before, and who was preparing for a\nlong journey to the East to visit churches there and freshen them with a\nnew spirit of zeal, consented to accompany the young tribune to Antium.\nIt was easy to find a ship there going to Grecian waters."
+  },
+  {
+   "n": 30,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius, though sad because Peter, to whom he owed so much, could not\nvisit Antium, thanked him with gratitude, and then turned to the old\nApostle with his last request,--"
+  },
+  {
+   "n": 31,
+   "para": 21,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Knowing Lygia’s dwelling,”"
+  },
+  {
+   "n": 32,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he,"
+  },
+  {
+   "n": 33,
+   "para": 21,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I\nmight have gone to her and asked, as is proper, whether she would take\nme as husband should my soul become Christian, but I prefer to ask thee,\nO Apostle! Permit me to see her, or take me thyself to her. I know not\nhow long I shall be in Antium; and remember that near Cæsar no one\nis sure of to-morrow. Petronius himself told me that I should not be\naltogether safe there. Let me see her before I go; let me delight my\neyes with her; and let me ask her if she will forget my evil and return\ngood.”"
+  },
+  {
+   "n": 34,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Peter smiled kindly and said,--"
+  },
+  {
+   "n": 35,
+   "para": 22,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“But who could refuse thee a proper joy,\nmy son?”"
+  },
+  {
+   "n": 36,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius stooped again to Peter’s hands, for he could not in any way\nrestrain his overflowing heart. The Apostle took him by the temples and\nsaid,--"
+  },
+  {
+   "n": 37,
+   "para": 23,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Have no fear of Cæsar, for I tell thee that a hair will not fall\nfrom thy head.”"
+  },
+  {
+   "n": 38,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He sent Miriam for Lygia, telling her not to say who was with them, so\nas to give the maiden more delight."
+  },
+  {
+   "n": 39,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "It was not far; so after a short time those in the chamber saw among the\nmyrtles of the garden Miriam leading Lygia by the hand."
+  },
+  {
+   "n": 40,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius wished to run forth to meet her; but at sight of that beloved\nform happiness took his strength, and he stood with beating heart,\nbreathless, barely able to keep his feet, a hundred times more excited\nthan when for the first time in life he heard the Parthian arrows\nwhizzing round his head."
+  },
+  {
+   "n": 41,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She ran in, unsuspecting; but at sight of him she halted as if fixed to\nthe earth. Her face flushed, and then became very pale; she looked with\nastonished and frightened eyes on those present."
+  },
+  {
+   "n": 42,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But round about she saw clear glances, full of kindness. The Apostle\nPeter approached her and asked,--"
+  },
+  {
+   "n": 43,
+   "para": 28,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Lygia, dost thou love him as ever?”"
+  },
+  {
+   "n": 44,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "A moment of silence followed. Her lips began to quiver like those of\na child who is preparing to cry, who feels that it is guilty, but sees\nthat it must confess the guilt."
+  },
+  {
+   "n": 45,
+   "para": 30,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Answer,”"
+  },
+  {
+   "n": 46,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said the Apostle."
+  },
+  {
+   "n": 47,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then, with humility, obedience, and fear in her voice, she whispered,\nkneeling at the knees of Peter,--"
+  },
+  {
+   "n": 48,
+   "para": 31,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I do.”"
+  },
+  {
+   "n": 49,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In one moment Vinicius knelt at her side. Peter placed his hands on\ntheir heads, and said,--"
+  },
+  {
+   "n": 50,
+   "para": 32,
+   "role": "Peter",
+   "cast": "Saint Peter",
+   "text": "“Love each other in the Lord and to His glory,\nfor there is no sin in your love.”"
+  }
+ ]
+}

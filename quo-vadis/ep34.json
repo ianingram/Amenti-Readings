@@ -1,0 +1,438 @@
+{
+ "work": "quo-vadis",
+ "episode": 34,
+ "chapter": 34,
+ "title": "The Garden",
+ "document": "PART FOUR · CHAPTER XXXIV",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch34.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Paul of Tarsus",
+   "cast_as": "Paul the Apostle"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER XXXIV"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "WHILE walking with Lygia through the garden, Vinicius described briefly,\nin words from the depth of his heart, that which a short time before\nhe had confessed to the Apostles,--that is, the alarm of his soul,\nthe changes which had taken place in him, and, finally, that immense\nyearning which had veiled life from him, beginning with the hour when\nhe left Miriam’s dwelling. He confessed to Lygia that he had tried to\nforget her, but was not able. He thought whole days and nights of her.\nThat little cross of boxwood twigs which she had left reminded him\nof her,--that cross, which he had placed in the lararium and revered\ninvoluntarily as something divine. And he yearned more and more\nevery moment, for love was stronger than he, and had seized his soul\naltogether, even when he was at the house of Aulus. The Parcæ weave the\nthread of life for others; but love, yearning, and melancholy had woven\nit for him. His acts had been evil, but they had their origin in love.\nHe had loved her when she was in the house of Aulus, when she was on the\nPalatine, when he saw her in Ostrianum listening to Peter’s words, when\nhe went with Croton to carry her away, when she watched at his bedside,\nand when she deserted him. Then came Chilo, who discovered her dwelling,\nand advised him to seize her a second time; but he chose to punish\nChilo, and go to the Apostles to ask for truth and for her. And blessed\nbe that moment in which such a thought came to his head, for now he is\nat her side, and she will not flee from him, as the last time she fled\nfrom the house of Miriam."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I did not flee from thee,”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Lygia."
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Then why didst thou go?”"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She raised her iris-colored eyes to him, and, bending her blushing face,\nsaid,--"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Thou knowest--”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius was silent for a moment from excess of happiness, and began\nagain to speak, as his eyes were opened gradually to this,--that she\nwas different utterly from Roman women, and resembled Pomponia alone.\nBesides, he could not explain this to her clearly, for he could not\ndefine his feeling,--that beauty of a new kind altogether was coming\nto the world in her, such beauty as had not been in it thus far; beauty\nwhich is not merely a statue, but a spirit. He told her something,\nhowever, which filled her with delight,--that he loved her just because\nshe had fled from him, and that she would be sacred to him at his\nhearth. Then, seizing her hand, he could not continue; he merely gazed\non her with rapture as on his life’s happiness which he had won, and\nrepeated her name, as if to assure himself that he had found her and was\nnear her."
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Oh, Lygia, Lygia!”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At last he inquired what had taken place in her mind, and she confessed\nthat she had loved him while in the house of Aulus, and that if he had\ntaken her back to them from the Palatine she would have told them of her\nlove and tried to soften their anger against him."
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I swear to thee,”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius,"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“that it had not even risen in my mind\nto take thee from Aulus. Petronius will tell thee sometime that I told\nhim then how I loved and wished to marry thee. ‘Let her anoint my door\nwith wolf fat, and let her sit at my hearth,’ said I to him. But he\nridiculed me, and gave Cæsar the idea of demanding thee as a hostage and\ngiving thee to me. How often in my sorrow have I cursed him; but\nperhaps fate ordained thus, for otherwise I should not have known the\nChristians, and should not have understood thee.”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Believe me, Marcus,”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Lygia,"
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“it was Christ who led thee to\nHimself by design.”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius raised his head with a certain astonishment."
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“True,”"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered he, with animation."
+  },
+  {
+   "n": 20,
+   "para": 11,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Everything fixed itself so\nmarvellously that in seeking thee I met the Christians. In Ostrianum I\nlistened to the Apostle with wonder, for I had never heard such words.\nAnd there thou didst pray for me?”"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“I did,”"
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Lygia."
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They passed near the summer-house covered with thick ivy, and approached\nthe place where Ursus, after stifling Croton, threw himself upon\nVinicius."
+  },
+  {
+   "n": 24,
+   "para": 14,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Here,”"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said the young man,"
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I should have perished but for thee.”"
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Do not mention that,”"
+  },
+  {
+   "n": 28,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Lygia,"
+  },
+  {
+   "n": 29,
+   "para": 15,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“and do not speak of it to\nUrsus.”"
+  },
+  {
+   "n": 30,
+   "para": 16,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Could I be revenged on him for defending thee? Had he been a slave, I\nshould have given him freedom straightway.”"
+  },
+  {
+   "n": 31,
+   "para": 17,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Had he been a slave, Aulus would have freed him long ago.”"
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Dost thou remember,”"
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked Vinicius,"
+  },
+  {
+   "n": 34,
+   "para": 18,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“that I wished to take thee back\nto Aulus, but the answer was, that Cæsar might hear of it and take\nrevenge on Aulus and Pomponia? Think of this: thou mayst see them now as\noften as thou wishest.”"
+  },
+  {
+   "n": 35,
+   "para": 19,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“How, Marcus?”"
+  },
+  {
+   "n": 36,
+   "para": 20,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I say ‘now,’ and I think that thou wilt be able to see them without\ndanger, when thou art mine. For should Cæsar hear of this, and ask what\nI did with the hostage whom he gave me, I should say ‘I married her, and\nshe visits the house of Aulus with my consent.’ He will not remain long\nin Antium, for he wishes to go to Achæa; and even should he remain, I\nshall not need to see him daily. When Paul of Tarsus teaches me your\nfaith, I will receive baptism at once, I will come here, gain the\nfriendship of Aulus and Pomponia, who will return to the city by that\ntime, and there will be no further hindrance, I will seat thee at my\nhearth. Oh, carissima! carissima!”"
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he stretched forth his hand, as if taking Heaven as witness of his\nlove; and Lygia, raising her clear eyes to him, said,--"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“And then I shall say, ‘Wherever thou art, Caius, there am I, Caia.’”"
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“No, Lygia,”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "cried Vinicius,"
+  },
+  {
+   "n": 41,
+   "para": 23,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I swear to thee that never has woman been\nso honored in the house of her husband as thou shalt be in mine.”"
+  },
+  {
+   "n": 42,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "For a time they walked on in silence, without being able to take in\nwith their breasts their happiness, in love with each other, like two\ndeities, and as beautiful as if spring had given them to the world with\nthe flowers."
+  },
+  {
+   "n": 43,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They halted at last under the cypress growing near the entrance of the\nhouse. Lygia leaned against his breast, and Vinicius began to entreat\nagain with a trembling voice,--"
+  },
+  {
+   "n": 44,
+   "para": 25,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Tell Ursus to go to the house of Aulus\nfor thy furniture and playthings of childhood.”"
+  },
+  {
+   "n": 45,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But she, blushing like a rose or like the dawn, answered,--"
+  },
+  {
+   "n": 46,
+   "para": 26,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Custom\ncommands otherwise.”"
+  },
+  {
+   "n": 47,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I know that. The pronuba [The matron who accompanies the bride and\nexplains to her the duties of a wife] usually brings them behind the\nbride, but do this for me. I will take them to my villa in Antium, and\nthey will remind me of thee.”"
+  },
+  {
+   "n": 48,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Here he placed his hands together and repeated, like a child who is\nbegging for something,--"
+  },
+  {
+   "n": 49,
+   "para": 28,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“It will be some days before Pomponia returns;\nso do this, diva, do this, carissima.”"
+  },
+  {
+   "n": 50,
+   "para": 29,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“But Pomponia will do as she likes,”"
+  },
+  {
+   "n": 51,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Lygia, blushing still more\ndeeply at mention of the pronuba."
+  },
+  {
+   "n": 52,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And again they were silent, for love had begun to stop the breath in\ntheir breasts. Lygia stood with shoulders leaning against the cypress,\nher face whitening in the shadow, like a flower, her eyes drooping, her\nbosom heaving with more and more life. Vinicius changed in the face, and\ngrew pale. In the silence of the afternoon they only heard the beating\nof their hearts, and in their mutual ecstasy that cypress, the myrtle\nbushes, and the ivy of the summer-house became for them a paradise of\nlove. But Miriam appeared in the door, and invited them to the afternoon\nmeal. They sat down then with the Apostles, who gazed at them with\npleasure, as on the young generation which after their death would\npreserve and sow still further the seed of the new faith. Peter broke\nand blessed bread. There was calm on all faces, and a certain immense\nhappiness seemed to overflow the whole house."
+  },
+  {
+   "n": 53,
+   "para": 31,
+   "role": "Paul of Tarsus",
+   "cast": "Paul the Apostle",
+   "text": "“See,”"
+  },
+  {
+   "n": 54,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Paul at last, turning to Vinicius,"
+  },
+  {
+   "n": 55,
+   "para": 31,
+   "role": "Paul of Tarsus",
+   "cast": "Paul the Apostle",
+   "text": "“are we enemies of life\nand happiness?”"
+  },
+  {
+   "n": 56,
+   "para": 32,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“I know how that is,”"
+  },
+  {
+   "n": 57,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Vinicius,"
+  },
+  {
+   "n": 58,
+   "para": 32,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“for never have I been so happy\nas among you.”"
+  }
+ ]
+}

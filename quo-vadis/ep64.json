@@ -1,0 +1,564 @@
+{
+ "work": "quo-vadis",
+ "episode": 64,
+ "chapter": 64,
+ "title": "The Wedding Feast",
+ "document": "PART SEVEN · CHAPTER LXIV",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch64.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Nero",
+   "cast_as": "Nero"
+  },
+  {
+   "role": "Tigellinus",
+   "cast_as": "Caligula"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER LXIV"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "ONE evening Scevinus, a Senator, visited Petronius and began a long\nconversation, touching the grievous times in which they were living,\nand also touching Cæsar. He spoke so openly that Petronius, though his\nfriend, began to be cautious. Scevinus complained that the world was\nliving madly and unjustly, that all must end in some catastrophe more\ndreadful still than the burning of Rome. He said that even Augustians\nwere dissatisfied; that Fenius Rufus, second prefect of the pretorians,\nendured with the greatest effort the vile orders of Tigellinus; and that\nall Seneca’s relatives were driven to extremes by Cæsar’s conduct as\nwell toward his old master as toward Lucan. Finally, he began to hint\nof the dissatisfaction of the people, and even of the pretorians, the\ngreater part of whom had been won by Fenius Rufus."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Why dost thou say this?”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Petronius."
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Out of care for Cæsar,” said Scevinus. “I have a distant relative among\nthe pretorians, also Scevinus; through him I know what takes place in\nthe camp. Disaffection is growing there also; Caligula, knowest thou,\nwas mad too, and see what happened. Cassius Chærea appeared. That was a\ndreadful deed, and surely there is no one among us to praise it; still\nChærea freed the world of a monster.”"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Is thy meaning as follows: ‘I do not praise Chærea, but he was a\nperfect man, and would that the gods had given us as many such as\npossible’?”"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Petronius."
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Scevinus changed the conversation, and began all at once to praise\nPiso, exalting his family, his nobility of mind, his attachment to his\nwife, and, finally, his intellect, his calmness, and his wonderful gift\nof winning people."
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Cæsar is childless,” said he, “and all see his successor in Piso.\nDoubtless, too, every man would help him with whole soul to gain power.\nFenius Rufus loves him; the relatives of Annæus are devoted to him\naltogether. Plautius Lateranus and Tullius Senecio would spring into\nfire for him; as would Natalis, and Subrius Flavius, and Sulpicius\nAsper, and Afranius Quinetianus, and even Vestinius.”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“From this last man not much will result to Piso,”"
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "replied Petronius."
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Vestinius is afraid of his own shadow.”"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Vestinius fears dreams and spirits,” answered Scevinus, “but he is a\npractical man, whom people wish wisely to make consul. That in his soul\nhe is opposed to persecuting Christians, thou shouldst not take ill of\nhim, for it concerns thee too that this madness should cease.”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Not me, but Vinicius,”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius."
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Out of concern for\nVinicius, I should like to save a certain maiden; but I cannot, for I\nhave fallen out of favor with Ahenobarbus.”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“How is that? Dost thou not notice that Cæsar is approaching thee\nagain, and beginning to talk with thee? And I will tell thee why. He is\npreparing again for Achæa, where he is to sing songs in Greek of his\nown composition. He is burning for that journey; but also he trembles at\nthought of the cynical genius of the Greeks. He imagines that either\nthe greatest triumph may meet him or the greatest failure. He needs good\ncounsel, and he knows that no one can give it better than thou. This is\nwhy thou art returning to favor.”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Lucan might take my place.”"
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Bronzebeard hates Lucan, and in his soul has written down death for the\npoet. He is merely seeking a pretext, for he seeks pretexts always.”"
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“By Castor!”"
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius,"
+  },
+  {
+   "n": 22,
+   "para": 13,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“that may be. But I might have still\nanother way for a quick return to favor.”"
+  },
+  {
+   "n": 23,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“What?”"
+  },
+  {
+   "n": 24,
+   "para": 15,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“To repeat to Bronzebeard what thou hast told me just now.”"
+  },
+  {
+   "n": 25,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“I have said nothing!” cried Scevinus, with alarm."
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius placed his hand upon the Senator’s shoulder."
+  },
+  {
+   "n": 27,
+   "para": 17,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou hast called\nCæsar a madman, thou hast foreseen the heirship of Piso, and hast said,\n‘Lucan understands that there is need to hasten.’ What wouldst thou\nhasten, carissime?”"
+  },
+  {
+   "n": 28,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Scevinus grew pale, and for a moment each looked into the eyes of the\nother."
+  },
+  {
+   "n": 29,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thou wilt not repeat!”"
+  },
+  {
+   "n": 30,
+   "para": 20,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“By the hips of Kypris, I will not! How well thou knowest me! No; I will\nnot repeat. I have heard nothing, and, moreover, I wish to hear nothing.\nDost understand? Life is too short to make any undertaking worth the\nwhile. I beg thee only to visit Tigellinus to-day, and talk with him as\nlong as thou hast with me of whatever may please thee.”"
+  },
+  {
+   "n": 31,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Why?”"
+  },
+  {
+   "n": 32,
+   "para": 22,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“So that should Tigellinus ever say to me, ‘Scevinus was with thee,’ I\nmight answer, ‘He was with thee, too, that very day.’”"
+  },
+  {
+   "n": 33,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Scevinus, when he heard this, broke the ivory cane which he had in\nhis hand, and said,--“May the evil fall on this stick! I shall be with\nTigellinus to-day, and later at Nerva’s feast. Thou, too, wilt be there?\nIn every case till we meet in the amphitheatre, where the last of the\nChristians will appear the day after tomorrow. Till we meet!”"
+  },
+  {
+   "n": 34,
+   "para": 24,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“After to-morrow!”"
+  },
+  {
+   "n": 35,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "repeated Petronius, when alone."
+  },
+  {
+   "n": 36,
+   "para": 24,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“There is no time to\nlose. Ahenobarbus will need me really in Achæa; hence he may count with\nme.”"
+  },
+  {
+   "n": 37,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he determined to try the last means."
+  },
+  {
+   "n": 38,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "In fact, at Nerva’s feast Cæsar himself asked that Petronius recline\nopposite, for he wished to speak with the arbiter about Achæa and the\ncities in which he might appear with hopes of the greatest success. He\ncared most for the Athenians, whom he feared. Other Augustians listened\nto this conversation with attention, so as to seize crumbs of the\narbiter’s opinions, and give them out later on as their own."
+  },
+  {
+   "n": 39,
+   "para": 27,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“It seems to me that I have not lived up to this time,”"
+  },
+  {
+   "n": 40,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Nero,"
+  },
+  {
+   "n": 41,
+   "para": 27,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“and\nthat my birth will come only in Greece.”"
+  },
+  {
+   "n": 42,
+   "para": 28,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou wilt be born to new glory and immortality,”"
+  },
+  {
+   "n": 43,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius."
+  },
+  {
+   "n": 44,
+   "para": 29,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I trust that this is true, and that Apollo will not seem jealous. If I\nreturn in triumph, I will offer him such a hecatomb as no god has had so\nfar.”"
+  },
+  {
+   "n": 45,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Scevinus fell to repeating the lines of Horace:--"
+  },
+  {
+   "n": 46,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Sic te diva potens Cypri, Sic fratres Helenæ, lucida sidera,\nVentorumque regat Pater-”"
+  },
+  {
+   "n": 47,
+   "para": 32,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“The vessel is ready at Naples,”"
+  },
+  {
+   "n": 48,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Cæsar."
+  },
+  {
+   "n": 49,
+   "para": 32,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I should like to go even\ntomorrow.”"
+  },
+  {
+   "n": 50,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At this Petronius rose, and, looking straight into Nero’s eyes, said,"
+  },
+  {
+   "n": 51,
+   "para": 34,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Permit me, O divinity, to celebrate a wedding-feast, to which I shall\ninvite thee before others.”"
+  },
+  {
+   "n": 52,
+   "para": 35,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“A wedding-feast! What wedding-feast?”"
+  },
+  {
+   "n": 53,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "inquired Nero."
+  },
+  {
+   "n": 54,
+   "para": 36,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“That of Vinicius with thy hostage the daughter of the Lygian king. She\nis in prison at present, it is true; but as a hostage she is not subject\nto imprisonment, and, secondly, thou thyself hast permitted Vinicius to\nmarry her; and as thy sentences, like those of Zeus, are unchangeable,\nthou wilt give command to free her from prison, and I will give her to\nthy favorite.”"
+  },
+  {
+   "n": 55,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The cool blood and calm self-possession with which Petronius spoke\ndisturbed Nero, who was disturbed whenever any one spoke in that fashion\nto him."
+  },
+  {
+   "n": 56,
+   "para": 38,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I know,”"
+  },
+  {
+   "n": 57,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, dropping his eyes."
+  },
+  {
+   "n": 58,
+   "para": 38,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“I have thought of her and of that\ngiant who killed Croton.”"
+  },
+  {
+   "n": 59,
+   "para": 39,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“In that case both are saved,”"
+  },
+  {
+   "n": 60,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "answered Petronius, calmly."
+  },
+  {
+   "n": 61,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Tigellinus came to the aid of his master:"
+  },
+  {
+   "n": 62,
+   "para": 40,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“She is in prison by the\nwill of Cæsar; thou thyself hast said, O Petronius, that his sentences\nare unchangeable.”"
+  },
+  {
+   "n": 63,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "All present, knowing the history of Vinicius and Lygia, understood\nperfectly what the question was; hence they were silent, curious as to\nthe end of the conversation."
+  },
+  {
+   "n": 64,
+   "para": 42,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“She is in prison against the will of Cæsar and through thy error,\nthrough thy ignorance of the law of nations,”"
+  },
+  {
+   "n": 65,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Petronius, with\nemphasis."
+  },
+  {
+   "n": 66,
+   "para": 42,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou art a naive man, Tigellinus; but even thou wilt not\nassert that she burnt Rome, and if thou wert to do so, Cæsar would not\nbelieve thee.”"
+  },
+  {
+   "n": 67,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Nero had recovered and begun to half close his near-sighted eyes\nwith an expression of indescribable malice."
+  },
+  {
+   "n": 68,
+   "para": 44,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Petronius is right,”"
+  },
+  {
+   "n": 69,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he, after a while."
+  },
+  {
+   "n": 70,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Tigellinus looked at him with amazement."
+  },
+  {
+   "n": 71,
+   "para": 46,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“Petronius is right,”"
+  },
+  {
+   "n": 72,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "repeated Nero;"
+  },
+  {
+   "n": 73,
+   "para": 46,
+   "role": "Nero",
+   "cast": "Nero",
+   "text": "“to-morrow the gates of the prison\nwill be open to her, and of the marriage feast we will speak the day\nafter at the amphitheatre.”"
+  },
+  {
+   "n": 74,
+   "para": 47,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I have lost again,”"
+  },
+  {
+   "n": 75,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "thought Petronius."
+  },
+  {
+   "n": 76,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "When he had returned home, he was so certain that the end of Lygia’s\nlife had come that he sent a trusty freedman to the amphitheatre to\nbargain with the chief of the spoliarium for the delivery of her body,\nsince he wished to give it to Vinicius."
+  }
+ ]
+}

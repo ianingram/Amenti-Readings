@@ -1,0 +1,351 @@
+{
+ "work": "quo-vadis",
+ "episode": 54,
+ "chapter": 54,
+ "title": "Rufius",
+ "document": "PART SIX · CHAPTER LIV",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch54.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Lygia",
+   "cast_as": "Helen Keller"
+  },
+  {
+   "role": "Marcus Vinicius",
+   "cast_as": "Mark Antony"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Poppæa",
+   "cast_as": "Cleopatra VII"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER LIV"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "LYGIA, in a long letter written hurriedly, took farewell to Vinicius\nforever. She knew that no one was permitted to enter the prison,\nand that she could see Vinicius only from the arena. She begged him\ntherefore to discover when the turn of the Mamertine prisoners would\ncome, and to be at the games, for she wished to see him once more in\nlife. No fear was evident in her letter. She wrote that she and the\nothers were longing for the arena, where they would find liberation\nfrom imprisonment. She hoped for the coming of Pomponia and Aulus; she\nentreated that they too be present. Every word of her showed ecstasy,\nand that separation from life in which all the prisoners lived, and at\nthe same time an unshaken faith that all promises would be fulfilled\nbeyond the grave."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“Whether Christ,”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "wrote she,"
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "role": "Lygia",
+   "cast": "Helen Keller",
+   "text": "“frees me in this life or after death,\nHe has promised me to thee by the lips of the Apostle; therefore I am\nthine.”"
+  },
+  {
+   "n": 6,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "She implored him not to grieve for her, and not to let himself\nbe overcome by suffering. For her death was not a dissolution of\nmarriage. With the confidence of a child she assured Vinicius that\nimmediately after her suffering in the arena she would tell Christ that\nher betrothed Marcus had remained in Rome, that he was longing for her\nwith his whole heart. And she thought that Christ would permit her soul,\nperhaps, to return to him for a moment, to tell him that she was living,\nthat she did not remember her torments, and that she was happy. Her\nwhole letter breathed happiness and immense hope. There was only one\nrequest in it connected with affairs of earth,--that Vinicius should\ntake her body from the spoliarium and bury it as that of his wife in the\ntomb in which he himself would rest sometime."
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "He read this letter with a suffering spirit, but at the same time it\nseemed to him impossible that Lygia should perish under the claws of\nwild beasts, and that Christ would not take compassion on her. But just\nin that were hidden hope and trust. When he returned home, he wrote\nthat he would come every day to the walls of the Tullianum to wait till\nChrist crushed the walls and restored her. He commanded her to believe\nthat Christ could give her to him, even in the Circus; that the great\nApostle was imploring Him to do so, and that the hour of liberation\nwas near. The converted centurion was to bear this letter to her on the\nmorrow."
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But when Vinicius came to the prison next morning, the centurion left\nthe rank, approached him first, and said,--"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Listen to me, lord. Christ, who enlightened thee, has shown thee favor.\nLast night Cæsar’s freedman and those of the prefect came to select\nChristian maidens for disgrace; they inquired for thy betrothed, but our\nLord sent her a fever, of which prisoners are dying in the Tullianum,\nand they left her. Last evening she was unconscious, and blessed be the\nname of the Redeemer, for the sickness which has saved her from shame\nmay save her from death.”"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Vinicius placed his hand on the soldier’s shoulder to guard himself from\nfalling; but the other continued,--"
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Thank the mercy of the Lord! They took and tortured Linus, but, seeing\nthat he was dying, they surrendered him. They may give her now to thee,\nand Christ will give back health to her.”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The young tribune stood some time with drooping head; then raised it and\nsaid in a whisper,--"
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“True, centurion. Christ, who saved her from shame, will save her from\ndeath.”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And sitting at the wall of the prison till evening, he returned\nhome to send people for Linus and have him taken to one of his suburban\nvillas."
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But when Petronius had heard everything, he determined to act also. He\nhad visited the Augusta; now he went to her a second time. He found her\nat the bed of little Rufius. The child with broken head was struggling\nin a fever; his mother, with despair and terror in her heart, was trying\nto save him, thinking, however, that if she did save him it might be\nonly to perish soon by a more dreadful death."
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Occupied exclusively with her own suffering, she would not even hear of\nVinicius and Lygia; but Petronius terrified her."
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou hast offended,”"
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said he to her,"
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“a new, unknown divinity. Thou,\nAugusta, art a worshipper, it seems, of the Hebrew Jehovah; but the\nChristians maintain that Chrestos is his son. Reflect, then, if the\nanger of the father is not pursuing thee. Who knows but it is their\nvengeance which has struck thee? Who knows but the life of Rufius\ndepends on this,--how thou wilt act?”"
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Poppæa",
+   "cast": "Cleopatra VII",
+   "text": "“What dost thou wish me to do?”"
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked Poppæa, with terror."
+  },
+  {
+   "n": 22,
+   "para": 14,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Mollify the offended deities.”"
+  },
+  {
+   "n": 23,
+   "para": 15,
+   "role": "Poppæa",
+   "cast": "Cleopatra VII",
+   "text": "“How?”"
+  },
+  {
+   "n": 24,
+   "para": 16,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Lygia is sick; influence Cæsar or Tigellinus to give her to Vinicius.”"
+  },
+  {
+   "n": 25,
+   "para": 17,
+   "role": "Poppæa",
+   "cast": "Cleopatra VII",
+   "text": "“Dost thou think that I can do that?”"
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "asked she, in despair."
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Thou canst do something else. If Lygia recovers, she must die. Go\nthou to the temple of Vesta, and ask the virgo magna to happen near the\nTullianum at the moment when they are leading prisoners out to death,\nand give command to free that maiden. The chief vestal will not refuse\nthee.”"
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Poppæa",
+   "cast": "Cleopatra VII",
+   "text": "“But if Lygia dies of the fever?”"
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“The Christians say that Christ is vengeful, but just; maybe thou wilt\nsoften Him by thy wish alone.”"
+  },
+  {
+   "n": 30,
+   "para": 21,
+   "role": "Poppæa",
+   "cast": "Cleopatra VII",
+   "text": "“Let Him give me some sign that will heal Rufius.”"
+  },
+  {
+   "n": 31,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius shrugged his shoulders."
+  },
+  {
+   "n": 32,
+   "para": 23,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I have not come as His envoy; O divinity, I merely say to thee, Be on\nbetter terms with all the gods, Roman and foreign.”"
+  },
+  {
+   "n": 33,
+   "para": 24,
+   "role": "Poppæa",
+   "cast": "Cleopatra VII",
+   "text": "“I will go!”"
+  },
+  {
+   "n": 34,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Poppæa, with a broken voice."
+  },
+  {
+   "n": 35,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Petronius drew a deep breath."
+  },
+  {
+   "n": 36,
+   "para": 25,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“At last I have done something,”"
+  },
+  {
+   "n": 37,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "thought\nhe, and returning to Vinicius he said to him,--"
+  },
+  {
+   "n": 38,
+   "para": 26,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Implore thy God that Lygia die not of the fever, for should she\nsurvive, the chief vestal will give command to free her. The Augusta\nherself will ask her to do so.”"
+  },
+  {
+   "n": 39,
+   "para": 27,
+   "role": "Marcus Vinicius",
+   "cast": "Mark Antony",
+   "text": "“Christ will free her,”"
+  },
+  {
+   "n": 40,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Vinicius, looking at him with eyes in which\nfever was glittering."
+  },
+  {
+   "n": 41,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Poppæa, who for the recovery of Rufius was willing to burn hecatombs to\nall the gods of the world, went that same evening through the Forum to\nthe vestals, leaving care over the sick child to her faithful nurse,\nSilvia, by whom she herself had been reared."
+  },
+  {
+   "n": 42,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But on the Palatine sentence had been issued against the child already;\nfor barely had Poppæa’s litter vanished behind the great gate when two\nfreedmen entered the chamber in which her son was resting. One of these\nthrew himself on old Silvia and gagged her; the other, seizing a bronze\nstatue of the Sphinx, stunned the old woman with the first blow."
+  },
+  {
+   "n": 43,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Then they approached Rufius. The little boy, tormented with fever and\ninsensible, not knowing what was passing around him, smiled at them,\nand blinked with his beautiful eyes, as if trying to recognize the men.\nStripping from the nurse her girdle, they put it around his neck and\npulled it. The child called once for his mother, and died easily. Then\nthey wound him in a sheet, and sitting on horses which were waiting,\nhurried to Ostia, where they threw the body into the sea."
+  },
+  {
+   "n": 44,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Poppæa, not finding the virgo magna, who with other vestals was at the\nhouse of Vatinius, returned soon to the Palatine. Seeing the empty bed\nand the cold body of Silvia, she fainted, and when they restored her she\nbegan to scream; her wild cries were heard all that night and the day\nfollowing."
+  },
+  {
+   "n": 45,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Cæsar commanded her to appear at a feast on the third day; so,\narraying herself in an amethyst-colored tunic, she came and sat with\nstony face, golden-haired, silent, wonderful, and as ominous as an angel\nof death."
+  }
+ ]
+}

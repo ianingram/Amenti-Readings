@@ -1,0 +1,326 @@
+{
+ "work": "quo-vadis",
+ "episode": 62,
+ "chapter": 62,
+ "title": "Chilo's Cross",
+ "document": "PART SEVEN · CHAPTER LXII",
+ "source": {
+  "library": "library/henryk-sienkiewicz/ch62.md",
+  "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Henryk Sienkiewicz"
+  },
+  {
+   "role": "Tigellinus",
+   "cast_as": "Caligula"
+  },
+  {
+   "role": "Petronius",
+   "cast_as": "Petronius"
+  },
+  {
+   "role": "Chilo Chilonides",
+   "cast_as": "Diogenes"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "CHAPTER LXII"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "THE drama “Aureolus” was given usually in theatres or amphitheatres,\nso arranged that they could open and present as it were two separate\nstages. But after the spectacle in the gardens of Cæsar the usual method\nwas omitted; for in this case the problem was to let the greatest number\nof people look at a slave who, in the drama, is devoured by a bear. In\nthe theatres the role of the bear is played by an actor sewed up in a\nskin, but this time the representation was to be real. This was a new\nidea of Tigellinus. At first Cæsar refused to come, but changed his mind\nat persuasion of the favorite. Tigellinus explained that after what had\nhappened in the gardens it was all the more his duty to appear before\nthe people, and he guaranteed that the crucified slave would not\ninsult him as had Crispus. The people were somewhat sated and tired of\nblood-spilling; hence a new distribution of lottery tickets and gifts\nwas promised, as well as a feast, for the spectacle was to be in the\nevening, in a brilliantly lighted amphitheatre."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "About dusk the whole amphitheatre was packed; the Augustians, with\nTigellinus at the head of them, came to a man,--not only for the\nspectacle itself, but to show their devotion to Cæsar and their opinion\nof Chilo, of whom all Rome was then talking."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "They whispered to one another that Cæsar, when returning from the\ngardens, had fallen into a frenzy and could not sleep, that terrors and\nwonderful visions had attacked him; therefore he had announced on the\nfollowing morning his early journey to Achæa. But others denied this,\ndeclaring that he would be all the more pitiless to the Christians.\nCowards, however, were not lacking, who foresaw that the accusation\nwhich Chilo had thrown into Cæsar’s face might have the worst result\npossible. In conclusion, there were those who through humanity begged\nTigellinus to stop persecution."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“See whither ye are going,” said Barcus Soranus. “Ye wished to allay\npeople’s anger and convince them that punishment was falling on the\nguilty; the result is just the opposite.”"
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“True!” added Antistius Verus, “all whisper to one another now that the\nChristians were innocent. If that be cleverness, Chilo was right when he\nsaid that your brains could be held in a nutshell.”"
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Tigellinus turned to them and said:"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Barcus Soranus, people whisper also\nto one another that thy daughter Servilia secreted her Christian slaves\nfrom Cæsar’s justice; they say the same also of thy wife, Antistius.”"
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“That is not true!” exclaimed Barcus, with alarm."
+  },
+  {
+   "n": 10,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Your divorced women wished to ruin my wife, whose virtue they envy,”\n said Antistius Verus, with no less alarm."
+  },
+  {
+   "n": 11,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But others spoke of Chilo."
+  },
+  {
+   "n": 12,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“What has happened to him?” asked Eprius Marcellus. “He delivered them\nhimself into the hands of Tigellinus; from a beggar he became rich;\nit was possible for him to live out his days in peace, have a splendid\nfuneral, and a tomb: but, no! All at once he preferred to lose\neverything and destroy himself; he must, in truth, be a maniac.”"
+  },
+  {
+   "n": 13,
+   "para": 11,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Not a maniac, but he has become a Christian,”"
+  },
+  {
+   "n": 14,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said Tigellinus."
+  },
+  {
+   "n": 15,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Impossible!” said Vitelius."
+  },
+  {
+   "n": 16,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Have I not said,” put in Vestinius, “‘Kill Christians if ye like;\nbut believe me ye cannot war with their divinity. With it there is no\njesting’? See what is taking place. I have not burned Rome; but if Cæsar\npermitted I would give a hecatomb at once to their divinity. And all\nshould do the same, for I repeat: With it there is no jesting! Remember\nmy words to you.”"
+  },
+  {
+   "n": 17,
+   "para": 14,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“And I said something else,”"
+  },
+  {
+   "n": 18,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "added Petronius."
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“Tigellinus laughed when I\nsaid that they were arming, but I say more,--they are conquering.”"
+  },
+  {
+   "n": 20,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“How is that? how is that?” inquired a number of voices."
+  },
+  {
+   "n": 21,
+   "para": 16,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“By Pollux, they are! For if such a man as Chilo could not resist them,\nwho can? If ye think that after every spectacle the Christians do not\nincrease, become coppersmiths, or go to shaving beards, for then ye will\nknow better what people think, and what is happening in the city.”"
+  },
+  {
+   "n": 22,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“He speaks pure truth, by the sacred peplus of Diana,” cried Vestinius."
+  },
+  {
+   "n": 23,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "But Barcus turned to Petronius."
+  },
+  {
+   "n": 24,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“What is thy conclusion?”"
+  },
+  {
+   "n": 25,
+   "para": 20,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“I conclude where ye began,--there has been enough of bloodshed.”"
+  },
+  {
+   "n": 26,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Tigellinus looked at him jeeringly,--"
+  },
+  {
+   "n": 27,
+   "para": 21,
+   "role": "Tigellinus",
+   "cast": "Caligula",
+   "text": "“Ei!--a little more!”"
+  },
+  {
+   "n": 28,
+   "para": 22,
+   "role": "Petronius",
+   "cast": "Petronius",
+   "text": "“If thy head is not sufficient, thou hast another on thy cane,”"
+  },
+  {
+   "n": 29,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "said\nPetronius."
+  },
+  {
+   "n": 30,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Further conversation was interrupted by the coming of Cæsar, who\noccupied his place in company with Pythagoras. Immediately after began\nthe representation of “Aureolus,” to which not much attention was paid,\nfor the minds of the audience were fixed on Chilo. The spectators,\nfamiliar with blood and torture, were bored; they hissed, gave out\nshouts uncomplimentary to the court, and demanded the bear scene, which\nfor them was the only thing of interest. Had it not been for gifts\nand the hope of seeing Chilo, the spectacle would not have held the\naudience."
+  },
+  {
+   "n": 31,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At last the looked-for moment came. Servants of the Circus brought in\nfirst a wooden cross, so low that a bear standing on his hind feet might\nreach the martyr’s breast; then two men brought, or rather dragged in,\nChilo, for as the bones in his legs were broken, he was unable to walk\nalone. They laid him down and nailed him to the wood so quickly that the\ncurious Augustians had not even a good look at him, and only after the\ncross had been fixed in the place prepared for it did all eyes turn to\nthe victim. But it was a rare person who could recognize in that naked\nman the former Chilo. After the tortures which Tigellinus had commanded,\nthere was not one drop of blood in his face, and only on his white beard\nwas evident a red trace left by blood after they had torn his tongue\nout. Through the transparent skin it was quite possible to see his\nbones. He seemed far older also, almost decrepit. Formerly his eyes\ncast glances ever filled with disquiet and ill-will, his watchful face\nreflected constant alarm and uncertainty; now his face had an expression\nof pain, but it was as mild and calm as faces of the sleeping or the\ndead. Perhaps remembrance of that thief on the cross whom Christ had\nforgiven lent him confidence; perhaps, also, he said in his soul to the\nmerciful God,"
+  },
+  {
+   "n": 32,
+   "para": 25,
+   "role": "Chilo Chilonides",
+   "cast": "Diogenes",
+   "text": "“O Lord, I bit like a venomous worm; but all my life I was unfortunate.\nI was famishing from hunger, people trampled on me, beat me, jeered at\nme. I was poor and very unhappy, and now they put me to torture and nail\nme to a cross; but Thou, O Merciful, wilt not reject me in this hour!”"
+  },
+  {
+   "n": 33,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Peace descended evidently into his crushed heart. No one laughed, for\nthere was in that crucified man something so calm, he seemed so old, so\ndefenceless, so weak, calling so much for pity with his lowliness, that\neach one asked himself unconsciously how it was possible to torture\nand nail to crosses men who would die soon in any case. The crowd was\nsilent. Among the Augustians Vestinius, bending to right and left,\nwhispered in a terrified voice,"
+  },
+  {
+   "n": 34,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“See how they die!”"
+  },
+  {
+   "n": 35,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Others were looking\nfor the bear, wishing the spectacle to end at the earliest."
+  },
+  {
+   "n": 36,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "The bear came into the arena at last, and, swaying from side to side a\nhead which hung low, he looked around from beneath his forehead, as if\nthinking of something or seeking something. At last he saw the cross and\nthe naked body. He approached it, and stood on his hind legs; but after\na moment he dropped again on his fore-paws, and sitting under the cross\nbegan to growl, as if in his heart of a beast pity for that remnant of a\nman had made itself heard."
+  },
+  {
+   "n": 37,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Cries were heard from Circus slaves urging on the bear, but the people\nwere silent."
+  },
+  {
+   "n": 38,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Meanwhile Chilo raised his head with slow motion, and for a time moved\nhis eyes over the audience. At last his glance rested somewhere on the\nhighest rows of the amphitheatre; his breast moved with more life,\nand something happened which caused wonder and astonishment. That face\nbecame bright with a smile; a ray of light, as it were, encircled that\nforehead; his eyes were uplifted before death, and after a while two\ngreat tears which had risen between the lids flowed slowly down his\nface."
+  },
+  {
+   "n": 39,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "And he died."
+  },
+  {
+   "n": 40,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "At that same moment a resonant manly voice high up under the velarium\nexclaimed,--"
+  },
+  {
+   "n": 41,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "“Peace to the martyrs!”"
+  },
+  {
+   "n": 42,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
+   "text": "Deep silence reigned in the amphitheatre."
+  }
+ ]
+}

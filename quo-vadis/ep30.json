@@ -2,8 +2,9 @@
  "work": "quo-vadis",
  "episode": 30,
  "chapter": 30,
+ "book": 3,
  "title": "Nero",
- "document": "PART THREE · CHAPTER XXX",
+ "document": "BOOK III · CHAPTER XXX",
  "source": {
   "library": "library/henryk-sienkiewicz/ch30.md",
   "text": "Henryk Sienkiewicz, Quo Vadis (1896), tr. Jeremiah Curtin · Project Gutenberg #2853 · public domain"
@@ -54,8 +55,8 @@
   {
    "n": 3,
    "para": 2,
-   "role": "Narrator",
-   "cast": "Henryk Sienkiewicz",
+   "role": "Nero",
+   "cast": "Nero",
    "text": "“Yes, there was need to defer the journey. Egypt, and predicted dominion\nover the Orient, cannot escape me; hence Achæa, too, will not be lost.\nI will give command to cut through the isthmus of Corinth; I will rear\nsuch monuments in Egypt that the pyramids will seem childish toys in\ncomparison; I will have a sphinx built seven times greater than that\nwhich is gazing into the desert outside Memphis; but I will command that\nit have my face. Coming ages will speak only of that monument and of\nme.”"
   },
   {

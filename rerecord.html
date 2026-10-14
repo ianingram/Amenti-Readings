@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Amenti Readings — Re-record Lines</title>
+<style>
+  :root { --bg:#0e0c0a; --panel:#17140f; --ink:#e9e1cf; --dim:#9c927d; --gold:#c9a45a; --red:#d0644f; --green:#7fae6a; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 Georgia, serif; }
+  main { max-width:760px; margin:0 auto; padding:28px 16px 60px; }
+  h1 { font-weight:normal; color:var(--gold); margin:0 0 6px; }
+  p { color:var(--dim); }
+  button { font:inherit; background:var(--gold); color:#1a1408; border:0; border-radius:4px; padding:10px 18px; cursor:pointer; }
+  button:disabled { opacity:.45; cursor:default; }
+  #log { font:12px/1.6 Menlo, monospace; color:var(--dim); white-space:pre-wrap; background:var(--panel); border-radius:6px; padding:14px; margin-top:16px; max-height:60vh; overflow:auto; }
+  .ok { color:var(--green); } .bad { color:var(--red); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Re-record Lines</h1>
+  <p>Records again the pieces of Quo Vadis Book I that came out garbled or never came back, replacing them in the archive. Each new take is checked for length and tried up to three times.</p>
+  <button id="go" disabled>Re-record 21 lines</button>
+  <div id="log"></div>
+</main>
+<script src="https://ianingram.github.io/Amenti.live/amenti-core.bundle.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/reader.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/casting.js"></script>
+<script>
+/* RE-RECORD · 14 Oct 2026. The list below came from checking every Book I take in the archive:
+   each was transcribed and found garbled, or never recorded. A piece is sent exactly as the player
+   sends it (same text, style and voice, so the same archive key) with ?fresh=1, which replaces
+   the stored take. A take whose length cannot fit its words is tried again, up to three times. */
+(function () {
+  var FIX = [{"ch": 2, "cue": 46, "piece": "of soothsayers; of discoverers of hidden treasures; of interpreters of dreams.", "why": "garbled take"}, {"ch": 2, "cue": 52, "piece": "that is, against all the slaves of the prefect Pedanius Secundus, without distinction of sex or age, because one of them had killed that monster in a moment of despair.", "why": "garbled take"}, {"ch": 2, "cue": 77, "piece": "approaching hurriedly.", "why": "garbled take"}, {"ch": 2, "cue": 107, "piece": "a dark frame.", "why": "garbled take"}, {"ch": 2, "cue": 109, "piece": "said Petronius,", "why": "garbled take"}, {"ch": 2, "cue": 130, "piece": "woman quite young.", "why": "garbled take"}, {"ch": 2, "cue": 148, "piece": "answered she, turning her eyes in the direction of little Aulus and Lygia.", "why": "garbled take"}, {"ch": 4, "cue": 51, "piece": "Here he whispered to Pomponia that under the form of an escort she could add as many slaves as she thought proper, for the centurion could not refuse to receive them.", "why": "garbled take"}, {"ch": 7, "cue": 41, "piece": "answered Lygia,", "why": "garbled take"}, {"ch": 7, "cue": 54, "piece": "which love, and not crime, was the ruling power.", "why": "garbled take"}, {"ch": 7, "cue": 112, "piece": "said Petronius,", "why": "garbled take"}, {"ch": 7, "cue": 112, "piece": "said Petronius,", "why": "garbled take"}, {"ch": 8, "cue": 14, "piece": "“Acte,”", "why": "garbled take"}, {"ch": 8, "cue": 40, "piece": "Entirely in the light, she seemed herself like light. In that pale face, in those parted lips, in those raised hands and eyes, a kind of superhuman exaltation was evident. Acte understood then why Lygia could not become the concubine of any man.", "why": "garbled take"}, {"ch": 9, "cue": 70, "piece": "The lips of the maiden grew pale.", "why": "garbled take"}, {"ch": 10, "cue": 13, "piece": "said he, as if in a monologue.", "why": "garbled take"}, {"ch": 10, "cue": 14, "piece": "“They must,”", "why": "garbled take"}, {"ch": 10, "cue": 30, "piece": "said she, with trembling lips.", "why": "garbled take"}, {"ch": 7, "cue": 36, "piece": null, "why": "never recorded"}, {"ch": 7, "cue": 180, "piece": null, "why": "never recorded"}, {"ch": 9, "cue": 2, "piece": null, "why": "never recorded"}];
+  var VOICE = 'https://amenti-proxy.ingram-ian.workers.dev/speak';
+  var R = window.Amenti && window.Amenti.reading, E = window.Amenti && window.Amenti.throttle;
+  var $ = function (id) { return document.getElementById(id); };
+  function log(s, cls) { var d = document.createElement('div'); if (cls) d.className = cls; d.textContent = s; $('log').appendChild(d); $('log').scrollTop = 1e9; }
+  function sleep(ms) { return new Promise(function (r) { setTimeout(r, ms); }); }
+  function pad(n) { return (n < 10 ? '0' : '') + n; }
+  if (!R || !E) { log('The voice engine did not load.', 'bad'); return; }
+  var actx = new (window.AudioContext || window.webkitAudioContext)();
+  function fits(secs, n) { var exp = n / 12.5 + 1.2; return !(secs > 1.6 * exp && secs - exp > 2.5) && secs >= (n > 40 ? 0.35 * exp : 0.3); }
+  function once(body) {
+    return fetch(VOICE + '?fresh=1', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) })
+      .then(function (r) {
+        if (!r.ok) return r.text().then(function (t) { return { err: r.status + ' ' + t.slice(0, 120), status: r.status }; });
+        return r.arrayBuffer().then(function (b) { return actx.decodeAudioData(b); }).then(function (a) { return { secs: a.duration }; });
+      }, function (e) { return { err: String(e && e.message) }; });
+  }
+  function piece(body, label) {
+    var n = body.text.length, tries = 0;
+    function go() {
+      tries++;
+      return once(body).then(function (res) {
+        if (res.err) {
+          log('  ' + label + ' — attempt ' + tries + ': ' + res.err, 'bad');
+          if (tries < 3) return sleep(res.status === 429 ? 60000 : 8000).then(go);
+          return false;
+        }
+        if (fits(res.secs, n)) { log('  ' + label + ' — good take, ' + res.secs.toFixed(1) + 's for ' + n + ' characters', 'ok'); return true; }
+        log('  ' + label + ' — attempt ' + tries + ' came back ' + res.secs.toFixed(1) + 's for ' + n + ' characters: wrong length', 'bad');
+        if (tries < 3) return sleep(7000).then(go);
+        return false;
+      });
+    }
+    return go();
+  }
+  $('go').disabled = false;
+  $('go').onclick = function () {
+    $('go').disabled = true; actx.resume && actx.resume();
+    var good = 0, bad = [], i = 0;
+    function next() {
+      if (i >= FIX.length) {
+        log(''); log(bad.length ? (good + ' fixed; still wrong: ' + bad.join(', ') + '. Press again later to retry.') : ('All ' + good + ' fixed.'), bad.length ? 'bad' : 'ok');
+        $('go').disabled = false; return;
+      }
+      var F = FIX[i++], label = 'Chapter ' + F.ch + ', line ' + (F.cue + 1);
+      log(label + (F.piece ? '' : ' (whole line)'));
+      return R.load('quo-vadis/ep' + pad(F.ch) + '.json').then(function (sheet) {
+        var c = sheet.cues[F.cue], text = R.spoken(c);
+        if (R.direction(c)) { log('  has a line direction — skipped (tell Claude)', 'bad'); bad.push(label); return; }
+        return E.resolveVoice(R.nameFor(c)).then(function (v) {
+          var chunks = E.chunk(text).map(function (x) { return (x && x.text != null) ? x.text : x; });
+          var want = F.piece ? chunks.filter(function (t) { return t.replace(/\s+/g, ' ').trim() === F.piece.replace(/\s+/g, ' ').trim(); }) : chunks;
+          if (!want.length) { log('  piece not found in the script — skipped (tell Claude)', 'bad'); bad.push(label); return; }
+          var model = E.model && E.model();
+          return want.reduce(function (p, t, j) {
+            return p.then(function (allOk) {
+              var body = { text: t, style: v.style, voice: v.voice || 'Kore' }; if (model) body.model = model;
+              return piece(body, want.length > 1 ? 'piece ' + (j + 1) + ' of ' + want.length : 'take').then(function (ok) { return sleep(6000).then(function () { return allOk && ok; }); });
+            });
+          }, Promise.resolve(true)).then(function (ok) { if (ok) good++; else bad.push(label); });
+        });
+      }).then(next, function (e) { log('  error: ' + e.message, 'bad'); bad.push(label); next(); });
+    }
+    log('Re-recording ' + FIX.length + ' lines…'); next();
+  };
+})();
+</script>
+</body>
+</html>

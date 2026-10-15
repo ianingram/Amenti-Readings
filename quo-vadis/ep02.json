@@ -340,7 +340,12 @@
    "para": 27,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "Further conversation was interrupted, since they were borne into crowded\nstreets where the noise of people hindered them."
+   "text": "Further conversation was interrupted, since they were borne into crowded\nstreets where the noise of people hindered them.",
+   "score": {
+    "key": "opulence",
+    "at": "borne into crowded streets",
+    "xfade": 6
+   }
   },
   {
    "n": 45,
@@ -361,7 +366,13 @@
    "para": 30,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "Those buildings and columns seemed huddled together. They towered some\nabove others, they stretched toward the right and the left, they climbed\ntoward the height, and they clung to the wall of the Capitol, or some\nof them clung to others, like greater and smaller, thicker and thinner,\nwhite or gold colored tree-trunks, now blooming under architraves,\nflowers of the acanthus, now surrounded with Ionic corners, now finished\nwith a simple Doric quadrangle. Above that forest gleamed colored\ntriglyphs; from tympans stood forth the sculptured forms of gods; from\nthe summits winged golden quadrigæ seemed ready to fly away through\nspace into the blue dome, fixed serenely above that crowded place of\ntemples. Through the middle of the market and along the edges of it\nflowed a river of people; crowds passed under the arches of the basilica\nof Julius Cæsar; crowds were sitting on the steps of Castor and Pollux,\nor walking around the temple of Vesta, resembling on that great marble\nbackground many-colored swarms of butterflies or beetles. Down immense\nsteps, from the side of the temple on the Capitol dedicated to Jupiter\nOptimus Maximus, came new waves; at the rostra people listened to chance\norators; in one place and another rose the shouts of hawkers selling\nfruit, wine, or water mixed with fig-juice; of tricksters; of venders\nof marvellous medicines; of soothsayers; of discoverers of hidden\ntreasures; of interpreters of dreams. Here and there, in the tumult of\nconversations and cries, were mingled sounds of the Egyptian sistra, of\nthe sambuké, or of Grecian flutes. Here and there the sick, the pious,\nor the afflicted were bearing offerings to the temples. In the midst of\nthe people, on the stone flags, gathered flocks of doves, eager for\nthe grain given them, and like movable many-colored and dark spots, now\nrising for a moment with a loud sound of wings, now dropping down again\nto places left vacant by people. From time to time the crowds opened\nbefore litters in which were visible the affected faces of women, or\nthe heads of senators and knights, with features, as it were, rigid and\nexhausted from living. The many-tongued population repeated aloud their\nnames, with the addition of some term of praise or ridicule. Among\nthe unordered groups pushed from time to time, advancing with measured\ntread, parties of soldiers, or watchers, preserving order on the\nstreets. Around about, the Greek language was heard as often as Latin."
+   "text": "Those buildings and columns seemed huddled together. They towered some\nabove others, they stretched toward the right and the left, they climbed\ntoward the height, and they clung to the wall of the Capitol, or some\nof them clung to others, like greater and smaller, thicker and thinner,\nwhite or gold colored tree-trunks, now blooming under architraves,\nflowers of the acanthus, now surrounded with Ionic corners, now finished\nwith a simple Doric quadrangle. Above that forest gleamed colored\ntriglyphs; from tympans stood forth the sculptured forms of gods; from\nthe summits winged golden quadrigæ seemed ready to fly away through\nspace into the blue dome, fixed serenely above that crowded place of\ntemples. Through the middle of the market and along the edges of it\nflowed a river of people; crowds passed under the arches of the basilica\nof Julius Cæsar; crowds were sitting on the steps of Castor and Pollux,\nor walking around the temple of Vesta, resembling on that great marble\nbackground many-colored swarms of butterflies or beetles. Down immense\nsteps, from the side of the temple on the Capitol dedicated to Jupiter\nOptimus Maximus, came new waves; at the rostra people listened to chance\norators; in one place and another rose the shouts of hawkers selling\nfruit, wine, or water mixed with fig-juice; of tricksters; of venders\nof marvellous medicines; of soothsayers; of discoverers of hidden\ntreasures; of interpreters of dreams. Here and there, in the tumult of\nconversations and cries, were mingled sounds of the Egyptian sistra, of\nthe sambuké, or of Grecian flutes. Here and there the sick, the pious,\nor the afflicted were bearing offerings to the temples. In the midst of\nthe people, on the stone flags, gathered flocks of doves, eager for\nthe grain given them, and like movable many-colored and dark spots, now\nrising for a moment with a loud sound of wings, now dropping down again\nto places left vacant by people. From time to time the crowds opened\nbefore litters in which were visible the affected faces of women, or\nthe heads of senators and knights, with features, as it were, rigid and\nexhausted from living. The many-tongued population repeated aloud their\nnames, with the addition of some term of praise or ridicule. Among\nthe unordered groups pushed from time to time, advancing with measured\ntread, parties of soldiers, or watchers, preserving order on the\nstreets. Around about, the Greek language was heard as often as Latin.",
+   "sfx": [
+    {
+     "key": "doves",
+     "at": "gathered flocks of doves"
+    }
+   ]
   },
   {
    "n": 48,
@@ -523,7 +534,8 @@
    "para": 40,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "But before he had begun, they turned in to the Vicus Patricius, and\nsoon found themselves before the dwelling of Aulus. A young and sturdy\n“janitor” opened the door leading to the ostium, over which a magpie\nconfined in a cage greeted them noisily with the word, “Salve!”"
+   "text": "But before he had begun, they turned in to the Vicus Patricius, and\nsoon found themselves before the dwelling of Aulus. A young and sturdy\n“janitor” opened the door leading to the ostium, over which a magpie\nconfined in a cage greeted them noisily with the word, “Salve!”",
+   "bed": "domus"
   },
   {
    "n": 71,
@@ -1127,7 +1139,13 @@
    "para": 89,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "He was silent--and for a time there was nothing to be heard save the\nlight plash of the water into which little Aulus was throwing pebbles\nto frighten the fish; but after a while Vinicius began again in a voice\nstill softer and lower,--"
+   "text": "He was silent--and for a time there was nothing to be heard save the\nlight plash of the water into which little Aulus was throwing pebbles\nto frighten the fish; but after a while Vinicius began again in a voice\nstill softer and lower,--",
+   "sfx": [
+    {
+     "key": "pebbles",
+     "at": "into which little Aulus was throwing pebbles"
+    }
+   ]
   },
   {
    "n": 156,

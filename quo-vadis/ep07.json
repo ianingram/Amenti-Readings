@@ -417,7 +417,8 @@
    "para": 41,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "But she was ready soon; and when the first litters began to appear\nbefore the main gate, both entered the side portico from which were\nvisible the chief entrance, the interior galleries, and the courtyard\nsurrounded by a colonnade of Numidian marble."
+   "text": "But she was ready soon; and when the first litters began to appear\nbefore the main gate, both entered the side portico from which were\nvisible the chief entrance, the interior galleries, and the courtyard\nsurrounded by a colonnade of Numidian marble.",
+   "bed": "feast"
   },
   {
    "n": 55,
@@ -466,7 +467,18 @@
    "para": 46,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "Acte, taking her hand at that moment, led her through the\ninterior apartments to the grand triclinium, where the feast was to\nbe. Darkness was in her eyes, and a roaring in her ears from internal\nemotion; the beating of her heart stopped her breath. As in a dream, she\nsaw thousands of lamps gleaming on the tables and on the walls; as in\na dream, she heard the shout with which the guests greeted Cæsar; as\nthrough a mist, she saw Cæsar himself. The shout deafened her, the\nglitter dazzled, the odors intoxicated; and, losing the remnant of her\nconsciousness, she was barely able to recognize Acte, who seated her at\nthe table and took a place at her side."
+   "text": "Acte, taking her hand at that moment, led her through the\ninterior apartments to the grand triclinium, where the feast was to\nbe. Darkness was in her eyes, and a roaring in her ears from internal\nemotion; the beating of her heart stopped her breath. As in a dream, she\nsaw thousands of lamps gleaming on the tables and on the walls; as in\na dream, she heard the shout with which the guests greeted Cæsar; as\nthrough a mist, she saw Cæsar himself. The shout deafened her, the\nglitter dazzled, the odors intoxicated; and, losing the remnant of her\nconsciousness, she was barely able to recognize Acte, who seated her at\nthe table and took a place at her side.",
+   "score": {
+    "key": "court",
+    "at": "she heard the shout with which the guests greeted",
+    "xfade": 4
+   },
+   "sfx": [
+    {
+     "key": "cheer",
+     "at": "she heard the shout with which the guests greeted"
+    }
+   ]
   },
   {
    "n": 62,
@@ -1085,7 +1097,14 @@
    "para": 106,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "And he pushed up nearer and nearer, and she began to withdraw toward\nActe. But at that moment silence was enjoined because Cæsar had risen.\nThe singer Diodorus had given him a lute of the kind called delta;\nanother singer named Terpnos, who had to accompany him in playing,\napproached with an instrument called the nablium. Nero, resting the\ndelta on the table, raised his eyes; and for a moment silence reigned in\nthe triclinium, broken only by a rustle, as roses fell from the ceiling."
+   "text": "And he pushed up nearer and nearer, and she began to withdraw toward\nActe. But at that moment silence was enjoined because Cæsar had risen.\nThe singer Diodorus had given him a lute of the kind called delta;\nanother singer named Terpnos, who had to accompany him in playing,\napproached with an instrument called the nablium. Nero, resting the\ndelta on the table, raised his eyes; and for a moment silence reigned in\nthe triclinium, broken only by a rustle, as roses fell from the ceiling.",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "nero_lyre",
+     "at": "silence was enjoined because Cæsar had risen"
+    }
+   ]
   },
   {
    "n": 149,
@@ -1105,7 +1124,8 @@
    "para": 108,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "The guests answered with a thunder of applause. Cries of, “Oh, heavenly\nvoice!” were heard round about; some of the women raised their hands,\nand held them thus, as a sign of delight, even after the end of the\nhymn; others wiped their tearful eyes; the whole hall was seething as in\na beehive. Poppæa, bending her golden-haired head, raised Nero’s hand\nto her lips, and held it long in silence. Pythagoras, a young Greek\nof marvellous beauty,--the same to whom later the half-insane Nero\ncommanded the flamens to marry him, with the observance of all\nrites,--knelt now at his feet."
+   "text": "The guests answered with a thunder of applause. Cries of, “Oh, heavenly\nvoice!” were heard round about; some of the women raised their hands,\nand held them thus, as a sign of delight, even after the end of the\nhymn; others wiped their tearful eyes; the whole hall was seething as in\na beehive. Poppæa, bending her golden-haired head, raised Nero’s hand\nto her lips, and held it long in silence. Pythagoras, a young Greek\nof marvellous beauty,--the same to whom later the half-insane Nero\ncommanded the flamens to marry him, with the observance of all\nrites,--knelt now at his feet.",
+   "state": 1
   },
   {
    "n": 151,
@@ -1471,8 +1491,8 @@
   {
    "n": 201,
    "para": 144,
-   "role": "Petronius",
-   "cast": "Petronius",
+   "role": "Narrator",
+   "cast": "Henryk Sienkiewicz",
    "text": "“Drink!”"
   },
   {

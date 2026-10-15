@@ -1,14 +1,14 @@
 {
  "_file": "Amenti-Readings/quo-vadis/sound.json",
- "_updated": "2026-10-15 05:10 UTC",
+ "_updated": "2026-10-15 06:10 UTC",
  "work": "quo-vadis",
  "note": "A MODERN SCORE THAT TELLS THE STORY, a different sound world for each kind of scene: opulence (eastern, sensual — the baths, Petronius, the luxury of the court), Lygia (spare piano and a string halo), Vinicius (a driving string ostinato, the cellos rising), the court (low brass clusters, a sliding bassoon, dripping pizzicato — Nero and Poppæa), faith (a warm string chorale — the Christians), Chilo (bassoon and pizzicato on tiptoe, an oboe that sidles — the sly Greek); later the arena (martial) and the fire (modern, 4/4). Rome in the reign of Nero. Part One: Petronius’s baths, the Roman house round its impluvium, Aulus’s garden, the streets of the city, Nero’s feast on the Palatine with lyre, aulos and frame drum over the banquet’s roar, the palace at night.",
  "files": {
   "base": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/",
   "beds": {
-   "baths": "baths.mp3",
+   "baths": "baths-v2.mp3",
    "domus": "domus.mp3",
-   "garden": "garden.mp3",
+   "garden": "garden-v2.mp3",
    "rome_street": "rome-street.mp3",
    "feast": "feast.mp3",
    "palace_night": "palace-night.mp3",
@@ -24,7 +24,15 @@
    "applause": "applause.mp3",
    "cheer": "cheer.mp3",
    "corridor_fight": "corridor-fight.mp3",
-   "whips": "qv-whips-v1.mp3"
+   "whips": "qv-whips-v1.mp3",
+   "bath_splash": "qv-bath-splash-v1.mp3",
+   "doves": "qv-doves-v1.mp3",
+   "pebbles": "qv-pebbles-v1.mp3",
+   "soldiers": "qv-soldiers-v1.mp3",
+   "practice_swords": "qv-practice-swords-v1.mp3",
+   "nero_lyre": "qv-nero-lyre-v1.mp3",
+   "infant": "qv-infant-v1.mp3",
+   "dusk_dogs": "qv-dusk-child-dogs-v1.mp3"
   },
   "score": {
    "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3",
@@ -51,10 +59,15 @@
   "garden": {},
   "rome_street": {
    "levels": {
-    "2": 0.1
+    "2": 0.1,
+    "3": 0.5
    }
   },
-  "feast": {},
+  "feast": {
+   "levels": {
+    "2": 0.25
+   }
+  },
   "palace_night": {},
   "rome_night": {},
   "mill_night": {},
@@ -78,8 +91,8 @@
   },
   {
    "n": 3,
-   "bed": "domus",
-   "state": 1,
+   "bed": "rome_street",
+   "state": 3,
    "score": null
   },
   {
@@ -102,7 +115,7 @@
   },
   {
    "n": 7,
-   "bed": "feast",
+   "bed": "palace_night",
    "state": 1,
    "score": null
   },

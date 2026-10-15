@@ -287,7 +287,13 @@
    "para": 24,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "The young man smiled with satisfaction, and began to sink in the bath,\nsplashing warm water abundantly on the mosaic which represented Hera at\nthe moment when she was imploring Sleep to lull Zeus to rest. Petronius\nlooked at him with the satisfied eye of an artist."
+   "text": "The young man smiled with satisfaction, and began to sink in the bath,\nsplashing warm water abundantly on the mosaic which represented Hera at\nthe moment when she was imploring Sleep to lull Zeus to rest. Petronius\nlooked at him with the satisfied eye of an artist.",
+   "sfx": [
+    {
+     "key": "bath_splash",
+     "at": "splashing warm water abundantly"
+    }
+   ]
   },
   {
    "n": 38,

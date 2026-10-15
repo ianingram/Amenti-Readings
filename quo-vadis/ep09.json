@@ -481,7 +481,13 @@
    "para": 46,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "And she went on, beautiful as a vision, but evil. To the ears\nof Lygia and Acte came only the wail of the infant, which began to cry,\nit was unknown for what reason."
+   "text": "And she went on, beautiful as a vision, but evil. To the ears\nof Lygia and Acte came only the wail of the infant, which began to cry,\nit was unknown for what reason.",
+   "sfx": [
+    {
+     "key": "infant",
+     "at": "the wail of the infant"
+    }
+   ]
   },
   {
    "n": 65,
@@ -507,14 +513,21 @@
    "para": 47,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "And they returned to the atrium, which they did not\nleave till evening."
+   "text": "And they returned to the atrium, which they did not\nleave till evening.",
+   "bed": "domus"
   },
   {
    "n": 68,
    "para": 48,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "When darkness had come and slaves brought in tapers with great flames,\nboth women were very pale. Their conversation failed every moment. Both\nwere listening to hear if some one were coming. Lygia repeated again and\nagain that, though grieved to leave Acte, she preferred that all should\ntake place that day, as Ursus must be waiting in the dark for her then.\nBut her breathing grew quicker from emotion, and louder. Acte collected\nfeverishly such jewels as she could, and, fastening them in a corner\nof Lygia’s peplus, implored her not to reject that gift and means of\nescape. At moments came a deep silence full of deceptions for the ear.\nIt seemed to both that they heard at one time a whisper beyond the\ncurtain, at another the distant weeping of a child, at another the\nbarking of dogs."
+   "text": "When darkness had come and slaves brought in tapers with great flames,\nboth women were very pale. Their conversation failed every moment. Both\nwere listening to hear if some one were coming. Lygia repeated again and\nagain that, though grieved to leave Acte, she preferred that all should\ntake place that day, as Ursus must be waiting in the dark for her then.\nBut her breathing grew quicker from emotion, and louder. Acte collected\nfeverishly such jewels as she could, and, fastening them in a corner\nof Lygia’s peplus, implored her not to reject that gift and means of\nescape. At moments came a deep silence full of deceptions for the ear.\nIt seemed to both that they heard at one time a whisper beyond the\ncurtain, at another the distant weeping of a child, at another the\nbarking of dogs.",
+   "sfx": [
+    {
+     "key": "dusk_dogs",
+     "at": "the barking of dogs"
+    }
+   ]
   },
   {
    "n": 69,

@@ -56,3 +56,22 @@ Borrowed by URL: the wine-shop's fire (Dracula), the sea at Antium (Treasure Isl
 `overture.mp3` — the landing page's sound: the production's own themes in story order,
 crossfaded over five seconds each — opulence (twice), the court, Lygia, Vinicius, faith —
 3 min 11 s, levelled to one loudness. Made from the score files in this folder; nothing new.
+
+## Book I — the litter attack and the chapter sounds (15 Oct 2026)
+
+All from **BigSoundBank** (CC0, bigsoundbank.com) unless noted.
+
+| file | made from |
+|---|---|
+| `qv-ch10-litter-attack-v2.mp3` | the recorded narration (Ch10 lines 28–42) over: torches (fire foley 3322), many single walkers layered as a crowd on the move (1117, 3202, 3216, 1318, 1319, 0839), our own `rome-street.mp3`, protest crowds chopped and shuffled so no words or chants survive (2980, 2982, 3382), wooden blows (1025, axe on wood 0536), punches (2459–2468), chairs falling (0516, 0666), plates and baubles smashing (1643–1650, 1121–1123), glass (0771), metal (1771–1772), paper and cloth tearing (0671, 0013), twigs cracking (1299–1300), body falls (2452–2456), cries (2361, 2362, 2449; *Scream-d.wav*, Wikimedia Commons), the night (0110); a grizzly bear growl (*Yellowstone sound library — Grizzly Bears Roar*, U.S. National Park Service, public domain, Wikimedia Commons); torch-bearers' shouts rendered in the engine's voices (Fenrir, Orus, Alnilam); a new 4/4 march for strings and drums (VSCO 2 CE, CC0) and one low note from the Dracula score |
+| `qv-whips-v1.mp3` | whip cracks 2949–2952, 2961–2962; grunts 0486 |
+| `qv-bath-splash-v1.mp3` | splashes 1521, 1530, 1532 |
+| `qv-doves-v1.mp3` | flight of a pigeon from a branch 0840 |
+| `qv-pebbles-v1.mp3` | small stones thrown into a pond 1529–1531 |
+| `qv-soldiers-v1.mp3` | single walkers layered (1117, 3202, 1318, 3216) and a medium chain moved (0360) |
+| `qv-practice-swords-v1.mp3` | wooden blows (1025) |
+| `qv-nero-lyre-v1.mp3` | harp samples, VSCO 2 CE (CC0), played in D Phrygian as a lyre |
+| `qv-infant-v1.mp3` | crying baby 0233 |
+| `qv-dusk-child-dogs-v1.mp3` | a child crying 2552, two dogs behind a gate 0868, far off |
+| `baths-v2.mp3` | replaces the built water of `baths.mp3`: a real indoor pool hall, jets and water, almost empty (1210), a fountain spout (0913), drops of water (1384) in a marble-hall reverb, our own `rome-street.mp3` far off |
+| `garden-v2.mp3` | replaces the built cicadas of `garden.mp3`: a fountain (0913), many cicadas (3002), a common blackbird now and then (3483, 3484) |

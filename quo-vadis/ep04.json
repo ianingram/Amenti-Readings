@@ -442,7 +442,13 @@
    "para": 35,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "The moment of parting came. The eyes of Pomponia and Lygia were filled\nwith fresh tears; Aulus placed his hand on her head again, and after a\nwhile the soldiers, followed by the cry of little Aulus, who in defence\nof his sister threatened the centurion with his small fists, conducted\nLygia to Cæsar’s house."
+   "text": "The moment of parting came. The eyes of Pomponia and Lygia were filled\nwith fresh tears; Aulus placed his hand on her head again, and after a\nwhile the soldiers, followed by the cry of little Aulus, who in defence\nof his sister threatened the centurion with his small fists, conducted\nLygia to Cæsar’s house.",
+   "sfx": [
+    {
+     "key": "soldiers",
+     "at": "followed by the cry of little Aulus"
+    }
+   ]
   },
   {
    "n": 57,

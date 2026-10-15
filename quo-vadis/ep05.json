@@ -140,7 +140,18 @@
    "para": 10,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "Then he gave command to carry him to the house of Vinicius, whom he\nfound at sword practice with his domestic trainer. Aulus was borne away\nby terrible anger at sight of the young man occupied calmly with fencing\nduring the attack on Lygia; and barely had the curtain dropped\nbehind the trainer when this anger burst forth in a torrent of bitter\nreproaches and injuries. But Vinicius, when he learned that Lygia had\nbeen carried away, grew so terribly pale that Aulus could not for even\nan instant suspect him of sharing in the deed. The young man’s forehead\nwas covered with sweat; the blood, which had rushed to his heart for a\nmoment, returned to his face in a burning wave; his eyes began to shoot\nsparks, his mouth to hurl disconnected questions. Jealousy and rage\ntossed him in turn, like a tempest. It seemed to him that Lygia,\nonce she had crossed the threshold of Cæsar’s house, was lost to him\nabsolutely. When Aulus pronounced the name of Petronius, suspicion flew\nlike a lightning flash through the young soldier’s mind, that Petronius\nhad made sport of him, and either wanted to win new favor from Nero by\nthe gift of Lygia, or keep her for himself. That any one who had seen\nLygia would not desire her at once, did not find a place in his head.\nImpetuousness, inherited in his family, carried him away like a wild\nhorse, and took from him presence of mind."
+   "text": "Then he gave command to carry him to the house of Vinicius, whom he\nfound at sword practice with his domestic trainer. Aulus was borne away\nby terrible anger at sight of the young man occupied calmly with fencing\nduring the attack on Lygia; and barely had the curtain dropped\nbehind the trainer when this anger burst forth in a torrent of bitter\nreproaches and injuries. But Vinicius, when he learned that Lygia had\nbeen carried away, grew so terribly pale that Aulus could not for even\nan instant suspect him of sharing in the deed. The young man’s forehead\nwas covered with sweat; the blood, which had rushed to his heart for a\nmoment, returned to his face in a burning wave; his eyes began to shoot\nsparks, his mouth to hurl disconnected questions. Jealousy and rage\ntossed him in turn, like a tempest. It seemed to him that Lygia,\nonce she had crossed the threshold of Cæsar’s house, was lost to him\nabsolutely. When Aulus pronounced the name of Petronius, suspicion flew\nlike a lightning flash through the young soldier’s mind, that Petronius\nhad made sport of him, and either wanted to win new favor from Nero by\nthe gift of Lygia, or keep her for himself. That any one who had seen\nLygia would not desire her at once, did not find a place in his head.\nImpetuousness, inherited in his family, carried him away like a wild\nhorse, and took from him presence of mind.",
+   "score": {
+    "key": "vinicius",
+    "at": "at sword practice",
+    "xfade": 5
+   },
+   "sfx": [
+    {
+     "key": "practice_swords",
+     "at": "at sword practice"
+    }
+   ]
   },
   {
    "n": 17,
@@ -210,7 +221,13 @@
    "para": 14,
    "role": "Narrator",
    "cast": "Henryk Sienkiewicz",
-   "text": "When he returned home, he pacified Pomponia, gave her the consolation\nthat he had, and both began to await news from Vinicius. At moments when\nthe steps of some of the slaves were heard in the atrium, they thought\nthat perhaps Vinicius was bringing their beloved child to them, and\nthey were ready in the depth of their souls to bless both. Time passed,\nhowever, and no news came. Only in the evening was the hammer heard on\nthe gate."
+   "text": "When he returned home, he pacified Pomponia, gave her the consolation\nthat he had, and both began to await news from Vinicius. At moments when\nthe steps of some of the slaves were heard in the atrium, they thought\nthat perhaps Vinicius was bringing their beloved child to them, and\nthey were ready in the depth of their souls to bless both. Time passed,\nhowever, and no news came. Only in the evening was the hammer heard on\nthe gate.",
+   "sfx": [
+    {
+     "key": "knock",
+     "at": "the hammer heard on the gate"
+    }
+   ]
   },
   {
    "n": 27,

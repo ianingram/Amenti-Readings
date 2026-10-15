@@ -19,20 +19,21 @@
 <body>
 <main>
   <h1>Re-record Lines</h1>
-  <p>Records again the pieces of Quo Vadis Book I that came out garbled or never came back, replacing them in the archive. Each new take is checked for length and tried up to three times.</p>
-  <button id="go" disabled>Record 9 shouts</button>
+  <p>Records again two narrator tails that came back as invented sentences — Dracula chapter 4 and A Christmas Carol chapter 1 — each with the clause before it, so it can be spliced onto its paragraph. Each new take is checked for length and tried up to three times.</p>
+  <button id="go" disabled>Record</button>
   <div id="log"></div>
 </main>
 <script src="https://ianingram.github.io/Amenti.live/amenti-core.bundle.js"></script>
 <script src="https://ianingram.github.io/Amenti-Readings/player/reader.js"></script>
 <script src="https://ianingram.github.io/Amenti-Readings/player/casting.js"></script>
 <script>
-/* RE-RECORD · 14 Oct 2026. The list below came from checking every Book I take in the archive:
+/* RE-RECORD · 15 Oct 2026: Dracula ep04 cue 75 and Carol ep01 cue 172 (0-based 74, 171). F.work picks the production (default quo-vadis).
+   Earlier: 14 Oct 2026. The list below came from checking every Book I take in the archive:
    each was transcribed and found garbled, or never recorded. A piece is sent exactly as the player
    sends it (same text, style and voice, so the same archive key) with ?fresh=1, which replaces
    the stored take. A take whose length cannot fit its words is tried again, up to three times. */
 (function () {
-  var FIX = [{"ch": 10, "cue": 27, "text": "Give way to the noble tribune!", "voice": "Fenrir", "style": "A Roman slave torch-bearer at the head of a nobleman's litter at night, shouting loudly over a crowded dark street to clear the way: a raised, projected, urgent, impatient shout that carries. English accent.", "why": "torch-bearers shouting"}, {"ch": 10, "cue": 27, "text": "Give way to the litter of the noble tribune!", "voice": "Fenrir", "style": "A Roman slave torch-bearer at the head of a nobleman's litter at night, shouting loudly over a crowded dark street to clear the way: a raised, projected, urgent, impatient shout that carries. English accent.", "why": "torch-bearers shouting"}, {"ch": 10, "cue": 27, "text": "Give way! Give way!", "voice": "Fenrir", "style": "A Roman slave torch-bearer at the head of a nobleman's litter at night, shouting loudly over a crowded dark street to clear the way: a raised, projected, urgent, impatient shout that carries. English accent.", "why": "torch-bearers shouting"}, {"ch": 10, "cue": 27, "text": "Give way to the noble tribune!", "voice": "Orus", "style": "A Roman slave torch-bearer at the head of a nobleman's litter at night, shouting loudly over a crowded dark street to clear the way: a raised, projected, urgent, impatient shout that carries. English accent.", "why": "torch-bearers shouting"}, {"ch": 10, "cue": 27, "text": "Give way to the litter of the noble tribune!", "voice": "Orus", "style": "A Roman slave torch-bearer at the head of a nobleman's litter at night, shouting loudly over a crowded dark street to clear the way: a raised, projected, urgent, impatient shout that carries. English accent.", "why": "torch-bearers shouting"}, {"ch": 10, "cue": 27, "text": "Give way! Give way!", "voice": "Orus", "style": "A Roman slave torch-bearer at the head of a nobleman's litter at night, shouting loudly over a crowded dark street to clear the way: a raised, projected, urgent, impatient shout that carries. English accent.", "why": "torch-bearers shouting"}, {"ch": 10, "cue": 27, "text": "Give way to the noble tribune!", "voice": "Alnilam", "style": "A Roman slave torch-bearer at the head of a nobleman's litter at night, shouting loudly over a crowded dark street to clear the way: a raised, projected, urgent, impatient shout that carries. English accent.", "why": "torch-bearers shouting"}, {"ch": 10, "cue": 27, "text": "Give way to the litter of the noble tribune!", "voice": "Alnilam", "style": "A Roman slave torch-bearer at the head of a nobleman's litter at night, shouting loudly over a crowded dark street to clear the way: a raised, projected, urgent, impatient shout that carries. English accent.", "why": "torch-bearers shouting"}, {"ch": 10, "cue": 27, "text": "Give way! Give way!", "voice": "Alnilam", "style": "A Roman slave torch-bearer at the head of a nobleman's litter at night, shouting loudly over a crowded dark street to clear the way: a raised, projected, urgent, impatient shout that carries. English accent.", "why": "torch-bearers shouting"}];
+  var FIX = [{"work": "dracula", "ch": 4, "cue": 74, "text": "the mouth was redder than ever, for on the lips were gouts of fresh blood, which trickled from the corners of the mouth and ran over the chin and neck.", "why": "the tail “the mouth and ran over the chin and neck.” came back as an invented sentence; recorded with its clause, to splice"}, {"work": "a-christmas-carol", "ch": 1, "cue": 171, "text": "which wrapper he had not observed before; he was still incredulous, and fought against his senses.", "why": "the tail “senses.” came back as an invented sentence; recorded with its clause, to splice"}];
   var VOICE = 'https://amenti-proxy.ingram-ian.workers.dev/speak';
   var R = window.Amenti && window.Amenti.reading, E = window.Amenti && window.Amenti.throttle;
   var $ = function (id) { return document.getElementById(id); };
@@ -67,6 +68,7 @@
     }
     return go();
   }
+  $('go').textContent = 'Record ' + FIX.length + ' pieces';
   $('go').disabled = false;
   $('go').onclick = function () {
     $('go').disabled = true; actx.resume && actx.resume();
@@ -76,11 +78,11 @@
         log(''); log(bad.length ? (good + ' fixed; still wrong: ' + bad.join(', ') + '. Press again later to retry.') : ('All ' + good + ' fixed.'), bad.length ? 'bad' : 'ok');
         $('go').disabled = false; return;
       }
-      var F = FIX[i++], label = F.voice ? ('Shout ' + i) : ('Chapter ' + F.ch + ', line ' + (F.cue + 1));
+      var F = FIX[i++], label = F.voice ? ('Shout ' + i) : ((F.work ? F.work.replace(/-/g, ' ') + ', ' : '') + 'chapter ' + F.ch + ', line ' + (F.cue + 1));
       if (!F.voice) log(label + (F.text ? ' (end of the sentence)' : F.piece ? '' : ' (whole line)'));
       if (F.voice) { log(label + ' — ' + F.voice + ': ' + F.text);
         return piece({ text: F.text, style: F.style, voice: F.voice }, 'take').then(function (ok) { if (ok) good++; else bad.push(label); return sleep(4000); }).then(next); }
-      return R.load('quo-vadis/ep' + pad(F.ch) + '.json').then(function (sheet) {
+      return R.load((F.work || 'quo-vadis') + '/ep' + pad(F.ch) + '.json').then(function (sheet) {
         var c = sheet.cues[F.cue], text = R.spoken(c);
         if (R.direction(c)) { log('  has a line direction — skipped (tell Claude)', 'bad'); bad.push(label); return; }
         return E.resolveVoice(R.nameFor(c)).then(function (v) {

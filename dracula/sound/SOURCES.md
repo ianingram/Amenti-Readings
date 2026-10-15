@@ -9,6 +9,7 @@ is never a question. Built by `build.py` (deterministic, seed 1897).
 | `door_heavy.mp3` | *Door handle creaking* and *Rusty metal door clasp 02* (stephan, pdsounds.org, via Wikimedia Commons), slowed and lowered; synthesized boom and stone-hall reverb | public domain + synthesized |
 | `wolves.mp3` | *Wolf howls* — U.S. Fish & Wildlife Service (Wikimedia Commons, PD-USGov-FWS); distance filtering and reverb | public domain |
 | `fire.mp3` | *Dry grass burning in open fireplace* (ezwa, pdsounds.org, via Wikimedia Commons), warmed and extended; synthesized room tone and low rumble; seamless loop | public domain + synthesized |
+| `campfire.mp3` | *Big branching fire #2* (BigSoundBank #0988, LaSonothèque), 56 s taken from 18–74 s, high-passed 60 Hz, low-passed 6 kHz, levelled; seamless 53 s loop. Under Quincey’s letter, ch 5 | CC0 |
 | `score-dread.mp3` | entirely synthesized: low strings on an open fifth (D–A), an upper voice leaning D–E♭ and back, sparse low piano. Loops. | synthesized |
 
 First pass, 3 Oct 2026. The score is a placeholder for the AI first pass the

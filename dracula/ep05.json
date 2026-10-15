@@ -236,7 +236,13 @@
    "para": 27,
    "role": "Lucy Westenra",
    "cast": "Mary Shelley",
-   "text": "“‘Little girl, I hold your hand, and you’ve kissed me, and if these\nthings don’t make us friends nothing ever will. Thank you for your sweet\nhonesty to me, and good-bye.’ He wrung my hand, and taking up his hat,\nwent straight out of the room without looking back, without a tear or a\nquiver or a pause; and I am crying like a baby. Oh, why must a man like\nthat be made unhappy when there are lots of girls about who would\nworship the very ground he trod on? I know I would if I were free—only\nI don’t want to be free. My dear, this quite upset me, and I feel I\ncannot write of happiness just at once, after telling you of it; and I\ndon’t wish to tell of the number three until it can be all happy."
+   "text": "“‘Little girl, I hold your hand, and you’ve kissed me, and if these\nthings don’t make us friends nothing ever will. Thank you for your sweet\nhonesty to me, and good-bye.’ He wrung my hand, and taking up his hat,\nwent straight out of the room without looking back, without a tear or a\nquiver or a pause; and I am crying like a baby. Oh, why must a man like\nthat be made unhappy when there are lots of girls about who would\nworship the very ground he trod on? I know I would if I were free—only\nI don’t want to be free. My dear, this quite upset me, and I feel I\ncannot write of happiness just at once, after telling you of it; and I\ndon’t wish to tell of the number three until it can be all happy.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "went straight out of the room"
+    }
+   ]
   },
   {
    "n": 29,
@@ -332,6 +338,7 @@
   },
   {
    "n": 41,
+   "under": "campfire",
    "para": 40,
    "role": "Quincey Morris",
    "cast": "Lyndon B. Johnson",
@@ -339,6 +346,7 @@
   },
   {
    "n": 42,
+   "under": "campfire",
    "para": 41,
    "role": "Quincey Morris",
    "cast": "Lyndon B. Johnson",

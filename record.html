@@ -37,7 +37,7 @@
 
   <div class="panel">
     <div class="row">
-      <div><label for="work">Work</label><select id="work"><option value="quo-vadis">Quo Vadis</option></select></div>
+      <div><label for="work">Work</label><select id="work"><option value="quo-vadis">Quo Vadis</option><option value="dracula">Dracula</option><option value="a-christmas-carol">A Christmas Carol</option></select></div>
       <div><label for="book">Book</label><select id="book"></select></div>
     </div>
     <div class="model" id="model">Checking the voice model…</div>
@@ -73,7 +73,9 @@
    engine's warm() — so every request is the one a listener's page would send, and lands
    on the same archive key. Paced under the Worker's 60-a-minute limit (PACE pieces a
    minute). A piece that comes back fast was already in the archive and costs nothing,
-   so it does not count against the pace. Failed lines are retried at the end. */
+   so it does not count against the pace. Failed lines are retried at the end.
+   15 Oct 2026: Dracula and A Christmas Carol added. A work without books offers its scripted
+   chapters; ?work=dracula&from=6&to=17 opens straight on that work and range. */
 (function () {
   var PACE = 10, PARALLEL = 1, FAST_MS = 1200, MIN_PACE = 4;   /* start within Google's default Flash quota; climb when it allows */
   /* [v2] Watch the voice service's answers without touching the engine: a thin wrapper on
@@ -154,16 +156,25 @@
     $('start').disabled = false; return true;
   }
 
+  var Q = {}; location.search.replace(/[?&]([^=&]+)=([^&]*)/g, function (_, k, v) { Q[k] = decodeURIComponent(v); });
+  if (Q.work) $('work').value = Q.work;
   function loadWork() {
     var w = $('work').value;
     return R._json(w + '/index.json').then(function (ix) {
       idx = ix; var sel = $('book'); sel.innerHTML = '';
-      (ix.books || [{ numeral: '', title: 'All chapters', chapters: [1, ix.chapters.length] }]).forEach(function (b, i) {
+      if (!ix.books) {                                    /* no books: the chapters that have a script */
+        var last = 0; ix.chapters.forEach(function (c, k) { if (c.status === 'scripted' && last === k) last = k + 1; });
+        ix.books = [{ title: 'Scripted chapters', chapters: [1, last || ix.chapters.length] }];
+      }
+      if (Q.from && w === (Q.work || w)) {
+        var a = +Q.from, z = +(Q.to || ix.books[ix.books.length - 1].chapters[1]);
+        ix.books.unshift({ title: 'Chapters ' + a + '–' + z, chapters: [a, z] });
+      }
+      ix.books.forEach(function (b, i) {
         var o = document.createElement('option'); o.value = i;
-        o.textContent = (b.numeral ? 'Book ' + b.numeral + ' — ' : '') + b.title + '  (chapters ' + b.chapters[0] + '–' + b.chapters[1] + ')';
+        o.textContent = (b.numeral ? 'Book ' + b.numeral + ' — ' + b.title + '  (chapters ' + b.chapters[0] + '–' + b.chapters[1] + ')' : b.title + (/^Chapters /.test(b.title) ? '' : '  (chapters ' + b.chapters[0] + '–' + b.chapters[1] + ')'));
         sel.appendChild(o);
       });
-      if (!ix.books) idx.books = [{ title: 'All chapters', chapters: [1, ix.chapters.length] }];
       checkModel();
     }, function (e) { $('model').innerHTML = '<span class="warn">Cannot read ' + w + '/index.json — ' + e.message + '</span>'; });
   }

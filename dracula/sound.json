@@ -1,6 +1,6 @@
 {
  "_file": "Amenti-Readings/dracula/sound.json",
- "_updated": "2026-10-15 07:00 UTC",
+ "_updated": "2026-10-16 06:00 UTC",
  "work": "dracula",
  "files": {
   "note": "WHERE EACH SOUND'S RECORDING IS. sound.js reads this; a key with no entry falls back to <key>.mp3 under base. FIRST PASS IS ONE FILE PER BED: the castle is the fire until a stone room tone exists, the pass is the wind, Whitby and the Demeter share the sea. london_interior has no file yet and plays no bed. Both wolf one-shots share one recording; detune and rate make them two animals. CHAPTER 7: the loops (storm, pulse, captain's heart) are WAV, cut to exact bars, because an MP3 loop stutters at its seam; everything else is MP3.",
@@ -10,7 +10,10 @@
    "pass": "wind.mp3",
    "whitby": "sea.mp3",
    "demeter": "hull.mp3",
-   "london_interior": "london.mp3"
+   "london_interior": "london.mp3",
+   "chapel": "chapel.mp3",
+   "river": "river.mp3",
+   "port": "port.mp3"
   },
   "oneshots": {
    "door_heavy": "door_heavy.mp3",
@@ -57,7 +60,13 @@
    "wing_beat": "wing-beat.mp3",
    "glass_crash": "glass-crash.mp3",
    "thunder": "thunder.mp3",
-   "passing_bell": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/passing-bell.mp3"
+   "passing_bell": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/passing-bell.mp3",
+   "pistol_shot": "pistol-shot.mp3",
+   "rats": "rats.mp3",
+   "terriers": "terriers.mp3",
+   "whistle": "whistle.mp3",
+   "coins": "coins.mp3",
+   "sear": "sear.mp3"
   },
   "score": {
    "dread": "score-dread.mp3",
@@ -78,7 +87,8 @@
    "vigil": "score-vigil.mp3",
    "earth_boxes": "score-earth-boxes.mp3",
    "pursuit": "score-pursuit.mp3",
-   "requiem": "score-requiem.mp3"
+   "requiem": "score-requiem.mp3",
+   "bloofer": "score-bloofer.mp3"
   },
   "under": {
    "note": "MUSIC UNDER ONE LINE. piano_far: far away and airy, a few notes sprinkled, the odd soft chord — letters, memory, anything read rather than lived. piano_near: close and bold, full chords when the moment needs weight. Each use starts at a different seeded point in the minute-long piece. campfire: a real fire in the open (BigSoundBank 0988, CC0), under Quincey’s letter in chapter 5 — “yarns by the camp-fire in the prairies”.",
@@ -107,7 +117,8 @@
    "vigil": 0.32,
    "earth_boxes": 0.34,
    "pursuit": 0.36,
-   "requiem": 0.36
+   "requiem": 0.36,
+   "bloofer": 0.3
   }
  },
  "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
@@ -180,6 +191,18 @@
     "muffled street 71s"
    ],
    "build": "ONE recording, three loops at different rates and offsets — not three recordings. Slow one slightly, raise one slightly, start them apart."
+  },
+  "chapel": {
+   "note": "Carfax chapel (ch 19, 22): still air under stone, the dust of centuries. BigSoundBank #2135 Cave #1, low-passed. Added 16 Oct 2026.",
+   "progressive": false
+  },
+  "river": {
+   "note": "The launch on the Sereth and the Bistritza (ch 26): the river far off under the hull. BigSoundBank #3137, low-passed. No engine: no convincing recording of a steam launch was found.",
+   "progressive": false
+  },
+  "port": {
+   "note": "Varna and Galatz harbours (ch 25–26). BigSoundBank #2571 Small fishing port #1.",
+   "progressive": false
   }
  },
  "oneshots": {
@@ -259,6 +282,30 @@
   "crowd_street": {
    "files": 1,
    "note": "17 of street, 15 of crowd. London exteriors — ch 19-21, the earth-boxes tracked across the city. Muffled, mid-distance, Victorian."
+  },
+  "pistol_shot": {
+   "note": "Quincey fires at the bat through the study window (ch 18).",
+   "files": 1
+  },
+  "rats": {
+   "note": "Carfax: the rats swarm in their thousands (ch 19) — real squeaks scattered by the hundred.",
+   "files": 1
+  },
+  "terriers": {
+   "note": "Lord Godalming's terriers: yelping, dashing in, then the howl at the threshold (ch 19).",
+   "files": 1
+  },
+  "whistle": {
+   "note": "Lord Godalming's little silver whistle (ch 19).",
+   "files": 1
+  },
+  "coins": {
+   "note": "The Count's gold ringing on the flagging as he leaps through the window (ch 23).",
+   "files": 1
+  },
+  "sear": {
+   "note": "The Wafer burns into Mina's forehead (ch 22).",
+   "files": 1
   }
  },
  "score": {
@@ -270,7 +317,8 @@
   "phonograph": "Seward's diary, kept on a phonograph. LO-FI, and tiered three ways — full beat, crackle only, or silence. Sixteen of twenty-seven chapters are this document, so an untiered beat would be wallpaper. Measured, unemotional, a little mechanical. Chapters 9-10, 14-18, 21, 23-25.",
   "demeter": "The Demeter (chapter 7). Not one cue: a scene scored from the cue sheet — storm loops, a hard cut, the pulse of the crew, hearts, lightning. See ep07.json.",
   "vigil": "THE SICKROOM, chapters 9–12: a music box (glockenspiel) that keeps winding down over a low cello and viola pedal, the piano barely touched. Added 6 Oct 2026, so Lucy’s nights are scored as hers and not only as Seward’s phonograph.",
-  "requiem": "LUCY'S FUNERAL, chapter 13 — at Ian's direction: Gregorian chant, 4/4, very slow. The real Dies irae (PD), slowed to 88 %, over a cortège step at 40 BPM and the passing bell. Built 6 Oct 2026."
+  "requiem": "LUCY'S FUNERAL, chapter 13 — at Ian's direction: Gregorian chant, 4/4, very slow. The real Dies irae (PD), slowed to 88 %, over a cortège step at 40 BPM and the passing bell. Built 6 Oct 2026.",
+  "bloofer": "THE BLOOFER LADY — the Vigil turned against her: Lucy's music box played backwards a semitone flat, the glass inhaling, a bowed cymbal, cello tremolo on A against a viola E-flat. Built 15 Oct 2026; used for the three sisters calling “Come, sister” at the Borgo Pass (ch 27)."
  },
  "chapters": [
   {
@@ -444,97 +492,111 @@
   {
    "n": 18,
    "bed": "london_interior",
-   "score": "phonograph",
+   "score": null,
    "sfx": [
-    "wolf_near",
-    "wing_beat",
-    "thunder"
-   ]
+    "pistol_shot",
+    "glass_crash",
+    "wing_beat"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep18.json). Seward on the phonograph; dread under the Un-Dead lecture; the pistol-shot and the bat; dread on Renfield's plea."
   },
   {
    "n": 19,
    "bed": "london_interior",
-   "score": "earth_boxes",
+   "score": null,
    "sfx": [
-    "earth_box",
-    "door_heavy"
+    "bolts",
+    "door_open",
+    "rats",
+    "whistle",
+    "terriers"
    ],
-   "note": "Industrial halftime at 60 BPM built from the earth_box pool — the crates ARE the percussion. See PROMPT_dracula-score.txt cue 5."
+   "note": "SCORED FROM THE CUE SHEET (ep19.json). Carfax: dread, the chapel room, earth_boxes at the twenty-nine boxes, the rats, the whistle and the terriers; vigil for Mina's night."
   },
   {
    "n": 20,
    "bed": "london_interior",
-   "score": "earth_boxes",
+   "score": null,
    "sfx": [
-    "earth_box",
-    "carriage"
+    "letter"
    ],
-   "note": "Industrial halftime at 60 BPM built from the earth_box pool — the crates ARE the percussion. See PROMPT_dracula-score.txt cue 5."
+   "note": "SCORED FROM THE CUE SHEET (ep20.json). earth_boxes under Jonathan's hunt; phonograph for Seward and Renfield; dread on \"To hell with you and your souls!\""
   },
   {
    "n": 21,
    "bed": "london_interior",
-   "score": "phonograph",
+   "score": null,
    "sfx": [
-    "door_shut",
-    "wing_beat",
-    "thunder"
+    "heart_last",
+    "door_heavy",
+    "wing_beat"
    ],
-   "tier": "crackle"
+   "note": "SCORED FROM THE CUE SHEET (ep21.json). Renfield's death and his account; the door burst; vigil, then dread, for Mina's account."
   },
   {
    "n": 22,
    "bed": "london_interior",
-   "score": "dread",
-   "sfx": []
+   "score": null,
+   "sfx": [
+    "sear",
+    "hammering",
+    "door_open"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep22.json). The Wafer sears; the requiem under \"Unclean!\"; the boxes at Carfax sterilised to earth_boxes."
   },
   {
    "n": 23,
    "bed": "london_interior",
-   "score": "phonograph",
+   "score": null,
    "sfx": [
-    "door_shut",
-    "wing_beat"
-   ]
+    "key_turn",
+    "glass_crash",
+    "coins"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep23.json). The Count at Piccadilly: dread, the key, a hard cut as he leaps, glass and gold; Mina hypnotised on the Demeter bed."
   },
   {
    "n": 24,
-   "bed": "demeter",
-   "state": 5,
-   "score": "phonograph",
+   "bed": "london_interior",
+   "score": null,
    "sfx": [
-    "ships_bell"
+    "door_close"
    ],
-   "note": "MINA HYPNOTISED HEARS A SHIP. The text gives lapping water and creaking wood, so the Demeter bed returns at its emptiest state — the sound she describes is the sound of chapter 7's ending. Nobody will consciously connect them and the connection is the reason to do it.",
-   "tier": "crackle"
+   "note": "SCORED FROM THE CUE SHEET (ep24.json). Van Helsing's phonograph; dread on \"is changing\"; pastoral_sour and a closing door on Jonathan's promise."
   },
   {
    "n": 25,
    "bed": "london_interior",
-   "score": "phonograph",
+   "score": null,
    "sfx": [
-    "thunder"
-   ]
+    "gulls",
+    "letter"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep25.json). The requiem under the Burial Service; Varna harbour; vigil under Mina's trance; dread at Galatz."
   },
   {
    "n": 26,
-   "bed": "pass",
-   "score": "pursuit",
+   "bed": "port",
+   "score": null,
    "sfx": [
-    "carriage",
-    "horse",
-    "wolves_chorus"
-   ]
+    "wolves_chorus",
+    "horses_gallop",
+    "horse_neigh"
+   ],
+   "note": "SCORED FROM THE CUE SHEET (ep26.json). Galatz; dread for the Czarina Catherine; pursuit from the moment they divide; the river and the pass."
   },
   {
    "n": 27,
    "bed": "pass",
-   "score": "pursuit",
+   "score": null,
    "sfx": [
+    "horse_neigh",
     "wolves_chorus",
-    "horse"
+    "hammering",
+    "horses_gallop",
+    "passing_bell"
    ],
-   "note": "The snow and the ring of fire. The bed thins to wind alone for the last cues."
+   "note": "SCORED FROM THE CUE SHEET (ep27.json). The pass: campfire under the Holy circle; the Bloofer theme for \"Come, sister\"; pursuit for the gypsy cart; silence as the Count crumbles; requiem for Quincey; warm on \"Amen\"; the passing bell."
   }
  ],
  "sourcing": {

@@ -53,6 +53,11 @@
   },
   {
    "n": 2,
+   "score": {
+    "key": "phonograph",
+    "at": "DR. SEWARD’S DIARY",
+    "xfade": 4
+   },
    "para": 1,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -137,6 +142,11 @@
   },
   {
    "n": 14,
+   "score": {
+    "key": "dread",
+    "at": "Look out for D.",
+    "xfade": 4
+   },
    "para": 10,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -284,6 +294,12 @@
   },
   {
    "n": 35,
+   "sfx": [
+    {
+     "key": "key_turn",
+     "at": "a key softly inserted"
+    }
+   ],
    "para": 21,
    "role": "Dr Seward",
    "cast": "William Harvey",
@@ -298,6 +314,21 @@
   },
   {
    "n": 37,
+   "score": {
+    "key": null,
+    "at": "with a single bound he leaped",
+    "xfade": 0.3
+   },
+   "sfx": [
+    {
+     "key": "glass_crash",
+     "at": "the sound of the shivering glass"
+    },
+    {
+     "key": "coins",
+     "at": "sovereigns fell on the flagging"
+    }
+   ],
    "para": 23,
    "role": "Dr Seward",
    "cast": "William Harvey",
@@ -312,6 +343,11 @@
   },
   {
    "n": 39,
+   "score": {
+    "key": "dread",
+    "at": "You think to baffle me",
+    "xfade": 2
+   },
    "para": 25,
    "role": "Count Dracula",
    "cast": "Vlad the Impaler",
@@ -466,6 +502,11 @@
   },
   {
    "n": 61,
+   "score": {
+    "key": null,
+    "at": "Jonathan Harker’s Journal.",
+    "xfade": 6
+   },
    "para": 39,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -669,6 +710,8 @@
   },
   {
    "n": 90,
+   "bed": "demeter",
+   "state": 5,
    "para": 58,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -809,6 +852,7 @@
   },
   {
    "n": 110,
+   "bed": "london_interior",
    "para": 72,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",

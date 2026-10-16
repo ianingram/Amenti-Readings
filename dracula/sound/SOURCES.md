@@ -141,3 +141,21 @@ v6 — real thunder: each strike is a crack (the thunderbolts transient, low-pas
 with crackle), a real 16-second roll from *Thunderstorm after hot summer day* (159.5–175.5 s),
 and a sub-bass rumble; distant strikes first, closer each time; mixed on its own channel ~9 dB
 over the storm, under a soft limiter.
+
+## Chapters XVIII–XXVII (16 Oct 2026) — built by `build-ch18-27.py`
+
+All from BigSoundBank (LaSonothèque) — CC0 site-wide, no attribution required.
+
+| file | made from | licence |
+|---|---|---|
+| `pistol-shot.mp3` | #0438 *Shot in .357 Magnum*, low-passed, a room around it | CC0 |
+| `rats.mp3` | #0459 *Mouse screams* — the squeaks cut out and scattered by the hundred, pitched −3 to +5 semitones, rising over 9 s | CC0 |
+| `terriers.mp3` | #0682 *Barking of a Spitz* (far, then near) and #2953 *Pack of dogs* (the howl) | CC0 |
+| `whistle.mp3` | #1017 *Plastic whistle*, the first blow, thinned and distanced | CC0 |
+| `coins.mp3` | #0193 *Coins #1* — the first fall of thirteen coins on a floor | CC0 |
+| `sear.mp3` | #0145 *Frying pan #3* — the first hiss | CC0 |
+| `chapel.mp3` | #2135 *Cave #1*, low-passed, seamless loop | CC0 |
+| `river.mp3` | #3137 *Watercourse 5.2*, low-passed, seamless loop | CC0 |
+| `port.mp3` | #2571 *Small fishing port #1*, seamless loop | CC0 |
+| `score-bloofer.mp3` | the Vigil's tune reversed a semitone flat on glockenspiel, solo violin, cello tremolo, viola, bowed cymbal — VSCO 2 CE (CC0); built 15 Oct 2026 | CC0 |
+

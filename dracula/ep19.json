@@ -49,6 +49,11 @@
   },
   {
    "n": 2,
+   "score": {
+    "key": "dread",
+    "at": "JONATHAN HARKER’S JOURNAL",
+    "xfade": 6
+   },
    "para": 1,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -196,6 +201,17 @@
   },
   {
    "n": 23,
+   "bed": "chapel",
+   "sfx": [
+    {
+     "key": "bolts",
+     "at": "with a rusty clang, shot back"
+    },
+    {
+     "key": "door_open",
+     "at": "it slowly opened"
+    }
+   ],
    "para": 9,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -287,6 +303,11 @@
   },
   {
    "n": 36,
+   "score": {
+    "key": "earth_boxes",
+    "at": "There were only twenty-nine left",
+    "xfade": 3
+   },
    "para": 17,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -308,6 +329,17 @@
   },
   {
    "n": 39,
+   "score": {
+    "key": "dread",
+    "at": "alive with rats",
+    "xfade": 3
+   },
+   "sfx": [
+    {
+     "key": "rats",
+     "at": "alive with rats"
+    }
+   ],
    "para": 18,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -315,6 +347,20 @@
   },
   {
    "n": 40,
+   "sfx": [
+    {
+     "key": "whistle",
+     "at": "he blew a low, shrill call"
+    },
+    {
+     "key": "terriers",
+     "at": "the yelping of dogs"
+    },
+    {
+     "key": "rats",
+     "at": "The rats were multiplying in thousands"
+    }
+   ],
    "para": 19,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -364,6 +410,7 @@
   },
   {
    "n": 47,
+   "bed": "london_interior",
    "para": 24,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -385,6 +432,11 @@
   },
   {
    "n": 50,
+   "score": {
+    "key": "phonograph",
+    "at": "Dr. Seward’s Diary.",
+    "xfade": 4
+   },
    "para": 27,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -546,6 +598,11 @@
   },
   {
    "n": 73,
+   "score": {
+    "key": "vigil",
+    "at": "Mina Harker’s Journal.",
+    "xfade": 6
+   },
    "para": 37,
    "role": "Narrator",
    "cast": "Bram Stoker",

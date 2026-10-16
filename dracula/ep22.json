@@ -45,6 +45,11 @@
   },
   {
    "n": 2,
+   "score": {
+    "key": "dread",
+    "at": "JONATHAN HARKER’S JOURNAL",
+    "xfade": 6
+   },
    "para": 1,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -626,6 +631,17 @@
   },
   {
    "n": 85,
+   "score": {
+    "key": null,
+    "at": "There was a fearful scream",
+    "xfade": 0.5
+   },
+   "sfx": [
+    {
+     "key": "sear",
+     "at": "it had seared it"
+    }
+   ],
    "para": 44,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -633,6 +649,11 @@
   },
   {
    "n": 86,
+   "score": {
+    "key": "requiem",
+    "at": "Unclean! Unclean! Even the Almighty",
+    "xfade": 4
+   },
    "para": 45,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -654,6 +675,11 @@
   },
   {
    "n": 89,
+   "score": {
+    "key": null,
+    "at": "There was hope in his words",
+    "xfade": 8
+   },
    "para": 47,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -675,6 +701,12 @@
   },
   {
    "n": 92,
+   "bed": "chapel",
+   "score": {
+    "key": "earth_boxes",
+    "at": "We entered Carfax",
+    "xfade": 4
+   },
    "para": 50,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -689,6 +721,12 @@
   },
   {
    "n": 94,
+   "sfx": [
+    {
+     "key": "hammering",
+     "at": "screw it home"
+    }
+   ],
    "para": 51,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -717,6 +755,12 @@
   },
   {
    "n": 98,
+   "bed": "london_interior",
+   "score": {
+    "key": null,
+    "at": "As we passed across the lawn",
+    "xfade": 6
+   },
    "para": 55,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -731,6 +775,11 @@
   },
   {
    "n": 100,
+   "score": {
+    "key": "earth_boxes",
+    "at": "Piccadilly, 12:30",
+    "xfade": 4
+   },
    "para": 57,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -780,6 +829,12 @@
   },
   {
    "n": 107,
+   "sfx": [
+    {
+     "key": "door_open",
+     "at": "knocked at the door"
+    }
+   ],
    "para": 61,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",

@@ -49,6 +49,11 @@
   },
   {
    "n": 2,
+   "score": {
+    "key": "earth_boxes",
+    "at": "JONATHAN HARKER’S JOURNAL",
+    "xfade": 6
+   },
    "para": 1,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -385,6 +390,11 @@
   },
   {
    "n": 50,
+   "score": {
+    "key": "phonograph",
+    "at": "Dr. Seward’s Diary.",
+    "xfade": 4
+   },
    "para": 46,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -721,6 +731,11 @@
   },
   {
    "n": 98,
+   "score": {
+    "key": "dread",
+    "at": "hell with you and your souls!",
+    "xfade": 2
+   },
    "para": 78,
    "role": "Renfield",
    "cast": "Jack the Ripper",
@@ -749,6 +764,11 @@
   },
   {
    "n": 102,
+   "score": {
+    "key": "phonograph",
+    "at": "Forgive me, Doctor",
+    "xfade": 6
+   },
    "para": 79,
    "role": "Renfield",
    "cast": "Jack the Ripper",
@@ -840,6 +860,17 @@
   },
   {
    "n": 115,
+   "score": {
+    "key": null,
+    "at": "Letter, Mitchell, Sons and Candy",
+    "xfade": 4
+   },
+   "sfx": [
+    {
+     "key": "letter",
+     "at": "Letter, Mitchell, Sons and Candy"
+    }
+   ],
    "para": 90,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -875,6 +906,11 @@
   },
   {
    "n": 120,
+   "score": {
+    "key": "phonograph",
+    "at": "Dr. Seward’s Diary.",
+    "xfade": 4
+   },
    "para": 95,
    "role": "Narrator",
    "cast": "Bram Stoker",

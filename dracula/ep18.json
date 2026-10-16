@@ -53,6 +53,11 @@
   },
   {
    "n": 2,
+   "score": {
+    "key": "phonograph",
+    "at": "DR. SEWARD’S DIARY",
+    "xfade": 4
+   },
    "para": 1,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -452,6 +457,11 @@
   },
   {
    "n": 59,
+   "score": {
+    "key": null,
+    "at": "Mina Harker’s Journal.",
+    "xfade": 6
+   },
    "para": 31,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -487,6 +497,11 @@
   },
   {
    "n": 64,
+   "score": {
+    "key": "dread",
+    "at": "There are such beings as vampires",
+    "xfade": 6
+   },
    "para": 35,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -606,6 +621,16 @@
   },
   {
    "n": 81,
+   "sfx": [
+    {
+     "key": "pistol_shot",
+     "at": "the sound of a pistol-shot"
+    },
+    {
+     "key": "glass_crash",
+     "at": "was shattered with a"
+    }
+   ],
    "para": 48,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -627,6 +652,12 @@
   },
   {
    "n": 84,
+   "sfx": [
+    {
+     "key": "wing_beat",
+     "at": "there came a big bat"
+    }
+   ],
    "para": 50,
    "role": "Quincey Morris",
    "cast": "Lyndon B. Johnson",
@@ -711,6 +742,11 @@
   },
   {
    "n": 96,
+   "score": {
+    "key": "phonograph",
+    "at": "Dr. Seward’s Diary.",
+    "xfade": 4
+   },
    "para": 60,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -949,6 +985,11 @@
   },
   {
    "n": 130,
+   "score": {
+    "key": "dread",
+    "at": "Let me entreat you",
+    "xfade": 4
+   },
    "para": 78,
    "role": "Renfield",
    "cast": "Jack the Ripper",

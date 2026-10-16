@@ -53,6 +53,11 @@
   },
   {
    "n": 2,
+   "score": {
+    "key": "phonograph",
+    "at": "DR. SEWARD’S DIARY",
+    "xfade": 4
+   },
    "para": 1,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -67,6 +72,11 @@
   },
   {
    "n": 4,
+   "score": {
+    "key": "dread",
+    "at": "glittering pool of blood",
+    "xfade": 4
+   },
    "para": 3,
    "role": "Dr Seward",
    "cast": "William Harvey",
@@ -452,6 +462,17 @@
   },
   {
    "n": 59,
+   "score": {
+    "key": null,
+    "at": "His voice was becoming fainter",
+    "xfade": 3
+   },
+   "sfx": [
+    {
+     "key": "heart_last",
+     "at": "His voice was becoming fainter"
+    }
+   ],
    "para": 35,
    "role": "Dr Seward",
    "cast": "William Harvey",
@@ -557,6 +578,17 @@
   },
   {
    "n": 74,
+   "score": {
+    "key": "dread",
+    "at": "with a crash it burst open",
+    "xfade": 1
+   },
+   "sfx": [
+    {
+     "key": "door_heavy",
+     "at": "with a crash it burst open"
+    }
+   ],
    "para": 43,
    "role": "Dr Seward",
    "cast": "William Harvey",
@@ -851,6 +883,12 @@
   },
   {
    "n": 116,
+   "sfx": [
+    {
+     "key": "wing_beat",
+     "at": "I saw a bat rise"
+    }
+   ],
    "para": 58,
    "role": "Quincey Morris",
    "cast": "Lyndon B. Johnson",
@@ -879,6 +917,11 @@
   },
   {
    "n": 120,
+   "score": {
+    "key": "vigil",
+    "at": "I took the sleeping draught",
+    "xfade": 6
+   },
    "para": 62,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -900,6 +943,11 @@
   },
   {
    "n": 123,
+   "score": {
+    "key": "dread",
+    "at": "Silence! If you make",
+    "xfade": 3
+   },
    "para": 63,
    "role": "Mina Harker",
    "cast": "Agatha Christie",

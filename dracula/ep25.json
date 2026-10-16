@@ -49,6 +49,11 @@
   },
   {
    "n": 2,
+   "score": {
+    "key": "phonograph",
+    "at": "DR. SEWARD’S DIARY",
+    "xfade": 4
+   },
    "para": 1,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -357,6 +362,11 @@
   },
   {
    "n": 46,
+   "score": {
+    "key": "requiem",
+    "at": "I want you to read the Burial Service.",
+    "xfade": 6
+   },
    "para": 21,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -462,6 +472,12 @@
   },
   {
    "n": 61,
+   "bed": "port",
+   "score": {
+    "key": null,
+    "at": "Jonathan Harker’s Journal.",
+    "xfade": 8
+   },
    "para": 28,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -469,6 +485,12 @@
   },
   {
    "n": 62,
+   "sfx": [
+    {
+     "key": "gulls",
+     "at": "15 October, Varna"
+    }
+   ],
    "para": 29,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
@@ -490,6 +512,11 @@
   },
   {
    "n": 65,
+   "score": {
+    "key": "vigil",
+    "at": "I can hear the waves lapping",
+    "xfade": 6
+   },
    "para": 31,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -539,6 +566,12 @@
   },
   {
    "n": 72,
+   "sfx": [
+    {
+     "key": "letter",
+     "at": "Telegram, October 24th"
+    }
+   ],
    "para": 37,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -560,6 +593,11 @@
   },
   {
    "n": 75,
+   "score": {
+    "key": "phonograph",
+    "at": "Dr. Seward’s Diary.",
+    "xfade": 4
+   },
    "para": 40,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -651,6 +689,11 @@
   },
   {
    "n": 88,
+   "score": {
+    "key": "dread",
+    "at": "When the telegram came announcing the arrival in Galatz",
+    "xfade": 4
+   },
    "para": 52,
    "role": "Dr Seward",
    "cast": "William Harvey",

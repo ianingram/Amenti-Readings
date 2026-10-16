@@ -45,6 +45,11 @@
   },
   {
    "n": 2,
+   "score": {
+    "key": "phonograph",
+    "at": "PHONOGRAPH DIARY",
+    "xfade": 4
+   },
    "para": 1,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -73,6 +78,11 @@
   },
   {
    "n": 6,
+   "score": {
+    "key": null,
+    "at": "Jonathan Harker’s Journal.",
+    "xfade": 6
+   },
    "para": 5,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -241,6 +251,11 @@
   },
   {
    "n": 30,
+   "score": {
+    "key": "phonograph",
+    "at": "Dr. Seward’s Diary.",
+    "xfade": 4
+   },
    "para": 24,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -290,6 +305,11 @@
   },
   {
    "n": 37,
+   "score": {
+    "key": "dread",
+    "at": "is changing",
+    "xfade": 4
+   },
    "para": 30,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -444,6 +464,11 @@
   },
   {
    "n": 59,
+   "score": {
+    "key": null,
+    "at": "Jonathan Harker’s Journal.",
+    "xfade": 6
+   },
    "para": 41,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -521,6 +546,17 @@
   },
   {
    "n": 70,
+   "score": {
+    "key": "pastoral_sour",
+    "at": "a door had been shut between us",
+    "xfade": 6
+   },
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "a door had been shut between us"
+    }
+   ],
    "para": 49,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",

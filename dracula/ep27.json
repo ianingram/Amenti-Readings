@@ -49,6 +49,12 @@
   },
   {
    "n": 2,
+   "bed": "pass",
+   "score": {
+    "key": "dread",
+    "at": "MINA HARKER’S JOURNAL",
+    "xfade": 6
+   },
    "para": 1,
    "role": "Narrator",
    "cast": "Bram Stoker",
@@ -84,6 +90,7 @@
   },
   {
    "n": 7,
+   "under": "campfire",
    "para": 6,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -91,6 +98,7 @@
   },
   {
    "n": 8,
+   "under": "campfire",
    "para": 7,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -98,6 +106,7 @@
   },
   {
    "n": 9,
+   "under": "campfire",
    "para": 8,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -105,6 +114,7 @@
   },
   {
    "n": 10,
+   "under": "campfire",
    "para": 9,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -112,6 +122,7 @@
   },
   {
    "n": 11,
+   "under": "campfire",
    "para": 10,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -119,6 +130,7 @@
   },
   {
    "n": 12,
+   "under": "campfire",
    "para": 11,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -126,6 +138,7 @@
   },
   {
    "n": 13,
+   "under": "campfire",
    "para": 11,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -133,6 +146,7 @@
   },
   {
    "n": 14,
+   "under": "campfire",
    "para": 11,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -140,6 +154,7 @@
   },
   {
    "n": 15,
+   "under": "campfire",
    "para": 12,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -147,6 +162,7 @@
   },
   {
    "n": 16,
+   "under": "campfire",
    "para": 13,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -154,6 +170,7 @@
   },
   {
    "n": 17,
+   "under": "campfire",
    "para": 14,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -161,6 +178,7 @@
   },
   {
    "n": 18,
+   "under": "campfire",
    "para": 15,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -168,6 +186,7 @@
   },
   {
    "n": 19,
+   "under": "campfire",
    "para": 16,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -175,6 +194,7 @@
   },
   {
    "n": 20,
+   "under": "campfire",
    "para": 17,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -182,6 +202,7 @@
   },
   {
    "n": 21,
+   "under": "campfire",
    "para": 18,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -189,6 +210,7 @@
   },
   {
    "n": 22,
+   "under": "campfire",
    "para": 19,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -196,6 +218,7 @@
   },
   {
    "n": 23,
+   "under": "campfire",
    "para": 20,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -203,6 +226,7 @@
   },
   {
    "n": 24,
+   "under": "campfire",
    "para": 20,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -210,6 +234,13 @@
   },
   {
    "n": 25,
+   "under": "campfire",
+   "sfx": [
+    {
+     "key": "horse_neigh",
+     "at": "the horses began to scream"
+    }
+   ],
    "para": 21,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -217,6 +248,7 @@
   },
   {
    "n": 26,
+   "under": "campfire",
    "para": 22,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -224,6 +256,7 @@
   },
   {
    "n": 27,
+   "under": "campfire",
    "para": 22,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -231,6 +264,7 @@
   },
   {
    "n": 28,
+   "under": "campfire",
    "para": 23,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -238,6 +272,7 @@
   },
   {
    "n": 29,
+   "under": "campfire",
    "para": 24,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -245,6 +280,12 @@
   },
   {
    "n": 30,
+   "score": {
+    "key": "bloofer",
+    "at": "a puff of wind made the flame leap up",
+    "xfade": 4
+   },
+   "under": "campfire",
    "para": 24,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -252,6 +293,7 @@
   },
   {
    "n": 31,
+   "under": "campfire",
    "para": 25,
    "role": "The Fair Woman",
    "cast": "Empress Elisabeth of Austria",
@@ -266,6 +308,11 @@
   },
   {
    "n": 33,
+   "score": {
+    "key": "dread",
+    "at": "but when that beautiful sun",
+    "xfade": 8
+   },
    "para": 26,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -308,6 +355,12 @@
   },
   {
    "n": 39,
+   "sfx": [
+    {
+     "key": "wolves_chorus",
+     "at": "the howling of wolves"
+    }
+   ],
    "para": 32,
    "role": "Dr Seward",
    "cast": "William Harvey",
@@ -378,6 +431,12 @@
   },
   {
    "n": 49,
+   "sfx": [
+    {
+     "key": "hammering",
+     "at": "it was butcher work"
+    }
+   ],
    "para": 42,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -497,6 +556,11 @@
   },
   {
    "n": 66,
+   "score": {
+    "key": "pursuit",
+    "at": "On the cart was a great square chest",
+    "xfade": 3
+   },
    "para": 51,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -532,6 +596,12 @@
   },
   {
    "n": 71,
+   "sfx": [
+    {
+     "key": "horses_gallop",
+     "at": "galloping as hard as they can"
+    }
+   ],
    "para": 52,
    "role": "Van Helsing",
    "cast": "Antony van Leeuwenhoek",
@@ -595,6 +665,12 @@
   },
   {
    "n": 80,
+   "sfx": [
+    {
+     "key": "wolves_chorus",
+     "at": "the howling of wolves came louder"
+    }
+   ],
    "para": 54,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -658,6 +734,11 @@
   },
   {
    "n": 89,
+   "score": {
+    "key": null,
+    "at": "crumbled into dust",
+    "xfade": 0.3
+   },
    "para": 63,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -686,6 +767,11 @@
   },
   {
    "n": 93,
+   "score": {
+    "key": "requiem",
+    "at": "Mr. Morris, who had sunk",
+    "xfade": 4
+   },
    "para": 67,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -714,6 +800,11 @@
   },
   {
    "n": 97,
+   "score": {
+    "key": "pastoral_warm",
+    "at": "Amen",
+    "xfade": 6
+   },
    "para": 69,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -728,6 +819,13 @@
   },
   {
    "n": 99,
+   "sfx": [
+    {
+     "key": "passing_bell",
+     "at": "a gallant gentleman",
+     "offset": 0.5
+    }
+   ],
    "para": 71,
    "role": "Mina Harker",
    "cast": "Agatha Christie",

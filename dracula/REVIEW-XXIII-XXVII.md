@@ -270,3 +270,12 @@ Each document is read by its writer; a principal character inside a journal, dia
 - ¶68 · **Quincey Morris** · *corrected* · “It was worth for this to die! Look! look!”
 - ¶69 · **Mina Harker** · *confirmed* · “Amen”
 - ¶70 · **Quincey Morris** · *corrected* · “Now God be thanked that all has not been in vain! See! the snow is not more stainless than her …
+
+## Chapter XXVII — the closing Note (added 16 Oct 2026)
+
+- NOTE · **Narrator** — Stoker reads the heading, as every heading
+- ¶ “Seven years ago…”, “In the summer of this year…”, “When we got home…” · **Jonathan Harker** — the Note is his
+- ¶ “We want no proofs; we ask none to believe us!…” · **Van Helsing** · *tag* (“Van Helsing summed it all up as he said”)
+- JONATHAN HARKER. · **Jonathan Harker** — his signature
+- THE END · **Narrator**
+

@@ -8,7 +8,7 @@
   "library": "library/bram-stoker/ch27.md",
   "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
  },
- "note": "Chapter XXVII complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-XXIII-XXVII.md.",
+ "note": "Chapter XXVII complete, with Jonathan Harker’s closing Note. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-XXIII-XXVII.md.",
  "cast": [
   {
    "role": "Narrator",
@@ -713,6 +713,12 @@
   },
   {
    "n": 86,
+   "sfx": [
+    {
+     "key": "winchester",
+     "at": "covered by the Winchesters"
+    }
+   ],
    "para": 60,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
@@ -830,6 +836,56 @@
    "role": "Mina Harker",
    "cast": "Agatha Christie",
    "text": "And, to our bitter grief, with a smile and in silence, he died, a\ngallant gentleman."
+  },
+  {
+   "n": 100,
+   "bed": "london_interior",
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "NOTE"
+  },
+  {
+   "n": 101,
+   "para": 73,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Seven years ago we all went through the flames; and the happiness of\nsome of us since then is, we think, well worth the pain we endured. It\nis an added joy to Mina and to me that our boy’s birthday is the same\nday as that on which Quincey Morris died. His mother holds, I know, the\nsecret belief that some of our brave friend’s spirit has passed into\nhim. His bundle of names links all our little band of men together; but\nwe call him Quincey."
+  },
+  {
+   "n": 102,
+   "para": 74,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "In the summer of this year we made a journey to Transylvania, and went\nover the old ground which was, and is, to us so full of vivid and\nterrible memories. It was almost impossible to believe that the things\nwhich we had seen with our own eyes and heard with our own ears were\nliving truths. Every trace of all that had been was blotted out. The\ncastle stood as before, reared high above a waste of desolation."
+  },
+  {
+   "n": 103,
+   "para": 75,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When we got home we were talking of the old time—which we could all\nlook back on without despair, for Godalming and Seward are both happily\nmarried. I took the papers from the safe where they had been ever since\nour return so long ago. We were struck with the fact, that in all the\nmass of material of which the record is composed, there is hardly one\nauthentic document; nothing but a mass of typewriting, except the later\nnote-books of Mina and Seward and myself, and Van Helsing’s memorandum.\nWe could hardly ask any one, even did we wish to, to accept these as\nproofs of so wild a story. Van Helsing summed it all up as he said, with\nour boy on his knee:—"
+  },
+  {
+   "n": 104,
+   "para": 76,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“We want no proofs; we ask none to believe us! This boy will some day\nknow what a brave and gallant woman his mother is. Already he knows her\nsweetness and loving care; later on he will understand how some men so\nloved her, that they did dare much for her sake.”"
+  },
+  {
+   "n": 105,
+   "para": 77,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "JONATHAN HARKER."
+  },
+  {
+   "n": 106,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "THE END"
   }
  ]
 }

@@ -89,3 +89,14 @@ bed('3137','river.mp3',1200,-30)
 bed('2571','port.mp3',6000,-28,start=10)
 # Bloxam's cart horse, for approval
 h=load('1854'); x=h[int(3*SR):int(23*SR)]; mp3(rms(fade(lp(x,7000),1.0,2.0),-26),'horse-walk.mp3')
+# ── added 16 Oct at Ian's word: a rifle shot, a steam whistle, a horse and cart ──
+#   winchester (above) is placed in ch 27; steam-whistle #0226 'Whistling train #2';
+#   cart = #1854 horse walking + #1316 'Handling devil' wheels rolling on a path, pitched
+#   down a fourth for an iron-tyred cart, + a little of #2516 squeaky wheelbarrow (the axle)
+x=load('0226'); x=trimsil(x,0.01); y=reverb(fade(lp(hp(x,250),6500),0.05,0.8),2.2,0.32,seed=8,bright=3500)
+mp3(peak(fade(y,0,1.0),-7),'steam-whistle.mp3')
+n=int(16*SR); b=np.zeros(n,np.float32)
+hv=load('1854')[int(3*SR):int(3*SR)+n]; b[:len(hv)]+=hv*1.0
+wh=load('1316'); wh=sg.resample_poly(wh,4,3).astype(np.float32)[:n]; b[:len(wh)]+=lp(wh,2500)*0.55
+sq=load('2516')[int(2*SR):int(2*SR)+n]; b[:len(sq)]+=lp(hp(sq,600),4000)*0.12
+mp3(rms(fade(b,2.0,3.0),-24),'cart.mp3')

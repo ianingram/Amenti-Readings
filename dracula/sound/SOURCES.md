@@ -157,5 +157,6 @@ All from BigSoundBank (LaSonothèque) — CC0 site-wide, no attribution required
 | `chapel.mp3` | #2135 *Cave #1*, low-passed, seamless loop | CC0 |
 | `river.mp3` | #3137 *Watercourse 5.2*, low-passed, seamless loop | CC0 |
 | `port.mp3` | #2571 *Small fishing port #1*, seamless loop | CC0 |
-| `score-bloofer.mp3` | the Vigil's tune reversed a semitone flat on glockenspiel, solo violin, cello tremolo, viola, bowed cymbal — VSCO 2 CE (CC0); built 15 Oct 2026 | CC0 |
-
+| `score-bloofer.mp3` | the Vigil's tune reversed a semitone flat on glockenspiel, solo violin, cello tremolo, viola, bowed cymbal — VSCO 2 CE (CC0); built 15 Oct 2026 | CC0 || `winchester.mp3` | #0397 *Shot of Winchester Magnum XTR*, open air | CC0 |
+| `steam-whistle.mp3` | #0226 *Whistling train #2*, distanced | CC0 |
+| `cart.mp3` | #1854 *Horse walking on a path* + #1316 *Handling devil* (wheels on a path, pitched down) + #2516 *Squeaky wheelbarrow* (the axle) | CC0 |

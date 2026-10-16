@@ -66,7 +66,10 @@
    "terriers": "terriers.mp3",
    "whistle": "whistle.mp3",
    "coins": "coins.mp3",
-   "sear": "sear.mp3"
+   "sear": "sear.mp3",
+   "winchester": "winchester.mp3",
+   "steam_whistle": "steam-whistle.mp3",
+   "cart": "cart.mp3"
   },
   "score": {
    "dread": "score-dread.mp3",
@@ -306,6 +309,18 @@
   "sear": {
    "note": "The Wafer burns into Mina's forehead (ch 22).",
    "files": 1
+  },
+  "winchester": {
+   "note": "A warning shot as the gypsies find themselves covered by the Winchesters (ch 27). Added at Ian's word, 16 Oct.",
+   "files": 1
+  },
+  "steam_whistle": {
+   "note": "The steam launch on the Sereth (ch 26).",
+   "files": 1
+  },
+  "cart": {
+   "note": "Bloxam's horse and cart carrying the nine boxes (ch 20): hooves on a path and iron-tyred wheels.",
+   "files": 1
   }
  },
  "score": {
@@ -518,6 +533,7 @@
    "bed": "london_interior",
    "score": null,
    "sfx": [
+    "cart",
     "letter"
    ],
    "note": "SCORED FROM THE CUE SHEET (ep20.json). earth_boxes under Jonathan's hunt; phonograph for Seward and Renfield; dread on \"To hell with you and your souls!\""
@@ -580,6 +596,7 @@
    "score": null,
    "sfx": [
     "wolves_chorus",
+    "steam_whistle",
     "horses_gallop",
     "horse_neigh"
    ],
@@ -594,9 +611,10 @@
     "wolves_chorus",
     "hammering",
     "horses_gallop",
+    "winchester",
     "passing_bell"
    ],
-   "note": "SCORED FROM THE CUE SHEET (ep27.json). The pass: campfire under the Holy circle; the Bloofer theme for \"Come, sister\"; pursuit for the gypsy cart; silence as the Count crumbles; requiem for Quincey; warm on \"Amen\"; the passing bell."
+   "note": "SCORED FROM THE CUE SHEET (ep27.json). The pass: campfire under the Holy circle; the Bloofer theme for \"Come, sister\"; pursuit for the gypsy cart; silence as the Count crumbles; requiem for Quincey; warm on \"Amen\"; the passing bell. Jonathan's closing Note follows, warm, back home."
   }
  ],
  "sourcing": {

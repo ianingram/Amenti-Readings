@@ -241,7 +241,7 @@ Each document is read by its writer; a principal character inside a journal or d
 - ¶48 · **Dr Seward** · *confirmed* · “I do not know. Some one has done it.”
 - ¶49 · **Van Helsing** · *confirmed* · “And yet she has been dead one week. Most peoples in that time would not look so.”
 - ¶50 · **Van Helsing** · *confirmed* · “Here, there is one thing which is different from all recorded; here is some dual life that is no…
-- ¶50 · **Van Helsing** · *confirmed* · “home”
+- ¶50 · **Dr Seward** · *corrected* · “home” (Seward quoting the word; 16 Oct)
 - ¶50 · **Van Helsing** · *confirmed* · “their face show what they are, but this so sweet that was when she not Un-Dead she go back to th…
 - ¶51 · **Van Helsing** · *confirmed* · “Ah, you believe now?”
 - ¶52 · **Dr Seward** · *confirmed* · “Do not press me too hard all at once. I am willing to accept. How will you do this bloody work?”

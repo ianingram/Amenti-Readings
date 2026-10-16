@@ -1,0 +1,810 @@
+{
+ "work": "dracula",
+ "episode": 22,
+ "chapter": 22,
+ "title": "The Wafer",
+ "document": "JONATHAN HARKER'S JOURNAL",
+ "source": {
+  "library": "library/bram-stoker/ch22.md",
+  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+ },
+ "note": "Chapter XXII complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters — and Renfield — speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-XVIII-XXII.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Bram Stoker"
+  },
+  {
+   "role": "Jonathan Harker",
+   "cast_as": "Charles Darwin"
+  },
+  {
+   "role": "Mina Harker",
+   "cast_as": "Agatha Christie"
+  },
+  {
+   "role": "Van Helsing",
+   "cast_as": "Antony van Leeuwenhoek"
+  },
+  {
+   "role": "Arthur Holmwood",
+   "cast_as": "J.R.R. Tolkien"
+  },
+  {
+   "role": "Quincey Morris",
+   "cast_as": "Lyndon B. Johnson"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "CHAPTER XXII"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Bram Stoker",
+   "text": "JONATHAN HARKER’S JOURNAL"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "3 October. —As I must do something or go mad, I write this diary. It\nis now six o’clock, and we are to meet in the study in half an hour and\ntake something to eat; for Dr. Van Helsing and Dr. Seward are agreed\nthat if we do not eat we cannot work our best. Our best will be, God\nknows, required to-day. I must keep writing at every chance, for I dare\nnot stop to think. All, big and little, must go down; perhaps at the end\nthe little things may teach us most. The teaching, big or little, could\nnot have landed Mina or me anywhere worse than we are to-day. However,\nwe must trust and hope. Poor Mina told me just now, with the tears\nrunning down her dear cheeks, that it is in trouble and trial that our\nfaith is tested—that we must keep on trusting; and that God will aid us\nup to the end. The end! oh my God! what end?... To work! To work!"
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When Dr. Van Helsing and Dr. Seward had come back from seeing poor\nRenfield, we went gravely into what was to be done. First, Dr. Seward\ntold us that when he and Dr. Van Helsing had gone down to the room below\nthey had found Renfield lying on the floor, all in a heap. His face was\nall bruised and crushed in, and the bones of the neck were broken."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Dr. Seward asked the attendant who was on duty in the passage if he had\nheard anything. He said that he had been sitting down—he confessed to\nhalf dozing—when he heard loud voices in the room, and then Renfield\nhad called out loudly several times, “God! God! God!” after that there\nwas a sound of falling, and when he entered the room he found him lying\non the floor, face down, just as the doctors had seen him. Van Helsing\nasked if he had heard “voices” or “a voice,” and he said he could not\nsay; that at first it had seemed to him as if there were two, but as\nthere was no one in the room it could have been only one. He could swear\nto it, if required, that the word “God” was spoken by the patient. Dr.\nSeward said to us, when we were alone, that he did not wish to go into\nthe matter; the question of an inquest had to be considered, and it\nwould never do to put forward the truth, as no one would believe it. As\nit was, he thought that on the attendant’s evidence he could give a\ncertificate of death by misadventure in falling from bed. In case the\ncoroner should demand it, there would be a formal inquest, necessarily\nto the same result."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When the question began to be discussed as to what should be our next\nstep, the very first thing we decided was that Mina should be in full\nconfidence; that nothing of any sort—no matter how painful—should be\nkept from her. She herself agreed as to its wisdom, and it was pitiful\nto see her so brave and yet so sorrowful, and in such a depth of\ndespair."
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“There must be no concealment,”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "she said,"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“Alas! we have had\ntoo much already. And besides there is nothing in all the world that can\ngive me more pain than I have already endured—than I suffer now!\nWhatever may happen, it must be of new hope or of new courage to me!”"
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Van Helsing was looking at her fixedly as she spoke, and said, suddenly\nbut quietly:—"
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“But dear Madam Mina, are you not afraid; not for yourself, but for\nothers from yourself, after what has happened?”"
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Her face grew set in its\nlines, but her eyes shone with the devotion of a martyr as she\nanswered:—"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“Ah no! for my mind is made up!”"
+  },
+  {
+   "n": 14,
+   "para": 8,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“To what?”"
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he asked gently, whilst we were all very still; for each in\nour own way we had a sort of vague idea of what she meant. Her answer\ncame with direct simplicity, as though she were simply stating a fact:—"
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“Because if I find in myself—and I shall watch keenly for it—a sign of\nharm to any that I love, I shall die!”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“You would not kill yourself?”"
+  },
+  {
+   "n": 18,
+   "para": 10,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he asked, hoarsely."
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“I would; if there were no friend who loved me, who would save me such a\npain, and so desperate an effort!”"
+  },
+  {
+   "n": 20,
+   "para": 11,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "She looked at him meaningly as she\nspoke. He was sitting down; but now he rose and came close to her and\nput his hand on her head as he said solemnly:"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“My child, there is such an one if it were for your good. For myself I\ncould hold it in my account with God to find such an euthanasia for you,\neven at this moment if it were best. Nay, were it safe! But my\nchild——”"
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "For a moment he seemed choked, and a great sob rose in his\nthroat; he gulped it down and went on:—"
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“There are here some who would stand between you and death. You must not\ndie. You must not die by any hand; but least of all by your own. Until\nthe other, who has fouled your sweet life, is true dead you must not\ndie; for if he is still with the quick Un-Dead, your death would make\nyou even as he is. No, you must live! You must struggle and strive to\nlive, though death would seem a boon unspeakable. You must fight Death\nhimself, though he come to you in pain or in joy; by the day, or the\nnight; in safety or in peril! On your living soul I charge you that you\ndo not die—nay, nor think of death—till this great evil be past.”"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "The\npoor dear grew white as death, and shock and shivered, as I have seen a\nquicksand shake and shiver at the incoming of the tide. We were all\nsilent; we could do nothing. At length she grew more calm and turning to\nhim said, sweetly, but oh! so sorrowfully, as she held out her hand:—"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“I promise you, my dear friend, that if God will let me live, I shall\nstrive to do so; till, if it may be in His good time, this horror may\nhave passed away from me.”"
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "She was so good and brave that we all felt\nthat our hearts were strengthened to work and endure for her, and we\nbegan to discuss what we were to do. I told her that she was to have all\nthe papers in the safe, and all the papers or diaries and phonographs we\nmight hereafter use; and was to keep the record as she had done before.\nShe was pleased with the prospect of anything to do—if “pleased” could\nbe used in connection with so grim an interest."
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "As usual Van Helsing had thought ahead of everyone else, and was\nprepared with an exact ordering of our work."
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“It is perhaps well,”"
+  },
+  {
+   "n": 29,
+   "para": 16,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he said,"
+  },
+  {
+   "n": 30,
+   "para": 16,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“that at our meeting after our visit to\nCarfax we decided not to do anything with the earth-boxes that lay\nthere. Had we done so, the Count must have guessed our purpose, and\nwould doubtless have taken measures in advance to frustrate such an\neffort with regard to the others; but now he does not know our\nintentions. Nay, more, in all probability, he does not know that such a\npower exists to us as can sterilise his lairs, so that he cannot use\nthem as of old. We are now so much further advanced in our knowledge as\nto their disposition that, when we have examined the house in\nPiccadilly, we may track the very last of them. To-day, then, is ours;\nand in it rests our hope. The sun that rose on our sorrow this morning\nguards us in its course. Until it sets to-night, that monster must\nretain whatever form he now has. He is confined within the limitations\nof his earthly envelope. He cannot melt into thin air nor disappear\nthrough cracks or chinks or crannies. If he go through a doorway, he\nmust open the door like a mortal. And so we have this day to hunt out\nall his lairs and sterilise them. So we shall, if we have not yet catch\nhim and destroy him, drive him to bay in some place where the catching\nand the destroying shall be, in time, sure.”"
+  },
+  {
+   "n": 31,
+   "para": 16,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Here I started up for I\ncould not contain myself at the thought that the minutes and seconds so\npreciously laden with Mina’s life and happiness were flying from us,\nsince whilst we talked action was impossible. But Van Helsing held up\nhis hand warningly."
+  },
+  {
+   "n": 32,
+   "para": 16,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Nay, friend Jonathan,”"
+  },
+  {
+   "n": 33,
+   "para": 16,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he said,"
+  },
+  {
+   "n": 34,
+   "para": 16,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“in this, the\nquickest way home is the longest way, so your proverb say. We shall all\nact and act with desperate quick, when the time has come. But think, in\nall probable the key of the situation is in that house in Piccadilly.\nThe Count may have many houses which he has bought. Of them he will have\ndeeds of purchase, keys and other things. He will have paper that he\nwrite on; he will have his book of cheques. There are many belongings\nthat he must have somewhere; why not in this place so central, so quiet,\nwhere he come and go by the front or the back at all hour, when in the\nvery vast of the traffic there is none to notice. We shall go there and\nsearch that house; and when we learn what it holds, then we do what our\nfriend Arthur call, in his phrases of hunt ‘stop the earths’ and so we\nrun down our old fox—so? is it not?”"
+  },
+  {
+   "n": 35,
+   "para": 17,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Then let us come at once,” I cried, “we are wasting the precious,\nprecious time!” The Professor did not move, but simply said:—"
+  },
+  {
+   "n": 36,
+   "para": 18,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“And how are we to get into that house in Piccadilly?”"
+  },
+  {
+   "n": 37,
+   "para": 19,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Any way!” I cried. “We shall break in if need be.”"
+  },
+  {
+   "n": 38,
+   "para": 20,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“And your police; where will they be, and what will they say?”"
+  },
+  {
+   "n": 39,
+   "para": 21,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I was staggered; but I knew that if he wished to delay he had a good\nreason for it. So I said, as quietly as I could:—"
+  },
+  {
+   "n": 40,
+   "para": 22,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Don’t wait more than need be; you know, I am sure, what torture I am\nin.”"
+  },
+  {
+   "n": 41,
+   "para": 23,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Ah, my child, that I do; and indeed there is no wish of me to add to\nyour anguish. But just think, what can we do, until all the world be at\nmovement. Then will come our time. I have thought and thought, and it\nseems to me that the simplest way is the best of all. Now we wish to get\ninto the house, but we have no key; is it not so?”"
+  },
+  {
+   "n": 42,
+   "para": 23,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I nodded."
+  },
+  {
+   "n": 43,
+   "para": 24,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Now suppose that you were, in truth, the owner of that house, and could\nnot still get in; and think there was to you no conscience of the\nhousebreaker, what would you do?”"
+  },
+  {
+   "n": 44,
+   "para": 25,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“I should get a respectable locksmith, and set him to work to pick the\nlock for me.”"
+  },
+  {
+   "n": 45,
+   "para": 26,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“And your police, they would interfere, would they not?”"
+  },
+  {
+   "n": 46,
+   "para": 27,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“Oh, no! not if they knew the man was properly employed.”"
+  },
+  {
+   "n": 47,
+   "para": 28,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Then,”"
+  },
+  {
+   "n": 48,
+   "para": 28,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he looked at me as keenly as he spoke,"
+  },
+  {
+   "n": 49,
+   "para": 28,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“all that is in doubt is\nthe conscience of the employer, and the belief of your policemen as to\nwhether or no that employer has a good conscience or a bad one. Your\npolice must indeed be zealous men and clever—oh, so clever!—in reading\nthe heart, that they trouble themselves in such matter. No, no, my\nfriend Jonathan, you go take the lock off a hundred empty house in this\nyour London, or of any city in the world; and if you do it as such\nthings are rightly done, and at the time such things are rightly done,\nno one will interfere. I have read of a gentleman who owned a so fine\nhouse in London, and when he went for months of summer to Switzerland\nand lock up his house, some burglar came and broke window at back and\ngot in. Then he went and made open the shutters in front and walk out\nand in through the door, before the very eyes of the police. Then he\nhave an auction in that house, and advertise it, and put up big notice;\nand when the day come he sell off by a great auctioneer all the goods of\nthat other man who own them. Then he go to a builder, and he sell him\nthat house, making an agreement that he pull it down and take all away\nwithin a certain time. And your police and other authority help him all\nthey can. And when that owner come back from his holiday in Switzerland\nhe find only an empty hole where his house had been. This was all done\nen règle ; and in our work we shall be en règle too. We shall not go\nso early that the policemen who have then little to think of, shall deem\nit strange; but we shall go after ten o’clock, when there are many\nabout, and such things would be done were we indeed owners of the\nhouse.”"
+  },
+  {
+   "n": 50,
+   "para": 29,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I could not but see how right he was and the terrible despair of Mina’s\nface became relaxed a thought; there was hope in such good counsel. Van\nHelsing went on:—"
+  },
+  {
+   "n": 51,
+   "para": 30,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“When once within that house we may find more clues; at any rate some of\nus can remain there whilst the rest find the other places where there be\nmore earth-boxes—at Bermondsey and Mile End.”"
+  },
+  {
+   "n": 52,
+   "para": 31,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Lord Godalming stood up."
+  },
+  {
+   "n": 53,
+   "para": 31,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“I can be of some use here,”"
+  },
+  {
+   "n": 54,
+   "para": 31,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he said."
+  },
+  {
+   "n": 55,
+   "para": 31,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“I shall\nwire to my people to have horses and carriages where they will be most\nconvenient.”"
+  },
+  {
+   "n": 56,
+   "para": 32,
+   "role": "Quincey Morris",
+   "cast": "Lyndon B. Johnson",
+   "text": "“Look here, old fellow,”"
+  },
+  {
+   "n": 57,
+   "para": 32,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "said Morris,"
+  },
+  {
+   "n": 58,
+   "para": 32,
+   "role": "Quincey Morris",
+   "cast": "Lyndon B. Johnson",
+   "text": "“it is a capital idea to have all\nready in case we want to go horsebacking; but don’t you think that one\nof your snappy carriages with its heraldic adornments in a byway of\nWalworth or Mile End would attract too much attention for our purposes?\nIt seems to me that we ought to take cabs when we go south or east; and\neven leave them somewhere near the neighbourhood we are going to.”"
+  },
+  {
+   "n": 59,
+   "para": 33,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Friend Quincey is right!”"
+  },
+  {
+   "n": 60,
+   "para": 33,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "said the Professor."
+  },
+  {
+   "n": 61,
+   "para": 33,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“His head is what you\ncall in plane with the horizon. It is a difficult thing that we go to\ndo, and we do not want no peoples to watch us if so it may.”"
+  },
+  {
+   "n": 62,
+   "para": 34,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Mina took a growing interest in everything and I was rejoiced to see\nthat the exigency of affairs was helping her to forget for a time the\nterrible experience of the night. She was very, very pale—almost\nghastly, and so thin that her lips were drawn away, showing her teeth in\nsomewhat of prominence. I did not mention this last, lest it should give\nher needless pain; but it made my blood run cold in my veins to think of\nwhat had occurred with poor Lucy when the Count had sucked her blood. As\nyet there was no sign of the teeth growing sharper; but the time as yet\nwas short, and there was time for fear."
+  },
+  {
+   "n": 63,
+   "para": 35,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When we came to the discussion of the sequence of our efforts and of the\ndisposition of our forces, there were new sources of doubt. It was\nfinally agreed that before starting for Piccadilly we should destroy the\nCount’s lair close at hand. In case he should find it out too soon, we\nshould thus be still ahead of him in our work of destruction; and his\npresence in his purely material shape, and at his weakest, might give us\nsome new clue."
+  },
+  {
+   "n": 64,
+   "para": 36,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "As to the disposal of forces, it was suggested by the Professor that,\nafter our visit to Carfax, we should all enter the house in Piccadilly;\nthat the two doctors and I should remain there, whilst Lord Godalming\nand Quincey found the lairs at Walworth and Mile End and destroyed them.\nIt was possible, if not likely, the Professor urged, that the Count\nmight appear in Piccadilly during the day, and that if so we might be\nable to cope with him then and there. At any rate, we might be able to\nfollow him in force. To this plan I strenuously objected, and so far as\nmy going was concerned, for I said that I intended to stay and protect\nMina, I thought that my mind was made up on the subject; but Mina would\nnot listen to my objection. She said that there might be some law matter\nin which I could be useful; that amongst the Count’s papers might be\nsome clue which I could understand out of my experience in Transylvania;\nand that, as it was, all the strength we could muster was required to\ncope with the Count’s extraordinary power. I had to give in, for Mina’s\nresolution was fixed; she said that it was the last hope for her that\nwe should all work together."
+  },
+  {
+   "n": 65,
+   "para": 36,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“As for me,”"
+  },
+  {
+   "n": 66,
+   "para": 36,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "she said,"
+  },
+  {
+   "n": 67,
+   "para": 36,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“I have no fear.\nThings have been as bad as they can be; and whatever may happen must\nhave in it some element of hope or comfort. Go, my husband! God can, if\nHe wishes it, guard me as well alone as with any one present.”"
+  },
+  {
+   "n": 68,
+   "para": 36,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "So I\nstarted up crying out: “Then in God’s name let us come at once, for we\nare losing time. The Count may come to Piccadilly earlier than we\nthink.”"
+  },
+  {
+   "n": 69,
+   "para": 37,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Not so!”"
+  },
+  {
+   "n": 70,
+   "para": 37,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "said Van Helsing, holding up his hand."
+  },
+  {
+   "n": 71,
+   "para": 38,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "“But why?” I asked."
+  },
+  {
+   "n": 72,
+   "para": 39,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Do you forget,”"
+  },
+  {
+   "n": 73,
+   "para": 39,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he said, with actually a smile,"
+  },
+  {
+   "n": 74,
+   "para": 39,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“that last night he\nbanqueted heavily, and will sleep late?”"
+  },
+  {
+   "n": 75,
+   "para": 40,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Did I forget! shall I ever—can I ever! Can any of us ever forget that\nterrible scene! Mina struggled hard to keep her brave countenance; but\nthe pain overmastered her and she put her hands before her face, and\nshuddered whilst she moaned. Van Helsing had not intended to recall her\nfrightful experience. He had simply lost sight of her and her part in\nthe affair in his intellectual effort. When it struck him what he said,\nhe was horrified at his thoughtlessness and tried to comfort her."
+  },
+  {
+   "n": 76,
+   "para": 40,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Oh,\nMadam Mina,”"
+  },
+  {
+   "n": 77,
+   "para": 40,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "he said,"
+  },
+  {
+   "n": 78,
+   "para": 40,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“dear, dear Madam Mina, alas! that I of all who so\nreverence you should have said anything so forgetful. These stupid old\nlips of mine and this stupid old head do not deserve so; but you will\nforget it, will you not?”"
+  },
+  {
+   "n": 79,
+   "para": 40,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "He bent low beside her as he spoke; she took\nhis hand, and looking at him through her tears, said hoarsely:—"
+  },
+  {
+   "n": 80,
+   "para": 41,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“No, I shall not forget, for it is well that I remember; and with it I\nhave so much in memory of you that is sweet, that I take it all\ntogether. Now, you must all be going soon. Breakfast is ready, and we\nmust all eat that we may be strong.”"
+  },
+  {
+   "n": 81,
+   "para": 42,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Breakfast was a strange meal to us all. We tried to be cheerful and\nencourage each other, and Mina was the brightest and most cheerful of\nus. When it was over, Van Helsing stood up and said:—"
+  },
+  {
+   "n": 82,
+   "para": 43,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Now, my dear friends, we go forth to our terrible enterprise. Are we\nall armed, as we were on that night when first we visited our enemy’s\nlair; armed against ghostly as well as carnal attack?”"
+  },
+  {
+   "n": 83,
+   "para": 43,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "We all assured\nhim."
+  },
+  {
+   "n": 84,
+   "para": 43,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“Then it is well. Now, Madam Mina, you are in any case quite safe\nhere until the sunset; and before then we shall return—if—— We shall\nreturn! But before we go let me see you armed against personal attack. I\nhave myself, since you came down, prepared your chamber by the placing\nof things of which we know, so that He may not enter. Now let me guard\nyourself. On your forehead I touch this piece of Sacred Wafer in the\nname of the Father, the Son, and——”"
+  },
+  {
+   "n": 85,
+   "para": 44,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "There was a fearful scream which almost froze our hearts to hear. As he\nhad placed the Wafer on Mina’s forehead, it had seared it—had burned\ninto the flesh as though it had been a piece of white-hot metal. My poor\ndarling’s brain had told her the significance of the fact as quickly as\nher nerves received the pain of it; and the two so overwhelmed her that\nher overwrought nature had its voice in that dreadful scream. But the\nwords to her thought came quickly; the echo of the scream had not ceased\nto ring on the air when there came the reaction, and she sank on her\nknees on the floor in an agony of abasement. Pulling her beautiful hair\nover her face, as the leper of old his mantle, she wailed out:—"
+  },
+  {
+   "n": 86,
+   "para": 45,
+   "role": "Mina Harker",
+   "cast": "Agatha Christie",
+   "text": "“Unclean! Unclean! Even the Almighty shuns my polluted flesh! I must\nbear this mark of shame upon my forehead until the Judgment Day.”"
+  },
+  {
+   "n": 87,
+   "para": 45,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "They\nall paused. I had thrown myself beside her in an agony of helpless\ngrief, and putting my arms around held her tight. For a few minutes our\nsorrowful hearts beat together, whilst the friends around us turned away\ntheir eyes that ran tears silently. Then Van Helsing turned and said\ngravely; so gravely that I could not help feeling that he was in some\nway inspired, and was stating things outside himself:—"
+  },
+  {
+   "n": 88,
+   "para": 46,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“It may be that you may have to bear that mark till God himself see fit,\nas He most surely shall, on the Judgment Day, to redress all wrongs of\nthe earth and of His children that He has placed thereon. And oh, Madam\nMina, my dear, my dear, may we who love you be there to see, when that\nred scar, the sign of God’s knowledge of what has been, shall pass away,\nand leave your forehead as pure as the heart we know. For so surely as\nwe live, that scar shall pass away when God sees right to lift the\nburden that is hard upon us. Till then we bear our Cross, as His Son did\nin obedience to His Will. It may be that we are chosen instruments of\nHis good pleasure, and that we ascend to His bidding as that other\nthrough stripes and shame; through tears and blood; through doubts and\nfears, and all that makes the difference between God and man.”"
+  },
+  {
+   "n": 89,
+   "para": 47,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "There was hope in his words, and comfort; and they made for resignation.\nMina and I both felt so, and simultaneously we each took one of the old\nman’s hands and bent over and kissed it. Then without a word we all\nknelt down together, and, all holding hands, swore to be true to each\nother. We men pledged ourselves to raise the veil of sorrow from the\nhead of her whom, each in his own way, we loved; and we prayed for help\nand guidance in the terrible task which lay before us."
+  },
+  {
+   "n": 90,
+   "para": 48,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "It was then time to start. So I said farewell to Mina, a parting which\nneither of us shall forget to our dying day; and we set out."
+  },
+  {
+   "n": 91,
+   "para": 49,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "To one thing I have made up my mind: if we find out that Mina must be a\nvampire in the end, then she shall not go into that unknown and terrible\nland alone. I suppose it is thus that in old times one vampire meant\nmany; just as their hideous bodies could only rest in sacred earth, so\nthe holiest love was the recruiting sergeant for their ghastly ranks."
+  },
+  {
+   "n": 92,
+   "para": 50,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "We entered Carfax without trouble and found all things the same as on\nthe first occasion. It was hard to believe that amongst so prosaic\nsurroundings of neglect and dust and decay there was any ground for such\nfear as already we knew. Had not our minds been made up, and had there\nnot been terrible memories to spur us on, we could hardly have proceeded\nwith our task. We found no papers, or any sign of use in the house; and\nin the old chapel the great boxes looked just as we had seen them last.\nDr. Van Helsing said to us solemnly as we stood before them:—"
+  },
+  {
+   "n": 93,
+   "para": 51,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“And now, my friends, we have a duty here to do. We must sterilise this\nearth, so sacred of holy memories, that he has brought from a far\ndistant land for such fell use. He has chosen this earth because it has\nbeen holy. Thus we defeat him with his own weapon, for we make it more\nholy still. It was sanctified to such use of man, now we sanctify it to\nGod.”"
+  },
+  {
+   "n": 94,
+   "para": 51,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "As he spoke he took from his bag a screwdriver and a wrench, and\nvery soon the top of one of the cases was thrown open. The earth smelled\nmusty and close; but we did not somehow seem to mind, for our attention\nwas concentrated on the Professor. Taking from his box a piece of the\nSacred Wafer he laid it reverently on the earth, and then shutting down\nthe lid began to screw it home, we aiding him as he worked."
+  },
+  {
+   "n": 95,
+   "para": 52,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "One by one we treated in the same way each of the great boxes, and left\nthem as we had found them to all appearance; but in each was a portion\nof the Host."
+  },
+  {
+   "n": 96,
+   "para": 53,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When we closed the door behind us, the Professor said solemnly:—"
+  },
+  {
+   "n": 97,
+   "para": 54,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“So much is already done. If it may be that with all the others we can\nbe so successful, then the sunset of this evening may shine on Madam\nMina’s forehead all white as ivory and with no stain!”"
+  },
+  {
+   "n": 98,
+   "para": 55,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "As we passed across the lawn on our way to the station to catch our\ntrain we could see the front of the asylum. I looked eagerly, and in the\nwindow of my own room saw Mina. I waved my hand to her, and nodded to\ntell that our work there was successfully accomplished. She nodded in\nreply to show that she understood. The last I saw, she was waving her\nhand in farewell. It was with a heavy heart that we sought the station\nand just caught the train, which was steaming in as we reached the\nplatform."
+  },
+  {
+   "n": 99,
+   "para": 56,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I have written this in the train."
+  },
+  {
+   "n": 100,
+   "para": 57,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "Piccadilly, 12:30 o’clock. —Just before we reached Fenchurch Street\nLord Godalming said to me:—"
+  },
+  {
+   "n": 101,
+   "para": 58,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Quincey and I will find a locksmith. You had better not come with us in\ncase there should be any difficulty; for under the circumstances it\nwouldn’t seem so bad for us to break into an empty house. But you are a\nsolicitor and the Incorporated Law Society might tell you that you\nshould have known better.”"
+  },
+  {
+   "n": 102,
+   "para": 58,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "I demurred as to my not sharing any danger\neven of odium, but he went on:"
+  },
+  {
+   "n": 103,
+   "para": 58,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“Besides, it will attract less attention\nif there are not too many of us. My title will make it all right with\nthe locksmith, and with any policeman that may come along. You had\nbetter go with Jack and the Professor and stay in the Green Park,\nsomewhere in sight of the house; and when you see the door opened and\nthe smith has gone away, do you all come across. We shall be on the\nlookout for you, and shall let you in.”"
+  },
+  {
+   "n": 104,
+   "para": 59,
+   "role": "Van Helsing",
+   "cast": "Antony van Leeuwenhoek",
+   "text": "“The advice is good!”"
+  },
+  {
+   "n": 105,
+   "para": 59,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "said Van Helsing, so we said no more. Godalming\nand Morris hurried off in a cab, we following in another. At the corner\nof Arlington Street our contingent got out and strolled into the Green\nPark. My heart beat as I saw the house on which so much of our hope was\ncentred, looming up grim and silent in its deserted condition amongst\nits more lively and spruce-looking neighbours. We sat down on a bench\nwithin good view, and began to smoke cigars so as to attract as little\nattention as possible. The minutes seemed to pass with leaden feet as we\nwaited for the coming of the others."
+  },
+  {
+   "n": 106,
+   "para": 60,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "At length we saw a four-wheeler drive up. Out of it, in leisurely\nfashion, got Lord Godalming and Morris; and down from the box descended\na thick-set working man with his rush-woven basket of tools. Morris paid\nthe cabman, who touched his hat and drove away. Together the two\nascended the steps, and Lord Godalming pointed out what he wanted done.\nThe workman took off his coat leisurely and hung it on one of the spikes\nof the rail, saying something to a policeman who just then sauntered\nalong. The policeman nodded acquiescence, and the man kneeling down\nplaced his bag beside him. After searching through it, he took out a\nselection of tools which he produced to lay beside him in orderly\nfashion. Then he stood up, looked into the keyhole, blew into it, and\nturning to his employers, made some remark. Lord Godalming smiled, and\nthe man lifted a good-sized bunch of keys; selecting one of them, he\nbegan to probe the lock, as if feeling his way with it. After fumbling\nabout for a bit he tried a second, and then a third. All at once the\ndoor opened under a slight push from him, and he and the two others\nentered the hall. We sat still; my own cigar burnt furiously, but Van\nHelsing’s went cold altogether. We waited patiently as we saw the\nworkman come out and bring in his bag. Then he held the door partly\nopen, steadying it with his knees, whilst he fitted a key to the lock.\nThis he finally handed to Lord Godalming, who took out his purse and\ngave him something. The man touched his hat, took his bag, put on his\ncoat and departed; not a soul took the slightest notice of the whole\ntransaction."
+  },
+  {
+   "n": 107,
+   "para": 61,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "When the man had fairly gone, we three crossed the street and knocked at\nthe door. It was immediately opened by Quincey Morris, beside whom stood\nLord Godalming lighting a cigar."
+  },
+  {
+   "n": 108,
+   "para": 62,
+   "role": "Arthur Holmwood",
+   "cast": "J.R.R. Tolkien",
+   "text": "“The place smells so vilely,”"
+  },
+  {
+   "n": 109,
+   "para": 62,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "said the latter as we came in. It did\nindeed smell vilely—like the old chapel at Carfax—and with our\nprevious experience it was plain to us that the Count had been using the\nplace pretty freely. We moved to explore the house, all keeping together\nin case of attack; for we knew we had a strong and wily enemy to deal\nwith, and as yet we did not know whether the Count might not be in the\nhouse. In the dining-room, which lay at the back of the hall, we found\neight boxes of earth. Eight boxes only out of the nine, which we sought!\nOur work was not over, and would never be until we should have found the\nmissing box. First we opened the shutters of the window which looked out\nacross a narrow stone-flagged yard at the blank face of a stable,\npointed to look like the front of a miniature house. There were no\nwindows in it, so we were not afraid of being over-looked. We did not\nlose any time in examining the chests. With the tools which we had\nbrought with us we opened them, one by one, and treated them as we had\ntreated those others in the old chapel. It was evident to us that the\nCount was not at present in the house, and we proceeded to search for\nany of his effects."
+  },
+  {
+   "n": 110,
+   "para": 63,
+   "role": "Jonathan Harker",
+   "cast": "Charles Darwin",
+   "text": "After a cursory glance at the rest of the rooms, from basement to attic,\nwe came to the conclusion that the dining-room contained any effects\nwhich might belong to the Count; and so we proceeded to minutely examine\nthem. They lay in a sort of orderly disorder on the great dining-room\ntable. There were title deeds of the Piccadilly house in a great bundle;\ndeeds of the purchase of the houses at Mile End and Bermondsey;\nnote-paper, envelopes, and pens and ink. All were covered up in thin\nwrapping paper to keep them from the dust. There were also a clothes\nbrush, a brush and comb, and a jug and basin—the latter containing\ndirty water which was reddened as if with blood. Last of all was a\nlittle heap of keys of all sorts and sizes, probably those belonging to\nthe other houses. When we had examined this last find, Lord Godalming\nand Quincey Morris taking accurate notes of the various addresses of the\nhouses in the East and the South, took with them the keys in a great\nbunch, and set out to destroy the boxes in these places. The rest of us\nare, with what patience we can, waiting their return—or the coming of\nthe Count."
+  }
+ ]
+}

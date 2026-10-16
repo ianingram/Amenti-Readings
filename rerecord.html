@@ -19,7 +19,7 @@
 <body>
 <main>
   <h1>Re-record Lines</h1>
-  <p>Dracula, the closing Note (chapter 27): the four new lines, and the heading, the signature and THE END recorded inside a longer phrase so they can be cut and baked.</p>
+  <p>Dracula, the closing Note: the heading “NOTE”, in two short phrases so the word can be cut out cleanly.</p>
   <button id="go" disabled>Record</button>
   <div id="log"></div>
 </main>
@@ -36,7 +36,7 @@
    sends it (same text, style and voice, so the same archive key) with ?fresh=1, which replaces
    the stored take. A take whose length cannot fit its words is tried again, up to three times. */
 (function () {
-  var FIX = [{"work": "dracula", "ch": 27, "cue": 99, "text": "NOTE. Seven years ago.", "voice": "Iapetus", "style": "Read clearly, in a measured, dignified tone. Accent and dialect: Anglo-Irish, gothic and atmospheric. Voice character: haunted and hollow. Speak at a brisk, lively, natural pace, as a person speaking energetically — not slow or ponderous", "label": "Chapter 27, line 100", "why": "heading “NOTE”, recorded in a carrier phrase and cut"}, {"work": "dracula", "ch": 27, "cue": 104, "text": "JONATHAN HARKER. The end of the record.", "voice": "Achird", "style": "Read clearly, in a measured, dignified tone. Accent and dialect: English RP, careful and mild. Voice character: aphoristic and patient. Speak at a brisk, lively, natural pace, as a person speaking energetically — not slow or ponderous", "label": "Chapter 27, line 105", "why": "signature, recorded in a carrier phrase and cut"}, {"work": "dracula", "ch": 27, "cue": 105, "text": "THE END. Here ends the story of Dracula.", "voice": "Iapetus", "style": "Read clearly, in a measured, dignified tone. Accent and dialect: Anglo-Irish, gothic and atmospheric. Voice character: haunted and hollow. Speak at a brisk, lively, natural pace, as a person speaking energetically — not slow or ponderous", "label": "Chapter 27, line 106", "why": "“THE END”, recorded in a carrier phrase and cut"}, {"work": "dracula", "ch": 27, "cue": 100, "why": "the closing Note — new line"}, {"work": "dracula", "ch": 27, "cue": 101, "why": "the closing Note — new line"}, {"work": "dracula", "ch": 27, "cue": 102, "why": "the closing Note — new line"}, {"work": "dracula", "ch": 27, "cue": 103, "why": "the closing Note — new line"}];
+  var FIX = [{"work": "dracula", "ch": 27, "cue": 99, "text": "And now, a note.", "voice": "Iapetus", "style": "Read clearly, in a measured, dignified tone. Accent and dialect: Anglo-Irish, gothic and atmospheric. Voice character: haunted and hollow. Speak at a brisk, lively, natural pace, as a person speaking energetically — not slow or ponderous", "label": "Chapter 27, line 100", "why": "“NOTE” was skipped in the first carrier; carrier 1"}, {"work": "dracula", "ch": 27, "cue": 99, "text": "Note, by Jonathan Harker.", "voice": "Iapetus", "style": "Read clearly, in a measured, dignified tone. Accent and dialect: Anglo-Irish, gothic and atmospheric. Voice character: haunted and hollow. Speak at a brisk, lively, natural pace, as a person speaking energetically — not slow or ponderous", "label": "Chapter 27, line 100", "why": "“NOTE” — carrier 2"}];
   var VOICE = 'https://amenti-proxy.ingram-ian.workers.dev/speak';
   var R = window.Amenti && window.Amenti.reading, E = window.Amenti && window.Amenti.throttle;
   var $ = function (id) { return document.getElementById(id); };

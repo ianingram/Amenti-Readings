@@ -1,7 +1,7 @@
 {
  "work": "dracula",
  "base": "art/",
- "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass (cue 36 on) still to come.",
+ "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass style-referenced to storm-1.jpg. The four 'red lips' close-ups came out as a woman's face and are left out.",
  "episodes": {
   "2": [
    {
@@ -318,7 +318,79 @@
    },
    {
     "from": 36,
-    "images": []
+    "caption": "The Borgo Pass · the calèche",
+    "cut": true,
+    "images": [
+     "ch01-n01-1.jpg",
+     "ch01-n01-2.jpg"
+    ]
+   },
+   {
+    "from": 46,
+    "caption": "",
+    "images": [
+     "ch01-n03-4.jpg",
+     "ch01-n03-1.jpg",
+     "ch01-n03-3.jpg",
+     "ch01-n03-2.jpg"
+    ]
+   },
+   {
+    "from": 49,
+    "caption": "",
+    "images": [
+     "ch01-n07-1.jpg",
+     "ch01-n07-4.jpg",
+     "ch01-n07-2.jpg",
+     "ch01-n07-3.jpg"
+    ]
+   },
+   {
+    "from": 50,
+    "caption": "",
+    "images": [
+     "ch01-n04-1.jpg",
+     "ch01-n04-4.jpg",
+     "ch01-n04-2.jpg",
+     "ch01-n04-3.jpg"
+    ]
+   },
+   {
+    "from": 51,
+    "caption": "The blue flame",
+    "images": [
+     "ch01-n05-1.jpg",
+     "ch01-n05-4.jpg",
+     "ch01-n05-2.jpg",
+     "ch01-n05-3.jpg"
+    ]
+   },
+   {
+    "from": 52,
+    "caption": "The ring of wolves",
+    "images": [
+     "ch01-n06-1.jpg",
+     "ch01-n06-4.jpg",
+     "ch01-n06-3.jpg"
+    ]
+   },
+   {
+    "from": 53,
+    "caption": "",
+    "cut": true,
+    "images": [
+     "ch01-n06-2.jpg"
+    ]
+   },
+   {
+    "from": 54,
+    "caption": "Castle Dracula",
+    "images": [
+     "ch01-n08-2.jpg",
+     "ch01-n08-1.jpg",
+     "ch01-n08-3.jpg",
+     "ch01-n08-4.jpg"
+    ]
    }
   ]
  }

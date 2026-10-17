@@ -160,3 +160,11 @@ All from BigSoundBank (LaSonothèque) — CC0 site-wide, no attribution required
 | `score-bloofer.mp3` | the Vigil's tune reversed a semitone flat on glockenspiel, solo violin, cello tremolo, viola, bowed cymbal — VSCO 2 CE (CC0); built 15 Oct 2026 | CC0 || `winchester.mp3` | #0397 *Shot of Winchester Magnum XTR*, open air | CC0 |
 | `steam-whistle.mp3` | #0226 *Whistling train #2*, distanced | CC0 |
 | `cart.mp3` | #1854 *Horse walking on a path* + #1316 *Handling devil* (wheels on a path, pitched down) + #2516 *Squeaky wheelbarrow* (the axle) | CC0 |
+
+
+## The train, chapter 1 (17 Oct 2026) — BigSoundBank, CC0
+- train-run.mp3 — #3018 Steam Locomotive #2 (running, recorded from the first car, Martel, France), 15–221 s, looped with a 4 s seam, high-passed 45 Hz
+- loco-whistle.mp3 — #3011 Whistle of a steam train (Martel)
+- loco-whistle-short.mp3 — #3019 Whistle of a steam train (Martel)
+- loco-whistle-far.mp3 — #0226 Whistling train #2, low-passed 2.8 kHz (distant)
+- steam-hiss.mp3 — #0228 Hiss of Steam Train #2 (Museum of Lost Sounds)

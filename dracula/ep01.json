@@ -55,14 +55,35 @@
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
       "text": "3 May. Bistritz. —Left Munich at 8:35 P. M. , on 1st May, arriving at\nVienna early next morning; should have arrived at 6:46, but train was an\nhour late. Buda-Pesth seems a wonderful place, from the glimpse which I\ngot of it from the train and the little I could walk through the\nstreets. I feared to go very far from the station, as we had arrived\nlate and would start as near the correct time as possible. The\nimpression I had was that we were leaving the West and entering the\nEast; the most western of splendid bridges over the Danube, which is\nhere of noble width and depth, took us among the traditions of Turkish\nrule.",
-      "audio": "https://ianingram.github.io/Amenti-Readings/dracula/sound/drac1-train-3-v1.mp3"
+      "audio": "https://ianingram.github.io/Amenti-Readings/dracula/sound/drac1-train-3-v1.mp3",
+      "score": {
+        "key": "train_run",
+        "xfade": 4
+      },
+      "sfx": [
+        "loco_whistle"
+      ]
     },
     {
       "n": 5,
       "para": 4,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
-      "text": "We left in pretty good time, and came after nightfall to Klausenburgh.\nHere I stopped for the night at the Hotel Royale. I had for dinner, or\nrather supper, a chicken done up some way with red pepper, which was\nvery good but thirsty. ( Mem. , get recipe for Mina.) I asked the\nwaiter, and he said it was called “paprika hendl,” and that, as it was a\nnational dish, I should be able to get it anywhere along the\nCarpathians. I found my smattering of German very useful here; indeed, I\ndon’t know how I should be able to get on without it."
+      "text": "We left in pretty good time, and came after nightfall to Klausenburgh.\nHere I stopped for the night at the Hotel Royale. I had for dinner, or\nrather supper, a chicken done up some way with red pepper, which was\nvery good but thirsty. ( Mem. , get recipe for Mina.) I asked the\nwaiter, and he said it was called “paprika hendl,” and that, as it was a\nnational dish, I should be able to get it anywhere along the\nCarpathians. I found my smattering of German very useful here; indeed, I\ndon’t know how I should be able to get on without it.",
+      "sfx": [
+        "loco_whistle_short",
+        {
+          "key": "steam_hiss",
+          "at": "came after nightfall to Klausenburgh"
+        }
+      ],
+      "score": [
+        {
+          "key": null,
+          "at": "came after nightfall to Klausenburgh",
+          "xfade": 7
+        }
+      ]
     },
     {
       "n": 6,
@@ -91,14 +112,58 @@
       "para": 8,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
-      "text": "All day long we seemed to dawdle through a country which was full of\nbeauty of every kind. Sometimes we saw little towns or castles on the\ntop of steep hills such as we see in old missals; sometimes we ran by\nrivers and streams which seemed from the wide stony margin on each side\nof them to be subject to great floods. It takes a lot of water, and\nrunning strong, to sweep the outside edge of a river clear. At every\nstation there were groups of people, sometimes crowds, and in all sorts\nof attire. Some of them were just like the peasants at home or those I\nsaw coming through France and Germany, with short jackets and round hats\nand home-made trousers; but others were very picturesque. The women\nlooked pretty, except when you got near them, but they were very clumsy\nabout the waist. They had all full white sleeves of some kind or other,\nand most of them had big belts with a lot of strips of something\nfluttering from them like the dresses in a ballet, but of course there\nwere petticoats under them. The strangest figures we saw were the\nSlovaks, who were more barbarian than the rest, with their big cow-boy\nhats, great baggy dirty-white trousers, white linen shirts, and enormous\nheavy leather belts, nearly a foot wide, all studded over with brass\nnails. They wore high boots, with their trousers tucked into them, and\nhad long black hair and heavy black moustaches. They are very\npicturesque, but do not look prepossessing. On the stage they would be\nset down at once as some old Oriental band of brigands. They are,\nhowever, I am told, very harmless and rather wanting in natural\nself-assertion."
+      "text": "All day long we seemed to dawdle through a country which was full of\nbeauty of every kind. Sometimes we saw little towns or castles on the\ntop of steep hills such as we see in old missals; sometimes we ran by\nrivers and streams which seemed from the wide stony margin on each side\nof them to be subject to great floods. It takes a lot of water, and\nrunning strong, to sweep the outside edge of a river clear. At every\nstation there were groups of people, sometimes crowds, and in all sorts\nof attire. Some of them were just like the peasants at home or those I\nsaw coming through France and Germany, with short jackets and round hats\nand home-made trousers; but others were very picturesque. The women\nlooked pretty, except when you got near them, but they were very clumsy\nabout the waist. They had all full white sleeves of some kind or other,\nand most of them had big belts with a lot of strips of something\nfluttering from them like the dresses in a ballet, but of course there\nwere petticoats under them. The strangest figures we saw were the\nSlovaks, who were more barbarian than the rest, with their big cow-boy\nhats, great baggy dirty-white trousers, white linen shirts, and enormous\nheavy leather belts, nearly a foot wide, all studded over with brass\nnails. They wore high boots, with their trousers tucked into them, and\nhad long black hair and heavy black moustaches. They are very\npicturesque, but do not look prepossessing. On the stage they would be\nset down at once as some old Oriental band of brigands. They are,\nhowever, I am told, very harmless and rather wanting in natural\nself-assertion.",
+      "score": [
+        {
+          "key": "train_run",
+          "xfade": 6
+        },
+        {
+          "key": null,
+          "at": "At every station there were groups of people",
+          "xfade": 5
+        },
+        {
+          "key": "train_run",
+          "at": "The strangest figures we saw",
+          "xfade": 6
+        }
+      ],
+      "sfx": [
+        "loco_whistle_far",
+        {
+          "key": "loco_whistle",
+          "at": "sometimes we ran by rivers and streams"
+        },
+        {
+          "key": "steam_hiss",
+          "at": "At every station there were groups of people"
+        },
+        {
+          "key": "loco_whistle_short",
+          "at": "The strangest figures we saw"
+        }
+      ]
     },
     {
       "n": 10,
       "para": 9,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
-      "text": "It was on the dark side of twilight when we got to Bistritz, which is a\nvery interesting old place. Being practically on the frontier—for the\nBorgo Pass leads from it into Bukovina—it has had a very stormy\nexistence, and it certainly shows marks of it. Fifty years ago a series\nof great fires took place, which made terrible havoc on five separate\noccasions. At the very beginning of the seventeenth century it underwent\na siege of three weeks and lost 13,000 people, the casualties of war\nproper being assisted by famine and disease."
+      "text": "It was on the dark side of twilight when we got to Bistritz, which is a\nvery interesting old place. Being practically on the frontier—for the\nBorgo Pass leads from it into Bukovina—it has had a very stormy\nexistence, and it certainly shows marks of it. Fifty years ago a series\nof great fires took place, which made terrible havoc on five separate\noccasions. At the very beginning of the seventeenth century it underwent\na siege of three weeks and lost 13,000 people, the casualties of war\nproper being assisted by famine and disease.",
+      "score": [
+        {
+          "key": null,
+          "at": "when we got to Bistritz",
+          "xfade": 6
+        }
+      ],
+      "sfx": [
+        {
+          "key": "steam_hiss",
+          "at": "when we got to Bistritz"
+        }
+      ]
     },
     {
       "n": 11,

@@ -1,0 +1,171 @@
+{
+ "work": "dracula",
+ "base": "art/",
+ "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage.",
+ "episodes": {
+  "2": [
+   {
+    "from": 1,
+    "caption": "Castle Dracula · 5 May",
+    "images": [
+     "ch02-a1-2.jpg",
+     "ch02-a1-4.jpg",
+     "ch02-a1-1.jpg",
+     "ch02-a1-3.jpg"
+    ]
+   },
+   {
+    "from": 4,
+    "caption": "The great door",
+    "images": [
+     "ch02-a2-3.jpg",
+     "ch02-a2-1.jpg",
+     "ch02-a2-2.jpg",
+     "ch02-a2-4.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "caption": "",
+    "images": [
+     "ch02-a3-4.jpg",
+     "ch02-a3-2.jpg",
+     "ch02-a3-1.jpg",
+     "ch02-a3-3.jpg"
+    ]
+   },
+   {
+    "from": 6,
+    "caption": "The Count",
+    "cut": true,
+    "images": [
+     "ch02-b1-3.jpg",
+     "ch02-b1-2.jpg",
+     "ch02-b1-4.jpg"
+    ]
+   },
+   {
+    "from": 8,
+    "caption": "Enter freely",
+    "images": [
+     "ch02-b2-2.jpg",
+     "ch02-b2-1.jpg",
+     "ch02-b2-3.jpg",
+     "ch02-b2-4.jpg"
+    ]
+   },
+   {
+    "from": 11,
+    "caption": "",
+    "images": [
+     "ch02-b3-1.jpg"
+    ]
+   },
+   {
+    "from": 14,
+    "caption": "",
+    "images": [
+     "ch02-b1-4.jpg",
+     "ch02-b1-2.jpg"
+    ]
+   },
+   {
+    "from": 20,
+    "caption": "Supper · the great fireplace",
+    "images": [
+     "ch02-e1-1.jpg",
+     "ch02-e1-3.jpg"
+    ]
+   },
+   {
+    "from": 26,
+    "caption": "",
+    "images": [
+     "ch02-e1-4.jpg",
+     "ch02-e1-2.jpg"
+    ]
+   },
+   {
+    "from": 27,
+    "caption": "",
+    "images": [
+     "ch02-e2-4.jpg",
+     "ch02-e2-3.jpg"
+    ]
+   },
+   {
+    "from": 28,
+    "caption": "The children of the night",
+    "cut": true,
+    "images": [
+     "ch02-e3-2.jpg",
+     "ch02-e3-1.jpg",
+     "ch02-e3-3.jpg",
+     "ch02-e3-4.jpg"
+    ]
+   },
+   {
+    "from": 35,
+    "images": []
+   },
+   {
+    "from": 82,
+    "caption": "8 May · the shaving glass",
+    "images": [
+     "ch02-h1-2.jpg",
+     "ch02-h1-4.jpg",
+     "ch02-h1-1.jpg",
+     "ch02-h1-3.jpg"
+    ]
+   },
+   {
+    "from": 85,
+    "caption": "No reflection",
+    "cut": true,
+    "images": [
+     "ch02-h2-1.jpg",
+     "ch02-h2-3.jpg",
+     "ch02-h2-4.jpg",
+     "ch02-h2-2.jpg"
+    ]
+   },
+   {
+    "from": 91,
+    "caption": "",
+    "images": [
+     "ch02-h3-3.jpg",
+     "ch02-h3-4.jpg",
+     "ch02-h3-2.jpg",
+     "ch02-h3-1.jpg"
+    ]
+   },
+   {
+    "from": 92,
+    "caption": "The view",
+    "images": [
+     "ch02-i1-4.jpg",
+     "ch02-i1-3.jpg",
+     "ch02-i1-1.jpg",
+     "ch02-i1-2.jpg"
+    ]
+   },
+   {
+    "from": 93,
+    "caption": "Doors, doors, doors",
+    "images": [
+     "ch02-i2-3.jpg",
+     "ch02-i2-1.jpg",
+     "ch02-i2-2.jpg"
+    ]
+   },
+   {
+    "from": 94,
+    "caption": "A prisoner",
+    "cut": true,
+    "images": [
+     "ch02-i2-4.jpg"
+    ]
+   }
+  ]
+ }
+}

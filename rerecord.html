@@ -19,7 +19,7 @@
 <body>
 <main>
   <h1>Re-record Lines</h1>
-  <p>Dracula, the closing Note: the heading “NOTE”, in two short phrases so the word can be cut out cleanly.</p>
+  <p>Dracula chapters 18–27: the ten short narrator tails, each recorded with the clause before it so it can be spliced onto its paragraph instead of coming back as an invented sentence.</p>
   <button id="go" disabled>Record</button>
   <div id="log"></div>
 </main>
@@ -27,7 +27,8 @@
 <script src="https://ianingram.github.io/Amenti-Readings/player/reader.js"></script>
 <script src="https://ianingram.github.io/Amenti-Readings/player/casting.js"></script>
 <script>
-/* RE-RECORD · 16 Oct 2026 (later): the closing Note of Dracula — 3 carriers + 4 new lines.
+/* RE-RECORD · 16 Oct 2026 (evening): Dracula ch 18–27 — 10 short tails with their clauses, for splicing.
+   Earlier: the closing Note of Dracula — 3 carriers + 4 new lines.
    Earlier 16 Oct: Dracula ch 6–17 after QA — 10 carrier phrases (voice + style given, cut and baked by Claude) and the 11 pieces the run missed.
    15 Oct (evening): the 14 short tails of Dracula ch 6–17, each with its clause, for splicing.
    Earlier the same day: Dracula ep04 cue 75 and Carol ep01 cue 172 (0-based 74, 171). F.work picks the production (default quo-vadis).
@@ -36,7 +37,7 @@
    sends it (same text, style and voice, so the same archive key) with ?fresh=1, which replaces
    the stored take. A take whose length cannot fit its words is tried again, up to three times. */
 (function () {
-  var FIX = [{"work": "dracula", "ch": 27, "cue": 99, "text": "And now, a note.", "voice": "Iapetus", "style": "Read clearly, in a measured, dignified tone. Accent and dialect: Anglo-Irish, gothic and atmospheric. Voice character: haunted and hollow. Speak at a brisk, lively, natural pace, as a person speaking energetically — not slow or ponderous", "label": "Chapter 27, line 100", "why": "“NOTE” was skipped in the first carrier; carrier 1"}, {"work": "dracula", "ch": 27, "cue": 99, "text": "Note, by Jonathan Harker.", "voice": "Iapetus", "style": "Read clearly, in a measured, dignified tone. Accent and dialect: Anglo-Irish, gothic and atmospheric. Voice character: haunted and hollow. Speak at a brisk, lively, natural pace, as a person speaking energetically — not slow or ponderous", "label": "Chapter 27, line 100", "why": "“NOTE” — carrier 2"}];
+  var FIX = [{"work": "dracula", "ch": 18, "cue": 90, "text": "and, though it was a bitter pill for me to swallow, I could say nothing, save to accept their chivalrous care of me.", "why": "short tail — recorded with its clause, to splice"}, {"work": "dracula", "ch": 18, "cue": 96, "text": "I was busy just at the moment. The attendant added:", "why": "short tail — recorded with its clause, to splice"}, {"work": "dracula", "ch": 19, "cue": 2, "text": "she may well feel that her part is finished, and that she can henceforth leave the rest to us.", "why": "short tail — recorded with its clause, to splice"}, {"work": "dracula", "ch": 19, "cue": 12, "text": "sorting them into four little groups, evidently one for each. Then he spoke:", "why": "short tail — recorded with its clause, to splice"}, {"work": "dracula", "ch": 19, "cue": 30, "text": "and the long disuse had made the air stagnant and foul.", "why": "short tail — recorded with its clause, to splice"}, {"work": "dracula", "ch": 20, "cue": 48, "text": "she will be herself at home in Exeter. Oh, but I am sleepy!", "why": "short tail — recorded with its clause, to splice"}, {"work": "dracula", "ch": 25, "cue": 110, "text": "which he may not take away altogether—though he think not so.", "why": "short tail — recorded with its clause, to splice"}, {"work": "dracula", "ch": 25, "cue": 114, "text": "since he knew that he alone could ultimately triumph.", "why": "short tail — recorded with its clause, to splice"}, {"work": "dracula", "ch": 26, "cue": 88, "text": "and find our way to the Castle of Dracula.", "why": "short tail — recorded with its clause, to splice"}, {"work": "dracula", "ch": 27, "cue": 44, "text": "huge it was, and nobly proportioned. On it was but one word", "why": "short tail — recorded with its clause, to splice"}];
   var VOICE = 'https://amenti-proxy.ingram-ian.workers.dev/speak';
   var R = window.Amenti && window.Amenti.reading, E = window.Amenti && window.Amenti.throttle;
   var $ = function (id) { return document.getElementById(id); };

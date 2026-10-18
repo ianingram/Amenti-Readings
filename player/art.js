@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/art.js · 2026-10-17 */
+/* Amenti-Readings/player/art.js · 2026-10-17 · exhibits */
 /* ===========================================================================
    AMENTI READINGS · art.js — the pictures under a reading
    ---------------------------------------------------------------------------
@@ -30,6 +30,13 @@
    running; paused, everything holds still. There are no word timings, so a
    scene is placed on the cue where its moment begins.
 
+   ── EXHIBITS ── maps from the Dossier, shown over the pictures ─────────────
+   "exhibits": { "1": [ { "at": 4, "src": "dossier/borgo-pass.html", "legs": "0-1" }, … ] }
+   When the reading arrives at cue "at", the page is opened full screen over the
+   pictures (with ?embed&legs=…), plays, says "done", and fades away; the
+   pictures carry on underneath. Pausing the reading pauses the map. A page
+   that never says done is closed after "max" seconds of reading (default 40).
+
    ── VIEWER CONTROL ────────────────────────────────────────────────────────
    A small "pictures" button turns the layer off and on; the choice is
    remembered in this browser only (try/catch — it may not be available).
@@ -48,6 +55,7 @@
   var stage = null, cap = null, tog = null;
   var cur = { key: '', scene: null, k: 0, since: 0, layer: null };
   var off = false, shown = false, lastTick = 0, flip = 0;
+  var ex = null, lastN = null;   /* the open exhibit: {el, frame, at, run, paused} */
   try { off = localStorage.getItem('amenti-art-off') === '1'; } catch (e) {}
 
   function css() {
@@ -72,6 +80,9 @@
       + 'font:11px/1.4 Georgia,serif;letter-spacing:.24em;text-transform:uppercase;color:#e8dcc0;'
       + 'text-shadow:0 1px 14px rgba(0,0,0,.9);opacity:0;transition:opacity 1.6s ease;max-width:70vw;text-align:right;}'
       + '#amenti-art .art-cap.on{opacity:.85;}'
+      + '#amenti-exhibit{position:fixed;inset:0;z-index:1850;background:#05070a;opacity:0;transition:opacity 1.2s ease;}'
+      + '#amenti-exhibit.on{opacity:1;}'
+      + '#amenti-exhibit iframe{position:absolute;inset:0;width:100%;height:100%;border:0;background:#05070a;}'
       + '#amenti-art-tog{position:fixed;right:16px;bottom:16px;z-index:1950;display:none;'
       + 'background:rgba(7,9,12,.55);border:1px solid rgba(212,160,23,.35);color:#d4a017;'
       + 'font:9px/1 Georgia,serif;letter-spacing:.24em;text-transform:uppercase;padding:9px 12px;cursor:pointer;}'
@@ -135,6 +146,42 @@
     }
   }
 
+  function openExhibit(work, art, x, key) {
+    closeExhibit(true);
+    css();
+    var el = document.createElement('div'); el.id = 'amenti-exhibit';
+    var fr = document.createElement('iframe'); fr.title = 'Map'; fr.setAttribute('loading', 'eager');
+    fr.src = url(work, { base: '' }, x.src) + (x.src.indexOf('?') < 0 ? '?' : '&') + 'embed=1' + (x.legs != null ? '&legs=' + x.legs : '');
+    el.appendChild(fr); document.body.appendChild(el);
+    ex = { el: el, frame: fr, key: key, at: x.at, run: 0, max: x.max || 40, paused: false };
+    void el.offsetWidth; el.classList.add('on');
+  }
+  function closeExhibit(now) {
+    if (!ex) return;
+    var el = ex.el; ex = null;
+    el.classList.remove('on');
+    setTimeout(function () { if (el.parentNode) el.parentNode.removeChild(el); }, now ? 0 : 1300);
+  }
+  function tellExhibit(msg) { try { ex.frame.contentWindow.postMessage({ amentiMap: msg }, '*'); } catch (e) {} }
+  window.addEventListener('message', function (ev) {
+    if (ex && ev.data && ev.data.amentiMap === 'done' && ev.source === ex.frame.contentWindow) closeExhibit(false);
+  });
+
+  function exhibits(work, art, sh, n, dt) {
+    var xs = (art.exhibits && art.exhibits[String(sh.episode)]) || [];
+    if (n !== lastN) {
+      var prev = lastN; lastN = n;
+      if (ex && (n < ex.at)) closeExhibit(false);                 /* sought back before it */
+      for (var j = 0; j < xs.length; j++) if (xs[j].at === n) {
+        openExhibit(work, art, xs[j], work + ':' + sh.episode + ':x' + n); break;
+      }
+    }
+    if (!ex) return;
+    var p = R.state !== 'reading';
+    if (p !== ex.paused) { ex.paused = p; tellExhibit(p ? 'pause' : 'resume'); }
+    if (!p) { ex.run += dt; if (ex.run > ex.max) closeExhibit(false); }
+  }
+
   function hideStage() {
     if (stage && shown) { stage.classList.remove('on'); shown = false; }
     cur.key = ''; cur.scene = null;
@@ -145,11 +192,13 @@
     var sh = R.sheet, work = sh && sh.work, art = live ? sheetFor(work) : null;
     var list = art && art.episodes && art.episodes[String(sh.episode)];
     if (tog) tog.classList.toggle('on', !!(live && list));
-    if (!live || !list || off) { hideStage(); return; }
+    if (!live || !list || off) { hideStage(); closeExhibit(false); lastN = null; return; }
     build();
     var cues = sh.cues || [], c = cues[Math.min(R.i, cues.length - 1)] || {};
     var n = c.n || (R.i + 1), sc = sceneAt(list, n);
     stage.classList.toggle('hold', R.state !== 'reading');
+    var tnow = Date.now() / 1000;
+    exhibits(work, art, sh, n, lastTick ? Math.min(1, tnow - lastTick) : 0);
     if (!sc) { hideStage(); return; }
     var now = Date.now() / 1000, key = work + ':' + sh.episode + ':' + sc.from;
     if (key !== cur.key) {

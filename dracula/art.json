@@ -393,5 +393,34 @@
     ]
    }
   ]
+ },
+ "exhibits": {
+  "1": [
+   {
+    "at": 4,
+    "src": "dossier/borgo-pass.html",
+    "legs": "0-1"
+   },
+   {
+    "at": 5,
+    "src": "dossier/borgo-pass.html",
+    "legs": "2"
+   },
+   {
+    "at": 9,
+    "src": "dossier/borgo-pass.html",
+    "legs": "3"
+   },
+   {
+    "at": 29,
+    "src": "dossier/borgo-pass.html",
+    "legs": "4"
+   },
+   {
+    "at": 46,
+    "src": "dossier/borgo-pass.html",
+    "legs": "5"
+   }
+  ]
  }
 }

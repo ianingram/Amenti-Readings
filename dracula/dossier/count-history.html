@@ -215,30 +215,30 @@ var S=[];
 function stage(o){o.g=el('g',{'class':'st'});S.push(o);return o.g;}
 var g;
 /* cue 6 */
-g=stage({cue:6,w:1,head:'We Szekelys',q:'We Szekelys have a right to be proud, for in our veins flows the blood of many brave races who fought as the lion fights, for lordship.'});
+g=stage({cue:6,w:1,t:0.3,abs:0.3,head:'We Szekelys',q:'We Szekelys have a right to be proud, for in our veins flows the blood of many brave races who fought as the lion fights, for lordship.'});
 el('path',{d:smooth(pts([[25.0,46.95],[25.65,47.05],[26.15,46.7],[26.3,46.2],[26.0,45.85],[25.45,45.8],[25.05,46.1],[24.9,46.55],[25.0,46.95]]))+'Z',fill:'#9e2222','fill-opacity':.16,stroke:'#7d1410','stroke-width':2,'stroke-dasharray':'6 5'},g);
 txt('SZEKELYS',P(25.62,46.38)[0],P(25.62,46.38)[1],'region',{'font-size':19,'text-anchor':'middle',fill:'#7d1410'},g);
-g=stage({cue:6,w:34,head:'The Ugric tribe',q:'Here, in the whirlpool of European races, the Ugric tribe bore down from Iceland the fighting spirit which Thor and Wodin gave them.'});
+g=stage({cue:6,w:34,t:15.2,abs:15.2,head:'The Ugric tribe',q:'Here, in the whirlpool of European races, the Ugric tribe bore down from Iceland the fighting spirit which Thor and Wodin gave them.'});
 arrow(g,[[11.4,50.7],[14.5,49.9],[17.6,48.9],[20.2,47.9]],9);
 txt('the Ugric tribe, “from Iceland”',P(11.8,50.25)[0],P(11.8,50.25)[1],'thin halo',{'font-size':22},g);
-g=stage({cue:6,w:85,head:'The Huns',q:'Here, too, when they came, they found the Huns, whose warlike fury had swept the earth like a living flame.'});
+g=stage({cue:6,w:85,t:43.8,abs:43.8,head:'The Huns',q:'Here, too, when they came, they found the Huns, whose warlike fury had swept the earth like a living flame.'});
 txt('SCYTHIA',P(34.4,49.95)[0],P(33.6,48.6)[1],'region',{'font-size':30,'text-anchor':'middle'},g);
 arrow(g,[[36.8,47.6],[32.6,46.95],[29.7,45.95],[27.6,44.85],[24.6,44.3],[22.0,44.65],[20.9,45.6],[20.45,46.55]],14);
 txt('the Huns, out of Scythia · 4th–5th c.',P(31.4,45.5)[0],P(31.4,45.5)[1],'thin halo',{'font-size':22,'text-anchor':'middle'},g);
-g=stage({cue:6,w:140,head:'Attila',q:'What devil or what witch was ever so great as Attila, whose blood is in these veins?'});
+g=stage({cue:6,w:140,t:67.0,abs:67.0,head:'Attila',q:'What devil or what witch was ever so great as Attila, whose blood is in these veins?'});
 (function(){var p=P(20.25,46.85);el('path',{d:'M'+(p[0]-16)+' '+(p[1]+8)+' l4 -18 l7 10 l5 -14 l5 14 l7 -10 l4 18 z',fill:'#c9a050',stroke:'#3b2a17','stroke-width':2},g);
   txt('Attila’s court',p[0]-22,p[1]-30,'thin halo',{'font-size':22,'text-anchor':'end'},g);txt('on the Tisza plain · 5th c.',p[0]-22,p[1]-6,'thin halo',{'font-size':20,'text-anchor':'end'},g);})();
 /* cue 8 */
-g=stage({cue:8,w:16,head:'On our frontiers',q:'when the Magyar, the Lombard, the Avar, the Bulgar, or the Turk poured his thousands on our frontiers, we drove them back'});
+g=stage({cue:8,w:16,t:6.3,abs:79.7,head:'On our frontiers',q:'when the Magyar, the Lombard, the Avar, the Bulgar, or the Turk poured his thousands on our frontiers, we drove them back'});
 [[[[27.4,49.5],[26.2,48.6],[25.3,47.95]],'Magyar',[27.6,49.7],'start'],[[[14.2,46.3],[16.3,46.6],[18.6,46.4]],'Lombard',[14.0,45.9],'start'],
  [[[33.6,48.5],[30.6,48.0],[27.9,47.25]],'Avar',[33.9,48.85],'middle'],[[[28.75,42.85],[27.5,43.25],[26.35,43.62]],'Bulgar',[28.9,42.75],'start'],
  [[[28.9,41.35],[27.0,42.5],[25.4,43.5]],'Turk',[28.6,41.75],'middle']].forEach(function(a){arrow(g,a[0],7,'#2a1d12');var p=P(a[2][0],a[2][1]);txt(a[1],p[0],p[1],'lbl halo',{'font-size':24,'font-style':'italic','text-anchor':a[3]},g);});
-g=stage({cue:8,w:42,head:'Arpad · the Honfoglalás',q:'when Arpad and his legions swept through the Hungarian fatherland he found us here when he reached the frontier; that the Honfoglalas was completed there'});
+g=stage({cue:8,w:42,t:17.6,abs:91.1,head:'Arpad · the Honfoglalás',q:'when Arpad and his legions swept through the Hungarian fatherland he found us here when he reached the frontier; that the Honfoglalas was completed there'});
 arrow(g,[[24.0,50.7],[23.3,49.5],[23.15,48.85],[22.4,48.2],[21.0,47.6],[19.6,47.2]],12);
 (function(){var p=P(23.15,48.85);el('circle',{cx:p[0],cy:p[1],r:6,fill:'#efe4c8',stroke:'#3b2a17','stroke-width':2.4},g);
   txt('the Verecke Pass',p[0]+14,p[1]+6,'thin halo',{'font-size':20},g);
   var q=P(24.35,50.35);txt('Arpad’s Magyars · 895',q[0],q[1],'thin halo',{'font-size':22},g);txt('the Honfoglalás, “the taking of the land”',q[0],q[1]+24,'thin halo',{'font-size':19},g);})();
-g=stage({cue:8,w:93,head:'The frontier of Turkey-land',pic:'szekely',q:'to us for centuries was trusted the guarding of the frontier of Turkey-land; ay, and more than that, endless duty of the frontier guard'});
+g=stage({cue:8,w:93,t:42.0,abs:115.4,head:'The frontier of Turkey-land',pic:'szekely',q:'to us for centuries was trusted the guarding of the frontier of Turkey-land; ay, and more than that, endless duty of the frontier guard'});
 (function(){var d=smooth(pts([[24.6,47.75],[25.5,47.45],[26.15,46.85],[26.45,46.1],[25.9,45.55],[24.9,45.45],[23.9,45.45],[22.8,45.2]]));
   el('path',{d:d,fill:'none',stroke:'#f4ecd6','stroke-width':9,opacity:.8},g);
   el('path',{d:d,fill:'none',stroke:'#3b2a17','stroke-width':3.2},g);
@@ -248,22 +248,22 @@ g=stage({cue:8,w:93,head:'The frontier of Turkey-land',pic:'szekely',q:'to us fo
   var t=P(25.52,47.44),m=el('g',{'class':'mark',tabindex:0,role:'button','aria-label':'The Szekely frontier',transform:'translate('+t[0]+' '+t[1]+')'},g);
   el('circle',{r:17,fill:'#efe4c8',stroke:'#3b2a17','stroke-width':2.4},m);el('path',{d:'M-7 9 V-6 h3 v-4 h3 v4 h2 v-4 h3 v4 h3 V9 z',fill:'#2a1d12'},m);
   CARDS.szekely.g=m;m.addEventListener('click',function(){showCard(CARDS.szekely,true);});})();
-g=stage({cue:8,w:157,head:'Cassova, 1389',pic:'cassova',q:'that great shame of my nation, the shame of Cassova, when the flags of the Wallach and the Magyar went down beneath the Crescent'});
+g=stage({cue:8,w:157,t:70.6,abs:144.1,head:'Cassova, 1389',pic:'cassova',q:'that great shame of my nation, the shame of Cassova, when the flags of the Wallach and the Magyar went down beneath the Crescent'});
 swords(g,21.08,42.72,CARDS.cassova);
 (function(){var p=P(21.08,42.72);txt('Cassova · 1389',p[0]+28,p[1]+8,'lbl halo',{'font-size':28},g);
   el('path',{d:'M'+(p[0]-46)+' '+(p[1]-6)+' a12 12 0 1 0 0 -18 a9 9 0 1 1 0 18 z',fill:'#9e2222',opacity:.85},g);})();
-g=stage({cue:8,w:184,head:'The Voivode crosses the Danube',pic:'danube',q:'Who was it but one of my own race who as Voivode crossed the Danube and beat the Turk on his own ground? This was a Dracula indeed!'});
+g=stage({cue:8,w:184,t:81.0,abs:154.5,head:'The Voivode crosses the Danube',pic:'danube',q:'Who was it but one of my own race who as Voivode crossed the Danube and beat the Turk on his own ground? This was a Dracula indeed!'});
 (function(){var t=P(25.46,44.93);el('circle',{cx:t[0],cy:t[1],r:6,fill:'#efe4c8',stroke:'#3b2a17','stroke-width':2.4},g);
   txt('Tirgovishte',t[0]+10,t[1]-10,'thin halo',{'font-size':20},g);
   arrow(g,[[25.46,44.93],[25.8,44.3],[25.97,43.75],[26.8,43.95],[27.3,44.0],[28.0,44.15],[28.7,44.6]],13,'#9e2222');
   swords(g,25.97,43.88,CARDS.danube);
   var p=P(26.35,44.55);txt('the Voivode Dracula',p[0],p[1],'lbl halo',{'font-size':25,'font-style':'italic'},g);txt('over the Danube · 1462',p[0],p[1]+26,'thin halo',{'font-size':21},g);})();
-g=stage({cue:8,w:244,head:'Again, and again',q:'who in a later age again and again brought his forces over the great river into Turkey-land; who, when he was beaten back, came again, and again, and again'});
+g=stage({cue:8,w:244,t:104.5,abs:178.0,head:'Again, and again',q:'who in a later age again and again brought his forces over the great river into Turkey-land; who, when he was beaten back, came again, and again, and again'});
 [[22.9,44.25,23.1,43.45],[24.0,44.2,24.2,43.4],[25.1,44.15,25.3,43.4]].forEach(function(a){arrow(g,[[a[0],a[1]],[a[2],a[3]]],7,'#9e2222');});
-g=stage({cue:8,w:327,head:'Mohács, 1526',pic:'mohacs',q:'when, after the battle of Mohács, we threw off the Hungarian yoke, we of the Dracula blood were amongst their leaders'});
+g=stage({cue:8,w:327,t:144.5,abs:217.9,head:'Mohács, 1526',pic:'mohacs',q:'when, after the battle of Mohács, we threw off the Hungarian yoke, we of the Dracula blood were amongst their leaders'});
 swords(g,18.68,45.99,CARDS.mohacs);
 (function(){var p=P(18.68,45.99);txt('Mohács · 1526',p[0]-28,p[1]+8,'lbl halo',{'font-size':28,'text-anchor':'end'},g);})();
-g=stage({cue:8,w:378,head:'Mushroom growths',q:'the Szekelys—and the Dracula as their heart’s blood, their brains, and their swords—can boast a record that mushroom growths like the Hapsburgs and the Romanoffs can never reach'});
+g=stage({cue:8,w:378,t:168.0,abs:241.5,head:'Mushroom growths',q:'the Szekelys—and the Dracula as their heart’s blood, their brains, and their swords—can boast a record that mushroom growths like the Hapsburgs and the Romanoffs can never reach'});
 (function(){var v=P(16.37,48.21);txt('the Hapsburgs',v[0]-10,v[1]+28,'thin halo',{'font-size':22,'text-anchor':'end'},g);
   var r=P(36.6,50.55);txt('the Romanoffs →',r[0],r[1],'thin halo',{'font-size':22,'text-anchor':'end'},g);})();
 
@@ -293,7 +293,7 @@ var quote=document.getElementById('quote'),box=document.getElementById('legs'),c
 S.forEach(function(s,i){var c=document.createElement('article');c.className='stage';c.tabIndex=0;
   c.innerHTML='<div class="when"></div><h2></h2><blockquote></blockquote>';
   c.querySelector('.when').textContent=(s.cue===6?'The Count, I':'The Count, II');c.querySelector('h2').textContent=s.head;c.querySelector('blockquote').textContent='“'+s.q+'”';
-  c.onclick=c.onkeydown=function(e){if(e.type==='keydown'&&e.key!=='Enter'&&e.key!==' ')return;e.preventDefault&&e.preventDefault();stopPlay();showTo(i,true);};
+  c.onclick=c.onkeydown=function(e){if(e.type==='keydown'&&e.key!=='Enter'&&e.key!==' ')return;e.preventDefault&&e.preventDefault();if(!aud.paused){aud.currentTime=Math.max(0,s.abs-0.3);showTo(i,false);}else{showTo(i,true);}};
   box.appendChild(c);s.card=c;});
 function drawArrows(s,on,instant){ARROWS.forEach(function(A){if(A.g!==s.g)return;A.ps.forEach(function(p){
   p.style.transition=(on&&!instant&&!reduce)?'stroke-dashoffset 2.4s cubic-bezier(.45,0,.25,1)':'none';p.style.strokeDashoffset=on?0:A.len;});});}
@@ -306,17 +306,22 @@ function showTo(i,fromClick){var instant=fromClick;
       if(s.pic&&CARDS[s.pic])showCard(CARDS[s.pic],!!fromClick);else if(!fromClick)hideCard();}
     else{quote.classList.remove('on');}}}
 /* the player's clock: time since the current cue began, held while paused */
-var RATE=2.45;   /* words a second — the Count's voice, about 147 a minute */
+/* t = seconds into the cue where he names it, measured from the archived recording of the reading */
 var clock={cue:null,t:0,paused:false,last:0};
 function tick(){var now=performance.now()/1000;if(!clock.paused&&clock.last)clock.t+=now-clock.last;clock.last=now;
-  if(clock.cue==null)return;var w=clock.t*RATE,k=-1;
-  S.forEach(function(s,j){if(s.cue<clock.cue||(s.cue===clock.cue&&s.w<=w+1))k=j;});
+  if(clock.cue==null)return;var k=-1;
+  S.forEach(function(s,j){if(s.cue<clock.cue||(s.cue===clock.cue&&s.t<=clock.t+0.4))k=j;});
   if(k!==cur&&k>=0)showTo(k,false);}
 var tm=null;function startClock(n){clock.cue=n;clock.t=0;clock.last=performance.now()/1000;if(!tm)tm=setInterval(tick,200);tick();}
-/* "Hear him out": the stages one after another, about nine seconds each */
-var ptm=null;function stopPlay(){clearTimeout(ptm);}
-function play(){stopPlay();clock.cue=null;S.forEach(function(s){s._on=false;s.g.classList.remove('on','dim');drawArrows(s,false,true);});cur=-1;hideCard();
-  var i=0;(function next(){showTo(i,false);i++;if(i<S.length)ptm=setTimeout(next,reduce?4000:9000);})();}
+/* "Hear him out": the Count's own recording from the reading (cues 6–8), the map following it */
+var aud=new Audio('count-speech.mp3');aud.preload='none';var btn=document.getElementById('play'),atm=null;
+function stopPlay(){if(!aud.paused)aud.pause();clearInterval(atm);btn.textContent='Hear him out';}
+function follow(){var k=-1,t=aud.currentTime;S.forEach(function(s,j){if(s.abs<=t+0.4)k=j;});if(k>=0&&k!==cur)showTo(k,false);}
+function play(){if(!aud.paused){stopPlay();return;}
+  if(aud.ended||aud.currentTime===0){clock.cue=null;S.forEach(function(s){s._on=false;s.g.classList.remove('on','dim');drawArrows(s,false,true);});cur=-1;hideCard();aud.currentTime=0;}
+  var p=aud.play();if(p&&p.catch)p.catch(function(){btn.textContent='Hear him out';});
+  btn.textContent='Pause';clearInterval(atm);atm=setInterval(follow,200);}
+aud.addEventListener('ended',function(){clearInterval(atm);btn.textContent='Hear him again';});
 document.getElementById('play').onclick=play;
 
 var qs=new URLSearchParams(location.search);

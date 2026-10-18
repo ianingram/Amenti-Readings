@@ -428,6 +428,18 @@
     "until": 8,
     "src": "dossier/count-history.html"
    }
+  ],
+  "2": [
+   {
+    "at": 68,
+    "until": 69,
+    "src": "dossier/count-atlas.html?view=plan"
+   },
+   {
+    "at": 73,
+    "until": 73,
+    "src": "dossier/count-atlas.html?view=atlas"
+   }
   ]
  }
 }

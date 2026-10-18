@@ -316,6 +316,14 @@ document.getElementById('vPlan').onclick=function(){stopPlay();view('plan');comp
 
 var qs=new URLSearchParams(location.search),embedView=qs.get('view')||'atlas';
 if(qs.has('embed')){document.documentElement.classList.add('embed');view(embedView,true);
+  if(qs.get('mark')==='A'){ /* chapter VIII: Billington's letter — the chapel marked A on his rough diagram */
+    complete('plan');var ga=el('g',{'class':'st on'},zsv);
+    var c=el('circle',{cx:1100,cy:238,r:78,fill:'none',stroke:'#9e2222','stroke-width':4,opacity:.85},ga);drawn(c,ga,1.4);
+    txt('A',1196,212,'plan',{'font-size':64,fill:'#9e2222','font-style':'italic'},ga);
+    setTimeout(function(){c.style.transition='stroke-dashoffset 1.6s ease-out';c.style.strokeDashoffset=0;},600);
+    quote.innerHTML='<b>Billington &amp; Son to Carter, Paterson &amp; Co.</b>';quote.appendChild(document.createTextNode('\u201cYou will please deposit the boxes, fifty in number … in the partially ruined building forming part of the house and marked \u2018A\u2019 on rough diagram enclosed … it is the ancient chapel of the mansion.\u201d'));
+    setTimeout(function(){quote.classList.add('on');},900);
+    return;}
   addEventListener('message',function(ev){var d=ev.data||{};
     if(d.amentiMap==='pause')clock.paused=true;else if(d.amentiMap==='resume')clock.paused=false;
     else if(d.amentiMap==='cue'&&d.n!==clock.cue)startClock(d.n);});

@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/art.js · 2026-10-17 · exhibits */
+/* Amenti-Readings/player/art.js · 2026-10-18 · exhibits · moving pictures */
 /* ===========================================================================
    AMENTI READINGS · art.js — the pictures under a reading
    ---------------------------------------------------------------------------
@@ -20,6 +20,10 @@
    { "base": "art/",
      "episodes": { "2": [ { "from": 1, "caption": "…", "cut": false,
                             "images": ["ch02-a1-2.jpg", …] }, … ] } }
+   An entry ending in .mp4 is a moving picture (a Midjourney clip): it plays
+   silent and on a loop while it is up, freezes while the reading is paused,
+   and crossfades like a painting. The narration, score and effects are
+   untouched — a clip has no sound of its own here.
    A scene starts on the cue whose "n" equals "from" and lasts until the next
    scene. A scene with no images ends the pictures (the reading carries on
    without them). "cut": true changes the picture at once instead of
@@ -127,7 +131,7 @@
   }
 
   function url(work, sheet, f) { return /^https?:/.test(f) ? f : ROOT + work + '/' + (sheet.base || '') + f; }
-  function preload(u) { var im = new Image(); im.src = u; }
+  function preload(u) { if (/\.mp4(\?|$)/i.test(u)) { var v = document.createElement('video'); v.preload = 'auto'; v.muted = true; v.src = u; return; } var im = new Image(); im.src = u; }
 
   function sceneAt(list, n) {
     var s = null;
@@ -135,10 +139,18 @@
     return (s && s.images && s.images.length) ? s : null;
   }
 
+  function isVid(u) { return /\.mp4(\?|$)/i.test(u); }
   function showImage(u, cut, caption) {
-    var l = document.createElement('div');
-    l.className = 'art-l' + (cut ? ' cut' : '') + (still ? '' : ' kb' + (flip++ % 2));
-    l.style.backgroundImage = 'url("' + u + '")';
+    var l = document.createElement('div'), vid = isVid(u);
+    l.className = 'art-l' + (cut ? ' cut' : '') + (still || vid ? '' : ' kb' + (flip++ % 2));
+    if (vid) {
+      var v = document.createElement('video');
+      v.muted = true; v.defaultMuted = true; v.loop = true; v.playsInline = true; v.autoplay = true;
+      v.setAttribute('muted', ''); v.setAttribute('playsinline', ''); v.preload = 'auto'; v.src = u;
+      v.style.cssText = 'position:absolute;inset:0;width:100%;height:100%;object-fit:cover;';
+      l.appendChild(v);
+      try { var pr = v.play(); if (pr && pr.catch) pr.catch(function () {}); } catch (e) {}
+    } else l.style.backgroundImage = 'url("' + u + '")';
     stage.insertBefore(l, cap.previousSibling);   /* under the veil and the caption */
     var old = cur.layer; cur.layer = l;
     void l.offsetWidth; l.classList.add('in');
@@ -202,6 +214,8 @@
     var cues = sh.cues || [], c = cues[Math.min(R.i, cues.length - 1)] || {};
     var n = c.n || (R.i + 1), sc = list ? sceneAt(list, n) : null;
     stage.classList.toggle('hold', R.state !== 'reading');
+    var vs = stage.getElementsByTagName('video');
+    for (var vi = 0; vi < vs.length; vi++) { try { if (R.state === 'reading') { if (vs[vi].paused) { var pp = vs[vi].play(); if (pp && pp.catch) pp.catch(function () {}); } } else if (!vs[vi].paused) vs[vi].pause(); } catch (e) {} }
     var tnow = Date.now() / 1000;
     exhibits(work, art, sh, n, exLast ? Math.min(1, tnow - exLast) : 0); exLast = tnow;
     if (!sc) { hideStage(); return; }

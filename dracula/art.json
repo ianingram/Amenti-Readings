@@ -48,7 +48,7 @@
     "from": 8,
     "caption": "Enter freely",
     "images": [
-     "ch02-b2-2.jpg",
+     "ch02-b2-2.mp4",
      "ch02-b2-1.jpg",
      "ch02-b2-3.jpg",
      "ch02-b2-4.jpg"
@@ -98,7 +98,7 @@
     "caption": "The children of the night",
     "cut": true,
     "images": [
-     "ch02-e3-2.jpg",
+     "ch02-e3-2.mp4",
      "ch02-e3-1.jpg",
      "ch02-e3-3.jpg",
      "ch02-e3-4.jpg"
@@ -192,7 +192,7 @@
     "from": 9,
     "caption": "Through the country",
     "images": [
-     "ch01-d03-1.jpg",
+     "ch01-d03-1.mp4",
      "ch01-d04-3.jpg",
      "ch01-d05-2.jpg",
      "ch01-d06-3.jpg",
@@ -288,7 +288,7 @@
     "from": 34,
     "caption": "Sunset",
     "images": [
-     "ch01-d15-3.jpg",
+     "ch01-d15-3.mp4",
      "ch01-d16-2.jpg",
      "ch01-d15-2.jpg",
      "ch01-d19-1.jpg",
@@ -329,7 +329,7 @@
     "from": 46,
     "caption": "",
     "images": [
-     "ch01-n03-4.jpg",
+     "ch01-n03-4.mp4",
      "ch01-n03-1.jpg",
      "ch01-n03-3.jpg",
      "ch01-n03-2.jpg"
@@ -359,7 +359,7 @@
     "from": 51,
     "caption": "The blue flame",
     "images": [
-     "ch01-n05-1.jpg",
+     "ch01-n05-1.mp4",
      "ch01-n05-4.jpg",
      "ch01-n05-2.jpg",
      "ch01-n05-3.jpg"
@@ -369,7 +369,7 @@
     "from": 52,
     "caption": "The ring of wolves",
     "images": [
-     "ch01-n06-1.jpg",
+     "ch01-n06-1.mp4",
      "ch01-n06-4.jpg",
      "ch01-n06-3.jpg"
     ]
@@ -386,11 +386,45 @@
     "from": 54,
     "caption": "Castle Dracula",
     "images": [
-     "ch01-n08-2.jpg",
+     "ch01-n08-2.mp4",
      "ch01-n08-1.jpg",
      "ch01-n08-3.jpg",
      "ch01-n08-4.jpg"
     ]
+   }
+  ],
+  "7": [
+   {
+    "from": 9,
+    "caption": "8 August · the tempest",
+    "images": [
+     "ch07-storm-1.mp4",
+     "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-3.jpg",
+     "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-2.jpg",
+     "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-4.jpg"
+    ]
+   },
+   {
+    "from": 12,
+    "cut": true,
+    "caption": "Tate Hill Pier · the derelict",
+    "images": [
+     "ch07-wreck-1.mp4",
+     "https://ianingram.github.io/Amenti-Studios/dracula/voyage/wreck-2.jpg",
+     "https://ianingram.github.io/Amenti-Studios/dracula/voyage/wreck-3.jpg",
+     "https://ianingram.github.io/Amenti-Studios/dracula/voyage/wreck-4.jpg"
+    ]
+   },
+   {
+    "from": 18,
+    "caption": "The log of the Demeter",
+    "images": [
+     "ch07-fog-1.mp4"
+    ]
+   },
+   {
+    "from": 40,
+    "images": []
    }
   ]
  },

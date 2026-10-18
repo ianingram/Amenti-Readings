@@ -36,6 +36,9 @@
    pictures (with ?embed&legs=…), plays, says "done", and fades away; the
    pictures carry on underneath. Pausing the reading pauses the map. A page
    that never says done is closed after "max" seconds of reading (default 40).
+   With "until": <cue n> the page stays up from "at" through that cue and is
+   told each cue as the reading reaches it ({amentiMap:'cue', n}) — for a map
+   that follows a long speech; it closes when the reading moves past "until".
 
    ── VIEWER CONTROL ────────────────────────────────────────────────────────
    A small "pictures" button turns the layer off and on; the choice is
@@ -55,7 +58,7 @@
   var stage = null, cap = null, tog = null;
   var cur = { key: '', scene: null, k: 0, since: 0, layer: null };
   var off = false, shown = false, lastTick = 0, flip = 0;
-  var ex = null, lastN = null;   /* the open exhibit: {el, frame, at, run, paused} */
+  var ex = null, lastN = null, exLast = 0;   /* the open exhibit: {el, frame, at, run, paused} */
   try { off = localStorage.getItem('amenti-art-off') === '1'; } catch (e) {}
 
   function css() {
@@ -151,9 +154,9 @@
     css();
     var el = document.createElement('div'); el.id = 'amenti-exhibit';
     var fr = document.createElement('iframe'); fr.title = 'Map'; fr.setAttribute('loading', 'eager');
-    fr.src = url(work, { base: '' }, x.src) + (x.src.indexOf('?') < 0 ? '?' : '&') + 'embed=1' + (x.legs != null ? '&legs=' + x.legs : '');
+    fr.src = url(work, { base: '' }, x.src) + (x.src.indexOf('?') < 0 ? '?' : '&') + 'embed=1' + (x.legs != null ? '&legs=' + x.legs : '') + '&cue=' + x.at;
     el.appendChild(fr); document.body.appendChild(el);
-    ex = { el: el, frame: fr, key: key, at: x.at, run: 0, max: x.max || 40, paused: false };
+    ex = { el: el, frame: fr, key: key, at: x.at, until: x.until || null, run: 0, max: x.max || 40, paused: false };
     void el.offsetWidth; el.classList.add('on');
   }
   function closeExhibit(now) {
@@ -162,7 +165,7 @@
     el.classList.remove('on');
     setTimeout(function () { if (el.parentNode) el.parentNode.removeChild(el); }, now ? 0 : 1300);
   }
-  function tellExhibit(msg) { try { ex.frame.contentWindow.postMessage({ amentiMap: msg }, '*'); } catch (e) {} }
+  function tellExhibit(msg, n) { try { ex.frame.contentWindow.postMessage({ amentiMap: msg, n: n }, '*'); } catch (e) {} }
   window.addEventListener('message', function (ev) {
     if (ex && ev.data && ev.data.amentiMap === 'done' && ev.source === ex.frame.contentWindow) closeExhibit(false);
   });
@@ -171,15 +174,16 @@
     var xs = (art.exhibits && art.exhibits[String(sh.episode)]) || [];
     if (n !== lastN) {
       var prev = lastN; lastN = n;
-      if (ex && (n < ex.at)) closeExhibit(false);                 /* sought back before it */
-      for (var j = 0; j < xs.length; j++) if (xs[j].at === n) {
+      if (ex && (n < ex.at || (ex.until && n > ex.until))) closeExhibit(false);   /* sought back before it, or read past it */
+      else if (ex && ex.until) tellExhibit('cue', n);
+      for (var j = 0; j < xs.length; j++) if (xs[j].at === n && !(ex && ex.until && ex.at === n)) {
         openExhibit(work, art, xs[j], work + ':' + sh.episode + ':x' + n); break;
       }
     }
     if (!ex) return;
     var p = R.state !== 'reading';
     if (p !== ex.paused) { ex.paused = p; tellExhibit(p ? 'pause' : 'resume'); }
-    if (!p) { ex.run += dt; if (ex.run > ex.max) closeExhibit(false); }
+    if (!p && !ex.until) { ex.run += dt; if (ex.run > ex.max) closeExhibit(false); }
   }
 
   function hideStage() {
@@ -191,14 +195,15 @@
     var live = R.state === 'reading' || R.state === 'paused' || R.state === 'stalled';
     var sh = R.sheet, work = sh && sh.work, art = live ? sheetFor(work) : null;
     var list = art && art.episodes && art.episodes[String(sh.episode)];
-    if (tog) tog.classList.toggle('on', !!(live && list));
-    if (!live || !list || off) { hideStage(); closeExhibit(false); lastN = null; return; }
+    var xl = art && art.exhibits && art.exhibits[String(sh.episode)];   /* a chapter may have maps and no paintings */
+    if (tog) tog.classList.toggle('on', !!(live && (list || xl)));
+    if (!live || !(list || xl) || off) { hideStage(); closeExhibit(false); lastN = null; return; }
     build();
     var cues = sh.cues || [], c = cues[Math.min(R.i, cues.length - 1)] || {};
-    var n = c.n || (R.i + 1), sc = sceneAt(list, n);
+    var n = c.n || (R.i + 1), sc = list ? sceneAt(list, n) : null;
     stage.classList.toggle('hold', R.state !== 'reading');
     var tnow = Date.now() / 1000;
-    exhibits(work, art, sh, n, lastTick ? Math.min(1, tnow - lastTick) : 0);
+    exhibits(work, art, sh, n, exLast ? Math.min(1, tnow - exLast) : 0); exLast = tnow;
     if (!sc) { hideStage(); return; }
     var now = Date.now() / 1000, key = work + ':' + sh.episode + ':' + sc.from;
     if (key !== cur.key) {

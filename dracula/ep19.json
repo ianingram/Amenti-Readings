@@ -1,654 +1,657 @@
 {
- "work": "dracula",
- "episode": 19,
- "chapter": 19,
- "title": "Carfax, and the Boxes",
- "document": "JONATHAN HARKER'S JOURNAL · DR SEWARD'S DIARY",
- "source": {
-  "library": "library/bram-stoker/ch19.md",
-  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
- },
- "note": "Chapter XIX complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters — and Renfield — speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-XVIII-XXII.md.",
- "cast": [
-  {
-   "role": "Narrator",
-   "cast_as": "Bram Stoker"
+  "work": "dracula",
+  "episode": 19,
+  "chapter": 19,
+  "title": "Carfax, and the Boxes",
+  "document": "JONATHAN HARKER'S JOURNAL · DR SEWARD'S DIARY",
+  "source": {
+    "library": "library/bram-stoker/ch19.md",
+    "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
   },
-  {
-   "role": "Jonathan Harker",
-   "cast_as": "Charles Darwin"
-  },
-  {
-   "role": "Quincey Morris",
-   "cast_as": "Lyndon B. Johnson"
-  },
-  {
-   "role": "Van Helsing",
-   "cast_as": "Antony van Leeuwenhoek"
-  },
-  {
-   "role": "Dr Seward",
-   "cast_as": "William Harvey"
-  },
-  {
-   "role": "Arthur Holmwood",
-   "cast_as": "J.R.R. Tolkien"
-  },
-  {
-   "role": "Mina Harker",
-   "cast_as": "Agatha Christie"
-  }
- ],
- "cues": [
-  {
-   "n": 1,
-   "para": 0,
-   "role": "Narrator",
-   "cast": "Bram Stoker",
-   "text": "CHAPTER XIX"
-  },
-  {
-   "n": 2,
-   "score": {
-    "key": "dread",
-    "at": "JONATHAN HARKER’S JOURNAL",
-    "xfade": 6
-   },
-   "para": 1,
-   "role": "Narrator",
-   "cast": "Bram Stoker",
-   "text": "JONATHAN HARKER’S JOURNAL"
-  },
-  {
-   "n": 3,
-   "para": 2,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "1 October, 5 a. m. —I went with the party to the search with an easy\nmind, for I think I never saw Mina so absolutely strong and well. I am\nso glad that she consented to hold back and let us men do the work.\nSomehow, it was a dread to me that she was in this fearful business at\nall; but now that her work is done, and that it is due to her energy and\nbrains and foresight that the whole story is put together in such a way\nthat every point tells, she may well feel that her part is finished, and\nthat she can henceforth leave the rest to us. We were, I think, all a\nlittle upset by the scene with Mr. Renfield. When we came away from his\nroom we were silent till we got back to the study. Then Mr. Morris said\nto Dr. Seward:—"
-  },
-  {
-   "n": 4,
-   "para": 3,
-   "role": "Quincey Morris",
-   "cast": "Lyndon B. Johnson",
-   "text": "“Say, Jack, if that man wasn’t attempting a bluff, he is about the\nsanest lunatic I ever saw. I’m not sure, but I believe that he had some\nserious purpose, and if he had, it was pretty rough on him not to get a\nchance.”"
-  },
-  {
-   "n": 5,
-   "para": 3,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "Lord Godalming and I were silent, but Dr. Van Helsing added:—"
-  },
-  {
-   "n": 6,
-   "para": 4,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Friend John, you know more of lunatics than I do, and I’m glad of it,\nfor I fear that if it had been to me to decide I would before that last\nhysterical outburst have given him free. But we live and learn, and in\nour present task we must take no chance, as my friend Quincey would say.\nAll is best as they are.”"
-  },
-  {
-   "n": 7,
-   "para": 4,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "Dr. Seward seemed to answer them both in a\ndreamy kind of way:—"
-  },
-  {
-   "n": 8,
-   "para": 5,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“I don’t know but that I agree with you. If that man had been an\nordinary lunatic I would have taken my chance of trusting him; but he\nseems so mixed up with the Count in an indexy kind of way that I am\nafraid of doing anything wrong by helping his fads. I can’t forget how\nhe prayed with almost equal fervour for a cat, and then tried to tear my\nthroat out with his teeth. Besides, he called the Count ‘lord and\nmaster,’ and he may want to get out to help him in some diabolical way.\nThat horrid thing has the wolves and the rats and his own kind to help\nhim, so I suppose he isn’t above trying to use a respectable lunatic. He\ncertainly did seem earnest, though. I only hope we have done what is\nbest. These things, in conjunction with the wild work we have in hand,\nhelp to unnerve a man.”"
-  },
-  {
-   "n": 9,
-   "para": 5,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "The Professor stepped over, and laying his hand\non his shoulder, said in his grave, kindly way:—"
-  },
-  {
-   "n": 10,
-   "para": 6,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Friend John, have no fear. We are trying to do our duty in a very sad\nand terrible case; we can only do as we deem best. What else have we to\nhope for, except the pity of the good God?”"
-  },
-  {
-   "n": 11,
-   "para": 6,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "Lord Godalming had slipped\naway for a few minutes, but now he returned. He held up a little silver\nwhistle, as he remarked:—"
-  },
-  {
-   "n": 12,
-   "para": 7,
-   "role": "Arthur Holmwood",
-   "cast": "J.R.R. Tolkien",
-   "text": "“That old place may be full of rats, and if so, I’ve got an antidote on\ncall.”"
-  },
-  {
-   "n": 13,
-   "para": 7,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "Having passed the wall, we took our way to the house, taking care\nto keep in the shadows of the trees on the lawn when the moonlight shone\nout. When we got to the porch the Professor opened his bag and took out\na lot of things, which he laid on the step, sorting them into four\nlittle groups, evidently one for each. Then he spoke:—"
-  },
-  {
-   "n": 14,
-   "para": 8,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“My friends, we are going into a terrible danger, and we need arms of\nmany kinds. Our enemy is not merely spiritual. Remember that he has the\nstrength of twenty men, and that, though our necks or our windpipes are\nof the common kind—and therefore breakable or crushable—his are not\namenable to mere strength. A stronger man, or a body of men more strong\nin all than him, can at certain times hold him; but they cannot hurt him\nas we can be hurt by him. We must, therefore, guard ourselves from his\ntouch. Keep this near your heart”"
-  },
-  {
-   "n": 15,
-   "para": 8,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "—as he spoke he lifted a little silver\ncrucifix and held it out to me, I being nearest to him—"
-  },
-  {
-   "n": 16,
-   "para": 8,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“put these\nflowers round your neck”"
-  },
-  {
-   "n": 17,
-   "para": 8,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "—here he handed to me a wreath of withered\ngarlic blossoms—"
-  },
-  {
-   "n": 18,
-   "para": 8,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“for other enemies more mundane, this revolver and this\nknife; and for aid in all, these so small electric lamps, which you can\nfasten to your breast; and for all, and above all at the last, this,\nwhich we must not desecrate needless.”"
-  },
-  {
-   "n": 19,
-   "para": 8,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "This was a portion of Sacred\nWafer, which he put in an envelope and handed to me. Each of the others\nwas similarly equipped."
-  },
-  {
-   "n": 20,
-   "para": 8,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Now,”"
-  },
-  {
-   "n": 21,
-   "para": 8,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "he said,"
-  },
-  {
-   "n": 22,
-   "para": 8,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“friend John, where are the\nskeleton keys? If so that we can open the door, we need not break house\nby the window, as before at Miss Lucy’s.”"
-  },
-  {
-   "n": 23,
-   "bed": "chapel",
-   "sfx": [
+  "note": "Chapter XIX complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters — and Renfield — speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-XVIII-XXII.md.",
+  "cast": [
     {
-     "key": "bolts",
-     "at": "with a rusty clang, shot back"
+      "role": "Narrator",
+      "cast_as": "Bram Stoker"
     },
     {
-     "key": "door_open",
-     "at": "it slowly opened"
-    }
-   ],
-   "para": 9,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "Dr. Seward tried one or two skeleton keys, his mechanical dexterity as a\nsurgeon standing him in good stead. Presently he got one to suit; after\na little play back and forward the bolt yielded, and, with a rusty\nclang, shot back. We pressed on the door, the rusty hinges creaked, and\nit slowly opened. It was startlingly like the image conveyed to me in\nDr. Seward’s diary of the opening of Miss Westenra’s tomb; I fancy that\nthe same idea seemed to strike the others, for with one accord they\nshrank back. The Professor was the first to move forward, and stepped\ninto the open door."
-  },
-  {
-   "n": 24,
-   "para": 10,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“ In manus tuas, Domine! ”"
-  },
-  {
-   "n": 25,
-   "para": 10,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "he said, crossing himself as he passed over\nthe threshold. We closed the door behind us, lest when we should have\nlit our lamps we should possibly attract attention from the road. The\nProfessor carefully tried the lock, lest we might not be able to open it\nfrom within should we be in a hurry making our exit. Then we all lit our\nlamps and proceeded on our search."
-  },
-  {
-   "n": 26,
-   "para": 11,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "The light from the tiny lamps fell in all sorts of odd forms, as the\nrays crossed each other, or the opacity of our bodies threw great\nshadows. I could not for my life get away from the feeling that there\nwas some one else amongst us. I suppose it was the recollection, so\npowerfully brought home to me by the grim surroundings, of that terrible\nexperience in Transylvania. I think the feeling was common to us all,\nfor I noticed that the others kept looking over their shoulders at every\nsound and every new shadow, just as I felt myself doing."
-  },
-  {
-   "n": 27,
-   "para": 12,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "The whole place was thick with dust. The floor was seemingly inches\ndeep, except where there were recent footsteps, in which on holding down\nmy lamp I could see marks of hobnails where the dust was cracked. The\nwalls were fluffy and heavy with dust, and in the corners were masses of\nspider’s webs, whereon the dust had gathered till they looked like old\ntattered rags as the weight had torn them partly down. On a table in the\nhall was a great bunch of keys, with a time-yellowed label on each. They\nhad been used several times, for on the table were several similar rents\nin the blanket of dust, similar to that exposed when the Professor\nlifted them. He turned to me and said:—"
-  },
-  {
-   "n": 28,
-   "para": 13,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“You know this place, Jonathan. You have copied maps of it, and you know\nit at least more than we do. Which is the way to the chapel?”"
-  },
-  {
-   "n": 29,
-   "para": 13,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "I had an\nidea of its direction, though on my former visit I had not been able to\nget admission to it; so I led the way, and after a few wrong turnings\nfound myself opposite a low, arched oaken door, ribbed with iron bands."
-  },
-  {
-   "n": 30,
-   "para": 13,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“This is the spot,”"
-  },
-  {
-   "n": 31,
-   "para": 13,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "said the Professor as he turned his lamp on a small\nmap of the house, copied from the file of my original correspondence\nregarding the purchase. With a little trouble we found the key on the\nbunch and opened the door. We were prepared for some unpleasantness, for\nas we were opening the door a faint, malodorous air seemed to exhale\nthrough the gaps, but none of us ever expected such an odour as we\nencountered. None of the others had met the Count at all at close\nquarters, and when I had seen him he was either in the fasting stage of\nhis existence in his rooms or, when he was gloated with fresh blood, in\na ruined building open to the air; but here the place was small and\nclose, and the long disuse had made the air stagnant and foul. There was\nan earthy smell, as of some dry miasma, which came through the fouler\nair. But as to the odour itself, how shall I describe it? It was not\nalone that it was composed of all the ills of mortality and with the\npungent, acrid smell of blood, but it seemed as though corruption had\nbecome itself corrupt. Faugh! it sickens me to think of it. Every breath\nexhaled by that monster seemed to have clung to the place and\nintensified its loathsomeness."
-  },
-  {
-   "n": 32,
-   "para": 14,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "Under ordinary circumstances such a stench would have brought our\nenterprise to an end; but this was no ordinary case, and the high and\nterrible purpose in which we were involved gave us a strength which rose\nabove merely physical considerations. After the involuntary shrinking\nconsequent on the first nauseous whiff, we one and all set about our\nwork as though that loathsome place were a garden of roses."
-  },
-  {
-   "n": 33,
-   "para": 15,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "We made an accurate examination of the place, the Professor saying as we\nbegan:—"
-  },
-  {
-   "n": 34,
-   "para": 16,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“The first thing is to see how many of the boxes are left; we must then\nexamine every hole and corner and cranny and see if we cannot get some\nclue as to what has become of the rest.”"
-  },
-  {
-   "n": 35,
-   "para": 16,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "A glance was sufficient to show\nhow many remained, for the great earth chests were bulky, and there was\nno mistaking them."
-  },
-  {
-   "n": 36,
-   "score": {
-    "key": "earth_boxes",
-    "at": "There were only twenty-nine left",
-    "xfade": 3
-   },
-   "para": 17,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "There were only twenty-nine left out of the fifty! Once I got a fright,\nfor, seeing Lord Godalming suddenly turn and look out of the vaulted\ndoor into the dark passage beyond, I looked too, and for an instant my\nheart stood still. Somewhere, looking out from the shadow, I seemed to\nsee the high lights of the Count’s evil face, the ridge of the nose, the\nred eyes, the red lips, the awful pallor. It was only for a moment, for,\nas Lord Godalming said,"
-  },
-  {
-   "n": 37,
-   "para": 17,
-   "role": "Arthur Holmwood",
-   "cast": "J.R.R. Tolkien",
-   "text": "“I thought I saw a face, but it was only the\nshadows,”"
-  },
-  {
-   "n": 38,
-   "para": 17,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "and resumed his inquiry, I turned my lamp in the direction,\nand stepped into the passage. There was no sign of any one; and as there\nwere no corners, no doors, no aperture of any kind, but only the solid\nwalls of the passage, there could be no hiding-place even for him . I\ntook it that fear had helped imagination, and said nothing."
-  },
-  {
-   "n": 39,
-   "score": {
-    "key": "dread",
-    "at": "alive with rats",
-    "xfade": 3
-   },
-   "sfx": [
-    {
-     "key": "rats",
-     "at": "alive with rats"
-    }
-   ],
-   "para": 18,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "A few minutes later I saw Morris step suddenly back from a corner, which\nhe was examining. We all followed his movements with our eyes, for\nundoubtedly some nervousness was growing on us, and we saw a whole mass\nof phosphorescence, which twinkled like stars. We all instinctively drew\nback. The whole place was becoming alive with rats."
-  },
-  {
-   "n": 40,
-   "sfx": [
-    {
-     "key": "whistle",
-     "at": "he blew a low, shrill call"
+      "role": "Jonathan Harker",
+      "cast_as": "Charles Darwin"
     },
     {
-     "key": "terriers",
-     "at": "the yelping of dogs"
+      "role": "Quincey Morris",
+      "cast_as": "Lyndon B. Johnson"
     },
     {
-     "key": "rats",
-     "at": "The rats were multiplying in thousands"
+      "role": "Van Helsing",
+      "cast_as": "Antony van Leeuwenhoek"
+    },
+    {
+      "role": "Dr Seward",
+      "cast_as": "William Harvey"
+    },
+    {
+      "role": "Arthur Holmwood",
+      "cast_as": "J.R.R. Tolkien"
+    },
+    {
+      "role": "Mina Harker",
+      "cast_as": "Agatha Christie"
     }
-   ],
-   "para": 19,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "For a moment or two we stood appalled, all save Lord Godalming, who was\nseemingly prepared for such an emergency. Rushing over to the great\niron-bound oaken door, which Dr. Seward had described from the outside,\nand which I had seen myself, he turned the key in the lock, drew the\nhuge bolts, and swung the door open. Then, taking his little silver\nwhistle from his pocket, he blew a low, shrill call. It was answered\nfrom behind Dr. Seward’s house by the yelping of dogs, and after about a\nminute three terriers came dashing round the corner of the house.\nUnconsciously we had all moved towards the door, and as we moved I\nnoticed that the dust had been much disturbed: the boxes which had been\ntaken out had been brought this way. But even in the minute that had\nelapsed the number of the rats had vastly increased. They seemed to\nswarm over the place all at once, till the lamplight, shining on their\nmoving dark bodies and glittering, baleful eyes, made the place look\nlike a bank of earth set with fireflies. The dogs dashed on, but at the\nthreshold suddenly stopped and snarled, and then, simultaneously lifting\ntheir noses, began to howl in most lugubrious fashion. The rats were\nmultiplying in thousands, and we moved out."
-  },
-  {
-   "n": 41,
-   "para": 20,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "Lord Godalming lifted one of the dogs, and carrying him in, placed him\non the floor. The instant his feet touched the ground he seemed to\nrecover his courage, and rushed at his natural enemies. They fled before\nhim so fast that before he had shaken the life out of a score, the other\ndogs, who had by now been lifted in the same manner, had but small prey\nere the whole mass had vanished."
-  },
-  {
-   "n": 42,
-   "para": 21,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "With their going it seemed as if some evil presence had departed, for\nthe dogs frisked about and barked merrily as they made sudden darts at\ntheir prostrate foes, and turned them over and over and tossed them in\nthe air with vicious shakes. We all seemed to find our spirits rise.\nWhether it was the purifying of the deadly atmosphere by the opening of\nthe chapel door, or the relief which we experienced by finding ourselves\nin the open I know not; but most certainly the shadow of dread seemed to\nslip from us like a robe, and the occasion of our coming lost something\nof its grim significance, though we did not slacken a whit in our\nresolution. We closed the outer door and barred and locked it, and\nbringing the dogs with us, began our search of the house. We found\nnothing throughout except dust in extraordinary proportions, and all\nuntouched save for my own footsteps when I had made my first visit.\nNever once did the dogs exhibit any symptom of uneasiness, and even when\nwe returned to the chapel they frisked about as though they had been\nrabbit-hunting in a summer wood."
-  },
-  {
-   "n": 43,
-   "para": 22,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "The morning was quickening in the east when we emerged from the front.\nDr. Van Helsing had taken the key of the hall-door from the bunch, and\nlocked the door in orthodox fashion, putting the key into his pocket\nwhen he had done."
-  },
-  {
-   "n": 44,
-   "para": 23,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“So far,”"
-  },
-  {
-   "n": 45,
-   "para": 23,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "he said,"
-  },
-  {
-   "n": 46,
-   "para": 23,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“our night has been eminently successful. No harm has\ncome to us such as I feared might be and yet we have ascertained how\nmany boxes are missing. More than all do I rejoice that this, our\nfirst—and perhaps our most difficult and dangerous—step has been\naccomplished without the bringing thereinto our most sweet Madam Mina or\ntroubling her waking or sleeping thoughts with sights and sounds and\nsmells of horror which she might never forget. One lesson, too, we have\nlearned, if it be allowable to argue a particulari : that the brute\nbeasts which are to the Count’s command are yet themselves not amenable\nto his spiritual power; for look, these rats that would come to his\ncall, just as from his castle top he summon the wolves to your going and\nto that poor mother’s cry, though they come to him, they run pell-mell\nfrom the so little dogs of my friend Arthur. We have other matters\nbefore us, other dangers, other fears; and that monster—he has not used\nhis power over the brute world for the only or the last time to-night.\nSo be it that he has gone elsewhere. Good! It has given us opportunity\nto cry ‘check’ in some ways in this chess game, which we play for the\nstake of human souls. And now let us go home. The dawn is close at hand,\nand we have reason to be content with our first night’s work. It may be\nordained that we have many nights and days to follow, if full of peril;\nbut we must go on, and from no danger shall we shrink.”"
-  },
-  {
-   "n": 47,
-   "bed": "london_interior",
-   "para": 24,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "The house was silent when we got back, save for some poor creature who\nwas screaming away in one of the distant wards, and a low, moaning sound\nfrom Renfield’s room. The poor wretch was doubtless torturing himself,\nafter the manner of the insane, with needless thoughts of pain."
-  },
-  {
-   "n": 48,
-   "para": 25,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "I came tiptoe into our own room, and found Mina asleep, breathing so\nsoftly that I had to put my ear down to hear it. She looks paler than\nusual. I hope the meeting to-night has not upset her. I am truly\nthankful that she is to be left out of our future work, and even of our\ndeliberations. It is too great a strain for a woman to bear. I did not\nthink so at first, but I know better now. Therefore I am glad that it is\nsettled. There may be things which would frighten her to hear; and yet\nto conceal them from her might be worse than to tell her if once she\nsuspected that there was any concealment. Henceforth our work is to be a\nsealed book to her, till at least such time as we can tell her that all\nis finished, and the earth free from a monster of the nether world. I\ndaresay it will be difficult to begin to keep silence after such\nconfidence as ours; but I must be resolute, and to-morrow I shall keep\ndark over to-night’s doings, and shall refuse to speak of anything that\nhas happened. I rest on the sofa, so as not to disturb her."
-  },
-  {
-   "n": 49,
-   "para": 26,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "1 October, later. —I suppose it was natural that we should have all\noverslept ourselves, for the day was a busy one, and the night had no\nrest at all. Even Mina must have felt its exhaustion, for though I slept\ntill the sun was high, I was awake before her, and had to call two or\nthree times before she awoke. Indeed, she was so sound asleep that for a\nfew seconds she did not recognize me, but looked at me with a sort of\nblank terror, as one looks who has been waked out of a bad dream. She\ncomplained a little of being tired, and I let her rest till later in the\nday. We now know of twenty-one boxes having been removed, and if it be\nthat several were taken in any of these removals we may be able to trace\nthem all. Such will, of course, immensely simplify our labour, and the\nsooner the matter is attended to the better. I shall look up Thomas\nSnelling to-day."
-  },
-  {
-   "n": 50,
-   "score": {
-    "key": "phonograph",
-    "at": "Dr. Seward’s Diary.",
-    "xfade": 4
-   },
-   "para": 27,
-   "role": "Narrator",
-   "cast": "Bram Stoker",
-   "text": "Dr. Seward’s Diary."
-  },
-  {
-   "n": 51,
-   "para": 28,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "1 October. —It was towards noon when I was awakened by the Professor\nwalking into my room. He was more jolly and cheerful than usual, and it\nis quite evident that last night’s work has helped to take some of the\nbrooding weight off his mind. After going over the adventure of the\nnight he suddenly said:—"
-  },
-  {
-   "n": 52,
-   "para": 29,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Your patient interests me much. May it be that with you I visit him\nthis morning? Or if that you are too occupy, I can go alone if it may\nbe. It is a new experience to me to find a lunatic who talk philosophy,\nand reason so sound.”"
-  },
-  {
-   "n": 53,
-   "para": 29,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I had some work to do which pressed, so I told him\nthat if he would go alone I would be glad, as then I should not have to\nkeep him waiting; so I called an attendant and gave him the necessary\ninstructions. Before the Professor left the room I cautioned him against\ngetting any false impression from my patient."
-  },
-  {
-   "n": 54,
-   "para": 29,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“But,”"
-  },
-  {
-   "n": 55,
-   "para": 29,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "he answered,"
-  },
-  {
-   "n": 56,
-   "para": 29,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“I\nwant him to talk of himself and of his delusion as to consuming live\nthings. He said to Madam Mina, as I see in your diary of yesterday, that\nhe had once had such a belief. Why do you smile, friend John?”"
-  },
-  {
-   "n": 57,
-   "para": 30,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“Excuse me,” I said, “but the answer is here.” I laid my hand on the\ntype-written matter. “When our sane and learned lunatic made that very\nstatement of how he used to consume life, his mouth was actually\nnauseous with the flies and spiders which he had eaten just before Mrs.\nHarker entered the room.” Van Helsing smiled in turn."
-  },
-  {
-   "n": 58,
-   "para": 30,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Good!”"
-  },
-  {
-   "n": 59,
-   "para": 30,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "he said."
-  },
-  {
-   "n": 60,
-   "para": 30,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Your memory is true, friend John. I should have remembered. And yet it\nis this very obliquity of thought and memory which makes mental disease\nsuch a fascinating study. Perhaps I may gain more knowledge out of the\nfolly of this madman than I shall from the teaching of the most wise.\nWho knows?”"
-  },
-  {
-   "n": 61,
-   "para": 30,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I went on with my work, and before long was through that in\nhand. It seemed that the time had been very short indeed, but there was\nVan Helsing back in the study."
-  },
-  {
-   "n": 62,
-   "para": 30,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Do I interrupt?”"
-  },
-  {
-   "n": 63,
-   "para": 30,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "he asked politely as he\nstood at the door."
-  },
-  {
-   "n": 64,
-   "para": 31,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“Not at all,” I answered. “Come in. My work is finished, and I am free.\nI can go with you now, if you like."
-  },
-  {
-   "n": 65,
-   "para": 32,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“It is needless; I have seen him!”"
-  },
-  {
-   "n": 66,
-   "para": 33,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“Well?”"
-  },
-  {
-   "n": 67,
-   "para": 34,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“I fear that he does not appraise me at much. Our interview was short.\nWhen I entered his room he was sitting on a stool in the centre, with\nhis elbows on his knees, and his face was the picture of sullen\ndiscontent. I spoke to him as cheerfully as I could, and with such a\nmeasure of respect as I could assume. He made no reply whatever. “Don’t\nyou know me?”"
-  },
-  {
-   "n": 68,
-   "para": 34,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I asked. His answer was not reassuring:"
-  },
-  {
-   "n": 69,
-   "para": 34,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“I know you well\nenough; you are the old fool Van Helsing. I wish you would take yourself\nand your idiotic brain theories somewhere else. Damn all thick-headed\nDutchmen!”"
-  },
-  {
-   "n": 70,
-   "para": 34,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "Not a word more would he say, but sat in his implacable\nsullenness as indifferent to me as though I had not been in the room at\nall. Thus departed for this time my chance of much learning from this so\nclever lunatic; so I shall go, if I may, and cheer myself with a few\nhappy words with that sweet soul Madam Mina. Friend John, it does\nrejoice me unspeakable that she is no more to be pained, no more to be\nworried with our terrible things. Though we shall much miss her help, it\nis better so.”"
-  },
-  {
-   "n": 71,
-   "para": 35,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“I agree with you with all my heart,” I answered earnestly, for I did\nnot want him to weaken in this matter. “Mrs. Harker is better out of it.\nThings are quite bad enough for us, all men of the world, and who have\nbeen in many tight places in our time; but it is no place for a woman,\nand if she had remained in touch with the affair, it would in time\ninfallibly have wrecked her.”"
-  },
-  {
-   "n": 72,
-   "para": 36,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "So Van Helsing has gone to confer with Mrs. Harker and Harker; Quincey\nand Art are all out following up the clues as to the earth-boxes. I\nshall finish my round of work and we shall meet to-night."
-  },
-  {
-   "n": 73,
-   "score": {
-    "key": "vigil",
-    "at": "Mina Harker’s Journal.",
-    "xfade": 6
-   },
-   "para": 37,
-   "role": "Narrator",
-   "cast": "Bram Stoker",
-   "text": "Mina Harker’s Journal."
-  },
-  {
-   "n": 74,
-   "para": 38,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "1 October. —It is strange to me to be kept in the dark as I am to-day;\nafter Jonathan’s full confidence for so many years, to see him\nmanifestly avoid certain matters, and those the most vital of all. This\nmorning I slept late after the fatigues of yesterday, and though\nJonathan was late too, he was the earlier. He spoke to me before he went\nout, never more sweetly or tenderly, but he never mentioned a word of\nwhat had happened in the visit to the Count’s house. And yet he must\nhave known how terribly anxious I was. Poor dear fellow! I suppose it\nmust have distressed him even more than it did me. They all agreed that\nit was best that I should not be drawn further into this awful work, and\nI acquiesced. But to think that he keeps anything from me! And now I am\ncrying like a silly fool, when I know it comes from my husband’s great\nlove and from the good, good wishes of those other strong men."
-  },
-  {
-   "n": 75,
-   "para": 39,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "That has done me good. Well, some day Jonathan will tell me all; and\nlest it should ever be that he should think for a moment that I kept\nanything from him, I still keep my journal as usual. Then if he has\nfeared of my trust I shall show it to him, with every thought of my\nheart put down for his dear eyes to read. I feel strangely sad and\nlow-spirited to-day. I suppose it is the reaction from the terrible\nexcitement."
-  },
-  {
-   "n": 76,
-   "para": 40,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "Last night I went to bed when the men had gone, simply because they told\nme to. I didn’t feel sleepy, and I did feel full of devouring anxiety. I\nkept thinking over everything that has been ever since Jonathan came to\nsee me in London, and it all seems like a horrible tragedy, with fate\npressing on relentlessly to some destined end. Everything that one does\nseems, no matter how right it may be, to bring on the very thing which\nis most to be deplored. If I hadn’t gone to Whitby, perhaps poor dear\nLucy would be with us now. She hadn’t taken to visiting the churchyard\ntill I came, and if she hadn’t come there in the day-time with me she\nwouldn’t have walked there in her sleep; and if she hadn’t gone there at\nnight and asleep, that monster couldn’t have destroyed her as he did.\nOh, why did I ever go to Whitby? There now, crying again! I wonder what\nhas come over me to-day. I must hide it from Jonathan, for if he knew\nthat I had been crying twice in one morning—I, who never cried on my\nown account, and whom he has never caused to shed a tear—the dear\nfellow would fret his heart out. I shall put a bold face on, and if I do\nfeel weepy, he shall never see it. I suppose it is one of the lessons\nthat we poor women have to learn...."
-  },
-  {
-   "n": 77,
-   "para": 41,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "I can’t quite remember how I fell asleep last night. I remember hearing\nthe sudden barking of the dogs and a lot of queer sounds, like praying\non a very tumultuous scale, from Mr. Renfield’s room, which is somewhere\nunder this. And then there was silence over everything, silence so\nprofound that it startled me, and I got up and looked out of the window.\nAll was dark and silent, the black shadows thrown by the moonlight\nseeming full of a silent mystery of their own. Not a thing seemed to be\nstirring, but all to be grim and fixed as death or fate; so that a thin\nstreak of white mist, that crept with almost imperceptible slowness\nacross the grass towards the house, seemed to have a sentience and a\nvitality of its own. I think that the digression of my thoughts must\nhave done me good, for when I got back to bed I found a lethargy\ncreeping over me. I lay a while, but could not quite sleep, so I got out\nand looked out of the window again. The mist was spreading, and was now\nclose up to the house, so that I could see it lying thick against the\nwall, as though it were stealing up to the windows. The poor man was\nmore loud than ever, and though I could not distinguish a word he said,\nI could in some way recognise in his tones some passionate entreaty on\nhis part. Then there was the sound of a struggle, and I knew that the\nattendants were dealing with him. I was so frightened that I crept into\nbed, and pulled the clothes over my head, putting my fingers in my ears.\nI was not then a bit sleepy, at least so I thought; but I must have\nfallen asleep, for, except dreams, I do not remember anything until the\nmorning, when Jonathan woke me. I think that it took me an effort and a\nlittle time to realise where I was, and that it was Jonathan who was\nbending over me. My dream was very peculiar, and was almost typical of\nthe way that waking thoughts become merged in, or continued in, dreams."
-  },
-  {
-   "n": 78,
-   "para": 42,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "I thought that I was asleep, and waiting for Jonathan to come back. I\nwas very anxious about him, and I was powerless to act; my feet, and my\nhands, and my brain were weighted, so that nothing could proceed at the\nusual pace. And so I slept uneasily and thought. Then it began to dawn\nupon me that the air was heavy, and dank, and cold. I put back the\nclothes from my face, and found, to my surprise, that all was dim\naround. The gaslight which I had left lit for Jonathan, but turned down,\ncame only like a tiny red spark through the fog, which had evidently\ngrown thicker and poured into the room. Then it occurred to me that I\nhad shut the window before I had come to bed. I would have got out to\nmake certain on the point, but some leaden lethargy seemed to chain my\nlimbs and even my will. I lay still and endured; that was all. I closed\nmy eyes, but could still see through my eyelids. (It is wonderful what\ntricks our dreams play us, and how conveniently we can imagine.) The\nmist grew thicker and thicker and I could see now how it came in, for I\ncould see it like smoke—or with the white energy of boiling\nwater—pouring in, not through the window, but through the joinings of\nthe door. It got thicker and thicker, till it seemed as if it became\nconcentrated into a sort of pillar of cloud in the room, through the top\nof which I could see the light of the gas shining like a red eye. Things\nbegan to whirl through my brain just as the cloudy column was now\nwhirling in the room, and through it all came the scriptural words “a\npillar of cloud by day and of fire by night.” Was it indeed some such\nspiritual guidance that was coming to me in my sleep? But the pillar was\ncomposed of both the day and the night-guiding, for the fire was in the\nred eye, which at the thought got a new fascination for me; till, as I\nlooked, the fire divided, and seemed to shine on me through the fog like\ntwo red eyes, such as Lucy told me of in her momentary mental wandering\nwhen, on the cliff, the dying sunlight struck the windows of St. Mary’s\nChurch. Suddenly the horror burst upon me that it was thus that Jonathan\nhad seen those awful women growing into reality through the whirling mist\nin the moonlight, and in my dream I must have fainted, for all became\nblack darkness. The last conscious effort which imagination made was to\nshow me a livid white face bending over me out of the mist. I must be\ncareful of such dreams, for they would unseat one’s reason if there were\ntoo much of them. I would get Dr. Van Helsing or Dr. Seward to prescribe\nsomething for me which would make me sleep, only that I fear to alarm\nthem. Such a dream at the present time would become woven into their\nfears for me. To-night I shall strive hard to sleep naturally. If I do\nnot, I shall to-morrow night get them to give me a dose of chloral; that\ncannot hurt me for once, and it will give me a good night’s sleep. Last\nnight tired me more than if I had not slept at all."
-  },
-  {
-   "n": 79,
-   "para": 43,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "2 October 10 p. m. —Last night I slept, but did not dream. I must have\nslept soundly, for I was not waked by Jonathan coming to bed; but the\nsleep has not refreshed me, for to-day I feel terribly weak and\nspiritless. I spent all yesterday trying to read, or lying down dozing.\nIn the afternoon Mr. Renfield asked if he might see me. Poor man, he was\nvery gentle, and when I came away he kissed my hand and bade God bless\nme. Some way it affected me much; I am crying when I think of him. This\nis a new weakness, of which I must be careful. Jonathan would be\nmiserable if he knew I had been crying. He and the others were out till\ndinner-time, and they all came in tired. I did what I could to brighten\nthem up, and I suppose that the effort did me good, for I forgot how\ntired I was. After dinner they sent me to bed, and all went off to smoke\ntogether, as they said, but I knew that they wanted to tell each other\nof what had occurred to each during the day; I could see from Jonathan’s\nmanner that he had something important to communicate. I was not so\nsleepy as I should have been; so before they went I asked Dr. Seward to\ngive me a little opiate of some kind, as I had not slept well the night\nbefore. He very kindly made me up a sleeping draught, which he gave to\nme, telling me that it would do me no harm, as it was very mild.... I\nhave taken it, and am waiting for sleep, which still keeps aloof. I hope\nI have not done wrong, for as sleep begins to flirt with me, a new fear\ncomes: that I may have been foolish in thus depriving myself of the\npower of waking. I might want it. Here comes sleep. Good-night."
-  }
- ]
+  ],
+  "cues": [
+    {
+      "n": 1,
+      "para": 0,
+      "role": "Narrator",
+      "cast": "Bram Stoker",
+      "text": "CHAPTER XIX"
+    },
+    {
+      "n": 2,
+      "score": {
+        "key": "dread",
+        "at": "JONATHAN HARKER’S JOURNAL",
+        "xfade": 6
+      },
+      "para": 1,
+      "role": "Narrator",
+      "cast": "Bram Stoker",
+      "text": "JONATHAN HARKER’S JOURNAL"
+    },
+    {
+      "n": 3,
+      "para": 2,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "1 October, 5 a. m. —I went with the party to the search with an easy\nmind, for I think I never saw Mina so absolutely strong and well. I am\nso glad that she consented to hold back and let us men do the work.\nSomehow, it was a dread to me that she was in this fearful business at\nall; but now that her work is done, and that it is due to her energy and\nbrains and foresight that the whole story is put together in such a way\nthat every point tells, she may well feel that her part is finished, and\nthat she can henceforth leave the rest to us. We were, I think, all a\nlittle upset by the scene with Mr. Renfield. When we came away from his\nroom we were silent till we got back to the study. Then Mr. Morris said\nto Dr. Seward:—",
+      "audio": "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch19-cue002-v1.mp3"
+    },
+    {
+      "n": 4,
+      "para": 3,
+      "role": "Quincey Morris",
+      "cast": "Lyndon B. Johnson",
+      "text": "“Say, Jack, if that man wasn’t attempting a bluff, he is about the\nsanest lunatic I ever saw. I’m not sure, but I believe that he had some\nserious purpose, and if he had, it was pretty rough on him not to get a\nchance.”"
+    },
+    {
+      "n": 5,
+      "para": 3,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "Lord Godalming and I were silent, but Dr. Van Helsing added:—"
+    },
+    {
+      "n": 6,
+      "para": 4,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Friend John, you know more of lunatics than I do, and I’m glad of it,\nfor I fear that if it had been to me to decide I would before that last\nhysterical outburst have given him free. But we live and learn, and in\nour present task we must take no chance, as my friend Quincey would say.\nAll is best as they are.”"
+    },
+    {
+      "n": 7,
+      "para": 4,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "Dr. Seward seemed to answer them both in a\ndreamy kind of way:—"
+    },
+    {
+      "n": 8,
+      "para": 5,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“I don’t know but that I agree with you. If that man had been an\nordinary lunatic I would have taken my chance of trusting him; but he\nseems so mixed up with the Count in an indexy kind of way that I am\nafraid of doing anything wrong by helping his fads. I can’t forget how\nhe prayed with almost equal fervour for a cat, and then tried to tear my\nthroat out with his teeth. Besides, he called the Count ‘lord and\nmaster,’ and he may want to get out to help him in some diabolical way.\nThat horrid thing has the wolves and the rats and his own kind to help\nhim, so I suppose he isn’t above trying to use a respectable lunatic. He\ncertainly did seem earnest, though. I only hope we have done what is\nbest. These things, in conjunction with the wild work we have in hand,\nhelp to unnerve a man.”"
+    },
+    {
+      "n": 9,
+      "para": 5,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "The Professor stepped over, and laying his hand\non his shoulder, said in his grave, kindly way:—"
+    },
+    {
+      "n": 10,
+      "para": 6,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Friend John, have no fear. We are trying to do our duty in a very sad\nand terrible case; we can only do as we deem best. What else have we to\nhope for, except the pity of the good God?”"
+    },
+    {
+      "n": 11,
+      "para": 6,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "Lord Godalming had slipped\naway for a few minutes, but now he returned. He held up a little silver\nwhistle, as he remarked:—"
+    },
+    {
+      "n": 12,
+      "para": 7,
+      "role": "Arthur Holmwood",
+      "cast": "J.R.R. Tolkien",
+      "text": "“That old place may be full of rats, and if so, I’ve got an antidote on\ncall.”"
+    },
+    {
+      "n": 13,
+      "para": 7,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "Having passed the wall, we took our way to the house, taking care\nto keep in the shadows of the trees on the lawn when the moonlight shone\nout. When we got to the porch the Professor opened his bag and took out\na lot of things, which he laid on the step, sorting them into four\nlittle groups, evidently one for each. Then he spoke:—",
+      "audio": "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch19-cue012-v1.mp3"
+    },
+    {
+      "n": 14,
+      "para": 8,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“My friends, we are going into a terrible danger, and we need arms of\nmany kinds. Our enemy is not merely spiritual. Remember that he has the\nstrength of twenty men, and that, though our necks or our windpipes are\nof the common kind—and therefore breakable or crushable—his are not\namenable to mere strength. A stronger man, or a body of men more strong\nin all than him, can at certain times hold him; but they cannot hurt him\nas we can be hurt by him. We must, therefore, guard ourselves from his\ntouch. Keep this near your heart”"
+    },
+    {
+      "n": 15,
+      "para": 8,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "—as he spoke he lifted a little silver\ncrucifix and held it out to me, I being nearest to him—"
+    },
+    {
+      "n": 16,
+      "para": 8,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“put these\nflowers round your neck”"
+    },
+    {
+      "n": 17,
+      "para": 8,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "—here he handed to me a wreath of withered\ngarlic blossoms—"
+    },
+    {
+      "n": 18,
+      "para": 8,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“for other enemies more mundane, this revolver and this\nknife; and for aid in all, these so small electric lamps, which you can\nfasten to your breast; and for all, and above all at the last, this,\nwhich we must not desecrate needless.”"
+    },
+    {
+      "n": 19,
+      "para": 8,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "This was a portion of Sacred\nWafer, which he put in an envelope and handed to me. Each of the others\nwas similarly equipped."
+    },
+    {
+      "n": 20,
+      "para": 8,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Now,”"
+    },
+    {
+      "n": 21,
+      "para": 8,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "he said,"
+    },
+    {
+      "n": 22,
+      "para": 8,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“friend John, where are the\nskeleton keys? If so that we can open the door, we need not break house\nby the window, as before at Miss Lucy’s.”"
+    },
+    {
+      "n": 23,
+      "bed": "chapel",
+      "sfx": [
+        {
+          "key": "bolts",
+          "at": "with a rusty clang, shot back"
+        },
+        {
+          "key": "door_open",
+          "at": "it slowly opened"
+        }
+      ],
+      "para": 9,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "Dr. Seward tried one or two skeleton keys, his mechanical dexterity as a\nsurgeon standing him in good stead. Presently he got one to suit; after\na little play back and forward the bolt yielded, and, with a rusty\nclang, shot back. We pressed on the door, the rusty hinges creaked, and\nit slowly opened. It was startlingly like the image conveyed to me in\nDr. Seward’s diary of the opening of Miss Westenra’s tomb; I fancy that\nthe same idea seemed to strike the others, for with one accord they\nshrank back. The Professor was the first to move forward, and stepped\ninto the open door."
+    },
+    {
+      "n": 24,
+      "para": 10,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“ In manus tuas, Domine! ”"
+    },
+    {
+      "n": 25,
+      "para": 10,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "he said, crossing himself as he passed over\nthe threshold. We closed the door behind us, lest when we should have\nlit our lamps we should possibly attract attention from the road. The\nProfessor carefully tried the lock, lest we might not be able to open it\nfrom within should we be in a hurry making our exit. Then we all lit our\nlamps and proceeded on our search."
+    },
+    {
+      "n": 26,
+      "para": 11,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "The light from the tiny lamps fell in all sorts of odd forms, as the\nrays crossed each other, or the opacity of our bodies threw great\nshadows. I could not for my life get away from the feeling that there\nwas some one else amongst us. I suppose it was the recollection, so\npowerfully brought home to me by the grim surroundings, of that terrible\nexperience in Transylvania. I think the feeling was common to us all,\nfor I noticed that the others kept looking over their shoulders at every\nsound and every new shadow, just as I felt myself doing."
+    },
+    {
+      "n": 27,
+      "para": 12,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "The whole place was thick with dust. The floor was seemingly inches\ndeep, except where there were recent footsteps, in which on holding down\nmy lamp I could see marks of hobnails where the dust was cracked. The\nwalls were fluffy and heavy with dust, and in the corners were masses of\nspider’s webs, whereon the dust had gathered till they looked like old\ntattered rags as the weight had torn them partly down. On a table in the\nhall was a great bunch of keys, with a time-yellowed label on each. They\nhad been used several times, for on the table were several similar rents\nin the blanket of dust, similar to that exposed when the Professor\nlifted them. He turned to me and said:—"
+    },
+    {
+      "n": 28,
+      "para": 13,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“You know this place, Jonathan. You have copied maps of it, and you know\nit at least more than we do. Which is the way to the chapel?”"
+    },
+    {
+      "n": 29,
+      "para": 13,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "I had an\nidea of its direction, though on my former visit I had not been able to\nget admission to it; so I led the way, and after a few wrong turnings\nfound myself opposite a low, arched oaken door, ribbed with iron bands."
+    },
+    {
+      "n": 30,
+      "para": 13,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“This is the spot,”"
+    },
+    {
+      "n": 31,
+      "para": 13,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "said the Professor as he turned his lamp on a small\nmap of the house, copied from the file of my original correspondence\nregarding the purchase. With a little trouble we found the key on the\nbunch and opened the door. We were prepared for some unpleasantness, for\nas we were opening the door a faint, malodorous air seemed to exhale\nthrough the gaps, but none of us ever expected such an odour as we\nencountered. None of the others had met the Count at all at close\nquarters, and when I had seen him he was either in the fasting stage of\nhis existence in his rooms or, when he was gloated with fresh blood, in\na ruined building open to the air; but here the place was small and\nclose, and the long disuse had made the air stagnant and foul. There was\nan earthy smell, as of some dry miasma, which came through the fouler\nair. But as to the odour itself, how shall I describe it? It was not\nalone that it was composed of all the ills of mortality and with the\npungent, acrid smell of blood, but it seemed as though corruption had\nbecome itself corrupt. Faugh! it sickens me to think of it. Every breath\nexhaled by that monster seemed to have clung to the place and\nintensified its loathsomeness.",
+      "audio": "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch19-cue030-v1.mp3"
+    },
+    {
+      "n": 32,
+      "para": 14,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "Under ordinary circumstances such a stench would have brought our\nenterprise to an end; but this was no ordinary case, and the high and\nterrible purpose in which we were involved gave us a strength which rose\nabove merely physical considerations. After the involuntary shrinking\nconsequent on the first nauseous whiff, we one and all set about our\nwork as though that loathsome place were a garden of roses."
+    },
+    {
+      "n": 33,
+      "para": 15,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "We made an accurate examination of the place, the Professor saying as we\nbegan:—"
+    },
+    {
+      "n": 34,
+      "para": 16,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“The first thing is to see how many of the boxes are left; we must then\nexamine every hole and corner and cranny and see if we cannot get some\nclue as to what has become of the rest.”"
+    },
+    {
+      "n": 35,
+      "para": 16,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "A glance was sufficient to show\nhow many remained, for the great earth chests were bulky, and there was\nno mistaking them."
+    },
+    {
+      "n": 36,
+      "score": {
+        "key": "earth_boxes",
+        "at": "There were only twenty-nine left",
+        "xfade": 3
+      },
+      "para": 17,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "There were only twenty-nine left out of the fifty! Once I got a fright,\nfor, seeing Lord Godalming suddenly turn and look out of the vaulted\ndoor into the dark passage beyond, I looked too, and for an instant my\nheart stood still. Somewhere, looking out from the shadow, I seemed to\nsee the high lights of the Count’s evil face, the ridge of the nose, the\nred eyes, the red lips, the awful pallor. It was only for a moment, for,\nas Lord Godalming said,"
+    },
+    {
+      "n": 37,
+      "para": 17,
+      "role": "Arthur Holmwood",
+      "cast": "J.R.R. Tolkien",
+      "text": "“I thought I saw a face, but it was only the\nshadows,”"
+    },
+    {
+      "n": 38,
+      "para": 17,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "and resumed his inquiry, I turned my lamp in the direction,\nand stepped into the passage. There was no sign of any one; and as there\nwere no corners, no doors, no aperture of any kind, but only the solid\nwalls of the passage, there could be no hiding-place even for him . I\ntook it that fear had helped imagination, and said nothing."
+    },
+    {
+      "n": 39,
+      "score": {
+        "key": "dread",
+        "at": "alive with rats",
+        "xfade": 3
+      },
+      "sfx": [
+        {
+          "key": "rats",
+          "at": "alive with rats"
+        }
+      ],
+      "para": 18,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "A few minutes later I saw Morris step suddenly back from a corner, which\nhe was examining. We all followed his movements with our eyes, for\nundoubtedly some nervousness was growing on us, and we saw a whole mass\nof phosphorescence, which twinkled like stars. We all instinctively drew\nback. The whole place was becoming alive with rats."
+    },
+    {
+      "n": 40,
+      "sfx": [
+        {
+          "key": "whistle",
+          "at": "he blew a low, shrill call"
+        },
+        {
+          "key": "terriers",
+          "at": "the yelping of dogs"
+        },
+        {
+          "key": "rats",
+          "at": "The rats were multiplying in thousands"
+        }
+      ],
+      "para": 19,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "For a moment or two we stood appalled, all save Lord Godalming, who was\nseemingly prepared for such an emergency. Rushing over to the great\niron-bound oaken door, which Dr. Seward had described from the outside,\nand which I had seen myself, he turned the key in the lock, drew the\nhuge bolts, and swung the door open. Then, taking his little silver\nwhistle from his pocket, he blew a low, shrill call. It was answered\nfrom behind Dr. Seward’s house by the yelping of dogs, and after about a\nminute three terriers came dashing round the corner of the house.\nUnconsciously we had all moved towards the door, and as we moved I\nnoticed that the dust had been much disturbed: the boxes which had been\ntaken out had been brought this way. But even in the minute that had\nelapsed the number of the rats had vastly increased. They seemed to\nswarm over the place all at once, till the lamplight, shining on their\nmoving dark bodies and glittering, baleful eyes, made the place look\nlike a bank of earth set with fireflies. The dogs dashed on, but at the\nthreshold suddenly stopped and snarled, and then, simultaneously lifting\ntheir noses, began to howl in most lugubrious fashion. The rats were\nmultiplying in thousands, and we moved out."
+    },
+    {
+      "n": 41,
+      "para": 20,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "Lord Godalming lifted one of the dogs, and carrying him in, placed him\non the floor. The instant his feet touched the ground he seemed to\nrecover his courage, and rushed at his natural enemies. They fled before\nhim so fast that before he had shaken the life out of a score, the other\ndogs, who had by now been lifted in the same manner, had but small prey\nere the whole mass had vanished."
+    },
+    {
+      "n": 42,
+      "para": 21,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "With their going it seemed as if some evil presence had departed, for\nthe dogs frisked about and barked merrily as they made sudden darts at\ntheir prostrate foes, and turned them over and over and tossed them in\nthe air with vicious shakes. We all seemed to find our spirits rise.\nWhether it was the purifying of the deadly atmosphere by the opening of\nthe chapel door, or the relief which we experienced by finding ourselves\nin the open I know not; but most certainly the shadow of dread seemed to\nslip from us like a robe, and the occasion of our coming lost something\nof its grim significance, though we did not slacken a whit in our\nresolution. We closed the outer door and barred and locked it, and\nbringing the dogs with us, began our search of the house. We found\nnothing throughout except dust in extraordinary proportions, and all\nuntouched save for my own footsteps when I had made my first visit.\nNever once did the dogs exhibit any symptom of uneasiness, and even when\nwe returned to the chapel they frisked about as though they had been\nrabbit-hunting in a summer wood."
+    },
+    {
+      "n": 43,
+      "para": 22,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "The morning was quickening in the east when we emerged from the front.\nDr. Van Helsing had taken the key of the hall-door from the bunch, and\nlocked the door in orthodox fashion, putting the key into his pocket\nwhen he had done."
+    },
+    {
+      "n": 44,
+      "para": 23,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“So far,”"
+    },
+    {
+      "n": 45,
+      "para": 23,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "he said,"
+    },
+    {
+      "n": 46,
+      "para": 23,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“our night has been eminently successful. No harm has\ncome to us such as I feared might be and yet we have ascertained how\nmany boxes are missing. More than all do I rejoice that this, our\nfirst—and perhaps our most difficult and dangerous—step has been\naccomplished without the bringing thereinto our most sweet Madam Mina or\ntroubling her waking or sleeping thoughts with sights and sounds and\nsmells of horror which she might never forget. One lesson, too, we have\nlearned, if it be allowable to argue a particulari : that the brute\nbeasts which are to the Count’s command are yet themselves not amenable\nto his spiritual power; for look, these rats that would come to his\ncall, just as from his castle top he summon the wolves to your going and\nto that poor mother’s cry, though they come to him, they run pell-mell\nfrom the so little dogs of my friend Arthur. We have other matters\nbefore us, other dangers, other fears; and that monster—he has not used\nhis power over the brute world for the only or the last time to-night.\nSo be it that he has gone elsewhere. Good! It has given us opportunity\nto cry ‘check’ in some ways in this chess game, which we play for the\nstake of human souls. And now let us go home. The dawn is close at hand,\nand we have reason to be content with our first night’s work. It may be\nordained that we have many nights and days to follow, if full of peril;\nbut we must go on, and from no danger shall we shrink.”"
+    },
+    {
+      "n": 47,
+      "bed": "london_interior",
+      "para": 24,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "The house was silent when we got back, save for some poor creature who\nwas screaming away in one of the distant wards, and a low, moaning sound\nfrom Renfield’s room. The poor wretch was doubtless torturing himself,\nafter the manner of the insane, with needless thoughts of pain."
+    },
+    {
+      "n": 48,
+      "para": 25,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "I came tiptoe into our own room, and found Mina asleep, breathing so\nsoftly that I had to put my ear down to hear it. She looks paler than\nusual. I hope the meeting to-night has not upset her. I am truly\nthankful that she is to be left out of our future work, and even of our\ndeliberations. It is too great a strain for a woman to bear. I did not\nthink so at first, but I know better now. Therefore I am glad that it is\nsettled. There may be things which would frighten her to hear; and yet\nto conceal them from her might be worse than to tell her if once she\nsuspected that there was any concealment. Henceforth our work is to be a\nsealed book to her, till at least such time as we can tell her that all\nis finished, and the earth free from a monster of the nether world. I\ndaresay it will be difficult to begin to keep silence after such\nconfidence as ours; but I must be resolute, and to-morrow I shall keep\ndark over to-night’s doings, and shall refuse to speak of anything that\nhas happened. I rest on the sofa, so as not to disturb her."
+    },
+    {
+      "n": 49,
+      "para": 26,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "1 October, later. —I suppose it was natural that we should have all\noverslept ourselves, for the day was a busy one, and the night had no\nrest at all. Even Mina must have felt its exhaustion, for though I slept\ntill the sun was high, I was awake before her, and had to call two or\nthree times before she awoke. Indeed, she was so sound asleep that for a\nfew seconds she did not recognize me, but looked at me with a sort of\nblank terror, as one looks who has been waked out of a bad dream. She\ncomplained a little of being tired, and I let her rest till later in the\nday. We now know of twenty-one boxes having been removed, and if it be\nthat several were taken in any of these removals we may be able to trace\nthem all. Such will, of course, immensely simplify our labour, and the\nsooner the matter is attended to the better. I shall look up Thomas\nSnelling to-day."
+    },
+    {
+      "n": 50,
+      "score": {
+        "key": "phonograph",
+        "at": "Dr. Seward’s Diary.",
+        "xfade": 4
+      },
+      "para": 27,
+      "role": "Narrator",
+      "cast": "Bram Stoker",
+      "text": "Dr. Seward’s Diary."
+    },
+    {
+      "n": 51,
+      "para": 28,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "1 October. —It was towards noon when I was awakened by the Professor\nwalking into my room. He was more jolly and cheerful than usual, and it\nis quite evident that last night’s work has helped to take some of the\nbrooding weight off his mind. After going over the adventure of the\nnight he suddenly said:—"
+    },
+    {
+      "n": 52,
+      "para": 29,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Your patient interests me much. May it be that with you I visit him\nthis morning? Or if that you are too occupy, I can go alone if it may\nbe. It is a new experience to me to find a lunatic who talk philosophy,\nand reason so sound.”"
+    },
+    {
+      "n": 53,
+      "para": 29,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I had some work to do which pressed, so I told him\nthat if he would go alone I would be glad, as then I should not have to\nkeep him waiting; so I called an attendant and gave him the necessary\ninstructions. Before the Professor left the room I cautioned him against\ngetting any false impression from my patient."
+    },
+    {
+      "n": 54,
+      "para": 29,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“But,”"
+    },
+    {
+      "n": 55,
+      "para": 29,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "he answered,"
+    },
+    {
+      "n": 56,
+      "para": 29,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“I\nwant him to talk of himself and of his delusion as to consuming live\nthings. He said to Madam Mina, as I see in your diary of yesterday, that\nhe had once had such a belief. Why do you smile, friend John?”"
+    },
+    {
+      "n": 57,
+      "para": 30,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“Excuse me,” I said, “but the answer is here.” I laid my hand on the\ntype-written matter. “When our sane and learned lunatic made that very\nstatement of how he used to consume life, his mouth was actually\nnauseous with the flies and spiders which he had eaten just before Mrs.\nHarker entered the room.” Van Helsing smiled in turn."
+    },
+    {
+      "n": 58,
+      "para": 30,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Good!”"
+    },
+    {
+      "n": 59,
+      "para": 30,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "he said."
+    },
+    {
+      "n": 60,
+      "para": 30,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Your memory is true, friend John. I should have remembered. And yet it\nis this very obliquity of thought and memory which makes mental disease\nsuch a fascinating study. Perhaps I may gain more knowledge out of the\nfolly of this madman than I shall from the teaching of the most wise.\nWho knows?”"
+    },
+    {
+      "n": 61,
+      "para": 30,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I went on with my work, and before long was through that in\nhand. It seemed that the time had been very short indeed, but there was\nVan Helsing back in the study."
+    },
+    {
+      "n": 62,
+      "para": 30,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Do I interrupt?”"
+    },
+    {
+      "n": 63,
+      "para": 30,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "he asked politely as he\nstood at the door."
+    },
+    {
+      "n": 64,
+      "para": 31,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“Not at all,” I answered. “Come in. My work is finished, and I am free.\nI can go with you now, if you like."
+    },
+    {
+      "n": 65,
+      "para": 32,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“It is needless; I have seen him!”"
+    },
+    {
+      "n": 66,
+      "para": 33,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“Well?”"
+    },
+    {
+      "n": 67,
+      "para": 34,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“I fear that he does not appraise me at much. Our interview was short.\nWhen I entered his room he was sitting on a stool in the centre, with\nhis elbows on his knees, and his face was the picture of sullen\ndiscontent. I spoke to him as cheerfully as I could, and with such a\nmeasure of respect as I could assume. He made no reply whatever. “Don’t\nyou know me?”"
+    },
+    {
+      "n": 68,
+      "para": 34,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I asked. His answer was not reassuring:"
+    },
+    {
+      "n": 69,
+      "para": 34,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“I know you well\nenough; you are the old fool Van Helsing. I wish you would take yourself\nand your idiotic brain theories somewhere else. Damn all thick-headed\nDutchmen!”"
+    },
+    {
+      "n": 70,
+      "para": 34,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "Not a word more would he say, but sat in his implacable\nsullenness as indifferent to me as though I had not been in the room at\nall. Thus departed for this time my chance of much learning from this so\nclever lunatic; so I shall go, if I may, and cheer myself with a few\nhappy words with that sweet soul Madam Mina. Friend John, it does\nrejoice me unspeakable that she is no more to be pained, no more to be\nworried with our terrible things. Though we shall much miss her help, it\nis better so.”"
+    },
+    {
+      "n": 71,
+      "para": 35,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“I agree with you with all my heart,” I answered earnestly, for I did\nnot want him to weaken in this matter. “Mrs. Harker is better out of it.\nThings are quite bad enough for us, all men of the world, and who have\nbeen in many tight places in our time; but it is no place for a woman,\nand if she had remained in touch with the affair, it would in time\ninfallibly have wrecked her.”"
+    },
+    {
+      "n": 72,
+      "para": 36,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "So Van Helsing has gone to confer with Mrs. Harker and Harker; Quincey\nand Art are all out following up the clues as to the earth-boxes. I\nshall finish my round of work and we shall meet to-night."
+    },
+    {
+      "n": 73,
+      "score": {
+        "key": "vigil",
+        "at": "Mina Harker’s Journal.",
+        "xfade": 6
+      },
+      "para": 37,
+      "role": "Narrator",
+      "cast": "Bram Stoker",
+      "text": "Mina Harker’s Journal."
+    },
+    {
+      "n": 74,
+      "para": 38,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "1 October. —It is strange to me to be kept in the dark as I am to-day;\nafter Jonathan’s full confidence for so many years, to see him\nmanifestly avoid certain matters, and those the most vital of all. This\nmorning I slept late after the fatigues of yesterday, and though\nJonathan was late too, he was the earlier. He spoke to me before he went\nout, never more sweetly or tenderly, but he never mentioned a word of\nwhat had happened in the visit to the Count’s house. And yet he must\nhave known how terribly anxious I was. Poor dear fellow! I suppose it\nmust have distressed him even more than it did me. They all agreed that\nit was best that I should not be drawn further into this awful work, and\nI acquiesced. But to think that he keeps anything from me! And now I am\ncrying like a silly fool, when I know it comes from my husband’s great\nlove and from the good, good wishes of those other strong men."
+    },
+    {
+      "n": 75,
+      "para": 39,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "That has done me good. Well, some day Jonathan will tell me all; and\nlest it should ever be that he should think for a moment that I kept\nanything from him, I still keep my journal as usual. Then if he has\nfeared of my trust I shall show it to him, with every thought of my\nheart put down for his dear eyes to read. I feel strangely sad and\nlow-spirited to-day. I suppose it is the reaction from the terrible\nexcitement."
+    },
+    {
+      "n": 76,
+      "para": 40,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "Last night I went to bed when the men had gone, simply because they told\nme to. I didn’t feel sleepy, and I did feel full of devouring anxiety. I\nkept thinking over everything that has been ever since Jonathan came to\nsee me in London, and it all seems like a horrible tragedy, with fate\npressing on relentlessly to some destined end. Everything that one does\nseems, no matter how right it may be, to bring on the very thing which\nis most to be deplored. If I hadn’t gone to Whitby, perhaps poor dear\nLucy would be with us now. She hadn’t taken to visiting the churchyard\ntill I came, and if she hadn’t come there in the day-time with me she\nwouldn’t have walked there in her sleep; and if she hadn’t gone there at\nnight and asleep, that monster couldn’t have destroyed her as he did.\nOh, why did I ever go to Whitby? There now, crying again! I wonder what\nhas come over me to-day. I must hide it from Jonathan, for if he knew\nthat I had been crying twice in one morning—I, who never cried on my\nown account, and whom he has never caused to shed a tear—the dear\nfellow would fret his heart out. I shall put a bold face on, and if I do\nfeel weepy, he shall never see it. I suppose it is one of the lessons\nthat we poor women have to learn...."
+    },
+    {
+      "n": 77,
+      "para": 41,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "I can’t quite remember how I fell asleep last night. I remember hearing\nthe sudden barking of the dogs and a lot of queer sounds, like praying\non a very tumultuous scale, from Mr. Renfield’s room, which is somewhere\nunder this. And then there was silence over everything, silence so\nprofound that it startled me, and I got up and looked out of the window.\nAll was dark and silent, the black shadows thrown by the moonlight\nseeming full of a silent mystery of their own. Not a thing seemed to be\nstirring, but all to be grim and fixed as death or fate; so that a thin\nstreak of white mist, that crept with almost imperceptible slowness\nacross the grass towards the house, seemed to have a sentience and a\nvitality of its own. I think that the digression of my thoughts must\nhave done me good, for when I got back to bed I found a lethargy\ncreeping over me. I lay a while, but could not quite sleep, so I got out\nand looked out of the window again. The mist was spreading, and was now\nclose up to the house, so that I could see it lying thick against the\nwall, as though it were stealing up to the windows. The poor man was\nmore loud than ever, and though I could not distinguish a word he said,\nI could in some way recognise in his tones some passionate entreaty on\nhis part. Then there was the sound of a struggle, and I knew that the\nattendants were dealing with him. I was so frightened that I crept into\nbed, and pulled the clothes over my head, putting my fingers in my ears.\nI was not then a bit sleepy, at least so I thought; but I must have\nfallen asleep, for, except dreams, I do not remember anything until the\nmorning, when Jonathan woke me. I think that it took me an effort and a\nlittle time to realise where I was, and that it was Jonathan who was\nbending over me. My dream was very peculiar, and was almost typical of\nthe way that waking thoughts become merged in, or continued in, dreams."
+    },
+    {
+      "n": 78,
+      "para": 42,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "I thought that I was asleep, and waiting for Jonathan to come back. I\nwas very anxious about him, and I was powerless to act; my feet, and my\nhands, and my brain were weighted, so that nothing could proceed at the\nusual pace. And so I slept uneasily and thought. Then it began to dawn\nupon me that the air was heavy, and dank, and cold. I put back the\nclothes from my face, and found, to my surprise, that all was dim\naround. The gaslight which I had left lit for Jonathan, but turned down,\ncame only like a tiny red spark through the fog, which had evidently\ngrown thicker and poured into the room. Then it occurred to me that I\nhad shut the window before I had come to bed. I would have got out to\nmake certain on the point, but some leaden lethargy seemed to chain my\nlimbs and even my will. I lay still and endured; that was all. I closed\nmy eyes, but could still see through my eyelids. (It is wonderful what\ntricks our dreams play us, and how conveniently we can imagine.) The\nmist grew thicker and thicker and I could see now how it came in, for I\ncould see it like smoke—or with the white energy of boiling\nwater—pouring in, not through the window, but through the joinings of\nthe door. It got thicker and thicker, till it seemed as if it became\nconcentrated into a sort of pillar of cloud in the room, through the top\nof which I could see the light of the gas shining like a red eye. Things\nbegan to whirl through my brain just as the cloudy column was now\nwhirling in the room, and through it all came the scriptural words “a\npillar of cloud by day and of fire by night.” Was it indeed some such\nspiritual guidance that was coming to me in my sleep? But the pillar was\ncomposed of both the day and the night-guiding, for the fire was in the\nred eye, which at the thought got a new fascination for me; till, as I\nlooked, the fire divided, and seemed to shine on me through the fog like\ntwo red eyes, such as Lucy told me of in her momentary mental wandering\nwhen, on the cliff, the dying sunlight struck the windows of St. Mary’s\nChurch. Suddenly the horror burst upon me that it was thus that Jonathan\nhad seen those awful women growing into reality through the whirling mist\nin the moonlight, and in my dream I must have fainted, for all became\nblack darkness. The last conscious effort which imagination made was to\nshow me a livid white face bending over me out of the mist. I must be\ncareful of such dreams, for they would unseat one’s reason if there were\ntoo much of them. I would get Dr. Van Helsing or Dr. Seward to prescribe\nsomething for me which would make me sleep, only that I fear to alarm\nthem. Such a dream at the present time would become woven into their\nfears for me. To-night I shall strive hard to sleep naturally. If I do\nnot, I shall to-morrow night get them to give me a dose of chloral; that\ncannot hurt me for once, and it will give me a good night’s sleep. Last\nnight tired me more than if I had not slept at all."
+    },
+    {
+      "n": 79,
+      "para": 43,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "2 October 10 p. m. —Last night I slept, but did not dream. I must have\nslept soundly, for I was not waked by Jonathan coming to bed; but the\nsleep has not refreshed me, for to-day I feel terribly weak and\nspiritless. I spent all yesterday trying to read, or lying down dozing.\nIn the afternoon Mr. Renfield asked if he might see me. Poor man, he was\nvery gentle, and when I came away he kissed my hand and bade God bless\nme. Some way it affected me much; I am crying when I think of him. This\nis a new weakness, of which I must be careful. Jonathan would be\nmiserable if he knew I had been crying. He and the others were out till\ndinner-time, and they all came in tired. I did what I could to brighten\nthem up, and I suppose that the effort did me good, for I forgot how\ntired I was. After dinner they sent me to bed, and all went off to smoke\ntogether, as they said, but I knew that they wanted to tell each other\nof what had occurred to each during the day; I could see from Jonathan’s\nmanner that he had something important to communicate. I was not so\nsleepy as I should have been; so before they went I asked Dr. Seward to\ngive me a little opiate of some kind, as I had not slept well the night\nbefore. He very kindly made me up a sleeping draught, which he gave to\nme, telling me that it would do me no harm, as it was very mild.... I\nhave taken it, and am waiting for sleep, which still keeps aloof. I hope\nI have not done wrong, for as sleep begins to flirt with me, a new fear\ncomes: that I may have been foolish in thus depriving myself of the\npower of waking. I might want it. Here comes sleep. Good-night."
+    }
+  ]
 }

@@ -1,1034 +1,1036 @@
 {
- "work": "dracula",
- "episode": 18,
- "chapter": 18,
- "title": "Renfield Asks to Be Let Go",
- "document": "DR SEWARD'S DIARY · MINA HARKER'S JOURNAL",
- "source": {
-  "library": "library/bram-stoker/ch18.md",
-  "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
- },
- "note": "Chapter XVIII complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters — and Renfield — speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-XVIII-XXII.md.",
- "cast": [
-  {
-   "role": "Narrator",
-   "cast_as": "Bram Stoker"
-  },
-  {
-   "role": "Dr Seward",
-   "cast_as": "William Harvey"
-  },
-  {
-   "role": "Mina Harker",
-   "cast_as": "Agatha Christie"
-  },
-  {
-   "role": "Renfield",
-   "cast_as": "Jack the Ripper"
-  },
-  {
-   "role": "Van Helsing",
-   "cast_as": "Antony van Leeuwenhoek"
-  },
-  {
-   "role": "Jonathan Harker",
-   "cast_as": "Charles Darwin"
-  },
-  {
-   "role": "Quincey Morris",
-   "cast_as": "Lyndon B. Johnson"
-  },
-  {
-   "role": "Arthur Holmwood",
-   "cast_as": "J.R.R. Tolkien"
-  }
- ],
- "cues": [
-  {
-   "n": 1,
-   "para": 0,
-   "role": "Narrator",
-   "cast": "Bram Stoker",
-   "text": "CHAPTER XVIII"
-  },
-  {
-   "n": 2,
-   "score": {
-    "key": "phonograph",
-    "at": "DR. SEWARD’S DIARY",
-    "xfade": 4
-   },
-   "para": 1,
-   "role": "Narrator",
-   "cast": "Bram Stoker",
-   "text": "DR. SEWARD’S DIARY"
-  },
-  {
-   "n": 3,
-   "para": 2,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "30 September. —I got home at five o’clock, and found that Godalming\nand Morris had not only arrived, but had already studied the transcript\nof the various diaries and letters which Harker and his wonderful wife\nhad made and arranged. Harker had not yet returned from his visit to the\ncarriers’ men, of whom Dr. Hennessey had written to me. Mrs. Harker gave\nus a cup of tea, and I can honestly say that, for the first time since I\nhave lived in it, this old house seemed like home . When we had\nfinished, Mrs. Harker said:—"
-  },
-  {
-   "n": 4,
-   "para": 3,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“Dr. Seward, may I ask a favour? I want to see your patient, Mr.\nRenfield. Do let me see him. What you have said of him in your diary\ninterests me so much!”"
-  },
-  {
-   "n": 5,
-   "para": 3,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "She looked so appealing and so pretty that I\ncould not refuse her, and there was no possible reason why I should; so\nI took her with me. When I went into the room, I told the man that a\nlady would like to see him; to which he simply answered:"
-  },
-  {
-   "n": 6,
-   "para": 3,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Why?”"
-  },
-  {
-   "n": 7,
-   "para": 4,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“She is going through the house, and wants to see every one in it,” I\nanswered."
-  },
-  {
-   "n": 8,
-   "para": 4,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Oh, very well,”"
-  },
-  {
-   "n": 9,
-   "para": 4,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "he said;"
-  },
-  {
-   "n": 10,
-   "para": 4,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“let her come in, by all means; but\njust wait a minute till I tidy up the place.”"
-  },
-  {
-   "n": 11,
-   "para": 4,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "His method of tidying was\npeculiar: he simply swallowed all the flies and spiders in the boxes\nbefore I could stop him. It was quite evident that he feared, or was\njealous of, some interference. When he had got through his disgusting\ntask, he said cheerfully:"
-  },
-  {
-   "n": 12,
-   "para": 4,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Let the lady come in,”"
-  },
-  {
-   "n": 13,
-   "para": 4,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "and sat down on the\nedge of his bed with his head down, but with his eyelids raised so that\nhe could see her as she entered. For a moment I thought that he might\nhave some homicidal intent; I remembered how quiet he had been just\nbefore he attacked me in my own study, and I took care to stand where I\ncould seize him at once if he attempted to make a spring at her. She\ncame into the room with an easy gracefulness which would at once command\nthe respect of any lunatic—for easiness is one of the qualities mad\npeople most respect. She walked over to him, smiling pleasantly, and\nheld out her hand."
-  },
-  {
-   "n": 14,
-   "para": 5,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“Good-evening, Mr. Renfield,”"
-  },
-  {
-   "n": 15,
-   "para": 5,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "said she."
-  },
-  {
-   "n": 16,
-   "para": 5,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“You see, I know you, for Dr.\nSeward has told me of you.”"
-  },
-  {
-   "n": 17,
-   "para": 5,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "He made no immediate reply, but eyed her all\nover intently with a set frown on his face. This look gave way to one\nof wonder, which merged in doubt; then, to my intense astonishment, he\nsaid:—"
-  },
-  {
-   "n": 18,
-   "para": 6,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“You’re not the girl the doctor wanted to marry, are you? You can’t be,\nyou know, for she’s dead.”"
-  },
-  {
-   "n": 19,
-   "para": 6,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "Mrs. Harker smiled sweetly as she replied:—"
-  },
-  {
-   "n": 20,
-   "para": 7,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“Oh no! I have a husband of my own, to whom I was married before I ever\nsaw Dr. Seward, or he me. I am Mrs. Harker.”"
-  },
-  {
-   "n": 21,
-   "para": 8,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Then what are you doing here?”"
-  },
-  {
-   "n": 22,
-   "para": 9,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“My husband and I are staying on a visit with Dr. Seward.”"
-  },
-  {
-   "n": 23,
-   "para": 10,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Then don’t stay.”"
-  },
-  {
-   "n": 24,
-   "para": 11,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“But why not?”"
-  },
-  {
-   "n": 25,
-   "para": 11,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I thought that this style of conversation might not be\npleasant to Mrs. Harker, any more than it was to me, so I joined in:—"
-  },
-  {
-   "n": 26,
-   "para": 12,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“How did you know I wanted to marry any one?” His reply was simply\ncontemptuous, given in a pause in which he turned his eyes from Mrs.\nHarker to me, instantly turning them back again:—"
-  },
-  {
-   "n": 27,
-   "para": 13,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“What an asinine question!”"
-  },
-  {
-   "n": 28,
-   "para": 14,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“I don’t see that at all, Mr. Renfield,”"
-  },
-  {
-   "n": 29,
-   "para": 14,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "said Mrs. Harker, at once\nchampioning me. He replied to her with as much courtesy and respect as\nhe had shown contempt to me:—"
-  },
-  {
-   "n": 30,
-   "para": 15,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“You will, of course, understand, Mrs. Harker, that when a man is so\nloved and honoured as our host is, everything regarding him is of\ninterest in our little community. Dr. Seward is loved not only by his\nhousehold and his friends, but even by his patients, who, being some of\nthem hardly in mental equilibrium, are apt to distort causes and\neffects. Since I myself have been an inmate of a lunatic asylum, I\ncannot but notice that the sophistic tendencies of some of its inmates\nlean towards the errors of non causa and ignoratio elenchi .”"
-  },
-  {
-   "n": 31,
-   "para": 15,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I\npositively opened my eyes at this new development. Here was my own pet\nlunatic—the most pronounced of his type that I had ever met\nwith—talking elemental philosophy, and with the manner of a polished\ngentleman. I wonder if it was Mrs. Harker’s presence which had touched\nsome chord in his memory. If this new phase was spontaneous, or in any\nway due to her unconscious influence, she must have some rare gift or\npower."
-  },
-  {
-   "n": 32,
-   "para": 16,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "We continued to talk for some time; and, seeing that he was seemingly\nquite reasonable, she ventured, looking at me questioningly as she\nbegan, to lead him to his favourite topic. I was again astonished, for\nhe addressed himself to the question with the impartiality of the\ncompletest sanity; he even took himself as an example when he mentioned\ncertain things."
-  },
-  {
-   "n": 33,
-   "para": 17,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Why, I myself am an instance of a man who had a strange belief. Indeed,\nit was no wonder that my friends were alarmed, and insisted on my being\nput under control. I used to fancy that life was a positive and\nperpetual entity, and that by consuming a multitude of live things, no\nmatter how low in the scale of creation, one might indefinitely prolong\nlife. At times I held the belief so strongly that I actually tried to\ntake human life. The doctor here will bear me out that on one occasion I\ntried to kill him for the purpose of strengthening my vital powers by\nthe assimilation with my own body of his life through the medium of his\nblood—relying, of course, upon the Scriptural phrase, ‘For the blood is\nthe life.’ Though, indeed, the vendor of a certain nostrum has\nvulgarised the truism to the very point of contempt. Isn’t that true,\ndoctor?”"
-  },
-  {
-   "n": 34,
-   "para": 17,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I nodded assent, for I was so amazed that I hardly knew what to\neither think or say; it was hard to imagine that I had seen him eat up\nhis spiders and flies not five minutes before. Looking at my watch, I\nsaw that I should go to the station to meet Van Helsing, so I told Mrs.\nHarker that it was time to leave. She came at once, after saying\npleasantly to Mr. Renfield:"
-  },
-  {
-   "n": 35,
-   "para": 17,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“Good-bye, and I hope I may see you often,\nunder auspices pleasanter to yourself,”"
-  },
-  {
-   "n": 36,
-   "para": 17,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "to which, to my astonishment, he\nreplied:—"
-  },
-  {
-   "n": 37,
-   "para": 18,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Good-bye, my dear. I pray God I may never see your sweet face again.\nMay He bless and keep you!”"
-  },
-  {
-   "n": 38,
-   "para": 19,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "When I went to the station to meet Van Helsing I left the boys behind\nme. Poor Art seemed more cheerful than he has been since Lucy first took\nill, and Quincey is more like his own bright self than he has been for\nmany a long day."
-  },
-  {
-   "n": 39,
-   "para": 20,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "Van Helsing stepped from the carriage with the eager nimbleness of a\nboy. He saw me at once, and rushed up to me, saying:—"
-  },
-  {
-   "n": 40,
-   "para": 21,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Ah, friend John, how goes all? Well? So! I have been busy, for I come\nhere to stay if need be. All affairs are settled with me, and I have\nmuch to tell. Madam Mina is with you? Yes. And her so fine husband? And\nArthur and my friend Quincey, they are with you, too? Good!”"
-  },
-  {
-   "n": 41,
-   "para": 22,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "As I drove to the house I told him of what had passed, and of how my own\ndiary had come to be of some use through Mrs. Harker’s suggestion; at\nwhich the Professor interrupted me:—"
-  },
-  {
-   "n": 42,
-   "para": 23,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Ah, that wonderful Madam Mina! She has man’s brain—a brain that a man\nshould have were he much gifted—and a woman’s heart. The good God\nfashioned her for a purpose, believe me, when He made that so good\ncombination. Friend John, up to now fortune has made that woman of help\nto us; after to-night she must not have to do with this so terrible\naffair. It is not good that she run a risk so great. We men are\ndetermined—nay, are we not pledged?—to destroy this monster; but it is\nno part for a woman. Even if she be not harmed, her heart may fail her\nin so much and so many horrors; and hereafter she may suffer—both in\nwaking, from her nerves, and in sleep, from her dreams. And, besides,\nshe is young woman and not so long married; there may be other things to\nthink of some time, if not now. You tell me she has wrote all, then she\nmust consult with us; but to-morrow she say good-bye to this work, and\nwe go alone.”"
-  },
-  {
-   "n": 43,
-   "para": 23,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I agreed heartily with him, and then I told him what we\nhad found in his absence: that the house which Dracula had bought was\nthe very next one to my own. He was amazed, and a great concern seemed\nto come on him."
-  },
-  {
-   "n": 44,
-   "para": 23,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Oh that we had known it before!”"
-  },
-  {
-   "n": 45,
-   "para": 23,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "he said,"
-  },
-  {
-   "n": 46,
-   "para": 23,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“for then we\nmight have reached him in time to save poor Lucy. However, ‘the milk\nthat is spilt cries not out afterwards,’ as you say. We shall not think\nof that, but go on our way to the end.”"
-  },
-  {
-   "n": 47,
-   "para": 23,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "Then he fell into a silence that\nlasted till we entered my own gateway. Before we went to prepare for\ndinner he said to Mrs. Harker:—"
-  },
-  {
-   "n": 48,
-   "para": 24,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“I am told, Madam Mina, by my friend John that you and your husband have\nput up in exact order all things that have been, up to this moment.”"
-  },
-  {
-   "n": 49,
-   "para": 25,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“Not up to this moment, Professor,”"
-  },
-  {
-   "n": 50,
-   "para": 25,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "she said impulsively,"
-  },
-  {
-   "n": 51,
-   "para": 25,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“but up to\nthis morning.”"
-  },
-  {
-   "n": 52,
-   "para": 26,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“But why not up to now? We have seen hitherto how good light all the\nlittle things have made. We have told our secrets, and yet no one who\nhas told is the worse for it.”"
-  },
-  {
-   "n": 53,
-   "para": 27,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "Mrs. Harker began to blush, and taking a paper from her pockets, she\nsaid:—"
-  },
-  {
-   "n": 54,
-   "para": 28,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "“Dr. Van Helsing, will you read this, and tell me if it must go in. It\nis my record of to-day. I too have seen the need of putting down at\npresent everything, however trivial; but there is little in this except\nwhat is personal. Must it go in?”"
-  },
-  {
-   "n": 55,
-   "para": 28,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "The Professor read it over gravely,\nand handed it back, saying:—"
-  },
-  {
-   "n": 56,
-   "para": 29,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“It need not go in if you do not wish it; but I pray that it may. It can\nbut make your husband love you the more, and all us, your friends, more\nhonour you—as well as more esteem and love.”"
-  },
-  {
-   "n": 57,
-   "para": 29,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "She took it back with\nanother blush and a bright smile."
-  },
-  {
-   "n": 58,
-   "para": 30,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "And so now, up to this very hour, all the records we have are complete\nand in order. The Professor took away one copy to study after dinner,\nand before our meeting, which is fixed for nine o’clock. The rest of us\nhave already read everything; so when we meet in the study we shall all\nbe informed as to facts, and can arrange our plan of battle with this\nterrible and mysterious enemy."
-  },
-  {
-   "n": 59,
-   "score": {
-    "key": null,
-    "at": "Mina Harker’s Journal.",
-    "xfade": 6
-   },
-   "para": 31,
-   "role": "Narrator",
-   "cast": "Bram Stoker",
-   "text": "Mina Harker’s Journal."
-  },
-  {
-   "n": 60,
-   "para": 32,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "30 September. —When we met in Dr. Seward’s study two hours after\ndinner, which had been at six o’clock, we unconsciously formed a sort of\nboard or committee. Professor Van Helsing took the head of the table, to\nwhich Dr. Seward motioned him as he came into the room. He made me sit\nnext to him on his right, and asked me to act as secretary; Jonathan sat\nnext to me. Opposite us were Lord Godalming, Dr. Seward, and Mr.\nMorris—Lord Godalming being next the Professor, and Dr. Seward in the\ncentre. The Professor said:—"
-  },
-  {
-   "n": 61,
-   "para": 33,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“I may, I suppose, take it that we are all acquainted with the facts\nthat are in these papers.”"
-  },
-  {
-   "n": 62,
-   "para": 33,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "We all expressed assent, and he went on:—"
-  },
-  {
-   "n": 63,
-   "para": 34,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Then it were, I think good that I tell you something of the kind of\nenemy with which we have to deal. I shall then make known to you\nsomething of the history of this man, which has been ascertained for me.\nSo we then can discuss how we shall act, and can take our measure\naccording."
-  },
-  {
-   "n": 64,
-   "score": {
-    "key": "dread",
-    "at": "There are such beings as vampires",
-    "xfade": 6
-   },
-   "para": 35,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“There are such beings as vampires; some of us have evidence that they\nexist. Even had we not the proof of our own unhappy experience, the\nteachings and the records of the past give proof enough for sane\npeoples. I admit that at the first I was sceptic. Were it not that\nthrough long years I have train myself to keep an open mind, I could not\nhave believe until such time as that fact thunder on my ear. ‘See! see!\nI prove; I prove.’ Alas! Had I known at the first what now I know—nay,\nhad I even guess at him—one so precious life had been spared to many of\nus who did love her. But that is gone; and we must so work, that other\npoor souls perish not, whilst we can save. The nosferatu do not die\nlike the bee when he sting once. He is only stronger; and being\nstronger, have yet more power to work evil. This vampire which is\namongst us is of himself so strong in person as twenty men; he is of\ncunning more than mortal, for his cunning be the growth of ages; he have\nstill the aids of necromancy, which is, as his etymology imply, the\ndivination by the dead, and all the dead that he can come nigh to are\nfor him at command; he is brute, and more than brute; he is devil in\ncallous, and the heart of him is not; he can, within limitations, appear\nat will when, and where, and in any of the forms that are to him; he\ncan, within his range, direct the elements; the storm, the fog, the\nthunder; he can command all the meaner things: the rat, and the owl, and\nthe bat—the moth, and the fox, and the wolf; he can grow and become\nsmall; and he can at times vanish and come unknown. How then are we to\nbegin our strike to destroy him? How shall we find his where; and having\nfound it, how can we destroy? My friends, this is much; it is a terrible\ntask that we undertake, and there may be consequence to make the brave\nshudder. For if we fail in this our fight he must surely win; and then\nwhere end we? Life is nothings; I heed him not. But to fail here, is not\nmere life or death. It is that we become as him; that we henceforward\nbecome foul things of the night like him—without heart or conscience,\npreying on the bodies and the souls of those we love best. To us for\never are the gates of heaven shut; for who shall open them to us again?\nWe go on for all time abhorred by all; a blot on the face of God’s\nsunshine; an arrow in the side of Him who died for man. But we are face\nto face with duty; and in such case must we shrink? For me, I say, no;\nbut then I am old, and life, with his sunshine, his fair places, his\nsong of birds, his music and his love, lie far behind. You others are\nyoung. Some have seen sorrow; but there are fair days yet in store. What\nsay you?”"
-  },
-  {
-   "n": 65,
-   "para": 36,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "Whilst he was speaking, Jonathan had taken my hand. I feared, oh so\nmuch, that the appalling nature of our danger was overcoming him when I\nsaw his hand stretch out; but it was life to me to feel its touch—so\nstrong, so self-reliant, so resolute. A brave man’s hand can speak for\nitself; it does not even need a woman’s love to hear its music."
-  },
-  {
-   "n": 66,
-   "para": 37,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "When the Professor had done speaking my husband looked in my eyes, and I\nin his; there was no need for speaking between us."
-  },
-  {
-   "n": 67,
-   "para": 38,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "“I answer for Mina and myself,”"
-  },
-  {
-   "n": 68,
-   "para": 38,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "he said."
-  },
-  {
-   "n": 69,
-   "para": 39,
-   "role": "Quincey Morris",
-   "cast": "Lyndon B. Johnson",
-   "text": "“Count me in, Professor,”"
-  },
-  {
-   "n": 70,
-   "para": 39,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "said Mr. Quincey Morris, laconically as usual."
-  },
-  {
-   "n": 71,
-   "para": 40,
-   "role": "Arthur Holmwood",
-   "cast": "J.R.R. Tolkien",
-   "text": "“I am with you,”"
-  },
-  {
-   "n": 72,
-   "para": 40,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "said Lord Godalming,"
-  },
-  {
-   "n": 73,
-   "para": 40,
-   "role": "Arthur Holmwood",
-   "cast": "J.R.R. Tolkien",
-   "text": "“for Lucy’s sake, if for no other\nreason.”"
-  },
-  {
-   "n": 74,
-   "para": 41,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "Dr. Seward simply nodded. The Professor stood up and, after laying his\ngolden crucifix on the table, held out his hand on either side. I took\nhis right hand, and Lord Godalming his left; Jonathan held my right with\nhis left and stretched across to Mr. Morris. So as we all took hands our\nsolemn compact was made. I felt my heart icy cold, but it did not even\noccur to me to draw back. We resumed our places, and Dr. Van Helsing\nwent on with a sort of cheerfulness which showed that the serious work\nhad begun. It was to be taken as gravely, and in as businesslike a way,\nas any other transaction of life:—"
-  },
-  {
-   "n": 75,
-   "para": 42,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Well, you know what we have to contend against; but we, too, are not\nwithout strength. We have on our side power of combination—a power\ndenied to the vampire kind; we have sources of science; we are free to\nact and think; and the hours of the day and the night are ours equally.\nIn fact, so far as our powers extend, they are unfettered, and we are\nfree to use them. We have self-devotion in a cause, and an end to\nachieve which is not a selfish one. These things are much."
-  },
-  {
-   "n": 76,
-   "para": 43,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Now let us see how far the general powers arrayed against us are\nrestrict, and how the individual cannot. In fine, let us consider the\nlimitations of the vampire in general, and of this one in particular."
-  },
-  {
-   "n": 77,
-   "para": 44,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“All we have to go upon are traditions and superstitions. These do not\nat the first appear much, when the matter is one of life and death—nay\nof more than either life or death. Yet must we be satisfied; in the\nfirst place because we have to be—no other means is at our control—and\nsecondly, because, after all, these things—tradition and\nsuperstition—are everything. Does not the belief in vampires rest for\nothers—though not, alas! for us—on them? A year ago which of us would\nhave received such a possibility, in the midst of our scientific,\nsceptical, matter-of-fact nineteenth century? We even scouted a belief\nthat we saw justified under our very eyes. Take it, then, that the\nvampire, and the belief in his limitations and his cure, rest for the\nmoment on the same base. For, let me tell you, he is known everywhere\nthat men have been. In old Greece, in old Rome; he flourish in Germany\nall over, in France, in India, even in the Chernosese; and in China, so\nfar from us in all ways, there even is he, and the peoples fear him at\nthis day. He have follow the wake of the berserker Icelander, the\ndevil-begotten Hun, the Slav, the Saxon, the Magyar. So far, then, we\nhave all we may act upon; and let me tell you that very much of the\nbeliefs are justified by what we have seen in our own so unhappy\nexperience. The vampire live on, and cannot die by mere passing of the\ntime; he can flourish when that he can fatten on the blood of the\nliving. Even more, we have seen amongst us that he can even grow\nyounger; that his vital faculties grow strenuous, and seem as though\nthey refresh themselves when his special pabulum is plenty. But he\ncannot flourish without this diet; he eat not as others. Even friend\nJonathan, who lived with him for weeks, did never see him to eat, never!\nHe throws no shadow; he make in the mirror no reflect, as again\nJonathan observe. He has the strength of many of his hand—witness again\nJonathan when he shut the door against the wolfs, and when he help him\nfrom the diligence too. He can transform himself to wolf, as we gather\nfrom the ship arrival in Whitby, when he tear open the dog; he can be as\nbat, as Madam Mina saw him on the window at Whitby, and as friend John\nsaw him fly from this so near house, and as my friend Quincey saw him at\nthe window of Miss Lucy. He can come in mist which he create—that noble\nship’s captain proved him of this; but, from what we know, the distance\nhe can make this mist is limited, and it can only be round himself. He\ncome on moonlight rays as elemental dust—as again Jonathan saw those\nsisters in the castle of Dracula. He become so small—we ourselves saw\nMiss Lucy, ere she was at peace, slip through a hairbreadth space at the\ntomb door. He can, when once he find his way, come out from anything or\ninto anything, no matter how close it be bound or even fused up with\nfire—solder you call it. He can see in the dark—no small power this,\nin a world which is one half shut from the light. Ah, but hear me\nthrough. He can do all these things, yet he is not free. Nay; he is even\nmore prisoner than the slave of the galley, than the madman in his cell.\nHe cannot go where he lists; he who is not of nature has yet to obey\nsome of nature’s laws—why we know not. He may not enter anywhere at the\nfirst, unless there be some one of the household who bid him to come;\nthough afterwards he can come as he please. His power ceases, as does\nthat of all evil things, at the coming of the day. Only at certain times\ncan he have limited freedom. If he be not at the place whither he is\nbound, he can only change himself at noon or at exact sunrise or sunset.\nThese things are we told, and in this record of ours we have proof by\ninference. Thus, whereas he can do as he will within his limit, when he\nhave his earth-home, his coffin-home, his hell-home, the place\nunhallowed, as we saw when he went to the grave of the suicide at\nWhitby; still at other time he can only change when the time come. It is\nsaid, too, that he can only pass running water at the slack or the flood\nof the tide. Then there are things which so afflict him that he has no\npower, as the garlic that we know of; and as for things sacred, as this\nsymbol, my crucifix, that was amongst us even now when we resolve, to\nthem he is nothing, but in their presence he take his place far off and\nsilent with respect. There are others, too, which I shall tell you of,\nlest in our seeking we may need them. The branch of wild rose on his\ncoffin keep him that he move not from it; a sacred bullet fired into the\ncoffin kill him so that he be true dead; and as for the stake through\nhim, we know already of its peace; or the cut-off head that giveth rest.\nWe have seen it with our eyes."
-  },
-  {
-   "n": 78,
-   "para": 45,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Thus when we find the habitation of this man-that-was, we can confine\nhim to his coffin and destroy him, if we obey what we know. But he is\nclever. I have asked my friend Arminius, of Buda-Pesth University, to\nmake his record; and, from all the means that are, he tell me of what he\nhas been. He must, indeed, have been that Voivode Dracula who won his\nname against the Turk, over the great river on the very frontier of\nTurkey-land. If it be so, then was he no common man; for in that time,\nand for centuries after, he was spoken of as the cleverest and the most\ncunning, as well as the bravest of the sons of the ‘land beyond the\nforest.’ That mighty brain and that iron resolution went with him to his\ngrave, and are even now arrayed against us. The Draculas were, says\nArminius, a great and noble race, though now and again were scions who\nwere held by their coevals to have had dealings with the Evil One. They\nlearned his secrets in the Scholomance, amongst the mountains over Lake\nHermanstadt, where the devil claims the tenth scholar as his due. In the\nrecords are such words as ‘stregoica’—witch, ‘ordog,’ and\n‘pokol’—Satan and hell; and in one manuscript this very Dracula is\nspoken of as ‘wampyr,’ which we all understand too well. There have been\nfrom the loins of this very one great men and good women, and their\ngraves make sacred the earth where alone this foulness can dwell. For it\nis not the least of its terrors that this evil thing is rooted deep in\nall good; in soil barren of holy memories it cannot rest.”"
-  },
-  {
-   "n": 79,
-   "para": 46,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "Whilst they were talking Mr. Morris was looking steadily at the window,\nand he now got up quietly, and went out of the room. There was a little\npause, and then the Professor went on:—"
-  },
-  {
-   "n": 80,
-   "para": 47,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“And now we must settle what we do. We have here much data, and we must\nproceed to lay out our campaign. We know from the inquiry of Jonathan\nthat from the castle to Whitby came fifty boxes of earth, all of which\nwere delivered at Carfax; we also know that at least some of these boxes\nhave been removed. It seems to me, that our first step should be to\nascertain whether all the rest remain in the house beyond that wall\nwhere we look to-day; or whether any more have been removed. If the\nlatter, we must trace——”"
-  },
-  {
-   "n": 81,
-   "sfx": [
+  "work": "dracula",
+  "episode": 18,
+  "chapter": 18,
+  "title": "Renfield Asks to Be Let Go",
+  "document": "DR SEWARD'S DIARY · MINA HARKER'S JOURNAL",
+  "source": {
+    "library": "library/bram-stoker/ch18.md",
+    "text": "Bram Stoker, Dracula (1897) · Project Gutenberg #345 · public domain"
+  },
+  "note": "Chapter XVIII complete. Each document read by its writer; Stoker reads the chapter and every heading. Principal characters — and Renfield — speak for themselves inside journals and diaries; anyone else is spoken by the writer; letters, telegrams and memoranda are read whole. Every cue is byte-identical to the library file, line breaks included. Attributions in REVIEW-XVIII-XXII.md.",
+  "cast": [
     {
-     "key": "pistol_shot",
-     "at": "the sound of a pistol-shot"
+      "role": "Narrator",
+      "cast_as": "Bram Stoker"
     },
     {
-     "key": "glass_crash",
-     "at": "was shattered with a"
-    }
-   ],
-   "para": 48,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "Here we were interrupted in a very startling way. Outside the house came\nthe sound of a pistol-shot; the glass of the window was shattered with a\nbullet, which, ricochetting from the top of the embrasure, struck the\nfar wall of the room. I am afraid I am at heart a coward, for I shrieked\nout. The men all jumped to their feet; Lord Godalming flew over to the\nwindow and threw up the sash. As he did so we heard Mr. Morris’s voice\nwithout:—"
-  },
-  {
-   "n": 82,
-   "para": 49,
-   "role": "Quincey Morris",
-   "cast": "Lyndon B. Johnson",
-   "text": "“Sorry! I fear I have alarmed you. I shall come in and tell you about\nit.”"
-  },
-  {
-   "n": 83,
-   "para": 49,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "A minute later he came in and said:—"
-  },
-  {
-   "n": 84,
-   "sfx": [
+      "role": "Dr Seward",
+      "cast_as": "William Harvey"
+    },
     {
-     "key": "wing_beat",
-     "at": "there came a big bat"
+      "role": "Mina Harker",
+      "cast_as": "Agatha Christie"
+    },
+    {
+      "role": "Renfield",
+      "cast_as": "Jack the Ripper"
+    },
+    {
+      "role": "Van Helsing",
+      "cast_as": "Antony van Leeuwenhoek"
+    },
+    {
+      "role": "Jonathan Harker",
+      "cast_as": "Charles Darwin"
+    },
+    {
+      "role": "Quincey Morris",
+      "cast_as": "Lyndon B. Johnson"
+    },
+    {
+      "role": "Arthur Holmwood",
+      "cast_as": "J.R.R. Tolkien"
     }
-   ],
-   "para": 50,
-   "role": "Quincey Morris",
-   "cast": "Lyndon B. Johnson",
-   "text": "“It was an idiotic thing of me to do, and I ask your pardon, Mrs.\nHarker, most sincerely; I fear I must have frightened you terribly. But\nthe fact is that whilst the Professor was talking there came a big bat\nand sat on the window-sill. I have got such a horror of the damned\nbrutes from recent events that I cannot stand them, and I went out to\nhave a shot, as I have been doing of late of evenings, whenever I have\nseen one. You used to laugh at me for it then, Art.”"
-  },
-  {
-   "n": 85,
-   "para": 51,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Did you hit it?”"
-  },
-  {
-   "n": 86,
-   "para": 51,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "asked Dr. Van Helsing."
-  },
-  {
-   "n": 87,
-   "para": 52,
-   "role": "Quincey Morris",
-   "cast": "Lyndon B. Johnson",
-   "text": "“I don’t know; I fancy not, for it flew away into the wood.”"
-  },
-  {
-   "n": 88,
-   "para": 52,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "Without\nsaying any more he took his seat, and the Professor began to resume his\nstatement:—"
-  },
-  {
-   "n": 89,
-   "para": 53,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“We must trace each of these boxes; and when we are ready, we must\neither capture or kill this monster in his lair; or we must, so to\nspeak, sterilise the earth, so that no more he can seek safety in it.\nThus in the end we may find him in his form of man between the hours of\nnoon and sunset, and so engage with him when he is at his most weak."
-  },
-  {
-   "n": 90,
-   "para": 54,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“And now for you, Madam Mina, this night is the end until all be well.\nYou are too precious to us to have such risk. When we part to-night, you\nno more must question. We shall tell you all in good time. We are men\nand are able to bear; but you must be our star and our hope, and we\nshall act all the more free that you are not in the danger, such as we\nare.”"
-  },
-  {
-   "n": 91,
-   "para": 55,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "All the men, even Jonathan, seemed relieved; but it did not seem to me\ngood that they should brave danger and, perhaps, lessen their\nsafety—strength being the best safety—through care of me; but their\nminds were made up, and, though it was a bitter pill for me to swallow,\nI could say nothing, save to accept their chivalrous care of me."
-  },
-  {
-   "n": 92,
-   "para": 56,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "Mr. Morris resumed the discussion:—"
-  },
-  {
-   "n": 93,
-   "para": 57,
-   "role": "Quincey Morris",
-   "cast": "Lyndon B. Johnson",
-   "text": "“As there is no time to lose, I vote we have a look at his house right\nnow. Time is everything with him; and swift action on our part may save\nanother victim.”"
-  },
-  {
-   "n": 94,
-   "para": 58,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "I own that my heart began to fail me when the time for action came so\nclose, but I did not say anything, for I had a greater fear that if I\nappeared as a drag or a hindrance to their work, they might even leave\nme out of their counsels altogether. They have now gone off to Carfax,\nwith means to get into the house."
-  },
-  {
-   "n": 95,
-   "para": 59,
-   "role": "Mina Harker",
-   "cast": "Agatha Christie",
-   "text": "Manlike, they had told me to go to bed and sleep; as if a woman can\nsleep when those she loves are in danger! I shall lie down and pretend\nto sleep, lest Jonathan have added anxiety about me when he returns."
-  },
-  {
-   "n": 96,
-   "score": {
-    "key": "phonograph",
-    "at": "Dr. Seward’s Diary.",
-    "xfade": 4
-   },
-   "para": 60,
-   "role": "Narrator",
-   "cast": "Bram Stoker",
-   "text": "Dr. Seward’s Diary."
-  },
-  {
-   "n": 97,
-   "para": 61,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "1 October, 4 a. m. —Just as we were about to leave the house, an\nurgent message was brought to me from Renfield to know if I would see\nhim at once, as he had something of the utmost importance to say to me.\nI told the messenger to say that I would attend to his wishes in the\nmorning; I was busy just at the moment. The attendant added:—"
-  },
-  {
-   "n": 98,
-   "para": 62,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“He seems very importunate, sir. I have never seen him so eager. I don’t\nknow but what, if you don’t see him soon, he will have one of his\nviolent fits.” I knew the man would not have said this without some\ncause, so I said: “All right; I’ll go now”; and I asked the others to\nwait a few minutes for me, as I had to go and see my “patient.”"
-  },
-  {
-   "n": 99,
-   "para": 63,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Take me with you, friend John,”"
-  },
-  {
-   "n": 100,
-   "para": 63,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "said the Professor."
-  },
-  {
-   "n": 101,
-   "para": 63,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“His case in your\ndiary interest me much, and it had bearing, too, now and again on our\ncase. I should much like to see him, and especial when his mind is\ndisturbed.”"
-  },
-  {
-   "n": 102,
-   "para": 64,
-   "role": "Arthur Holmwood",
-   "cast": "J.R.R. Tolkien",
-   "text": "“May I come also?”"
-  },
-  {
-   "n": 103,
-   "para": 64,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "asked Lord Godalming."
-  },
-  {
-   "n": 104,
-   "para": 65,
-   "role": "Quincey Morris",
-   "cast": "Lyndon B. Johnson",
-   "text": "“Me too?”"
-  },
-  {
-   "n": 105,
-   "para": 65,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "said Quincey Morris."
-  },
-  {
-   "n": 106,
-   "para": 65,
-   "role": "Jonathan Harker",
-   "cast": "Charles Darwin",
-   "text": "“May I come?”"
-  },
-  {
-   "n": 107,
-   "para": 65,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "said Harker. I nodded, and\nwe all went down the passage together."
-  },
-  {
-   "n": 108,
-   "para": 66,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "We found him in a state of considerable excitement, but far more\nrational in his speech and manner than I had ever seen him. There was an\nunusual understanding of himself, which was unlike anything I had ever\nmet with in a lunatic; and he took it for granted that his reasons would\nprevail with others entirely sane. We all four went into the room, but\nnone of the others at first said anything. His request was that I would\nat once release him from the asylum and send him home. This he backed up\nwith arguments regarding his complete recovery, and adduced his own\nexisting sanity."
-  },
-  {
-   "n": 109,
-   "para": 66,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“I appeal to your friends,”"
-  },
-  {
-   "n": 110,
-   "para": 66,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "he said,"
-  },
-  {
-   "n": 111,
-   "para": 66,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“they will,\nperhaps, not mind sitting in judgment on my case. By the way, you have\nnot introduced me.”"
-  },
-  {
-   "n": 112,
-   "para": 66,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I was so much astonished, that the oddness of\nintroducing a madman in an asylum did not strike me at the moment; and,\nbesides, there was a certain dignity in the man’s manner, so much of\nthe habit of equality, that I at once made the introduction: “Lord\nGodalming; Professor Van Helsing; Mr. Quincey Morris, of Texas; Mr.\nRenfield.” He shook hands with each of them, saying in turn:—"
-  },
-  {
-   "n": 113,
-   "para": 67,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Lord Godalming, I had the honour of seconding your father at the\nWindham; I grieve to know, by your holding the title, that he is no\nmore. He was a man loved and honoured by all who knew him; and in his\nyouth was, I have heard, the inventor of a burnt rum punch, much\npatronised on Derby night. Mr. Morris, you should be proud of your great\nstate. Its reception into the Union was a precedent which may have\nfar-reaching effects hereafter, when the Pole and the Tropics may hold\nalliance to the Stars and Stripes. The power of Treaty may yet prove a\nvast engine of enlargement, when the Monroe doctrine takes its true\nplace as a political fable. What shall any man say of his pleasure at\nmeeting Van Helsing? Sir, I make no apology for dropping all forms of\nconventional prefix. When an individual has revolutionised therapeutics\nby his discovery of the continuous evolution of brain-matter,\nconventional forms are unfitting, since they would seem to limit him to\none of a class. You, gentlemen, who by nationality, by heredity, or by\nthe possession of natural gifts, are fitted to hold your respective\nplaces in the moving world, I take to witness that I am as sane as at\nleast the majority of men who are in full possession of their liberties.\nAnd I am sure that you, Dr. Seward, humanitarian and medico-jurist as\nwell as scientist, will deem it a moral duty to deal with me as one to\nbe considered as under exceptional circumstances.”"
-  },
-  {
-   "n": 114,
-   "para": 67,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "He made this last\nappeal with a courtly air of conviction which was not without its own\ncharm."
-  },
-  {
-   "n": 115,
-   "para": 68,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I think we were all staggered. For my own part, I was under the\nconviction, despite my knowledge of the man’s character and history,\nthat his reason had been restored; and I felt under a strong impulse to\ntell him that I was satisfied as to his sanity, and would see about the\nnecessary formalities for his release in the morning. I thought it\nbetter to wait, however, before making so grave a statement, for of old\nI knew the sudden changes to which this particular patient was liable.\nSo I contented myself with making a general statement that he appeared\nto be improving very rapidly; that I would have a longer chat with him\nin the morning, and would then see what I could do in the direction of\nmeeting his wishes. This did not at all satisfy him, for he said\nquickly:—"
-  },
-  {
-   "n": 116,
-   "para": 69,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“But I fear, Dr. Seward, that you hardly apprehend my wish. I desire to\ngo at once—here—now—this very hour—this very moment, if I may. Time\npresses, and in our implied agreement with the old scytheman it is of\nthe essence of the contract. I am sure it is only necessary to put\nbefore so admirable a practitioner as Dr. Seward so simple, yet so\nmomentous a wish, to ensure its fulfilment.”"
-  },
-  {
-   "n": 117,
-   "para": 69,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "He looked at me keenly, and\nseeing the negative in my face, turned to the others, and scrutinised\nthem closely. Not meeting any sufficient response, he went on:—"
-  },
-  {
-   "n": 118,
-   "para": 70,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Is it possible that I have erred in my supposition?”"
-  },
-  {
-   "n": 119,
-   "para": 71,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“You have,” I said frankly, but at the same time, as I felt, brutally.\nThere was a considerable pause, and then he said slowly:—"
-  },
-  {
-   "n": 120,
-   "para": 72,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Then I suppose I must only shift my ground of request. Let me ask for\nthis concession—boon, privilege, what you will. I am content to implore\nin such a case, not on personal grounds, but for the sake of others. I\nam not at liberty to give you the whole of my reasons; but you may, I\nassure you, take it from me that they are good ones, sound and\nunselfish, and spring from the highest sense of duty. Could you look,\nsir, into my heart, you would approve to the full the sentiments which\nanimate me. Nay, more, you would count me amongst the best and truest of\nyour friends.”"
-  },
-  {
-   "n": 121,
-   "para": 72,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "Again he looked at us all keenly. I had a growing\nconviction that this sudden change of his entire intellectual method was\nbut yet another form or phase of his madness, and so determined to let\nhim go on a little longer, knowing from experience that he would, like\nall lunatics, give himself away in the end. Van Helsing was gazing at\nhim with a look of utmost intensity, his bushy eyebrows almost meeting\nwith the fixed concentration of his look. He said to Renfield in a tone\nwhich did not surprise me at the time, but only when I thought of it\nafterwards—for it was as of one addressing an equal:—"
-  },
-  {
-   "n": 122,
-   "para": 73,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Can you not tell frankly your real reason for wishing to be free\nto-night? I will undertake that if you will satisfy even me—a stranger,\nwithout prejudice, and with the habit of keeping an open mind—Dr.\nSeward will give you, at his own risk and on his own responsibility, the\nprivilege you seek.”"
-  },
-  {
-   "n": 123,
-   "para": 73,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "He shook his head sadly, and with a look of\npoignant regret on his face. The Professor went on:—"
-  },
-  {
-   "n": 124,
-   "para": 74,
-   "role": "Van Helsing",
-   "cast": "Antony van Leeuwenhoek",
-   "text": "“Come, sir, bethink yourself. You claim the privilege of reason in the\nhighest degree, since you seek to impress us with your complete\nreasonableness. You do this, whose sanity we have reason to doubt, since\nyou are not yet released from medical treatment for this very defect. If\nyou will not help us in our effort to choose the wisest course, how can\nwe perform the duty which you yourself put upon us? Be wise, and help\nus; and if we can we shall aid you to achieve your wish.”"
-  },
-  {
-   "n": 125,
-   "para": 74,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "He still shook\nhis head as he said:—"
-  },
-  {
-   "n": 126,
-   "para": 75,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Dr. Van Helsing, I have nothing to say. Your argument is complete, and\nif I were free to speak I should not hesitate a moment; but I am not my\nown master in the matter. I can only ask you to trust me. If I am\nrefused, the responsibility does not rest with me.”"
-  },
-  {
-   "n": 127,
-   "para": 75,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I thought it was now\ntime to end the scene, which was becoming too comically grave, so I went\ntowards the door, simply saying:—"
-  },
-  {
-   "n": 128,
-   "para": 76,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“Come, my friends, we have work to do. Good-night.”"
-  },
-  {
-   "n": 129,
-   "para": 77,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "As, however, I got near the door, a new change came over the patient. He\nmoved towards me so quickly that for the moment I feared that he was\nabout to make another homicidal attack. My fears, however, were\ngroundless, for he held up his two hands imploringly, and made his\npetition in a moving manner. As he saw that the very excess of his\nemotion was militating against him, by restoring us more to our old\nrelations, he became still more demonstrative. I glanced at Van Helsing,\nand saw my conviction reflected in his eyes; so I became a little more\nfixed in my manner, if not more stern, and motioned to him that his\nefforts were unavailing. I had previously seen something of the same\nconstantly growing excitement in him when he had to make some request of\nwhich at the time he had thought much, such, for instance, as when he\nwanted a cat; and I was prepared to see the collapse into the same\nsullen acquiescence on this occasion. My expectation was not realised,\nfor, when he found that his appeal would not be successful, he got into\nquite a frantic condition. He threw himself on his knees, and held up\nhis hands, wringing them in plaintive supplication, and poured forth a\ntorrent of entreaty, with the tears rolling down his cheeks, and his\nwhole face and form expressive of the deepest emotion:—"
-  },
-  {
-   "n": 130,
-   "score": {
-    "key": "dread",
-    "at": "Let me entreat you",
-    "xfade": 4
-   },
-   "para": 78,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“Let me entreat you, Dr. Seward, oh, let me implore you, to let me out\nof this house at once. Send me away how you will and where you will;\nsend keepers with me with whips and chains; let them take me in a\nstrait-waistcoat, manacled and leg-ironed, even to a gaol; but let me go\nout of this. You don’t know what you do by keeping me here. I am\nspeaking from the depths of my heart—of my very soul. You don’t know\nwhom you wrong, or how; and I may not tell. Woe is me! I may not tell.\nBy all you hold sacred—by all you hold dear—by your love that is\nlost—by your hope that lives—for the sake of the Almighty, take me out\nof this and save my soul from guilt! Can’t you hear me, man? Can’t you\nunderstand? Will you never learn? Don’t you know that I am sane and\nearnest now; that I am no lunatic in a mad fit, but a sane man fighting\nfor his soul? Oh, hear me! hear me! Let me go! let me go! let me go!”"
-  },
-  {
-   "n": 131,
-   "para": 79,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "I thought that the longer this went on the wilder he would get, and so\nwould bring on a fit; so I took him by the hand and raised him up."
-  },
-  {
-   "n": 132,
-   "para": 80,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "“Come,” I said sternly, “no more of this; we have had quite enough\nalready. Get to your bed and try to behave more discreetly.”"
-  },
-  {
-   "n": 133,
-   "para": 81,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "He suddenly stopped and looked at me intently for several moments. Then,\nwithout a word, he rose and moving over, sat down on the side of the\nbed. The collapse had come, as on former occasion, just as I had\nexpected."
-  },
-  {
-   "n": 134,
-   "para": 82,
-   "role": "Dr Seward",
-   "cast": "William Harvey",
-   "text": "When I was leaving the room, last of our party, he said to me in a\nquiet, well-bred voice:—"
-  },
-  {
-   "n": 135,
-   "para": 83,
-   "role": "Renfield",
-   "cast": "Jack the Ripper",
-   "text": "“You will, I trust, Dr. Seward, do me the justice to bear in mind, later\non, that I did what I could to convince you to-night.”"
-  }
- ]
+  ],
+  "cues": [
+    {
+      "n": 1,
+      "para": 0,
+      "role": "Narrator",
+      "cast": "Bram Stoker",
+      "text": "CHAPTER XVIII"
+    },
+    {
+      "n": 2,
+      "score": {
+        "key": "phonograph",
+        "at": "DR. SEWARD’S DIARY",
+        "xfade": 4
+      },
+      "para": 1,
+      "role": "Narrator",
+      "cast": "Bram Stoker",
+      "text": "DR. SEWARD’S DIARY"
+    },
+    {
+      "n": 3,
+      "para": 2,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "30 September. —I got home at five o’clock, and found that Godalming\nand Morris had not only arrived, but had already studied the transcript\nof the various diaries and letters which Harker and his wonderful wife\nhad made and arranged. Harker had not yet returned from his visit to the\ncarriers’ men, of whom Dr. Hennessey had written to me. Mrs. Harker gave\nus a cup of tea, and I can honestly say that, for the first time since I\nhave lived in it, this old house seemed like home . When we had\nfinished, Mrs. Harker said:—"
+    },
+    {
+      "n": 4,
+      "para": 3,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“Dr. Seward, may I ask a favour? I want to see your patient, Mr.\nRenfield. Do let me see him. What you have said of him in your diary\ninterests me so much!”"
+    },
+    {
+      "n": 5,
+      "para": 3,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "She looked so appealing and so pretty that I\ncould not refuse her, and there was no possible reason why I should; so\nI took her with me. When I went into the room, I told the man that a\nlady would like to see him; to which he simply answered:"
+    },
+    {
+      "n": 6,
+      "para": 3,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Why?”"
+    },
+    {
+      "n": 7,
+      "para": 4,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“She is going through the house, and wants to see every one in it,” I\nanswered."
+    },
+    {
+      "n": 8,
+      "para": 4,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Oh, very well,”"
+    },
+    {
+      "n": 9,
+      "para": 4,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "he said;"
+    },
+    {
+      "n": 10,
+      "para": 4,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“let her come in, by all means; but\njust wait a minute till I tidy up the place.”"
+    },
+    {
+      "n": 11,
+      "para": 4,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "His method of tidying was\npeculiar: he simply swallowed all the flies and spiders in the boxes\nbefore I could stop him. It was quite evident that he feared, or was\njealous of, some interference. When he had got through his disgusting\ntask, he said cheerfully:"
+    },
+    {
+      "n": 12,
+      "para": 4,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Let the lady come in,”"
+    },
+    {
+      "n": 13,
+      "para": 4,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "and sat down on the\nedge of his bed with his head down, but with his eyelids raised so that\nhe could see her as she entered. For a moment I thought that he might\nhave some homicidal intent; I remembered how quiet he had been just\nbefore he attacked me in my own study, and I took care to stand where I\ncould seize him at once if he attempted to make a spring at her. She\ncame into the room with an easy gracefulness which would at once command\nthe respect of any lunatic—for easiness is one of the qualities mad\npeople most respect. She walked over to him, smiling pleasantly, and\nheld out her hand."
+    },
+    {
+      "n": 14,
+      "para": 5,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“Good-evening, Mr. Renfield,”"
+    },
+    {
+      "n": 15,
+      "para": 5,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "said she."
+    },
+    {
+      "n": 16,
+      "para": 5,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“You see, I know you, for Dr.\nSeward has told me of you.”"
+    },
+    {
+      "n": 17,
+      "para": 5,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "He made no immediate reply, but eyed her all\nover intently with a set frown on his face. This look gave way to one\nof wonder, which merged in doubt; then, to my intense astonishment, he\nsaid:—"
+    },
+    {
+      "n": 18,
+      "para": 6,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“You’re not the girl the doctor wanted to marry, are you? You can’t be,\nyou know, for she’s dead.”"
+    },
+    {
+      "n": 19,
+      "para": 6,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "Mrs. Harker smiled sweetly as she replied:—"
+    },
+    {
+      "n": 20,
+      "para": 7,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“Oh no! I have a husband of my own, to whom I was married before I ever\nsaw Dr. Seward, or he me. I am Mrs. Harker.”"
+    },
+    {
+      "n": 21,
+      "para": 8,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Then what are you doing here?”"
+    },
+    {
+      "n": 22,
+      "para": 9,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“My husband and I are staying on a visit with Dr. Seward.”"
+    },
+    {
+      "n": 23,
+      "para": 10,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Then don’t stay.”"
+    },
+    {
+      "n": 24,
+      "para": 11,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“But why not?”"
+    },
+    {
+      "n": 25,
+      "para": 11,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I thought that this style of conversation might not be\npleasant to Mrs. Harker, any more than it was to me, so I joined in:—"
+    },
+    {
+      "n": 26,
+      "para": 12,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“How did you know I wanted to marry any one?” His reply was simply\ncontemptuous, given in a pause in which he turned his eyes from Mrs.\nHarker to me, instantly turning them back again:—"
+    },
+    {
+      "n": 27,
+      "para": 13,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“What an asinine question!”"
+    },
+    {
+      "n": 28,
+      "para": 14,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“I don’t see that at all, Mr. Renfield,”"
+    },
+    {
+      "n": 29,
+      "para": 14,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "said Mrs. Harker, at once\nchampioning me. He replied to her with as much courtesy and respect as\nhe had shown contempt to me:—"
+    },
+    {
+      "n": 30,
+      "para": 15,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“You will, of course, understand, Mrs. Harker, that when a man is so\nloved and honoured as our host is, everything regarding him is of\ninterest in our little community. Dr. Seward is loved not only by his\nhousehold and his friends, but even by his patients, who, being some of\nthem hardly in mental equilibrium, are apt to distort causes and\neffects. Since I myself have been an inmate of a lunatic asylum, I\ncannot but notice that the sophistic tendencies of some of its inmates\nlean towards the errors of non causa and ignoratio elenchi .”"
+    },
+    {
+      "n": 31,
+      "para": 15,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I\npositively opened my eyes at this new development. Here was my own pet\nlunatic—the most pronounced of his type that I had ever met\nwith—talking elemental philosophy, and with the manner of a polished\ngentleman. I wonder if it was Mrs. Harker’s presence which had touched\nsome chord in his memory. If this new phase was spontaneous, or in any\nway due to her unconscious influence, she must have some rare gift or\npower."
+    },
+    {
+      "n": 32,
+      "para": 16,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "We continued to talk for some time; and, seeing that he was seemingly\nquite reasonable, she ventured, looking at me questioningly as she\nbegan, to lead him to his favourite topic. I was again astonished, for\nhe addressed himself to the question with the impartiality of the\ncompletest sanity; he even took himself as an example when he mentioned\ncertain things."
+    },
+    {
+      "n": 33,
+      "para": 17,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Why, I myself am an instance of a man who had a strange belief. Indeed,\nit was no wonder that my friends were alarmed, and insisted on my being\nput under control. I used to fancy that life was a positive and\nperpetual entity, and that by consuming a multitude of live things, no\nmatter how low in the scale of creation, one might indefinitely prolong\nlife. At times I held the belief so strongly that I actually tried to\ntake human life. The doctor here will bear me out that on one occasion I\ntried to kill him for the purpose of strengthening my vital powers by\nthe assimilation with my own body of his life through the medium of his\nblood—relying, of course, upon the Scriptural phrase, ‘For the blood is\nthe life.’ Though, indeed, the vendor of a certain nostrum has\nvulgarised the truism to the very point of contempt. Isn’t that true,\ndoctor?”"
+    },
+    {
+      "n": 34,
+      "para": 17,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I nodded assent, for I was so amazed that I hardly knew what to\neither think or say; it was hard to imagine that I had seen him eat up\nhis spiders and flies not five minutes before. Looking at my watch, I\nsaw that I should go to the station to meet Van Helsing, so I told Mrs.\nHarker that it was time to leave. She came at once, after saying\npleasantly to Mr. Renfield:"
+    },
+    {
+      "n": 35,
+      "para": 17,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“Good-bye, and I hope I may see you often,\nunder auspices pleasanter to yourself,”"
+    },
+    {
+      "n": 36,
+      "para": 17,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "to which, to my astonishment, he\nreplied:—"
+    },
+    {
+      "n": 37,
+      "para": 18,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Good-bye, my dear. I pray God I may never see your sweet face again.\nMay He bless and keep you!”"
+    },
+    {
+      "n": 38,
+      "para": 19,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "When I went to the station to meet Van Helsing I left the boys behind\nme. Poor Art seemed more cheerful than he has been since Lucy first took\nill, and Quincey is more like his own bright self than he has been for\nmany a long day."
+    },
+    {
+      "n": 39,
+      "para": 20,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "Van Helsing stepped from the carriage with the eager nimbleness of a\nboy. He saw me at once, and rushed up to me, saying:—"
+    },
+    {
+      "n": 40,
+      "para": 21,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Ah, friend John, how goes all? Well? So! I have been busy, for I come\nhere to stay if need be. All affairs are settled with me, and I have\nmuch to tell. Madam Mina is with you? Yes. And her so fine husband? And\nArthur and my friend Quincey, they are with you, too? Good!”"
+    },
+    {
+      "n": 41,
+      "para": 22,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "As I drove to the house I told him of what had passed, and of how my own\ndiary had come to be of some use through Mrs. Harker’s suggestion; at\nwhich the Professor interrupted me:—"
+    },
+    {
+      "n": 42,
+      "para": 23,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Ah, that wonderful Madam Mina! She has man’s brain—a brain that a man\nshould have were he much gifted—and a woman’s heart. The good God\nfashioned her for a purpose, believe me, when He made that so good\ncombination. Friend John, up to now fortune has made that woman of help\nto us; after to-night she must not have to do with this so terrible\naffair. It is not good that she run a risk so great. We men are\ndetermined—nay, are we not pledged?—to destroy this monster; but it is\nno part for a woman. Even if she be not harmed, her heart may fail her\nin so much and so many horrors; and hereafter she may suffer—both in\nwaking, from her nerves, and in sleep, from her dreams. And, besides,\nshe is young woman and not so long married; there may be other things to\nthink of some time, if not now. You tell me she has wrote all, then she\nmust consult with us; but to-morrow she say good-bye to this work, and\nwe go alone.”"
+    },
+    {
+      "n": 43,
+      "para": 23,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I agreed heartily with him, and then I told him what we\nhad found in his absence: that the house which Dracula had bought was\nthe very next one to my own. He was amazed, and a great concern seemed\nto come on him."
+    },
+    {
+      "n": 44,
+      "para": 23,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Oh that we had known it before!”"
+    },
+    {
+      "n": 45,
+      "para": 23,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "he said,"
+    },
+    {
+      "n": 46,
+      "para": 23,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“for then we\nmight have reached him in time to save poor Lucy. However, ‘the milk\nthat is spilt cries not out afterwards,’ as you say. We shall not think\nof that, but go on our way to the end.”"
+    },
+    {
+      "n": 47,
+      "para": 23,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "Then he fell into a silence that\nlasted till we entered my own gateway. Before we went to prepare for\ndinner he said to Mrs. Harker:—"
+    },
+    {
+      "n": 48,
+      "para": 24,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“I am told, Madam Mina, by my friend John that you and your husband have\nput up in exact order all things that have been, up to this moment.”"
+    },
+    {
+      "n": 49,
+      "para": 25,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“Not up to this moment, Professor,”"
+    },
+    {
+      "n": 50,
+      "para": 25,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "she said impulsively,"
+    },
+    {
+      "n": 51,
+      "para": 25,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“but up to\nthis morning.”"
+    },
+    {
+      "n": 52,
+      "para": 26,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“But why not up to now? We have seen hitherto how good light all the\nlittle things have made. We have told our secrets, and yet no one who\nhas told is the worse for it.”"
+    },
+    {
+      "n": 53,
+      "para": 27,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "Mrs. Harker began to blush, and taking a paper from her pockets, she\nsaid:—"
+    },
+    {
+      "n": 54,
+      "para": 28,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "“Dr. Van Helsing, will you read this, and tell me if it must go in. It\nis my record of to-day. I too have seen the need of putting down at\npresent everything, however trivial; but there is little in this except\nwhat is personal. Must it go in?”"
+    },
+    {
+      "n": 55,
+      "para": 28,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "The Professor read it over gravely,\nand handed it back, saying:—"
+    },
+    {
+      "n": 56,
+      "para": 29,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“It need not go in if you do not wish it; but I pray that it may. It can\nbut make your husband love you the more, and all us, your friends, more\nhonour you—as well as more esteem and love.”"
+    },
+    {
+      "n": 57,
+      "para": 29,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "She took it back with\nanother blush and a bright smile."
+    },
+    {
+      "n": 58,
+      "para": 30,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "And so now, up to this very hour, all the records we have are complete\nand in order. The Professor took away one copy to study after dinner,\nand before our meeting, which is fixed for nine o’clock. The rest of us\nhave already read everything; so when we meet in the study we shall all\nbe informed as to facts, and can arrange our plan of battle with this\nterrible and mysterious enemy."
+    },
+    {
+      "n": 59,
+      "score": {
+        "key": null,
+        "at": "Mina Harker’s Journal.",
+        "xfade": 6
+      },
+      "para": 31,
+      "role": "Narrator",
+      "cast": "Bram Stoker",
+      "text": "Mina Harker’s Journal."
+    },
+    {
+      "n": 60,
+      "para": 32,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "30 September. —When we met in Dr. Seward’s study two hours after\ndinner, which had been at six o’clock, we unconsciously formed a sort of\nboard or committee. Professor Van Helsing took the head of the table, to\nwhich Dr. Seward motioned him as he came into the room. He made me sit\nnext to him on his right, and asked me to act as secretary; Jonathan sat\nnext to me. Opposite us were Lord Godalming, Dr. Seward, and Mr.\nMorris—Lord Godalming being next the Professor, and Dr. Seward in the\ncentre. The Professor said:—"
+    },
+    {
+      "n": 61,
+      "para": 33,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“I may, I suppose, take it that we are all acquainted with the facts\nthat are in these papers.”"
+    },
+    {
+      "n": 62,
+      "para": 33,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "We all expressed assent, and he went on:—"
+    },
+    {
+      "n": 63,
+      "para": 34,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Then it were, I think good that I tell you something of the kind of\nenemy with which we have to deal. I shall then make known to you\nsomething of the history of this man, which has been ascertained for me.\nSo we then can discuss how we shall act, and can take our measure\naccording."
+    },
+    {
+      "n": 64,
+      "score": {
+        "key": "dread",
+        "at": "There are such beings as vampires",
+        "xfade": 6
+      },
+      "para": 35,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“There are such beings as vampires; some of us have evidence that they\nexist. Even had we not the proof of our own unhappy experience, the\nteachings and the records of the past give proof enough for sane\npeoples. I admit that at the first I was sceptic. Were it not that\nthrough long years I have train myself to keep an open mind, I could not\nhave believe until such time as that fact thunder on my ear. ‘See! see!\nI prove; I prove.’ Alas! Had I known at the first what now I know—nay,\nhad I even guess at him—one so precious life had been spared to many of\nus who did love her. But that is gone; and we must so work, that other\npoor souls perish not, whilst we can save. The nosferatu do not die\nlike the bee when he sting once. He is only stronger; and being\nstronger, have yet more power to work evil. This vampire which is\namongst us is of himself so strong in person as twenty men; he is of\ncunning more than mortal, for his cunning be the growth of ages; he have\nstill the aids of necromancy, which is, as his etymology imply, the\ndivination by the dead, and all the dead that he can come nigh to are\nfor him at command; he is brute, and more than brute; he is devil in\ncallous, and the heart of him is not; he can, within limitations, appear\nat will when, and where, and in any of the forms that are to him; he\ncan, within his range, direct the elements; the storm, the fog, the\nthunder; he can command all the meaner things: the rat, and the owl, and\nthe bat—the moth, and the fox, and the wolf; he can grow and become\nsmall; and he can at times vanish and come unknown. How then are we to\nbegin our strike to destroy him? How shall we find his where; and having\nfound it, how can we destroy? My friends, this is much; it is a terrible\ntask that we undertake, and there may be consequence to make the brave\nshudder. For if we fail in this our fight he must surely win; and then\nwhere end we? Life is nothings; I heed him not. But to fail here, is not\nmere life or death. It is that we become as him; that we henceforward\nbecome foul things of the night like him—without heart or conscience,\npreying on the bodies and the souls of those we love best. To us for\never are the gates of heaven shut; for who shall open them to us again?\nWe go on for all time abhorred by all; a blot on the face of God’s\nsunshine; an arrow in the side of Him who died for man. But we are face\nto face with duty; and in such case must we shrink? For me, I say, no;\nbut then I am old, and life, with his sunshine, his fair places, his\nsong of birds, his music and his love, lie far behind. You others are\nyoung. Some have seen sorrow; but there are fair days yet in store. What\nsay you?”"
+    },
+    {
+      "n": 65,
+      "para": 36,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "Whilst he was speaking, Jonathan had taken my hand. I feared, oh so\nmuch, that the appalling nature of our danger was overcoming him when I\nsaw his hand stretch out; but it was life to me to feel its touch—so\nstrong, so self-reliant, so resolute. A brave man’s hand can speak for\nitself; it does not even need a woman’s love to hear its music."
+    },
+    {
+      "n": 66,
+      "para": 37,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "When the Professor had done speaking my husband looked in my eyes, and I\nin his; there was no need for speaking between us."
+    },
+    {
+      "n": 67,
+      "para": 38,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "“I answer for Mina and myself,”"
+    },
+    {
+      "n": 68,
+      "para": 38,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "he said."
+    },
+    {
+      "n": 69,
+      "para": 39,
+      "role": "Quincey Morris",
+      "cast": "Lyndon B. Johnson",
+      "text": "“Count me in, Professor,”"
+    },
+    {
+      "n": 70,
+      "para": 39,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "said Mr. Quincey Morris, laconically as usual."
+    },
+    {
+      "n": 71,
+      "para": 40,
+      "role": "Arthur Holmwood",
+      "cast": "J.R.R. Tolkien",
+      "text": "“I am with you,”"
+    },
+    {
+      "n": 72,
+      "para": 40,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "said Lord Godalming,"
+    },
+    {
+      "n": 73,
+      "para": 40,
+      "role": "Arthur Holmwood",
+      "cast": "J.R.R. Tolkien",
+      "text": "“for Lucy’s sake, if for no other\nreason.”"
+    },
+    {
+      "n": 74,
+      "para": 41,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "Dr. Seward simply nodded. The Professor stood up and, after laying his\ngolden crucifix on the table, held out his hand on either side. I took\nhis right hand, and Lord Godalming his left; Jonathan held my right with\nhis left and stretched across to Mr. Morris. So as we all took hands our\nsolemn compact was made. I felt my heart icy cold, but it did not even\noccur to me to draw back. We resumed our places, and Dr. Van Helsing\nwent on with a sort of cheerfulness which showed that the serious work\nhad begun. It was to be taken as gravely, and in as businesslike a way,\nas any other transaction of life:—"
+    },
+    {
+      "n": 75,
+      "para": 42,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Well, you know what we have to contend against; but we, too, are not\nwithout strength. We have on our side power of combination—a power\ndenied to the vampire kind; we have sources of science; we are free to\nact and think; and the hours of the day and the night are ours equally.\nIn fact, so far as our powers extend, they are unfettered, and we are\nfree to use them. We have self-devotion in a cause, and an end to\nachieve which is not a selfish one. These things are much."
+    },
+    {
+      "n": 76,
+      "para": 43,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Now let us see how far the general powers arrayed against us are\nrestrict, and how the individual cannot. In fine, let us consider the\nlimitations of the vampire in general, and of this one in particular."
+    },
+    {
+      "n": 77,
+      "para": 44,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“All we have to go upon are traditions and superstitions. These do not\nat the first appear much, when the matter is one of life and death—nay\nof more than either life or death. Yet must we be satisfied; in the\nfirst place because we have to be—no other means is at our control—and\nsecondly, because, after all, these things—tradition and\nsuperstition—are everything. Does not the belief in vampires rest for\nothers—though not, alas! for us—on them? A year ago which of us would\nhave received such a possibility, in the midst of our scientific,\nsceptical, matter-of-fact nineteenth century? We even scouted a belief\nthat we saw justified under our very eyes. Take it, then, that the\nvampire, and the belief in his limitations and his cure, rest for the\nmoment on the same base. For, let me tell you, he is known everywhere\nthat men have been. In old Greece, in old Rome; he flourish in Germany\nall over, in France, in India, even in the Chernosese; and in China, so\nfar from us in all ways, there even is he, and the peoples fear him at\nthis day. He have follow the wake of the berserker Icelander, the\ndevil-begotten Hun, the Slav, the Saxon, the Magyar. So far, then, we\nhave all we may act upon; and let me tell you that very much of the\nbeliefs are justified by what we have seen in our own so unhappy\nexperience. The vampire live on, and cannot die by mere passing of the\ntime; he can flourish when that he can fatten on the blood of the\nliving. Even more, we have seen amongst us that he can even grow\nyounger; that his vital faculties grow strenuous, and seem as though\nthey refresh themselves when his special pabulum is plenty. But he\ncannot flourish without this diet; he eat not as others. Even friend\nJonathan, who lived with him for weeks, did never see him to eat, never!\nHe throws no shadow; he make in the mirror no reflect, as again\nJonathan observe. He has the strength of many of his hand—witness again\nJonathan when he shut the door against the wolfs, and when he help him\nfrom the diligence too. He can transform himself to wolf, as we gather\nfrom the ship arrival in Whitby, when he tear open the dog; he can be as\nbat, as Madam Mina saw him on the window at Whitby, and as friend John\nsaw him fly from this so near house, and as my friend Quincey saw him at\nthe window of Miss Lucy. He can come in mist which he create—that noble\nship’s captain proved him of this; but, from what we know, the distance\nhe can make this mist is limited, and it can only be round himself. He\ncome on moonlight rays as elemental dust—as again Jonathan saw those\nsisters in the castle of Dracula. He become so small—we ourselves saw\nMiss Lucy, ere she was at peace, slip through a hairbreadth space at the\ntomb door. He can, when once he find his way, come out from anything or\ninto anything, no matter how close it be bound or even fused up with\nfire—solder you call it. He can see in the dark—no small power this,\nin a world which is one half shut from the light. Ah, but hear me\nthrough. He can do all these things, yet he is not free. Nay; he is even\nmore prisoner than the slave of the galley, than the madman in his cell.\nHe cannot go where he lists; he who is not of nature has yet to obey\nsome of nature’s laws—why we know not. He may not enter anywhere at the\nfirst, unless there be some one of the household who bid him to come;\nthough afterwards he can come as he please. His power ceases, as does\nthat of all evil things, at the coming of the day. Only at certain times\ncan he have limited freedom. If he be not at the place whither he is\nbound, he can only change himself at noon or at exact sunrise or sunset.\nThese things are we told, and in this record of ours we have proof by\ninference. Thus, whereas he can do as he will within his limit, when he\nhave his earth-home, his coffin-home, his hell-home, the place\nunhallowed, as we saw when he went to the grave of the suicide at\nWhitby; still at other time he can only change when the time come. It is\nsaid, too, that he can only pass running water at the slack or the flood\nof the tide. Then there are things which so afflict him that he has no\npower, as the garlic that we know of; and as for things sacred, as this\nsymbol, my crucifix, that was amongst us even now when we resolve, to\nthem he is nothing, but in their presence he take his place far off and\nsilent with respect. There are others, too, which I shall tell you of,\nlest in our seeking we may need them. The branch of wild rose on his\ncoffin keep him that he move not from it; a sacred bullet fired into the\ncoffin kill him so that he be true dead; and as for the stake through\nhim, we know already of its peace; or the cut-off head that giveth rest.\nWe have seen it with our eyes."
+    },
+    {
+      "n": 78,
+      "para": 45,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Thus when we find the habitation of this man-that-was, we can confine\nhim to his coffin and destroy him, if we obey what we know. But he is\nclever. I have asked my friend Arminius, of Buda-Pesth University, to\nmake his record; and, from all the means that are, he tell me of what he\nhas been. He must, indeed, have been that Voivode Dracula who won his\nname against the Turk, over the great river on the very frontier of\nTurkey-land. If it be so, then was he no common man; for in that time,\nand for centuries after, he was spoken of as the cleverest and the most\ncunning, as well as the bravest of the sons of the ‘land beyond the\nforest.’ That mighty brain and that iron resolution went with him to his\ngrave, and are even now arrayed against us. The Draculas were, says\nArminius, a great and noble race, though now and again were scions who\nwere held by their coevals to have had dealings with the Evil One. They\nlearned his secrets in the Scholomance, amongst the mountains over Lake\nHermanstadt, where the devil claims the tenth scholar as his due. In the\nrecords are such words as ‘stregoica’—witch, ‘ordog,’ and\n‘pokol’—Satan and hell; and in one manuscript this very Dracula is\nspoken of as ‘wampyr,’ which we all understand too well. There have been\nfrom the loins of this very one great men and good women, and their\ngraves make sacred the earth where alone this foulness can dwell. For it\nis not the least of its terrors that this evil thing is rooted deep in\nall good; in soil barren of holy memories it cannot rest.”"
+    },
+    {
+      "n": 79,
+      "para": 46,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "Whilst they were talking Mr. Morris was looking steadily at the window,\nand he now got up quietly, and went out of the room. There was a little\npause, and then the Professor went on:—"
+    },
+    {
+      "n": 80,
+      "para": 47,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“And now we must settle what we do. We have here much data, and we must\nproceed to lay out our campaign. We know from the inquiry of Jonathan\nthat from the castle to Whitby came fifty boxes of earth, all of which\nwere delivered at Carfax; we also know that at least some of these boxes\nhave been removed. It seems to me, that our first step should be to\nascertain whether all the rest remain in the house beyond that wall\nwhere we look to-day; or whether any more have been removed. If the\nlatter, we must trace——”"
+    },
+    {
+      "n": 81,
+      "sfx": [
+        {
+          "key": "pistol_shot",
+          "at": "the sound of a pistol-shot"
+        },
+        {
+          "key": "glass_crash",
+          "at": "was shattered with a"
+        }
+      ],
+      "para": 48,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "Here we were interrupted in a very startling way. Outside the house came\nthe sound of a pistol-shot; the glass of the window was shattered with a\nbullet, which, ricochetting from the top of the embrasure, struck the\nfar wall of the room. I am afraid I am at heart a coward, for I shrieked\nout. The men all jumped to their feet; Lord Godalming flew over to the\nwindow and threw up the sash. As he did so we heard Mr. Morris’s voice\nwithout:—"
+    },
+    {
+      "n": 82,
+      "para": 49,
+      "role": "Quincey Morris",
+      "cast": "Lyndon B. Johnson",
+      "text": "“Sorry! I fear I have alarmed you. I shall come in and tell you about\nit.”"
+    },
+    {
+      "n": 83,
+      "para": 49,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "A minute later he came in and said:—"
+    },
+    {
+      "n": 84,
+      "sfx": [
+        {
+          "key": "wing_beat",
+          "at": "there came a big bat"
+        }
+      ],
+      "para": 50,
+      "role": "Quincey Morris",
+      "cast": "Lyndon B. Johnson",
+      "text": "“It was an idiotic thing of me to do, and I ask your pardon, Mrs.\nHarker, most sincerely; I fear I must have frightened you terribly. But\nthe fact is that whilst the Professor was talking there came a big bat\nand sat on the window-sill. I have got such a horror of the damned\nbrutes from recent events that I cannot stand them, and I went out to\nhave a shot, as I have been doing of late of evenings, whenever I have\nseen one. You used to laugh at me for it then, Art.”"
+    },
+    {
+      "n": 85,
+      "para": 51,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Did you hit it?”"
+    },
+    {
+      "n": 86,
+      "para": 51,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "asked Dr. Van Helsing."
+    },
+    {
+      "n": 87,
+      "para": 52,
+      "role": "Quincey Morris",
+      "cast": "Lyndon B. Johnson",
+      "text": "“I don’t know; I fancy not, for it flew away into the wood.”"
+    },
+    {
+      "n": 88,
+      "para": 52,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "Without\nsaying any more he took his seat, and the Professor began to resume his\nstatement:—"
+    },
+    {
+      "n": 89,
+      "para": 53,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“We must trace each of these boxes; and when we are ready, we must\neither capture or kill this monster in his lair; or we must, so to\nspeak, sterilise the earth, so that no more he can seek safety in it.\nThus in the end we may find him in his form of man between the hours of\nnoon and sunset, and so engage with him when he is at his most weak."
+    },
+    {
+      "n": 90,
+      "para": 54,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“And now for you, Madam Mina, this night is the end until all be well.\nYou are too precious to us to have such risk. When we part to-night, you\nno more must question. We shall tell you all in good time. We are men\nand are able to bear; but you must be our star and our hope, and we\nshall act all the more free that you are not in the danger, such as we\nare.”"
+    },
+    {
+      "n": 91,
+      "para": 55,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "All the men, even Jonathan, seemed relieved; but it did not seem to me\ngood that they should brave danger and, perhaps, lessen their\nsafety—strength being the best safety—through care of me; but their\nminds were made up, and, though it was a bitter pill for me to swallow,\nI could say nothing, save to accept their chivalrous care of me.",
+      "audio": "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch18-cue090-v1.mp3"
+    },
+    {
+      "n": 92,
+      "para": 56,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "Mr. Morris resumed the discussion:—"
+    },
+    {
+      "n": 93,
+      "para": 57,
+      "role": "Quincey Morris",
+      "cast": "Lyndon B. Johnson",
+      "text": "“As there is no time to lose, I vote we have a look at his house right\nnow. Time is everything with him; and swift action on our part may save\nanother victim.”"
+    },
+    {
+      "n": 94,
+      "para": 58,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "I own that my heart began to fail me when the time for action came so\nclose, but I did not say anything, for I had a greater fear that if I\nappeared as a drag or a hindrance to their work, they might even leave\nme out of their counsels altogether. They have now gone off to Carfax,\nwith means to get into the house."
+    },
+    {
+      "n": 95,
+      "para": 59,
+      "role": "Mina Harker",
+      "cast": "Agatha Christie",
+      "text": "Manlike, they had told me to go to bed and sleep; as if a woman can\nsleep when those she loves are in danger! I shall lie down and pretend\nto sleep, lest Jonathan have added anxiety about me when he returns."
+    },
+    {
+      "n": 96,
+      "score": {
+        "key": "phonograph",
+        "at": "Dr. Seward’s Diary.",
+        "xfade": 4
+      },
+      "para": 60,
+      "role": "Narrator",
+      "cast": "Bram Stoker",
+      "text": "Dr. Seward’s Diary."
+    },
+    {
+      "n": 97,
+      "para": 61,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "1 October, 4 a. m. —Just as we were about to leave the house, an\nurgent message was brought to me from Renfield to know if I would see\nhim at once, as he had something of the utmost importance to say to me.\nI told the messenger to say that I would attend to his wishes in the\nmorning; I was busy just at the moment. The attendant added:—",
+      "audio": "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch18-cue096-v1.mp3"
+    },
+    {
+      "n": 98,
+      "para": 62,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“He seems very importunate, sir. I have never seen him so eager. I don’t\nknow but what, if you don’t see him soon, he will have one of his\nviolent fits.” I knew the man would not have said this without some\ncause, so I said: “All right; I’ll go now”; and I asked the others to\nwait a few minutes for me, as I had to go and see my “patient.”"
+    },
+    {
+      "n": 99,
+      "para": 63,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Take me with you, friend John,”"
+    },
+    {
+      "n": 100,
+      "para": 63,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "said the Professor."
+    },
+    {
+      "n": 101,
+      "para": 63,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“His case in your\ndiary interest me much, and it had bearing, too, now and again on our\ncase. I should much like to see him, and especial when his mind is\ndisturbed.”"
+    },
+    {
+      "n": 102,
+      "para": 64,
+      "role": "Arthur Holmwood",
+      "cast": "J.R.R. Tolkien",
+      "text": "“May I come also?”"
+    },
+    {
+      "n": 103,
+      "para": 64,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "asked Lord Godalming."
+    },
+    {
+      "n": 104,
+      "para": 65,
+      "role": "Quincey Morris",
+      "cast": "Lyndon B. Johnson",
+      "text": "“Me too?”"
+    },
+    {
+      "n": 105,
+      "para": 65,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "said Quincey Morris."
+    },
+    {
+      "n": 106,
+      "para": 65,
+      "role": "Jonathan Harker",
+      "cast": "Charles Darwin",
+      "text": "“May I come?”"
+    },
+    {
+      "n": 107,
+      "para": 65,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "said Harker. I nodded, and\nwe all went down the passage together."
+    },
+    {
+      "n": 108,
+      "para": 66,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "We found him in a state of considerable excitement, but far more\nrational in his speech and manner than I had ever seen him. There was an\nunusual understanding of himself, which was unlike anything I had ever\nmet with in a lunatic; and he took it for granted that his reasons would\nprevail with others entirely sane. We all four went into the room, but\nnone of the others at first said anything. His request was that I would\nat once release him from the asylum and send him home. This he backed up\nwith arguments regarding his complete recovery, and adduced his own\nexisting sanity."
+    },
+    {
+      "n": 109,
+      "para": 66,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“I appeal to your friends,”"
+    },
+    {
+      "n": 110,
+      "para": 66,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "he said,"
+    },
+    {
+      "n": 111,
+      "para": 66,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“they will,\nperhaps, not mind sitting in judgment on my case. By the way, you have\nnot introduced me.”"
+    },
+    {
+      "n": 112,
+      "para": 66,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I was so much astonished, that the oddness of\nintroducing a madman in an asylum did not strike me at the moment; and,\nbesides, there was a certain dignity in the man’s manner, so much of\nthe habit of equality, that I at once made the introduction: “Lord\nGodalming; Professor Van Helsing; Mr. Quincey Morris, of Texas; Mr.\nRenfield.” He shook hands with each of them, saying in turn:—"
+    },
+    {
+      "n": 113,
+      "para": 67,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Lord Godalming, I had the honour of seconding your father at the\nWindham; I grieve to know, by your holding the title, that he is no\nmore. He was a man loved and honoured by all who knew him; and in his\nyouth was, I have heard, the inventor of a burnt rum punch, much\npatronised on Derby night. Mr. Morris, you should be proud of your great\nstate. Its reception into the Union was a precedent which may have\nfar-reaching effects hereafter, when the Pole and the Tropics may hold\nalliance to the Stars and Stripes. The power of Treaty may yet prove a\nvast engine of enlargement, when the Monroe doctrine takes its true\nplace as a political fable. What shall any man say of his pleasure at\nmeeting Van Helsing? Sir, I make no apology for dropping all forms of\nconventional prefix. When an individual has revolutionised therapeutics\nby his discovery of the continuous evolution of brain-matter,\nconventional forms are unfitting, since they would seem to limit him to\none of a class. You, gentlemen, who by nationality, by heredity, or by\nthe possession of natural gifts, are fitted to hold your respective\nplaces in the moving world, I take to witness that I am as sane as at\nleast the majority of men who are in full possession of their liberties.\nAnd I am sure that you, Dr. Seward, humanitarian and medico-jurist as\nwell as scientist, will deem it a moral duty to deal with me as one to\nbe considered as under exceptional circumstances.”"
+    },
+    {
+      "n": 114,
+      "para": 67,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "He made this last\nappeal with a courtly air of conviction which was not without its own\ncharm."
+    },
+    {
+      "n": 115,
+      "para": 68,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I think we were all staggered. For my own part, I was under the\nconviction, despite my knowledge of the man’s character and history,\nthat his reason had been restored; and I felt under a strong impulse to\ntell him that I was satisfied as to his sanity, and would see about the\nnecessary formalities for his release in the morning. I thought it\nbetter to wait, however, before making so grave a statement, for of old\nI knew the sudden changes to which this particular patient was liable.\nSo I contented myself with making a general statement that he appeared\nto be improving very rapidly; that I would have a longer chat with him\nin the morning, and would then see what I could do in the direction of\nmeeting his wishes. This did not at all satisfy him, for he said\nquickly:—"
+    },
+    {
+      "n": 116,
+      "para": 69,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“But I fear, Dr. Seward, that you hardly apprehend my wish. I desire to\ngo at once—here—now—this very hour—this very moment, if I may. Time\npresses, and in our implied agreement with the old scytheman it is of\nthe essence of the contract. I am sure it is only necessary to put\nbefore so admirable a practitioner as Dr. Seward so simple, yet so\nmomentous a wish, to ensure its fulfilment.”"
+    },
+    {
+      "n": 117,
+      "para": 69,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "He looked at me keenly, and\nseeing the negative in my face, turned to the others, and scrutinised\nthem closely. Not meeting any sufficient response, he went on:—"
+    },
+    {
+      "n": 118,
+      "para": 70,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Is it possible that I have erred in my supposition?”"
+    },
+    {
+      "n": 119,
+      "para": 71,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“You have,” I said frankly, but at the same time, as I felt, brutally.\nThere was a considerable pause, and then he said slowly:—"
+    },
+    {
+      "n": 120,
+      "para": 72,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Then I suppose I must only shift my ground of request. Let me ask for\nthis concession—boon, privilege, what you will. I am content to implore\nin such a case, not on personal grounds, but for the sake of others. I\nam not at liberty to give you the whole of my reasons; but you may, I\nassure you, take it from me that they are good ones, sound and\nunselfish, and spring from the highest sense of duty. Could you look,\nsir, into my heart, you would approve to the full the sentiments which\nanimate me. Nay, more, you would count me amongst the best and truest of\nyour friends.”"
+    },
+    {
+      "n": 121,
+      "para": 72,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "Again he looked at us all keenly. I had a growing\nconviction that this sudden change of his entire intellectual method was\nbut yet another form or phase of his madness, and so determined to let\nhim go on a little longer, knowing from experience that he would, like\nall lunatics, give himself away in the end. Van Helsing was gazing at\nhim with a look of utmost intensity, his bushy eyebrows almost meeting\nwith the fixed concentration of his look. He said to Renfield in a tone\nwhich did not surprise me at the time, but only when I thought of it\nafterwards—for it was as of one addressing an equal:—"
+    },
+    {
+      "n": 122,
+      "para": 73,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Can you not tell frankly your real reason for wishing to be free\nto-night? I will undertake that if you will satisfy even me—a stranger,\nwithout prejudice, and with the habit of keeping an open mind—Dr.\nSeward will give you, at his own risk and on his own responsibility, the\nprivilege you seek.”"
+    },
+    {
+      "n": 123,
+      "para": 73,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "He shook his head sadly, and with a look of\npoignant regret on his face. The Professor went on:—"
+    },
+    {
+      "n": 124,
+      "para": 74,
+      "role": "Van Helsing",
+      "cast": "Antony van Leeuwenhoek",
+      "text": "“Come, sir, bethink yourself. You claim the privilege of reason in the\nhighest degree, since you seek to impress us with your complete\nreasonableness. You do this, whose sanity we have reason to doubt, since\nyou are not yet released from medical treatment for this very defect. If\nyou will not help us in our effort to choose the wisest course, how can\nwe perform the duty which you yourself put upon us? Be wise, and help\nus; and if we can we shall aid you to achieve your wish.”"
+    },
+    {
+      "n": 125,
+      "para": 74,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "He still shook\nhis head as he said:—"
+    },
+    {
+      "n": 126,
+      "para": 75,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Dr. Van Helsing, I have nothing to say. Your argument is complete, and\nif I were free to speak I should not hesitate a moment; but I am not my\nown master in the matter. I can only ask you to trust me. If I am\nrefused, the responsibility does not rest with me.”"
+    },
+    {
+      "n": 127,
+      "para": 75,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I thought it was now\ntime to end the scene, which was becoming too comically grave, so I went\ntowards the door, simply saying:—"
+    },
+    {
+      "n": 128,
+      "para": 76,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“Come, my friends, we have work to do. Good-night.”"
+    },
+    {
+      "n": 129,
+      "para": 77,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "As, however, I got near the door, a new change came over the patient. He\nmoved towards me so quickly that for the moment I feared that he was\nabout to make another homicidal attack. My fears, however, were\ngroundless, for he held up his two hands imploringly, and made his\npetition in a moving manner. As he saw that the very excess of his\nemotion was militating against him, by restoring us more to our old\nrelations, he became still more demonstrative. I glanced at Van Helsing,\nand saw my conviction reflected in his eyes; so I became a little more\nfixed in my manner, if not more stern, and motioned to him that his\nefforts were unavailing. I had previously seen something of the same\nconstantly growing excitement in him when he had to make some request of\nwhich at the time he had thought much, such, for instance, as when he\nwanted a cat; and I was prepared to see the collapse into the same\nsullen acquiescence on this occasion. My expectation was not realised,\nfor, when he found that his appeal would not be successful, he got into\nquite a frantic condition. He threw himself on his knees, and held up\nhis hands, wringing them in plaintive supplication, and poured forth a\ntorrent of entreaty, with the tears rolling down his cheeks, and his\nwhole face and form expressive of the deepest emotion:—"
+    },
+    {
+      "n": 130,
+      "score": {
+        "key": "dread",
+        "at": "Let me entreat you",
+        "xfade": 4
+      },
+      "para": 78,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“Let me entreat you, Dr. Seward, oh, let me implore you, to let me out\nof this house at once. Send me away how you will and where you will;\nsend keepers with me with whips and chains; let them take me in a\nstrait-waistcoat, manacled and leg-ironed, even to a gaol; but let me go\nout of this. You don’t know what you do by keeping me here. I am\nspeaking from the depths of my heart—of my very soul. You don’t know\nwhom you wrong, or how; and I may not tell. Woe is me! I may not tell.\nBy all you hold sacred—by all you hold dear—by your love that is\nlost—by your hope that lives—for the sake of the Almighty, take me out\nof this and save my soul from guilt! Can’t you hear me, man? Can’t you\nunderstand? Will you never learn? Don’t you know that I am sane and\nearnest now; that I am no lunatic in a mad fit, but a sane man fighting\nfor his soul? Oh, hear me! hear me! Let me go! let me go! let me go!”"
+    },
+    {
+      "n": 131,
+      "para": 79,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "I thought that the longer this went on the wilder he would get, and so\nwould bring on a fit; so I took him by the hand and raised him up."
+    },
+    {
+      "n": 132,
+      "para": 80,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "“Come,” I said sternly, “no more of this; we have had quite enough\nalready. Get to your bed and try to behave more discreetly.”"
+    },
+    {
+      "n": 133,
+      "para": 81,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "He suddenly stopped and looked at me intently for several moments. Then,\nwithout a word, he rose and moving over, sat down on the side of the\nbed. The collapse had come, as on former occasion, just as I had\nexpected."
+    },
+    {
+      "n": 134,
+      "para": 82,
+      "role": "Dr Seward",
+      "cast": "William Harvey",
+      "text": "When I was leaving the room, last of our party, he said to me in a\nquiet, well-bred voice:—"
+    },
+    {
+      "n": 135,
+      "para": 83,
+      "role": "Renfield",
+      "cast": "Jack the Ripper",
+      "text": "“You will, I trust, Dr. Seward, do me the justice to bear in mind, later\non, that I did what I could to convince you to-night.”"
+    }
+  ]
 }

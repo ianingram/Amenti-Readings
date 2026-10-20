@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Van Helsing · Voice Sampler</title>
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Special+Elite&family=Rajdhani:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+:root{--gold:#d4a017;--gold-b:#f5c542;--term:#80ffc0;--violet:#c4a5ff;--ink:#08090e;--granite:#11131c;--slate:#232838;--text:#c8ccdc;--dim:#8f95ab;--red:#f87171}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ink);color:var(--text);font-family:'Rajdhani',sans-serif;font-size:18px;line-height:1.6}
+main{max-width:720px;margin:0 auto;padding:28px 16px 80px}
+h1{font-family:'Special Elite',cursive;color:var(--gold-b);font-size:32px;margin:0 0 4px}
+.sub{font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--dim);margin:0 0 20px}
+.line{font-style:italic;border-left:3px solid var(--gold);padding:6px 0 6px 16px;margin:0 0 24px;color:#dfe2ee}
+.row{display:flex;flex-wrap:wrap;align-items:center;gap:12px;border:1px solid var(--slate);border-radius:8px;background:var(--granite);padding:14px 16px;margin:12px 0}
+.row.ref{border-color:#3a3420}
+.name{font-family:'Special Elite',cursive;font-size:22px;color:#fff;min-width:120px}
+.desc{font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--violet);flex:1;min-width:140px}
+button{font-family:'Share Tech Mono',monospace;font-size:13px;letter-spacing:.1em;background:#0d1018;color:var(--gold-b);border:1px solid var(--gold);border-radius:6px;padding:9px 16px;cursor:pointer}
+button:disabled{opacity:.45;cursor:default}
+.st{font-family:'Share Tech Mono',monospace;font-size:12px;color:var(--dim);width:100%}
+.st.ok{color:var(--term)}.st.err{color:var(--red)}
+.note{font-size:15px;color:var(--dim);margin-top:26px}
+</style></head><body><main>
+<h1>Van Helsing</h1>
+<p class="sub">Voice sampler · Dracula · played by Antony van Leeuwenhoek</p>
+<p class="line" id="txt"></p>
+
+<div class="row ref"><span class="name">Gacrux</span><span class="desc">Now · as recorded · old accent note</span>
+<button data-k="now">Play</button><div class="st" id="st-now">From the archive — instant.</div></div>
+
+<div id="cands"></div>
+
+<p class="note">Each new voice takes about 30–45 seconds to render the first time; after that, Play is instant. Tests only — nothing is saved to the archive and nothing in the book changes. New voices use the accent note "English, with a light Dutch accent; curious and plain".</p>
+</main>
+<script>
+(function(){
+var SPEAK='https://amenti-proxy.ingram-ian.workers.dev/speak';
+var TEXT='You are to stay with your dear Madam Mina. We shall go to make our search—if I can call it so, for it is not search but knowing, and we seek confirmation only. But do you stay and take care of her to-day. This is your best and most holiest office. This day nothing can find him here.';
+var REG='Read clearly, in a measured, dignified tone';
+var PACE='Speak at a brisk, lively, natural pace, as a person speaking energetically — not slow or ponderous';
+function style(dialect){return REG+'. Accent and dialect: '+dialect+'. Voice character: ironic and probing. '+PACE;}
+var OLD=style('Dutch, curious and plain'), NEW=style('English, with a light Dutch accent; curious and plain');
+var C=[['Algenib','Gravelly'],['Charon','Informative · engine default'],['Orus','Firm'],['Alnilam','Firm']];
+var S={now:{voice:'Gacrux',style:OLD,probe:false}};
+document.getElementById('txt').textContent='“'+TEXT+'”';
+var box=document.getElementById('cands');
+C.forEach(function(c){
+  S[c[0]]={voice:c[0],style:NEW,probe:true};
+  var d=document.createElement('div');d.className='row';
+  d.innerHTML='<span class="name">'+c[0]+'</span><span class="desc">'+c[1]+'</span><button data-k="'+c[0]+'">Render &amp; play</button><div class="st" id="st-'+c[0]+'">Not rendered yet.</div>';
+  box.appendChild(d);
+});
+var audio=new Audio(), urls={};
+function st(k,msg,cls){var e=document.getElementById('st-'+k);e.textContent=msg;e.className='st'+(cls?' '+cls:'');}
+function play(k){audio.pause();audio.src=urls[k];audio.play().catch(function(e){st(k,'Tap Play again ('+e.message+')','err');});}
+document.addEventListener('click',function(ev){
+  var b=ev.target.closest('button[data-k]');if(!b)return;var k=b.getAttribute('data-k'),s=S[k];
+  if(urls[k]){play(k);return;}
+  b.disabled=true;var t0=Date.now();st(k,'Rendering…');
+  var tick=setInterval(function(){st(k,'Rendering… '+Math.round((Date.now()-t0)/1000)+' s');},1000);
+  fetch(SPEAK+(s.probe?'?route=vertex&probe=1':''),{method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({text:TEXT,style:s.style,voice:s.voice})})
+  .then(function(r){
+    if(r.ok) return r.blob().then(function(bl){return {bl:bl,route:r.headers.get('X-Amenti-Route')||''};});
+    return r.text().then(function(t){throw new Error(r.status+' '+t.slice(0,160));});
+  }).then(function(x){
+    clearInterval(tick);urls[k]=URL.createObjectURL(x.bl);b.disabled=false;b.textContent='Play';
+    st(k,'Ready'+(x.route?' · '+x.route:'')+' · '+Math.round((Date.now()-t0)/1000)+' s','ok');play(k);
+  }).catch(function(e){clearInterval(tick);b.disabled=false;st(k,'Failed: '+e.message+' — wait a minute before trying again.','err');});
+});
+})();
+</script>
+</body></html>

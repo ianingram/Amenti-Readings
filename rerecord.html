@@ -19,7 +19,7 @@
 <body>
 <main>
   <h1>Re-record Lines</h1>
-  <p>Dracula chapters 18–27: five very short lines, each recorded inside a short run-in sentence so only the book's words are kept.</p>
+  <p>Dracula · Van Helsing in his new voice (Orus): six very short pieces, each recorded inside a short run-in so only the book's words are kept.</p>
   <button id="go" disabled>Record</button>
   <div id="log"></div>
 </main>
@@ -27,7 +27,8 @@
 <script src="https://ianingram.github.io/Amenti-Readings/player/reader.js"></script>
 <script src="https://ianingram.github.io/Amenti-Readings/player/casting.js"></script>
 <script>
-/* RE-RECORD · 16 Oct 2026 (evening): Dracula ch 18–27 — 10 short tails with their clauses, for splicing.
+/* RE-RECORD · 20 Oct 2026: Van Helsing recast to Orus — 6 run-ins (4 standalone fragments, 2 short tails) after QA.
+   Earlier 16 Oct 2026 (evening): Dracula ch 18–27 — 10 short tails with their clauses, for splicing.
    Earlier: the closing Note of Dracula — 3 carriers + 4 new lines.
    Earlier 16 Oct: Dracula ch 6–17 after QA — 10 carrier phrases (voice + style given, cut and baked by Claude) and the 11 pieces the run missed.
    15 Oct (evening): the 14 short tails of Dracula ch 6–17, each with its clause, for splicing.
@@ -37,7 +38,7 @@
    sends it (same text, style and voice, so the same archive key) with ?fresh=1, which replaces
    the stored take. A take whose length cannot fit its words is tried again, up to three times. */
 (function () {
-  var FIX = [{"work": "dracula", "ch": 20, "cue": 105, "text": "I make a note of it. Will not mention drinking.", "why": "run-in: keep only 'Will not mention drinking.'"}, {"work": "dracula", "ch": 21, "cue": 39, "text": "He spoke to me in a low voice. Renfield proceeded:", "why": "run-in: keep from 'in a low voice'"}, {"work": "dracula", "ch": 21, "cue": 42, "text": "Tell me, my friend. How?", "why": "run-in: keep only 'How?'"}, {"work": "dracula", "ch": 24, "cue": 4, "text": "Your friend always, Van Helsing.", "why": "run-in: keep only 'Van Helsing.'"}, {"work": "dracula", "ch": 27, "cue": 45, "text": "On it was but one word: DRACULA.", "why": "run-in: keep only 'DRACULA.'"}];
+  var FIX = [{"work": "dracula", "ch": 9, "cue": 52, "text": "Letter from Van Helsing to Seward. 2 September.", "why": "run-in: keep only '2 September.'"}, {"work": "dracula", "ch": 14, "cue": 7, "text": "Letter from Van Helsing to Madam Mina. 24 September. Confidence.", "why": "run-in: keep only '24 September. Confidence.'"}, {"work": "dracula", "ch": 24, "cue": 4, "text": "Your friend always, Van Helsing.", "why": "run-in: keep only 'Van Helsing.'"}, {"work": "dracula", "ch": 25, "cue": 110, "text": "which he may not take away altogether—though he think not so.", "why": "short tail: keep only 'so.' (piece 5 of 6)"}, {"work": "dracula", "ch": 26, "cue": 88, "text": "and find our way to the Castle of Dracula.", "why": "short tail: keep only 'of Dracula.' (piece 5 of 6)"}, {"work": "dracula", "ch": 27, "cue": 45, "text": "On it was but one word: DRACULA.", "why": "run-in: keep only 'DRACULA.'"}];
   var VOICE = 'https://amenti-proxy.ingram-ian.workers.dev/speak';
   var R = window.Amenti && window.Amenti.reading, E = window.Amenti && window.Amenti.throttle;
   var $ = function (id) { return document.getElementById(id); };

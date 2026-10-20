@@ -1,7 +1,7 @@
 {
  "work": "dracula",
  "base": "art/",
- "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass style-referenced to storm-1.jpg. The four 'red lips' close-ups came out as a woman's face and are left out. Chapter III (20 Oct): 63 Midjourney stills by Ian, style-referenced to the voyage harbour paintings; the hand-washing warning (cues 31–34) left without its own picture by Ian's choice — the letters hold until the Count goes out of the window.",
+ "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass style-referenced to storm-1.jpg. The four 'red lips' close-ups came out as a woman's face and are left out. Chapter III (20 Oct): 63 Midjourney stills by Ian, style-referenced to the voyage harbour paintings; the hand-washing warning (cues 31–34) left without its own picture by Ian's choice — the letters hold until the Count goes out of the window. Chapter IV (20 Oct): 78 stills by Ian. Midjourney gave the Count a white beard in Part I; Ian accepted it for the castle chapters — he is groomed and younger for London in Part II. Cues 50–59 (the Count announcing the parting) reuse two of the three-letters paintings; cues 71–74 reuse the wall climb. Lamp, fire, mist and water loops (20 Oct): 15 twelve-second loops made by Claude from the lead paintings (dracula/*-air.mp4 on the Media Door) — the flame moves only where the flame is.",
  "episodes": {
   "2": [
    {
@@ -182,7 +182,7 @@
     "from": 4,
     "caption": "",
     "images": [
-     "ch03-a2-1.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-a2-1-air.mp4",
      "ch03-a2-4.jpg",
      "ch03-a2-2.jpg"
     ]
@@ -191,7 +191,7 @@
     "from": 5,
     "caption": "Midnight",
     "images": [
-     "ch03-b1-2.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-b1-2-air.mp4",
      "ch03-b1-1.jpg",
      "ch03-b1-4.jpg",
      "ch03-b1-3.jpg"
@@ -218,7 +218,7 @@
     "from": 22,
     "caption": "“Write now”",
     "images": [
-     "ch03-d1-3.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-d1-3-air.mp4",
      "ch03-d1-1.jpg",
      "ch03-d1-4.jpg",
      "ch03-d1-2.jpg"
@@ -239,7 +239,7 @@
     "caption": "",
     "cut": true,
     "images": [
-     "ch03-f1-3.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-f1-3-air.mp4",
      "ch03-f1-1.jpg",
      "ch03-f1-4.jpg",
      "ch03-f1-2.jpg"
@@ -249,7 +249,7 @@
     "from": 37,
     "caption": "The lizard fashion",
     "images": [
-     "ch03-f2-2.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-f2-2-air.mp4",
      "ch03-f2-4.jpg",
      "ch03-f2-1.jpg",
      "ch03-f2-3.jpg"
@@ -269,7 +269,7 @@
     "from": 39,
     "caption": "15 May",
     "images": [
-     "ch03-g1-4.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-g1-4-air.mp4",
      "ch03-g1-1.jpg",
      "ch03-g1-3.jpg",
      "ch03-g1-2.jpg"
@@ -336,10 +336,230 @@
     "from": 59,
     "caption": "",
     "images": [
-     "ch03-j1-2.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-j1-2-air.mp4",
      "ch03-j1-1.jpg",
      "ch03-j1-4.jpg",
      "ch03-j1-3.jpg"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "from": 3,
+    "caption": "18 May",
+    "images": [
+     "ch04-a-3.jpg",
+     "ch04-a-1.jpg",
+     "ch04-a-2.jpg",
+     "ch04-a-4.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "caption": "The three letters",
+    "images": [
+     "ch04-b-2.jpg",
+     "ch04-b-4.jpg",
+     "ch04-b-1.jpg",
+     "ch04-b-3.jpg"
+    ]
+   },
+   {
+    "from": 8,
+    "caption": "The Szgany",
+    "images": [
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-c1-1-air.mp4",
+     "ch04-c1-3.jpg",
+     "ch04-c1-2.jpg",
+     "ch04-c1-4.jpg"
+    ]
+   },
+   {
+    "from": 11,
+    "caption": "",
+    "images": [
+     "ch04-c2-4.jpg",
+     "ch04-c2-1.jpg",
+     "ch04-c2-2.jpg"
+    ]
+   },
+   {
+    "from": 12,
+    "caption": "",
+    "images": [
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-d-1-air.mp4",
+     "ch04-d-2.jpg",
+     "ch04-d-4.jpg"
+    ]
+   },
+   {
+    "from": 27,
+    "caption": "17 June",
+    "images": [
+     "ch04-f-4.jpg",
+     "ch04-f-2.jpg",
+     "ch04-f-3.jpg",
+     "ch04-f-1.jpg"
+    ]
+   },
+   {
+    "from": 30,
+    "caption": "",
+    "images": [
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-g1-3-air.mp4",
+     "ch04-g1-4.jpg",
+     "ch04-g1-1.jpg",
+     "ch04-g1-2.jpg"
+    ]
+   },
+   {
+    "from": 32,
+    "caption": "",
+    "images": [
+     "ch04-g2-4.jpg",
+     "ch04-g2-1.jpg",
+     "ch04-g2-3.jpg",
+     "ch04-g2-2.jpg"
+    ]
+   },
+   {
+    "from": 35,
+    "caption": "“Monster, give me my child!”",
+    "cut": true,
+    "images": [
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-h1-3-air.mp4",
+     "ch04-h1-1.jpg",
+     "ch04-h1-2.jpg",
+     "ch04-h1-4.jpg"
+    ]
+   },
+   {
+    "from": 38,
+    "caption": "",
+    "images": [
+     "ch04-h2-4.jpg",
+     "ch04-h2-2.jpg",
+     "ch04-h2-3.jpg",
+     "ch04-h2-1.jpg"
+    ]
+   },
+   {
+    "from": 42,
+    "caption": "25 June",
+    "images": [
+     "ch04-j-1.jpg",
+     "ch04-j-3.jpg",
+     "ch04-j-4.jpg",
+     "ch04-j-2.jpg"
+    ]
+   },
+   {
+    "from": 47,
+    "caption": "The vault",
+    "images": [
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-k1-4-air.mp4",
+     "ch04-k1-1.jpg",
+     "ch04-k1-3.jpg",
+     "ch04-k1-2.jpg"
+    ]
+   },
+   {
+    "from": 48,
+    "caption": "",
+    "cut": true,
+    "images": [
+     "ch04-k2-4.jpg",
+     "ch04-k2-1.jpg",
+     "ch04-k2-2.jpg",
+     "ch04-k2-3.jpg"
+    ]
+   },
+   {
+    "from": 50,
+    "caption": "29 June",
+    "images": [
+     "ch04-b-3.jpg",
+     "ch04-b-1.jpg"
+    ]
+   },
+   {
+    "from": 62,
+    "caption": "“Hark!”",
+    "cut": true,
+    "images": [
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-m1-1-air.mp4",
+     "ch04-m1-2.jpg",
+     "ch04-m1-4.jpg",
+     "ch04-m1-3.jpg"
+    ]
+   },
+   {
+    "from": 64,
+    "caption": "",
+    "images": [
+     "ch04-m2-3.jpg",
+     "ch04-m2-1.jpg",
+     "ch04-m2-2.jpg",
+     "ch04-m2-4.jpg"
+    ]
+   },
+   {
+    "from": 67,
+    "caption": "",
+    "images": [
+     "ch04-n-3.jpg",
+     "ch04-n-1.jpg",
+     "ch04-n-4.jpg",
+     "ch04-n-2.jpg"
+    ]
+   },
+   {
+    "from": 71,
+    "caption": "30 June",
+    "images": [
+     "ch04-j-2.jpg",
+     "ch04-j-4.jpg"
+    ]
+   },
+   {
+    "from": 75,
+    "caption": "",
+    "cut": true,
+    "images": [
+     "ch04-p-1.jpg",
+     "ch04-p-3.jpg",
+     "ch04-p-2.jpg",
+     "ch04-p-4.jpg"
+    ]
+   },
+   {
+    "from": 77,
+    "caption": "",
+    "images": [
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-q1-1-air.mp4",
+     "ch04-q1-3.jpg",
+     "ch04-q1-2.jpg",
+     "ch04-q1-4.jpg"
+    ]
+   },
+   {
+    "from": 79,
+    "caption": "",
+    "images": [
+     "ch04-q2-3.jpg",
+     "ch04-q2-1.jpg",
+     "ch04-q2-2.jpg",
+     "ch04-q2-4.jpg"
+    ]
+   },
+   {
+    "from": 81,
+    "caption": "“Good-bye, all!”",
+    "images": [
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-r-3-air.mp4",
+     "ch04-r-1.jpg",
+     "ch04-r-4.jpg",
+     "ch04-r-2.jpg"
     ]
    }
   ],

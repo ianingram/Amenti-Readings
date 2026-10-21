@@ -1,7 +1,7 @@
 {
  "work": "dracula",
  "base": "art/",
- "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass style-referenced to storm-1.jpg. The four 'red lips' close-ups came out as a woman's face and are left out. Chapter III (20 Oct): 63 Midjourney stills by Ian, style-referenced to the voyage harbour paintings; the hand-washing warning (cues 31–34) left without its own picture by Ian's choice — the letters hold until the Count goes out of the window. Chapter IV (20 Oct): 78 stills by Ian. Midjourney gave the Count a white beard in Part I; Ian accepted it for the castle chapters — he is groomed and younger for London in Part II. Cues 50–59 (the Count announcing the parting) reuse two of the three-letters paintings; cues 71–74 reuse the wall climb. Lamp, fire, mist and water loops (20 Oct): 15 twelve-second loops made by Claude from the lead paintings (dracula/*-air.mp4 on the Media Door) — the flame moves only where the flame is. Ch 1–2 loops and the moon skies (20 Oct, evening): 13 more loops for chapters 1–2; the three clear-sky moon scenes (ch03 f1-3, f2-2; ch04 g1-3) re-made as -air2 with thin clouds drifting across the moon, twinkling stars and one steady bright planet. Sky effects are only where the sky is open — never across branches or walls. Ch I cues 6–7 (21 Oct): Jonathan's British Museum notes open 'The Peoples of Transylvania' (dossier/peoples.html), which draws the three states, the Carpathians, Bistritz and the four nationalities on his words. Ch I rail car (21 Oct): Ian's Midjourney rail-car tables of maps and books replace the four window pictures at cue 5 and add scenes at 6 and 8.",
+ "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass style-referenced to storm-1.jpg. The four 'red lips' close-ups came out as a woman's face and are left out. Chapter III (20 Oct): 63 Midjourney stills by Ian, style-referenced to the voyage harbour paintings; the hand-washing warning (cues 31–34) left without its own picture by Ian's choice — the letters hold until the Count goes out of the window. Chapter IV (20 Oct): 78 stills by Ian. Midjourney gave the Count a white beard in Part I; Ian accepted it for the castle chapters — he is groomed and younger for London in Part II. Cues 50–59 (the Count announcing the parting) reuse two of the three-letters paintings; cues 71–74 reuse the wall climb. Lamp, fire, mist and water loops (20 Oct): 15 twelve-second loops made by Claude from the lead paintings (dracula/*-air.mp4 on the Media Door) — the flame moves only where the flame is. Ch 1–2 loops and the moon skies (20 Oct, evening): 13 more loops for chapters 1–2; the three clear-sky moon scenes (ch03 f1-3, f2-2; ch04 g1-3) re-made as -air2 with thin clouds drifting across the moon, twinkling stars and one steady bright planet. Sky effects are only where the sky is open — never across branches or walls. Ch I cues 6–7 (21 Oct): Jonathan's British Museum notes open 'The Peoples of Transylvania' (dossier/peoples.html), which draws the three states, the Carpathians, Bistritz and the four nationalities on his words. Ch I rail car (21 Oct): Ian's Midjourney rail-car tables of maps and books replace the four window pictures at cue 5 and add scenes at 6 and 8. Ch I Bistritz (21 Oct): Ian's Midjourney Golden Krone set (inn, landlady, letter, frightened hosts, the plea, the crucifix, the diary at dawn, the crowd, the coach) replaces the three repeating sets for cues 11–30; the Count's letter (dossier/letter.html) writes itself out at 14–15.",
  "episodes": {
   "2": [
    {
@@ -639,30 +639,98 @@
     "from": 11,
     "caption": "The Golden Krone",
     "images": [
-     "ch01-d08-2.jpg",
-     "ch01-d08-1.jpg",
-     "ch01-d08-4.jpg",
-     "ch01-d08-3.jpg"
+     "ch01-b1-3.jpg",
+     "ch01-b1-1.jpg",
+     "ch01-b1-2.jpg",
+     "ch01-b1-4.jpg"
+    ]
+   },
+   {
+    "from": 12,
+    "caption": "",
+    "images": [
+     "ch01-b2-3.jpg",
+     "ch01-b2-1.jpg",
+     "ch01-b2-4.jpg"
+    ]
+   },
+   {
+    "from": 14,
+    "caption": "The Count’s letter",
+    "images": [
+     "ch01-b3-2.jpg",
+     "ch01-b3-4.jpg",
+     "ch01-b3-3.jpg"
+    ]
+   },
+   {
+    "from": 16,
+    "caption": "4 May",
+    "images": [
+     "ch01-b4-2.jpg",
+     "ch01-b4-4.jpg",
+     "ch01-b4-1.jpg",
+     "ch01-d08-2.jpg"
     ]
    },
    {
     "from": 17,
     "caption": "“Must you go?”",
     "images": [
+     "ch01-b5-2.jpg",
+     "ch01-b5-4.jpg",
      "ch01-d09-2.jpg",
+     "ch01-b5-1.jpg"
+    ]
+   },
+   {
+    "from": 25,
+    "caption": "",
+    "cut": true,
+    "images": [
+     "ch01-b6-3.jpg",
+     "ch01-b6-4.jpg",
+     "ch01-b6-1.jpg"
+    ]
+   },
+   {
+    "from": 27,
+    "caption": "",
+    "images": [
+     "ch01-b7-3.jpg",
+     "ch01-b7-1.jpg",
+     "ch01-b7-4.jpg"
+    ]
+   },
+   {
+    "from": 28,
+    "caption": "5 May",
+    "images": [
+     "ch01-b7-2.jpg",
      "ch01-d09-4.jpg",
-     "ch01-d09-1.jpg",
-     "ch01-d09-3.jpg"
+     "ch01-b6-2.jpg"
     ]
    },
    {
     "from": 29,
     "caption": "The coach leaves Bistritz",
     "images": [
-     "ch01-d10-1.jpg",
-     "ch01-d10-4.jpg",
-     "ch01-d10-2.jpg",
-     "ch01-d10-3.jpg"
+     "ch01-b8-1.jpg",
+     "ch01-b8-3.jpg",
+     "ch01-b10-3.jpg",
+     "ch01-d10-1.jpg"
+    ]
+   },
+   {
+    "from": 30,
+    "caption": "",
+    "images": [
+     "ch01-b9-1.jpg",
+     "ch01-b9-3.jpg",
+     "ch01-b9-4.jpg",
+     "ch01-b10-1.jpg",
+     "ch01-b9-2.jpg",
+     "ch01-d10-4.jpg"
     ]
    },
    {
@@ -864,6 +932,11 @@
     "at": 9,
     "src": "dossier/borgo-pass.html",
     "legs": "3"
+   },
+   {
+    "at": 14,
+    "until": 15,
+    "src": "dossier/letter.html"
    },
    {
     "at": 29,

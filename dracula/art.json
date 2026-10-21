@@ -1,14 +1,14 @@
 {
  "work": "dracula",
  "base": "art/",
- "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass style-referenced to storm-1.jpg. The four 'red lips' close-ups came out as a woman's face and are left out. Chapter III (20 Oct): 63 Midjourney stills by Ian, style-referenced to the voyage harbour paintings; the hand-washing warning (cues 31–34) left without its own picture by Ian's choice — the letters hold until the Count goes out of the window. Chapter IV (20 Oct): 78 stills by Ian. Midjourney gave the Count a white beard in Part I; Ian accepted it for the castle chapters — he is groomed and younger for London in Part II. Cues 50–59 (the Count announcing the parting) reuse two of the three-letters paintings; cues 71–74 reuse the wall climb. Lamp, fire, mist and water loops (20 Oct): 15 twelve-second loops made by Claude from the lead paintings (dracula/*-air.mp4 on the Media Door) — the flame moves only where the flame is.",
+ "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass style-referenced to storm-1.jpg. The four 'red lips' close-ups came out as a woman's face and are left out. Chapter III (20 Oct): 63 Midjourney stills by Ian, style-referenced to the voyage harbour paintings; the hand-washing warning (cues 31–34) left without its own picture by Ian's choice — the letters hold until the Count goes out of the window. Chapter IV (20 Oct): 78 stills by Ian. Midjourney gave the Count a white beard in Part I; Ian accepted it for the castle chapters — he is groomed and younger for London in Part II. Cues 50–59 (the Count announcing the parting) reuse two of the three-letters paintings; cues 71–74 reuse the wall climb. Lamp, fire, mist and water loops (20 Oct): 15 twelve-second loops made by Claude from the lead paintings (dracula/*-air.mp4 on the Media Door) — the flame moves only where the flame is. Ch 1–2 loops and the moon skies (20 Oct, evening): 13 more loops for chapters 1–2; the three clear-sky moon scenes (ch03 f1-3, f2-2; ch04 g1-3) re-made as -air2 with thin clouds drifting across the moon, twinkling stars and one steady bright planet. Sky effects are only where the sky is open — never across branches or walls.",
  "episodes": {
   "2": [
    {
     "from": 1,
     "caption": "Castle Dracula · 5 May",
     "images": [
-     "ch02-a1-2.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-a1-2-air.mp4",
      "ch02-a1-4.jpg",
      "ch02-a1-1.jpg",
      "ch02-a1-3.jpg"
@@ -18,7 +18,7 @@
     "from": 4,
     "caption": "The great door",
     "images": [
-     "ch02-a2-3.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-a2-3-air.mp4",
      "ch02-a2-1.jpg",
      "ch02-a2-2.jpg",
      "ch02-a2-4.jpg"
@@ -28,7 +28,7 @@
     "from": 5,
     "caption": "",
     "images": [
-     "ch02-a3-4.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-a3-4-air.mp4",
      "ch02-a3-2.jpg",
      "ch02-a3-1.jpg",
      "ch02-a3-3.jpg"
@@ -39,7 +39,7 @@
     "caption": "The Count",
     "cut": true,
     "images": [
-     "ch02-b1-3.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-b1-3-air.mp4",
      "ch02-b1-2.jpg",
      "ch02-b1-4.jpg"
     ]
@@ -65,7 +65,7 @@
     "from": 14,
     "caption": "",
     "images": [
-     "ch02-b1-4.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-b1-4-air.mp4",
      "ch02-b1-2.jpg"
     ]
    },
@@ -73,7 +73,7 @@
     "from": 20,
     "caption": "Supper · the great fireplace",
     "images": [
-     "ch02-e1-1.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-e1-1-air.mp4",
      "ch02-e1-3.jpg"
     ]
    },
@@ -133,7 +133,7 @@
     "from": 91,
     "caption": "",
     "images": [
-     "ch02-h3-3.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-h3-3-air.mp4",
      "ch02-h3-4.jpg",
      "ch02-h3-2.jpg",
      "ch02-h3-1.jpg"
@@ -143,7 +143,7 @@
     "from": 92,
     "caption": "The view",
     "images": [
-     "ch02-i1-4.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-i1-4-air.mp4",
      "ch02-i1-3.jpg",
      "ch02-i1-1.jpg",
      "ch02-i1-2.jpg"
@@ -153,7 +153,7 @@
     "from": 93,
     "caption": "Doors, doors, doors",
     "images": [
-     "ch02-i2-3.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-i2-3-air.mp4",
      "ch02-i2-1.jpg",
      "ch02-i2-2.jpg"
     ]
@@ -239,7 +239,7 @@
     "caption": "",
     "cut": true,
     "images": [
-     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-f1-3-air.mp4",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-f1-3-air2.mp4",
      "ch03-f1-1.jpg",
      "ch03-f1-4.jpg",
      "ch03-f1-2.jpg"
@@ -249,7 +249,7 @@
     "from": 37,
     "caption": "The lizard fashion",
     "images": [
-     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-f2-2-air.mp4",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-f2-2-air2.mp4",
      "ch03-f2-4.jpg",
      "ch03-f2-1.jpg",
      "ch03-f2-3.jpg"
@@ -406,7 +406,7 @@
     "from": 30,
     "caption": "",
     "images": [
-     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-g1-3-air.mp4",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-g1-3-air2.mp4",
      "ch04-g1-4.jpg",
      "ch04-g1-1.jpg",
      "ch04-g1-2.jpg"
@@ -717,7 +717,7 @@
     "caption": "The Borgo Pass · the calèche",
     "cut": true,
     "images": [
-     "ch01-n01-1.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch01-n01-1-air.mp4",
      "ch01-n01-2.jpg"
     ]
    },
@@ -735,7 +735,7 @@
     "from": 49,
     "caption": "",
     "images": [
-     "ch01-n07-1.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch01-n07-1-air.mp4",
      "ch01-n07-4.jpg",
      "ch01-n07-2.jpg",
      "ch01-n07-3.jpg"
@@ -745,7 +745,7 @@
     "from": 50,
     "caption": "",
     "images": [
-     "ch01-n04-1.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch01-n04-1-air.mp4",
      "ch01-n04-4.jpg",
      "ch01-n04-2.jpg",
      "ch01-n04-3.jpg"
@@ -775,7 +775,7 @@
     "caption": "",
     "cut": true,
     "images": [
-     "ch01-n06-2.jpg"
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch01-n06-2-air.mp4"
     ]
    },
    {

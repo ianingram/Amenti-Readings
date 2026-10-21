@@ -13,7 +13,8 @@
       "london_interior": "london.mp3",
       "chapel": "chapel.mp3",
       "river": "river.mp3",
-      "port": "port.mp3"
+      "port": "port.mp3",
+      "train": "train-run.mp3"
     },
     "oneshots": {
       "door_heavy": "door_heavy.mp3",
@@ -96,7 +97,10 @@
       "pursuit": "score-pursuit.mp3",
       "requiem": "score-requiem.mp3",
       "bloofer": "score-bloofer.mp3",
-      "train_run": "train-run.mp3"
+      "train_run": "train-run.mp3",
+      "journey": "score-journey.mp3",
+      "under_castle": "score-under-castle.mp3",
+      "under_light": "score-under-light.mp3"
     },
     "under": {
       "note": "MUSIC UNDER ONE LINE. piano_far: far away and airy, a few notes sprinkled, the odd soft chord — letters, memory, anything read rather than lived. piano_near: close and bold, full chords when the moment needs weight. Each use starts at a different seeded point in the minute-long piece. campfire: a real fire in the open (BigSoundBank 0988, CC0), under Quincey’s letter in chapter 5 — “yarns by the camp-fire in the prairies”.",
@@ -118,8 +122,8 @@
       "pulse_2": 1.0,
       "pulse_1": 1.0,
       "captain_heart": 1.0,
-      "dread": 0.2,
-      "pastoral_warm": 0.2,
+      "dread": 0.38,
+      "pastoral_warm": 0.32,
       "pastoral_sour": 0.3,
       "phonograph": 0.8,
       "vigil": 0.32,
@@ -127,10 +131,13 @@
       "pursuit": 0.36,
       "requiem": 0.36,
       "bloofer": 0.3,
-      "train_run": 0.32
+      "train_run": 0.32,
+      "journey": 0.5,
+      "under_castle": 0.4,
+      "under_light": 0.38
     },
     "breath": {
-      "note": "21 Oct 2026 (Ian: the score should ebb and flow under the voice). Every score key rises and falls slowly between min and its full level; three sines at these periods, so the swell never repeats audibly. Dread and pastoral_warm lowered from 0.3 to 0.2 at the same time.",
+      "note": "21 Oct 2026 (Ian: the score should ebb and flow under the voice). Every score key rises and falls slowly between min and its full level; three sines at these periods, so the swell never repeats audibly. Dread and pastoral_warm lowered from 0.3 to 0.2 at the same time. 21 Oct, later: levels set against the voice by measurement — file loudness, key level, the duck (×0.5) and the breath average (×0.67): journey ≈17 dB under the voice, dread ≈19, the underscores ≈22, so the light score is heard but never competes.",
       "min": 0.35,
       "periods": [
         43,
@@ -221,6 +228,13 @@
     "port": {
       "note": "Varna and Galatz harbours (ch 25–26). BigSoundBank #2571 Small fishing port #1.",
       "progressive": false
+    },
+    "train": {
+      "note": "21 Oct 2026: the train recording moved from the score slot to a bed so the journey music can play over it. State 1 = running, 0 = stopped (11 s fade).",
+      "levels": {
+        "0": 0.002,
+        "1": 1.0
+      }
     }
   },
   "oneshots": {
@@ -339,7 +353,7 @@
     }
   },
   "score": {
-    "note": "FOUR CUES, NOT TWENTY-SEVEN. The book has four tonal registers and they map to the document types rather than to the plot. 21 Oct 2026 (Ian: \"the music kept looping … not practical\"): Book I no longer runs dread under whole chapters — it plays at the big moments, each about 1½–2½ min, then fades; the castle bed carries the rest.",
+    "note": "FOUR CUES, NOT TWENTY-SEVEN. The book has four tonal registers and they map to the document types rather than to the plot. 21 Oct 2026 (Ian: \"the music kept looping … not practical\"): Book I no longer runs dread under whole chapters — it plays at the big moments, each about 1½–2½ min, then fades; the castle bed carries the rest. 21 Oct 2026 (Ian: \"I haven't really heard any light score filling in\"): a light underscore now runs under Book I — under_castle (D minor) in II–IV and the night drive, under_light (D major) at the inns — and the big moments rise out of it and settle back into it. The Journey East (D major, 4/4) opens chapter I and carries the train ride.",
     "dread": "Harker's journal. Slow, low, almost static. Chapters 1-4, 19, 22. REBUILT ON REAL INSTRUMENTS, 4 Oct 2026: VSCO 2 CE double bass and cellos on D–A, violas leaning D–E♭, the upright piano.",
     "pastoral_turning": "The Whitby chapters. Open and warm at first and souring without changing key. Chapters 6-8, 11-13. BUILT AS TWO LOOPS, 4 Oct 2026: pastoral_warm (F major, strings breathing, piano broken chords, the flute) and pastoral_sour (the same key, the iv turned minor, the flat sixth, an E held against the F, no flute). The cue sheet chooses.",
     "pursuit": "The chase east. Momentum, and the only cue with a pulse. Chapters 26-27. BUILT 6 Oct 2026: score-pursuit.mp3 (58 s loop) — 132 BPM galloping strings, timpani, brass climbing by fourths, horses, wolves far off.",
@@ -368,7 +382,7 @@
       "n": 2,
       "bed": "castle",
       "state": 1,
-      "score": null,
+      "score": "under_castle",
       "sfx": [
         "carriage",
         "door_heavy",
@@ -379,7 +393,7 @@
       "n": 3,
       "bed": "castle",
       "state": 2,
-      "score": null,
+      "score": "under_castle",
       "sfx": [
         "door_shut",
         "thunder",
@@ -390,7 +404,7 @@
       "n": 4,
       "bed": "castle",
       "state": 4,
-      "score": null,
+      "score": "under_castle",
       "sfx": [
         "earth_box",
         "door_heavy"

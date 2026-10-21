@@ -40,6 +40,10 @@
     },
     {
       "n": 3,
+      "score": {
+        "key": "dread",
+        "xfade": 6
+      },
       "para": 2,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -48,6 +52,10 @@
     },
     {
       "n": 4,
+      "score": {
+        "key": null,
+        "xfade": 12
+      },
       "para": 3,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -107,6 +115,10 @@
     },
     {
       "n": 12,
+      "score": {
+        "key": "dread",
+        "xfade": 6
+      },
       "para": 11,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -164,6 +176,10 @@
     },
     {
       "n": 20,
+      "score": {
+        "key": null,
+        "xfade": 10
+      },
       "para": 13,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -285,6 +301,10 @@
     },
     {
       "n": 35,
+      "score": {
+        "key": "dread",
+        "xfade": 6
+      },
       "para": 27,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -335,6 +355,10 @@
     },
     {
       "n": 41,
+      "score": {
+        "key": null,
+        "xfade": 12
+      },
       "para": 33,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -387,6 +411,10 @@
     },
     {
       "n": 48,
+      "score": {
+        "key": "dread",
+        "xfade": 6
+      },
       "para": 40,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -395,6 +423,10 @@
     },
     {
       "n": 49,
+      "score": {
+        "key": null,
+        "xfade": 10
+      },
       "para": 41,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -480,6 +512,10 @@
     },
     {
       "n": 61,
+      "score": {
+        "key": "dread",
+        "xfade": 4
+      },
       "para": 51,
       "role": "Count Dracula",
       "cast": "Vlad the Impaler",
@@ -546,6 +582,10 @@
     },
     {
       "n": 66,
+      "score": {
+        "key": null,
+        "xfade": 12
+      },
       "para": 56,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -643,6 +683,10 @@
     },
     {
       "n": 77,
+      "score": {
+        "key": "dread",
+        "xfade": 8
+      },
       "sfx": [
         {
           "key": "luggage_down",

@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/sound.js · 2026-10-04 03:00 UTC */
+/* Amenti-Readings/player/sound.js · 2026-10-21 03:20 UTC */
 /* ===========================================================================
    AMENTI READINGS · sound.js
    ---------------------------------------------------------------------------
@@ -144,6 +144,8 @@
         S._duck.connect(S._bus);
         S._scoreDuck = S._ctx.createGain();
         S._scoreDuck.connect(S._bus);
+        S._scoreBreath = S._ctx.createGain();      /* the score's slow rise and fall (files.breath); 1 = still */
+        S._scoreBreath.connect(S._scoreDuck);
         S._bus.connect(S._ctx.destination);
       }
       if (S._ctx.state === 'suspended') { try { S._ctx.resume(); } catch (e) {} }
@@ -323,7 +325,7 @@
         /* two loops of the same length: keep the beat where it was */
         if (old && Math.abs(old.dur - buf.duration) < 0.003) off = (((at - old.t0) % buf.duration) + buf.duration) % buf.duration;
         src.buffer = buf; src.loop = true;
-        src.connect(g); g.connect(S._scoreDuck);
+        src.connect(g); g.connect(S._scoreBreath || S._scoreDuck);
         g.gain.setValueAtTime(0.0001, ctx.currentTime);
         src.start(at, off);
         if (old) {
@@ -517,6 +519,7 @@
         });
         if (ch) pre.push(S.startBed(ch.bed, ch.state));
         if (ch) pre.push(S.startScore(ch.score || null));
+        S.breathe();
         return Promise.all(pre);
       });
     },
@@ -554,7 +557,29 @@
       S._pending = later.length ? { i: i, cue: cue, items: later, who: cue.role || '', measured: false } : null;
     },
 
+    /* THE SCORE BREATHES (21 Oct 2026, Ian: "the score should undulate … it should ebb and flow").
+       A work whose sound.json has files.breath = { min, periods } gets one slow, never-repeating
+       swell on everything the score plays: three sines at the given periods (seconds), mixed and
+       mapped between min and 1. It sits on its own gain node, under the per-key level and above
+       the duck, so crossfades, the letter step-back and the duck all work exactly as before.
+       A work without files.breath is untouched (the node stays at 1). */
+    breathe: function () {
+      var b = S.sheet && S.sheet.files && S.sheet.files.breath;
+      if (!b || !S._scoreBreath || S._breathT) return;
+      var min = typeof b.min === 'number' ? b.min : 0.4, P = b.periods || [43, 71, 113], W = [0.5, 0.3, 0.2], ph = [0, 1.3, 2.1];
+      function tick() {
+        var ctx = S._ctx; if (!ctx) return;
+        var t = ctx.currentTime, x = 0;
+        for (var i = 0; i < P.length && i < 3; i++) x += W[i] * Math.sin(2 * Math.PI * t / P[i] + ph[i]);
+        var v = min + (1 - min) * (0.5 + 0.5 * x), g = S._scoreBreath.gain;
+        try { g.cancelScheduledValues(t); g.setValueAtTime(g.value, t); g.linearRampToValueAtTime(v, t + 1.0); } catch (e) {}
+      }
+      tick(); S._breathT = setInterval(tick, 1000);
+    },
+
     off: function () {
+      if (S._breathT) { clearInterval(S._breathT); S._breathT = null; }
+      if (S._scoreBreath) { try { S._scoreBreath.gain.cancelScheduledValues(0); S._scoreBreath.gain.value = 1; } catch (e) {} }
       S.state = 'off';
       if (S._bus) S.fade(S._bus.gain, 0, 1.5);
       S.endBed(1.5);

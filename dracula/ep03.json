@@ -52,6 +52,10 @@
     },
     {
       "n": 3,
+      "score": {
+        "key": "dread",
+        "xfade": 6
+      },
       "para": 2,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -60,6 +64,10 @@
     },
     {
       "n": 4,
+      "score": {
+        "key": null,
+        "xfade": 12
+      },
       "sfx": [
         {
           "key": "door_close",
@@ -265,6 +273,10 @@
     },
     {
       "n": 32,
+      "score": {
+        "key": "dread",
+        "xfade": 6
+      },
       "para": 20,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -287,6 +299,10 @@
     },
     {
       "n": 35,
+      "score": {
+        "key": null,
+        "xfade": 10
+      },
       "para": 22,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -302,6 +318,10 @@
     },
     {
       "n": 37,
+      "score": {
+        "key": "dread",
+        "xfade": 6
+      },
       "para": 24,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -318,6 +338,10 @@
     },
     {
       "n": 39,
+      "score": {
+        "key": null,
+        "xfade": 12
+      },
       "sfx": [
         {
           "key": "chains",
@@ -374,6 +398,10 @@
     },
     {
       "n": 46,
+      "score": {
+        "key": "dread",
+        "xfade": 8
+      },
       "para": 33,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -382,6 +410,10 @@
     },
     {
       "n": 47,
+      "score": {
+        "key": null,
+        "xfade": 10
+      },
       "para": 34,
       "role": "The First Dark Woman",
       "cast": "Elizabeth Bathory",
@@ -432,6 +464,10 @@
     },
     {
       "n": 53,
+      "score": {
+        "key": "dread",
+        "xfade": 4
+      },
       "para": 38,
       "role": "Count Dracula",
       "cast": "Vlad the Impaler",

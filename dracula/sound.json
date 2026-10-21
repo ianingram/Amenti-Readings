@@ -118,8 +118,8 @@
       "pulse_2": 1.0,
       "pulse_1": 1.0,
       "captain_heart": 1.0,
-      "dread": 0.3,
-      "pastoral_warm": 0.3,
+      "dread": 0.2,
+      "pastoral_warm": 0.2,
       "pastoral_sour": 0.3,
       "phonograph": 0.8,
       "vigil": 0.32,
@@ -128,6 +128,15 @@
       "requiem": 0.36,
       "bloofer": 0.3,
       "train_run": 0.32
+    },
+    "breath": {
+      "note": "21 Oct 2026 (Ian: the score should ebb and flow under the voice). Every score key rises and falls slowly between min and its full level; three sines at these periods, so the swell never repeats audibly. Dread and pastoral_warm lowered from 0.3 to 0.2 at the same time.",
+      "min": 0.35,
+      "periods": [
+        43,
+        71,
+        113
+      ]
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
@@ -330,7 +339,7 @@
     }
   },
   "score": {
-    "note": "FOUR CUES, NOT TWENTY-SEVEN. The book has four tonal registers and they map to the document types rather than to the plot.",
+    "note": "FOUR CUES, NOT TWENTY-SEVEN. The book has four tonal registers and they map to the document types rather than to the plot. 21 Oct 2026 (Ian: \"the music kept looping … not practical\"): Book I no longer runs dread under whole chapters — it plays at the big moments, each about 1½–2½ min, then fades; the castle bed carries the rest.",
     "dread": "Harker's journal. Slow, low, almost static. Chapters 1-4, 19, 22. REBUILT ON REAL INSTRUMENTS, 4 Oct 2026: VSCO 2 CE double bass and cellos on D–A, violas leaning D–E♭, the upright piano.",
     "pastoral_turning": "The Whitby chapters. Open and warm at first and souring without changing key. Chapters 6-8, 11-13. BUILT AS TWO LOOPS, 4 Oct 2026: pastoral_warm (F major, strings breathing, piano broken chords, the flute) and pastoral_sour (the same key, the iv turned minor, the flat sixth, an E held against the F, no flute). The cue sheet chooses.",
     "pursuit": "The chase east. Momentum, and the only cue with a pulse. Chapters 26-27. BUILT 6 Oct 2026: score-pursuit.mp3 (58 s loop) — 132 BPM galloping strings, timpani, brass climbing by fourths, horses, wolves far off.",
@@ -359,7 +368,7 @@
       "n": 2,
       "bed": "castle",
       "state": 1,
-      "score": "dread",
+      "score": null,
       "sfx": [
         "carriage",
         "door_heavy",
@@ -370,7 +379,7 @@
       "n": 3,
       "bed": "castle",
       "state": 2,
-      "score": "dread",
+      "score": null,
       "sfx": [
         "door_shut",
         "thunder",
@@ -381,7 +390,7 @@
       "n": 4,
       "bed": "castle",
       "state": 4,
-      "score": "dread",
+      "score": null,
       "sfx": [
         "earth_box",
         "door_heavy"

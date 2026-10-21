@@ -40,6 +40,10 @@
     },
     {
       "n": 3,
+      "score": {
+        "key": "dread",
+        "xfade": 6
+      },
       "para": 2,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -56,6 +60,10 @@
     },
     {
       "n": 5,
+      "score": {
+        "key": null,
+        "xfade": 12
+      },
       "para": 4,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -93,6 +101,10 @@
     },
     {
       "n": 7,
+      "score": {
+        "key": "dread",
+        "xfade": 8
+      },
       "para": 6,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -128,6 +140,10 @@
     },
     {
       "n": 11,
+      "score": {
+        "key": null,
+        "xfade": 12
+      },
       "para": 8,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -322,6 +338,10 @@
     },
     {
       "n": 27,
+      "score": {
+        "key": "dread",
+        "xfade": 8
+      },
       "sfx": [
         {
           "key": "shudder",
@@ -364,6 +384,10 @@
     },
     {
       "n": 31,
+      "score": {
+        "key": null,
+        "xfade": 10
+      },
       "para": 24,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -758,6 +782,10 @@
     },
     {
       "n": 85,
+      "score": {
+        "key": "dread",
+        "xfade": 8
+      },
       "para": 55,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -787,6 +815,10 @@
     },
     {
       "n": 89,
+      "score": {
+        "key": null,
+        "xfade": 10
+      },
       "para": 56,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
@@ -809,6 +841,10 @@
     },
     {
       "n": 92,
+      "score": {
+        "key": "dread",
+        "xfade": 8
+      },
       "para": 57,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",

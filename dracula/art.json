@@ -1,7 +1,7 @@
 {
  "work": "dracula",
  "base": "art/",
- "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass style-referenced to storm-1.jpg. The four 'red lips' close-ups came out as a woman's face and are left out. Chapter III (20 Oct): 63 Midjourney stills by Ian, style-referenced to the voyage harbour paintings; the hand-washing warning (cues 31–34) left without its own picture by Ian's choice — the letters hold until the Count goes out of the window. Chapter IV (20 Oct): 78 stills by Ian. Midjourney gave the Count a white beard in Part I; Ian accepted it for the castle chapters — he is groomed and younger for London in Part II. Cues 50–59 (the Count announcing the parting) reuse two of the three-letters paintings; cues 71–74 reuse the wall climb. Lamp, fire, mist and water loops (20 Oct): 15 twelve-second loops made by Claude from the lead paintings (dracula/*-air.mp4 on the Media Door) — the flame moves only where the flame is. Ch 1–2 loops and the moon skies (20 Oct, evening): 13 more loops for chapters 1–2; the three clear-sky moon scenes (ch03 f1-3, f2-2; ch04 g1-3) re-made as -air2 with thin clouds drifting across the moon, twinkling stars and one steady bright planet. Sky effects are only where the sky is open — never across branches or walls. Ch I cues 6–7 (21 Oct): Jonathan's British Museum notes open 'The Peoples of Transylvania' (dossier/peoples.html), which draws the three states, the Carpathians, Bistritz and the four nationalities on his words. Ch I rail car (21 Oct): Ian's Midjourney rail-car tables of maps and books replace the four window pictures at cue 5 and add scenes at 6 and 8. Ch I Bistritz (21 Oct): Ian's Midjourney Golden Krone set (inn, landlady, letter, frightened hosts, the plea, the crucifix, the diary at dawn, the crowd, the coach) replaces the three repeating sets for cues 11–30; the Count's letter (dossier/letter.html) writes itself out at 14–15. Chapter III history (21 Oct): 39 Midjourney paintings by Ian for the Count's speech — a painting card for each of the twelve stories in dossier/count-history.html (ch03-hist-*.jpg), and the fireside (the Count's face, Jonathan listening, the ancestral swords) at cues 5 and 9. Ch III 12 May (21 Oct): 8 stills by Ian (the library questioning, the finger on the map of England, the Count's face) spread over cues 10–18, which held one picture for 3.6 minutes.",
+ "note": "Pictures under the reading (art.js). A scene starts on the cue whose n equals 'from' and lasts until the next; an empty images list ends the pictures. Chapter II pilot, 17 Oct 2026: Midjourney stills by Ian, style-referenced to the Demeter voyage. Chapter I (17 Oct): the warm daylight journey, style-referenced to voyage/varna-1.jpg; the night at the pass style-referenced to storm-1.jpg. The four 'red lips' close-ups came out as a woman's face and are left out. Chapter III (20 Oct): 63 Midjourney stills by Ian, style-referenced to the voyage harbour paintings; the hand-washing warning (cues 31–34) left without its own picture by Ian's choice — the letters hold until the Count goes out of the window. Chapter IV (20 Oct): 78 stills by Ian. Midjourney gave the Count a white beard in Part I; Ian accepted it for the castle chapters — he is groomed and younger for London in Part II. Cues 50–59 (the Count announcing the parting) reuse two of the three-letters paintings; cues 71–74 reuse the wall climb. Lamp, fire, mist and water loops (20 Oct): 15 twelve-second loops made by Claude from the lead paintings (dracula/*-air.mp4 on the Media Door) — the flame moves only where the flame is. Ch 1–2 loops and the moon skies (20 Oct, evening): 13 more loops for chapters 1–2; the three clear-sky moon scenes (ch03 f1-3, f2-2; ch04 g1-3) re-made as -air2 with thin clouds drifting across the moon, twinkling stars and one steady bright planet. Sky effects are only where the sky is open — never across branches or walls. Ch I cues 6–7 (21 Oct): Jonathan's British Museum notes open 'The Peoples of Transylvania' (dossier/peoples.html), which draws the three states, the Carpathians, Bistritz and the four nationalities on his words. Ch I rail car (21 Oct): Ian's Midjourney rail-car tables of maps and books replace the four window pictures at cue 5 and add scenes at 6 and 8. Ch I Bistritz (21 Oct): Ian's Midjourney Golden Krone set (inn, landlady, letter, frightened hosts, the plea, the crucifix, the diary at dawn, the crowd, the coach) replaces the three repeating sets for cues 11–30; the Count's letter (dossier/letter.html) writes itself out at 14–15. Chapter III history (21 Oct): 39 Midjourney paintings by Ian for the Count's speech — a painting card for each of the twelve stories in dossier/count-history.html (ch03-hist-*.jpg), and the fireside (the Count's face, Jonathan listening, the ancestral swords) at cues 5 and 9. Ch III 12 May (21 Oct): 8 stills by Ian (the library questioning, the finger on the map of England, the Count's face) spread over cues 10–18, which held one picture for 3.6 minutes. 22 Oct: 12 May gets Jonathan's journal at the window, Exeter, and the North Sea harbour (crates into the hold); ch I cue 36 gets two calèche paintings. 22 Oct, late: the Book I long-scene set (Midjourney tags BK1A/B/C, 51 stills by Ian) — the calèche and the coach, the wolves, the stair and bedroom, the Count reading Hawkins's letter, supper, the crucifix, the Count writing and the four letters, the bolted door and the precipice, the burnt shorthand letter, the clean envelope, the emptied portmanteau, the ledge, the gold, the chapel of boxes, the parting, the wolves at the door, the dawn door, and the Count half-renewed in the box (iron-grey, blood at the lips) with the shovel. Files ch0N-bk-*.jpg.",
  "episodes": {
   "2": [
    {
@@ -70,11 +70,45 @@
     ]
    },
    {
+    "from": 16,
+    "caption": "",
+    "images": [
+     "ch02-bk-stair-0.jpg",
+     "ch02-bk-stair-2.jpg"
+    ]
+   },
+   {
+    "from": 17,
+    "caption": "",
+    "images": [
+     "ch02-bk-bedroom-0.jpg",
+     "ch02-bk-bedroom-3.jpg",
+     "ch02-bk-bedroom-2.jpg"
+    ]
+   },
+   {
     "from": 20,
     "caption": "Supper · the great fireplace",
     "images": [
      "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-e1-1-air.mp4",
      "ch02-e1-3.jpg"
+    ]
+   },
+   {
+    "from": 22,
+    "caption": "",
+    "images": [
+     "ch02-bk-reading-1.jpg",
+     "ch02-bk-reading-0.jpg",
+     "ch02-bk-reading-2.jpg"
+    ]
+   },
+   {
+    "from": 24,
+    "caption": "",
+    "images": [
+     "ch02-bk-supper-1.jpg",
+     "ch02-bk-supper-3.jpg"
     ]
    },
    {
@@ -184,7 +218,9 @@
     "images": [
      "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-a2-1-air.mp4",
      "ch03-a2-4.jpg",
-     "ch03-a2-2.jpg"
+     "ch03-a2-2.jpg",
+     "ch03-bk-crucifix-0.jpg",
+     "ch03-bk-crucifix-3.jpg"
     ]
    },
    {
@@ -213,8 +249,10 @@
     "from": 10,
     "caption": "12 May",
     "images": [
+     "ch03-may-journal-1.jpg",
      "ch03-c1-1.jpg",
-     "ch03-may-lib-1.jpg"
+     "ch03-may-lib-1.jpg",
+     "ch03-may-journal-2.jpg"
     ]
    },
    {
@@ -230,10 +268,14 @@
     "from": 12,
     "caption": "",
     "images": [
+     "ch03-may-exeter-1.jpg",
      "ch03-may-map-2.jpg",
      "ch03-may-map-0.jpg",
+     "ch03-may-exeter-2.jpg",
      "ch03-may-map-3.jpg",
-     "ch03-may-map-1.jpg"
+     "ch03-may-harbour-1.jpg",
+     "ch03-may-map-1.jpg",
+     "ch03-may-harbour-2.jpg"
     ]
    },
    {
@@ -278,7 +320,19 @@
     "images": [
      "ch03-d2-4.jpg",
      "ch03-d2-1.jpg",
+     "ch03-bk-writing-1.jpg",
+     "ch03-bk-writing-3.jpg",
      "ch03-d2-2.jpg",
+     "ch03-d2-3.jpg"
+    ]
+   },
+   {
+    "from": 30,
+    "caption": "",
+    "images": [
+     "ch03-bk-letters-1.jpg",
+     "ch03-bk-letters-3.jpg",
+     "ch03-bk-letters-0.jpg",
      "ch03-d2-3.jpg"
     ]
    },
@@ -319,8 +373,13 @@
     "images": [
      "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-g1-4-air.mp4",
      "ch03-g1-1.jpg",
+     "ch03-bk-bolts-0.jpg",
+     "ch03-bk-bolts-1.jpg",
      "ch03-g1-3.jpg",
-     "ch03-g1-2.jpg"
+     "ch03-g1-2.jpg",
+     "ch03-bk-precipice-0.jpg",
+     "ch03-bk-precipice-2.jpg",
+     "ch03-bk-precipice-3.jpg"
     ]
    },
    {
@@ -441,6 +500,30 @@
     ]
    },
    {
+    "from": 16,
+    "caption": "",
+    "images": [
+     "ch04-bk-burnt-2.jpg",
+     "ch04-bk-burnt-0.jpg"
+    ]
+   },
+   {
+    "from": 19,
+    "caption": "",
+    "images": [
+     "ch04-bk-envelope-1.jpg",
+     "ch04-bk-envelope-3.jpg"
+    ]
+   },
+   {
+    "from": 24,
+    "caption": "",
+    "images": [
+     "ch04-bk-bag-2.jpg",
+     "ch04-bk-bag-3.jpg"
+    ]
+   },
+   {
     "from": 27,
     "caption": "17 June",
     "images": [
@@ -502,13 +585,26 @@
     ]
    },
    {
+    "from": 46,
+    "caption": "",
+    "images": [
+     "ch04-bk-ledge-0.jpg",
+     "ch04-bk-ledge-3.jpg",
+     "ch04-j-3.jpg"
+    ]
+   },
+   {
     "from": 47,
     "caption": "The vault",
     "images": [
      "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-k1-4-air.mp4",
      "ch04-k1-1.jpg",
      "ch04-k1-3.jpg",
-     "ch04-k1-2.jpg"
+     "ch04-k1-2.jpg",
+     "ch04-bk-gold-0.jpg",
+     "ch04-bk-gold-2.jpg",
+     "ch04-bk-chapel-0.jpg",
+     "ch04-bk-chapel-2.jpg"
     ]
    },
    {
@@ -526,7 +622,9 @@
     "from": 50,
     "caption": "29 June",
     "images": [
+     "ch04-bk-parting-1.jpg",
      "ch04-b-3.jpg",
+     "ch04-bk-parting-3.jpg",
      "ch04-b-1.jpg"
     ]
    },
@@ -536,7 +634,9 @@
     "cut": true,
     "images": [
      "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-m1-1-air.mp4",
+     "ch04-bk-door-2.jpg",
      "ch04-m1-2.jpg",
+     "ch04-bk-door-3.jpg",
      "ch04-m1-4.jpg",
      "ch04-m1-3.jpg"
     ]
@@ -570,13 +670,40 @@
     ]
    },
    {
+    "from": 73,
+    "caption": "",
+    "images": [
+     "ch04-bk-dawn-0.jpg",
+     "ch04-bk-dawn-1.jpg"
+    ]
+   },
+   {
+    "from": 74,
+    "caption": "",
+    "images": [
+     "ch04-j-4.jpg",
+     "ch04-j-2.jpg"
+    ]
+   },
+   {
     "from": 75,
     "caption": "",
     "cut": true,
     "images": [
      "ch04-p-1.jpg",
+     "ch04-bk-box-2.jpg",
      "ch04-p-3.jpg",
+     "ch04-bk-box-1.jpg",
      "ch04-p-2.jpg",
+     "ch04-bk-box-0.jpg"
+    ]
+   },
+   {
+    "from": 76,
+    "caption": "",
+    "images": [
+     "ch04-bk-shovel-0.jpg",
+     "ch04-bk-shovel-2.jpg",
      "ch04-p-4.jpg"
     ]
    },
@@ -853,7 +980,18 @@
     "cut": true,
     "images": [
      "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch01-n01-1-air.mp4",
-     "ch01-n01-2.jpg"
+     "ch01-n01-2.jpg",
+     "ch01-caleche-1.jpg",
+     "ch01-caleche-2.jpg"
+    ]
+   },
+   {
+    "from": 41,
+    "caption": "",
+    "images": [
+     "ch01-bk-coach-0.jpg",
+     "ch01-bk-caleche-2.jpg",
+     "ch01-bk-coach-2.jpg"
     ]
    },
    {
@@ -910,7 +1048,10 @@
     "caption": "",
     "cut": true,
     "images": [
-     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch01-n06-2-air.mp4"
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch01-n06-2-air.mp4",
+     "ch01-bk-wolves-0.jpg",
+     "ch01-bk-wolves-3.jpg",
+     "ch01-bk-wolves-1.jpg"
     ]
    },
    {

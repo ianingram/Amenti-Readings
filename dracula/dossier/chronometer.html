@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Dracula Chronometer</title>
+<!-- ===========================================================================
+     THE DRACULA CHRONOMETER  (Amenti-Readings/dracula/dossier/chronometer.html)
+     25 Oct 2026. The book's emblem as a clock. Two faces:
+       CHAPTERS · the 27 chapters around the rim, the 24 hours inside (27:24 =
+         9:8, so they meet at I/00, X/08 and XIX/16). The inner ring is shaded
+         for day and night at the place and date of the entry: the vampire's
+         hours. A hand points to the chapter, a second to the hour if the entry
+         gives one.
+       CALENDAR · the 187 days, 3 May to 6 November 1893, with the three books
+         as bands (Books I and II run side by side), every dated entry as a tick
+         and the real moon of 1893 round the edge.
+     Every date comes from the cue sheets (ep01–ep27.json): 166 dated entries.
+     Following the reading: ?ep=23&n=40 opens at that cue; a page that embeds
+     this in an iframe can post {type:'amenti-cue', ep, n} and the hands move.
+     =========================================================================== -->
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&display=swap" rel="stylesheet">
+<style>
+  :root{--ink:#07090c;--gold:#e0a53c;--pale:#d6e8df;--mist:#9ab0a6;--b1:#e0a53c;--b2:#c98f8a;--b3:#9ab0a6;
+    --serif:'Cormorant Garamond',Georgia,serif;--mono:ui-monospace,SFMono-Regular,Menlo,monospace}
+  *{box-sizing:border-box}
+  html,body{margin:0;min-height:100%;background:radial-gradient(ellipse at 50% 38%,#121722 0%,#07090c 62%) fixed,#07090c;color:var(--pale);font-family:var(--mono);-webkit-font-smoothing:antialiased}
+  .wrap{max-width:980px;margin:0 auto;padding:18px 16px 40px;position:relative;min-height:100vh}
+  .wrap>*{position:relative;z-index:1}
+  .wrap>.plumb{position:absolute;left:50%;width:2px;margin-left:-1px;bottom:0;background:linear-gradient(180deg,rgba(224,165,60,.8),rgba(224,165,60,.5) 70%,rgba(224,165,60,.15));pointer-events:none;z-index:0}
+  header{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+  h1{font-family:var(--serif);font-weight:400;letter-spacing:.12em;font-size:clamp(20px,3vw,28px);margin:0;color:#fff}
+  h1 span{color:var(--gold);font-size:.55em;letter-spacing:.35em;text-transform:uppercase;display:block;margin-bottom:4px}
+  .ttl{display:inline-flex;flex-direction:column;align-items:flex-start}
+  .ttl h1{align-self:flex-start}
+  svg.mark{display:block;width:44px;height:56px;margin:6px 0 0 0;max-width:none;filter:drop-shadow(0 0 6px rgba(184,50,46,.45))}
+  .tabs{display:flex;gap:8px}
+  .tabs button,.ctl button{font:inherit;font-size:11px;letter-spacing:.25em;text-transform:uppercase;background:#07090c;color:var(--mist);border:1px solid rgba(154,176,166,.35);padding:8px 14px;cursor:pointer}
+  .tabs button.on{color:var(--gold);border-color:var(--gold)}
+  .ctl button:hover,.tabs button:hover{color:var(--gold)}
+  svg{display:block;width:100%;max-width:880px;height:auto;margin:6px auto 0;touch-action:manipulation}
+  .num{font-family:var(--serif);cursor:pointer}
+  .num:hover{fill:#fff}
+  .tick{cursor:pointer}
+  .ctl{display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;margin-top:6px}
+  .ctl input[type=range]{width:min(520px,90vw);accent-color:var(--gold)}
+  .read{text-align:center;margin-top:12px;min-height:84px}
+  .read>div{display:table;margin-left:auto;margin-right:auto;background:#07090c;padding:2px 14px}
+  .read .when{font-family:var(--serif);font-weight:500;font-size:clamp(20px,2.8vw,27px);color:#fff}
+  .read .doc{font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold);margin-top:6px}
+  .read .where{font-size:12px;color:var(--mist);margin-top:6px;line-height:1.6}
+  .note{font-size:11px;color:#6a7a70;text-align:center;margin:26px auto 0;line-height:1.7;max-width:640px;background:#07090c;padding:6px 12px}
+  .hand{transition:transform .9s cubic-bezier(.4,.1,.2,1)}
+  @media (prefers-reduced-motion:reduce){.hand{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap"><div class="plumb" id="plumb"></div>
+  <header>
+    <div class="ttl"><h1><span>Dracula · 1893</span>Chronometer</h1><svg class="mark" viewBox="0 0 44 56" width="44" height="56" aria-hidden="true"><g stroke="#b8322e" stroke-linecap="round" fill="none"><circle cx="22" cy="22" r="13" stroke-width="2.6"/><line x1="22" y1="4" x2="22" y2="52" stroke-width="3"/><line x1="5" y1="22" x2="39" y2="22" stroke-width="3"/></g></svg></div>
+    <div class="tabs"><button id="t-clock" class="on">Chapters</button><button id="t-cal">Calendar</button></div>
+  </header>
+  <svg id="dial" viewBox="-50 -50 1100 1100" aria-label="The Dracula chronometer"></svg>
+  <div class="ctl">
+    <button id="prev" aria-label="Previous entry">&larr;</button>
+    <button id="play">Play</button>
+    <button id="next" aria-label="Next entry">&rarr;</button>
+  </div>
+  <div class="ctl"><input id="scrub" type="range" min="0" max="0" value="0" aria-label="Entries"></div>
+  <div class="read" aria-live="polite">
+    <div class="when" id="when"></div>
+    <div class="doc" id="doc"></div>
+    <div class="where" id="where"></div>
+  </div>
+  <div class="note">Every date is taken from the text: 166 dated entries across 27 chapters. Day and night are the real sunrise and sunset at the place of the entry; the moon is the moon of 1893.<br>Amenti Studios · Ingram Manor LLC · 2026</div>
+</div>
+<script>
+(function(){
+'use strict';
+var DATA = {"entries": [[1, 4, "1893-05-03", 20.58, "Jonathan Harker’s Journal"], [1, 16, "1893-05-04", null, "Jonathan Harker’s Journal"], [1, 28, "1893-05-05", 8, "Jonathan Harker’s Journal"], [2, 3, "1893-05-05", null, "Jonathan Harker’s Journal"], [2, 35, "1893-05-07", 8, "Jonathan Harker’s Journal"], [2, 82, "1893-05-08", null, "Jonathan Harker’s Journal"], [3, 10, "1893-05-12", null, "Jonathan Harker’s Journal"], [3, 39, "1893-05-15", null, "Jonathan Harker’s Journal"], [4, 4, "1893-05-18", null, "Jonathan Harker’s Journal"], [4, 5, "1893-05-19", 22, "Jonathan Harker’s Journal"], [4, 8, "1893-05-28", null, "Jonathan Harker’s Journal"], [4, 24, "1893-05-31", 8, "Jonathan Harker’s Journal"], [4, 27, "1893-06-17", 8, "Jonathan Harker’s Journal"], [4, 29, "1893-06-24", 8, "Jonathan Harker’s Journal"], [4, 42, "1893-06-25", 8, "Jonathan Harker’s Journal"], [4, 49, "1893-06-29", null, "Jonathan Harker’s Journal"], [4, 71, "1893-06-30", 8, "Jonathan Harker’s Journal"], [5, 3, "1893-05-09", null, "Letter from Miss Mina Murray to Miss Lucy Westenra"], [5, 16, "1893-05-24", null, "Letter, Lucy Westenra to Mina Murray"], [5, 34, "1893-05-25", null, "Dr. Seward’s Diary"], [5, 39, "1893-05-25", null, "Letter, Quincey P. Morris to Hon. Arthur Holmwood"], [5, 44, "1893-05-26", null, "Telegram from Arthur Holmwood to Quincey P. Morris"], [6, 3, "1893-07-24", null, "Mina Murray’s Journal"], [6, 11, "1893-08-01", null, "Mina Murray’s Journal"], [6, 49, "1893-06-05", null, "Dr. Seward’s Diary"], [6, 50, "1893-06-18", null, "Dr. Seward’s Diary"], [6, 51, "1893-07-01", null, "Dr. Seward’s Diary"], [6, 52, "1893-07-08", null, "Dr. Seward’s Diary"], [6, 53, "1893-07-19", null, "Dr. Seward’s Diary"], [6, 57, "1893-07-20", null, "Dr. Seward’s Diary"], [6, 64, "1893-07-26", null, "Mina Murray’s Journal"], [6, 65, "1893-07-27", null, "Mina Murray’s Journal"], [6, 66, "1893-08-03", null, "Mina Murray’s Journal"], [6, 67, "1893-08-06", null, "Mina Murray’s Journal"], [7, 17, "1893-08-09", null, "Mina Murray’s Journal"], [7, 30, "1893-07-22", null, "Log of the “Demeter”"], [7, 31, "1893-07-24", null, "Log of the “Demeter”"], [7, 32, "1893-07-28", null, "Log of the “Demeter”"], [7, 33, "1893-07-29", null, "Log of the “Demeter”"], [7, 34, "1893-07-30", 22, "Log of the “Demeter”"], [7, 35, "1893-08-01", null, "Log of the “Demeter”"], [7, 36, "1893-08-02", 0, "Log of the “Demeter”"], [7, 37, "1893-08-03", 0, "Log of the “Demeter”"], [7, 39, "1893-08-04", null, "Log of the “Demeter”"], [7, 43, "1893-08-08", 22, "Mina Murray’s Journal"], [7, 45, "1893-08-10", null, "Mina Murray’s Journal"], [8, 4, "1893-08-11", 3.0, "Mina Murray’s Journal"], [8, 9, "1893-08-12", null, "Mina Murray’s Journal"], [8, 10, "1893-08-13", null, "Mina Murray’s Journal"], [8, 11, "1893-08-14", null, "Mina Murray’s Journal"], [8, 15, "1893-08-15", null, "Mina Murray’s Journal"], [8, 16, "1893-08-17", null, "Mina Murray’s Journal"], [8, 18, "1893-08-17", null, "Mina Murray’s Journal"], [8, 25, "1893-08-21", null, "Mina Murray’s Journal"], [8, 30, "1893-08-18", null, "Mina Murray’s Journal"], [8, 35, "1893-08-19", null, "Mina Murray’s Journal"], [8, 37, "1893-08-12", null, "Mina Murray’s Journal"], [8, 44, "1893-08-19", null, "Dr. Seward’s Diary"], [9, 21, "1893-08-20", null, "Dr. Seward’s Diary"], [9, 29, "1893-08-23", null, "Dr. Seward’s Diary"], [9, 35, "1893-08-25", 22, "Lucy Westenra’s Diary"], [9, 42, "1893-09-01", null, "Telegram, Arthur Holmwood to Seward"], [9, 45, "1893-09-02", null, "Letter from Dr. Seward to Arthur Holmwood"], [9, 53, "1893-09-02", null, "Letter, Abraham Van Helsing, M. D., D. Ph., D. Lit., etc., etc., to Dr. Seward"], [9, 58, "1893-09-03", null, "Letter, Dr. Seward to Hon. Arthur Holmwood"], [9, 65, "1893-09-04", null, "Dr. Seward’s Diary"], [9, 79, "1893-09-04", null, "Telegram, Seward, London, to Van Helsing, Amsterdam"], [9, 81, "1893-09-05", null, "Telegram, Seward, London, to Van Helsing, Amsterdam"], [9, 83, "1893-09-06", null, "Telegram, Seward, London, to Van Helsing, Amsterdam"], [10, 3, "1893-09-06", null, "Letter, Dr. Seward to Hon. Arthur Holmwood"], [10, 8, "1893-09-07", null, "Dr. Seward’s Diary"], [10, 78, "1893-09-08", 22, "Dr. Seward’s Diary"], [10, 92, "1893-09-09", null, "Dr. Seward’s Diary"], [10, 100, "1893-09-09", 22, "Lucy Westenra’s Diary"], [10, 102, "1893-09-10", null, "Dr. Seward’s Diary"], [10, 137, "1893-09-11", 12, "Dr. Seward’s Diary"], [11, 3, "1893-09-12", null, "Lucy Westenra’s Diary"], [11, 5, "1893-09-13", null, "Dr. Seward’s Diary"], [11, 36, "1893-09-17", 22, "Lucy Westenra’s Diary"], [11, 78, "1893-09-17", null, "Dr. Seward’s Diary"], [11, 83, "1893-09-17", null, "Telegram, Van Helsing, Antwerp, to Seward, Carfax"], [11, 85, "1893-09-18", null, "Dr. Seward’s Diary"], [11, 87, "1893-09-17", 22, "Memorandum left by Lucy Westenra"], [12, 3, "1893-09-18", null, "Dr. Seward’s Diary"], [12, 60, "1893-09-19", 22, "Dr. Seward’s Diary"], [12, 65, "1893-09-17", null, "Letter, Mina Harker to Lucy Westenra. (Unopened by her.)"], [12, 73, "1893-09-20", null, "Letter, Mina Harker to Lucy Westenra. (Unopened by her.)"], [12, 80, "1893-09-18", null, "Letter, Mina Harker to Lucy Westenra. (Unopened by her.)"], [12, 85, "1893-09-20", null, "Dr. Seward’s Diary"], [13, 87, "1893-09-22", null, "Mina Harker’s Journal"], [13, 106, "1893-09-22", null, "Dr. Seward’s Diary"], [14, 3, "1893-09-23", 22, "Mina Harker’s Journal"], [14, 4, "1893-09-24", null, "Mina Harker’s Journal"], [14, 8, "1893-09-24", null, "Letter, Van Helsing to Mrs. Harker"], [14, 13, "1893-09-25", null, "Telegram, Mrs. Harker to Van Helsing"], [14, 16, "1893-09-25", null, "Mina Harker’s Journal"], [14, 74, "1893-09-25", null, "Letter (by hand), Van Helsing to Mrs. Harker"], [14, 79, "1893-09-25", 18.5, "Letter, Mrs. Harker to Van Helsing"], [14, 84, "1893-09-26", null, "Jonathan Harker’s Journal"], [14, 110, "1893-09-26", null, "Dr. Seward’s Diary"], [15, 67, "1893-09-27", null, "Dr. Seward’s Diary"], [15, 98, "1893-09-27", null, "Dr. Seward’s Diary"], [15, 105, "1893-09-28", 22, "Dr. Seward’s Diary"], [15, 106, "1893-09-29", 8, "Dr. Seward’s Diary"], [16, 46, "1893-09-29", 22, "Dr. Seward’s Diary"], [17, 25, "1893-09-29", null, "Mina Harker’s Journal"], [17, 65, "1893-09-29", null, "Dr. Seward’s Diary"], [17, 76, "1893-09-29", null, "Mina Harker’s Journal"], [17, 80, "1893-09-30", null, "Dr. Seward’s Diary"], [17, 85, "1893-09-29", null, "Jonathan Harker’s Journal"], [17, 86, "1893-09-30", null, "Jonathan Harker’s Journal"], [17, 94, "1893-09-30", null, "Mina Harker’s Journal"], [18, 3, "1893-09-30", null, "Dr. Seward’s Diary"], [18, 60, "1893-09-30", null, "Mina Harker’s Journal"], [18, 97, "1893-10-01", 4.0, "Dr. Seward’s Diary"], [19, 3, "1893-10-01", 5.0, "Jonathan Harker’s Journal"], [19, 49, "1893-10-01", null, "Jonathan Harker’s Journal"], [19, 51, "1893-10-01", 12, "Dr. Seward’s Diary"], [19, 74, "1893-10-01", null, "Mina Harker’s Journal"], [19, 79, "1893-10-02", 22.0, "Mina Harker’s Journal"], [20, 3, "1893-10-01", 19, "Jonathan Harker’s Journal"], [20, 8, "1893-10-02", 19, "Jonathan Harker’s Journal"], [20, 51, "1893-10-01", null, "Dr. Seward’s Diary"], [20, 116, "1893-10-01", null, "Letter, Mitchell, Sons and Candy to Lord Godalming"], [20, 121, "1893-10-02", null, "Dr. Seward’s Diary"], [21, 3, "1893-10-03", null, "Dr. Seward’s Diary"], [22, 3, "1893-10-03", null, "Jonathan Harker’s Journal"], [23, 3, "1893-10-03", null, "Dr. Seward’s Diary"], [23, 71, "1893-10-04", 8, "Jonathan Harker’s Journal"], [24, 7, "1893-10-04", null, "Jonathan Harker’s Journal"], [24, 11, "1893-10-05", 17.0, "Mina Harker’s Journal"], [24, 31, "1893-10-05", null, "Dr. Seward’s Diary"], [24, 60, "1893-10-05", 12, "Jonathan Harker’s Journal"], [24, 72, "1893-10-06", 8, "Jonathan Harker’s Journal"], [25, 3, "1893-10-11", 19, "Dr. Seward’s Diary"], [25, 62, "1893-10-15", null, "Jonathan Harker’s Journal"], [25, 68, "1893-10-16", null, "Jonathan Harker’s Journal"], [25, 70, "1893-10-17", null, "Jonathan Harker’s Journal"], [25, 71, "1893-10-24", null, "Jonathan Harker’s Journal"], [25, 76, "1893-10-25", null, "Dr. Seward’s Diary"], [25, 78, "1893-10-25", 12, "Dr. Seward’s Diary"], [25, 81, "1893-10-26", null, "Dr. Seward’s Diary"], [25, 82, "1893-10-27", 12, "Dr. Seward’s Diary"], [25, 85, "1893-10-28", null, "Dr. Seward’s Diary"], [25, 88, "1893-10-28", null, "Dr. Seward’s Diary"], [26, 3, "1893-10-29", null, "Dr. Seward’s Diary"], [26, 17, "1893-10-30", 7.0, "Dr. Seward’s Diary"], [26, 30, "1893-10-30", null, "Mina Harker’s Journal"], [26, 33, "1893-10-30", null, "Jonathan Harker’s Journal"], [26, 47, "1893-10-30", 19, "Mina Harker’s Journal"], [26, 108, "1893-10-31", null, "Jonathan Harker’s Journal"], [26, 109, "1893-11-01", 19, "Jonathan Harker’s Journal"], [26, 110, "1893-11-02", 8, "Jonathan Harker’s Journal"], [26, 112, "1893-11-02", null, "Dr. Seward’s Diary"], [26, 113, "1893-11-03", null, "Dr. Seward’s Diary"], [26, 114, "1893-11-04", null, "Dr. Seward’s Diary"], [26, 116, "1893-10-31", 12, "Mina Harker’s Journal"], [27, 3, "1893-11-01", null, "Mina Harker’s Journal"], [27, 4, "1893-11-02", 8, "Mina Harker’s Journal"], [27, 5, "1893-11-02", 22, "Mina Harker’s Journal"], [27, 7, "1893-11-04", null, "Memorandum by Abraham Van Helsing"], [27, 18, "1893-11-05", 8, "Memorandum by Abraham Van Helsing"], [27, 37, "1893-11-04", 19, "Jonathan Harker’s Journal"], [27, 39, "1893-11-05", 6, "Dr. Seward’s Diary"], [27, 41, "1893-11-05", 12, "Dr. Van Helsing’s Memorandum"], [27, 58, "1893-11-06", 12, "Mina Harker’s Journal"]], "titles": ["Bistritz, the Coach and the Borgo Pass", "Enter Freely", "The Three Women", "The Boxes of Earth", "Three Proposals", "Whitby", "The Demeter", "The East Cliff", "Letters, and the Patient", "The Transfusion", "The Escaped Wolf", "The Death of Lucy", "The Funeral", "Madam Mina", "The Empty Coffin", "The Stake", "One Record", "Renfield Asks to Be Let Go", "Carfax, and the Boxes", "Tracking the Boxes", "What They Found in Mina’s Room", "The Wafer", "The Count at Piccadilly", "The Czarina Catherine", "The Burial Service", "Up the Rivers", "The Ring of Fire"]};
+var E = DATA.entries, TITLES = DATA.titles;
+var R = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX','XXI','XXII','XXIII','XXIV','XXV','XXVI','XXVII'];
+var BOOK = function(ch){ return ch<=4?1:(ch<=16?2:3); };
+var BCOL = {1:'#e0a53c',2:'#c98f8a',3:'#9ab0a6'};
+var BNAME = {1:'Book I · The Castle',2:'Book II · Lucy',3:'Book III · The Hunt'};
+/* where each chapter is written from: [place, lat, lon] */
+var PLACE = {1:['Bistritz and the Borgo Pass',47.13,24.5],2:['Castle Dracula',47.25,25.0],3:['Castle Dracula',47.25,25.0],4:['Castle Dracula',47.25,25.0],
+  5:['London',51.51,-0.13],6:['Whitby',54.49,-0.61],7:['Whitby',54.49,-0.61],8:['Whitby',54.49,-0.61],9:['London',51.51,-0.13],10:['Hillingham, London',51.56,-0.17],
+  11:['Hillingham, London',51.56,-0.17],12:['Hillingham, London',51.56,-0.17],13:['London',51.51,-0.13],14:['Exeter and London',50.72,-3.53],15:['Hampstead, London',51.56,-0.18],
+  16:['Kingstead churchyard, Hampstead',51.56,-0.18],17:['Purfleet',51.48,0.24],18:['Purfleet',51.48,0.24],19:['Carfax, Purfleet',51.48,0.24],20:['London and Purfleet',51.5,0.0],
+  21:['Purfleet',51.48,0.24],22:['Purfleet and Piccadilly',51.5,-0.14],23:['Piccadilly',51.507,-0.142],24:['Purfleet and London',51.48,0.24],25:['Varna',43.21,27.91],
+  26:['Galatz and the rivers',45.43,28.05],27:['The Borgo Pass',47.28,25.0]};
+var T0 = Date.UTC(1893,4,3), DAYS = 187;
+function dayOf(s){ var p=s.split('-'); return (Date.UTC(+p[0],+p[1]-1,+p[2])-T0)/864e5; }
+function fmtDate(s){ var p=s.split('-'), d=new Date(Date.UTC(+p[0],+p[1]-1,+p[2]));
+  return d.toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}); }
+/* sunrise / sunset, local solar time (NOAA approximation) */
+function sun(dateStr, lat, lon){
+  var p=dateStr.split('-'), N=Math.round((Date.UTC(+p[0],+p[1]-1,+p[2])-Date.UTC(+p[0],0,0))/864e5);
+  var g=2*Math.PI/365*(N-1), decl=0.006918-0.399912*Math.cos(g)+0.070257*Math.sin(g)-0.006758*Math.cos(2*g)+0.000907*Math.sin(2*g)-0.002697*Math.cos(3*g)+0.00148*Math.sin(3*g);
+  var eq=229.18*(0.000075+0.001868*Math.cos(g)-0.032077*Math.sin(g)-0.014615*Math.cos(2*g)-0.040849*Math.sin(2*g));
+  var la=lat*Math.PI/180, z=90.833*Math.PI/180;
+  var ha=Math.acos(Math.cos(z)/(Math.cos(la)*Math.cos(decl))-Math.tan(la)*Math.tan(decl))*180/Math.PI;
+  var noon=720-eq; /* minutes, local solar */
+  return {rise:(noon-4*ha)/60, set:(noon+4*ha)/60};
+}
+/* moon phase 0..1 (0 = new) */
+function moon(t){ var ref=Date.UTC(2000,0,6,18,14), syn=29.530588853; var a=((t-ref)/864e5)/syn; return a-Math.floor(a); }
+function moonName(f){ return f<.03||f>.97?'New moon':f<.22?'Waxing crescent':f<.28?'First quarter':f<.47?'Waxing gibbous':f<.53?'Full moon':f<.72?'Waning gibbous':f<.78?'Last quarter':'Waning crescent'; }
+function hhmm(h){ var H=Math.floor(h), M=Math.round((h-H)*60); if(M===60){H++;M=0;} return (H<10?'0':'')+H+':'+(M<10?'0':'')+M; }
+
+/* chapter progress: entry index within its chapter -> fraction */
+var byCh={}; E.forEach(function(e,i){ (byCh[e[0]]=byCh[e[0]]||[]).push(i); });
+function chFrac(i){ var e=E[i], L=byCh[e[0]], k=L.indexOf(i); return (e[0]-1 + (L.length>1? k/L.length : 0))/27; }
+
+var SERIF="Cormorant Garamond, Georgia, serif";
+var NS='http://www.w3.org/2000/svg', svg=document.getElementById('dial'), mode='clock', cur=0, timer=null;
+function el(tag,at,parent){ var n=document.createElementNS(NS,tag); for(var k in at) n.setAttribute(k,at[k]); (parent||svg).appendChild(n); return n; }
+function pt(a,r){ var t=(a-90)*Math.PI/180; return [500+r*Math.cos(t),500+r*Math.sin(t)]; }
+function arcPath(a0,a1,r){ var p0=pt(a0,r),p1=pt(a1,r),L=(a1-a0)>180?1:0; return 'M'+p0[0].toFixed(1)+','+p0[1].toFixed(1)+' A'+r+','+r+' 0 '+L+' 1 '+p1[0].toFixed(1)+','+p1[1].toFixed(1); }
+function sector(a0,a1,r0,r1){ var A=pt(a0,r1),B=pt(a1,r1),C=pt(a1,r0),D=pt(a0,r0),L=(a1-a0)>180?1:0;
+  return 'M'+A+' A'+r1+','+r1+' 0 '+L+' 1 '+B+' L'+C+' A'+r0+','+r0+' 0 '+L+' 0 '+D+' Z'; }
+var ZOD=[['Taurus','\u2649',4,20],['Gemini','\u264A',5,21],['Cancer','\u264B',6,21],['Leo','\u264C',7,23],['Virgo','\u264D',8,23],['Libra','\u264E',9,23],['Scorpio','\u264F',10,23],['Sagittarius','\u2650',11,22]];
+function sign(ds){ var m=+ds.slice(5,7), d=+ds.slice(8,10), s=ZOD[0]; ZOD.forEach(function(z){ if(m>z[2]||(m===z[2]&&d>=z[3])) s=z; }); return s; }
+function moonGlyph(cx,cy,r,f,g){            /* f: 0 new, .5 full */
+  el('circle',{cx:cx,cy:cy,r:r,fill:'#1b1f27',stroke:'#e9e4d0','stroke-width':.8,'stroke-opacity':.5},g);
+  var k=Math.cos(2*Math.PI*f), waxing=f<.5, sweepOuter=waxing?1:0;
+  if(f>.03&&f<.97){
+    var rx=Math.abs(k)*r, inner=(k>0)?(waxing?0:1):(waxing?1:0);
+    var d='M'+cx+','+(cy-r)+' A'+r+','+r+' 0 0 '+sweepOuter+' '+cx+','+(cy+r)+' A'+rx.toFixed(2)+','+r+' 0 0 '+inner+' '+cx+','+(cy-r)+' Z';
+    el('path',{d:d,fill:'#e9e4d0'},g);
+  }
+}
+function emblem(g){
+  el('line',{x1:500,y1:120,x2:500,y2:1050,stroke:'#e0a53c','stroke-width':2,opacity:.8},g);
+  el('line',{x1:120,y1:500,x2:880,y2:500,stroke:'#e0a53c','stroke-width':2,opacity:.8},g);
+  el('circle',{cx:500,cy:500,r:58,fill:'none',stroke:'#e0a53c','stroke-width':1.5,opacity:.6},g);
+}
+var dyn={};
+function build(){
+  svg.innerHTML='';
+  var defs=el('defs',{});
+  var fl=el('filter',{id:'glow',x:'-50%',y:'-50%',width:'200%',height:'200%'},defs);
+  el('feGaussianBlur',{stdDeviation:4,result:'b'},fl); var mg=el('feMerge',{},fl); el('feMergeNode',{'in':'b'},mg); el('feMergeNode',{'in':'SourceGraphic'},mg);
+  var g=el('g',{}); dyn.nums=[];
+  function curved(id,a0,a1,r,txt,col,size){ el('path',{id:id,d:arcPath(a0,a1,r),fill:'none'},defs);
+    var tx=el('text',{fill:col,'font-size':size,'font-family':SERIF,'letter-spacing':'3','font-style':'italic'},g); var tp=el('textPath',{href:'#'+id,startOffset:'50%','text-anchor':'middle'},tx); tp.textContent=txt; }
+  if(mode==='clock'){
+    for(var mt=0;mt<144;mt++){ var am=mt*2.5, q0=pt(am,338), q1=pt(am,mt%6?342:346); el('line',{x1:q0[0],y1:q0[1],x2:q1[0],y2:q1[1],stroke:'#e0a53c','stroke-width':.7,opacity:.45},g); }
+    el('circle',{cx:500,cy:500,r:348,fill:'none',stroke:'#e0a53c','stroke-width':.6,opacity:.35},g);
+    [[1,0,4],[2,4,16],[3,16,27]].forEach(function(b){ var a0=b[1]*360/27+1.5, a1=b[2]*360/27-1.5-(b[0]===3?13.3:0);
+      el('path',{d:arcPath(a0,a1,452),fill:'none',stroke:BCOL[b[0]],'stroke-width':1.2,opacity:.55},g);
+      curved('bk'+b[0],a0,b[0]===3?a1+13.3:a1,466,BNAME[b[0]],BCOL[b[0]],15); });
+    el('circle',{cx:500,cy:500,r:330,fill:'none',stroke:'#e0a53c','stroke-width':1.4,opacity:.6},g);
+    el('circle',{cx:500,cy:500,r:250,fill:'none',stroke:'#e0a53c','stroke-width':.8,opacity:.3},g);
+    dyn.night=el('g',{},g);                                        /* day / night shading, drawn per entry */
+    for(var h=0;h<24;h++){ var a=h*15, q=pt(a,318), w=pt(a,h%6?330:300);
+      el('line',{x1:q[0],y1:q[1],x2:w[0],y2:w[1],stroke:'#9ab0a6','stroke-width':h%6?1:2},g);
+      var tp=pt(a,285); var t=el('text',{x:tp[0],y:tp[1]+5,fill:'#6f8279','font-size':14,'text-anchor':'middle','font-family':SERIF},g); t.textContent=(h<10?'0':'')+h; }
+    for(var i=0;i<27;i++){ var a2=i*360/27, al=i%9===0, c=BCOL[BOOK(i+1)], q2=pt(a2,330), w2=pt(a2,352);
+      el('line',{x1:q2[0],y1:q2[1],x2:w2[0],y2:w2[1],stroke:c,'stroke-width':al?3:1.6},g);
+      var np=pt(a2,404), n=el('text',{x:np[0],y:np[1]+7,fill:c,'font-size':al?24:19,'text-anchor':'middle','class':'num','font-family':SERIF,'font-weight':al?'600':'500'},g); dyn.nums=dyn.nums||[]; dyn.nums[i]=n;
+      n.textContent=R[i]; (function(ch){ n.addEventListener('click',function(){ go(byCh[ch]?byCh[ch][0]:cur); }); })(i+1);
+      var tt=el('title',{},n); tt.textContent='Chapter '+R[i]+' · '+TITLES[i]; }
+    for(var c2=1;c2<=27;c2++){ var L=byCh[c2]; if(!L) continue; var de=E[L[0]][2];
+      var mf2=moon(Date.UTC(+de.slice(0,4),+de.slice(5,7)-1,+de.slice(8,10),22)), mp=pt((c2-1)*360/27,370);
+      moonGlyph(mp[0],mp[1],7,mf2,g); }
+    var prevS='';
+    for(var c3=1;c3<=27;c3++){ var L3=byCh[c3]; if(!L3) continue; var zs=sign(E[L3[0]][2]), zp=pt((c3-1)*360/27,494), chg=zs[0]!==prevS; prevS=zs[0]; if(!chg) continue;
+      el('circle',{cx:zp[0],cy:zp[1],r:chg?14:11,fill:'#07090c',stroke:'#e0a53c','stroke-width':chg?1.4:.8,opacity:chg?1:.8},g);
+      var zt=el('text',{x:zp[0],y:zp[1]+(chg?8:6),fill:chg?'#f5c66a':'#e0a53c','font-size':chg?22:17,'text-anchor':'middle',opacity:1,'font-weight':'bold','font-family':'Apple Symbols, Segoe UI Symbol, serif'},g); zt.textContent=zs[1]+'\uFE0E';
+      var ztt=el('title',{},zt); ztt.textContent=zs[0]+' · Chapter '+R[c3-1]; }
+    dyn.moonBig=el('g',{},g);
+    var tri=[0,120,240].map(function(a){return pt(a,330).map(function(v){return v.toFixed(1);}).join(',');}).join(' ');
+    el('polygon',{points:tri,fill:'none',stroke:'#e0a53c','stroke-width':1,'stroke-dasharray':'4 6',opacity:.5},g);
+    emblem(g);
+    dyn.hourHand=el('g',{'class':'hand',style:'transform-origin:500px 500px'},g);
+    el('line',{x1:500,y1:500,x2:500,y2:232,stroke:'#d6e8df','stroke-width':3,'stroke-linecap':'round',opacity:.9},dyn.hourHand);
+    dyn.chHand=el('g',{'class':'hand',style:'transform-origin:500px 500px'},g);
+    el('line',{x1:500,y1:500,x2:500,y2:178,stroke:'#e0a53c','stroke-width':3,'stroke-linecap':'round'},dyn.chHand);
+    el('circle',{cx:500,cy:162,r:13,fill:'#07090c',stroke:'#e0a53c','stroke-width':2},dyn.chHand);
+    el('line',{x1:500,y1:143,x2:500,y2:184,stroke:'#e0a53c','stroke-width':2},dyn.chHand); el('line',{x1:484,y1:162,x2:516,y2:162,stroke:'#e0a53c','stroke-width':2},dyn.chHand);
+    el('circle',{cx:500,cy:500,r:8,fill:'#e0a53c'},g);
+  } else {
+    el('circle',{cx:500,cy:500,r:400,fill:'none',stroke:'#e0a53c','stroke-width':1.4,opacity:.55},g);
+    [[1,0,58,360],[2,6,149,328],[3,149,187,296]].forEach(function(b){
+      el('path',{d:arcPath(b[1]/DAYS*360,b[2]/DAYS*360,b[3]),fill:'none',stroke:BCOL[b[0]],'stroke-width':14,'stroke-linecap':'round',opacity:.85},g);
+      curved('cb'+b[0],b[1]/DAYS*360,b[2]/DAYS*360,b[3]-22,BNAME[b[0]],BCOL[b[0]],16); });
+    [['June',6],['July',7],['August',8],['September',9],['October',10],['November',11]].forEach(function(m){
+      var d=(Date.UTC(1893,m[1]-1,1)-T0)/864e5, a=d/DAYS*360, q=pt(a,390), w=pt(a,412), tp=pt(a+5.5,436);
+      el('line',{x1:q[0],y1:q[1],x2:w[0],y2:w[1],stroke:'#e0a53c','stroke-width':2},g);
+      var t=el('text',{x:tp[0],y:tp[1]+6,fill:'#9ab0a6','font-size':16,'text-anchor':'middle','font-family':SERIF},g); t.textContent=m[0]; });
+    for(var d=0;d<=DAYS;d+=1){ var f=moon(T0+d*864e5+12*36e5), a3=d/DAYS*360;      /* full and new moons */
+      var fp=moon(T0+(d-1)*864e5+12*36e5);
+      if((fp<.5&&f>=.5)||(fp>.9&&f<.1)){ var mp=pt(a3,462); el('circle',{cx:mp[0],cy:mp[1],r:7,fill:f<.2||f>.8?'#07090c':'#e9e4d0',stroke:'#e9e4d0','stroke-width':1.2},g); } }
+    E.forEach(function(e,i){ var a=dayOf(e[2])/DAYS*360, q=pt(a,372), w=pt(a,386);
+      var tk=el('line',{x1:q[0],y1:q[1],x2:w[0],y2:w[1],stroke:BCOL[BOOK(e[0])],'stroke-width':2,'class':'tick'},g);
+      tk.addEventListener('click',function(){ go(i); }); });
+    emblem(g);
+    var top=pt(0,470); var tt=el('text',{x:top[0],y:top[1]-10,fill:'#e0a53c','font-size':15,'text-anchor':'middle','font-family':SERIF},g); tt.textContent='3 May · 6 November';
+    dyn.dayHand=el('g',{'class':'hand',style:'transform-origin:500px 500px'},g);
+    el('line',{x1:500,y1:500,x2:500,y2:128,stroke:'#e0a53c','stroke-width':3,'stroke-linecap':'round'},dyn.dayHand);
+    el('circle',{cx:500,cy:112,r:13,fill:'#07090c',stroke:'#e0a53c','stroke-width':2},dyn.dayHand);
+    el('line',{x1:500,y1:93,x2:500,y2:134,stroke:'#e0a53c','stroke-width':2},dyn.dayHand); el('line',{x1:484,y1:112,x2:516,y2:112,stroke:'#e0a53c','stroke-width':2},dyn.dayHand);
+    el('circle',{cx:500,cy:500,r:8,fill:'#e0a53c'},g);
+  }
+  dyn.centre=el('text',{x:500,y:494,fill:'#fff','font-size':22,'text-anchor':'middle','font-family':SERIF},g);
+  dyn.centre2=el('text',{x:500,y:520,fill:'#9ab0a6','font-size':13,'text-anchor':'middle','font-family':SERIF},g);
+  show(cur,true);
+}
+var lastCh=0, lastDay=0;
+function show(i,instant){
+  cur=Math.max(0,Math.min(E.length-1,i)); var e=E[cur], ch=e[0], pl=PLACE[ch], s=sun(e[2],pl[1],pl[2]);
+  var t=Date.UTC(+e[2].slice(0,4),+e[2].slice(5,7)-1,+e[2].slice(8,10),12), mf=moon(t);
+  if(mode==='clock'){
+    var nt=dyn.night; nt.innerHTML='';
+    el('path',{d:sector(s.set*15,360,250,330),fill:'#0d1a2b',opacity:.9},nt);
+    el('path',{d:sector(0,s.rise*15,250,330),fill:'#0d1a2b',opacity:.9},nt);
+    el('path',{d:sector(s.rise*15,s.set*15,250,330),fill:'#e0a53c',opacity:.08},nt);
+    var seed=7; function rnd(){ seed=(seed*16807)%2147483647; return seed/2147483647; }
+    for(var k=0;k<70;k++){ var ha=rnd()*360, hh=ha/15; if(hh>s.rise&&hh<s.set) continue; var sp=pt(ha,262+rnd()*58);
+      el('circle',{cx:sp[0],cy:sp[1],r:rnd()*1.3+.3,fill:'#e9e4d0',opacity:.25+rnd()*.5},nt); }
+    [s.rise,s.set].forEach(function(h,j){ var sp=pt(h*15,240); el('circle',{cx:sp[0],cy:sp[1],r:5,fill:'#e0a53c',opacity:.85},nt);
+      var lp=pt(h*15,222); var lt=el('text',{x:lp[0],y:lp[1]+4,fill:'#e0a53c','font-size':12,'text-anchor':'middle','font-family':SERIF},nt); lt.textContent=j?'sunset':'sunrise'; });
+    if(dyn.nums){ dyn.nums.forEach(function(n,i){ if(!n) return; var on=i===ch-1; n.setAttribute('fill',on?'#ffffff':BCOL[BOOK(i+1)]); n.setAttribute('stroke',on?'rgba(224,165,60,.55)':'none'); n.setAttribute('stroke-width',on?'5':'0'); n.setAttribute('paint-order','stroke'); n.setAttribute('font-size',on?(i%9===0?30:26):(i%9===0?24:19)); }); }
+    dyn.moonBig.innerHTML=''; moonGlyph(500,668,24,mf,dyn.moonBig);
+    var mt2=el('text',{x:500,y:712,fill:'#9ab0a6','font-size':13,'text-anchor':'middle','font-family':SERIF,'font-style':'italic'},dyn.moonBig); mt2.textContent=moonName(mf);
+    var a=chFrac(cur)*360; if(a<lastCh-180) a+=360; lastCh=a;
+    dyn.chHand.style.transform='rotate('+a+'deg)';
+    if(e[3]!=null){ dyn.hourHand.style.display=''; dyn.hourHand.style.transform='rotate('+(e[3]*15)+'deg)'; } else dyn.hourHand.style.display='none';
+    dyn.centre.textContent=R[ch-1]; dyn.centre2.textContent=TITLES[ch-1];
+  } else {
+    var a2=dayOf(e[2])/DAYS*360; dyn.dayHand.style.transform='rotate('+a2+'deg)';
+    dyn.centre.textContent='Day '+(Math.round(dayOf(e[2]))+1); dyn.centre2.textContent='of 187';
+  }
+  if(instant){ [dyn.chHand,dyn.hourHand,dyn.dayHand].forEach(function(h){ if(h){ h.style.transition='none'; void h.getBoundingClientRect(); h.style.transition=''; } }); }
+  document.getElementById('when').textContent=fmtDate(e[2])+(e[3]!=null?' · '+hhmm(e[3]):'');
+  document.getElementById('doc').textContent=e[4]+' · Chapter '+R[ch-1];
+  document.getElementById('where').innerHTML=pl[0]+' · '+BNAME[BOOK(ch)]+'<br>Sunrise '+hhmm(s.rise)+' · Sunset '+hhmm(s.set)+' (local solar time) · '+moonName(mf)+' · Sun in '+sign(e[2])[0];
+  document.getElementById('scrub').value=cur;
+}
+function go(i){ stop(); show(i); }
+function stop(){ if(timer){ clearInterval(timer); timer=null; document.getElementById('play').textContent='Play'; } }
+document.getElementById('scrub').max=E.length-1;
+document.getElementById('scrub').addEventListener('input',function(){ stop(); show(+this.value); });
+document.getElementById('prev').onclick=function(){ go(cur-1); };
+document.getElementById('next').onclick=function(){ go(cur+1); };
+document.getElementById('play').onclick=function(){
+  if(timer){ stop(); return; } if(cur>=E.length-1) show(0,true);
+  this.textContent='Pause'; timer=setInterval(function(){ if(cur>=E.length-1){ stop(); return; } show(cur+1); },1800); };
+document.getElementById('t-clock').onclick=function(){ mode='clock'; this.classList.add('on'); document.getElementById('t-cal').classList.remove('on'); build(); };
+document.getElementById('t-cal').onclick=function(){ mode='cal'; this.classList.add('on'); document.getElementById('t-clock').classList.remove('on'); build(); };
+/* follow the reading: last dated entry at or before (ep, n) */
+function atCue(ep,n){ var best=0; E.forEach(function(e,i){ if(e[0]<ep||(e[0]===ep&&e[1]<=n)) best=i; }); return best; }
+window.addEventListener('message',function(ev){ var d=ev.data; if(d&&d.type==='amenti-cue'&&d.ep){ stop(); show(atCue(+d.ep,+d.n||1)); } });
+var q=new URLSearchParams(location.search); if(q.get('ep')) cur=atCue(+q.get('ep'),+(q.get('n')||1));
+if(q.get('view')==='calendar'){ mode='cal'; document.getElementById('t-cal').classList.add('on'); document.getElementById('t-clock').classList.remove('on'); }
+build();
+function plumb(){ var p=document.getElementById('plumb'), s=svg.getBoundingClientRect(), w=document.querySelector('.wrap').getBoundingClientRect(); p.style.top=(s.top-w.top+s.height-1)+'px'; }
+window.addEventListener('resize',plumb); setTimeout(plumb,50); plumb();
+})();
+</script>
+</body>
+</html>

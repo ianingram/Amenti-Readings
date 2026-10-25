@@ -50,6 +50,20 @@
   .read .doc{font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold);margin-top:6px}
   .read .where{font-size:12px;color:var(--mist);margin-top:6px;line-height:1.6}
   .note{font-size:11px;color:#6a7a70;text-align:center;margin:26px auto 0;line-height:1.7;max-width:640px;background:#07090c;padding:6px 12px}
+  .acts{display:flex;justify-content:center;gap:10px;margin-top:10px;flex-wrap:wrap}
+  .acts a{font-size:11px;letter-spacing:.25em;text-transform:uppercase;color:var(--gold);border:1px solid rgba(224,165,60,.55);padding:8px 14px;text-decoration:none;background:#07090c}
+  .acts a:hover{background:rgba(224,165,60,.14)}
+  .acts a[hidden]{display:none}
+  body.embed .wrap{padding:6px 6px 10px;min-height:0}
+  body.embed header,body.embed .note,body.embed .plumb,body.embed #play,body.embed #scrubrow{display:none}
+  body.embed svg{margin-top:0}
+  body.embed .read{margin-top:4px;min-height:0}
+  body.embed .read .when{font-size:17px}
+  body.embed .read .where{font-size:10px}
+  body.embed .read .doc{font-size:9px;letter-spacing:.16em;margin-top:3px}
+  body.embed .ctl{margin-top:2px}
+  body.embed .ctl button{padding:5px 12px}
+  body.embed .acts a{padding:6px 10px;font-size:10px}
   .hand{transition:transform .9s cubic-bezier(.4,.1,.2,1)}
   @media (prefers-reduced-motion:reduce){.hand{transition:none}}
 </style>
@@ -66,12 +80,13 @@
     <button id="play">Play</button>
     <button id="next" aria-label="Next entry">&rarr;</button>
   </div>
-  <div class="ctl"><input id="scrub" type="range" min="0" max="0" value="0" aria-label="Entries"></div>
+  <div class="ctl" id="scrubrow"><input id="scrub" type="range" min="0" max="0" value="0" aria-label="Entries"></div>
   <div class="read" aria-live="polite">
     <div class="when" id="when"></div>
     <div class="doc" id="doc"></div>
     <div class="where" id="where"></div>
   </div>
+  <div class="acts"><a id="map" href="#" target="_blank" rel="noopener" hidden>Map</a><a id="ask" href="#" target="_blank" rel="noopener">Ask Amenti</a></div>
   <div class="note">Every date is taken from the text: 166 dated entries across 27 chapters. Day and night are the real sunrise and sunset at the place of the entry; the moon is the moon of 1893.<br>Amenti Studios · Ingram Manor LLC · 2026</div>
 </div>
 <script>
@@ -238,11 +253,25 @@ function show(i,instant){
   document.getElementById('doc').textContent=e[4]+' · Chapter '+R[ch-1];
   document.getElementById('where').innerHTML=pl[0]+' · '+BNAME[BOOK(ch)]+'<br>Sunrise '+hhmm(s.rise)+' · Sunset '+hhmm(s.set)+' (local solar time) · '+moonName(mf)+' · Sun in '+sign(e[2])[0];
   document.getElementById('scrub').value=cur;
+  links();
 }
-function go(i){ stop(); show(i); }
+var EMBED=/[?&]embed\b/.test(location.search); if(EMBED) document.body.classList.add('embed');
+var HALL='https://ianingram.github.io/Amenti.live/hall.html';
+var EXH={};
+fetch('../art.json').then(function(r){return r.json();}).then(function(a){ EXH=a.exhibits||{}; links(); }).catch(function(){});
+function exhibitFor(e){ var xs=EXH[String(e[0])]; if(!xs||!xs.length) return null; var best=null;
+  xs.forEach(function(x){ if(x.at>=e[1]&&(!best||x.at<best.at)) best=x; }); if(!best) best=xs[xs.length-1]; return best; }
+function links(){ var e=E[cur], pl=PLACE[e[0]], x=exhibitFor(e), m=document.getElementById('map');
+  if(x){ m.hidden=false; m.href='../'+x.src+(x.legs!=null?(x.src.indexOf('?')<0?'?':'&')+'legs='+x.legs:'');
+    m.textContent=/letter/.test(x.src)?'The letter':/history/.test(x.src)?'The Count\u2019s history':/demeter/.test(x.src)?'The voyage':'Map'; } else m.hidden=true;
+  var ctx='Dracula \u00b7 Chapter '+R[e[0]-1]+' ('+TITLES[e[0]-1]+') \u00b7 '+fmtDate(e[2])+' \u00b7 '+pl[0]+' \u00b7 '+e[4];
+  document.getElementById('ask').href=HALL+'?context='+encodeURIComponent(ctx); }
+function tellParent(i){ if(EMBED&&window.parent!==window){ var e=E[i]; try{ window.parent.postMessage({type:'amenti-jump',ep:e[0],n:e[1]},'*'); }catch(x){} } }
+function go(i){ stop(); show(i); tellParent(cur); }
 function stop(){ if(timer){ clearInterval(timer); timer=null; document.getElementById('play').textContent='Play'; } }
 document.getElementById('scrub').max=E.length-1;
 document.getElementById('scrub').addEventListener('input',function(){ stop(); show(+this.value); });
+document.getElementById('scrub').addEventListener('change',function(){ tellParent(cur); });
 document.getElementById('prev').onclick=function(){ go(cur-1); };
 document.getElementById('next').onclick=function(){ go(cur+1); };
 document.getElementById('play').onclick=function(){
@@ -256,7 +285,7 @@ window.addEventListener('message',function(ev){ var d=ev.data; if(d&&d.type==='a
 var q=new URLSearchParams(location.search); if(q.get('ep')) cur=atCue(+q.get('ep'),+(q.get('n')||1));
 if(q.get('view')==='calendar'){ mode='cal'; document.getElementById('t-cal').classList.add('on'); document.getElementById('t-clock').classList.remove('on'); }
 build();
-function plumb(){ var p=document.getElementById('plumb'), s=svg.getBoundingClientRect(), w=document.querySelector('.wrap').getBoundingClientRect(); p.style.top=(s.top-w.top+s.height-1)+'px'; }
+function plumb(){ if(EMBED) return; var p=document.getElementById('plumb'), s=svg.getBoundingClientRect(), w=document.querySelector('.wrap').getBoundingClientRect(); p.style.top=(s.top-w.top+s.height-1)+'px'; }
 window.addEventListener('resize',plumb); setTimeout(plumb,50); plumb();
 })();
 </script>

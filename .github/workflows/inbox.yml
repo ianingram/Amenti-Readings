@@ -13,6 +13,11 @@
 # never change the machinery. macOS clutter (__MACOSX, .DS_Store) is skipped,
 # and a zip made by compressing a FOLDER in Finder has that wrapper stripped.
 #
+# A zip whose name starts with amenti- that is uploaded ANYWHERE else in this
+# push (repo root, dracula/, …) is treated as if it had gone into inbox/:
+# it is moved there first and unpacked the same way. Only zips ADDED in this
+# push are gathered, so old zips already lying in the repo are left alone.
+#
 # The run's log lists every file it placed. A failed run leaves the repo
 # exactly as it was, zip included, so nothing is half-delivered.
 name: inbox
@@ -20,7 +25,7 @@ name: inbox
 on:
   push:
     branches: [main]
-    paths: ['inbox/*.zip']
+    paths: ['inbox/*.zip', '**/amenti-*.zip']
 
 permissions:
   contents: write
@@ -34,6 +39,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Gather amenti- zips uploaded outside inbox/
+        run: |
+          set -euo pipefail
+          mkdir -p inbox
+          git diff --name-only --diff-filter=A "${{ github.event.before }}" "${{ github.sha }}" \
+            | grep -E '(^|/)amenti-[^/]*\.zip$' | grep -v '^inbox/' > /tmp/strays || true
+          while IFS= read -r f; do
+            [ -f "$f" ] || continue
+            echo "── $f was uploaded outside inbox/ — moving it in"
+            git mv "$f" "inbox/$(basename "$f")"
+          done < /tmp/strays
 
       - name: Check every zip before touching anything
         run: |

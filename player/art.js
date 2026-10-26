@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/art.js · 2026-10-18 · exhibits · moving pictures */
+/* Amenti-Readings/player/art.js · 2026-10-26 · pictures fill their scene; a picture can start at a phrase */
 /* ===========================================================================
    AMENTI READINGS · art.js — the pictures under a reading
    ---------------------------------------------------------------------------
@@ -29,10 +29,27 @@
    without them). "cut": true changes the picture at once instead of
    crossfading — for a hard beat.
 
-   ── TIMING ────────────────────────────────────────────────────────────────
-   Within a scene the pictures change every HOLD seconds while the reading is
-   running; paused, everything holds still. There are no word timings, so a
-   scene is placed on the cue where its moment begins.
+   ── TIMING · 26 Oct 2026 ─────────────────────────────────────────────────
+   A scene's pictures are SPREAD ACROSS THE SCENE and each is shown once, in
+   order. They used to change every 14 s and start again from the first when
+   they ran out, so a long letter over four paintings showed the same four
+   three times over — the first thing a reader noticed.
+   Where the reading is in a scene is measured in WORDS: the words of the cues
+   already read, plus how far into the current cue the voice has got. For a
+   recorded cue that is the audio's own clock (currentTime / duration); for a
+   spoken one it is reading time against the cue's word count, at a speaking
+   rate that calibrates itself from the cues just finished. Picture k of N
+   comes up when the reading is k/N of the way through the scene.
+   No picture is shown for less than MIN_HOLD seconds, so a scene with more
+   pictures than time runs a little late rather than flickering, and the last
+   picture holds until the scene ends — it never starts the set again.
+   Paused, everything holds still.
+
+   "at": "<words from the cue>" starts a scene PART WAY THROUGH its cue, when
+   the reading reaches those words — for a long paragraph whose moment comes
+   at its end ("Suddenly, I became conscious…" — the castle). Until then the
+   scene before it stays up. The phrase must appear in the cue's text; if it
+   does not, the scene starts at the top of the cue, as before.
 
    ── EXHIBITS ── maps from the Dossier, shown over the pictures ─────────────
    "exhibits": { "1": [ { "at": 4, "src": "dossier/borgo-pass.html", "legs": "0-1" }, … ] }
@@ -54,7 +71,8 @@
   if (!R) { console.warn('[art] Amenti.reading is missing — load art.js after reader.js. No pictures.'); return; }
 
   var ROOT = 'https://ianingram.github.io/Amenti-Readings/';
-  var HOLD = 14;          /* seconds per picture within a scene */
+  var MIN_HOLD = 9;       /* no picture is shown for less than this, in seconds of reading */
+  var RATE0 = 2.5;        /* words per second before any cue has been timed (150 a minute) */
   var FADE = 2.6;         /* crossfade, seconds */
   var still = !!(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches);
 
@@ -62,6 +80,10 @@
   var stage = null, cap = null, tog = null;
   var cur = { key: '', scene: null, k: 0, since: 0, layer: null };
   var off = false, shown = false, lastTick = 0, flip = 0;
+  /* reading clock and speaking rate — see TIMING */
+  var clock = 0, rate = RATE0;
+  var cueAt = { key: '', start: 0, words: 0, spoken: false };
+  var wordsCache = { sheet: null, before: null, count: null };
   var ex = null, lastN = null, exLast = 0;   /* the open exhibit: {el, frame, at, run, paused} */
   try { off = localStorage.getItem('amenti-art-off') === '1'; } catch (e) {}
 
@@ -133,10 +155,45 @@
   function url(work, sheet, f) { return /^https?:/.test(f) ? f : ROOT + work + '/' + (sheet.base || '') + f; }
   function preload(u) { if (/\.mp4(\?|$)/i.test(u)) { var v = document.createElement('video'); v.preload = 'auto'; v.muted = true; v.src = u; return; } var im = new Image(); im.src = u; }
 
-  function sceneAt(list, n) {
+  /* ── WORDS: where the reading is, counted in words ── */
+  function wc(t) { var m = String(t || '').match(/\S+/g); return m ? m.length : 0; }
+  function words(sh) {                     /* per sheet: words in each cue, and words before it */
+    if (wordsCache.sheet === sh) return wordsCache;
+    var cs = sh.cues || [], before = {}, count = {}, run = 0;
+    for (var j = 0; j < cs.length; j++) { var n = cs[j].n || (j + 1), w = wc(cs[j].text); before[n] = run; count[n] = w; run += w; }
+    wordsCache = { sheet: sh, before: before, count: count, total: run };
+    return wordsCache;
+  }
+  /* how far into its cue a scene's "at" phrase falls, 0..1 — or 0 if there is none or it is not found */
+  function atFrac(sh, sc) {
+    if (!sc.at) return 0;
+    if (sc._atFrac !== undefined) return sc._atFrac;
+    var cs = sh.cues || [], c = null;
+    for (var j = 0; j < cs.length; j++) if ((cs[j].n || (j + 1)) === sc.from) { c = cs[j]; break; }
+    var t = c ? String(c.text).replace(/\s+/g, ' ') : '', i = t.toLowerCase().indexOf(String(sc.at).replace(/\s+/g, ' ').toLowerCase());
+    if (i < 0) { console.warn('[art] scene at cue ' + sc.from + ': "' + sc.at + '" is not in the cue — starting it at the top of the cue'); sc._atFrac = 0; }
+    else sc._atFrac = wc(t.slice(0, i)) / Math.max(1, wc(t));
+    return sc._atFrac;
+  }
+  /* the word position where a scene starts */
+  function startOf(sh, sc) { var W = words(sh); return (W.before[sc.from] || 0) + atFrac(sh, sc) * (W.count[sc.from] || 0); }
+
+  /* the scene showing at cue n, `frac` of the way through it */
+  function sceneAt(sh, list, n, frac) {
     var s = null;
-    for (var j = 0; j < list.length; j++) if (list[j].from <= n) s = list[j];
+    for (var j = 0; j < list.length; j++) {
+      var e = list[j];
+      if (e.from < n || (e.from === n && (!e.at || frac >= atFrac(sh, e)))) s = e;
+    }
     return (s && s.images && s.images.length) ? s : null;
+  }
+
+  /* how far through the current cue the voice is, 0..1 */
+  function cueFrac(c) {
+    var a = R._audio;
+    if (a && c.audio && !c.through && a.duration && isFinite(a.duration) && a.duration > 0) return Math.min(1, a.currentTime / a.duration);
+    var est = Math.max(1, cueAt.words / rate);
+    return Math.min(0.97, (clock - cueAt.start) / est);
   }
 
   function isVid(u) { return /\.mp4(\?|$)/i.test(u); }
@@ -212,16 +269,32 @@
     if (!live || !(list || xl) || off) { hideStage(); closeExhibit(false); lastN = null; return; }
     build();
     var cues = sh.cues || [], c = cues[Math.min(R.i, cues.length - 1)] || {};
-    var n = c.n || (R.i + 1), sc = list ? sceneAt(list, n) : null;
+    var n = c.n || (R.i + 1);
+    /* the reading clock: seconds of READING, so a pause stops it */
+    var tnow0 = Date.now() / 1000, dt = lastTick ? Math.min(1, tnow0 - lastTick) : 0;
+    lastTick = tnow0;
+    if (R.state === 'reading') clock += dt;
+    var ckey = work + ':' + sh.episode + ':' + n;
+    if (ckey !== cueAt.key) {
+      /* a spoken cue just finished: learn the voice's rate from it (recorded cues keep their own clock) */
+      var took = clock - cueAt.start;
+      if (cueAt.key && cueAt.spoken && cueAt.words >= 12 && took > 3 && cueAt.key.split(':')[1] === String(sh.episode)) {
+        var r = cueAt.words / took;
+        if (r > 0.8 && r < 5) rate = rate * 0.6 + r * 0.4;
+      }
+      cueAt = { key: ckey, start: clock, words: words(sh).count[n] || wc(c.text), spoken: !c.audio };
+    }
+    var frac = cueFrac(c);
+    var sc = list ? sceneAt(sh, list, n, frac) : null;
     stage.classList.toggle('hold', R.state !== 'reading');
     var vs = stage.getElementsByTagName('video');
     for (var vi = 0; vi < vs.length; vi++) { try { if (R.state === 'reading') { if (vs[vi].paused) { var pp = vs[vi].play(); if (pp && pp.catch) pp.catch(function () {}); } } else if (!vs[vi].paused) vs[vi].pause(); } catch (e) {} }
     var tnow = Date.now() / 1000;
     exhibits(work, art, sh, n, exLast ? Math.min(1, tnow - exLast) : 0); exLast = tnow;
     if (!sc) { hideStage(); return; }
-    var now = Date.now() / 1000, key = work + ':' + sh.episode + ':' + sc.from;
+    var key = work + ':' + sh.episode + ':' + sc.from + (sc.at ? '@' + sc.at : '');
     if (key !== cur.key) {
-      cur.key = key; cur.scene = sc; cur.k = 0; cur.since = now;
+      cur.key = key; cur.scene = sc; cur.k = 0; cur.since = clock;
       showImage(url(work, art, sc.images[0]), !!sc.cut && shown, sc.caption || '');
       if (!shown) { stage.classList.add('on'); shown = true; }
       sc.images.slice(1, 2).forEach(function (f) { preload(url(work, art, f)); });
@@ -229,12 +302,20 @@
       if (nx && nx.images && nx.images[0]) preload(url(work, art, nx.images[0]));
       return;
     }
-    if (R.state !== 'reading') { cur.since += (now - (lastTick || now)); lastTick = now; return; }  /* paused: the clock holds */
-    lastTick = now;
-    if (sc.images.length > 1 && now - cur.since >= HOLD) {
-      cur.k = (cur.k + 1) % sc.images.length; cur.since = now;
+    if (R.state !== 'reading') return;      /* paused: the clock has stopped, so the pictures hold */
+    var N = sc.images.length;
+    if (N < 2 || cur.k >= N - 1) return;     /* the last picture holds until the scene ends — never round again */
+    /* how far through the scene the reading is, 0..1, in words */
+    var W = words(sh), from = startOf(sh, sc), idx = list.indexOf(sc), nx = null;
+    for (var q = idx + 1; q < list.length; q++) { nx = list[q]; break; }
+    var to = nx ? startOf(sh, nx) : W.total;
+    var pos = (W.before[n] || 0) + frac * (W.count[n] || 0);
+    var prog = to > from ? (pos - from) / (to - from) : 0;
+    var want = Math.min(N - 1, Math.floor(prog * N));
+    if (want > cur.k && clock - cur.since >= MIN_HOLD) {
+      cur.k += 1; cur.since = clock;         /* one step at a time: every picture is seen */
       showImage(url(work, art, sc.images[cur.k]), false);
-      preload(url(work, art, sc.images[(cur.k + 1) % sc.images.length]));
+      if (cur.k + 1 < N) preload(url(work, art, sc.images[cur.k + 1]));
     }
   }
 

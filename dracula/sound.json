@@ -74,7 +74,9 @@
       "loco_whistle": "loco-whistle.mp3",
       "loco_whistle_short": "loco-whistle-short.mp3",
       "loco_whistle_far": "loco-whistle-far.mp3",
-      "steam_hiss": "steam-hiss.mp3"
+      "steam_hiss": "steam-hiss.mp3",
+      "gale": "wind.mp3",
+      "surf": "sea.mp3"
     },
     "score": {
       "dread": "score-dread.mp3",
@@ -144,6 +146,13 @@
         71,
         113
       ]
+    },
+    "sfx_levels": {
+      "note": "One-shot gain per key, against the voices (player/sound.js of 26 Oct). Absent keys play at 0.7. Long weather pieces fired as one-shots sit low.",
+      "gale": 0.3,
+      "surf": 0.26,
+      "thunder": 0.8,
+      "lightning_depths": 0.7
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
@@ -273,7 +282,7 @@
     },
     "thunder": {
       "files": 1,
-      "note": "22 mentions of thunder, lightning or gale across eight chapters, and ch 7 alone has 10 — the storm that drives the Demeter onto the shingle at Whitby is the largest weather event in the book and the timpani cue is written to it. Also ch 11, where Lucy's window is broken during a storm, and ch 1 in the pass. Distant rolls for the bed, one close crack for the landing."
+      "note": "22 mentions of thunder, lightning or gale across eight chapters, and ch 7 alone has 10 — the storm that drives the Demeter onto the shingle at Whitby is the largest weather event in the book and the timpani cue is written to it. Also ch 11, where Lucy's window is broken during a storm, and ch 1 in the pass. Distant rolls for the bed, one close crack for the landing. 26 Oct: placed through the Whitby storm (ch 7 cues 8–15) on the words, with gale and surf under it and the log’s tempest and distant-roll recordings for variety."
     },
     "ships_bell": {
       "note": "the Demeter, early entries only. Its absence later is the point.",

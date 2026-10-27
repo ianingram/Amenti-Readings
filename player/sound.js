@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/sound.js · 2026-10-21 03:20 UTC */
+/* Amenti-Readings/player/sound.js · 2026-10-26 · one-shots may carry their own level */
 /* ===========================================================================
    AMENTI READINGS · sound.js
    ---------------------------------------------------------------------------
@@ -78,6 +78,12 @@
    equal-power — always longer than the bed's, so when both change the bed
    leads and the score follows. A chapter with "score": null (chapter 12)
    gets silence, not a quieter cue.
+
+   ── A ONE-SHOT'S OWN LEVEL · added 26 Oct 2026 ────────────────────────────
+   files.sfx_levels: { "<key>": gain } sets one sound against the voices.
+   Absent keys play at SFX_LEVEL as before. Made for long weather pieces fired
+   as one-shots (a minute of gale, the surf under a storm) that would bury the
+   reader at the level of a door slam.
 
    ── VARIATION IS SEEDED ───────────────────────────────────────────────────
    Detune ±40 cents and playbackRate ±4 %, seeded from work + episode + cue
@@ -412,7 +418,8 @@
         src.buffer = buf;
         src.playbackRate.value = 1 + (rnd() * 2 - 1) * 0.04;
         if (src.detune) src.detune.value = (rnd() * 2 - 1) * 40;
-        g.gain.value = SFX_LEVEL;
+        var sl = S.sheet && S.sheet.files && S.sheet.files.sfx_levels;
+        g.gain.value = (sl && typeof sl[key] === 'number') ? sl[key] : SFX_LEVEL;
         src.connect(g); g.connect(S._bus);
         if (into) src.start(0, into); else src.start(at);
         if (at) {

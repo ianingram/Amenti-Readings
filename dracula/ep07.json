@@ -101,7 +101,13 @@
    "role": "The Correspondent",
    "cast": "Charles Dickens",
    "register": "grave",
-   "text": "Shortly before ten o’clock the stillness of the air grew quite\noppressive, and the silence was so marked that the bleating of a sheep\ninland or the barking of a dog in the town was distinctly heard, and the\nband on the pier, with its lively French air, was like a discord in the\ngreat harmony of nature’s silence. A little after midnight came a\nstrange sound from over the sea, and high overhead the air began to\ncarry a strange, faint, hollow booming."
+   "text": "Shortly before ten o’clock the stillness of the air grew quite\noppressive, and the silence was so marked that the bleating of a sheep\ninland or the barking of a dog in the town was distinctly heard, and the\nband on the pier, with its lively French air, was like a discord in the\ngreat harmony of nature’s silence. A little after midnight came a\nstrange sound from over the sea, and high overhead the air began to\ncarry a strange, faint, hollow booming.",
+   "sfx": [
+    {
+     "key": "log_warn",
+     "at": "the stillness of the air grew quite oppressive"
+    }
+   ]
   },
   {
    "n": 9,
@@ -114,7 +120,38 @@
    "role": "The Correspondent",
    "cast": "Charles Dickens",
    "register": "danger",
-   "text": "Then without warning the tempest broke. With a rapidity which, at the\ntime, seemed incredible, and even afterwards is impossible to realize,\nthe whole aspect of nature at once became convulsed. The waves rose in\ngrowing fury, each overtopping its fellow, till in a very few minutes\nthe lately glassy sea was like a roaring and devouring monster.\nWhite-crested waves beat madly on the level sands and rushed up the\nshelving cliffs; others broke over the piers, and with their spume swept\nthe lanthorns of the lighthouses which rise from the end of either pier\nof Whitby Harbour. The wind roared like thunder, and blew with such\nforce that it was with difficulty that even strong men kept their feet,\nor clung with grim clasp to the iron stanchions. It was found necessary\nto clear the entire piers from the mass of onlookers, or else the\nfatalities of the night would have been increased manifold. To add to\nthe difficulties and dangers of the time, masses of sea-fog came\ndrifting inland—white, wet clouds, which swept by in ghostly fashion,\nso dank and damp and cold that it needed but little effort of\nimagination to think that the spirits of those lost at sea were\ntouching their living brethren with the clammy hands of death, and many\na one shuddered as the wreaths of sea-mist swept by. At times the mist\ncleared, and the sea for some distance could be seen in the glare of the\nlightning, which now came thick and fast, followed by such sudden peals\nof thunder that the whole sky overhead seemed trembling under the shock\nof the footsteps of the storm."
+   "text": "Then without warning the tempest broke. With a rapidity which, at the\ntime, seemed incredible, and even afterwards is impossible to realize,\nthe whole aspect of nature at once became convulsed. The waves rose in\ngrowing fury, each overtopping its fellow, till in a very few minutes\nthe lately glassy sea was like a roaring and devouring monster.\nWhite-crested waves beat madly on the level sands and rushed up the\nshelving cliffs; others broke over the piers, and with their spume swept\nthe lanthorns of the lighthouses which rise from the end of either pier\nof Whitby Harbour. The wind roared like thunder, and blew with such\nforce that it was with difficulty that even strong men kept their feet,\nor clung with grim clasp to the iron stanchions. It was found necessary\nto clear the entire piers from the mass of onlookers, or else the\nfatalities of the night would have been increased manifold. To add to\nthe difficulties and dangers of the time, masses of sea-fog came\ndrifting inland—white, wet clouds, which swept by in ghostly fashion,\nso dank and damp and cold that it needed but little effort of\nimagination to think that the spirits of those lost at sea were\ntouching their living brethren with the clammy hands of death, and many\na one shuddered as the wreaths of sea-mist swept by. At times the mist\ncleared, and the sea for some distance could be seen in the glare of the\nlightning, which now came thick and fast, followed by such sudden peals\nof thunder that the whole sky overhead seemed trembling under the shock\nof the footsteps of the storm.",
+   "sfx": [
+    {
+     "key": "thunder",
+     "at": "the tempest broke",
+     "offset": -0.2
+    },
+    {
+     "key": "gale",
+     "at": "the tempest broke"
+    },
+    {
+     "key": "surf",
+     "at": "The waves rose in growing fury"
+    },
+    {
+     "key": "log_tempest",
+     "at": "The wind roared like thunder"
+    },
+    {
+     "key": "log_rough",
+     "at": "masses of sea-fog came drifting inland"
+    },
+    {
+     "key": "lightning_depths",
+     "at": "the glare of the lightning"
+    },
+    {
+     "key": "thunder",
+     "at": "sudden peals of thunder"
+    }
+   ]
   },
   {
    "n": 10,
@@ -122,7 +159,21 @@
    "role": "The Correspondent",
    "cast": "Charles Dickens",
    "register": "grave",
-   "text": "Some of the scenes thus revealed were of immeasurable grandeur and of\nabsorbing interest—the sea, running mountains high, threw skywards with\neach wave mighty masses of white foam, which the tempest seemed to\nsnatch at and whirl away into space; here and there a fishing-boat, with\na rag of sail, running madly for shelter before the blast; now and again\nthe white wings of a storm-tossed sea-bird. On the summit of the East\nCliff the new searchlight was ready for experiment, but had not yet been\ntried. The officers in charge of it got it into working order, and in\nthe pauses of the inrushing mist swept with it the surface of the sea.\nOnce or twice its service was most effective, as when a fishing-boat,\nwith gunwale under water, rushed into the harbour, able, by the guidance\nof the sheltering light, to avoid the danger of dashing against the\npiers. As each boat achieved the safety of the port there was a shout of\njoy from the mass of people on shore, a shout which for a moment seemed\nto cleave the gale and was then swept away in its rush."
+   "text": "Some of the scenes thus revealed were of immeasurable grandeur and of\nabsorbing interest—the sea, running mountains high, threw skywards with\neach wave mighty masses of white foam, which the tempest seemed to\nsnatch at and whirl away into space; here and there a fishing-boat, with\na rag of sail, running madly for shelter before the blast; now and again\nthe white wings of a storm-tossed sea-bird. On the summit of the East\nCliff the new searchlight was ready for experiment, but had not yet been\ntried. The officers in charge of it got it into working order, and in\nthe pauses of the inrushing mist swept with it the surface of the sea.\nOnce or twice its service was most effective, as when a fishing-boat,\nwith gunwale under water, rushed into the harbour, able, by the guidance\nof the sheltering light, to avoid the danger of dashing against the\npiers. As each boat achieved the safety of the port there was a shout of\njoy from the mass of people on shore, a shout which for a moment seemed\nto cleave the gale and was then swept away in its rush.",
+   "sfx": [
+    {
+     "key": "thunder",
+     "at": "running mountains high"
+    },
+    {
+     "key": "gale",
+     "at": "running mountains high"
+    },
+    {
+     "key": "log_warn",
+     "at": "storm-tossed sea-bird"
+    }
+   ]
   },
   {
    "n": 11,
@@ -141,6 +192,22 @@
     {
      "key": "wreck_hit",
      "at": "pitched herself"
+    },
+    {
+     "key": "thunder",
+     "at": "backed to the east"
+    },
+    {
+     "key": "surf",
+     "at": "backed to the east"
+    },
+    {
+     "key": "log_tempest",
+     "at": "another rush of sea-fog"
+    },
+    {
+     "key": "thunder",
+     "at": "The wind suddenly shifted"
     }
    ],
    "para": 10,
@@ -180,7 +247,13 @@
    "role": "The Correspondent",
    "cast": "Charles Dickens",
    "register": "grave",
-   "text": "Already the sudden storm is passing, and its fierceness is abating;\ncrowds are scattering homeward, and the sky is beginning to redden over\nthe Yorkshire wolds. I shall send, in time for your next issue, further\ndetails of the derelict ship which found her way so miraculously into\nharbour in the storm."
+   "text": "Already the sudden storm is passing, and its fierceness is abating;\ncrowds are scattering homeward, and the sky is beginning to redden over\nthe Yorkshire wolds. I shall send, in time for your next issue, further\ndetails of the derelict ship which found her way so miraculously into\nharbour in the storm.",
+   "sfx": [
+    {
+     "key": "log_warn",
+     "at": "the sudden storm is passing"
+    }
+   ]
   },
   {
    "n": 16,

@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dracula · Book II · Lucy — Amenti Studios</title>
+<meta name="description" content="Bram Stoker's Dracula, Book II: Lucy — chapters V–XVI, read by a cast from the Amenti Library of Legends, illustrated and scored.">
+<!-- ===========================================================================
+     DRACULA · BOOK II · LUCY  (Amenti-Studios/dracula/part-2/)
+     24 Oct 2026. Book II as its own page, built like Book I (part-1/): a title
+     film, chapters V–XVI played straight through in three sections, and an ending.
+
+     SECTIONS: I Whitby (V–VIII), II The Blood (IX–XII), III The Un-Dead (XIII–XVI).
+     A painted section card (cards/book2-secN.jpg) comes before chapters V, IX and
+     XIII, then the chapter's own card (cards/book2-chN.jpg).
+
+     THE FILM is ~80 s (26 Oct: lengthened): Whitby by day in the major for
+     half a minute — gulls, sea — then the weather gathers, the storm with
+     thunder (moving), and the Bloofer theme with its chimes comes in ON the
+     gate, as Lucy walks out; the red eyes on the seat, the Count in
+     Piccadilly, Lucy un-dead. Music: pastoral warm
+     by day, the Bloofer Lady theme from the sunset on; sea, then wind in the storm.
+
+     ?end opens straight on the ending.
+     =========================================================================== -->
+<style>
+  :root{
+    --ink:#07090c; --mist:#9ab0a6; --pale:#d6e8df;
+    --gold:#e0a53c; --rule:rgba(255,255,255,.08);
+    --mono:ui-monospace,SFMono-Regular,Menlo,monospace;
+    --serif:Georgia,'Times New Roman',serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--ink);color:var(--pale);font-family:var(--mono);-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+
+  /* ── the film ── */
+  .hero{position:relative;height:100vh;min-height:540px;overflow:hidden;background:#05070a}
+  .sc{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transition:opacity 2.4s ease-in-out}
+  .sc.on{opacity:1}
+  .sc.day{filter:brightness(.8) saturate(.92)}
+  .sc video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 1.4s ease-in-out}
+  .sc video.live{opacity:1}
+  .sc.kb{animation:kb 16s linear forwards}
+  @keyframes kb{from{transform:scale(1)}to{transform:scale(1.06) translate(-1%,-.6%)}}
+  .shade{position:absolute;inset:0;pointer-events:none;
+    background:linear-gradient(90deg,rgba(5,7,10,.78) 0%,rgba(5,7,10,.35) 34%,rgba(5,7,10,0) 62%),
+               linear-gradient(180deg,rgba(5,7,10,.5) 0%,rgba(5,7,10,0) 20%,rgba(5,7,10,0) 75%,rgba(5,7,10,.65) 100%)}
+  .credit,.title{position:absolute;left:clamp(24px,7vw,110px);right:20px;top:50%;transform:translateY(-50%);z-index:4;
+    opacity:0;transition:opacity 1.6s ease;pointer-events:none}
+  .credit.on,.title.on{opacity:1}
+  .cr-a{font-size:13px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase}
+  .cr-b{font-family:var(--serif);font-size:clamp(26px,4.2vw,54px);color:#fff;letter-spacing:.05em;line-height:1.14;margin:12px 0 0;
+    text-shadow:0 2px 40px rgba(0,0,0,.9),0 0 90px rgba(0,0,0,.6);max-width:22ch}
+  .cr-c{font-size:12px;letter-spacing:.3em;color:var(--pale);text-transform:uppercase;margin:14px 0 0;text-shadow:0 1px 18px rgba(0,0,0,.9)}
+  .title .studio{font-size:13px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase}
+  .title h1{font-family:var(--serif);font-weight:400;font-size:clamp(44px,8vw,104px);letter-spacing:.09em;margin:14px 0 0;color:#fff;line-height:1;
+    text-shadow:0 2px 60px rgba(0,0,0,.85),0 0 120px rgba(0,0,0,.6)}
+  .title .part{font-size:13px;letter-spacing:.34em;color:var(--pale);text-transform:uppercase;margin:18px 0 0;text-shadow:0 1px 20px rgba(0,0,0,.9)}
+  .title .by{font-size:11px;letter-spacing:.3em;color:var(--mist);text-transform:uppercase;margin:10px 0 0}
+  .title .acts{margin-top:30px;display:flex;gap:14px;flex-wrap:wrap;pointer-events:auto;opacity:0;transition:opacity 1.4s ease}
+  .title.ready .acts{opacity:1}
+  .btn{font:inherit;font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);background:rgba(5,7,10,.45);
+    border:1px solid var(--gold);padding:14px 26px;cursor:pointer}
+  .btn:hover{background:rgba(224,165,60,.14)}
+  .btn.quiet{color:var(--mist);border-color:rgba(154,176,166,.45)}
+  .start{position:absolute;inset:0;z-index:6;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:22px;
+    background:rgba(5,7,10,.55);transition:opacity 1.2s ease}
+  .start.gone{opacity:0;pointer-events:none}
+  .start .k{font-size:12px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase}
+  .start .t{font-family:var(--serif);font-size:clamp(30px,5vw,58px);color:#fff;letter-spacing:.08em;text-align:center}
+  .skip{position:absolute;right:22px;bottom:22px;z-index:5;font:inherit;font-size:10px;letter-spacing:.3em;text-transform:uppercase;
+    color:var(--mist);background:none;border:0;cursor:pointer;opacity:0;transition:opacity 1s}
+  .hero.playing .skip{opacity:.7}
+  .back{position:absolute;left:22px;top:20px;z-index:5;font-size:10px;letter-spacing:.3em;text-transform:uppercase;color:var(--mist);text-decoration:none;opacity:.75}
+
+  /* ── the page below ── */
+  .wrap{max-width:980px;margin:0 auto;padding:56px 20px 70px}
+  .band{font-size:11px;letter-spacing:.4em;text-transform:uppercase;color:var(--gold);margin:46px 0 6px}
+  .band:first-child{margin-top:0}
+  .sub{font-size:12px;color:var(--mist);margin-bottom:16px;line-height:1.6}
+  .rows{border:1px solid var(--rule)}
+  .row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:16px 18px;border-top:1px solid var(--rule);text-decoration:none}
+  .row:first-child{border-top:0}
+  .row.go{cursor:pointer}
+  .row.go:hover{background:rgba(255,255,255,.03)}
+  .row .n{font-family:var(--serif);font-size:22px;color:#fff}
+  .row .doc{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--mist)}
+  .row .sum{font-family:var(--serif);font-size:16px;color:var(--pale);margin-top:4px;line-height:1.4}
+  .row .tag{font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold)}
+  .sec{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:baseline;padding:22px 18px 10px;border-top:1px solid var(--rule);cursor:pointer}
+  .sec:first-child{border-top:0}
+  .sec:hover{background:rgba(255,255,255,.03)}
+  .sec .n{font-size:11px;letter-spacing:.3em;color:var(--gold)}
+  .sec .st{font-family:var(--serif);font-size:24px;color:#fff;letter-spacing:.06em}
+  .sec .tag{font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold)}
+  @media (max-width:600px){.sec{grid-template-columns:40px 1fr}.sec .tag{display:none}}
+  .cast{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule)}
+  .cast div{background:var(--ink);padding:14px 16px}
+  .cast .who{font-family:var(--serif);font-size:16px;color:#fff}
+  .cast .as{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--mist);margin-top:5px}
+  .foot{margin-top:60px;font-size:11px;line-height:1.7;color:#6a7a70}
+  @media (max-width:600px){.row{grid-template-columns:40px 1fr}.row .tag{display:none}.cast{grid-template-columns:1fr 1fr}}
+
+  /* ── between chapters ── */
+  .card{position:fixed;inset:0;z-index:1795;background:#05070a;display:flex;flex-direction:column;align-items:center;justify-content:center;
+    opacity:0;pointer-events:none;transition:opacity 1.2s ease;text-align:center;padding:20px}
+  .card.on{opacity:1;pointer-events:auto}
+  .card .k{font-size:11px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase}
+  .card .t{font-family:var(--serif);font-size:clamp(30px,5vw,56px);color:#fff;letter-spacing:.08em;margin-top:14px}
+  .card .d{font-size:11px;letter-spacing:.3em;color:var(--mist);text-transform:uppercase;margin-top:16px}
+  /* 22 Oct: painted chapter cards (cards/book1-chN.jpg, 1920×1080, the words are in the picture) */
+  .card .pic{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;opacity:0;transform:scale(1);transition:opacity 1.2s ease,transform 9s linear}
+  .card.has-pic .k,.card.has-pic .t,.card.has-pic .d{display:none}
+  .card.has-pic .pic{opacity:1}
+  .card.on.has-pic .pic{transform:scale(1.03)}
+  @media (prefers-reduced-motion:reduce){.card .pic{transition:opacity .4s;transform:none!important}}
+
+  /* ── the ending ── */
+  .end{position:fixed;inset:0;z-index:2100;background:#05070a;opacity:0;pointer-events:none;transition:opacity 2.5s ease;overflow:hidden}
+  .end.on{opacity:1;pointer-events:auto}
+  .end .bg{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transition:opacity 3s ease}
+  .end .bg.on{opacity:1}
+  .end .bg{transition:opacity 3s ease,filter 3s ease}
+  .end.rolling .bg{filter:brightness(.38)}
+  .end .bg video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+  .end .shade{z-index:1}
+  .end .blk{position:absolute;left:clamp(24px,7vw,110px);right:20px;top:50%;transform:translateY(-50%);z-index:3;opacity:0;transition:opacity 2s ease}
+  .end .blk.on{opacity:1}
+  .end .q{font-family:var(--serif);font-style:italic;font-size:clamp(17px,2vw,24px);color:#fff;line-height:1.45;max-width:42ch;text-shadow:0 1px 18px rgba(0,0,0,.9)}
+  .end .k{font-size:12px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase;margin-top:26px}
+  .end .t{font-size:12px;letter-spacing:.3em;color:var(--pale);text-transform:uppercase;margin-top:10px}
+  .roll{position:absolute;left:0;right:0;top:0;z-index:3;text-align:center;opacity:0;transition:opacity 1.5s}
+  .roll.on{opacity:1}
+  .roll .in{position:absolute;left:0;right:0;top:100vh;padding-bottom:20vh}
+  .roll .in.go{transition:transform linear}
+  .roll h3{font-size:11px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase;font-weight:400;margin:42px 0 14px}
+  .roll p{font-family:var(--serif);font-size:clamp(17px,2vw,22px);color:#fff;margin:6px 0}
+  .roll p span{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--mist);margin-top:3px}
+  .p2 h2{font-family:var(--serif);font-weight:400;font-size:clamp(44px,8vw,100px);letter-spacing:.09em;color:#fff;margin:12px 0 0;line-height:1;
+    text-shadow:0 2px 60px rgba(0,0,0,.85)}
+  .p2 .acts{margin-top:30px;display:flex;gap:14px;flex-wrap:wrap}
+  @media (prefers-reduced-motion:reduce){.sc.kb{animation:none}}
+</style>
+</head>
+<body>
+
+<div class="hero" id="hero">
+  <a class="back" href="../">&larr; Dracula &middot; the whole book</a>
+  <div id="scenes"></div>
+  <div class="shade"></div>
+  <div class="credit" id="credit"><div class="cr-a"></div><div class="cr-b"></div><div class="cr-c"></div></div>
+  <div class="title" id="title">
+    <div class="studio">Bram Stoker</div>
+    <h1>DRACULA</h1>
+    <div class="part">Book II &middot; Lucy</div>
+    <div class="by">Chapters V&ndash;XVI &middot; Whitby &middot; The Blood &middot; The Un-Dead</div>
+    <div class="acts">
+      <button class="btn" id="begin">Begin</button>
+      <button class="btn quiet" id="again">Watch the opening again</button>
+    </div>
+  </div>
+  <div class="start" id="start">
+    <div class="k">Amenti Studios presents</div>
+    <div class="t">DRACULA &middot; Book II</div>
+    <button class="btn" id="play">Play &middot; with sound</button>
+  </div>
+  <button class="skip" id="skip">Skip</button>
+</div>
+
+<div class="wrap">
+  <div class="band">Book II &middot; Lucy</div>
+  <div class="sub">Twelve chapters in letters, journals and diaries: Whitby and the storm, Lucy&rsquo;s fading, and what comes back from the tomb. Played straight through, in three sections.</div>
+  <div class="rows" id="chapters"></div>
+
+  <div class="band">The Company</div>
+  <div class="sub">Each voice is a figure from the Amenti Library of Legends, speaking in that figure&rsquo;s recorded manner.</div>
+  <div class="cast" id="cast"></div>
+
+  <div class="band">The Books</div>
+  <div class="sub">Dracula in three books.</div>
+  <div class="rows">
+    <a class="row go" href="../part-1/"><div class="n">I</div><div><div class="doc">Book I &middot; Chapters I&ndash;IV</div><div class="sum">The Castle</div></div><div class="tag">watch</div></a>
+    <div class="row"><div class="n">II</div><div><div class="doc">Book II &middot; Chapters V&ndash;XVI</div><div class="sum">Lucy</div></div><div class="tag">here</div></div>
+    <div class="row"><div class="n">III</div><div><div class="doc">Book III &middot; Chapters XVII&ndash;XXVII</div><div class="sum">The Hunt</div></div><div class="tag">to come</div></div>
+  </div>
+
+  <div class="foot">
+    Ingram Manor LLC &middot; 2026 &middot; All Rights Reserved<br>
+    The text is public domain. The voices are not performances by the people named &mdash;
+    they are the ledger&rsquo;s record of how each figure spoke, used as a casting pool.
+  </div>
+</div>
+
+<div class="card" id="card"><img class="pic" alt=""><div class="k"></div><div class="t"></div><div class="d"></div></div>
+
+<div class="end" id="end">
+  <div class="bg" id="end-a"></div>
+  <div class="bg" id="end-b"></div>
+  <div class="shade"></div>
+  <div class="blk" id="end-1">
+    <div class="q">&ldquo;To-night I leave for Amsterdam, but shall return to-morrow night. And then begins our great quest.&rdquo;</div>
+    <div class="k">End of Book II</div>
+    <div class="t">Lucy</div>
+  </div>
+  <div class="roll" id="roll"><div class="in" id="roll-in"></div></div>
+  <div class="blk p2" id="end-2">
+    <div class="cr-a">Book III</div>
+    <h2>THE HUNT</h2>
+    <div class="cr-c">Chapters XVII&ndash;XXVII &middot; to come</div>
+    <div class="acts">
+      <button class="btn" id="end-again">Watch Book II again</button>
+      <a class="btn quiet" href="../" style="text-decoration:none">The whole book</a>
+    </div>
+  </div>
+</div>
+
+<script src="https://ianingram.github.io/Amenti.live/amenti-core.bundle.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/reader.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/casting.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/playbill.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/sound.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/art.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/chronometer.js"></script>
+<script>
+(function () {
+  'use strict';
+  var ART = 'https://ianingram.github.io/Amenti-Readings/dracula/art/';
+  var MEDIA = 'https://amenti-media.ingram-ian.workers.dev/m/dracula/';
+  var SND = 'https://ianingram.github.io/Amenti-Readings/dracula/sound/';
+  var $ = function (id) { return document.getElementById(id); };
+
+  /* THE FILM: [start s, still, moving picture or null] */
+  var SCENES = [
+    [0,  ART + 'ch06-view-a1.jpg', null],
+    [7,  ART + 'ch06-steps-a1.jpg', null],
+    [14, ART + 'ch07-g-pier-1.jpg', null],
+    [21, ART + 'ch06-harbour-a2.jpg', null],
+    [28, ART + 'ch07-g-mares-tails-1.jpg', null],
+    [35, ART + 'ch07-tempest-a1.jpg', ART + 'ch07-storm-1.mp4'],
+    [44, ART + 'ch08-sleep-gate-0.jpg', null],
+    [52, ART + 'ch08-redeyes-a1.jpg', null],
+    [60, ART + 'ch13-picc-count-1.jpg', null],
+    [68, ART + 'ch16-undead-backlit-0.jpg', null]];
+  var DAY_UNTIL = 28;
+  /* [start s, top line, name, role] — the Book II company */
+  var ROLL = [
+    [1.5, 'Amenti Studios', '', 'presents'],
+    [10,  '', 'Agatha Christie', 'as Mina Murray'],
+    [19,  '', 'Mary Shelley', 'as Lucy Westenra'],
+    [28,  '', 'William Harvey', 'as Dr Seward'],
+    [53,  '', 'Antony van Leeuwenhoek', 'as Professor Van Helsing'],
+    [61,  '', 'J.R.R. Tolkien<br>Lyndon B. Johnson', 'as Arthur Holmwood & Quincey Morris']];
+  /* the storm (35–44) carries no credit: the thunder has the screen */
+  var CREDIT_LEN = 6.2, TITLE_AT = 75, READY_AT = 81, GATHER_AT = 28, STORM_AT = 35, NIGHT_AT = 44;
+
+  var CAST = [['Agatha Christie', 'Mina Murray'], ['Mary Shelley', 'Lucy Westenra'], ['William Harvey', 'Dr John Seward'],
+              ['Antony van Leeuwenhoek', 'Professor Van Helsing'], ['J.R.R. Tolkien', 'Arthur Holmwood'], ['Lyndon B. Johnson', 'Quincey Morris'],
+              ['Charles Darwin', 'Jonathan Harker'], ['Jack the Ripper', 'Renfield'], ['James Cook', 'Mr Swales'],
+              ['Vitus Bering', 'The Captain of the Demeter'], ['Charles Dickens', 'The Correspondent'], ['Hildegard of Bingen', 'Sister Agatha'],
+              ['Bram Stoker', 'The Narrator']];
+  /* [numeral, cue sheet, summary, document] */
+  var CHAPTERS = [['V', 'dracula/ep05.json', 'Mina and Lucy; three proposals in one day', 'Letters'],
+                  ['VI', 'dracula/ep06.json', 'Whitby, the abbey steps, and Mr Swales among the graves', 'Mina Murray’s Journal'],
+                  ['VII', 'dracula/ep07.json', 'The storm, and the Demeter comes in with a dead man at the wheel', 'From “The Dailygraph”'],
+                  ['VIII', 'dracula/ep08.json', 'Lucy walks in her sleep to the churchyard', 'Mina Murray’s Journal'],
+                  ['IX', 'dracula/ep09.json', 'Jonathan found at Buda-Pesth; Lucy’s nights; Van Helsing sent for', 'Letters'],
+                  ['X', 'dracula/ep10.json', 'The first transfusion', 'Letters and Diaries'],
+                  ['XI', 'dracula/ep11.json', 'Garlic flowers, the wolf at the window, and the death of her mother', 'Lucy Westenra’s Diary'],
+                  ['XII', 'dracula/ep12.json', 'The last transfusions, and Lucy dies', 'Dr. Seward’s Diary'],
+                  ['XIII', 'dracula/ep13.json', 'The funeral; the Count in Piccadilly; the Bloofer Lady', 'Dr. Seward’s Diary'],
+                  ['XIV', 'dracula/ep14.json', 'Jonathan’s journal read; Van Helsing at Exeter', 'Mina Harker’s Journal'],
+                  ['XV', 'dracula/ep15.json', 'The empty coffin', 'Dr. Seward’s Diary'],
+                  ['XVI', 'dracula/ep16.json', 'Lucy comes back, and the stake', 'Dr. Seward’s Diary']];
+  /* the three sections: [first chapter index, numeral, title, chapters] */
+  var SECTIONS = [[0, 'I', 'Whitby', 'V–VIII'], [4, 'II', 'The Blood', 'IX–XII'], [8, 'III', 'The Un-Dead', 'XIII–XVI']];
+  function sectionAt(k) { for (var i = 0; i < SECTIONS.length; i++) if (SECTIONS[i][0] === k) return i; return -1; }
+
+  /* ── the page ── */
+  $('chapters').innerHTML = CHAPTERS.map(function (c, k) {
+    var j = sectionAt(k), head = j < 0 ? '' : '<div class="sec" data-k="' + k + '"><div class="n">' + SECTIONS[j][1] + '</div><div class="st">' + SECTIONS[j][2]
+      + '</div><div class="tag">Chapters ' + SECTIONS[j][3] + '</div></div>';
+    return head + '<div class="row go" data-k="' + k + '"><div class="n">' + c[0] + '</div><div><div class="doc">' + c[3] + '</div>'
+      + '<div class="sum">' + c[2] + '</div></div><div class="tag">' + (k ? 'from here' : 'begin') + '</div></div>';
+  }).join('');
+  $('cast').innerHTML = CAST.map(function (c) { return '<div><div class="who">' + c[0] + '</div><div class="as">as ' + c[1] + '</div></div>'; }).join('');
+
+  /* ── audio: one context for the film and the ending, made inside the first click ── */
+  var ctx = null, bufs = {}, master = null, srcs = [];
+  function audioCtx() {
+    if (!ctx) { var AC = window.AudioContext || window.webkitAudioContext; if (!AC) return null; ctx = new AC(); master = ctx.createGain(); master.connect(ctx.destination); }
+    if (ctx.state === 'suspended') ctx.resume();
+    return ctx;
+  }
+  function buf(name) {
+    if (!bufs[name]) bufs[name] = fetch(SND + name).then(function (r) { return r.arrayBuffer(); })
+      .then(function (b) { return new Promise(function (ok, no) { ctx.decodeAudioData(b, ok, no); }); });
+    return bufs[name];
+  }
+  function playLoop(name, level, fadeIn, delay) {
+    if (!audioCtx()) return;
+    buf(name).then(function (b) {
+      var s = ctx.createBufferSource(), g = ctx.createGain(); s.buffer = b; s.loop = true;
+      var t = ctx.currentTime + (delay || 0);
+      g.gain.setValueAtTime(0.0001, t); g.gain.exponentialRampToValueAtTime(level, t + (fadeIn || 3));
+      s.connect(g); g.connect(master); s.start(t); srcs.push({ s: s, g: g, name: name });
+    })['catch'](function (e) { console.warn('Book II: ' + name + ' did not load — ' + (e && e.message)); });
+  }
+  /* one sound, once — a gull, a peal of thunder. rate varies it, so one recording is several */
+  function playOnce(name, level, delay, rate) {
+    if (!audioCtx()) return;
+    buf(name).then(function (b) {
+      var s = ctx.createBufferSource(), g = ctx.createGain(); s.buffer = b; s.playbackRate.value = rate || 1;
+      var t = ctx.currentTime + (delay || 0);
+      g.gain.setValueAtTime(level, t); s.connect(g); g.connect(master); s.start(t);
+      srcs.push({ s: s, g: g, name: name });
+    })['catch'](function (e) { console.warn('Book II: ' + name + ' did not load — ' + (e && e.message)); });
+  }
+  function fadeOne(name, sec, delay) {
+    if (!ctx) return;
+    var t = ctx.currentTime + (delay || 0);
+    srcs.filter(function (x) { return x.name === name; }).forEach(function (x) { try {
+      x.g.gain.setValueAtTime(Math.max(x.g.gain.value, 0.0001), t); x.g.gain.exponentialRampToValueAtTime(0.0001, t + sec); x.s.stop(t + sec + 0.1); } catch (e) {} });
+    srcs = srcs.filter(function (x) { return x.name !== name; });
+  }
+  function fadeAll(sec) {
+    if (!ctx) return;
+    var t = ctx.currentTime;
+    srcs.forEach(function (x) { try { x.g.gain.cancelScheduledValues(t); x.g.gain.setValueAtTime(Math.max(x.g.gain.value, 0.0001), t);
+      x.g.gain.exponentialRampToValueAtTime(0.0001, t + sec); x.s.stop(t + sec + 0.1); } catch (e) {} });
+    srcs = [];
+  }
+
+  /* ── the film ── */
+  var layers = SCENES.map(function (sc) {
+    var d = document.createElement('div'); d.className = 'sc' + (sc[0] < DAY_UNTIL ? ' day' : ''); d.style.backgroundImage = 'url("' + sc[1] + '")';
+    $('scenes').appendChild(d); return d;
+  });
+  layers[0].classList.add('on');
+  function vid(layer, src) {
+    if (layer._v || !src) return;
+    var v = document.createElement('video');
+    v.muted = true; v.defaultMuted = true; v.loop = true; v.playsInline = true; v.preload = 'auto';
+    v.setAttribute('muted', ''); v.setAttribute('playsinline', ''); v.src = src;
+    v.onerror = function () { if (v.parentNode) v.parentNode.removeChild(v); };     /* no clip: the painting stays */
+    /* 26 Oct: the clip stays hidden over its painting until it is actually PLAYING, then dissolves in.
+       It used to sit on top from the start, so a clip that was a moment late to decode snapped in over
+       the painting mid-fade — and two clips are not frame-for-frame the painting under them. */
+    v.addEventListener('playing', function () { v.classList.add('live'); });
+    layer.appendChild(v); layer._v = v;
+  }
+  SCENES.forEach(function (sc, i) { vid(layers[i], sc[2]); });
+
+  var timers = [], filmOn = false;
+  function later(sec, fn) { timers.push(setTimeout(fn, sec * 1000)); }
+  function clearFilm() { timers.forEach(clearTimeout); timers = []; }
+  function credit(top, name, role) {
+    var c = $('credit'); c.classList.remove('on'); clearTimeout(c._t);
+    c._t = setTimeout(function () {
+      c.querySelector('.cr-a').textContent = top; c.querySelector('.cr-b').innerHTML = name; c.querySelector('.cr-c').textContent = role;
+      c.classList.add('on');
+    }, 900);
+  }
+  function show(i) {
+    layers.forEach(function (l, j) {
+      var on = j === i; l.classList.toggle('on', on);
+      if (on) { l.classList.remove('kb'); void l.offsetWidth; if (!SCENES[j][2]) l.classList.add('kb'); }
+      if (l._v) { try { if (on) { var p = l._v.play(); if (p && p['catch']) p['catch'](function () {}); } else setTimeout(function () { if (!l.classList.contains('on')) { l._v.pause(); l._v.classList.remove('live'); try { l._v.currentTime = 0; } catch (e) {} } }, 3000); } catch (e) {} }
+    });
+  }
+  function film() {
+    clearFilm(); filmOn = true;
+    $('hero').classList.add('playing'); $('start').classList.add('gone');
+    $('title').classList.remove('on', 'ready'); $('credit').classList.remove('on');
+    /* Whitby by day in the MAJOR for half a minute, with gulls and the sea; the weather gathers with a far
+       roll of thunder; the storm cracks and the major goes; the Bloofer theme and its chimes come in ON the gate */
+    fadeAll(1); playLoop('score-pastoral-warm.mp3', 0.7, 3); playLoop('sea.mp3', 0.14, 4);
+    playOnce('gulls.mp3', 0.22, 0.6, 1); playOnce('gulls.mp3', 0.16, 9.5, 0.94); playOnce('gulls.mp3', 0.18, 18.5, 1.06);
+    playOnce('thunder.mp3', 0.18, GATHER_AT + 2, 0.78);                       /* far off, as the mares' tails gather */
+    /* 27 Oct: the strings no longer drop out at the storm — they sink under it and are still there, low,
+       when the Bloofer theme rises on the gate, so the two cross over (Ian: the change was too abrupt) */
+    later(STORM_AT + 3, function () { fadeOne('score-pastoral-warm.mp3', 9); });
+    playLoop('wind.mp3', 0.2, 3, STORM_AT);
+    playOnce('thunder.mp3', 0.75, STORM_AT, 1);                               /* "the tempest broke" */
+    playOnce('thunder.mp3', 0.5, STORM_AT + 3.6, 0.9);
+    playOnce('thunder.mp3', 0.35, STORM_AT + 6.8, 0.82);
+    later(NIGHT_AT - 1, function () { fadeOne('wind.mp3', 6); fadeOne('sea.mp3', 8); });
+    playLoop('score-bloofer.mp3', 0.7, 6, NIGHT_AT - 1);                      /* the minor and the chimes rise in over 6 s, on the gate */
+    SCENES.forEach(function (sc, i) { later(sc[0], function () { show(i); }); });
+    ROLL.forEach(function (r) { later(r[0], function () { credit(r[1], r[2], r[3]); }); later(r[0] + CREDIT_LEN, function () { $('credit').classList.remove('on'); }); });
+    later(TITLE_AT, function () { $('credit').classList.remove('on'); $('title').classList.add('on'); });
+    later(READY_AT, holdTitle);
+  }
+  function holdTitle() {
+    clearFilm(); filmOn = false;
+    show(SCENES.length - 1); clearTimeout($('credit')._t); $('credit').classList.remove('on');
+    $('title').classList.add('on', 'ready'); $('hero').classList.remove('playing'); $('start').classList.add('gone');
+    later(25, function () { fadeAll(10); });            /* the theme does not loop under a waiting title */
+  }
+  $('play').onclick = function () { audioCtx(); if (R && R.unlock) R.unlock(); film(); };
+  $('skip').onclick = function () { holdTitle(); };
+  $('again').onclick = function () { audioCtx(); film(); };
+
+  /* ── the reading: chapters I to IV, straight through ── */
+  var R = window.Amenti && window.Amenti.reading, at = -1, running = false;
+  /* the painted cards, loaded ahead so each is ready when its chapter starts */
+  var CARDPICS = CHAPTERS.map(function (c, i) { var im = new Image(); im.src = 'cards/book2-ch' + (i + 5) + '.jpg'; return im; });
+  var SECPICS = SECTIONS.map(function (x, i) { var im = new Image(); im.src = 'cards/book2-sec' + (i + 1) + '.jpg'; return im; });
+  function showCard(pic, alt, k, t, d, ms, then) {
+    var c = $('card'); c.querySelector('.k').textContent = k; c.querySelector('.t').textContent = t; c.querySelector('.d').textContent = d;
+    var im = c.querySelector('.pic'), has = !!(pic && pic.complete && pic.naturalWidth);
+    c.classList.remove('on'); void c.offsetWidth;
+    c.classList.toggle('has-pic', has);
+    if (pic) { im.src = pic.src; im.alt = alt; }
+    c.classList.add('on'); setTimeout(then, has ? ms : 3200);
+  }
+  /* a section card first when chapter k opens a section, then the chapter card */
+  function card(k, then) {
+    var ch = function () { showCard(CARDPICS[k], 'Book II, Chapter ' + CHAPTERS[k][0], 'Book II · Lucy', 'Chapter ' + CHAPTERS[k][0], CHAPTERS[k][3], 6500, then); };
+    var j = sectionAt(k);
+    if (j < 0) return ch();
+    showCard(SECPICS[j], 'Book II, Part ' + SECTIONS[j][1] + ': ' + SECTIONS[j][2], 'Book II · Part ' + SECTIONS[j][1], SECTIONS[j][2], 'Chapters ' + SECTIONS[j][3], 6000, ch);
+  }
+  function playCh(k, seekN) {
+    R.play(CHAPTERS[k][1]).then(function () { if (seekN > 1) R.seek(seekN); setTimeout(function () { $('card').classList.remove('on'); }, 600); },
+      function (e) { $('card').classList.remove('on'); running = false; console.warn('Book II: ' + (e && e.message)); });
+  }
+  function startAt(k, seekN) {
+    if (!R) { alert('The speech engine did not load. Check the console — the reader says so plainly.'); return; }
+    audioCtx(); if (R.unlock) R.unlock();
+    fadeAll(3); running = true; at = k;
+    card(k, function () { playCh(k, seekN); });
+  }
+  /* the Chronometer can steer the book: a date or chapter tapped on the dial (25 Oct 2026) */
+  window.amentiChronoJump = function (ep, n) {
+    var p = 'dracula/ep' + (ep < 10 ? '0' : '') + ep + '.json', k = -1;
+    CHAPTERS.forEach(function (c, i) { if (c[1] === p) k = i; });
+    if (k < 0) { running = false; return false; }                 /* another book: the reader loads it */
+    if (running && k === at && R.sheet && R.sheet.episode === ep) { R.seek(n); return true; }
+    startAt(k, n); return true;
+  };
+
+  if (R) {
+    var prevEnd = R.onEnd;
+    R.onEnd = function (sheet) {
+      if (typeof prevEnd === 'function') { try { prevEnd(sheet); } catch (e) {} }
+      if (!running) return;
+      if (at < CHAPTERS.length - 1) {
+        var k = at + 1; at = k;
+        setTimeout(function () { card(k, function () { playCh(k); }); }, 2500);
+      } else { running = false; setTimeout(ending, 2000); }
+    };
+  }
+  $('begin').onclick = function () { startAt(0); };
+  document.querySelectorAll('#chapters .row, #chapters .sec').forEach(function (row) { row.onclick = function () { startAt(+row.dataset.k); }; });
+
+  /* ── the ending ── */
+  var CREDITS = [
+    ['The Company', CAST.map(function (c) { return [c[0], 'as ' + c[1]]; })],
+    ['The Book', [['Bram Stoker', 'Dracula · 1897 · chapters V–XVI']]],
+    ['Paintings', [['Ian Ingram', 'with Midjourney']]],
+    ['Voices', [['The Amenti speech engine', 'cast from the Library of Legends']]],
+    ['Music, sound & moving light', [['Amenti Studios', '']]],
+    ['', [['An Ingram Manor LLC production', '2026']]]];
+  function bg(el, still, clip) {
+    el.innerHTML = ''; el.style.backgroundImage = 'url("' + still + '")';
+    if (clip) { var v = document.createElement('video'); v.muted = true; v.loop = true; v.playsInline = true; v.autoplay = true;
+      v.setAttribute('muted', ''); v.setAttribute('playsinline', ''); v.src = clip;
+      v.onerror = function () { if (v.parentNode) v.parentNode.removeChild(v); };
+      el.appendChild(v); try { var p = v.play(); if (p && p['catch']) p['catch'](function () {}); } catch (e) {} }
+  }
+  var endT = [];
+  function ending() {
+    endT.forEach(clearTimeout); endT = [];
+    var E = $('end'); E.classList.add('on');
+    bg($('end-a'), ART + 'ch16-c-oath-1.jpg', null); $('end-a').classList.add('on'); $('end-b').classList.remove('on');
+    $('end-1').classList.remove('on'); $('end-2').classList.remove('on'); $('roll').classList.remove('on'); E.classList.remove('rolling');
+    if (ctx) { playLoop('score-requiem.mp3', 0.6, 6); playLoop('wind.mp3', 0.1, 8); }
+    var t = function (s, fn) { endT.push(setTimeout(fn, s * 1000)); };
+    t(3, function () { $('end-1').classList.add('on'); });
+    t(17, function () { $('end-1').classList.remove('on'); });
+    t(19, rollCredits);
+  }
+  function rollCredits() {
+    var r = $('roll'), inr = $('roll-in');
+    inr.className = 'in'; inr.style.transform = '';
+    inr.innerHTML = CREDITS.map(function (b) {
+      return (b[0] ? '<h3>' + b[0] + '</h3>' : '<h3>&nbsp;</h3>') + b[1].map(function (p) { return '<p>' + p[0] + (p[1] ? '<span>' + p[1] + '</span>' : '') + '</p>'; }).join('');
+    }).join('');
+    r.classList.add('on'); $('end').classList.add('rolling');
+    var h = inr.offsetHeight + window.innerHeight, secs = Math.max(26, h / 38);
+    requestAnimationFrame(function () { inr.classList.add('go'); inr.style.transitionDuration = secs + 's'; inr.style.transform = 'translateY(-' + h + 'px)'; });
+    endT.push(setTimeout(bookThree, secs * 1000 - 2000));
+  }
+  function bookThree() {
+    $('roll').classList.remove('on'); $('end').classList.remove('rolling');
+    bg($('end-b'), ART + 'ch13-picc-count-1.jpg', null); $('end-b').classList.add('on'); $('end-a').classList.remove('on');
+    setTimeout(function () { $('end-2').classList.add('on'); }, 1800);
+    endT.push(setTimeout(function () { fadeAll(12); }, 30000));   /* and not under the last card */
+  }
+  $('end-again').onclick = function () {
+    fadeAll(2); $('end').classList.remove('on'); window.scrollTo(0, 0); audioCtx(); film();
+  };
+  if (/[?&]end\b/.test(location.search)) {
+    $('start').querySelector('.btn').textContent = 'Play the ending · with sound';
+    $('play').onclick = function () { audioCtx(); ending(); };
+  }
+})();
+</script>
+</body>
+</html>

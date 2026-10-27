@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dracula · Part I · The Castle — Amenti Studios</title>
+<meta name="description" content="Bram Stoker's Dracula, Part I: The Castle — chapters I–IV, read by a cast from the Amenti Library of Legends, illustrated and scored.">
+<!-- ===========================================================================
+     DRACULA · PART I · THE CASTLE  (Amenti-Studios/dracula/part-1/)
+     20 Oct 2026. Part I as its own product: a title film, chapters I–IV played
+     straight through, and an ending (End of Part I, credits, the turn to Part II).
+
+     THE FILM is ~52 s: six paintings from Jonathan's road (daylight to the castle),
+     three of them moving (a Midjourney clip or one of Claude's lamp-and-mist loops),
+     the Part I cast credited one at a time, then DRACULA · Part I · The Castle and
+     "Begin". Music: the book's own "dread" cue (score-dread.mp3) with wolves far off
+     after nightfall. Sound needs a click in Safari, so the film starts on Play.
+
+     THE READING uses the same player as the Dracula page (bundle → reader → casting
+     → playbill → sound → art), loaded in that order. Between chapters a short card
+     names the next one; Amenti.reading.onEnd starts it. After chapter IV, the ending.
+
+     ?end opens straight on the ending, to check it without hearing the whole part.
+     =========================================================================== -->
+<style>
+  :root{
+    --ink:#07090c; --mist:#9ab0a6; --pale:#d6e8df;
+    --gold:#e0a53c; --rule:rgba(255,255,255,.08);
+    --mono:ui-monospace,SFMono-Regular,Menlo,monospace;
+    --serif:Georgia,'Times New Roman',serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--ink);color:var(--pale);font-family:var(--mono);-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+
+  /* ── the film ── */
+  .hero{position:relative;height:100vh;min-height:540px;overflow:hidden;background:#05070a}
+  .sc{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transition:opacity 2.4s ease-in-out}
+  .sc.on{opacity:1}
+  .sc.day{filter:brightness(.8) saturate(.92)}
+  .sc video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 1.4s ease-in-out}
+  .sc video.live{opacity:1}
+  .sc.kb{animation:kb 16s linear forwards}
+  @keyframes kb{from{transform:scale(1)}to{transform:scale(1.06) translate(-1%,-.6%)}}
+  .shade{position:absolute;inset:0;pointer-events:none;
+    background:linear-gradient(90deg,rgba(5,7,10,.78) 0%,rgba(5,7,10,.35) 34%,rgba(5,7,10,0) 62%),
+               linear-gradient(180deg,rgba(5,7,10,.5) 0%,rgba(5,7,10,0) 20%,rgba(5,7,10,0) 75%,rgba(5,7,10,.65) 100%)}
+  .credit,.title{position:absolute;left:clamp(24px,7vw,110px);right:20px;top:50%;transform:translateY(-50%);z-index:4;
+    opacity:0;transition:opacity 1.6s ease;pointer-events:none}
+  .credit.on,.title.on{opacity:1}
+  .cr-a{font-size:13px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase}
+  .cr-b{font-family:var(--serif);font-size:clamp(26px,4.2vw,54px);color:#fff;letter-spacing:.05em;line-height:1.14;margin:12px 0 0;
+    text-shadow:0 2px 40px rgba(0,0,0,.9),0 0 90px rgba(0,0,0,.6);max-width:22ch}
+  .cr-c{font-size:12px;letter-spacing:.3em;color:var(--pale);text-transform:uppercase;margin:14px 0 0;text-shadow:0 1px 18px rgba(0,0,0,.9)}
+  .title .studio{font-size:13px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase}
+  .title h1{font-family:var(--serif);font-weight:400;font-size:clamp(44px,8vw,104px);letter-spacing:.09em;margin:14px 0 0;color:#fff;line-height:1;
+    text-shadow:0 2px 60px rgba(0,0,0,.85),0 0 120px rgba(0,0,0,.6)}
+  .title .part{font-size:13px;letter-spacing:.34em;color:var(--pale);text-transform:uppercase;margin:18px 0 0;text-shadow:0 1px 20px rgba(0,0,0,.9)}
+  .title .by{font-size:11px;letter-spacing:.3em;color:var(--mist);text-transform:uppercase;margin:10px 0 0}
+  .title .acts{margin-top:30px;display:flex;gap:14px;flex-wrap:wrap;pointer-events:auto;opacity:0;transition:opacity 1.4s ease}
+  .title.ready .acts{opacity:1}
+  .btn{font:inherit;font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold);background:rgba(5,7,10,.45);
+    border:1px solid var(--gold);padding:14px 26px;cursor:pointer}
+  .btn:hover{background:rgba(224,165,60,.14)}
+  .btn.quiet{color:var(--mist);border-color:rgba(154,176,166,.45)}
+  .start{position:absolute;inset:0;z-index:6;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:22px;
+    background:rgba(5,7,10,.55);transition:opacity 1.2s ease}
+  .start.gone{opacity:0;pointer-events:none}
+  .start .k{font-size:12px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase}
+  .start .t{font-family:var(--serif);font-size:clamp(30px,5vw,58px);color:#fff;letter-spacing:.08em;text-align:center}
+  .skip{position:absolute;right:22px;bottom:22px;z-index:5;font:inherit;font-size:10px;letter-spacing:.3em;text-transform:uppercase;
+    color:var(--mist);background:none;border:0;cursor:pointer;opacity:0;transition:opacity 1s}
+  .hero.playing .skip{opacity:.7}
+  .back{position:absolute;left:22px;top:20px;z-index:5;font-size:10px;letter-spacing:.3em;text-transform:uppercase;color:var(--mist);text-decoration:none;opacity:.75}
+
+  /* ── the page below ── */
+  .wrap{max-width:980px;margin:0 auto;padding:56px 20px 70px}
+  .band{font-size:11px;letter-spacing:.4em;text-transform:uppercase;color:var(--gold);margin:46px 0 6px}
+  .band:first-child{margin-top:0}
+  .sub{font-size:12px;color:var(--mist);margin-bottom:16px;line-height:1.6}
+  .rows{border:1px solid var(--rule)}
+  .row{display:grid;grid-template-columns:54px 1fr auto;gap:16px;align-items:center;padding:16px 18px;border-top:1px solid var(--rule);text-decoration:none}
+  .row:first-child{border-top:0}
+  .row.go{cursor:pointer}
+  .row.go:hover{background:rgba(255,255,255,.03)}
+  .row .n{font-family:var(--serif);font-size:22px;color:#fff}
+  .row .doc{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--mist)}
+  .row .sum{font-family:var(--serif);font-size:16px;color:var(--pale);margin-top:4px;line-height:1.4}
+  .row .tag{font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold)}
+  .cast{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule)}
+  .cast div{background:var(--ink);padding:14px 16px}
+  .cast .who{font-family:var(--serif);font-size:16px;color:#fff}
+  .cast .as{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--mist);margin-top:5px}
+  .foot{margin-top:60px;font-size:11px;line-height:1.7;color:#6a7a70}
+  @media (max-width:600px){.row{grid-template-columns:40px 1fr}.row .tag{display:none}.cast{grid-template-columns:1fr 1fr}}
+
+  /* ── between chapters ── */
+  .card{position:fixed;inset:0;z-index:1795;background:#05070a;display:flex;flex-direction:column;align-items:center;justify-content:center;
+    opacity:0;pointer-events:none;transition:opacity 1.2s ease;text-align:center;padding:20px}
+  .card.on{opacity:1;pointer-events:auto}
+  .card .k{font-size:11px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase}
+  .card .t{font-family:var(--serif);font-size:clamp(30px,5vw,56px);color:#fff;letter-spacing:.08em;margin-top:14px}
+  .card .d{font-size:11px;letter-spacing:.3em;color:var(--mist);text-transform:uppercase;margin-top:16px}
+  /* 22 Oct: painted chapter cards (cards/book1-chN.jpg, 1920×1080, the words are in the picture) */
+  .card .pic{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;opacity:0;transform:scale(1);transition:opacity 1.2s ease,transform 9s linear}
+  .card.has-pic .k,.card.has-pic .t,.card.has-pic .d{display:none}
+  .card.has-pic .pic{opacity:1}
+  .card.on.has-pic .pic{transform:scale(1.03)}
+  @media (prefers-reduced-motion:reduce){.card .pic{transition:opacity .4s;transform:none!important}}
+
+  /* ── the ending ── */
+  .end{position:fixed;inset:0;z-index:2100;background:#05070a;opacity:0;pointer-events:none;transition:opacity 2.5s ease;overflow:hidden}
+  .end.on{opacity:1;pointer-events:auto}
+  .end .bg{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transition:opacity 3s ease}
+  .end .bg.on{opacity:1}
+  .end .bg{transition:opacity 3s ease,filter 3s ease}
+  .end.rolling .bg{filter:brightness(.38)}
+  .end .bg video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+  .end .shade{z-index:1}
+  .end .blk{position:absolute;left:clamp(24px,7vw,110px);right:20px;top:50%;transform:translateY(-50%);z-index:3;opacity:0;transition:opacity 2s ease}
+  .end .blk.on{opacity:1}
+  .end .q{font-family:var(--serif);font-style:italic;font-size:clamp(17px,2vw,24px);color:#fff;line-height:1.45;max-width:42ch;text-shadow:0 1px 18px rgba(0,0,0,.9)}
+  .end .k{font-size:12px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase;margin-top:26px}
+  .end .t{font-size:12px;letter-spacing:.3em;color:var(--pale);text-transform:uppercase;margin-top:10px}
+  .roll{position:absolute;left:0;right:0;top:0;z-index:3;text-align:center;opacity:0;transition:opacity 1.5s}
+  .roll.on{opacity:1}
+  .roll .in{position:absolute;left:0;right:0;top:100vh;padding-bottom:20vh}
+  .roll .in.go{transition:transform linear}
+  .roll h3{font-size:11px;letter-spacing:.4em;color:var(--gold);text-transform:uppercase;font-weight:400;margin:42px 0 14px}
+  .roll p{font-family:var(--serif);font-size:clamp(17px,2vw,22px);color:#fff;margin:6px 0}
+  .roll p span{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--mist);margin-top:3px}
+  .p2 h2{font-family:var(--serif);font-weight:400;font-size:clamp(44px,8vw,100px);letter-spacing:.09em;color:#fff;margin:12px 0 0;line-height:1;
+    text-shadow:0 2px 60px rgba(0,0,0,.85)}
+  .p2 .acts{margin-top:30px;display:flex;gap:14px;flex-wrap:wrap}
+  @media (prefers-reduced-motion:reduce){.sc.kb{animation:none}}
+</style>
+</head>
+<body>
+
+<div class="hero" id="hero">
+  <a class="back" href="../">&larr; Dracula &middot; the whole book</a>
+  <div id="scenes"></div>
+  <div class="shade"></div>
+  <div class="credit" id="credit"><div class="cr-a"></div><div class="cr-b"></div><div class="cr-c"></div></div>
+  <div class="title" id="title">
+    <div class="studio">Bram Stoker</div>
+    <h1>DRACULA</h1>
+    <div class="part">Part I &middot; The Castle</div>
+    <div class="by">Chapters I&ndash;IV &middot; Jonathan Harker&rsquo;s Journal</div>
+    <div class="acts">
+      <button class="btn" id="begin">Begin</button>
+      <button class="btn quiet" id="again">Watch the opening again</button>
+    </div>
+  </div>
+  <div class="start" id="start">
+    <div class="k">Amenti Studios presents</div>
+    <div class="t">DRACULA &middot; Part I</div>
+    <button class="btn" id="play">Play &middot; with sound</button>
+  </div>
+  <button class="skip" id="skip">Skip</button>
+</div>
+
+<div class="wrap">
+  <div class="band">Part I &middot; The Castle</div>
+  <div class="sub">Four chapters from Jonathan Harker&rsquo;s journal: the journey east, the Count, the castle, the escape. Played straight through, one into the next.</div>
+  <div class="rows" id="chapters"></div>
+
+  <div class="band">The Company</div>
+  <div class="sub">Each voice is a figure from the Amenti Library of Legends, speaking in that figure&rsquo;s recorded manner.</div>
+  <div class="cast" id="cast"></div>
+
+  <div class="band">The Dossier</div>
+  <div class="sub">Maps from Part I &mdash; they also open inside the reading, at the moment they belong.</div>
+  <div class="rows">
+    <a class="row go" href="https://ianingram.github.io/Amenti-Readings/dracula/dossier/borgo-pass.html"><div class="n">I</div><div><div class="doc">Map</div><div class="sum">The Road to the Borgo Pass</div></div><div class="tag">open</div></a>
+    <a class="row go" href="https://ianingram.github.io/Amenti-Readings/dracula/dossier/count-atlas.html"><div class="n">II</div><div><div class="doc">Map &amp; plan</div><div class="sum">The Count&rsquo;s Atlas &middot; Carfax</div></div><div class="tag">open</div></a>
+    <a class="row go" href="https://ianingram.github.io/Amenti-Readings/dracula/dossier/count-history.html"><div class="n">III</div><div><div class="doc">Map</div><div class="sum">The Count&rsquo;s History</div></div><div class="tag">open</div></a>
+  </div>
+
+  <div class="foot">
+    Ingram Manor LLC &middot; 2026 &middot; All Rights Reserved<br>
+    The text is public domain. The voices are not performances by the people named &mdash;
+    they are the ledger&rsquo;s record of how each figure spoke, used as a casting pool.
+  </div>
+</div>
+
+<div class="card" id="card"><img class="pic" alt=""><div class="k"></div><div class="t"></div><div class="d"></div></div>
+
+<div class="end" id="end">
+  <div class="bg" id="end-a"></div>
+  <div class="bg" id="end-b"></div>
+  <div class="shade"></div>
+  <div class="blk" id="end-1">
+    <div class="q">&ldquo;At its foot a man may sleep&mdash;as a man.<br>Good-bye, all! Mina!&rdquo;</div>
+    <div class="k">End of Part I</div>
+    <div class="t">The Castle</div>
+  </div>
+  <div class="roll" id="roll"><div class="in" id="roll-in"></div></div>
+  <div class="blk p2" id="end-2">
+    <div class="cr-a">Part II</div>
+    <h2>LUCY</h2>
+    <div class="cr-c">Whitby &middot; Chapters V&ndash;XVI &middot; to come</div>
+    <div class="acts">
+      <button class="btn" id="end-again">Watch Part I again</button>
+      <a class="btn quiet" href="../" style="text-decoration:none">The whole book</a>
+    </div>
+  </div>
+</div>
+
+<script src="https://ianingram.github.io/Amenti.live/amenti-core.bundle.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/reader.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/casting.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/playbill.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/sound.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/art.js"></script>
+<script src="https://ianingram.github.io/Amenti-Readings/player/chronometer.js"></script>
+<script>
+(function () {
+  'use strict';
+  var ART = 'https://ianingram.github.io/Amenti-Readings/dracula/art/';
+  var MEDIA = 'https://amenti-media.ingram-ian.workers.dev/m/dracula/';
+  var SND = 'https://ianingram.github.io/Amenti-Readings/dracula/sound/';
+  var STORM = 'https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-1.jpg';
+  var $ = function (id) { return document.getElementById(id); };
+
+  /* THE FILM: [start s, still, moving picture or null] */
+  var SCENES = [
+    [0,  ART + 'ch01-d01-2.jpg', null],
+    [8,  ART + 'ch01-d12-2.jpg', null],
+    [16, ART + 'ch01-d15-3.jpg', ART + 'ch01-d15-3.mp4'],
+    [24, ART + 'ch01-n01-1.jpg', null],   /* 27 Oct: the drifting-mist loop taken off (Ian: repetitive) — the painting drifts instead */
+    [32, ART + 'ch01-n06-2.jpg', null],
+    [43, ART + 'ch01-n08-2.jpg', ART + 'ch01-n08-2.mp4']];
+  /* [start s, top line, name, role] — the Part I company in order of appearance */
+  var ROLL = [
+    [1.5, 'Amenti Studios', '', 'presents'],
+    [9,   '', 'Charles Darwin', 'as Jonathan Harker'],
+    [17,  '', 'Hildegard of Bingen', 'as the Landlady at Bistritz'],
+    [25,  '', 'Vlad the Impaler', 'as Count Dracula'],
+    [33,  '', 'Elizabeth Báthory<br>Catherine de’ Medici<br>Empress Elisabeth', 'as the Three Women']];
+  var CREDIT_LEN = 6.2, TITLE_AT = 45, READY_AT = 51, WOLVES_AT = 26, NIGHT_AT = 21;
+
+  var CAST = [['Charles Darwin', 'Jonathan Harker'], ['Vlad the Impaler', 'Count Dracula'],
+              ['Hildegard of Bingen', 'The Landlady at Bistritz'], ['Elizabeth Báthory', 'The First Dark Woman'],
+              ['Catherine de’ Medici', 'The Second Dark Woman'], ['Empress Elisabeth of Austria', 'The Fair Woman']];
+  var CHAPTERS = [['I', 'dracula/ep01.json', 'Bistritz to the Borgo Pass, and the calèche'],
+                  ['II', 'dracula/ep02.json', 'The castle door, and the Count'],
+                  ['III', 'dracula/ep03.json', 'A prisoner. The thing on the wall. The three women'],
+                  ['IV', 'dracula/ep04.json', 'The boxes, and the escape down the wall']];
+
+  /* ── the page ── */
+  $('chapters').innerHTML = CHAPTERS.map(function (c, k) {
+    return '<div class="row go" data-k="' + k + '"><div class="n">' + c[0] + '</div><div><div class="doc">Jonathan Harker’s Journal</div>'
+      + '<div class="sum">' + c[2] + '</div></div><div class="tag">' + (k ? 'from here' : 'begin') + '</div></div>';
+  }).join('');
+  $('cast').innerHTML = CAST.map(function (c) { return '<div><div class="who">' + c[0] + '</div><div class="as">as ' + c[1] + '</div></div>'; }).join('');
+
+  /* ── audio: one context for the film and the ending, made inside the first click ── */
+  var ctx = null, bufs = {}, master = null, srcs = [];
+  function audioCtx() {
+    if (!ctx) { var AC = window.AudioContext || window.webkitAudioContext; if (!AC) return null; ctx = new AC(); master = ctx.createGain(); master.connect(ctx.destination); }
+    if (ctx.state === 'suspended') ctx.resume();
+    return ctx;
+  }
+  function buf(name) {
+    if (!bufs[name]) bufs[name] = fetch(SND + name).then(function (r) { return r.arrayBuffer(); })
+      .then(function (b) { return new Promise(function (ok, no) { ctx.decodeAudioData(b, ok, no); }); });
+    return bufs[name];
+  }
+  function playLoop(name, level, fadeIn, delay) {
+    if (!audioCtx()) return;
+    buf(name).then(function (b) {
+      var s = ctx.createBufferSource(), g = ctx.createGain(); s.buffer = b; s.loop = true;
+      var t = ctx.currentTime + (delay || 0);
+      g.gain.setValueAtTime(0.0001, t); g.gain.exponentialRampToValueAtTime(level, t + (fadeIn || 3));
+      s.connect(g); g.connect(master); s.start(t); srcs.push({ s: s, g: g, name: name });
+    })['catch'](function (e) { console.warn('Part I: ' + name + ' did not load — ' + (e && e.message)); });
+  }
+  function fadeOne(name, sec, delay) {
+    if (!ctx) return;
+    var t = ctx.currentTime + (delay || 0);
+    srcs.filter(function (x) { return x.name === name; }).forEach(function (x) { try {
+      x.g.gain.setValueAtTime(Math.max(x.g.gain.value, 0.0001), t); x.g.gain.exponentialRampToValueAtTime(0.0001, t + sec); x.s.stop(t + sec + 0.1); } catch (e) {} });
+    srcs = srcs.filter(function (x) { return x.name !== name; });
+  }
+  function fadeAll(sec) {
+    if (!ctx) return;
+    var t = ctx.currentTime;
+    srcs.forEach(function (x) { try { x.g.gain.cancelScheduledValues(t); x.g.gain.setValueAtTime(Math.max(x.g.gain.value, 0.0001), t);
+      x.g.gain.exponentialRampToValueAtTime(0.0001, t + sec); x.s.stop(t + sec + 0.1); } catch (e) {} });
+    srcs = [];
+  }
+
+  /* ── the film ── */
+  var layers = SCENES.map(function (sc) {
+    var d = document.createElement('div'); d.className = 'sc' + (sc[0] < 24 ? ' day' : ''); d.style.backgroundImage = 'url("' + sc[1] + '")';
+    $('scenes').appendChild(d); return d;
+  });
+  layers[0].classList.add('on');
+  function vid(layer, src) {
+    if (layer._v || !src) return;
+    var v = document.createElement('video');
+    v.muted = true; v.defaultMuted = true; v.loop = true; v.playsInline = true; v.preload = 'auto';
+    v.setAttribute('muted', ''); v.setAttribute('playsinline', ''); v.src = src;
+    v.onerror = function () { if (v.parentNode) v.parentNode.removeChild(v); };     /* no clip: the painting stays */
+    /* 26 Oct: the clip stays hidden over its painting until it is actually PLAYING, then dissolves in.
+       It used to sit on top from the start, so a clip that was a moment late to decode snapped in over
+       the painting mid-fade — and two clips are not frame-for-frame the painting under them. */
+    v.addEventListener('playing', function () { v.classList.add('live'); });
+    layer.appendChild(v); layer._v = v;
+  }
+  SCENES.forEach(function (sc, i) { vid(layers[i], sc[2]); });
+
+  var timers = [], filmOn = false;
+  function later(sec, fn) { timers.push(setTimeout(fn, sec * 1000)); }
+  function clearFilm() { timers.forEach(clearTimeout); timers = []; }
+  function credit(top, name, role) {
+    var c = $('credit'); c.classList.remove('on');
+    setTimeout(function () {
+      c.querySelector('.cr-a').textContent = top; c.querySelector('.cr-b').innerHTML = name; c.querySelector('.cr-c').textContent = role;
+      c.classList.add('on');
+    }, 900);
+  }
+  function show(i) {
+    layers.forEach(function (l, j) {
+      var on = j === i; l.classList.toggle('on', on);
+      if (on) { l.classList.remove('kb'); void l.offsetWidth; if (!SCENES[j][2]) l.classList.add('kb'); }
+      if (l._v) { try { if (on) { var p = l._v.play(); if (p && p['catch']) p['catch'](function () {}); } else setTimeout(function () { if (!l.classList.contains('on')) { l._v.pause(); l._v.classList.remove('live'); try { l._v.currentTime = 0; } catch (e) {} } }, 3000); } catch (e) {} }
+    });
+  }
+  function film() {
+    clearFilm(); filmOn = true;
+    $('hero').classList.add('playing'); $('start').classList.add('gone');
+    $('title').classList.remove('on', 'ready'); $('credit').classList.remove('on');
+    /* the journey by day in the major (pastoral warm, F major); dread comes in with the night */
+    fadeAll(1); playLoop('score-pastoral-warm.mp3', 0.7, 3);
+    playLoop('score-dread.mp3', 0.7, 6, NIGHT_AT); later(NIGHT_AT, function () { fadeOne('score-pastoral-warm.mp3', 6); });
+    playLoop('wolves.mp3', 0.16, 6, WOLVES_AT);
+    SCENES.forEach(function (sc, i) { later(sc[0], function () { show(i); }); });
+    ROLL.forEach(function (r) { later(r[0], function () { credit(r[1], r[2], r[3]); }); later(r[0] + CREDIT_LEN, function () { $('credit').classList.remove('on'); }); });
+    later(TITLE_AT, function () { $('credit').classList.remove('on'); $('title').classList.add('on'); });
+    later(READY_AT, holdTitle);
+  }
+  function holdTitle() {
+    clearFilm(); filmOn = false;
+    show(SCENES.length - 1); $('credit').classList.remove('on');
+    $('title').classList.add('on', 'ready'); $('hero').classList.remove('playing'); $('start').classList.add('gone');
+    later(25, function () { fadeAll(10); });            /* the theme does not loop under a waiting title */
+  }
+  $('play').onclick = function () { audioCtx(); if (R && R.unlock) R.unlock(); film(); };
+  $('skip').onclick = function () { holdTitle(); };
+  $('again').onclick = function () { audioCtx(); film(); };
+
+  /* ── the reading: chapters I to IV, straight through ── */
+  var R = window.Amenti && window.Amenti.reading, at = -1, running = false;
+  /* the painted chapter cards, loaded ahead so each is ready when its chapter starts */
+  var CARDPICS = CHAPTERS.map(function (c, i) { var im = new Image(); im.src = 'cards/book1-ch' + (i + 1) + '.jpg'; return im; });
+  function card(k, sub, then) {
+    var c = $('card'); c.querySelector('.k').textContent = 'Part I · The Castle';
+    c.querySelector('.t').textContent = 'Chapter ' + CHAPTERS[k][0]; c.querySelector('.d').textContent = sub;
+    var im = c.querySelector('.pic'), pic = CARDPICS[k];
+    c.classList.toggle('has-pic', !!(pic && pic.complete && pic.naturalWidth));
+    if (pic) { im.src = pic.src; im.alt = 'Book I, Chapter ' + CHAPTERS[k][0]; }
+    c.classList.add('on'); setTimeout(then, c.classList.contains('has-pic') ? 6500 : 3200);
+  }
+  function startAt(k, seekN) {
+    if (!R) { alert('The speech engine did not load. Check the console — the reader says so plainly.'); return; }
+    audioCtx(); if (R.unlock) R.unlock();
+    fadeAll(3); running = true; at = k;
+    card(k, 'Jonathan Harker’s Journal', function () {
+      R.play(CHAPTERS[k][1]).then(function () { if (seekN > 1) R.seek(seekN); setTimeout(function () { $('card').classList.remove('on'); }, 600); },
+        function (e) { $('card').classList.remove('on'); running = false; console.warn('Part I: ' + (e && e.message)); });
+    });
+  }
+
+  /* the Chronometer can steer the book: a date or chapter tapped on the dial (25 Oct 2026) */
+  window.amentiChronoJump = function (ep, n) {
+    var p = 'dracula/ep' + (ep < 10 ? '0' : '') + ep + '.json', k = -1;
+    CHAPTERS.forEach(function (c, i) { if (c[1] === p) k = i; });
+    if (k < 0) { running = false; return false; }                 /* another book: the reader loads it */
+    if (running && k === at && R.sheet && R.sheet.episode === ep) { R.seek(n); return true; }
+    startAt(k, n); return true;
+  };
+  if (R) {
+    var prevEnd = R.onEnd;
+    R.onEnd = function (sheet) {
+      if (typeof prevEnd === 'function') { try { prevEnd(sheet); } catch (e) {} }
+      if (!running) return;
+      if (at < CHAPTERS.length - 1) {
+        var k = at + 1; at = k;
+        setTimeout(function () {
+          card(k, 'Jonathan Harker’s Journal — continued', function () {
+            R.play(CHAPTERS[k][1]).then(function () { setTimeout(function () { $('card').classList.remove('on'); }, 600); },
+              function (e) { $('card').classList.remove('on'); running = false; console.warn('Part I: ' + (e && e.message)); });
+          });
+        }, 2500);
+      } else { running = false; setTimeout(ending, 2000); }
+    };
+  }
+  $('begin').onclick = function () { startAt(0); };
+  document.querySelectorAll('#chapters .row').forEach(function (row) { row.onclick = function () { startAt(+row.dataset.k); }; });
+
+  /* ── the ending ── */
+  var CREDITS = [
+    ['The Company', CAST.map(function (c) { return [c[0], 'as ' + c[1]]; })],
+    ['The Book', [['Bram Stoker', 'Dracula · 1897 · chapters I–IV']]],
+    ['Paintings', [['Ian Ingram', 'with Midjourney']]],
+    ['Voices', [['The Amenti speech engine', 'cast from the Library of Legends']]],
+    ['Music, sound & moving light', [['Amenti Studios', '']]],
+    ['', [['An Ingram Manor LLC production', '2026']]]];
+  function bg(el, still, clip) {
+    el.innerHTML = ''; el.style.backgroundImage = 'url("' + still + '")';
+    if (clip) { var v = document.createElement('video'); v.muted = true; v.loop = true; v.playsInline = true; v.autoplay = true;
+      v.setAttribute('muted', ''); v.setAttribute('playsinline', ''); v.src = clip;
+      v.onerror = function () { if (v.parentNode) v.parentNode.removeChild(v); };
+      el.appendChild(v); try { var p = v.play(); if (p && p['catch']) p['catch'](function () {}); } catch (e) {} }
+  }
+  var endT = [];
+  function ending() {
+    endT.forEach(clearTimeout); endT = [];
+    var E = $('end'); E.classList.add('on');
+    bg($('end-a'), ART + 'ch04-r-3.jpg', MEDIA + 'dracula-ch04-r-3-air.mp4'); $('end-a').classList.add('on'); $('end-b').classList.remove('on');
+    $('end-1').classList.remove('on'); $('end-2').classList.remove('on'); $('roll').classList.remove('on'); E.classList.remove('rolling');
+    if (ctx) { playLoop('score-dread.mp3', 0.6, 6); playLoop('wind.mp3', 0.12, 8); }
+    var t = function (s, fn) { endT.push(setTimeout(fn, s * 1000)); };
+    t(3, function () { $('end-1').classList.add('on'); });
+    t(17, function () { $('end-1').classList.remove('on'); });
+    t(19, rollCredits);
+  }
+  function rollCredits() {
+    var r = $('roll'), inr = $('roll-in');
+    inr.className = 'in'; inr.style.transform = '';
+    inr.innerHTML = CREDITS.map(function (b) {
+      return (b[0] ? '<h3>' + b[0] + '</h3>' : '<h3>&nbsp;</h3>') + b[1].map(function (p) { return '<p>' + p[0] + (p[1] ? '<span>' + p[1] + '</span>' : '') + '</p>'; }).join('');
+    }).join('');
+    r.classList.add('on'); $('end').classList.add('rolling');
+    var h = inr.offsetHeight + window.innerHeight, secs = Math.max(26, h / 38);
+    requestAnimationFrame(function () { inr.classList.add('go'); inr.style.transitionDuration = secs + 's'; inr.style.transform = 'translateY(-' + h + 'px)'; });
+    endT.push(setTimeout(partTwo, secs * 1000 - 2000));
+  }
+  function partTwo() {
+    $('roll').classList.remove('on'); $('end').classList.remove('rolling');
+    bg($('end-b'), STORM, null); $('end-b').classList.add('on'); $('end-a').classList.remove('on');
+    setTimeout(function () { $('end-2').classList.add('on'); }, 1800);
+    endT.push(setTimeout(function () { fadeAll(12); }, 30000));   /* and not under the last card */
+  }
+  $('end-again').onclick = function () {
+    fadeAll(2); $('end').classList.remove('on'); window.scrollTo(0, 0); audioCtx(); film();
+  };
+  if (/[?&]end\b/.test(location.search)) {
+    $('start').querySelector('.btn').textContent = 'Play the ending · with sound';
+    $('play').onclick = function () { audioCtx(); ending(); };
+  }
+})();
+</script>
+</body>
+</html>

@@ -168,3 +168,26 @@ All from BigSoundBank (LaSonothèque) — CC0 site-wide, no attribution required
 - loco-whistle-short.mp3 — #3019 Whistle of a steam train (Martel)
 - loco-whistle-far.mp3 — #0226 Whistling train #2, low-passed 2.8 kHz (distant)
 - steam-hiss.mp3 — #0228 Hiss of Steam Train #2 (Museum of Lost Sounds)
+
+## Chapter I — the hooves, scored to the text (27 Oct 2026)
+
+Ian: the hoof sound is great but it was used as a repeating background, never dramatically.
+Twelve coach and calèche cues rebuilt (`drac1-*-v2.mp3`, cues 30–54 except 36 and 41) from the
+archived narration (the same takes, at the same places) and a new sound layer: four horses,
+every strike a real recorded hoof picked at random and placed by a gait model (walk, trot,
+canter, gallop) that follows the story — a lurching start at the whip, an easy trot under the
+Mittel Land, a walk on the climb, lashed into a gallop, a stop at the Pass, the calèche off
+into the dark, the horses rearing at the dogs and wolves, muffled in the snow, checked at the
+blue flame, screaming in the ring, pulled up on the stones of the courtyard. Nothing loops.
+Build: `build-hooves-engine.py`, `build-hooves.py` (seed 1897).
+
+| Recording | Use | Licence |
+|---|---|---|
+| BigSoundBank #0610 *Horse Trotting*, #0611 *Horse Gallop* | the road strikes | CC0 |
+| #0496 *Horse steps on concrete*, #0498 | the courtyard, stamping, beating the calèche | CC0 |
+| #1316 *Devil handling* (pitched down) | wheels | CC0 |
+| #2516 *Squeaky wheelbarrow* (pitched down) | leather springs and body creaks | CC0 |
+| #2949, #2950, #2961, #2962 *Whip crack* | the whip | CC0 |
+| #0284, #0460, #0863, #1541, #1542 neighs; #0285–0287, #1543 breath | the horses | CC0 |
+| #2450, #2451 *Dog singing*; #2953 *Pack of dogs* | the farmhouse dogs | CC0 |
+| folder `wolves.mp3`, `wolf-howl.mp3`, `wind.mp3`, `thunder.mp3`, `match.mp3`, `cart.mp3` | as before | as listed above |

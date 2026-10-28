@@ -1477,6 +1477,14 @@
     ]
    },
    {
+    "from": 6,
+    "images": [
+     "ch05-s-mletter-0.jpg",
+     "ch05-s-post-0.jpg",
+     "ch05-s-post-1.jpg"
+    ]
+   },
+   {
     "from": 8,
     "caption": "",
     "images": [
@@ -1497,10 +1505,19 @@
     ]
    },
    {
+    "from": 18,
+    "images": [
+     "ch05-s-alone-0.jpg",
+     "ch05-s-alone-1.jpg"
+    ]
+   },
+   {
     "from": 19,
     "at": "number One came just before lunch",
     "caption": "",
     "images": [
+     "ch05-s-one-0.jpg",
+     "ch05-s-one-1.jpg",
      "ch05-p-lancet-0.jpg",
      "ch05-p-lancet-3.jpg"
     ]
@@ -1510,6 +1527,8 @@
     "at": "He was going to tell me how unhappy",
     "caption": "",
     "images": [
+     "ch05-s-plea-0.jpg",
+     "ch05-s-plea-1.jpg",
      "ch05-p-refusal-0.jpg",
      "ch05-p-refusal-1.jpg"
     ]
@@ -1558,10 +1577,26 @@
    },
    {
     "from": 29,
+    "images": [
+     "ch05-s-alone-2.jpg"
+    ]
+   },
+   {
+    "from": 30,
     "caption": "Number Three",
     "images": [
-     "ch05-q-happy-1.jpg",
-     "ch05-q-happy-2.jpg"
+     "ch05-s-three-0.jpg",
+     "ch05-s-three-1.jpg",
+     "ch05-s-embrace-0.jpg"
+    ]
+   },
+   {
+    "from": 30,
+    "at": "I am very, very happy",
+    "images": [
+     "ch05-s-embrace-1.jpg",
+     "ch05-s-engaged-0.jpg",
+     "ch05-s-engaged-1.jpg"
     ]
    },
    {

@@ -1432,11 +1432,47 @@
   "5": [
    {
     "from": 2,
-    "caption": "",
+    "images": [
+     "ch05-r-school-0.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "assistant schoolmistress",
+    "images": [
+     "ch05-r-school-1.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "practising shorthand very assiduously",
+    "images": [
+     "ch05-r-shorthand-0.jpg",
+     "ch05-r-shorthand-1.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "write it out for him on the typewriter",
+    "images": [
+     "ch05-r-typing-0.jpg",
+     "ch05-r-typing-1.jpg",
+     "ch05-r-typing-2.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "a few hurried lines from Jonathan",
+    "images": [
+     "ch05-r-jletter-0.jpg",
+     "ch05-r-jletter-1.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "There is the ten",
     "images": [
      "ch05-mina-3.jpg",
-     "ch05-typewriter-2.jpg",
-     "ch05-mina-0.jpg",
      "ch05-typewriter-1.jpg"
     ]
    },

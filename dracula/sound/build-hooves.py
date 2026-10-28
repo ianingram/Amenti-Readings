@@ -44,16 +44,18 @@ def wind(n, t0, level_keys, seed=0):
     w = E.load(E.F + 'wind.mp3'); w = np.tile(w, int(np.ceil(n / len(w))) + 1)[:n]
     return stereo(w * curve(level_keys, n), 0.0)
 
-def finish(n_cue, name, N, v, fx, keep=None):
+def finish(n_cue, name, N, v, fx, keep=None, free=None):
     """keep = (residual, t_until): reuse the old sound before t_until (crowd, inn)."""
     env = np.sqrt(sg_l(v ** 2, 0.25)); duck = 1 - 0.45 * np.clip(env / (env.max() * 0.25 + 1e-9), 0, 1)
-    fx = limit(fx * duck[:, None], -9)
+    fx = fx * duck[:, None]
+    if free is not None: fx = fx + free
+    fx = limit(fx, -9)
     if keep is not None:
         res, tu = keep; k = int(tu * SR); xf = int(1.5 * SR)
         r = np.zeros(N, np.float32); r[:len(res)] = res
         g = np.ones(N, np.float32); g[k:k + xf] = np.linspace(1, 0, xf); g[k + xf:] = 0
         fx = fx * (1 - g)[:, None] + stereo(r * g)
-    mix = stereo(v) * np.sqrt(2) + fx
+    mix = (stereo(v) * np.sqrt(2) + fx) / np.sqrt(2)
     pk = np.abs(mix).max()
     mix = limit(mix, -0.7)
     wv.write(OUT + name + '-fx.wav', SR, fx)
@@ -82,7 +84,7 @@ def c30():
     fx += team(N, sp, 'road', 4, 1.5, seed=301) * db(-12)
     fx += wheels(N, sp, 302) * db(-8) + creaks(N, [tw + 1.0, tw + 2.2, tw + 4.0], 303) * db(-4)
     neigh(fx, tw + 0.9, -18, 0.3)
-    finish(30, 'drac1-whip-29-v2', N, v, fx, keep=(res, tw - 1.0))
+    finish(30, 'drac1-whip-29-v3', N, v, fx, keep=(res, tw - 1.0))
 
 # ═══ 31 — an easy trot through the Mittel Land, fading under; quickening at 'feverish haste' ═══
 def c31():
@@ -96,7 +98,7 @@ def c31():
     fx += creaks(N, list(np.cumsum(R.uniform(5, 11, 30))), 313) * g * db(6)
     for t in [24, 58, th + 3, 96]:
         if t < L - 2: snort(fx, t, -26)
-    finish(31, 'drac1-coach-30-v2', N, v, fx)
+    finish(31, 'drac1-coach-30-v3', N, v, fx)
 
 # ═══ 34 — dusk: trot, a peasant's cart passing, labouring at a walk on the climb, a stop to light the lamps ═══
 def c34():
@@ -118,7 +120,7 @@ def c34():
     # the halt and the lamps
     stamps(fx, tp + 1.5, L, 1.2, -14, seed=344); snort(fx, tp + 2.0, -12)
     put(fx, norm(E.load(E.F + 'match.mp3'), -18), min(tp + 2.5, L - 2.2), -6)
-    finish(34, 'drac1-dusk-33-v2', N, v, fx)
+    finish(34, 'drac1-dusk-33-v3', N, v, fx)
 
 # ═══ 35 — lashed into a gallop; the coach rocks; thunder; slowing to a dead stop at the Pass ═══
 def c35():
@@ -144,7 +146,7 @@ def c35():
     put(fx, th, tth - 1, -6); put(fx, th, tth + 22, -12)
     for t in np.arange(tst - 1, tw + 6, 2.6): snort(fx, t + R.uniform(0, 1), -15, R.uniform(-.6, .6))
     stamps(fx, tw + 0.5, L, 1.0, -15, seed=354)
-    finish(35, 'drac1-lashed-34-v2', N, v, fx)
+    finish(35, 'drac1-lashed-34-v3', N, v, fx)
 
 # ═══ 46 — the calèche: black horses, heavier; into the dark at speed; the coach away to Bukovina ═══
 def c46():
@@ -163,7 +165,7 @@ def c46():
     away = curve([(0, -60), (tcr, -14), (tsank, -22), (tsank + 8, -40), (L, -60)], N)
     fx += team(N, sp2, 'road', 4, 1.5, seed=464) * db(away)[:, None] * np.array([1.3, 0.5])
     whip(fx, tcr + 0.5, -10); put(fx, lp(norm(one('0460'), -14), 3000), tcr + 2.0, -18, 0.6)
-    finish(46, 'drac1-into-the-pass-45-v2', N, v, fx)
+    finish(46, 'drac1-into-the-pass-45-v3', N, v, fx)
 
 # ═══ 48 — hard pace, a complete turn, the same ground again; a match struck ═══
 def c48():
@@ -178,7 +180,7 @@ def c48():
     fx += wheels(N, sp, 482) * db(lev - 1)[:, None]
     fx += creaks(N, [ttu + 0.5, ttu + 1.6, tsg + 12.5], 483) * db(-6)
     put(fx, norm(E.load(E.F + 'match.mp3'), -18), tm + 0.3, -4)
-    finish(48, 'drac1-midnight-47-v2', N, v, fx)
+    finish(48, 'drac1-midnight-47-v3', N, v, fx)
 
 # ═══ 49 — the dogs, the horses rear; the wolves; the driver soothes them; off at a great pace ═══
 def c49():
@@ -194,9 +196,22 @@ def c49():
     lev = curve([(0, -20), (td, -22), (tfh, -18), (tgp, -12), (tgp + 5, -15), (L, -16)], N)
     fx += team(N, sp, 'road', 4, -3.0, seed=491) * db(lev)[:, None]
     fx += wheels(N, sp, 492) * db(lev - 1)[:, None]
-    dog(fx, td + 0.2, -16, 0.6, 1.0); dog(fx, tan + 0.5, -18, -0.5, 1.0); dog(fx, tan + 3.5, -20, 0.2, 1.0)
-    pack = reverb(lp(norm(one('2953'), -16), 1800), 3.0, 0.6)
-    put(fx, fade(pack[:int(min(len(pack) / SR, two - twi + 8) * SR)], 3, 4), twi, -14)
+    # the dogs: one far down the road, then another, and another, and another, then the whole country
+    dogs = np.zeros((N, 2), np.float32)
+    def howl(t, semis, gain, pan, far):
+        k = ['2450', '2451'][R.integers(2)]; x = pitch(E.peaknorm(one(k), -6), semis)
+        x = reverb(lp(x, 3600 - 1800 * far), 2.6, 0.3 + 0.35 * far, 7)
+        put(dogs, x, t, gain, pan)
+    t1 = T(s, 'began to howl', True)
+    for t, sm in [(t1 + 0.2, -1.0), (t1 + 3.0, -0.5), (t1 + 5.8, -1.5)]: howl(t, sm, -7, 0.5, 0.5)
+    for t in [tan + 1.2, tan + 3.8]: howl(t, 1.5, -9, -0.6, 0.6)
+    ta1 = T(s, 'and then another'); ta2 = T(s, 'and another', True)
+    for t in [ta1 + 0.6, ta1 + 3.4]: howl(t, -3.0, -10, 0.2, 0.7)
+    for t in [ta2 + 0.1, ta2 + 3.0]: howl(t, 3.0, -11, -0.25, 0.75)
+    rr = np.random.default_rng(49)
+    for t in np.sort(rr.uniform(twi - 0.5, tfh + 4, 18)):
+        howl(t, rr.uniform(-4, 4), rr.uniform(-18, -10), rr.uniform(-0.9, 0.9), rr.uniform(0.5, 1.0))
+    dogs *= curve([(0, 1), (tfh + 2, 1), (tfh + 8, 0.25), (L, 0.25)], N)[:, None]
     # the horses strain and rear
     neigh(fx, tfh + 0.3, -8, -0.3, 2); stamps(fx, tfh, tso + 3, 3.0, -8, seed=493)
     for t in np.arange(tso, tsh + 6, 2.2): snort(fx, t + R.uniform(0, .8), -12, R.uniform(-.5, .5))
@@ -208,7 +223,7 @@ def c49():
     for t in np.arange(tdes, tre2, 2.4): snort(fx, t + R.uniform(0, .8), -16, R.uniform(-.4, .4))
     stamps(fx, tpet, tre2, 0.6, -18, seed=495)
     whip(fx, tgp - 0.2, -14)
-    finish(49, 'drac1-howling-48-v2', N, v, fx)
+    finish(49, 'drac1-howling-48-v3', N, v, fx, free=dogs)
 
 # ═══ 50 — the tunnel of trees: wind, snow muffling the hooves, the wolves closing in ═══
 def c50():
@@ -227,7 +242,7 @@ def c50():
     wolves(fx, twn, -16, -0.7, far=0.6); wolves(fx, twn + 6, -13, 0.6, 'wolf-howl.mp3', far=0.3)
     wolves(fx, tdv - 2, -11, -0.3, far=0.2, dur=14)
     for t in [taf + 1, taf + 4]: snort(fx, t, -14, R.uniform(-.5, .5))
-    finish(50, 'drac1-tunnel-49-v2', N, v, fx)
+    finish(50, 'drac1-tunnel-49-v3', N, v, fx)
 
 # ═══ 51 — the blue flame: checked to a stop, the wolves closer; resumed; the moving circle ═══
 def c51():
@@ -249,7 +264,7 @@ def c51():
     # the moving circle: howls handed round from side to side
     for k, t in enumerate(np.arange(tsp, L - 3, 6.5)):
         wolves(fx, t, -13 - (k % 2) * 3, [-0.8, 0.0, 0.8, 0.3][k % 4], ['wolf-howl.mp3', 'wolves.mp3'][k % 2], far=0.3, dur=9)
-    finish(51, 'drac1-blue-flame-50-v2', N, v, fx)
+    finish(51, 'drac1-blue-flame-50-v3', N, v, fx)
 
 # ═══ 52 — alone: the horses tremble, snort and scream; then the grim silence of the ring ═══
 def c52():
@@ -264,7 +279,7 @@ def c52():
     neigh(fx, tsc + 0.6, -5, -0.3, 3.5, '0863'); neigh(fx, tsc + 2.0, -7, 0.4, 2.5, '1542')
     # then nothing but breath, very low
     for t in np.arange(tmo, L - 2, 4.0): snort(fx, t + R.uniform(0, 1.5), -26, R.uniform(-.4, .4))
-    finish(52, 'drac1-ring-51-v2', N, v, fx)
+    finish(52, 'drac1-ring-51-v3', N, v, fx)
 
 # ═══ 53 — the wolves howl as one; the horses rear and plunge; he beats the calèche; the wolves fall back ═══
 def c53():
@@ -287,7 +302,7 @@ def c53():
     # falling back: a last howl, far off
     wolves(fx, tfb + 1, -22, 0.0, 'wolf-howl.mp3', far=0.8)
     stamps(fx, tvo, tcl, 1.0, -15, seed=532)
-    finish(53, 'drac1-wolves-52-v2', N, v, fx)
+    finish(53, 'drac1-wolves-52-v3', N, v, fx)
 
 # ═══ 54 — climbing on; ascending, quick descents; pulled up on the stones of the courtyard ═══
 def c54():
@@ -310,7 +325,7 @@ def c54():
     for t in np.arange(tas + 1, tqd, 3.0): snort(fx, t, -18, R.uniform(-.5, .5))
     snort(fx, tpu + 5.8, -10, -0.3)
     put(fx, reverb(norm(one('0496')[:int(1.5 * SR)], -20), 2.4, 0.5, 5)[:, None] * np.array([[0.7, 0.7]]), tpu + 6.5, -10)
-    finish(54, 'drac1-castle-53-v2', N, v, fx)
+    finish(54, 'drac1-castle-53-v3', N, v, fx)
 
 if __name__ == '__main__':
     todo = sys.argv[1:] or ['30', '31', '34', '35', '46', '48', '49', '50', '51', '52', '53', '54']

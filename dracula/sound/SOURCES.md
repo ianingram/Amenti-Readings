@@ -191,3 +191,18 @@ Build: `build-hooves-engine.py`, `build-hooves.py` (seed 1897).
 | #0284, #0460, #0863, #1541, #1542 neighs; #0285–0287, #1543 breath | the horses | CC0 |
 | #2450, #2451 *Dog singing*; #2953 *Pack of dogs* | the farmhouse dogs | CC0 |
 | folder `wolves.mp3`, `wolf-howl.mp3`, `wind.mp3`, `thunder.mp3`, `match.mp3`, `cart.mp3` | as before | as listed above |
+
+## Chapter I — the departure and the dawn (28 Oct 2026)
+
+Ian: low strings and cellos for the boarding, French horns as daylight appears, more sound.
+`drac1-munich-3-v1.mp3` (cue 3, 88 s) replaces `drac1-munich-2-v1.mp3`; `score-dawn.mp3`
+is cue 4's score (first light), handing back to the journey theme at cue 5. Build:
+`build-departure.py`.
+
+| Recording | Use | Licence |
+|---|---|---|
+| BigSoundBank #3021 *Steam locomotive, starting*; #3016, #3018 *Steam locomotive*; #3020 *Between two wagons* | the engine standing, starting, running | CC0 |
+| #0226 *Whistling train*; #0227, #0228 *Hiss of steam train* | whistle and steam | CC0 |
+| #3515 *Crowd of 50–60 people* (filtered, under the station roof) | the hall | CC0 |
+| #0979 *Footsteps of horses*, hoof engine strikes | the coach and its black horses | CC0 |
+| VSCO 2 Community Edition: cello, viola and violin sections, F horn | the music | CC0 |

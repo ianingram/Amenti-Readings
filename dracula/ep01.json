@@ -30,10 +30,6 @@
   "cues": [
     {
       "n": 1,
-      "score": {
-        "key": "journey",
-        "xfade": 3
-      },
       "para": 0,
       "role": "Narrator",
       "cast": "Bram Stoker",
@@ -52,7 +48,7 @@
       "role": "Narrator",
       "cast": "Bram Stoker",
       "text": "( Kept in shorthand. )",
-      "audio": "https://ianingram.github.io/Amenti-Readings/dracula/sound/drac1-munich-2-v1.mp3"
+      "audio": "https://ianingram.github.io/Amenti-Readings/dracula/sound/drac1-munich-3-v1.mp3"
     },
     {
       "n": 4,
@@ -65,11 +61,21 @@
       "audio": "https://ianingram.github.io/Amenti-Readings/dracula/sound/drac1-train-3-v1.mp3",
       "sfx": [
         "loco_whistle"
+      ],
+      "score": [
+        {
+          "key": "dawn",
+          "xfade": 2
+        }
       ]
     },
     {
       "n": 5,
       "score": [
+        {
+          "key": "journey",
+          "xfade": 8
+        },
         {
           "key": "under_light",
           "at": "came after nightfall to Klausenburgh",

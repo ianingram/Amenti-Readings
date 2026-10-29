@@ -925,8 +925,20 @@
     "at": "Buda-Pesth seems a wonderful place",
     "caption": "Buda-Pesth",
     "images": [
-     "ch01-window-view-0.mp4",
-     "ch01-bp-streets-0.jpg",
+     "ch01-bp-danube-0.mp4"
+    ]
+   },
+   {
+    "from": 4,
+    "at": "I feared to go very far from the station",
+    "images": [
+     "ch01-bp-streets-1.mp4"
+    ]
+   },
+   {
+    "from": 4,
+    "at": "the most western of splendid bridges",
+    "images": [
      "ch01-d01-1.mp4",
      "ch01-bp-east-0.jpg"
     ]
@@ -936,6 +948,7 @@
     "caption": "",
     "images": [
      "ch01-bp-bridge-0.jpg",
+     "ch01-window-view-0.mp4",
      "ch01-r5-2.jpg",
      "ch01-r1-2.jpg",
      "ch01-r2-3.jpg",

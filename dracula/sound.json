@@ -14,7 +14,8 @@
       "chapel": "chapel.mp3",
       "river": "river.mp3",
       "port": "port.mp3",
-      "train": "train-run.mp3"
+      "train": "train-run.mp3",
+      "hearth": "hearth.mp3"
     },
     "oneshots": {
       "door_heavy": "door_heavy.mp3",
@@ -246,6 +247,19 @@
         "0": 0.002,
         "1": 1.0
       }
+    },
+    "hearth": {
+      "note": "30 Oct 2026, Ian: the hollow roar and the crackling fire as Harker enters the Count's rooms, through supper and the talk by the fire (ch II cues 17–34). Close, open hearth: crackle (BigSoundBank #2855) over a low chimney roar (#2856, low-passed). Back to the castle bed at 7 May.",
+      "progressive": false,
+      "levels": {
+        "1": 1.6
+      },
+      "layers": [
+        "open hearth crackle 37s",
+        "chimney roar 53s",
+        "crackle again 71s"
+      ],
+      "build": "ONE 96 s file, three loops at different rates and offsets."
     }
   },
   "oneshots": {

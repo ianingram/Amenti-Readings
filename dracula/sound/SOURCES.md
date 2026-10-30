@@ -206,3 +206,8 @@ is cue 4's score (first light), handing back to the journey theme at cue 5. Buil
 | #3515 *Crowd of 50–60 people* (filtered, under the station roof) | the hall | CC0 |
 | #0979 *Footsteps of horses*, hoof engine strikes | the coach and its black horses | CC0 |
 | VSCO 2 Community Edition: cello, viola and violin sections, F horn | the music | CC0 |
+
+## The hearth, chapter 2 (30 Oct 2026) — BigSoundBank, CC0
+| File | Source | License |
+|---|---|---|
+| `hearth.mp3` | #2855 *Fireplace* (crackle, high-passed 120 Hz) over #2856 *Fireplace* (low-passed 320 Hz: the hollow roar up the chimney); 96 s, levelled to the castle fire | CC0 |

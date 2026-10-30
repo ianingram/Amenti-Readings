@@ -133,6 +133,13 @@ text.top{stroke:none;paint-order:normal}
 .embed .bwhere{font-size:clamp(8px,.85vw,12.5px)}
 .embed .quote{max-width:min(560px,44%)}
 @media (max-width:620px){#bcard{grid-template-columns:1fr}}
+/* 30 Oct 2026, Ian: inside the reading the painting follows the map full-screen — never a small inset to click */
+.embed #bcard,.embed #bcard.R{inset:0;top:0;left:0;right:0;bottom:0;width:100%;height:100%;display:block;border:0;box-shadow:none;background:#05070a}
+.embed #bcard:not([hidden]){animation:cardfade 1.6s ease}
+@keyframes cardfade{from{opacity:0}to{opacity:1}}
+.embed .bimg{position:absolute;inset:0;aspect-ratio:auto;border:0;cursor:default}
+.embed .btxt{position:absolute;top:3%;left:2%;max-width:60%;background:rgba(241,231,205,.94);border:1px solid #3b2a17;z-index:2}
+.embed .quote{z-index:4}
 @media (prefers-reduced-motion:reduce){.bimg .f,.bimg .f.on{transition:opacity .4s;transform:none}.bcard:not([hidden]){animation:none}}
 </style>
 </head><body>
@@ -343,8 +350,10 @@ function showTo(i,fromClick){var instant=fromClick;
     if(s){quote.classList.remove('on');setTimeout(function(){quote.innerHTML='<b></b>';quote.querySelector('b').textContent=s.head;quote.appendChild(document.createTextNode('“'+s.q+'”'));quote.classList.add('on');},fromClick?0:350);
       hideCard();if(S[i+1]&&S[i+1].pic)preload(CARDS[S[i+1].pic]);
       if(s.pic&&CARDS[s.pic]){var B=CARDS[s.pic],end=S[i+1]?S[i+1].abs:SPEECH,dur=Math.max(4,end-s.abs-2.2);
+        /* 30 Oct, Ian: in the reading the painting FOLLOWS the map — the map and its arrows first, then the picture fills the screen, no click */
+        var wait=EMBED?Math.min(10,Math.max(5,dur*0.4)):2.2;if(EMBED)dur=Math.max(4,dur-wait+2.2);
         var per=Math.min(12,Math.max(4.5,dur/Math.max(1,B.imgs.length)));
-        if(fromClick)showCard(B,true,per,s.side);else cardWait=setTimeout(function(){showCard(B,true,per,s.side);},2200);}}
+        if(fromClick&&!EMBED)showCard(B,true,per,s.side);else cardWait=setTimeout(function(){showCard(B,true,per,s.side);},wait*1000);}}
     else{quote.classList.remove('on');}}}
 /* the player's clock: time since the current cue began, held while paused */
 /* t = seconds into the cue where he names it, measured from the archived recording of the reading */

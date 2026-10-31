@@ -69,6 +69,13 @@
   'use strict';
   var A = window.Amenti || {}, R = A.reading;
   if (!R) { console.warn('[art] Amenti.reading is missing — load art.js after reader.js. No pictures.'); return; }
+  /* 31 Oct, Ian: back / forward must bring the picture with them. A jump (any seek) re-places the
+     picture straight from the text position — no one-step-at-a-time, and it may go backwards. */
+  var jumped = false;
+  if (typeof R.seek === 'function' && !R._artWrapped) {
+    var seek0 = R.seek; R._artWrapped = true;
+    R.seek = function () { jumped = true; return seek0.apply(R, arguments); };
+  }
 
   var ROOT = 'https://ianingram.github.io/Amenti-Readings/';
   var MIN_HOLD = 9;       /* no picture is shown for less than this, in seconds of reading */
@@ -285,6 +292,7 @@
     lastTick = tnow0;
     if (R.state === 'reading') clock += dt;
     var ckey = work + ':' + sh.episode + ':' + n;
+    if (jumped) cueAt.key = '';
     if (ckey !== cueAt.key) {
       /* a spoken cue just finished: learn the voice's rate from it (recorded cues keep their own clock) */
       var took = clock - cueAt.start;
@@ -303,11 +311,15 @@
     exhibits(work, art, sh, n, exLast ? Math.min(1, tnow - exLast) : 0, c, frac); exLast = tnow;
     if (!sc) { hideStage(); return; }
     var key = work + ':' + sh.episode + ':' + sc.from + (sc.at ? '@' + sc.at : '');
-    if (key !== cur.key) {
-      cur.key = key; cur.scene = sc; cur.k = 0; cur.since = clock;
-      showImage(url(work, art, sc.images[0]), !!sc.cut && shown, sc.caption || '');
+    var jump = jumped; jumped = false;
+    if (key !== cur.key || jump) {
+      var k0 = jump ? wantAt(sh, list, sc, n, frac) : 0;
+      if (key === cur.key && k0 === cur.k) return;      /* jumped, but this picture is already the right one */
+      cur.key = key; cur.scene = sc; cur.k = k0; cur.since = clock;
+      showImage(url(work, art, sc.images[k0]), !!sc.cut && shown, key !== cur._capKey ? (sc.caption || '') : undefined);
+      cur._capKey = key;
       if (!shown) { stage.classList.add('on'); shown = true; }
-      sc.images.slice(1, 2).forEach(function (f) { preload(url(work, art, f)); });
+      sc.images.slice(k0 + 1, k0 + 2).forEach(function (f) { preload(url(work, art, f)); });
       var nx = list[list.indexOf(sc) + 1];
       if (nx && nx.images && nx.images[0]) preload(url(work, art, nx.images[0]));
       return;
@@ -327,6 +339,16 @@
       showImage(url(work, art, sc.images[cur.k]), false);
       if (cur.k + 1 < N) preload(url(work, art, sc.images[cur.k + 1]));
     }
+  }
+
+  /* which picture of a scene the text position calls for (used after a jump) */
+  function wantAt(sh, list, sc, n, frac) {
+    var N = sc.images.length; if (N < 2) return 0;
+    var W = words(sh), from = startOf(sh, sc), nx = list[list.indexOf(sc) + 1];
+    var to = nx ? startOf(sh, nx) : W.total;
+    var pos = (W.before[n] || 0) + (frac || 0) * (W.count[n] || 0);
+    var prog = to > from ? (pos - from) / (to - from) : 0;
+    return Math.max(0, Math.min(N - 1, Math.floor(prog * N)));
   }
 
   setInterval(function () { try { tick(false); } catch (e) { console.warn('[art]', e); } }, 250);

@@ -362,7 +362,10 @@
   /* a line that is spoken — stage directions are skipped when stepping */
   function spokenIdx(i, dir) {
     var cs = cues(); i += dir;
-    while (i >= 0 && i < cs.length && /^stage direction/i.test(cs[i].role || '')) i += dir;
+    /* 31 Oct, Ian: skip stage directions, and lines of a word or two ("he answered.") that
+       would play in a second and carry the reading straight back to where it was */
+    var tiny = function (c) { var m = String(c.text || '').match(/\S+/g); return !m || m.length < 5; };
+    while (i >= 0 && i < cs.length && (/^stage direction/i.test(cs[i].role || '') || tiny(cs[i]))) i += dir;
     return Math.max(0, Math.min(cs.length - 1, i));
   }
   function back() { if (R.unlock) R.unlock(); if (!cues().length) return; R.seek(spokenIdx(R.i, -1) + 1); if (R.state === 'paused') R.resume(); }

@@ -21,7 +21,7 @@
      "episodes": { "2": [ { "from": 1, "caption": "…", "cut": false,
                             "images": ["ch02-a1-2.jpg", …] }, … ] } }
    An entry ending in .mp4 is a moving picture (a Midjourney clip): it plays
-   silent and on a loop while it is up, freezes while the reading is paused,
+   silent, once, and rests on its last frame while it is up ("loop": true on the scene cycles it), freezes while the reading is paused,
    and crossfades like a painting. The narration, score and effects are
    untouched — a clip has no sound of its own here.
    A scene starts on the cue whose "n" equals "from" and lasts until the next
@@ -233,13 +233,14 @@
   }
 
   function isVid(u) { return /\.mp4(\?|$)/i.test(u); }
+  var loopVid = false;   /* set per scene with "loop": true for a clip meant to cycle (water, fire) */
   function showImage(u, cut, caption, move, dur) {
     var l = document.createElement('div'), vid = isVid(u);
     l.className = 'art-l' + (cut ? ' cut' : '') + (still || vid ? '' : (move ? ' mv-' + move : ' kb' + (flip++ % 2)));
     if (move && dur) l.style.setProperty('--mvd', Math.max(3, Math.min(60, dur)) + 's');
     if (vid) {
       var v = document.createElement('video');
-      v.muted = true; v.defaultMuted = true; v.loop = true; v.playsInline = true; v.autoplay = true;
+      v.muted = true; v.defaultMuted = true; v.loop = !!loopVid;   /* 31 Oct, Ian: a clip plays once and rests on its last frame */ v.playsInline = true; v.autoplay = true;
       v.setAttribute('muted', ''); v.setAttribute('playsinline', ''); v.preload = 'auto'; v.src = u;
       v.style.cssText = 'position:absolute;inset:0;width:100%;height:100%;object-fit:cover;';
       l.appendChild(v);
@@ -336,7 +337,7 @@
     var sc = list ? sceneAt(sh, list, n, frac) : null;
     stage.classList.toggle('hold', R.state !== 'reading');
     var vs = stage.getElementsByTagName('video');
-    for (var vi = 0; vi < vs.length; vi++) { try { if (R.state === 'reading') { if (vs[vi].paused) { var pp = vs[vi].play(); if (pp && pp.catch) pp.catch(function () {}); } } else if (!vs[vi].paused) vs[vi].pause(); } catch (e) {} }
+    for (var vi = 0; vi < vs.length; vi++) { try { if (R.state === 'reading') { if (vs[vi].paused && !vs[vi].ended) { var pp = vs[vi].play(); if (pp && pp.catch) pp.catch(function () {}); } } else if (!vs[vi].paused) vs[vi].pause(); } catch (e) {} }
     var tnow = Date.now() / 1000;
     exhibits(work, art, sh, n, exLast ? Math.min(1, tnow - exLast) : 0, c, frac); exLast = tnow;
     if (!sc) { hideStage(); return; }
@@ -346,7 +347,7 @@
       var k0 = jump ? wantAt(sh, list, sc, n, frac) : 0;
       if (key === cur.key && k0 === cur.k) return;      /* jumped, but this picture is already the right one */
       cur.key = key; cur.scene = sc; cur.k = k0; cur.since = clock;
-      showImage(url(work, art, sc.images[k0]), !!sc.cut && shown, key !== cur._capKey ? (sc.caption || '') : undefined, moveOf(sc, k0), holdOf(sh, list, sc));
+      loopVid = !!sc.loop; showImage(url(work, art, sc.images[k0]), !!sc.cut && shown, key !== cur._capKey ? (sc.caption || '') : undefined, moveOf(sc, k0), holdOf(sh, list, sc));
       stage.classList.toggle('ride', !!sc.ride && !still); stage.classList.toggle('fast', sc.ride === 'fast' && !still);
       cur._capKey = key;
       if (!shown) { stage.classList.add('on'); shown = true; }
@@ -372,7 +373,7 @@
     var want = Math.min(N - 1, Math.floor(prog * N));
     if (want > cur.k && clock - cur.since >= (sc.hold || MIN_HOLD)) {
       cur.k += 1; cur.since = clock;         /* one step at a time: every picture is seen */
-      showImage(url(work, art, sc.images[cur.k]), !!sc.cuts, undefined, moveOf(sc, cur.k), holdOf(sh, list, sc));
+      loopVid = !!sc.loop; showImage(url(work, art, sc.images[cur.k]), !!sc.cuts, undefined, moveOf(sc, cur.k), holdOf(sh, list, sc));
       sc.images.slice(cur.k + 1, cur.k + 1 + (sc.hold ? 3 : 1)).forEach(function (f) { preload(url(work, art, f)); });
     }
   }

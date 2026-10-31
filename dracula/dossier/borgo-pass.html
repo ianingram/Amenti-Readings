@@ -336,7 +336,7 @@ function stop(){cancelAnimationFrame(raf);clearTimeout(timer);card.hidden=true;c
 function showTo(i,quiet){stop();zoom(i>=4,true);setLeg(i,1);mark(i);place(i,1);if(!quiet)flash(ARR[i],i>=4);}
 /* play legs a..b (the whole journey by default). Inside a reading the page is shown with ?embed&legs=a-b,
    and tells the reader when it is done; the reader can pause and resume it. */
-var paused=false,pausedAt=0,onDone=null;
+var paused=false,pausedAt=0,onDone=null,holdTo=0,holdFrom=0;
 function play(a,b){stop();a=a||0;b=(b==null)?LEGS.length-1:b;
   if(reduce){showTo(b);if(onDone)timer=setTimeout(onDone,6000);return;}
   var i=a,t0=null,shown={};
@@ -348,9 +348,11 @@ function play(a,b){stop();a=a||0;b=(b==null)?LEGS.length-1:b;
   } else {zoom(a>=4,true);place(a,0);flash(a===0?'munich':ARR[a-1],a>=4);go();}
   function step(ts){if(paused){if(!pausedAt)pausedAt=ts;raf=requestAnimationFrame(step);return;}
     if(pausedAt){if(t0!==null)t0+=ts-pausedAt;pausedAt=0;}
+    /* 31 Oct, Ian: a bridge card holds the train where it is (it used to rewind it to the station) */
+    if(holdTo){if(ts<holdTo){raf=requestAnimationFrame(step);return;}t0+=ts-holdFrom;holdTo=0;}
     if(t0===null)t0=ts;var L=LEGS[i],f=Math.max(0,Math.min(1,(ts-t0)/(L.secs*1000)));
     var hit=null;BRIDGES.forEach(function(B,k){if(B.leg===i&&!shown[k]){var e0=f<.5?2*f*f:1-Math.pow(-2*f+2,2)/2;if(L.len*e0>=B.at){shown[k]=1;hit=B;}}});
-    if(hit){showBridge(hit,false);t0+=5400;}
+    if(hit){showBridge(hit,false);holdFrom=ts;holdTo=ts+5400;}
     var e=f<.5?2*f*f:1-Math.pow(-2*f+2,2)/2;setLeg(i,e);place(i,e);
     if(f>=1){flash(ARR[i],i>=4);if(i===b){if(onDone)timer=setTimeout(onDone,3200);return;}
       if(i===3){ /* Bistritz: hold for the flash, then go down into the mountains */

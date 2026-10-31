@@ -277,13 +277,26 @@
     ]
    },
    {
-    "from": 82,
+    "from": 83,
     "caption": "8 May · the shaving glass",
     "images": [
-     "ch02-h1-2.jpg",
-     "ch02-h1-4.jpg",
-     "ch02-h1-1.jpg",
-     "ch02-h1-3.jpg"
+     "ch02-m-glass-3.jpg",
+     "ch02-m-glass-1.jpg"
+    ],
+    "move": [
+     "push",
+     "pull"
+    ]
+   },
+   {
+    "from": 83,
+    "at": "Suddenly I felt a hand",
+    "cut": true,
+    "images": [
+     "ch02-h1-2.jpg"
+    ],
+    "move": [
+     "push"
     ]
    },
    {

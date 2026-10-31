@@ -1217,7 +1217,8 @@
      "ch01-r-cleft-1.jpg",
      "ch01-r-pass-0.jpg",
      "ch01-r-pass-1.jpg",
-     "ch01-r-pass-2.jpg", "ch01-r-pass-3.mp4",
+     "ch01-r-pass-2.jpg",
+     "ch01-r-pass-3.mp4",
      "ch01-r-east-0.jpg",
      "ch01-r-thunder-0.mp4",
      "ch01-r-thunder-1.mp4",
@@ -1281,12 +1282,64 @@
    },
    {
     "from": 50,
-    "caption": "",
+    "caption": "The tunnel of trees",
+    "ride": "fast",
+    "cuts": true,
+    "hold": 3,
+    "pace": 1,
     "images": [
-     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch01-n04-1-air.mp4",
-     "ch01-n04-4.jpg",
-     "ch01-n04-2.jpg",
-     "ch01-n04-3.jpg"
+     "ch01-tn-03.jpg",
+     "ch01-tn-01.jpg",
+     "ch01-tn-13.jpg",
+     "ch01-tn-10.jpg"
+    ],
+    "move": [
+     "rush",
+     "whipr",
+     "rush",
+     "drop"
+    ]
+   },
+   {
+    "from": 50,
+    "at": "great frowning rocks",
+    "ride": "fast",
+    "cuts": true,
+    "hold": 4,
+    "pace": 1,
+    "images": [
+     "ch01-tn-22.jpg",
+     "ch01-tn-20.jpg",
+     "ch01-tn-23.jpg",
+     "ch01-tn-21.jpg"
+    ],
+    "move": [
+     "whipl",
+     "rush",
+     "whipr",
+     "drop"
+    ]
+   },
+   {
+    "from": 50,
+    "at": "fine, powdery snow began to fall",
+    "ride": "fast",
+    "cuts": true,
+    "hold": 5,
+    "pace": 1,
+    "images": [
+     "ch01-tn-31.jpg",
+     "ch01-tn-33.jpg",
+     "ch01-tn-32.jpg",
+     "ch01-tn-30.jpg",
+     "ch01-tn-11.jpg"
+    ],
+    "move": [
+     "rush",
+     "whipl",
+     "push",
+     "whipr",
+     "rush"
     ]
    },
    {

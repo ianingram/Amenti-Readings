@@ -122,10 +122,21 @@
       + '@keyframes artpanl{from{transform:scale(1.14) translateX(3.5%)}to{transform:scale(1.14) translateX(-3.5%)}}'
       + '@keyframes artpanr{from{transform:scale(1.14) translateX(-3.5%)}to{transform:scale(1.14) translateX(3.5%)}}'
       + '@keyframes artrise{from{transform:scale(1.14) translateY(3%)}to{transform:scale(1.14) translateY(-3%)}}'
+      /* 31 Oct, Ian: the race through the tunnel of trees — quick, hard moves ("rush", "whipl", "whipr", "drop") */
+      + '#amenti-art .art-l.mv-rush{animation:artrush var(--mvd,8s) cubic-bezier(.5,0,.9,.6) forwards;}'
+      + '#amenti-art .art-l.mv-whipl{animation:artwhipl var(--mvd,8s) cubic-bezier(.6,0,.3,1) forwards;}'
+      + '#amenti-art .art-l.mv-whipr{animation:artwhipr var(--mvd,8s) cubic-bezier(.6,0,.3,1) forwards;}'
+      + '#amenti-art .art-l.mv-drop{animation:artdrop var(--mvd,8s) cubic-bezier(.1,.6,.3,1) forwards;}'
+      + '@keyframes artrush{from{transform:scale(1.02)}to{transform:scale(1.34)}}'
+      + '@keyframes artwhipl{from{transform:scale(1.2) translateX(7%)}to{transform:scale(1.24) translateX(-6%)}}'
+      + '@keyframes artwhipr{from{transform:scale(1.2) translateX(-7%)}to{transform:scale(1.24) translateX(6%)}}'
+      + '@keyframes artdrop{from{transform:scale(1.36) translateY(-2%)}to{transform:scale(1.03) translateY(0)}}'
       + '@keyframes artsink{from{transform:scale(1.14) translateY(-3%)}to{transform:scale(1.14) translateY(3%)}}'
       /* the coach on a rugged road: a slow sway and jolt under the whole picture ("ride": true) */
       + '#amenti-art.ride{animation:artride 2.7s ease-in-out infinite;}'
       + '@keyframes artride{0%{transform:translate(0,0) rotate(0)}22%{transform:translate(.15%,-.35%) rotate(.12deg)}47%{transform:translate(-.1%,.15%) rotate(-.08deg)}61%{transform:translate(.05%,-.25%) rotate(.05deg)}100%{transform:translate(0,0) rotate(0)}}'
+      + '#amenti-art.ride.fast{animation:artgallop .62s linear infinite;}'
+      + '@keyframes artgallop{0%{transform:translate(0,0) rotate(0)}18%{transform:translate(.25%,-.7%) rotate(.18deg)}36%{transform:translate(-.1%,.3%) rotate(-.1deg)}55%{transform:translate(-.3%,-.5%) rotate(-.2deg)}75%{transform:translate(.1%,.25%) rotate(.08deg)}100%{transform:translate(0,0) rotate(0)}}'
       + '#amenti-art.hold.ride{animation-play-state:paused;}'
       + '#amenti-art .art-veil{position:absolute;inset:0;pointer-events:none;'
       + 'background:linear-gradient(180deg,rgba(5,7,10,.55) 0%,rgba(5,7,10,0) 18%,rgba(5,7,10,0) 72%,rgba(5,7,10,.6) 100%);}'
@@ -224,7 +235,7 @@
   function showImage(u, cut, caption, move, dur) {
     var l = document.createElement('div'), vid = isVid(u);
     l.className = 'art-l' + (cut ? ' cut' : '') + (still || vid ? '' : (move ? ' mv-' + move : ' kb' + (flip++ % 2)));
-    if (move && dur) l.style.setProperty('--mvd', Math.max(10, Math.min(60, dur)) + 's');
+    if (move && dur) l.style.setProperty('--mvd', Math.max(3, Math.min(60, dur)) + 's');
     if (vid) {
       var v = document.createElement('video');
       v.muted = true; v.defaultMuted = true; v.loop = true; v.playsInline = true; v.autoplay = true;
@@ -292,7 +303,7 @@
 
   function hideStage() {
     if (stage && shown) { stage.classList.remove('on'); shown = false; }
-    cur.key = ''; cur.scene = null; if (stage) stage.classList.remove('ride');
+    cur.key = ''; cur.scene = null; if (stage) stage.classList.remove('ride', 'fast');
   }
 
   function tick(force) {
@@ -335,7 +346,7 @@
       if (key === cur.key && k0 === cur.k) return;      /* jumped, but this picture is already the right one */
       cur.key = key; cur.scene = sc; cur.k = k0; cur.since = clock;
       showImage(url(work, art, sc.images[k0]), !!sc.cut && shown, key !== cur._capKey ? (sc.caption || '') : undefined, moveOf(sc, k0), holdOf(sh, list, sc));
-      stage.classList.toggle('ride', !!sc.ride && !still);
+      stage.classList.toggle('ride', !!sc.ride && !still); stage.classList.toggle('fast', sc.ride === 'fast' && !still);
       cur._capKey = key;
       if (!shown) { stage.classList.add('on'); shown = true; }
       sc.images.slice(k0 + 1, k0 + 2).forEach(function (f) { preload(url(work, art, f)); });
@@ -353,9 +364,9 @@
     var pos = (W.before[n] || 0) + frac * (W.count[n] || 0);
     var prog = to > from ? (pos - from) / (to - from) : 0;
     var want = Math.min(N - 1, Math.floor(prog * N));
-    if (want > cur.k && clock - cur.since >= MIN_HOLD) {
+    if (want > cur.k && clock - cur.since >= (sc.hold || MIN_HOLD)) {
       cur.k += 1; cur.since = clock;         /* one step at a time: every picture is seen */
-      showImage(url(work, art, sc.images[cur.k]), false, undefined, moveOf(sc, cur.k), holdOf(sh, list, sc));
+      showImage(url(work, art, sc.images[cur.k]), !!sc.cuts, undefined, moveOf(sc, cur.k), holdOf(sh, list, sc));
       if (cur.k + 1 < N) preload(url(work, art, sc.images[cur.k + 1]));
     }
   }
@@ -369,7 +380,7 @@
   function holdOf(sh, list, sc) {           /* rough seconds each picture of the scene is up */
     var W = words(sh), from = startOf(sh, sc), nx = list[list.indexOf(sc) + 1];
     var to = nx ? startOf(sh, nx) : W.total;
-    return ((to - from) / Math.max(rate, 0.5)) / Math.max(1, sc.images.length) + 3;
+    return Math.max(sc.hold || 0, (((to - from) / Math.max(rate, 0.5)) / Math.max(1, sc.images.length) + (sc.pace ? 0.5 : 3)) * (sc.pace || 1));
   }
   /* which picture of a scene the text position calls for (used after a jump) */
   function wantAt(sh, list, sc, n, frac) {

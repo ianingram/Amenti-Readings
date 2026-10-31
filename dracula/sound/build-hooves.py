@@ -327,6 +327,37 @@ def c54():
     put(fx, reverb(norm(one('0496')[:int(1.5 * SR)], -20), 2.4, 0.5, 5)[:, None] * np.array([[0.7, 0.7]]), tpu + 6.5, -10)
     finish(54, 'drac1-castle-53-v3', N, v, fx)
 
+# ═══ 50 v4 (31 Oct, Ian): the tunnel as a frightening race — full gallop, the whip, rocks echoing ═══
+def c50v4():
+    N, v, s, res = setup(50); fx = np.zeros((N, 2), np.float32); L = N / SR
+    trk = T(s, 'great frowning rocks'); trw = T(s, 'we could hear the rising wind')
+    tbr = T(s, 'the branches of the trees crashed together'); tsw = T(s, 'as we swept along')
+    tsn = T(s, 'fine, powdery snow began to fall')
+    tdg = T(s, 'The keen wind still carried the howling of the dogs'); twn = T(s, 'The baying of the wolves sounded nearer')
+    taf = T(s, 'I grew dreadfully afraid'); tdv = T(s, 'The driver, however')
+    sp = curve([(0, 3.9), (1.0, 4.2), (tsn + 10, 4.0), (taf, 4.3), (L, 4.3)], N)
+    snow = curve([(0, 0), (tsn, 0.05), (tsn + 14, 0.55), (L, 0.6)], N)
+    rock = curve([(0, 0), (trk - 0.5, 0), (trk + 1, 1), (tsn - 2, 1), (tsn + 4, 0.2), (L, 0.2)], N)
+    lev = curve([(0, -10), (trw, -12), (tsn + 10, -11.5), (taf, -10), (L, -10)], N)
+    road = team(N, sp, 'road', 4, -2.0, seed=601, snow=snow)
+    echo = reverb(road[:, 0], 1.6, 0.4, 5)[:, None] * np.array([[0.8, 0.8]])
+    fx += (road * (1 - 0.35 * rock)[:, None] + echo * (0.6 * rock)[:, None]) * db(lev)[:, None]
+    fx += wheels(N, sp, 602) * db(lev - 0.5)[:, None] * (1 - 0.4 * snow)[:, None]
+    fx += creaks(N, list(np.arange(0.8, L, 2.3) + R.uniform(0, .6, len(np.arange(0.8, L, 2.3)))), 603)[:N] * db(-6)
+    fx += wind(N, 0, [(0, 0.2), (trw, 0.3), (trw + 5, 0.7), (tsn + 10, 0.6), (L, 0.65)]) * db(-5)
+    # the whip: the driver lashing them on into the dark, again as the wolves close
+    for t in [0.4, 1.3, 2.0, 6.5, 7.1, trk + 1.2, tsw + 0.3, tsw + 0.9, twn + 2.5, taf + 0.5, taf + 1.1, tdv - 1.0]:
+        if 0 < t < L - 1: whip(fx, t, -4)
+    # branches crashing overhead
+    for t in [tbr + 0.2, tbr + 1.1, tbr + 2.4, tbr + 5]:
+        put(fx, reverb(hp(norm(one('1316')[:int(0.9 * SR)], -16), 400), 1.2, 0.35), t, -10, R.uniform(-.7, .7))
+    for t in [1.8, trk + 3, taf + 2]: neigh(fx, t, -12, R.uniform(-.4, .4))
+    dog(fx, tdg + 0.5, -24, 0.7); dog(fx, tdg + 4, -27, -0.6)
+    wolves(fx, twn, -14, -0.7, far=0.5); wolves(fx, twn + 6, -11, 0.6, 'wolf-howl.mp3', far=0.25)
+    wolves(fx, tdv - 2, -10, -0.3, far=0.15, dur=14)
+    for t in [taf + 1, taf + 3, taf + 5]: snort(fx, t, -11, R.uniform(-.5, .5))
+    finish(50, 'drac1-tunnel-49-v4', N, v, fx)
+
 if __name__ == '__main__':
     todo = sys.argv[1:] or ['30', '31', '34', '35', '46', '48', '49', '50', '51', '52', '53', '54']
     for k in todo: globals()['c' + k]()

@@ -110,6 +110,23 @@
       + '#amenti-art.hold .art-l{animation-play-state:paused;}'
       + '@keyframes artkb0{from{transform:scale(1) translate(0,0)}to{transform:scale(1.07) translate(-1.2%,-.8%)}}'
       + '@keyframes artkb1{from{transform:scale(1.07) translate(1%,.6%)}to{transform:scale(1) translate(0,0)}}'
+      /* 31 Oct, Ian: documentary camera moves, named per scene in art.json ("move") */
+      + '#amenti-art .art-l.mv-push{animation:artpush var(--mvd,24s) ease-in-out forwards;}'
+      + '#amenti-art .art-l.mv-pull{animation:artpull var(--mvd,24s) ease-in-out forwards;}'
+      + '#amenti-art .art-l.mv-panl{animation:artpanl var(--mvd,24s) ease-in-out forwards;}'
+      + '#amenti-art .art-l.mv-panr{animation:artpanr var(--mvd,24s) ease-in-out forwards;}'
+      + '#amenti-art .art-l.mv-rise{animation:artrise var(--mvd,24s) ease-in-out forwards;}'
+      + '#amenti-art .art-l.mv-sink{animation:artsink var(--mvd,24s) ease-in-out forwards;}'
+      + '@keyframes artpush{from{transform:scale(1.02)}to{transform:scale(1.16)}}'
+      + '@keyframes artpull{from{transform:scale(1.16)}to{transform:scale(1.02)}}'
+      + '@keyframes artpanl{from{transform:scale(1.14) translateX(3.5%)}to{transform:scale(1.14) translateX(-3.5%)}}'
+      + '@keyframes artpanr{from{transform:scale(1.14) translateX(-3.5%)}to{transform:scale(1.14) translateX(3.5%)}}'
+      + '@keyframes artrise{from{transform:scale(1.14) translateY(3%)}to{transform:scale(1.14) translateY(-3%)}}'
+      + '@keyframes artsink{from{transform:scale(1.14) translateY(-3%)}to{transform:scale(1.14) translateY(3%)}}'
+      /* the coach on a rugged road: a slow sway and jolt under the whole picture ("ride": true) */
+      + '#amenti-art.ride{animation:artride 2.7s ease-in-out infinite;}'
+      + '@keyframes artride{0%{transform:translate(0,0) rotate(0)}22%{transform:translate(.15%,-.35%) rotate(.12deg)}47%{transform:translate(-.1%,.15%) rotate(-.08deg)}61%{transform:translate(.05%,-.25%) rotate(.05deg)}100%{transform:translate(0,0) rotate(0)}}'
+      + '#amenti-art.hold.ride{animation-play-state:paused;}'
       + '#amenti-art .art-veil{position:absolute;inset:0;pointer-events:none;'
       + 'background:linear-gradient(180deg,rgba(5,7,10,.55) 0%,rgba(5,7,10,0) 18%,rgba(5,7,10,0) 72%,rgba(5,7,10,.6) 100%);}'
       + '#amenti-art .art-cap{position:absolute;right:clamp(16px,4vw,44px);top:72px;z-index:3;'
@@ -124,7 +141,7 @@
       + 'font:9px/1 Georgia,serif;letter-spacing:.24em;text-transform:uppercase;padding:9px 12px;cursor:pointer;}'
       + '#amenti-art-tog.on{display:block;}'
       + '#amenti-art-tog.off{color:#6a7a70;}'
-      + (still ? '#amenti-art .art-l{animation:none!important;}' : '');
+      + (still ? '#amenti-art .art-l{animation:none!important;}#amenti-art.ride{animation:none!important;}' : '');
     document.head.appendChild(s);
   }
 
@@ -204,9 +221,10 @@
   }
 
   function isVid(u) { return /\.mp4(\?|$)/i.test(u); }
-  function showImage(u, cut, caption) {
+  function showImage(u, cut, caption, move, dur) {
     var l = document.createElement('div'), vid = isVid(u);
-    l.className = 'art-l' + (cut ? ' cut' : '') + (still || vid ? '' : ' kb' + (flip++ % 2));
+    l.className = 'art-l' + (cut ? ' cut' : '') + (still || vid ? '' : (move ? ' mv-' + move : ' kb' + (flip++ % 2)));
+    if (move && dur) l.style.setProperty('--mvd', Math.max(10, Math.min(60, dur)) + 's');
     if (vid) {
       var v = document.createElement('video');
       v.muted = true; v.defaultMuted = true; v.loop = true; v.playsInline = true; v.autoplay = true;
@@ -274,7 +292,7 @@
 
   function hideStage() {
     if (stage && shown) { stage.classList.remove('on'); shown = false; }
-    cur.key = ''; cur.scene = null;
+    cur.key = ''; cur.scene = null; if (stage) stage.classList.remove('ride');
   }
 
   function tick(force) {
@@ -316,7 +334,8 @@
       var k0 = jump ? wantAt(sh, list, sc, n, frac) : 0;
       if (key === cur.key && k0 === cur.k) return;      /* jumped, but this picture is already the right one */
       cur.key = key; cur.scene = sc; cur.k = k0; cur.since = clock;
-      showImage(url(work, art, sc.images[k0]), !!sc.cut && shown, key !== cur._capKey ? (sc.caption || '') : undefined);
+      showImage(url(work, art, sc.images[k0]), !!sc.cut && shown, key !== cur._capKey ? (sc.caption || '') : undefined, moveOf(sc, k0), holdOf(sh, list, sc));
+      stage.classList.toggle('ride', !!sc.ride && !still);
       cur._capKey = key;
       if (!shown) { stage.classList.add('on'); shown = true; }
       sc.images.slice(k0 + 1, k0 + 2).forEach(function (f) { preload(url(work, art, f)); });
@@ -336,11 +355,22 @@
     var want = Math.min(N - 1, Math.floor(prog * N));
     if (want > cur.k && clock - cur.since >= MIN_HOLD) {
       cur.k += 1; cur.since = clock;         /* one step at a time: every picture is seen */
-      showImage(url(work, art, sc.images[cur.k]), false);
+      showImage(url(work, art, sc.images[cur.k]), false, undefined, moveOf(sc, cur.k), holdOf(sh, list, sc));
       if (cur.k + 1 < N) preload(url(work, art, sc.images[cur.k + 1]));
     }
   }
 
+  /* the camera move for picture k of a scene: "move" is one name or a list, cycled */
+  function moveOf(sc, k) {
+    var m = sc && sc.move; if (!m) return null;
+    if (typeof m === 'string') m = m === 'tour' ? ['push', 'panr', 'pull', 'panl', 'rise'] : [m];
+    return m[k % m.length] || null;
+  }
+  function holdOf(sh, list, sc) {           /* rough seconds each picture of the scene is up */
+    var W = words(sh), from = startOf(sh, sc), nx = list[list.indexOf(sc) + 1];
+    var to = nx ? startOf(sh, nx) : W.total;
+    return ((to - from) / Math.max(rate, 0.5)) / Math.max(1, sc.images.length) + 3;
+  }
   /* which picture of a scene the text position calls for (used after a jump) */
   function wantAt(sh, list, sc, n, frac) {
     var N = sc.images.length; if (N < 2) return 0;

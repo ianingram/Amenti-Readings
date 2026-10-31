@@ -1132,7 +1132,18 @@
      "ch01-y-pine-0.jpg",
      "ch01-y-orchard-2.jpg",
      "ch01-y-orchard-0.jpg"
-    ]
+    ],
+    "move": [
+     "push",
+     "panr",
+     "panr",
+     "push",
+     "panl",
+     "rise",
+     "panr",
+     "pull"
+    ],
+    "ride": true
    },
    {
     "from": 32,
@@ -1142,7 +1153,14 @@
      "ch01-d12-1.jpg",
      "ch01-d12-3.jpg",
      "ch01-d12-4.jpg"
-    ]
+    ],
+    "move": [
+     "panr",
+     "push",
+     "panl",
+     "rise"
+    ],
+    "ride": true
    },
    {
     "from": 33,
@@ -1152,7 +1170,14 @@
      "ch01-d13-2.jpg",
      "ch01-d13-3.jpg",
      "ch01-d13-4.jpg"
-    ]
+    ],
+    "move": [
+     "rise",
+     "push",
+     "panr",
+     "push"
+    ],
+    "ride": true
    },
    {
     "from": 34,
@@ -1173,7 +1198,9 @@
      "ch01-r-ghost-1.jpg",
      "ch01-r-pines-0.jpg",
      "ch01-r-pines-1.jpg"
-    ]
+    ],
+    "move": "tour",
+    "ride": true
    },
    {
     "from": 35,
@@ -1189,7 +1216,20 @@
      "ch01-r-thunder-1.mp4",
      "ch01-r-white-0.jpg",
      "ch01-r-white-1.jpg"
-    ]
+    ],
+    "move": [
+     "push",
+     "panl",
+     "push",
+     "rise",
+     "panr",
+     "push",
+     "sink",
+     "push",
+     "pull",
+     "push"
+    ],
+    "ride": true
    },
    {
     "from": 36,

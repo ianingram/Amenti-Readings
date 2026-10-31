@@ -188,7 +188,8 @@
   }
 
   function url(work, sheet, f) { return /^https?:/.test(f) ? f : ROOT + work + '/' + (sheet.base || '') + f; }
-  function preload(u) { if (/\.mp4(\?|$)/i.test(u)) { var v = document.createElement('video'); v.preload = 'auto'; v.muted = true; v.src = u; return; } var im = new Image(); im.src = u; }
+  var pre = {};
+  function preload(u) { if (pre[u]) return; pre[u] = 1; if (/\.mp4(\?|$)/i.test(u)) { var v = document.createElement('video'); v.preload = 'auto'; v.muted = true; v.src = u; return; } var im = new Image(); im.src = u; }
 
   /* ── WORDS: where the reading is, counted in words ── */
   function wc(t) { var m = String(t || '').match(/\S+/g); return m ? m.length : 0; }
@@ -349,9 +350,14 @@
       stage.classList.toggle('ride', !!sc.ride && !still); stage.classList.toggle('fast', sc.ride === 'fast' && !still);
       cur._capKey = key;
       if (!shown) { stage.classList.add('on'); shown = true; }
-      sc.images.slice(k0 + 1, k0 + 2).forEach(function (f) { preload(url(work, art, f)); });
-      var nx = list[list.indexOf(sc) + 1];
-      if (nx && nx.images && nx.images[0]) preload(url(work, art, nx.images[0]));
+      /* 31 Oct, Ian (old iMac on a hotspot): quick-cut scenes ("hold") fetch three pictures ahead,
+         and the next two scenes, if they are quick, are fetched whole before they start */
+      sc.images.slice(k0 + 1, k0 + 1 + (sc.hold ? 3 : 1)).forEach(function (f) { preload(url(work, art, f)); });
+      var ix = list.indexOf(sc);
+      [list[ix + 1], list[ix + 2]].forEach(function (nx, d) {
+        if (!nx || !nx.images) return;
+        nx.images.slice(0, nx.hold ? nx.images.length : (d ? 0 : 1)).forEach(function (f) { preload(url(work, art, f)); });
+      });
       return;
     }
     if (R.state !== 'reading') return;      /* paused: the clock has stopped, so the pictures hold */
@@ -367,7 +373,7 @@
     if (want > cur.k && clock - cur.since >= (sc.hold || MIN_HOLD)) {
       cur.k += 1; cur.since = clock;         /* one step at a time: every picture is seen */
       showImage(url(work, art, sc.images[cur.k]), !!sc.cuts, undefined, moveOf(sc, cur.k), holdOf(sh, list, sc));
-      if (cur.k + 1 < N) preload(url(work, art, sc.images[cur.k + 1]));
+      sc.images.slice(cur.k + 1, cur.k + 1 + (sc.hold ? 3 : 1)).forEach(function (f) { preload(url(work, art, f)); });
     }
   }
 

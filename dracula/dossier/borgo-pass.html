@@ -99,6 +99,7 @@ text.top{stroke:none;paint-order:normal}
 .embed .map{min-width:0}
 @media (max-width:620px){.bcard{grid-template-columns:1fr}.bimg{min-height:110px;border-right:0;border-bottom:1px solid #3b2a17}}
 @media (prefers-reduced-motion:reduce){.bridge.lit path{animation:none}.stage{transition:none}.arrive text,.arrive circle,.ring{animation:none}.ring{display:none}}
+text.say{animation:say 2.2s ease-in-out}@keyframes say{0%,100%{opacity:1}12%,40%,68%{opacity:.15}26%,54%,82%{opacity:1}}
 </style>
 </head><body>
 <div class="wrap">
@@ -364,7 +365,13 @@ if(qs.has('embed')){ /* inside a reading: the map alone, one or more legs, then 
   document.documentElement.classList.add('embed');
   var lg=(qs.get('legs')||'0-5').split('-').map(Number),la=lg[0]||0,lb2=lg.length>1?lg[1]:la;
   onDone=function(){try{parent.postMessage({amentiMap:'done'},'*');}catch(e){}};
-  addEventListener('message',function(ev){var d=ev.data||{};if(d.amentiMap==='pause')paused=true;else if(d.amentiMap==='resume')paused=false;else if(d.amentiMap==='heard')heard(d.n,d.text||'');});
+  addEventListener('message',function(ev){var d=ev.data||{};if(d.amentiMap==='pause')paused=true;else if(d.amentiMap==='resume')paused=false;else if(d.amentiMap==='heard'){heard(d.n,d.text||'');sayHeard(d.n,d.text||'');}});
+  /* 31 Oct, Ian: a region or people on the map blinks as the reader names it */
+  var SAY=['Transylvania','Moldavia','Bukovina','Wallachia','Hungary','Carpathian','Saxons','Magyars','Szekelys','Wallachs','Danube'],said={},saidN=null;
+  function sayHeard(n,t){if(n!==saidN){saidN=n;said={};}var T=String(t).toLowerCase();
+    SAY.forEach(function(w){var c=T.split(w.toLowerCase()).length-1;if(c>(said[w]||0)){said[w]=c;var W=w.toUpperCase();
+      document.querySelectorAll('svg text').forEach(function(x){if(String(x.textContent||'').toUpperCase().indexOf(W)===0){x.classList.remove('say');void x.getBoundingClientRect();x.classList.add('say');setTimeout(function(){x.classList.remove('say');},2400);}});}});}
+
   /* 31 Oct, Ian: a town flashes on the map as the reader says its name */
   var NAMES=[['Munich','munich'],['Vienna','vienna'],['Buda-Pesth','pesth'],['Klausenburgh','klaus'],['Bistritz','bistritz'],['Borgo','borgo'],['Castle Dracula','castle']],seen={},seenN=null;
   function heard(n,t){if(n!==seenN){seenN=n;seen={};}

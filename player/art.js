@@ -225,7 +225,7 @@
     var fr = document.createElement('iframe'); fr.title = 'Map'; fr.setAttribute('loading', 'eager');
     fr.src = url(work, { base: '' }, x.src) + (x.src.indexOf('?') < 0 ? '?' : '&') + 'embed=1' + (x.legs != null ? '&legs=' + x.legs : '') + '&cue=' + x.at;
     el.appendChild(fr); document.body.appendChild(el);
-    ex = { el: el, frame: fr, key: key, at: x.at, until: x.until || null, run: 0, max: x.max || 40, paused: false };
+    ex = { el: el, frame: fr, key: key, at: x.at, until: x.until || null, untilAt: x.untilAt || null, run: 0, max: x.max || 40, paused: false };
     void el.offsetWidth; el.classList.add('on');
   }
   function closeExhibit(now) {
@@ -236,10 +236,10 @@
   }
   function tellExhibit(msg, n) { try { ex.frame.contentWindow.postMessage({ amentiMap: msg, n: n }, '*'); } catch (e) {} }
   window.addEventListener('message', function (ev) {
-    if (ex && ev.data && ev.data.amentiMap === 'done' && ev.source === ex.frame.contentWindow) closeExhibit(false);
+    if (ex && !ex.until && ev.data && ev.data.amentiMap === 'done' && ev.source === ex.frame.contentWindow) closeExhibit(false);   /* an exhibit held to a cue ("until") stays to the end of it */
   });
 
-  function exhibits(work, art, sh, n, dt) {
+  function exhibits(work, art, sh, n, dt, c, frac) {
     var xs = (art.exhibits && art.exhibits[String(sh.episode)]) || [];
     if (n !== lastN) {
       var prev = lastN; lastN = n;
@@ -253,6 +253,16 @@
     var p = R.state !== 'reading';
     if (p !== ex.paused) { ex.paused = p; tellExhibit(p ? 'pause' : 'resume'); }
     if (!p && !ex.until) { ex.run += dt; if (ex.run > ex.max) closeExhibit(false); }
+    /* "untilAt": close a held exhibit a few seconds after those words in the "until" cue (31 Oct) */
+    if (ex && ex.untilAt && n === ex.until && c && c.text) {
+      var ua = String(c.text).replace(/\s+/g, ' '), ui = ua.indexOf(ex.untilAt);
+      if (ui >= 0 && (frac || 0) * ua.length > ui + ex.untilAt.length + 70) { closeExhibit(false); return; }
+    }
+    /* 31 Oct: tell the map what has been read of this cue so far, so a place flashes as it is named */
+    if (ex && c && c.text) {
+      var hl = Math.round(String(c.text).length * Math.max(0, Math.min(1, frac || 0)));
+      if (hl !== ex.heard) { ex.heard = hl; try { ex.frame.contentWindow.postMessage({ amentiMap: 'heard', n: n, text: String(c.text).slice(0, hl) }, '*'); } catch (e) {} }
+    }
   }
 
   function hideStage() {
@@ -290,7 +300,7 @@
     var vs = stage.getElementsByTagName('video');
     for (var vi = 0; vi < vs.length; vi++) { try { if (R.state === 'reading') { if (vs[vi].paused) { var pp = vs[vi].play(); if (pp && pp.catch) pp.catch(function () {}); } } else if (!vs[vi].paused) vs[vi].pause(); } catch (e) {} }
     var tnow = Date.now() / 1000;
-    exhibits(work, art, sh, n, exLast ? Math.min(1, tnow - exLast) : 0); exLast = tnow;
+    exhibits(work, art, sh, n, exLast ? Math.min(1, tnow - exLast) : 0, c, frac); exLast = tnow;
     if (!sc) { hideStage(); return; }
     var key = work + ':' + sh.episode + ':' + sc.from + (sc.at ? '@' + sc.at : '');
     if (key !== cur.key) {

@@ -364,7 +364,11 @@ if(qs.has('embed')){ /* inside a reading: the map alone, one or more legs, then 
   document.documentElement.classList.add('embed');
   var lg=(qs.get('legs')||'0-5').split('-').map(Number),la=lg[0]||0,lb2=lg.length>1?lg[1]:la;
   onDone=function(){try{parent.postMessage({amentiMap:'done'},'*');}catch(e){}};
-  addEventListener('message',function(ev){var d=ev.data||{};if(d.amentiMap==='pause')paused=true;else if(d.amentiMap==='resume')paused=false;});
+  addEventListener('message',function(ev){var d=ev.data||{};if(d.amentiMap==='pause')paused=true;else if(d.amentiMap==='resume')paused=false;else if(d.amentiMap==='heard')heard(d.n,d.text||'');});
+  /* 31 Oct, Ian: a town flashes on the map as the reader says its name */
+  var NAMES=[['Munich','munich'],['Vienna','vienna'],['Buda-Pesth','pesth'],['Klausenburgh','klaus'],['Bistritz','bistritz'],['Borgo','borgo'],['Castle Dracula','castle']],seen={},seenN=null;
+  function heard(n,t){if(n!==seenN){seenN=n;seen={};}
+    NAMES.forEach(function(x){var c=t.split(x[0]).length-1;if(c>(seen[x[1]]||0)){seen[x[1]]=c;var z=zoomed&&TZ[x[1]];flash(x[1],!!z);}});}
   showTo(Math.max(0,la-1),true);zoom(false,true);
   play(la,lb2);
 } else {

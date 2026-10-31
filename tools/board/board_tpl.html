@@ -1,0 +1,156 @@
+<title>Book I Production Board</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a production ledger — chapter tabs, then one ruled row per picture: frame, where it falls, the line read, and the note */
+:root{
+  --bg:#f3eee4; --panel:#fbf8f2; --ink:#21190f; --dim:#6d6253; --rule:#ddd3c2; --gold:#9a6f0b; --red:#a32a22; --note:#fff6d6; --noteink:#21190f; --moon:#3c5a73;
+  --display:"IM Fell English",Georgia,serif; --body:"Spectral",Georgia,serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0f0d0b;--panel:#17140f;--ink:#ece3d3;--dim:#a2967f;--rule:#2e2820;--gold:#d4a017;--red:#e0685e;--note:#221d12;--noteink:#f0e6d0;--moon:#9fb8cc;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0f0d0b;--panel:#17140f;--ink:#ece3d3;--dim:#a2967f;--rule:#2e2820;--gold:#d4a017;--red:#e0685e;--note:#221d12;--noteink:#f0e6d0;--moon:#9fb8cc;color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--body);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 60px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;gap:16px}
+h1{font:400 clamp(24px,4vw,36px)/1.1 var(--display);margin:0;text-wrap:balance}
+h1 em{color:var(--gold);font-style:italic}
+.sub{color:var(--dim);margin:2px 0 0;max-width:70ch}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:10px;display:grid;gap:10px;border-bottom:1px solid var(--rule)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.tabs,.filters{display:flex;flex-wrap:wrap;gap:6px}
+.tabs button,.filters button{font:500 13px/1 var(--mono);padding:8px 11px;border:1px solid var(--rule);background:var(--panel);color:var(--ink);border-radius:3px;cursor:pointer}
+.tabs button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.filters button[aria-pressed="true"]{border-color:var(--gold);color:var(--gold)}
+.tabs button span{color:var(--dim);margin-left:6px}
+.tabs button[aria-pressed="true"] span{color:inherit;opacity:.7}
+button:focus-visible,textarea:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.status{font:12px/1.4 var(--mono);color:var(--dim)}
+.status.warn{color:var(--red)}
+#search{font:14px var(--body);padding:7px 10px;border:1px solid var(--rule);background:var(--panel);color:var(--ink);border-radius:3px;min-width:0;flex:1 1 200px}
+.list{display:grid;gap:0}
+.row{display:grid;grid-template-columns:200px minmax(0,1fr) minmax(0,1.1fr) minmax(0,1fr);gap:16px;padding:14px 0;border-bottom:1px solid var(--rule)}
+.row.lead{border-top:2px solid var(--rule)}
+.frame{position:relative;width:200px;aspect-ratio:16/9;max-width:100%;background:#000 no-repeat;border-radius:2px;overflow:hidden;display:block}
+.tag{position:absolute;font:500 10px/1 var(--mono);letter-spacing:.06em;padding:4px 5px;border-radius:2px}
+.tag.n{left:5px;top:5px;background:rgba(0,0,0,.65);color:#fff}
+.tag.mv{right:5px;top:5px;background:#9fb8cc;color:#0d151c}
+.tag.zero{left:5px;bottom:5px;background:#a32a22;color:#fff}
+.meta{display:grid;gap:4px;align-content:start;min-width:0}
+.tc{font:12px/1.4 var(--mono);color:var(--dim);font-variant-numeric:tabular-nums}
+.tc b{color:var(--ink);font-weight:500}
+.tc .z{color:var(--red);font-weight:500}
+.at{font-style:italic}
+.cap{font:12px/1.3 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--gold)}
+.snd{font:12px/1.45 var(--mono);color:var(--moon);word-break:break-word}
+.file{font:11px/1.3 var(--mono);color:var(--dim);word-break:break-all}
+.file a{color:inherit}
+.line{margin:0;font-size:14px;color:var(--ink);min-width:0}
+.line .who{display:block;font:11px/1.4 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--dim);margin-bottom:2px}
+.line.cont{color:var(--dim);font-style:italic;font-size:13px}
+.notes{display:grid;gap:5px;align-content:start;min-width:0}
+textarea{width:100%;box-sizing:border-box;min-height:64px;resize:vertical;font:14px/1.45 var(--body);padding:8px 9px;border:1px solid var(--rule);border-radius:3px;background:var(--note);color:var(--noteink)}
+textarea:disabled{opacity:.55}
+.saved{font:11px/1 var(--mono);color:var(--dim);min-height:11px}
+.reply{font-size:13px;line-height:1.45;border-left:2px solid var(--gold);padding:2px 0 2px 8px;color:var(--ink)}
+.reply b{font:11px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--gold);display:block}
+.empty{padding:30px 0;color:var(--dim)}
+@media (max-width:900px){.row{grid-template-columns:160px minmax(0,1fr)}.frame{width:160px}.line,.notes{grid-column:1/-1}}
+@media (max-width:420px){.row{grid-template-columns:minmax(0,1fr)}.frame{width:100%}}
+</style>
+<div class="wrap">
+  <header>
+    <h1>Dracula · <em>Book I, The Castle</em> — production board</h1>
+    <p class="sub">Every picture in the order the reading shows it, with where it falls in the text, how long it stays up, and the sound under it. Type a note on any picture; it saves by itself and Claude reads it when you say “check notes”.</p>
+  </header>
+  <div class="bar">
+    <div class="tabs" id="tabs" role="tablist"></div>
+    <div class="filters">
+      <button data-f="all" aria-pressed="true">All</button>
+      <button data-f="notes" aria-pressed="false">With notes</button>
+      <button data-f="zero" aria-pressed="false">Never shown</button>
+      <button data-f="mv" aria-pressed="false">Moving</button>
+      <input id="search" type="search" placeholder="Find a word in the text or a file name" aria-label="Search">
+    </div>
+    <div class="status" id="status">Notes: connecting…</div>
+  </div>
+  <div class="list" id="list"></div>
+</div>
+<script>
+const D=__DATA__;
+let ch=1, filt='all', q='', notes={}, db=null, saving={};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const mmss=t=>Math.floor(t/60)+':'+String(t%60).padStart(2,'0');
+function readHash(){const m=/^#ch([1-4])$/.exec(location.hash);if(m)ch=+m[1];}
+function tabs(){
+  $('#tabs').innerHTML=D.chapters.map(c=>`<button role="tab" data-ch="${c.n}" aria-pressed="${c.n===ch}">Ch ${c.roman}<span>${c.pics.length} pictures · ${c.mins} min</span></button>`).join('');
+  $('#tabs').querySelectorAll('button').forEach(b=>b.onclick=()=>{ch=+b.dataset.ch;try{history.replaceState(null,'','#ch'+ch)}catch(e){location.hash='ch'+ch};tabs();render();window.scrollTo(0,0);});
+}
+function frame(c,p){
+  if(p.ti<0)return `<a class="frame" href="${esc(p.url)}" target="_blank" rel="noopener">`;
+  const col=p.ti%c.cols,row=Math.floor(p.ti/c.cols);
+  const w=c.cols*100, h=c.rows*100;
+  const x=c.cols>1?col/(c.cols-1)*100:0, y=c.rows>1?row/(c.rows-1)*100:0;
+  return `<a class="frame" href="${esc(p.url)}" target="_blank" rel="noopener" title="Open the live ${p.mv?'clip':'picture'}" style="background-image:url(${c.sprite});background-size:${w}% ${h}%;background-position:${x}% ${y}%">`;
+}
+function render(){
+  const c=D.chapters.find(x=>x.n===ch); const ql=q.toLowerCase();
+  let n=0;
+  const html=c.pics.map((p,i)=>{
+    const note=(notes[p.k]&&notes[p.k].note)||'', reply=notes[p.k]&&notes[p.k].reply;
+    if(filt==='notes'&&!note&&!reply)return '';
+    if(filt==='zero'&&p.on>0)return '';
+    if(filt==='mv'&&!p.mv)return '';
+    if(ql&&!(p.file.toLowerCase().includes(ql)||(p.line||'').toLowerCase().includes(ql)||(p.at||'').toLowerCase().includes(ql)||(p.cap||'').toLowerCase().includes(ql)))return '';
+    n++;
+    const lineHtml=p.first?`<p class="line"><span class="who">${esc(p.who)} · cue ${p.cue}</span>${esc(p.line)}${p.line.length>=260?'…':''}</p>`:`<p class="line cont">continues cue ${p.cue}</p>`;
+    return `<div class="row${p.first?' lead':''}">
+      <div>${frame(c,p)}<span class="tag n">${i+1}</span>${p.mv?'<span class="tag mv">moving</span>':''}${p.on===0?'<span class="tag zero">never shown</span>':''}</a></div>
+      <div class="meta">
+        <div class="tc">cue <b>${p.cue}</b> · at <b>${mmss(p.t)}</b> · on screen <b class="${p.on===0?'z':''}">${p.on}s</b></div>
+        ${p.first?`<div class="at">${p.at?'“'+esc(p.at)+'”':'start of cue'}</div>`:''}
+        ${p.cap?`<div class="cap">${esc(p.cap)}</div>`:''}
+        ${p.snd&&p.snd.length?`<div class="snd">${p.snd.map(esc).join('<br>')}</div>`:''}
+        <div class="file"><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.file)}</a></div>
+      </div>
+      ${lineHtml}
+      <div class="notes">
+        <textarea id="n-${esc(p.k)}" data-k="${esc(p.k)}" data-i="${i}" placeholder="Note: remove, swap, animate, wrong face…" ${db?'':'disabled'}>${esc(note)}</textarea>
+        <div class="saved" id="s-${esc(p.k)}"></div>
+        ${reply?`<div class="reply"><b>Claude</b>${esc(reply)}</div>`:''}
+      </div>
+    </div>`;}).join('');
+  $('#list').innerHTML=html||`<div class="empty">${filt==='notes'?'No notes in this chapter yet. Type in the yellow box beside any picture.':'Nothing matches.'}</div>`;
+  $('#list').querySelectorAll('textarea').forEach(t=>{
+    t.addEventListener('input',()=>{clearTimeout(saving[t.dataset.k]);setSaved(t.dataset.k,'…');saving[t.dataset.k]=setTimeout(()=>save(t),900);});
+    t.addEventListener('blur',()=>{clearTimeout(saving[t.dataset.k]);save(t);});
+  });
+}
+function setSaved(k,s){const e=document.getElementById('s-'+k);if(e)e.textContent=s;}
+async function save(t){
+  if(!db)return; const k=t.dataset.k, v=t.value.trim(), old=notes[k]||{};
+  if((old.note||'')===v)return;
+  const c=D.chapters.find(x=>x.n===ch), p=c.pics[+t.dataset.i];
+  const body=Object.assign({},old,{note:v,ch:ch,cue:p.cue,file:p.file,ts:Date.now()});
+  try{ if(!v&&!old.reply){await db.doc('notes/'+k).delete();} else {await db.doc('notes/'+k).set(body);} setSaved(k,'Saved');}
+  catch(e){setSaved(k,'Not saved — '+(e&&e.code||'error'));}
+}
+document.querySelectorAll('.filters button').forEach(b=>b.onclick=()=>{filt=b.dataset.f;document.querySelectorAll('.filters button').forEach(x=>x.setAttribute('aria-pressed',x===b));render();});
+$('#search').addEventListener('input',e=>{q=e.target.value;render();});
+window.addEventListener('hashchange',()=>{readHash();tabs();render();});
+readHash();tabs();render();
+(async()=>{
+  const st=$('#status'); const timer=setTimeout(()=>{if(!db){st.textContent='Notes are not available in this view — open the board from its own page to type notes.';st.className='status warn';}},10000);
+  try{
+    const d=window.claude&&await window.claude.use('db');
+    if(!d){clearTimeout(timer);st.textContent='Notes are not available in this view — open the board from its own page to type notes.';st.className='status warn';return;}
+    d.collection('notes').onSnapshot(s=>{
+      clearTimeout(timer); const fresh={}; s.docs.forEach(x=>{fresh[x.id]=x.data()||{};});
+      const focused=document.activeElement&&document.activeElement.tagName==='TEXTAREA'?document.activeElement.dataset.k:null;
+      const firstLoad=!db; db=d; notes=fresh;
+      const total=Object.values(notes).filter(x=>x.note).length;
+      st.textContent='Notes save as you type · '+total+' note'+(total===1?'':'s')+' in Book I'; st.className='status';
+      if(firstLoad||!focused)render();
+    },e=>{clearTimeout(timer);st.textContent='Notes could not load ('+(e&&e.code||'error')+').';st.className='status warn';});
+  }catch(e){clearTimeout(timer);st.textContent='Notes could not load.';st.className='status warn';}
+})();
+</script>

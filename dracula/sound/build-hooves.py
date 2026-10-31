@@ -358,6 +358,38 @@ def c50v4():
     for t in [taf + 1, taf + 3, taf + 5]: snort(fx, t, -11, R.uniform(-.5, .5))
     finish(50, 'drac1-tunnel-49-v4', N, v, fx)
 
+# ═══ 51 v4 (31 Oct, Ian): stopping and starting, again and again — halts, restarts with the whip ═══
+def c51v4():
+    N, v, s, res = setup(51); fx = np.zeros((N, 2), np.float32); L = N / SR
+    tch = T(s, 'he at once checked the horses'); twc = T(s, 'the howling of the wolves grew closer')
+    tre = T(s, 'and we resumed our journey'); tdr = T(s, 'I think I must have fallen asleep')
+    ton = T(s, 'Once the flame appeared so near the road'); tst = T(s, 'gathering a few stones')
+    tno = T(s, 'Then for a time there were no blue flames'); tsp = T(s, 'and we sped onwards through the gloom')
+    keys = [(0, 3.8), (tch, 3.6), (tch + 2.5, 0), (tre - 0.5, 0), (tre + 2, 3.4)]
+    # the dream: halt, go, halt, go — the incident "repeated endlessly"
+    cyc = list(np.arange(tdr + 1.0, ton - 3.0, 5.5)); restarts = []
+    for t in cyc:
+        keys += [(t, 3.4), (t + 1.6, 0), (t + 3.0, 0), (t + 4.4, 3.4)]; restarts.append(t + 3.0)
+    keys += [(ton - 2, 3.2), (ton + 1, 0.0), (tst + 6, 0.0), (tno - 1, 1.5), (tsp, 3.8), (tsp + 3, 4.2), (L, 4.2)]
+    sp = curve(keys, N)
+    snow = curve([(0, 0.6), (L, 0.6)], N)
+    lev = curve([(0, -12), (tch + 3, -14), (tdr, -15), (ton, -15), (tsp, -11), (L, -11)], N)
+    fx += team(N, sp, 'road', 4, -2.5, seed=611, snow=snow) * db(lev)[:, None]
+    fx += wheels(N, sp, 612) * db(lev - 2)[:, None]
+    stops = [tch + 2.5] + [t + 1.6 for t in cyc] + [ton + 1]
+    fx += creaks(N, [t + 0.3 for t in stops] + [tre - 0.8] + [t - 0.4 for t in restarts], 613)[:N] * db(-3)
+    for t in stops: snort(fx, t + 0.4, -11, R.uniform(-.5, .5))
+    stamps(fx, tch + 2.8, tre, 1.2, -14, seed=613)
+    for t in restarts + [tre - 0.2, tsp - 0.3]: whip(fx, t, -6)
+    neigh(fx, tch + 3.5, -14, 0.4)
+    wolves(fx, twc, -11, -0.6, far=0.3, dur=15); wolves(fx, twc + 5, -14, 0.7, 'wolf-howl.mp3', far=0.2)
+    stamps(fx, tst, tst + 6, 0.8, -16, seed=614)
+    put(fx, reverb(norm(one('0496')[:int(0.4 * SR)], -24), 1.2, 0.4), tst + 1.0, -14, -0.5)   # stones
+    for k, t in enumerate(np.arange(tsp, L - 3, 6.5)):
+        wolves(fx, t, -12 - (k % 2) * 3, [-0.8, 0.0, 0.8, 0.3][k % 4], ['wolf-howl.mp3', 'wolves.mp3'][k % 2], far=0.3, dur=9)
+    print('stops at', [round(t, 1) for t in stops])
+    finish(51, 'drac1-blue-flame-50-v4', N, v, fx)
+
 if __name__ == '__main__':
     todo = sys.argv[1:] or ['30', '31', '34', '35', '46', '48', '49', '50', '51', '52', '53', '54']
     for k in todo: globals()['c' + k]()

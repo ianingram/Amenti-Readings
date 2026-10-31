@@ -1346,10 +1346,101 @@
     "from": 51,
     "caption": "The blue flame",
     "images": [
-     "ch01-n05-1.mp4",
-     "ch01-n05-4.jpg",
-     "ch01-n05-2.jpg",
-     "ch01-n05-3.jpg"
+     "ch01-bf-10.jpg",
+     "ch01-bf-01.jpg"
+    ],
+    "move": [
+     "push",
+     "panl"
+    ]
+   },
+   {
+    "from": 51,
+    "at": "jumping to the ground",
+    "images": [
+     "ch01-bf-20.jpg",
+     "ch01-bf-23.jpg"
+    ],
+    "move": [
+     "push",
+     "panr"
+    ]
+   },
+   {
+    "from": 51,
+    "at": "and we resumed our journey",
+    "ride": "fast",
+    "images": [
+     "ch01-bf-50.jpg"
+    ],
+    "move": [
+     "rush"
+    ]
+   },
+   {
+    "from": 51,
+    "at": "I think I must have fallen asleep",
+    "ride": true,
+    "hold": 3,
+    "pace": 1,
+    "cuts": true,
+    "images": [
+     "ch01-bf-11.jpg",
+     "ch01-bf-51.jpg",
+     "ch01-bf-21.jpg",
+     "ch01-bf-52.jpg",
+     "ch01-bf-13.jpg",
+     "ch01-bf-03.jpg"
+    ],
+    "move": [
+     "pull",
+     "rush",
+     "push",
+     "rush",
+     "panr",
+     "push"
+    ]
+   },
+   {
+    "from": 51,
+    "at": "Once the flame appeared so near the road",
+    "images": [
+     "ch01-bf-31.jpg",
+     "ch01-bf-33.jpg"
+    ],
+    "move": [
+     "push",
+     "panl"
+    ]
+   },
+   {
+    "from": 51,
+    "at": "Once there appeared a strange optical effect",
+    "images": [
+     "ch01-bf-41.jpg",
+     "ch01-bf-42.jpg"
+    ],
+    "move": [
+     "push",
+     "pull"
+    ]
+   },
+   {
+    "from": 51,
+    "at": "Then for a time there were no blue flames",
+    "ride": "fast",
+    "cuts": true,
+    "hold": 5,
+    "pace": 1,
+    "images": [
+     "ch01-bf-53.jpg",
+     "ch01-bf-00.jpg",
+     "ch01-bf-02.jpg"
+    ],
+    "move": [
+     "rush",
+     "whipl",
+     "rush"
     ]
    },
    {

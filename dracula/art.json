@@ -261,18 +261,10 @@
     ]
    },
    {
-    "from": 72,
-    "caption": "",
-    "images": [
-     "ch02-may7-smile-1.jpg"
-    ]
-   },
-   {
     "from": 78,
     "caption": "",
     "images": [
-     "ch02-s-supper-3.jpg",
-     "ch02-may7-dawn-2.jpg"
+     "ch02-s-supper-3.jpg"
     ]
    },
    {
@@ -300,8 +292,7 @@
     "at": "Suddenly I felt a hand",
     "cut": true,
     "images": [
-     "ch02-m-hand-0.jpg",
-     "ch02-m-hand-1.jpg"
+     "ch02-m-hand-0.jpg"
     ],
     "move": [
      "push"
@@ -322,9 +313,16 @@
     "from": 91,
     "caption": "",
     "images": [
-     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-h3-3-air.mp4",
-     "ch02-h3-4.jpg",
-     "ch02-h3-2.jpg"
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch02-h3-3-air.mp4"
+    ]
+   },
+   {
+    "from": 91,
+    "at": "which was shattered",
+    "cut": true,
+    "images": [
+     "ch02-h3-2.jpg",
+     "ch02-h3-4.jpg"
     ]
    },
    {

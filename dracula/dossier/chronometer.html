@@ -189,9 +189,9 @@ function build(){
     var tri=[0,120,240].map(function(a){return pt(a,330).map(function(v){return v.toFixed(1);}).join(',');}).join(' ');
     el('polygon',{points:tri,fill:'none',stroke:'#e0a53c','stroke-width':1,'stroke-dasharray':'4 6',opacity:.5},g);
     emblem(g);
-    dyn.hourHand=el('g',{'class':'hand',style:'transform-origin:500px 500px'},g);
+    dyn.hourHand=el('g',{'class':'hand'},g);
     el('line',{x1:500,y1:500,x2:500,y2:232,stroke:'#d6e8df','stroke-width':3,'stroke-linecap':'round',opacity:.9},dyn.hourHand);
-    dyn.chHand=el('g',{'class':'hand',style:'transform-origin:500px 500px'},g);
+    dyn.chHand=el('g',{'class':'hand'},g);
     el('line',{x1:500,y1:500,x2:500,y2:178,stroke:'#e0a53c','stroke-width':3,'stroke-linecap':'round'},dyn.chHand);
     el('circle',{cx:500,cy:162,r:13,fill:'#07090c',stroke:'#e0a53c','stroke-width':2},dyn.chHand);
     el('line',{x1:500,y1:143,x2:500,y2:184,stroke:'#e0a53c','stroke-width':2},dyn.chHand); el('line',{x1:484,y1:162,x2:516,y2:162,stroke:'#e0a53c','stroke-width':2},dyn.chHand);
@@ -213,7 +213,7 @@ function build(){
       tk.addEventListener('click',function(){ go(i); }); });
     emblem(g);
     var top=pt(0,470); var tt=el('text',{x:top[0],y:top[1]-10,fill:'#e0a53c','font-size':15,'text-anchor':'middle','font-family':SERIF},g); tt.textContent='3 May · 6 November';
-    dyn.dayHand=el('g',{'class':'hand',style:'transform-origin:500px 500px'},g);
+    dyn.dayHand=el('g',{'class':'hand'},g);
     el('line',{x1:500,y1:500,x2:500,y2:128,stroke:'#e0a53c','stroke-width':3,'stroke-linecap':'round'},dyn.dayHand);
     el('circle',{cx:500,cy:112,r:13,fill:'#07090c',stroke:'#e0a53c','stroke-width':2},dyn.dayHand);
     el('line',{x1:500,y1:93,x2:500,y2:134,stroke:'#e0a53c','stroke-width':2},dyn.dayHand); el('line',{x1:484,y1:112,x2:516,y2:112,stroke:'#e0a53c','stroke-width':2},dyn.dayHand);
@@ -224,6 +224,13 @@ function build(){
   show(cur,true);
 }
 var lastCh=0, lastDay=0;
+/* 31 Oct, Ian (Safari): the hands turn by the SVG's own rotate(a 500 500), not a CSS transform —
+   Safari put the CSS pivot in the wrong place and the hands swung off the centre and off the hour */
+var REDUCE=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+function turn(h,a,instant){ if(!h) return; var from=h._a==null?a:h._a; h._a=a; cancelAnimationFrame(h._raf);
+  function set(v){ h.setAttribute('transform','rotate('+v.toFixed(2)+' 500 500)'); }
+  if(instant||REDUCE||from===a){ set(a); return; }
+  var t0=null; (function step(ts){ if(t0===null) t0=ts; var k=Math.min(1,(ts-t0)/900), e=k<.5?4*k*k*k:1-Math.pow(-2*k+2,3)/2; set(from+(a-from)*e); if(k<1) h._raf=requestAnimationFrame(step); })(performance.now()); }
 function show(i,instant){
   cur=Math.max(0,Math.min(E.length-1,i)); var e=E[cur], ch=e[0], pl=PLACE[ch], s=sun(e[2],pl[1],pl[2]);
   var t=Date.UTC(+e[2].slice(0,4),+e[2].slice(5,7)-1,+e[2].slice(8,10),12), mf=moon(t);
@@ -241,11 +248,11 @@ function show(i,instant){
     dyn.moonBig.innerHTML=''; moonGlyph(500,668,24,mf,dyn.moonBig);
     var mt2=el('text',{x:500,y:712,fill:'#9ab0a6','font-size':13,'text-anchor':'middle','font-family':SERIF,'font-style':'italic'},dyn.moonBig); mt2.textContent=moonName(mf);
     var a=chFrac(cur)*360; if(a<lastCh-180) a+=360; lastCh=a;
-    dyn.chHand.style.transform='rotate('+a+'deg)';
-    if(e[3]!=null){ dyn.hourHand.style.display=''; dyn.hourHand.style.transform='rotate('+(e[3]*15)+'deg)'; } else dyn.hourHand.style.display='none';
+    turn(dyn.chHand,a,instant);
+    if(e[3]!=null){ dyn.hourHand.style.display=''; turn(dyn.hourHand,e[3]*15,instant); } else dyn.hourHand.style.display='none';
     dyn.centre.textContent=R[ch-1]; dyn.centre2.textContent=TITLES[ch-1];
   } else {
-    var a2=dayOf(e[2])/DAYS*360; dyn.dayHand.style.transform='rotate('+a2+'deg)';
+    var a2=dayOf(e[2])/DAYS*360; turn(dyn.dayHand,a2,instant);
     dyn.centre.textContent='Day '+(Math.round(dayOf(e[2]))+1); dyn.centre2.textContent='of 187';
   }
   if(instant){ [dyn.chHand,dyn.hourHand,dyn.dayHand].forEach(function(h){ if(h){ h.style.transition='none'; void h.getBoundingClientRect(); h.style.transition=''; } }); }

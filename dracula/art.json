@@ -1204,23 +1204,77 @@
     "caption": "Sunset",
     "images": [
      "ch01-d19-1.jpg",
-     "ch01-d19-2.jpg",
-     "ch01-r-cross-0.jpg",
-     "ch01-r-cross-1.jpg",
-     "ch01-r-shrine-0.jpg",
-     "ch01-r-shrine-1.jpg",
-     "ch01-r-birches-0.jpg",
-     "ch01-d15-2.jpg",
-     "ch01-r-valley-0.mp4",
-     "ch01-r-valley-1.jpg",
-     "ch01-r-valley-2.jpg",
-     "ch01-r-ghost-0.jpg",
-     "ch01-r-ghost-1.jpg",
-     "ch01-r-pines-0.jpg",
-     "ch01-r-pines-1.jpg"
+     "ch01-d19-2.jpg"
     ],
     "move": "tour",
     "ride": true
+   },
+   {
+    "from": 34,
+    "at": "By the roadside were many crosses",
+    "move": "tour",
+    "ride": true,
+    "images": [
+     "ch01-r-cross-0.jpg"
+    ]
+   },
+   {
+    "from": 34,
+    "at": "a peasant man or woman kneeling",
+    "move": "tour",
+    "ride": true,
+    "images": [
+     "ch01-r-shrine-0.jpg",
+     "ch01-r-shrine-1.jpg"
+    ]
+   },
+   {
+    "from": 34,
+    "at": "very beautiful masses of weeping birch",
+    "move": "tour",
+    "ride": true,
+    "images": [
+     "ch01-r-birches-0.jpg"
+    ]
+   },
+   {
+    "from": 34,
+    "at": "Now and again we passed a leiter-wagon",
+    "move": "tour",
+    "ride": true,
+    "images": [
+     "ch01-d15-2.jpg"
+    ]
+   },
+   {
+    "from": 34,
+    "at": "As the evening fell it began to get very cold",
+    "move": "tour",
+    "ride": true,
+    "images": [
+     "ch01-r-valley-0.mp4",
+     "ch01-r-valley-1.jpg"
+    ]
+   },
+   {
+    "from": 34,
+    "at": "Sometimes, as the road was cut through the pine woods",
+    "move": "tour",
+    "ride": true,
+    "images": [
+     "ch01-r-pines-0.jpg",
+     "ch01-r-pines-1.jpg"
+    ]
+   },
+   {
+    "from": 34,
+    "at": "the ghost-like clouds",
+    "move": "tour",
+    "ride": true,
+    "images": [
+     "ch01-r-ghost-0.jpg",
+     "ch01-r-ghost-1.jpg"
+    ]
    },
    {
     "from": 35,

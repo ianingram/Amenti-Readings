@@ -29,9 +29,9 @@
     "from": 5,
     "caption": "",
     "images": [
+     "ch02-t-door-0.jpg",
      "ch02-door-alone-0.jpg",
-     "ch02-c-alone-0.jpg",
-     "ch02-a2-4.jpg"
+     "ch02-c-alone-0.jpg"
     ]
    },
    {
@@ -379,13 +379,26 @@
     "from": 5,
     "caption": "Midnight",
     "images": [
-     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-b1-2-air.mp4",
-     "ch03-b1-1.jpg",
+     "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch03-b1-2-air.mp4"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "especially of battles",
+    "cut": true,
+    "images": [
+     "ch03-bt-charge-0.mp4",
+     "ch03-bt-charge-1.mp4",
+     "ch03-bt-there-0.mp4",
+     "ch03-bt-there-3.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "He grew excited as he spoke",
+    "images": [
      "ch03-hist-h18-1.jpg",
-     "ch03-hist-h19-3.jpg",
-     "ch03-b1-4.jpg",
-     "ch03-hist-h20-2.jpg",
-     "ch03-b1-3.jpg"
+     "ch03-b1-1.jpg"
     ]
    },
    {

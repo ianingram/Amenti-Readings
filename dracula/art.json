@@ -878,17 +878,31 @@
    },
    {
     "from": 48,
-    "at": "that I fled from the place",
+    "at": "such a look of hate",
     "cuts": true,
     "cut": true,
-    "hold": 1.6,
+    "hold": 1.3,
     "images": [
      "ch04-g-passage.jpg",
      "ch04-g-steps.jpg",
      "ch04-g-door.jpg",
-     "ch04-bk-gold-0.jpg",
-     "ch04-w-wide-2.jpg",
-     "ch04-w-wide-3.jpg"
+     "ch04-f-fall-1.jpg"
+    ]
+   },
+   {
+    "from": 48,
+    "at": "that I fled from the place",
+    "cut": true,
+    "images": [
+     "ch04-f-buried-3.mp4"
+    ]
+   },
+   {
+    "from": 48,
+    "at": "crawled again up the castle wall",
+    "cut": true,
+    "images": [
+     "ch04-w-wide-0.jpg"
     ]
    },
    {

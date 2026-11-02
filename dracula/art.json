@@ -992,17 +992,51 @@
     "from": 75,
     "at": "I raised the lid",
     "images": [
+     "ch04-s-lid-1.jpg",
      "ch04-c-box-0.jpg"
     ],
-    "move": "push"
+    "move": [
+     "none",
+     "push"
+    ]
    },
    {
     "from": 75,
-    "at": "I seized a shovel",
+    "at": "I shuddered as I bent over",
+    "images": [
+     "ch04-s-search-2.jpg",
+     "ch04-s-search-3.jpg"
+    ]
+   },
+   {
+    "from": 75,
+    "at": "This was the being I was helping to transfer to London",
+    "cut": true,
+    "images": [
+     "ch04-s-london-3.jpg",
+     "ch04-s-london-2.jpg"
+    ],
+    "move": [
+     "pull",
+     "panr"
+    ]
+   },
+   {
+    "from": 75,
+    "at": "create a new and ever-widening circle",
+    "images": [
+     "ch04-s-circle-3.jpg"
+    ],
+    "move": "pull"
+   },
+   {
+    "from": 75,
+    "at": "A terrible desire",
     "cut": true,
     "images": [
      "ch04-s-shovel-2.jpg"
-    ]
+    ],
+    "move": "push"
    },
    {
     "from": 76,

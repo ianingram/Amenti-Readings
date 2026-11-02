@@ -816,13 +816,55 @@
    },
    {
     "from": 47,
-    "caption": "The vault",
+    "pause": 11.4,
+    "cut": true,
+    "images": [
+     "ch04-g-descent.mp4"
+    ]
+   },
+   {
+    "from": 47,
+    "at": "I tried it",
+    "images": [
+     "ch04-g-door.jpg"
+    ]
+   },
+   {
+    "from": 47,
+    "at": "It was open, and led through a stone passage",
+    "images": [
+     "ch04-g-steps.jpg"
+    ]
+   },
+   {
+    "from": 47,
+    "at": "At the bottom there was a dark, tunnel-like passage",
+    "images": [
+     "ch04-g-passage.jpg"
+    ]
+   },
+   {
+    "from": 47,
+    "at": "found myself in an old, ruined chapel",
+    "images": [
+     "ch04-g-chapel.jpg",
+     "ch04-bk-chapel-0.jpg"
+    ]
+   },
+   {
+    "from": 47,
+    "at": "the earth placed in great wooden boxes",
     "images": [
      "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch04-k1-4-air.mp4",
      "ch04-k1-1.jpg",
-     "ch04-k1-3.jpg",
+     "ch04-k1-3.jpg"
+    ]
+   },
+   {
+    "from": 47,
+    "at": "I went down even into the vaults",
+    "images": [
      "ch04-k1-2.jpg",
-     "ch04-bk-chapel-0.jpg",
      "ch04-bk-chapel-2.jpg"
     ]
    },

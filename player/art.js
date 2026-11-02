@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/art.js · 2026-10-26 · pictures fill their scene; a picture can start at a phrase */
+/* Amenti-Readings/player/art.js · 2026-11-01 · breaks: "pause" holds the voice for a clip · pictures fill their scene; a picture can start at a phrase */
 /* ===========================================================================
    AMENTI READINGS · art.js — the pictures under a reading
    ---------------------------------------------------------------------------
@@ -74,7 +74,45 @@
   var jumped = false;
   if (typeof R.seek === 'function' && !R._artWrapped) {
     var seek0 = R.seek; R._artWrapped = true;
-    R.seek = function () { jumped = true; return seek0.apply(R, arguments); };
+    R.seek = function () { jumped = true; endBreak(true); brkDone = {}; return seek0.apply(R, arguments); };
+  }
+
+  /* ── BREAKS · 1 Nov 2026, Ian ──────────────────────────────────────────
+     A scene that starts at the top of a cue with "pause": <seconds> holds the
+     voice for that long before the cue is read, so its picture or clip plays
+     on its own (the descent into the castle). The music and the beds carry
+     on; the reading state stays "reading". It happens once per visit, the
+     reader's pause/play during a break simply ends it, and a seek clears it.
+     The hold sits BETWEEN two cues because a cue stopped half way is read
+     again from its start. */
+  var brk = null, brkDone = {};
+  function endBreak(cancel) { if (brk) { clearTimeout(brk.t); brk = null; if (!cancel) cueAt.start = clock; } }
+  if (typeof R._next === 'function' && !R._artNext) {
+    var next0 = R._next; R._artNext = true;
+    R._next = function () {
+      var sh = R.sheet, cs = sh && sh.cues, c = cs && cs[R.i];
+      var art = sh && sheets[sh.work], list = art && typeof art === 'object' && art.episodes && art.episodes[String(sh.episode)];
+      if (R.state === 'reading' && c && list && !brk) {
+        var key = sh.work + ':' + sh.episode + ':' + c.n;
+        for (var j = 0; j < list.length; j++) {
+          var e = list[j];
+          if (e.from === c.n && !e.at && e.pause > 0 && !brkDone[key]) {
+            brkDone[key] = 1; var self = this, args = arguments, at = R.i;
+            brk = { key: key, t: setTimeout(function () {
+              brk = null; cueAt.start = clock;
+              if (R.state === 'reading' && R.i === at) R._next.apply(self, args);
+            }, e.pause * 1000) };
+            return;
+          }
+        }
+      }
+      endBreak(false);
+      return next0.apply(this, arguments);
+    };
+  }
+  if (typeof R.skip === 'function' && !R._artSkip) {
+    var skip0 = R.skip; R._artSkip = true;
+    R.skip = function () { endBreak(true); return skip0.apply(R, arguments); };
   }
 
   var ROOT = 'https://ianingram.github.io/Amenti-Readings/';
@@ -333,7 +371,7 @@
       }
       cueAt = { key: ckey, start: clock, words: words(sh).count[n] || wc(c.text), spoken: !c.audio };
     }
-    var frac = cueFrac(c);
+    var frac = brk ? 0 : cueFrac(c);      /* in a break the cue has not begun */
     var sc = list ? sceneAt(sh, list, n, frac) : null;
     stage.classList.toggle('hold', R.state !== 'reading');
     var vs = stage.getElementsByTagName('video');

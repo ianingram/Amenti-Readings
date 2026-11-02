@@ -870,10 +870,32 @@
    },
    {
     "from": 48,
-    "caption": "",
     "cut": true,
     "images": [
      "ch04-c-box-0.jpg"
+    ],
+    "move": "push"
+   },
+   {
+    "from": 48,
+    "at": "that I fled from the place",
+    "cuts": true,
+    "cut": true,
+    "hold": 1.6,
+    "images": [
+     "ch04-g-passage.jpg",
+     "ch04-g-steps.jpg",
+     "ch04-g-door.jpg",
+     "ch04-bk-gold-0.jpg",
+     "ch04-w-wide-2.jpg",
+     "ch04-w-wide-3.jpg"
+    ]
+   },
+   {
+    "from": 48,
+    "at": "Regaining my room",
+    "images": [
+     "ch02-bk-bedroom-0.jpg"
     ]
    },
    {

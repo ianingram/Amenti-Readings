@@ -983,24 +983,38 @@
    },
    {
     "from": 75,
-    "caption": "",
     "cut": true,
     "images": [
-     "ch04-p-1.jpg",
-     "ch04-bk-box-2.jpg",
-     "ch04-p-3.jpg",
-     "ch04-bk-box-1.jpg",
-     "ch04-p-2.jpg",
-     "ch04-bk-box-0.jpg"
+     "ch04-s-vault-1.jpg"
+    ]
+   },
+   {
+    "from": 75,
+    "at": "I raised the lid",
+    "images": [
+     "ch04-c-box-0.jpg"
+    ],
+    "move": "push"
+   },
+   {
+    "from": 75,
+    "at": "I seized a shovel",
+    "cut": true,
+    "images": [
+     "ch04-s-shovel-2.jpg"
     ]
    },
    {
     "from": 76,
-    "caption": "",
     "images": [
-     "ch04-bk-shovel-0.jpg",
-     "ch04-bk-shovel-2.jpg",
-     "ch04-p-4.jpg"
+     "ch04-s-vault-1.jpg"
+    ]
+   },
+   {
+    "from": 76,
+    "at": "I heard in the distance a gipsy song",
+    "images": [
+     "ch04-c1-1.jpg"
     ]
    },
    {

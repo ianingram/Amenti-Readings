@@ -1,0 +1,75 @@
+<title>__TITLE__</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a scene strip — the cue as a timeline bar, then one row per beat in reading order: when, the words, the picture or the prompt to paint it */
+:root{
+  --bg:#0c0d0b; --panel:#15160f; --ink:#ece4d2; --dim:#9a917e; --rule:#2c2a22; --gold:#d4a017; --need:#c46a4e; --in:#7fa37a; --move:#7d9fbf;
+  --display:"IM Fell English",Georgia,serif; --body:"Spectral",Georgia,serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  color-scheme:dark;
+}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--body);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 48px}
+.wrap{max-width:1100px;margin:0 auto;display:grid;gap:18px}
+h1{font:400 clamp(26px,4vw,38px)/1.1 var(--display);margin:0;text-wrap:balance}
+h1 em{color:var(--gold)}
+.sub{color:var(--dim);margin:4px 0 0;max-width:68ch}
+.bar{display:flex;height:34px;border:1px solid var(--rule);border-radius:3px;overflow:hidden}
+.bar div{min-width:0;display:flex;align-items:center;padding:0 6px;font:500 11px/1 var(--mono);color:#0c0d0b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-right:1px solid var(--bg)}
+.bar .in{background:var(--in)} .bar .need{background:var(--need)} .bar .move{background:var(--move)}
+.ticks{display:flex;justify-content:space-between;font:11px var(--mono);color:var(--dim);font-variant-numeric:tabular-nums}
+.key{display:flex;gap:14px;flex-wrap:wrap;font:12px var(--mono);color:var(--dim)}
+.key span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px;background:var(--c)}
+.beats{display:grid;gap:0}
+.beat{display:grid;grid-template-columns:96px 280px minmax(0,1fr);gap:18px;padding:16px 0;border-top:1px solid var(--rule)}
+.tc{font:500 13px/1.4 var(--mono);font-variant-numeric:tabular-nums}
+.tc small{display:block;color:var(--dim);font-weight:400}
+.pill{display:inline-block;margin-top:8px;font:500 10px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:5px 6px;border-radius:2px;color:#0c0d0b}
+.pill.in{background:var(--in)} .pill.need{background:var(--need)} .pill.move{background:var(--move)}
+.frame{width:280px;max-width:100%;aspect-ratio:16/9;background:var(--panel) center/cover no-repeat;border-radius:2px;display:flex;align-items:center;justify-content:center;border:1px dashed transparent}
+.frame.empty{border-color:var(--need);color:var(--need);font:12px var(--mono);text-align:center;padding:10px}
+.txt{display:grid;gap:10px;align-content:start;min-width:0}
+.name{font:400 20px/1.2 var(--display)}
+.words{margin:0;font-style:italic;color:var(--ink)}
+.note{font:12px/1.4 var(--mono);color:var(--move)}
+.prompt{font:12px/1.5 var(--mono);color:var(--dim);background:var(--panel);border:1px solid var(--rule);border-radius:3px;padding:10px;white-space:pre-wrap;word-break:break-word;margin:0}
+button{font:500 12px/1 var(--mono);padding:8px 11px;background:transparent;color:var(--gold);border:1px solid var(--gold);border-radius:3px;cursor:pointer;justify-self:start}
+button:hover{background:rgba(212,160,23,.12)}
+button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+@media (max-width:760px){.beat{grid-template-columns:72px minmax(0,1fr)}.beat .frame{grid-column:2}.txt{grid-column:1/-1}}
+</style>
+<div class="wrap">
+  <header>
+    <h1>__H1__</h1>
+    <p class="sub">__SUB__</p>
+  </header>
+  <div>
+    <div class="bar" id="bar"></div>
+    <div class="ticks"><span>0:00</span><span>1:00</span><span>2:00</span><span>__END__</span></div>
+  </div>
+  <div class="key"><span style="--c:var(--in)">In the book</span><span style="--c:var(--move)">Moves earlier</span><span style="--c:var(--need)">To paint</span></div>
+  <div class="beats" id="beats"></div>
+</div>
+<script>
+const D=__DATA__;
+const mmss=s=>Math.floor(s/60)+':'+String(Math.round(s%60)).padStart(2,'0');
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const label={in:'In the book',need:'To paint',move:'Moves earlier'};
+document.getElementById('bar').innerHTML=D.beats.map(b=>`<div class="${b.status}" style="flex:${b.end-b.start}" title="${esc(b.name)}">${esc(b.name)}</div>`).join('');
+document.getElementById('beats').innerHTML=D.beats.map((b,i)=>`
+  <div class="beat">
+    <div class="tc">${mmss(b.start)}<small>to ${mmss(b.end)} · ${b.end-b.start} s</small><span class="pill ${b.status}">${label[b.status]}</span></div>
+    <div style="display:grid;gap:6px">${b.img?`<div class="frame" role="img" aria-label="${esc(b.name)}" style="background-image:url('${b.img}')"></div>`:`<div class="frame empty">to paint</div>`}${(b.extra||[]).map(x=>`<div class="frame" role="img" aria-label="${esc(b.name)}, second picture" style="background-image:url('${x}')"></div>`).join('')}</div>
+    <div class="txt">
+      <div class="name">${esc(b.name)}</div>
+      <p class="words">${esc(b.words)}</p>
+      ${b.note?`<div class="note">${esc(b.note)}</div>`:''}
+      ${b.prompt?`<pre class="prompt" id="p${i}">${esc(b.prompt)}</pre><button type="button" id="c${i}" data-i="${i}">Copy prompt</button>`:''}
+    </div>
+  </div>`).join('');
+document.querySelectorAll('button[data-i]').forEach(btn=>btn.addEventListener('click',()=>{
+  const pre=document.getElementById('p'+btn.dataset.i), txt=pre.textContent;
+  const done=()=>{btn.textContent='Copied';setTimeout(()=>btn.textContent='Copy prompt',1600);};
+  try{navigator.clipboard.writeText(txt).then(done,()=>sel(pre));}catch(e){sel(pre);}
+  function sel(el){const r=document.createRange();r.selectNodeContents(el);const s=getSelection();s.removeAllRanges();s.addRange(r);btn.textContent='Selected — press ⌘C';}
+}));
+</script>

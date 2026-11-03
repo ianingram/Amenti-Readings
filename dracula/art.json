@@ -1825,9 +1825,30 @@
     "caption": "",
     "images": [
      "ch01-n03-4.mp4",
-     "ch01-n03-1.mp4",
+     "ch01-n03-1.mp4"
+    ]
+   },
+   {
+    "from": 46,
+    "at": "Without a word he shook his reins",
+    "cut": true,
+    "images": [
+     "ch01-n11-hell.mp4"
+    ],
+    "move": [
+     "none"
+    ]
+   },
+   {
+    "from": 46,
+    "at": "As I looked back",
+    "images": [
      "ch01-n03-3.jpg",
      "ch01-n03-2.jpg"
+    ],
+    "move": [
+     "pull",
+     "push"
     ]
    },
    {
@@ -1856,15 +1877,21 @@
     "caption": "The tunnel of trees",
     "ride": "fast",
     "cuts": true,
-    "hold": 3,
+    "hold": 1.4,
     "pace": 1,
     "images": [
      "ch01-tn-03.jpg",
+     "ch01-n11-forest-0.jpg",
+     "ch01-n11-forest-1.jpg",
+     "ch01-n11-forest-2.jpg",
      "ch01-tn-01.jpg",
      "ch01-tn-13.jpg",
      "ch01-tn-10.jpg"
     ],
     "move": [
+     "rush",
+     "rush",
+     "whipr",
      "rush",
      "whipr",
      "rush",

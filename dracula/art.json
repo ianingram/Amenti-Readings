@@ -1088,6 +1088,14 @@
     ]
    },
    {
+    "from": 78,
+    "cut": true,
+    "images": [
+     "ch04-e-chains-0.jpg"
+    ],
+    "move": "push"
+   },
+   {
     "from": 79,
     "caption": "",
     "images": [
@@ -1098,6 +1106,13 @@
     ]
    },
    {
+    "from": 80,
+    "images": [
+     "ch04-e-shadows-2.jpg"
+    ],
+    "move": "push"
+   },
+   {
     "from": 81,
     "caption": "“Good-bye, all!”",
     "images": [
@@ -1105,6 +1120,17 @@
      "ch04-r-1.jpg",
      "ch04-r-4.jpg",
      "ch04-r-2.jpg"
+    ]
+   },
+   {
+    "from": 83,
+    "images": [
+     "ch04-e-goodbye-2.jpg",
+     "ch04-e-goodbye-3.jpg"
+    ],
+    "move": [
+     "pull",
+     "pull"
     ]
    }
   ],

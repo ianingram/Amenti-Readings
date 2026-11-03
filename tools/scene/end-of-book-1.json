@@ -4,26 +4,5 @@
  "ep": 4,
  "from": 72,
  "to": 83,
- "beats": [
-  {
-   "cue": 78,
-   "name": "Chains and the Key",
-   "words": "The door is shut, and the chains rattle; there is a grinding of the key in the lock…",
-   "prompt": "BK1IV-E Chains and Key, close view of the great castle door from inside in near darkness, heavy iron chains being drawn across it, a huge old key turning in a massive lock, a hand withdrawing it, cold grey light through a crack, oil painting, 1893, rich academic realism, dramatic chiaroscuro, film still --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch04-e-slam-0.jpg --no faces, abstract, modern"
-  },
-  {
-   "cue": 80,
-   "name": "Those Awful Women",
-   "words": "I am alone in the castle with those awful women… They are devils of the Pit!",
-   "note": "Shadows only.",
-   "prompt": "BK1IV-E The Three Shadows, cinematic shot of a moonlit castle corridor, the long shadows of three slender women in flowing gowns cast across the stone floor and wall, the women themselves unseen beyond the frame, pale mist at floor level, cold blue moonlight through a tall window, oil painting, 1893, rich academic realism, dramatic chiaroscuro, film still --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch04-e-slam-0.jpg --no faces, visible women, blood, nudity, abstract"
-  },
-  {
-   "cue": 83,
-   "name": "Good-bye, All! Mina!",
-   "words": "At its foot a man may sleep—as a man. Good-bye, all! Mina!",
-   "note": "The last image of Book I.",
-   "prompt": "BK1IV-E Good-bye All, cinematic wide shot of a vast sheer castle wall at first light seen from far off, a tiny figure of a man climbing down it toward the mist of the gorge far below, the castle dark above him, a pale gold sunrise breaking over the mountains, a single lit window high in the castle, oil painting, 1893, rich academic realism, luminous dawn light, film still --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch04-w-wide-0.jpg --no rope, modern, close-up, abstract"
-  }
- ]
+ "beats": []
 }

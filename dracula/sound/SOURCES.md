@@ -213,3 +213,5 @@ is cue 4's score (first light), handing back to the journey theme at cue 5. Buil
 | `hearth.mp3` | #2855 *Fireplace* (crackle, high-passed 120 Hz) over #2856 *Fireplace* (low-passed 320 Hz: the hollow roar up the chimney); 96 s, levelled to the castle fire | CC0 |
 
 - drac2-shaving-82-v2 (31 Oct 2026): water drops in a metal basin BigSoundBank 1382, stainless spoon taps 0405 (the razor on the basin), stirring water 0651 and hand-washing 1656 (the rinse) — all CC0; stone-room reverb added.
+
+2 Nov 2026 (Ian: pitch too high): `chains-low.mp3`, `bolts-low.mp3`, `key_turn-low.mp3` — the same sources lowered about 5½ semitones and slowed (asetrate ×0.72), low shelf +4 dB at 120 Hz, top rolled off (3.2–4.5 kHz), matched to the originals' peak level. sound.json points at the low versions; the originals stay for the score.

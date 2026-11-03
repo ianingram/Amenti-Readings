@@ -1600,30 +1600,99 @@
    },
    {
     "from": 35,
-    "caption": "",
+    "images": [
+     "ch01-r-lash-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "ride": true
+   },
+   {
+    "from": 35,
+    "at": "Then through the darkness I could see",
     "images": [
      "ch01-r-cleft-0.jpg",
-     "ch01-r-cleft-1.jpg",
+     "ch01-r-cleft-1.jpg"
+    ],
+    "move": [
+     "push",
+     "panl"
+    ],
+    "ride": true
+   },
+   {
+    "from": 35,
+    "at": "the crazy coach rocked on its great leather springs",
+    "images": [
+     "ch01-r-rock-0.jpg"
+    ],
+    "move": [
+     "rush"
+    ],
+    "ride": true,
+    "cut": true
+   },
+   {
+    "from": 35,
+    "at": "Then the mountains seemed to come nearer",
+    "images": [
      "ch01-r-pass-0.jpg",
      "ch01-r-pass-1.jpg",
-     "ch01-r-pass-2.jpg",
-     "ch01-r-pass-3.mp4",
-     "ch01-r-east-0.jpg",
+     "ch01-r-pass-2.jpg"
+    ],
+    "move": [
+     "push",
+     "rise",
+     "panr"
+    ],
+    "ride": true
+   },
+   {
+    "from": 35,
+    "at": "Then, as we flew along, the driver leaned forward",
+    "images": [
+     "ch01-r-rock-1.jpg",
+     "ch01-r-pass-3.mp4"
+    ],
+    "move": [
+     "rush",
+     "push"
+    ],
+    "ride": true
+   },
+   {
+    "from": 35,
+    "at": "at last we saw before us the Pass opening out",
+    "images": [
+     "ch01-r-east-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "ride": true
+   },
+   {
+    "from": 35,
+    "at": "There were dark, rolling clouds overhead",
+    "images": [
      "ch01-r-thunder-0.mp4",
-     "ch01-r-thunder-1.mp4",
+     "ch01-r-thunder-1.mp4"
+    ],
+    "move": [
+     "sink",
+     "push"
+    ],
+    "ride": true
+   },
+   {
+    "from": 35,
+    "at": "We could see now the sandy road lying white",
+    "images": [
      "ch01-r-white-0.jpg",
      "ch01-r-white-1.jpg"
     ],
     "move": [
-     "push",
-     "panl",
-     "push",
-     "rise",
-     "panr",
-     "push",
-     "push",
-     "sink",
-     "push",
      "pull",
      "push"
     ],

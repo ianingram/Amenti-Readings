@@ -1774,6 +1774,16 @@
     ]
    },
    {
+    "from": 38,
+    "cut": true,
+    "images": [
+     "ch01-n10-two-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
     "from": 40,
     "at": "You cannot deceive me",
     "cut": true,
@@ -1788,7 +1798,22 @@
     "from": 41,
     "caption": "",
     "images": [
+     "ch01-n10-mouth-0.jpg"
+    ],
+    "cut": true,
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 41,
+    "at": "One of my companions whispered",
+    "cut": true,
+    "images": [
      "ch01-bk-coach-0.jpg"
+    ],
+    "move": [
+     "push"
     ]
    },
    {

@@ -315,7 +315,7 @@
     "caption": "The fury",
     "cut": true,
     "images": [
-     "ch02-fury-grab-0.jpg"
+     "ch02-fury-grab-1.jpg"
     ],
     "move": [
      "push"
@@ -323,11 +323,22 @@
    },
    {
     "from": 85,
-    "at": "It made an instant change",
+    "at": "and his hand touched",
     "caption": "The crucifix",
     "cut": true,
     "images": [
-     "ch02-fury-cross-1.mp4"
+     "ch02-fury-cross-2.mp4"
+    ]
+   },
+   {
+    "from": 85,
+    "at": "for the fury passed",
+    "caption": "The fury passed",
+    "images": [
+     "ch02-fury-after-0.jpg"
+    ],
+    "move": [
+     "pull"
     ]
    },
    {

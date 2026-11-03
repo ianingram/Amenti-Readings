@@ -215,3 +215,5 @@ is cue 4's score (first light), handing back to the journey theme at cue 5. Buil
 - drac2-shaving-82-v2 (31 Oct 2026): water drops in a metal basin BigSoundBank 1382, stainless spoon taps 0405 (the razor on the basin), stirring water 0651 and hand-washing 1656 (the rinse) — all CC0; stone-room reverb added.
 
 2 Nov 2026 (Ian: pitch too high): `chains-low.mp3`, `bolts-low.mp3`, `key_turn-low.mp3` — the same sources lowered about 5½ semitones and slowed (asetrate ×0.72), low shelf +4 dB at 120 Hz, top rolled off (3.2–4.5 kHz), matched to the originals' peak level. sound.json points at the low versions; the originals stay for the score.
+
+| `drac2-mirror-84-v2.mp3` | Ch II cue 85, the crucifix: v1 narration with a 6.3 s pause after "held the crucifix"; a synthesized high ring rising through the pause and striking white at the flash; `sear.mp3` (#0145) at the flash; the Count's cry from BigSoundBank #2109 *Zombie #4* (CC0), pitched down and given stone-room echo | CC0 + original |

@@ -60,7 +60,7 @@ document.getElementById('beats').innerHTML=D.beats.map((b,i)=>`
     <div class="tc">${mmss(b.start)}<small>to ${mmss(b.end)} · ${b.end-b.start} s</small><span class="pill ${b.status}">${label[b.status]}</span></div>
     <div style="display:grid;gap:6px">${b.img?`<div class="frame" role="img" aria-label="${esc(b.name)}" style="background-image:url('${b.img}')"></div>`:`<div class="frame empty">to paint</div>`}${(b.extra||[]).map(x=>`<div class="frame" role="img" aria-label="${esc(b.name)}, second picture" style="background-image:url('${x}')"></div>`).join('')}</div>
     <div class="txt">
-      <div class="name">${esc(b.name)}</div>
+      <div class="name">${esc(b.name)}</div><div class="note" style="color:var(--dim)">Cue ${b.cue}${b.who?" · "+esc(b.who):""}${b.files&&b.files.length?" · "+b.files.map(esc).join(", "):""}</div>
       <p class="words">${esc(b.words)}</p>
       ${b.note?`<div class="note">${esc(b.note)}</div>`:''}
       ${b.prompt?`<pre class="prompt" id="p${i}">${esc(b.prompt)}</pre><button type="button" id="c${i}" data-i="${i}">Copy prompt</button>`:''}

@@ -6,24 +6,6 @@
  "to": 46,
  "beats": [
   {
-   "cue": 41,
-   "at": "the lamplight fell on a hard-looking mouth",
-   "name": "The mouth",
-   "words": "the lamplight fell on a hard-looking mouth, with very red lips and sharp-looking teeth, as white as ivory.",
-   "prompt": "cinematic film still, deep violet-blue twilight, extreme close view of a tall coach driver's face from below, a great black hat brim shadowing the eyes, long brown beard, the warm light of a coach lamp falling on a hard cruel mouth with very red lips parted in a smile, sharp-looking teeth white as ivory, mist behind --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch01-n05-1.jpg --no abstract, fangs, blood, modern",
-   "note": "Hard cut. The first close look at the Count."
-  },
-  {
-   "cue": 41,
-   "at": "One of my companions whispered",
-   "name": "The whisper",
-   "words": "One of my companions whispered to another the line from Burger’s “Lenore”:—",
-   "images": [
-    "ch01-bk-coach-0.jpg"
-   ],
-   "note": "Harker in the coach: the picture there now, moved to here."
-  },
-  {
    "cue": 42,
    "name": "The dead travel fast",
    "words": "“Denn die Todten reiten schnell”— (“For the dead travel fast.”)",
@@ -44,7 +26,7 @@
    "images": [
     "ch01-b9-1.jpg"
    ],
-   "note": "Unused painting on file: peasants holding up two fingers against the evil eye."
+   "note": "Unused painting on file, ready to place."
   }
  ]
 }

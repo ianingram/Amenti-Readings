@@ -1833,11 +1833,13 @@
     "at": "Without a word he shook his reins",
     "cut": true,
     "images": [
+     "ch01-n11-hell-anim.mp4",
      "ch01-n11-hell.mp4"
     ],
     "move": [
      "none"
-    ]
+    ],
+    "hold": 5
    },
    {
     "from": 46,

@@ -1708,20 +1708,68 @@
    },
    {
     "from": 36,
-    "at": "a calèche, with four horses, drove up behind us",
+    "at": "Whilst he was speaking the horses began to neigh",
+    "cut": true,
     "images": [
-     "ch01-caleche-2.mp4",
-     "ch01-caleche-1.jpg"
+     "ch01-n10-panic.mp4"
+    ]
+   },
+   {
+    "from": 36,
+    "at": "amongst a chorus of screams",
+    "cut": true,
+    "images": [
+     "ch01-bk-coach-2.jpg"
     ],
-    "cut": true
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 36,
+    "at": "a calèche, with four horses, drove up behind us",
+    "cut": true,
+    "cuts": true,
+    "hold": 1.4,
+    "images": [
+     "ch01-n10-pass-0.jpg",
+     "ch01-n10-pass-1.jpg",
+     "ch01-n10-pass-2.jpg",
+     "ch01-n10-pass-3.jpg"
+    ],
+    "move": [
+     "rush",
+     "whipl",
+     "rush",
+     "push"
+    ]
+   },
+   {
+    "from": 36,
+    "at": "I could see from the flash of our lamps",
+    "cut": true,
+    "hold": 3.9,
+    "images": [
+     "ch01-n10-black-0.mp4",
+     "ch01-n10-black-1.mp4"
+    ]
+   },
+   {
+    "from": 36,
+    "at": "They were driven by a tall man",
+    "cut": true,
+    "images": [
+     "ch01-n10-eyes.mp4"
+    ],
+    "move": [
+     "none"
+    ]
    },
    {
     "from": 41,
     "caption": "",
     "images": [
-     "ch01-bk-coach-0.jpg",
-     "ch01-bk-caleche-2.jpg",
-     "ch01-bk-coach-2.jpg"
+     "ch01-bk-coach-0.jpg"
     ]
    },
    {

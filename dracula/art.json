@@ -1438,8 +1438,7 @@
      "ch01-y-petal-1.jpg",
      "ch01-y-petal-2.jpg",
      "ch01-y-pine-0.jpg",
-     "ch01-y-orchard-2.jpg",
-     "ch01-y-orchard-0.jpg"
+     "ch01-y-orchard-2.jpg"
     ],
     "move": [
      "push",
@@ -1448,8 +1447,18 @@
      "push",
      "panl",
      "rise",
-     "panr",
-     "pull"
+     "panr"
+    ],
+    "ride": true
+   },
+   {
+    "from": 31,
+    "at": "The road was rugged",
+    "images": [
+     "ch01-d11-1.jpg"
+    ],
+    "move": [
+     "push"
     ],
     "ride": true
    },
@@ -1467,6 +1476,17 @@
      "push",
      "panl",
      "rise"
+    ],
+    "ride": true
+   },
+   {
+    "from": 32,
+    "at": "as we swept round the base of a hill",
+    "images": [
+     "ch01-d16-1.jpg"
+    ],
+    "move": [
+     "push"
     ],
     "ride": true
    },
@@ -1513,7 +1533,7 @@
     "ride": true,
     "images": [
      "ch01-r-shrine-0.jpg",
-     "ch01-r-shrine-1.jpg"
+     "ch01-d14-2.jpg"
     ]
    },
    {
@@ -1531,7 +1551,8 @@
     "move": "tour",
     "ride": true,
     "images": [
-     "ch01-d15-2.jpg"
+     "ch01-d15-1.jpg",
+     "ch01-d15-3.jpg"
     ]
    },
    {
@@ -1563,6 +1584,15 @@
      "ch01-r-ghost-0.jpg",
      "ch01-r-ghost-1.jpg"
     ]
+   },
+   {
+    "from": 34,
+    "at": "Sometimes the hills were so steep",
+    "images": [
+     "ch01-d17-1-dusk.jpg"
+    ],
+    "move": "tour",
+    "ride": true
    },
    {
     "from": 35,

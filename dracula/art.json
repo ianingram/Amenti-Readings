@@ -1664,12 +1664,27 @@
     "from": 35,
     "at": "There were dark, rolling clouds overhead",
     "images": [
-     "ch01-r-thunder-0.mp4",
-     "ch01-r-thunder-1.mp4"
+     "ch01-r-atmos-2.jpg"
     ],
     "move": [
-     "sink",
      "push"
+    ],
+    "ride": true
+   },
+   {
+    "from": 35,
+    "at": "It seemed as though the mountain range had separated two atmospheres",
+    "cut": true,
+    "images": [
+     "ch01-r-atmos-0.mp4"
+    ],
+    "ride": true
+   },
+   {
+    "from": 35,
+    "at": "I was now myself looking out for the conveyance",
+    "images": [
+     "ch01-r-atmos-1.mp4"
     ],
     "ride": true
    },
@@ -1814,6 +1829,17 @@
      "ch01-n03-3.jpg",
      "ch01-n03-2.jpg"
     ]
+   },
+   {
+    "from": 47,
+    "cut": true,
+    "images": [
+     "ch01-n11-brandy-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "ride": true
    },
    {
     "from": 49,

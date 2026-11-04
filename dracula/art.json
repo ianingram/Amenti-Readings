@@ -1695,11 +1695,11 @@
     "at": "We could see now the sandy road lying white",
     "images": [
      "ch01-r-white-0.jpg",
-     "ch01-r-white-1.jpg"
+     "ch01-n12-road-0.mp4"
     ],
     "move": [
      "pull",
-     "push"
+     "none"
     ],
     "ride": true
    },
@@ -2071,7 +2071,15 @@
     "caption": "The ring of wolves",
     "images": [
      "ch01-w-horses-1.jpg",
-     "ch01-w-moonrise-2.jpg",
+     "ch01-w-moonrise-2.jpg"
+    ]
+   },
+   {
+    "from": 52,
+    "at": "by its light I saw around us a ring of wolves",
+    "cut": true,
+    "images": [
+     "ch01-w2-ring-0.jpg",
      "ch01-w-ring-1.jpg",
      "ch01-n06-4.jpg",
      "ch01-w-ring-2.jpg",

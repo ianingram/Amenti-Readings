@@ -2121,8 +2121,33 @@
     "at": "How he came there",
     "cut": true,
     "images": [
-     "ch01-w-command-1.jpg",
-     "ch01-w-command-2.jpg"
+     "ch01-w2-command-1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 53,
+    "at": "As he swept his long arms",
+    "cut": true,
+    "images": [
+     "ch01-w2-command-0.jpg",
+     "ch01-w2-command-2.jpg"
+    ],
+    "move": [
+     "push",
+     "pull"
+    ]
+   },
+   {
+    "from": 53,
+    "at": "Just then a heavy cloud passed",
+    "images": [
+     "ch01-w2-dark.mp4"
+    ],
+    "move": [
+     "none"
     ]
    },
    {

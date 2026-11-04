@@ -2093,12 +2093,35 @@
     "cut": true,
     "images": [
      "ch01-w-howl-3.jpg",
-     "ch01-w-howl-1.jpg",
-     "ch01-w-horses-2.jpg",
+     "ch01-w-howl-1.jpg"
+    ]
+   },
+   {
+    "from": 53,
+    "at": "The horses jumped about and reared",
+    "cut": true,
+    "images": [
+     "ch01-w2-strobe.mp4"
+    ],
+    "move": [
+     "none"
+    ]
+   },
+   {
+    "from": 53,
+    "at": "I called to the coachman",
+    "images": [
      "ch01-bk-wolves-0.jpg",
-     "ch01-w-command-1.jpg",
      "ch01-bk-wolves-3.jpg",
-     "ch01-bk-wolves-1.jpg",
+     "ch01-bk-wolves-1.jpg"
+    ]
+   },
+   {
+    "from": 53,
+    "at": "How he came there",
+    "cut": true,
+    "images": [
+     "ch01-w-command-1.jpg",
      "ch01-w-command-2.jpg"
     ]
    },

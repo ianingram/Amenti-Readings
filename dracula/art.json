@@ -1902,27 +1902,43 @@
     "caption": "The tunnel of trees",
     "ride": "fast",
     "cuts": true,
-    "hold": 1.4,
+    "hold": 4,
     "pace": 1,
     "images": [
-     "ch01-tn-03.jpg",
-     "ch01-tn-charge.mp4",
+     "ch01-tn-03.jpg"
+    ],
+    "move": [
+     "rush"
+    ]
+   },
+   {
+    "from": 50,
+    "at": "arched right over",
+    "ride": "fast",
+    "cut": true,
+    "images": [
+     "ch01-tn-charge.mp4"
+    ],
+    "move": [
+     "none"
+    ]
+   },
+   {
+    "from": 50,
+    "at": "as through a tunnel",
+    "ride": "fast",
+    "cuts": true,
+    "hold": 0.8,
+    "pace": 1,
+    "images": [
      "ch01-n11-forest-0.jpg",
-     "ch01-n11-forest-1.jpg",
      "ch01-n11-forest-2.jpg",
-     "ch01-tn-01.jpg",
-     "ch01-tn-13.jpg",
      "ch01-tn-10.jpg"
     ],
     "move": [
      "rush",
-     "none",
-     "rush",
      "whipr",
-     "rush",
-     "whipr",
-     "rush",
-     "drop"
+     "rush"
     ]
    },
    {

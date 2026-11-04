@@ -1709,11 +1709,11 @@
     "cut": true,
     "images": [
      "ch01-n12-nocar-0.jpg",
-     "ch01-n12-nocar-1.jpg"
+     "ch01-n12-nocar-1.mp4"
     ],
     "move": [
      "push",
-     "pull"
+     "none"
     ]
    },
    {
@@ -1875,7 +1875,24 @@
     "caption": "",
     "images": [
      "https://amenti-media.ingram-ian.workers.dev/m/dracula/dracula-ch01-n07-1-air.mp4",
-     "ch01-n07-4.mp4",
+     "ch01-n07-4.mp4"
+    ]
+   },
+   {
+    "from": 49,
+    "at": "He petted and soothed them",
+    "cut": true,
+    "images": [
+     "ch01-n12-whisper-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 49,
+    "at": "The driver again took his seat",
+    "images": [
      "ch01-n07-2.jpg",
      "ch01-n07-3.jpg"
     ]

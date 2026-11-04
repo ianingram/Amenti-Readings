@@ -12,9 +12,11 @@ rng=np.random.default_rng(3)
 def noise(h,w,s): 
   n=gaussian_filter(rng.standard_normal((h,w)).astype(np.float32),s,mode='wrap'); return (n-n.min())/(n.max()-n.min())
 TW=W*3
+YY,XX=np.mgrid[0:H,0:W]
 fogA=noise(H//4,TW//4,(10,30)); fogA=np.kron(fogA,np.ones((4,4)))[:H,:TW]
 fogB=noise(H//4,TW//4,(6,14)); fogB=np.kron(fogB,np.ones((4,4)))[:H,:TW]
 yy=np.arange(H)[:,None]
+fogC=noise(H//4,TW//4,(5,9)); fogC=np.kron(fogC,np.ones((4,4)))[:H,:TW]
 ground=np.clip((yy-H*0.45)/(H*0.4),0,1)
 # streaks: thin horizontal white trails
 N_S=26
@@ -29,19 +31,14 @@ for f,fr in enumerate(seq):
   fa=np.roll(fogA,int(-t*520)%TW,axis=1)[:,:W]; fb=np.roll(fogB,int(-t*980)%TW,axis=1)[:,:W]
   fog=np.clip((fa-0.45)*2.2,0,1)*0.55*(0.35+0.65*ground) + np.clip((fb-0.5)*2.5,0,1)*0.5*ground
   o=o*(1-fog[...,None])+mist*fog[...,None]
-  # streaks
-  L=np.zeros((H,W),np.float32)
-  for i in range(N_S):
-    x=(sx[i]-sv[i]*t)%(W+400)-200; y=int(sy[i]+6*math.sin(t*3+i))
-    x0=int(max(0,x)); x1=int(min(W,x+sl[i]))
-    if x1>x0 and 0<=y<H:
-      ramp=np.linspace(1,0,x1-x0)**1.5
-      for dy in range(-2,3):
-        yy2=y+dy+((np.arange(x0,x1)-x0)*0.06).astype(int)
-        ok=(yy2>=0)&(yy2<H)
-        L[yy2[ok],np.arange(x0,x1)[ok]]=np.maximum(L[yy2[ok],np.arange(x0,x1)[ok]],ramp[ok]*sa[i]*(1-abs(dy)/3))
-  L=gaussian_filter(L,(4,8))*4.0
-  o=o+L[...,None]*mist
+  # swirling vapor: a third soft layer whose sampling is warped by a slowly turning field
+  ph=t*0.9
+  dx=(np.sin(YY/70+ph)*38+np.cos(XX/110-ph*1.3)*30).astype(np.int32)
+  dy=(np.cos(XX/90+ph*0.8)*22+np.sin(YY/60-ph)*16).astype(np.int32)
+  xs=(XX+dx+int(t*700))%TW; ys=np.clip(YY+dy,0,H-1)
+  sw=fogC[ys,xs]
+  vap=np.clip((sw-0.5)*2.6,0,1)*0.5*(0.3+0.7*ground)
+  o=o*(1-vap[...,None])+mist*vap[...,None]
   ff.stdin.write((np.clip(o,0,1)*255).astype(np.uint8).tobytes())
 ff.stdin.close(); ff.wait()
 print(len(seq)/FPS)

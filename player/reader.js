@@ -267,7 +267,31 @@
       });
     },
 
+    /* ── RECORDED LINES ARE FETCHED AHEAD TOO · 3 Nov 2026 (Ian: "the speech is
+       halting and then begins… as we move up the mountains") ───────────────
+       warm() readies spoken lines, but a recorded cue's mp3 was only requested
+       when it was reached, so every switch between a recorded cue and a spoken
+       one waited on the network (worst on a hotspot, with clips loading too).
+       Now the next recorded files are downloaded while the current line plays
+       and played from memory. */
+    PREFETCH_AHEAD: 4,
+    _prefetchAudio: function () {
+      var cues = R.sheet && R.sheet.cues;
+      if (!cues || typeof fetch !== 'function' || !window.URL || !URL.createObjectURL) return;
+      for (var j = 0; j <= R.PREFETCH_AHEAD; j++) {
+        var c = cues[R.i + j];
+        if (!c || !c.audio || c._blob || c._fetching || c._audioFailed) continue;
+        (function (c) {
+          c._fetching = true;
+          fetch(c.audio).then(function (r) { return r.ok ? r.blob() : null; })
+            .then(function (b) { if (b) c._blob = URL.createObjectURL(b); })
+            ['catch'](function () {});
+        })(c);
+      }
+    },
+
     _warmAhead: function () {
+      try { R._prefetchAudio(); } catch (e) {}
       var eng = R.engine(), cues = R.sheet && R.sheet.cues;
       if (!eng || !cues) return;
       if (typeof eng.warm !== 'function') {
@@ -370,7 +394,7 @@
         cue._audioFailed = true;
         if (R.i === at && R.state === 'reading') R._next();
       };
-      a.src = cue.audio;
+      a.src = cue._blob || cue.audio;
       var p = a.play();
       if (p && typeof p['catch'] === 'function') p['catch'](function () { if (tok === R._tok && a.onerror) a.onerror(); });
     },
@@ -426,7 +450,7 @@
       };
       a.onloadedmetadata = function () { if (tok === R._tok && start) { try { a.currentTime = start; } catch (e) {} } };
       /* play at once on the unlocked element; move to the line's place when the file can seek */
-      a.src = c.audio;
+      a.src = c._blob || c.audio;
       var p = a.play();
       if (p && typeof p['catch'] === 'function') p['catch'](function () { if (tok === R._tok && a.onerror) a.onerror(); });
     },

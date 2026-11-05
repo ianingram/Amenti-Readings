@@ -2520,8 +2520,8 @@
     "from": 11,
     "at": "He is a doctor",
     "images": [
-     "ch05-est-asylum-0.jpg",
-     "ch05-est-asylum-1.jpg"
+     "ch05-est-asylum-0-p.jpg",
+     "ch05-est-asylum-1-p.jpg"
     ],
     "move": [
      "push",
@@ -2661,7 +2661,7 @@
     "caption": "Dr. Seward’s Diary",
     "cut": true,
     "images": [
-     "ch05-est-asylum-2.jpg"
+     "ch05-est-asylum-2-p.jpg"
     ],
     "move": [
      "push"
@@ -2687,7 +2687,7 @@
     "from": 38,
     "cut": true,
     "images": [
-     "ch05-est-rooms-2.jpg"
+     "ch05-est-rooms-2-p.jpg"
     ],
     "move": [
      "push"

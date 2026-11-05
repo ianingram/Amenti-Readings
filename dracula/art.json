@@ -2418,9 +2418,11 @@
     "from": 5,
     "at": "I shall try to do what I see lady journalists do",
     "images": [
+     "ch05-mina-typing-1.mp4",
      "ch05-r-shorthand-1.jpg"
     ],
     "move": [
+     "none",
      "push"
     ]
    },
@@ -2480,10 +2482,12 @@
     "from": 11,
     "at": "Town is very pleasant",
     "images": [
+     "ch05-est-regent-0.jpg",
      "ch05-est-gallery-0.jpg",
      "ch05-est-park-0.jpg"
     ],
     "move": [
+     "push",
      "push",
      "pull"
     ]
@@ -2597,10 +2601,9 @@
     "from": 21,
     "at": "number Two came after lunch",
     "images": [
-     "ch05-q-texan-0.jpg",
-     "ch05-q-texan-1.jpg",
-     "ch05-q-texan-2.jpg",
-     "ch05-q-texan-3.jpg"
+     "ch05-q-texan-v0.jpg",
+     "ch05-q-texan-v1.jpg",
+     "ch05-q-texan-v2.jpg"
     ]
    },
    {
@@ -2615,9 +2618,9 @@
    {
     "from": 27,
     "images": [
-     "ch05-q-hands-3.jpg",
-     "ch05-q-kiss-0.jpg",
-     "ch05-q-kiss-1.jpg"
+     "ch05-q-kiss-v0.jpg",
+     "ch05-q-kiss-v1.jpg",
+     "ch05-q-kiss-v2.jpg"
     ]
    },
    {

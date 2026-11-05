@@ -2388,6 +2388,17 @@
     ]
    },
    {
+    "from": 28,
+    "at": "he saw a tall, thin man",
+    "cut": true,
+    "images": [
+     "ch07-log-stranger-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
     "from": 29,
     "images": [
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/deck-4.jpg"
@@ -2408,9 +2419,11 @@
    {
     "from": 31,
     "images": [
+     "ch07-log-crew-1.jpg",
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-2.jpg"
     ],
     "move": [
+     "push",
      "push"
     ]
    },
@@ -2418,10 +2431,21 @@
     "from": 32,
     "images": [
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-3.jpg",
+     "ch07-log-gale-0.jpg",
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-4.jpg"
     ],
     "move": [
      "push",
+     "push",
+     "push"
+    ]
+   },
+   {
+    "from": 33,
+    "images": [
+     "ch07-log-crew-0.jpg"
+    ],
+    "move": [
      "push"
     ]
    },

@@ -1,0 +1,91 @@
+{
+ "title": "Lucy’s Letter",
+ "h1": "Book II, Chapter V, cues 7–14 · <em>Lucy’s Letter</em>",
+ "ep": 5,
+ "from": 7,
+ "to": 14,
+ "beats": [
+  {
+   "cue": 7,
+   "at": "tall, handsome, curly-haired man",
+   "name": "The tall, curly-haired man",
+   "words": "I hear rumours, and especially of a tall, handsome, curly-haired man???",
+   "prompt": "oil painting, golden afternoon light, a tall handsome young English gentleman of about twenty-five with dark curly hair, in an elegant frock coat, standing at a London garden party, glancing across the lawn with a warm smile, ladies in summer dresses blurred behind, 1890s, romantic Victorian painting --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg --no beard, abstract, modern",
+   "note": "Arthur"
+  },
+  {
+   "cue": 11,
+   "at": "Town is very pleasant just now",
+   "name": "Town in May",
+   "words": "Town is very pleasant just now,",
+   "prompt": "cinematic film still, wide establishing view, a London street in late May 1890s, Regent Street with its curved terraces, hansom cabs and carriages, ladies with parasols, warm late-afternoon sunlight --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --no people close up, text, lettering, modern, cars, abstract",
+   "note": "Place"
+  },
+  {
+   "cue": 11,
+   "at": "picture-galleries",
+   "name": "The picture galleries",
+   "words": "and we go a good deal to picture-galleries",
+   "prompt": "cinematic film still, wide establishing view, the courtyard of Burlington House in London, home of the Royal Academy summer exhibition, fashionable visitors arriving by carriage, the grand stone façade in golden afternoon light, 1890s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --no people close up, text, lettering, modern, cars, abstract",
+   "note": "Place"
+  },
+  {
+   "cue": 11,
+   "at": "walks and rides in the park",
+   "name": "Rotten Row",
+   "words": "and for walks and rides in the park.",
+   "prompt": "cinematic film still, wide establishing view, Rotten Row in Hyde Park in May, riders on horseback along the sandy track under tall fresh-leaved trees, carriages and strollers beyond the railings, soft golden morning light, 1890s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --no people close up, text, lettering, modern, cars, abstract",
+   "note": "Place, then Arthur riding"
+  },
+  {
+   "cue": 11,
+   "at": "walks and rides in the park",
+   "name": "Riding with Arthur",
+   "words": "(follows Rotten Row)",
+   "prompt": "oil painting, golden morning light in Hyde Park, a tall curly-haired young gentleman and a pretty fair-haired girl of nineteen riding side by side along Rotten Row, she side-saddle in a dark riding habit and small hat, trees in fresh May leaf, other riders and carriages in the distance, 1890s, romantic Victorian painting --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg --no abstract, modern",
+   "note": "Arthur"
+  },
+  {
+   "cue": 11,
+   "at": "the last Pop",
+   "name": "St James’s Hall",
+   "words": "As to the tall, curly-haired man, I suppose it was the one who was with me at the last Pop.",
+   "prompt": "cinematic film still, wide establishing view, St James’s Hall in London on a concert evening, the great gaslit hall seen from the back of the gallery, a string quartet small on the distant stage, the audience in evening dress, warm amber light, 1890s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --no people close up, text, lettering, modern, cars, abstract",
+   "note": "Place, then Arthur at the concert"
+  },
+  {
+   "cue": 11,
+   "at": "the last Pop",
+   "name": "Arthur at the concert",
+   "words": "(follows the hall)",
+   "prompt": "oil painting, warm gaslight, a Victorian concert hall in London during a popular concert, a tall curly-haired young gentleman seated beside a fair-haired girl in a pale evening dress, he leans to whisper to her and she smiles, the string quartet on the stage beyond, the audience in evening dress, 1890s, romantic Victorian painting --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg --no abstract, modern",
+   "note": "Arthur"
+  },
+  {
+   "cue": 11,
+   "at": "That was Mr. Holmwood",
+   "name": "He and mamma",
+   "words": "That was Mr. Holmwood. He often comes to see us, and he and mamma get on very well together;",
+   "prompt": "oil painting, golden afternoon light through tall windows, an elegant London drawing room at tea time, a tall curly-haired young gentleman talking warmly with a frail grey-haired lady in an armchair, a fair-haired girl at the tea table watching them fondly, flowers and a silver tea service, 1890s, romantic Victorian painting --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg --no abstract, modern",
+   "note": "Arthur"
+  },
+  {
+   "cue": 11,
+   "at": "immense lunatic asylum",
+   "name": "The asylum",
+   "words": "He is only nine-and-twenty, and he has an immense lunatic asylum all under his own care.",
+   "prompt": "cinematic film still, wide establishing view, a vast Victorian lunatic asylum in its walled grounds beside the Thames marshes at Purfleet, long red-brick wings, tall chimneys and a clock tower, neat lawns, a quiet sunny afternoon, 1890s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --no people close up, text, lettering, modern, cars, abstract",
+   "note": "Place, then Seward (on file: ch05-s-one)"
+  },
+  {
+   "cue": 11,
+   "at": "Oh, Mina, couldn",
+   "name": "I love him",
+   "words": "Oh, Mina, couldn’t you guess? I love him.",
+   "images": [
+    "ch05-lucyday-window-3.jpg"
+   ],
+   "note": "Lucy alone at her window (on file)"
+  }
+ ]
+}

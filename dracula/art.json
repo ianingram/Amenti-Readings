@@ -2995,6 +2995,20 @@
      "ch06-coastguard-c1.jpg",
      "ch06-coastguard-c3.jpg"
     ]
+   },
+   {
+    "from": 78,
+    "cut": true,
+    "images": [
+     "ch06-strange-ship-0.mp4",
+     "ch06-strange-ship-1.jpg",
+     "ch06-strange-ship-2.jpg"
+    ],
+    "move": [
+     "none",
+     "push",
+     "pull"
+    ]
    }
   ],
   "8": [

@@ -2359,6 +2359,16 @@
   "5": [
    {
     "from": 2,
+    "cut": true,
+    "images": [
+     "ch05-est-school-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 4,
     "images": [
      "ch05-r-school-0.jpg"
     ]
@@ -2413,6 +2423,16 @@
    },
    {
     "from": 8,
+    "cut": true,
+    "images": [
+     "ch05-est-chatham-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 10,
     "caption": "",
     "images": [
      "ch05-lucyday-window-1.jpg",
@@ -2426,6 +2446,16 @@
    {
     "from": 15,
     "caption": "Three proposals",
+    "cut": true,
+    "images": [
+     "ch05-est-chatham-1.jpg"
+    ],
+    "move": [
+     "pull"
+    ]
+   },
+   {
+    "from": 17,
     "images": [
      "ch05-p-writing-2.jpg",
      "ch05-p-writing-1.jpg"
@@ -2545,6 +2575,16 @@
    },
    {
     "from": 38,
+    "cut": true,
+    "images": [
+     "ch05-est-rooms-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 40,
     "caption": "",
     "images": [
      "ch05-campfire-0.jpg",

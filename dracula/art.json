@@ -3027,7 +3027,16 @@
    },
    {
     "from": 13,
-    "caption": "",
+    "cut": true,
+    "images": [
+     "ch09-est-crescent-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 15,
     "images": [
      "ch06-hands-a1.jpg",
      "ch06-view-a1.jpg"

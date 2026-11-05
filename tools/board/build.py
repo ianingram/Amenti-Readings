@@ -6,7 +6,12 @@ from PIL import Image
 import pathlib
 ROOT=pathlib.Path(__file__).resolve().parents[2]
 R=str(ROOT/'dracula')+'/'; LIVE='https://ianingram.github.io/Amenti-Readings/dracula/art/'
-OUT=str(ROOT/'dracula'/'board')+'/'
+BOOK=int(sys.argv[1]) if len(sys.argv)>1 else 1
+BOOKS={1:('I','The Castle',range(1,5),'board'),2:('II','Lucy',range(5,17),'board2'),3:('III','The Hunt',range(17,28),'board3')}
+BR,BT,EPS,BD=BOOKS[BOOK]
+OUT=str(ROOT/'dracula'/BD)+'/'
+os.makedirs(OUT,exist_ok=True)
+ROMAN=['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX','XXI','XXII','XXIII','XXIV','XXV','XXVI','XXVII']
 A=json.load(open(R+'art.json'))
 def adur(q):
   au=q.get('audio')
@@ -28,10 +33,10 @@ def thumb(name):
     if os.path.exists(mp): subprocess.run(['ffmpeg','-nostdin','-v','error','-y','-ss','0.3','-i',mp,'-frames:v','1','/tmp/board-x.png']); src='/tmp/board-x.png'
     else: return None
   return Image.open(src).convert('RGB').resize((240,135),Image.LANCZOS)
-data={'book':'Dracula · Book I · The Castle','chapters':[]}
+data={'book':f'Dracula · Book {BR} · {BT}','chapters':[]}
 TW,TH,COLS=240,135,10
-for ep in (1,2,3,4):
-  e=json.load(open(R+f'ep0{ep}.json')); cues={q['n']:q for q in e['cues']}
+for ep in EPS:
+  e=json.load(open(R+f'ep{ep:02d}.json')); cues={q['n']:q for q in e['cues']}
   T={};t=0
   for q in e['cues']: T[q['n']]=(t,adur(q)); t+=T[q['n']][1]
   def start(s):
@@ -61,13 +66,13 @@ for ep in (1,2,3,4):
   rws=(len(thumbs)+COLS-1)//COLS; sp=Image.new('RGB',(COLS*TW,max(1,rws)*TH))
   for i,th in enumerate(thumbs): sp.paste(th,((i%COLS)*TW,(i//COLS)*TH))
   sp.save(OUT+f's{ep}.jpg',quality=72)
-  data['chapters'].append({'n':ep,'roman':['I','II','III','IV'][ep-1],'title':e['title'],'mins':round(t/60),'sprite':f's{ep}.jpg','cols':COLS,'rows':rws,'pics':rows})
+  data['chapters'].append({'n':ep,'roman':ROMAN[ep-1],'title':e['title'],'mins':round(t/60),'sprite':f's{ep}.jpg','cols':COLS,'rows':rws,'pics':rows})
   print(ep,len(rows),os.path.getsize(OUT+f's{ep}.jpg')//1024,'KB')
 import base64
 for c in data['chapters']: c['sprite']='data:image/jpeg;base64,'+base64.b64encode(open(OUT+c['sprite'],'rb').read()).decode()
-tpl=open(pathlib.Path(__file__).with_name('board_tpl.html')).read().replace("background-image:url(${c.sprite})","background-image:url('${c.sprite}')")
+tpl=open(pathlib.Path(__file__).with_name('board_tpl.html')).read().replace('Book I, The Castle',f'Book {BR}, {BT}').replace('Book I Production Board',f'Book {BR} Production Board').replace("in Book I'",f"in Book {BR}'").replace("background-image:url(${c.sprite})","background-image:url('${c.sprite}')")
 open(OUT+'index.html','w').write('<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">\n'+tpl.replace('__DATA__',json.dumps(data,ensure_ascii=False)))
-for c in (1,2,3,4):
+for c in EPS:
   try: os.remove(OUT+f's{c}.jpg')
   except OSError: pass
 print('wrote',OUT+'index.html')

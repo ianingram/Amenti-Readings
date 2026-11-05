@@ -4,31 +4,5 @@
  "ep": 6,
  "from": 1,
  "to": 78,
- "beats": [
-  {
-   "cue": 41,
-   "name": "BK2VI-41a · Geordie comes up the steps",
-   "words": "…won’t it make Gabriel keckle when Geordie comes pantin’ up the grees with the tombstean balanced on his hump…",
-   "prompt": "BK2VI-41a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a comic and eerie vision of Judgement Day at Whitby, at dawn the dead rising from the cliff churchyard, a little hunchbacked ghost toiling up the long stone church steps with his tombstone on his back, an angel with a trumpet above the abbey ruins laughing, golden storybook light --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch06-cronies-a3.jpg --no text, lettering, modern, abstract"
-  },
-  {
-   "cue": 51,
-   "at": "he caught it",
-   "name": "BK2VI-51a · Renfield eats the fly",
-   "words": "…he caught it, held it exultantly for a few moments between his finger and thumb, and… put it in his mouth and ate it.",
-   "prompt": "BK2VI-51a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a dim asylum room, a wild-eyed man of fifty-nine with great physical strength holding a fat bluebottle up between finger and thumb, staring at it with exultant hunger, a startled young doctor in a dark coat behind him, cold window light --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch06-cronies-a3.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-renfield.jpg --no text, lettering, modern, abstract, gore"
-  },
-  {
-   "cue": 58,
-   "name": "BK2VI-58a · The feathers",
-   "words": "Renfield has been very sick and has disgorged a whole lot of feathers… he has eaten his birds…",
-   "prompt": "BK2VI-58a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a bare asylum cell in morning light, an empty bird cage with its door open, sparrow feathers scattered across the floor and the bed, a grim attendant in a white jacket in the doorway, the patient hunched in the corner --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch06-cronies-a3.jpg --no text, lettering, modern, abstract, gore, blood"
-  },
-  {
-   "cue": 78,
-   "name": "BK2VI-78a · The strange ship",
-   "words": "“I can’t make her out… she’s a Russian, by the look of her; but she’s knocking about in the queerest way.”",
-   "prompt": "BK2VI-78a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view from the cliff top at Whitby at evening, far out on a darkening sea under storm clouds a Russian schooner with all sail set yawing strangely, an old coastguard with a spy-glass and a young woman watching from the bench, a red sunset breaking under the clouds --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch06-cronies-a3.jpg --no text, lettering, modern, abstract"
-  }
- ]
+ "beats": []
 }

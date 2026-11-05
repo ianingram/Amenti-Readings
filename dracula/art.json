@@ -2749,6 +2749,16 @@
     ]
    },
    {
+    "from": 3,
+    "images": [
+     "ch06-esk-viaduct-0.mp4"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "A great viaduct runs across"
+   },
+   {
     "from": 4,
     "caption": "",
     "images": [
@@ -2793,6 +2803,45 @@
     ]
    },
    {
+    "from": 12,
+    "images": [
+     "ch06-barguest-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "These bans an"
+   },
+   {
+    "from": 19,
+    "images": [
+     "ch06-graves-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "scores of these lay-beds"
+   },
+   {
+    "from": 23,
+    "images": [
+     "ch06-pirates-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 26,
+    "images": [
+     "ch06-greenland-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "lost in the Lively off Greenland"
+   },
+   {
     "from": 34,
     "caption": "",
     "images": [
@@ -2800,6 +2849,16 @@
      "ch06-tombstone-a2.jpg",
      "ch06-tombstone-a0.jpg"
     ]
+   },
+   {
+    "from": 39,
+    "images": [
+     "ch06-geordie-mother-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "the sorrowin"
    },
    {
     "from": 46,
@@ -2874,6 +2933,16 @@
     ]
    },
    {
+    "from": 64,
+    "images": [
+     "ch06-lockdoor-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "Then, too, Lucy"
+   },
+   {
     "from": 65,
     "caption": "",
     "images": [
@@ -2888,6 +2957,18 @@
      "ch06-waiting-b2.jpg",
      "ch06-dusk-b3.jpg"
     ]
+   },
+   {
+    "from": 67,
+    "images": [
+     "ch06-kettleness-0.mp4",
+     "ch06-kettleness-1.jpg"
+    ],
+    "move": [
+     "push",
+     "push"
+    ],
+    "at": "To-day is a grey day"
    },
    {
     "from": 68,

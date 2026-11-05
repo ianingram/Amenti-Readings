@@ -2886,6 +2886,16 @@
    {
     "from": 17,
     "caption": "Fifty boxes",
+    "cut": true,
+    "images": [
+     "ch08-est-whitby-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 19,
     "images": [
      "ch08-goods-b0.jpg",
      "ch08-goods-b2.jpg"

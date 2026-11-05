@@ -2422,6 +2422,16 @@
     ]
    },
    {
+    "from": 7,
+    "at": "tall, handsome, curly-haired man",
+    "images": [
+     "ch05-ar-party-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
     "from": 8,
     "cut": true,
     "images": [
@@ -2436,9 +2446,69 @@
     "caption": "",
     "images": [
      "ch05-lucyday-window-1.jpg",
-     "ch05-lucyg-roses-0.jpg",
+     "ch05-lucyg-roses-0.jpg"
+    ]
+   },
+   {
+    "from": 11,
+    "at": "Town is very pleasant",
+    "images": [
+     "ch05-est-gallery-0.jpg",
+     "ch05-est-park-0.jpg"
+    ],
+    "move": [
+     "push",
+     "pull"
+    ]
+   },
+   {
+    "from": 11,
+    "at": "As to the tall, curly-haired man",
+    "images": [
+     "ch05-est-hall-0.jpg",
+     "ch05-ar-pop-0.jpg"
+    ],
+    "move": [
+     "push",
+     "push"
+    ]
+   },
+   {
+    "from": 11,
+    "at": "That was Mr. Holmwood",
+    "images": [
+     "ch05-ar-mamma-0.jpg",
+     "ch05-ar-ride-0.jpg"
+    ],
+    "move": [
+     "pull",
+     "push"
+    ]
+   },
+   {
+    "from": 11,
+    "at": "He is a doctor",
+    "images": [
+     "ch05-est-asylum-0.jpg",
+     "ch05-est-asylum-1.jpg"
+    ],
+    "move": [
+     "push",
+     "pull"
+    ]
+   },
+   {
+    "from": 11,
+    "at": "I think he is one of",
+    "images": [
      "ch05-lucyday-writing-1.jpg",
-     "ch05-lucyg-arbour-1.jpg",
+     "ch05-lucyg-arbour-1.jpg"
+    ]
+   },
+   {
+    "from": 11,
+    "at": "Oh, Mina, couldn",
+    "images": [
      "ch05-lucyday-window-3.jpg",
      "ch05-night-2.jpg"
     ]

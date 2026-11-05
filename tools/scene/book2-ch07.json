@@ -1,0 +1,50 @@
+{
+ "title": "Book II · Chapter VII",
+ "h1": "Book II, <em>Chapter VII</em> — the chapter batch",
+ "ep": 7,
+ "from": 1,
+ "to": 46,
+ "beats": [
+  {
+   "cue": 28,
+   "at": "he saw a tall, thin man",
+   "name": "BK2VII-28a · The tall, thin man",
+   "words": "…he saw a tall, thin man, who was not like any of the crew, come up the companion-way, and go along the deck forward, and disappear.",
+   "prompt": "BK2VII-28a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of Ivan Aivazovsky and Winslow Homer, 1890s, night on the deck of a Russian schooner in a rain-storm, a terrified sailor sheltering behind the deck-house, and along the wet deck a tall thin figure in black, not one of the crew, walking forward away from him into the dark and rain, a single swinging lantern --ar 16:9 --sref https://ianingram.github.io/Amenti-Studios/dracula/voyage/deck-3.jpg --no text, lettering, modern, abstract, face visible"
+  },
+  {
+   "cue": 29,
+   "at": "we would search from stem to stern",
+   "name": "BK2VII-29a · The search of the hold",
+   "words": "…we would search from stem to stern… we left no corner unsearched.",
+   "prompt": "BK2VII-29a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of Ivan Aivazovsky and Winslow Homer, 1890s, the dark hold of a sailing ship, frightened sailors with lanterns searching among stacked wooden boxes of earth, the first mate scowling with a handspike, the captain watching from the ladder, deep shadows between the boxes --ar 16:9 --sref https://ianingram.github.io/Amenti-Studios/dracula/voyage/deck-3.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 33,
+   "name": "BK2VII-33a · Another man gone",
+   "words": "When morning watch came on deck could find no one except steersman… Thorough search, but no one found.",
+   "prompt": "BK2VII-33a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of Ivan Aivazovsky and Winslow Homer, 1890s, grey dawn on the deck of a schooner on an empty sea, a handful of haggard sailors and the captain staring at an empty deck, a lantern still burning by the rail, a coil of rope, no one there --ar 16:9 --sref https://ianingram.github.io/Amenti-Studios/dracula/voyage/deck-3.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 38,
+   "at": "raging madman",
+   "name": "BK2VII-38a · The mate goes mad",
+   "words": "…up on the deck he came as if shot from a gun—a raging madman, with his eyes rolling and his face convulsed with fear. “Save me! save me!”",
+   "prompt": "BK2VII-38a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of Ivan Aivazovsky and Winslow Homer, 1890s, night in thick fog on a schooner’s deck, the first mate in his flannels bursting up from the hatchway like a madman, eyes rolling, face convulsed with terror, the captain at the wheel behind him in lantern light --ar 16:9 --sref https://ianingram.github.io/Amenti-Studios/dracula/voyage/deck-3.jpg --no text, lettering, modern, abstract, blood, gore"
+  },
+  {
+   "cue": 38,
+   "at": "he sprang on the bulwark",
+   "name": "BK2VII-38b · Into the sea",
+   "words": "…he sprang on the bulwark and deliberately threw himself into the sea.",
+   "prompt": "BK2VII-38b oil on canvas, visible brushstrokes, soft painterly edges, in the manner of Ivan Aivazovsky and Winslow Homer, 1890s, a figure leaping from the rail of a schooner into a dark fog-shrouded sea, the captain at the wheel reaching out too late, the wake pale in the fog, dawn not yet come --ar 16:9 --sref https://ianingram.github.io/Amenti-Studios/dracula/voyage/deck-3.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 39,
+   "at": "I shall tie my hands to the wheel",
+   "name": "BK2VII-39a · Lashed to the wheel",
+   "words": "…I shall tie my hands to the wheel when my strength begins to fail, and along with them I shall tie that which He—It!—dare not touch…",
+   "prompt": "BK2VII-39a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of Ivan Aivazovsky and Winslow Homer, 1890s, the old captain of a Russian schooner alone at the wheel in thick fog at dawn, binding his own hands to the spokes with rope, a crucifix and rosary wound round his wrists, his face set and exhausted, the empty deck behind him, the fog lit faintly by an unseen sunrise --ar 16:9 --sref https://ianingram.github.io/Amenti-Studios/dracula/voyage/deck-3.jpg --no text, lettering, modern, abstract"
+  }
+ ]
+}

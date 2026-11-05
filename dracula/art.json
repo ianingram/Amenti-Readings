@@ -2629,6 +2629,16 @@
    {
     "from": 32,
     "caption": "Dr. Seward’s Diary",
+    "cut": true,
+    "images": [
+     "ch05-est-asylum-2.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 33,
     "images": [
      "ch05-phonograph-0.jpg",
      "ch05-phonograph-3.jpg"

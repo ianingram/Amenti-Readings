@@ -2984,6 +2984,16 @@
    {
     "from": 2,
     "caption": "Buda-Pesth",
+    "cut": true,
+    "images": [
+     "ch09-est-danube-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 4,
     "images": [
      "ch09-arrival-a3.jpg",
      "ch09-arrival-a0.jpg",

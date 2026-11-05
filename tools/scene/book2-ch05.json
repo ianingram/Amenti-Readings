@@ -6,71 +6,39 @@
  "to": 46,
  "beats": [
   {
-   "cue": 5,
-   "at": "write it out for him on the typewriter",
-   "name": "BK2V-05a · Mina at the typewriter",
-   "words": "…write it out for him on the typewriter, at which also I am practising very hard.",
-   "note": "Replaces the three typing pictures (the typist reads as a boy).",
-   "prompt": "BK2V-05a oil painting, 1890s, romantic Victorian painting, bright spring morning light, a young English schoolmistress of twenty-three with dark hair pinned up, high-collared white blouse and dark skirt, practising on an early typewriter at a sunny window in a London schoolroom, papers and a shorthand notebook beside her, absorbed and determined --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg --no boy, man, short hair, abstract, modern"
-  },
-  {
-   "cue": 11,
-   "at": "Town is very pleasant just now",
-   "name": "BK2V-11a · Town in May",
-   "words": "Town is very pleasant just now,",
-   "note": "Optional: the Regent Street shot that did not come through.",
-   "prompt": "BK2V-11a cinematic film still, wide establishing view, Regent Street in London in late May 1890s, the curved terraces, hansom cabs and carriages, ladies with parasols, warm late-afternoon sunlight --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --no people close up, text, lettering, modern, cars, abstract"
-  },
-  {
-   "cue": 21,
-   "at": "number Two came after lunch",
-   "name": "BK2V-21a · Number Two, the Texan",
-   "words": "He is such a nice fellow, an American from Texas, and he looks so young and so fresh…",
-   "note": "Quincey with his face reference, to replace the drifting faces.",
-   "prompt": "BK2V-21a oil painting, 1890s, romantic Victorian painting, golden afternoon light in an elegant London drawing room, a tall lean young American from Texas, fresh-faced and sunburnt with a light moustache, in a well-cut grey suit, sitting forward on the sofa telling a lively story, a fair-haired girl of nineteen in white laughing beside him, his wide-brimmed hat on the cushion --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-quincey.jpg --no abstract, modern"
-  },
-  {
-   "cue": 27,
-   "at": "That’s my brave girl",
-   "name": "BK2V-27a · Quincey’s farewell",
-   "words": "Little girl, I hold your hand, and you’ve kissed me… (the kiss of friendship)",
-   "note": "Quincey as in 21a; replaces the two kiss pictures with a different man.",
-   "prompt": "BK2V-27a oil painting, 1890s, romantic Victorian painting, golden afternoon light by a tall window, a tall young American with a light moustache holding both hands of a fair-haired girl in white, she rises on tiptoe to kiss his cheek in friendship, tears in her eyes, his face brave and kind --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-quincey.jpg --no abstract, modern, kissing on the lips"
-  },
-  {
    "cue": 30,
    "name": "BK2V-30a · Number Three arrives",
    "words": "it seemed only a moment from his coming into the room…",
    "note": "Arthur, curly-haired, as tonight’s pictures.",
-   "prompt": "BK2V-30a oil painting, 1890s, romantic Victorian painting, golden afternoon light, a tall curly-haired young English gentleman striding eagerly into an elegant London drawing room through an open door, hat in hand, a fair-haired girl in white turning to him from the window with joy --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg --no abstract, modern"
+   "prompt": "BK2V-30a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, golden afternoon light, a tall curly-haired young English gentleman striding eagerly into an elegant London drawing room through an open door, hat in hand, a fair-haired girl in white turning to him from the window with joy --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-p-writing-2.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg --no abstract, modern"
   },
   {
    "cue": 30,
    "at": "I am very, very happy",
    "name": "BK2V-30b · Number Three, the embrace",
    "words": "…till both his arms were round me, and he was kissing me. I am very, very happy…",
-   "prompt": "BK2V-30b oil painting, 1890s, romantic Victorian painting, golden afternoon light through tall lace-curtained windows, a tall curly-haired young English gentleman sweeping a fair-haired girl of nineteen in a white dress into his arms, both laughing and kissing, her face radiant, flowers on the table --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg --no abstract, modern"
+   "prompt": "BK2V-30b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, golden afternoon light through tall lace-curtained windows, a tall curly-haired young English gentleman sweeping a fair-haired girl of nineteen in a white dress into his arms, both laughing and kissing, her face radiant, flowers on the table --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-p-writing-2.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg --no abstract, modern"
   },
   {
    "cue": 41,
    "at": "trying a landing at the Marquesas",
    "name": "BK2V-41a · The Marquesas",
    "words": "…and dressed one another’s wounds after trying a landing at the Marquesas;",
-   "prompt": "BK2V-41a cinematic film still, wide establishing view, a ship’s boat fighting through heavy surf toward the jagged green volcanic cliffs of the Marquesas Islands, three young adventurers at the oars, spray and golden evening light, 1880s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --no text, lettering, modern, abstract"
+   "prompt": "BK2V-41a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, a ship’s boat fighting through heavy surf toward the jagged green volcanic cliffs of the Marquesas Islands, three young adventurers at the oars, spray and golden evening light, 1880s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-p-writing-2.jpg --no text, lettering, modern, abstract"
   },
   {
    "cue": 41,
    "at": "drunk healths on the shore of Titicaca",
    "name": "BK2V-41b · Lake Titicaca",
    "words": "…and drunk healths on the shore of Titicaca.",
-   "prompt": "BK2V-41b cinematic film still, wide establishing view, three young travellers raising tin cups at a campfire on the shore of Lake Titicaca high in the Andes, reed boats on the deep blue water, snowy peaks beyond, last golden light, 1880s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --no people close up, text, lettering, modern, abstract"
+   "prompt": "BK2V-41b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, three young travellers raising tin cups at a campfire on the shore of Lake Titicaca high in the Andes, reed boats on the deep blue water, snowy peaks beyond, last golden light, 1880s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-p-writing-2.jpg --no people close up, text, lettering, modern, abstract"
   },
   {
    "cue": 41,
    "at": "Won’t you let this be at my camp-fire",
    "name": "BK2V-41c · The three friends’ toast",
    "words": "Won’t you let this be at my camp-fire to-morrow night? …Jack Seward. He’s coming, too…",
-   "prompt": "BK2V-41c oil painting, 1890s, romantic Victorian painting, warm candlelight in a gentleman’s dining room in London at night, three young men in evening dress around a table raising their glasses in a toast: a tall lean American with a light moustache, a dark-haired doctor, and a tall curly-haired young gentleman, the remains of dinner and wine, friendship and sorrow in their faces --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-lucyday-window-1.jpg --no abstract, modern"
+   "prompt": "BK2V-41c oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, warm candlelight in a gentleman’s dining room in London at night, three young men in evening dress around a table raising their glasses in a toast: a tall lean American with a light moustache, a dark-haired doctor, and a tall curly-haired young gentleman, the remains of dinner and wine, friendship and sorrow in their faces --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch05-p-writing-2.jpg --no abstract, modern"
   }
  ]
 }

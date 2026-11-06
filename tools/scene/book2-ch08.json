@@ -1,0 +1,59 @@
+{
+ "title": "Book II · Chapter VIII",
+ "h1": "Book II, <em>Chapter VIII</em> — the chapter batch",
+ "ep": 8,
+ "from": 1,
+ "to": 59,
+ "beats": [
+  {
+   "cue": 3,
+   "at": "some dear cows",
+   "name": "BK2VIII-03a · The cows by the lighthouse",
+   "words": "…some dear cows who came nosing towards us in a field close to the lighthouse, and frightened the wits out of us.",
+   "prompt": "BK2VIII-03a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, warm summer afternoon on the cliff tops near Whitby, two young women in summer dresses, one dark-haired one fair, laughing and startled as curious cows come nosing toward them across a green field, a white lighthouse and the blue sea behind --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch08-cliff-b3.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 3,
+   "at": "Robin Hood",
+   "name": "BK2VIII-03b · Tea at Robin Hood’s Bay",
+   "words": "We had a capital “severe tea” at Robin Hood’s Bay in a sweet little old-fashioned inn, with a bow-window right over the seaweed-covered rocks…",
+   "prompt": "BK2VIII-03b oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, the fishing village of Robin Hood’s Bay on the Yorkshire coast at golden evening, red-roofed cottages tumbling down the cliff to the sea, an old inn with a bow-window over the seaweed-covered rocks of the strand, the tide out --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch08-cliff-b3.jpg --no text, lettering, modern, abstract, people close up"
+  },
+  {
+   "cue": 4,
+   "at": "the silver light of the moon struck",
+   "name": "BK2VIII-04a · Something dark bent over her",
+   "words": "…on our favourite seat, the silver light of the moon struck a half-reclining figure, snowy white… something dark stood behind the seat… and bent over it.",
+   "note": "The key horror beat of the chapter: show the shape, never the face.",
+   "prompt": "BK2VIII-04a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, night, a sword-cut of moonlight between racing clouds falling on the clifftop churchyard of St Mary’s at Whitby, a young woman in a snowy white nightdress half-reclining on a bench among the tombstones, and behind the bench a tall dark shape bending low over her, only its outline and two red gleaming eyes visible, the ruined abbey black against the sky --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch08-sleep-gate-3.jpg --no text, lettering, modern, abstract, face, gore, blood"
+  },
+  {
+   "cue": 4,
+   "at": "flew down the steep steps",
+   "name": "BK2VIII-04b · Mina runs",
+   "words": "…I did not wait to catch another glance, but flew down the steep steps to the pier and along by the fish-market to the bridge…",
+   "prompt": "BK2VIII-04b oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, night, a young dark-haired woman in a long skirt and shawl running down the steep stone church steps of Whitby in the moonlight, the sleeping town below, the harbour bridge glimmering, clouds racing across the moon --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch08-sleep-gate-3.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 16,
+   "at": "the roses in her cheeks are fading",
+   "name": "BK2VIII-16a · Lucy fading",
+   "words": "…all the time the roses in her cheeks are fading, and she gets weaker and more languid day by day; at night I hear her gasping as if for air.",
+   "prompt": "BK2VIII-16a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a Whitby bedroom at night, a beautiful fair-haired young woman asleep in bed, pale and drawn, breathing heavily with her lips parted, a lace collar loose at her throat, a dark-haired friend watching anxiously from a chair by a single candle, the window shut and the curtain stirring --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch08-cliff-b3.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-lucy.jpg --no text, lettering, modern, abstract, blood, gore"
+  },
+  {
+   "cue": 33,
+   "at": "something long and dark with red eyes",
+   "name": "BK2VIII-33a · Lucy’s dream",
+   "words": "…something long and dark with red eyes… something very sweet and very bitter all around me at once; and then I seemed sinking into deep green water…",
+   "prompt": "BK2VIII-33a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a dreamlike vision, a pale young woman in a white nightdress sinking slowly through deep green sea water, her fair hair floating, eyes half closed in a trance, above her through the water two red eyes in a long dark shadow, shafts of moonlight from the surface, haunting and beautiful --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch08-cliff-b3.jpg --no text, lettering, modern, abstract, gore"
+  },
+  {
+   "cue": 54,
+   "at": "I got a ladder myself",
+   "name": "BK2VIII-54a · Over the wall to Carfax",
+   "words": "I got a ladder myself, and crossing the wall, dropped down on the other side. I could see Renfield’s figure just disappearing behind the angle of the house…",
+   "prompt": "BK2VIII-54a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, night, a young doctor climbing over a high garden wall on a ladder into the overgrown grounds of a dark ruined mansion, attendants with lanterns below him, far off a wild figure running across the moonlit lawn toward an old chapel, dead trees --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch08-sleep-gate-3.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg --no text, lettering, modern, abstract"
+  }
+ ]
+}

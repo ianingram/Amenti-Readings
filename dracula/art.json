@@ -3440,6 +3440,45 @@
     ]
    },
    {
+    "from": 20,
+    "at": "delivered at Carfax",
+    "images": [
+     "ch02-may7-carfax-2.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 21,
+    "images": [
+     "ch19-chapel-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 21,
+    "at": "The goods leave by the train",
+    "images": [
+     "ch07-boxes-a0.jpg"
+    ],
+    "move": [
+     "pull"
+    ]
+   },
+   {
+    "from": 21,
+    "at": "You are to leave the keys",
+    "images": [
+     "ch02-may7-carfax-1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
     "from": 24,
     "cut": true,
     "images": [

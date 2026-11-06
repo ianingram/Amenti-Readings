@@ -3436,14 +3436,35 @@
    {
     "from": 19,
     "images": [
-     "ch08-goods-b0.jpg"
-    ]
+     "ch08-billington-1.jpg"
+    ],
+    "caption": "Billington & Son, Whitby"
    },
    {
     "from": 20,
     "at": "delivered at Carfax",
     "images": [
      "ch02-may7-carfax-2.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 20,
+    "at": "goods station King",
+    "images": [
+     "ch08-goods-b0.jpg"
+    ],
+    "move": [
+     "pull"
+    ]
+   },
+   {
+    "from": 20,
+    "at": "enclosed please find keys",
+    "images": [
+     "ch08-billington-0.jpg"
     ],
     "move": [
      "push"

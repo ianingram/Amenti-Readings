@@ -15,7 +15,8 @@
       "river": "river.mp3",
       "port": "port.mp3",
       "train": "train-run.mp3",
-      "hearth": "hearth.mp3"
+      "hearth": "hearth.mp3",
+      "demeter_gale": "demeter-gale.mp3"
     },
     "oneshots": {
       "door_heavy": "door_heavy.mp3",
@@ -152,10 +153,14 @@
     },
     "sfx_levels": {
       "note": "One-shot gain per key, against the voices (player/sound.js of 26 Oct). Absent keys play at 0.7. Long weather pieces fired as one-shots sit low.",
-      "gale": 0.3,
-      "surf": 0.26,
+      "gale": 0.6,
+      "surf": 0.55,
       "thunder": 0.8,
-      "lightning_depths": 0.7
+      "lightning_depths": 0.7,
+      "log_rain": 1.0,
+      "log_rough": 1.0,
+      "log_tempest": 1.0,
+      "log_warn": 1.0
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
@@ -260,6 +265,9 @@
         "crackle again 71s"
       ],
       "build": "ONE 96 s file, three loops at different rates and offsets."
+    },
+    "demeter_gale": {
+      "note": "Book II ch VII, the log’s storm days (Ian, 5 Nov: “the howling wind and the tempestuous sea” must be heard). Wind, a low howl, heavy sea and breaking waves; build-demeter-gale.py."
     }
   },
   "oneshots": {

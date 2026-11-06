@@ -151,7 +151,8 @@
      "key": "thunder",
      "at": "sudden peals of thunder"
     }
-   ]
+   ],
+   "bed": "demeter_gale"
   },
   {
    "n": 10,
@@ -253,7 +254,8 @@
      "key": "log_warn",
      "at": "the sudden storm is passing"
     }
-   ]
+   ],
+   "bed": "whitby"
   },
   {
    "n": 16,
@@ -403,7 +405,8 @@
    "role": "The Captain of the Demeter",
    "cast": "Vitus Bering",
    "register": "grave",
-   "text": "22 July .—Rough weather last three days, and all hands busy with\nsails—no time to be frightened. Men seem to have forgotten their dread.\nMate cheerful again, and all on good terms. Praised men for work in bad\nweather. Passed Gibralter and out through Straits. All well."
+   "text": "22 July .—Rough weather last three days, and all hands busy with\nsails—no time to be frightened. Men seem to have forgotten their dread.\nMate cheerful again, and all on good terms. Praised men for work in bad\nweather. Passed Gibralter and out through Straits. All well.",
+   "bed": "demeter_gale"
   },
   {
    "n": 31,
@@ -478,7 +481,8 @@
    "role": "The Captain of the Demeter",
    "cast": "Vitus Bering",
    "register": "grave",
-   "text": "30 July .—Last night. Rejoiced we are nearing England. Weather fine,\nall sails set. Retired worn out; slept soundly; awaked by mate telling\nme that both man of watch and steersman missing. Only self and mate and\ntwo hands left to work ship."
+   "text": "30 July .—Last night. Rejoiced we are nearing England. Weather fine,\nall sails set. Retired worn out; slept soundly; awaked by mate telling\nme that both man of watch and steersman missing. Only self and mate and\ntwo hands left to work ship.",
+   "bed": "demeter"
   },
   {
    "n": 35,

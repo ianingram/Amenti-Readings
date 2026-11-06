@@ -3550,6 +3550,21 @@
     ]
    },
    {
+    "from": 54,
+    "at": "I got a ladder myself",
+    "cut": true,
+    "images": [
+     "ch08-carfax-wall-0.jpg",
+     "ch08-carfax-wall-1.jpg",
+     "ch08-carfax-wall-2.jpg"
+    ],
+    "move": [
+     "push",
+     "pull",
+     "push"
+    ]
+   },
+   {
     "from": 56,
     "caption": "",
     "images": [

@@ -2408,6 +2408,19 @@
     ]
    },
    {
+    "from": 29,
+    "images": [
+     "ch07-log-hold-0.jpg",
+     "ch07-log-hold-1.jpg"
+    ],
+    "move": [
+     "push",
+     "push"
+    ],
+    "at": "we would search from stem to stern",
+    "cut": true
+   },
+   {
     "from": 30,
     "images": [
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-1.jpg"
@@ -2419,19 +2432,38 @@
    {
     "from": 31,
     "images": [
+     "ch07-log-doom-0.jpg",
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-2.jpg"
     ],
     "move": [
+     "push",
      "push"
     ]
    },
    {
     "from": 32,
     "images": [
+     "ch07-log-hell-0.jpg",
+     "ch07-log-hell-1.jpg",
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-3.jpg",
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/storm-4.jpg"
     ],
     "move": [
+     "push",
+     "push",
+     "push",
+     "push"
+    ]
+   },
+   {
+    "from": 33,
+    "images": [
+     "ch07-log-gone-0.mp4",
+     "ch07-log-gone-1.jpg",
+     "ch07-log-gone-2.jpg"
+    ],
+    "move": [
+     "none",
      "push",
      "push"
     ]
@@ -2448,10 +2480,12 @@
    {
     "from": 35,
     "images": [
+     "ch07-log-drift-0.mp4",
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/fog-1.jpg",
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/fog-2.jpg"
     ],
     "move": [
+     "none",
      "push",
      "push"
     ]
@@ -2459,9 +2493,11 @@
    {
     "from": 36,
     "images": [
+     "ch07-log-cry-0.jpg",
      "https://ianingram.github.io/Amenti-Studios/dracula/voyage/fog-3.jpg"
     ],
     "move": [
+     "push",
      "push"
     ]
    },
@@ -2473,6 +2509,17 @@
     "move": [
      "push"
     ]
+   },
+   {
+    "from": 38,
+    "images": [
+     "ch07-log-leap-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "he sprang on the bulwark",
+    "cut": true
    },
    {
     "from": 40,

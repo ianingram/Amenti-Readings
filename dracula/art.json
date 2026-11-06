@@ -3246,6 +3246,18 @@
     ]
    },
    {
+    "from": 3,
+    "at": "some dear cows",
+    "images": [
+     "ch08-cows-0.mp4",
+     "ch08-cows-1.jpg"
+    ],
+    "move": [
+     "none",
+     "push"
+    ]
+   },
+   {
     "from": 4,
     "caption": "11 August, 3 a.m.",
     "images": [

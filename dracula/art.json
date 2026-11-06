@@ -3290,6 +3290,15 @@
    {
     "from": 4,
     "images": [
+     "ch08-cloud-2.jpg",
+     "ch08-cloud-3.jpg"
+    ],
+    "at": "There was undoubtedly something, long and black",
+    "cut": true
+   },
+   {
+    "from": 4,
+    "images": [
      "ch08-cloud-0.jpg",
      "ch08-cloud-1.jpg"
     ],
@@ -3311,15 +3320,6 @@
      "pull",
      "push"
     ]
-   },
-   {
-    "from": 4,
-    "images": [
-     "ch08-cloud-2.jpg",
-     "ch08-cloud-3.jpg"
-    ],
-    "at": "There was undoubtedly something, long and black",
-    "cut": true
    },
    {
     "from": 4,
@@ -3496,6 +3496,38 @@
     "images": [
      "ch08-cliff-b3.jpg",
      "ch08-redeyes-a0.jpg"
+    ]
+   },
+   {
+    "from": 33,
+    "at": "something long and",
+    "cut": true,
+    "images": [
+     "ch08-dream-0.mp4"
+    ],
+    "move": [
+     "none"
+    ]
+   },
+   {
+    "from": 33,
+    "at": "there was a singing",
+    "images": [
+     "ch08-dream-1.jpg"
+    ]
+   },
+   {
+    "from": 33,
+    "at": "my soul seemed",
+    "images": [
+     "ch08-dream-2.jpg"
+    ]
+   },
+   {
+    "from": 33,
+    "at": "I came back",
+    "images": [
+     "ch08-cliff-b3.jpg"
     ]
    },
    {

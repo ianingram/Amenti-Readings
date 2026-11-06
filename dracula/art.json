@@ -3300,11 +3300,15 @@
     "from": 4,
     "images": [
      "ch08-mina-steps-0.mp4",
+     "ch08-mina-steps-1.jpg",
+     "ch08-mina-steps-2.jpg",
      "ch08-streets-a3.jpg"
     ],
     "at": "flew down the steep steps",
     "move": [
      "none",
+     "push",
+     "pull",
      "push"
     ]
    },
@@ -3404,6 +3408,18 @@
     "images": [
      "ch08-pale-a0.jpg",
      "ch08-cliff-b0.jpg"
+    ]
+   },
+   {
+    "from": 16,
+    "at": "the roses in her cheeks are fading",
+    "images": [
+     "ch08-lucy-fading-0.jpg",
+     "ch08-lucy-fading-1.jpg"
+    ],
+    "move": [
+     "push",
+     "push"
     ]
    },
    {

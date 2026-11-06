@@ -3266,18 +3266,65 @@
    },
    {
     "from": 4,
-    "caption": "11 August, 3 a.m.",
+    "images": [
+     "ch08-emptybed-a1.jpg",
+     "ch08-emptybed-a3.jpg"
+    ],
+    "caption": "11 August, 3 a.m."
+   },
+   {
+    "from": 4,
+    "images": [
+     "ch08-streets-a1.jpg"
+    ],
+    "at": "I took a big, heavy shawl and ran out"
+   },
+   {
+    "from": 4,
+    "images": [
+     "ch08-seat-a1.jpg",
+     "ch08-seat-a0.jpg"
+    ],
+    "at": "At the edge of the West Cliff"
+   },
+   {
+    "from": 4,
+    "images": [
+     "ch08-cloud-0.jpg",
+     "ch08-cloud-1.jpg"
+    ],
+    "at": "the silver light of the moon struck",
+    "cut": true
+   },
+   {
+    "from": 4,
+    "images": [
+     "ch08-mina-steps-0.mp4",
+     "ch08-streets-a3.jpg"
+    ],
+    "at": "flew down the steep steps",
+    "move": [
+     "none",
+     "push"
+    ]
+   },
+   {
+    "from": 4,
+    "images": [
+     "ch08-cloud-2.jpg",
+     "ch08-cloud-3.jpg"
+    ],
+    "at": "There was undoubtedly something, long and black",
+    "cut": true
+   },
+   {
+    "from": 4,
     "images": [
      "ch08-sleep-gate-3.jpg",
      "ch08-sleep-garden-2.jpg",
-     "ch08-emptybed-a1.jpg",
-     "ch08-emptybed-a3.jpg",
-     "ch08-sleep-gate-0.jpg",
-     "ch08-streets-a1.jpg",
-     "ch08-streets-a3.jpg",
-     "ch08-seat-a1.jpg",
-     "ch08-seat-a0.jpg"
-    ]
+     "ch08-sleep-gate-0.jpg"
+    ],
+    "at": "the moonlight struck so brilliantly"
    },
    {
     "from": 5,

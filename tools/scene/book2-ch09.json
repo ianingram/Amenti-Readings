@@ -1,0 +1,200 @@
+{
+ "title": "Book II · Chapter IX",
+ "h1": "Book II, <em>Chapter IX</em> — the chapter batch",
+ "ep": 9,
+ "from": 1,
+ "to": 83,
+ "beats": [
+  {
+   "cue": 5,
+   "at": "caught the boat to Hamburg",
+   "name": "BK2IX-05a · Mina crosses to Hamburg",
+   "words": "…I got to Hull all right, and caught the boat to Hamburg, and then the train on here.",
+   "prompt": "BK2IX-05a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a young dark-haired woman in a travelling cloak and bonnet standing alone at the rail of a small steamer crossing the grey North Sea at dusk, smoke from the funnel, gulls, her face set and anxious, looking ahead --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-est-crescent-0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 5,
+   "at": "I found my dear one",
+   "name": "BK2IX-05b · Jonathan, a wreck of himself",
+   "words": "I found my dear one, oh, so thin and pale and weak-looking… He is only a wreck of himself…",
+   "prompt": "BK2IX-05b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a hospital ward of a convent in Buda-Pesth, a gaunt pale young man lying propped on white pillows, hollow-eyed and staring, a dark-haired young woman just arrived in her travelling cloak stopping at the foot of the bed, her hand at her mouth, a nun beside her, tall windows of soft light --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-wedding-a0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-jonathan.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 5,
+   "at": "she would only cross herself",
+   "name": "BK2IX-05c · Sister Agatha crosses herself",
+   "words": "…she would only cross herself, and say she would never tell; that the ravings of the sick were the secrets of God…",
+   "prompt": "BK2IX-05c oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, close view, an elderly kindly nun in a white wimple in a convent hospital corridor, crossing herself with downcast eyes, a young dark-haired woman in a plain dress pleading with her, light from a tall window behind --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-wedding-a0.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 9,
+   "at": "sealed it over the knot",
+   "name": "BK2IX-09a · The seal",
+   "words": "…wrapped it up in white paper, and tied it with a little bit of pale blue ribbon… and sealed it over the knot with sealing-wax, and for my seal I used my wedding ring.",
+   "prompt": "BK2IX-09a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, close view by candlelight, a young woman’s hands pressing a plain gold wedding ring into red sealing-wax over the knot of a pale blue ribbon tied round a small book wrapped in white paper, a candle and a stick of wax on a hospital bedside table --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-seal-a0.jpg --no text, lettering, modern, abstract",
+   "note": "Or skip: the two seal pictures already in the chapter (cue 10) can simply move here to the words. Run this only if you want a fresh close-up."
+  },
+  {
+   "cue": 11,
+   "at": "I shall post this at once",
+   "name": "BK2IX-11a · Mina writes to Lucy",
+   "words": "Good-bye, my dear. I shall post this at once… I must stop, for Jonathan is waking—I must attend to my husband!",
+   "prompt": "BK2IX-11a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a young dark-haired woman in a plain dress writing a letter at a small table by a tall window of a convent hospital, golden evening light over the Danube and the domes of Buda-Pesth outside, her sleeping husband in the bed behind her, a quiet happy face --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-wedding-a0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 16,
+   "at": "rowing, and tennis",
+   "name": "BK2IX-16a · Lucy and Arthur, summer at Whitby",
+   "words": "We have such walks and drives, and rides, and rowing, and tennis, and fishing together; and I love him more than ever.",
+   "prompt": "BK2IX-16a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, bright summer afternoon on the river Esk at Whitby, a fair-haired young woman in a white summer dress and straw hat laughing in the stern of a rowing boat, a tall young gentleman in shirtsleeves rowing, red roofs and the abbey ruin above, sparkling water --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-est-crescent-0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-lucy.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 21,
+   "at": "just as the moon rose",
+   "name": "BK2IX-21a · Quiet at moonrise",
+   "words": "Then one night, just as the moon rose, he grew quiet, and kept murmuring to himself: “Now I can wait; now I can wait.”",
+   "prompt": "BK2IX-21a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, night, a padded cell in a Victorian asylum, a lean wild-haired man in a strait-waistcoat sitting suddenly still on the floor, face lifted toward a small high barred window where the full moon is rising, cold silver light across the padding, his lips moving --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-escape-b0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-renfield.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 23,
+   "at": "directed him to be relieved",
+   "name": "BK2IX-23a · Unbuckling the strait-waistcoat",
+   "words": "I was satisfied with his present condition, and directed him to be relieved. The attendants hesitated…",
+   "prompt": "BK2IX-23a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a padded room in a Victorian asylum by lamplight, two burly wary attendants unbuckling the straps of a strait-waistcoat from a lean wild-haired patient, a young doctor in a dark frock coat watching calmly, the patient’s eyes sliding sideways at the attendants with a sly smile --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-escape-b0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-renfield.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 30,
+   "at": "pressed against the old chapel door",
+   "name": "BK2IX-30a · At the chapel door",
+   "words": "…we found him in the same place, pressed against the old chapel door.",
+   "prompt": "BK2IX-30a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, night, a lean wild-haired man in a nightshirt pressed flat against the iron-studded door of a ruined old chapel in an overgrown estate, arms spread, cheek to the wood, lantern light from attendants approaching behind, moonlight, dead trees --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-escape-b0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-renfield.jpg --no text, lettering, modern, abstract",
+   "note": "Or reuse ch08-chapel pictures — Renfield at the chapel door in Chapter VIII."
+  },
+  {
+   "cue": 36,
+   "name": "BK2IX-36e · Arthur writes from the Albemarle",
+   "words": "Letter, Arthur Holmwood to Dr. Seward. Albemarle Hotel, 31 August.",
+   "prompt": "BK2IX-36e oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, a grand Victorian hotel on Albemarle Street off Piccadilly, London, carriages at the door, gas lamps, evening rain on the pavement, 1890s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-est-crescent-0.jpg --no text, lettering, modern, abstract, people close up",
+   "note": "Establishing shot on the letter heading."
+  },
+  {
+   "cue": 39,
+   "at": "her doom is spoken",
+   "name": "BK2IX-39a · Mrs. Westenra",
+   "words": "Mrs. Westenra has confided to me that her doom is spoken—disease of the heart—though poor Lucy does not know it yet.",
+   "prompt": "BK2IX-39a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a frail grey-haired Victorian lady in black silk seated in a sunny drawing room, one hand pressed to her heart, gazing out of the window at her fair-haired daughter in the garden, a brave tired face --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 44,
+   "name": "BK2IX-44e · Seward writes from the asylum",
+   "words": "Letter from Dr. Seward to Arthur Holmwood. 2 September.",
+   "prompt": "BK2IX-44e oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, a large Victorian lunatic asylum in its own grounds at Purfleet, high walls, tall chimneys, the Thames marshes beyond, and next door the dark old house of Carfax among trees, grey morning light, 1890s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-est-crescent-0.jpg --no text, lettering, modern, abstract, people close up",
+   "note": "Establishing shot on the letter heading."
+  },
+  {
+   "cue": 48,
+   "at": "the mask fell from her face",
+   "name": "BK2IX-48a · The mask falls",
+   "words": "As soon as the door was closed, however, the mask fell from her face, and she sank down into a chair with a great sigh, and hid her eyes with her hand.",
+   "prompt": "BK2IX-48a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a pretty Victorian boudoir in afternoon light, a pale fair-haired young woman sinking into an armchair with a great sigh, hiding her eyes with her hand, a young doctor in a dark frock coat standing by the closed door watching her with concern --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-lucy.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 50,
+   "at": "she cut her hand slightly",
+   "name": "BK2IX-50a · The broken window",
+   "words": "…in opening a window which was stiff a cord gave way, and she cut her hand slightly with broken glass.",
+   "prompt": "BK2IX-50a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a tall sash window in a Victorian boudoir, the cord just snapped and the pane cracked, a fair-haired young woman drawing back her hand with a thin line of blood on her palm, a young doctor reaching quickly for her wrist, a handkerchief in his other hand --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-lucy.jpg --no text, lettering, modern, abstract, gore"
+  },
+  {
+   "cue": 50,
+   "at": "Professor Van Helsing, of Amsterdam",
+   "name": "BK2IX-50b · Van Helsing",
+   "words": "…my old friend and master, Professor Van Helsing, of Amsterdam, who knows as much about obscure diseases as any one in the world.",
+   "prompt": "BK2IX-50b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, portrait, an elderly Dutch professor with a broad brow, bushy eyebrows and keen blue eyes, clean-shaven, in a black frock coat, seated in a book-crowded study in Amsterdam with a canal window, skull, microscope and old folios on the desk, a letter in his hand --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 52,
+   "name": "BK2IX-52e · Van Helsing writes from Amsterdam",
+   "words": "Letter, Abraham Van Helsing, M. D., D. Ph., D. Lit., etc., etc., to Dr. Seward.",
+   "prompt": "BK2IX-52e oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, a tall narrow gabled house on an Amsterdam canal, a scholar's lamp in an upper window, bicycles and a barge on the canal, autumn light, 1890s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-est-crescent-0.jpg --no text, lettering, modern, abstract, people close up",
+   "note": "Establishing shot on the letter heading."
+  },
+  {
+   "cue": 55,
+   "at": "suck from my wound",
+   "name": "BK2IX-55a · The poisoned wound",
+   "words": "…when that time you suck from my wound so swiftly the poison of the gangrene from that knife that our other friend, too nervous, let slip…",
+   "prompt": "BK2IX-55a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, memory, a Victorian anatomy theatre, a young medical student urgently sucking poison from a knife cut on the forearm of his older clean-shaven professor in shirtsleeves, a dropped scalpel on the floor, another student pale and frozen, tiered benches in shadow --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, gore, blood"
+  },
+  {
+   "cue": 55,
+   "at": "Great Eastern Hotel",
+   "name": "BK2IX-55b · The Great Eastern Hotel",
+   "words": "Have then rooms for me at the Great Eastern Hotel, so that I may be near to hand…",
+   "prompt": "BK2IX-55b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, the Great Eastern Hotel beside Liverpool Street station in London, red-brick and stone façade with gas lamps, hansom cabs and porters with luggage, steam from the station, evening light --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-est-crescent-0.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 60,
+   "at": "having a cup of tea",
+   "name": "BK2IX-60a · Tea before Amsterdam",
+   "words": "…he was having a cup of tea before starting on his return to Amsterdam. He would not give me any further clue.",
+   "prompt": "BK2IX-60a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a London railway station tea-room, an elderly Dutch professor with bushy eyebrows in a black travelling cloak sipping tea, thoughtful and grave, a young doctor opposite him leaning in to ask, steam and porters through the glass behind --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 62,
+   "at": "he snapped his fingers",
+   "name": "BK2IX-62a · Pouf!",
+   "words": "To them I say: “Pouf!”’ And he snapped his fingers at me and went on…",
+   "prompt": "BK2IX-62a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a sunny Victorian drawing room, an elderly Dutch professor with bushy eyebrows snapping his fingers with a twinkle, a pale fair-haired young woman on a settee laughing in spite of herself, a young doctor standing by the mantel pretending to be offended --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 62,
+   "at": "came to the window and called me in",
+   "name": "BK2IX-62b · Called in from the garden",
+   "words": "…presently the professor came to the window and called me in. He looked grave…",
+   "prompt": "BK2IX-62b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, view from a garden, an elderly professor with bushy eyebrows at an open French window of a Georgian country house beckoning gravely, a young doctor on the lawn with a cigarette turning toward him, roses and late summer light --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 65,
+   "at": "at the stroke of noon",
+   "name": "BK2IX-65a · The stroke of noon",
+   "words": "…at the stroke of noon he became so violent that it took all their strength to hold him.",
+   "prompt": "BK2IX-65a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, harsh noon light through a barred window in a Victorian asylum room, three attendants struggling to hold a lean wild-haired patient screaming and straining, an overturned chair, a clock on the corridor wall at twelve --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-escape-b0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-renfield.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 66,
+   "at": "reaping quite a harvest of flies",
+   "name": "BK2IX-66a · Sugar on the sill",
+   "words": "He has the sugar of his tea spread out on the window-sill, and is reaping quite a harvest of flies.",
+   "prompt": "BK2IX-66a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, late afternoon sun through an open asylum window, sugar spread along the sill swarming with flies, a lean wild-haired man crouched beside it gently scooping them into a small wooden box, rapt and smiling --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-escape-b0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-renfield.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 73,
+   "at": "a sunset over London",
+   "name": "BK2IX-73a · Sunset over London",
+   "words": "…the wonderful smoky beauty of a sunset over London, with its lurid lights and inky shadows and all the marvellous tints that come on foul clouds even as on foul water…",
+   "prompt": "BK2IX-73a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, a smoky lurid sunset over the distant roofs and chimneys of London seen across the Essex marshes from the iron gate of a grim stone asylum, inky clouds lit crimson and gold, a lone young doctor at the gate looking back at the building --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-sunset-b1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 73,
+   "at": "brushed out the crumbs of sugar",
+   "name": "BK2IX-73b · Emptying the fly-box",
+   "words": "He went straight over to the window and brushed out the crumbs of sugar; then he took his fly-box, and emptied it outside, and threw away the box…",
+   "prompt": "BK2IX-73b oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, dusk, a lean wild-haired patient at a barred asylum window emptying a small wooden box of flies out into the red afterglow, sugar crumbs falling from the sill, calm and indifferent, a doctor and attendants watching puzzled behind him --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-sunset-b1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-renfield.jpg --no text, lettering, modern, abstract"
+  },
+  {
+   "cue": 78,
+   "name": "BK2IX-78e · Telegrams, London to Amsterdam",
+   "words": "Telegram, Seward, London, to Van Helsing, Amsterdam.",
+   "prompt": "BK2IX-78e oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, telegraph wires on tall poles crossing the Essex marshes toward the sea at dusk, the line running toward the horizon, a lone telegraph boy cycling on the road, 1890s --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-est-crescent-0.jpg --no text, lettering, modern, abstract, people close up",
+   "note": "Establishing shot on the letter heading."
+  },
+  {
+   "cue": 83,
+   "at": "Terrible change for the worse",
+   "name": "BK2IX-83a · A terrible change",
+   "words": "“6 September. —Terrible change for the worse. Come at once; do not lose an hour.”",
+   "prompt": "BK2IX-83a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, night, a Victorian bedroom lit by one candle, a fair-haired young woman lying deathly white and still against the pillows, lips bloodless, a crumpled nightdress collar, a maid at the door with her hand to her mouth --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch08-cliff-b3.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-lucy.jpg --no text, lettering, modern, abstract, blood, gore"
+  }
+ ]
+}

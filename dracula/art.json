@@ -2513,13 +2513,28 @@
    {
     "from": 38,
     "images": [
-     "ch07-log-leap-0.jpg"
+     "ch07-log-leap-0.jpg",
+     "ch07-log-leap-1.jpg"
     ],
     "move": [
-     "push"
+     "push",
+     "pull"
     ],
     "at": "he sprang on the bulwark",
     "cut": true
+   },
+   {
+    "from": 39,
+    "at": "I shall tie my hands to the wheel",
+    "cut": true,
+    "images": [
+     "ch07-log-lashed-0.jpg",
+     "ch07-log-lashed-1.jpg"
+    ],
+    "move": [
+     "push",
+     "push"
+    ]
    },
    {
     "from": 40,

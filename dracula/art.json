@@ -3442,6 +3442,15 @@
    },
    {
     "from": 20,
+    "images": [
+     "ch08-train-1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 20,
     "at": "delivered at Carfax",
     "images": [
      "ch02-may7-carfax-2.jpg"
@@ -3483,11 +3492,12 @@
     "from": 21,
     "at": "The goods leave by the train",
     "images": [
-     "ch07-boxes-a0.jpg"
+     "ch08-train-0.mp4"
     ],
     "move": [
-     "pull"
-    ]
+     "none"
+    ],
+    "cut": true
    },
    {
     "from": 21,

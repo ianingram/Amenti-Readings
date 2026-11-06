@@ -3254,8 +3254,14 @@
     "at": "Robin Hood",
     "caption": "Robin Hood’s Bay",
     "images": [
+     "ch08-est-rhbay-0.jpg",
      "ch08-tea-b0.jpg",
      "ch08-tea-b2.jpg"
+    ],
+    "move": [
+     "push",
+     "push",
+     "push"
     ]
    },
    {

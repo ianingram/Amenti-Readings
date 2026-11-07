@@ -4374,11 +4374,23 @@
     ]
    },
    {
-    "from": 10,
-    "caption": "",
+    "from": 8,
     "images": [
-     "ch09-garden-c1.jpg",
-     "ch09-garden-c3.jpg"
+     "ch09-57a-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "caption": "Liverpool Street"
+   },
+   {
+    "from": 11,
+    "images": [
+     "ch09-60a-1.jpg",
+     "ch09-60a-2.jpg"
+    ],
+    "move": [
+     "push"
     ]
    },
    {

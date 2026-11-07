@@ -10,8 +10,14 @@
    "at": "sealed it over the knot",
    "name": "BK2IX-09a · The seal",
    "words": "…wrapped it up in white paper, and tied it with a little bit of pale blue ribbon… and sealed it over the knot with sealing-wax, and for my seal I used my wedding ring.",
-   "prompt": "BK2IX-09a oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, close view by candlelight, a young woman’s hands pressing a plain gold wedding ring into red sealing-wax over the knot of a pale blue ribbon tied round a small book wrapped in white paper, a candle and a stick of wax on a hospital bedside table --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-seal-a0.jpg --no text, lettering, modern, abstract",
-   "note": "Or skip: the two seal pictures already in the chapter (cue 10) can simply move here to the words. Run this only if you want a fresh close-up."
+   "prompt": "BK2IX-09a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, close view in a sunlit convent hospital ward, a young dark-haired woman's hands pressing a plain gold wedding ring into a blob of red sealing-wax on the knot of a narrow pale blue ribbon, tied around a small book neatly wrapped in white paper, resting on the white coverlet of an iron hospital bed, a candle and stick of sealing-wax on the bedside table --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-ward-0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg --no text, lettering, modern, abstract, open book, open pages, writing, quill",
+   "note": "Replaces the two seal pictures — those drip wax onto an open note-book; the book should be wrapped in white paper and tied with blue ribbon."
+  },
+  {
+   "cue": 10,
+   "name": "BK2IX-10a · A solemn pledge",
+   "words": "…when he kissed me, and drew me to him with his poor weak hands, it was like a very solemn pledge between us....",
+   "prompt": "BK2IX-10a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a sunlit convent hospital ward, a gaunt pale young man propped on pillows in an iron bed drawing his new wife to him with weak hands and kissing her forehead, the dark-haired young woman in a plain dark dress leaning over him with her eyes closed, her hand in his showing a plain gold wedding ring, a small packet in white paper tied with pale blue ribbon on the coverlet, nuns far off down the ward --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-ward-0.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg --no text, lettering, modern, abstract, bedroom, four-poster"
   },
   {
    "cue": 11,

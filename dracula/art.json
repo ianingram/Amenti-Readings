@@ -4199,6 +4199,51 @@
     ]
    },
    {
+    "from": 65,
+    "images": [
+     "ch09-65a-0.jpg",
+     "ch09-65a-2.jpg",
+     "ch09-65a-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "stroke of noon"
+   },
+   {
+    "from": 65,
+    "images": [
+     "ch09-flies-b1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "sits in a corner"
+   },
+   {
+    "from": 66,
+    "images": [
+     "ch09-flies-b0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "catching flies"
+   },
+   {
+    "from": 66,
+    "images": [
+     "ch09-66a-0.jpg",
+     "ch09-66a-1.jpg",
+     "ch09-66a-2.jpg",
+     "ch09-66a-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "sugar of his tea"
+   },
+   {
     "from": 73,
     "caption": "",
     "images": [
@@ -4208,10 +4253,50 @@
    },
    {
     "from": 78,
-    "caption": "",
     "images": [
-     "ch09-telegram-b3.jpg",
+     "ch09-78e-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "caption": "Telegram, London to Amsterdam",
+    "cut": true
+   },
+   {
+    "from": 79,
+    "images": [
+     "ch09-telegram-b3.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 80,
+    "images": [
+     "ch09-78e-1.jpg",
+     "ch09-78e-2.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 82,
+    "images": [
+     "ch09-78e-3.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 83,
+    "images": [
      "ch09-telegram-b0.jpg"
+    ],
+    "move": [
+     "push"
     ]
    }
   ],

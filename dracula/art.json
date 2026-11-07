@@ -3651,17 +3651,105 @@
    {
     "from": 4,
     "images": [
-     "ch09-arrival-a3.jpg",
-     "ch09-arrival-a0.jpg",
-     "ch09-notebook-a0.jpg"
+     "ch09-arrival-a0.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "caught the boat to Hamburg",
+    "images": [
+     "ch09-boat-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "I found my dear one",
+    "images": [
+     "ch09-wreck-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "He is only a wreck",
+    "images": [
+     "ch09-wreck-1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "Sister Agatha, who is",
+    "images": [
+     "ch09-arrival-a3.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "she would only cross herself",
+    "images": [
+     "ch09-agatha-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "I can tell you this much",
+    "images": [
+     "ch09-agatha-1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 5,
+    "at": "I am now sitting by his bedside",
+    "images": [
+     "ch09-wreck-2.jpg"
+    ],
+    "move": [
+     "push"
     ]
    },
    {
     "from": 6,
     "caption": "",
     "images": [
-     "ch09-notebook-a2.jpg",
-     "ch09-notebook-a3.jpg"
+     "ch09-ward-0.jpg",
+     "ch09-ward-1.jpg"
+    ]
+   },
+   {
+    "from": 7,
+    "at": "book. Take it",
+    "images": [
+     "ch09-ward-2.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 7,
+    "at": "I put the book",
+    "images": [
+     "ch09-ward-3.jpg"
+    ],
+    "move": [
+     "push"
     ]
    },
    {

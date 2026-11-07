@@ -4047,22 +4047,136 @@
     "at": "East Cliff"
    },
    {
-    "from": 52,
-    "caption": "Van Helsing",
+    "from": 50,
     "images": [
-     "ch09-arrives-c0.jpg"
-    ]
+     "ch09-50b-0.jpg",
+     "ch09-50b-1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "Professor Van Helsing"
+   },
+   {
+    "from": 50,
+    "images": [
+     "ch09-50b-2.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "seemingly arbitrary"
+   },
+   {
+    "from": 52,
+    "images": [
+     "ch09-52e-0.jpg",
+     "ch09-52e-1.jpg",
+     "ch09-52e-2.jpg",
+     "ch09-52e-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "caption": "Amsterdam",
+    "cut": true
+   },
+   {
+    "from": 55,
+    "images": [
+     "ch09-50b-3.jpg",
+     "ch09-50b-0b.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "When I have received"
+   },
+   {
+    "from": 55,
+    "images": [
+     "ch09-55a-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "suck from my wound"
    },
    {
     "from": 57,
-    "caption": "",
     "images": [
-     "ch09-arrives-c2.jpg",
-     "ch09-visit-c0.jpg",
-     "ch09-visit-c2.jpg",
-     "ch09-garden-c1.jpg",
-     "ch09-garden-c3.jpg",
-     "ch09-mother-c1.jpg"
+     "ch09-44e-3.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 60,
+    "images": [
+     "ch09-hillingham-a1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 60,
+    "images": [
+     "ch09-examination-a3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "careful examination"
+   },
+   {
+    "from": 60,
+    "images": [
+     "ch09-36e-2.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "smuts in London"
+   },
+   {
+    "from": 61,
+    "images": [
+     "ch09-mother-c1.jpg",
+     "ch09-examination-a1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 62,
+    "images": [
+     "ch09-lucyg-evening-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "the garden"
+   },
+   {
+    "from": 62,
+    "images": [
+     "ch09-48a-1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "called me in"
+   },
+   {
+    "from": 63,
+    "images": [
+     "ch09-telegram-b0.jpg"
+    ],
+    "move": [
+     "push"
     ]
    },
    {

@@ -3874,6 +3874,19 @@
     "at": "kept murmuring"
    },
    {
+    "from": 23,
+    "images": [
+     "ch09-23a-0.jpg",
+     "ch09-23a-1.jpg",
+     "ch09-23a-2.jpg",
+     "ch09-23a-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "directed him to be relieved"
+   },
+   {
     "from": 29,
     "caption": "",
     "images": [
@@ -3881,6 +3894,16 @@
      "ch09-escape-b3.jpg",
      "ch09-escape-b2.jpg"
     ]
+   },
+   {
+    "from": 30,
+    "images": [
+     "ch09-30a-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "pressed against the old chapel door"
    },
    {
     "from": 31,
@@ -4103,9 +4126,31 @@
     "at": "suck from my wound"
    },
    {
+    "from": 55,
+    "images": [
+     "ch09-55b-0.jpg",
+     "ch09-55b-1.jpg",
+     "ch09-55b-2.jpg",
+     "ch09-55b-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "Great Eastern Hotel"
+   },
+   {
     "from": 57,
     "images": [
      "ch09-44e-3.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 59,
+    "images": [
+     "ch09-57a-3.jpg"
     ],
     "move": [
      "push"

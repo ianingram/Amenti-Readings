@@ -28,13 +28,6 @@
    "prompt": "BK2IX-55b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, the Great Eastern Hotel beside Liverpool Street station in London, red-brick and stone façade with gas lamps, hansom cabs and porters with luggage, steam from the station, evening light --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-est-crescent-0.jpg --no text, lettering, modern, abstract"
   },
   {
-   "cue": 60,
-   "at": "having a cup of tea",
-   "name": "BK2IX-60a · Tea before Amsterdam",
-   "words": "…he was having a cup of tea before starting on his return to Amsterdam. He would not give me any further clue.",
-   "prompt": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg BK2IX-60a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a London railway station tea-room, a clean-shaven elderly man with a bare smooth chin and bare upper lip, short grey hair, black travelling cloak, seen in profile sipping tea, grave and thoughtful, a young dark-haired doctor opposite leaning in to ask, steam and porters through the glass behind --ar 16:9 --iw 2 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --no text, lettering, modern, abstract, beard, moustache, whiskers, stubble, goatee"
-  },
-  {
    "cue": 61,
    "at": "the quick look under his bushy brows",
    "name": "BK2IX-61a · Infinite geniality",
@@ -68,13 +61,6 @@
    "name": "BK2IX-73b · Emptying the fly-box",
    "words": "He went straight over to the window and brushed out the crumbs of sugar; then he took his fly-box, and emptied it outside, and threw away the box…",
    "prompt": "BK2IX-73b oil on canvas, visible brushstrokes, soft painterly edges, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, dusk, a lean wild-haired patient at a barred asylum window emptying a small wooden box of flies out into the red afterglow, sugar crumbs falling from the sill, calm and indifferent, a doctor and attendants watching puzzled behind him --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-sunset-b1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-renfield.jpg --no text, lettering, modern, abstract"
-  },
-  {
-   "cue": 78,
-   "name": "BK2IX-78f · The wires, foreboding",
-   "words": "Telegram, Seward, London, to Van Helsing, Amsterdam. … 6 September. —Terrible change for the worse.",
-   "prompt": "BK2IX-78f oil on canvas, visible brushstrokes, soft painterly edges, in the manner of Atkinson Grimshaw and John Constable, 1890s, wide view, a long line of tall telegraph poles marching across the flat Essex marshes toward a lonely horizon at dusk, the wires humming black against a vast brooding sky of heavy storm clouds, a last bar of blood-red light low on the horizon, wind bending the reeds, still water reflecting the dying light, a single lit window of a distant cottage, crows on the wires, beautiful, desolate and foreboding --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-78e-3.jpg --no text, lettering, modern, abstract, people, bicycle",
-   "note": "A darker, more picturesque replacement for the telegraph-wire pictures."
   }
  ]
 }

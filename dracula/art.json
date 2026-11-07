@@ -4143,8 +4143,19 @@
    },
    {
     "from": 60,
+    "at": "cup of tea",
     "images": [
-     "ch09-36e-2.jpg"
+     "ch09-60a-1.jpg",
+     "ch09-60a-2.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 60,
+    "images": [
+     "ch09-60a-3.jpg"
     ],
     "move": [
      "push"
@@ -4254,7 +4265,7 @@
    {
     "from": 78,
     "images": [
-     "ch09-wire-0.mp4"
+     "ch09-wire-1.mp4"
     ],
     "move": [
      "none"
@@ -4274,8 +4285,7 @@
    {
     "from": 80,
     "images": [
-     "ch09-78e-1.jpg",
-     "ch09-78e-0.jpg"
+     "ch09-78f-2.jpg"
     ],
     "move": [
      "push"
@@ -4284,7 +4294,7 @@
    {
     "from": 81,
     "images": [
-     "ch09-78e-3.jpg"
+     "ch09-78f-0.jpg"
     ],
     "move": [
      "push"

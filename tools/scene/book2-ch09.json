@@ -25,7 +25,7 @@
    "at": "Professor Van Helsing, of Amsterdam",
    "name": "BK2IX-50b · Van Helsing",
    "words": "…my old friend and master, Professor Van Helsing, of Amsterdam, who knows as much about obscure diseases as any one in the world.",
-   "prompt": "BK2IX-50b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, portrait, an elderly Dutch professor with a broad brow, bushy eyebrows and keen blue eyes, clean-shaven, in a black frock coat, seated in a book-crowded study in Amsterdam with a canal window, skull, microscope and old folios on the desk, a letter in his hand --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract"
+   "prompt": "BK2IX-50b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, portrait, an elderly clean-shaven Dutch professor with short grey hair with a broad brow, bushy eyebrows and keen blue eyes, clean-shaven, in a black frock coat, seated in a book-crowded study in Amsterdam with a canal window, skull, microscope and old folios on the desk, a letter in his hand --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, beard, moustache"
   },
   {
    "cue": 52,
@@ -39,7 +39,7 @@
    "at": "suck from my wound",
    "name": "BK2IX-55a · The poisoned wound",
    "words": "…when that time you suck from my wound so swiftly the poison of the gangrene from that knife that our other friend, too nervous, let slip…",
-   "prompt": "BK2IX-55a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, memory, a Victorian anatomy theatre, a young medical student urgently sucking poison from a knife cut on the forearm of his older clean-shaven professor in shirtsleeves, a dropped scalpel on the floor, another student pale and frozen, tiered benches in shadow --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, gore, blood"
+   "prompt": "BK2IX-55a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, memory, a Victorian anatomy theatre, a young medical student urgently sucking poison from a knife cut on the forearm of his older clean-shaven grey-haired professor in shirtsleeves, a dropped scalpel on the floor, another student pale and frozen, tiered benches in shadow --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, gore, blood, beard, moustache"
   },
   {
    "cue": 55,
@@ -49,25 +49,46 @@
    "prompt": "BK2IX-55b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, wide view, the Great Eastern Hotel beside Liverpool Street station in London, red-brick and stone façade with gas lamps, hansom cabs and porters with luggage, steam from the station, evening light --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-est-crescent-0.jpg --no text, lettering, modern, abstract"
   },
   {
+   "cue": 57,
+   "name": "BK2IX-57a · Van Helsing arrives",
+   "words": "Letter, Dr. Seward to Hon. Arthur Holmwood. 3 September. … Van Helsing has come and gone.",
+   "prompt": "BK2IX-57a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a London railway platform in morning light and steam, Van Helsing, an elderly clean-shaven Dutch professor with short grey hair, a broad brow, bushy grey eyebrows and keen eyes, in a black frock coat, stepping down from a boat-train carriage with a worn leather bag, a young dark-haired doctor in a frock coat hurrying to shake his hand, porters and luggage --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, beard, moustache",
+   "note": "Replaces the old bearded Van Helsing (ch09-arrives). Book III’s Van Helsing is clean-shaven and grey — this matches him."
+  },
+  {
    "cue": 60,
    "at": "having a cup of tea",
    "name": "BK2IX-60a · Tea before Amsterdam",
    "words": "…he was having a cup of tea before starting on his return to Amsterdam. He would not give me any further clue.",
-   "prompt": "BK2IX-60a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a London railway station tea-room, an elderly Dutch professor with bushy eyebrows in a black travelling cloak sipping tea, thoughtful and grave, a young doctor opposite him leaning in to ask, steam and porters through the glass behind --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract"
+   "prompt": "BK2IX-60a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a London railway station tea-room, an elderly clean-shaven Dutch professor with short grey hair with bushy eyebrows in a black travelling cloak sipping tea, thoughtful and grave, a young doctor opposite him leaning in to ask, steam and porters through the glass behind --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, beard, moustache"
+  },
+  {
+   "cue": 60,
+   "at": "made a very careful examination",
+   "name": "BK2IX-60b · The examination",
+   "words": "Van Helsing made a very careful examination of the patient.",
+   "prompt": "BK2IX-60b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a sunny Victorian boudoir, Van Helsing, an elderly clean-shaven Dutch professor with short grey hair, a broad brow, bushy grey eyebrows and keen eyes, in a black frock coat, seated beside a pale fair-haired young woman on a settee, gently holding her wrist and taking her pulse with a gold watch in his other hand, studying her face under his brows, a young doctor watching from the window --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, beard, moustache"
+  },
+  {
+   "cue": 61,
+   "at": "the quick look under his bushy brows",
+   "name": "BK2IX-61a · Infinite geniality",
+   "words": "…I saw the quick look under his bushy brows… Then he began to chat of all things except ourselves and diseases and with such an infinite geniality…",
+   "prompt": "BK2IX-61a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a sunny Victorian drawing room, Van Helsing, an elderly clean-shaven Dutch professor with short grey hair, a broad brow, bushy grey eyebrows and keen eyes, in a black frock coat, chatting warmly with a pale fair-haired young woman over a tea table, she beginning to smile and laugh, his keen eyes watchful beneath his brows, afternoon light through lace curtains --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, beard, moustache"
   },
   {
    "cue": 62,
    "at": "he snapped his fingers",
    "name": "BK2IX-62a · Pouf!",
    "words": "To them I say: “Pouf!”’ And he snapped his fingers at me and went on…",
-   "prompt": "BK2IX-62a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a sunny Victorian drawing room, an elderly Dutch professor with bushy eyebrows snapping his fingers with a twinkle, a pale fair-haired young woman on a settee laughing in spite of herself, a young doctor standing by the mantel pretending to be offended --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract"
+   "prompt": "BK2IX-62a oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, a sunny Victorian drawing room, an elderly clean-shaven Dutch professor with short grey hair with bushy eyebrows snapping his fingers with a twinkle, a pale fair-haired young woman on a settee laughing in spite of herself, a young doctor standing by the mantel pretending to be offended --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, beard, moustache"
   },
   {
    "cue": 62,
    "at": "came to the window and called me in",
    "name": "BK2IX-62b · Called in from the garden",
    "words": "…presently the professor came to the window and called me in. He looked grave…",
-   "prompt": "BK2IX-62b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, view from a garden, an elderly professor with bushy eyebrows at an open French window of a Georgian country house beckoning gravely, a young doctor on the lawn with a cigarette turning toward him, roses and late summer light --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract"
+   "prompt": "BK2IX-62b oil on canvas, visible brushstrokes, soft painterly edges, warm amber glow, in the manner of John Singer Sargent and Atkinson Grimshaw, 1890s, view from a garden, an elderly professor with bushy eyebrows at an open French window of a Georgian country house beckoning gravely, a young doctor on the lawn with a cigarette turning toward him, roses and late summer light --ar 16:9 --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch09-examination-a1.jpg --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg --no text, lettering, modern, abstract, beard, moustache"
   },
   {
    "cue": 65,

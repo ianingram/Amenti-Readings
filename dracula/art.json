@@ -4367,11 +4367,64 @@
   ],
   "10": [
    {
-    "from": 5,
-    "caption": "",
+    "from": 2,
     "images": [
-     "ch10-bed-a3.jpg"
+     "ch09-44e-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "caption": "Purfleet",
+    "cut": true
+   },
+   {
+    "from": 5,
+    "images": [
+     "ch09-83a-2.jpg"
+    ],
+    "move": [
+     "push"
     ]
+   },
+   {
+    "from": 5,
+    "images": [
+     "ch09-39a-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "Westenra was naturally anxious"
+   },
+   {
+    "from": 5,
+    "images": [
+     "ch09-50b-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "my old master, Van Helsing"
+   },
+   {
+    "from": 5,
+    "images": [
+     "ch09-39a-1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "shock to her would mean sudden death"
+   },
+   {
+    "from": 5,
+    "images": [
+     "ch09-telegram-b0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "We are hedged in"
    },
    {
     "from": 8,

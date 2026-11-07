@@ -3906,21 +3906,145 @@
    },
    {
     "from": 36,
-    "caption": "",
+    "caption": "Albemarle Hotel, London",
     "images": [
-     "ch09-arthur-c0.jpg",
-     "ch09-arthur-c3.jpg"
+     "ch09-36e-0.jpg",
+     "ch09-36e-1.jpg",
+     "ch09-36e-2.jpg",
+     "ch09-36e-3.jpg"
+    ],
+    "cut": true,
+    "move": [
+     "push"
     ]
    },
    {
+    "from": 39,
+    "images": [
+     "ch09-arthur-c0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "Lucy is ill"
+   },
+   {
+    "from": 39,
+    "images": [
+     "ch09-39a-0.jpg",
+     "ch09-39a-1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "her doom"
+   },
+   {
+    "from": 39,
+    "images": [
+     "ch09-arthur-c3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "almost distracted"
+   },
+   {
+    "from": 39,
+    "images": [
+     "ch09-hillingham-a1.jpg",
+     "ch09-39a-2.jpg",
+     "ch09-39a-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "You are to come to lunch"
+   },
+   {
     "from": 44,
-    "caption": "",
+    "caption": "Purfleet",
+    "images": [
+     "ch09-44e-0.jpg",
+     "ch09-44e-1.jpg"
+    ],
+    "cut": true,
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 47,
+    "images": [
+     "ch09-44e-2.jpg",
+     "ch09-44e-3.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 48,
     "images": [
      "ch09-examination-a1.jpg",
-     "ch09-examination-a3.jpg",
+     "ch09-examination-a3.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 48,
+    "images": [
+     "ch09-48a-0.jpg",
+     "ch09-48a-1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "mask fell from"
+   },
+   {
+    "from": 49,
+    "images": [
+     "ch09-48a-2.jpg",
+     "ch09-48a-3.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 50,
+    "images": [
+     "ch09-50a-2.jpg",
+     "ch09-50a-3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "cut her hand"
+   },
+   {
+    "from": 50,
+    "images": [
      "ch09-microscope-c0.jpg",
      "ch09-microscope-c3.jpg"
-    ]
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "a few drops"
+   },
+   {
+    "from": 50,
+    "images": [
+     "ch08-cliff-b3.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "East Cliff"
    },
    {
     "from": 52,

@@ -4282,7 +4282,7 @@
     ]
    },
    {
-    "from": 82,
+    "from": 81,
     "images": [
      "ch09-78e-3.jpg"
     ],
@@ -4291,9 +4291,19 @@
     ]
    },
    {
+    "from": 82,
+    "images": [
+     "ch09-83a-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
     "from": 83,
     "images": [
-     "ch09-telegram-b0.jpg"
+     "ch09-83a-2.jpg",
+     "ch09-83a-3.jpg"
     ],
     "move": [
      "push"

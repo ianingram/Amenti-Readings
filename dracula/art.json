@@ -3765,8 +3765,37 @@
     "from": 10,
     "caption": "",
     "images": [
-     "ch09-wreck-2.jpg"
+     "ch09-pledge-0.jpg"
     ]
+   },
+   {
+    "from": 10,
+    "images": [
+     "ch09-pledge-1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "when he kissed me"
+   },
+   {
+    "from": 11,
+    "images": [
+     "ch09-writes-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 11,
+    "images": [
+     "ch09-writes-1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "I shall post this"
    },
    {
     "from": 13,
@@ -3786,12 +3815,52 @@
     ]
    },
    {
+    "from": 16,
+    "images": [
+     "ch09-rowing-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "rowing, and tennis"
+   },
+   {
+    "from": 16,
+    "images": [
+     "ch09-rowing-1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "There he is, calling"
+   },
+   {
     "from": 20,
     "caption": "Dr. Seward’s Diary",
     "images": [
      "ch08-restrained-a1.jpg",
      "ch09-flies-b2.jpg"
     ]
+   },
+   {
+    "from": 21,
+    "images": [
+     "ch09-moonrise-0.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "just as the moon rose"
+   },
+   {
+    "from": 21,
+    "images": [
+     "ch09-moonrise-1.jpg"
+    ],
+    "move": [
+     "push"
+    ],
+    "at": "kept murmuring"
    },
    {
     "from": 29,

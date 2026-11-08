@@ -4458,7 +4458,18 @@
    {
     "from": 13,
     "images": [
-     "ch24-study-3.jpg"
+     "ch24-study-3.jpg",
+     "ch24-study-2.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 14,
+    "images": [
+     "ch19-study-2.jpg",
+     "ch19-study-0.jpg"
     ],
     "move": [
      "push"

@@ -4550,8 +4550,35 @@
     "from": 78,
     "caption": "8 September",
     "images": [
-     "ch10-watch-b2.jpg",
+     "ch10-watch-b2.jpg"
+    ]
+   },
+   {
+    "from": 79,
+    "images": [
      "ch10-watch-b3.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 84,
+    "images": [
+     "ch08-lucy-fading-1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 89,
+    "images": [
+     "ch10-watch-b1.jpg",
+     "ch10-watch-b2.jpg"
+    ],
+    "move": [
+     "push"
     ]
    },
    {
@@ -4616,6 +4643,42 @@
     "images": [
      "ch10-rest-b2.jpg",
      "ch10-rest-b1.jpg"
+    ]
+   },
+   {
+    "from": 131,
+    "images": [
+     "ch08-lucy-fading-0.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 133,
+    "images": [
+     "ch10-supper-c1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 134,
+    "images": [
+     "ch10-door-a1.jpg"
+    ],
+    "move": [
+     "push"
+    ]
+   },
+   {
+    "from": 136,
+    "images": [
+     "ch10-door-a0.jpg"
+    ],
+    "move": [
+     "push"
     ]
    },
    {

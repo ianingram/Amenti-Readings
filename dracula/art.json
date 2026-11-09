@@ -5835,7 +5835,23 @@
     "from": 3,
     "caption": "29 September",
     "images": [
-     "ch17-hotel-b2.jpg",
+     "ch17-hotel-b2.jpg"
+    ]
+   },
+   {
+    "from": 9,
+    "images": [
+     "ch09-wire-0.mp4"
+    ],
+    "move": [
+     "none"
+    ],
+    "caption": "Telegram, Van Helsing to Mrs. Harker",
+    "cut": true
+   },
+   {
+    "from": 10,
+    "images": [
      "ch17-hotel-0.jpg"
     ]
    },
@@ -5861,8 +5877,25 @@
     "from": 25,
     "caption": "",
     "images": [
-     "ch17-phonograph-3.jpg",
      "ch17-phonograph-0.jpg"
+    ]
+   },
+   {
+    "from": 36,
+    "images": [
+     "ch05-phonograph-0.jpg"
+    ]
+   },
+   {
+    "from": 45,
+    "images": [
+     "ch13-chapel-aad2.jpg"
+    ]
+   },
+   {
+    "from": 47,
+    "images": [
+     "ch17-phonograph-3.jpg"
     ]
    },
    {
@@ -5898,6 +5931,12 @@
     "images": [
      "ch17-papers-0.jpg",
      "ch17-papers-2.jpg"
+    ]
+   },
+   {
+    "from": 81,
+    "images": [
+     "ch05-typewriter-1.jpg"
     ]
    },
    {
@@ -5943,6 +5982,7 @@
     "caption": "",
     "images": [
      "ch17-papers-3.jpg",
+     "ch18-manuscripts-3.jpg",
      "ch17-papers-1.jpg"
     ]
    },

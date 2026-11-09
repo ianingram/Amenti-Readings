@@ -6523,7 +6523,8 @@
     "caption": "",
     "images": [
      "ch20-envelope-1.jpg",
-     "ch20-envelope-3.jpg"
+     "ch20-envelope-3.jpg",
+     "ch19-asleep-0.jpg"
     ]
    },
    {
@@ -6539,7 +6540,8 @@
     "caption": "",
     "images": [
      "ch20-leaving-3.jpg",
-     "ch20-leaving-0.jpg"
+     "ch20-leaving-0.jpg",
+     "ch04-s-london-2.jpg"
     ]
    },
    {
@@ -6547,7 +6549,8 @@
     "caption": "",
     "images": [
      "ch20-deputy-2.jpg",
-     "ch20-deputy-1.jpg"
+     "ch20-deputy-1.jpg",
+     "ch04-s-london-3.jpg"
     ]
    },
    {
@@ -6592,7 +6595,8 @@
     "caption": "",
     "images": [
      "ch20-mews-1.jpg",
-     "ch20-mews-0.jpg"
+     "ch20-mews-0.jpg",
+     "ch13-picc-row-3.jpg"
     ]
    },
    {
@@ -6727,9 +6731,20 @@
    },
    {
     "from": 121,
-    "caption": "2 October",
     "images": [
-     "ch20-trap-2.jpg",
+     "ch20-fireside-0.jpg"
+    ],
+    "caption": "2 October"
+   },
+   {
+    "from": 122,
+    "images": [
+     "ch20-trap-2.jpg"
+    ]
+   },
+   {
+    "from": 123,
+    "images": [
      "ch20-trap-0.jpg"
     ]
    },

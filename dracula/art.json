@@ -7117,6 +7117,13 @@
     ]
    },
    {
+    "from": 5,
+    "images": [
+     "ch21-floor-0.jpg",
+     "ch21-floor-2.jpg"
+    ]
+   },
+   {
     "from": 6,
     "caption": "",
     "images": [
@@ -7138,8 +7145,19 @@
     "from": 20,
     "caption": "",
     "images": [
-     "ch22-blessing-1.jpg",
+     "ch22-blessing-1.jpg"
+    ]
+   },
+   {
+    "from": 22,
+    "images": [
      "ch22-blessing-0.jpg"
+    ]
+   },
+   {
+    "from": 24,
+    "images": [
+     "ch21-unclean-3.jpg"
     ]
    },
    {
@@ -7157,10 +7175,22 @@
     ]
    },
    {
+    "from": 30,
+    "images": [
+     "ch19-chapel-2.jpg",
+     "ch20-piccadilly-0.jpg"
+    ]
+   },
+   {
     "from": 31,
     "caption": "",
     "images": [
-     "ch22-starting-1.jpg",
+     "ch22-starting-1.jpg"
+    ]
+   },
+   {
+    "from": 34,
+    "images": [
      "ch22-starting-0.jpg"
     ]
    },
@@ -7216,7 +7246,12 @@
     "from": 75,
     "caption": "",
     "images": [
-     "ch22-tears-3.jpg",
+     "ch22-tears-3.jpg"
+    ]
+   },
+   {
+    "from": 79,
+    "images": [
      "ch22-tears-2.jpg"
     ]
    },
@@ -7303,8 +7338,19 @@
     "from": 100,
     "caption": "Piccadilly, 12:30",
     "images": [
-     "ch22-train-0.jpg",
+     "ch22-train-0.jpg"
+    ]
+   },
+   {
+    "from": 101,
+    "images": [
      "ch22-train-2.jpg"
+    ]
+   },
+   {
+    "from": 103,
+    "images": [
+     "ch20-piccadilly-2.jpg"
     ]
    },
    {
@@ -7320,15 +7366,23 @@
     "from": 106,
     "caption": "",
     "images": [
-     "ch22-locksmith-2.jpg"
+     "ch13-picc-row-1.jpg",
+     "ch22-locksmith-2.jpg",
+     "ch20-piccadilly-3.jpg"
     ]
    },
    {
     "from": 107,
     "caption": "",
     "images": [
-     "ch22-enter-0.jpg",
-     "ch22-enter-2.jpg"
+     "ch22-enter-0.jpg"
+    ]
+   },
+   {
+    "from": 109,
+    "images": [
+     "ch22-enter-2.jpg",
+     "ch19-dust-1.jpg"
     ]
    },
    {

@@ -263,7 +263,7 @@ function show(i,instant){
   links();
 }
 var EMBED=/[?&]embed\b/.test(location.search); if(EMBED) document.body.classList.add('embed');
-var HALL='https://ianingram.github.io/Amenti.live/hall.html';
+var HALL='https://amenti.live/hall.html';
 var EXH={};
 fetch('../art.json').then(function(r){return r.json();}).then(function(a){ EXH=a.exhibits||{}; links(); }).catch(function(){});
 function exhibitFor(e){ var xs=EXH[String(e[0])]; if(!xs||!xs.length) return null; var best=null;

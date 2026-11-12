@@ -51,7 +51,7 @@
      find. The engine publishes the URL it actually read; this uses that. */
   function poolUrl() {
     var T = window.Amenti && window.Amenti.throttle;
-    return (T && T.rosterUrl) || 'https://ianingram.github.io/Amenti.live/names.csv';
+    return (T && T.rosterUrl) || 'https://amenti.live/names.csv';
   }
 
   var C = {

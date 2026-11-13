@@ -1,0 +1,22 @@
+name: R2 check (studios private bucket)
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/r2-check.yml']
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: auto
+      EP: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+    steps:
+      - name: Write, list, read back, delete a test file
+        run: |
+          echo "amenti studios gate check $(date -u)" > check.txt
+          aws s3 cp check.txt s3://amenti-studios-private/_check/check.txt --endpoint-url "$EP"
+          aws s3 ls s3://amenti-studios-private/_check/ --endpoint-url "$EP"
+          aws s3 cp s3://amenti-studios-private/_check/check.txt back.txt --endpoint-url "$EP" && cat back.txt
+          aws s3 rm s3://amenti-studios-private/_check/check.txt --endpoint-url "$EP"
+          echo "R2 OK"

@@ -12,6 +12,15 @@ jobs:
       AWS_DEFAULT_REGION: auto
       EP: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
     steps:
+      - name: Shape of R2_ACCOUNT_ID (no value shown)
+        env: { A: "${{ secrets.R2_ACCOUNT_ID }}" }
+        run: |
+          echo "length=${#A}"
+          case "$A" in *http*) echo "contains http";; esac
+          case "$A" in *.*) echo "contains a dot";; esac
+          case "$A" in *" "*) echo "contains a space";; esac
+          case "$A" in *$'\n'*) echo "contains a newline";; esac
+          [[ "$A" =~ ^[0-9a-f]{32}$ ]] && echo "looks right: 32 hex" || echo "NOT 32 hex"
       - name: Write, list, read back, delete a test file
         run: |
           echo "amenti studios gate check $(date -u)" > check.txt

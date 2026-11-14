@@ -74,7 +74,14 @@
    "para": 2,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Flint was cap’n; I was quartermaster, along\nof my timber leg. The same broadside I lost my leg, old Pew lost his\ndeadlights. It was a master surgeon, him that ampytated me--out of\ncollege and all--Latin by the bucket, and what not; but he was hanged\nlike a dog, and sun-dried like the rest, at Corso Castle. That was\nRoberts’ men, that was, and comed of changing names to their\nships--ROYAL FORTUNE and so on. Now, what a ship was christened, so let\nher stay, I says. So it was with the CASSANDRA, as brought us all safe\nhome from Malabar, after England took the _Viceroy of the Indies;_ so\nit was with the old WALRUS, Flint’s old ship, as I’ve seen amuck with\nthe red blood and fit to sink with gold.”"
+   "text": "“Flint was cap’n; I was quartermaster, along\nof my timber leg. The same broadside I lost my leg, old Pew lost his\ndeadlights. It was a master surgeon, him that ampytated me--out of\ncollege and all--Latin by the bucket, and what not; but he was hanged\nlike a dog, and sun-dried like the rest, at Corso Castle. That was\nRoberts’ men, that was, and comed of changing names to their\nships--ROYAL FORTUNE and so on. Now, what a ship was christened, so let\nher stay, I says. So it was with the CASSANDRA, as brought us all safe\nhome from Malabar, after England took the _Viceroy of the Indies;_ so\nit was with the old WALRUS, Flint’s old ship, as I’ve seen amuck with\nthe red blood and fit to sink with gold.”",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "_Viceroy of the Indies;_",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 6,
@@ -130,7 +137,14 @@
    "para": 6,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“But now, you look here: you’re young, you are, but you’re\nas smart as paint. I see that when I set my eyes on you, and I’ll talk\nto you like a man.”"
+   "text": "“But now, you look here: you’re young, you are, but you’re\nas smart as paint. I see that when I set my eyes on you, and I’ll talk\nto you like a man.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "when I set my",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 14,
@@ -172,7 +186,14 @@
    "para": 11,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“At Bristol, in banks and places,” answered his companion."
+   "text": "“At Bristol, in banks and places,” answered his companion.",
+   "sfx": [
+    {
+     "key": "gull_swoop_3",
+     "at": "banks and places,” answered",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 20,
@@ -235,7 +256,14 @@
    "para": 16,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“And a brave lad you were, and smart too,”"
+   "text": "“And a brave lad you were, and smart too,”",
+   "sfx": [
+    {
+     "key": "gull_near_1",
+     "at": "you were, and smart",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 29,
@@ -319,7 +347,14 @@
    "para": 19,
    "role": "Israel Hands",
    "cast": "Charles Babbage",
-   "text": "“here’s what I want to know, Barbecue: how\nlong are we a-going to stand off and on like a blessed bumboat? I’ve had\na’most enough o’ Cap’n Smollett; he’s hazed me long enough, by thunder!\nI want to go into that cabin, I do. I want their pickles and wines, and\nthat.”"
+   "text": "“here’s what I want to know, Barbecue: how\nlong are we a-going to stand off and on like a blessed bumboat? I’ve had\na’most enough o’ Cap’n Smollett; he’s hazed me long enough, by thunder!\nI want to go into that cabin, I do. I want their pickles and wines, and\nthat.”",
+   "sfx": [
+    {
+     "key": "gull_pair_3",
+     "at": "cabin, I do. I",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 41,
@@ -410,7 +445,14 @@
    "para": 24,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“We can steer\na course, but who’s to set one? That’s what all you gentlemen split on,\nfirst and last. If I had my way, I’d have Cap’n Smollett work us back\ninto the trades at least; then we’d have no blessed miscalculations and\na spoonful of water a day. But I know the sort you are. I’ll finish with\n’em at the island, as soon’s the blunt’s on board, and a pity it is. But\nyou’re never happy till you’re drunk. Split my sides, I’ve a sick heart\nto sail with the likes of you!”"
+   "text": "“We can steer\na course, but who’s to set one? That’s what all you gentlemen split on,\nfirst and last. If I had my way, I’d have Cap’n Smollett work us back\ninto the trades at least; then we’d have no blessed miscalculations and\na spoonful of water a day. But I know the sort you are. I’ll finish with\n’em at the island, as soon’s the blunt’s on board, and a pity it is. But\nyou’re never happy till you’re drunk. Split my sides, I’ve a sick heart\nto sail with the likes of you!”",
+   "sfx": [
+    {
+     "key": "gull_pair_1",
+     "at": "least; then we’d have",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 54,
@@ -494,7 +536,14 @@
    "para": 28,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Well, and where are they now? Pew was that sort,\nand he died a beggar-man. Flint was, and he died of rum at Savannah. Ah,\nthey was a sweet crew, they was! On’y, where are they?”"
+   "text": "“Well, and where are they now? Pew was that sort,\nand he died a beggar-man. Flint was, and he died of rum at Savannah. Ah,\nthey was a sweet crew, they was! On’y, where are they?”",
+   "sfx": [
+    {
+     "key": "gull_swoop_2",
+     "at": "Savannah. Ah, they was",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 66,
@@ -606,7 +655,14 @@
    "para": 34,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Only one thing I\nclaim--I claim Trelawney. I’ll wring his calf’s head off his body with\nthese hands, Dick!”"
+   "text": "“Only one thing I\nclaim--I claim Trelawney. I’ll wring his calf’s head off his body with\nthese hands, Dick!”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "Trelawney. I’ll wring his",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 82,
@@ -683,7 +739,14 @@
    "para": 38,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Hence there were still faithful men on\nboard."
+   "text": "Hence there were still faithful men on\nboard.",
+   "sfx": [
+    {
+     "key": "gull_near_2",
+     "at": "were still faithful men",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 93,

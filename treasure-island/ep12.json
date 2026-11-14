@@ -75,7 +75,14 @@
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "So much I saw, almost in a dream, for I had not yet recovered from my\nhorrid fear of a minute or two before. And then I heard the voice of\nCaptain Smollett issuing orders. The HISPANIOLA was laid a couple of\npoints nearer the wind and now sailed a course that would just clear the\nisland on the east."
+   "text": "So much I saw, almost in a dream, for I had not yet recovered from my\nhorrid fear of a minute or two before. And then I heard the voice of\nCaptain Smollett issuing orders. The HISPANIOLA was laid a couple of\npoints nearer the wind and now sailed a course that would just clear the\nisland on the east.",
+   "sfx": [
+    {
+     "key": "gull_swoop_3",
+     "at": "was laid a couple",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 6,
@@ -166,7 +173,14 @@
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Long John’s eyes burned in his head as he took the chart, but by the\nfresh look of the paper I knew he was doomed to disappointment. This\nwas not the map we found in Billy Bones’s chest, but an accurate copy,\ncomplete in all things--names and heights and soundings--with the single\nexception of the red crosses and the written notes. Sharp as must have\nbeen his annoyance, Silver had the strength of mind to hide it."
+   "text": "Long John’s eyes burned in his head as he took the chart, but by the\nfresh look of the paper I knew he was doomed to disappointment. This\nwas not the map we found in Billy Bones’s chest, but an accurate copy,\ncomplete in all things--names and heights and soundings--with the single\nexception of the red crosses and the written notes. Sharp as must have\nbeen his annoyance, Silver had the strength of mind to hide it.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "all things--names and heights",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 19,
@@ -250,7 +264,14 @@
    "para": 14,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“this here is a sweet spot, this island--a sweet spot for\na lad to get ashore on. You’ll bathe, and you’ll climb trees, and you’ll\nhunt goats, you will; and you’ll get aloft on them hills like a goat\nyourself. Why, it makes me young again. I was going to forget my timber\nleg, I was. It’s a pleasant thing to be young and have ten toes, and you\nmay lay to that. When you want to go a bit of exploring, you just ask\nold John, and he’ll put up a snack for you to take along.”"
+   "text": "“this here is a sweet spot, this island--a sweet spot for\na lad to get ashore on. You’ll bathe, and you’ll climb trees, and you’ll\nhunt goats, you will; and you’ll get aloft on them hills like a goat\nyourself. Why, it makes me young again. I was going to forget my timber\nleg, I was. It’s a pleasant thing to be young and have ten toes, and you\nmay lay to that. When you want to go a bit of exploring, you just ask\nold John, and he’ll put up a snack for you to take along.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "and have ten toes,",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 31,
@@ -299,7 +320,14 @@
    "para": 18,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "as if he had asked me a question."
+   "text": "as if he had asked me a question.",
+   "sfx": [
+    {
+     "key": "gull_swoop_2",
+     "at": "he had asked me",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 38,
@@ -327,7 +355,14 @@
    "para": 20,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I’ve a word to say to you. This\nland that we have sighted is the place we have been sailing for. Mr.\nTrelawney, being a very open-handed gentleman, as we all know, has just\nasked me a word or two, and as I was able to tell him that every man on\nboard had done his duty, alow and aloft, as I never ask to see it done\nbetter, why, he and I and the doctor are going below to the cabin to\ndrink YOUR health and luck, and you’ll have grog served out for you to\ndrink OUR health and luck. I’ll tell you what I think of this: I think\nit handsome. And if you think as I do, you’ll give a good sea-cheer for\nthe gentleman that does it.”"
+   "text": "“I’ve a word to say to you. This\nland that we have sighted is the place we have been sailing for. Mr.\nTrelawney, being a very open-handed gentleman, as we all know, has just\nasked me a word or two, and as I was able to tell him that every man on\nboard had done his duty, alow and aloft, as I never ask to see it done\nbetter, why, he and I and the doctor are going below to the cabin to\ndrink YOUR health and luck, and you’ll have grog served out for you to\ndrink OUR health and luck. I’ll tell you what I think of this: I think\nit handsome. And if you think as I do, you’ll give a good sea-cheer for\nthe gentleman that does it.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "of this: I think",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 42,
@@ -403,7 +438,14 @@
    "para": 27,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I did as I was bid, and as short as I could make it, told the whole\ndetails of Silver’s conversation. Nobody interrupted me till I was done,\nnor did any one of the three of them make so much as a movement, but\nthey kept their eyes upon my face from first to last."
+   "text": "I did as I was bid, and as short as I could make it, told the whole\ndetails of Silver’s conversation. Nobody interrupted me till I was done,\nnor did any one of the three of them make so much as a movement, but\nthey kept their eyes upon my face from first to last.",
+   "sfx": [
+    {
+     "key": "gull_near_1",
+     "at": "Silver’s conversation. Nobody interrupted",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 52,
@@ -564,7 +606,14 @@
    "para": 35,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“We must go on, because we can’t turn\nback. If I gave the word to go about, they would rise at once. Second\npoint, we have time before us--at least until this treasure’s found.\nThird point, there are faithful hands. Now, sir, it’s got to come\nto blows sooner or later, and what I propose is to take time by the\nforelock, as the saying is, and come to blows some fine day when they\nleast expect it. We can count, I take it, on your own home servants, Mr.\nTrelawney?”"
+   "text": "“We must go on, because we can’t turn\nback. If I gave the word to go about, they would rise at once. Second\npoint, we have time before us--at least until this treasure’s found.\nThird point, there are faithful hands. Now, sir, it’s got to come\nto blows sooner or later, and what I propose is to take time by the\nforelock, as the saying is, and come to blows some fine day when they\nleast expect it. We can count, I take it, on your own home servants, Mr.\nTrelawney?”",
+   "sfx": [
+    {
+     "key": "gull_near_1",
+     "at": "it, on your own",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 75,
@@ -739,7 +788,14 @@
    "para": 45,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I began to feel pretty desperate at this, for I felt altogether\nhelpless; and yet, by an odd train of circumstances, it was indeed\nthrough me that safety came. In the meantime, talk as we pleased, there\nwere only seven out of the twenty-six on whom we knew we could rely; and\nout of these seven one was a boy, so that the grown men on our side were\nsix to their nineteen."
+   "text": "I began to feel pretty desperate at this, for I felt altogether\nhelpless; and yet, by an odd train of circumstances, it was indeed\nthrough me that safety came. In the meantime, talk as we pleased, there\nwere only seven out of the twenty-six on whom we knew we could rely; and\nout of these seven one was a boy, so that the grown men on our side were\nsix to their nineteen.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "one was a boy,",
+     "by": "place-birds"
+    }
+   ]
   }
  ]
 }

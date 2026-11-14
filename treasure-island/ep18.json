@@ -83,7 +83,14 @@
    "para": 6,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "Forty paces farther we came to the edge of the wood and saw the stockade\nin front of us. We struck the enclosure about the middle of the south\nside, and almost at the same time, seven mutineers--Job Anderson, the\nboatswain, at their head--appeared in full cry at the southwestern\ncorner."
+   "text": "Forty paces farther we came to the edge of the wood and saw the stockade\nin front of us. We struck the enclosure about the middle of the south\nside, and almost at the same time, seven mutineers--Job Anderson, the\nboatswain, at their head--appeared in full cry at the southwestern\ncorner.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "the enclosure about the",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 8,
@@ -96,6 +103,12 @@
      "key": "crew_death",
      "at": "one of the enemy actually fell",
      "offset": 1.2
+    },
+    {
+     "key": "gull_flock_2",
+     "by": "place-birds",
+     "at": "The four shots came in rather a scattering volley",
+     "offset": 0.45
     }
    ],
    "para": 7,
@@ -210,7 +223,14 @@
    "para": 19,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "After a little while of silence, he said he thought somebody might read\na prayer. “It’s the custom, sir,” he added apologetically. And not long\nafter, without another word, he passed away."
+   "text": "After a little while of silence, he said he thought somebody might read\na prayer. “It’s the custom, sir,” he added apologetically. And not long\nafter, without another word, he passed away.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "after, without another word,",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 23,
@@ -371,7 +391,14 @@
    "para": 31,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Blaze away! You’ve little enough powder\nalready, my lads.”"
+   "text": "“Blaze away! You’ve little enough powder\nalready, my lads.”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "You’ve little enough powder",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 45,
@@ -496,7 +523,14 @@
    "para": 40,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "And at the same time, I was wondering over poor Jim Hawkins’ fate."
+   "text": "And at the same time, I was wondering over poor Jim Hawkins’ fate.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "time, I was wondering",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 61,

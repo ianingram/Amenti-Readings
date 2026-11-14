@@ -80,7 +80,14 @@
    "para": 5,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The parrot sat, preening her plumage, on Long John’s shoulder. He\nhimself, I thought, looked somewhat paler and more stern than I was used\nto. He still wore the fine broadcloth suit in which he had fulfilled his\nmission, but it was bitterly the worse for wear, daubed with clay and\ntorn with the sharp briers of the wood."
+   "text": "The parrot sat, preening her plumage, on Long John’s shoulder. He\nhimself, I thought, looked somewhat paler and more stern than I was used\nto. He still wore the fine broadcloth suit in which he had fulfilled his\nmission, but it was bitterly the worse for wear, daubed with clay and\ntorn with the sharp briers of the wood.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "but it was bitterly",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 7,
@@ -248,7 +255,14 @@
    "para": 15,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“no one’s a-pressing of you. Take your bearings.\nNone of us won’t hurry you, mate; time goes so pleasant in your company,\nyou see.”"
+   "text": "“no one’s a-pressing of you. Take your bearings.\nNone of us won’t hurry you, mate; time goes so pleasant in your company,\nyou see.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "us won’t hurry you,",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 31,
@@ -381,7 +395,14 @@
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I stopped, for, I tell you, I was out of breath, and to my wonder, not\na man of them moved, but all sat staring at me like as many sheep. And\nwhile they were still staring, I broke out again, “And now, Mr. Silver,”\n I said, “I believe you’re the best man here, and if things go to the\nworst, I’ll take it kind of you to let the doctor know the way I took\nit.”"
+   "text": "I stopped, for, I tell you, I was out of breath, and to my wonder, not\na man of them moved, but all sat staring at me like as many sheep. And\nwhile they were still staring, I broke out again, “And now, Mr. Silver,”\n I said, “I believe you’re the best man here, and if things go to the\nworst, I’ll take it kind of you to let the doctor know the way I took\nit.”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "as many sheep. And",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 50,
@@ -507,7 +528,14 @@
    "para": 37,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Not a man stirred; not a man answered."
+   "text": "Not a man stirred; not a man answered.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "man stirred; not a",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 68,
@@ -598,7 +626,14 @@
    "para": 44,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“you’re within half a plank of death, and what’s\na long sight worse, of torture. They’re going to throw me off. But, you\nmark, I stand by you through thick and thin. I didn’t mean to; no, not\ntill you spoke up. I was about desperate to lose that much blunt, and\nbe hanged into the bargain. But I see you was the right sort. I says to\nmyself, you stand by Hawkins, John, and Hawkins’ll stand by you. You’re\nhis last card, and by the living thunder, John, he’s yours! Back to\nback, says I. You save your witness, and he’ll save your neck!”"
+   "text": "“you’re within half a plank of death, and what’s\na long sight worse, of torture. They’re going to throw me off. But, you\nmark, I stand by you through thick and thin. I didn’t mean to; no, not\ntill you spoke up. I was about desperate to lose that much blunt, and\nbe hanged into the bargain. But I see you was the right sort. I says to\nmyself, you stand by Hawkins, John, and Hawkins’ll stand by you. You’re\nhis last card, and by the living thunder, John, he’s yours! Back to\nback, says I. You save your witness, and he’ll save your neck!”",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "be hanged into the",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 81,

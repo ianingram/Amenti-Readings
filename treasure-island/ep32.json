@@ -90,7 +90,14 @@
    "para": 5,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“about in the right line from\nSkeleton Island. ‘Spy-glass shoulder,’ I take it, means that lower p’int\nthere. It’s child’s play to find the stuff now. I’ve half a mind to dine\nfirst.”"
+   "text": "“about in the right line from\nSkeleton Island. ‘Spy-glass shoulder,’ I take it, means that lower p’int\nthere. It’s child’s play to find the stuff now. I’ve half a mind to dine\nfirst.”",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "now. I’ve half a",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 9,
@@ -249,7 +256,14 @@
    "para": 20,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“They was his last words,” moaned Morgan, “his last words above board.”"
+   "text": "“They was his last words,” moaned Morgan, “his last words above board.”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "“his last words above",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 31,
@@ -401,7 +415,14 @@
    "para": 32,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“It don’t make much odds, do it, now?” asked Dick. “Ben Gunn’s not here\nin the body any more’n Flint.”"
+   "text": "“It don’t make much odds, do it, now?” asked Dick. “Ben Gunn’s not here\nin the body any more’n Flint.”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "asked Dick. “Ben Gunn’s",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 52,
@@ -478,7 +499,14 @@
    "para": 40,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The first of the tall trees was reached, and by the bearings proved the\nwrong one. So with the second. The third rose nearly two hundred feet\ninto the air above a clump of underwood--a giant of a vegetable, with\na red column as big as a cottage, and a wide shadow around in which a\ncompany could have manoeuvred. It was conspicuous far to sea both on\nthe east and west and might have been entered as a sailing mark upon the\nchart."
+   "text": "The first of the tall trees was reached, and by the bearings proved the\nwrong one. So with the second. The third rose nearly two hundred feet\ninto the air above a clump of underwood--a giant of a vegetable, with\na red column as big as a cottage, and a wide shadow around in which a\ncompany could have manoeuvred. It was conspicuous far to sea both on\nthe east and west and might have been entered as a sailing mark upon the\nchart.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "company could have manoeuvred.",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 63,
@@ -527,7 +555,14 @@
    "para": 47,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Before us was a great excavation, not very recent, for the sides had\nfallen in and grass had sprouted on the bottom. In this were the shaft\nof a pick broken in two and the boards of several packing-cases strewn\naround. On one of these boards I saw, branded with a hot iron, the name\nWALRUS--the name of Flint’s ship."
+   "text": "Before us was a great excavation, not very recent, for the sides had\nfallen in and grass had sprouted on the bottom. In this were the shaft\nof a pick broken in two and the boards of several packing-cases strewn\naround. On one of these boards I saw, branded with a hot iron, the name\nWALRUS--the name of Flint’s ship.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "shaft of a pick",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 70,

@@ -75,7 +75,14 @@
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Instantly the figure reappeared, and making a wide circuit, began to\nhead me off. I was tired, at any rate; but had I been as fresh as when I\nrose, I could see it was in vain for me to contend in speed with such an\nadversary. From trunk to trunk the creature flitted like a deer, running\nmanlike on two legs, but unlike any man that I had ever seen, stooping\nalmost double as it ran. Yet a man it was, I could no longer be in doubt\nabout that."
+   "text": "Instantly the figure reappeared, and making a wide circuit, began to\nhead me off. I was tired, at any rate; but had I been as fresh as when I\nrose, I could see it was in vain for me to contend in speed with such an\nadversary. From trunk to trunk the creature flitted like a deer, running\nmanlike on two legs, but unlike any man that I had ever seen, stooping\nalmost double as it ran. Yet a man it was, I could no longer be in doubt\nabout that.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "adversary. From trunk to",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 6,
@@ -194,7 +201,14 @@
    "para": 15,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“If ever I can get aboard again,” said I, “you shall have cheese by the\nstone.”"
+   "text": "“If ever I can get aboard again,” said I, “you shall have cheese by the\nstone.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "“you shall have cheese",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 23,
@@ -369,7 +383,14 @@
    "para": 27,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At this I had a happy inspiration. I began to believe that I had found\nan ally, and I answered him at once."
+   "text": "At this I had a happy inspiration. I began to believe that I had found\nan ally, and I answered him at once.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "I answered him at",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 48,
@@ -593,7 +614,14 @@
    "para": 44,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“Well, I was in another ship three years back, and we sighted this\nisland. ‘Boys,’ said I, ‘here’s Flint’s treasure; let’s land and find\nit.’ The cap’n was displeased at that, but my messmates were all of a\nmind and landed. Twelve days they looked for it, and every day they had\nthe worse word for me, until one fine morning all hands went aboard. ‘As\nfor you, Benjamin Gunn,’ says they, ‘here’s a musket,’ they says, ‘and\na spade, and pick-axe. You can stay here and find Flint’s money for\nyourself,’ they says."
+   "text": "“Well, I was in another ship three years back, and we sighted this\nisland. ‘Boys,’ said I, ‘here’s Flint’s treasure; let’s land and find\nit.’ The cap’n was displeased at that, but my messmates were all of a\nmind and landed. Twelve days they looked for it, and every day they had\nthe worse word for me, until one fine morning all hands went aboard. ‘As\nfor you, Benjamin Gunn,’ says they, ‘here’s a musket,’ they says, ‘and\na spade, and pick-axe. You can stay here and find Flint’s money for\nyourself,’ they says.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "days they looked for",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 80,
@@ -706,6 +734,12 @@
     {
      "key": "cannon_island",
      "at": "bellowed to the thunder of a cannon"
+    },
+    {
+     "key": "gull_flock_1",
+     "by": "place-birds",
+     "at": "bellowed to the thunder of a cannon",
+     "offset": 0.45
     }
    ],
    "para": 52,
@@ -746,7 +780,14 @@
    "para": 55,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“keep to your left hand, mate Jim! Under the\ntrees with you! Theer’s where I killed my first goat. They don’t come\ndown here now; they’re all mastheaded on them mountings for the fear\nof Benjamin Gunn. Ah! And there’s the cetemery”"
+   "text": "“keep to your left hand, mate Jim! Under the\ntrees with you! Theer’s where I killed my first goat. They don’t come\ndown here now; they’re all mastheaded on them mountings for the fear\nof Benjamin Gunn. Ah! And there’s the cetemery”",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "come down here now;",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 101,

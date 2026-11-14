@@ -132,7 +132,14 @@
    "para": 7,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Then he went the rounds and saw, as he said, that all was clear."
+   "text": "Then he went the rounds and saw, as he said, that all was clear.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "as he said, that",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 15,
@@ -265,7 +272,14 @@
    "para": 18,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“If you please, sir,” said Joyce, “if I see anyone, am I to fire?”"
+   "text": "“If you please, sir,” said Joyce, “if I see anyone, am I to fire?”",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "anyone, am I to",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 34,
@@ -305,6 +319,12 @@
     {
      "key": "stockade_attack",
      "at": "repeated and repeated from without in a scattering volley"
+    },
+    {
+     "key": "gull_flock_1",
+     "by": "place-birds",
+     "at": "suddenly Joyce whipped up his musket and fired",
+     "offset": 0.45
     }
    ],
    "para": 22,
@@ -436,7 +456,14 @@
    "para": 32,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The four who had boarded made straight before them for the building,\nshouting as they ran, and the men among the trees shouted back to\nencourage them. Several shots were fired, but such was the hurry of the\nmarksmen that not one appears to have taken effect. In a moment, the\nfour pirates had swarmed up the mound and were upon us."
+   "text": "The four who had boarded made straight before them for the building,\nshouting as they ran, and the men among the trees shouted back to\nencourage them. Several shots were fired, but such was the hurry of the\nmarksmen that not one appears to have taken effect. In a moment, the\nfour pirates had swarmed up the mound and were upon us.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "had swarmed up the",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 56,
@@ -527,7 +554,14 @@
    "para": 43,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Gray, following close behind me, had cut down the big boatswain ere\nhe had time to recover from his last blow. Another had been shot at a\nloophole in the very act of firing into the house and now lay in agony,\nthe pistol still smoking in his hand. A third, as I had seen, the doctor\nhad disposed of at a blow. Of the four who had scaled the palisade, one\nonly remained unaccounted for, and he, having left his cutlass on the\nfield, was now clambering out again with the fear of death upon him."
+   "text": "Gray, following close behind me, had cut down the big boatswain ere\nhe had time to recover from his last blow. Another had been shot at a\nloophole in the very act of firing into the house and now lay in agony,\nthe pistol still smoking in his hand. A third, as I had seen, the doctor\nhad disposed of at a blow. Of the four who had scaled the palisade, one\nonly remained unaccounted for, and he, having left his cutlass on the\nfield, was now clambering out again with the fear of death upon him.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "and now lay in",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 69,

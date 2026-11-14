@@ -27,7 +27,7 @@ on:
         required: false
         default: "20"
       voice:
-        description: "Voice lines not yet in the cache? Costs money; runs on 4 machines at most"
+        description: "Voice lines not yet in the cache? Costs money; runs on 2 machines at most"
         type: boolean
         default: false
 permissions:
@@ -60,7 +60,7 @@ jobs:
     timeout-minutes: 90
     strategy:
       fail-fast: false
-      max-parallel: ${{ inputs.voice && 4 || fromJSON(inputs.parallel) }}   # voicing new lines: 4 machines at most
+      max-parallel: ${{ inputs.voice && 2 || fromJSON(inputs.parallel) }}   # voicing new lines: 2 machines at most (4 were refused)
       matrix:
         nn: ${{ fromJSON(needs.plan.outputs.list) }}
     env:

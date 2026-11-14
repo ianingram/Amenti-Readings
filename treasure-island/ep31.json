@@ -76,7 +76,14 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Just then a man hailed us from the fire that breakfast was ready, and\nwe were soon seated here and there about the sand over biscuit and fried\njunk. They had lit a fire fit to roast an ox, and it was now grown so\nhot that they could only approach it from the windward, and even there\nnot without precaution. In the same wasteful spirit, they had cooked,\nI suppose, three times more than we could eat; and one of them, with an\nempty laugh, threw what was left into the fire, which blazed and roared\nagain over this unusual fuel. I never in my life saw men so careless of\nthe morrow; hand to mouth is the only word that can describe their way\nof doing; and what with wasted food and sleeping sentries, though they\nwere bold enough for a brush and be done with it, I could see their\nentire unfitness for anything like a prolonged campaign."
+   "text": "Just then a man hailed us from the fire that breakfast was ready, and\nwe were soon seated here and there about the sand over biscuit and fried\njunk. They had lit a fire fit to roast an ox, and it was now grown so\nhot that they could only approach it from the windward, and even there\nnot without precaution. In the same wasteful spirit, they had cooked,\nI suppose, three times more than we could eat; and one of them, with an\nempty laugh, threw what was left into the fire, which blazed and roared\nagain over this unusual fuel. I never in my life saw men so careless of\nthe morrow; hand to mouth is the only word that can describe their way\nof doing; and what with wasted food and sleeping sentries, though they\nwere bold enough for a brush and be done with it, I could see their\nentire unfitness for anything like a prolonged campaign.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "could only approach it",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 7,
@@ -167,7 +174,14 @@
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "and you will readily believe how little taste I found in my\nbreakfast and with how uneasy a heart I set forth behind my captors on\nthe quest for treasure."
+   "text": "and you will readily believe how little taste I found in my\nbreakfast and with how uneasy a heart I set forth behind my captors on\nthe quest for treasure.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "uneasy a heart I",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 20,
@@ -209,7 +223,14 @@
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "A tall tree was thus the principal mark. Now, right before us the\nanchorage was bounded by a plateau from two to three hundred feet high,\nadjoining on the north the sloping southern shoulder of the Spy-glass\nand rising again towards the south into the rough, cliffy eminence\ncalled the Mizzenmast Hill. The top of the plateau was dotted thickly\nwith pine-trees of varying height. Every here and there, one of a\ndifferent species rose forty or fifty feet clear above its neighbours,\nand which of these was the particular “tall tree” of Captain Flint could\nonly be decided on the spot, and by the readings of the compass."
+   "text": "A tall tree was thus the principal mark. Now, right before us the\nanchorage was bounded by a plateau from two to three hundred feet high,\nadjoining on the north the sloping southern shoulder of the Spy-glass\nand rising again towards the south into the rough, cliffy eminence\ncalled the Mizzenmast Hill. The top of the plateau was dotted thickly\nwith pine-trees of varying height. Every here and there, one of a\ndifferent species rose forty or fifty feet clear above its neighbours,\nand which of these was the particular “tall tree” of Captain Flint could\nonly be decided on the spot, and by the readings of the compass.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "of the Spy-glass and",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 26,
@@ -298,7 +319,14 @@
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Indeed, on a second glance, it seemed impossible to fancy that the body\nwas in a natural position. But for some disarray (the work, perhaps, of\nthe birds that had fed upon him or of the slow-growing creeper that had\ngradually enveloped his remains) the man lay perfectly straight--his\nfeet pointing in one direction, his hands, raised above his head like a\ndiver’s, pointing directly in the opposite."
+   "text": "Indeed, on a second glance, it seemed impossible to fancy that the body\nwas in a natural position. But for some disarray (the work, perhaps, of\nthe birds that had fed upon him or of the slow-growing creeper that had\ngradually enveloped his remains) the man lay perfectly straight--his\nfeet pointing in one direction, his hands, raised above his head like a\ndiver’s, pointing directly in the opposite.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "gradually enveloped his remains)",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 38,
@@ -450,7 +478,14 @@
    "para": 38,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“stow this talk. He’s dead, and he don’t\nwalk, that I know; leastways, he won’t walk by day, and you may lay to\nthat. Care killed a cat. Fetch ahead for the doubloons.”"
+   "text": "“stow this talk. He’s dead, and he don’t\nwalk, that I know; leastways, he won’t walk by day, and you may lay to\nthat. Care killed a cat. Fetch ahead for the doubloons.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "won’t walk by day,",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 59,

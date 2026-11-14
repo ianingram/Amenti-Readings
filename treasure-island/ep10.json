@@ -72,7 +72,14 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Now, Barbecue, tip us a stave,” cried one voice."
+   "text": "“Now, Barbecue, tip us a stave,” cried one voice.",
+   "sfx": [
+    {
+     "key": "gull_swoop_2",
+     "at": "stave,” cried one voice.",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 5,
@@ -141,7 +148,14 @@
    "para": 11,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I am not going to relate that voyage in detail. It was fairly\nprosperous. The ship proved to be a good ship, the crew were capable\nseamen, and the captain thoroughly understood his business. But before\nwe came the length of Treasure Island, two or three things had happened\nwhich require to be known."
+   "text": "I am not going to relate that voyage in detail. It was fairly\nprosperous. The ship proved to be a good ship, the crew were capable\nseamen, and the captain thoroughly understood his business. But before\nwe came the length of Treasure Island, two or three things had happened\nwhich require to be known.",
+   "sfx": [
+    {
+     "key": "gull_pair_3",
+     "at": "ship, the crew were",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 14,
@@ -183,7 +197,14 @@
    "para": 15,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Well, gentlemen, that saves the trouble\nof putting him in irons.”"
+   "text": "“Well, gentlemen, that saves the trouble\nof putting him in irons.”",
+   "sfx": [
+    {
+     "key": "gull_near_3",
+     "at": "trouble of putting him",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 20,
@@ -204,7 +225,14 @@
    "para": 18,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Aboard ship he carried his crutch by a lanyard round his neck, to have\nboth hands as free as possible. It was something to see him wedge the\nfoot of the crutch against a bulkhead, and propped against it, yielding\nto every movement of the ship, get on with his cooking like someone safe\nashore. Still more strange was it to see him in the heaviest of weather\ncross the deck. He had a line or two rigged up to help him across the\nwidest spaces--Long John’s earrings, they were called; and he would hand\nhimself from one place to another, now using the crutch, now trailing it\nalongside by the lanyard, as quickly as another man could walk. Yet some\nof the men who had sailed with him before expressed their pity to see\nhim so reduced."
+   "text": "Aboard ship he carried his crutch by a lanyard round his neck, to have\nboth hands as free as possible. It was something to see him wedge the\nfoot of the crutch against a bulkhead, and propped against it, yielding\nto every movement of the ship, get on with his cooking like someone safe\nashore. Still more strange was it to see him in the heaviest of weather\ncross the deck. He had a line or two rigged up to help him across the\nwidest spaces--Long John’s earrings, they were called; and he would hand\nhimself from one place to another, now using the crutch, now trailing it\nalongside by the lanyard, as quickly as another man could walk. Yet some\nof the men who had sailed with him before expressed their pity to see\nhim so reduced.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "they were called; and",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 23,
@@ -287,7 +315,14 @@
    "para": 23,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“is, maybe, two hundred years\nold, Hawkins--they live forever mostly; and if anybody’s seen more\nwickedness, it must be the devil himself. She’s sailed with England,\nthe great Cap’n England, the pirate. She’s been at Madagascar, and at\nMalabar, and Surinam, and Providence, and Portobello. She was at the\nfishing up of the wrecked plate ships. It’s there she learned ‘Pieces\nof eight,’ and little wonder; three hundred and fifty thousand of ’em,\nHawkins! She was at the boarding of the _Viceroy of the Indies_ out of\nGoa, she was; and to look at her you would think she was a babby. But\nyou smelt powder--didn’t you, Cap’n?”"
+   "text": "“is, maybe, two hundred years\nold, Hawkins--they live forever mostly; and if anybody’s seen more\nwickedness, it must be the devil himself. She’s sailed with England,\nthe great Cap’n England, the pirate. She’s been at Madagascar, and at\nMalabar, and Surinam, and Providence, and Portobello. She was at the\nfishing up of the wrecked plate ships. It’s there she learned ‘Pieces\nof eight,’ and little wonder; three hundred and fifty thousand of ’em,\nHawkins! She was at the boarding of the _Viceroy of the Indies_ out of\nGoa, she was; and to look at her you would think she was a babby. But\nyou smelt powder--didn’t you, Cap’n?”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "the fishing up of",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 34,
@@ -349,7 +384,14 @@
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "In the meantime, the squire and Captain Smollett were still on pretty\ndistant terms with one another. The squire made no bones about the\nmatter; he despised the captain. The captain, on his part, never spoke\nbut when he was spoken to, and then sharp and short and dry, and not a\nword wasted. He owned, when driven into a corner, that he seemed to have\nbeen wrong about the crew, that some of them were as brisk as he wanted\nto see and all had behaved fairly well. As for the ship, he had taken a\ndownright fancy to her."
+   "text": "In the meantime, the squire and Captain Smollett were still on pretty\ndistant terms with one another. The squire made no bones about the\nmatter; he despised the captain. The captain, on his part, never spoke\nbut when he was spoken to, and then sharp and short and dry, and not a\nword wasted. He owned, when driven into a corner, that he seemed to have\nbeen wrong about the crew, that some of them were as brisk as he wanted\nto see and all had behaved fairly well. As for the ship, he had taken a\ndownright fancy to her.",
+   "sfx": [
+    {
+     "key": "gull_pair_1",
+     "at": "fairly well. As for",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 42,
@@ -433,7 +475,14 @@
    "para": 31,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "But good did come of the apple barrel, as you shall hear, for if it had\nnot been for that, we should have had no note of warning and might all\nhave perished by the hand of treachery."
+   "text": "But good did come of the apple barrel, as you shall hear, for if it had\nnot been for that, we should have had no note of warning and might all\nhave perished by the hand of treachery.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "might all have perished",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 54,

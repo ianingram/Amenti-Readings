@@ -55,7 +55,14 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The coracle--as I had ample reason to know before I was done with\nher--was a very safe boat for a person of my height and weight, both\nbuoyant and clever in a seaway; but she was the most cross-grained,\nlop-sided craft to manage. Do as you pleased, she always made more\nleeway than anything else, and turning round and round was the manoeuvre\nshe was best at. Even Ben Gunn himself has admitted that she was “queer\nto handle till you knew her way.”"
+   "text": "The coracle--as I had ample reason to know before I was done with\nher--was a very safe boat for a person of my height and weight, both\nbuoyant and clever in a seaway; but she was the most cross-grained,\nlop-sided craft to manage. Do as you pleased, she always made more\nleeway than anything else, and turning round and round was the manoeuvre\nshe was best at. Even Ben Gunn himself has admitted that she was “queer\nto handle till you knew her way.”",
+   "sfx": [
+    {
+     "key": "gull_swoop_1",
+     "at": "cross-grained, lop-sided craft to",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 4,
@@ -76,7 +83,14 @@
    "para": 5,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The hawser was as taut as a bowstring, and the current so strong she\npulled upon her anchor. All round the hull, in the blackness, the\nrippling current bubbled and chattered like a little mountain stream.\nOne cut with my sea-gully and the HISPANIOLA would go humming down the\ntide."
+   "text": "The hawser was as taut as a bowstring, and the current so strong she\npulled upon her anchor. All round the hull, in the blackness, the\nrippling current bubbled and chattered like a little mountain stream.\nOne cut with my sea-gully and the HISPANIOLA would go humming down the\ntide.",
+   "sfx": [
+    {
+     "key": "gull_pair_3",
+     "at": "little mountain stream. One",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 7,
@@ -90,7 +104,14 @@
    "para": 7,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "This brought me to a full stop, and if fortune had not again\nparticularly favoured me, I should have had to abandon my design. But\nthe light airs which had begun blowing from the south-east and south\nhad hauled round after nightfall into the south-west. Just while I was\nmeditating, a puff came, caught the HISPANIOLA, and forced her up into\nthe current; and to my great joy, I felt the hawser slacken in my grasp,\nand the hand by which I held it dip for a second under water."
+   "text": "This brought me to a full stop, and if fortune had not again\nparticularly favoured me, I should have had to abandon my design. But\nthe light airs which had begun blowing from the south-east and south\nhad hauled round after nightfall into the south-west. Just while I was\nmeditating, a puff came, caught the HISPANIOLA, and forced her up into\nthe current; and to my great joy, I felt the hawser slacken in my grasp,\nand the hand by which I held it dip for a second under water.",
+   "sfx": [
+    {
+     "key": "gull_near_1",
+     "at": "up into the current;",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 9,
@@ -119,6 +140,11 @@
     {
      "key": "campfire_drone",
      "at": "Someone was singing, a dull, old, droning sailor’s song"
+    },
+    {
+     "key": "gull_pair_2",
+     "at": "and a quaver at",
+     "by": "place-birds"
     }
    ],
    "para": 11,
@@ -159,7 +185,14 @@
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I wrought like a fiend, for I expected every moment to be swamped; and\nsince I found I could not push the coracle directly off, I now shoved\nstraight astern. At length I was clear of my dangerous neighbour, and\njust as I gave the last impulsion, my hands came across a light cord\nthat was trailing overboard across the stern bulwarks. Instantly I\ngrasped it."
+   "text": "I wrought like a fiend, for I expected every moment to be swamped; and\nsince I found I could not push the coracle directly off, I now shoved\nstraight astern. At length I was clear of my dangerous neighbour, and\njust as I gave the last impulsion, my hands came across a light cord\nthat was trailing overboard across the stern bulwarks. Instantly I\ngrasped it.",
+   "sfx": [
+    {
+     "key": "gull_near_2",
+     "at": "dangerous neighbour, and just",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 18,
@@ -180,7 +213,14 @@
    "para": 19,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "By this time the schooner and her little consort were gliding pretty\nswiftly through the water; indeed, we had already fetched up level with\nthe camp-fire. The ship was talking, as sailors say, loudly, treading\nthe innumerable ripples with an incessant weltering splash; and until I\ngot my eye above the window-sill I could not comprehend why the watchmen\nhad taken no alarm. One glance, however, was sufficient; and it was\nonly one glance that I durst take from that unsteady skiff. It showed me\nHands and his companion locked together in deadly wrestle, each with a\nhand upon the other’s throat."
+   "text": "By this time the schooner and her little consort were gliding pretty\nswiftly through the water; indeed, we had already fetched up level with\nthe camp-fire. The ship was talking, as sailors say, loudly, treading\nthe innumerable ripples with an incessant weltering splash; and until I\ngot my eye above the window-sill I could not comprehend why the watchmen\nhad taken no alarm. One glance, however, was sufficient; and it was\nonly one glance that I durst take from that unsteady skiff. It showed me\nHands and his companion locked together in deadly wrestle, each with a\nhand upon the other’s throat.",
+   "sfx": [
+    {
+     "key": "gull_near_2",
+     "at": "had taken no alarm.",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 21,
@@ -214,7 +254,14 @@
    "para": 23,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I was just thinking how busy drink and the devil were at that very\nmoment in the cabin of the HISPANIOLA, when I was surprised by a sudden\nlurch of the coracle. At the same moment, she yawed sharply and seemed\nto change her course. The speed in the meantime had strangely increased."
+   "text": "I was just thinking how busy drink and the devil were at that very\nmoment in the cabin of the HISPANIOLA, when I was surprised by a sudden\nlurch of the coracle. At the same moment, she yawed sharply and seemed\nto change her course. The speed in the meantime had strangely increased.",
+   "sfx": [
+    {
+     "key": "gull_pair_2",
+     "at": "the meantime had strangely",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 25,
@@ -228,7 +275,14 @@
    "para": 25,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I glanced over my shoulder, and my heart jumped against my ribs. There,\nright behind me, was the glow of the camp-fire. The current had turned\nat right angles, sweeping round along with it the tall schooner and\nthe little dancing coracle; ever quickening, ever bubbling higher, ever\nmuttering louder, it went spinning through the narrows for the open sea."
+   "text": "I glanced over my shoulder, and my heart jumped against my ribs. There,\nright behind me, was the glow of the camp-fire. The current had turned\nat right angles, sweeping round along with it the tall schooner and\nthe little dancing coracle; ever quickening, ever bubbling higher, ever\nmuttering louder, it went spinning through the narrows for the open sea.",
+   "sfx": [
+    {
+     "key": "gull_near_3",
+     "at": "narrows for the open",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 27,
@@ -242,7 +296,14 @@
    "para": 27,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I lay down flat in the bottom of that wretched skiff and devoutly\nrecommended my spirit to its Maker. At the end of the straits, I\nmade sure we must fall into some bar of raging breakers, where all my\ntroubles would be ended speedily; and though I could, perhaps, bear to\ndie, I could not bear to look upon my fate as it approached."
+   "text": "I lay down flat in the bottom of that wretched skiff and devoutly\nrecommended my spirit to its Maker. At the end of the straits, I\nmade sure we must fall into some bar of raging breakers, where all my\ntroubles would be ended speedily; and though I could, perhaps, bear to\ndie, I could not bear to look upon my fate as it approached.",
+   "sfx": [
+    {
+     "key": "gull_near_3",
+     "at": "At the end of",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 29,

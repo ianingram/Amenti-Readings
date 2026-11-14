@@ -132,7 +132,14 @@
    "para": 7,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“not you. You’re a good boy, or I’m mistook;\nbut you’re on’y a boy, all told. Now, Ben Gunn is fly. Rum wouldn’t\nbring me there, where you’re going--not rum wouldn’t, till I see your\nborn gen’leman and gets it on his word of honour. And you won’t forget\nmy words; ‘A precious sight (that’s what you’ll say), a precious sight\nmore confidence’--and then nips him.”"
+   "text": "“not you. You’re a good boy, or I’m mistook;\nbut you’re on’y a boy, all told. Now, Ben Gunn is fly. Rum wouldn’t\nbring me there, where you’re going--not rum wouldn’t, till I see your\nborn gen’leman and gets it on his word of honour. And you won’t forget\nmy words; ‘A precious sight (that’s what you’ll say), a precious sight\nmore confidence’--and then nips him.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "fly. Rum wouldn’t bring",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 15,
@@ -244,7 +251,14 @@
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The sun had just set, the sea breeze was rustling and tumbling in the\nwoods and ruffling the grey surface of the anchorage; the tide, too, was\nfar out, and great tracts of sand lay uncovered; the air, after the heat\nof the day, chilled me through my jacket."
+   "text": "The sun had just set, the sea breeze was rustling and tumbling in the\nwoods and ruffling the grey surface of the anchorage; the tide, too, was\nfar out, and great tracts of sand lay uncovered; the air, after the heat\nof the day, chilled me through my jacket.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "far out, and great",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 30,
@@ -252,6 +266,12 @@
     {
      "key": "cannon_far",
      "at": "one more round-shot whistled through the air"
+    },
+    {
+     "key": "gull_flock_2",
+     "by": "place-birds",
+     "at": "one more round-shot whistled through the air",
+     "offset": 0.45
     }
    ],
    "para": 17,
@@ -285,7 +305,14 @@
    "para": 21,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I had soon told my story and began to look about me. The log-house was\nmade of unsquared trunks of pine--roof, walls, and floor. The latter\nstood in several places as much as a foot or a foot and a half above the\nsurface of the sand. There was a porch at the door, and under this porch\nthe little spring welled up into an artificial basin of a rather odd\nkind--no other than a great ship’s kettle of iron, with the bottom\nknocked out, and sunk “to her bearings,” as the captain said, among the\nsand."
+   "text": "I had soon told my story and began to look about me. The log-house was\nmade of unsquared trunks of pine--roof, walls, and floor. The latter\nstood in several places as much as a foot or a foot and a half above the\nsurface of the sand. There was a porch at the door, and under this porch\nthe little spring welled up into an artificial basin of a rather odd\nkind--no other than a great ship’s kettle of iron, with the bottom\nknocked out, and sunk “to her bearings,” as the captain said, among the\nsand.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "as a foot or",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 35,
@@ -349,7 +376,14 @@
    "para": 28,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“is a better man than I am. And when\nI say that it means a deal, Jim.”"
+   "text": "“is a better man than I am. And when\nI say that it means a deal, Jim.”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "means a deal, Jim.”",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 44,
@@ -489,7 +523,14 @@
    "para": 40,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I was dead tired, as you may fancy; and when I got to sleep, which was\nnot till after a great deal of tossing, I slept like a log of wood."
+   "text": "I was dead tired, as you may fancy; and when I got to sleep, which was\nnot till after a great deal of tossing, I slept like a log of wood.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "great deal of tossing,",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 64,

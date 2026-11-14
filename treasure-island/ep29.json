@@ -83,7 +83,14 @@
    "para": 5,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Here they come,” said I; and I returned to my former position, for it\nseemed beneath my dignity that they should find me watching them."
+   "text": "“Here they come,” said I; and I returned to my former position, for it\nseemed beneath my dignity that they should find me watching them.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "returned to my former",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 8,
@@ -272,7 +279,14 @@
    "para": 20,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“I thought you said you knowed the rules,”"
+   "text": "“I thought you said you knowed the rules,”",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "you said you knowed",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 35,
@@ -349,7 +363,14 @@
    "para": 26,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Why, I give you my word, I’m sick to speak to you. You’ve neither sense\nnor memory, and I leave it to fancy where your mothers was that let you\ncome to sea. Sea! Gentlemen o’ fortune! I reckon tailors is your trade.”"
+   "text": "“Why, I give you my word, I’m sick to speak to you. You’ve neither sense\nnor memory, and I leave it to fancy where your mothers was that let you\ncome to sea. Sea! Gentlemen o’ fortune! I reckon tailors is your trade.”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "memory, and I leave",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 46,
@@ -391,7 +412,14 @@
    "para": 30,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "But if it were inexplicable to me, the appearance of the chart was\nincredible to the surviving mutineers. They leaped upon it like cats\nupon a mouse. It went from hand to hand, one tearing it from another;\nand by the oaths and the cries and the childish laughter with which they\naccompanied their examination, you would have thought, not only they\nwere fingering the very gold, but were at sea with it, besides, in\nsafety."
+   "text": "But if it were inexplicable to me, the appearance of the chart was\nincredible to the surviving mutineers. They leaped upon it like cats\nupon a mouse. It went from hand to hand, one tearing it from another;\nand by the oaths and the cries and the childish laughter with which they\naccompanied their examination, you would have thought, not only they\nwere fingering the very gold, but were at sea with it, besides, in\nsafety.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "with it, besides, in",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 52,
@@ -551,7 +579,14 @@
    "para": 42,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It was around about the size of a crown piece. One side was blank,\nfor it had been the last leaf; the other contained a verse or two of\nRevelation--these words among the rest, which struck sharply home upon\nmy mind: “Without are dogs and murderers.” The printed side had been\nblackened with wood ash, which already began to come off and soil my\nfingers; on the blank side had been written with the same material the\none word “Depposed.” I have that curiosity beside me at this moment, but\nnot a trace of writing now remains beyond a single scratch, such as a\nman might make with his thumb-nail."
+   "text": "It was around about the size of a crown piece. One side was blank,\nfor it had been the last leaf; the other contained a verse or two of\nRevelation--these words among the rest, which struck sharply home upon\nmy mind: “Without are dogs and murderers.” The printed side had been\nblackened with wood ash, which already began to come off and soil my\nfingers; on the blank side had been written with the same material the\none word “Depposed.” I have that curiosity beside me at this moment, but\nnot a trace of writing now remains beyond a single scratch, such as a\nman might make with his thumb-nail.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "had been written with",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 74,

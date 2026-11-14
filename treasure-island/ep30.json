@@ -118,7 +118,14 @@
    "para": 7,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "So he pattered on, standing on the hilltop with his crutch under his\nelbow and one hand upon the side of the log-house--quite the old John in\nvoice, manner, and expression."
+   "text": "So he pattered on, standing on the hilltop with his crutch under his\nelbow and one hand upon the side of the log-house--quite the old John in\nvoice, manner, and expression.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "John in voice, manner,",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 13,
@@ -314,7 +321,14 @@
    "para": 21,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“and not having sense enough to know honest air from poison,\nand the dry land from a vile, pestiferous slough. I think it most\nprobable--though of course it’s only an opinion--that you’ll all have\nthe deuce to pay before you get that malaria out of your systems. Camp\nin a bog, would you? Silver, I’m surprised at you. You’re less of a fool\nthan many, take you all round; but you don’t appear to me to have the\nrudiments of a notion of the rules of health."
+   "text": "“and not having sense enough to know honest air from poison,\nand the dry land from a vile, pestiferous slough. I think it most\nprobable--though of course it’s only an opinion--that you’ll all have\nthe deuce to pay before you get that malaria out of your systems. Camp\nin a bog, would you? Silver, I’m surprised at you. You’re less of a fool\nthan many, take you all round; but you don’t appear to me to have the\nrudiments of a notion of the rules of health.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "notion of the rules",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 41,
@@ -482,7 +496,14 @@
    "para": 33,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Very deliberately, then, did we advance across the sand to where the\ndoctor awaited us on the other side of the stockade, and as soon as we\nwere within easy speaking distance Silver stopped."
+   "text": "Very deliberately, then, did we advance across the sand to where the\ndoctor awaited us on the other side of the stockade, and as soon as we\nwere within easy speaking distance Silver stopped.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "as we were within",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 65,
@@ -629,7 +650,14 @@
    "para": 43,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“We can’t help that, Jim, now. I’ll take it\non my shoulders, holus bolus, blame and shame, my boy; but stay here,\nI cannot let you. Jump! One jump, and you’re out, and we’ll run for it\nlike antelopes.”"
+   "text": "“We can’t help that, Jim, now. I’ll take it\non my shoulders, holus bolus, blame and shame, my boy; but stay here,\nI cannot let you. Jump! One jump, and you’re out, and we’ll run for it\nlike antelopes.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "out, and we’ll run",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 86,
@@ -790,7 +818,14 @@
    "para": 51,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“I’ve no right to say more; it’s not my\nsecret, you see, Silver, or, I give you my word, I’d tell it you. But\nI’ll go as far with you as I dare go, and a step beyond, for I’ll have\nmy wig sorted by the captain or I’m mistaken! And first, I’ll give you a\nbit of hope; Silver, if we both get alive out of this wolf-trap, I’ll do\nmy best to save you, short of perjury.”"
+   "text": "“I’ve no right to say more; it’s not my\nsecret, you see, Silver, or, I give you my word, I’d tell it you. But\nI’ll go as far with you as I dare go, and a step beyond, for I’ll have\nmy wig sorted by the captain or I’m mistaken! And first, I’ll give you a\nbit of hope; Silver, if we both get alive out of this wolf-trap, I’ll do\nmy best to save you, short of perjury.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "save you, short of",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 109,

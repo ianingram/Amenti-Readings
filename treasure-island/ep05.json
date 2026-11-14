@@ -92,7 +92,14 @@
    "para": 5,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "he shouted, and cursed them for their delay."
+   "text": "he shouted, and cursed them for their delay.",
+   "sfx": [
+    {
+     "key": "gull_pair_1",
+     "at": "them for their delay.",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 9,
@@ -204,7 +211,14 @@
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At that another fellow, probably him who had remained below to search\nthe captain’s body, came to the door of the inn. “Bill’s been overhauled\na’ready,” said he; “nothin’ left.”"
+   "text": "At that another fellow, probably him who had remained below to search\nthe captain’s body, came to the door of the inn. “Bill’s been overhauled\na’ready,” said he; “nothin’ left.”",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "the inn. “Bill’s been",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 25,
@@ -266,7 +280,14 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“There’s Dirk again,” said one. “Twice! We’ll have to budge, mates.”"
+   "text": "“There’s Dirk again,” said one. “Twice! We’ll have to budge, mates.”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "We’ll have to budge,",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 33,
@@ -315,7 +336,14 @@
    "para": 25,
    "role": "Blind Pew",
    "cast": "Alfred Hitchcock",
-   "text": "“You have your hands on thousands, you fools, and you hang a leg! You’d\nbe as rich as kings if you could find it, and you know it’s here, and\nyou stand there skulking. There wasn’t one of you dared face Bill, and\nI did it--a blind man! And I’m to lose my chance for you! I’m to be a\npoor, crawling beggar, sponging for rum, when I might be rolling in a\ncoach! If you had the pluck of a weevil in a biscuit you would catch\nthem still.”"
+   "text": "“You have your hands on thousands, you fools, and you hang a leg! You’d\nbe as rich as kings if you could find it, and you know it’s here, and\nyou stand there skulking. There wasn’t one of you dared face Bill, and\nI did it--a blind man! And I’m to lose my chance for you! I’m to be a\npoor, crawling beggar, sponging for rum, when I might be rolling in a\ncoach! If you had the pluck of a weevil in a biscuit you would catch\nthem still.”",
+   "sfx": [
+    {
+     "key": "gull_pair_1",
+     "at": "a biscuit you would",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 40,
@@ -355,6 +383,12 @@
     {
      "key": "pistol_far",
      "at": "a pistol-shot, flash and report, came from the hedge side"
+    },
+    {
+     "key": "gull_flock_2",
+     "by": "place-birds",
+     "at": "a pistol-shot, flash and report, came from the hedge side",
+     "offset": 0.45
     }
    ],
    "para": 30,
@@ -381,7 +415,14 @@
    "para": 30,
    "role": "Blind Pew",
    "cast": "Alfred Hitchcock",
-   "text": "“you won’t leave old Pew, mates--not old Pew!”"
+   "text": "“you won’t leave old Pew, mates--not old Pew!”",
+   "sfx": [
+    {
+     "key": "gull_pair_3",
+     "at": "leave old Pew, mates--not",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 48,
@@ -451,7 +492,14 @@
    "para": 36,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I went back with him to the Admiral Benbow, and you cannot imagine a\nhouse in such a state of smash; the very clock had been thrown down\nby these fellows in their furious hunt after my mother and myself;\nand though nothing had actually been taken away except the captain’s\nmoney-bag and a little silver from the till, I could see at once that we\nwere ruined. Mr. Dance could make nothing of the scene."
+   "text": "I went back with him to the Admiral Benbow, and you cannot imagine a\nhouse in such a state of smash; the very clock had been thrown down\nby these fellows in their furious hunt after my mother and myself;\nand though nothing had actually been taken away except the captain’s\nmoney-bag and a little silver from the till, I could see at once that we\nwere ruined. Mr. Dance could make nothing of the scene.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "money-bag and a little",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 54,
@@ -493,7 +541,14 @@
    "para": 42,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I thanked him heartily for the offer, and we walked back to the hamlet\nwhere the horses were. By the time I had told mother of my purpose they\nwere all in the saddle."
+   "text": "I thanked him heartily for the offer, and we walked back to the hamlet\nwhere the horses were. By the time I had told mother of my purpose they\nwere all in the saddle.",
+   "sfx": [
+    {
+     "key": "gull_pair_3",
+     "at": "were. By the time",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 60,

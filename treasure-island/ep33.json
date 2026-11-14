@@ -122,7 +122,14 @@
    "para": 6,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "There was no time left for him to answer in. The buccaneers, with oaths\nand cries, began to leap, one after another, into the pit and to dig\nwith their fingers, throwing the boards aside as they did so. Morgan\nfound a piece of gold. He held it up with a perfect spout of oaths. It\nwas a two-guinea piece, and it went from hand to hand among them for a\nquarter of a minute."
+   "text": "There was no time left for him to answer in. The buccaneers, with oaths\nand cries, began to leap, one after another, into the pit and to dig\nwith their fingers, throwing the boards aside as they did so. Morgan\nfound a piece of gold. He held it up with a perfect spout of oaths. It\nwas a two-guinea piece, and it went from hand to hand among them for a\nquarter of a minute.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "pit and to dig",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 13,
@@ -234,6 +241,12 @@
      "key": "crew_death",
      "at": "where he lay dead",
      "offset": 0.8
+    },
+    {
+     "key": "gull_flock_1",
+     "by": "place-birds",
+     "at": "crack! crack! crack!",
+     "offset": 0.45
     }
    ],
    "para": 15,
@@ -252,6 +265,11 @@
      "key": "pistol_near",
      "at": "fired two barrels of a pistol",
      "offset": 0.25
+    },
+    {
+     "key": "gull_far_1",
+     "at": "the struggling Merry, and",
+     "by": "place-birds"
     }
    ],
    "para": 16,
@@ -453,7 +471,14 @@
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The doctor sent back Gray for one of the pick-axes deserted, in their\nflight, by the mutineers, and then as we proceeded leisurely downhill to\nwhere the boats were lying, related in a few words what had taken place.\nIt was a story that profoundly interested Silver; and Ben Gunn, the\nhalf-idiot maroon, was the hero from beginning to end."
+   "text": "The doctor sent back Gray for one of the pick-axes deserted, in their\nflight, by the mutineers, and then as we proceeded leisurely downhill to\nwhere the boats were lying, related in a few words what had taken place.\nIt was a story that profoundly interested Silver; and Ben Gunn, the\nhalf-idiot maroon, was the hero from beginning to end.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "lying, related in a",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 54,
@@ -551,7 +576,14 @@
    "para": 35,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "As we passed the two-pointed hill, we could see the black mouth of Ben\nGunn’s cave and a figure standing by it, leaning on a musket. It was the\nsquire, and we waved a handkerchief and gave him three cheers, in which\nthe voice of Silver joined as heartily as any."
+   "text": "As we passed the two-pointed hill, we could see the black mouth of Ben\nGunn’s cave and a figure standing by it, leaning on a musket. It was the\nsquire, and we waved a handkerchief and gave him three cheers, in which\nthe voice of Silver joined as heartily as any.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "by it, leaning on",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 68,

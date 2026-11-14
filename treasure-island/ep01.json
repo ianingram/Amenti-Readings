@@ -62,7 +62,14 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having\nasked me to write down the whole particulars about Treasure Island, from\nthe beginning to the end, keeping nothing back but the bearings of the\nisland, and that only because there is still treasure not yet lifted, I\ntake up my pen in the year of grace 17—, and go back to the time when\nmy father kept the Admiral Benbow inn and the brown old seaman with the\nsabre cut first took up his lodging under our roof."
+   "text": "Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having\nasked me to write down the whole particulars about Treasure Island, from\nthe beginning to the end, keeping nothing back but the bearings of the\nisland, and that only because there is still treasure not yet lifted, I\ntake up my pen in the year of grace 17—, and go back to the time when\nmy father kept the Admiral Benbow inn and the brown old seaman with the\nsabre cut first took up his lodging under our roof.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "the sabre cut first",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 5,
@@ -90,6 +97,11 @@
     {
      "key": "stick_rap",
      "at": "he rapped on the door with a bit of stick"
+    },
+    {
+     "key": "gull_far_3",
+     "at": "roughly for a glass",
+     "by": "place-birds"
     }
    ],
    "para": 6,
@@ -201,14 +213,28 @@
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And indeed bad as his clothes were and coarsely as he spoke, he had none\nof the appearance of a man who sailed before the mast, but seemed like\na mate or skipper accustomed to be obeyed or to strike. The man who came\nwith the barrow told us the mail had set him down the morning before at\nthe Royal George, that he had inquired what inns there were along the\ncoast, and hearing ours well spoken of, I suppose, and described as\nlonely, had chosen it from the others for his place of residence. And\nthat was all we could learn of our guest."
+   "text": "And indeed bad as his clothes were and coarsely as he spoke, he had none\nof the appearance of a man who sailed before the mast, but seemed like\na mate or skipper accustomed to be obeyed or to strike. The man who came\nwith the barrow told us the mail had set him down the morning before at\nthe Royal George, that he had inquired what inns there were along the\ncoast, and hearing ours well spoken of, I suppose, and described as\nlonely, had chosen it from the others for his place of residence. And\nthat was all we could learn of our guest.",
+   "sfx": [
+    {
+     "key": "gull_pair_2",
+     "at": "the Royal George, that",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 23,
    "para": 11,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "He was a very silent man by custom. All day he hung round the cove or\nupon the cliffs with a brass telescope; all evening he sat in a corner\nof the parlour next the fire and drank rum and water very strong. Mostly\nhe would not speak when spoken to, only look up sudden and fierce and\nblow through his nose like a fog-horn; and we and the people who came\nabout our house soon learned to let him be. Every day when he came back\nfrom his stroll he would ask if any seafaring men had gone by along the\nroad. At first we thought it was the want of company of his own kind\nthat made him ask this question, but at last we began to see he was\ndesirous to avoid them. When a seaman did put up at the Admiral Benbow\n(as now and then some did, making by the coast road for Bristol) he\nwould look in at him through the curtained door before he entered the\nparlour; and he was always sure to be as silent as a mouse when any such\nwas present. For me, at least, there was no secret about the matter, for\nI was, in a way, a sharer in his alarms. He had taken me aside one day\nand promised me a silver fourpenny on the first of every month if I\nwould only keep my “weather-eye open for a seafaring man with one leg”\n and let him know the moment he appeared. Often enough when the first\nof the month came round and I applied to him for my wage, he would only\nblow through his nose at me and stare me down, but before the week was\nout he was sure to think better of it, bring me my four-penny piece, and\nrepeat his orders to look out for “the seafaring man with one leg.”"
+   "text": "He was a very silent man by custom. All day he hung round the cove or\nupon the cliffs with a brass telescope; all evening he sat in a corner\nof the parlour next the fire and drank rum and water very strong. Mostly\nhe would not speak when spoken to, only look up sudden and fierce and\nblow through his nose like a fog-horn; and we and the people who came\nabout our house soon learned to let him be. Every day when he came back\nfrom his stroll he would ask if any seafaring men had gone by along the\nroad. At first we thought it was the want of company of his own kind\nthat made him ask this question, but at last we began to see he was\ndesirous to avoid them. When a seaman did put up at the Admiral Benbow\n(as now and then some did, making by the coast road for Bristol) he\nwould look in at him through the curtained door before he entered the\nparlour; and he was always sure to be as silent as a mouse when any such\nwas present. For me, at least, there was no secret about the matter, for\nI was, in a way, a sharer in his alarms. He had taken me aside one day\nand promised me a silver fourpenny on the first of every month if I\nwould only keep my “weather-eye open for a seafaring man with one leg”\n and let him know the moment he appeared. Often enough when the first\nof the month came round and I applied to him for my wage, he would only\nblow through his nose at me and stare me down, but before the week was\nout he was sure to think better of it, bring me my four-penny piece, and\nrepeat his orders to look out for “the seafaring man with one leg.”",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "any such was present.",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 24,
@@ -222,7 +248,14 @@
    "para": 13,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "But though I was so terrified by the idea of the seafaring man with one\nleg, I was far less afraid of the captain himself than anybody else who\nknew him. There were nights when he took a deal more rum and water\nthan his head would carry; and then he would sometimes sit and sing his\nwicked, old, wild sea-songs, minding nobody; but sometimes he would call\nfor glasses round and force all the trembling company to listen to his\nstories or bear a chorus to his singing. Often I have heard the house\nshaking with"
+   "text": "But though I was so terrified by the idea of the seafaring man with one\nleg, I was far less afraid of the captain himself than anybody else who\nknew him. There were nights when he took a deal more rum and water\nthan his head would carry; and then he would sometimes sit and sing his\nwicked, old, wild sea-songs, minding nobody; but sometimes he would call\nfor glasses round and force all the trembling company to listen to his\nstories or bear a chorus to his singing. Often I have heard the house\nshaking with",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "he would call for",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 26,
@@ -243,7 +276,14 @@
    "para": 14,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "His stories were what frightened people worst of all. Dreadful stories\nthey were--about hanging, and walking the plank, and storms at sea, and\nthe Dry Tortugas, and wild deeds and places on the Spanish Main. By his\nown account he must have lived his life among some of the wickedest men\nthat God ever allowed upon the sea, and the language in which he told\nthese stories shocked our plain country people almost as much as the\ncrimes that he described. My father was always saying the inn would be\nruined, for people would soon cease coming there to be tyrannized over\nand put down, and sent shivering to their beds; but I really believe his\npresence did us good. People were frightened at the time, but on looking\nback they rather liked it; it was a fine excitement in a quiet country\nlife, and there was even a party of the younger men who pretended to\nadmire him, calling him a “true sea-dog” and a “real old salt” and\nsuch like names, and saying there was the sort of man that made England\nterrible at sea."
+   "text": "His stories were what frightened people worst of all. Dreadful stories\nthey were--about hanging, and walking the plank, and storms at sea, and\nthe Dry Tortugas, and wild deeds and places on the Spanish Main. By his\nown account he must have lived his life among some of the wickedest men\nthat God ever allowed upon the sea, and the language in which he told\nthese stories shocked our plain country people almost as much as the\ncrimes that he described. My father was always saying the inn would be\nruined, for people would soon cease coming there to be tyrannized over\nand put down, and sent shivering to their beds; but I really believe his\npresence did us good. People were frightened at the time, but on looking\nback they rather liked it; it was a fine excitement in a quiet country\nlife, and there was even a party of the younger men who pretended to\nadmire him, calling him a “true sea-dog” and a “real old salt” and\nsuch like names, and saying there was the sort of man that made England\nterrible at sea.",
+   "sfx": [
+    {
+     "key": "gull_laugh_2",
+     "at": "to their beds; but",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 29,
@@ -257,7 +297,14 @@
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "All the time he lived with us the captain made no change whatever in his\ndress but to buy some stockings from a hawker. One of the cocks of his\nhat having fallen down, he let it hang from that day forth, though it\nwas a great annoyance when it blew. I remember the appearance of his\ncoat, which he patched himself upstairs in his room, and which, before\nthe end, was nothing but patches. He never wrote or received a letter,\nand he never spoke with any but the neighbours, and with these, for the\nmost part, only when drunk on rum. The great sea-chest none of us had\never seen open."
+   "text": "All the time he lived with us the captain made no change whatever in his\ndress but to buy some stockings from a hawker. One of the cocks of his\nhat having fallen down, he let it hang from that day forth, though it\nwas a great annoyance when it blew. I remember the appearance of his\ncoat, which he patched himself upstairs in his room, and which, before\nthe end, was nothing but patches. He never wrote or received a letter,\nand he never spoke with any but the neighbours, and with these, for the\nmost part, only when drunk on rum. The great sea-chest none of us had\never seen open.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "He never wrote or",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 31,
@@ -299,7 +346,14 @@
    "para": 20,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "says the doctor; and when the ruffian had\ntold him, with another oath, that this was so,"
+   "text": "says the doctor; and when the ruffian had\ntold him, with another oath, that this was so,",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "oath, that this was",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 37,
@@ -376,7 +430,14 @@
    "para": 25,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Soon after, Dr. Livesey’s horse came to the door and he rode away, but\nthe captain held his peace that evening, and for many evenings to come."
+   "text": "Soon after, Dr. Livesey’s horse came to the door and he rode away, but\nthe captain held his peace that evening, and for many evenings to come.",
+   "sfx": [
+    {
+     "key": "gull_pair_3",
+     "at": "rode away, but the",
+     "by": "place-birds"
+    }
+   ]
   }
  ]
 }

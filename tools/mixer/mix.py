@@ -432,6 +432,7 @@ class Mix:
                 log('  recorded cue %s will not play — speaking it is not possible offline' % c['n'])
                 i += 1; continue
             if c['kind'] == 'covered': i += 1; continue
+            if c['kind'] == 'breath': t += 1.2; i += 1; continue      # a line with no words: a pause
             # spoken: measures back to back
             nxt, first, end = 0.0, None, None
             now = t + LAT - 0.05

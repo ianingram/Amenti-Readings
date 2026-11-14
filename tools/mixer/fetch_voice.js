@@ -23,11 +23,16 @@ const fs = require('fs'), path = require('path'), crypto = require('crypto');
   if (KEY) await p.route(/amenti-proxy[^/]*\/speak$/, r => r.continue({ headers: { ...r.request().headers(), 'x-amenti-render': KEY } }));
   const got = {};                                      /* request body -> file */
   const cache = { hit: 0, new: 0 };                   /* X-Amenti-Cache: what was already paid for */
+  const refused = {}, reasons = [];
   p.on('response', async (r) => {
     if (!/\/speak$/.test(r.url()) || r.request().method() !== 'POST') return;
     const body = r.request().postData() || '';
     try {
-      if (!r.ok()) return;
+      if (!r.ok()) {                                   /* count every refusal, keep the first few reasons */
+        refused[r.status()] = (refused[r.status()] || 0) + 1;
+        if (reasons.length < 4) reasons.push(r.status() + ' ' + (await r.text().catch(() => '')).slice(0, 160));
+        return;
+      }
       if ((r.headers()['x-amenti-cache'] || '') === 'hit') cache.hit++; else cache.new++;
       const buf = await r.body();
       const f = crypto.createHash('sha1').update(body).digest('hex').slice(0, 16) + '.audio';
@@ -56,7 +61,18 @@ const fs = require('fs'), path = require('path'), crypto = require('crypto');
       const v = await T.resolveVoice(name).catch(() => null);
       row.cast = name; row.voice = v && v.voice; row.direction = dir || '';
       row.chunks = T.chunk(spoken).map(ch => ({ text: ch.text != null ? ch.text : String(ch), rest: ch.rest || 0, rate: ch.rate || 1 }));
-      row.ok = await T.warm(spoken, name, dir);
+      /* a line with no words is a pause, not a line to voice (reader.js holds it as one) */
+      if (R.wordless && R.wordless(c)) { row.kind = 'breath'; rows.push(row); continue; }
+      /* A REFUSED MEASURE IS ASKED AGAIN. 14 Nov 2026: four machines voicing at once were
+         turned away for most lines, and the run said nothing. Each cue is now warmed until
+         every measure is in, waiting longer each time: 3, 8, 20, 45 s. */
+      let ok = await T.warm(spoken, name, dir);
+      for (const wait of [3, 8, 20, 45]) {
+        if (ok.every(Boolean)) break;
+        await new Promise(r => setTimeout(r, wait * 1000));
+        ok = await T.warm(spoken, name, dir);
+      }
+      row.ok = ok;
       rows.push(row);
     }
     return { work: R.sheet.work, episode: R.sheet.episode, chapter: R.sheet.chapter, title: R.sheet.title, cues: rows };
@@ -85,7 +101,11 @@ const fs = require('fs'), path = require('path'), crypto = require('crypto');
   const sp = plan.cues.filter(c => c.kind === 'speak');
   console.log(`${work} ep${nn}: ${plan.cues.length} cues, ${sp.length} spoken, ${sp.reduce((a, c) => a + c.chunks.length, 0)} measures, ` +
               `${plan.cues.filter(c => c.kind === 'recorded' || c.kind === 'scene').length} recorded; failed: ${failed.length ? failed.map(f => f.n).join(', ') : 'none'}; ` +
-              `voice: ${cache.hit} from the cache, ${cache.new} newly voiced`);
+              `voice: ${cache.hit} from the cache, ${cache.new} newly voiced` +
+              (Object.keys(refused).length ? `; refused ${JSON.stringify(refused)}` : ''));
+  if (reasons.length) console.log('first refusals: ' + reasons.join(' | '));
   plan.voice = cache;
   await b.close();
+  const missing = plan.cues.filter(c => c.kind === 'speak').reduce((a, c) => a + c.chunks.filter(ch => !ch.file).length, 0);
+  if (missing) { console.log(`MISSING ${missing} measures — not mixing an incomplete chapter`); process.exit(3); }
 })();

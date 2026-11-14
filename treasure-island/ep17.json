@@ -55,7 +55,14 @@
    "para": 2,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "This fifth trip was quite different from any of the others. In the\nfirst place, the little gallipot of a boat that we were in was gravely\noverloaded. Five grown men, and three of them--Trelawney, Redruth, and\nthe captain--over six feet high, was already more than she was meant\nto carry. Add to that the powder, pork, and bread-bags. The gunwale was\nlipping astern. Several times we shipped a little water, and my breeches\nand the tails of my coat were all soaking wet before we had gone a\nhundred yards."
+   "text": "This fifth trip was quite different from any of the others. In the\nfirst place, the little gallipot of a boat that we were in was gravely\noverloaded. Five grown men, and three of them--Trelawney, Redruth, and\nthe captain--over six feet high, was already more than she was meant\nto carry. Add to that the powder, pork, and bread-bags. The gunwale was\nlipping astern. Several times we shipped a little water, and my breeches\nand the tails of my coat were all soaking wet before we had gone a\nhundred yards.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "grown men, and three",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 4,
@@ -104,7 +111,14 @@
    "para": 7,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "I tried and found by experiment that the tide kept sweeping us westward\nuntil I had laid her head due east, or just about right angles to the\nway we ought to go."
+   "text": "I tried and found by experiment that the tide kept sweeping us westward\nuntil I had laid her head due east, or just about right angles to the\nway we ought to go.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "westward until I had",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 11,
@@ -188,7 +202,14 @@
    "para": 14,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“I have thought of that,” said I, for I made sure he was thinking of a\nbombardment of the fort. “They could never get the gun ashore, and if\nthey did, they could never haul it through the woods.”"
+   "text": "“I have thought of that,” said I, for I made sure he was thinking of a\nbombardment of the fort. “They could never get the gun ashore, and if\nthey did, they could never haul it through the woods.”",
+   "sfx": [
+    {
+     "key": "gull_pair_3",
+     "at": "of a bombardment of",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 23,
@@ -258,7 +279,14 @@
    "para": 22,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Mr. Trelawney, will you please pick me off one of these men, sir?\nHands, if possible,”"
+   "text": "“Mr. Trelawney, will you please pick me off one of these men, sir?\nHands, if possible,”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "men, sir? Hands, if",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 33,
@@ -313,6 +341,12 @@
      "key": "crew_death",
      "at": "it was one of the other four who fell",
      "offset": 1.0
+    },
+    {
+     "key": "gull_flock_2",
+     "by": "place-birds",
+     "at": "just as Trelawney fired",
+     "offset": 0.45
     }
    ],
    "para": 26,
@@ -325,7 +359,14 @@
    "para": 27,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "The cry he gave was echoed not only by his companions on board but by a\ngreat number of voices from the shore, and looking in that direction\nI saw the other pirates trooping out from among the trees and tumbling\ninto their places in the boats."
+   "text": "The cry he gave was echoed not only by his companions on board but by a\ngreat number of voices from the shore, and looking in that direction\nI saw the other pirates trooping out from among the trees and tumbling\ninto their places in the boats.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "that direction I saw",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 41,
@@ -388,7 +429,14 @@
    "para": 32,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "In the meanwhile we had been making headway at a good pace for a boat so\noverloaded, and we had shipped but little water in the process. We were\nnow close in; thirty or forty strokes and we should beach her, for the\nebb had already disclosed a narrow belt of sand below the clustering\ntrees. The gig was no longer to be feared; the little point had already\nconcealed it from our eyes. The ebb-tide, which had so cruelly delayed\nus, was now making reparation and delaying our assailants. The one\nsource of danger was the gun."
+   "text": "In the meanwhile we had been making headway at a good pace for a boat so\noverloaded, and we had shipped but little water in the process. We were\nnow close in; thirty or forty strokes and we should beach her, for the\nebb had already disclosed a narrow belt of sand below the clustering\ntrees. The gig was no longer to be feared; the little point had already\nconcealed it from our eyes. The ebb-tide, which had so cruelly delayed\nus, was now making reparation and delaying our assailants. The one\nsource of danger was the gun.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "one source of danger",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 50,
@@ -466,6 +514,11 @@
     {
      "key": "boat_sinks",
      "at": "the boat sank by the stern"
+    },
+    {
+     "key": "gull_far_1",
+     "at": "and myself, facing each",
+     "by": "place-birds"
     }
    ],
    "para": 38,
@@ -485,7 +538,14 @@
    "para": 40,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "To add to our concern, we heard voices already drawing near us in the\nwoods along shore, and we had not only the danger of being cut off from\nthe stockade in our half-crippled state but the fear before us whether,\nif Hunter and Joyce were attacked by half a dozen, they would have the\nsense and conduct to stand firm. Hunter was steady, that we knew; Joyce\nwas a doubtful case--a pleasant, polite man for a valet and to brush\none’s clothes, but not entirely fitted for a man of war."
+   "text": "To add to our concern, we heard voices already drawing near us in the\nwoods along shore, and we had not only the danger of being cut off from\nthe stockade in our half-crippled state but the fear before us whether,\nif Hunter and Joyce were attacked by half a dozen, they would have the\nsense and conduct to stand firm. Hunter was steady, that we knew; Joyce\nwas a doubtful case--a pleasant, polite man for a valet and to brush\none’s clothes, but not entirely fitted for a man of war.",
+   "sfx": [
+    {
+     "key": "gull_pair_3",
+     "at": "steady, that we knew;",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 62,

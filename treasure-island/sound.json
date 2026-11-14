@@ -64,7 +64,23 @@
       "hands_drums": "hands-drums.mp3",
       "dirk_mast": "dirk-mast.mp3",
       "body_water": "body-water.mp3",
-      "coins": "coins.mp3"
+      "coins": "coins.mp3",
+      "gull_near_1": "gull-near-1.mp3",
+      "gull_near_2": "gull-near-2.mp3",
+      "gull_near_3": "gull-near-3.mp3",
+      "gull_pair_1": "gull-pair-1.mp3",
+      "gull_pair_2": "gull-pair-2.mp3",
+      "gull_pair_3": "gull-pair-3.mp3",
+      "gull_laugh_1": "gull-laugh-1.mp3",
+      "gull_laugh_2": "gull-laugh-2.mp3",
+      "gull_far_1": "gull-far-1.mp3",
+      "gull_far_2": "gull-far-2.mp3",
+      "gull_far_3": "gull-far-3.mp3",
+      "gull_swoop_1": "gull-swoop-1.mp3",
+      "gull_swoop_2": "gull-swoop-2.mp3",
+      "gull_swoop_3": "gull-swoop-3.mp3",
+      "gull_flock_1": "gull-flock-1.mp3",
+      "gull_flock_2": "gull-flock-2.mp3"
     },
     "score": {
       "dread": "https://ianingram.github.io/Amenti-Readings/dracula/sound/score-dread.mp3",
@@ -100,6 +116,24 @@
         71,
         113
       ]
+    },
+    "sfx_levels": {
+      "gull_near_1": 0.9,
+      "gull_near_2": 0.9,
+      "gull_near_3": 0.9,
+      "gull_pair_1": 0.9,
+      "gull_pair_2": 0.9,
+      "gull_pair_3": 0.9,
+      "gull_laugh_1": 0.9,
+      "gull_laugh_2": 0.9,
+      "gull_far_1": 0.9,
+      "gull_far_2": 0.9,
+      "gull_far_3": 0.9,
+      "gull_swoop_1": 0.9,
+      "gull_swoop_2": 0.9,
+      "gull_swoop_3": 0.9,
+      "gull_flock_1": 0.9,
+      "gull_flock_2": 0.9
     }
   },
   "beds": {

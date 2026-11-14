@@ -130,7 +130,14 @@
    "para": 8,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Doctor’s watch on the lookout. Dr. Livesey take the north side,\nif you please; Jim, the east; Gray, west. The watch below, all hands to\nload muskets. Lively, men, and careful.”"
+   "text": "“Doctor’s watch on the lookout. Dr. Livesey take the north side,\nif you please; Jim, the east; Gray, west. The watch below, all hands to\nload muskets. Lively, men, and careful.”",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "Jim, the east; Gray,",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 14,
@@ -277,7 +284,14 @@
    "para": 18,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I will confess that I was far too much taken up with what was going on\nto be of the slightest use as sentry; indeed, I had already deserted\nmy eastern loophole and crept up behind the captain, who had now seated\nhimself on the threshold, with his elbows on his knees, his head in his\nhands, and his eyes fixed on the water as it bubbled out of the old iron\nkettle in the sand. He was whistling “Come, Lasses and Lads.”"
+   "text": "I will confess that I was far too much taken up with what was going on\nto be of the slightest use as sentry; indeed, I had already deserted\nmy eastern loophole and crept up behind the captain, who had now seated\nhimself on the threshold, with his elbows on his knees, his head in his\nhands, and his eyes fixed on the water as it bubbled out of the old iron\nkettle in the sand. He was whistling “Come, Lasses and Lads.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "old iron kettle in",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 35,
@@ -417,7 +431,14 @@
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "says Captain Smollett as cool as can be."
+   "text": "says Captain Smollett as cool as can be.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "cool as can be.",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 55,
@@ -655,7 +676,14 @@
    "para": 41,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Refuse that, and you’ve\nseen the last of me but musket-balls.”"
+   "text": "“Refuse that, and you’ve\nseen the last of me but musket-balls.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "seen the last of",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 89,

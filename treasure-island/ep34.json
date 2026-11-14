@@ -69,7 +69,14 @@
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It was a strange collection, like Billy Bones’s hoard for the diversity\nof coinage, but so much larger and so much more varied that I think I\nnever had more pleasure than in sorting them. English, French, Spanish,\nPortuguese, Georges, and Louises, doubloons and double guineas and\nmoidores and sequins, the pictures of all the kings of Europe for the\nlast hundred years, strange Oriental pieces stamped with what looked\nlike wisps of string or bits of spider’s web, round pieces and square\npieces, and pieces bored through the middle, as if to wear them round\nyour neck--nearly every variety of money in the world must, I think,\nhave found a place in that collection; and for number, I am sure they\nwere like autumn leaves, so that my back ached with stooping and my\nfingers with sorting them out."
+   "text": "It was a strange collection, like Billy Bones’s hoard for the diversity\nof coinage, but so much larger and so much more varied that I think I\nnever had more pleasure than in sorting them. English, French, Spanish,\nPortuguese, Georges, and Louises, doubloons and double guineas and\nmoidores and sequins, the pictures of all the kings of Europe for the\nlast hundred years, strange Oriental pieces stamped with what looked\nlike wisps of string or bits of spider’s web, round pieces and square\npieces, and pieces bored through the middle, as if to wear them round\nyour neck--nearly every variety of money in the world must, I think,\nhave found a place in that collection; and for number, I am sure they\nwere like autumn leaves, so that my back ached with stooping and my\nfingers with sorting them out.",
+   "sfx": [
+    {
+     "key": "gull_far_1",
+     "at": "wisps of string or",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 6,
@@ -208,7 +215,14 @@
    "para": 13,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“You\nwould lose your precious life, and you may lay to that. I’m on your side\nnow, hand and glove; and I shouldn’t wish for to see the party weakened,\nlet alone yourself, seeing as I know what I owes you. But these men down\nthere, they couldn’t keep their word--no, not supposing they wished to;\nand what’s more, they couldn’t believe as you could.”"
+   "text": "“You\nwould lose your precious life, and you may lay to that. I’m on your side\nnow, hand and glove; and I shouldn’t wish for to see the party weakened,\nlet alone yourself, seeing as I know what I owes you. But these men down\nthere, they couldn’t keep their word--no, not supposing they wished to;\nand what’s more, they couldn’t believe as you could.”",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "weakened, let alone yourself,",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 25,
@@ -258,6 +272,12 @@
     {
      "key": "musket_far",
      "at": "a shot whistling over Silver’s head"
+    },
+    {
+     "key": "gull_flock_1",
+     "by": "place-birds",
+     "at": "a shot whistling over Silver’s head",
+     "offset": 0.45
     }
    ],
    "para": 18,
@@ -270,7 +290,14 @@
    "para": 19,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "After that, we kept under cover of the bulwarks, and when next I looked\nout they had disappeared from the spit, and the spit itself had almost\nmelted out of sight in the growing distance. That was, at least, the end\nof that; and before noon, to my inexpressible joy, the highest rock of\nTreasure Island had sunk into the blue round of sea."
+   "text": "After that, we kept under cover of the bulwarks, and when next I looked\nout they had disappeared from the spit, and the spit itself had almost\nmelted out of sight in the growing distance. That was, at least, the end\nof that; and before noon, to my inexpressible joy, the highest rock of\nTreasure Island had sunk into the blue round of sea.",
+   "sfx": [
+    {
+     "key": "gull_far_2",
+     "at": "almost melted out of",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 33,
@@ -332,7 +359,14 @@
    "para": 25,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "With one man of her crew alive,\n     What put to sea with seventy-five."
+   "text": "With one man of her crew alive,\n     What put to sea with seventy-five.",
+   "sfx": [
+    {
+     "key": "gull_far_3",
+     "at": "crew alive, What put",
+     "by": "place-birds"
+    }
+   ]
   },
   {
    "n": 41,

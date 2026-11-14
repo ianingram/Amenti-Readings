@@ -1,3 +1,4 @@
 | `mendelssohn-hebrides-overture-op-26-musopen-symphony.mp3` | File:Mendelssohn - Hebrides Overture, Op. 26 (Musopen Symphony).flac | Felix Mendelssohn | Public domain |
 | `rimsky-korsakov-scheherazade-symphonic-suite-op-35-01-the-se.mp3` | File:Rimsky-Korsakov. Scheherazade, Symphonic Suite, Op. 35 - 01 The Sea And Sinbads Ship.ogg | Nikolai Rimsky-Korsakov | CC0 |
 | `rimsky-korsakov-scheherazade-symphonic-suite-op-35-04-festiv.mp3` | File:Rimsky-Korsakov. Scheherazade, Symphonic Suite, Op. 35 - 04 Festival At Baghdad The Sea.ogg | Nikolai Rimsky-Korsakov | CC0 |
+| `02-siegfried-wagner-hollander-ouverture-02-siegfried-wagner-holl-nder-.mp3` | archive.org/details/02-siegfried-wagner-hollander-ouverture (02 Siegfried Wagner - Holländer Ouvertüre.wav) | Orchester der Berliner Staatsoper, Siegfried WAGNER - Dirigent | http://creativecommons.org/publicdomain/mark/1.0/ |

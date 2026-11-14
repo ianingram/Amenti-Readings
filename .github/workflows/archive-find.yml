@@ -43,6 +43,9 @@ jobs:
               ident, fn = item.split('/', 1)
               meta = json.load(urllib.request.urlopen(urllib.request.Request('https://archive.org/metadata/' + ident, headers=UA)))
               lic = meta['metadata'].get('licenseurl', '') or ''
+              if fn == '*':   # the largest audio file in the item
+                  aud = [f for f in meta['files'] if f['name'].lower().endswith(('.flac', '.mp3', '.ogg', '.wav'))]
+                  fn = max(aud, key=lambda f: int(f.get('size') or 0))['name']; print('file:', fn)
               if not re.search(r'publicdomain|/zero/|mark', lic): print('SKIP (licence %r): %s' % (lic, item)); continue
               src = out + 'src.tmp'
               open(src, 'wb').write(urllib.request.urlopen(urllib.request.Request('https://archive.org/download/%s/%s' % (ident, urllib.parse.quote(fn)), headers=UA)).read())

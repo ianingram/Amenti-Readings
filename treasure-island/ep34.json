@@ -55,14 +55,33 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The next morning we fell early to work, for the transportation of this\ngreat mass of gold near a mile by land to the beach, and thence three\nmiles by boat to the HISPANIOLA, was a considerable task for so small\na number of workmen. The three fellows still abroad upon the island did\nnot greatly trouble us; a single sentry on the shoulder of the hill was\nsufficient to ensure us against any sudden onslaught, and we thought,\nbesides, they had had more than enough of fighting."
+   "text": "The next morning we fell early to work, for the transportation of this\ngreat mass of gold near a mile by land to the beach, and thence three\nmiles by boat to the HISPANIOLA, was a considerable task for so small\na number of workmen. The three fellows still abroad upon the island did\nnot greatly trouble us; a single sentry on the shoulder of the hill was\nsufficient to ensure us against any sudden onslaught, and we thought,\nbesides, they had had more than enough of fighting.",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "and thence three miles",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "had more than enough",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Therefore the work was pushed on briskly. Gray and Ben Gunn came and\nwent with the boat, while the rest during their absences piled treasure\non the beach. Two of the bars, slung in a rope’s end, made a good load\nfor a grown man--one that he was glad to walk slowly with. For my part,\nas I was not much use at carrying, I was kept busy all day in the cave\npacking the minted money into bread-bags."
+   "text": "Therefore the work was pushed on briskly. Gray and Ben Gunn came and\nwent with the boat, while the rest during their absences piled treasure\non the beach. Two of the bars, slung in a rope’s end, made a good load\nfor a grown man--one that he was glad to walk slowly with. For my part,\nas I was not much use at carrying, I was kept busy all day in the cave\npacking the minted money into bread-bags.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "not much use at",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
@@ -75,6 +94,16 @@
      "key": "gull_far_1",
      "at": "wisps of string or",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_4",
+     "at": "round your neck--nearly every",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "found a place in",
+     "by": "place-players"
     }
    ]
   },
@@ -91,6 +120,16 @@
     {
      "key": "campfire_drone",
      "at": "a noise between shrieking and singing"
+    },
+    {
+     "key": "trees_5",
+     "at": "a noise between shrieking",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_7",
+     "at": "on the shoulder of",
+     "by": "place-players"
     }
    ],
    "para": 6,
@@ -131,14 +170,33 @@
    "para": 8,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "struck in the voice of Silver from behind us."
+   "text": "struck in the voice of Silver from behind us.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "the voice of Silver",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 13,
    "para": 9,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Silver, I should say, was allowed his entire liberty, and in spite of\ndaily rebuffs, seemed to regard himself once more as quite a privileged\nand friendly dependent. Indeed, it was remarkable how well he bore\nthese slights and with what unwearying politeness he kept on trying to\ningratiate himself with all. Yet, I think, none treated him better than\na dog, unless it was Ben Gunn, who was still terribly afraid of his old\nquartermaster, or myself, who had really something to thank him for;\nalthough for that matter, I suppose, I had reason to think even worse of\nhim than anybody else, for I had seen him meditating a fresh treachery\nupon the plateau. Accordingly, it was pretty gruffly that the doctor\nanswered him."
+   "text": "Silver, I should say, was allowed his entire liberty, and in spite of\ndaily rebuffs, seemed to regard himself once more as quite a privileged\nand friendly dependent. Indeed, it was remarkable how well he bore\nthese slights and with what unwearying politeness he kept on trying to\ningratiate himself with all. Yet, I think, none treated him better than\na dog, unless it was Ben Gunn, who was still terribly afraid of his old\nquartermaster, or myself, who had really something to thank him for;\nalthough for that matter, I suppose, I had reason to think even worse of\nhim than anybody else, for I had seen him meditating a fresh treachery\nupon the plateau. Accordingly, it was pretty gruffly that the doctor\nanswered him.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "who had really something",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "him than anybody else,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
@@ -180,7 +238,14 @@
    "para": 12,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“I suppose you would hardly ask me to call you a humane man,”"
+   "text": "“I suppose you would hardly ask me to call you a humane man,”",
+   "sfx": [
+    {
+     "key": "insects_day_3",
+     "at": "would hardly ask me",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 20,
@@ -221,6 +286,16 @@
      "key": "gull_far_3",
      "at": "weakened, let alone yourself,",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_6",
+     "at": "I know what I",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_4",
+     "at": "you. But these men",
+     "by": "place-players"
     }
    ]
   },
@@ -250,21 +325,52 @@
    "para": 15,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Well, that was about the last news we had of the three pirates. Only\nonce we heard a gunshot a great way off and supposed them to be hunting.\nA council was held, and it was decided that we must desert them on the\nisland--to the huge glee, I must say, of Ben Gunn, and with the strong\napproval of Gray. We left a good stock of powder and shot, the bulk\nof the salt goat, a few medicines, and some other necessaries, tools,\nclothing, a spare sail, a fathom or two of rope, and by the particular\ndesire of the doctor, a handsome present of tobacco."
+   "text": "Well, that was about the last news we had of the three pirates. Only\nonce we heard a gunshot a great way off and supposed them to be hunting.\nA council was held, and it was decided that we must desert them on the\nisland--to the huge glee, I must say, of Ben Gunn, and with the strong\napproval of Gray. We left a good stock of powder and shot, the bulk\nof the salt goat, a few medicines, and some other necessaries, tools,\nclothing, a spare sail, a fathom or two of rope, and by the particular\ndesire of the doctor, a handsome present of tobacco.",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "and shot, the bulk",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "the doctor, a handsome",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 29,
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "That was about our last doing on the island. Before that, we had got the\ntreasure stowed and had shipped enough water and the remainder of the\ngoat meat in case of any distress; and at last, one fine morning, we\nweighed anchor, which was about all that we could manage, and stood out\nof North Inlet, the same colours flying that the captain had flown and\nfought under at the palisade."
+   "text": "That was about our last doing on the island. Before that, we had got the\ntreasure stowed and had shipped enough water and the remainder of the\ngoat meat in case of any distress; and at last, one fine morning, we\nweighed anchor, which was about all that we could manage, and stood out\nof North Inlet, the same colours flying that the captain had flown and\nfought under at the palisade.",
+   "sfx": [
+    {
+     "key": "insects_day_2",
+     "at": "that we could manage,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 30,
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The three fellows must have been watching us closer than we thought for,\nas we soon had proved. For coming through the narrows, we had to\nlie very near the southern point, and there we saw all three of\nthem kneeling together on a spit of sand, with their arms raised in\nsupplication. It went to all our hearts, I think, to leave them in that\nwretched state; but we could not risk another mutiny; and to take them\nhome for the gibbet would have been a cruel sort of kindness. The doctor\nhailed them and told them of the stores we had left, and where they were\nto find them. But they continued to call us by name and appeal to us,\nfor God’s sake, to be merciful and not leave them to die in such a\nplace."
+   "text": "The three fellows must have been watching us closer than we thought for,\nas we soon had proved. For coming through the narrows, we had to\nlie very near the southern point, and there we saw all three of\nthem kneeling together on a spit of sand, with their arms raised in\nsupplication. It went to all our hearts, I think, to leave them in that\nwretched state; but we could not risk another mutiny; and to take them\nhome for the gibbet would have been a cruel sort of kindness. The doctor\nhailed them and told them of the stores we had left, and where they were\nto find them. But they continued to call us by name and appeal to us,\nfor God’s sake, to be merciful and not leave them to die in such a\nplace.",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "them and told them",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_2",
+     "at": "to die in such",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 31,
@@ -278,6 +384,16 @@
      "by": "place-birds",
      "at": "a shot whistling over Silver’s head",
      "offset": 0.45
+    },
+    {
+     "key": "insects_day_3",
+     "at": "sent a shot whistling",
+     "by": "place-players"
+    },
+    {
+     "key": "bird_cry_1",
+     "at": "was--leapt to his feet",
+     "by": "place-players"
     }
    ],
    "para": 18,
@@ -296,6 +412,11 @@
      "key": "gull_far_2",
      "at": "almost melted out of",
      "by": "place-birds"
+    },
+    {
+     "key": "birds_day_6",
+     "at": "before noon, to my",
+     "by": "place-players"
     }
    ]
   },
@@ -304,21 +425,47 @@
    "para": 20,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "We were so short of men that everyone on board had to bear a hand--only\nthe captain lying on a mattress in the stern and giving his orders, for\nthough greatly recovered he was still in want of quiet. We laid her\nhead for the nearest port in Spanish America, for we could not risk the\nvoyage home without fresh hands; and as it was, what with baffling winds\nand a couple of fresh gales, we were all worn out before we reached it."
+   "text": "We were so short of men that everyone on board had to bear a hand--only\nthe captain lying on a mattress in the stern and giving his orders, for\nthough greatly recovered he was still in want of quiet. We laid her\nhead for the nearest port in Spanish America, for we could not risk the\nvoyage home without fresh hands; and as it was, what with baffling winds\nand a couple of fresh gales, we were all worn out before we reached it.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "home without fresh hands;",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 34,
    "para": 21,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It was just at sundown when we cast anchor in a most beautiful\nland-locked gulf, and were immediately surrounded by shore boats full\nof Negroes and Mexican Indians and half-bloods selling fruits and\nvegetables and offering to dive for bits of money. The sight of so many\ngood-humoured faces (especially the blacks), the taste of the tropical\nfruits, and above all the lights that began to shine in the town made a\nmost charming contrast to our dark and bloody sojourn on the island;\nand the doctor and the squire, taking me along with them, went ashore\nto pass the early part of the night. Here they met the captain of an\nEnglish man-of-war, fell in talk with him, went on board his ship, and,\nin short, had so agreeable a time that day was breaking when we came\nalongside the HISPANIOLA."
+   "text": "It was just at sundown when we cast anchor in a most beautiful\nland-locked gulf, and were immediately surrounded by shore boats full\nof Negroes and Mexican Indians and half-bloods selling fruits and\nvegetables and offering to dive for bits of money. The sight of so many\ngood-humoured faces (especially the blacks), the taste of the tropical\nfruits, and above all the lights that began to shine in the town made a\nmost charming contrast to our dark and bloody sojourn on the island;\nand the doctor and the squire, taking me along with them, went ashore\nto pass the early part of the night. Here they met the captain of an\nEnglish man-of-war, fell in talk with him, went on board his ship, and,\nin short, had so agreeable a time that day was breaking when we came\nalongside the HISPANIOLA.",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "town made a most",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_4",
+     "at": "day was breaking when",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 35,
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Ben Gunn was on deck alone, and as soon as we came on board he began,\nwith wonderful contortions, to make us a confession. Silver was gone.\nThe maroon had connived at his escape in a shore boat some hours ago,\nand he now assured us he had only done so to preserve our lives, which\nwould certainly have been forfeit if"
+   "text": "Ben Gunn was on deck alone, and as soon as we came on board he began,\nwith wonderful contortions, to make us a confession. Silver was gone.\nThe maroon had connived at his escape in a shore boat some hours ago,\nand he now assured us he had only done so to preserve our lives, which\nwould certainly have been forfeit if",
+   "sfx": [
+    {
+     "key": "insects_day_2",
+     "at": "Silver was gone. The",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 36,
@@ -332,7 +479,14 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "But this was not all. The sea-cook had not gone\nempty-handed. He had cut through a bulkhead unobserved and had removed\none of the sacks of coin, worth perhaps three or four hundred guineas,\nto help him on his further wanderings."
+   "text": "But this was not all. The sea-cook had not gone\nempty-handed. He had cut through a bulkhead unobserved and had removed\none of the sacks of coin, worth perhaps three or four hundred guineas,\nto help him on his further wanderings.",
+   "sfx": [
+    {
+     "key": "birds_day_6",
+     "at": "sacks of coin, worth",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 38,
@@ -352,7 +506,14 @@
    "para": 24,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Well, to make a long story short, we got a few hands on board, made a\ngood cruise home, and the HISPANIOLA reached Bristol just as Mr. Blandly\nwas beginning to think of fitting out her consort. Five men only of\nthose who had sailed returned with her. “Drink and the devil had done\nfor the rest,” with a vengeance, although, to be sure, we were not quite\nin so bad a case as that other ship they sang about:"
+   "text": "Well, to make a long story short, we got a few hands on board, made a\ngood cruise home, and the HISPANIOLA reached Bristol just as Mr. Blandly\nwas beginning to think of fitting out her consort. Five men only of\nthose who had sailed returned with her. “Drink and the devil had done\nfor the rest,” with a vengeance, although, to be sure, we were not quite\nin so bad a case as that other ship they sang about:",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "to think of fitting",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 40,
@@ -373,14 +534,33 @@
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "All of us had an ample share of the treasure and used it wisely or\nfoolishly, according to our natures. Captain Smollett is now retired\nfrom the sea. Gray not only saved his money, but being suddenly smit\nwith the desire to rise, also studied his profession, and he is now\nmate and part owner of a fine full-rigged ship, married besides, and the\nfather of a family. As for Ben Gunn, he got a thousand pounds, which he\nspent or lost in three weeks, or to be more exact, in nineteen days, for\nhe was back begging on the twentieth. Then he was given a lodge to keep,\nexactly as he had feared upon the island; and he still lives, a great\nfavourite, though something of a butt, with the country boys, and a\nnotable singer in church on Sundays and saints’ days."
+   "text": "All of us had an ample share of the treasure and used it wisely or\nfoolishly, according to our natures. Captain Smollett is now retired\nfrom the sea. Gray not only saved his money, but being suddenly smit\nwith the desire to rise, also studied his profession, and he is now\nmate and part owner of a fine full-rigged ship, married besides, and the\nfather of a family. As for Ben Gunn, he got a thousand pounds, which he\nspent or lost in three weeks, or to be more exact, in nineteen days, for\nhe was back begging on the twentieth. Then he was given a lodge to keep,\nexactly as he had feared upon the island; and he still lives, a great\nfavourite, though something of a butt, with the country boys, and a\nnotable singer in church on Sundays and saints’ days.",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "island; and he still",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_2",
+     "at": "favourite, though something of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 42,
    "para": 27,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Of Silver we have heard no more. That formidable seafaring man with one\nleg has at last gone clean out of my life; but I dare say he met his old\nNegress, and perhaps still lives in comfort with her and Captain Flint.\nIt is to be hoped so, I suppose, for his chances of comfort in another\nworld are very small."
+   "text": "Of Silver we have heard no more. That formidable seafaring man with one\nleg has at last gone clean out of my life; but I dare say he met his old\nNegress, and perhaps still lives in comfort with her and Captain Flint.\nIt is to be hoped so, I suppose, for his chances of comfort in another\nworld are very small.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "comfort with her and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 43,
@@ -393,6 +573,16 @@
      "key": "parrot_2",
      "at": "Pieces of eight! Pieces of eight!",
      "offset": 0.9
+    },
+    {
+     "key": "trees_7",
+     "at": "back again to that",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_5",
+     "at": "Flint still ringing in",
+     "by": "place-players"
     }
    ],
    "para": 28,

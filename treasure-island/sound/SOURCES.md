@@ -101,3 +101,12 @@ Built by `build-part-six.py`.
 |---|---|
 | `score-hollow.mp3` | the theme turned hollow: its first phrase very slow on the VSCO 2 CE cello section (CC0), the last note held over nothing — the empty pit |
 | `coins.mp3` | built: coins slipping and chinking in heaps — Flint's gold in Ben Gunn's cave |
+
+## The players (build-players.py, 14 Nov 2026) — BigSoundBank (Joseph Sardin), CC0
+Cut into short players and placed from the text by place-players.py. By BigSoundBank number:
+- creaking wood: 0694, 0697 (boat decks), 0700 (boat cabin), 0769 (creaking of feet), 0539 (barn door)
+- ropes: 3417, 3418, 3419, 3426 · sails: 1632, 1633 (flag in the wind), 1789, 1793, 1794 (flag snaps)
+- rigging: 2443, 2444 (masts whistling) · feet: 0165, 1515–1518, 0181, 3440 · distant voices: 2968–2970 (far, filtered, no words)
+- trees in the wind: 1450–1452, 1051 · birds: dawn 0222, 0999, 1906; day 2713, 2715, 2749, 1164, 1165; dusk 1859; night 0315, 0429, 1400; the cry 1762 (screaming piha)
+- insects: day 1779–1781 (sun and heat); night 0425, 0426, 0110 · waves: 1445, 1446, 1448, 2564, 2566, 2572
+- horses: 1848 (gallop arrival), 1849 (gallop start), 0285, 0286 (snort, breath), 0610 (trotting) · the map: 2799, 2796 (road map)

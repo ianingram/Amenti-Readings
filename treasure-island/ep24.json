@@ -59,7 +59,19 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It was broad day when I awoke and found myself tossing at the south-west\nend of Treasure Island. The sun was up but was still hid from me behind\nthe great bulk of the Spy-glass, which on this side descended almost to\nthe sea in formidable cliffs."
+   "text": "It was broad day when I awoke and found myself tossing at the south-west\nend of Treasure Island. The sun was up but was still hid from me behind\nthe great bulk of the Spy-glass, which on this side descended almost to\nthe sea in formidable cliffs.",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "south-west end of Treasure",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_2",
+     "at": "sea in formidable cliffs.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
@@ -85,6 +97,16 @@
      "key": "gull_near_2",
      "at": "saw myself, if I",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_4",
+     "at": "flying and falling, succeeded",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_5",
+     "at": "falling, succeeded one another",
+     "by": "place-players"
     }
    ]
   },
@@ -106,6 +128,16 @@
      "key": "gull_far_3",
      "at": "sea than to confront",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_5",
+     "at": "the difficulty of the",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_1",
+     "at": "the high running of",
+     "by": "place-players"
     }
    ]
   },
@@ -121,7 +153,19 @@
    "para": 8,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I remembered what Silver had said about the current that sets northward\nalong the whole west coast of Treasure Island, and seeing from my\nposition that I was already under its influence, I preferred to leave\nHaulbowline Head behind me and reserve my strength for an attempt to\nland upon the kindlier-looking Cape of the Woods."
+   "text": "I remembered what Silver had said about the current that sets northward\nalong the whole west coast of Treasure Island, and seeing from my\nposition that I was already under its influence, I preferred to leave\nHaulbowline Head behind me and reserve my strength for an attempt to\nland upon the kindlier-looking Cape of the Woods.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "land upon the kindlier-looking",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_1",
+     "at": "of Treasure Island, and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 10,
@@ -142,7 +186,19 @@
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Had it been otherwise, I must long ago have perished; but as it was,\nit is surprising how easily and securely my little and light boat could\nride. Often, as I still lay at the bottom and kept no more than an eye\nabove the gunwale, I would see a big blue summit heaving close above me;\nyet the coracle would but bounce a little, dance as if on springs, and\nsubside on the other side into the trough as lightly as a bird."
+   "text": "Had it been otherwise, I must long ago have perished; but as it was,\nit is surprising how easily and securely my little and light boat could\nride. Often, as I still lay at the bottom and kept no more than an eye\nabove the gunwale, I would see a big blue summit heaving close above me;\nyet the coracle would but bounce a little, dance as if on springs, and\nsubside on the other side into the trough as lightly as a bird.",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "more than an eye",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_3",
+     "at": "bounce a little, dance",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -155,6 +211,11 @@
      "key": "gull_swoop_2",
      "at": "boat, giving up at",
      "by": "place-birds"
+    },
+    {
+     "key": "wave_5",
+     "at": "behaviour of a coracle.",
+     "by": "place-players"
     }
    ]
   },
@@ -163,14 +224,33 @@
    "para": 12,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I was drenched and terrified, and fell instantly back into my old\nposition, whereupon the coracle seemed to find her head again and led\nme as softly as before among the billows. It was plain she was not to be\ninterfered with, and at that rate, since I could in no way influence her\ncourse, what hope had I left of reaching land?"
+   "text": "I was drenched and terrified, and fell instantly back into my old\nposition, whereupon the coracle seemed to find her head again and led\nme as softly as before among the billows. It was plain she was not to be\ninterfered with, and at that rate, since I could in no way influence her\ncourse, what hope had I left of reaching land?",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "her course, what hope",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_5",
+     "at": "she was not to",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
    "para": 13,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I began to be horribly frightened, but I kept my head, for all that.\nFirst, moving with all care, I gradually baled out the coracle with my\nsea-cap; then, getting my eye once more above the gunwale, I set myself\nto study how it was she managed to slip so quietly through the rollers."
+   "text": "I began to be horribly frightened, but I kept my head, for all that.\nFirst, moving with all care, I gradually baled out the coracle with my\nsea-cap; then, getting my eye once more above the gunwale, I set myself\nto study how it was she managed to slip so quietly through the rollers.",
+   "sfx": [
+    {
+     "key": "wave_7",
+     "at": "the coracle with my",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 15,
@@ -183,6 +263,16 @@
      "key": "gull_near_3",
      "at": "higher, toppling summits of",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_1",
+     "at": "The coracle, left to",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_3",
+     "at": "to speak, her way",
+     "by": "place-players"
     }
    ]
   },
@@ -191,7 +281,14 @@
    "para": 15,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Well, now,” thought I to myself, “it is plain I must lie where I am and\nnot disturb the balance; but it is plain also that I can put the paddle\nover the side and from time to time, in smooth places, give her a shove\nor two towards land.” No sooner thought upon than done. There I lay on\nmy elbows in the most trying attitude, and every now and again gave a\nweak stroke or two to turn her head to shore."
+   "text": "“Well, now,” thought I to myself, “it is plain I must lie where I am and\nnot disturb the balance; but it is plain also that I can put the paddle\nover the side and from time to time, in smooth places, give her a shove\nor two towards land.” No sooner thought upon than done. There I lay on\nmy elbows in the most trying attitude, and every now and again gave a\nweak stroke or two to turn her head to shore.",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "plain also that I",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 17,
@@ -204,6 +301,11 @@
      "key": "gull_near_3",
      "at": "I must infallibly miss",
      "by": "place-birds"
+    },
+    {
+     "key": "wave_5",
+     "at": "yards of easting. I",
+     "by": "place-players"
     }
    ]
   },
@@ -212,7 +314,19 @@
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It was high time, for I now began to be tortured with thirst. The glow\nof the sun from above, its thousandfold reflection from the waves, the\nsea-water that fell and dried upon me, caking my very lips with salt,\ncombined to make my throat burn and my brain ache. The sight of the\ntrees so near at hand had almost made me sick with longing, but the\ncurrent had soon carried me past the point, and as the next reach of sea\nopened out, I beheld a sight that changed the nature of my thoughts."
+   "text": "It was high time, for I now began to be tortured with thirst. The glow\nof the sun from above, its thousandfold reflection from the waves, the\nsea-water that fell and dried upon me, caking my very lips with salt,\ncombined to make my throat burn and my brain ache. The sight of the\ntrees so near at hand had almost made me sick with longing, but the\ncurrent had soon carried me past the point, and as the next reach of sea\nopened out, I beheld a sight that changed the nature of my thoughts.",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "a sight that changed",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_9",
+     "at": "longing, but the current",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 19,
@@ -225,6 +339,16 @@
      "key": "gull_swoop_3",
      "at": "surprise had taken entire",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_4",
+     "at": "at the thought, and",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_4",
+     "at": "for want of water",
+     "by": "place-players"
     }
    ]
   },
@@ -233,7 +357,19 @@
    "para": 19,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The HISPANIOLA was under her main-sail and two jibs, and the beautiful\nwhite canvas shone in the sun like snow or silver. When I first\nsighted her, all her sails were drawing; she was lying a course about\nnorth-west, and I presumed the men on board were going round the island\non their way back to the anchorage. Presently she began to fetch more\nand more to the westward, so that I thought they had sighted me and were\ngoing about in chase. At last, however, she fell right into the wind’s\neye, was taken dead aback, and stood there awhile helpless, with her\nsails shivering."
+   "text": "The HISPANIOLA was under her main-sail and two jibs, and the beautiful\nwhite canvas shone in the sun like snow or silver. When I first\nsighted her, all her sails were drawing; she was lying a course about\nnorth-west, and I presumed the men on board were going round the island\non their way back to the anchorage. Presently she began to fetch more\nand more to the westward, so that I thought they had sighted me and were\ngoing about in chase. At last, however, she fell right into the wind’s\neye, was taken dead aback, and stood there awhile helpless, with her\nsails shivering.",
+   "sfx": [
+    {
+     "key": "creak_2",
+     "at": "and stood there awhile",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_5",
+     "at": "to fetch more and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 21,
@@ -253,6 +389,16 @@
      "key": "gull_near_2",
      "at": "and west, the HISPANIOLA",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_3",
+     "at": "became plain to me",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_4",
+     "at": "dead drunk or had",
+     "by": "place-players"
     }
    ]
   },
@@ -261,7 +407,19 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The current was bearing coracle and schooner southward at an equal rate.\nAs for the latter’s sailing, it was so wild and intermittent, and she\nhung each time so long in irons, that she certainly gained nothing, if\nshe did not even lose. If only I dared to sit up and paddle, I made\nsure that I could overhaul her. The scheme had an air of adventure\nthat inspired me, and the thought of the water breaker beside the fore\ncompanion doubled my growing courage."
+   "text": "The current was bearing coracle and schooner southward at an equal rate.\nAs for the latter’s sailing, it was so wild and intermittent, and she\nhung each time so long in irons, that she certainly gained nothing, if\nshe did not even lose. If only I dared to sit up and paddle, I made\nsure that I could overhaul her. The scheme had an air of adventure\nthat inspired me, and the thought of the water breaker beside the fore\ncompanion doubled my growing courage.",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "she hung each time",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_2",
+     "at": "that she certainly gained",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 24,
@@ -274,6 +432,16 @@
      "key": "gull_pair_1",
      "at": "and a dash of",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_8",
+     "at": "coracle among the waves,",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_1",
+     "at": "with all my strength",
+     "by": "place-players"
     }
    ]
   },
@@ -295,6 +463,16 @@
      "key": "gull_pair_2",
      "at": "possible for me, for",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_6",
+     "at": "her sails partly filled,",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_9",
+     "at": "again. I have said",
+     "by": "place-players"
     }
    ]
   },
@@ -303,7 +481,14 @@
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "But now, at last, I had my chance. The breeze fell for some seconds,\nvery low, and the current gradually turning her, the HISPANIOLA revolved\nslowly round her centre and at last presented me her stern, with the\ncabin window still gaping open and the lamp over the table still burning\non into the day. The main-sail hung drooped like a banner. She was\nstock-still but for the current."
+   "text": "But now, at last, I had my chance. The breeze fell for some seconds,\nvery low, and the current gradually turning her, the HISPANIOLA revolved\nslowly round her centre and at last presented me her stern, with the\ncabin window still gaping open and the lamp over the table still burning\non into the day. The main-sail hung drooped like a banner. She was\nstock-still but for the current.",
+   "sfx": [
+    {
+     "key": "wave_6",
+     "at": "still burning on into",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 28,
@@ -317,7 +502,14 @@
    "para": 28,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I was not a hundred yards from her when the wind came again in a clap;\nshe filled on the port tack and was off again, stooping and skimming\nlike a swallow."
+   "text": "I was not a hundred yards from her when the wind came again in a clap;\nshe filled on the port tack and was off again, stooping and skimming\nlike a swallow.",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "stooping and skimming like",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 30,
@@ -330,6 +522,11 @@
      "key": "gull_swoop_3",
      "at": "of the distance that",
      "by": "place-birds"
+    },
+    {
+     "key": "wave_9",
+     "at": "station in the coracle.",
+     "by": "place-players"
     }
    ]
   },
@@ -338,7 +535,19 @@
    "para": 30,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And then, of a sudden, I began to comprehend. I had scarce time to\nthink--scarce time to act and save myself. I was on the summit of one\nswell when the schooner came stooping over the next. The bowsprit was\nover my head. I sprang to my feet and leaped, stamping the coracle under\nwater. With one hand I caught the jib-boom, while my foot was lodged\nbetween the stay and the brace; and as I still clung there panting, a\ndull blow told me that the schooner had charged down upon and struck the\ncoracle and that I was left without retreat on the HISPANIOLA."
+   "text": "And then, of a sudden, I began to comprehend. I had scarce time to\nthink--scarce time to act and save myself. I was on the summit of one\nswell when the schooner came stooping over the next. The bowsprit was\nover my head. I sprang to my feet and leaped, stamping the coracle under\nwater. With one hand I caught the jib-boom, while my foot was lodged\nbetween the stay and the brace; and as I still clung there panting, a\ndull blow told me that the schooner had charged down upon and struck the\ncoracle and that I was left without retreat on the HISPANIOLA.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "down upon and struck",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_8",
+     "at": "jib-boom, while my foot",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

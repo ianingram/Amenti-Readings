@@ -62,7 +62,19 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The appearance of the island when I came on deck next morning was\naltogether changed. Although the breeze had now utterly ceased, we had\nmade a great deal of way during the night and were now lying becalmed\nabout half a mile to the south-east of the low eastern coast.\nGrey-coloured woods covered a large part of the surface. This even tint\nwas indeed broken up by streaks of yellow sand-break in the lower lands,\nand by many tall trees of the pine family, out-topping the others--some\nsingly, some in clumps; but the general colouring was uniform and sad.\nThe hills ran up clear above the vegetation in spires of naked rock.\nAll were strangely shaped, and the Spy-glass, which was by three or four\nhundred feet the tallest on the island, was likewise the strangest in\nconfiguration, running up sheer from almost every side and then suddenly\ncut off at the top like a pedestal to put a statue on."
+   "text": "The appearance of the island when I came on deck next morning was\naltogether changed. Although the breeze had now utterly ceased, we had\nmade a great deal of way during the night and were now lying becalmed\nabout half a mile to the south-east of the low eastern coast.\nGrey-coloured woods covered a large part of the surface. This even tint\nwas indeed broken up by streaks of yellow sand-break in the lower lands,\nand by many tall trees of the pine family, out-topping the others--some\nsingly, some in clumps; but the general colouring was uniform and sad.\nThe hills ran up clear above the vegetation in spires of naked rock.\nAll were strangely shaped, and the Spy-glass, which was by three or four\nhundred feet the tallest on the island, was likewise the strangest in\nconfiguration, running up sheer from almost every side and then suddenly\ncut off at the top like a pedestal to put a statue on.",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "ran up clear above",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "was by three or",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
@@ -75,6 +87,16 @@
      "key": "gull_far_2",
      "at": "the backstay, and the",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_7",
+     "at": "when there was way",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_1",
+     "at": "like a manufactory. I",
+     "by": "place-players"
     }
    ]
   },
@@ -83,7 +105,19 @@
    "para": 5,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Perhaps it was this--perhaps it was the look of the island, with its\ngrey, melancholy woods, and wild stone spires, and the surf that we\ncould both see and hear foaming and thundering on the steep beach--at\nleast, although the sun shone bright and hot, and the shore birds were\nfishing and crying all around us, and you would have thought anyone\nwould have been glad to get to land after being so long at sea, my heart\nsank, as the saying is, into my boots; and from the first look onward, I\nhated the very thought of Treasure Island."
+   "text": "Perhaps it was this--perhaps it was the look of the island, with its\ngrey, melancholy woods, and wild stone spires, and the surf that we\ncould both see and hear foaming and thundering on the steep beach--at\nleast, although the sun shone bright and hot, and the shore birds were\nfishing and crying all around us, and you would have thought anyone\nwould have been glad to get to land after being so long at sea, my heart\nsank, as the saying is, into my boots; and from the first look onward, I\nhated the very thought of Treasure Island.",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "would have thought anyone",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_4",
+     "at": "thundering on the steep",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 7,
@@ -91,6 +125,16 @@
     {
      "key": "oars",
      "at": "I volunteered for one of the boats"
+    },
+    {
+     "key": "creak_6",
+     "at": "order, he grumbled as",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "The heat was sweltering,",
+     "by": "place-players"
     }
    ],
    "para": 6,
@@ -103,7 +147,19 @@
    "para": 7,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Well,” he said with an oath, “it’s not forever.”"
+   "text": "“Well,” he said with an oath, “it’s not forever.”",
+   "sfx": [
+    {
+     "key": "sail_7",
+     "at": "said with an oath,",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_2",
+     "at": "with an oath, “it’s",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 9,
@@ -116,6 +172,16 @@
      "key": "gull_near_2",
      "at": "the very sight of",
      "by": "place-birds"
+    },
+    {
+     "key": "feet_2",
+     "at": "the cords of discipline.",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_4",
+     "at": "business; but the very",
+     "by": "place-players"
     }
    ]
   },
@@ -145,7 +211,19 @@
    "para": 10,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“and this here passage\nhas been dug out, in a manner of speaking, with a spade.”"
+   "text": "“and this here passage\nhas been dug out, in a manner of speaking, with a spade.”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "dug out, in a",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_1",
+     "at": "a manner of speaking,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
@@ -154,6 +232,11 @@
     {
      "key": "anchor_birds",
      "at": "The plunge of our anchor sent up clouds of birds"
+    },
+    {
+     "key": "rope_3",
+     "at": "bottom was clean sand.",
+     "by": "place-players"
     }
    ],
    "para": 11,
@@ -172,6 +255,16 @@
      "key": "gull_near_1",
      "at": "rather two swamps, emptied",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_4",
+     "at": "we might have been",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_5",
+     "at": "had not been for",
+     "by": "place-players"
     }
    ]
   },
@@ -180,7 +273,19 @@
    "para": 13,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "There was not a breath of air moving, nor a sound but that of the\nsurf booming half a mile away along the beaches and against the rocks\noutside. A peculiar stagnant smell hung over the anchorage--a smell of\nsodden leaves and rotting tree trunks. I observed the doctor sniffing\nand sniffing, like someone tasting a bad egg."
+   "text": "There was not a breath of air moving, nor a sound but that of the\nsurf booming half a mile away along the beaches and against the rocks\noutside. A peculiar stagnant smell hung over the anchorage--a smell of\nsodden leaves and rotting tree trunks. I observed the doctor sniffing\nand sniffing, like someone tasting a bad egg.",
+   "sfx": [
+    {
+     "key": "sail_3",
+     "at": "a mile away along",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_2",
+     "at": "booming half a mile",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 17,
@@ -201,21 +306,57 @@
    "para": 14,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“but I’ll stake my wig there’s\nfever here.”"
+   "text": "“but I’ll stake my wig there’s\nfever here.”",
+   "sfx": [
+    {
+     "key": "creak_2",
+     "at": "my wig there’s fever",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_4",
+     "at": "wig there’s fever here.”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 20,
    "para": 15,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "If the conduct of the men had been alarming in the boat, it became truly\nthreatening when they had come aboard. They lay about the deck growling\ntogether in talk. The slightest order was received with a black look and\ngrudgingly and carelessly obeyed. Even the honest hands must have caught\nthe infection, for there was not one man aboard to mend another. Mutiny,\nit was plain, hung over us like a thunder-cloud."
+   "text": "If the conduct of the men had been alarming in the boat, it became truly\nthreatening when they had come aboard. They lay about the deck growling\ntogether in talk. The slightest order was received with a black look and\ngrudgingly and carelessly obeyed. Even the honest hands must have caught\nthe infection, for there was not one man aboard to mend another. Mutiny,\nit was plain, hung over us like a thunder-cloud.",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "lay about the deck",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_3",
+     "at": "about the deck growling",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 21,
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And it was not only we of the cabin party who perceived the danger. Long\nJohn was hard at work going from group to group, spending himself in\ngood advice, and as for example no man could have shown a better. He\nfairly outstripped himself in willingness and civility; he was all\nsmiles to everyone. If an order were given, John would be on his crutch\nin an instant, with the cheeriest"
+   "text": "And it was not only we of the cabin party who perceived the danger. Long\nJohn was hard at work going from group to group, spending himself in\ngood advice, and as for example no man could have shown a better. He\nfairly outstripped himself in willingness and civility; he was all\nsmiles to everyone. If an order were given, John would be on his crutch\nin an instant, with the cheeriest",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "example no man could",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_2",
+     "at": "to everyone. If an",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 22,
@@ -235,6 +376,11 @@
      "key": "gull_near_1",
      "at": "song after another, as",
      "by": "place-birds"
+    },
+    {
+     "key": "sail_8",
+     "at": "nothing else to do,",
+     "by": "place-players"
     }
    ]
   },
@@ -271,7 +417,19 @@
    "para": 19,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“if I risk another order, the whole ship’ll\ncome about our ears by the run. You see, sir, here it is. I get a rough\nanswer, do I not? Well, if I speak back, pikes will be going in two\nshakes; if I don’t, Silver will see there’s something under that, and\nthe game’s up. Now, we’ve only one man to rely on.”"
+   "text": "“if I risk another order, the whole ship’ll\ncome about our ears by the run. You see, sir, here it is. I get a rough\nanswer, do I not? Well, if I speak back, pikes will be going in two\nshakes; if I don’t, Silver will see there’s something under that, and\nthe game’s up. Now, we’ve only one man to rely on.”",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "and the game’s up.",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_1",
+     "at": "going in two shakes;",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 29,
@@ -306,7 +464,19 @@
    "para": 21,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“he’s as anxious as you and I to\nsmother things up. This is a tiff; he’d soon talk ’em out of it if he\nhad the chance, and what I propose to do is to give him the chance.\nLet’s allow the men an afternoon ashore. If they all go, why we’ll fight\nthe ship. If they none of them go, well then, we hold the cabin, and God\ndefend the right. If some go, you mark my words, sir, Silver’ll bring\n’em aboard again as mild as lambs.”"
+   "text": "“he’s as anxious as you and I to\nsmother things up. This is a tiff; he’d soon talk ’em out of it if he\nhad the chance, and what I propose to do is to give him the chance.\nLet’s allow the men an afternoon ashore. If they all go, why we’ll fight\nthe ship. If they none of them go, well then, we hold the cabin, and God\ndefend the right. If some go, you mark my words, sir, Silver’ll bring\n’em aboard again as mild as lambs.”",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "the cabin, and God",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_1",
+     "at": "words, sir, Silver’ll bring",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 34,
@@ -319,6 +489,16 @@
      "key": "gull_far_1",
      "at": "we had looked for,",
      "by": "place-birds"
+    },
+    {
+     "key": "sail_1",
+     "at": "went on deck and",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_6",
+     "at": "on deck and addressed",
+     "by": "place-players"
     }
    ]
   },
@@ -341,14 +521,38 @@
    "para": 23,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“we’ve had a hot day and are all tired and out of\nsorts. A turn ashore’ll hurt nobody--the boats are still in the water;\nyou can take the gigs, and as many as please may go ashore for the\nafternoon. I’ll fire a gun half an hour before sundown.”"
+   "text": "“we’ve had a hot day and are all tired and out of\nsorts. A turn ashore’ll hurt nobody--the boats are still in the water;\nyou can take the gigs, and as many as please may go ashore for the\nafternoon. I’ll fire a gun half an hour before sundown.”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "nobody--the boats are still",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_3",
+     "at": "the water; you can",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 38,
    "para": 24,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I believe the silly fellows must have thought they would break their\nshins over treasure as soon as they were landed, for they all came out\nof their sulks in a moment and gave a cheer that started the echo in a\nfaraway hill and sent the birds once more flying and squalling round the\nanchorage."
+   "text": "I believe the silly fellows must have thought they would break their\nshins over treasure as soon as they were landed, for they all came out\nof their sulks in a moment and gave a cheer that started the echo in a\nfaraway hill and sent the birds once more flying and squalling round the\nanchorage.",
+   "sfx": [
+    {
+     "key": "rope_4",
+     "at": "out of their sulks",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_1",
+     "at": "moment and gave a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 39,
@@ -361,6 +565,16 @@
      "key": "gull_far_2",
      "at": "there were such on",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_1",
+     "at": "day. Silver was the",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_3",
+     "at": "no longer so much",
+     "by": "place-players"
     }
    ]
   },
@@ -369,21 +583,57 @@
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At last, however, the party was made up. Six fellows were to stay on\nboard, and the remaining thirteen, including Silver, began to embark."
+   "text": "At last, however, the party was made up. Six fellows were to stay on\nboard, and the remaining thirteen, including Silver, began to embark.",
+   "sfx": [
+    {
+     "key": "rope_2",
+     "at": "made up. Six fellows",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_3",
+     "at": "to stay on board,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 41,
    "para": 27,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Then it was that there came into my head the first of the mad notions\nthat contributed so much to save our lives. If six men were left by\nSilver, it was plain our party could not take and fight the ship; and\nsince only six were left, it was equally plain that the cabin party\nhad no present need of my assistance. It occurred to me at once to go\nashore. In a jiffy I had slipped over the side and curled up in the\nfore-sheets of the nearest boat, and almost at the same moment she\nshoved off."
+   "text": "Then it was that there came into my head the first of the mad notions\nthat contributed so much to save our lives. If six men were left by\nSilver, it was plain our party could not take and fight the ship; and\nsince only six were left, it was equally plain that the cabin party\nhad no present need of my assistance. It occurred to me at once to go\nashore. In a jiffy I had slipped over the side and curled up in the\nfore-sheets of the nearest boat, and almost at the same moment she\nshoved off.",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "it was equally plain",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_2",
+     "at": "fore-sheets of the nearest",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 42,
    "para": 28,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "No one took notice of me, only the bow oar saying, “Is that you, Jim?\nKeep your head down.” But Silver, from the other boat, looked sharply\nover and called out to know if that were me; and from that moment I\nbegan to regret what I had done."
+   "text": "No one took notice of me, only the bow oar saying, “Is that you, Jim?\nKeep your head down.” But Silver, from the other boat, looked sharply\nover and called out to know if that were me; and from that moment I\nbegan to regret what I had done.",
+   "sfx": [
+    {
+     "key": "rope_5",
+     "at": "sharply over and called",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_2",
+     "at": "from that moment I",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 43,
@@ -396,6 +646,16 @@
      "key": "gull_pair_2",
      "at": "I had caught a",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_7",
+     "at": "had struck among the",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_4",
+     "at": "consort, and the bow",
+     "by": "place-players"
     }
    ]
   },
@@ -418,7 +678,19 @@
    "para": 31,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "But you may suppose I paid no heed; jumping, ducking, and breaking\nthrough, I ran straight before my nose till I could run no longer."
+   "text": "But you may suppose I paid no heed; jumping, ducking, and breaking\nthrough, I ran straight before my nose till I could run no longer.",
+   "sfx": [
+    {
+     "key": "rope_2",
+     "at": "nose till I could",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_6",
+     "at": "my nose till I",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

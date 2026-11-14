@@ -56,6 +56,16 @@
     {
      "key": "gravel",
      "at": "fell rattling and bounding through the trees"
+    },
+    {
+     "key": "trees_7",
+     "at": "me to a stand.",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "of this new apparition",
+     "by": "place-players"
     }
    ],
    "para": 2,
@@ -68,7 +78,14 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I was now, it seemed, cut off upon both sides; behind me the murderers,\nbefore me this lurking nondescript. And immediately I began to prefer\nthe dangers that I knew to those I knew not. Silver himself appeared\nless terrible in contrast with this creature of the woods, and I turned\non my heel, and looking sharply behind me over my shoulder, began to\nretrace my steps in the direction of the boats."
+   "text": "I was now, it seemed, cut off upon both sides; behind me the murderers,\nbefore me this lurking nondescript. And immediately I began to prefer\nthe dangers that I knew to those I knew not. Silver himself appeared\nless terrible in contrast with this creature of the woods, and I turned\non my heel, and looking sharply behind me over my shoulder, began to\nretrace my steps in the direction of the boats.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "to those I knew",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
@@ -81,6 +98,16 @@
      "key": "gull_far_3",
      "at": "adversary. From trunk to",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_6",
+     "at": "to contend in speed",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_5",
+     "at": "as it ran. Yet",
+     "by": "place-players"
     }
    ]
   },
@@ -96,7 +123,19 @@
    "para": 6,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "He was concealed by this time behind another tree trunk; but he must\nhave been watching me closely, for as soon as I began to move in his\ndirection he reappeared and took a step to meet me. Then he hesitated,\ndrew back, came forward again, and at last, to my wonder and\nconfusion, threw himself on his knees and held out his clasped hands in\nsupplication."
+   "text": "He was concealed by this time behind another tree trunk; but he must\nhave been watching me closely, for as soon as I began to move in his\ndirection he reappeared and took a step to meet me. Then he hesitated,\ndrew back, came forward again, and at last, to my wonder and\nconfusion, threw himself on his knees and held out his clasped hands in\nsupplication.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "forward again, and at",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_7",
+     "at": "to move in his",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 8,
@@ -124,7 +163,14 @@
    "para": 9,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "he answered, and his voice sounded hoarse and awkward,\nlike a rusty lock."
+   "text": "he answered, and his voice sounded hoarse and awkward,\nlike a rusty lock.",
+   "sfx": [
+    {
+     "key": "insects_day_3",
+     "at": "like a rusty lock.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -138,7 +184,19 @@
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I could now see that he was a white man like myself and that his\nfeatures were even pleasing. His skin, wherever it was exposed, was\nburnt by the sun; even his lips were black, and his fair eyes looked\nquite startling in so dark a face. Of all the beggar-men that I had seen\nor fancied, he was the chief for raggedness. He was clothed with tatters\nof old ship’s canvas and old sea-cloth, and this extraordinary patchwork\nwas all held together by a system of the most various and incongruous\nfastenings, brass buttons, bits of stick, and loops of tarry gaskin.\nAbout his waist he wore an old brass-buckled leather belt, which was the\none thing solid in his whole accoutrement."
+   "text": "I could now see that he was a white man like myself and that his\nfeatures were even pleasing. His skin, wherever it was exposed, was\nburnt by the sun; even his lips were black, and his fair eyes looked\nquite startling in so dark a face. Of all the beggar-men that I had seen\nor fancied, he was the chief for raggedness. He was clothed with tatters\nof old ship’s canvas and old sea-cloth, and this extraordinary patchwork\nwas all held together by a system of the most various and incongruous\nfastenings, brass buttons, bits of stick, and loops of tarry gaskin.\nAbout his waist he wore an old brass-buckled leather belt, which was the\none thing solid in his whole accoutrement.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "of the most various",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "incongruous fastenings, brass buttons,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
@@ -173,7 +231,14 @@
    "para": 13,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I had heard the word, and I knew it stood for a horrible kind of\npunishment common enough among the buccaneers, in which the offender\nis put ashore with a little powder and shot and left behind on some\ndesolate and distant island."
+   "text": "I had heard the word, and I knew it stood for a horrible kind of\npunishment common enough among the buccaneers, in which the offender\nis put ashore with a little powder and shot and left behind on some\ndesolate and distant island.",
+   "sfx": [
+    {
+     "key": "bird_cry_1",
+     "at": "put ashore with a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 19,
@@ -194,7 +259,19 @@
    "para": 14,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“and lived on goats since\nthen, and berries, and oysters. Wherever a man is, says I, a man can\ndo for himself. But, mate, my heart is sore for Christian diet. You\nmightn’t happen to have a piece of cheese about you, now? No? Well,\nmany’s the long night I’ve dreamed of cheese--toasted, mostly--and woke\nup again, and here I were.”"
+   "text": "“and lived on goats since\nthen, and berries, and oysters. Wherever a man is, says I, a man can\ndo for himself. But, mate, my heart is sore for Christian diet. You\nmightn’t happen to have a piece of cheese about you, now? No? Well,\nmany’s the long night I’ve dreamed of cheese--toasted, mostly--and woke\nup again, and here I were.”",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "again, and here I",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_4",
+     "at": "is sore for Christian",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 22,
@@ -207,6 +284,11 @@
      "key": "gull_far_3",
      "at": "“you shall have cheese",
      "by": "place-birds"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "I, “you shall have",
+     "by": "place-players"
     }
    ]
   },
@@ -292,7 +374,14 @@
    "para": 21,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“Well, now, Jim, I’ve\nlived that rough as you’d be ashamed to hear of. Now, for instance, you\nwouldn’t think I had had a pious mother--to look at me?”"
+   "text": "“Well, now, Jim, I’ve\nlived that rough as you’d be ashamed to hear of. Now, for instance, you\nwouldn’t think I had had a pious mother--to look at me?”",
+   "sfx": [
+    {
+     "key": "birds_day_1",
+     "at": "I had had a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 35,
@@ -327,14 +416,33 @@
    "para": 23,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“but I had--_re_markable pious. And I was a civil,\npious boy, and could rattle off my catechism that fast, as you couldn’t\ntell one word from another. And here’s what it come to, Jim, and it\nbegun with chuck-farthen on the blessed grave-stones! That’s what it\nbegun with, but it went further’n that; and so my mother told me, and\npredicked the whole, she did, the pious woman! But it were Providence\nthat put me here. I’ve thought it all out in this here lonely island,\nand I’m back on piety. You don’t catch me tasting rum so much, but just\na thimbleful for luck, of course, the first chance I have. I’m bound\nI’ll be good, and I see the way to. And, Jim”"
+   "text": "“but I had--_re_markable pious. And I was a civil,\npious boy, and could rattle off my catechism that fast, as you couldn’t\ntell one word from another. And here’s what it come to, Jim, and it\nbegun with chuck-farthen on the blessed grave-stones! That’s what it\nbegun with, but it went further’n that; and so my mother told me, and\npredicked the whole, she did, the pious woman! But it were Providence\nthat put me here. I’ve thought it all out in this here lonely island,\nand I’m back on piety. You don’t catch me tasting rum so much, but just\na thimbleful for luck, of course, the first chance I have. I’m bound\nI’ll be good, and I see the way to. And, Jim”",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "I’m back on piety.",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "for luck, of course,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 40,
    "para": 23,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "--looking all round him and\nlowering his voice to a whisper--"
+   "text": "--looking all round him and\nlowering his voice to a whisper--",
+   "sfx": [
+    {
+     "key": "insects_day_2",
+     "at": "round him and lowering",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 41,
@@ -362,7 +470,14 @@
    "para": 25,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And at this there came suddenly a lowering shadow over his face, and he\ntightened his grasp upon my hand and raised a forefinger threateningly\nbefore my eyes."
+   "text": "And at this there came suddenly a lowering shadow over his face, and he\ntightened his grasp upon my hand and raised a forefinger threateningly\nbefore my eyes.",
+   "sfx": [
+    {
+     "key": "birds_day_2",
+     "at": "and raised a forefinger",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 45,
@@ -389,6 +504,11 @@
      "key": "gull_far_1",
      "at": "I answered him at",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_1",
+     "at": "and I answered him",
+     "by": "place-players"
     }
    ]
   },
@@ -474,14 +594,33 @@
    "para": 34,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“I’m as good as pork, and I\nknow it. But where was you, do you suppose?”"
+   "text": "“I’m as good as pork, and I\nknow it. But where was you, do you suppose?”",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "was you, do you",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 60,
    "para": 35,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I had made my mind up in a moment, and by way of answer told him\nthe whole story of our voyage and the predicament in which we found\nourselves. He heard me with the keenest interest, and when I had done he\npatted me on the head."
+   "text": "I had made my mind up in a moment, and by way of answer told him\nthe whole story of our voyage and the predicament in which we found\nourselves. He heard me with the keenest interest, and when I had done he\npatted me on the head.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "He heard me with",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "the whole story of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 61,
@@ -502,7 +641,14 @@
    "para": 36,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“and you’re all in a clove hitch,\nain’t you? Well, you just put your trust in Ben Gunn--Ben Gunn’s the man\nto do it. Would you think it likely, now, that your squire would prove\na liberal-minded one in case of help--him being in a clove hitch, as you\nremark?”"
+   "text": "“and you’re all in a clove hitch,\nain’t you? Well, you just put your trust in Ben Gunn--Ben Gunn’s the man\nto do it. Would you think it likely, now, that your squire would prove\na liberal-minded one in case of help--him being in a clove hitch, as you\nremark?”",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "clove hitch, as you",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 64,
@@ -530,7 +676,14 @@
    "para": 38,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“I didn’t mean giving me a gate\nto keep, and a suit of livery clothes, and such; that’s not my mark,\nJim. What I mean is, would he be likely to come down to the toon of, say\none thousand pounds out of money that’s as good as a man’s own already?”"
+   "text": "“I didn’t mean giving me a gate\nto keep, and a suit of livery clothes, and such; that’s not my mark,\nJim. What I mean is, would he be likely to come down to the toon of, say\none thousand pounds out of money that’s as good as a man’s own already?”",
+   "sfx": [
+    {
+     "key": "birds_day_3",
+     "at": "out of money that’s",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 68,
@@ -558,7 +711,14 @@
    "para": 41,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Why,” I cried, “the squire’s a gentleman. And besides, if we got rid of\nthe others, we should want you to help work the vessel home.”"
+   "text": "“Why,” I cried, “the squire’s a gentleman. And besides, if we got rid of\nthe others, we should want you to help work the vessel home.”",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "got rid of the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 72,
@@ -607,7 +767,19 @@
    "para": 43,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“So much I’ll tell you, and no\nmore. I were in Flint’s ship when he buried the treasure; he and\nsix along--six strong seamen. They was ashore nigh on a week, and us\nstanding off and on in the old WALRUS. One fine day up went the signal,\nand here come Flint by himself in a little boat, and his head done up in\na blue scarf. The sun was getting up, and mortal white he looked about\nthe cutwater. But, there he was, you mind, and the six all dead--dead\nand buried. How he done it, not a man aboard us could make out. It was\nbattle, murder, and sudden death, leastways--him against six. Billy\nBones was the mate; Long John, he was quartermaster; and they asked him\nwhere the treasure was. ‘Ah,’ says he, ‘you can go ashore, if you like,\nand stay,’ he says; ‘but as for the ship, she’ll beat up for more, by\nthunder!’ That’s what he said."
+   "text": "“So much I’ll tell you, and no\nmore. I were in Flint’s ship when he buried the treasure; he and\nsix along--six strong seamen. They was ashore nigh on a week, and us\nstanding off and on in the old WALRUS. One fine day up went the signal,\nand here come Flint by himself in a little boat, and his head done up in\na blue scarf. The sun was getting up, and mortal white he looked about\nthe cutwater. But, there he was, you mind, and the six all dead--dead\nand buried. How he done it, not a man aboard us could make out. It was\nbattle, murder, and sudden death, leastways--him against six. Billy\nBones was the mate; Long John, he was quartermaster; and they asked him\nwhere the treasure was. ‘Ah,’ says he, ‘you can go ashore, if you like,\nand stay,’ he says; ‘but as for the ship, she’ll beat up for more, by\nthunder!’ That’s what he said.",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "was the mate; Long",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_7",
+     "at": "WALRUS. One fine day",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 79,
@@ -620,6 +792,16 @@
      "key": "gull_far_2",
      "at": "days they looked for",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_7",
+     "at": "for yourself,’ they says.",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "and pick-axe. You can",
+     "by": "place-players"
     }
    ]
   },
@@ -628,7 +810,14 @@
    "para": 45,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“Well, Jim, three years have I been here, and not a bite of Christian\ndiet from that day to this. But now, you look here; look at me. Do I\nlook like a man before the mast? No, says you. Nor I weren’t, neither, I\nsays.”"
+   "text": "“Well, Jim, three years have I been here, and not a bite of Christian\ndiet from that day to this. But now, you look here; look at me. Do I\nlook like a man before the mast? No, says you. Nor I weren’t, neither, I\nsays.”",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "you. Nor I weren’t,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 81,
@@ -656,7 +845,19 @@
    "para": 47,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“Nor he\nweren’t, neither--that’s the words. Three years he were the man of this\nisland, light and dark, fair and rain; and sometimes he would maybe\nthink upon a prayer (says you), and sometimes he would maybe think of\nhis old mother, so be as she’s alive (you’ll say); but the most part\nof Gunn’s time (this is what you’ll say)--the most part of his time was\ntook up with another matter. And then you’ll give him a nip, like I do.”"
+   "text": "“Nor he\nweren’t, neither--that’s the words. Three years he were the man of this\nisland, light and dark, fair and rain; and sometimes he would maybe\nthink upon a prayer (says you), and sometimes he would maybe think of\nhis old mother, so be as she’s alive (you’ll say); but the most part\nof Gunn’s time (this is what you’ll say)--the most part of his time was\ntook up with another matter. And then you’ll give him a nip, like I do.”",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "but the most part",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "say); but the most",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 85,
@@ -712,7 +913,19 @@
    "para": 51,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“that’s the hitch, for sure. Well, there’s my boat, that\nI made with my two hands. I keep her under the white rock. If the worst\ncome to the worst, we might try that after dark. Hi!”"
+   "text": "“that’s the hitch, for sure. Well, there’s my boat, that\nI made with my two hands. I keep her under the white rock. If the worst\ncome to the worst, we might try that after dark. Hi!”",
+   "sfx": [
+    {
+     "key": "birds_day_7",
+     "at": "I keep her under",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "we might try that",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 93,
@@ -752,7 +965,14 @@
    "para": 53,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“They have begun to fight!” I cried. “Follow me.”"
+   "text": "“They have begun to fight!” I cried. “Follow me.”",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "begun to fight!” I",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 97,
@@ -786,6 +1006,11 @@
      "key": "gull_far_1",
      "at": "come down here now;",
      "by": "place-birds"
+    },
+    {
+     "key": "birds_day_6",
+     "at": "goat. They don’t come",
+     "by": "place-players"
     }
    ]
   },
@@ -801,7 +1026,14 @@
    "para": 55,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“You see the mounds? I come here and prayed, nows and thens, when\nI thought maybe a Sunday would be about doo. It weren’t quite a chapel,\nbut it seemed more solemn like; and then, says you, Ben Gunn was\nshort-handed--no chapling, nor so much as a Bible and a flag, you says.”"
+   "text": "“You see the mounds? I come here and prayed, nows and thens, when\nI thought maybe a Sunday would be about doo. It weren’t quite a chapel,\nbut it seemed more solemn like; and then, says you, Ben Gunn was\nshort-handed--no chapling, nor so much as a Bible and a flag, you says.”",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "I thought maybe a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 103,
@@ -816,6 +1048,11 @@
     {
      "key": "musket_volley_far",
      "at": "followed after a considerable interval by a volley of small arms"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "a volley of small",
+     "by": "place-players"
     }
    ],
    "para": 57,

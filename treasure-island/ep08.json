@@ -61,6 +61,16 @@
      "key": "gull_near_1",
      "at": "the line of the",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_7",
+     "at": "and seamen, and picked",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_1",
+     "at": "and keeping a bright",
+     "by": "place-players"
     }
    ]
   },
@@ -70,7 +80,19 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It was a bright enough little place of entertainment. The sign was\nnewly painted; the windows had neat red curtains; the floor was cleanly\nsanded. There was a street on each side and an open door on both, which\nmade the large, low room pretty clear to see in, in spite of clouds of\ntobacco smoke."
+   "text": "It was a bright enough little place of entertainment. The sign was\nnewly painted; the windows had neat red curtains; the floor was cleanly\nsanded. There was a street on each side and an open door on both, which\nmade the large, low room pretty clear to see in, in spite of clouds of\ntobacco smoke.",
+   "sfx": [
+    {
+     "key": "voices_far_5",
+     "at": "spite of clouds of",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_2",
+     "at": "curtains; the floor was",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
@@ -90,6 +112,16 @@
      "key": "gull_far_3",
      "at": "and pale, but intelligent",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_3",
+     "at": "among the tables, with",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_3",
+     "at": "he carried a crutch,",
+     "by": "place-players"
     }
    ]
   },
@@ -98,14 +130,33 @@
    "para": 6,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Now, to tell you the truth, from the very first mention of Long John in\nSquire Trelawney’s letter I had taken a fear in my mind that he might\nprove to be the very one-legged sailor whom I had watched for so long at\nthe old Benbow. But one look at the man before me was enough. I had seen\nthe captain, and Black Dog, and the blind man, Pew, and I thought I knew\nwhat a buccaneer was like--a very different creature, according to me,\nfrom this clean and pleasant-tempered landlord."
+   "text": "Now, to tell you the truth, from the very first mention of Long John in\nSquire Trelawney’s letter I had taken a fear in my mind that he might\nprove to be the very one-legged sailor whom I had watched for so long at\nthe old Benbow. But one look at the man before me was enough. I had seen\nthe captain, and Black Dog, and the blind man, Pew, and I thought I knew\nwhat a buccaneer was like--a very different creature, according to me,\nfrom this clean and pleasant-tempered landlord.",
+   "sfx": [
+    {
+     "key": "rope_4",
+     "at": "But one look at",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_5",
+     "at": "like--a very different creature,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 8,
    "para": 7,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I plucked up courage at once, crossed the threshold, and walked right up\nto the man where he stood, propped on his crutch, talking to a customer."
+   "text": "I plucked up courage at once, crossed the threshold, and walked right up\nto the man where he stood, propped on his crutch, talking to a customer.",
+   "sfx": [
+    {
+     "key": "voices_far_4",
+     "at": "the man where he",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 9,
@@ -160,6 +211,11 @@
      "key": "gull_pair_1",
      "at": "and offering his hand.",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_1",
+     "at": "quite loud, and offering",
+     "by": "place-players"
     }
    ]
   },
@@ -182,7 +238,19 @@
    "para": 12,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Just then one of the customers at the far side rose suddenly and made\nfor the door. It was close by him, and he was out in the street in a\nmoment. But his hurry had attracted my notice, and I recognized him at\nglance. It was the tallow-faced man, wanting two fingers, who had come\nfirst to the Admiral Benbow."
+   "text": "Just then one of the customers at the far side rose suddenly and made\nfor the door. It was close by him, and he was out in the street in a\nmoment. But his hurry had attracted my notice, and I recognized him at\nglance. It was the tallow-faced man, wanting two fingers, who had come\nfirst to the Admiral Benbow.",
+   "sfx": [
+    {
+     "key": "rope_1",
+     "at": "hurry had attracted my",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_1",
+     "at": "him, and he was",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 19,
@@ -265,7 +333,19 @@
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Dog, sir,” said I. “Has Mr. Trelawney not told you of the buccaneers?\nHe was one of them.”"
+   "text": "“Dog, sir,” said I. “Has Mr. Trelawney not told you of the buccaneers?\nHe was one of them.”",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "of the buccaneers? He",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_2",
+     "at": "you of the buccaneers?",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 30,
@@ -292,6 +372,11 @@
      "key": "gull_laugh_1",
      "at": "drinking with him, Morgan?",
      "by": "place-birds"
+    },
+    {
+     "key": "voices_far_4",
+     "at": "those swabs, was he?",
+     "by": "place-players"
     }
    ]
   },
@@ -300,7 +385,14 @@
    "para": 19,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The man whom he called Morgan--an old, grey-haired, mahogany-faced\nsailor--came forward pretty sheepishly, rolling his quid."
+   "text": "The man whom he called Morgan--an old, grey-haired, mahogany-faced\nsailor--came forward pretty sheepishly, rolling his quid.",
+   "sfx": [
+    {
+     "key": "rope_1",
+     "at": "Morgan--an old, grey-haired, mahogany-faced",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 34,
@@ -398,7 +490,19 @@
    "para": 26,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Don’t rightly know, don’t you! Perhaps you don’t\nhappen to rightly know who you was speaking to, perhaps? Come, now, what\nwas he jawing--v’yages, cap’ns, ships? Pipe up! What was it?”"
+   "text": "“Don’t rightly know, don’t you! Perhaps you don’t\nhappen to rightly know who you was speaking to, perhaps? Come, now, what\nwas he jawing--v’yages, cap’ns, ships? Pipe up! What was it?”",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "jawing--v’yages, cap’ns, ships? Pipe",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_1",
+     "at": "was he jawing--v’yages, cap’ns,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 47,
@@ -419,14 +523,28 @@
    "para": 29,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And then, as Morgan rolled back to his seat, Silver added to me in a\nconfidential whisper that was very flattering, as I thought,"
+   "text": "And then, as Morgan rolled back to his seat, Silver added to me in a\nconfidential whisper that was very flattering, as I thought,",
+   "sfx": [
+    {
+     "key": "rope_2",
+     "at": "to his seat, Silver",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 50,
    "para": 29,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“He’s\nquite an honest man, Tom Morgan, on’y stupid. And now,”"
+   "text": "“He’s\nquite an honest man, Tom Morgan, on’y stupid. And now,”",
+   "sfx": [
+    {
+     "key": "feet_5",
+     "at": "Morgan, on’y stupid. And",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 51,
@@ -475,7 +593,19 @@
    "para": 31,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Pew! That were his name for\ncertain. Ah, he looked a shark, he did! If we run down this Black Dog,\nnow, there’ll be news for Cap’n Trelawney! Ben’s a good runner; few\nseamen run better than Ben. He should run him down, hand over hand, by\nthe powers! He talked o’ keel-hauling, did he? I’LL keel-haul him!”"
+   "text": "“Pew! That were his name for\ncertain. Ah, he looked a shark, he did! If we run down this Black Dog,\nnow, there’ll be news for Cap’n Trelawney! Ben’s a good runner; few\nseamen run better than Ben. He should run him down, hand over hand, by\nthe powers! He talked o’ keel-hauling, did he? I’LL keel-haul him!”",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "Black Dog, now, there’ll",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_4",
+     "at": "down this Black Dog,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 57,
@@ -488,6 +618,11 @@
      "key": "gull_far_3",
      "at": "and I watched the",
      "by": "place-birds"
+    },
+    {
+     "key": "rope_1",
+     "at": "My suspicions had been",
+     "by": "place-players"
     }
    ]
   },
@@ -510,7 +645,19 @@
    "para": 33,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“here’s a blessed hard thing on a\nman like me, now, ain’t it? There’s Cap’n Trelawney--what’s he to think?\nHere I have this confounded son of a Dutchman sitting in my own house\ndrinking of my own rum! Here you comes and tells me of it plain; and\nhere I let him give us all the slip before my blessed deadlights! Now,\nHawkins, you do me justice with the cap’n. You’re a lad, you are, but\nyou’re as smart as paint. I see that when you first come in. Now, here\nit is: What could I do, with this old timber I hobble on? When I was an\nA B master mariner I’d have come up alongside of him, hand over hand,\nand broached him to in a brace of old shakes, I would; but now--”"
+   "text": "“here’s a blessed hard thing on a\nman like me, now, ain’t it? There’s Cap’n Trelawney--what’s he to think?\nHere I have this confounded son of a Dutchman sitting in my own house\ndrinking of my own rum! Here you comes and tells me of it plain; and\nhere I let him give us all the slip before my blessed deadlights! Now,\nHawkins, you do me justice with the cap’n. You’re a lad, you are, but\nyou’re as smart as paint. I see that when you first come in. Now, here\nit is: What could I do, with this old timber I hobble on? When I was an\nA B master mariner I’d have come up alongside of him, hand over hand,\nand broached him to in a brace of old shakes, I would; but now--”",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "I would; but now--”",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_2",
+     "at": "give us all the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 61,
@@ -523,6 +670,16 @@
      "key": "gull_laugh_1",
      "at": "stopped, and his jaw",
      "by": "place-birds"
+    },
+    {
+     "key": "rope_5",
+     "at": "jaw dropped as though",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_5",
+     "at": "and his jaw dropped",
+     "by": "place-players"
     }
    ]
   },
@@ -573,7 +730,19 @@
    "para": 37,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“You and me should get on well, Hawkins, for I’ll take my davy\nI should be rated ship’s boy. But come now, stand by to go about. This\nwon’t do. Dooty is dooty, messmates. I’ll put on my old cockerel hat,\nand step along of you to Cap’n Trelawney, and report this here affair.\nFor mind you, it’s serious, young Hawkins; and neither you nor me’s come\nout of it with what I should make so bold as to call credit. Nor you\nneither, says you; not smart--none of the pair of us smart. But dash my\nbuttons! That was a good un about my score.”"
+   "text": "“You and me should get on well, Hawkins, for I’ll take my davy\nI should be rated ship’s boy. But come now, stand by to go about. This\nwon’t do. Dooty is dooty, messmates. I’ll put on my old cockerel hat,\nand step along of you to Cap’n Trelawney, and report this here affair.\nFor mind you, it’s serious, young Hawkins; and neither you nor me’s come\nout of it with what I should make so bold as to call credit. Nor you\nneither, says you; not smart--none of the pair of us smart. But dash my\nbuttons! That was a good un about my score.”",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "won’t do. Dooty is",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_1",
+     "at": "cockerel hat, and step",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 69,
@@ -586,6 +755,11 @@
      "key": "gull_laugh_2",
      "at": "him in his mirth.",
      "by": "place-birds"
+    },
+    {
+     "key": "voices_far_1",
+     "at": "though I did not",
+     "by": "place-players"
     }
    ]
   },
@@ -594,14 +768,38 @@
    "para": 39,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "On our little walk along the quays, he made himself the most interesting\ncompanion, telling me about the different ships that we passed by,\ntheir rig, tonnage, and nationality, explaining the work that was going\nforward--how one was discharging, another taking in cargo, and a third\nmaking ready for sea--and every now and then telling me some little\nanecdote of ships or seamen or repeating a nautical phrase till I had\nlearned it perfectly. I began to see that here was one of the best of\npossible shipmates."
+   "text": "On our little walk along the quays, he made himself the most interesting\ncompanion, telling me about the different ships that we passed by,\ntheir rig, tonnage, and nationality, explaining the work that was going\nforward--how one was discharging, another taking in cargo, and a third\nmaking ready for sea--and every now and then telling me some little\nanecdote of ships or seamen or repeating a nautical phrase till I had\nlearned it perfectly. I began to see that here was one of the best of\npossible shipmates.",
+   "sfx": [
+    {
+     "key": "creak_2",
+     "at": "little anecdote of ships",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_6",
+     "at": "here was one of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 71,
    "para": 40,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "When we got to the inn, the squire and Dr. Livesey were seated together,\nfinishing a quart of ale with a toast in it, before they should go\naboard the schooner on a visit of inspection."
+   "text": "When we got to the inn, the squire and Dr. Livesey were seated together,\nfinishing a quart of ale with a toast in it, before they should go\naboard the schooner on a visit of inspection.",
+   "sfx": [
+    {
+     "key": "rope_4",
+     "at": "seated together, finishing a",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_4",
+     "at": "they should go aboard",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 72,
@@ -685,7 +883,19 @@
    "para": 45,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“I don’t put much faith in your\ndiscoveries, as a general thing; but I will say this, John Silver suits\nme.”"
+   "text": "“I don’t put much faith in your\ndiscoveries, as a general thing; but I will say this, John Silver suits\nme.”",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "in your discoveries, as",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_5",
+     "at": "say this, John Silver",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 83,
@@ -720,7 +930,14 @@
    "para": 47,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“Jim may come on board with us, may he\nnot?”"
+   "text": "“Jim may come on board with us, may he\nnot?”",
+   "sfx": [
+    {
+     "key": "voices_far_3",
+     "at": "us, may he not?”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 88,

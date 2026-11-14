@@ -68,6 +68,16 @@
      "key": "gull_far_2",
      "at": "breath of wind, we",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_8",
+     "at": "the wind was wanting;",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "slipped into a boat",
+     "by": "place-players"
     }
    ]
   },
@@ -76,7 +86,19 @@
    "para": 4,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "It never occurred to us to doubt Jim Hawkins, but we were alarmed for\nhis safety. With the men in the temper they were in, it seemed an even\nchance if we should see the lad again. We ran on deck. The pitch was\nbubbling in the seams; the nasty stench of the place turned me sick;\nif ever a man smelt fever and dysentery, it was in that abominable\nanchorage. The six scoundrels were sitting grumbling under a sail in the\nforecastle; ashore we could see the gigs made fast and a man sitting\nin each, hard by where the river runs in. One of them was whistling\n“Lillibullero.”"
+   "text": "It never occurred to us to doubt Jim Hawkins, but we were alarmed for\nhis safety. With the men in the temper they were in, it seemed an even\nchance if we should see the lad again. We ran on deck. The pitch was\nbubbling in the seams; the nasty stench of the place turned me sick;\nif ever a man smelt fever and dysentery, it was in that abominable\nanchorage. The six scoundrels were sitting grumbling under a sail in the\nforecastle; ashore we could see the gigs made fast and a man sitting\nin each, hard by where the river runs in. One of them was whistling\n“Lillibullero.”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "abominable anchorage. The six",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_6",
+     "at": "turned me sick; if",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 6,
@@ -84,6 +106,16 @@
     {
      "key": "oars",
      "at": "Hunter and I should go ashore with the jolly-boat"
+    },
+    {
+     "key": "rigging_2",
+     "at": "jolly-boat in quest of",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_3",
+     "at": "that Hunter and I",
+     "by": "place-players"
     }
    ],
    "para": 5,
@@ -96,7 +128,19 @@
    "para": 6,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "The gigs had leaned to their right, but Hunter and I pulled straight in,\nin the direction of the stockade upon the chart. The two who were\nleft guarding their boats seemed in a bustle at our appearance;\n“Lillibullero” stopped off, and I could see the pair discussing what\nthey ought to do. Had they gone and told Silver, all might have turned\nout differently; but they had their orders, I suppose, and decided to\nsit quietly where they were and hark back again to “Lillibullero.”"
+   "text": "The gigs had leaned to their right, but Hunter and I pulled straight in,\nin the direction of the stockade upon the chart. The two who were\nleft guarding their boats seemed in a bustle at our appearance;\n“Lillibullero” stopped off, and I could see the pair discussing what\nthey ought to do. Had they gone and told Silver, all might have turned\nout differently; but they had their orders, I suppose, and decided to\nsit quietly where they were and hark back again to “Lillibullero.”",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "Silver, all might have",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "pair discussing what they",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 8,
@@ -109,6 +153,16 @@
      "key": "gull_pair_1",
      "at": "sake and a brace",
      "by": "place-birds"
+    },
+    {
+     "key": "sail_2",
+     "at": "big silk handkerchief under",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_4",
+     "at": "with a big silk",
+     "by": "place-players"
     }
    ]
   },
@@ -124,7 +178,19 @@
    "para": 9,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "This was how it was: a spring of clear water rose almost at the top of a\nknoll. Well, on the knoll, and enclosing the spring, they had clapped a\nstout loghouse fit to hold two score of people on a pinch and loopholed\nfor musketry on either side. All round this they had cleared a wide\nspace, and then the thing was completed by a paling six feet high,\nwithout door or opening, too strong to pull down without time and labour\nand too open to shelter the besiegers. The people in the log-house had\nthem in every way; they stood quiet in shelter and shot the others like\npartridges. All they wanted was a good watch and food; for, short of a\ncomplete surprise, they might have held the place against a regiment."
+   "text": "This was how it was: a spring of clear water rose almost at the top of a\nknoll. Well, on the knoll, and enclosing the spring, they had clapped a\nstout loghouse fit to hold two score of people on a pinch and loopholed\nfor musketry on either side. All round this they had cleared a wide\nspace, and then the thing was completed by a paling six feet high,\nwithout door or opening, too strong to pull down without time and labour\nand too open to shelter the besiegers. The people in the log-house had\nthem in every way; they stood quiet in shelter and shot the others like\npartridges. All they wanted was a good watch and food; for, short of a\ncomplete surprise, they might have held the place against a regiment.",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "by a paling six",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_2",
+     "at": "feet high, without door",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 11,
@@ -137,6 +203,16 @@
      "key": "gull_swoop_3",
      "at": "my pulse went dot",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_6",
+     "at": "and got a wound",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_1",
+     "at": "“Jim Hawkins is gone,”",
+     "by": "place-players"
     }
    ]
   },
@@ -145,21 +221,57 @@
    "para": 11,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "It is something to have been an old soldier, but more still to have been\na doctor. There is no time to dilly-dally in our work. And so now I made\nup my mind instantly, and with no time lost returned to the shore and\njumped on board the jolly-boat."
+   "text": "It is something to have been an old soldier, but more still to have been\na doctor. There is no time to dilly-dally in our work. And so now I made\nup my mind instantly, and with no time lost returned to the shore and\njumped on board the jolly-boat.",
+   "sfx": [
+    {
+     "key": "rope_5",
+     "at": "to dilly-dally in our",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_1",
+     "at": "now I made up",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 13,
    "para": 12,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "By good fortune Hunter pulled a good oar. We made the water fly, and the\nboat was soon alongside and I aboard the schooner."
+   "text": "By good fortune Hunter pulled a good oar. We made the water fly, and the\nboat was soon alongside and I aboard the schooner.",
+   "sfx": [
+    {
+     "key": "feet_5",
+     "at": "alongside and I aboard",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_4",
+     "at": "boat was soon alongside",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
    "para": 13,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "I found them all shaken, as was natural. The squire was sitting down, as\nwhite as a sheet, thinking of the harm he had led us to, the good soul!\nAnd one of the six forecastle hands was little better."
+   "text": "I found them all shaken, as was natural. The squire was sitting down, as\nwhite as a sheet, thinking of the harm he had led us to, the good soul!\nAnd one of the six forecastle hands was little better.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "the good soul! And",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_5",
+     "at": "as white as a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 15,
@@ -180,7 +292,14 @@
    "para": 14,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“new to\nthis work. He came nigh-hand fainting, doctor, when he heard the cry.\nAnother touch of the rudder and that man would join us.”"
+   "text": "“new to\nthis work. He came nigh-hand fainting, doctor, when he heard the cry.\nAnother touch of the rudder and that man would join us.”",
+   "sfx": [
+    {
+     "key": "rope_4",
+     "at": "nigh-hand fainting, doctor, when",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 18,
@@ -194,7 +313,14 @@
    "para": 16,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "We put old Redruth in the gallery between the cabin and the forecastle,\nwith three or four loaded muskets and a mattress for protection. Hunter\nbrought the boat round under the stern-port, and Joyce and I set to work\nloading her with powder tins, muskets, bags of biscuits, kegs of pork, a\ncask of cognac, and my invaluable medicine chest."
+   "text": "We put old Redruth in the gallery between the cabin and the forecastle,\nwith three or four loaded muskets and a mattress for protection. Hunter\nbrought the boat round under the stern-port, and Joyce and I set to work\nloading her with powder tins, muskets, bags of biscuits, kegs of pork, a\ncask of cognac, and my invaluable medicine chest.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "or four loaded muskets",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 20,
@@ -207,6 +333,11 @@
      "key": "gull_pair_1",
      "at": "deck, and the latter",
      "by": "place-birds"
+    },
+    {
+     "key": "sail_8",
+     "at": "stayed on deck, and",
+     "by": "place-players"
     }
    ]
   },
@@ -229,14 +360,33 @@
    "para": 18,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“here are two of us with a brace of pistols each.\nIf any one of you six make a signal of any description, that man’s\ndead.”"
+   "text": "“here are two of us with a brace of pistols each.\nIf any one of you six make a signal of any description, that man’s\ndead.”",
+   "sfx": [
+    {
+     "key": "feet_3",
+     "at": "each. If any one",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 24,
    "para": 19,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "They were a good deal taken aback, and after a little consultation one\nand all tumbled down the fore companion, thinking no doubt to take us\non the rear. But when they saw Redruth waiting for them in the sparred\ngalley, they went about ship at once, and a head popped out again on\ndeck."
+   "text": "They were a good deal taken aback, and after a little consultation one\nand all tumbled down the fore companion, thinking no doubt to take us\non the rear. But when they saw Redruth waiting for them in the sparred\ngalley, they went about ship at once, and a head popped out again on\ndeck.",
+   "sfx": [
+    {
+     "key": "creak_8",
+     "at": "no doubt to take",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_4",
+     "at": "a head popped out",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 25,
@@ -257,21 +407,57 @@
    "para": 21,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "And the head popped back again; and we heard no more, for the time, of\nthese six very faint-hearted seamen."
+   "text": "And the head popped back again; and we heard no more, for the time, of\nthese six very faint-hearted seamen.",
+   "sfx": [
+    {
+     "key": "sail_5",
+     "at": "of these six very",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_1",
+     "at": "and we heard no",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 28,
    "para": 22,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "By this time, tumbling things in as they came, we had the jolly-boat\nloaded as much as we dared. Joyce and I got out through the stern-port,\nand we made for shore again as fast as oars could take us."
+   "text": "By this time, tumbling things in as they came, we had the jolly-boat\nloaded as much as we dared. Joyce and I got out through the stern-port,\nand we made for shore again as fast as oars could take us.",
+   "sfx": [
+    {
+     "key": "creak_8",
+     "at": "out through the stern-port,",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_3",
+     "at": "shore again as fast",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 29,
    "para": 23,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "This second trip fairly aroused the watchers along shore. “Lillibullero”\n was dropped again; and just before we lost sight of them behind the\nlittle point, one of them whipped ashore and disappeared. I had half a\nmind to change my plan and destroy their boats, but I feared that Silver\nand the others might be close at hand, and all might very well be lost\nby trying for too much."
+   "text": "This second trip fairly aroused the watchers along shore. “Lillibullero”\n was dropped again; and just before we lost sight of them behind the\nlittle point, one of them whipped ashore and disappeared. I had half a\nmind to change my plan and destroy their boats, but I feared that Silver\nand the others might be close at hand, and all might very well be lost\nby trying for too much.",
+   "sfx": [
+    {
+     "key": "creak_2",
+     "at": "change my plan and",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_5",
+     "at": "ashore and disappeared. I",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 30,
@@ -284,6 +470,16 @@
      "key": "gull_far_3",
      "at": "and I, with all",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_1",
+     "at": "up their position in",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_8",
+     "at": "man, to be sure,",
+     "by": "place-players"
     }
    ]
   },
@@ -292,14 +488,38 @@
    "para": 25,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "That we should have risked a second boat load seems more daring than it\nreally was. They had the advantage of numbers, of course, but we had the\nadvantage of arms. Not one of the men ashore had a musket, and before\nthey could get within range for pistol shooting, we flattered ourselves\nwe should be able to give a good account of a half-dozen at least."
+   "text": "That we should have risked a second boat load seems more daring than it\nreally was. They had the advantage of numbers, of course, but we had the\nadvantage of arms. Not one of the men ashore had a musket, and before\nthey could get within range for pistol shooting, we flattered ourselves\nwe should be able to give a good account of a half-dozen at least.",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "numbers, of course, but",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_4",
+     "at": "could get within range",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 32,
    "para": 26,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "The squire was waiting for me at the stern window, all his faintness\ngone from him. He caught the painter and made it fast, and we fell to\nloading the boat for our very lives. Pork, powder, and biscuit was the\ncargo, with only a musket and a cutlass apiece for the squire and me\nand Redruth and the captain. The rest of the arms and powder we dropped\noverboard in two fathoms and a half of water, so that we could see\nthe bright steel shining far below us in the sun, on the clean, sandy\nbottom."
+   "text": "The squire was waiting for me at the stern window, all his faintness\ngone from him. He caught the painter and made it fast, and we fell to\nloading the boat for our very lives. Pork, powder, and biscuit was the\ncargo, with only a musket and a cutlass apiece for the squire and me\nand Redruth and the captain. The rest of the arms and powder we dropped\noverboard in two fathoms and a half of water, so that we could see\nthe bright steel shining far below us in the sun, on the clean, sandy\nbottom.",
+   "sfx": [
+    {
+     "key": "sail_3",
+     "at": "cargo, with only a",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_3",
+     "at": "and a half of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 33,
@@ -312,6 +532,16 @@
      "key": "gull_far_2",
      "at": "halloaing in the direction",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_3",
+     "at": "Joyce and Hunter, who",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_1",
+     "at": "swinging round to her",
+     "by": "place-players"
     }
    ]
   },
@@ -320,7 +550,19 @@
    "para": 28,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "Redruth retreated from his place in the gallery and dropped into the\nboat, which we then brought round to the ship’s counter, to be handier\nfor Captain Smollett."
+   "text": "Redruth retreated from his place in the gallery and dropped into the\nboat, which we then brought round to the ship’s counter, to be handier\nfor Captain Smollett.",
+   "sfx": [
+    {
+     "key": "feet_5",
+     "at": "the ship’s counter, to",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_5",
+     "at": "counter, to be handier",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 35,
@@ -383,7 +625,19 @@
    "para": 33,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I am leaving this ship,\nand I order you to follow your captain. I know you are a good man at\nbottom, and I dare say not one of the lot of you’s as bad as he makes\nout. I have my watch here in my hand; I give you thirty seconds to join\nme in.”"
+   "text": "“I am leaving this ship,\nand I order you to follow your captain. I know you are a good man at\nbottom, and I dare say not one of the lot of you’s as bad as he makes\nout. I have my watch here in my hand; I give you thirty seconds to join\nme in.”",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "know you are a",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_6",
+     "at": "at bottom, and I",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 44,
@@ -411,7 +665,14 @@
    "para": 35,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“don’t hang so long in\nstays. I’m risking my life and the lives of these good gentlemen every\nsecond.”"
+   "text": "“don’t hang so long in\nstays. I’m risking my life and the lives of these good gentlemen every\nsecond.”",
+   "sfx": [
+    {
+     "key": "rope_3",
+     "at": "stays. I’m risking my",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 48,
@@ -439,7 +700,14 @@
    "para": 39,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "We were clear out of the ship, but not yet ashore in our stockade."
+   "text": "We were clear out of the ship, but not yet ashore in our stockade.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "of the ship, but",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

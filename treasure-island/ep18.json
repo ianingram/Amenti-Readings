@@ -55,14 +55,28 @@
    "para": 2,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "We made our best speed across the strip of wood that now divided us from\nthe stockade, and at every step we took the voices of the buccaneers\nrang nearer. Soon we could hear their footfalls as they ran and the\ncracking of the branches as they breasted across a bit of thicket."
+   "text": "We made our best speed across the strip of wood that now divided us from\nthe stockade, and at every step we took the voices of the buccaneers\nrang nearer. Soon we could hear their footfalls as they ran and the\ncracking of the branches as they breasted across a bit of thicket.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "the branches as they",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
    "para": 3,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "I began to see we should have a brush for it in earnest and looked to my\npriming."
+   "text": "I began to see we should have a brush for it in earnest and looked to my\npriming.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "have a brush for",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
@@ -76,7 +90,19 @@
    "para": 5,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "They exchanged guns, and Trelawney, silent and cool as he had been since\nthe beginning of the bustle, hung a moment on his heel to see that all\nwas fit for service. At the same time, observing Gray to be unarmed, I\nhanded him my cutlass. It did all our hearts good to see him spit in his\nhand, knit his brows, and make the blade sing through the air. It was\nplain from every line of his body that our new hand was worth his salt."
+   "text": "They exchanged guns, and Trelawney, silent and cool as he had been since\nthe beginning of the bustle, hung a moment on his heel to see that all\nwas fit for service. At the same time, observing Gray to be unarmed, I\nhanded him my cutlass. It did all our hearts good to see him spit in his\nhand, knit his brows, and make the blade sing through the air. It was\nplain from every line of his body that our new hand was worth his salt.",
+   "sfx": [
+    {
+     "key": "birds_day_1",
+     "at": "our new hand was",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_3",
+     "at": "was fit for service.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 7,
@@ -89,6 +115,11 @@
      "key": "gull_far_3",
      "at": "the enclosure about the",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_8",
+     "at": "about the middle of",
+     "by": "place-players"
     }
    ]
   },
@@ -109,6 +140,11 @@
      "by": "place-birds",
      "at": "The four shots came in rather a scattering volley",
      "offset": 0.45
+    },
+    {
+     "key": "birds_day_5",
+     "at": "and I, but Hunter",
+     "by": "place-players"
     }
    ],
    "para": 7,
@@ -134,6 +170,11 @@
      "key": "crew_death",
      "at": "poor Tom Redruth stumbled and fell his length on the ground",
      "offset": 0.8
+    },
+    {
+     "key": "trees_1",
+     "at": "squire and I returned",
+     "by": "place-players"
     }
    ],
    "para": 9,
@@ -146,28 +187,56 @@
    "para": 10,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "The captain and Gray were already examining him, and I saw with half an\neye that all was over."
+   "text": "The captain and Gray were already examining him, and I saw with half an\neye that all was over.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "I saw with half",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
    "para": 11,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "I believe the readiness of our return volley had scattered the mutineers\nonce more, for we were suffered without further molestation to get the\npoor old gamekeeper hoisted over the stockade and carried, groaning and\nbleeding, into the log-house."
+   "text": "I believe the readiness of our return volley had scattered the mutineers\nonce more, for we were suffered without further molestation to get the\npoor old gamekeeper hoisted over the stockade and carried, groaning and\nbleeding, into the log-house.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "stockade and carried, groaning",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 13,
    "para": 12,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "Poor old fellow, he had not uttered one word of surprise, complaint,\nfear, or even acquiescence from the very beginning of our troubles till\nnow, when we had laid him down in the log-house to die. He had lain like\na Trojan behind his mattress in the gallery; he had followed every order\nsilently, doggedly, and well; he was the oldest of our party by a score\nof years; and now, sullen, old, serviceable servant, it was he that was\nto die."
+   "text": "Poor old fellow, he had not uttered one word of surprise, complaint,\nfear, or even acquiescence from the very beginning of our troubles till\nnow, when we had laid him down in the log-house to die. He had lain like\na Trojan behind his mattress in the gallery; he had followed every order\nsilently, doggedly, and well; he was the oldest of our party by a score\nof years; and now, sullen, old, serviceable servant, it was he that was\nto die.",
+   "sfx": [
+    {
+     "key": "birds_day_1",
+     "at": "mattress in the gallery;",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
    "para": 13,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "The squire dropped down beside him on his knees and kissed his hand,\ncrying like a child."
+   "text": "The squire dropped down beside him on his knees and kissed his hand,\ncrying like a child.",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "kissed his hand, crying",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 15,
@@ -229,6 +298,11 @@
      "key": "gull_far_3",
      "at": "after, without another word,",
      "by": "place-birds"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "And not long after,",
+     "by": "place-players"
     }
    ]
   },
@@ -237,7 +311,19 @@
    "para": 20,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "In the meantime the captain, whom I had observed to be wonderfully\nswollen about the chest and pockets, had turned out a great many various\nstores--the British colours, a Bible, a coil of stoutish rope, pen, ink,\nthe log-book, and pounds of tobacco. He had found a longish fir-tree\nlying felled and trimmed in the enclosure, and with the help of Hunter\nhe had set it up at the corner of the log-house where the trunks crossed\nand made an angle. Then, climbing on the roof, he had with his own hand\nbent and run up the colours."
+   "text": "In the meantime the captain, whom I had observed to be wonderfully\nswollen about the chest and pockets, had turned out a great many various\nstores--the British colours, a Bible, a coil of stoutish rope, pen, ink,\nthe log-book, and pounds of tobacco. He had found a longish fir-tree\nlying felled and trimmed in the enclosure, and with the help of Hunter\nhe had set it up at the corner of the log-house where the trunks crossed\nand made an angle. Then, climbing on the roof, he had with his own hand\nbent and run up the colours.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "the help of Hunter",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "lying felled and trimmed",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 24,
@@ -265,7 +351,14 @@
    "para": 22,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“All’s\nwell with him; no fear for a hand that’s been shot down in his duty to\ncaptain and owner. It mayn’t be good divinity, but it’s a fact.”"
+   "text": "“All’s\nwell with him; no fear for a hand that’s been shot down in his duty to\ncaptain and owner. It mayn’t be good divinity, but it’s a fact.”",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "captain and owner. It",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 28,
@@ -300,7 +393,19 @@
    "para": 25,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "I told him it was a question not of weeks but of months, that if we\nwere not back by the end of August Blandly was to send to find us, but\nneither sooner nor later. “You can calculate for yourself,” I said."
+   "text": "I told him it was a question not of weeks but of months, that if we\nwere not back by the end of August Blandly was to send to find us, but\nneither sooner nor later. “You can calculate for yourself,” I said.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "the end of August",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "to send to find",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 33,
@@ -365,6 +470,16 @@
      "key": "round_shot_sand",
      "at": "with a roar and a whistle, a round-shot passed high above the roof",
      "offset": -1.3
+    },
+    {
+     "key": "birds_day_4",
+     "at": "above the roof of",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_3",
+     "at": "whistle, a round-shot passed",
+     "by": "place-players"
     }
    ],
    "para": 30,
@@ -407,6 +522,11 @@
      "key": "round_shot_sand",
      "at": "the ball descended inside the stockade",
      "offset": -2.8
+    },
+    {
+     "key": "trees_5",
+     "at": "the stockade, scattering a",
+     "by": "place-players"
     }
    ],
    "para": 32,
@@ -461,7 +581,19 @@
    "para": 34,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "; and as soon\nas he had said the words, I think we all agreed with him. For it was\nnot only a piece of stout, seamanly, good feeling; it was good policy\nbesides and showed our enemies that we despised their cannonade."
+   "text": "; and as soon\nas he had said the words, I think we all agreed with him. For it was\nnot only a piece of stout, seamanly, good feeling; it was good policy\nbesides and showed our enemies that we despised their cannonade.",
+   "sfx": [
+    {
+     "key": "birds_day_1",
+     "at": "For it was not",
+     "by": "place-players"
+    },
+    {
+     "key": "bird_cry_1",
+     "at": "we all agreed with",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 53,
@@ -469,6 +601,16 @@
     {
      "key": "cannonade",
      "at": "All through the evening they kept thundering away"
+    },
+    {
+     "key": "trees_5",
+     "at": "fire so high that",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "of horse-play and minded",
+     "by": "place-players"
     }
    ],
    "para": 35,
@@ -502,7 +644,19 @@
    "para": 37,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "Gray and Hunter were the first to come forward. Well armed, they stole\nout of the stockade, but it proved a useless mission. The mutineers were\nbolder than we fancied or they put more trust in Israel’s gunnery. For\nfour or five of them were busy carrying off our stores and wading out\nwith them to one of the gigs that lay close by, pulling an oar or so to\nhold her steady against the current. Silver was in the stern-sheets in\ncommand; and every man of them was now provided with a musket from some\nsecret magazine of their own."
+   "text": "Gray and Hunter were the first to come forward. Well armed, they stole\nout of the stockade, but it proved a useless mission. The mutineers were\nbolder than we fancied or they put more trust in Israel’s gunnery. For\nfour or five of them were busy carrying off our stores and wading out\nwith them to one of the gigs that lay close by, pulling an oar or so to\nhold her steady against the current. Silver was in the stern-sheets in\ncommand; and every man of them was now provided with a musket from some\nsecret magazine of their own.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "was in the stern-sheets",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "Israel’s gunnery. For four",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 58,
@@ -516,7 +670,19 @@
    "para": 39,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "Alexander Smollett, master; David Livesey, ship’s\n     doctor; Abraham Gray, carpenter’s mate; John\n     Trelawney, owner; John Hunter and Richard Joyce,\n     owner’s servants, landsmen--being all that is left\n     faithful of the ship’s company--with stores for ten\n     days at short rations, came ashore this day and flew\n     British colours on the log-house in Treasure Island.\n     Thomas Redruth, owner’s servant, landsman, shot by the\n     mutineers; James Hawkins, cabin-boy--"
+   "text": "Alexander Smollett, master; David Livesey, ship’s\n     doctor; Abraham Gray, carpenter’s mate; John\n     Trelawney, owner; John Hunter and Richard Joyce,\n     owner’s servants, landsmen--being all that is left\n     faithful of the ship’s company--with stores for ten\n     days at short rations, came ashore this day and flew\n     British colours on the log-house in Treasure Island.\n     Thomas Redruth, owner’s servant, landsman, shot by the\n     mutineers; James Hawkins, cabin-boy--",
+   "sfx": [
+    {
+     "key": "birds_day_6",
+     "at": "ashore this day and",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "stores for ten days",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 60,
@@ -565,7 +731,14 @@
    "para": 44,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "And I ran to the door in time to see Jim Hawkins, safe and sound, come\nclimbing over the stockade."
+   "text": "And I ran to the door in time to see Jim Hawkins, safe and sound, come\nclimbing over the stockade.",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "Hawkins, safe and sound,",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

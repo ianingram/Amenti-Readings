@@ -51,7 +51,14 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "We rode hard all the way till we drew up before Dr. Livesey’s door. The\nhouse was all dark to the front."
+   "text": "We rode hard all the way till we drew up before Dr. Livesey’s door. The\nhouse was all dark to the front.",
+   "sfx": [
+    {
+     "key": "horses_arrive",
+     "at": "drew up before",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
@@ -59,6 +66,11 @@
     {
      "key": "stick_rap",
      "at": "Mr. Dance told me to jump down and knock"
+    },
+    {
+     "key": "wave_5",
+     "at": "at once by the",
+     "by": "place-players"
     }
    ],
    "para": 3,
@@ -95,9 +107,14 @@
    "text": "This time, as the distance was short, I did not mount, but ran with\nDogger’s stirrup-leather to the lodge gates and up the long, leafless,\nmoonlit avenue to where the white line of the hall buildings looked on\neither hand on great old gardens. Here Mr. Dance dismounted, and taking\nme along with him, was admitted at a word into the house.",
    "sfx": [
     {
-     "key": "gull_pair_1",
-     "at": "on either hand on",
-     "by": "place-birds"
+     "key": "wave_1",
+     "at": "stirrup-leather to the lodge",
+     "by": "place-players"
+    },
+    {
+     "key": "trees_5",
+     "at": "buildings looked on either",
+     "by": "place-players"
     }
    ]
   },
@@ -114,7 +131,14 @@
    "para": 9,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I had never seen the squire so near at hand. He was a tall man, over six\nfeet high, and broad in proportion, and he had a bluff, rough-and-ready\nface, all roughened and reddened and lined in his long travels. His\neyebrows were very black, and moved readily, and this gave him a look of\nsome temper, not bad, you would say, but quick and high."
+   "text": "I had never seen the squire so near at hand. He was a tall man, over six\nfeet high, and broad in proportion, and he had a bluff, rough-and-ready\nface, all roughened and reddened and lined in his long travels. His\neyebrows were very black, and moved readily, and this gave him a look of\nsome temper, not bad, you would say, but quick and high.",
+   "sfx": [
+    {
+     "key": "wave_5",
+     "at": "broad in proportion, and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 11,
@@ -156,14 +180,7 @@
    "para": 12,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The supervisor stood up straight and stiff and told his story like a\nlesson; and you should have seen how the two gentlemen leaned forward\nand looked at each other, and forgot to smoke in their surprise and\ninterest. When they heard how my mother went back to the inn, Dr.\nLivesey fairly slapped his thigh, and the squire cried",
-   "sfx": [
-    {
-     "key": "gull_laugh_2",
-     "at": "slapped his thigh, and",
-     "by": "place-birds"
-    }
-   ]
+   "text": "The supervisor stood up straight and stiff and told his story like a\nlesson; and you should have seen how the two gentlemen leaned forward\nand looked at each other, and forgot to smoke in their surprise and\ninterest. When they heard how my mother went back to the inn, Dr.\nLivesey fairly slapped his thigh, and the squire cried"
   },
   {
    "n": 17,
@@ -177,7 +194,14 @@
    "para": 12,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "and\nbroke his long pipe against the grate. Long before it was done, Mr.\nTrelawney (that, you will remember, was the squire’s name) had got up\nfrom his seat and was striding about the room, and the doctor, as if to\nhear the better, had taken off his powdered wig and sat there looking\nvery strange indeed with his own close-cropped black poll."
+   "text": "and\nbroke his long pipe against the grate. Long before it was done, Mr.\nTrelawney (that, you will remember, was the squire’s name) had got up\nfrom his seat and was striding about the room, and the doctor, as if to\nhear the better, had taken off his powdered wig and sat there looking\nvery strange indeed with his own close-cropped black poll.",
+   "sfx": [
+    {
+     "key": "wave_8",
+     "at": "powdered wig and sat",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 19,
@@ -205,7 +229,14 @@
    "para": 14,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“you are a very noble fellow. And as for\nriding down that black, atrocious miscreant, I regard it as an act of\nvirtue, sir, like stamping on a cockroach. This lad Hawkins is a trump,\nI perceive. Hawkins, will you ring that bell? Mr. Dance must have some\nale.”"
+   "text": "“you are a very noble fellow. And as for\nriding down that black, atrocious miscreant, I regard it as an act of\nvirtue, sir, like stamping on a cockroach. This lad Hawkins is a trump,\nI perceive. Hawkins, will you ring that bell? Mr. Dance must have some\nale.”",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "lad Hawkins is a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 23,
@@ -240,7 +271,14 @@
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The doctor looked it all over, as if his fingers were itching to open\nit; but instead of doing that, he put it quietly in the pocket of his\ncoat."
+   "text": "The doctor looked it all over, as if his fingers were itching to open\nit; but instead of doing that, he put it quietly in the pocket of his\ncoat.",
+   "sfx": [
+    {
+     "key": "wave_2",
+     "at": "pocket of his coat.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 28,
@@ -261,14 +299,7 @@
    "para": 18,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“when Dance has had his ale he must, of course, be\noff on his Majesty’s service; but I mean to keep Jim Hawkins here to\nsleep at my house, and with your permission, I propose we should have up\nthe cold pie and let him sup.”",
-   "sfx": [
-    {
-     "key": "gull_far_1",
-     "at": "sleep at my house,",
-     "by": "place-birds"
-    }
-   ]
+   "text": "“when Dance has had his ale he must, of course, be\noff on his Majesty’s service; but I mean to keep Jim Hawkins here to\nsleep at my house, and with your permission, I propose we should have up\nthe cold pie and let him sup.”"
   },
   {
    "n": 31,
@@ -331,7 +362,14 @@
    "para": 23,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“One at a time, one at a time,”"
+   "text": "“One at a time, one at a time,”",
+   "sfx": [
+    {
+     "key": "wave_2",
+     "at": "time, one at a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 40,
@@ -345,7 +383,14 @@
    "para": 23,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“You have heard of\nthis Flint, I suppose?”"
+   "text": "“You have heard of\nthis Flint, I suppose?”",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "heard of this Flint,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 42,
@@ -366,7 +411,14 @@
    "para": 24,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“Heard of him, you say! He was the\nbloodthirstiest buccaneer that sailed. Blackbeard was a child to Flint.\nThe Spaniards were so prodigiously afraid of him that, I tell you, sir,\nI was sometimes proud he was an Englishman. I’ve seen his top-sails with\nthese eyes, off Trinidad, and the cowardly son of a rum-puncheon that I\nsailed with put back--put back, sir, into Port of Spain.”"
+   "text": "“Heard of him, you say! He was the\nbloodthirstiest buccaneer that sailed. Blackbeard was a child to Flint.\nThe Spaniards were so prodigiously afraid of him that, I tell you, sir,\nI was sometimes proud he was an Englishman. I’ve seen his top-sails with\nthese eyes, off Trinidad, and the cowardly son of a rum-puncheon that I\nsailed with put back--put back, sir, into Port of Spain.”",
+   "sfx": [
+    {
+     "key": "wave_2",
+     "at": "I was sometimes proud",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 45,
@@ -408,14 +460,7 @@
    "para": 26,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“Have you heard the story? What were these\nvillains after but money? What do they care for but money? For what\nwould they risk their rascal carcasses but money?”",
-   "sfx": [
-    {
-     "key": "gull_far_3",
-     "at": "For what would they",
-     "by": "place-birds"
-    }
-   ]
+   "text": "“Have you heard the story? What were these\nvillains after but money? What do they care for but money? For what\nwould they risk their rascal carcasses but money?”"
   },
   {
    "n": 51,
@@ -436,7 +481,14 @@
    "para": 27,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“But you are so\nconfoundedly hot-headed and exclamatory that I cannot get a word in.\nWhat I want to know is this: Supposing that I have here in my pocket\nsome clue to where Flint buried his treasure, will that treasure amount\nto much?”"
+   "text": "“But you are so\nconfoundedly hot-headed and exclamatory that I cannot get a word in.\nWhat I want to know is this: Supposing that I have here in my pocket\nsome clue to where Flint buried his treasure, will that treasure amount\nto much?”",
+   "sfx": [
+    {
+     "key": "wave_9",
+     "at": "a word in. What",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 54,
@@ -457,7 +509,14 @@
    "para": 28,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“It will amount to this: If we have the\nclue you talk about, I fit out a ship in Bristol dock, and take you and\nHawkins here along, and I’ll have that treasure if I search a year.”"
+   "text": "“It will amount to this: If we have the\nclue you talk about, I fit out a ship in Bristol dock, and take you and\nHawkins here along, and I’ll have that treasure if I search a year.”",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "and take you and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 57,
@@ -501,9 +560,9 @@
    "text": "The bundle was sewn together, and the doctor had to get out his\ninstrument case and cut the stitches with his medical scissors. It\ncontained two things--a book and a sealed paper.",
    "sfx": [
     {
-     "key": "gull_far_3",
+     "key": "wave_9",
      "at": "with his medical scissors.",
-     "by": "place-birds"
+     "by": "place-players"
     }
    ]
   },
@@ -526,7 +585,14 @@
    "para": 32,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The squire and I were both peering over his shoulder as he opened\nit, for Dr. Livesey had kindly motioned me to come round from the\nside-table, where I had been eating, to enjoy the sport of the search.\nOn the first page there were only some scraps of writing, such as a man\nwith a pen in his hand might make for idleness or practice. One was the\nsame as the tattoo mark, “Billy Bones his fancy”; then there was “Mr. W.\nBones, mate,” “No more rum,” “Off Palm Key he got itt,” and some other\nsnatches, mostly single words and unintelligible. I could not help\nwondering who it was that had “got itt,” and what “itt” was that he got.\nA knife in his back as like as not."
+   "text": "The squire and I were both peering over his shoulder as he opened\nit, for Dr. Livesey had kindly motioned me to come round from the\nside-table, where I had been eating, to enjoy the sport of the search.\nOn the first page there were only some scraps of writing, such as a man\nwith a pen in his hand might make for idleness or practice. One was the\nsame as the tattoo mark, “Billy Bones his fancy”; then there was “Mr. W.\nBones, mate,” “No more rum,” “Off Palm Key he got itt,” and some other\nsnatches, mostly single words and unintelligible. I could not help\nwondering who it was that had “got itt,” and what “itt” was that he got.\nA knife in his back as like as not.",
+   "sfx": [
+    {
+     "key": "wave_6",
+     "at": "the sport of the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 65,
@@ -550,9 +616,14 @@
    "text": "The next ten or twelve pages were filled with a curious series of\nentries. There was a date at one end of the line and at the other a\nsum of money, as in common account-books, but instead of explanatory\nwriting, only a varying number of crosses between the two. On the 12th\nof June, 1745, for instance, a sum of seventy pounds had plainly become\ndue to someone, and there was nothing but six crosses to explain the\ncause. In a few cases, to be sure, the name of a place would be added,\nas “Offe Caraccas,” or a mere entry of latitude and longitude, as “62o\n17′ 20″, 19o 2′ 40″.”",
    "sfx": [
     {
-     "key": "gull_far_1",
-     "at": "cause. In a few",
-     "by": "place-birds"
+     "key": "wave_8",
+     "at": "and longitude, as “62o",
+     "by": "place-players"
+    },
+    {
+     "key": "trees_7",
+     "at": "sum of seventy pounds",
+     "by": "place-players"
     }
    ]
   },
@@ -596,7 +667,14 @@
    "para": 37,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“This is the\nblack-hearted hound’s account-book. These crosses stand for the names of\nships or towns that they sank or plundered. The sums are the scoundrel’s\nshare, and where he feared an ambiguity, you see he added something\nclearer. ‘Offe Caraccas,’ now; you see, here was some unhappy vessel\nboarded off that coast. God help the poor souls that manned her--coral\nlong ago.”"
+   "text": "“This is the\nblack-hearted hound’s account-book. These crosses stand for the names of\nships or towns that they sank or plundered. The sums are the scoundrel’s\nshare, and where he feared an ambiguity, you see he added something\nclearer. ‘Offe Caraccas,’ now; you see, here was some unhappy vessel\nboarded off that coast. God help the poor souls that manned her--coral\nlong ago.”",
+   "sfx": [
+    {
+     "key": "wave_7",
+     "at": "God help the poor",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 74,
@@ -617,21 +695,21 @@
    "para": 38,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“See what it is to be a traveller. Right! And\nthe amounts increase, you see, as he rose in rank.”",
-   "sfx": [
-    {
-     "key": "gull_far_3",
-     "at": "increase, you see, as",
-     "by": "place-birds"
-    }
-   ]
+   "text": "“See what it is to be a traveller. Right! And\nthe amounts increase, you see, as he rose in rank.”"
   },
   {
    "n": 77,
    "para": 39,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "There was little else in the volume but a few bearings of places noted\nin the blank leaves towards the end and a table for reducing French,\nEnglish, and Spanish moneys to a common value."
+   "text": "There was little else in the volume but a few bearings of places noted\nin the blank leaves towards the end and a table for reducing French,\nEnglish, and Spanish moneys to a common value.",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "end and a table",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 78,
@@ -683,9 +761,14 @@
    "text": "The paper had been sealed in several places with a thimble by way of\nseal; the very thimble, perhaps, that I had found in the captain’s\npocket. The doctor opened the seals with great care, and there fell out\nthe map of an island, with latitude and longitude, soundings, names of\nhills and bays and inlets, and every particular that would be needed\nto bring a ship to a safe anchorage upon its shores. It was about nine\nmiles long and five across, shaped, you might say, like a fat dragon\nstanding up, and had two fine land-locked harbours, and a hill in the\ncentre part marked “The Spy-glass.” There were several additions of a\nlater date, but above all, three crosses of red ink--two on the north\npart of the island, one in the southwest--and beside this last, in\nthe same red ink, and in a small, neat hand, very different from the\ncaptain’s tottery characters, these words: “Bulk of treasure here.”",
    "sfx": [
     {
-     "key": "gull_far_3",
-     "at": "that would be needed",
-     "by": "place-birds"
+     "key": "map_unfold",
+     "at": "the map of an island",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_1",
+     "at": "words: “Bulk of treasure",
+     "by": "place-players"
     }
    ]
   },
@@ -694,7 +777,14 @@
    "para": 43,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Over on the back the same hand had written this further information:"
+   "text": "Over on the back the same hand had written this further information:",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "had written this further",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 86,
@@ -736,7 +826,14 @@
    "para": 49,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "That was all; but brief as it was, and to me incomprehensible, it filled\nthe squire and Dr. Livesey with delight."
+   "text": "That was all; but brief as it was, and to me incomprehensible, it filled\nthe squire and Dr. Livesey with delight.",
+   "sfx": [
+    {
+     "key": "wave_1",
+     "at": "Dr. Livesey with delight.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 92,
@@ -760,9 +857,9 @@
    "text": "“you will give up this wretched practice\nat once. Tomorrow I start for Bristol. In three weeks’ time--three\nweeks!--two weeks--ten days--we’ll have the best ship, sir, and the\nchoicest crew in England. Hawkins shall come as cabin-boy. You’ll make\na famous cabin-boy, Hawkins. You, Livesey, are ship’s doctor; I am\nadmiral. We’ll take Redruth, Joyce, and Hunter. We’ll have favourable\nwinds, a quick passage, and not the least difficulty in finding the\nspot, and money to eat, to roll in, to play duck and drake with ever\nafter.”",
    "sfx": [
     {
-     "key": "gull_pair_2",
-     "at": "in, to play duck",
-     "by": "place-birds"
+     "key": "wave_1",
+     "at": "eat, to roll in,",
+     "by": "place-players"
     }
    ]
   },
@@ -785,7 +882,14 @@
    "para": 51,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“I’ll go with you; and I’ll go bail for\nit, so will Jim, and be a credit to the undertaking. There’s only one\nman I’m afraid of.”"
+   "text": "“I’ll go with you; and I’ll go bail for\nit, so will Jim, and be a credit to the undertaking. There’s only one\nman I’m afraid of.”",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "go bail for it,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 98,
@@ -827,7 +931,14 @@
    "para": 53,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“for you cannot hold your tongue. We are not\nthe only men who know of this paper. These fellows who attacked the\ninn tonight--bold, desperate blades, for sure--and the rest who stayed\naboard that lugger, and more, I dare say, not far off, are, one and all,\nthrough thick and thin, bound that they’ll get that money. We must none\nof us go alone till we get to sea. Jim and I shall stick together in the\nmeanwhile; you’ll take Joyce and Hunter when you ride to Bristol, and\nfrom first to last, not one of us must breathe a word of what we’ve\nfound.”"
+   "text": "“for you cannot hold your tongue. We are not\nthe only men who know of this paper. These fellows who attacked the\ninn tonight--bold, desperate blades, for sure--and the rest who stayed\naboard that lugger, and more, I dare say, not far off, are, one and all,\nthrough thick and thin, bound that they’ll get that money. We must none\nof us go alone till we get to sea. Jim and I shall stick together in the\nmeanwhile; you’ll take Joyce and Hunter when you ride to Bristol, and\nfrom first to last, not one of us must breathe a word of what we’ve\nfound.”",
+   "sfx": [
+    {
+     "key": "wave_9",
+     "at": "till we get to",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 104,

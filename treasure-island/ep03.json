@@ -72,7 +72,14 @@
    "para": 3,
    "role": "Billy Bones",
    "cast": "Ernest Shackleton",
-   "text": "“you’re the only one here that’s worth anything, and you\nknow I’ve been always good to you. Never a month but I’ve given you a\nsilver fourpenny for yourself. And now you see, mate, I’m pretty low,\nand deserted by all; and Jim, you’ll bring me one noggin of rum, now,\nwon’t you, matey?”"
+   "text": "“you’re the only one here that’s worth anything, and you\nknow I’ve been always good to you. Never a month but I’ve given you a\nsilver fourpenny for yourself. And now you see, mate, I’m pretty low,\nand deserted by all; and Jim, you’ll bring me one noggin of rum, now,\nwon’t you, matey?”",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "good to you. Never",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 7,
@@ -142,7 +149,14 @@
    "para": 6,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "He was growing more and more excited, and this alarmed me for my father,\nwho was very low that day and needed quiet; besides, I was reassured by\nthe doctor’s words, now quoted to me, and rather offended by the offer\nof a bribe."
+   "text": "He was growing more and more excited, and this alarmed me for my father,\nwho was very low that day and needed quiet; besides, I was reassured by\nthe doctor’s words, now quoted to me, and rather offended by the offer\nof a bribe.",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "now quoted to me,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 17,
@@ -289,7 +303,14 @@
    "para": 17,
    "role": "Billy Bones",
    "cast": "Ernest Shackleton",
-   "text": "“_He’s_ a bad ’un; but there’s worse that put him\non. Now, if I can’t get away nohow, and they tip me the black spot, mind\nyou, it’s my old sea-chest they’re after; you get on a horse--you can,\ncan’t you? Well, then, you get on a horse, and go to--well, yes,\nI will!--to that eternal doctor swab, and tell him to pipe all\nhands--magistrates and sich--and he’ll lay ’em aboard at the Admiral\nBenbow--all old Flint’s crew, man and boy, all on ’em that’s left. I was\nfirst mate, I was, old Flint’s first mate, and I’m the on’y one as knows\nthe place. He gave it me at Savannah, when he lay a-dying, like as if I\nwas to now, you see. But you won’t peach unless they get the black spot\non me, or unless you see that Black Dog again or a seafaring man with\none leg, Jim--him above all.”"
+   "text": "“_He’s_ a bad ’un; but there’s worse that put him\non. Now, if I can’t get away nohow, and they tip me the black spot, mind\nyou, it’s my old sea-chest they’re after; you get on a horse--you can,\ncan’t you? Well, then, you get on a horse, and go to--well, yes,\nI will!--to that eternal doctor swab, and tell him to pipe all\nhands--magistrates and sich--and he’ll lay ’em aboard at the Admiral\nBenbow--all old Flint’s crew, man and boy, all on ’em that’s left. I was\nfirst mate, I was, old Flint’s first mate, and I’m the on’y one as knows\nthe place. He gave it me at Savannah, when he lay a-dying, like as if I\nwas to now, you see. But you won’t peach unless they get the black spot\non me, or unless you see that Black Dog again or a seafaring man with\none leg, Jim--him above all.”",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "tell him to pipe",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 38,
@@ -331,7 +352,14 @@
    "para": 21,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "He got downstairs next morning, to be sure, and had his meals as usual,\nthough he ate little and had more, I am afraid, than his usual supply of\nrum, for he helped himself out of the bar, scowling and blowing through\nhis nose, and no one dared to cross him. On the night before the funeral\nhe was as drunk as ever; and it was shocking, in that house of mourning,\nto hear him singing away at his ugly old sea-song; but weak as he was,\nwe were all in the fear of death for him, and the doctor was suddenly\ntaken up with a case many miles away and was never near the house after\nmy father’s death. I have said the captain was weak, and indeed he\nseemed rather to grow weaker than regain his strength. He clambered up\nand down stairs, and went from the parlour to the bar and back again,\nand sometimes put his nose out of doors to smell the sea, holding on to\nthe walls as he went for support and breathing hard and fast like a man\non a steep mountain. He never particularly addressed me, and it is my\nbelief he had as good as forgotten his confidences; but his temper was\nmore flighty, and allowing for his bodily weakness, more violent than\never. He had an alarming way now when he was drunk of drawing his\ncutlass and laying it bare before him on the table. But with all that,\nhe minded people less and seemed shut up in his own thoughts and rather\nwandering. Once, for instance, to our extreme wonder, he piped up to a\ndifferent air, a kind of country love-song that he must have learned in\nhis youth before he had begun to follow the sea."
+   "text": "He got downstairs next morning, to be sure, and had his meals as usual,\nthough he ate little and had more, I am afraid, than his usual supply of\nrum, for he helped himself out of the bar, scowling and blowing through\nhis nose, and no one dared to cross him. On the night before the funeral\nhe was as drunk as ever; and it was shocking, in that house of mourning,\nto hear him singing away at his ugly old sea-song; but weak as he was,\nwe were all in the fear of death for him, and the doctor was suddenly\ntaken up with a case many miles away and was never near the house after\nmy father’s death. I have said the captain was weak, and indeed he\nseemed rather to grow weaker than regain his strength. He clambered up\nand down stairs, and went from the parlour to the bar and back again,\nand sometimes put his nose out of doors to smell the sea, holding on to\nthe walls as he went for support and breathing hard and fast like a man\non a steep mountain. He never particularly addressed me, and it is my\nbelief he had as good as forgotten his confidences; but his temper was\nmore flighty, and allowing for his bodily weakness, more violent than\never. He had an alarming way now when he was drunk of drawing his\ncutlass and laying it bare before him on the table. But with all that,\nhe minded people less and seemed shut up in his own thoughts and rather\nwandering. Once, for instance, to our extreme wonder, he piped up to a\ndifferent air, a kind of country love-song that he must have learned in\nhis youth before he had begun to follow the sea.",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "to grow weaker than",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 44,
@@ -469,7 +497,14 @@
    "para": 31,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "interrupted he; and I never heard a voice so cruel,\nand cold, and ugly as that blind man’s. It cowed me more than the pain,\nand I began to obey him at once, walking straight in at the door and\ntowards the parlour, where our sick old buccaneer was sitting, dazed\nwith rum. The blind man clung close to me, holding me in one iron fist\nand leaning almost more of his weight on me than I could carry."
+   "text": "interrupted he; and I never heard a voice so cruel,\nand cold, and ugly as that blind man’s. It cowed me more than the pain,\nand I began to obey him at once, walking straight in at the door and\ntowards the parlour, where our sick old buccaneer was sitting, dazed\nwith rum. The blind man clung close to me, holding me in one iron fist\nand leaning almost more of his weight on me than I could carry.",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "almost more of his",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 62,
@@ -533,6 +568,11 @@
     {
      "key": "stick_taps",
      "at": "tap-tap-tapping into the distance"
+    },
+    {
+     "key": "creak_6",
+     "at": "and with incredible accuracy",
+     "by": "place-players"
     }
    ],
    "para": 35,

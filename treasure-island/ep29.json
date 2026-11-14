@@ -55,7 +55,14 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The council of buccaneers had lasted some time, when one of them\nre-entered the house, and with a repetition of the same salute, which\nhad in my eyes an ironical air, begged for a moment’s loan of the torch.\nSilver briefly agreed, and this emissary retired again, leaving us\ntogether in the dark."
+   "text": "The council of buccaneers had lasted some time, when one of them\nre-entered the house, and with a repetition of the same salute, which\nhad in my eyes an ironical air, begged for a moment’s loan of the torch.\nSilver briefly agreed, and this emissary retired again, leaving us\ntogether in the dark.",
+   "sfx": [
+    {
+     "key": "birds_night_2",
+     "at": "retired again, leaving us",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
@@ -69,14 +76,33 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "said Silver, who had by this time\nadopted quite a friendly and familiar tone."
+   "text": "said Silver, who had by this time\nadopted quite a friendly and familiar tone.",
+   "sfx": [
+    {
+     "key": "insects_night_3",
+     "at": "had by this time",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 6,
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I turned to the loophole nearest me and looked out. The embers of the\ngreat fire had so far burned themselves out and now glowed so low and\nduskily that I understood why these conspirators desired a torch. About\nhalf-way down the slope to the stockade, they were collected in a group;\none held the light, another was on his knees in their midst, and I saw\nthe blade of an open knife shine in his hand with varying colours in\nthe moon and torchlight. The rest were all somewhat stooping, as though\nwatching the manoeuvres of this last. I could just make out that he\nhad a book as well as a knife in his hand, and was still wondering how\nanything so incongruous had come in their possession when the kneeling\nfigure rose once more to his feet and the whole party began to move\ntogether towards the house."
+   "text": "I turned to the loophole nearest me and looked out. The embers of the\ngreat fire had so far burned themselves out and now glowed so low and\nduskily that I understood why these conspirators desired a torch. About\nhalf-way down the slope to the stockade, they were collected in a group;\none held the light, another was on his knees in their midst, and I saw\nthe blade of an open knife shine in his hand with varying colours in\nthe moon and torchlight. The rest were all somewhat stooping, as though\nwatching the manoeuvres of this last. I could just make out that he\nhad a book as well as a knife in his hand, and was still wondering how\nanything so incongruous had come in their possession when the kneeling\nfigure rose once more to his feet and the whole party began to move\ntogether towards the house.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "as well as a",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_dusk_2",
+     "at": "the moon and torchlight.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 7,
@@ -118,7 +144,14 @@
    "para": 7,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The door opened, and the five men, standing huddled together just\ninside, pushed one of their number forward. In any other circumstances\nit would have been comical to see his slow advance, hesitating as he set\ndown each foot, but holding his closed right hand in front of him."
+   "text": "The door opened, and the five men, standing huddled together just\ninside, pushed one of their number forward. In any other circumstances\nit would have been comical to see his slow advance, hesitating as he set\ndown each foot, but holding his closed right hand in front of him.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "one of their number",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -139,7 +172,14 @@
    "para": 8,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“I won’t eat you. Hand it over, lubber. I\nknow the rules, I do; I won’t hurt a depytation.”"
+   "text": "“I won’t eat you. Hand it over, lubber. I\nknow the rules, I do; I won’t hurt a depytation.”",
+   "sfx": [
+    {
+     "key": "birds_dusk_2",
+     "at": "Hand it over, lubber.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 15,
@@ -202,7 +242,14 @@
    "para": 13,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“You’ll\nall swing now, I reckon. What soft-headed lubber had a Bible?”"
+   "text": "“You’ll\nall swing now, I reckon. What soft-headed lubber had a Bible?”",
+   "sfx": [
+    {
+     "key": "birds_night_1",
+     "at": "What soft-headed lubber had",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 24,
@@ -216,7 +263,19 @@
    "para": 15,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Dick, was it? Then Dick can get to prayers,”"
+   "text": "“Dick, was it? Then Dick can get to prayers,”",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "it? Then Dick can",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_night_3",
+     "at": "Then Dick can get",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 26,
@@ -265,28 +324,40 @@
    "para": 18,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“You always was brisk for\nbusiness, and has the rules by heart, George, as I’m pleased to see.\nWell, what is it, anyway? Ah! ‘Deposed’--that’s it, is it? Very pretty\nwrote, to be sure; like print, I swear. Your hand o’ write, George? Why,\nyou was gettin’ quite a leadin’ man in this here crew. You’ll be cap’n\nnext, I shouldn’t wonder. Just oblige me with that torch again, will\nyou? This pipe don’t draw.”"
+   "text": "“You always was brisk for\nbusiness, and has the rules by heart, George, as I’m pleased to see.\nWell, what is it, anyway? Ah! ‘Deposed’--that’s it, is it? Very pretty\nwrote, to be sure; like print, I swear. Your hand o’ write, George? Why,\nyou was gettin’ quite a leadin’ man in this here crew. You’ll be cap’n\nnext, I shouldn’t wonder. Just oblige me with that torch again, will\nyou? This pipe don’t draw.”",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "print, I swear. Your",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_night_5",
+     "at": "swear. Your hand o’",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 33,
    "para": 19,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Come, now,” said George, “you don’t fool this crew no more. You’re a\nfunny man, by your account; but you’re over now, and you’ll maybe step\ndown off that barrel and help vote.”"
+   "text": "“Come, now,” said George, “you don’t fool this crew no more. You’re a\nfunny man, by your account; but you’re over now, and you’ll maybe step\ndown off that barrel and help vote.”",
+   "sfx": [
+    {
+     "key": "insects_night_2",
+     "at": "barrel and help vote.”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 34,
    "para": 20,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“I thought you said you knowed the rules,”",
-   "sfx": [
-    {
-     "key": "gull_far_1",
-     "at": "you said you knowed",
-     "by": "place-birds"
-    }
-   ]
+   "text": "“I thought you said you knowed the rules,”"
   },
   {
    "n": 35,
@@ -307,7 +378,19 @@
    "para": 21,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Oh,” replied George, “you don’t be under no kind of apprehension; WE’RE\nall square, we are. First, you’ve made a hash of this cruise--you’ll be\na bold man to say no to that. Second, you let the enemy out o’ this here\ntrap for nothing. Why did they want out? I dunno, but it’s pretty plain\nthey wanted it. Third, you wouldn’t let us go at them upon the march.\nOh, we see through you, John Silver; you want to play booty, that’s\nwhat’s wrong with you. And then, fourth, there’s this here boy.”"
+   "text": "“Oh,” replied George, “you don’t be under no kind of apprehension; WE’RE\nall square, we are. First, you’ve made a hash of this cruise--you’ll be\na bold man to say no to that. Second, you let the enemy out o’ this here\ntrap for nothing. Why did they want out? I dunno, but it’s pretty plain\nthey wanted it. Third, you wouldn’t let us go at them upon the march.\nOh, we see through you, John Silver; you want to play booty, that’s\nwhat’s wrong with you. And then, fourth, there’s this here boy.”",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "you, John Silver; you",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_night_5",
+     "at": "we see through you,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 38,
@@ -335,14 +418,33 @@
    "para": 24,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Well now, look here, I’ll answer these four p’ints; one after another\nI’ll answer ’em. I made a hash o’ this cruise, did I? Well now, you all\nknow what I wanted, and you all know if that had been done that we’d\n’a been aboard the HISPANIOLA this night as ever was, every man of us\nalive, and fit, and full of good plum-duff, and the treasure in the hold\nof her, by thunder! Well, who crossed me? Who forced my hand, as was the\nlawful cap’n? Who tipped me the black spot the day we landed and began\nthis dance? Ah, it’s a fine dance--I’m with you there--and looks mighty\nlike a hornpipe in a rope’s end at Execution Dock by London town, it\ndoes. But who done it? Why, it was Anderson, and Hands, and you, George\nMerry! And you’re the last above board of that same meddling crew;\nand you have the Davy Jones’s insolence to up and stand for cap’n over\nme--you, that sank the lot of us! By the powers! But this tops the\nstiffest yarn to nothing.”"
+   "text": "“Well now, look here, I’ll answer these four p’ints; one after another\nI’ll answer ’em. I made a hash o’ this cruise, did I? Well now, you all\nknow what I wanted, and you all know if that had been done that we’d\n’a been aboard the HISPANIOLA this night as ever was, every man of us\nalive, and fit, and full of good plum-duff, and the treasure in the hold\nof her, by thunder! Well, who crossed me? Who forced my hand, as was the\nlawful cap’n? Who tipped me the black spot the day we landed and began\nthis dance? Ah, it’s a fine dance--I’m with you there--and looks mighty\nlike a hornpipe in a rope’s end at Execution Dock by London town, it\ndoes. But who done it? Why, it was Anderson, and Hands, and you, George\nMerry! And you’re the last above board of that same meddling crew;\nand you have the Davy Jones’s insolence to up and stand for cap’n over\nme--you, that sank the lot of us! By the powers! But this tops the\nstiffest yarn to nothing.”",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "thunder! Well, who crossed",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_night_2",
+     "at": "fit, and full of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 42,
    "para": 25,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Silver paused, and I could see by the faces of George and his late\ncomrades that these words had not been said in vain."
+   "text": "Silver paused, and I could see by the faces of George and his late\ncomrades that these words had not been said in vain.",
+   "sfx": [
+    {
+     "key": "insects_night_1",
+     "at": "his late comrades that",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 43,
@@ -366,9 +468,9 @@
    "text": "“Why, I give you my word, I’m sick to speak to you. You’ve neither sense\nnor memory, and I leave it to fancy where your mothers was that let you\ncome to sea. Sea! Gentlemen o’ fortune! I reckon tailors is your trade.”",
    "sfx": [
     {
-     "key": "gull_far_2",
-     "at": "memory, and I leave",
-     "by": "place-birds"
+     "key": "birds_night_4",
+     "at": "mothers was that let",
+     "by": "place-players"
     }
    ]
   },
@@ -398,14 +500,38 @@
    "para": 28,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“They’re a nice lot, ain’t they? You\nsay this cruise is bungled. Ah! By gum, if you could understand how bad\nit’s bungled, you would see! We’re that near the gibbet that my neck’s\nstiff with thinking on it. You’ve seen ’em, maybe, hanged in chains,\nbirds about ’em, seamen p’inting ’em out as they go down with the tide.\n‘Who’s that?’ says one. ‘That! Why, that’s John Silver. I knowed him\nwell,’ says another. And you can hear the chains a-jangle as you go\nabout and reach for the other buoy. Now, that’s about where we are,\nevery mother’s son of us, thanks to him, and Hands, and Anderson, and\nother ruination fools of you. And if you want to know about number four,\nand that boy, why, shiver my timbers, isn’t he a hostage? Are we a-going\nto waste a hostage? No, not us; he might be our last chance, and I\nshouldn’t wonder. Kill that boy? Not me, mates! And number three? Ah,\nwell, there’s a deal to say to number three. Maybe you don’t count it\nnothing to have a real college doctor to see you every day--you, John,\nwith your head broke--or you, George Merry, that had the ague shakes\nupon you not six hours agone, and has your eyes the colour of lemon peel\nto this same moment on the clock? And maybe, perhaps, you didn’t know\nthere was a consort coming either? But there is, and not so long till\nthen; and we’ll see who’ll be glad to have a hostage when it comes to\nthat. And as for number two, and why I made a bargain--well, you came\ncrawling on your knees to me to make it--on your knees you came, you was\nthat downhearted--and you’d have starved too if I hadn’t--but that’s a\ntrifle! You look there--that’s why!”"
+   "text": "“They’re a nice lot, ain’t they? You\nsay this cruise is bungled. Ah! By gum, if you could understand how bad\nit’s bungled, you would see! We’re that near the gibbet that my neck’s\nstiff with thinking on it. You’ve seen ’em, maybe, hanged in chains,\nbirds about ’em, seamen p’inting ’em out as they go down with the tide.\n‘Who’s that?’ says one. ‘That! Why, that’s John Silver. I knowed him\nwell,’ says another. And you can hear the chains a-jangle as you go\nabout and reach for the other buoy. Now, that’s about where we are,\nevery mother’s son of us, thanks to him, and Hands, and Anderson, and\nother ruination fools of you. And if you want to know about number four,\nand that boy, why, shiver my timbers, isn’t he a hostage? Are we a-going\nto waste a hostage? No, not us; he might be our last chance, and I\nshouldn’t wonder. Kill that boy? Not me, mates! And number three? Ah,\nwell, there’s a deal to say to number three. Maybe you don’t count it\nnothing to have a real college doctor to see you every day--you, John,\nwith your head broke--or you, George Merry, that had the ague shakes\nupon you not six hours agone, and has your eyes the colour of lemon peel\nto this same moment on the clock? And maybe, perhaps, you didn’t know\nthere was a consort coming either? But there is, and not so long till\nthen; and we’ll see who’ll be glad to have a hostage when it comes to\nthat. And as for number two, and why I made a bargain--well, you came\ncrawling on your knees to me to make it--on your knees you came, you was\nthat downhearted--and you’d have starved too if I hadn’t--but that’s a\ntrifle! You look there--that’s why!”",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "buoy. Now, that’s about",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_night_3",
+     "at": "ruination fools of you.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 50,
    "para": 29,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And he cast down upon the floor a paper that I instantly\nrecognized--none other than the chart on yellow paper, with the three\nred crosses, that I had found in the oilcloth at the bottom of the\ncaptain’s chest. Why the doctor had given it to him was more than I\ncould fancy."
+   "text": "And he cast down upon the floor a paper that I instantly\nrecognized--none other than the chart on yellow paper, with the three\nred crosses, that I had found in the oilcloth at the bottom of the\ncaptain’s chest. Why the doctor had given it to him was more than I\ncould fancy.",
+   "sfx": [
+    {
+     "key": "map_fold",
+     "at": "cast down upon the floor",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_night_2",
+     "at": "at the bottom of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 51,
@@ -415,9 +541,9 @@
    "text": "But if it were inexplicable to me, the appearance of the chart was\nincredible to the surviving mutineers. They leaped upon it like cats\nupon a mouse. It went from hand to hand, one tearing it from another;\nand by the oaths and the cries and the childish laughter with which they\naccompanied their examination, you would have thought, not only they\nwere fingering the very gold, but were at sea with it, besides, in\nsafety.",
    "sfx": [
     {
-     "key": "gull_far_1",
+     "key": "birds_night_2",
      "at": "with it, besides, in",
-     "by": "place-birds"
+     "by": "place-players"
     }
    ]
   },
@@ -426,7 +552,14 @@
    "para": 31,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Yes,” said one, “that’s Flint, sure enough. J. F., and a score below,\nwith a clove hitch to it; so he done ever.”"
+   "text": "“Yes,” said one, “that’s Flint, sure enough. J. F., and a score below,\nwith a clove hitch to it; so he done ever.”",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "it; so he done",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 53,
@@ -461,7 +594,19 @@
    "para": 33,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“One more word\nof your sauce, and I’ll call you down and fight you. How? Why, how do I\nknow? You had ought to tell me that--you and the rest, that lost me my\nschooner, with your interference, burn you! But not you, you can’t; you\nhain’t got the invention of a cockroach. But civil you can speak, and\nshall, George Merry, you may lay to that.”"
+   "text": "“One more word\nof your sauce, and I’ll call you down and fight you. How? Why, how do I\nknow? You had ought to tell me that--you and the rest, that lost me my\nschooner, with your interference, burn you! But not you, you can’t; you\nhain’t got the invention of a cockroach. But civil you can speak, and\nshall, George Merry, you may lay to that.”",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "a cockroach. But civil",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_night_1",
+     "at": "of a cockroach. But",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 58,
@@ -489,7 +634,14 @@
    "para": 35,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“You lost the ship; I found the\ntreasure. Who’s the better man at that? And now I resign, by thunder!\nElect whom you please to be your cap’n now; I’m done with it.”"
+   "text": "“You lost the ship; I found the\ntreasure. Who’s the better man at that? And now I resign, by thunder!\nElect whom you please to be your cap’n now; I’m done with it.”",
+   "sfx": [
+    {
+     "key": "birds_night_1",
+     "at": "Elect whom you please",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 62,
@@ -530,7 +682,19 @@
    "para": 38,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“It’ll do to kiss the book on still, won’t it?” growled Dick, who was\nevidently uneasy at the curse he had brought upon himself."
+   "text": "“It’ll do to kiss the book on still, won’t it?” growled Dick, who was\nevidently uneasy at the curse he had brought upon himself.",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "won’t it?” growled Dick,",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_night_1",
+     "at": "it?” growled Dick, who",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 67,
@@ -582,9 +746,14 @@
    "text": "It was around about the size of a crown piece. One side was blank,\nfor it had been the last leaf; the other contained a verse or two of\nRevelation--these words among the rest, which struck sharply home upon\nmy mind: “Without are dogs and murderers.” The printed side had been\nblackened with wood ash, which already began to come off and soil my\nfingers; on the blank side had been written with the same material the\none word “Depposed.” I have that curiosity beside me at this moment, but\nnot a trace of writing now remains beyond a single scratch, such as a\nman might make with his thumb-nail.",
    "sfx": [
     {
-     "key": "gull_far_1",
-     "at": "had been written with",
-     "by": "place-birds"
+     "key": "trees_2",
+     "at": "my mind: “Without are",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_night_4",
+     "at": "and murderers.” The printed",
+     "by": "place-players"
     }
    ]
   },
@@ -593,14 +762,33 @@
    "para": 43,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "That was the end of the night’s business. Soon after, with a drink all\nround, we lay down to sleep, and the outside of Silver’s vengeance was\nto put George Merry up for sentinel and threaten him with death if he\nshould prove unfaithful."
+   "text": "That was the end of the night’s business. Soon after, with a drink all\nround, we lay down to sleep, and the outside of Silver’s vengeance was\nto put George Merry up for sentinel and threaten him with death if he\nshould prove unfaithful.",
+   "sfx": [
+    {
+     "key": "insects_night_2",
+     "at": "was to put George",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 75,
    "para": 44,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It was long ere I could close an eye, and heaven knows I had matter\nenough for thought in the man whom I had slain that afternoon, in my own\nmost perilous position, and above all, in the remarkable game that I saw\nSilver now engaged upon--keeping the mutineers together with one hand\nand grasping with the other after every means, possible and impossible,\nto make his peace and save his miserable life. He himself slept\npeacefully and snored aloud, yet my heart was sore for him, wicked as he\nwas, to think on the dark perils that environed and the shameful gibbet\nthat awaited him."
+   "text": "It was long ere I could close an eye, and heaven knows I had matter\nenough for thought in the man whom I had slain that afternoon, in my own\nmost perilous position, and above all, in the remarkable game that I saw\nSilver now engaged upon--keeping the mutineers together with one hand\nand grasping with the other after every means, possible and impossible,\nto make his peace and save his miserable life. He himself slept\npeacefully and snored aloud, yet my heart was sore for him, wicked as he\nwas, to think on the dark perils that environed and the shameful gibbet\nthat awaited him.",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "afternoon, in my own",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_night_3",
+     "at": "my own most perilous",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

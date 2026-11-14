@@ -23,9 +23,12 @@ _c = {}
 def load(path, semis=0.0):
     k = (path, round(semis, 4))
     if k in _c: return _c[k]
-    sr, x = wv.read(path); x = x.astype(np.float32)
+    sr, x = wv.read(path)
+    # scale by the file's sample format (14 Nov 2026: VSCO's violas, cellos and flutes are 32-bit;
+    # dividing everything by 32768 left them about 96 dB louder than the 16-bit instruments)
+    sc = {np.dtype('int16'): 32768.0, np.dtype('int32'): 2147483648.0, np.dtype('uint8'): 128.0}.get(x.dtype, 1.0)
+    x = x.astype(np.float32) / sc
     if x.ndim > 1: x = x.mean(1)
-    x /= (32768.0 if np.abs(x).max() > 2 else 1.0)
     ratio = SR / sr * (2 ** (-semis / 12))
     if abs(ratio - 1) > 1e-6: x = sg.resample_poly(x, int(round(ratio * 1000)), 1000).astype(np.float32)
     _c[k] = x; return x

@@ -1,7 +1,8 @@
 {
- "book": "dracula", "chapter": 2,
+ "book": "dracula",
+ "chapter": 2,
  "note": "Storyboard test, 14 Nov 2026: chapter II's first beats, drawn by an API model from the text, to set beside the Midjourney paintings already on the board.",
- "style": "An oil painting in the manner of 1890s academic realism: rich dark palette, dramatic chiaroscuro, visible brushwork, painterly and cinematic, 16:9. Transylvania, May 1893, by night under a waning gibbous moon. No text, no captions, no frames, no borders.",
+ "style": "An oil painting in the manner of 1890s academic realism: rich dark palette, dramatic chiaroscuro, visible brushwork, painterly and cinematic, 16:9. Transylvania, May 1893, by night under a waning gibbous moon. The moon, where seen, is a waning gibbous, a little past full, never a crescent. No text, no captions, no signature, no frames, no black bars or borders.",
  "refs": {
   "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch03-b1-1.jpg",
   "count": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk1-count.jpg",
@@ -12,16 +13,104 @@
   "jonathan": "Jonathan Harker: a grown man of twenty-five, an English solicitor with dark curly hair, clean-shaven, strong adult jaw, in a dark travelling coat"
  },
  "beats": [
-  {"tag": "court", "cue": 3, "mj": "ch02-c-court-1.jpg", "who": ["jonathan"], "text": "A calèche has stopped in the vast gloomy courtyard of a ruined castle; dark archways lead off under great round arches; the young traveller looks up from the carriage at the black frowning walls and broken battlements against the moonlit sky. Wide view, the castle dominating."},
-  {"tag": "stop", "cue": 4, "mj": "ch02-c-stop-0.jpg", "who": ["jonathan"], "text": "The hooded driver, face unseen, has jumped down and holds out a hand like a steel vice to help the young traveller alight beside a great old iron-studded door; luggage at their feet; four horses steaming in the cold."},
-  {"tag": "alone", "cue": 5, "mj": "ch02-c-alone-0.jpg", "who": ["jonathan"], "text": "The young traveller stands alone and uncertain in the moonlit courtyard before a huge closed door studded with iron nails, set in a projecting doorway of massive stone; no bell or knocker; dark window openings above. Wide view, the man small."},
-  {"tag": "door", "cue": 7, "mj": "ch02-door-open-0.jpg", "who": ["count"], "text": "The great door stands open; within stands the tall old Count, in black, holding an antique silver lamp whose bare flame throws long quivering shadows; his right hand raised in a courtly gesture of welcome."},
-  {"tag": "hand", "cue": 9, "mj": "ch02-b3-1.jpg", "who": ["count", "jonathan"], "text": "On the threshold the Count grasps the young Englishman's hand with a grip of steel, cold as ice; the young man winces; lamplight between them, the dark passage behind."},
-  {"tag": "stair", "cue": 16, "mj": "ch02-e-stair-0.jpg", "who": ["count", "jonathan"], "text": "The Count, carrying the luggage himself, leads the young man up a great winding stone stair; their steps ring on the stone; a lamp throws their shadows up the curving wall."},
-  {"tag": "bedroom", "cue": 17, "mj": "ch02-bk-bedroom-0.jpg", "who": [], "text": "A well-lit bedroom in an old castle: a table spread for supper, a great log fire flaring in a huge stone hearth, heavy old furniture, tapestries; warm firelight after the cold night."},
-  {"tag": "supper", "cue": 20, "mj": "ch02-e-supper-0.jpg", "who": ["count", "jonathan"], "text": "The Count stands at one side of a great stone fireplace, leaning against the stonework, waving a graceful hand toward a supper table where the young Englishman stands; roast chicken, cheese, a bottle of old Tokay."},
-  {"tag": "letter", "cue": 22, "mj": "ch02-e-letter-0.jpg", "who": ["count"], "text": "The Count, standing by the firelight, reads a sealed letter gravely, then smiles; the broken seal in his long fingers."},
-  {"tag": "cigar", "cue": 25, "mj": "ch02-r-cigar-1.jpg", "who": ["count", "jonathan"], "text": "By the fire: the young Englishman in a chair smokes a cigar, studying his host; the Count sits opposite, firelight on his hard face and pointed ears, his hands on his knees."},
-  {"tag": "wolves", "cue": 27, "mj": "ch02-w-valley-0.jpg", "who": [], "text": "A pack of wolves in the valley far below the castle, heads raised, howling under the moon; dark pine forest and mountains, the castle on its crag above. Wide landscape, no people."}
+  {
+   "tag": "court",
+   "cue": 3,
+   "mj": "ch02-c-court-1.jpg",
+   "who": [
+    "jonathan"
+   ],
+   "text": "A calèche has stopped in the vast gloomy courtyard of a ruined castle; dark archways lead off under great round arches; the young traveller looks up from the carriage at the black frowning walls and broken battlements against the moonlit sky. Wide view, the castle dominating."
+  },
+  {
+   "tag": "stop",
+   "cue": 4,
+   "mj": "ch02-c-stop-0.jpg",
+   "who": [
+    "jonathan"
+   ],
+   "text": "The hooded driver, face unseen, has jumped down and holds out a hand like a steel vice to help the young traveller alight beside a great old iron-studded door; luggage at their feet; four horses steaming in the cold."
+  },
+  {
+   "tag": "alone",
+   "cue": 5,
+   "mj": "ch02-c-alone-0.jpg",
+   "who": [
+    "jonathan"
+   ],
+   "text": "The young traveller stands alone and uncertain in the moonlit courtyard before a huge closed door studded with iron nails, set in a projecting doorway of massive stone; no bell or knocker; dark window openings above. Wide view, the man small."
+  },
+  {
+   "tag": "door",
+   "cue": 7,
+   "mj": "ch02-door-open-0.jpg",
+   "who": [
+    "count"
+   ],
+   "text": "The great door stands open; within stands the tall old Count, in black, holding an antique silver lamp whose bare flame throws long quivering shadows; his right hand raised in a courtly gesture of welcome."
+  },
+  {
+   "tag": "hand",
+   "cue": 9,
+   "mj": "ch02-b3-1.jpg",
+   "who": [
+    "count",
+    "jonathan"
+   ],
+   "text": "On the threshold the Count grasps the young Englishman's hand with a grip of steel, cold as ice; the young man winces; lamplight between them, the dark passage behind."
+  },
+  {
+   "tag": "stair",
+   "cue": 16,
+   "mj": "ch02-e-stair-0.jpg",
+   "who": [
+    "count",
+    "jonathan"
+   ],
+   "text": "The Count, carrying the luggage himself, leads the young man up a great winding stone stair; their steps ring on the stone; a lamp throws their shadows up the curving wall."
+  },
+  {
+   "tag": "bedroom",
+   "cue": 17,
+   "mj": "ch02-bk-bedroom-0.jpg",
+   "who": [],
+   "text": "A well-lit bedroom in an old castle: a table spread for supper, a great log fire flaring in a huge stone hearth, heavy old furniture, tapestries; warm firelight after the cold night."
+  },
+  {
+   "tag": "supper",
+   "cue": 20,
+   "mj": "ch02-e-supper-0.jpg",
+   "who": [
+    "count",
+    "jonathan"
+   ],
+   "text": "The Count stands at one side of a great stone fireplace, leaning against the stonework, waving a graceful hand toward a supper table where the young Englishman stands; roast chicken, cheese, a bottle of old Tokay."
+  },
+  {
+   "tag": "letter",
+   "cue": 22,
+   "mj": "ch02-e-letter-0.jpg",
+   "who": [
+    "count"
+   ],
+   "text": "The Count, standing by the firelight, reads a sealed letter gravely, then smiles; the broken seal in his long fingers."
+  },
+  {
+   "tag": "cigar",
+   "cue": 25,
+   "mj": "ch02-r-cigar-1.jpg",
+   "who": [
+    "count",
+    "jonathan"
+   ],
+   "text": "By the fire: the young Englishman in a chair smokes a cigar, studying his host; the Count sits opposite, firelight on his hard face and pointed ears, his hands on his knees."
+  },
+  {
+   "tag": "wolves",
+   "cue": 27,
+   "mj": "ch02-w-valley-0.jpg",
+   "who": [],
+   "text": "A pack of wolves in the valley far below the castle, heads raised, howling under the moon; dark pine forest and mountains, the castle on its crag above. Wide landscape, no people."
+  }
  ]
 }

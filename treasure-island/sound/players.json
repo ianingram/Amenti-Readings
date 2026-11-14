@@ -1,0 +1,368 @@
+{
+ "counts": {
+  "creak": 8,
+  "rope": 6,
+  "sail": 8,
+  "rigging": 3,
+  "feet": 6,
+  "voices_far": 5,
+  "trees": 8,
+  "birds_dawn": 6,
+  "birds_day": 8,
+  "birds_dusk": 3,
+  "birds_night": 5,
+  "insects_day": 3,
+  "insects_night": 3,
+  "wave": 9
+ },
+ "made": [
+  {
+   "file": "creak-1.mp3",
+   "sec": 2.5
+  },
+  {
+   "file": "creak-2.mp3",
+   "sec": 2.5
+  },
+  {
+   "file": "creak-3.mp3",
+   "sec": 6.1
+  },
+  {
+   "file": "creak-4.mp3",
+   "sec": 6.1
+  },
+  {
+   "file": "creak-5.mp3",
+   "sec": 6.1
+  },
+  {
+   "file": "creak-6.mp3",
+   "sec": 2.5
+  },
+  {
+   "file": "creak-7.mp3",
+   "sec": 2.0
+  },
+  {
+   "file": "creak-8.mp3",
+   "sec": 2.5
+  },
+  {
+   "file": "rope-1.mp3",
+   "sec": 2.2
+  },
+  {
+   "file": "rope-2.mp3",
+   "sec": 2.2
+  },
+  {
+   "file": "rope-3.mp3",
+   "sec": 2.2
+  },
+  {
+   "file": "rope-4.mp3",
+   "sec": 2.2
+  },
+  {
+   "file": "rope-5.mp3",
+   "sec": 2.2
+  },
+  {
+   "file": "rope-6.mp3",
+   "sec": 2.2
+  },
+  {
+   "file": "sail-1.mp3",
+   "sec": 7.1
+  },
+  {
+   "file": "sail-2.mp3",
+   "sec": 7.1
+  },
+  {
+   "file": "sail-3.mp3",
+   "sec": 7.1
+  },
+  {
+   "file": "sail-4.mp3",
+   "sec": 7.1
+  },
+  {
+   "file": "sail-5.mp3",
+   "sec": 7.1
+  },
+  {
+   "file": "sail-6.mp3",
+   "sec": 5.1
+  },
+  {
+   "file": "sail-7.mp3",
+   "sec": 3.2
+  },
+  {
+   "file": "sail-8.mp3",
+   "sec": 2.8
+  },
+  {
+   "file": "rigging-1.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "rigging-2.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "rigging-3.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "feet-1.mp3",
+   "sec": 5.6
+  },
+  {
+   "file": "feet-2.mp3",
+   "sec": 5.6
+  },
+  {
+   "file": "feet-3.mp3",
+   "sec": 5.6
+  },
+  {
+   "file": "feet-4.mp3",
+   "sec": 7.7
+  },
+  {
+   "file": "feet-5.mp3",
+   "sec": 7.7
+  },
+  {
+   "file": "feet-6.mp3",
+   "sec": 7.7
+  },
+  {
+   "file": "voices-far-1.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "voices-far-2.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "voices-far-3.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "voices-far-4.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "voices-far-5.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "trees-1.mp3",
+   "sec": 10.0
+  },
+  {
+   "file": "trees-2.mp3",
+   "sec": 10.0
+  },
+  {
+   "file": "trees-3.mp3",
+   "sec": 10.0
+  },
+  {
+   "file": "trees-4.mp3",
+   "sec": 10.0
+  },
+  {
+   "file": "trees-5.mp3",
+   "sec": 10.0
+  },
+  {
+   "file": "trees-6.mp3",
+   "sec": 10.0
+  },
+  {
+   "file": "trees-7.mp3",
+   "sec": 10.0
+  },
+  {
+   "file": "trees-8.mp3",
+   "sec": 10.0
+  },
+  {
+   "file": "birds-dawn-1.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-dawn-2.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-dawn-3.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-dawn-4.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-dawn-5.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-dawn-6.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-day-1.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-day-2.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-day-3.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-day-4.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-day-5.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-day-6.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-day-7.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-day-8.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-dusk-1.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-dusk-2.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-dusk-3.mp3",
+   "sec": 9.3
+  },
+  {
+   "file": "birds-night-1.mp3",
+   "sec": 9.5
+  },
+  {
+   "file": "birds-night-2.mp3",
+   "sec": 9.5
+  },
+  {
+   "file": "birds-night-3.mp3",
+   "sec": 9.5
+  },
+  {
+   "file": "birds-night-4.mp3",
+   "sec": 9.5
+  },
+  {
+   "file": "birds-night-5.mp3",
+   "sec": 9.5
+  },
+  {
+   "file": "bird-cry-1.mp3",
+   "sec": 3.3
+  },
+  {
+   "file": "insects-day-1.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "insects-day-2.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "insects-day-3.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "insects-night-1.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "insects-night-2.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "insects-night-3.mp3",
+   "sec": 9.0
+  },
+  {
+   "file": "wave-1.mp3",
+   "sec": 13.5
+  },
+  {
+   "file": "wave-2.mp3",
+   "sec": 13.5
+  },
+  {
+   "file": "wave-3.mp3",
+   "sec": 11.1
+  },
+  {
+   "file": "wave-4.mp3",
+   "sec": 13.5
+  },
+  {
+   "file": "wave-5.mp3",
+   "sec": 8.3
+  },
+  {
+   "file": "wave-6.mp3",
+   "sec": 10.5
+  },
+  {
+   "file": "wave-7.mp3",
+   "sec": 13.5
+  },
+  {
+   "file": "wave-8.mp3",
+   "sec": 5.1
+  },
+  {
+   "file": "wave-9.mp3",
+   "sec": 13.5
+  },
+  {
+   "file": "map-unfold.mp3",
+   "sec": 13.9
+  },
+  {
+   "file": "map-fold.mp3",
+   "sec": 7.4
+  },
+  {
+   "file": "horse-come-go.mp3",
+   "sec": 24.6
+  },
+  {
+   "file": "horses-arrive.mp3",
+   "sec": 10.6
+  },
+  {
+   "file": "horses-trot-away.mp3",
+   "sec": 12.2
+  }
+ ]
+}

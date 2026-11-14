@@ -104,14 +104,33 @@
    "para": 5,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“Why, in a place like this, where nobody puts in but\ngen’lemen of fortune, Silver would fly the Jolly Roger, you don’t make\nno doubt of that. No, that’s your friends. There’s been blows too, and I\nreckon your friends has had the best of it; and here they are ashore in\nthe old stockade, as was made years and years ago by Flint. Ah, he was\nthe man to have a headpiece, was Flint! Barring rum, his match were\nnever seen. He were afraid of none, not he; on’y Silver--Silver was that\ngenteel.”"
+   "text": "“Why, in a place like this, where nobody puts in but\ngen’lemen of fortune, Silver would fly the Jolly Roger, you don’t make\nno doubt of that. No, that’s your friends. There’s been blows too, and I\nreckon your friends has had the best of it; and here they are ashore in\nthe old stockade, as was made years and years ago by Flint. Ah, he was\nthe man to have a headpiece, was Flint! Barring rum, his match were\nnever seen. He were afraid of none, not he; on’y Silver--Silver was that\ngenteel.”",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "your friends has had",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_7",
+     "at": "never seen. He were",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 11,
    "para": 6,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Well,” said I, “that may be so, and so be it; all the more reason that\nI should hurry on and join my friends.”"
+   "text": "“Well,” said I, “that may be so, and so be it; all the more reason that\nI should hurry on and join my friends.”",
+   "sfx": [
+    {
+     "key": "insects_day_3",
+     "at": "all the more reason",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -146,14 +165,28 @@
    "para": 8,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And he pinched me the third time with the same air of cleverness."
+   "text": "And he pinched me the third time with the same air of cleverness.",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "third time with the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 16,
    "para": 9,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“And when Ben Gunn is wanted, you know where to find him, Jim. Just\nwheer you found him today. And him that comes is to have a white thing\nin his hand, and he’s to come alone. Oh! And you’ll say this: ‘Ben\nGunn,’ says you, ‘has reasons of his own.’”"
+   "text": "“And when Ben Gunn is wanted, you know where to find him, Jim. Just\nwheer you found him today. And him that comes is to have a white thing\nin his hand, and he’s to come alone. Oh! And you’ll say this: ‘Ben\nGunn,’ says you, ‘has reasons of his own.’”",
+   "sfx": [
+    {
+     "key": "birds_day_4",
+     "at": "And you’ll say this:",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 17,
@@ -209,7 +242,14 @@
    "para": 13,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“Precious sight, and reasons\nof his own, says you. Reasons of his own; that’s the mainstay; as\nbetween man and man. Well, then”"
+   "text": "“Precious sight, and reasons\nof his own, says you. Reasons of his own; that’s the mainstay; as\nbetween man and man. Well, then”",
+   "sfx": [
+    {
+     "key": "birds_day_3",
+     "at": "as between man and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 25,
@@ -223,7 +263,19 @@
    "para": 13,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“I reckon you can\ngo, Jim. And, Jim, if you was to see Silver, you wouldn’t go for to sell\nBen Gunn? Wild horses wouldn’t draw it from you? No, says you. And if\nthem pirates camp ashore, Jim, what would you say but there’d be widders\nin the morning?”"
+   "text": "“I reckon you can\ngo, Jim. And, Jim, if you was to see Silver, you wouldn’t go for to sell\nBen Gunn? Wild horses wouldn’t draw it from you? No, says you. And if\nthem pirates camp ashore, Jim, what would you say but there’d be widders\nin the morning?”",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "say but there’d be",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "Ben Gunn? Wild horses",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 27,
@@ -244,7 +296,19 @@
    "para": 15,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "For a good hour to come frequent reports shook the island, and\nballs kept crashing through the woods. I moved from hiding-place to\nhiding-place, always pursued, or so it seemed to me, by these terrifying\nmissiles. But towards the end of the bombardment, though still I durst\nnot venture in the direction of the stockade, where the balls fell\noftenest, I had begun, in a manner, to pluck up my heart again, and\nafter a long detour to the east, crept down among the shore-side trees."
+   "text": "For a good hour to come frequent reports shook the island, and\nballs kept crashing through the woods. I moved from hiding-place to\nhiding-place, always pursued, or so it seemed to me, by these terrifying\nmissiles. But towards the end of the bombardment, though still I durst\nnot venture in the direction of the stockade, where the balls fell\noftenest, I had begun, in a manner, to pluck up my heart again, and\nafter a long detour to the east, crept down among the shore-side trees.",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "again, and after a",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_5",
+     "at": "pluck up my heart",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 29,
@@ -272,6 +336,11 @@
      "by": "place-birds",
      "at": "one more round-shot whistled through the air",
      "offset": 0.45
+    },
+    {
+     "key": "birds_day_2",
+     "at": "Even as I looked,",
+     "by": "place-players"
     }
    ],
    "para": 17,
@@ -284,14 +353,38 @@
    "para": 18,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I lay for some time watching the bustle which succeeded the attack. Men\nwere demolishing something with axes on the beach near the stockade--the\npoor jolly-boat, I afterwards discovered. Away, near the mouth of the\nriver, a great fire was glowing among the trees, and between that point\nand the ship one of the gigs kept coming and going, the men, whom I\nhad seen so gloomy, shouting at the oars like children. But there was a\nsound in their voices which suggested rum."
+   "text": "I lay for some time watching the bustle which succeeded the attack. Men\nwere demolishing something with axes on the beach near the stockade--the\npoor jolly-boat, I afterwards discovered. Away, near the mouth of the\nriver, a great fire was glowing among the trees, and between that point\nand the ship one of the gigs kept coming and going, the men, whom I\nhad seen so gloomy, shouting at the oars like children. But there was a\nsound in their voices which suggested rum.",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "was glowing among the",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "the mouth of the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 32,
    "para": 19,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At length I thought I might return towards the stockade. I was pretty\nfar down on the low, sandy spit that encloses the anchorage to the east,\nand is joined at half-water to Skeleton Island; and now, as I rose to my\nfeet, I saw, some distance further down the spit and rising from among\nlow bushes, an isolated rock, pretty high, and peculiarly white in\ncolour. It occurred to me that this might be the white rock of which Ben\nGunn had spoken and that some day or other a boat might be wanted and I\nshould know where to look for one."
+   "text": "At length I thought I might return towards the stockade. I was pretty\nfar down on the low, sandy spit that encloses the anchorage to the east,\nand is joined at half-water to Skeleton Island; and now, as I rose to my\nfeet, I saw, some distance further down the spit and rising from among\nlow bushes, an isolated rock, pretty high, and peculiarly white in\ncolour. It occurred to me that this might be the white rock of which Ben\nGunn had spoken and that some day or other a boat might be wanted and I\nshould know where to look for one.",
+   "sfx": [
+    {
+     "key": "birds_day_1",
+     "at": "me that this might",
+     "by": "place-players"
+    },
+    {
+     "key": "bird_cry_1",
+     "at": "this might be the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 33,
@@ -311,6 +404,16 @@
      "key": "gull_far_3",
      "at": "as a foot or",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_8",
+     "at": "ship’s kettle of iron,",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "“to her bearings,” as",
+     "by": "place-players"
     }
    ]
   },
@@ -320,35 +423,80 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Little had been left besides the framework of the house, but in one\ncorner there was a stone slab laid down by way of hearth and an old\nrusty iron basket to contain the fire."
+   "text": "Little had been left besides the framework of the house, but in one\ncorner there was a stone slab laid down by way of hearth and an old\nrusty iron basket to contain the fire.",
+   "sfx": [
+    {
+     "key": "insects_day_2",
+     "at": "way of hearth and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 36,
    "para": 23,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The slopes of the knoll and all the inside of the stockade had been\ncleared of timber to build the house, and we could see by the stumps\nwhat a fine and lofty grove had been destroyed. Most of the soil had\nbeen washed away or buried in drift after the removal of the trees; only\nwhere the streamlet ran down from the kettle a thick bed of moss and\nsome ferns and little creeping bushes were still green among the sand.\nVery close around the stockade--too close for defence, they said--the\nwood still flourished high and dense, all of fir on the land side, but\ntowards the sea with a large admixture of live-oaks."
+   "text": "The slopes of the knoll and all the inside of the stockade had been\ncleared of timber to build the house, and we could see by the stumps\nwhat a fine and lofty grove had been destroyed. Most of the soil had\nbeen washed away or buried in drift after the removal of the trees; only\nwhere the streamlet ran down from the kettle a thick bed of moss and\nsome ferns and little creeping bushes were still green among the sand.\nVery close around the stockade--too close for defence, they said--the\nwood still flourished high and dense, all of fir on the land side, but\ntowards the sea with a large admixture of live-oaks.",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "ferns and little creeping",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "ran down from the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 37,
    "para": 24,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The cold evening breeze, of which I have spoken, whistled through every\nchink of the rude building and sprinkled the floor with a continual rain\nof fine sand. There was sand in our eyes, sand in our teeth, sand in our\nsuppers, sand dancing in the spring at the bottom of the kettle, for all\nthe world like porridge beginning to boil. Our chimney was a square hole\nin the roof; it was but a little part of the smoke that found its way\nout, and the rest eddied about the house and kept us coughing and piping\nthe eye."
+   "text": "The cold evening breeze, of which I have spoken, whistled through every\nchink of the rude building and sprinkled the floor with a continual rain\nof fine sand. There was sand in our eyes, sand in our teeth, sand in our\nsuppers, sand dancing in the spring at the bottom of the kettle, for all\nthe world like porridge beginning to boil. Our chimney was a square hole\nin the roof; it was but a little part of the smoke that found its way\nout, and the rest eddied about the house and kept us coughing and piping\nthe eye.",
+   "sfx": [
+    {
+     "key": "birds_day_3",
+     "at": "to boil. Our chimney",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_3",
+     "at": "us coughing and piping",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 38,
    "para": 25,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Add to this that Gray, the new man, had his face tied up in a bandage\nfor a cut he had got in breaking away from the mutineers and that poor\nold Tom Redruth, still unburied, lay along the wall, stiff and stark,\nunder the Union Jack."
+   "text": "Add to this that Gray, the new man, had his face tied up in a bandage\nfor a cut he had got in breaking away from the mutineers and that poor\nold Tom Redruth, still unburied, lay along the wall, stiff and stark,\nunder the Union Jack.",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "and that poor old",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 39,
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "If we had been allowed to sit idle, we should all have fallen in the\nblues, but Captain Smollett was never the man for that. All hands were\ncalled up before him, and he divided us into watches. The doctor and\nGray and I for one; the squire, Hunter, and Joyce upon the other. Tired\nthough we all were, two were sent out for firewood; two more were set to\ndig a grave for Redruth; the doctor was named cook; I was put sentry at\nthe door; and the captain himself went from one to another, keeping up\nour spirits and lending a hand wherever it was wanted."
+   "text": "If we had been allowed to sit idle, we should all have fallen in the\nblues, but Captain Smollett was never the man for that. All hands were\ncalled up before him, and he divided us into watches. The doctor and\nGray and I for one; the squire, Hunter, and Joyce upon the other. Tired\nthough we all were, two were sent out for firewood; two more were set to\ndig a grave for Redruth; the doctor was named cook; I was put sentry at\nthe door; and the captain himself went from one to another, keeping up\nour spirits and lending a hand wherever it was wanted.",
+   "sfx": [
+    {
+     "key": "birds_day_1",
+     "at": "for one; the squire,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 40,
@@ -382,6 +530,11 @@
      "key": "gull_far_2",
      "at": "means a deal, Jim.”",
      "by": "place-birds"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "And when I say",
+     "by": "place-players"
     }
    ]
   },
@@ -390,7 +543,14 @@
    "para": 29,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Another time he came and was silent for a while. Then he put his head on\none side, and looked at me."
+   "text": "Another time he came and was silent for a while. Then he put his head on\none side, and looked at me.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "silent for a while.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 45,
@@ -432,7 +592,14 @@
    "para": 32,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“A\nman who has been three years biting his nails on a desert island, Jim,\ncan’t expect to appear as sane as you or me. It doesn’t lie in human\nnature. Was it cheese you said he had a fancy for?”"
+   "text": "“A\nman who has been three years biting his nails on a desert island, Jim,\ncan’t expect to appear as sane as you or me. It doesn’t lie in human\nnature. Was it cheese you said he had a fancy for?”",
+   "sfx": [
+    {
+     "key": "birds_day_2",
+     "at": "nature. Was it cheese",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 51,
@@ -460,21 +627,52 @@
    "para": 34,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“just see the good that comes of being dainty in\nyour food. You’ve seen my snuff-box, haven’t you? And you never saw me\ntake snuff, the reason being that in my snuff-box I carry a piece of\nParmesan cheese--a cheese made in Italy, very nutritious. Well, that’s\nfor Ben Gunn!”"
+   "text": "“just see the good that comes of being dainty in\nyour food. You’ve seen my snuff-box, haven’t you? And you never saw me\ntake snuff, the reason being that in my snuff-box I carry a piece of\nParmesan cheese--a cheese made in Italy, very nutritious. Well, that’s\nfor Ben Gunn!”",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "Parmesan cheese--a cheese made",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 55,
    "para": 35,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Before supper was eaten we buried old Tom in the sand and stood round\nhim for a while bare-headed in the breeze. A good deal of firewood had\nbeen got in, but not enough for the captain’s fancy, and he shook his\nhead over it and told us we “must get back to this tomorrow rather\nlivelier.” Then, when we had eaten our pork and each had a good stiff\nglass of brandy grog, the three chiefs got together in a corner to\ndiscuss our prospects."
+   "text": "Before supper was eaten we buried old Tom in the sand and stood round\nhim for a while bare-headed in the breeze. A good deal of firewood had\nbeen got in, but not enough for the captain’s fancy, and he shook his\nhead over it and told us we “must get back to this tomorrow rather\nlivelier.” Then, when we had eaten our pork and each had a good stiff\nglass of brandy grog, the three chiefs got together in a corner to\ndiscuss our prospects.",
+   "sfx": [
+    {
+     "key": "birds_day_2",
+     "at": "“must get back to",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "a good stiff glass",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 56,
    "para": 36,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It appears they were at their wits’ end what to do, the stores being so\nlow that we must have been starved into surrender long before help came.\nBut our best hope, it was decided, was to kill off the buccaneers until\nthey either hauled down their flag or ran away with the HISPANIOLA. From\nnineteen they were already reduced to fifteen, two others were wounded,\nand one at least--the man shot beside the gun--severely wounded, if he\nwere not dead. Every time we had a crack at them, we were to take it,\nsaving our own lives, with the extremest care. And besides that, we had\ntwo able allies--rum and the climate."
+   "text": "It appears they were at their wits’ end what to do, the stores being so\nlow that we must have been starved into surrender long before help came.\nBut our best hope, it was decided, was to kill off the buccaneers until\nthey either hauled down their flag or ran away with the HISPANIOLA. From\nnineteen they were already reduced to fifteen, two others were wounded,\nand one at least--the man shot beside the gun--severely wounded, if he\nwere not dead. Every time we had a crack at them, we were to take it,\nsaving our own lives, with the extremest care. And besides that, we had\ntwo able allies--rum and the climate.",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "he were not dead.",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_5",
+     "at": "two others were wounded,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 57,
@@ -529,6 +727,16 @@
      "key": "gull_far_3",
      "at": "great deal of tossing,",
      "by": "place-birds"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "I got to sleep,",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "slept like a log",
+     "by": "place-players"
     }
    ]
   },
@@ -544,7 +752,14 @@
    "para": 42,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Flag of truce!” I heard someone say; and then, immediately after, with\na cry of surprise, “Silver himself!”"
+   "text": "“Flag of truce!” I heard someone say; and then, immediately after, with\na cry of surprise, “Silver himself!”",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "immediately after, with a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 66,

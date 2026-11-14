@@ -61,6 +61,16 @@
      "key": "gull_far_3",
      "at": "grown men, and three",
      "by": "place-birds"
+    },
+    {
+     "key": "wave_6",
+     "at": "three of them--Trelawney, Redruth,",
+     "by": "place-players"
+    },
+    {
+     "key": "trees_4",
+     "at": "all soaking wet before",
+     "by": "place-players"
     }
    ]
   },
@@ -76,7 +86,14 @@
    "para": 4,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "In the second place, the ebb was now making--a strong rippling current\nrunning westward through the basin, and then south’ard and seaward down\nthe straits by which we had entered in the morning. Even the ripples\nwere a danger to our overloaded craft, but the worst of it was that we\nwere swept out of our true course and away from our proper landing-place\nbehind the point. If we let the current have its way we should come\nashore beside the gigs, where the pirates might appear at any moment."
+   "text": "In the second place, the ebb was now making--a strong rippling current\nrunning westward through the basin, and then south’ard and seaward down\nthe straits by which we had entered in the morning. Even the ripples\nwere a danger to our overloaded craft, but the worst of it was that we\nwere swept out of our true course and away from our proper landing-place\nbehind the point. If we let the current have its way we should come\nashore beside the gigs, where the pirates might appear at any moment.",
+   "sfx": [
+    {
+     "key": "wave_4",
+     "at": "ripples were a danger",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 6,
@@ -125,7 +142,14 @@
    "para": 8,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“We’ll never get ashore at this rate,” said I."
+   "text": "“We’ll never get ashore at this rate,” said I.",
+   "sfx": [
+    {
+     "key": "wave_2",
+     "at": "ashore at this rate,”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -160,14 +184,28 @@
    "para": 9,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“if once we dropped to leeward of the landing-place, it’s hard to say\nwhere we should get ashore, besides the chance of being boarded by the\ngigs; whereas, the way we go the current must slacken, and then we can\ndodge back along the shore.”"
+   "text": "“if once we dropped to leeward of the landing-place, it’s hard to say\nwhere we should get ashore, besides the chance of being boarded by the\ngigs; whereas, the way we go the current must slacken, and then we can\ndodge back along the shore.”",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "and then we can",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 17,
    "para": 10,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“The current’s less a’ready, sir,” said the man Gray, who was sitting in\nthe fore-sheets; “you can ease her off a bit.”"
+   "text": "“The current’s less a’ready, sir,” said the man Gray, who was sitting in\nthe fore-sheets; “you can ease her off a bit.”",
+   "sfx": [
+    {
+     "key": "wave_6",
+     "at": "who was sitting in",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 18,
@@ -208,6 +246,11 @@
      "key": "gull_pair_3",
      "at": "of a bombardment of",
      "by": "place-birds"
+    },
+    {
+     "key": "wave_1",
+     "at": "they could never haul",
+     "by": "place-players"
     }
    ]
   },
@@ -230,7 +273,14 @@
    "para": 16,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "We had entirely forgotten the long nine; and there, to our horror, were\nthe five rogues busy about her, getting off her jacket, as they called\nthe stout tarpaulin cover under which she sailed. Not only that, but\nit flashed into my mind at the same moment that the round-shot and the\npowder for the gun had been left behind, and a stroke with an axe would\nput it all into the possession of the evil ones abroad."
+   "text": "We had entirely forgotten the long nine; and there, to our horror, were\nthe five rogues busy about her, getting off her jacket, as they called\nthe stout tarpaulin cover under which she sailed. Not only that, but\nit flashed into my mind at the same moment that the round-shot and the\npowder for the gun had been left behind, and a stroke with an axe would\nput it all into the possession of the evil ones abroad.",
+   "sfx": [
+    {
+     "key": "wave_6",
+     "at": "behind, and a stroke",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 26,
@@ -251,7 +301,19 @@
    "para": 19,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "I could hear as well as see that brandy-faced rascal Israel Hands\nplumping down a round-shot on the deck."
+   "text": "I could hear as well as see that brandy-faced rascal Israel Hands\nplumping down a round-shot on the deck.",
+   "sfx": [
+    {
+     "key": "wave_8",
+     "at": "plumping down a round-shot",
+     "by": "place-players"
+    },
+    {
+     "key": "trees_4",
+     "at": "Hands plumping down a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 29,
@@ -328,7 +390,14 @@
    "para": 25,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "The squire raised his gun, the rowing ceased, and we leaned over to the\nother side to keep the balance, and all was so nicely contrived that we\ndid not ship a drop."
+   "text": "The squire raised his gun, the rowing ceased, and we leaned over to the\nother side to keep the balance, and all was so nicely contrived that we\ndid not ship a drop.",
+   "sfx": [
+    {
+     "key": "wave_7",
+     "at": "over to the other",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 39,
@@ -365,6 +434,11 @@
      "key": "gull_far_2",
      "at": "that direction I saw",
      "by": "place-birds"
+    },
+    {
+     "key": "wave_4",
+     "at": "by a great number",
+     "by": "place-players"
     }
    ]
   },
@@ -422,7 +496,14 @@
    "para": 31,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Jack ashore, you\nknow. It’s not them I mind; it’s the round-shot. Carpet bowls! My lady’s\nmaid couldn’t miss. Tell us, squire, when you see the match, and we’ll\nhold water.”"
+   "text": "“Jack ashore, you\nknow. It’s not them I mind; it’s the round-shot. Carpet bowls! My lady’s\nmaid couldn’t miss. Tell us, squire, when you see the match, and we’ll\nhold water.”",
+   "sfx": [
+    {
+     "key": "wave_7",
+     "at": "My lady’s maid couldn’t",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 49,
@@ -435,6 +516,16 @@
      "key": "gull_far_3",
      "at": "one source of danger",
      "by": "place-birds"
+    },
+    {
+     "key": "wave_4",
+     "at": "from our eyes. The",
+     "by": "place-players"
+    },
+    {
+     "key": "trees_8",
+     "at": "now making reparation and",
+     "by": "place-players"
     }
    ]
   },
@@ -501,6 +592,11 @@
      "key": "long_gun_splash",
      "at": "sent her stern bodily under water",
      "offset": -3.4
+    },
+    {
+     "key": "wave_1",
+     "at": "having reached him. Where",
+     "by": "place-players"
     }
    ],
    "para": 37,
@@ -531,7 +627,19 @@
    "para": 39,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "So far there was no great harm. No lives were lost, and we could wade\nashore in safety. But there were all our stores at the bottom, and to\nmake things worse, only two guns out of five remained in a state for\nservice. Mine I had snatched from my knees and held over my head, by\na sort of instinct. As for the captain, he had carried his over his\nshoulder by a bandoleer, and like a wise man, lock uppermost. The other\nthree had gone down with the boat."
+   "text": "So far there was no great harm. No lives were lost, and we could wade\nashore in safety. But there were all our stores at the bottom, and to\nmake things worse, only two guns out of five remained in a state for\nservice. Mine I had snatched from my knees and held over my head, by\na sort of instinct. As for the captain, he had carried his over his\nshoulder by a bandoleer, and like a wise man, lock uppermost. The other\nthree had gone down with the boat.",
+   "sfx": [
+    {
+     "key": "wave_5",
+     "at": "five remained in a",
+     "by": "place-players"
+    },
+    {
+     "key": "trees_6",
+     "at": "for the captain, he",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 61,
@@ -544,6 +652,11 @@
      "key": "gull_pair_3",
      "at": "steady, that we knew;",
      "by": "place-birds"
+    },
+    {
+     "key": "wave_6",
+     "at": "brush one’s clothes, but",
+     "by": "place-players"
     }
    ]
   },

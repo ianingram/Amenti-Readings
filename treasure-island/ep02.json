@@ -58,7 +58,14 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It was one January morning, very early--a pinching, frosty morning--the\ncove all grey with hoar-frost, the ripple lapping softly on the stones,\nthe sun still low and only touching the hilltops and shining far to\nseaward. The captain had risen earlier than usual and set out down the\nbeach, his cutlass swinging under the broad skirts of the old blue coat,\nhis brass telescope under his arm, his hat tilted back upon his head. I\nremember his breath hanging like smoke in his wake as he strode off, and\nthe last sound I heard of him as he turned the big rock was a loud snort\nof indignation, as though his mind was still running upon Dr. Livesey."
+   "text": "It was one January morning, very early--a pinching, frosty morning--the\ncove all grey with hoar-frost, the ripple lapping softly on the stones,\nthe sun still low and only touching the hilltops and shining far to\nseaward. The captain had risen earlier than usual and set out down the\nbeach, his cutlass swinging under the broad skirts of the old blue coat,\nhis brass telescope under his arm, his hat tilted back upon his head. I\nremember his breath hanging like smoke in his wake as he strode off, and\nthe last sound I heard of him as he turned the big rock was a loud snort\nof indignation, as though his mind was still running upon Dr. Livesey.",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "him as he turned",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
@@ -107,7 +114,14 @@
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Well,” said he, “my mate Bill would be called the captain, as like\nas not. He has a cut on one cheek and a mighty pleasant way with him,\nparticularly in drink, has my mate Bill. We’ll put it, for argument\nlike, that your captain has a cut on one cheek--and we’ll put it, if you\nlike, that that cheek’s the right one. Ah, well! I told you. Now, is my\nmate Bill in this here house?”"
+   "text": "“Well,” said he, “my mate Bill would be called the captain, as like\nas not. He has a cut on one cheek and a mighty pleasant way with him,\nparticularly in drink, has my mate Bill. We’ll put it, for argument\nlike, that your captain has a cut on one cheek--and we’ll put it, if you\nlike, that that cheek’s the right one. Ah, well! I told you. Now, is my\nmate Bill in this here house?”",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "you. Now, is my",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -149,7 +163,14 @@
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At last in strode the captain, slammed the door behind him, without\nlooking to the right or left, and marched straight across the room to\nwhere his breakfast awaited him."
+   "text": "At last in strode the captain, slammed the door behind him, without\nlooking to the right or left, and marched straight across the room to\nwhere his breakfast awaited him.",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "or left, and marched",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 18,
@@ -290,6 +311,11 @@
     {
      "key": "cutlass_clash",
      "at": "a clash of steel followed"
+    },
+    {
+     "key": "creak_1",
+     "at": "the left shoulder. Just",
+     "by": "place-players"
     }
    ],
    "para": 29,
@@ -407,7 +433,14 @@
    "para": 38,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“No more wounded than\nyou or I. The man has had a stroke, as I warned him. Now, Mrs. Hawkins,\njust you run upstairs to your husband and tell him, if possible, nothing\nabout it. For my part, I must do my best to save this fellow’s trebly\nworthless life; Jim, you get me a basin.”"
+   "text": "“No more wounded than\nyou or I. The man has had a stroke, as I warned him. Now, Mrs. Hawkins,\njust you run upstairs to your husband and tell him, if possible, nothing\nabout it. For my part, I must do my best to save this fellow’s trebly\nworthless life; Jim, you get me a basin.”",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "I must do my",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 54,
@@ -512,7 +545,14 @@
    "para": 44,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“except what you have\non your own back. You have been drinking rum; you have had a stroke,\nprecisely as I told you; and I have just, very much against my own will,\ndragged you headforemost out of the grave. Now, Mr. Bones--”"
+   "text": "“except what you have\non your own back. You have been drinking rum; you have had a stroke,\nprecisely as I told you; and I have just, very much against my own will,\ndragged you headforemost out of the grave. Now, Mr. Bones--”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "headforemost out of the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 69,

@@ -55,7 +55,19 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The wind, serving us to a desire, now hauled into the west. We could run\nso much the easier from the north-east corner of the island to the mouth\nof the North Inlet. Only, as we had no power to anchor and dared not\nbeach her till the tide had flowed a good deal farther, time hung on our\nhands. The coxswain told me how to lay the ship to; after a good many\ntrials I succeeded, and we both sat in silence over another meal."
+   "text": "The wind, serving us to a desire, now hauled into the west. We could run\nso much the easier from the north-east corner of the island to the mouth\nof the North Inlet. Only, as we had no power to anchor and dared not\nbeach her till the tide had flowed a good deal farther, time hung on our\nhands. The coxswain told me how to lay the ship to; after a good many\ntrials I succeeded, and we both sat in silence over another meal.",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "how to lay the",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "told me how to",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
@@ -75,6 +87,16 @@
      "key": "gull_far_1",
      "at": "with that same uncomfortable",
      "by": "place-birds"
+    },
+    {
+     "key": "sail_2",
+     "at": "length with that same",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_6",
+     "at": "that same uncomfortable smile,",
+     "by": "place-players"
     }
    ]
   },
@@ -83,14 +105,33 @@
    "para": 3,
    "role": "Israel Hands",
    "cast": "Charles Babbage",
-   "text": "“here’s\nmy old shipmate, O’Brien; s’pose you was to heave him overboard. I ain’t\npartic’lar as a rule, and I don’t take no blame for settling his hash,\nbut I don’t reckon him ornamental now, do you?”"
+   "text": "“here’s\nmy old shipmate, O’Brien; s’pose you was to heave him overboard. I ain’t\npartic’lar as a rule, and I don’t take no blame for settling his hash,\nbut I don’t reckon him ornamental now, do you?”",
+   "sfx": [
+    {
+     "key": "rigging_1",
+     "at": "partic’lar as a rule,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 7,
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“I’m not strong enough, and I don’t like the job; and there he lies, for\nme,” said I."
+   "text": "“I’m not strong enough, and I don’t like the job; and there he lies, for\nme,” said I.",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "and there he lies,",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_2",
+     "at": "don’t like the job;",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 8,
@@ -111,14 +152,33 @@
    "para": 5,
    "role": "Israel Hands",
    "cast": "Charles Babbage",
-   "text": "“There’s a power of men been killed in this HISPANIOLA--a\nsight o’ poor seamen dead and gone since you and me took ship to\nBristol. I never seen sich dirty luck, not I. There was this here\nO’Brien now--he’s dead, ain’t he? Well now, I’m no scholar, and you’re a\nlad as can read and figure, and to put it straight, do you take it as a\ndead man is dead for good, or do he come alive again?”"
+   "text": "“There’s a power of men been killed in this HISPANIOLA--a\nsight o’ poor seamen dead and gone since you and me took ship to\nBristol. I never seen sich dirty luck, not I. There was this here\nO’Brien now--he’s dead, ain’t he? Well now, I’m no scholar, and you’re a\nlad as can read and figure, and to put it straight, do you take it as a\ndead man is dead for good, or do he come alive again?”",
+   "sfx": [
+    {
+     "key": "rope_1",
+     "at": "O’Brien now--he’s dead, ain’t",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_6",
+     "at": "Bristol. I never seen",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 11,
    "para": 6,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“You can kill the body, Mr. Hands, but not the spirit; you must know\nthat already,” I replied. “O’Brien there is in another world, and may be\nwatching us.”"
+   "text": "“You can kill the body, Mr. Hands, but not the spirit; you must know\nthat already,” I replied. “O’Brien there is in another world, and may be\nwatching us.”",
+   "sfx": [
+    {
+     "key": "creak_2",
+     "at": "the spirit; you must",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -145,6 +205,16 @@
      "key": "gull_far_3",
      "at": "you’d step down into",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_5",
+     "at": "chance it with the",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_5",
+     "at": "into that there cabin",
+     "by": "place-players"
     }
    ]
   },
@@ -153,21 +223,57 @@
    "para": 8,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Now, the coxswain’s hesitation seemed to be unnatural, and as for the\nnotion of his preferring wine to brandy, I entirely disbelieved it. The\nwhole story was a pretext. He wanted me to leave the deck--so much was\nplain; but with what purpose I could in no way imagine. His eyes never\nmet mine; they kept wandering to and fro, up and down, now with a look\nto the sky, now with a flitting glance upon the dead O’Brien. All the\ntime he kept smiling and putting his tongue out in the most guilty,\nembarrassed manner, so that a child could have told that he was bent on\nsome deception. I was prompt with my answer, however, for I saw where\nmy advantage lay and that with a fellow so densely stupid I could easily\nconceal my suspicions to the end."
+   "text": "Now, the coxswain’s hesitation seemed to be unnatural, and as for the\nnotion of his preferring wine to brandy, I entirely disbelieved it. The\nwhole story was a pretext. He wanted me to leave the deck--so much was\nplain; but with what purpose I could in no way imagine. His eyes never\nmet mine; they kept wandering to and fro, up and down, now with a look\nto the sky, now with a flitting glance upon the dead O’Brien. All the\ntime he kept smiling and putting his tongue out in the most guilty,\nembarrassed manner, so that a child could have told that he was bent on\nsome deception. I was prompt with my answer, however, for I saw where\nmy advantage lay and that with a fellow so densely stupid I could easily\nconceal my suspicions to the end.",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "mine; they kept wandering",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_5",
+     "at": "I saw where my",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 16,
    "para": 9,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Some wine?” I said. “Far better. Will you have white or red?”"
+   "text": "“Some wine?” I said. “Far better. Will you have white or red?”",
+   "sfx": [
+    {
+     "key": "sail_5",
+     "at": "have white or red?”",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_2",
+     "at": "better. Will you have",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 17,
    "para": 10,
    "role": "Israel Hands",
    "cast": "Charles Babbage",
-   "text": "“Well, I reckon it’s about the blessed same to me, shipmate,”"
+   "text": "“Well, I reckon it’s about the blessed same to me, shipmate,”",
+   "sfx": [
+    {
+     "key": "feet_1",
+     "at": "the blessed same to",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_4",
+     "at": "blessed same to me,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 18,
@@ -201,6 +307,11 @@
      "key": "gull_far_1",
      "at": "the worst of my",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_1",
+     "at": "my shoes, ran quietly",
+     "by": "place-players"
     }
    ]
   },
@@ -209,14 +320,38 @@
    "para": 13,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "He had risen from his position to his hands and knees, and though his\nleg obviously hurt him pretty sharply when he moved--for I could hear\nhim stifle a groan--yet it was at a good, rattling rate that he trailed\nhimself across the deck. In half a minute he had reached the port\nscuppers and picked, out of a coil of rope, a long knife, or rather a\nshort dirk, discoloured to the hilt with blood. He looked upon it for\na moment, thrusting forth his under jaw, tried the point upon his hand,\nand then, hastily concealing it in the bosom of his jacket, trundled\nback again into his old place against the bulwark."
+   "text": "He had risen from his position to his hands and knees, and though his\nleg obviously hurt him pretty sharply when he moved--for I could hear\nhim stifle a groan--yet it was at a good, rattling rate that he trailed\nhimself across the deck. In half a minute he had reached the port\nscuppers and picked, out of a coil of rope, a long knife, or rather a\nshort dirk, discoloured to the hilt with blood. He looked upon it for\na moment, thrusting forth his under jaw, tried the point upon his hand,\nand then, hastily concealing it in the bosom of his jacket, trundled\nback again into his old place against the bulwark.",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "trundled back again into",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "rate that he trailed",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 23,
    "para": 14,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "This was all that I required to know. Israel could move about, he was\nnow armed, and if he had been at so much trouble to get rid of me,\nit was plain that I was meant to be the victim. What he would do\nafterwards--whether he would try to crawl right across the island from\nNorth Inlet to the camp among the swamps or whether he would fire Long\nTom, trusting that his own comrades might come first to help him--was,\nof course, more than I could say."
+   "text": "This was all that I required to know. Israel could move about, he was\nnow armed, and if he had been at so much trouble to get rid of me,\nit was plain that I was meant to be the victim. What he would do\nafterwards--whether he would try to crawl right across the island from\nNorth Inlet to the camp among the swamps or whether he would fire Long\nTom, trusting that his own comrades might come first to help him--was,\nof course, more than I could say.",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "to help him--was, of",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_3",
+     "at": "Long Tom, trusting that",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 24,
@@ -229,6 +364,16 @@
      "key": "gull_swoop_3",
      "at": "she could be got",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_1",
+     "at": "got off again with",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_5",
+     "at": "desired to have her",
+     "by": "place-players"
     }
    ]
   },
@@ -237,14 +382,38 @@
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "While I was thus turning the business over in my mind, I had not been\nidle with my body. I had stolen back to the cabin, slipped once more\ninto my shoes, and laid my hand at random on a bottle of wine, and now,\nwith this for an excuse, I made my reappearance on the deck."
+   "text": "While I was thus turning the business over in my mind, I had not been\nidle with my body. I had stolen back to the cabin, slipped once more\ninto my shoes, and laid my hand at random on a bottle of wine, and now,\nwith this for an excuse, I made my reappearance on the deck.",
+   "sfx": [
+    {
+     "key": "sail_2",
+     "at": "into my shoes, and",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_3",
+     "at": "once more into my",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 26,
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Hands lay as I had left him, all fallen together in a bundle and with\nhis eyelids lowered as though he were too weak to bear the light. He\nlooked up, however, at my coming, knocked the neck off the bottle like\na man who had done the same thing often, and took a good swig, with his\nfavourite toast of"
+   "text": "Hands lay as I had left him, all fallen together in a bundle and with\nhis eyelids lowered as though he were too weak to bear the light. He\nlooked up, however, at my coming, knocked the neck off the bottle like\na man who had done the same thing often, and took a good swig, with his\nfavourite toast of",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "light. He looked up,",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_1",
+     "at": "lowered as though he",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 27,
@@ -258,7 +427,19 @@
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Then he lay quiet for a little, and\nthen, pulling out a stick of tobacco, begged me to cut him a quid."
+   "text": "Then he lay quiet for a little, and\nthen, pulling out a stick of tobacco, begged me to cut him a quid.",
+   "sfx": [
+    {
+     "key": "rope_2",
+     "at": "to cut him a",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_5",
+     "at": "little, and then, pulling",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 29,
@@ -279,7 +460,14 @@
    "para": 18,
    "role": "Israel Hands",
    "cast": "Charles Babbage",
-   "text": "“for I haven’t no knife and hardly\nstrength enough, so be as I had. Ah, Jim, Jim, I reckon I’ve missed\nstays! Cut me a quid, as’ll likely be the last, lad, for I’m for my long\nhome, and no mistake.”"
+   "text": "“for I haven’t no knife and hardly\nstrength enough, so be as I had. Ah, Jim, Jim, I reckon I’ve missed\nstays! Cut me a quid, as’ll likely be the last, lad, for I’m for my long\nhome, and no mistake.”",
+   "sfx": [
+    {
+     "key": "sail_2",
+     "at": "for my long home,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 32,
@@ -292,6 +480,11 @@
      "key": "gull_swoop_2",
      "at": "so badly, I would",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_5",
+     "at": "I was you and",
+     "by": "place-players"
     }
    ]
   },
@@ -328,7 +521,19 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I spoke with a little heat, thinking of the bloody dirk he had hidden\nin his pocket and designed, in his ill thoughts, to end me with. He,\nfor his part, took a great draught of the wine and spoke with the most\nunusual solemnity."
+   "text": "I spoke with a little heat, thinking of the bloody dirk he had hidden\nin his pocket and designed, in his ill thoughts, to end me with. He,\nfor his part, took a great draught of the wine and spoke with the most\nunusual solemnity.",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "he had hidden in",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_2",
+     "at": "in his ill thoughts,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 38,
@@ -355,6 +560,16 @@
      "key": "gull_pair_2",
      "at": "my fancy; dead men",
      "by": "place-birds"
+    },
+    {
+     "key": "sail_8",
+     "at": "Well, now I tell",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_3",
+     "at": "bite; them’s my views--amen,",
+     "by": "place-players"
     }
    ]
   },
@@ -370,14 +585,38 @@
    "para": 23,
    "role": "Israel Hands",
    "cast": "Charles Babbage",
-   "text": "“we’ve had about enough of this foolery. The\ntide’s made good enough by now. You just take my orders, Cap’n Hawkins,\nand we’ll sail slap in and be done with it.”"
+   "text": "“we’ve had about enough of this foolery. The\ntide’s made good enough by now. You just take my orders, Cap’n Hawkins,\nand we’ll sail slap in and be done with it.”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "Cap’n Hawkins, and we’ll",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_5",
+     "at": "just take my orders,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 43,
    "para": 24,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "All told, we had scarce two miles to run; but the navigation was\ndelicate, the entrance to this northern anchorage was not only narrow\nand shoal, but lay east and west, so that the schooner must be nicely\nhandled to be got in. I think I was a good, prompt subaltern, and I am\nvery sure that Hands was an excellent pilot, for we went about and about\nand dodged in, shaving the banks, with a certainty and a neatness that\nwere a pleasure to behold."
+   "text": "All told, we had scarce two miles to run; but the navigation was\ndelicate, the entrance to this northern anchorage was not only narrow\nand shoal, but lay east and west, so that the schooner must be nicely\nhandled to be got in. I think I was a good, prompt subaltern, and I am\nvery sure that Hands was an excellent pilot, for we went about and about\nand dodged in, shaving the banks, with a certainty and a neatness that\nwere a pleasure to behold.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "good, prompt subaltern, and",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_2",
+     "at": "to be got in.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 44,
@@ -390,6 +629,16 @@
      "key": "gull_far_1",
      "at": "seaweed, and on the",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_5",
+     "at": "of a river. Right",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_2",
+     "at": "with flowers. It was",
+     "by": "place-players"
     }
    ]
   },
@@ -412,14 +661,38 @@
    "para": 26,
    "role": "Israel Hands",
    "cast": "Charles Babbage",
-   "text": "“look there; there’s a pet bit for to beach a ship\nin. Fine flat sand, never a cat’s paw, trees all around of it, and\nflowers a-blowing like a garding on that old ship.”"
+   "text": "“look there; there’s a pet bit for to beach a ship\nin. Fine flat sand, never a cat’s paw, trees all around of it, and\nflowers a-blowing like a garding on that old ship.”",
+   "sfx": [
+    {
+     "key": "sail_3",
+     "at": "Fine flat sand, never",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_1",
+     "at": "in. Fine flat sand,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 48,
    "para": 27,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“And once beached,” I inquired, “how shall we get her off again?”"
+   "text": "“And once beached,” I inquired, “how shall we get her off again?”",
+   "sfx": [
+    {
+     "key": "feet_4",
+     "at": "inquired, “how shall we",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_5",
+     "at": "shall we get her",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 49,
@@ -440,14 +713,33 @@
    "para": 28,
    "role": "Israel Hands",
    "cast": "Charles Babbage",
-   "text": "“you take a line ashore there on the other side\nat low water, take a turn about one of them big pines; bring it back,\ntake a turn around the capstan, and lie to for the tide. Come high\nwater, all hands take a pull upon the line, and off she comes as sweet\nas natur’. And now, boy, you stand by. We’re near the bit now, and she’s\ntoo much way on her. Starboard a little--so--steady--starboard--larboard\na little--steady--steady!”"
+   "text": "“you take a line ashore there on the other side\nat low water, take a turn about one of them big pines; bring it back,\ntake a turn around the capstan, and lie to for the tide. Come high\nwater, all hands take a pull upon the line, and off she comes as sweet\nas natur’. And now, boy, you stand by. We’re near the bit now, and she’s\ntoo much way on her. Starboard a little--so--steady--starboard--larboard\na little--steady--steady!”",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "boy, you stand by.",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_6",
+     "at": "now, and she’s too",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 52,
    "para": 29,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "So he issued his commands, which I breathlessly obeyed, till, all of a\nsudden, he cried,"
+   "text": "So he issued his commands, which I breathlessly obeyed, till, all of a\nsudden, he cried,",
+   "sfx": [
+    {
+     "key": "sail_6",
+     "at": "all of a sudden,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 53,
@@ -474,6 +766,16 @@
      "key": "gull_far_2",
      "at": "my eye; perhaps it",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_5",
+     "at": "seen his shadow moving",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_4",
+     "at": "eye; perhaps it was",
+     "by": "place-players"
     }
    ]
   },
@@ -482,14 +784,38 @@
    "para": 31,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "We must both have cried out aloud when our eyes met, but while mine\nwas the shrill cry of terror, his was a roar of fury like a charging\nbully’s. At the same instant, he threw himself forward and I leapt\nsideways towards the bows. As I did so, I let go of the tiller, which\nsprang sharp to leeward, and I think this saved my life, for it struck\nHands across the chest and stopped him, for the moment, dead."
+   "text": "We must both have cried out aloud when our eyes met, but while mine\nwas the shrill cry of terror, his was a roar of fury like a charging\nbully’s. At the same instant, he threw himself forward and I leapt\nsideways towards the bows. As I did so, I let go of the tiller, which\nsprang sharp to leeward, and I think this saved my life, for it struck\nHands across the chest and stopped him, for the moment, dead.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "let go of the",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_5",
+     "at": "and I think this",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 57,
    "para": 32,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Before he could recover, I was safe out of the corner where he had me\ntrapped, with all the deck to dodge about. Just forward of the main-mast\nI stopped, drew a pistol from my pocket, took a cool aim, though he had\nalready turned and was once more coming directly after me, and drew the\ntrigger. The hammer fell, but there followed neither flash nor sound;\nthe priming was useless with sea-water. I cursed myself for my neglect.\nWhy had not I, long before, reprimed and reloaded my only weapons? Then\nI should not have been as now, a mere fleeing sheep before this butcher."
+   "text": "Before he could recover, I was safe out of the corner where he had me\ntrapped, with all the deck to dodge about. Just forward of the main-mast\nI stopped, drew a pistol from my pocket, took a cool aim, though he had\nalready turned and was once more coming directly after me, and drew the\ntrigger. The hammer fell, but there followed neither flash nor sound;\nthe priming was useless with sea-water. I cursed myself for my neglect.\nWhy had not I, long before, reprimed and reloaded my only weapons? Then\nI should not have been as now, a mere fleeing sheep before this butcher.",
+   "sfx": [
+    {
+     "key": "creak_8",
+     "at": "pocket, took a cool",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_4",
+     "at": "I cursed myself for",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 58,
@@ -502,6 +828,16 @@
      "key": "gull_pair_2",
      "at": "nerve upon the stretch.",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_6",
+     "at": "placed my palms against",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_5",
+     "at": "boxed me in the",
+     "by": "place-players"
     }
    ]
   },
@@ -510,7 +846,19 @@
    "para": 34,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Seeing that I meant to dodge, he also paused; and a moment or two passed\nin feints on his part and corresponding movements upon mine. It was such\na game as I had often played at home about the rocks of Black Hill Cove,\nbut never before, you may be sure, with such a wildly beating heart as\nnow. Still, as I say, it was a boy’s game, and I thought I could hold\nmy own at it against an elderly seaman with a wounded thigh. Indeed my\ncourage had begun to rise so high that I allowed myself a few darting\nthoughts on what would be the end of the affair, and while I saw\ncertainly that I could spin it out for long, I saw no hope of any\nultimate escape."
+   "text": "Seeing that I meant to dodge, he also paused; and a moment or two passed\nin feints on his part and corresponding movements upon mine. It was such\na game as I had often played at home about the rocks of Black Hill Cove,\nbut never before, you may be sure, with such a wildly beating heart as\nnow. Still, as I say, it was a boy’s game, and I thought I could hold\nmy own at it against an elderly seaman with a wounded thigh. Indeed my\ncourage had begun to rise so high that I allowed myself a few darting\nthoughts on what would be the end of the affair, and while I saw\ncertainly that I could spin it out for long, I saw no hope of any\nultimate escape.",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "the end of the",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "say, it was a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 60,
@@ -523,6 +871,16 @@
      "key": "gull_near_1",
      "at": "over to the port",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_2",
+     "at": "canted over to the",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_2",
+     "at": "then, swift as a",
+     "by": "place-players"
     }
    ]
   },
@@ -531,14 +889,38 @@
    "para": 36,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "We were both of us capsized in a second, and both of us rolled, almost\ntogether, into the scuppers, the dead red-cap, with his arms still\nspread out, tumbling stiffly after us. So near were we, indeed, that my\nhead came against the coxswain’s foot with a crack that made my teeth\nrattle. Blow and all, I was the first afoot again, for Hands had got\ninvolved with the dead body. The sudden canting of the ship had made the\ndeck no place for running on; I had to find some new way of escape,\nand that upon the instant, for my foe was almost touching me. Quick as\nthought, I sprang into the mizzen shrouds, rattled up hand over hand,\nand did not draw a breath till I was seated on the cross-trees."
+   "text": "We were both of us capsized in a second, and both of us rolled, almost\ntogether, into the scuppers, the dead red-cap, with his arms still\nspread out, tumbling stiffly after us. So near were we, indeed, that my\nhead came against the coxswain’s foot with a crack that made my teeth\nrattle. Blow and all, I was the first afoot again, for Hands had got\ninvolved with the dead body. The sudden canting of the ship had made the\ndeck no place for running on; I had to find some new way of escape,\nand that upon the instant, for my foe was almost touching me. Quick as\nthought, I sprang into the mizzen shrouds, rattled up hand over hand,\nand did not draw a breath till I was seated on the cross-trees.",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "shrouds, rattled up hand",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_1",
+     "at": "first afoot again, for",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 62,
    "para": 37,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I had been saved by being prompt; the dirk had struck not half a foot\nbelow me as I pursued my upward flight; and there stood Israel Hands\nwith his mouth open and his face upturned to mine, a perfect statue of\nsurprise and disappointment."
+   "text": "I had been saved by being prompt; the dirk had struck not half a foot\nbelow me as I pursued my upward flight; and there stood Israel Hands\nwith his mouth open and his face upturned to mine, a perfect statue of\nsurprise and disappointment.",
+   "sfx": [
+    {
+     "key": "sail_2",
+     "at": "and there stood Israel",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_3",
+     "at": "with his mouth open",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 63,
@@ -551,6 +933,16 @@
      "key": "gull_far_2",
      "at": "having one ready for",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_4",
+     "at": "to make assurance doubly",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_3",
+     "at": "priming of my pistol,",
+     "by": "place-players"
     }
    ]
   },
@@ -559,21 +951,57 @@
    "para": 39,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "My new employment struck Hands all of a heap; he began to see the dice\ngoing against him, and after an obvious hesitation, he also hauled\nhimself heavily into the shrouds, and with the dirk in his teeth, began\nslowly and painfully to mount. It cost him no end of time and groans\nto haul his wounded leg behind him, and I had quietly finished my\narrangements before he was much more than a third of the way up. Then,\nwith a pistol in either hand, I addressed him."
+   "text": "My new employment struck Hands all of a heap; he began to see the dice\ngoing against him, and after an obvious hesitation, he also hauled\nhimself heavily into the shrouds, and with the dirk in his teeth, began\nslowly and painfully to mount. It cost him no end of time and groans\nto haul his wounded leg behind him, and I had quietly finished my\narrangements before he was much more than a third of the way up. Then,\nwith a pistol in either hand, I addressed him.",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "cost him no end",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_2",
+     "at": "way up. Then, with",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 65,
    "para": 40,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“One more step, Mr. Hands,” said I, “and I’ll blow your brains out! Dead\nmen don’t bite, you know,” I added with a chuckle."
+   "text": "“One more step, Mr. Hands,” said I, “and I’ll blow your brains out! Dead\nmen don’t bite, you know,” I added with a chuckle.",
+   "sfx": [
+    {
+     "key": "sail_2",
+     "at": "I added with a",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_4",
+     "at": "your brains out! Dead",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 66,
    "para": 41,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "He stopped instantly. I could see by the working of his face that he was\ntrying to think, and the process was so slow and laborious that, in my\nnew-found security, I laughed aloud. At last, with a swallow or two, he\nspoke, his face still wearing the same expression of extreme perplexity.\nIn order to speak he had to take the dagger from his mouth, but in all\nelse he remained unmoved."
+   "text": "He stopped instantly. I could see by the working of his face that he was\ntrying to think, and the process was so slow and laborious that, in my\nnew-found security, I laughed aloud. At last, with a swallow or two, he\nspoke, his face still wearing the same expression of extreme perplexity.\nIn order to speak he had to take the dagger from his mouth, but in all\nelse he remained unmoved.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "new-found security, I laughed",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_2",
+     "at": "order to speak he",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 67,
@@ -600,6 +1028,16 @@
      "key": "gull_pair_1",
      "at": "luck, not I; and",
      "by": "place-birds"
+    },
+    {
+     "key": "rope_4",
+     "at": "and I reckon I’ll",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_6",
+     "at": "to a ship’s younker",
+     "by": "place-players"
     }
    ]
   },
@@ -639,6 +1077,16 @@
      "by": "place-birds",
      "at": "both my pistols went off",
      "offset": 0.45
+    },
+    {
+     "key": "creak_2",
+     "at": "the moment--I scarce can",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_5",
+     "at": "the coxswain loosed his",
+     "by": "place-players"
     }
    ],
    "para": 43,

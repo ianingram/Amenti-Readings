@@ -62,7 +62,19 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "It was still quite early, and the coldest morning that I think I ever\nwas abroad in--a chill that pierced into the marrow. The sky was bright\nand cloudless overhead, and the tops of the trees shone rosily in\nthe sun. But where Silver stood with his lieutenant, all was still in\nshadow, and they waded knee-deep in a low white vapour that had crawled\nduring the night out of the morass. The chill and the vapour taken\ntogether told a poor tale of the island. It was plainly a damp,\nfeverish, unhealthy spot."
+   "text": "It was still quite early, and the coldest morning that I think I ever\nwas abroad in--a chill that pierced into the marrow. The sky was bright\nand cloudless overhead, and the tops of the trees shone rosily in\nthe sun. But where Silver stood with his lieutenant, all was still in\nshadow, and they waded knee-deep in a low white vapour that had crawled\nduring the night out of the morass. The chill and the vapour taken\ntogether told a poor tale of the island. It was plainly a damp,\nfeverish, unhealthy spot.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "trees shone rosily in",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_dawn_4",
+     "at": "where Silver stood with",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
@@ -123,7 +135,14 @@
    "para": 8,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The captain was in the porch, keeping himself carefully out of the way\nof a treacherous shot, should any be intended. He turned and spoke to\nus,"
+   "text": "The captain was in the porch, keeping himself carefully out of the way\nof a treacherous shot, should any be intended. He turned and spoke to\nus,",
+   "sfx": [
+    {
+     "key": "insects_day_3",
+     "at": "keeping himself carefully out",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 13,
@@ -151,7 +170,14 @@
    "para": 10,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“And what do you want with your flag of truce?”"
+   "text": "“And what do you want with your flag of truce?”",
+   "sfx": [
+    {
+     "key": "birds_day_6",
+     "at": "do you want with",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 16,
@@ -186,7 +212,14 @@
    "para": 13,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "cried the captain. And we\ncould hear him adding to himself,"
+   "text": "cried the captain. And we\ncould hear him adding to himself,",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "captain. And we could",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 21,
@@ -228,7 +261,14 @@
    "para": 14,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“We’re willing to submit, if we can come to terms,\nand no bones about it. All I ask is your word, Cap’n Smollett, to let me\nsafe and sound out of this here stockade, and one minute to get out o’\nshot before a gun is fired.”"
+   "text": "“We’re willing to submit, if we can come to terms,\nand no bones about it. All I ask is your word, Cap’n Smollett, to let me\nsafe and sound out of this here stockade, and one minute to get out o’\nshot before a gun is fired.”",
+   "sfx": [
+    {
+     "key": "birds_day_6",
+     "at": "get out o’ shot",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 27,
@@ -249,7 +289,19 @@
    "para": 15,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I have not the slightest desire to\ntalk to you. If you wish to talk to me, you can come, that’s all. If\nthere’s any treachery, it’ll be on your side, and the Lord help you.”"
+   "text": "“I have not the slightest desire to\ntalk to you. If you wish to talk to me, you can come, that’s all. If\nthere’s any treachery, it’ll be on your side, and the Lord help you.”",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "you can come, that’s",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "any treachery, it’ll be",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 30,
@@ -277,7 +329,14 @@
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "We could see the man who carried the flag of truce attempting to hold\nSilver back. Nor was that wonderful, seeing how cavalier had been the\ncaptain’s answer. But Silver laughed at him aloud and slapped him on the\nback as if the idea of alarm had been absurd. Then he advanced to the\nstockade, threw over his crutch, got a leg up, and with great vigour\nand skill succeeded in surmounting the fence and dropping safely to the\nother side."
+   "text": "We could see the man who carried the flag of truce attempting to hold\nSilver back. Nor was that wonderful, seeing how cavalier had been the\ncaptain’s answer. But Silver laughed at him aloud and slapped him on the\nback as if the idea of alarm had been absurd. Then he advanced to the\nstockade, threw over his crutch, got a leg up, and with great vigour\nand skill succeeded in surmounting the fence and dropping safely to the\nother side.",
+   "sfx": [
+    {
+     "key": "birds_day_3",
+     "at": "up, and with great",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 34,
@@ -290,6 +349,11 @@
      "key": "gull_far_3",
      "at": "old iron kettle in",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_6",
+     "at": "it bubbled out of",
+     "by": "place-players"
     }
    ]
   },
@@ -298,7 +362,19 @@
    "para": 19,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Silver had terrible hard work getting up the knoll. What with the\nsteepness of the incline, the thick tree stumps, and the soft sand, he\nand his crutch were as helpless as a ship in stays. But he stuck to it\nlike a man in silence, and at last arrived before the captain, whom\nhe saluted in the handsomest style. He was tricked out in his best;\nan immense blue coat, thick with brass buttons, hung as low as to his\nknees, and a fine laced hat was set on the back of his head."
+   "text": "Silver had terrible hard work getting up the knoll. What with the\nsteepness of the incline, the thick tree stumps, and the soft sand, he\nand his crutch were as helpless as a ship in stays. But he stuck to it\nlike a man in silence, and at last arrived before the captain, whom\nhe saluted in the handsomest style. He was tricked out in his best;\nan immense blue coat, thick with brass buttons, hung as low as to his\nknees, and a fine laced hat was set on the back of his head.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "stuck to it like",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "as low as to",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 36,
@@ -326,7 +402,14 @@
    "para": 21,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“You ain’t a-going to let me inside, Cap’n?”"
+   "text": "“You ain’t a-going to let me inside, Cap’n?”",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "let me inside, Cap’n?”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 40,
@@ -361,7 +444,14 @@
    "para": 22,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“if you had pleased to be an honest\nman, you might have been sitting in your galley. It’s your own doing.\nYou’re either my ship’s cook--and then you were treated handsome--or\nCap’n Silver, a common mutineer and pirate, and then you can go hang!”"
+   "text": "“if you had pleased to be an honest\nman, you might have been sitting in your galley. It’s your own doing.\nYou’re either my ship’s cook--and then you were treated handsome--or\nCap’n Silver, a common mutineer and pirate, and then you can go hang!”",
+   "sfx": [
+    {
+     "key": "birds_day_5",
+     "at": "ship’s cook--and then you",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 45,
@@ -389,7 +479,14 @@
    "para": 24,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“If you have anything to say, my man, better say it,”"
+   "text": "“If you have anything to say, my man, better say it,”",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "man, better say it,”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 49,
@@ -417,7 +514,19 @@
    "para": 25,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Dooty is dooty, to be\nsure. Well now, you look here, that was a good lay of yours last\nnight. I don’t deny it was a good lay. Some of you pretty handy with a\nhandspike-end. And I’ll not deny neither but what some of my people was\nshook--maybe all was shook; maybe I was shook myself; maybe that’s\nwhy I’m here for terms. But you mark me, Cap’n, it won’t do twice, by\nthunder! We’ll have to do sentry-go and ease off a point or so on the\nrum. Maybe you think we were all a sheet in the wind’s eye. But I’ll\ntell you I was sober; I was on’y dog tired; and if I’d awoke a second\nsooner, I’d ’a caught you at the act, I would. He wasn’t dead when I got\nround to him, not he.”"
+   "text": "“Dooty is dooty, to be\nsure. Well now, you look here, that was a good lay of yours last\nnight. I don’t deny it was a good lay. Some of you pretty handy with a\nhandspike-end. And I’ll not deny neither but what some of my people was\nshook--maybe all was shook; maybe I was shook myself; maybe that’s\nwhy I’m here for terms. But you mark me, Cap’n, it won’t do twice, by\nthunder! We’ll have to do sentry-go and ease off a point or so on the\nrum. Maybe you think we were all a sheet in the wind’s eye. But I’ll\ntell you I was sober; I was on’y dog tired; and if I’d awoke a second\nsooner, I’d ’a caught you at the act, I would. He wasn’t dead when I got\nround to him, not he.”",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "was on’y dog tired;",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_5",
+     "at": "wind’s eye. But I’ll",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 53,
@@ -437,6 +546,16 @@
      "key": "gull_far_3",
      "at": "cool as can be.",
      "by": "place-birds"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "Smollett as cool as",
+     "by": "place-players"
+    },
+    {
+     "key": "bird_cry_1",
+     "at": "as cool as can",
+     "by": "place-players"
     }
    ]
   },
@@ -466,7 +585,19 @@
    "para": 28,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“We want that treasure, and we’ll have\nit--that’s our point! You would just as soon save your lives, I reckon;\nand that’s yours. You have a chart, haven’t you?”"
+   "text": "“We want that treasure, and we’ll have\nit--that’s our point! You would just as soon save your lives, I reckon;\nand that’s yours. You have a chart, haven’t you?”",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "yours. You have a",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "a chart, haven’t you?”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 59,
@@ -564,14 +695,33 @@
    "para": 34,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Gray told me nothing, and I asked\nhim nothing; and what’s more, I would see you and him and this whole\nisland blown clean out of the water into blazes first. So there’s my\nmind for you, my man, on that.”"
+   "text": "“Gray told me nothing, and I asked\nhim nothing; and what’s more, I would see you and him and this whole\nisland blown clean out of the water into blazes first. So there’s my\nmind for you, my man, on that.”",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "whole island blown clean",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "there’s my mind for",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 73,
    "para": 35,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "This little whiff of temper seemed to cool Silver down. He had been\ngrowing nettled before, but now he pulled himself together."
+   "text": "This little whiff of temper seemed to cool Silver down. He had been\ngrowing nettled before, but now he pulled himself together.",
+   "sfx": [
+    {
+     "key": "insects_day_3",
+     "at": "down. He had been",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 74,
@@ -620,7 +770,19 @@
    "para": 38,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“here it is. You give us the chart to get the\ntreasure by, and drop shooting poor seamen and stoving of their heads in\nwhile asleep. You do that, and we’ll offer you a choice. Either you come\naboard along of us, once the treasure shipped, and then I’ll give you my\naffy-davy, upon my word of honour, to clap you somewhere safe ashore. Or\nif that ain’t to your fancy, some of my hands being rough and having\nold scores on account of hazing, then you can stay here, you can. We’ll\ndivide stores with you, man for man; and I’ll give my affy-davy, as\nbefore to speak the first ship I sight, and send ’em here to pick you\nup. Now, you’ll own that’s talking. Handsomer you couldn’t look to get,\nnow you. And I hope”"
+   "text": "“here it is. You give us the chart to get the\ntreasure by, and drop shooting poor seamen and stoving of their heads in\nwhile asleep. You do that, and we’ll offer you a choice. Either you come\naboard along of us, once the treasure shipped, and then I’ll give you my\naffy-davy, upon my word of honour, to clap you somewhere safe ashore. Or\nif that ain’t to your fancy, some of my hands being rough and having\nold scores on account of hazing, then you can stay here, you can. We’ll\ndivide stores with you, man for man; and I’ll give my affy-davy, as\nbefore to speak the first ship I sight, and send ’em here to pick you\nup. Now, you’ll own that’s talking. Handsomer you couldn’t look to get,\nnow you. And I hope”",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "my affy-davy, upon my",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "my word of honour,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 81,
@@ -634,7 +796,14 @@
    "para": 38,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“that all hands in this here\nblock house will overhaul my words, for what is spoke to one is spoke to\nall.”"
+   "text": "“that all hands in this here\nblock house will overhaul my words, for what is spoke to one is spoke to\nall.”",
+   "sfx": [
+    {
+     "key": "insects_day_2",
+     "at": "words, for what is",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 83,
@@ -704,14 +873,33 @@
    "para": 42,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Now you’ll hear me. If you’ll come up\none by one, unarmed, I’ll engage to clap you all in irons and take you\nhome to a fair trial in England. If you won’t, my name is Alexander\nSmollett, I’ve flown my sovereign’s colours, and I’ll see you all\nto Davy Jones. You can’t find the treasure. You can’t sail the\nship--there’s not a man among you fit to sail the ship. You can’t fight\nus--Gray, there, got away from five of you. Your ship’s in irons, Master\nSilver; you’re on a lee shore, and so you’ll find. I stand here and tell\nyou so; and they’re the last good words you’ll get from me, for in the\nname of heaven, I’ll put a bullet in your back when next I meet you.\nTramp, my lad. Bundle out of this, please, hand over hand, and double\nquick.”"
+   "text": "“Now you’ll hear me. If you’ll come up\none by one, unarmed, I’ll engage to clap you all in irons and take you\nhome to a fair trial in England. If you won’t, my name is Alexander\nSmollett, I’ve flown my sovereign’s colours, and I’ll see you all\nto Davy Jones. You can’t find the treasure. You can’t sail the\nship--there’s not a man among you fit to sail the ship. You can’t fight\nus--Gray, there, got away from five of you. Your ship’s in irons, Master\nSilver; you’re on a lee shore, and so you’ll find. I stand here and tell\nyou so; and they’re the last good words you’ll get from me, for in the\nname of heaven, I’ll put a bullet in your back when next I meet you.\nTramp, my lad. Bundle out of this, please, hand over hand, and double\nquick.”",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "over hand, and double",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_1",
+     "at": "this, please, hand over",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 92,
    "para": 43,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Silver’s face was a picture; his eyes started in his head with wrath. He\nshook the fire out of his pipe."
+   "text": "Silver’s face was a picture; his eyes started in his head with wrath. He\nshook the fire out of his pipe.",
+   "sfx": [
+    {
+     "key": "insects_day_2",
+     "at": "eyes started in his",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 93,
@@ -786,7 +974,19 @@
    "para": 48,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“That’s what I think of ye. Before an hour’s out,\nI’ll stove in your old block house like a rum puncheon. Laugh, by\nthunder, laugh! Before an hour’s out, ye’ll laugh upon the other side.\nThem that die’ll be the lucky ones.”"
+   "text": "“That’s what I think of ye. Before an hour’s out,\nI’ll stove in your old block house like a rum puncheon. Laugh, by\nthunder, laugh! Before an hour’s out, ye’ll laugh upon the other side.\nThem that die’ll be the lucky ones.”",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "like a rum puncheon.",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "that die’ll be the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 103,

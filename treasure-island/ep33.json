@@ -59,7 +59,14 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "There never was such an overturn in this world. Each of these six men\nwas as though he had been struck. But with Silver the blow passed almost\ninstantly. Every thought of his soul had been set full-stretch, like a\nracer, on that money; well, he was brought up, in a single second, dead;\nand he kept his head, found his temper, and changed his plan before the\nothers had had time to realize the disappointment."
+   "text": "There never was such an overturn in this world. Each of these six men\nwas as though he had been struck. But with Silver the blow passed almost\ninstantly. Every thought of his soul had been set full-stretch, like a\nracer, on that money; well, he was brought up, in a single second, dead;\nand he kept his head, found his temper, and changed his plan before the\nothers had had time to realize the disappointment.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "single second, dead; and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
@@ -94,7 +101,19 @@
    "para": 5,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At the same time, he began quietly moving northward, and in a few steps\nhad put the hollow between us two and the other five. Then he looked at\nme and nodded, as much as to say,"
+   "text": "At the same time, he began quietly moving northward, and in a few steps\nhad put the hollow between us two and the other five. Then he looked at\nme and nodded, as much as to say,",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "other five. Then he",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "between us two and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 9,
@@ -128,6 +147,11 @@
      "key": "gull_far_1",
      "at": "pit and to dig",
      "by": "place-birds"
+    },
+    {
+     "key": "birds_day_4",
+     "at": "a two-guinea piece, and",
+     "by": "place-players"
     }
    ]
   },
@@ -157,14 +181,28 @@
    "para": 8,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“you’ll find\nsome pig-nuts and I shouldn’t wonder.”"
+   "text": "“you’ll find\nsome pig-nuts and I shouldn’t wonder.”",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "pig-nuts and I shouldn’t",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 17,
    "para": 9,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Pig-nuts!” repeated Merry, in a scream. “Mates, do you hear that? I\ntell you now, that man there knew it all along. Look in the face of him\nand you’ll see it wrote there.”"
+   "text": "“Pig-nuts!” repeated Merry, in a scream. “Mates, do you hear that? I\ntell you now, that man there knew it all along. Look in the face of him\nand you’ll see it wrote there.”",
+   "sfx": [
+    {
+     "key": "birds_day_1",
+     "at": "in the face of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 18,
@@ -192,14 +230,28 @@
    "para": 11,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "But this time everyone was entirely in Merry’s favour. They began to\nscramble out of the excavation, darting furious glances behind them. One\nthing I observed, which looked well for us: they all got out upon the\nopposite side from Silver."
+   "text": "But this time everyone was entirely in Merry’s favour. They began to\nscramble out of the excavation, darting furious glances behind them. One\nthing I observed, which looked well for us: they all got out upon the\nopposite side from Silver.",
+   "sfx": [
+    {
+     "key": "insects_day_2",
+     "at": "the excavation, darting furious",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 22,
    "para": 12,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Well, there we stood, two on one side, five on the other, the pit\nbetween us, and nobody screwed up high enough to offer the first blow.\nSilver never moved; he watched them, very upright on his crutch, and\nlooked as cool as ever I saw him. He was brave, and no mistake."
+   "text": "Well, there we stood, two on one side, five on the other, the pit\nbetween us, and nobody screwed up high enough to offer the first blow.\nSilver never moved; he watched them, very upright on his crutch, and\nlooked as cool as ever I saw him. He was brave, and no mistake.",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "us, and nobody screwed",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 23,
@@ -213,7 +265,14 @@
    "para": 14,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Mates,” says he, “there’s two of them alone there; one’s the old\ncripple that brought us all here and blundered us down to this; the\nother’s that cub that I mean to have the heart of. Now, mates--”"
+   "text": "“Mates,” says he, “there’s two of them alone there; one’s the old\ncripple that brought us all here and blundered us down to this; the\nother’s that cub that I mean to have the heart of. Now, mates--”",
+   "sfx": [
+    {
+     "key": "birds_day_4",
+     "at": "and blundered us down",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 25,
@@ -270,6 +329,16 @@
      "key": "gull_far_1",
      "at": "the struggling Merry, and",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_3",
+     "at": "in the last agony,",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "his eyes at him",
+     "by": "place-players"
     }
    ],
    "para": 16,
@@ -310,7 +379,14 @@
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At the same moment, the doctor, Gray, and Ben Gunn joined us, with\nsmoking muskets, from among the nutmeg-trees."
+   "text": "At the same moment, the doctor, Gray, and Ben Gunn joined us, with\nsmoking muskets, from among the nutmeg-trees.",
+   "sfx": [
+    {
+     "key": "birds_day_1",
+     "at": "and Ben Gunn joined",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 31,
@@ -373,7 +449,19 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Sure enough there was no hurry. In a more open part of the plateau, we\ncould see the three survivors still running in the same direction as\nthey had started, right for Mizzenmast Hill. We were already between\nthem and the boats; and so we four sat down to breathe, while Long John,\nmopping his face, came slowly up with us."
+   "text": "Sure enough there was no hurry. In a more open part of the plateau, we\ncould see the three survivors still running in the same direction as\nthey had started, right for Mizzenmast Hill. We were already between\nthem and the boats; and so we four sat down to breathe, while Long John,\nmopping his face, came slowly up with us.",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "mopping his face, came",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_6",
+     "at": "the three survivors still",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 40,
@@ -394,7 +482,14 @@
    "para": 23,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“You came in in about the nick, I\nguess, for me and Hawkins. And so it’s you, Ben Gunn!”"
+   "text": "“You came in in about the nick, I\nguess, for me and Hawkins. And so it’s you, Ben Gunn!”",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "so it’s you, Ben",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 43,
@@ -443,7 +538,14 @@
    "para": 24,
    "role": "Ben Gunn",
    "cast": "James Joyce",
-   "text": "“how do, Mr. Silver?\nPretty well, I thank ye, says you.”"
+   "text": "“how do, Mr. Silver?\nPretty well, I thank ye, says you.”",
+   "sfx": [
+    {
+     "key": "bird_cry_1",
+     "at": "Mr. Silver? Pretty well,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 50,
@@ -477,6 +579,16 @@
      "key": "gull_far_1",
      "at": "lying, related in a",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_2",
+     "at": "place. It was a",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_5",
+     "at": "hero from beginning to",
+     "by": "place-players"
     }
    ]
   },
@@ -485,14 +597,33 @@
    "para": 27,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Ben, in his long, lonely wanderings about the island, had found the\nskeleton--it was he that had rifled it; he had found the treasure; he\nhad dug it up (it was the haft of his pick-axe that lay broken in the\nexcavation); he had carried it on his back, in many weary journeys, from\nthe foot of the tall pine to a cave he had on the two-pointed hill at\nthe north-east angle of the island, and there it had lain stored in\nsafety since two months before the arrival of the HISPANIOLA."
+   "text": "Ben, in his long, lonely wanderings about the island, had found the\nskeleton--it was he that had rifled it; he had found the treasure; he\nhad dug it up (it was the haft of his pick-axe that lay broken in the\nexcavation); he had carried it on his back, in many weary journeys, from\nthe foot of the tall pine to a cave he had on the two-pointed hill at\nthe north-east angle of the island, and there it had lain stored in\nsafety since two months before the arrival of the HISPANIOLA.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "excavation); he had carried",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 55,
    "para": 28,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "When the doctor had wormed this secret from him on the afternoon of the\nattack, and when next morning he saw the anchorage deserted, he had gone\nto Silver, given him the chart, which was now useless--given him the\nstores, for Ben Gunn’s cave was well supplied with goats’ meat salted\nby himself--given anything and everything to get a chance of moving in\nsafety from the stockade to the two-pointed hill, there to be clear of\nmalaria and keep a guard upon the money."
+   "text": "When the doctor had wormed this secret from him on the afternoon of the\nattack, and when next morning he saw the anchorage deserted, he had gone\nto Silver, given him the chart, which was now useless--given him the\nstores, for Ben Gunn’s cave was well supplied with goats’ meat salted\nby himself--given anything and everything to get a chance of moving in\nsafety from the stockade to the two-pointed hill, there to be clear of\nmalaria and keep a guard upon the money.",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "everything to get a",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "to be clear of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 56,
@@ -520,7 +651,19 @@
    "para": 30,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "That morning, finding that I was to be involved in the horrid\ndisappointment he had prepared for the mutineers, he had run all the way\nto the cave, and leaving the squire to guard the captain, had taken Gray\nand the maroon and started, making the diagonal across the island to be\nat hand beside the pine. Soon, however, he saw that our party had the\nstart of him; and Ben Gunn, being fleet of foot, had been dispatched in\nfront to do his best alone. Then it had occurred to him to work upon the\nsuperstitions of his former shipmates, and he was so far successful that\nGray and the doctor had come up and were already ambushed before the\narrival of the treasure-hunters."
+   "text": "That morning, finding that I was to be involved in the horrid\ndisappointment he had prepared for the mutineers, he had run all the way\nto the cave, and leaving the squire to guard the captain, had taken Gray\nand the maroon and started, making the diagonal across the island to be\nat hand beside the pine. Soon, however, he saw that our party had the\nstart of him; and Ben Gunn, being fleet of foot, had been dispatched in\nfront to do his best alone. Then it had occurred to him to work upon the\nsuperstitions of his former shipmates, and he was so far successful that\nGray and the doctor had come up and were already ambushed before the\narrival of the treasure-hunters.",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "was so far successful",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "fleet of foot, had",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 60,
@@ -541,7 +684,14 @@
    "para": 31,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“it were fortunate for me that I had Hawkins here.\nYou would have let old John be cut to bits, and never given it a\nthought, doctor.”"
+   "text": "“it were fortunate for me that I had Hawkins here.\nYou would have let old John be cut to bits, and never given it a\nthought, doctor.”",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "given it a thought,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 63,
@@ -569,7 +719,19 @@
    "para": 34,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "This was a run of eight or nine miles. Silver, though he was almost\nkilled already with fatigue, was set to an oar, like the rest of us, and\nwe were soon skimming swiftly over a smooth sea. Soon we passed out\nof the straits and doubled the south-east corner of the island, round\nwhich, four days ago, we had towed the HISPANIOLA."
+   "text": "This was a run of eight or nine miles. Silver, though he was almost\nkilled already with fatigue, was set to an oar, like the rest of us, and\nwe were soon skimming swiftly over a smooth sea. Soon we passed out\nof the straits and doubled the south-east corner of the island, round\nwhich, four days ago, we had towed the HISPANIOLA.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "Soon we passed out",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_5",
+     "at": "rest of us, and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 67,
@@ -590,14 +752,33 @@
    "para": 36,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Three miles farther, just inside the mouth of North Inlet, what should\nwe meet but the HISPANIOLA, cruising by herself? The last flood had\nlifted her, and had there been much wind or a strong tide current, as\nin the southern anchorage, we should never have found her more, or found\nher stranded beyond help. As it was, there was little amiss beyond the\nwreck of the main-sail. Another anchor was got ready and dropped in a\nfathom and a half of water. We all pulled round again to Rum Cove,\nthe nearest point for Ben Gunn’s treasure-house; and then Gray,\nsingle-handed, returned with the gig to the HISPANIOLA, where he was to\npass the night on guard."
+   "text": "Three miles farther, just inside the mouth of North Inlet, what should\nwe meet but the HISPANIOLA, cruising by herself? The last flood had\nlifted her, and had there been much wind or a strong tide current, as\nin the southern anchorage, we should never have found her more, or found\nher stranded beyond help. As it was, there was little amiss beyond the\nwreck of the main-sail. Another anchor was got ready and dropped in a\nfathom and a half of water. We all pulled round again to Rum Cove,\nthe nearest point for Ben Gunn’s treasure-house; and then Gray,\nsingle-handed, returned with the gig to the HISPANIOLA, where he was to\npass the night on guard.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "returned with the gig",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "in the southern anchorage,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 69,
    "para": 37,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "A gentle slope ran up from the beach to the entrance of the cave. At the\ntop, the squire met us. To me he was cordial and kind, saying nothing\nof my escapade either in the way of blame or praise. At Silver’s polite\nsalute he somewhat flushed."
+   "text": "A gentle slope ran up from the beach to the entrance of the cave. At the\ntop, the squire met us. To me he was cordial and kind, saying nothing\nof my escapade either in the way of blame or praise. At Silver’s polite\nsalute he somewhat flushed.",
+   "sfx": [
+    {
+     "key": "insects_day_3",
+     "at": "in the way of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 70,
@@ -618,7 +799,14 @@
    "para": 38,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“you’re a prodigious villain and imposter--a\nmonstrous imposter, sir. I am told I am not to prosecute you. Well,\nthen, I will not. But the dead men, sir, hang about your neck like\nmill-stones.”"
+   "text": "“you’re a prodigious villain and imposter--a\nmonstrous imposter, sir. I am told I am not to prosecute you. Well,\nthen, I will not. But the dead men, sir, hang about your neck like\nmill-stones.”",
+   "sfx": [
+    {
+     "key": "birds_day_7",
+     "at": "the dead men, sir,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 73,
@@ -661,6 +849,16 @@
     {
      "key": "coins",
      "at": "I beheld great heaps of coin"
+    },
+    {
+     "key": "trees_3",
+     "at": "to share in the",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_dusk_1",
+     "at": "corner, only duskily flickered",
+     "by": "place-players"
     }
    ],
    "para": 41,
@@ -722,7 +920,19 @@
    "para": 45,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "What a supper I had of it that night, with all my friends around me; and\nwhat a meal it was, with Ben Gunn’s salted goat and some delicacies and\na bottle of old wine from the HISPANIOLA. Never, I am sure, were people\ngayer or happier. And there was Silver, sitting back almost out of the\nfirelight, but eating heartily, prompt to spring forward when anything\nwas wanted, even joining quietly in our laughter--the same bland,\npolite, obsequious seaman of the voyage out."
+   "text": "What a supper I had of it that night, with all my friends around me; and\nwhat a meal it was, with Ben Gunn’s salted goat and some delicacies and\na bottle of old wine from the HISPANIOLA. Never, I am sure, were people\ngayer or happier. And there was Silver, sitting back almost out of the\nfirelight, but eating heartily, prompt to spring forward when anything\nwas wanted, even joining quietly in our laughter--the same bland,\npolite, obsequious seaman of the voyage out.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "polite, obsequious seaman of",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_dusk_3",
+     "at": "delicacies and a bottle",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

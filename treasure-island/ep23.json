@@ -58,9 +58,14 @@
    "text": "The coracle--as I had ample reason to know before I was done with\nher--was a very safe boat for a person of my height and weight, both\nbuoyant and clever in a seaway; but she was the most cross-grained,\nlop-sided craft to manage. Do as you pleased, she always made more\nleeway than anything else, and turning round and round was the manoeuvre\nshe was best at. Even Ben Gunn himself has admitted that she was “queer\nto handle till you knew her way.”",
    "sfx": [
     {
-     "key": "gull_swoop_1",
-     "at": "cross-grained, lop-sided craft to",
-     "by": "place-birds"
+     "key": "creak_3",
+     "at": "was best at. Even",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_3",
+     "at": "height and weight, both",
+     "by": "place-players"
     }
    ]
   },
@@ -69,14 +74,28 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Certainly I did not know her way. She turned in every direction but the\none I was bound to go; the most part of the time we were broadside on,\nand I am very sure I never should have made the ship at all but for the\ntide. By good fortune, paddle as I pleased, the tide was still sweeping\nme down; and there lay the HISPANIOLA right in the fairway, hardly to be\nmissed."
+   "text": "Certainly I did not know her way. She turned in every direction but the\none I was bound to go; the most part of the time we were broadside on,\nand I am very sure I never should have made the ship at all but for the\ntide. By good fortune, paddle as I pleased, the tide was still sweeping\nme down; and there lay the HISPANIOLA right in the fairway, hardly to be\nmissed.",
+   "sfx": [
+    {
+     "key": "wave_3",
+     "at": "I pleased, the tide",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "First she loomed before me like a blot of something yet blacker than\ndarkness, then her spars and hull began to take shape, and the next\nmoment, as it seemed (for, the farther I went, the brisker grew the\ncurrent of the ebb), I was alongside of her hawser and had laid hold."
+   "text": "First she loomed before me like a blot of something yet blacker than\ndarkness, then her spars and hull began to take shape, and the next\nmoment, as it seemed (for, the farther I went, the brisker grew the\ncurrent of the ebb), I was alongside of her hawser and had laid hold.",
+   "sfx": [
+    {
+     "key": "creak_2",
+     "at": "grew the current of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 6,
@@ -86,9 +105,9 @@
    "text": "The hawser was as taut as a bowstring, and the current so strong she\npulled upon her anchor. All round the hull, in the blackness, the\nrippling current bubbled and chattered like a little mountain stream.\nOne cut with my sea-gully and the HISPANIOLA would go humming down the\ntide.",
    "sfx": [
     {
-     "key": "gull_pair_3",
-     "at": "little mountain stream. One",
-     "by": "place-birds"
+     "key": "wave_2",
+     "at": "sea-gully and the HISPANIOLA",
+     "by": "place-players"
     }
    ]
   },
@@ -97,7 +116,14 @@
    "para": 6,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "So far so good, but it next occurred to my recollection that a taut\nhawser, suddenly cut, is a thing as dangerous as a kicking horse. Ten to\none, if I were so foolhardy as to cut the HISPANIOLA from her anchor, I\nand the coracle would be knocked clean out of the water."
+   "text": "So far so good, but it next occurred to my recollection that a taut\nhawser, suddenly cut, is a thing as dangerous as a kicking horse. Ten to\none, if I were so foolhardy as to cut the HISPANIOLA from her anchor, I\nand the coracle would be knocked clean out of the water.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "be knocked clean out",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 8,
@@ -107,9 +133,14 @@
    "text": "This brought me to a full stop, and if fortune had not again\nparticularly favoured me, I should have had to abandon my design. But\nthe light airs which had begun blowing from the south-east and south\nhad hauled round after nightfall into the south-west. Just while I was\nmeditating, a puff came, caught the HISPANIOLA, and forced her up into\nthe current; and to my great joy, I felt the hawser slacken in my grasp,\nand the hand by which I held it dip for a second under water.",
    "sfx": [
     {
-     "key": "gull_near_1",
-     "at": "up into the current;",
-     "by": "place-birds"
+     "key": "creak_6",
+     "at": "current; and to my",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_4",
+     "at": "felt the hawser slacken",
+     "by": "place-players"
     }
    ]
   },
@@ -125,14 +156,38 @@
    "para": 9,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "All this time I had heard the sound of loud voices from the cabin, but\nto say truth, my mind had been so entirely taken up with other thoughts\nthat I had scarcely given ear. Now, however, when I had nothing else to\ndo, I began to pay more heed."
+   "text": "All this time I had heard the sound of loud voices from the cabin, but\nto say truth, my mind had been so entirely taken up with other thoughts\nthat I had scarcely given ear. Now, however, when I had nothing else to\ndo, I began to pay more heed.",
+   "sfx": [
+    {
+     "key": "creak_8",
+     "at": "Now, however, when I",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_2",
+     "at": "had been so entirely",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 11,
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "One I recognized for the coxswain’s, Israel Hands, that had been Flint’s\ngunner in former days. The other was, of course, my friend of the red\nnight-cap. Both men were plainly the worse of drink, and they were still\ndrinking, for even while I was listening, one of them, with a drunken\ncry, opened the stern window and threw out something, which I divined to\nbe an empty bottle. But they were not only tipsy; it was plain that they\nwere furiously angry. Oaths flew like hailstones, and every now and\nthen there came forth such an explosion as I thought was sure to end\nin blows. But each time the quarrel passed off and the voices grumbled\nlower for a while, until the next crisis came and in its turn passed\naway without result."
+   "text": "One I recognized for the coxswain’s, Israel Hands, that had been Flint’s\ngunner in former days. The other was, of course, my friend of the red\nnight-cap. Both men were plainly the worse of drink, and they were still\ndrinking, for even while I was listening, one of them, with a drunken\ncry, opened the stern window and threw out something, which I divined to\nbe an empty bottle. But they were not only tipsy; it was plain that they\nwere furiously angry. Oaths flew like hailstones, and every now and\nthen there came forth such an explosion as I thought was sure to end\nin blows. But each time the quarrel passed off and the voices grumbled\nlower for a while, until the next crisis came and in its turn passed\naway without result.",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "grumbled lower for a",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_6",
+     "at": "listening, one of them,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -142,9 +197,9 @@
      "at": "Someone was singing, a dull, old, droning sailor’s song"
     },
     {
-     "key": "gull_pair_2",
-     "at": "and a quaver at",
-     "by": "place-birds"
+     "key": "creak_8",
+     "at": "song, with a droop",
+     "by": "place-players"
     }
    ],
    "para": 11,
@@ -157,7 +212,14 @@
    "para": 12,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“But one man of her crew alive,\n     What put to sea with seventy-five.”"
+   "text": "“But one man of her crew alive,\n     What put to sea with seventy-five.”",
+   "sfx": [
+    {
+     "key": "wave_6",
+     "at": "of her crew alive,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
@@ -178,28 +240,45 @@
    "para": 15,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The breeze had but little action on the coracle, and I was almost\ninstantly swept against the bows of the HISPANIOLA. At the same time,\nthe schooner began to turn upon her heel, spinning slowly, end for end,\nacross the current."
+   "text": "The breeze had but little action on the coracle, and I was almost\ninstantly swept against the bows of the HISPANIOLA. At the same time,\nthe schooner began to turn upon her heel, spinning slowly, end for end,\nacross the current.",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "instantly swept against the",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_1",
+     "at": "turn upon her heel,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 17,
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I wrought like a fiend, for I expected every moment to be swamped; and\nsince I found I could not push the coracle directly off, I now shoved\nstraight astern. At length I was clear of my dangerous neighbour, and\njust as I gave the last impulsion, my hands came across a light cord\nthat was trailing overboard across the stern bulwarks. Instantly I\ngrasped it.",
-   "sfx": [
-    {
-     "key": "gull_near_2",
-     "at": "dangerous neighbour, and just",
-     "by": "place-birds"
-    }
-   ]
+   "text": "I wrought like a fiend, for I expected every moment to be swamped; and\nsince I found I could not push the coracle directly off, I now shoved\nstraight astern. At length I was clear of my dangerous neighbour, and\njust as I gave the last impulsion, my hands came across a light cord\nthat was trailing overboard across the stern bulwarks. Instantly I\ngrasped it."
   },
   {
    "n": 18,
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Why I should have done so I can hardly say. It was at first mere\ninstinct, but once I had it in my hands and found it fast, curiosity\nbegan to get the upper hand, and I determined I should have one look\nthrough the cabin window."
+   "text": "Why I should have done so I can hardly say. It was at first mere\ninstinct, but once I had it in my hands and found it fast, curiosity\nbegan to get the upper hand, and I determined I should have one look\nthrough the cabin window.",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "had it in my",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_4",
+     "at": "have one look through",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 19,
@@ -216,9 +295,14 @@
    "text": "By this time the schooner and her little consort were gliding pretty\nswiftly through the water; indeed, we had already fetched up level with\nthe camp-fire. The ship was talking, as sailors say, loudly, treading\nthe innumerable ripples with an incessant weltering splash; and until I\ngot my eye above the window-sill I could not comprehend why the watchmen\nhad taken no alarm. One glance, however, was sufficient; and it was\nonly one glance that I durst take from that unsteady skiff. It showed me\nHands and his companion locked together in deadly wrestle, each with a\nhand upon the other’s throat.",
    "sfx": [
     {
-     "key": "gull_near_2",
-     "at": "had taken no alarm.",
-     "by": "place-birds"
+     "key": "creak_7",
+     "at": "Hands and his companion",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_1",
+     "at": "as sailors say, loudly,",
+     "by": "place-players"
     }
    ]
   },
@@ -235,6 +319,11 @@
     {
      "key": "campfire_chorus",
      "at": "had broken into the chorus I had heard so often"
+    },
+    {
+     "key": "creak_2",
+     "at": "whole diminished company about",
+     "by": "place-players"
     }
    ],
    "para": 21,
@@ -247,49 +336,66 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Fifteen men on the dead man’s chest--\n              Yo-ho-ho, and a bottle of rum!\n           Drink and the devil had done for the rest--\n              Yo-ho-ho, and a bottle of rum!”"
+   "text": "“Fifteen men on the dead man’s chest--\n              Yo-ho-ho, and a bottle of rum!\n           Drink and the devil had done for the rest--\n              Yo-ho-ho, and a bottle of rum!”",
+   "sfx": [
+    {
+     "key": "wave_8",
+     "at": "a bottle of rum!”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 24,
    "para": 23,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I was just thinking how busy drink and the devil were at that very\nmoment in the cabin of the HISPANIOLA, when I was surprised by a sudden\nlurch of the coracle. At the same moment, she yawed sharply and seemed\nto change her course. The speed in the meantime had strangely increased.",
-   "sfx": [
-    {
-     "key": "gull_pair_2",
-     "at": "the meantime had strangely",
-     "by": "place-birds"
-    }
-   ]
+   "text": "I was just thinking how busy drink and the devil were at that very\nmoment in the cabin of the HISPANIOLA, when I was surprised by a sudden\nlurch of the coracle. At the same moment, she yawed sharply and seemed\nto change her course. The speed in the meantime had strangely increased."
   },
   {
    "n": 25,
    "para": 24,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I opened my eyes at once. All round me were little ripples, combing\nover with a sharp, bristling sound and slightly phosphorescent. The\nHISPANIOLA herself, a few yards in whose wake I was still being whirled\nalong, seemed to stagger in her course, and I saw her spars toss a\nlittle against the blackness of the night; nay, as I looked longer, I\nmade sure she also was wheeling to the southward."
+   "text": "I opened my eyes at once. All round me were little ripples, combing\nover with a sharp, bristling sound and slightly phosphorescent. The\nHISPANIOLA herself, a few yards in whose wake I was still being whirled\nalong, seemed to stagger in her course, and I saw her spars toss a\nlittle against the blackness of the night; nay, as I looked longer, I\nmade sure she also was wheeling to the southward.",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "night; nay, as I",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_3",
+     "at": "to stagger in her",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 26,
    "para": 25,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I glanced over my shoulder, and my heart jumped against my ribs. There,\nright behind me, was the glow of the camp-fire. The current had turned\nat right angles, sweeping round along with it the tall schooner and\nthe little dancing coracle; ever quickening, ever bubbling higher, ever\nmuttering louder, it went spinning through the narrows for the open sea.",
-   "sfx": [
-    {
-     "key": "gull_near_3",
-     "at": "narrows for the open",
-     "by": "place-birds"
-    }
-   ]
+   "text": "I glanced over my shoulder, and my heart jumped against my ribs. There,\nright behind me, was the glow of the camp-fire. The current had turned\nat right angles, sweeping round along with it the tall schooner and\nthe little dancing coracle; ever quickening, ever bubbling higher, ever\nmuttering louder, it went spinning through the narrows for the open sea."
   },
   {
    "n": 27,
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Suddenly the schooner in front of me gave a violent yaw, turning,\nperhaps, through twenty degrees; and almost at the same moment one\nshout followed another from on board; I could hear feet pounding on\nthe companion ladder and I knew that the two drunkards had at last been\ninterrupted in their quarrel and awakened to a sense of their disaster."
+   "text": "Suddenly the schooner in front of me gave a violent yaw, turning,\nperhaps, through twenty degrees; and almost at the same moment one\nshout followed another from on board; I could hear feet pounding on\nthe companion ladder and I knew that the two drunkards had at last been\ninterrupted in their quarrel and awakened to a sense of their disaster.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "board; I could hear",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_5",
+     "at": "moment one shout followed",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 28,
@@ -299,9 +405,9 @@
    "text": "I lay down flat in the bottom of that wretched skiff and devoutly\nrecommended my spirit to its Maker. At the end of the straits, I\nmade sure we must fall into some bar of raging breakers, where all my\ntroubles would be ended speedily; and though I could, perhaps, bear to\ndie, I could not bear to look upon my fate as it approached.",
    "sfx": [
     {
-     "key": "gull_near_3",
-     "at": "At the end of",
-     "by": "place-birds"
+     "key": "wave_9",
+     "at": "we must fall into",
+     "by": "place-players"
     }
    ]
   },
@@ -310,7 +416,19 @@
    "para": 28,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "So I must have lain for hours, continually beaten to and fro upon the\nbillows, now and again wetted with flying sprays, and never ceasing to\nexpect death at the next plunge. Gradually weariness grew upon me; a\nnumbness, an occasional stupor, fell upon my mind even in the midst of\nmy terrors, until sleep at last supervened and in my sea-tossed coracle\nI lay and dreamed of home and the old Admiral Benbow."
+   "text": "So I must have lain for hours, continually beaten to and fro upon the\nbillows, now and again wetted with flying sprays, and never ceasing to\nexpect death at the next plunge. Gradually weariness grew upon me; a\nnumbness, an occasional stupor, fell upon my mind even in the midst of\nmy terrors, until sleep at last supervened and in my sea-tossed coracle\nI lay and dreamed of home and the old Admiral Benbow.",
+   "sfx": [
+    {
+     "key": "creak_8",
+     "at": "upon me; a numbness,",
+     "by": "place-players"
+    },
+    {
+     "key": "wave_4",
+     "at": "home and the old",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

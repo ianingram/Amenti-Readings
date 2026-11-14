@@ -51,7 +51,19 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "My curiosity, in a sense, was stronger than my fear, for I could not\nremain where I was, but crept back to the bank again, whence, sheltering\nmy head behind a bush of broom, I might command the road before our\ndoor. I was scarcely in position ere my enemies began to arrive, seven\nor eight of them, running hard, their feet beating out of time along\nthe road and the man with the lantern some paces in front. Three men ran\ntogether, hand in hand; and I made out, even through the mist, that the\nmiddle man of this trio was the blind beggar. The next moment his voice\nshowed me that I was right."
+   "text": "My curiosity, in a sense, was stronger than my fear, for I could not\nremain where I was, but crept back to the bank again, whence, sheltering\nmy head behind a bush of broom, I might command the road before our\ndoor. I was scarcely in position ere my enemies began to arrive, seven\nor eight of them, running hard, their feet beating out of time along\nthe road and the man with the lantern some paces in front. Three men ran\ntogether, hand in hand; and I made out, even through the mist, that the\nmiddle man of this trio was the blind beggar. The next moment his voice\nshowed me that I was right.",
+   "sfx": [
+    {
+     "key": "wave_4",
+     "at": "that I was right.",
+     "by": "place-players"
+    },
+    {
+     "key": "trees_2",
+     "at": "man with the lantern",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
@@ -78,7 +90,14 @@
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Aye, aye, sir!” answered two or three; and a rush was made upon the\nAdmiral Benbow, the lantern-bearer following; and then I could see\nthem pause, and hear speeches passed in a lower key, as if they were\nsurprised to find the door open. But the pause was brief, for the blind\nman again issued his commands. His voice sounded louder and higher, as\nif he were afire with eagerness and rage."
+   "text": "“Aye, aye, sir!” answered two or three; and a rush was made upon the\nAdmiral Benbow, the lantern-bearer following; and then I could see\nthem pause, and hear speeches passed in a lower key, as if they were\nsurprised to find the door open. But the pause was brief, for the blind\nman again issued his commands. His voice sounded louder and higher, as\nif he were afire with eagerness and rage.",
+   "sfx": [
+    {
+     "key": "wave_8",
+     "at": "if they were surprised",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 7,
@@ -92,14 +111,7 @@
    "para": 5,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "he shouted, and cursed them for their delay.",
-   "sfx": [
-    {
-     "key": "gull_pair_1",
-     "at": "them for their delay.",
-     "by": "place-birds"
-    }
-   ]
+   "text": "he shouted, and cursed them for their delay."
   },
   {
    "n": 9,
@@ -134,7 +146,14 @@
    "para": 9,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I could hear their feet rattling up our old stairs, so that the\nhouse must have shook with it. Promptly afterwards, fresh sounds of\nastonishment arose; the window of the captain’s room was thrown open\nwith a slam and a jingle of broken glass, and a man leaned out into the\nmoonlight, head and shoulders, and addressed the blind beggar on the\nroad below him."
+   "text": "I could hear their feet rattling up our old stairs, so that the\nhouse must have shook with it. Promptly afterwards, fresh sounds of\nastonishment arose; the window of the captain’s room was thrown open\nwith a slam and a jingle of broken glass, and a man leaned out into the\nmoonlight, head and shoulders, and addressed the blind beggar on the\nroad below him.",
+   "sfx": [
+    {
+     "key": "wave_8",
+     "at": "window of the captain’s",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
@@ -190,7 +209,14 @@
    "para": 15,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“We don’t see it here nohow,” returned the man."
+   "text": "“We don’t see it here nohow,” returned the man.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "see it here nohow,”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 22,
@@ -214,9 +240,9 @@
    "text": "At that another fellow, probably him who had remained below to search\nthe captain’s body, came to the door of the inn. “Bill’s been overhauled\na’ready,” said he; “nothin’ left.”",
    "sfx": [
     {
-     "key": "gull_far_1",
-     "at": "the inn. “Bill’s been",
-     "by": "place-birds"
+     "key": "wave_2",
+     "at": "the door of the",
+     "by": "place-players"
     }
    ]
   },
@@ -268,6 +294,11 @@
     {
      "key": "whistle_signal",
      "at": "just the same whistle that had alarmed my mother"
+    },
+    {
+     "key": "wave_5",
+     "at": "I now found that",
+     "by": "place-players"
     }
    ],
    "para": 21,
@@ -280,14 +311,7 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“There’s Dirk again,” said one. “Twice! We’ll have to budge, mates.”",
-   "sfx": [
-    {
-     "key": "gull_far_2",
-     "at": "We’ll have to budge,",
-     "by": "place-birds"
-    }
-   ]
+   "text": "“There’s Dirk again,” said one. “Twice! We’ll have to budge, mates.”"
   },
   {
    "n": 33,
@@ -308,7 +332,14 @@
    "para": 23,
    "role": "Blind Pew",
    "cast": "Alfred Hitchcock",
-   "text": "“Dirk was a fool and a coward from the\nfirst--you wouldn’t mind him. They must be close by; they can’t be far;\nyou have your hands on it. Scatter and look for them, dogs! Oh, shiver\nmy soul,”"
+   "text": "“Dirk was a fool and a coward from the\nfirst--you wouldn’t mind him. They must be close by; they can’t be far;\nyou have your hands on it. Scatter and look for them, dogs! Oh, shiver\nmy soul,”",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "you have your hands",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 36,
@@ -329,28 +360,35 @@
    "para": 24,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "This appeal seemed to produce some effect, for two of the fellows began\nto look here and there among the lumber, but half-heartedly, I thought,\nand with half an eye to their own danger all the time, while the rest\nstood irresolute on the road."
+   "text": "This appeal seemed to produce some effect, for two of the fellows began\nto look here and there among the lumber, but half-heartedly, I thought,\nand with half an eye to their own danger all the time, while the rest\nstood irresolute on the road.",
+   "sfx": [
+    {
+     "key": "wave_6",
+     "at": "the time, while the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 39,
    "para": 25,
    "role": "Blind Pew",
    "cast": "Alfred Hitchcock",
-   "text": "“You have your hands on thousands, you fools, and you hang a leg! You’d\nbe as rich as kings if you could find it, and you know it’s here, and\nyou stand there skulking. There wasn’t one of you dared face Bill, and\nI did it--a blind man! And I’m to lose my chance for you! I’m to be a\npoor, crawling beggar, sponging for rum, when I might be rolling in a\ncoach! If you had the pluck of a weevil in a biscuit you would catch\nthem still.”",
-   "sfx": [
-    {
-     "key": "gull_pair_1",
-     "at": "a biscuit you would",
-     "by": "place-birds"
-    }
-   ]
+   "text": "“You have your hands on thousands, you fools, and you hang a leg! You’d\nbe as rich as kings if you could find it, and you know it’s here, and\nyou stand there skulking. There wasn’t one of you dared face Bill, and\nI did it--a blind man! And I’m to lose my chance for you! I’m to be a\npoor, crawling beggar, sponging for rum, when I might be rolling in a\ncoach! If you had the pluck of a weevil in a biscuit you would catch\nthem still.”"
   },
   {
    "n": 40,
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Hang it, Pew, we’ve got the doubloons!” grumbled one."
+   "text": "“Hang it, Pew, we’ve got the doubloons!” grumbled one.",
+   "sfx": [
+    {
+     "key": "wave_9",
+     "at": "the doubloons!” grumbled one.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 41,
@@ -371,7 +409,14 @@
    "para": 29,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "These, in their turn, cursed back at the blind miscreant, threatened him\nin horrid terms, and tried in vain to catch the stick and wrest it from\nhis grasp."
+   "text": "These, in their turn, cursed back at the blind miscreant, threatened him\nin horrid terms, and tried in vain to catch the stick and wrest it from\nhis grasp.",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "vain to catch the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 44,
@@ -385,10 +430,9 @@
      "at": "a pistol-shot, flash and report, came from the hedge side"
     },
     {
-     "key": "gull_flock_2",
-     "by": "place-birds",
-     "at": "a pistol-shot, flash and report, came from the hedge side",
-     "offset": 0.45
+     "key": "wave_7",
+     "at": "he took a wrong",
+     "by": "place-players"
     }
    ],
    "para": 30,
@@ -415,14 +459,7 @@
    "para": 30,
    "role": "Blind Pew",
    "cast": "Alfred Hitchcock",
-   "text": "“you won’t leave old Pew, mates--not old Pew!”",
-   "sfx": [
-    {
-     "key": "gull_pair_3",
-     "at": "leave old Pew, mates--not",
-     "by": "place-birds"
-    }
-   ]
+   "text": "“you won’t leave old Pew, mates--not old Pew!”"
   },
   {
    "n": 48,
@@ -442,7 +479,14 @@
    "para": 32,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At this Pew saw his error, turned with a scream, and ran straight for\nthe ditch, into which he rolled. But he was on his feet again in a\nsecond and made another dash, now utterly bewildered, right under the\nnearest of the coming horses."
+   "text": "At this Pew saw his error, turned with a scream, and ran straight for\nthe ditch, into which he rolled. But he was on his feet again in a\nsecond and made another dash, now utterly bewildered, right under the\nnearest of the coming horses.",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "of the coming horses.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 50,
@@ -455,6 +499,11 @@
     {
      "key": "horse_neigh",
      "at": "the four hoofs trampled and spurned him"
+    },
+    {
+     "key": "wave_2",
+     "at": "and passed by. He",
+     "by": "place-players"
     }
    ],
    "para": 33,
@@ -467,7 +516,14 @@
    "para": 34,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I leaped to my feet and hailed the riders. They were pulling up, at any\nrate, horrified at the accident; and I soon saw what they were. One,\ntailing out behind the rest, was a lad that had gone from the hamlet to\nDr. Livesey’s; the rest were revenue officers, whom he had met by the\nway, and with whom he had had the intelligence to return at once. Some\nnews of the lugger in Kitt’s Hole had found its way to Supervisor Dance\nand set him forth that night in our direction, and to that circumstance\nmy mother and I owed our preservation from death."
+   "text": "I leaped to my feet and hailed the riders. They were pulling up, at any\nrate, horrified at the accident; and I soon saw what they were. One,\ntailing out behind the rest, was a lad that had gone from the hamlet to\nDr. Livesey’s; the rest were revenue officers, whom he had met by the\nway, and with whom he had had the intelligence to return at once. Some\nnews of the lugger in Kitt’s Hole had found its way to Supervisor Dance\nand set him forth that night in our direction, and to that circumstance\nmy mother and I owed our preservation from death.",
+   "sfx": [
+    {
+     "key": "wave_1",
+     "at": "mother and I owed",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 52,
@@ -480,6 +536,16 @@
      "key": "crew_death",
      "at": "Pew was dead, stone dead",
      "offset": 0.6
+    },
+    {
+     "key": "wave_5",
+     "at": "or he would get",
+     "by": "place-players"
+    },
+    {
+     "key": "trees_3",
+     "at": "the moonlight or he",
+     "by": "place-players"
     }
    ],
    "para": 35,
@@ -492,21 +558,21 @@
    "para": 36,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I went back with him to the Admiral Benbow, and you cannot imagine a\nhouse in such a state of smash; the very clock had been thrown down\nby these fellows in their furious hunt after my mother and myself;\nand though nothing had actually been taken away except the captain’s\nmoney-bag and a little silver from the till, I could see at once that we\nwere ruined. Mr. Dance could make nothing of the scene.",
-   "sfx": [
-    {
-     "key": "gull_far_1",
-     "at": "money-bag and a little",
-     "by": "place-birds"
-    }
-   ]
+   "text": "I went back with him to the Admiral Benbow, and you cannot imagine a\nhouse in such a state of smash; the very clock had been thrown down\nby these fellows in their furious hunt after my mother and myself;\nand though nothing had actually been taken away except the captain’s\nmoney-bag and a little silver from the till, I could see at once that we\nwere ruined. Mr. Dance could make nothing of the scene."
   },
   {
    "n": 54,
    "para": 37,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“They got the money, you say? Well, then, Hawkins, what in fortune were\nthey after? More money, I suppose?”"
+   "text": "“They got the money, you say? Well, then, Hawkins, what in fortune were\nthey after? More money, I suppose?”",
+   "sfx": [
+    {
+     "key": "wave_9",
+     "at": "what in fortune were",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 55,
@@ -534,21 +600,21 @@
    "para": 41,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Perfectly right,” he interrupted very cheerily, “perfectly right--a\ngentleman and a magistrate. And, now I come to think of it, I might as\nwell ride round there myself and report to him or squire. Master Pew’s\ndead, when all’s done; not that I regret it, but he’s dead, you see, and\npeople will make it out against an officer of his Majesty’s revenue,\nif make it out they can. Now, I’ll tell you, Hawkins, if you like, I’ll\ntake you along.”"
+   "text": "“Perfectly right,” he interrupted very cheerily, “perfectly right--a\ngentleman and a magistrate. And, now I come to think of it, I might as\nwell ride round there myself and report to him or squire. Master Pew’s\ndead, when all’s done; not that I regret it, but he’s dead, you see, and\npeople will make it out against an officer of his Majesty’s revenue,\nif make it out they can. Now, I’ll tell you, Hawkins, if you like, I’ll\ntake you along.”",
+   "sfx": [
+    {
+     "key": "wave_4",
+     "at": "an officer of his",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 59,
    "para": 42,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I thanked him heartily for the offer, and we walked back to the hamlet\nwhere the horses were. By the time I had told mother of my purpose they\nwere all in the saddle.",
-   "sfx": [
-    {
-     "key": "gull_pair_3",
-     "at": "were. By the time",
-     "by": "place-birds"
-    }
-   ]
+   "text": "I thanked him heartily for the offer, and we walked back to the hamlet\nwhere the horses were. By the time I had told mother of my purpose they\nwere all in the saddle."
   },
   {
    "n": 60,
@@ -562,7 +628,19 @@
    "para": 44,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "As soon as I was mounted, holding on to Dogger’s belt, the supervisor\ngave the word, and the party struck out at a bouncing trot on the road\nto Dr. Livesey’s house."
+   "text": "As soon as I was mounted, holding on to Dogger’s belt, the supervisor\ngave the word, and the party struck out at a bouncing trot on the road\nto Dr. Livesey’s house.",
+   "sfx": [
+    {
+     "key": "horses_trot_away",
+     "at": "struck out at a bouncing trot",
+     "by": "place-players"
+    },
+    {
+     "key": "trees_5",
+     "at": "to Dogger’s belt, the",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

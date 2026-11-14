@@ -55,7 +55,19 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "There was a great rush of feet across the deck. I could hear people\ntumbling up from the cabin and the forecastle, and slipping in an\ninstant outside my barrel, I dived behind the fore-sail, made a double\ntowards the stern, and came out upon the open deck in time to join\nHunter and Dr. Livesey in the rush for the weather bow."
+   "text": "There was a great rush of feet across the deck. I could hear people\ntumbling up from the cabin and the forecastle, and slipping in an\ninstant outside my barrel, I dived behind the fore-sail, made a double\ntowards the stern, and came out upon the open deck in time to join\nHunter and Dr. Livesey in the rush for the weather bow.",
+   "sfx": [
+    {
+     "key": "creak_8",
+     "at": "a double towards the",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "double towards the stern,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
@@ -63,6 +75,16 @@
     {
      "key": "bell_watch",
      "at": "A belt of fog had lifted"
+    },
+    {
+     "key": "creak_3",
+     "at": "south-west of us we",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_8",
+     "at": "apart, and rising behind",
+     "by": "place-players"
     }
    ],
    "para": 3,
@@ -78,9 +100,14 @@
    "text": "So much I saw, almost in a dream, for I had not yet recovered from my\nhorrid fear of a minute or two before. And then I heard the voice of\nCaptain Smollett issuing orders. The HISPANIOLA was laid a couple of\npoints nearer the wind and now sailed a course that would just clear the\nisland on the east.",
    "sfx": [
     {
-     "key": "gull_swoop_3",
-     "at": "was laid a couple",
-     "by": "place-birds"
+     "key": "rope_1",
+     "at": "wind and now sailed",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_3",
+     "at": "that would just clear",
+     "by": "place-players"
     }
    ]
   },
@@ -96,7 +123,14 @@
    "para": 5,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "said the captain, when all was sheeted home,"
+   "text": "said the captain, when all was sheeted home,",
+   "sfx": [
+    {
+     "key": "feet_3",
+     "at": "captain, when all was",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 8,
@@ -124,7 +158,14 @@
    "para": 6,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“I’ve watered there with a trader I was cook\nin.”"
+   "text": "“I’ve watered there with a trader I was cook\nin.”",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "with a trader I",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -145,7 +186,19 @@
    "para": 8,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Yes, sir; Skeleton Island they calls it. It were a main place for\npirates once, and a hand we had on board knowed all their names for it.\nThat hill to the nor’ard they calls the Foremast Hill; there are three\nhills in a row running south’ard--fore, main, and mizzen, sir. But the\nmain--that’s the big un, with the cloud on it--they usually calls\nthe Spy-glass, by reason of a lookout they kept when they was in the\nanchorage cleaning, for it’s there they cleaned their ships, sir, asking\nyour pardon.”"
+   "text": "“Yes, sir; Skeleton Island they calls it. It were a main place for\npirates once, and a hand we had on board knowed all their names for it.\nThat hill to the nor’ard they calls the Foremast Hill; there are three\nhills in a row running south’ard--fore, main, and mizzen, sir. But the\nmain--that’s the big un, with the cloud on it--they usually calls\nthe Spy-glass, by reason of a lookout they kept when they was in the\nanchorage cleaning, for it’s there they cleaned their ships, sir, asking\nyour pardon.”",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "cleaning, for it’s there",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_1",
+     "at": "cloud on it--they usually",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 15,
@@ -176,9 +229,14 @@
    "text": "Long John’s eyes burned in his head as he took the chart, but by the\nfresh look of the paper I knew he was doomed to disappointment. This\nwas not the map we found in Billy Bones’s chest, but an accurate copy,\ncomplete in all things--names and heights and soundings--with the single\nexception of the red crosses and the written notes. Sharp as must have\nbeen his annoyance, Silver had the strength of mind to hide it.",
    "sfx": [
     {
-     "key": "gull_far_2",
-     "at": "all things--names and heights",
-     "by": "place-birds"
+     "key": "map_unfold",
+     "at": "took the chart",
+     "by": "place-players"
+    },
+    {
+     "key": "creak_8",
+     "at": "was not the map",
+     "by": "place-players"
     }
    ]
   },
@@ -201,7 +259,19 @@
    "para": 11,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“this is the spot, to be sure, and very prettily\ndrawed out. Who might have done that, I wonder? The pirates were too\nignorant, I reckon. Aye, here it is: ‘Capt. Kidd’s Anchorage’--just\nthe name my shipmate called it. There’s a strong current runs along the\nsouth, and then away nor’ard up the west coast. Right you was, sir,”"
+   "text": "“this is the spot, to be sure, and very prettily\ndrawed out. Who might have done that, I wonder? The pirates were too\nignorant, I reckon. Aye, here it is: ‘Capt. Kidd’s Anchorage’--just\nthe name my shipmate called it. There’s a strong current runs along the\nsouth, and then away nor’ard up the west coast. Right you was, sir,”",
+   "sfx": [
+    {
+     "key": "rope_6",
+     "at": "nor’ard up the west",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_8",
+     "at": "along the south, and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 22,
@@ -215,7 +285,19 @@
    "para": 11,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“to haul your wind and keep the weather of the island.\nLeastways, if such was your intention as to enter and careen, and there\nain’t no better place for that in these waters.”"
+   "text": "“to haul your wind and keep the weather of the island.\nLeastways, if such was your intention as to enter and careen, and there\nain’t no better place for that in these waters.”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "there ain’t no better",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_3",
+     "at": "careen, and there ain’t",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 24,
@@ -236,14 +318,33 @@
    "para": 12,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I’ll ask you later on to\ngive us a help. You may go.”"
+   "text": "“I’ll ask you later on to\ngive us a help. You may go.”",
+   "sfx": [
+    {
+     "key": "feet_4",
+     "at": "later on to give",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 27,
    "para": 13,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I was surprised at the coolness with which John avowed his knowledge\nof the island, and I own I was half-frightened when I saw him drawing\nnearer to myself. He did not know, to be sure, that I had overheard his\ncouncil from the apple barrel, and yet I had by this time taken such a\nhorror of his cruelty, duplicity, and power that I could scarce conceal\na shudder when he laid his hand upon my arm."
+   "text": "I was surprised at the coolness with which John avowed his knowledge\nof the island, and I own I was half-frightened when I saw him drawing\nnearer to myself. He did not know, to be sure, that I had overheard his\ncouncil from the apple barrel, and yet I had by this time taken such a\nhorror of his cruelty, duplicity, and power that I could scarce conceal\na shudder when he laid his hand upon my arm.",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "apple barrel, and yet",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_4",
+     "at": "know, to be sure,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 28,
@@ -267,9 +368,14 @@
    "text": "“this here is a sweet spot, this island--a sweet spot for\na lad to get ashore on. You’ll bathe, and you’ll climb trees, and you’ll\nhunt goats, you will; and you’ll get aloft on them hills like a goat\nyourself. Why, it makes me young again. I was going to forget my timber\nleg, I was. It’s a pleasant thing to be young and have ten toes, and you\nmay lay to that. When you want to go a bit of exploring, you just ask\nold John, and he’ll put up a snack for you to take along.”",
    "sfx": [
     {
-     "key": "gull_far_3",
-     "at": "and have ten toes,",
-     "by": "place-birds"
+     "key": "creak_8",
+     "at": "he’ll put up a",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_6",
+     "at": "goat yourself. Why, it",
+     "by": "place-players"
     }
    ]
   },
@@ -278,21 +384,52 @@
    "para": 15,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And clapping me in the friendliest way upon the shoulder, he hobbled off\nforward and went below."
+   "text": "And clapping me in the friendliest way upon the shoulder, he hobbled off\nforward and went below.",
+   "sfx": [
+    {
+     "key": "feet_1",
+     "at": "forward and went below.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 32,
    "para": 16,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Captain Smollett, the squire, and Dr. Livesey were talking together on\nthe quarter-deck, and anxious as I was to tell them my story, I durst\nnot interrupt them openly. While I was still casting about in my\nthoughts to find some probable excuse, Dr. Livesey called me to his\nside. He had left his pipe below, and being a slave to tobacco, had\nmeant that I should fetch it; but as soon as I was near enough to speak\nand not to be overheard, I broke immediately, “Doctor, let me speak. Get\nthe captain and squire down to the cabin, and then make some pretence to\nsend for me. I have terrible news.”"
+   "text": "Captain Smollett, the squire, and Dr. Livesey were talking together on\nthe quarter-deck, and anxious as I was to tell them my story, I durst\nnot interrupt them openly. While I was still casting about in my\nthoughts to find some probable excuse, Dr. Livesey called me to his\nside. He had left his pipe below, and being a slave to tobacco, had\nmeant that I should fetch it; but as soon as I was near enough to speak\nand not to be overheard, I broke immediately, “Doctor, let me speak. Get\nthe captain and squire down to the cabin, and then make some pretence to\nsend for me. I have terrible news.”",
+   "sfx": [
+    {
+     "key": "creak_5",
+     "at": "the cabin, and then",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "casting about in my",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 33,
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The doctor changed countenance a little, but next moment he was master\nof himself."
+   "text": "The doctor changed countenance a little, but next moment he was master\nof himself.",
+   "sfx": [
+    {
+     "key": "sail_5",
+     "at": "countenance a little, but",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_3",
+     "at": "next moment he was",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 34,
@@ -320,21 +457,21 @@
    "para": 18,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "as if he had asked me a question.",
-   "sfx": [
-    {
-     "key": "gull_swoop_2",
-     "at": "he had asked me",
-     "by": "place-birds"
-    }
-   ]
+   "text": "as if he had asked me a question."
   },
   {
    "n": 38,
    "para": 19,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And with that he turned on his heel and rejoined the other two. They\nspoke together for a little, and though none of them started, or raised\nhis voice, or so much as whistled, it was plain enough that Dr. Livesey\nhad communicated my request, for the next thing that I heard was the\ncaptain giving an order to Job Anderson, and all hands were piped on\ndeck."
+   "text": "And with that he turned on his heel and rejoined the other two. They\nspoke together for a little, and though none of them started, or raised\nhis voice, or so much as whistled, it was plain enough that Dr. Livesey\nhad communicated my request, for the next thing that I heard was the\ncaptain giving an order to Job Anderson, and all hands were piped on\ndeck.",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "his voice, or so",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 39,
@@ -358,9 +495,14 @@
    "text": "“I’ve a word to say to you. This\nland that we have sighted is the place we have been sailing for. Mr.\nTrelawney, being a very open-handed gentleman, as we all know, has just\nasked me a word or two, and as I was able to tell him that every man on\nboard had done his duty, alow and aloft, as I never ask to see it done\nbetter, why, he and I and the doctor are going below to the cabin to\ndrink YOUR health and luck, and you’ll have grog served out for you to\ndrink OUR health and luck. I’ll tell you what I think of this: I think\nit handsome. And if you think as I do, you’ll give a good sea-cheer for\nthe gentleman that does it.”",
    "sfx": [
     {
-     "key": "gull_far_3",
-     "at": "of this: I think",
-     "by": "place-birds"
+     "key": "creak_4",
+     "at": "board had done his",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_6",
+     "at": "and I and the",
+     "by": "place-players"
     }
    ]
   },
@@ -370,6 +512,16 @@
     {
      "key": "crew_cheer",
      "at": "The cheer followed"
+    },
+    {
+     "key": "sail_5",
+     "at": "I could hardly believe",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_2",
+     "at": "hearty that I confess",
+     "by": "place-players"
     }
    ],
    "para": 21,
@@ -403,14 +555,33 @@
    "para": 24,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "On the top of that the three gentlemen went below, and not long after,\nword was sent forward that Jim Hawkins was wanted in the cabin."
+   "text": "On the top of that the three gentlemen went below, and not long after,\nword was sent forward that Jim Hawkins was wanted in the cabin.",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "was wanted in the",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_2",
+     "at": "went below, and not",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 47,
    "para": 25,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I found them all three seated round the table, a bottle of Spanish wine\nand some raisins before them, and the doctor smoking away, with his wig\non his lap, and that, I knew, was a sign that he was agitated. The stern\nwindow was open, for it was a warm night, and you could see the moon\nshining behind on the ship’s wake."
+   "text": "I found them all three seated round the table, a bottle of Spanish wine\nand some raisins before them, and the doctor smoking away, with his wig\non his lap, and that, I knew, was a sign that he was agitated. The stern\nwindow was open, for it was a warm night, and you could see the moon\nshining behind on the ship’s wake.",
+   "sfx": [
+    {
+     "key": "rope_3",
+     "at": "knew, was a sign",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 48,
@@ -441,9 +612,14 @@
    "text": "I did as I was bid, and as short as I could make it, told the whole\ndetails of Silver’s conversation. Nobody interrupted me till I was done,\nnor did any one of the three of them make so much as a movement, but\nthey kept their eyes upon my face from first to last.",
    "sfx": [
     {
-     "key": "gull_near_1",
-     "at": "Silver’s conversation. Nobody interrupted",
-     "by": "place-birds"
+     "key": "creak_6",
+     "at": "make so much as",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_6",
+     "at": "me till I was",
+     "by": "place-players"
     }
    ]
   },
@@ -473,7 +649,19 @@
    "para": 29,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And they made me sit down at table beside them, poured me out a glass of\nwine, filled my hands with raisins, and all three, one after the other,\nand each with a bow, drank my good health, and their service to me, for\nmy luck and courage."
+   "text": "And they made me sit down at table beside them, poured me out a glass of\nwine, filled my hands with raisins, and all three, one after the other,\nand each with a bow, drank my good health, and their service to me, for\nmy luck and courage.",
+   "sfx": [
+    {
+     "key": "rigging_2",
+     "at": "their service to me,",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_1",
+     "at": "wine, filled my hands",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 56,
@@ -515,7 +703,19 @@
    "para": 31,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I never heard of a\ncrew that meant to mutiny but what showed signs before, for any man that\nhad an eye in his head to see the mischief and take steps according. But\nthis crew,”"
+   "text": "“I never heard of a\ncrew that meant to mutiny but what showed signs before, for any man that\nhad an eye in his head to see the mischief and take steps according. But\nthis crew,”",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "man that had an",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "mischief and take steps",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 62,
@@ -550,7 +750,14 @@
    "para": 32,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“with your permission, that’s Silver. A very\nremarkable man.”"
+   "text": "“with your permission, that’s Silver. A very\nremarkable man.”",
+   "sfx": [
+    {
+     "key": "sail_5",
+     "at": "A very remarkable man.”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 67,
@@ -609,9 +816,14 @@
    "text": "“We must go on, because we can’t turn\nback. If I gave the word to go about, they would rise at once. Second\npoint, we have time before us--at least until this treasure’s found.\nThird point, there are faithful hands. Now, sir, it’s got to come\nto blows sooner or later, and what I propose is to take time by the\nforelock, as the saying is, and come to blows some fine day when they\nleast expect it. We can count, I take it, on your own home servants, Mr.\nTrelawney?”",
    "sfx": [
     {
-     "key": "gull_near_1",
-     "at": "it, on your own",
-     "by": "place-birds"
+     "key": "creak_6",
+     "at": "I propose is to",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_4",
+     "at": "faithful hands. Now, sir,",
+     "by": "place-players"
     }
    ]
   },
@@ -648,7 +860,19 @@
    "para": 37,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“ourselves make seven, counting Hawkins\nhere. Now, about the honest hands?”"
+   "text": "“ourselves make seven, counting Hawkins\nhere. Now, about the honest hands?”",
+   "sfx": [
+    {
+     "key": "sail_6",
+     "at": "Hawkins here. Now, about",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_5",
+     "at": "here. Now, about the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 80,
@@ -697,7 +921,14 @@
    "para": 40,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I did think I could have trusted Hands,”"
+   "text": "“I did think I could have trusted Hands,”",
+   "sfx": [
+    {
+     "key": "rigging_1",
+     "at": "think I could have",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 87,
@@ -725,7 +956,14 @@
    "para": 41,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“Sir,\nI could find it in my heart to blow the ship up.”"
+   "text": "“Sir,\nI could find it in my heart to blow the ship up.”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "heart to blow the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 91,
@@ -746,7 +984,14 @@
    "para": 42,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“the best that I can say is not\nmuch. We must lay to, if you please, and keep a bright lookout. It’s\ntrying on a man, I know. It would be pleasanter to come to blows. But\nthere’s no help for it till we know our men. Lay to, and whistle for a\nwind, that’s my view.”"
+   "text": "“the best that I can say is not\nmuch. We must lay to, if you please, and keep a bright lookout. It’s\ntrying on a man, I know. It would be pleasanter to come to blows. But\nthere’s no help for it till we know our men. Lay to, and whistle for a\nwind, that’s my view.”",
+   "sfx": [
+    {
+     "key": "rope_6",
+     "at": "till we know our",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 94,
@@ -767,7 +1012,19 @@
    "para": 43,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“can help us more than anyone. The men are\nnot shy with him, and Jim is a noticing lad.”"
+   "text": "“can help us more than anyone. The men are\nnot shy with him, and Jim is a noticing lad.”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "not shy with him,",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_7",
+     "at": "than anyone. The men",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 97,
@@ -791,9 +1048,14 @@
    "text": "I began to feel pretty desperate at this, for I felt altogether\nhelpless; and yet, by an odd train of circumstances, it was indeed\nthrough me that safety came. In the meantime, talk as we pleased, there\nwere only seven out of the twenty-six on whom we knew we could rely; and\nout of these seven one was a boy, so that the grown men on our side were\nsix to their nineteen.",
    "sfx": [
     {
-     "key": "gull_far_2",
-     "at": "one was a boy,",
-     "by": "place-birds"
+     "key": "creak_2",
+     "at": "on our side were",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_3",
+     "at": "the grown men on",
+     "by": "place-players"
     }
    ]
   }

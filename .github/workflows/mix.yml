@@ -100,5 +100,5 @@ jobs:
           AWS_DEFAULT_REGION: auto
           EP: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
         run: |
-          aws s3 cp "$RUNNER_TEMP/$W-ch$NN.m4a" "s3://amenti-studios-private/road/$W/$W-ch$NN.m4a" --endpoint-url "$EP" --only-show-errors --content-type audio/mp4
-          aws s3 ls "s3://amenti-studios-private/road/$W/$W-ch$NN.m4a" --endpoint-url "$EP" | awk '{print "delivered:", $4, $3, "bytes"}'
+          aws s3 cp "$RUNNER_TEMP/$W-ch$NN.m4a" "s3://amenti-studios-private/road-preview/$W/$W-ch$NN.m4a" --endpoint-url "$EP" --only-show-errors --content-type audio/mp4
+          aws s3 ls "s3://amenti-studios-private/road-preview/$W/$W-ch$NN.m4a" --endpoint-url "$EP" | awk '{print "delivered:", $4, $3, "bytes"}'

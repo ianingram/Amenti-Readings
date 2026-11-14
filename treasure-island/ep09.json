@@ -62,6 +62,16 @@
      "key": "gull_far_3",
      "at": "the squire were very",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_8",
+     "at": "a brown old sailor",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_1",
+     "at": "very thick and friendly,",
+     "by": "place-players"
     }
    ]
   },
@@ -71,6 +81,16 @@
     {
      "key": "bell_watch",
      "at": "we had hardly got down into the cabin"
+    },
+    {
+     "key": "sail_4",
+     "at": "we had hardly got",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_5",
+     "at": "had hardly got down",
+     "by": "place-players"
     }
    ],
    "para": 3,
@@ -83,14 +103,28 @@
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Captain Smollett, sir, axing to speak with you,” said he."
+   "text": "“Captain Smollett, sir, axing to speak with you,” said he.",
+   "sfx": [
+    {
+     "key": "rigging_1",
+     "at": "sir, axing to speak",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 6,
    "para": 5,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“I am always at the captain’s orders. Show him in,”"
+   "text": "“I am always at the captain’s orders. Show him in,”",
+   "sfx": [
+    {
+     "key": "voices_far_5",
+     "at": "always at the captain’s",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 7,
@@ -104,7 +138,14 @@
    "para": 6,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The captain, who was close behind his messenger, entered at once and\nshut the door behind him."
+   "text": "The captain, who was close behind his messenger, entered at once and\nshut the door behind him.",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "entered at once and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 9,
@@ -146,7 +187,19 @@
    "para": 9,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "inquired the squire, very\nangry, as I could see."
+   "text": "inquired the squire, very\nangry, as I could see.",
+   "sfx": [
+    {
+     "key": "rope_1",
+     "at": "angry, as I could",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_7",
+     "at": "squire, very angry, as",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 15,
@@ -167,7 +220,14 @@
    "para": 10,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“She seems a clever craft; more I can’t say.”"
+   "text": "“She seems a clever craft; more I can’t say.”",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "clever craft; more I",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 18,
@@ -215,6 +275,16 @@
      "key": "gull_far_3",
      "at": "like this cruise. Now,",
      "by": "place-birds"
+    },
+    {
+     "key": "rigging_1",
+     "at": "too little, and I’m",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_6",
+     "at": "an explanation of his",
+     "by": "place-players"
     }
    ]
   },
@@ -223,7 +293,19 @@
    "para": 14,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I was engaged, sir, on what we call sealed orders, to sail this ship\nfor that gentleman where he should bid me,”"
+   "text": "“I was engaged, sir, on what we call sealed orders, to sail this ship\nfor that gentleman where he should bid me,”",
+   "sfx": [
+    {
+     "key": "rope_3",
+     "at": "he should bid me,”",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_5",
+     "at": "gentleman where he should",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 25,
@@ -237,7 +319,14 @@
    "para": 14,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“So far\nso good. But now I find that every man before the mast knows more than I\ndo. I don’t call that fair, now, do you?”"
+   "text": "“So far\nso good. But now I find that every man before the mast knows more than I\ndo. I don’t call that fair, now, do you?”",
+   "sfx": [
+    {
+     "key": "creak_7",
+     "at": "call that fair, now,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 27,
@@ -279,7 +368,19 @@
    "para": 16,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I learn we are going after treasure--hear\nit from my own hands, mind you. Now, treasure is ticklish work; I don’t\nlike treasure voyages on any account, and I don’t like them, above all,\nwhen they are secret and when (begging your pardon, Mr. Trelawney) the\nsecret has been told to the parrot.”"
+   "text": "“I learn we are going after treasure--hear\nit from my own hands, mind you. Now, treasure is ticklish work; I don’t\nlike treasure voyages on any account, and I don’t like them, above all,\nwhen they are secret and when (begging your pardon, Mr. Trelawney) the\nsecret has been told to the parrot.”",
+   "sfx": [
+    {
+     "key": "sail_2",
+     "at": "voyages on any account,",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_1",
+     "at": "ticklish work; I don’t",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 33,
@@ -320,6 +421,11 @@
      "key": "gull_pair_3",
      "at": "gentlemen know what you",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_7",
+     "at": "are about, but I’ll",
+     "by": "place-players"
     }
    ]
   },
@@ -342,7 +448,19 @@
    "para": 19,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“We take the risk, but we are not so ignorant as you believe us. Next,\nyou say you don’t like the crew. Are they not good seamen?”"
+   "text": "“We take the risk, but we are not so ignorant as you believe us. Next,\nyou say you don’t like the crew. Are they not good seamen?”",
+   "sfx": [
+    {
+     "key": "rope_3",
+     "at": "you say you don’t",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_4",
+     "at": "the crew. Are they",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 41,
@@ -384,14 +502,33 @@
    "para": 21,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“My friend should, perhaps,\nhave taken you along with him; but the slight, if there be one, was\nunintentional. And you don’t like Mr. Arrow?”"
+   "text": "“My friend should, perhaps,\nhave taken you along with him; but the slight, if there be one, was\nunintentional. And you don’t like Mr. Arrow?”",
+   "sfx": [
+    {
+     "key": "creak_3",
+     "at": "the slight, if there",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_5",
+     "at": "with him; but the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 47,
    "para": 22,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I don’t, sir. I believe he’s a good seaman, but he’s too free with\nthe crew to be a good officer. A mate should keep himself to\nhimself--shouldn’t drink with the men before the mast!”"
+   "text": "“I don’t, sir. I believe he’s a good seaman, but he’s too free with\nthe crew to be a good officer. A mate should keep himself to\nhimself--shouldn’t drink with the men before the mast!”",
+   "sfx": [
+    {
+     "key": "rigging_1",
+     "at": "to himself--shouldn’t drink with",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 48,
@@ -439,6 +576,11 @@
      "key": "gull_pair_3",
      "at": "short and long of",
      "by": "place-birds"
+    },
+    {
+     "key": "rope_3",
+     "at": "the short and long",
+     "by": "place-players"
     }
    ]
   },
@@ -461,7 +603,14 @@
    "para": 26,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Well, gentlemen, are you determined to go on this cruise?”"
+   "text": "“Well, gentlemen, are you determined to go on this cruise?”",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "go on this cruise?”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 57,
@@ -496,7 +645,14 @@
    "para": 28,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Then, as you’ve heard me very patiently,\nsaying things that I could not prove, hear me a few words more. They are\nputting the powder and the arms in the fore hold. Now, you have a good\nplace under the cabin; why not put them there?--first point. Then, you\nare bringing four of your own people with you, and they tell me some of\nthem are to be berthed forward. Why not give them the berths here beside\nthe cabin?--second point.”"
+   "text": "“Then, as you’ve heard me very patiently,\nsaying things that I could not prove, hear me a few words more. They are\nputting the powder and the arms in the fore hold. Now, you have a good\nplace under the cabin; why not put them there?--first point. Then, you\nare bringing four of your own people with you, and they tell me some of\nthem are to be berthed forward. Why not give them the berths here beside\nthe cabin?--second point.”",
+   "sfx": [
+    {
+     "key": "sail_4",
+     "at": "point. Then, you are",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 62,
@@ -566,14 +722,38 @@
    "para": 32,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“that you have a map of an island, that there’s crosses on the map to\nshow where treasure is, and that the island lies--”"
+   "text": "“that you have a map of an island, that there’s crosses on the map to\nshow where treasure is, and that the island lies--”",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "on the map to",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_6",
+     "at": "that there’s crosses on",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 72,
    "para": 32,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And then he named\nthe latitude and longitude exactly."
+   "text": "And then he named\nthe latitude and longitude exactly.",
+   "sfx": [
+    {
+     "key": "feet_3",
+     "at": "latitude and longitude exactly.",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_2",
+     "at": "named the latitude and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 73,
@@ -615,7 +795,14 @@
    "para": 35,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“Livesey, that must have been you or Hawkins,”"
+   "text": "“Livesey, that must have been you or Hawkins,”",
+   "sfx": [
+    {
+     "key": "sail_7",
+     "at": "been you or Hawkins,”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 79,
@@ -642,6 +829,11 @@
      "key": "gull_swoop_3",
      "at": "really right and that",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_1",
+     "at": "was really right and",
+     "by": "place-players"
     }
    ]
   },
@@ -664,7 +856,19 @@
    "para": 37,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I don’t know who has this\nmap; but I make it a point, it shall be kept secret even from me and Mr.\nArrow. Otherwise I would ask you to let me resign.”"
+   "text": "“I don’t know who has this\nmap; but I make it a point, it shall be kept secret even from me and Mr.\nArrow. Otherwise I would ask you to let me resign.”",
+   "sfx": [
+    {
+     "key": "rope_3",
+     "at": "a point, it shall",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_3",
+     "at": "it a point, it",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 85,
@@ -685,7 +889,19 @@
    "para": 38,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“You wish us to keep this matter dark and to\nmake a garrison of the stern part of the ship, manned with my friend’s\nown people, and provided with all the arms and powder on board. In other\nwords, you fear a mutiny.”"
+   "text": "“You wish us to keep this matter dark and to\nmake a garrison of the stern part of the ship, manned with my friend’s\nown people, and provided with all the arms and powder on board. In other\nwords, you fear a mutiny.”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "ship, manned with my",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_2",
+     "at": "on board. In other",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 88,
@@ -712,6 +928,16 @@
      "key": "gull_far_1",
      "at": "resign my berth. And",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_1",
+     "at": "enough to say that.",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_4",
+     "at": "had ground enough to",
+     "by": "place-players"
     }
    ]
   },
@@ -734,7 +960,19 @@
    "para": 40,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“did ever you hear\nthe fable of the mountain and the mouse? You’ll excuse me, I dare say,\nbut you remind me of that fable. When you came in here, I’ll stake my\nwig, you meant more than this.”"
+   "text": "“did ever you hear\nthe fable of the mountain and the mouse? You’ll excuse me, I dare say,\nbut you remind me of that fable. When you came in here, I’ll stake my\nwig, you meant more than this.”",
+   "sfx": [
+    {
+     "key": "sail_6",
+     "at": "wig, you meant more",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_4",
+     "at": "remind me of that",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 94,
@@ -755,7 +993,14 @@
    "para": 41,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“you are smart. When I came in here I meant\nto get discharged. I had no thought that Mr. Trelawney would hear a\nword.”"
+   "text": "“you are smart. When I came in here I meant\nto get discharged. I had no thought that Mr. Trelawney would hear a\nword.”",
+   "sfx": [
+    {
+     "key": "voices_far_4",
+     "at": "meant to get discharged.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 97,
@@ -776,7 +1021,14 @@
    "para": 42,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“Had Livesey not been here I should\nhave seen you to the deuce. As it is, I have heard you. I will do as you\ndesire, but I think the worse of you.”"
+   "text": "“Had Livesey not been here I should\nhave seen you to the deuce. As it is, I have heard you. I will do as you\ndesire, but I think the worse of you.”",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "you. I will do",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 100,
@@ -825,7 +1077,19 @@
    "para": 45,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“contrary to all my notions, I believed\nyou have managed to get two honest men on board with you--that man and\nJohn Silver.”"
+   "text": "“contrary to all my notions, I believed\nyou have managed to get two honest men on board with you--that man and\nJohn Silver.”",
+   "sfx": [
+    {
+     "key": "rope_3",
+     "at": "I believed you have",
+     "by": "place-players"
+    },
+    {
+     "key": "sail_1",
+     "at": "with you--that man and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 107,
@@ -846,7 +1110,14 @@
    "para": 46,
    "role": "Squire Trelawney",
    "cast": "Francis Drake",
-   "text": "“but as for that intolerable\nhumbug, I declare I think his conduct unmanly, unsailorly, and downright\nun-English.”"
+   "text": "“but as for that intolerable\nhumbug, I declare I think his conduct unmanly, unsailorly, and downright\nun-English.”",
+   "sfx": [
+    {
+     "key": "rigging_2",
+     "at": "humbug, I declare I",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 110,
@@ -880,6 +1151,16 @@
      "key": "gull_pair_1",
      "at": "already to take out",
      "by": "place-birds"
+    },
+    {
+     "key": "creak_6",
+     "at": "and powder, yo-ho-ing at",
+     "by": "place-players"
+    },
+    {
+     "key": "feet_2",
+     "at": "their work, while the",
+     "by": "place-players"
     }
    ]
   },
@@ -888,7 +1169,19 @@
    "para": 49,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The new arrangement was quite to my liking. The whole schooner had been\noverhauled; six berths had been made astern out of what had been the\nafter-part of the main hold; and this set of cabins was only joined to\nthe galley and forecastle by a sparred passage on the port side. It had\nbeen originally meant that the captain, Mr. Arrow, Hunter, Joyce, the\ndoctor, and the squire were to occupy these six berths. Now Redruth and\nI were to get two of them and Mr. Arrow and the captain were to sleep\non deck in the companion, which had been enlarged on each side till you\nmight almost have called it a round-house. Very low it was still, of\ncourse; but there was room to swing two hammocks, and even the mate\nseemed pleased with the arrangement. Even he, perhaps, had been doubtful\nas to the crew, but that is only guess, for as you shall hear, we had\nnot long the benefit of his opinion."
+   "text": "The new arrangement was quite to my liking. The whole schooner had been\noverhauled; six berths had been made astern out of what had been the\nafter-part of the main hold; and this set of cabins was only joined to\nthe galley and forecastle by a sparred passage on the port side. It had\nbeen originally meant that the captain, Mr. Arrow, Hunter, Joyce, the\ndoctor, and the squire were to occupy these six berths. Now Redruth and\nI were to get two of them and Mr. Arrow and the captain were to sleep\non deck in the companion, which had been enlarged on each side till you\nmight almost have called it a round-house. Very low it was still, of\ncourse; but there was room to swing two hammocks, and even the mate\nseemed pleased with the arrangement. Even he, perhaps, had been doubtful\nas to the crew, but that is only guess, for as you shall hear, we had\nnot long the benefit of his opinion.",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "perhaps, had been doubtful",
+     "by": "place-players"
+    },
+    {
+     "key": "rope_4",
+     "at": "two hammocks, and even",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 115,
@@ -901,6 +1194,16 @@
      "key": "gull_pair_3",
      "at": "off in a shore-boat.",
      "by": "place-birds"
+    },
+    {
+     "key": "sail_4",
+     "at": "the powder and the",
+     "by": "place-players"
+    },
+    {
+     "key": "rigging_3",
+     "at": "Long John along with",
+     "by": "place-players"
     }
    ]
   },
@@ -909,7 +1212,19 @@
    "para": 51,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The cook came up the side like a monkey for cleverness, and as soon as\nhe saw what was doing,"
+   "text": "The cook came up the side like a monkey for cleverness, and as soon as\nhe saw what was doing,",
+   "sfx": [
+    {
+     "key": "feet_1",
+     "at": "as soon as he",
+     "by": "place-players"
+    },
+    {
+     "key": "voices_far_2",
+     "at": "saw what was doing,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 117,
@@ -979,7 +1294,14 @@
    "para": 54,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“You may go below, my man. Hands\nwill want supper.”"
+   "text": "“You may go below, my man. Hands\nwill want supper.”",
+   "sfx": [
+    {
+     "key": "creak_4",
+     "at": "Hands will want supper.”",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 127,
@@ -993,7 +1315,14 @@
    "para": 55,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "answered the cook, and touching his forelock, he\ndisappeared at once in the direction of his galley."
+   "text": "answered the cook, and touching his forelock, he\ndisappeared at once in the direction of his galley.",
+   "sfx": [
+    {
+     "key": "rope_1",
+     "at": "touching his forelock, he",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 129,
@@ -1035,7 +1364,14 @@
    "para": 57,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "he ran on, to the fellows who were shifting the powder; and\nthen suddenly observing me examining the swivel we carried amidships,\na long brass nine,"
+   "text": "he ran on, to the fellows who were shifting the powder; and\nthen suddenly observing me examining the swivel we carried amidships,\na long brass nine,",
+   "sfx": [
+    {
+     "key": "sail_3",
+     "at": "observing me examining the",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 135,
@@ -1063,7 +1399,14 @@
    "para": 58,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And then as I was hurrying off I heard him say, quite loudly, to the\ndoctor,"
+   "text": "And then as I was hurrying off I heard him say, quite loudly, to the\ndoctor,",
+   "sfx": [
+    {
+     "key": "creak_2",
+     "at": "him say, quite loudly,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 139,
@@ -1077,7 +1420,14 @@
    "para": 59,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I assure you I was quite of the squire’s way of thinking, and hated the\ncaptain deeply."
+   "text": "I assure you I was quite of the squire’s way of thinking, and hated the\ncaptain deeply.",
+   "sfx": [
+    {
+     "key": "rigging_1",
+     "at": "quite of the squire’s",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

@@ -69,7 +69,14 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "he roared. And then, as we all slunk back to our places,"
+   "text": "he roared. And then, as we all slunk back to our places,",
+   "sfx": [
+    {
+     "key": "birds_day_5",
+     "at": "then, as we all",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 6,
@@ -90,7 +97,19 @@
    "para": 3,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I’ll put your name in the log; you’ve stood by your\nduty like a seaman. Mr. Trelawney, I’m surprised at you, sir. Doctor,\nI thought you had worn the king’s coat! If that was how you served at\nFontenoy, sir, you’d have been better in your berth.”"
+   "text": "“I’ll put your name in the log; you’ve stood by your\nduty like a seaman. Mr. Trelawney, I’m surprised at you, sir. Doctor,\nI thought you had worn the king’s coat! If that was how you served at\nFontenoy, sir, you’d have been better in your berth.”",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "worn the king’s coat!",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "the king’s coat! If",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 9,
@@ -125,7 +144,14 @@
    "para": 6,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“I’ve given Silver a broadside. I pitched it in\nred-hot on purpose; and before the hour’s out, as he said, we shall be\nboarded. We’re outnumbered, I needn’t tell you that, but we fight in\nshelter; and a minute ago I should have said we fought with discipline.\nI’ve no manner of doubt that we can drub them, if you choose.”"
+   "text": "“I’ve given Silver a broadside. I pitched it in\nred-hot on purpose; and before the hour’s out, as he said, we shall be\nboarded. We’re outnumbered, I needn’t tell you that, but we fight in\nshelter; and a minute ago I should have said we fought with discipline.\nI’ve no manner of doubt that we can drub them, if you choose.”",
+   "sfx": [
+    {
+     "key": "birds_day_4",
+     "at": "as he said, we",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
@@ -138,6 +164,11 @@
      "key": "gull_far_3",
      "at": "as he said, that",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_7",
+     "at": "and saw, as he",
+     "by": "place-players"
     }
    ]
   },
@@ -167,21 +198,42 @@
    "para": 9,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“the chill is past, and we\nmustn’t have smoke in our eyes.”"
+   "text": "“the chill is past, and we\nmustn’t have smoke in our eyes.”",
+   "sfx": [
+    {
+     "key": "birds_day_2",
+     "at": "past, and we mustn’t",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 19,
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The iron fire-basket was carried bodily out by Mr. Trelawney, and the\nembers smothered among sand."
+   "text": "The iron fire-basket was carried bodily out by Mr. Trelawney, and the\nembers smothered among sand.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "bodily out by Mr.",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 20,
    "para": 11,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Hawkins hasn’t had his breakfast. Hawkins, help yourself, and back to\nyour post to eat it,”"
+   "text": "“Hawkins hasn’t had his breakfast. Hawkins, help yourself, and back to\nyour post to eat it,”",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "yourself, and back to",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 21,
@@ -223,14 +275,33 @@
    "para": 13,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“See, and don’t expose\nyourself; keep within, and fire through the porch. Hunter, take the east\nside, there. Joyce, you stand by the west, my man. Mr. Trelawney, you\nare the best shot--you and Gray will take this long north side, with the\nfive loopholes; it’s there the danger is. If they can get up to it and\nfire in upon us through our own ports, things would begin to look dirty.\nHawkins, neither you nor I are much account at the shooting; we’ll stand\nby to load and bear a hand.”"
+   "text": "“See, and don’t expose\nyourself; keep within, and fire through the porch. Hunter, take the east\nside, there. Joyce, you stand by the west, my man. Mr. Trelawney, you\nare the best shot--you and Gray will take this long north side, with the\nfive loopholes; it’s there the danger is. If they can get up to it and\nfire in upon us through our own ports, things would begin to look dirty.\nHawkins, neither you nor I are much account at the shooting; we’ll stand\nby to load and bear a hand.”",
+   "sfx": [
+    {
+     "key": "birds_day_1",
+     "at": "to look dirty. Hawkins,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 27,
    "para": 14,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "As the captain had said, the chill was past. As soon as the sun had\nclimbed above our girdle of trees, it fell with all its force upon the\nclearing and drank up the vapours at a draught. Soon the sand was baking\nand the resin melting in the logs of the block house. Jackets and coats\nwere flung aside, shirts thrown open at the neck and rolled up to the\nshoulders; and we stood there, each at his post, in a fever of heat and\nanxiety."
+   "text": "As the captain had said, the chill was past. As soon as the sun had\nclimbed above our girdle of trees, it fell with all its force upon the\nclearing and drank up the vapours at a draught. Soon the sand was baking\nand the resin melting in the logs of the block house. Jackets and coats\nwere flung aside, shirts thrown open at the neck and rolled up to the\nshoulders; and we stood there, each at his post, in a fever of heat and\nanxiety.",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "and drank up the",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_3",
+     "at": "post, in a fever",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 28,
@@ -265,7 +336,14 @@
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And just at that moment came the first news of the attack."
+   "text": "And just at that moment came the first news of the attack.",
+   "sfx": [
+    {
+     "key": "birds_day_6",
+     "at": "the first news of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 33,
@@ -307,7 +385,14 @@
    "para": 21,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Nothing followed for a time, but the remark had set us all on the alert,\nstraining ears and eyes--the musketeers with their pieces balanced in\ntheir hands, the captain out in the middle of the block house with his\nmouth very tight and a frown on his face."
+   "text": "Nothing followed for a time, but the remark had set us all on the alert,\nstraining ears and eyes--the musketeers with their pieces balanced in\ntheir hands, the captain out in the middle of the block house with his\nmouth very tight and a frown on his face.",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "tight and a frown",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 38,
@@ -325,6 +410,11 @@
      "by": "place-birds",
      "at": "suddenly Joyce whipped up his musket and fired",
      "offset": 0.45
+    },
+    {
+     "key": "birds_day_2",
+     "at": "as the smoke cleared",
+     "by": "place-players"
     }
    ],
    "para": 22,
@@ -372,7 +462,14 @@
    "para": 25,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Load\nhis gun, Hawkins. How many should say there were on your side, doctor?”"
+   "text": "“Load\nhis gun, Hawkins. How many should say there were on your side, doctor?”",
+   "sfx": [
+    {
+     "key": "insects_day_2",
+     "at": "were on your side,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 45,
@@ -393,7 +490,14 @@
    "para": 26,
    "role": "Dr Livesey",
    "cast": "David Livingstone",
-   "text": "“Three shots were fired on this\nside. I saw the three flashes--two close together--one farther to the\nwest.”"
+   "text": "“Three shots were fired on this\nside. I saw the three flashes--two close together--one farther to the\nwest.”",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "I saw the three",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 48,
@@ -421,14 +525,28 @@
    "para": 28,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "But this was not so easily answered. There had come many from the\nnorth--seven by the squire’s computation, eight or nine according to\nGray. From the east and west only a single shot had been fired. It was\nplain, therefore, that the attack would be developed from the north and\nthat on the other three sides we were only to be annoyed by a show of\nhostilities. But Captain Smollett made no change in his arrangements. If\nthe mutineers succeeded in crossing the stockade, he argued, they would\ntake possession of any unprotected loophole and shoot us down like rats\nin our own stronghold."
+   "text": "But this was not so easily answered. There had come many from the\nnorth--seven by the squire’s computation, eight or nine according to\nGray. From the east and west only a single shot had been fired. It was\nplain, therefore, that the attack would be developed from the north and\nthat on the other three sides we were only to be annoyed by a show of\nhostilities. But Captain Smollett made no change in his arrangements. If\nthe mutineers succeeded in crossing the stockade, he argued, they would\ntake possession of any unprotected loophole and shoot us down like rats\nin our own stronghold.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "only to be annoyed",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 52,
    "para": 29,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Nor had we much time left to us for thought. Suddenly, with a loud\nhuzza, a little cloud of pirates leaped from the woods on the north side\nand ran straight on the stockade. At the same moment, the fire was once\nmore opened from the woods, and a rifle ball sang through the doorway\nand knocked the doctor’s musket into bits."
+   "text": "Nor had we much time left to us for thought. Suddenly, with a loud\nhuzza, a little cloud of pirates leaped from the woods on the north side\nand ran straight on the stockade. At the same moment, the fire was once\nmore opened from the woods, and a rifle ball sang through the doorway\nand knocked the doctor’s musket into bits.",
+   "sfx": [
+    {
+     "key": "trees_3",
+     "at": "the doorway and knocked",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 53,
@@ -437,6 +555,16 @@
      "key": "crew_death",
      "at": "three men fell, one forwards into the enclosure",
      "offset": 1.0
+    },
+    {
+     "key": "birds_day_6",
+     "at": "was on his feet",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_3",
+     "at": "two back on the",
+     "by": "place-players"
     }
    ],
    "para": 30,
@@ -449,7 +577,14 @@
    "para": 31,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Two had bit the dust, one had fled, four had made good their footing\ninside our defences, while from the shelter of the woods seven or eight\nmen, each evidently supplied with several muskets, kept up a hot though\nuseless fire on the log-house."
+   "text": "Two had bit the dust, one had fled, four had made good their footing\ninside our defences, while from the shelter of the woods seven or eight\nmen, each evidently supplied with several muskets, kept up a hot though\nuseless fire on the log-house.",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "good their footing inside",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 55,
@@ -477,21 +612,47 @@
    "para": 34,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“At ’em, all hands--all hands!” he roared in a voice of thunder."
+   "text": "“At ’em, all hands--all hands!” he roared in a voice of thunder.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "he roared in a",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 58,
    "para": 35,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At the same moment, another pirate grasped Hunter’s musket by the\nmuzzle, wrenched it from his hands, plucked it through the loophole,\nand with one stunning blow, laid the poor fellow senseless on the floor.\nMeanwhile a third, running unharmed all around the house, appeared\nsuddenly in the doorway and fell with his cutlass on the doctor."
+   "text": "At the same moment, another pirate grasped Hunter’s musket by the\nmuzzle, wrenched it from his hands, plucked it through the loophole,\nand with one stunning blow, laid the poor fellow senseless on the floor.\nMeanwhile a third, running unharmed all around the house, appeared\nsuddenly in the doorway and fell with his cutlass on the doctor.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "through the loophole, and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 59,
    "para": 36,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Our position was utterly reversed. A moment since we were firing, under\ncover, at an exposed enemy; now it was we who lay uncovered and could\nnot return a blow."
+   "text": "Our position was utterly reversed. A moment since we were firing, under\ncover, at an exposed enemy; now it was we who lay uncovered and could\nnot return a blow.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "firing, under cover, at",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "cover, at an exposed",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 60,
@@ -519,7 +680,19 @@
    "para": 39,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I snatched a cutlass from the pile, and someone, at the same time\nsnatching another, gave me a cut across the knuckles which I hardly\nfelt. I dashed out of the door into the clear sunlight. Someone was\nclose behind, I knew not whom. Right in front, the doctor was pursuing\nhis assailant down the hill, and just as my eyes fell upon him, beat\ndown his guard and sent him sprawling on his back with a great slash\nacross the face."
+   "text": "I snatched a cutlass from the pile, and someone, at the same time\nsnatching another, gave me a cut across the knuckles which I hardly\nfelt. I dashed out of the door into the clear sunlight. Someone was\nclose behind, I knew not whom. Right in front, the doctor was pursuing\nhis assailant down the hill, and just as my eyes fell upon him, beat\ndown his guard and sent him sprawling on his back with a great slash\nacross the face.",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "clear sunlight. Someone was",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "I dashed out of",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 64,
@@ -533,21 +706,47 @@
    "para": 40,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "cried the captain; and even in\nthe hurly-burly, I perceived a change in his voice."
+   "text": "cried the captain; and even in\nthe hurly-burly, I perceived a change in his voice.",
+   "sfx": [
+    {
+     "key": "bird_cry_1",
+     "at": "even in the hurly-burly,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 66,
    "para": 41,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Mechanically, I obeyed, turned eastwards, and with my cutlass raised,\nran round the corner of the house. Next moment I was face to face\nwith Anderson. He roared aloud, and his hanger went up above his head,\nflashing in the sunlight. I had not time to be afraid, but as the blow\nstill hung impending, leaped in a trice upon one side, and missing my\nfoot in the soft sand, rolled headlong down the slope."
+   "text": "Mechanically, I obeyed, turned eastwards, and with my cutlass raised,\nran round the corner of the house. Next moment I was face to face\nwith Anderson. He roared aloud, and his hanger went up above his head,\nflashing in the sunlight. I had not time to be afraid, but as the blow\nstill hung impending, leaped in a trice upon one side, and missing my\nfoot in the soft sand, rolled headlong down the slope.",
+   "sfx": [
+    {
+     "key": "birds_day_3",
+     "at": "foot in the soft",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_3",
+     "at": "his hanger went up",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 67,
    "para": 42,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "When I had first sallied from the door, the other mutineers had been\nalready swarming up the palisade to make an end of us. One man, in a red\nnight-cap, with his cutlass in his mouth, had even got upon the top and\nthrown a leg across. Well, so short had been the interval that when I\nfound my feet again all was in the same posture, the fellow with the red\nnight-cap still half-way over, another still just showing his head above\nthe top of the stockade. And yet, in this breath of time, the fight was\nover and the victory was ours."
+   "text": "When I had first sallied from the door, the other mutineers had been\nalready swarming up the palisade to make an end of us. One man, in a red\nnight-cap, with his cutlass in his mouth, had even got upon the top and\nthrown a leg across. Well, so short had been the interval that when I\nfound my feet again all was in the same posture, the fellow with the red\nnight-cap still half-way over, another still just showing his head above\nthe top of the stockade. And yet, in this breath of time, the fight was\nover and the victory was ours.",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "so short had been",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 68,
@@ -560,6 +759,16 @@
      "key": "gull_far_2",
      "at": "and now lay in",
      "by": "place-birds"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "and he, having left",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_3",
+     "at": "having left his cutlass",
+     "by": "place-players"
     }
    ]
   },
@@ -589,14 +798,28 @@
    "para": 45,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "But his words were unheeded, no shot was fired, and the last boarder\nmade good his escape and disappeared with the rest into the wood. In\nthree seconds nothing remained of the attacking party but the five who\nhad fallen, four on the inside and one on the outside of the palisade."
+   "text": "But his words were unheeded, no shot was fired, and the last boarder\nmade good his escape and disappeared with the rest into the wood. In\nthree seconds nothing remained of the attacking party but the five who\nhad fallen, four on the inside and one on the outside of the palisade.",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "his escape and disappeared",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 73,
    "para": 46,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The doctor and Gray and I ran full speed for shelter. The survivors\nwould soon be back where they had left their muskets, and at any moment\nthe fire might recommence."
+   "text": "The doctor and Gray and I ran full speed for shelter. The survivors\nwould soon be back where they had left their muskets, and at any moment\nthe fire might recommence.",
+   "sfx": [
+    {
+     "key": "birds_day_4",
+     "at": "speed for shelter. The",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 74,
@@ -605,6 +828,11 @@
      "key": "crew_death",
      "at": "shot through the head, never to move again",
      "offset": 0.6
+    },
+    {
+     "key": "trees_5",
+     "at": "in the centre, the",
+     "by": "place-players"
     }
    ],
    "para": 47,
@@ -687,7 +915,14 @@
    "para": 51,
    "role": "Captain Smollett",
    "cast": "James Cook",
-   "text": "“Come, that’s better. Five against three\nleaves us four to nine. That’s better odds than we had at starting. We\nwere seven to nineteen then, or thought we were, and that’s as bad to\nbear.”"
+   "text": "“Come, that’s better. Five against three\nleaves us four to nine. That’s better odds than we had at starting. We\nwere seven to nineteen then, or thought we were, and that’s as bad to\nbear.”",
+   "sfx": [
+    {
+     "key": "birds_day_3",
+     "at": "to nineteen then, or",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 85,
@@ -701,7 +936,14 @@
    "para": 52,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "*The mutineers were soon only eight in number, for the man shot by Mr.\nTrelawney on board the schooner died that same evening of his wound. But\nthis was, of course, not known till after by the faithful party."
+   "text": "*The mutineers were soon only eight in number, for the man shot by Mr.\nTrelawney on board the schooner died that same evening of his wound. But\nthis was, of course, not known till after by the faithful party.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "same evening of his",
+     "by": "place-players"
+    }
+   ]
   }
  ]
 }

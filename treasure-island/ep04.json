@@ -51,7 +51,14 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I lost no time, of course, in telling my mother all that I knew, and\nperhaps should have told her long before, and we saw ourselves at once\nin a difficult and dangerous position. Some of the man’s money--if\nhe had any--was certainly due to us, but it was not likely that our\ncaptain’s shipmates, above all the two specimens seen by me, Black\nDog and the blind beggar, would be inclined to give up their booty in\npayment of the dead man’s debts. The captain’s order to mount at\nonce and ride for Doctor Livesey would have left my mother alone\nand unprotected, which was not to be thought of. Indeed, it seemed\nimpossible for either of us to remain much longer in the house; the fall\nof coals in the kitchen grate, the very ticking of the clock, filled\nus with alarms. The neighbourhood, to our ears, seemed haunted by\napproaching footsteps; and what between the dead body of the captain\non the parlour floor and the thought of that detestable blind beggar\nhovering near at hand and ready to return, there were moments when, as\nthe saying goes, I jumped in my skin for terror. Something must speedily\nbe resolved upon, and it occurred to us at last to go forth together\nand seek help in the neighbouring hamlet. No sooner said than done.\nBare-headed as we were, we ran out at once in the gathering evening and\nthe frosty fog."
+   "text": "I lost no time, of course, in telling my mother all that I knew, and\nperhaps should have told her long before, and we saw ourselves at once\nin a difficult and dangerous position. Some of the man’s money--if\nhe had any--was certainly due to us, but it was not likely that our\ncaptain’s shipmates, above all the two specimens seen by me, Black\nDog and the blind beggar, would be inclined to give up their booty in\npayment of the dead man’s debts. The captain’s order to mount at\nonce and ride for Doctor Livesey would have left my mother alone\nand unprotected, which was not to be thought of. Indeed, it seemed\nimpossible for either of us to remain much longer in the house; the fall\nof coals in the kitchen grate, the very ticking of the clock, filled\nus with alarms. The neighbourhood, to our ears, seemed haunted by\napproaching footsteps; and what between the dead body of the captain\non the parlour floor and the thought of that detestable blind beggar\nhovering near at hand and ready to return, there were moments when, as\nthe saying goes, I jumped in my skin for terror. Something must speedily\nbe resolved upon, and it occurred to us at last to go forth together\nand seek help in the neighbouring hamlet. No sooner said than done.\nBare-headed as we were, we ran out at once in the gathering evening and\nthe frosty fog.",
+   "sfx": [
+    {
+     "key": "creak_6",
+     "at": "clock, filled us with",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
@@ -72,7 +79,14 @@
    "para": 5,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "They say cowardice is infectious; but then argument is, on the other\nhand, a great emboldener; and so when each had said his say, my mother\nmade them a speech. She would not, she declared, lose money that\nbelonged to her fatherless boy; “If none of the rest of you dare,”\n she said, “Jim and I dare. Back we will go, the way we came, and small\nthanks to you big, hulking, chicken-hearted men. We’ll have that chest\nopen, if we die for it. And I’ll thank you for that bag, Mrs. Crossley,\nto bring back our lawful money in.”"
+   "text": "They say cowardice is infectious; but then argument is, on the other\nhand, a great emboldener; and so when each had said his say, my mother\nmade them a speech. She would not, she declared, lose money that\nbelonged to her fatherless boy; “If none of the rest of you dare,”\n she said, “Jim and I dare. Back we will go, the way we came, and small\nthanks to you big, hulking, chicken-hearted men. We’ll have that chest\nopen, if we die for it. And I’ll thank you for that bag, Mrs. Crossley,\nto bring back our lawful money in.”",
+   "sfx": [
+    {
+     "key": "creak_8",
+     "at": "that belonged to her",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 7,
@@ -107,7 +121,14 @@
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I went down on my knees at once. On the floor close to his hand there\nwas a little round of paper, blackened on the one side. I could not\ndoubt that this was the _black spot;_ and taking it up, I found written\non the other side, in a very good, clear hand, this short message: “You\nhave till ten tonight.”"
+   "text": "I went down on my knees at once. On the floor close to his hand there\nwas a little round of paper, blackened on the one side. I could not\ndoubt that this was the _black spot;_ and taking it up, I found written\non the other side, in a very good, clear hand, this short message: “You\nhave till ten tonight.”",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "message: “You have till",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -176,7 +197,14 @@
    "para": 19,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "In the meantime, we had found nothing of any value but the silver and\nthe trinkets, and neither of these were in our way. Underneath there\nwas an old boat-cloak, whitened with sea-salt on many a harbour-bar. My\nmother pulled it up with impatience, and there lay before us, the last\nthings in the chest, a bundle tied up in oilcloth, and looking like\npapers, and a canvas bag that gave forth, at a touch, the jingle of\ngold."
+   "text": "In the meantime, we had found nothing of any value but the silver and\nthe trinkets, and neither of these were in our way. Underneath there\nwas an old boat-cloak, whitened with sea-salt on many a harbour-bar. My\nmother pulled it up with impatience, and there lay before us, the last\nthings in the chest, a bundle tied up in oilcloth, and looking like\npapers, and a canvas bag that gave forth, at a touch, the jingle of\ngold.",
+   "sfx": [
+    {
+     "key": "creak_1",
+     "at": "a touch, the jingle",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 21,
@@ -222,6 +250,11 @@
     {
      "key": "whistle_signal",
      "at": "a little low whistle sounded a good way off upon the hill"
+    },
+    {
+     "key": "creak_4",
+     "at": "sounded a good way",
+     "by": "place-players"
     }
    ],
    "para": 24,

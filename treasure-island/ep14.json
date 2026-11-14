@@ -55,21 +55,52 @@
    "para": 2,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I was so pleased at having given the slip to Long John that I began to\nenjoy myself and look around me with some interest on the strange land\nthat I was in."
+   "text": "I was so pleased at having given the slip to Long John that I began to\nenjoy myself and look around me with some interest on the strange land\nthat I was in.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "and look around me",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 4,
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I had crossed a marshy tract full of willows, bulrushes, and odd,\noutlandish, swampy trees; and I had now come out upon the skirts of an\nopen piece of undulating, sandy country, about a mile long, dotted with\na few pines and a great number of contorted trees, not unlike the oak\nin growth, but pale in the foliage, like willows. On the far side of\nthe open stood one of the hills, with two quaint, craggy peaks shining\nvividly in the sun."
+   "text": "I had crossed a marshy tract full of willows, bulrushes, and odd,\noutlandish, swampy trees; and I had now come out upon the skirts of an\nopen piece of undulating, sandy country, about a mile long, dotted with\na few pines and a great number of contorted trees, not unlike the oak\nin growth, but pale in the foliage, like willows. On the far side of\nthe open stood one of the hills, with two quaint, craggy peaks shining\nvividly in the sun.",
+   "sfx": [
+    {
+     "key": "birds_day_4",
+     "at": "pale in the foliage,",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "On the far side",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I now felt for the first time the joy of exploration. The isle was\nuninhabited; my shipmates I had left behind, and nothing lived in front\nof me but dumb brutes and fowls. I turned hither and thither among the\ntrees. Here and there were flowering plants, unknown to me; here and\nthere I saw snakes, and one raised his head from a ledge of rock and\nhissed at me with a noise not unlike the spinning of a top. Little did\nI suppose that he was a deadly enemy and that the noise was the famous\nrattle."
+   "text": "I now felt for the first time the joy of exploration. The isle was\nuninhabited; my shipmates I had left behind, and nothing lived in front\nof me but dumb brutes and fowls. I turned hither and thither among the\ntrees. Here and there were flowering plants, unknown to me; here and\nthere I saw snakes, and one raised his head from a ledge of rock and\nhissed at me with a noise not unlike the spinning of a top. Little did\nI suppose that he was a deadly enemy and that the noise was the famous\nrattle.",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "brutes and fowls. I",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "I turned hither and",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 6,
@@ -82,6 +113,11 @@
      "key": "gull_far_2",
      "at": "of the Spy-glass trembled",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_7",
+     "at": "like thatch. The thicket",
+     "by": "place-players"
     }
    ]
   },
@@ -91,6 +127,16 @@
     {
      "key": "marsh_birds",
      "at": "a great cloud of birds hung screaming and circling"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "of my shipmates must",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "once that some of",
+     "by": "place-players"
     }
    ],
    "para": 6,
@@ -103,7 +149,14 @@
    "para": 7,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "This put me in a great fear, and I crawled under cover of the nearest\nlive-oak and squatted there, hearkening, as silent as a mouse."
+   "text": "This put me in a great fear, and I crawled under cover of the nearest\nlive-oak and squatted there, hearkening, as silent as a mouse.",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "and I crawled under",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 9,
@@ -117,14 +170,33 @@
    "para": 9,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "At last the speakers seemed to have paused and perhaps to have sat down,\nfor not only did they cease to draw any nearer, but the birds themselves\nbegan to grow more quiet and to settle again to their places in the\nswamp."
+   "text": "At last the speakers seemed to have paused and perhaps to have sat down,\nfor not only did they cease to draw any nearer, but the birds themselves\nbegan to grow more quiet and to settle again to their places in the\nswamp.",
+   "sfx": [
+    {
+     "key": "birds_day_6",
+     "at": "and to settle again",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 11,
    "para": 10,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And now I began to feel that I was neglecting my business, that since\nI had been so foolhardy as to come ashore with these desperadoes, the\nleast I could do was to overhear them at their councils, and that my\nplain and obvious duty was to draw as close as I could manage, under the\nfavourable ambush of the crouching trees."
+   "text": "And now I began to feel that I was neglecting my business, that since\nI had been so foolhardy as to come ashore with these desperadoes, the\nleast I could do was to overhear them at their councils, and that my\nplain and obvious duty was to draw as close as I could manage, under the\nfavourable ambush of the crouching trees.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "the favourable ambush of",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "come ashore with these",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 12,
@@ -144,6 +216,11 @@
      "key": "gull_far_2",
      "at": "the crew stood face",
      "by": "place-birds"
+    },
+    {
+     "key": "birds_day_6",
+     "at": "green dell beside the",
+     "by": "place-players"
     }
    ]
   },
@@ -152,7 +229,14 @@
    "para": 13,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The sun beat full upon them. Silver had thrown his hat beside him on the\nground, and his great, smooth, blond face, all shining with heat, was\nlifted to the other man’s in a kind of appeal."
+   "text": "The sun beat full upon them. Silver had thrown his hat beside him on the\nground, and his great, smooth, blond face, all shining with heat, was\nlifted to the other man’s in a kind of appeal.",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "to the other man’s",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 15,
@@ -173,14 +257,33 @@
    "para": 14,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“it’s because I thinks gold dust of you--gold\ndust, and you may lay to that! If I hadn’t took to you like pitch, do\nyou think I’d have been here a-warning of you? All’s up--you can’t make\nnor mend; it’s to save your neck that I’m a-speaking, and if one of the\nwild uns knew it, where’d I be, Tom--now, tell me, where’d I be?”"
+   "text": "“it’s because I thinks gold dust of you--gold\ndust, and you may lay to that! If I hadn’t took to you like pitch, do\nyou think I’d have been here a-warning of you? All’s up--you can’t make\nnor mend; it’s to save your neck that I’m a-speaking, and if one of the\nwild uns knew it, where’d I be, Tom--now, tell me, where’d I be?”",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "can’t make nor mend;",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 18,
    "para": 15,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Silver,” said the other man--and I observed he was not only red in the\nface, but spoke as hoarse as a crow, and his voice shook too, like a\ntaut rope--“Silver,” says he, “you’re old, and you’re honest, or has the\nname for it; and you’ve money too, which lots of poor sailors hasn’t;\nand you’re brave, or I’m mistook. And will you tell me you’ll let\nyourself be led away with that kind of a mess of swabs? Not you! As sure\nas God sees me, I’d sooner lose my hand. If I turn agin my dooty--”"
+   "text": "“Silver,” said the other man--and I observed he was not only red in the\nface, but spoke as hoarse as a crow, and his voice shook too, like a\ntaut rope--“Silver,” says he, “you’re old, and you’re honest, or has the\nname for it; and you’ve money too, which lots of poor sailors hasn’t;\nand you’re brave, or I’m mistook. And will you tell me you’ll let\nyourself be led away with that kind of a mess of swabs? Not you! As sure\nas God sees me, I’d sooner lose my hand. If I turn agin my dooty--”",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "sailors hasn’t; and you’re",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_1",
+     "at": "and you’re honest, or",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 19,
@@ -193,6 +296,11 @@
      "key": "crew_death",
      "at": "The rocks of the Spy-glass re-echoed it",
      "offset": 1.5
+    },
+    {
+     "key": "birds_day_2",
+     "at": "simultaneous whirr; and long",
+     "by": "place-players"
     }
    ],
    "para": 16,
@@ -205,14 +313,28 @@
    "para": 17,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Tom had leaped at the sound, like a horse at the spur, but Silver had\nnot winked an eye. He stood where he was, resting lightly on his crutch,\nwatching his companion like a snake about to spring."
+   "text": "Tom had leaped at the sound, like a horse at the spur, but Silver had\nnot winked an eye. He stood where he was, resting lightly on his crutch,\nwatching his companion like a snake about to spring.",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "like a snake about",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 21,
    "para": 18,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“John!” said the sailor, stretching out his hand."
+   "text": "“John!” said the sailor, stretching out his hand.",
+   "sfx": [
+    {
+     "key": "insects_day_3",
+     "at": "sailor, stretching out his",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 22,
@@ -268,14 +390,28 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "And at this point Tom flashed out like a hero."
+   "text": "And at this point Tom flashed out like a hero.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "point Tom flashed out",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 29,
    "para": 23,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“Alan!” he cried. “Then rest his soul for a true seaman! And as for you,\nJohn Silver, long you’ve been a mate of mine, but you’re mate of mine\nno more. If I die like a dog, I’ll die in my dooty. You’ve killed Alan,\nhave you? Kill me too, if you can. But I defies you.”"
+   "text": "“Alan!” he cried. “Then rest his soul for a true seaman! And as for you,\nJohn Silver, long you’ve been a mate of mine, but you’re mate of mine\nno more. If I die like a dog, I’ll die in my dooty. You’ve killed Alan,\nhave you? Kill me too, if you can. But I defies you.”",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "you’ve been a mate",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 30,
@@ -288,6 +424,16 @@
     {
      "key": "crutch_blow",
      "at": "sent that uncouth missile hurtling through the air"
+    },
+    {
+     "key": "birds_day_2",
+     "at": "in the middle of",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "shoulders in the middle",
+     "by": "place-players"
     }
    ],
    "para": 24,
@@ -300,14 +446,28 @@
    "para": 25,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Whether he were injured much or little, none could ever tell. Like\nenough, to judge from the sound, his back was broken on the spot. But he\nhad no time given him to recover. Silver, agile as a monkey even without\nleg or crutch, was on the top of him next moment and had twice buried\nhis knife up to the hilt in that defenceless body. From my place of\nambush, I could hear him pant aloud as he struck the blows."
+   "text": "Whether he were injured much or little, none could ever tell. Like\nenough, to judge from the sound, his back was broken on the spot. But he\nhad no time given him to recover. Silver, agile as a monkey even without\nleg or crutch, was on the top of him next moment and had twice buried\nhis knife up to the hilt in that defenceless body. From my place of\nambush, I could hear him pant aloud as he struck the blows.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "ambush, I could hear",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 32,
    "para": 26,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I do not know what it rightly is to faint, but I do know that for the\nnext little while the whole world swam away from before me in a whirling\nmist; Silver and the birds, and the tall Spy-glass hilltop, going\nround and round and topsy-turvy before my eyes, and all manner of bells\nringing and distant voices shouting in my ear."
+   "text": "I do not know what it rightly is to faint, but I do know that for the\nnext little while the whole world swam away from before me in a whirling\nmist; Silver and the birds, and the tall Spy-glass hilltop, going\nround and round and topsy-turvy before my eyes, and all manner of bells\nringing and distant voices shouting in my ear.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "me in a whirling",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 33,
@@ -316,6 +476,16 @@
      "key": "crew_death",
      "at": "Tom lay motionless upon the sward",
      "offset": 0.6
+    },
+    {
+     "key": "trees_3",
+     "at": "been actually done and",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "actually done and a",
+     "by": "place-players"
     }
    ],
    "para": 27,
@@ -329,6 +499,11 @@
     {
      "key": "silver_whistle",
      "at": "brought out a whistle"
+    },
+    {
+     "key": "birds_day_2",
+     "at": "slain two of the",
+     "by": "place-players"
     }
    ],
    "para": 28,
@@ -352,6 +527,16 @@
      "key": "gull_far_3",
      "at": "could hear hails coming",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_8",
+     "at": "fear grew and grew",
+     "by": "place-players"
+    },
+    {
+     "key": "bird_cry_1",
+     "at": "going between the old",
+     "by": "place-players"
     }
    ]
   },
@@ -360,14 +545,33 @@
    "para": 30,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Indeed, could anyone be more entirely lost than I? When the gun fired,\nhow should I dare to go down to the boats among those fiends, still\nsmoking from their crime? Would not the first of them who saw me wring\nmy neck like a snipe’s? Would not my absence itself be an evidence to\nthem of my alarm, and therefore of my fatal knowledge? It was all over,\nI thought. Good-bye to the HISPANIOLA; good-bye to the squire, the\ndoctor, and the captain! There was nothing left for me but death by\nstarvation or death by the hands of the mutineers."
+   "text": "Indeed, could anyone be more entirely lost than I? When the gun fired,\nhow should I dare to go down to the boats among those fiends, still\nsmoking from their crime? Would not the first of them who saw me wring\nmy neck like a snipe’s? Would not my absence itself be an evidence to\nthem of my alarm, and therefore of my fatal knowledge? It was all over,\nI thought. Good-bye to the HISPANIOLA; good-bye to the squire, the\ndoctor, and the captain! There was nothing left for me but death by\nstarvation or death by the hands of the mutineers.",
+   "sfx": [
+    {
+     "key": "birds_day_8",
+     "at": "fiends, still smoking from",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_2",
+     "at": "the captain! There was",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 37,
    "para": 31,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "All this while, as I say, I was still running, and without taking any\nnotice, I had drawn near to the foot of the little hill with the two\npeaks and had got into a part of the island where the live-oaks grew\nmore widely apart and seemed more like forest trees in their bearing and\ndimensions. Mingled with these were a few scattered pines, some fifty,\nsome nearer seventy, feet high. The air too smelt more freshly than down\nbeside the marsh."
+   "text": "All this while, as I say, I was still running, and without taking any\nnotice, I had drawn near to the foot of the little hill with the two\npeaks and had got into a part of the island where the live-oaks grew\nmore widely apart and seemed more like forest trees in their bearing and\ndimensions. Mingled with these were a few scattered pines, some fifty,\nsome nearer seventy, feet high. The air too smelt more freshly than down\nbeside the marsh.",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "part of the island",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 38,

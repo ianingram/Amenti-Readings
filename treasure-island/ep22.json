@@ -62,14 +62,38 @@
    "para": 3,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "There was no return of the mutineers--not so much as another shot out of\nthe woods. They had “got their rations for that day,” as the captain put\nit, and we had the place to ourselves and a quiet time to overhaul the\nwounded and get dinner. Squire and I cooked outside in spite of the\ndanger, and even outside we could hardly tell what we were at, for\nhorror of the loud groans that reached us from the doctor’s patients."
+   "text": "There was no return of the mutineers--not so much as another shot out of\nthe woods. They had “got their rations for that day,” as the captain put\nit, and we had the place to ourselves and a quiet time to overhaul the\nwounded and get dinner. Squire and I cooked outside in spite of the\ndanger, and even outside we could hardly tell what we were at, for\nhorror of the loud groans that reached us from the doctor’s patients.",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "for that day,” as",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_8",
+     "at": "the danger, and even",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 5,
    "para": 4,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Out of the eight men who had fallen in the action, only three still\nbreathed--that one of the pirates who had been shot at the loophole,\nHunter, and Captain Smollett; and of these, the first two were as good\nas dead; the mutineer indeed died under the doctor’s knife, and Hunter,\ndo what we could, never recovered consciousness in this world. He\nlingered all day, breathing loudly like the old buccaneer at home in his\napoplectic fit, but the bones of his chest had been crushed by the\nblow and his skull fractured in falling, and some time in the following\nnight, without sign or sound, he went to his Maker."
+   "text": "Out of the eight men who had fallen in the action, only three still\nbreathed--that one of the pirates who had been shot at the loophole,\nHunter, and Captain Smollett; and of these, the first two were as good\nas dead; the mutineer indeed died under the doctor’s knife, and Hunter,\ndo what we could, never recovered consciousness in this world. He\nlingered all day, breathing loudly like the old buccaneer at home in his\napoplectic fit, but the bones of his chest had been crushed by the\nblow and his skull fractured in falling, and some time in the following\nnight, without sign or sound, he went to his Maker.",
+   "sfx": [
+    {
+     "key": "trees_6",
+     "at": "sound, he went to",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_3",
+     "at": "home in his apoplectic",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 6,
@@ -82,6 +106,11 @@
      "key": "gull_far_3",
      "at": "touched the lung, not",
      "by": "place-birds"
+    },
+    {
+     "key": "birds_day_7",
+     "at": "the calf. He was",
+     "by": "place-players"
     }
    ]
   },
@@ -97,14 +126,33 @@
    "para": 7,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "After dinner the squire and the doctor sat by the captain’s side awhile\nin consultation; and when they had talked to their hearts’ content, it\nbeing then a little past noon, the doctor took up his hat and pistols,\ngirt on a cutlass, put the chart in his pocket, and with a musket over\nhis shoulder crossed the palisade on the north side and set off briskly\nthrough the trees."
+   "text": "After dinner the squire and the doctor sat by the captain’s side awhile\nin consultation; and when they had talked to their hearts’ content, it\nbeing then a little past noon, the doctor took up his hat and pistols,\ngirt on a cutlass, put the chart in his pocket, and with a musket over\nhis shoulder crossed the palisade on the north side and set off briskly\nthrough the trees.",
+   "sfx": [
+    {
+     "key": "trees_7",
+     "at": "the palisade on the",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "side and set off",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 9,
    "para": 8,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Gray and I were sitting together at the far end of the block house, to\nbe out of earshot of our officers consulting; and Gray took his pipe out\nof his mouth and fairly forgot to put it back again, so thunder-struck\nhe was at this occurrence."
+   "text": "Gray and I were sitting together at the far end of the block house, to\nbe out of earshot of our officers consulting; and Gray took his pipe out\nof his mouth and fairly forgot to put it back again, so thunder-struck\nhe was at this occurrence.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "out of his mouth",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 10,
@@ -132,21 +180,52 @@
    "para": 12,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "“I take it,” replied I, “the doctor has his idea; and if I am right,\nhe’s going now to see Ben Gunn.”"
+   "text": "“I take it,” replied I, “the doctor has his idea; and if I am right,\nhe’s going now to see Ben Gunn.”",
+   "sfx": [
+    {
+     "key": "birds_day_5",
+     "at": "if I am right,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 14,
    "para": 13,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I was right, as appeared later; but in the meantime, the house being\nstifling hot and the little patch of sand inside the palisade ablaze\nwith midday sun, I began to get another thought into my head, which was\nnot by any means so right. What I began to do was to envy the doctor\nwalking in the cool shadow of the woods with the birds about him and the\npleasant smell of the pines, while I sat grilling, with my clothes\nstuck to the hot resin, and so much blood about me and so many poor\ndead bodies lying all around that I took a disgust of the place that was\nalmost as strong as fear."
+   "text": "I was right, as appeared later; but in the meantime, the house being\nstifling hot and the little patch of sand inside the palisade ablaze\nwith midday sun, I began to get another thought into my head, which was\nnot by any means so right. What I began to do was to envy the doctor\nwalking in the cool shadow of the woods with the birds about him and the\npleasant smell of the pines, while I sat grilling, with my clothes\nstuck to the hot resin, and so much blood about me and so many poor\ndead bodies lying all around that I took a disgust of the place that was\nalmost as strong as fear.",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "head, which was not",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_4",
+     "at": "lying all around that",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 15,
    "para": 14,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "All the time I was washing out the block house, and then washing up\nthe things from dinner, this disgust and envy kept growing stronger\nand stronger, till at last, being near a bread-bag, and no one then\nobserving me, I took the first step towards my escapade and filled both\npockets of my coat with biscuit."
+   "text": "All the time I was washing out the block house, and then washing up\nthe things from dinner, this disgust and envy kept growing stronger\nand stronger, till at last, being near a bread-bag, and no one then\nobserving me, I took the first step towards my escapade and filled both\npockets of my coat with biscuit.",
+   "sfx": [
+    {
+     "key": "insects_day_2",
+     "at": "last, being near a",
+     "by": "place-players"
+    },
+    {
+     "key": "bird_cry_1",
+     "at": "growing stronger and stronger,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 16,
@@ -173,6 +252,16 @@
      "key": "gull_far_3",
      "at": "as I still believe.",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_7",
+     "at": "was watching, and that",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_3",
+     "at": "and that was so",
+     "by": "place-players"
     }
    ]
   },
@@ -181,7 +270,14 @@
    "para": 18,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Well, as things at last fell out, I found an admirable opportunity. The\nsquire and Gray were busy helping the captain with his bandages, the\ncoast was clear, I made a bolt for it over the stockade and into the\nthickest of the trees, and before my absence was observed I was out of\ncry of my companions."
+   "text": "Well, as things at last fell out, I found an admirable opportunity. The\nsquire and Gray were busy helping the captain with his bandages, the\ncoast was clear, I made a bolt for it over the stockade and into the\nthickest of the trees, and before my absence was observed I was out of\ncry of my companions.",
+   "sfx": [
+    {
+     "key": "insects_day_1",
+     "at": "his bandages, the coast",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 20,
@@ -195,7 +291,19 @@
    "para": 20,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I took my way straight for the east coast of the island, for I was\ndetermined to go down the sea side of the spit to avoid all chance of\nobservation from the anchorage. It was already late in the afternoon,\nalthough still warm and sunny. As I continued to thread the tall woods,\nI could hear from far before me not only the continuous thunder of the\nsurf, but a certain tossing of foliage and grinding of boughs which\nshowed me the sea breeze had set in higher than usual. Soon cool\ndraughts of air began to reach me, and a few steps farther I came forth\ninto the open borders of the grove, and saw the sea lying blue and sunny\nto the horizon and the surf tumbling and tossing its foam along the\nbeach."
+   "text": "I took my way straight for the east coast of the island, for I was\ndetermined to go down the sea side of the spit to avoid all chance of\nobservation from the anchorage. It was already late in the afternoon,\nalthough still warm and sunny. As I continued to thread the tall woods,\nI could hear from far before me not only the continuous thunder of the\nsurf, but a certain tossing of foliage and grinding of boughs which\nshowed me the sea breeze had set in higher than usual. Soon cool\ndraughts of air began to reach me, and a few steps farther I came forth\ninto the open borders of the grove, and saw the sea lying blue and sunny\nto the horizon and the surf tumbling and tossing its foam along the\nbeach.",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "tossing its foam along",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_2",
+     "at": "farther I came forth",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 22,
@@ -209,7 +317,19 @@
    "para": 22,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I walked along beside the surf with great enjoyment, till, thinking\nI was now got far enough to the south, I took the cover of some thick\nbushes and crept warily up to the ridge of the spit."
+   "text": "I walked along beside the surf with great enjoyment, till, thinking\nI was now got far enough to the south, I took the cover of some thick\nbushes and crept warily up to the ridge of the spit.",
+   "sfx": [
+    {
+     "key": "trees_5",
+     "at": "and crept warily up",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_2",
+     "at": "bushes and crept warily",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 24,
@@ -222,6 +342,16 @@
      "key": "gull_far_2",
      "at": "truck to the waterline,",
      "by": "place-birds"
+    },
+    {
+     "key": "birds_day_5",
+     "at": "variable airs from the",
+     "by": "place-players"
+    },
+    {
+     "key": "insects_day_3",
+     "at": "light, variable airs from",
+     "by": "place-players"
     }
    ]
   },
@@ -230,7 +360,19 @@
    "para": 24,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Alongside lay one of the gigs, Silver in the stern-sheets--him I could\nalways recognize--while a couple of men were leaning over the stern\nbulwarks, one of them with a red cap--the very rogue that I had seen\nsome hours before stride-legs upon the palisade. Apparently they were\ntalking and laughing, though at that distance--upwards of a mile--I\ncould, of course, hear no word of what was said. All at once there began\nthe most horrid, unearthly screaming, which at first startled me badly,\nthough I had soon remembered the voice of Captain Flint and even thought\nI could make out the bird by her bright plumage as she sat perched upon\nher master’s wrist."
+   "text": "Alongside lay one of the gigs, Silver in the stern-sheets--him I could\nalways recognize--while a couple of men were leaning over the stern\nbulwarks, one of them with a red cap--the very rogue that I had seen\nsome hours before stride-legs upon the palisade. Apparently they were\ntalking and laughing, though at that distance--upwards of a mile--I\ncould, of course, hear no word of what was said. All at once there began\nthe most horrid, unearthly screaming, which at first startled me badly,\nthough I had soon remembered the voice of Captain Flint and even thought\nI could make out the bird by her bright plumage as she sat perched upon\nher master’s wrist.",
+   "sfx": [
+    {
+     "key": "trees_2",
+     "at": "that I had seen",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_day_2",
+     "at": "word of what was",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 26,
@@ -252,14 +394,33 @@
    "para": 27,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "The white rock, visible enough above the brush, was still some eighth of\na mile further down the spit, and it took me a goodish while to get up\nwith it, crawling, often on all fours, among the scrub. Night had almost\ncome when I laid my hand on its rough sides. Right below it there was\nan exceedingly small hollow of green turf, hidden by banks and a thick\nunderwood about knee-deep, that grew there very plentifully; and in the\ncentre of the dell, sure enough, a little tent of goat-skins, like what\nthe gipsies carry about with them in England."
+   "text": "The white rock, visible enough above the brush, was still some eighth of\na mile further down the spit, and it took me a goodish while to get up\nwith it, crawling, often on all fours, among the scrub. Night had almost\ncome when I laid my hand on its rough sides. Right below it there was\nan exceedingly small hollow of green turf, hidden by banks and a thick\nunderwood about knee-deep, that grew there very plentifully; and in the\ncentre of the dell, sure enough, a little tent of goat-skins, like what\nthe gipsies carry about with them in England.",
+   "sfx": [
+    {
+     "key": "trees_8",
+     "at": "very plentifully; and in",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_dusk_1",
+     "at": "thick underwood about knee-deep,",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 29,
    "para": 28,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "I dropped into the hollow, lifted the side of the tent, and there was\nBen Gunn’s boat--home-made if ever anything was home-made; a rude,\nlop-sided framework of tough wood, and stretched upon that a covering of\ngoat-skin, with the hair inside. The thing was extremely small, even\nfor me, and I can hardly imagine that it could have floated with a\nfull-sized man. There was one thwart set as low as possible, a kind of\nstretcher in the bows, and a double paddle for propulsion."
+   "text": "I dropped into the hollow, lifted the side of the tent, and there was\nBen Gunn’s boat--home-made if ever anything was home-made; a rude,\nlop-sided framework of tough wood, and stretched upon that a covering of\ngoat-skin, with the hair inside. The thing was extremely small, even\nfor me, and I can hardly imagine that it could have floated with a\nfull-sized man. There was one thwart set as low as possible, a kind of\nstretcher in the bows, and a double paddle for propulsion.",
+   "sfx": [
+    {
+     "key": "birds_dusk_2",
+     "at": "goat-skin, with the hair",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 30,
@@ -272,6 +433,11 @@
      "key": "gull_far_1",
      "at": "than by saying it",
      "by": "place-birds"
+    },
+    {
+     "key": "trees_3",
+     "at": "Ben Gunn’s boat than",
+     "by": "place-players"
     }
    ]
   },
@@ -280,7 +446,19 @@
    "para": 30,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "Well, now that I had found the boat, you would have thought I had had\nenough of truantry for once, but in the meantime I had taken another\nnotion and become so obstinately fond of it that I would have carried\nit out, I believe, in the teeth of Captain Smollett himself. This was\nto slip out under cover of the night, cut the HISPANIOLA adrift, and let\nher go ashore where she fancied. I had quite made up my mind that the\nmutineers, after their repulse of the morning, had nothing nearer their\nhearts than to up anchor and away to sea; this, I thought, it would be\na fine thing to prevent, and now that I had seen how they left their\nwatchmen unprovided with a boat, I thought it might be done with little\nrisk."
+   "text": "Well, now that I had found the boat, you would have thought I had had\nenough of truantry for once, but in the meantime I had taken another\nnotion and become so obstinately fond of it that I would have carried\nit out, I believe, in the teeth of Captain Smollett himself. This was\nto slip out under cover of the night, cut the HISPANIOLA adrift, and let\nher go ashore where she fancied. I had quite made up my mind that the\nmutineers, after their repulse of the morning, had nothing nearer their\nhearts than to up anchor and away to sea; this, I thought, it would be\na fine thing to prevent, and now that I had seen how they left their\nwatchmen unprovided with a boat, I thought it might be done with little\nrisk.",
+   "sfx": [
+    {
+     "key": "trees_1",
+     "at": "it would be a",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_dusk_2",
+     "at": "than to up anchor",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 32,
@@ -294,7 +472,19 @@
    "para": 32,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "One was the great fire on shore, by which the defeated pirates lay\ncarousing in the swamp. The other, a mere blur of light upon the\ndarkness, indicated the position of the anchored ship. She had swung\nround to the ebb--her bow was now towards me--the only lights on board\nwere in the cabin, and what I saw was merely a reflection on the fog of\nthe strong rays that flowed from the stern window."
+   "text": "One was the great fire on shore, by which the defeated pirates lay\ncarousing in the swamp. The other, a mere blur of light upon the\ndarkness, indicated the position of the anchored ship. She had swung\nround to the ebb--her bow was now towards me--the only lights on board\nwere in the cabin, and what I saw was merely a reflection on the fog of\nthe strong rays that flowed from the stern window.",
+   "sfx": [
+    {
+     "key": "trees_4",
+     "at": "a reflection on the",
+     "by": "place-players"
+    },
+    {
+     "key": "birds_dusk_3",
+     "at": "mere blur of light",
+     "by": "place-players"
+    }
+   ]
   },
   {
    "n": 34,

@@ -26,6 +26,10 @@ on:
         description: "Machines at once (up to 20)"
         required: false
         default: "20"
+      voice:
+        description: "Voice lines not yet in the cache? Costs money; runs on 4 machines at most"
+        type: boolean
+        default: false
 permissions:
   contents: read
 jobs:
@@ -56,7 +60,7 @@ jobs:
     timeout-minutes: 90
     strategy:
       fail-fast: false
-      max-parallel: ${{ fromJSON(inputs.parallel) }}
+      max-parallel: ${{ inputs.voice && 4 || fromJSON(inputs.parallel) }}   # voicing new lines: 4 machines at most
       matrix:
         nn: ${{ fromJSON(needs.plan.outputs.list) }}
     env:
@@ -73,7 +77,9 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
           pip install -q numpy
           cd tools/mixer && npm init -y >/dev/null && npm i -s playwright@1.48.2 && npx playwright install --with-deps chromium >/dev/null
-      - name: Fetch the voice (from the cache)
+      - name: Fetch the voice (from the cache; new lines only if "voice" is ticked)
+        env:
+          VOICE_RENDER_KEY: ${{ inputs.voice && secrets.VOICE_RENDER_KEY || '' }}
         run: cd tools/mixer && node fetch_voice.js "$W" "$NN" "$RUNNER_TEMP/m/$W/ep$NN" 2>&1 | grep -v '^\[page\]'
       - name: Mix
         run: |

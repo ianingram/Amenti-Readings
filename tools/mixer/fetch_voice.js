@@ -17,6 +17,10 @@ const fs = require('fs'), path = require('path'), crypto = require('crypto');
   const dir = path.join(out, 'voice'); fs.mkdirSync(dir, { recursive: true });
   const b = await chromium.launch();
   const p = await b.newPage();
+  /* [RENDER-KEY] With VOICE_RENDER_KEY set (a GitHub secret, on Ian's word),
+     /speak may voice lines not yet in the cache. Without it, the cache only. */
+  const KEY = process.env.VOICE_RENDER_KEY || '';
+  if (KEY) await p.route(/amenti-proxy[^/]*\/speak$/, r => r.continue({ headers: { ...r.request().headers(), 'x-amenti-render': KEY } }));
   const got = {};                                      /* request body -> file */
   const cache = { hit: 0, new: 0 };                   /* X-Amenti-Cache: what was already paid for */
   p.on('response', async (r) => {

@@ -444,9 +444,10 @@ class Mix:
                 nxt = at + dur + (mz.get('rest') or 0)
                 end = at + dur
             if first is None:
-                stalled.append(c['n'])
-                log('  cue %s (%s) has no audio — skipped, as Skip would' % (c['n'], c.get('role')))
-                t += 0.5
+                if re.search(r'\w', c.get('text') or '', re.U) and re.search(r'[^\W_]', c.get('text') or ''):
+                    stalled.append(c['n'])
+                    log('  cue %s (%s) has no audio — skipped, as Skip would' % (c['n'], c.get('role')))
+                t += 1.2      # a line with no words is a pause, as reader.js holds it
             else: t = end + GAP
             i += 1
         # done

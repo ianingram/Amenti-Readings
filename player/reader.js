@@ -1,4 +1,4 @@
-/* Amenti-Readings/player/reader.js · 2026-10-05 15:00 UTC */
+/* Amenti-Readings/player/reader.js · 2026-11-13 · a line with no words is a pause, not a stall */
 /* ===========================================================================
    AMENTI READINGS · reader.js
    ---------------------------------------------------------------------------
@@ -126,6 +126,13 @@
       return parts.join('; ');
     },
     spoken: function (c) { return String(c.text).replace(/\s*\n+\s*/g, ' ').trim(); },
+    /* a line with nothing the voice can say: no letter, no digit, in any script */
+    wordless: function (c) {
+      var s = String((c && c.text) || '');
+      try { return !(new RegExp('[\\p{L}\\p{N}]', 'u')).test(s); }
+      catch (e) { return !/[A-Za-z0-9À-ɏͰ-ϿЀ-ӿ]/.test(s); }
+    },
+    BREATH_MS: 1200,
     WARM_AHEAD: 2,
     _tries: 0,
     _warmed: {},
@@ -304,7 +311,7 @@
       }
       for (var j = 1; j <= R.WARM_AHEAD; j++) {
         var k = R.i + j, c = cues[k];
-        if (!c || R._warmed[k] || c.audio || R._sceneFor(k)) continue;     /* a recorded cue or scene has nothing to warm */
+        if (!c || R._warmed[k] || c.audio || R._sceneFor(k) || R.wordless(c)) continue;     /* a recorded cue, a scene or a breath has nothing to warm */
         R._warmed[k] = true;
         try { eng.warm(R.spoken(c), R.nameFor(c), R.direction(c)); } catch (e) {}
       }
@@ -333,6 +340,20 @@
       var scene = R._sceneFor(at);
       if (scene) { R._playScene(scene, at); R._warmAhead(); return; }
       if (cue.audio && !cue._audioFailed) { R._playRecorded(cue, at); R._warmAhead(); return; }
+      /* A LINE WITH NO WORDS IS A BREATH, NOT A STALL · 13 Nov 2026. Stoker's section
+         breaks (". . . . ." rows) and a lone "—" reached the voice as lines; the voice
+         cannot say them, so the reading stopped there for good (Dracula XV line 86,
+         XXIV 27, XXV 69, XXVI 118). Now such a line is held as a pause and the reading
+         moves on. Its sounds still fire: sound.js has already seen the cue. */
+      clearTimeout(R._breathT);
+      if (R.wordless(cue)) {
+        R._breathT = setTimeout(function () {
+          if (R.i !== at || R.state !== 'reading') return;
+          R._tries = 0; R.i += 1; R._next();
+        }, R.BREATH_MS);
+        R._warmAhead();
+        return;
+      }
       R.engine().speak(R.spoken(cue), null, name, function () {
         if (R.i !== at) return;
         R._tries = 0;

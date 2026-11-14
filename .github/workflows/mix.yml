@@ -1,0 +1,98 @@
+# THE MIXMASTER on GitHub's machines · 13 Nov 2026
+# Builds road tracks (one m4a per chapter) from the cue sheets, without playing
+# them: tools/mixer/fetch_voice.js takes every line from the voice cache through
+# the real player, tools/mixer/mix.py mixes it by sound.js's rules.
+#
+# Run it from the Actions tab: choose "Mix road tracks", give the book's folder
+# and the chapters ("1-27", "15", "1,3,5"), press Run. One machine per chapter.
+#
+# THIS REPOSITORY IS PUBLIC. A finished chapter is never saved on GitHub (no
+# artifacts, no commits): each machine sends its chapter straight to the private
+# bucket amenti-studios-private, under road/<book>/. The log shows only chapter
+# numbers, lengths and line numbers.
+name: Mix road tracks
+on:
+  workflow_dispatch:
+    inputs:
+      work:
+        description: "Book folder (dracula, a-christmas-carol, treasure-island, …)"
+        required: true
+        default: dracula
+      chapters:
+        description: "Chapters: 1-27, or 15, or 1,3,5"
+        required: true
+        default: "1"
+      parallel:
+        description: "Machines at once (up to 20)"
+        required: false
+        default: "20"
+permissions:
+  contents: read
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      list: ${{ steps.p.outputs.list }}
+    steps:
+      - id: p
+        env: { CH: "${{ inputs.chapters }}" }
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import os, json, re
+          s, out = os.environ['CH'], []
+          for part in re.split(r'[,\s]+', s.strip()):
+              if not part: continue
+              if '-' in part:
+                  a, b = part.split('-', 1); out += range(int(a), int(b) + 1)
+              else: out.append(int(part))
+          out = sorted(set(n for n in out if 0 < n < 1000))
+          print('list=' + json.dumps(['%02d' % n for n in out]))
+          EOF
+          printf '| Book | Chapter | Length | Long silences | Lines that failed |\n|---|---|---|---|---|\n' >> "$GITHUB_STEP_SUMMARY"
+
+  mix:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      max-parallel: ${{ fromJSON(inputs.parallel) }}
+      matrix:
+        nn: ${{ fromJSON(needs.plan.outputs.list) }}
+    env:
+      W: ${{ inputs.work }}
+      NN: ${{ matrix.nn }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            tools
+            ${{ inputs.work }}
+      - name: Tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          pip install -q numpy
+          cd tools/mixer && npm init -y >/dev/null && npm i -s playwright@1.48.2 && npx playwright install --with-deps chromium >/dev/null
+      - name: Fetch the voice (from the cache)
+        run: cd tools/mixer && node fetch_voice.js "$W" "$NN" "$RUNNER_TEMP/m/$W/ep$NN" 2>&1 | grep -v '^\[page\]'
+      - name: Mix
+        run: |
+          python3 tools/mixer/mix.py "$GITHUB_WORKSPACE" "$RUNNER_TEMP/m/$W/ep$NN" "$RUNNER_TEMP/$W-ch$NN.m4a" > result.json
+          cat result.json
+      - name: Check
+        run: |
+          F="$RUNNER_TEMP/$W-ch$NN.m4a"
+          D=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$F")
+          G=$(ffmpeg -hide_banner -i "$F" -af silencedetect=n=-45dB:d=4 -f null - 2>&1 | grep -c silence_start || true)
+          echo "length ${D}s · silences of 4 s or more: $G (1 expected, at the end)"
+          echo "| $W | $NN | ${D}s | $G | $(python3 -c "import json;print(json.load(open('result.json'))['stalled'] or '—')") |" >> "$GITHUB_STEP_SUMMARY"
+          [ "$G" -le 1 ] || { echo "::warning::chapter $NN has $G long silences"; }
+      - name: Deliver to the private bucket
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          EP: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+        run: |
+          aws s3 cp "$RUNNER_TEMP/$W-ch$NN.m4a" "s3://amenti-studios-private/road/$W/$W-ch$NN.m4a" --endpoint-url "$EP" --only-show-errors --content-type audio/mp4
+          aws s3 ls "s3://amenti-studios-private/road/$W/$W-ch$NN.m4a" --endpoint-url "$EP" | awk '{print "delivered:", $4, $3, "bytes"}'

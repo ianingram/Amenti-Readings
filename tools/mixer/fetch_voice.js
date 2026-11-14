@@ -30,7 +30,8 @@ const fs = require('fs'), path = require('path'), crypto = require('crypto');
     } catch (e) {}
   });
   p.on('console', m => { const t = m.text(); if (/warn|error/i.test(m.type())) console.log('[page] ' + t.slice(0, 200)); });
-  await p.goto(`https://ianingram.github.io/Amenti-Readings/${work}/?road=1`, { waitUntil: 'networkidle' });
+  /* every work plays on the same player; the Dracula page carries it */
+  await p.goto(`https://ianingram.github.io/Amenti-Readings/dracula/?road=1`, { waitUntil: 'networkidle' });
   await p.evaluate(() => { try { localStorage.setItem('amenti-art-off', '1'); } catch (e) {} });
 
   const sheet = `${work}/ep${nn}.json`;

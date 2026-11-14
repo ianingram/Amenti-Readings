@@ -1,0 +1,58 @@
+# Finds audio on the Internet Archive (Musopen and others) and lists licence and files.
+# With "fetch" set to identifier/filename (separated by |), downloads it, cuts a
+# 90 s sample and commits both to treasure-island/sound/candidates/. Only items
+# marked public domain or CC0 are fetched. 14 Nov 2026.
+name: Find recordings on the Internet Archive
+on:
+  workflow_dispatch:
+    inputs:
+      queries: { description: "Searches, separated by |", required: true, default: "flying dutchman overture" }
+      fetch: { description: "identifier/filename to fetch, separated by |", required: false, default: "" }
+      start: { description: "sample start, seconds", required: false, default: "0" }
+permissions: { contents: write }
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    env: { Q: "${{ inputs.queries }}", F: "${{ inputs.fetch }}", S: "${{ inputs.start }}" }
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: "treasure-island/sound/candidates" }
+      - name: Search
+        if: inputs.fetch == ''
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.parse
+          UA = {'User-Agent': 'AmentiStudios/1.0 (sourcing public-domain recordings)'}
+          for q in os.environ['Q'].split('|'):
+              p = urllib.parse.urlencode({'q': '(%s) AND mediatype:audio' % q, 'fl[]': ['identifier', 'title', 'licenseurl', 'date', 'creator', 'collection'], 'rows': 25, 'output': 'json'}, doseq=True)
+              r = json.load(urllib.request.urlopen(urllib.request.Request('https://archive.org/advancedsearch.php?' + p, headers=UA), timeout=40))
+              print('\n## ' + q)
+              for d in r['response']['docs']:
+                  print('- %s | %s | %s | %s | %s' % (d['identifier'], str(d.get('title'))[:70], d.get('licenseurl', '-'), str(d.get('creator', ''))[:40], str(d.get('collection', ''))[:60]))
+          PY
+      - name: Fetch
+        if: inputs.fetch != ''
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          mkdir -p treasure-island/sound/candidates
+          python3 - <<'PY'
+          import json, os, re, subprocess, urllib.request, urllib.parse
+          UA = {'User-Agent': 'AmentiStudios/1.0 (sourcing public-domain recordings)'}
+          out = 'treasure-island/sound/candidates/'
+          for item in [x.strip() for x in os.environ['F'].split('|') if x.strip()]:
+              ident, fn = item.split('/', 1)
+              meta = json.load(urllib.request.urlopen(urllib.request.Request('https://archive.org/metadata/' + ident, headers=UA)))
+              lic = meta['metadata'].get('licenseurl', '') or ''
+              if not re.search(r'publicdomain|/zero/|mark', lic): print('SKIP (licence %r): %s' % (lic, item)); continue
+              src = out + 'src.tmp'
+              open(src, 'wb').write(urllib.request.urlopen(urllib.request.Request('https://archive.org/download/%s/%s' % (ident, urllib.parse.quote(fn)), headers=UA)).read())
+              name = re.sub(r'[^a-z0-9]+', '-', (ident + '-' + fn.rsplit('.', 1)[0]).lower()).strip('-')[:70]
+              s = float(os.environ.get('S') or 0)
+              subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss', str(s), '-i', src, '-t', '90', '-af', 'afade=t=in:d=1,afade=t=out:st=86:d=4', '-ac', '2', '-b:a', '128k', out + name + '-sample.mp3'], check=True)
+              subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', src, '-ac', '2', '-b:a', '160k', out + name + '.mp3'], check=True)
+              os.remove(src)
+              with open(out + 'CANDIDATES.md', 'a') as f: f.write('| `%s.mp3` | archive.org/details/%s (%s) | %s | %s |\n' % (name, ident, fn, meta['metadata'].get('creator', ''), lic))
+              print('fetched', name, lic)
+          PY
+          git config user.name "amenti-sourcing"; git config user.email "actions@users.noreply.github.com"
+          git add treasure-island/sound/candidates && git commit -qm "Score candidates from the Internet Archive" && git push || echo "nothing new"

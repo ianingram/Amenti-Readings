@@ -8,8 +8,8 @@ sound (beds, one-shots, fills, score), with its kind, the books that use it, its
 file, length and loudness, and the lines of that book's SOURCES.md that name it.
 Recorded cues (narration baked with effects) are not reusable and are left out.
 
-Next: the files move to one shared home (the Media Door's R2, under sounds/),
-named by key, and sound sheets refer to library keys.
+Each sound has an id and a home on the Media Door (sounds/<kind>/<id>.mp3);
+ids found in SOUNDS.json are kept between runs. Sound sheets will refer to ids.
 usage: catalogue.py <Amenti-Readings root>
 """
 import json, os, re, subprocess, sys, glob

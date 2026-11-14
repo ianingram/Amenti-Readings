@@ -1,0 +1,63 @@
+# Finds recordings on Wikimedia Commons and lists performer, length and licence.
+# With "fetch" set to File: titles (one per line), downloads them, cuts a 75 s
+# sample of each and commits the samples to treasure-island/sound/candidates/.
+# Only public-domain or CC0 recordings are fetched. 14 Nov 2026.
+name: Find recordings on Commons
+on:
+  workflow_dispatch:
+    inputs:
+      queries: { description: "Searches, separated by |", required: true, default: "Hebrides Overture|Scheherazade Rimsky-Korsakov|Flying Dutchman overture" }
+      fetch: { description: "File: titles to fetch (separated by |), optional", required: false, default: "" }
+permissions: { contents: write }
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    env: { Q: "${{ inputs.queries }}", F: "${{ inputs.fetch }}" }
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: "treasure-island/sound/candidates" }
+      - name: Search
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.parse
+          UA = {'User-Agent': 'AmentiStudios/1.0 (sourcing public-domain recordings)'}
+          def api(**p):
+              p.update(format='json', formatversion=2)
+              return json.load(urllib.request.urlopen(urllib.request.Request('https://commons.wikimedia.org/w/api.php?' + urllib.parse.urlencode(p), headers=UA), timeout=30))
+          for q in os.environ['Q'].split('|'):
+              r = api(action='query', generator='search', gsrsearch=q + ' filetype:audio', gsrnamespace=6, gsrlimit=15,
+                      prop='imageinfo', iiprop='url|size|extmetadata|mediatype', iiextmetadatafilter='LicenseShortName|Artist|Credit|DateTimeOriginal|ImageDescription')
+              print('\n## ' + q)
+              for pg in (r.get('query') or {}).get('pages', []):
+                  ii = (pg.get('imageinfo') or [{}])[0]; m = ii.get('extmetadata', {})
+                  g = lambda k: (m.get(k) or {}).get('value', '')
+                  import re
+                  clean = lambda s: re.sub(r'<[^>]+>', '', s).strip()[:90]
+                  print('- %s | %s | %.0f s | %s | %s' % (pg['title'], clean(g('LicenseShortName')), ii.get('duration') or 0, clean(g('Artist')), clean(g('ImageDescription'))[:70]))
+          PY
+      - name: Fetch and cut samples
+        if: inputs.fetch != ''
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          mkdir -p treasure-island/sound/candidates
+          python3 - <<'PY'
+          import json, os, re, subprocess, urllib.request, urllib.parse
+          UA = {'User-Agent': 'AmentiStudios/1.0 (sourcing public-domain recordings)'}
+          out = 'treasure-island/sound/candidates/'; notes = []
+          for t in [x.strip() for x in os.environ['F'].split('|') if x.strip()]:
+              q = urllib.parse.urlencode({'action': 'query', 'titles': t, 'prop': 'imageinfo', 'iiprop': 'url|extmetadata', 'format': 'json', 'formatversion': 2})
+              pg = json.load(urllib.request.urlopen(urllib.request.Request('https://commons.wikimedia.org/w/api.php?' + q, headers=UA)))['query']['pages'][0]
+              ii = pg['imageinfo'][0]; m = ii['extmetadata']; lic = re.sub('<[^>]+>', '', m.get('LicenseShortName', {}).get('value', ''))
+              if not re.search(r'public domain|^PD|CC0', lic, re.I): print('SKIP (licence %s): %s' % (lic, t)); continue
+              src = out + 'src.tmp'; urllib.request.urlretrieve(urllib.request.Request(ii['url'], headers=UA).full_url, src) if False else open(src, 'wb').write(urllib.request.urlopen(urllib.request.Request(ii['url'], headers=UA)).read())
+              name = re.sub(r'[^a-z0-9]+', '-', t.split(':', 1)[1].rsplit('.', 1)[0].lower()).strip('-')[:60]
+              subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', src, '-t', '75', '-af', 'afade=t=out:st=71:d=4', '-ac', '2', '-b:a', '128k', out + name + '-sample.mp3'], check=True)
+              subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', src, '-ac', '2', '-b:a', '160k', out + name + '.mp3'], check=True)
+              os.remove(src)
+              art = re.sub('<[^>]+>', '', m.get('Artist', {}).get('value', ''))[:120]
+              notes.append('| `%s.mp3` | %s | %s | %s |' % (name, t, art, lic)); print('fetched', name, lic)
+          with open(out + 'CANDIDATES.md', 'a') as f:
+              for n in notes: f.write(n + '\n')
+          PY
+          git config user.name "amenti-sourcing"; git config user.email "actions@users.noreply.github.com"
+          git add treasure-island/sound/candidates && git commit -qm "Score candidates: public-domain recordings from Commons" && git push || echo "nothing new"

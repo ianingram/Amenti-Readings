@@ -170,7 +170,7 @@
   {
    "n": 14,
    "score": {
-    "key": "dread",
+    "key": "mood_dread",
     "xfade": 2,
     "at": "a thin, high, trembling voice struck up"
    },
@@ -503,7 +503,7 @@
   {
    "n": 48,
    "score": {
-    "key": null,
+    "key": "mood_dread",
     "xfade": 6,
     "at": "By the powers, Ben Gunn!"
    },

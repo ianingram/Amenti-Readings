@@ -448,7 +448,7 @@
   {
    "n": 32,
    "score": {
-    "key": "dread",
+    "key": "mood_dread",
     "xfade": 4,
     "at": "a human skeleton lay"
    },
@@ -720,7 +720,7 @@
   {
    "n": 58,
    "score": {
-    "key": null,
+    "key": "mood_unease",
     "xfade": 8,
     "at": "stow this talk"
    },

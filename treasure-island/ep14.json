@@ -416,7 +416,7 @@
   {
    "n": 30,
    "score": {
-    "key": "dread",
+    "key": "mood_dread",
     "xfade": 1.5,
     "at": "whipped the crutch out of his armpit"
    },
@@ -491,7 +491,12 @@
    "para": 27,
    "role": "Jim Hawkins",
    "cast": "Robert Louis Stevenson",
-   "text": "When I came again to myself the monster had pulled himself together,\nhis crutch under his arm, his hat upon his head. Just before him Tom\nlay motionless upon the sward; but the murderer minded him not a whit,\ncleansing his blood-stained knife the while upon a wisp of grass.\nEverything else was unchanged, the sun still shining mercilessly on the\nsteaming marsh and the tall pinnacle of the mountain, and I could scarce\npersuade myself that murder had been actually done and a human life\ncruelly cut short a moment since before my eyes."
+   "text": "When I came again to myself the monster had pulled himself together,\nhis crutch under his arm, his hat upon his head. Just before him Tom\nlay motionless upon the sward; but the murderer minded him not a whit,\ncleansing his blood-stained knife the while upon a wisp of grass.\nEverything else was unchanged, the sun still shining mercilessly on the\nsteaming marsh and the tall pinnacle of the mountain, and I could scarce\npersuade myself that murder had been actually done and a human life\ncruelly cut short a moment since before my eyes.",
+   "score": {
+    "key": "mood_sorrow",
+    "xfade": 8,
+    "at": "Tom lay motionless upon the sward"
+   }
   },
   {
    "n": 34,
@@ -514,7 +519,7 @@
   {
    "n": 35,
    "score": {
-    "key": null,
+    "key": "mood_dread",
     "xfade": 10,
     "at": "more open portion of the wood"
    },

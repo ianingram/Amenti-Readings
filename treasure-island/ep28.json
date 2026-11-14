@@ -53,7 +53,7 @@
   {
    "n": 3,
    "score": {
-    "key": "dread",
+    "key": "mood_dread",
     "xfade": 4
    },
    "para": 2,
@@ -889,7 +889,7 @@
   {
    "n": 88,
    "score": {
-    "key": null,
+    "key": "mood_unease",
     "xfade": 8,
     "at": "It’s a bargain!"
    },

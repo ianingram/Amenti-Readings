@@ -67,7 +67,7 @@
   {
    "n": 5,
    "score": {
-    "key": "dread",
+    "key": "mood_dread",
     "xfade": 6,
     "at": "Flint was cap’n; I was quartermaster"
    },
@@ -1080,7 +1080,7 @@
   {
    "n": 97,
    "score": {
-    "key": null,
+    "key": "mood_unease",
     "xfade": 4,
     "at": "Land ho!"
    },

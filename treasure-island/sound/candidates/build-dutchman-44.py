@@ -79,9 +79,9 @@ def T(b, beat=1.0): return T0 + _map((b - 1) * 6 + (beat - 1)) * Q4
 def D(b, beat, q): return T(b, beat + q) - T(b, beat) if beat + q <= 7 else T(b + 1, beat + q - 6) - T(b, beat)
 N = int(L * SR)
 BUS = {k: np.zeros(N, np.float32) for k in
-       ('vln', 'vla', 'vc', 'kb', 'picc', 'fl', 'ob', 'cl', 'bsn', 'hn', 'tpt', 'tbn', 'tuba', 'timp')}
+       ('vln', 'vla', 'vc', 'kb', 'picc', 'fl', 'ob', 'cl', 'bsn', 'hn', 'tpt', 'tbn', 'tuba', 'timp', 'perc')}
 PAN = {'vln': -0.55, 'vla': 0.15, 'vc': 0.45, 'kb': 0.6, 'picc': -0.1, 'fl': -0.2, 'ob': 0.05, 'cl': -0.1,
-       'bsn': 0.15, 'hn': -0.3, 'tpt': 0.25, 'tbn': 0.4, 'tuba': 0.5, 'timp': 0.0}
+       'bsn': 0.15, 'hn': -0.3, 'tpt': 0.25, 'tbn': 0.4, 'tuba': 0.5, 'timp': 0.0, 'perc': 0.1}
 
 def note(bus, inst, m, t, d, g=1.0, att=0.03, legato=0.15):
     x = held(inst, m, d + legato, xf=0.35)
@@ -258,9 +258,33 @@ if _o.environ.get('DBG'):
     for k,x in BUS.items():
         print(k.ljust(5), ' '.join('%4d'%round(20*np.log10(np.sqrt(np.mean(x[int(T(b)*SR):int(T(b+1)*SR)]**2))+1e-9)) for b in range(1,24)))
     raise SystemExit
+# ── percussion (Ian: "there is zero percussion") ─────────────────────────────
+PK = V + 'Percussion/'
+def pk(name, g=1.0, t=0.0): put(BUS['perc'], load(PK + name), t, g)
+def sroll(t, d, g0, g1, name='Snare2-rollSN_v5_rr1_Sum.wav'):   # a side-drum roll of d seconds, from g0 to g1
+    x = load(PK + name); body = x[int(0.2 * SR): len(x) - int(0.4 * SR)]; n = int(d * SR)
+    out = np.zeros(n, np.float32); k = int(0.25 * SR); pos = 0
+    w = np.ones(len(body), np.float32); w[:k] = np.linspace(0, 1, k); w[-k:] = np.linspace(1, 0, k)
+    while pos < n: seg = (body * w)[: n - pos]; out[pos:pos + len(seg)] += seg; pos += len(body) - k
+    put(BUS['perc'], out * np.linspace(g0, g1, n), t)
+pk('cymbal-crash1_mf_rr1.wav', 0.7, T(1)); pk('BDrumNewhit_v5_rr1_Sum.wav', 1.0, T(1))       # the storm breaks
+pk('BDrumNewhit_v4_rr2_Sum.wav', 0.8, T(2))
+for b in (3, 4, 5, 6):                                          # the bass drum under the call, on its long notes
+    pk('BDrumNewhit_v3_rr%d_Sum.wav' % (1 + b % 2), 0.7, T(b))
+sroll(T(6), 6 * BAR, 0.08, 0.9)                                 # the side drum rolls up through the storm
+pk('susCymb1-cresc-Long_v1.wav', 0.6, T(13) - 5.0)              # and the cymbal swells into the great chord
+for b in (13, 17, 21):
+    pk('cymbal-crash1_ff_rr%d.wav' % (1 + b % 2), 0.9, T(b)); pk('BDrumNewhit_v7_rr1_Sum.wav', 1.2, T(b))
+    pk('gongHit_f.wav', 0.5, T(b)) if b == 13 else None
+for b in (15, 16, 19, 20):                                      # the gusts: drums on the beat
+    pk('BDrumNewhit_v5_rr%d_Sum.wav' % (1 + b % 2), 0.9, T(b))
+    for bt in (2.5, 4, 5.5): pk('Snare2-HitSN_v7_rr%d_Sum.wav' % (1 + int(bt) % 2), 0.55, T(b, bt))
+sroll(T(22), BAR, 0.3, 0.8); sroll(T(23), BAR + 1.5, 0.8, 0.2)
+pk('susCymb1-cresc-Median_v1.wav', 0.5, T(23) - 1.0)
+
 # ── mix: seating, a hall, the level ───────────────────────────────────────────
 LEVEL = {'vln': 0.55, 'vla': 0.5, 'vc': 0.6, 'kb': 1.1, 'picc': 0.25, 'fl': 0.35, 'ob': 0.6, 'cl': 0.32,
-         'bsn': 0.4, 'hn': 0.55, 'tpt': 0.35, 'tbn': 0.45, 'tuba': 0.5, 'timp': 1.1}
+         'bsn': 0.4, 'hn': 0.55, 'tpt': 0.35, 'tbn': 0.45, 'tuba': 0.5, 'timp': 1.1, 'perc': 0.9}
 Lch = np.zeros(N, np.float32); Rch = np.zeros(N, np.float32)
 for k, x in BUS.items():
     p = (PAN[k] + 1) * np.pi / 4; x = x * LEVEL[k]

@@ -167,269 +167,235 @@
       "n": 1,
       "bed": "cove",
       "state": 1,
-      "score": "overture",
-      "lead": 32
+      "score": null
     },
     {
       "n": 2,
       "bed": "inn",
       "state": 1,
-      "score": "under_inn",
-      "lead": 10
+      "score": null
     },
     {
       "n": 3,
       "bed": "inn",
       "state": 1,
-      "score": "under_inn",
-      "note": "the dread comes in with the blind man’s stick",
-      "lead": 10
+      "score": null,
+      "note": "the dread comes in with the blind man’s stick"
     },
     {
       "n": 4,
       "bed": "inn",
       "state": 1,
-      "score": "dread",
-      "lead": 10
+      "score": "dread"
     },
     {
       "n": 5,
       "bed": "cove",
       "state": 1,
       "score": "dread",
-      "note": "the dread ends under the hoofs",
-      "lead": 10
+      "note": "the dread ends under the hoofs"
     },
     {
       "n": 6,
       "bed": "cove",
       "state": 1,
-      "score": "under_inn",
-      "lead": 10
+      "score": null
     },
     {
       "n": 7,
       "bed": "inn",
       "state": 1,
-      "score": "under_bristol",
-      "note": "the squire’s letter at the hall; the mail-coach; the Bristol docks",
-      "lead": 10
+      "score": null,
+      "note": "the squire’s letter at the hall; the mail-coach; the Bristol docks"
     },
     {
       "n": 8,
       "bed": "docks",
       "state": 1,
-      "score": "under_bristol",
-      "note": "the docks, then the Spy-glass",
-      "lead": 10
+      "score": null,
+      "note": "the docks, then the Spy-glass"
     },
     {
       "n": 9,
       "bed": "deck",
       "state": 1,
-      "score": "under_bristol",
-      "note": "aboard the Hispaniola at anchor",
-      "lead": 10
+      "score": null,
+      "note": "aboard the Hispaniola at anchor"
     },
     {
       "n": 10,
       "bed": "deck",
       "state": 1,
-      "score": "under_voyage",
-      "note": "the boatswain’s pipe, the capstan, the ship’s horn as the sails draw; Captain Flint the parrot",
-      "lead": 10
+      "score": null,
+      "note": "the boatswain’s pipe, the capstan, the ship’s horn as the sails draw; Captain Flint the parrot"
     },
     {
       "n": 11,
       "bed": "deck",
       "state": 1,
-      "score": "under_voyage",
-      "note": "night, the apple barrel: the dread comes in with Silver’s past and goes with Land ho!",
-      "lead": 10
+      "score": null,
+      "note": "night, the apple barrel: the dread comes in with Silver’s past and goes with Land ho!"
     },
     {
       "n": 12,
       "bed": "deck",
       "state": 1,
-      "score": "under_voyage",
-      "note": "the island in the moonlight; three cheers; the council in the cabin",
-      "lead": 10
+      "score": null,
+      "note": "the island in the moonlight; three cheers; the council in the cabin"
     },
     {
       "n": 13,
       "bed": "deck",
       "state": 1,
-      "score": "under_island",
-      "note": "the ship warped into the anchorage in a dead calm; the anchor’s plunge sends the birds up; the island’s heat; the boats pulling ashore",
-      "lead": 10
+      "score": null,
+      "note": "the ship warped into the anchorage in a dead calm; the anchor’s plunge sends the birds up; the island’s heat; the boats pulling ashore"
     },
     {
       "n": 14,
       "bed": "island",
       "state": 1,
-      "score": "under_island",
-      "note": "the marsh: a cry, a scream echoed by the rocks, the whole marsh going up in birds; Silver’s crutch; the dread from the blow until Jim reaches the open wood",
-      "lead": 10
+      "score": null,
+      "note": "the marsh: a cry, a scream echoed by the rocks, the whole marsh going up in birds; Silver’s crutch; the dread from the blow until Jim reaches the open wood"
     },
     {
       "n": 15,
       "bed": "island",
       "state": 1,
-      "score": "under_island",
-      "note": "gravel rattling through the trees — Ben Gunn; the cannon waking every echo of the island; the volley of small arms",
-      "lead": 10
+      "score": null,
+      "note": "gravel rattling through the trees — Ben Gunn; the cannon waking every echo of the island; the volley of small arms"
     },
     {
       "n": 16,
       "bed": "deck",
       "state": 1,
-      "score": "under_stockade",
-      "note": "the doctor’s narrative: the ship abandoned, the jolly-boat to the stockade",
-      "lead": 10
+      "score": null,
+      "note": "the doctor’s narrative: the ship abandoned, the jolly-boat to the stockade"
     },
     {
       "n": 17,
       "bed": "cove",
       "state": 1,
-      "score": "under_stockade",
-      "note": "the overloaded jolly-boat; the long nine fired from the ship; the squire’s shot and a man falling; the boat going down by the stern",
-      "lead": 10
+      "score": null,
+      "note": "the overloaded jolly-boat; the long nine fired from the ship; the squire’s shot and a man falling; the boat going down by the stern"
     },
     {
       "n": 18,
       "bed": "island",
       "state": 1,
-      "score": "under_stockade",
-      "note": "a pistol in the bush and Redruth falling; the cannonade all evening, round shot plumping into the sand",
-      "lead": 10
+      "score": null,
+      "note": "a pistol in the bush and Redruth falling; the cannonade all evening, round shot plumping into the sand"
     },
     {
       "n": 19,
       "bed": "island",
       "state": 1,
-      "score": "under_stockade",
-      "note": "Jim at the stockade; the last of the cannonade",
-      "lead": 10
+      "score": null,
+      "note": "Jim at the stockade; the last of the cannonade"
     },
     {
       "n": 20,
       "bed": "island",
       "state": 1,
-      "score": "under_stockade",
-      "note": "Silver’s embassy under the flag of truce: the dread from the flag until he spits into the spring",
-      "lead": 10
+      "score": null,
+      "note": "Silver’s embassy under the flag of truce: the dread from the flag until he spits into the spring"
     },
     {
       "n": 21,
       "bed": "island",
       "state": 1,
-      "score": "under_stockade",
-      "note": "the attack: the scattering volley, the rush over the palisade, hand to hand; the death motif for the fallen",
-      "lead": 10
+      "score": null,
+      "note": "the attack: the scattering volley, the rush over the palisade, hand to hand; the death motif for the fallen"
     },
     {
       "n": 22,
       "bed": "island",
       "state": 1,
-      "score": "under_island",
-      "note": "Jim slips away; the coracle as the fog comes down",
-      "lead": 10
+      "score": null,
+      "note": "Jim slips away; the coracle as the fog comes down"
     },
     {
       "n": 23,
       "bed": "coracle",
       "state": 1,
-      "score": "flute_drift",
-      "note": "adrift in the dark: the droning song and then the crew’s chorus far off round the camp-fire",
-      "lead": 10
+      "score": null,
+      "note": "adrift in the dark: the droning song and then the crew’s chorus far off round the camp-fire"
     },
     {
       "n": 24,
       "bed": "coracle",
       "state": 1,
-      "score": "flute_drift",
-      "note": "the theme’s lone flute drifting with him round the island at dawn",
-      "lead": 10
+      "score": null,
+      "note": "the theme’s lone flute drifting with him round the island at dawn"
     },
     {
       "n": 25,
       "bed": "deck",
       "state": 1,
-      "score": "under_voyage",
-      "note": "the black flag struck; the motif for O’Brien",
-      "lead": 10
+      "score": null,
+      "note": "the black flag struck; the motif for O’Brien"
     },
     {
       "n": 26,
       "bed": "deck",
       "state": 1,
-      "score": "under_stockade",
-      "note": "the drums gather as Hands climbs with the dirk, and stop dead at the pistols; the motif as he goes into the water",
-      "lead": 10
+      "score": null,
+      "note": "the drums gather as Hands climbs with the dirk, and stop dead at the pistols; the motif as he goes into the water"
     },
     {
       "n": 27,
       "bed": "island",
       "state": 1,
-      "score": "under_stockade",
-      "note": "back to the stockade in the dark; Captain Flint gives him away; the dread to the end",
-      "lead": 10
+      "score": null,
+      "note": "back to the stockade in the dark; Captain Flint gives him away; the dread to the end"
     },
     {
       "n": 28,
       "bed": "island",
       "state": 1,
-      "score": "under_stockade",
-      "note": "the enemy’s camp by torchlight; the dread until Silver strikes his bargain with Jim",
-      "lead": 10
+      "score": null,
+      "note": "the enemy’s camp by torchlight; the dread until Silver strikes his bargain with Jim"
     },
     {
       "n": 29,
       "bed": "island",
       "state": 1,
-      "score": "under_stockade",
-      "note": "the black spot; the crew’s cheer for Barbecue",
-      "lead": 10
+      "score": null,
+      "note": "the black spot; the crew’s cheer for Barbecue"
     },
     {
       "n": 30,
       "bed": "island",
       "state": 1,
-      "score": "under_stockade",
-      "note": "morning: the doctor at the stockade",
-      "lead": 10
+      "score": null,
+      "note": "morning: the doctor at the stockade"
     },
     {
       "n": 31,
       "bed": "island",
       "state": 1,
-      "score": "under_hunt",
-      "note": "the march; the dread at Flint’s skeleton",
-      "lead": 10
+      "score": null,
+      "note": "the march; the dread at Flint’s skeleton"
     },
     {
       "n": 32,
       "bed": "island",
       "state": 1,
-      "score": "under_hunt",
-      "note": "the voice among the trees: the dread from the first thin note until Silver names Ben Gunn",
-      "lead": 10
+      "score": null,
+      "note": "the voice among the trees: the dread from the first thin note until Silver names Ben Gunn"
     },
     {
       "n": 33,
       "bed": "island",
       "state": 1,
-      "score": "under_hunt",
-      "note": "the empty pit and the theme turned hollow, cut dead by Silver’s pistol; the muskets from the thicket; the motif for Merry and the man with the bandage; Flint’s gold",
-      "lead": 10
+      "score": null,
+      "note": "the empty pit and the theme turned hollow, cut dead by Silver’s pistol; the muskets from the thicket; the motif for Merry and the man with the bandage; Flint’s gold"
     },
     {
       "n": 34,
       "bed": "island",
       "state": 1,
-      "score": "under_home",
-      "note": "the marooned three shrieking and singing far off; the shot through the mainsail; home under the theme’s flute; Captain Flint has the last word",
-      "lead": 10
+      "score": null,
+      "note": "the marooned three shrieking and singing far off; the shot through the mainsail; home under the theme’s flute; Captain Flint has the last word"
     }
   ]
 }

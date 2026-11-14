@@ -1,0 +1,31 @@
+# THE PRELIMINARY STORYBOARD · 14 Nov 2026. Draws a storyboard sheet's beats with
+# an API image model (Gemini or Imagen on Vertex, through amenti-proxy's
+# /storyboard/image, render key only) and sends the takes to the private bucket
+# under storyboard/<book>/<run>/. Nothing is saved on GitHub. Each image costs money.
+name: Storyboard
+on:
+  workflow_dispatch:
+    inputs:
+      sheet: { description: "Storyboard sheet (e.g. dracula/storyboard-test/ch02.json)", required: true }
+      models: { description: "Models, comma-separated", required: true, default: "gemini-2.5-flash-image" }
+      takes: { description: "Takes per beat per model (1-4)", required: false, default: "1" }
+permissions: { contents: read }
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: "tools\n${{ inputs.sheet }}", sparse-checkout-cone-mode: false }
+      - name: Draw
+        env: { VOICE_RENDER_KEY: "${{ secrets.VOICE_RENDER_KEY }}" }
+        run: python3 tools/storyboard/storyboard.py "${{ inputs.sheet }}" out "${{ inputs.models }}" "${{ inputs.takes }}"
+      - name: Deliver to the private bucket
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          EP: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+        run: |
+          B=$(python3 -c "import json;print(json.load(open('${{ inputs.sheet }}'))['book'])")
+          aws s3 cp out "s3://amenti-studios-private/storyboard/$B/run-${{ github.run_id }}/" --recursive --endpoint-url "$EP" --only-show-errors
+          echo "delivered to storyboard/$B/run-${{ github.run_id }}/: $(ls out | wc -l) files"

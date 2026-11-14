@@ -18,11 +18,13 @@ const fs = require('fs'), path = require('path'), crypto = require('crypto');
   const b = await chromium.launch();
   const p = await b.newPage();
   const got = {};                                      /* request body -> file */
+  const cache = { hit: 0, new: 0 };                   /* X-Amenti-Cache: what was already paid for */
   p.on('response', async (r) => {
     if (!/\/speak$/.test(r.url()) || r.request().method() !== 'POST') return;
     const body = r.request().postData() || '';
     try {
       if (!r.ok()) return;
+      if ((r.headers()['x-amenti-cache'] || '') === 'hit') cache.hit++; else cache.new++;
       const buf = await r.body();
       const f = crypto.createHash('sha1').update(body).digest('hex').slice(0, 16) + '.audio';
       fs.writeFileSync(path.join(dir, f), buf);
@@ -78,6 +80,8 @@ const fs = require('fs'), path = require('path'), crypto = require('crypto');
   fs.writeFileSync(path.join(out, 'manifest.json'), JSON.stringify(plan, null, 1));
   const sp = plan.cues.filter(c => c.kind === 'speak');
   console.log(`${work} ep${nn}: ${plan.cues.length} cues, ${sp.length} spoken, ${sp.reduce((a, c) => a + c.chunks.length, 0)} measures, ` +
-              `${plan.cues.filter(c => c.kind === 'recorded' || c.kind === 'scene').length} recorded; failed: ${failed.length ? failed.map(f => f.n).join(', ') : 'none'}`);
+              `${plan.cues.filter(c => c.kind === 'recorded' || c.kind === 'scene').length} recorded; failed: ${failed.length ? failed.map(f => f.n).join(', ') : 'none'}; ` +
+              `voice: ${cache.hit} from the cache, ${cache.new} newly voiced`);
+  plan.voice = cache;
   await b.close();
 })();

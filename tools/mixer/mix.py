@@ -388,7 +388,6 @@ class Mix:
     def run(self):
         m, cues = self.man, self.man['cues']
         # begin: the duck sits down, the chapter's bed and score start
-        slide(self.duck, DUCK_TO, 0.25, 0); slide(self.sduck, SCORE_DUCK, 0.25, 0)
         ch = None
         n = m.get('chapter')
         if n is None:
@@ -404,8 +403,17 @@ class Mix:
             self.start_bed(ch.get('bed'), ch.get('state'), 0.05)
             self.start_score(ch.get('score') or None, 0.05)
         else: log('  no chapter %s in sound.json — no bed' % n)
+        # the curtain: a chapter's lead is seconds of score at full voice before
+        # the first cue; the duck comes down over the last 2.5 s (sound.js)
+        lead = float((ch or {}).get('lead') or 0)
+        t_first = (0.05 + lead) if lead else T0
+        if lead:
+            self.duck.set(1.0, 0); self.sduck.set(1.0, 0)
+            slide(self.duck, DUCK_TO, 2.5, max(0.05, t_first - 2.5)); slide(self.sduck, SCORE_DUCK, 2.5, max(0.05, t_first - 2.5))
+        else:
+            slide(self.duck, DUCK_TO, 0.25, 0); slide(self.sduck, SCORE_DUCK, 0.25, 0)
 
-        t, i, voice, stalled = T0, 0, [], []
+        t, i, voice, stalled = t_first, 0, [], []
         idx_of = {c['n']: k for k, c in enumerate(cues)}
         while i < len(cues):
             c = cues[i]

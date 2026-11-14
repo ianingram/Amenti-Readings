@@ -527,7 +527,22 @@
         if (ch) pre.push(S.startBed(ch.bed, ch.state));
         if (ch) pre.push(S.startScore(ch.score || null));
         S.breathe();
-        return Promise.all(pre);
+        /* THE CURTAIN · 14 Nov 2026 (Ian: a production opens on its score, at
+           least thirty seconds of it, before a word is spoken). A chapter's
+           "lead" is that many seconds of score and bed at full voice before the
+           first cue; the duck comes down over the last 2.5 s as the reader
+           begins. Only from the top: a resumed or sought reading starts at once. */
+        var lead = (ch && +ch.lead) || 0;
+        return Promise.all(pre).then(function () {
+          if (!lead || R.i) return;
+          S.slide(S._duck.gain, 1, 0.4); S.slide(S._scoreDuck.gain, 1, 0.4);
+          return new Promise(function (res) {
+            S._leadT = setTimeout(function () {
+              S.slide(S._duck.gain, DUCK_TO, 2.5); S.slide(S._scoreDuck.gain, SCORE_DUCK, 2.5);
+              S._leadT = setTimeout(res, 2500);
+            }, Math.max(0, lead - 2.5) * 1000);
+          });
+        });
       });
     },
 

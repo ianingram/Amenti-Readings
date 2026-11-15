@@ -1,0 +1,1614 @@
+{
+ "work": "a-tale-of-two-cities",
+ "episode": 22,
+ "chapter": 22,
+ "title": "Still Knitting",
+ "document": "BOOK THE SECOND · THE GOLDEN THREAD · CHAPTER XVI",
+ "source": {
+  "library": "library/charles-dickens/a-tale-of-two-cities/ch22.md",
+  "text": "Charles Dickens, A Tale of Two Cities (1859) · Project Gutenberg #98 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Madame Defarge",
+   "cast_as": "Coco Chanel"
+  },
+  {
+   "role": "Ernest Defarge",
+   "cast_as": "Victor Hugo"
+  },
+  {
+   "role": "John Barsad",
+   "cast_as": "Richard III of England"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "CHAPTER XVI."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Still Knitting"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Madame Defarge and monsieur her husband returned amicably to the\nbosom of Saint Antoine, while a speck in a blue cap toiled through the\ndarkness, and through the dust, and down the weary miles of avenue by\nthe wayside, slowly tending towards that point of the compass where\nthe chateau of Monsieur the Marquis, now in his grave, listened to\nthe whispering trees. Such ample leisure had the stone faces, now,\nfor listening to the trees and to the fountain, that the few village\nscarecrows who, in their quest for herbs to eat and fragments of dead\nstick to burn, strayed within sight of the great stone courtyard and\nterrace staircase, had it borne in upon their starved fancy that\nthe expression of the faces was altered. A rumour just lived in the\nvillage--had a faint and bare existence there, as its people had--that\nwhen the knife struck home, the faces changed, from faces of pride to\nfaces of anger and pain; also, that when that dangling figure was hauled\nup forty feet above the fountain, they changed again, and bore a cruel\nlook of being avenged, which they would henceforth bear for ever. In the\nstone face over the great window of the bed-chamber where the murder\nwas done, two fine dints were pointed out in the sculptured nose, which\neverybody recognised, and which nobody had seen of old; and on the\nscarce occasions when two or three ragged peasants emerged from the\ncrowd to take a hurried peep at Monsieur the Marquis petrified, a\nskinny finger would not have pointed to it for a minute, before they all\nstarted away among the moss and leaves, like the more fortunate hares\nwho could find a living there."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Chateau and hut, stone face and dangling figure, the red stain on the\nstone floor, and the pure water in the village well--thousands of acres\nof land--a whole province of France--all France itself--lay under the\nnight sky, concentrated into a faint hair-breadth line. So does a whole\nworld, with all its greatnesses and littlenesses, lie in a twinkling\nstar. And as mere human knowledge can split a ray of light and analyse\nthe manner of its composition, so, sublimer intelligences may read in\nthe feeble shining of this earth of ours, every thought and act, every\nvice and virtue, of every responsible creature on it."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Defarges, husband and wife, came lumbering under the starlight,\nin their public vehicle, to that gate of Paris whereunto their\njourney naturally tended. There was the usual stoppage at the barrier\nguardhouse, and the usual lanterns came glancing forth for the usual\nexamination and inquiry. Monsieur Defarge alighted; knowing one or two\nof the soldiery there, and one of the police. The latter he was intimate\nwith, and affectionately embraced."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When Saint Antoine had again enfolded the Defarges in his dusky wings,\nand they, having finally alighted near the Saint’s boundaries, were\npicking their way on foot through the black mud and offal of his\nstreets, Madame Defarge spoke to her husband:"
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Say then, my friend; what did Jacques of the police tell thee?”"
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Very little to-night, but all he knows. There is another spy\ncommissioned for our quarter. There may be many more, for all that he\ncan say, but he knows of one.”"
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Eh well!”"
+  },
+  {
+   "n": 10,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Madame Defarge, raising her eyebrows with a cool\nbusiness air."
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“It is necessary to register him. How do they call that\nman?”"
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“He is English.”"
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“So much the better. His name?”"
+  },
+  {
+   "n": 14,
+   "para": 11,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Barsad,”"
+  },
+  {
+   "n": 15,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge, making it French by pronunciation. But, he had\nbeen so careful to get it accurately, that he then spelt it with perfect\ncorrectness."
+  },
+  {
+   "n": 16,
+   "para": 12,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Barsad,”"
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "repeated madame."
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Good. Christian name?”"
+  },
+  {
+   "n": 19,
+   "para": 13,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“John.”"
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“John Barsad,”"
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "repeated madame, after murmuring it once to herself."
+  },
+  {
+   "n": 22,
+   "para": 14,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Good. His appearance; is it known?”"
+  },
+  {
+   "n": 23,
+   "para": 15,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Age, about forty years; height, about five feet nine; black hair;\ncomplexion dark; generally, rather handsome visage; eyes dark, face\nthin, long, and sallow; nose aquiline, but not straight, having a\npeculiar inclination towards the left cheek; expression, therefore,\nsinister.”"
+  },
+  {
+   "n": 24,
+   "para": 16,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Eh my faith. It is a portrait!”"
+  },
+  {
+   "n": 25,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said madame, laughing."
+  },
+  {
+   "n": 26,
+   "para": 16,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“He shall be\nregistered to-morrow.”"
+  },
+  {
+   "n": 27,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They turned into the wine-shop, which was closed (for it was midnight),\nand where Madame Defarge immediately took her post at her desk, counted\nthe small moneys that had been taken during her absence, examined the\nstock, went through the entries in the book, made other entries of\nher own, checked the serving man in every possible way, and finally\ndismissed him to bed. Then she turned out the contents of the bowl\nof money for the second time, and began knotting them up in her\nhandkerchief, in a chain of separate knots, for safe keeping through the\nnight. All this while, Defarge, with his pipe in his mouth, walked\nup and down, complacently admiring, but never interfering; in which\ncondition, indeed, as to the business and his domestic affairs, he\nwalked up and down through life."
+  },
+  {
+   "n": 28,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The night was hot, and the shop, close shut and surrounded by so foul a\nneighbourhood, was ill-smelling. Monsieur Defarge’s olfactory sense was\nby no means delicate, but the stock of wine smelt much stronger than\nit ever tasted, and so did the stock of rum and brandy and aniseed. He\nwhiffed the compound of scents away, as he put down his smoked-out pipe."
+  },
+  {
+   "n": 29,
+   "para": 19,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“You are fatigued,”"
+  },
+  {
+   "n": 30,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said madame, raising her glance as she knotted the\nmoney."
+  },
+  {
+   "n": 31,
+   "para": 19,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“There are only the usual odours.”"
+  },
+  {
+   "n": 32,
+   "para": 20,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I am a little tired,”"
+  },
+  {
+   "n": 33,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "her husband acknowledged."
+  },
+  {
+   "n": 34,
+   "para": 21,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“You are a little depressed, too,”"
+  },
+  {
+   "n": 35,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said madame, whose quick eyes had\nnever been so intent on the accounts, but they had had a ray or two for\nhim."
+  },
+  {
+   "n": 36,
+   "para": 21,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Oh, the men, the men!”"
+  },
+  {
+   "n": 37,
+   "para": 22,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“But my dear!”"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "began Defarge."
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“But my dear!”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "repeated madame, nodding firmly;"
+  },
+  {
+   "n": 41,
+   "para": 23,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“but my dear! You are\nfaint of heart to-night, my dear!”"
+  },
+  {
+   "n": 42,
+   "para": 24,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Well, then,”"
+  },
+  {
+   "n": 43,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge, as if a thought were wrung out of his\nbreast,"
+  },
+  {
+   "n": 44,
+   "para": 24,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“it _is_ a long time.”"
+  },
+  {
+   "n": 45,
+   "para": 25,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“It is a long time,”"
+  },
+  {
+   "n": 46,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "repeated his wife;"
+  },
+  {
+   "n": 47,
+   "para": 25,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“and when is it not a long time?\nVengeance and retribution require a long time; it is the rule.”"
+  },
+  {
+   "n": 48,
+   "para": 26,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“It does not take a long time to strike a man with Lightning,”"
+  },
+  {
+   "n": 49,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said\nDefarge."
+  },
+  {
+   "n": 50,
+   "para": 27,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“How long,”"
+  },
+  {
+   "n": 51,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "demanded madame, composedly,"
+  },
+  {
+   "n": 52,
+   "para": 27,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“does it take to make and store\nthe lightning? Tell me.”"
+  },
+  {
+   "n": 53,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Defarge raised his head thoughtfully, as if there were something in that\ntoo."
+  },
+  {
+   "n": 54,
+   "para": 29,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“It does not take a long time,”"
+  },
+  {
+   "n": 55,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said madame,"
+  },
+  {
+   "n": 56,
+   "para": 29,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“for an earthquake to\nswallow a town. Eh well! Tell me how long it takes to prepare the\nearthquake?”"
+  },
+  {
+   "n": 57,
+   "para": 30,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“A long time, I suppose,”"
+  },
+  {
+   "n": 58,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge."
+  },
+  {
+   "n": 59,
+   "para": 31,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“But when it is ready, it takes place, and grinds to pieces everything\nbefore it. In the meantime, it is always preparing, though it is not\nseen or heard. That is your consolation. Keep it.”"
+  },
+  {
+   "n": 60,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "She tied a knot with flashing eyes, as if it throttled a foe."
+  },
+  {
+   "n": 61,
+   "para": 33,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“I tell thee,”"
+  },
+  {
+   "n": 62,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said madame, extending her right hand, for emphasis,"
+  },
+  {
+   "n": 63,
+   "para": 33,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“that although it is a long time on the road, it is on the road and\ncoming. I tell thee it never retreats, and never stops. I tell thee it\nis always advancing. Look around and consider the lives of all the world\nthat we know, consider the faces of all the world that we know, consider\nthe rage and discontent to which the Jacquerie addresses itself with\nmore and more of certainty every hour. Can such things last? Bah! I mock\nyou.”"
+  },
+  {
+   "n": 64,
+   "para": 34,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“My brave wife,”"
+  },
+  {
+   "n": 65,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Defarge, standing before her with his head\na little bent, and his hands clasped at his back, like a docile and\nattentive pupil before his catechist,"
+  },
+  {
+   "n": 66,
+   "para": 34,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I do not question all this. But\nit has lasted a long time, and it is possible--you know well, my wife,\nit is possible--that it may not come, during our lives.”"
+  },
+  {
+   "n": 67,
+   "para": 35,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Eh well! How then?”"
+  },
+  {
+   "n": 68,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "demanded madame, tying another knot, as if there\nwere another enemy strangled."
+  },
+  {
+   "n": 69,
+   "para": 36,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Well!”"
+  },
+  {
+   "n": 70,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge, with a half complaining and half apologetic shrug."
+  },
+  {
+   "n": 71,
+   "para": 36,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“We shall not see the triumph.”"
+  },
+  {
+   "n": 72,
+   "para": 37,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“We shall have helped it,”"
+  },
+  {
+   "n": 73,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned madame, with her extended hand in\nstrong action."
+  },
+  {
+   "n": 74,
+   "para": 37,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Nothing that we do, is done in vain. I believe, with all\nmy soul, that we shall see the triumph. But even if not, even if I knew\ncertainly not, show me the neck of an aristocrat and tyrant, and still I\nwould--”"
+  },
+  {
+   "n": 75,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Then madame, with her teeth set, tied a very terrible knot indeed."
+  },
+  {
+   "n": 76,
+   "para": 39,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Hold!”"
+  },
+  {
+   "n": 77,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried Defarge, reddening a little as if he felt charged with\ncowardice;"
+  },
+  {
+   "n": 78,
+   "para": 39,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I too, my dear, will stop at nothing.”"
+  },
+  {
+   "n": 79,
+   "para": 40,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Yes! But it is your weakness that you sometimes need to see your victim\nand your opportunity, to sustain you. Sustain yourself without that.\nWhen the time comes, let loose a tiger and a devil; but wait for the\ntime with the tiger and the devil chained--not shown--yet always ready.”"
+  },
+  {
+   "n": 80,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Madame enforced the conclusion of this piece of advice by striking her\nlittle counter with her chain of money as if she knocked its brains\nout, and then gathering the heavy handkerchief under her arm in a serene\nmanner, and observing that it was time to go to bed."
+  },
+  {
+   "n": 81,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Next noontide saw the admirable woman in her usual place in the\nwine-shop, knitting away assiduously. A rose lay beside her, and if she\nnow and then glanced at the flower, it was with no infraction of her\nusual preoccupied air. There were a few customers, drinking or not\ndrinking, standing or seated, sprinkled about. The day was very hot,\nand heaps of flies, who were extending their inquisitive and adventurous\nperquisitions into all the glutinous little glasses near madame, fell\ndead at the bottom. Their decease made no impression on the other flies\nout promenading, who looked at them in the coolest manner (as if they\nthemselves were elephants, or something as far removed), until they met\nthe same fate. Curious to consider how heedless flies are!--perhaps they\nthought as much at Court that sunny summer day."
+  },
+  {
+   "n": 82,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "A figure entering at the door threw a shadow on Madame Defarge which she\nfelt to be a new one. She laid down her knitting, and began to pin her\nrose in her head-dress, before she looked at the figure."
+  },
+  {
+   "n": 83,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was curious. The moment Madame Defarge took up the rose, the\ncustomers ceased talking, and began gradually to drop out of the\nwine-shop."
+  },
+  {
+   "n": 84,
+   "para": 45,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Good day, madame,”"
+  },
+  {
+   "n": 85,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the new-comer."
+  },
+  {
+   "n": 86,
+   "para": 46,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Good day, monsieur.”"
+  },
+  {
+   "n": 87,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "She said it aloud, but added to herself, as she resumed her knitting:"
+  },
+  {
+   "n": 88,
+   "para": 47,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Hah! Good day, age about forty, height about five feet nine, black\nhair, generally rather handsome visage, complexion dark, eyes dark,\nthin, long and sallow face, aquiline nose but not straight, having a\npeculiar inclination towards the left cheek which imparts a sinister\nexpression! Good day, one and all!”"
+  },
+  {
+   "n": 89,
+   "para": 48,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Have the goodness to give me a little glass of old cognac, and a\nmouthful of cool fresh water, madame.”"
+  },
+  {
+   "n": 90,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Madame complied with a polite air."
+  },
+  {
+   "n": 91,
+   "para": 50,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Marvellous cognac this, madame!”"
+  },
+  {
+   "n": 92,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was the first time it had ever been so complimented, and Madame\nDefarge knew enough of its antecedents to know better. She said,\nhowever, that the cognac was flattered, and took up her knitting. The\nvisitor watched her fingers for a few moments, and took the opportunity\nof observing the place in general."
+  },
+  {
+   "n": 93,
+   "para": 52,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“You knit with great skill, madame.”"
+  },
+  {
+   "n": 94,
+   "para": 53,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“I am accustomed to it.”"
+  },
+  {
+   "n": 95,
+   "para": 54,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“A pretty pattern too!”"
+  },
+  {
+   "n": 96,
+   "para": 55,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“_You_ think so?”"
+  },
+  {
+   "n": 97,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said madame, looking at him with a smile."
+  },
+  {
+   "n": 98,
+   "para": 56,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Decidedly. May one ask what it is for?”"
+  },
+  {
+   "n": 99,
+   "para": 57,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Pastime,”"
+  },
+  {
+   "n": 100,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said madame, still looking at him with a smile while her\nfingers moved nimbly."
+  },
+  {
+   "n": 101,
+   "para": 58,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Not for use?”"
+  },
+  {
+   "n": 102,
+   "para": 59,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“That depends. I may find a use for it one day. If I do--Well,”"
+  },
+  {
+   "n": 103,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said\nmadame, drawing a breath and nodding her head with a stern kind of\ncoquetry,"
+  },
+  {
+   "n": 104,
+   "para": 59,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“I’ll use it!”"
+  },
+  {
+   "n": 105,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was remarkable; but, the taste of Saint Antoine seemed to be\ndecidedly opposed to a rose on the head-dress of Madame Defarge. Two\nmen had entered separately, and had been about to order drink, when,\ncatching sight of that novelty, they faltered, made a pretence of\nlooking about as if for some friend who was not there, and went away.\nNor, of those who had been there when this visitor entered, was there\none left. They had all dropped off. The spy had kept his eyes open,\nbut had been able to detect no sign. They had lounged away in a\npoverty-stricken, purposeless, accidental manner, quite natural and\nunimpeachable."
+  },
+  {
+   "n": 106,
+   "para": 61,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“_John_,”"
+  },
+  {
+   "n": 107,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "thought madame, checking off her work as her fingers knitted,\nand her eyes looked at the stranger."
+  },
+  {
+   "n": 108,
+   "para": 61,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Stay long enough, and I shall knit\n‘BARSAD’ before you go.”"
+  },
+  {
+   "n": 109,
+   "para": 62,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“You have a husband, madame?”"
+  },
+  {
+   "n": 110,
+   "para": 63,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I have.”"
+  },
+  {
+   "n": 111,
+   "para": 64,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Children?”"
+  },
+  {
+   "n": 112,
+   "para": 65,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“No children.”"
+  },
+  {
+   "n": 113,
+   "para": 66,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Business seems bad?”"
+  },
+  {
+   "n": 114,
+   "para": 67,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Business is very bad; the people are so poor.”"
+  },
+  {
+   "n": 115,
+   "para": 68,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Ah, the unfortunate, miserable people! So oppressed, too--as you say.”"
+  },
+  {
+   "n": 116,
+   "para": 69,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“As _you_ say,”"
+  },
+  {
+   "n": 117,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "madame retorted, correcting him, and deftly knitting an\nextra something into his name that boded him no good."
+  },
+  {
+   "n": 118,
+   "para": 70,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Pardon me; certainly it was I who said so, but you naturally think so.\nOf course.”"
+  },
+  {
+   "n": 119,
+   "para": 71,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“_I_ think?”"
+  },
+  {
+   "n": 120,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned madame, in a high voice."
+  },
+  {
+   "n": 121,
+   "para": 71,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“I and my husband have\nenough to do to keep this wine-shop open, without thinking. All we\nthink, here, is how to live. That is the subject _we_ think of, and\nit gives us, from morning to night, enough to think about, without\nembarrassing our heads concerning others. _I_ think for others? No, no.”"
+  },
+  {
+   "n": 122,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The spy, who was there to pick up any crumbs he could find or make, did\nnot allow his baffled state to express itself in his sinister face; but,\nstood with an air of gossiping gallantry, leaning his elbow on Madame\nDefarge’s little counter, and occasionally sipping his cognac."
+  },
+  {
+   "n": 123,
+   "para": 73,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“A bad business this, madame, of Gaspard’s execution. Ah! the poor\nGaspard!”"
+  },
+  {
+   "n": 124,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "With a sigh of great compassion."
+  },
+  {
+   "n": 125,
+   "para": 74,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“My faith!”"
+  },
+  {
+   "n": 126,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned madame, coolly and lightly,"
+  },
+  {
+   "n": 127,
+   "para": 74,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“if people use knives\nfor such purposes, they have to pay for it. He knew beforehand what the\nprice of his luxury was; he has paid the price.”"
+  },
+  {
+   "n": 128,
+   "para": 75,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“I believe,”"
+  },
+  {
+   "n": 129,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the spy, dropping his soft voice to a tone\nthat invited confidence, and expressing an injured revolutionary\nsusceptibility in every muscle of his wicked face:"
+  },
+  {
+   "n": 130,
+   "para": 75,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“I believe there\nis much compassion and anger in this neighbourhood, touching the poor\nfellow? Between ourselves.”"
+  },
+  {
+   "n": 131,
+   "para": 76,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Is there?”"
+  },
+  {
+   "n": 132,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "asked madame, vacantly."
+  },
+  {
+   "n": 133,
+   "para": 77,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“Is there not?”"
+  },
+  {
+   "n": 134,
+   "para": 78,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“--Here is my husband!”"
+  },
+  {
+   "n": 135,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Madame Defarge."
+  },
+  {
+   "n": 136,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "As the keeper of the wine-shop entered at the door, the spy saluted\nhim by touching his hat, and saying, with an engaging smile,"
+  },
+  {
+   "n": 137,
+   "para": 79,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Good day,\nJacques!”"
+  },
+  {
+   "n": 138,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Defarge stopped short, and stared at him."
+  },
+  {
+   "n": 139,
+   "para": 80,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Good day, Jacques!”"
+  },
+  {
+   "n": 140,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "the spy repeated; with not quite so much\nconfidence, or quite so easy a smile under the stare."
+  },
+  {
+   "n": 141,
+   "para": 81,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“You deceive yourself, monsieur,”"
+  },
+  {
+   "n": 142,
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned the keeper of the wine-shop."
+  },
+  {
+   "n": 143,
+   "para": 81,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“You mistake me for another. That is not my name. I am Ernest Defarge.”"
+  },
+  {
+   "n": 144,
+   "para": 82,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“It is all the same,”"
+  },
+  {
+   "n": 145,
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the spy, airily, but discomfited too:"
+  },
+  {
+   "n": 146,
+   "para": 82,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“good\nday!”"
+  },
+  {
+   "n": 147,
+   "para": 83,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Good day!”"
+  },
+  {
+   "n": 148,
+   "para": 83,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "answered Defarge, drily."
+  },
+  {
+   "n": 149,
+   "para": 84,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“I was saying to madame, with whom I had the pleasure of chatting when\nyou entered, that they tell me there is--and no wonder!--much sympathy\nand anger in Saint Antoine, touching the unhappy fate of poor Gaspard.”"
+  },
+  {
+   "n": 150,
+   "para": 85,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“No one has told me so,”"
+  },
+  {
+   "n": 151,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge, shaking his head."
+  },
+  {
+   "n": 152,
+   "para": 85,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I know nothing\nof it.”"
+  },
+  {
+   "n": 153,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Having said it, he passed behind the little counter, and stood with his\nhand on the back of his wife’s chair, looking over that barrier at the\nperson to whom they were both opposed, and whom either of them would\nhave shot with the greatest satisfaction."
+  },
+  {
+   "n": 154,
+   "para": 87,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The spy, well used to his business, did not change his unconscious\nattitude, but drained his little glass of cognac, took a sip of fresh\nwater, and asked for another glass of cognac. Madame Defarge poured it\nout for him, took to her knitting again, and hummed a little song over\nit."
+  },
+  {
+   "n": 155,
+   "para": 88,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“You seem to know this quarter well; that is to say, better than I do?”"
+  },
+  {
+   "n": 156,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "observed Defarge."
+  },
+  {
+   "n": 157,
+   "para": 89,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“Not at all, but I hope to know it better. I am so profoundly interested\nin its miserable inhabitants.”"
+  },
+  {
+   "n": 158,
+   "para": 90,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Hah!”"
+  },
+  {
+   "n": 159,
+   "para": 90,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "muttered Defarge."
+  },
+  {
+   "n": 160,
+   "para": 91,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“The pleasure of conversing with you, Monsieur Defarge, recalls to me,”"
+  },
+  {
+   "n": 161,
+   "para": 91,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pursued the spy,"
+  },
+  {
+   "n": 162,
+   "para": 91,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“that I have the honour of cherishing some interesting\nassociations with your name.”"
+  },
+  {
+   "n": 163,
+   "para": 92,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Indeed!”"
+  },
+  {
+   "n": 164,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge, with much indifference."
+  },
+  {
+   "n": 165,
+   "para": 93,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“Yes, indeed. When Doctor Manette was released, you, his old domestic,\nhad the charge of him, I know. He was delivered to you. You see I am\ninformed of the circumstances?”"
+  },
+  {
+   "n": 166,
+   "para": 94,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Such is the fact, certainly,”"
+  },
+  {
+   "n": 167,
+   "para": 94,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge. He had had it conveyed\nto him, in an accidental touch of his wife’s elbow as she knitted and\nwarbled, that he would do best to answer, but always with brevity."
+  },
+  {
+   "n": 168,
+   "para": 95,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“It was to you,”"
+  },
+  {
+   "n": 169,
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the spy,"
+  },
+  {
+   "n": 170,
+   "para": 95,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“that his daughter came; and it was\nfrom your care that his daughter took him, accompanied by a neat brown\nmonsieur; how is he called?--in a little wig--Lorry--of the bank of\nTellson and Company--over to England.”"
+  },
+  {
+   "n": 171,
+   "para": 96,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Such is the fact,”"
+  },
+  {
+   "n": 172,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "repeated Defarge."
+  },
+  {
+   "n": 173,
+   "para": 97,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“Very interesting remembrances!”"
+  },
+  {
+   "n": 174,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the spy."
+  },
+  {
+   "n": 175,
+   "para": 97,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“I have known Doctor\nManette and his daughter, in England.”"
+  },
+  {
+   "n": 176,
+   "para": 98,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Yes?”"
+  },
+  {
+   "n": 177,
+   "para": 98,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge."
+  },
+  {
+   "n": 178,
+   "para": 99,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“You don’t hear much about them now?”"
+  },
+  {
+   "n": 179,
+   "para": 99,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the spy."
+  },
+  {
+   "n": 180,
+   "para": 100,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“No,”"
+  },
+  {
+   "n": 181,
+   "para": 100,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge."
+  },
+  {
+   "n": 182,
+   "para": 101,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“In effect,”"
+  },
+  {
+   "n": 183,
+   "para": 101,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "madame struck in, looking up from her work and her little\nsong,"
+  },
+  {
+   "n": 184,
+   "para": 101,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“we never hear about them. We received the news of their safe\narrival, and perhaps another letter, or perhaps two; but, since then,\nthey have gradually taken their road in life--we, ours--and we have held\nno correspondence.”"
+  },
+  {
+   "n": 185,
+   "para": 102,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“Perfectly so, madame,”"
+  },
+  {
+   "n": 186,
+   "para": 102,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "replied the spy."
+  },
+  {
+   "n": 187,
+   "para": 102,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“She is going to be married.”"
+  },
+  {
+   "n": 188,
+   "para": 103,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Going?”"
+  },
+  {
+   "n": 189,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "echoed madame."
+  },
+  {
+   "n": 190,
+   "para": 103,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“She was pretty enough to have been married long\nago. You English are cold, it seems to me.”"
+  },
+  {
+   "n": 191,
+   "para": 104,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“Oh! You know I am English.”"
+  },
+  {
+   "n": 192,
+   "para": 105,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“I perceive your tongue is,”"
+  },
+  {
+   "n": 193,
+   "para": 105,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned madame;"
+  },
+  {
+   "n": 194,
+   "para": 105,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“and what the tongue is, I\nsuppose the man is.”"
+  },
+  {
+   "n": 195,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He did not take the identification as a compliment; but he made the best\nof it, and turned it off with a laugh. After sipping his cognac to the\nend, he added:"
+  },
+  {
+   "n": 196,
+   "para": 107,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“Yes, Miss Manette is going to be married. But not to an Englishman; to\none who, like herself, is French by birth. And speaking of Gaspard (ah,\npoor Gaspard! It was cruel, cruel!), it is a curious thing that she is\ngoing to marry the nephew of Monsieur the Marquis, for whom Gaspard\nwas exalted to that height of so many feet; in other words, the present\nMarquis. But he lives unknown in England, he is no Marquis there; he is\nMr. Charles Darnay. D’Aulnais is the name of his mother’s family.”"
+  },
+  {
+   "n": 197,
+   "para": 108,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Madame Defarge knitted steadily, but the intelligence had a palpable\neffect upon her husband. Do what he would, behind the little counter,\nas to the striking of a light and the lighting of his pipe, he was\ntroubled, and his hand was not trustworthy. The spy would have been no\nspy if he had failed to see it, or to record it in his mind."
+  },
+  {
+   "n": 198,
+   "para": 109,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Having made, at least, this one hit, whatever it might prove to be\nworth, and no customers coming in to help him to any other, Mr. Barsad\npaid for what he had drunk, and took his leave: taking occasion to say,\nin a genteel manner, before he departed, that he looked forward to the\npleasure of seeing Monsieur and Madame Defarge again. For some minutes\nafter he had emerged into the outer presence of Saint Antoine, the\nhusband and wife remained exactly as he had left them, lest he should\ncome back."
+  },
+  {
+   "n": 199,
+   "para": 110,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Can it be true,”"
+  },
+  {
+   "n": 200,
+   "para": 110,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Defarge, in a low voice, looking down at his wife\nas he stood smoking with his hand on the back of her chair:"
+  },
+  {
+   "n": 201,
+   "para": 110,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“what he has\nsaid of Ma’amselle Manette?”"
+  },
+  {
+   "n": 202,
+   "para": 111,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“As he has said it,”"
+  },
+  {
+   "n": 203,
+   "para": 111,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned madame, lifting her eyebrows a little,"
+  },
+  {
+   "n": 204,
+   "para": 111,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“it\nis probably false. But it may be true.”"
+  },
+  {
+   "n": 205,
+   "para": 112,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“If it is--”"
+  },
+  {
+   "n": 206,
+   "para": 112,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Defarge began, and stopped."
+  },
+  {
+   "n": 207,
+   "para": 113,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“If it is?”"
+  },
+  {
+   "n": 208,
+   "para": 113,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "repeated his wife."
+  },
+  {
+   "n": 209,
+   "para": 114,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“--And if it does come, while we live to see it triumph--I hope, for her\nsake, Destiny will keep her husband out of France.”"
+  },
+  {
+   "n": 210,
+   "para": 115,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Her husband’s destiny,”"
+  },
+  {
+   "n": 211,
+   "para": 115,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Madame Defarge, with her usual composure,"
+  },
+  {
+   "n": 212,
+   "para": 115,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“will take him where he is to go, and will lead him to the end that is\nto end him. That is all I know.”"
+  },
+  {
+   "n": 213,
+   "para": 116,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“But it is very strange--now, at least, is it not very strange”"
+  },
+  {
+   "n": 214,
+   "para": 116,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "--said\nDefarge, rather pleading with his wife to induce her to admit it,"
+  },
+  {
+   "n": 215,
+   "para": 116,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“that, after all our sympathy for Monsieur her father, and herself, her\nhusband’s name should be proscribed under your hand at this moment, by\nthe side of that infernal dog’s who has just left us?”"
+  },
+  {
+   "n": 216,
+   "para": 117,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“Stranger things than that will happen when it does come,”"
+  },
+  {
+   "n": 217,
+   "para": 117,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "answered\nmadame."
+  },
+  {
+   "n": 218,
+   "para": 117,
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
+   "text": "“I have them both here, of a certainty; and they are both here\nfor their merits; that is enough.”"
+  },
+  {
+   "n": 219,
+   "para": 118,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "She rolled up her knitting when she had said those words, and presently\ntook the rose out of the handkerchief that was wound about her head.\nEither Saint Antoine had an instinctive sense that the objectionable\ndecoration was gone, or Saint Antoine was on the watch for its\ndisappearance; howbeit, the Saint took courage to lounge in, very\nshortly afterwards, and the wine-shop recovered its habitual aspect."
+  },
+  {
+   "n": 220,
+   "para": 119,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "In the evening, at which season of all others Saint Antoine turned\nhimself inside out, and sat on door-steps and window-ledges, and came\nto the corners of vile streets and courts, for a breath of air, Madame\nDefarge with her work in her hand was accustomed to pass from place\nto place and from group to group: a Missionary--there were many like\nher--such as the world will do well never to breed again. All the women\nknitted. They knitted worthless things; but, the mechanical work was a\nmechanical substitute for eating and drinking; the hands moved for the\njaws and the digestive apparatus: if the bony fingers had been still,\nthe stomachs would have been more famine-pinched."
+  },
+  {
+   "n": 221,
+   "para": 120,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "But, as the fingers went, the eyes went, and the thoughts. And as Madame\nDefarge moved on from group to group, all three went quicker and fiercer\namong every little knot of women that she had spoken with, and left\nbehind."
+  },
+  {
+   "n": 222,
+   "para": 121,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Her husband smoked at his door, looking after her with admiration."
+  },
+  {
+   "n": 223,
+   "para": 121,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“A\ngreat woman,”"
+  },
+  {
+   "n": 224,
+   "para": 121,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said he,"
+  },
+  {
+   "n": 225,
+   "para": 121,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“a strong woman, a grand woman, a frightfully\ngrand woman!”"
+  },
+  {
+   "n": 226,
+   "para": 122,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Darkness closed around, and then came the ringing of church bells and\nthe distant beating of the military drums in the Palace Courtyard, as\nthe women sat knitting, knitting. Darkness encompassed them. Another\ndarkness was closing in as surely, when the church bells, then ringing\npleasantly in many an airy steeple over France, should be melted into\nthundering cannon; when the military drums should be beating to drown a\nwretched voice, that night all potent as the voice of Power and Plenty,\nFreedom and Life. So much was closing in about the women who sat\nknitting, knitting, that they their very selves were closing in around\na structure yet unbuilt, where they were to sit knitting, knitting,\ncounting dropping heads."
+  }
+ ]
+}

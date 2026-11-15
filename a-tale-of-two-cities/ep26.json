@@ -1,0 +1,501 @@
+{
+ "work": "a-tale-of-two-cities",
+ "episode": 26,
+ "chapter": 26,
+ "title": "A Plea",
+ "document": "BOOK THE SECOND · THE GOLDEN THREAD · CHAPTER XX",
+ "source": {
+  "library": "library/charles-dickens/a-tale-of-two-cities/ch26.md",
+  "text": "Charles Dickens, A Tale of Two Cities (1859) · Project Gutenberg #98 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Sydney Carton",
+   "cast_as": "Christopher Hitchens"
+  },
+  {
+   "role": "Charles Darnay",
+   "cast_as": "Louis Philippe I"
+  },
+  {
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "CHAPTER XX."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "A Plea"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When the newly-married pair came home, the first person who appeared, to\noffer his congratulations, was Sydney Carton. They had not been at home\nmany hours, when he presented himself. He was not improved in habits, or\nin looks, or in manner; but there was a certain rugged air of fidelity\nabout him, which was new to the observation of Charles Darnay."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He watched his opportunity of taking Darnay aside into a window, and of\nspeaking to him when no one overheard."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Mr. Darnay,”"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Carton,"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I wish we might be friends.”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“We are already friends, I hope.”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“You are good enough to say so, as a fashion of speech; but, I don’t\nmean any fashion of speech. Indeed, when I say I wish we might be\nfriends, I scarcely mean quite that, either.”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Charles Darnay--as was natural--asked him, in all good-humour and\ngood-fellowship, what he did mean?"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Upon my life,”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Carton, smiling,"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I find that easier to comprehend\nin my own mind, than to convey to yours. However, let me try. You\nremember a certain famous occasion when I was more drunk than--than\nusual?”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I remember a certain famous occasion when you forced me to confess that\nyou had been drinking.”"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I remember it too. The curse of those occasions is heavy upon me, for I\nalways remember them. I hope it may be taken into account one day,\nwhen all days are at an end for me! Don’t be alarmed; I am not going to\npreach.”"
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I am not at all alarmed. Earnestness in you, is anything but alarming\nto me.”"
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Ah!”"
+  },
+  {
+   "n": 18,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Carton, with a careless wave of his hand, as if he waved that\naway."
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“On the drunken occasion in question (one of a large number, as\nyou know), I was insufferable about liking you, and not liking you. I\nwish you would forget it.”"
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I forgot it long ago.”"
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Fashion of speech again! But, Mr. Darnay, oblivion is not so easy to\nme, as you represent it to be to you. I have by no means forgotten it,\nand a light answer does not help me to forget it.”"
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“If it was a light answer,”"
+  },
+  {
+   "n": 23,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Darnay,"
+  },
+  {
+   "n": 24,
+   "para": 15,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“I beg your forgiveness\nfor it. I had no other object than to turn a slight thing, which, to my\nsurprise, seems to trouble you too much, aside. I declare to you, on the\nfaith of a gentleman, that I have long dismissed it from my mind. Good\nHeaven, what was there to dismiss! Have I had nothing more important to\nremember, in the great service you rendered me that day?”"
+  },
+  {
+   "n": 25,
+   "para": 16,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“As to the great service,”"
+  },
+  {
+   "n": 26,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Carton,"
+  },
+  {
+   "n": 27,
+   "para": 16,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I am bound to avow to you, when\nyou speak of it in that way, that it was mere professional claptrap, I\ndon’t know that I cared what became of you, when I rendered it.--Mind! I\nsay when I rendered it; I am speaking of the past.”"
+  },
+  {
+   "n": 28,
+   "para": 17,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“You make light of the obligation,”"
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Darnay,"
+  },
+  {
+   "n": 30,
+   "para": 17,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“but I will not\nquarrel with _your_ light answer.”"
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Genuine truth, Mr. Darnay, trust me! I have gone aside from my purpose;\nI was speaking about our being friends. Now, you know me; you know I am\nincapable of all the higher and better flights of men. If you doubt it,\nask Stryver, and he’ll tell you so.”"
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“I prefer to form my own opinion, without the aid of his.”"
+  },
+  {
+   "n": 33,
+   "para": 20,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Well! At any rate you know me as a dissolute dog, who has never done\nany good, and never will.”"
+  },
+  {
+   "n": 34,
+   "para": 21,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“I don’t know that you ‘never will.’”"
+  },
+  {
+   "n": 35,
+   "para": 22,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“But I do, and you must take my word for it. Well! If you could endure\nto have such a worthless fellow, and a fellow of such indifferent\nreputation, coming and going at odd times, I should ask that I might be\npermitted to come and go as a privileged person here; that I might\nbe regarded as an useless (and I would add, if it were not for the\nresemblance I detected between you and me, an unornamental) piece of\nfurniture, tolerated for its old service, and taken no notice of. I\ndoubt if I should abuse the permission. It is a hundred to one if I\nshould avail myself of it four times in a year. It would satisfy me, I\ndare say, to know that I had it.”"
+  },
+  {
+   "n": 36,
+   "para": 23,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Will you try?”"
+  },
+  {
+   "n": 37,
+   "para": 24,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“That is another way of saying that I am placed on the footing I have\nindicated. I thank you, Darnay. I may use that freedom with your name?”"
+  },
+  {
+   "n": 38,
+   "para": 25,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“I think so, Carton, by this time.”"
+  },
+  {
+   "n": 39,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They shook hands upon it, and Sydney turned away. Within a minute\nafterwards, he was, to all outward appearance, as unsubstantial as ever."
+  },
+  {
+   "n": 40,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When he was gone, and in the course of an evening passed with Miss\nPross, the Doctor, and Mr. Lorry, Charles Darnay made some mention of\nthis conversation in general terms, and spoke of Sydney Carton as a\nproblem of carelessness and recklessness. He spoke of him, in short, not\nbitterly or meaning to bear hard upon him, but as anybody might who saw\nhim as he showed himself."
+  },
+  {
+   "n": 41,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He had no idea that this could dwell in the thoughts of his fair young\nwife; but, when he afterwards joined her in their own rooms, he found\nher waiting for him with the old pretty lifting of the forehead strongly\nmarked."
+  },
+  {
+   "n": 42,
+   "para": 29,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“We are thoughtful to-night!”"
+  },
+  {
+   "n": 43,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Darnay, drawing his arm about her."
+  },
+  {
+   "n": 44,
+   "para": 30,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Yes, dearest Charles,”"
+  },
+  {
+   "n": 45,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "with her hands on his breast, and the inquiring\nand attentive expression fixed upon him;"
+  },
+  {
+   "n": 46,
+   "para": 30,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“we are rather thoughtful\nto-night, for we have something on our mind to-night.”"
+  },
+  {
+   "n": 47,
+   "para": 31,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“What is it, my Lucie?”"
+  },
+  {
+   "n": 48,
+   "para": 32,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Will you promise not to press one question on me, if I beg you not to\nask it?”"
+  },
+  {
+   "n": 49,
+   "para": 33,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Will I promise? What will I not promise to my Love?”"
+  },
+  {
+   "n": 50,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "What, indeed, with his hand putting aside the golden hair from the\ncheek, and his other hand against the heart that beat for him!"
+  },
+  {
+   "n": 51,
+   "para": 35,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I think, Charles, poor Mr. Carton deserves more consideration and\nrespect than you expressed for him to-night.”"
+  },
+  {
+   "n": 52,
+   "para": 36,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Indeed, my own? Why so?”"
+  },
+  {
+   "n": 53,
+   "para": 37,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“That is what you are not to ask me. But I think--I know--he does.”"
+  },
+  {
+   "n": 54,
+   "para": 38,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“If you know it, it is enough. What would you have me do, my Life?”"
+  },
+  {
+   "n": 55,
+   "para": 39,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I would ask you, dearest, to be very generous with him always, and very\nlenient on his faults when he is not by. I would ask you to believe that\nhe has a heart he very, very seldom reveals, and that there are deep\nwounds in it. My dear, I have seen it bleeding.”"
+  },
+  {
+   "n": 56,
+   "para": 40,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“It is a painful reflection to me,”"
+  },
+  {
+   "n": 57,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Charles Darnay, quite\nastounded,"
+  },
+  {
+   "n": 58,
+   "para": 40,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“that I should have done him any wrong. I never thought this\nof him.”"
+  },
+  {
+   "n": 59,
+   "para": 41,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“My husband, it is so. I fear he is not to be reclaimed; there is\nscarcely a hope that anything in his character or fortunes is reparable\nnow. But, I am sure that he is capable of good things, gentle things,\neven magnanimous things.”"
+  },
+  {
+   "n": 60,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "She looked so beautiful in the purity of her faith in this lost man,\nthat her husband could have looked at her as she was for hours."
+  },
+  {
+   "n": 61,
+   "para": 43,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“And, O my dearest Love!”"
+  },
+  {
+   "n": 62,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "she urged, clinging nearer to him, laying her\nhead upon his breast, and raising her eyes to his,"
+  },
+  {
+   "n": 63,
+   "para": 43,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“remember how strong\nwe are in our happiness, and how weak he is in his misery!”"
+  },
+  {
+   "n": 64,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The supplication touched him home."
+  },
+  {
+   "n": 65,
+   "para": 44,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I will always remember it, dear\nHeart! I will remember it as long as I live.”"
+  },
+  {
+   "n": 66,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He bent over the golden head, and put the rosy lips to his, and folded\nher in his arms. If one forlorn wanderer then pacing the dark streets,\ncould have heard her innocent disclosure, and could have seen the drops\nof pity kissed away by her husband from the soft blue eyes so loving of\nthat husband, he might have cried to the night--and the words would not\nhave parted from his lips for the first time--"
+  },
+  {
+   "n": 67,
+   "para": 46,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“God bless her for her sweet compassion!”"
+  }
+ ]
+}

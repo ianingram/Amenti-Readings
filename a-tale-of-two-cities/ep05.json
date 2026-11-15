@@ -1,0 +1,872 @@
+{
+ "work": "a-tale-of-two-cities",
+ "episode": 5,
+ "chapter": 5,
+ "title": "The Wine-shop",
+ "document": "BOOK THE FIRST · RECALLED TO LIFE · CHAPTER V",
+ "source": {
+  "library": "library/charles-dickens/a-tale-of-two-cities/ch05.md",
+  "text": "Charles Dickens, A Tale of Two Cities (1859) · Project Gutenberg #98 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Ernest Defarge",
+   "cast_as": "Victor Hugo"
+  },
+  {
+   "role": "Jarvis Lorry",
+   "cast_as": "Isaac Newton"
+  },
+  {
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "CHAPTER V."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Wine-shop"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "A large cask of wine had been dropped and broken, in the street. The\naccident had happened in getting it out of a cart; the cask had tumbled\nout with a run, the hoops had burst, and it lay on the stones just\noutside the door of the wine-shop, shattered like a walnut-shell."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "All the people within reach had suspended their business, or their\nidleness, to run to the spot and drink the wine. The rough, irregular\nstones of the street, pointing every way, and designed, one might have\nthought, expressly to lame all living creatures that approached them,\nhad dammed it into little pools; these were surrounded, each by its own\njostling group or crowd, according to its size. Some men kneeled down,\nmade scoops of their two hands joined, and sipped, or tried to help\nwomen, who bent over their shoulders, to sip, before the wine had all\nrun out between their fingers. Others, men and women, dipped in\nthe puddles with little mugs of mutilated earthenware, or even with\nhandkerchiefs from women’s heads, which were squeezed dry into infants’\nmouths; others made small mud-embankments, to stem the wine as it ran;\nothers, directed by lookers-on up at high windows, darted here and\nthere, to cut off little streams of wine that started away in new\ndirections; others devoted themselves to the sodden and lee-dyed\npieces of the cask, licking, and even champing the moister wine-rotted\nfragments with eager relish. There was no drainage to carry off the\nwine, and not only did it all get taken up, but so much mud got taken up\nalong with it, that there might have been a scavenger in the street,\nif anybody acquainted with it could have believed in such a miraculous\npresence."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "A shrill sound of laughter and of amused voices--voices of men, women,\nand children--resounded in the street while this wine game lasted. There\nwas little roughness in the sport, and much playfulness. There was a\nspecial companionship in it, an observable inclination on the part\nof every one to join some other one, which led, especially among the\nluckier or lighter-hearted, to frolicsome embraces, drinking of healths,\nshaking of hands, and even joining of hands and dancing, a dozen\ntogether. When the wine was gone, and the places where it had been\nmost abundant were raked into a gridiron-pattern by fingers, these\ndemonstrations ceased, as suddenly as they had broken out. The man who\nhad left his saw sticking in the firewood he was cutting, set it in\nmotion again; the women who had left on a door-step the little pot of\nhot ashes, at which she had been trying to soften the pain in her own\nstarved fingers and toes, or in those of her child, returned to it; men\nwith bare arms, matted locks, and cadaverous faces, who had emerged into\nthe winter light from cellars, moved away, to descend again; and a gloom\ngathered on the scene that appeared more natural to it than sunshine."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The wine was red wine, and had stained the ground of the narrow street\nin the suburb of Saint Antoine, in Paris, where it was spilled. It had\nstained many hands, too, and many faces, and many naked feet, and many\nwooden shoes. The hands of the man who sawed the wood, left red marks\non the billets; and the forehead of the woman who nursed her baby, was\nstained with the stain of the old rag she wound about her head again.\nThose who had been greedy with the staves of the cask, had acquired a\ntigerish smear about the mouth; and one tall joker so besmirched, his\nhead more out of a long squalid bag of a nightcap than in it, scrawled\nupon a wall with his finger dipped in muddy wine-lees--BLOOD."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The time was to come, when that wine too would be spilled on the\nstreet-stones, and when the stain of it would be red upon many there."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "And now that the cloud settled on Saint Antoine, which a momentary\ngleam had driven from his sacred countenance, the darkness of it was\nheavy--cold, dirt, sickness, ignorance, and want, were the lords in\nwaiting on the saintly presence--nobles of great power all of them;\nbut, most especially the last. Samples of a people that had undergone a\nterrible grinding and regrinding in the mill, and certainly not in the\nfabulous mill which ground old people young, shivered at every corner,\npassed in and out at every doorway, looked from every window, fluttered\nin every vestige of a garment that the wind shook. The mill which\nhad worked them down, was the mill that grinds young people old; the\nchildren had ancient faces and grave voices; and upon them, and upon the\ngrown faces, and ploughed into every furrow of age and coming up afresh,\nwas the sigh, Hunger. It was prevalent everywhere. Hunger was pushed out\nof the tall houses, in the wretched clothing that hung upon poles and\nlines; Hunger was patched into them with straw and rag and wood and\npaper; Hunger was repeated in every fragment of the small modicum of\nfirewood that the man sawed off; Hunger stared down from the smokeless\nchimneys, and started up from the filthy street that had no offal,\namong its refuse, of anything to eat. Hunger was the inscription on the\nbaker’s shelves, written in every small loaf of his scanty stock of\nbad bread; at the sausage-shop, in every dead-dog preparation that\nwas offered for sale. Hunger rattled its dry bones among the roasting\nchestnuts in the turned cylinder; Hunger was shred into atomics in every\nfarthing porringer of husky chips of potato, fried with some reluctant\ndrops of oil."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Its abiding place was in all things fitted to it. A narrow winding\nstreet, full of offence and stench, with other narrow winding streets\ndiverging, all peopled by rags and nightcaps, and all smelling of rags\nand nightcaps, and all visible things with a brooding look upon them\nthat looked ill. In the hunted air of the people there was yet some\nwild-beast thought of the possibility of turning at bay. Depressed and\nslinking though they were, eyes of fire were not wanting among them; nor\ncompressed lips, white with what they suppressed; nor foreheads knitted\ninto the likeness of the gallows-rope they mused about enduring, or\ninflicting. The trade signs (and they were almost as many as the shops)\nwere, all, grim illustrations of Want. The butcher and the porkman\npainted up, only the leanest scrags of meat; the baker, the coarsest of\nmeagre loaves. The people rudely pictured as drinking in the wine-shops,\ncroaked over their scanty measures of thin wine and beer, and were\ngloweringly confidential together. Nothing was represented in a\nflourishing condition, save tools and weapons; but, the cutler’s knives\nand axes were sharp and bright, the smith’s hammers were heavy, and the\ngunmaker’s stock was murderous. The crippling stones of the pavement,\nwith their many little reservoirs of mud and water, had no footways, but\nbroke off abruptly at the doors. The kennel, to make amends, ran down\nthe middle of the street--when it ran at all: which was only after heavy\nrains, and then it ran, by many eccentric fits, into the houses. Across\nthe streets, at wide intervals, one clumsy lamp was slung by a rope and\npulley; at night, when the lamplighter had let these down, and lighted,\nand hoisted them again, a feeble grove of dim wicks swung in a sickly\nmanner overhead, as if they were at sea. Indeed they were at sea, and\nthe ship and crew were in peril of tempest."
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "For, the time was to come, when the gaunt scarecrows of that region\nshould have watched the lamplighter, in their idleness and hunger, so\nlong, as to conceive the idea of improving on his method, and hauling\nup men by those ropes and pulleys, to flare upon the darkness of their\ncondition. But, the time was not come yet; and every wind that blew over\nFrance shook the rags of the scarecrows in vain, for the birds, fine of\nsong and feather, took no warning."
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The wine-shop was a corner shop, better than most others in its\nappearance and degree, and the master of the wine-shop had stood outside\nit, in a yellow waistcoat and green breeches, looking on at the struggle\nfor the lost wine."
+  },
+  {
+   "n": 12,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“It’s not my affair,”"
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said he, with a final shrug\nof the shoulders."
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“The people from the market did it. Let them bring\nanother.”"
+  },
+  {
+   "n": 15,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "There, his eyes happening to catch the tall joker writing up his joke,\nhe called to him across the way:"
+  },
+  {
+   "n": 16,
+   "para": 12,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Say, then, my Gaspard, what do you do there?”"
+  },
+  {
+   "n": 17,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The fellow pointed to his joke with immense significance, as is often\nthe way with his tribe. It missed its mark, and completely failed, as is\noften the way with his tribe too."
+  },
+  {
+   "n": 18,
+   "para": 14,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“What now? Are you a subject for the mad hospital?”"
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the wine-shop\nkeeper, crossing the road, and obliterating the jest with a handful of\nmud, picked up for the purpose, and smeared over it."
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Why do you write\nin the public streets? Is there--tell me thou--is there no other place\nto write such words in?”"
+  },
+  {
+   "n": 21,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "In his expostulation he dropped his cleaner hand (perhaps accidentally,\nperhaps not) upon the joker’s heart. The joker rapped it with his\nown, took a nimble spring upward, and came down in a fantastic dancing\nattitude, with one of his stained shoes jerked off his foot into his\nhand, and held out. A joker of an extremely, not to say wolfishly\npractical character, he looked, under those circumstances."
+  },
+  {
+   "n": 22,
+   "para": 16,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Put it on, put it on,”"
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the other."
+  },
+  {
+   "n": 24,
+   "para": 16,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Call wine, wine; and finish\nthere.”"
+  },
+  {
+   "n": 25,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "With that advice, he wiped his soiled hand upon the joker’s\ndress, such as it was--quite deliberately, as having dirtied the hand on\nhis account; and then recrossed the road and entered the wine-shop."
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "This wine-shop keeper was a bull-necked, martial-looking man of thirty,\nand he should have been of a hot temperament, for, although it was a\nbitter day, he wore no coat, but carried one slung over his shoulder.\nHis shirt-sleeves were rolled up, too, and his brown arms were bare to\nthe elbows. Neither did he wear anything more on his head than his own\ncrisply-curling short dark hair. He was a dark man altogether, with good\neyes and a good bold breadth between them. Good-humoured looking on\nthe whole, but implacable-looking, too; evidently a man of a strong\nresolution and a set purpose; a man not desirable to be met, rushing\ndown a narrow pass with a gulf on either side, for nothing would turn\nthe man."
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Madame Defarge, his wife, sat in the shop behind the counter as he\ncame in. Madame Defarge was a stout woman of about his own age, with\na watchful eye that seldom seemed to look at anything, a large hand\nheavily ringed, a steady face, strong features, and great composure of\nmanner. There was a character about Madame Defarge, from which one might\nhave predicated that she did not often make mistakes against herself\nin any of the reckonings over which she presided. Madame Defarge being\nsensitive to cold, was wrapped in fur, and had a quantity of bright\nshawl twined about her head, though not to the concealment of her large\nearrings. Her knitting was before her, but she had laid it down to pick\nher teeth with a toothpick. Thus engaged, with her right elbow supported\nby her left hand, Madame Defarge said nothing when her lord came in, but\ncoughed just one grain of cough. This, in combination with the lifting\nof her darkly defined eyebrows over her toothpick by the breadth of a\nline, suggested to her husband that he would do well to look round the\nshop among the customers, for any new customer who had dropped in while\nhe stepped over the way."
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The wine-shop keeper accordingly rolled his eyes about, until they\nrested upon an elderly gentleman and a young lady, who were seated in\na corner. Other company were there: two playing cards, two playing\ndominoes, three standing by the counter lengthening out a short supply\nof wine. As he passed behind the counter, he took notice that the\nelderly gentleman said in a look to the young lady,"
+  },
+  {
+   "n": 29,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“This is our man.”"
+  },
+  {
+   "n": 30,
+   "para": 20,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“What the devil do _you_ do in that galley there?”"
+  },
+  {
+   "n": 31,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Monsieur Defarge\nto himself;"
+  },
+  {
+   "n": 32,
+   "para": 20,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I don’t know you.”"
+  },
+  {
+   "n": 33,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "But, he feigned not to notice the two strangers, and fell into discourse\nwith the triumvirate of customers who were drinking at the counter."
+  },
+  {
+   "n": 34,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“How goes it, Jacques?”"
+  },
+  {
+   "n": 35,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said one of these three to Monsieur Defarge."
+  },
+  {
+   "n": 36,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Is\nall the spilt wine swallowed?”"
+  },
+  {
+   "n": 37,
+   "para": 23,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Every drop, Jacques,”"
+  },
+  {
+   "n": 38,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "answered Monsieur Defarge."
+  },
+  {
+   "n": 39,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When this interchange of Christian name was effected, Madame Defarge,\npicking her teeth with her toothpick, coughed another grain of cough,\nand raised her eyebrows by the breadth of another line."
+  },
+  {
+   "n": 40,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“It is not often,”"
+  },
+  {
+   "n": 41,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the second of the three, addressing Monsieur\nDefarge,"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“that many of these miserable beasts know the taste of wine, or\nof anything but black bread and death. Is it not so, Jacques?”"
+  },
+  {
+   "n": 43,
+   "para": 26,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“It is so, Jacques,”"
+  },
+  {
+   "n": 44,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Monsieur Defarge returned."
+  },
+  {
+   "n": 45,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "At this second interchange of the Christian name, Madame Defarge, still\nusing her toothpick with profound composure, coughed another grain of\ncough, and raised her eyebrows by the breadth of another line."
+  },
+  {
+   "n": 46,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The last of the three now said his say, as he put down his empty\ndrinking vessel and smacked his lips."
+  },
+  {
+   "n": 47,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Ah! So much the worse! A bitter taste it is that such poor cattle\nalways have in their mouths, and hard lives they live, Jacques. Am I\nright, Jacques?”"
+  },
+  {
+   "n": 48,
+   "para": 30,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“You are right, Jacques,”"
+  },
+  {
+   "n": 49,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "was the response of Monsieur Defarge."
+  },
+  {
+   "n": 50,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "This third interchange of the Christian name was completed at the moment\nwhen Madame Defarge put her toothpick by, kept her eyebrows up, and\nslightly rustled in her seat."
+  },
+  {
+   "n": 51,
+   "para": 32,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Hold then! True!”"
+  },
+  {
+   "n": 52,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "muttered her husband."
+  },
+  {
+   "n": 53,
+   "para": 32,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Gentlemen--my wife!”"
+  },
+  {
+   "n": 54,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The three customers pulled off their hats to Madame Defarge, with three\nflourishes. She acknowledged their homage by bending her head, and\ngiving them a quick look. Then she glanced in a casual manner round the\nwine-shop, took up her knitting with great apparent calmness and repose\nof spirit, and became absorbed in it."
+  },
+  {
+   "n": 55,
+   "para": 34,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Gentlemen,”"
+  },
+  {
+   "n": 56,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said her husband, who had kept his bright eye observantly\nupon her,"
+  },
+  {
+   "n": 57,
+   "para": 34,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“good day. The chamber, furnished bachelor-fashion, that you\nwished to see, and were inquiring for when I stepped out, is on the\nfifth floor. The doorway of the staircase gives on the little courtyard\nclose to the left here,”"
+  },
+  {
+   "n": 58,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pointing with his hand,"
+  },
+  {
+   "n": 59,
+   "para": 34,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“near to the window of\nmy establishment. But, now that I remember, one of you has already been\nthere, and can show the way. Gentlemen, adieu!”"
+  },
+  {
+   "n": 60,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They paid for their wine, and left the place. The eyes of Monsieur\nDefarge were studying his wife at her knitting when the elderly\ngentleman advanced from his corner, and begged the favour of a word."
+  },
+  {
+   "n": 61,
+   "para": 36,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Willingly, sir,”"
+  },
+  {
+   "n": 62,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Monsieur Defarge, and quietly stepped with him to\nthe door."
+  },
+  {
+   "n": 63,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Their conference was very short, but very decided. Almost at the first\nword, Monsieur Defarge started and became deeply attentive. It had\nnot lasted a minute, when he nodded and went out. The gentleman then\nbeckoned to the young lady, and they, too, went out. Madame Defarge\nknitted with nimble fingers and steady eyebrows, and saw nothing."
+  },
+  {
+   "n": 64,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Jarvis Lorry and Miss Manette, emerging from the wine-shop thus,\njoined Monsieur Defarge in the doorway to which he had directed his own\ncompany just before. It opened from a stinking little black courtyard,\nand was the general public entrance to a great pile of houses, inhabited\nby a great number of people. In the gloomy tile-paved entry to the\ngloomy tile-paved staircase, Monsieur Defarge bent down on one knee\nto the child of his old master, and put her hand to his lips. It was\na gentle action, but not at all gently done; a very remarkable\ntransformation had come over him in a few seconds. He had no good-humour\nin his face, nor any openness of aspect left, but had become a secret,\nangry, dangerous man."
+  },
+  {
+   "n": 65,
+   "para": 39,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“It is very high; it is a little difficult. Better to begin slowly.”"
+  },
+  {
+   "n": 66,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Thus, Monsieur Defarge, in a stern voice, to Mr. Lorry, as they began\nascending the stairs."
+  },
+  {
+   "n": 67,
+   "para": 40,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Is he alone?”"
+  },
+  {
+   "n": 68,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "the latter whispered."
+  },
+  {
+   "n": 69,
+   "para": 41,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Alone! God help him, who should be with him!”"
+  },
+  {
+   "n": 70,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the other, in the\nsame low voice."
+  },
+  {
+   "n": 71,
+   "para": 42,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Is he always alone, then?”"
+  },
+  {
+   "n": 72,
+   "para": 43,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Yes.”"
+  },
+  {
+   "n": 73,
+   "para": 44,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Of his own desire?”"
+  },
+  {
+   "n": 74,
+   "para": 45,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Of his own necessity. As he was, when I first saw him after they\nfound me and demanded to know if I would take him, and, at my peril be\ndiscreet--as he was then, so he is now.”"
+  },
+  {
+   "n": 75,
+   "para": 46,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“He is greatly changed?”"
+  },
+  {
+   "n": 76,
+   "para": 47,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Changed!”"
+  },
+  {
+   "n": 77,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The keeper of the wine-shop stopped to strike the wall with his hand,\nand mutter a tremendous curse. No direct answer could have been half so\nforcible. Mr. Lorry’s spirits grew heavier and heavier, as he and his\ntwo companions ascended higher and higher."
+  },
+  {
+   "n": 78,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Such a staircase, with its accessories, in the older and more crowded\nparts of Paris, would be bad enough now; but, at that time, it was vile\nindeed to unaccustomed and unhardened senses. Every little habitation\nwithin the great foul nest of one high building--that is to say,\nthe room or rooms within every door that opened on the general\nstaircase--left its own heap of refuse on its own landing, besides\nflinging other refuse from its own windows. The uncontrollable and\nhopeless mass of decomposition so engendered, would have polluted\nthe air, even if poverty and deprivation had not loaded it with their\nintangible impurities; the two bad sources combined made it almost\ninsupportable. Through such an atmosphere, by a steep dark shaft of dirt\nand poison, the way lay. Yielding to his own disturbance of mind, and to\nhis young companion’s agitation, which became greater every instant, Mr.\nJarvis Lorry twice stopped to rest. Each of these stoppages was made\nat a doleful grating, by which any languishing good airs that were left\nuncorrupted, seemed to escape, and all spoilt and sickly vapours seemed\nto crawl in. Through the rusted bars, tastes, rather than glimpses, were\ncaught of the jumbled neighbourhood; and nothing within range, nearer\nor lower than the summits of the two great towers of Notre-Dame, had any\npromise on it of healthy life or wholesome aspirations."
+  },
+  {
+   "n": 79,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "At last, the top of the staircase was gained, and they stopped for the\nthird time. There was yet an upper staircase, of a steeper inclination\nand of contracted dimensions, to be ascended, before the garret story\nwas reached. The keeper of the wine-shop, always going a little in\nadvance, and always going on the side which Mr. Lorry took, as though he\ndreaded to be asked any question by the young lady, turned himself about\nhere, and, carefully feeling in the pockets of the coat he carried over\nhis shoulder, took out a key."
+  },
+  {
+   "n": 80,
+   "para": 51,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“The door is locked then, my friend?”"
+  },
+  {
+   "n": 81,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Lorry, surprised."
+  },
+  {
+   "n": 82,
+   "para": 52,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Ay. Yes,”"
+  },
+  {
+   "n": 83,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "was the grim reply of Monsieur Defarge."
+  },
+  {
+   "n": 84,
+   "para": 53,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“You think it necessary to keep the unfortunate gentleman so retired?”"
+  },
+  {
+   "n": 85,
+   "para": 54,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I think it necessary to turn the key.”"
+  },
+  {
+   "n": 86,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Monsieur Defarge whispered it\ncloser in his ear, and frowned heavily."
+  },
+  {
+   "n": 87,
+   "para": 55,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Why?”"
+  },
+  {
+   "n": 88,
+   "para": 56,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Why! Because he has lived so long, locked up, that he would be\nfrightened--rave--tear himself to pieces--die--come to I know not what\nharm--if his door was left open.”"
+  },
+  {
+   "n": 89,
+   "para": 57,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Is it possible!”"
+  },
+  {
+   "n": 90,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "exclaimed Mr. Lorry."
+  },
+  {
+   "n": 91,
+   "para": 58,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Is it possible!”"
+  },
+  {
+   "n": 92,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "repeated Defarge, bitterly."
+  },
+  {
+   "n": 93,
+   "para": 58,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Yes. And a beautiful\nworld we live in, when it _is_ possible, and when many other such things\nare possible, and not only possible, but done--done, see you!--under\nthat sky there, every day. Long live the Devil. Let us go on.”"
+  },
+  {
+   "n": 94,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "This dialogue had been held in so very low a whisper, that not a word\nof it had reached the young lady’s ears. But, by this time she trembled\nunder such strong emotion, and her face expressed such deep anxiety,\nand, above all, such dread and terror, that Mr. Lorry felt it incumbent\non him to speak a word or two of reassurance."
+  },
+  {
+   "n": 95,
+   "para": 60,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Courage, dear miss! Courage! Business! The worst will be over in a\nmoment; it is but passing the room-door, and the worst is over. Then,\nall the good you bring to him, all the relief, all the happiness you\nbring to him, begin. Let our good friend here, assist you on that side.\nThat’s well, friend Defarge. Come, now. Business, business!”"
+  },
+  {
+   "n": 96,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They went up slowly and softly. The staircase was short, and they were\nsoon at the top. There, as it had an abrupt turn in it, they came all at\nonce in sight of three men, whose heads were bent down close together at\nthe side of a door, and who were intently looking into the room to which\nthe door belonged, through some chinks or holes in the wall. On hearing\nfootsteps close at hand, these three turned, and rose, and showed\nthemselves to be the three of one name who had been drinking in the\nwine-shop."
+  },
+  {
+   "n": 97,
+   "para": 62,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I forgot them in the surprise of your visit,”"
+  },
+  {
+   "n": 98,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "explained Monsieur\nDefarge."
+  },
+  {
+   "n": 99,
+   "para": 62,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“Leave us, good boys; we have business here.”"
+  },
+  {
+   "n": 100,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The three glided by, and went silently down."
+  },
+  {
+   "n": 101,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "There appearing to be no other door on that floor, and the keeper of\nthe wine-shop going straight to this one when they were left alone, Mr.\nLorry asked him in a whisper, with a little anger:"
+  },
+  {
+   "n": 102,
+   "para": 65,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Do you make a show of Monsieur Manette?”"
+  },
+  {
+   "n": 103,
+   "para": 66,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I show him, in the way you have seen, to a chosen few.”"
+  },
+  {
+   "n": 104,
+   "para": 67,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Is that well?”"
+  },
+  {
+   "n": 105,
+   "para": 68,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“_I_ think it is well.”"
+  },
+  {
+   "n": 106,
+   "para": 69,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Who are the few? How do you choose them?”"
+  },
+  {
+   "n": 107,
+   "para": 70,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I choose them as real men, of my name--Jacques is my name--to whom the\nsight is likely to do good. Enough; you are English; that is another\nthing. Stay there, if you please, a little moment.”"
+  },
+  {
+   "n": 108,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "With an admonitory gesture to keep them back, he stooped, and looked in\nthrough the crevice in the wall. Soon raising his head again, he struck\ntwice or thrice upon the door--evidently with no other object than to\nmake a noise there. With the same intention, he drew the key across it,\nthree or four times, before he put it clumsily into the lock, and turned\nit as heavily as he could."
+  },
+  {
+   "n": 109,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The door slowly opened inward under his hand, and he looked into the\nroom and said something. A faint voice answered something. Little more\nthan a single syllable could have been spoken on either side."
+  },
+  {
+   "n": 110,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He looked back over his shoulder, and beckoned them to enter. Mr. Lorry\ngot his arm securely round the daughter’s waist, and held her; for he\nfelt that she was sinking."
+  },
+  {
+   "n": 111,
+   "para": 74,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“A-a-a-business, business!”"
+  },
+  {
+   "n": 112,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he urged, with a moisture that was not of\nbusiness shining on his cheek."
+  },
+  {
+   "n": 113,
+   "para": 74,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Come in, come in!”"
+  },
+  {
+   "n": 114,
+   "para": 75,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“I am afraid of it,”"
+  },
+  {
+   "n": 115,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "she answered, shuddering."
+  },
+  {
+   "n": 116,
+   "para": 76,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Of it? What?”"
+  },
+  {
+   "n": 117,
+   "para": 77,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“I mean of him. Of my father.”"
+  },
+  {
+   "n": 118,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Rendered in a manner desperate, by her state and by the beckoning of\ntheir conductor, he drew over his neck the arm that shook upon his\nshoulder, lifted her a little, and hurried her into the room. He sat her\ndown just within the door, and held her, clinging to him."
+  },
+  {
+   "n": 119,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Defarge drew out the key, closed the door, locked it on the inside,\ntook out the key again, and held it in his hand. All this he did,\nmethodically, and with as loud and harsh an accompaniment of noise as he\ncould make. Finally, he walked across the room with a measured tread to\nwhere the window was. He stopped there, and faced round."
+  },
+  {
+   "n": 120,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The garret, built to be a depository for firewood and the like, was dim\nand dark: for, the window of dormer shape, was in truth a door in the\nroof, with a little crane over it for the hoisting up of stores from\nthe street: unglazed, and closing up the middle in two pieces, like any\nother door of French construction. To exclude the cold, one half of this\ndoor was fast closed, and the other was opened but a very little way.\nSuch a scanty portion of light was admitted through these means, that it\nwas difficult, on first coming in, to see anything; and long habit\nalone could have slowly formed in any one, the ability to do any work\nrequiring nicety in such obscurity. Yet, work of that kind was being\ndone in the garret; for, with his back towards the door, and his face\ntowards the window where the keeper of the wine-shop stood looking at\nhim, a white-haired man sat on a low bench, stooping forward and very\nbusy, making shoes."
+  }
+ ]
+}

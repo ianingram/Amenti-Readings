@@ -1,0 +1,296 @@
+{
+  "_file": "a-tale-of-two-cities/sound.json",
+  "_updated": "2026-11-14",
+  "work": "a-tale-of-two-cities",
+  "note": "Skeleton: no rooms, effects or score yet. Sound and score come after the cue sheets are checked and the base voices approved.",
+  "files": {
+    "base": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/",
+    "beds": {},
+    "oneshots": {},
+    "score": {},
+    "levels": {},
+    "breath": {
+      "note": "14 Nov 2026: the score ebbs and flows under the voice, as in Dracula.",
+      "min": 0.35,
+      "periods": [
+        43,
+        71,
+        113
+      ]
+    },
+    "sfx_levels": {}
+  },
+  "beds": {},
+  "chapters": [
+    {
+      "n": 1,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 2,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 3,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 4,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 5,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 6,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 7,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 8,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 9,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 10,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 11,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 12,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 13,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 14,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 15,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 16,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 17,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 18,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 19,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 20,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 21,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 22,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 23,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 24,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 25,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 26,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 27,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 28,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 29,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 30,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 31,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 32,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 33,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 34,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 35,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 36,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 37,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 38,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 39,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 40,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 41,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 42,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 43,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 44,
+      "bed": null,
+      "state": 1,
+      "score": null
+    },
+    {
+      "n": 45,
+      "bed": null,
+      "state": 1,
+      "score": null
+    }
+  ]
+}

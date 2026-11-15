@@ -1,0 +1,694 @@
+{
+ "work": "a-tale-of-two-cities",
+ "episode": 24,
+ "chapter": 24,
+ "title": "Nine Days",
+ "document": "BOOK THE SECOND · THE GOLDEN THREAD · CHAPTER XVIII",
+ "source": {
+  "library": "library/charles-dickens/a-tale-of-two-cities/ch24.md",
+  "text": "Charles Dickens, A Tale of Two Cities (1859) · Project Gutenberg #98 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Jarvis Lorry",
+   "cast_as": "Isaac Newton"
+  },
+  {
+   "role": "Miss Pross",
+   "cast_as": "Emmeline Pankhurst"
+  },
+  {
+   "role": "Doctor Manette",
+   "cast_as": "Nostradamus"
+  },
+  {
+   "role": "Ernest Defarge",
+   "cast_as": "Victor Hugo"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "CHAPTER XVIII."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Nine Days"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The marriage-day was shining brightly, and they were ready outside the\nclosed door of the Doctor’s room, where he was speaking with Charles\nDarnay. They were ready to go to church; the beautiful bride, Mr.\nLorry, and Miss Pross--to whom the event, through a gradual process of\nreconcilement to the inevitable, would have been one of absolute bliss,\nbut for the yet lingering consideration that her brother Solomon should\nhave been the bridegroom."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“And so,”"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Lorry, who could not sufficiently admire the bride,\nand who had been moving round her to take in every point of her quiet,\npretty dress;"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“and so it was for this, my sweet Lucie, that I brought\nyou across the Channel, such a baby! Lord bless me! How little I thought\nwhat I was doing! How lightly I valued the obligation I was conferring\non my friend Mr. Charles!”"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“You didn’t mean it,”"
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "remarked the matter-of-fact Miss Pross,"
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“and\ntherefore how could you know it? Nonsense!”"
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Really? Well; but don’t cry,”"
+  },
+  {
+   "n": 11,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the gentle Mr. Lorry."
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“I am not crying,”"
+  },
+  {
+   "n": 13,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Miss Pross;"
+  },
+  {
+   "n": 14,
+   "para": 6,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“_you_ are.”"
+  },
+  {
+   "n": 15,
+   "para": 7,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“I, my Pross?”"
+  },
+  {
+   "n": 16,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "(By this time, Mr. Lorry dared to be pleasant with her,\non occasion.)"
+  },
+  {
+   "n": 17,
+   "para": 8,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“You were, just now; I saw you do it, and I don’t wonder at it. Such\na present of plate as you have made ’em, is enough to bring tears into\nanybody’s eyes. There’s not a fork or a spoon in the collection,”"
+  },
+  {
+   "n": 18,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said\nMiss Pross,"
+  },
+  {
+   "n": 19,
+   "para": 8,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“that I didn’t cry over, last night after the box came, till\nI couldn’t see it.”"
+  },
+  {
+   "n": 20,
+   "para": 9,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“I am highly gratified,”"
+  },
+  {
+   "n": 21,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Lorry,"
+  },
+  {
+   "n": 22,
+   "para": 9,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“though, upon my honour, I\nhad no intention of rendering those trifling articles of remembrance\ninvisible to any one. Dear me! This is an occasion that makes a man\nspeculate on all he has lost. Dear, dear, dear! To think that there\nmight have been a Mrs. Lorry, any time these fifty years almost!”"
+  },
+  {
+   "n": 23,
+   "para": 10,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“Not at all!”"
+  },
+  {
+   "n": 24,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "From Miss Pross."
+  },
+  {
+   "n": 25,
+   "para": 11,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“You think there never might have been a Mrs. Lorry?”"
+  },
+  {
+   "n": 26,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "asked the\ngentleman of that name."
+  },
+  {
+   "n": 27,
+   "para": 12,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“Pooh!”"
+  },
+  {
+   "n": 28,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "rejoined Miss Pross;"
+  },
+  {
+   "n": 29,
+   "para": 12,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“you were a bachelor in your cradle.”"
+  },
+  {
+   "n": 30,
+   "para": 13,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Well!”"
+  },
+  {
+   "n": 31,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "observed Mr. Lorry, beamingly adjusting his little wig,"
+  },
+  {
+   "n": 32,
+   "para": 13,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“that\nseems probable, too.”"
+  },
+  {
+   "n": 33,
+   "para": 14,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“And you were cut out for a bachelor,”"
+  },
+  {
+   "n": 34,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pursued Miss Pross,"
+  },
+  {
+   "n": 35,
+   "para": 14,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“before you\nwere put in your cradle.”"
+  },
+  {
+   "n": 36,
+   "para": 15,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Then, I think,”"
+  },
+  {
+   "n": 37,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Lorry,"
+  },
+  {
+   "n": 38,
+   "para": 15,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“that I was very unhandsomely dealt\nwith, and that I ought to have had a voice in the selection of my\npattern. Enough! Now, my dear Lucie,”"
+  },
+  {
+   "n": 39,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "drawing his arm soothingly round\nher waist,"
+  },
+  {
+   "n": 40,
+   "para": 15,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“I hear them moving in the next room, and Miss Pross and\nI, as two formal folks of business, are anxious not to lose the final\nopportunity of saying something to you that you wish to hear. You leave\nyour good father, my dear, in hands as earnest and as loving as your\nown; he shall be taken every conceivable care of; during the next\nfortnight, while you are in Warwickshire and thereabouts, even Tellson’s\nshall go to the wall (comparatively speaking) before him. And when, at\nthe fortnight’s end, he comes to join you and your beloved husband, on\nyour other fortnight’s trip in Wales, you shall say that we have sent\nhim to you in the best health and in the happiest frame. Now, I hear\nSomebody’s step coming to the door. Let me kiss my dear girl with an\nold-fashioned bachelor blessing, before Somebody comes to claim his\nown.”"
+  },
+  {
+   "n": 41,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "For a moment, he held the fair face from him to look at the\nwell-remembered expression on the forehead, and then laid the bright\ngolden hair against his little brown wig, with a genuine tenderness and\ndelicacy which, if such things be old-fashioned, were as old as Adam."
+  },
+  {
+   "n": 42,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The door of the Doctor’s room opened, and he came out with Charles\nDarnay. He was so deadly pale--which had not been the case when they\nwent in together--that no vestige of colour was to be seen in his face.\nBut, in the composure of his manner he was unaltered, except that to the\nshrewd glance of Mr. Lorry it disclosed some shadowy indication that the\nold air of avoidance and dread had lately passed over him, like a cold\nwind."
+  },
+  {
+   "n": 43,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He gave his arm to his daughter, and took her down-stairs to the chariot\nwhich Mr. Lorry had hired in honour of the day. The rest followed in\nanother carriage, and soon, in a neighbouring church, where no strange\neyes looked on, Charles Darnay and Lucie Manette were happily married."
+  },
+  {
+   "n": 44,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Besides the glancing tears that shone among the smiles of the little\ngroup when it was done, some diamonds, very bright and sparkling,\nglanced on the bride’s hand, which were newly released from the\ndark obscurity of one of Mr. Lorry’s pockets. They returned home to\nbreakfast, and all went well, and in due course the golden hair that had\nmingled with the poor shoemaker’s white locks in the Paris garret, were\nmingled with them again in the morning sunlight, on the threshold of the\ndoor at parting."
+  },
+  {
+   "n": 45,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was a hard parting, though it was not for long. But her father\ncheered her, and said at last, gently disengaging himself from her\nenfolding arms,"
+  },
+  {
+   "n": 46,
+   "para": 20,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“Take her, Charles! She is yours!”"
+  },
+  {
+   "n": 47,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "And her agitated hand waved to them from a chaise window, and she was\ngone."
+  },
+  {
+   "n": 48,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The corner being out of the way of the idle and curious, and the\npreparations having been very simple and few, the Doctor, Mr. Lorry,\nand Miss Pross, were left quite alone. It was when they turned into\nthe welcome shade of the cool old hall, that Mr. Lorry observed a great\nchange to have come over the Doctor; as if the golden arm uplifted\nthere, had struck him a poisoned blow."
+  },
+  {
+   "n": 49,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He had naturally repressed much, and some revulsion might have been\nexpected in him when the occasion for repression was gone. But, it was\nthe old scared lost look that troubled Mr. Lorry; and through his absent\nmanner of clasping his head and drearily wandering away into his own\nroom when they got up-stairs, Mr. Lorry was reminded of Defarge the\nwine-shop keeper, and the starlight ride."
+  },
+  {
+   "n": 50,
+   "para": 24,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I think,”"
+  },
+  {
+   "n": 51,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he whispered to Miss Pross, after anxious consideration,"
+  },
+  {
+   "n": 52,
+   "para": 24,
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
+   "text": "“I\nthink we had best not speak to him just now, or at all disturb him.\nI must look in at Tellson’s; so I will go there at once and come back\npresently. Then, we will take him a ride into the country, and dine\nthere, and all will be well.”"
+  },
+  {
+   "n": 53,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was easier for Mr. Lorry to look in at Tellson’s, than to look out of\nTellson’s. He was detained two hours. When he came back, he ascended the\nold staircase alone, having asked no question of the servant; going thus\ninto the Doctor’s rooms, he was stopped by a low sound of knocking."
+  },
+  {
+   "n": 54,
+   "para": 26,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“Good God!”"
+  },
+  {
+   "n": 55,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he said, with a start."
+  },
+  {
+   "n": 56,
+   "para": 26,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“What’s that?”"
+  },
+  {
+   "n": 57,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Miss Pross, with a terrified face, was at his ear."
+  },
+  {
+   "n": 58,
+   "para": 27,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“O me, O me! All is\nlost!”"
+  },
+  {
+   "n": 59,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried she, wringing her hands."
+  },
+  {
+   "n": 60,
+   "para": 27,
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
+   "text": "“What is to be told to Ladybird?\nHe doesn’t know me, and is making shoes!”"
+  },
+  {
+   "n": 61,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Lorry said what he could to calm her, and went himself into the\nDoctor’s room. The bench was turned towards the light, as it had been\nwhen he had seen the shoemaker at his work before, and his head was bent\ndown, and he was very busy."
+  },
+  {
+   "n": 62,
+   "para": 29,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“Doctor Manette. My dear friend, Doctor Manette!”"
+  },
+  {
+   "n": 63,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Doctor looked at him for a moment--half inquiringly, half as if he\nwere angry at being spoken to--and bent over his work again."
+  },
+  {
+   "n": 64,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He had laid aside his coat and waistcoat; his shirt was open at the\nthroat, as it used to be when he did that work; and even the old\nhaggard, faded surface of face had come back to him. He worked\nhard--impatiently--as if in some sense of having been interrupted."
+  },
+  {
+   "n": 65,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Lorry glanced at the work in his hand, and observed that it was a\nshoe of the old size and shape. He took up another that was lying by\nhim, and asked what it was."
+  },
+  {
+   "n": 66,
+   "para": 33,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“A young lady’s walking shoe,”"
+  },
+  {
+   "n": 67,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he muttered, without looking up."
+  },
+  {
+   "n": 68,
+   "para": 33,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“It\nought to have been finished long ago. Let it be.”"
+  },
+  {
+   "n": 69,
+   "para": 34,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“But, Doctor Manette. Look at me!”"
+  },
+  {
+   "n": 70,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He obeyed, in the old mechanically submissive manner, without pausing in\nhis work."
+  },
+  {
+   "n": 71,
+   "para": 36,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“You know me, my dear friend? Think again. This is not your proper\noccupation. Think, dear friend!”"
+  },
+  {
+   "n": 72,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Nothing would induce him to speak more. He looked up, for an instant at\na time, when he was requested to do so; but, no persuasion would extract\na word from him. He worked, and worked, and worked, in silence, and\nwords fell on him as they would have fallen on an echoless wall, or on\nthe air. The only ray of hope that Mr. Lorry could discover, was, that\nhe sometimes furtively looked up without being asked. In that, there\nseemed a faint expression of curiosity or perplexity--as though he were\ntrying to reconcile some doubts in his mind."
+  },
+  {
+   "n": 73,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Two things at once impressed themselves on Mr. Lorry, as important above\nall others; the first, that this must be kept secret from Lucie;\nthe second, that it must be kept secret from all who knew him. In\nconjunction with Miss Pross, he took immediate steps towards the latter\nprecaution, by giving out that the Doctor was not well, and required a\nfew days of complete rest. In aid of the kind deception to be practised\non his daughter, Miss Pross was to write, describing his having been\ncalled away professionally, and referring to an imaginary letter of\ntwo or three hurried lines in his own hand, represented to have been\naddressed to her by the same post."
+  },
+  {
+   "n": 74,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "These measures, advisable to be taken in any case, Mr. Lorry took in\nthe hope of his coming to himself. If that should happen soon, he kept\nanother course in reserve; which was, to have a certain opinion that he\nthought the best, on the Doctor’s case."
+  },
+  {
+   "n": 75,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "In the hope of his recovery, and of resort to this third course\nbeing thereby rendered practicable, Mr. Lorry resolved to watch him\nattentively, with as little appearance as possible of doing so. He\ntherefore made arrangements to absent himself from Tellson’s for the\nfirst time in his life, and took his post by the window in the same\nroom."
+  },
+  {
+   "n": 76,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He was not long in discovering that it was worse than useless to speak\nto him, since, on being pressed, he became worried. He abandoned that\nattempt on the first day, and resolved merely to keep himself always\nbefore him, as a silent protest against the delusion into which he had\nfallen, or was falling. He remained, therefore, in his seat near the\nwindow, reading and writing, and expressing in as many pleasant and\nnatural ways as he could think of, that it was a free place."
+  },
+  {
+   "n": 77,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Doctor Manette took what was given him to eat and drink, and worked on,\nthat first day, until it was too dark to see--worked on, half an hour\nafter Mr. Lorry could not have seen, for his life, to read or write.\nWhen he put his tools aside as useless, until morning, Mr. Lorry rose\nand said to him:"
+  },
+  {
+   "n": 78,
+   "para": 43,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“Will you go out?”"
+  },
+  {
+   "n": 79,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He looked down at the floor on either side of him in the old manner,\nlooked up in the old manner, and repeated in the old low voice:"
+  },
+  {
+   "n": 80,
+   "para": 45,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Out?”"
+  },
+  {
+   "n": 81,
+   "para": 46,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“Yes; for a walk with me. Why not?”"
+  },
+  {
+   "n": 82,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He made no effort to say why not, and said not a word more. But, Mr.\nLorry thought he saw, as he leaned forward on his bench in the dusk,\nwith his elbows on his knees and his head in his hands, that he was in\nsome misty way asking himself,"
+  },
+  {
+   "n": 83,
+   "para": 47,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Why not?”"
+  },
+  {
+   "n": 84,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The sagacity of the man of\nbusiness perceived an advantage here, and determined to hold it."
+  },
+  {
+   "n": 85,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Miss Pross and he divided the night into two watches, and observed him\nat intervals from the adjoining room. He paced up and down for a long\ntime before he lay down; but, when he did finally lay himself down, he\nfell asleep. In the morning, he was up betimes, and went straight to his\nbench and to work."
+  },
+  {
+   "n": 86,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "On this second day, Mr. Lorry saluted him cheerfully by his name,\nand spoke to him on topics that had been of late familiar to them. He\nreturned no reply, but it was evident that he heard what was said, and\nthat he thought about it, however confusedly. This encouraged Mr. Lorry\nto have Miss Pross in with her work, several times during the day;\nat those times, they quietly spoke of Lucie, and of her father then\npresent, precisely in the usual manner, and as if there were nothing\namiss. This was done without any demonstrative accompaniment, not long\nenough, or often enough to harass him; and it lightened Mr. Lorry’s\nfriendly heart to believe that he looked up oftener, and that he\nappeared to be stirred by some perception of inconsistencies surrounding\nhim."
+  },
+  {
+   "n": 87,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When it fell dark again, Mr. Lorry asked him as before:"
+  },
+  {
+   "n": 88,
+   "para": 51,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“Dear Doctor, will you go out?”"
+  },
+  {
+   "n": 89,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "As before, he repeated,"
+  },
+  {
+   "n": 90,
+   "para": 52,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“Out?”"
+  },
+  {
+   "n": 91,
+   "para": 53,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Yes; for a walk with me. Why not?”"
+  },
+  {
+   "n": 92,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "This time, Mr. Lorry feigned to go out when he could extract no answer\nfrom him, and, after remaining absent for an hour, returned. In the\nmeanwhile, the Doctor had removed to the seat in the window, and had\nsat there looking down at the plane-tree; but, on Mr. Lorry’s return, he\nslipped away to his bench."
+  },
+  {
+   "n": 93,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The time went very slowly on, and Mr. Lorry’s hope darkened, and his\nheart grew heavier again, and grew yet heavier and heavier every day.\nThe third day came and went, the fourth, the fifth. Five days, six days,\nseven days, eight days, nine days."
+  },
+  {
+   "n": 94,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "With a hope ever darkening, and with a heart always growing heavier and\nheavier, Mr. Lorry passed through this anxious time. The secret was\nwell kept, and Lucie was unconscious and happy; but he could not fail to\nobserve that the shoemaker, whose hand had been a little out at first,\nwas growing dreadfully skilful, and that he had never been so intent on\nhis work, and that his hands had never been so nimble and expert, as in\nthe dusk of the ninth evening."
+  }
+ ]
+}

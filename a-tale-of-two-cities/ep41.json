@@ -1,0 +1,541 @@
+{
+ "work": "a-tale-of-two-cities",
+ "episode": 41,
+ "chapter": 41,
+ "title": "Dusk",
+ "document": "BOOK THE THIRD · THE TRACK OF A STORM · CHAPTER XI",
+ "source": {
+  "library": "library/charles-dickens/a-tale-of-two-cities/ch41.md",
+  "text": "Charles Dickens, A Tale of Two Cities (1859) · Project Gutenberg #98 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "John Barsad",
+   "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Charles Darnay",
+   "cast_as": "Louis Philippe I"
+  },
+  {
+   "role": "Jarvis Lorry",
+   "cast_as": "Isaac Newton"
+  },
+  {
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
+  },
+  {
+   "role": "Sydney Carton",
+   "cast_as": "Christopher Hitchens"
+  },
+  {
+   "role": "Doctor Manette",
+   "cast_as": "Nostradamus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "CHAPTER XI."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Dusk"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The wretched wife of the innocent man thus doomed to die, fell under\nthe sentence, as if she had been mortally stricken. But, she uttered no\nsound; and so strong was the voice within her, representing that it was\nshe of all the world who must uphold him in his misery and not augment\nit, that it quickly raised her, even from that shock."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Judges having to take part in a public demonstration out of doors,\nthe Tribunal adjourned. The quick noise and movement of the court’s\nemptying itself by many passages had not ceased, when Lucie stood\nstretching out her arms towards her husband, with nothing in her face\nbut love and consolation."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“If I might touch him! If I might embrace him once! O, good citizens, if\nyou would have so much compassion for us!”"
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "There was but a gaoler left, along with two of the four men who had\ntaken him last night, and Barsad. The people had all poured out to the\nshow in the streets. Barsad proposed to the rest,"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“Let her embrace\nhim then; it is but a moment.”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was silently acquiesced in, and they\npassed her over the seats in the hall to a raised place, where he, by\nleaning over the dock, could fold her in his arms."
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Farewell, dear darling of my soul. My parting blessing on my love. We\nshall meet again, where the weary are at rest!”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They were her husband’s words, as he held her to his bosom."
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“I can bear it, dear Charles. I am supported from above: don’t suffer\nfor me. A parting blessing for our child.”"
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I send it to her by you. I kiss her by you. I say farewell to her by\nyou.”"
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“My husband. No! A moment!”"
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He was tearing himself apart from her."
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "John Barsad",
+   "cast": "Richard III of England",
+   "text": "“We shall not be separated long. I feel that this will break my heart\nby-and-bye; but I will do my duty while I can, and when I leave her, God\nwill raise up friends for her, as He did for me.”"
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Her father had followed her, and would have fallen on his knees to both\nof them, but that Darnay put out a hand and seized him, crying:"
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“No, no! What have you done, what have you done, that you should kneel\nto us! We know now, what a struggle you made of old. We know, now what\nyou underwent when you suspected my descent, and when you knew it. We\nknow now, the natural antipathy you strove against, and conquered, for\nher dear sake. We thank you with all our hearts, and all our love and\nduty. Heaven be with you!”"
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Her father’s only answer was to draw his hands through his white hair,\nand wring them with a shriek of anguish."
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“It could not be otherwise,”"
+  },
+  {
+   "n": 20,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the prisoner."
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“All things have worked\ntogether as they have fallen out. It was the always-vain endeavour to\ndischarge my poor mother’s trust that first brought my fatal presence\nnear you. Good could never come of such evil, a happier end was not in\nnature to so unhappy a beginning. Be comforted, and forgive me. Heaven\nbless you!”"
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "As he was drawn away, his wife released him, and stood looking after him\nwith her hands touching one another in the attitude of prayer, and\nwith a radiant look upon her face, in which there was even a comforting\nsmile. As he went out at the prisoners’ door, she turned, laid her head\nlovingly on her father’s breast, tried to speak to him, and fell at his\nfeet."
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Then, issuing from the obscure corner from which he had never moved,\nSydney Carton came and took her up. Only her father and Mr. Lorry were\nwith her. His arm trembled as it raised her, and supported her head.\nYet, there was an air about him that was not all of pity--that had a\nflush of pride in it."
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Shall I take her to a coach? I shall never feel her weight.”"
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He carried her lightly to the door, and laid her tenderly down in a\ncoach. Her father and their old friend got into it, and he took his seat\nbeside the driver."
+  },
+  {
+   "n": 26,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When they arrived at the gateway where he had paused in the dark not\nmany hours before, to picture to himself on which of the rough stones of\nthe street her feet had trodden, he lifted her again, and carried her up\nthe staircase to their rooms. There, he laid her down on a couch, where\nher child and Miss Pross wept over her."
+  },
+  {
+   "n": 27,
+   "para": 20,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Don’t recall her to herself,”"
+  },
+  {
+   "n": 28,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he said, softly, to the latter,"
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“she is\nbetter so. Don’t revive her to consciousness, while she only faints.”"
+  },
+  {
+   "n": 30,
+   "para": 21,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“Oh, Carton, Carton, dear Carton!”"
+  },
+  {
+   "n": 31,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried little Lucie, springing up and\nthrowing her arms passionately round him, in a burst of grief."
+  },
+  {
+   "n": 32,
+   "para": 21,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“Now that\nyou have come, I think you will do something to help mamma, something to\nsave papa! O, look at her, dear Carton! Can you, of all the people who\nlove her, bear to see her so?”"
+  },
+  {
+   "n": 33,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He bent over the child, and laid her blooming cheek against his face. He\nput her gently from him, and looked at her unconscious mother."
+  },
+  {
+   "n": 34,
+   "para": 23,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Before I go,”"
+  },
+  {
+   "n": 35,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he said, and paused--"
+  },
+  {
+   "n": 36,
+   "para": 23,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I may kiss her?”"
+  },
+  {
+   "n": 37,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It was remembered afterwards that when he bent down and touched her face\nwith his lips, he murmured some words. The child, who was nearest to\nhim, told them afterwards, and told her grandchildren when she was a\nhandsome old lady, that she heard him say,"
+  },
+  {
+   "n": 38,
+   "para": 24,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“A life you love.”"
+  },
+  {
+   "n": 39,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When he had gone out into the next room, he turned suddenly on Mr. Lorry\nand her father, who were following, and said to the latter:"
+  },
+  {
+   "n": 40,
+   "para": 26,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“You had great influence but yesterday, Doctor Manette; let it at least\nbe tried. These judges, and all the men in power, are very friendly to\nyou, and very recognisant of your services; are they not?”"
+  },
+  {
+   "n": 41,
+   "para": 27,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Nothing connected with Charles was concealed from me. I had the\nstrongest assurances that I should save him; and I did.”"
+  },
+  {
+   "n": 42,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He returned the\nanswer in great trouble, and very slowly."
+  },
+  {
+   "n": 43,
+   "para": 28,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“Try them again. The hours between this and to-morrow afternoon are few\nand short, but try.”"
+  },
+  {
+   "n": 44,
+   "para": 29,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I intend to try. I will not rest a moment.”"
+  },
+  {
+   "n": 45,
+   "para": 30,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“That’s well. I have known such energy as yours do great things before\nnow--though never,”"
+  },
+  {
+   "n": 46,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he added, with a smile and a sigh together,"
+  },
+  {
+   "n": 47,
+   "para": 30,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“such\ngreat things as this. But try! Of little worth as life is when we misuse\nit, it is worth that effort. It would cost nothing to lay down if it\nwere not.”"
+  },
+  {
+   "n": 48,
+   "para": 31,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“I will go,”"
+  },
+  {
+   "n": 49,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Doctor Manette,"
+  },
+  {
+   "n": 50,
+   "para": 31,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“to the Prosecutor and the President\nstraight, and I will go to others whom it is better not to name. I will\nwrite too, and--But stay! There is a Celebration in the streets, and no\none will be accessible until dark.”"
+  },
+  {
+   "n": 51,
+   "para": 32,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“That’s true. Well! It is a forlorn hope at the best, and not much the\nforlorner for being delayed till dark. I should like to know how you\nspeed; though, mind! I expect nothing! When are you likely to have seen\nthese dread powers, Doctor Manette?”"
+  },
+  {
+   "n": 52,
+   "para": 33,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“Immediately after dark, I should hope. Within an hour or two from\nthis.”"
+  },
+  {
+   "n": 53,
+   "para": 34,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“It will be dark soon after four. Let us stretch the hour or two. If I\ngo to Mr. Lorry’s at nine, shall I hear what you have done, either from\nour friend or from yourself?”"
+  },
+  {
+   "n": 54,
+   "para": 35,
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
+   "text": "“Yes.”"
+  },
+  {
+   "n": 55,
+   "para": 36,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“May you prosper!”"
+  },
+  {
+   "n": 56,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Lorry followed Sydney to the outer door, and, touching him on the\nshoulder as he was going away, caused him to turn."
+  },
+  {
+   "n": 57,
+   "para": 38,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“I have no hope,”"
+  },
+  {
+   "n": 58,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Lorry, in a low and sorrowful whisper."
+  },
+  {
+   "n": 59,
+   "para": 39,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Nor have I.”"
+  },
+  {
+   "n": 60,
+   "para": 40,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“If any one of these men, or all of these men, were disposed to spare\nhim--which is a large supposition; for what is his life, or any man’s\nto them!--I doubt if they durst spare him after the demonstration in the\ncourt.”"
+  },
+  {
+   "n": 61,
+   "para": 41,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“And so do I. I heard the fall of the axe in that sound.”"
+  },
+  {
+   "n": 62,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Lorry leaned his arm upon the door-post, and bowed his face upon it."
+  },
+  {
+   "n": 63,
+   "para": 43,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Don’t despond,”"
+  },
+  {
+   "n": 64,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Carton, very gently;"
+  },
+  {
+   "n": 65,
+   "para": 43,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“don’t grieve. I encouraged\nDoctor Manette in this idea, because I felt that it might one day be\nconsolatory to her. Otherwise, she might think ‘his life was wantonly\nthrown away or wasted,’ and that might trouble her.”"
+  },
+  {
+   "n": 66,
+   "para": 44,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Yes, yes, yes,”"
+  },
+  {
+   "n": 67,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Mr. Lorry, drying his eyes,"
+  },
+  {
+   "n": 68,
+   "para": 44,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“you are right.\nBut he will perish; there is no real hope.”"
+  },
+  {
+   "n": 69,
+   "para": 45,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Yes. He will perish: there is no real hope,”"
+  },
+  {
+   "n": 70,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "echoed Carton."
+  },
+  {
+   "n": 71,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "And walked with a settled step, down-stairs."
+  }
+ ]
+}

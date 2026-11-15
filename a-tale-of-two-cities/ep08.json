@@ -1,0 +1,640 @@
+{
+ "work": "a-tale-of-two-cities",
+ "episode": 8,
+ "chapter": 8,
+ "title": "A Sight",
+ "document": "BOOK THE SECOND · THE GOLDEN THREAD · CHAPTER II",
+ "source": {
+  "library": "library/charles-dickens/a-tale-of-two-cities/ch08.md",
+  "text": "Charles Dickens, A Tale of Two Cities (1859) · Project Gutenberg #98 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Jerry Cruncher",
+   "cast_as": "Plautus"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "CHAPTER II."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "A Sight"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“You know the Old Bailey well, no doubt?”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said one of the oldest of\nclerks to Jerry the messenger."
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Ye-es, sir,”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Jerry, in something of a dogged manner."
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“I _do_\nknow the Bailey.”"
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Just so. And you know Mr. Lorry.”"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“I know Mr. Lorry, sir, much better than I know the Bailey. Much\nbetter,”"
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Jerry, not unlike a reluctant witness at the establishment\nin question,"
+  },
+  {
+   "n": 11,
+   "para": 5,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“than I, as a honest tradesman, wish to know the Bailey.”"
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Very well. Find the door where the witnesses go in, and show the\ndoor-keeper this note for Mr. Lorry. He will then let you in.”"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Into the court, sir?”"
+  },
+  {
+   "n": 14,
+   "para": 8,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Into the court.”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Cruncher’s eyes seemed to get a little closer to one another, and to\ninterchange the inquiry,"
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“What do you think of this?”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Am I to wait in the court, sir?”"
+  },
+  {
+   "n": 18,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he asked, as the result of that\nconference."
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“I am going to tell you. The door-keeper will pass the note to Mr.\nLorry, and do you make any gesture that will attract Mr. Lorry’s\nattention, and show him where you stand. Then what you have to do, is,\nto remain there until he wants you.”"
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Is that all, sir?”"
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“That’s all. He wishes to have a messenger at hand. This is to tell him\nyou are there.”"
+  },
+  {
+   "n": 22,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "As the ancient clerk deliberately folded and superscribed the note,\nMr. Cruncher, after surveying him in silence until he came to the\nblotting-paper stage, remarked:"
+  },
+  {
+   "n": 23,
+   "para": 15,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“I suppose they’ll be trying Forgeries this morning?”"
+  },
+  {
+   "n": 24,
+   "para": 16,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Treason!”"
+  },
+  {
+   "n": 25,
+   "para": 17,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“That’s quartering,”"
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Jerry."
+  },
+  {
+   "n": 27,
+   "para": 17,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Barbarous!”"
+  },
+  {
+   "n": 28,
+   "para": 18,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“It is the law,”"
+  },
+  {
+   "n": 29,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "remarked the ancient clerk, turning his surprised\nspectacles upon him."
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“It is the law.”"
+  },
+  {
+   "n": 31,
+   "para": 19,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“It’s hard in the law to spile a man, I think. It’s hard enough to kill\nhim, but it’s wery hard to spile him, sir.”"
+  },
+  {
+   "n": 32,
+   "para": 20,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Not at all,”"
+  },
+  {
+   "n": 33,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "retained the ancient clerk."
+  },
+  {
+   "n": 34,
+   "para": 20,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Speak well of the law. Take\ncare of your chest and voice, my good friend, and leave the law to take\ncare of itself. I give you that advice.”"
+  },
+  {
+   "n": 35,
+   "para": 21,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“It’s the damp, sir, what settles on my chest and voice,”"
+  },
+  {
+   "n": 36,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Jerry."
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“I\nleave you to judge what a damp way of earning a living mine is.”"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Well, well,”"
+  },
+  {
+   "n": 39,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the old clerk;"
+  },
+  {
+   "n": 40,
+   "para": 22,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“we all have our various ways of\ngaining a livelihood. Some of us have damp ways, and some of us have dry\nways. Here is the letter. Go along.”"
+  },
+  {
+   "n": 41,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Jerry took the letter, and, remarking to himself with less internal\ndeference than he made an outward show of,"
+  },
+  {
+   "n": 42,
+   "para": 23,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“You are a lean old one,\ntoo,”"
+  },
+  {
+   "n": 43,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "made his bow, informed his son, in passing, of his destination,\nand went his way."
+  },
+  {
+   "n": 44,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They hanged at Tyburn, in those days, so the street outside Newgate had\nnot obtained one infamous notoriety that has since attached to it.\nBut, the gaol was a vile place, in which most kinds of debauchery and\nvillainy were practised, and where dire diseases were bred, that came\ninto court with the prisoners, and sometimes rushed straight from the\ndock at my Lord Chief Justice himself, and pulled him off the bench. It\nhad more than once happened, that the Judge in the black cap pronounced\nhis own doom as certainly as the prisoner’s, and even died before him.\nFor the rest, the Old Bailey was famous as a kind of deadly inn-yard,\nfrom which pale travellers set out continually, in carts and coaches, on\na violent passage into the other world: traversing some two miles and a\nhalf of public street and road, and shaming few good citizens, if any.\nSo powerful is use, and so desirable to be good use in the beginning. It\nwas famous, too, for the pillory, a wise old institution, that inflicted\na punishment of which no one could foresee the extent; also, for\nthe whipping-post, another dear old institution, very humanising and\nsoftening to behold in action; also, for extensive transactions in\nblood-money, another fragment of ancestral wisdom, systematically\nleading to the most frightful mercenary crimes that could be committed\nunder Heaven. Altogether, the Old Bailey, at that date, was a choice\nillustration of the precept, that"
+  },
+  {
+   "n": 45,
+   "para": 24,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Whatever is is right;”"
+  },
+  {
+   "n": 46,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "an aphorism\nthat would be as final as it is lazy, did it not include the troublesome\nconsequence, that nothing that ever was, was wrong."
+  },
+  {
+   "n": 47,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Making his way through the tainted crowd, dispersed up and down this\nhideous scene of action, with the skill of a man accustomed to make his\nway quietly, the messenger found out the door he sought, and handed in\nhis letter through a trap in it. For, people then paid to see the play\nat the Old Bailey, just as they paid to see the play in Bedlam--only the\nformer entertainment was much the dearer. Therefore, all the Old Bailey\ndoors were well guarded--except, indeed, the social doors by which the\ncriminals got there, and those were always left wide open."
+  },
+  {
+   "n": 48,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "After some delay and demur, the door grudgingly turned on its hinges a\nvery little way, and allowed Mr. Jerry Cruncher to squeeze himself into\ncourt."
+  },
+  {
+   "n": 49,
+   "para": 27,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“What’s on?”"
+  },
+  {
+   "n": 50,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he asked, in a whisper, of the man he found himself next\nto."
+  },
+  {
+   "n": 51,
+   "para": 28,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Nothing yet.”"
+  },
+  {
+   "n": 52,
+   "para": 29,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“What’s coming on?”"
+  },
+  {
+   "n": 53,
+   "para": 30,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“The Treason case.”"
+  },
+  {
+   "n": 54,
+   "para": 31,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“The quartering one, eh?”"
+  },
+  {
+   "n": 55,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Ah!”"
+  },
+  {
+   "n": 56,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned the man, with a relish;"
+  },
+  {
+   "n": 57,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“he’ll be drawn on a hurdle to\nbe half hanged, and then he’ll be taken down and sliced before his own\nface, and then his inside will be taken out and burnt while he looks on,\nand then his head will be chopped off, and he’ll be cut into quarters.\nThat’s the sentence.”"
+  },
+  {
+   "n": 58,
+   "para": 33,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“If he’s found Guilty, you mean to say?”"
+  },
+  {
+   "n": 59,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Jerry added, by way of proviso."
+  },
+  {
+   "n": 60,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Oh! they’ll find him guilty,”"
+  },
+  {
+   "n": 61,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the other."
+  },
+  {
+   "n": 62,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Don’t you be afraid of\nthat.”"
+  },
+  {
+   "n": 63,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Cruncher’s attention was here diverted to the door-keeper, whom he\nsaw making his way to Mr. Lorry, with the note in his hand. Mr. Lorry\nsat at a table, among the gentlemen in wigs: not far from a wigged\ngentleman, the prisoner’s counsel, who had a great bundle of papers\nbefore him: and nearly opposite another wigged gentleman with his hands\nin his pockets, whose whole attention, when Mr. Cruncher looked at him\nthen or afterwards, seemed to be concentrated on the ceiling of the\ncourt. After some gruff coughing and rubbing of his chin and signing\nwith his hand, Jerry attracted the notice of Mr. Lorry, who had stood up\nto look for him, and who quietly nodded and sat down again."
+  },
+  {
+   "n": 64,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“What’s _he_ got to do with the case?”"
+  },
+  {
+   "n": 65,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "asked the man he had spoken with."
+  },
+  {
+   "n": 66,
+   "para": 37,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Blest if I know,”"
+  },
+  {
+   "n": 67,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Jerry."
+  },
+  {
+   "n": 68,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“What have _you_ got to do with it, then, if a person may inquire?”"
+  },
+  {
+   "n": 69,
+   "para": 39,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Blest if I know that either,”"
+  },
+  {
+   "n": 70,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Jerry."
+  },
+  {
+   "n": 71,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The entrance of the Judge, and a consequent great stir and settling\ndown in the court, stopped the dialogue. Presently, the dock became the\ncentral point of interest. Two gaolers, who had been standing there,\nwent out, and the prisoner was brought in, and put to the bar."
+  },
+  {
+   "n": 72,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Everybody present, except the one wigged gentleman who looked at the\nceiling, stared at him. All the human breath in the place, rolled\nat him, like a sea, or a wind, or a fire. Eager faces strained round\npillars and corners, to get a sight of him; spectators in back rows\nstood up, not to miss a hair of him; people on the floor of the court,\nlaid their hands on the shoulders of the people before them, to help\nthemselves, at anybody’s cost, to a view of him--stood a-tiptoe, got\nupon ledges, stood upon next to nothing, to see every inch of him.\nConspicuous among these latter, like an animated bit of the spiked wall\nof Newgate, Jerry stood: aiming at the prisoner the beery breath of a\nwhet he had taken as he came along, and discharging it to mingle with\nthe waves of other beer, and gin, and tea, and coffee, and what not,\nthat flowed at him, and already broke upon the great windows behind him\nin an impure mist and rain."
+  },
+  {
+   "n": 73,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The object of all this staring and blaring, was a young man of about\nfive-and-twenty, well-grown and well-looking, with a sunburnt cheek and\na dark eye. His condition was that of a young gentleman. He was plainly\ndressed in black, or very dark grey, and his hair, which was long and\ndark, was gathered in a ribbon at the back of his neck; more to be out\nof his way than for ornament. As an emotion of the mind will express\nitself through any covering of the body, so the paleness which his\nsituation engendered came through the brown upon his cheek, showing the\nsoul to be stronger than the sun. He was otherwise quite self-possessed,\nbowed to the Judge, and stood quiet."
+  },
+  {
+   "n": 74,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The sort of interest with which this man was stared and breathed at,\nwas not a sort that elevated humanity. Had he stood in peril of a less\nhorrible sentence--had there been a chance of any one of its savage\ndetails being spared--by just so much would he have lost in his\nfascination. The form that was to be doomed to be so shamefully mangled,\nwas the sight; the immortal creature that was to be so butchered\nand torn asunder, yielded the sensation. Whatever gloss the various\nspectators put upon the interest, according to their several arts and\npowers of self-deceit, the interest was, at the root of it, Ogreish."
+  },
+  {
+   "n": 75,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Silence in the court! Charles Darnay had yesterday pleaded Not Guilty to\nan indictment denouncing him (with infinite jingle and jangle) for that\nhe was a false traitor to our serene, illustrious, excellent, and so\nforth, prince, our Lord the King, by reason of his having, on divers\noccasions, and by divers means and ways, assisted Lewis, the French\nKing, in his wars against our said serene, illustrious, excellent, and\nso forth; that was to say, by coming and going, between the dominions of\nour said serene, illustrious, excellent, and so forth, and those of the\nsaid French Lewis, and wickedly, falsely, traitorously, and otherwise\nevil-adverbiously, revealing to the said French Lewis what forces our\nsaid serene, illustrious, excellent, and so forth, had in preparation\nto send to Canada and North America. This much, Jerry, with his head\nbecoming more and more spiky as the law terms bristled it, made out with\nhuge satisfaction, and so arrived circuitously at the understanding that\nthe aforesaid, and over and over again aforesaid, Charles Darnay, stood\nthere before him upon his trial; that the jury were swearing in; and\nthat Mr. Attorney-General was making ready to speak."
+  },
+  {
+   "n": 76,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The accused, who was (and who knew he was) being mentally hanged,\nbeheaded, and quartered, by everybody there, neither flinched from\nthe situation, nor assumed any theatrical air in it. He was quiet and\nattentive; watched the opening proceedings with a grave interest;\nand stood with his hands resting on the slab of wood before him, so\ncomposedly, that they had not displaced a leaf of the herbs with which\nit was strewn. The court was all bestrewn with herbs and sprinkled with\nvinegar, as a precaution against gaol air and gaol fever."
+  },
+  {
+   "n": 77,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Over the prisoner’s head there was a mirror, to throw the light down\nupon him. Crowds of the wicked and the wretched had been reflected in\nit, and had passed from its surface and this earth’s together. Haunted\nin a most ghastly manner that abominable place would have been, if the\nglass could ever have rendered back its reflections, as the ocean is one\nday to give up its dead. Some passing thought of the infamy and disgrace\nfor which it had been reserved, may have struck the prisoner’s mind. Be\nthat as it may, a change in his position making him conscious of a bar\nof light across his face, he looked up; and when he saw the glass his\nface flushed, and his right hand pushed the herbs away."
+  },
+  {
+   "n": 78,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It happened, that the action turned his face to that side of the court\nwhich was on his left. About on a level with his eyes, there sat,\nin that corner of the Judge’s bench, two persons upon whom his look\nimmediately rested; so immediately, and so much to the changing of his\naspect, that all the eyes that were turned upon him, turned to them."
+  },
+  {
+   "n": 79,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The spectators saw in the two figures, a young lady of little more than\ntwenty, and a gentleman who was evidently her father; a man of a very\nremarkable appearance in respect of the absolute whiteness of his hair,\nand a certain indescribable intensity of face: not of an active kind,\nbut pondering and self-communing. When this expression was upon him, he\nlooked as if he were old; but when it was stirred and broken up--as\nit was now, in a moment, on his speaking to his daughter--he became a\nhandsome man, not past the prime of life."
+  },
+  {
+   "n": 80,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "His daughter had one of her hands drawn through his arm, as she sat by\nhim, and the other pressed upon it. She had drawn close to him, in her\ndread of the scene, and in her pity for the prisoner. Her forehead had\nbeen strikingly expressive of an engrossing terror and compassion\nthat saw nothing but the peril of the accused. This had been so very\nnoticeable, so very powerfully and naturally shown, that starers who\nhad had no pity for him were touched by her; and the whisper went about,"
+  },
+  {
+   "n": 81,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Who are they?”"
+  },
+  {
+   "n": 82,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Jerry, the messenger, who had made his own observations, in his own\nmanner, and who had been sucking the rust off his fingers in his\nabsorption, stretched his neck to hear who they were. The crowd about\nhim had pressed and passed the inquiry on to the nearest attendant, and\nfrom him it had been more slowly pressed and passed back; at last it got\nto Jerry:"
+  },
+  {
+   "n": 83,
+   "para": 51,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Witnesses.”"
+  },
+  {
+   "n": 84,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“For which side?”"
+  },
+  {
+   "n": 85,
+   "para": 53,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“Against.”"
+  },
+  {
+   "n": 86,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Against what side?”"
+  },
+  {
+   "n": 87,
+   "para": 55,
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
+   "text": "“The prisoner’s.”"
+  },
+  {
+   "n": 88,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Judge, whose eyes had gone in the general direction, recalled them,\nleaned back in his seat, and looked steadily at the man whose life was\nin his hand, as Mr. Attorney-General rose to spin the rope, grind the\naxe, and hammer the nails into the scaffold."
+  }
+ ]
+}

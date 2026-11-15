@@ -1,0 +1,3030 @@
+# A Tale of Two Cities — speech attributions to confirm
+
+Every quotation and the voice it was given. **tag**: Dickens’s own tag (“said Mr. Lorry”); **NAMED/PRONOUN**: the sentence leading into the quote; **INFERRED**: untagged, the exchange alternates — check these; **corrected**: set by hand. Minor speakers are Dickens’s.
+
+## Book 1, Chapter I — The Period
+
+- ¶7 · **Narrator (minor)** · *INFERRED* · “the Captain,”
+- ¶7 · **Narrator (minor)** · *INFERRED* · “in consequence of the failure of his ammunition:”
+
+## Book 1, Chapter II — The Mail
+
+- ¶3 · **Narrator** · *corrected* · “Wo-ho! so-ho-then!”
+- ¶5 · **Narrator (minor)** · *INFERRED* · “the Captain’s”
+- ¶7 · **Narrator** · *corrected* · “Wo-ho!”
+- ¶7 · **Narrator** · *corrected* · “So, then! One more pull and you’re at the top and be damned to you, for I have had trouble enough t
+- ¶8 · **Narrator** · *corrected* · “Halloa!”
+- ¶9 · **Narrator** · *corrected* · “What o’clock do you make it, Joe?”
+- ¶10 · **Narrator** · *corrected* · “Ten minutes, good, past eleven.”
+- ¶11 · **Narrator** · *corrected* · “My blood!”
+- ¶11 · **Narrator** · *corrected* · “and not atop of Shooter’s yet! Tst! Yah! Get on with you!”
+- ¶14 · **Narrator** · *corrected* · “Tst! Joe!”
+- ¶15 · **Narrator** · *corrected* · “What do you say, Tom?”
+- ¶17 · **Narrator** · *corrected* · “I say a horse at a canter coming up, Joe.”
+- ¶18 · **Narrator** · *corrected* · “_I_ say a horse at a gallop, Tom,”
+- ¶18 · **Narrator** · *corrected* · “Gentlemen! In the king’s name, all of you!”
+- ¶23 · **Narrator** · *corrected* · “So-ho!”
+- ¶23 · **Narrator** · *corrected* · “Yo there! Stand! I shall fire!”
+- ¶24 · **Jerry Cruncher** · *corrected* · “Is that the Dover mail?”
+- ¶25 · **Narrator** · *corrected* · “Never you mind what it is!”
+- ¶25 · **Narrator** · *corrected* · “What are you?”
+- ¶26 · **Jerry Cruncher** · *corrected* · “_Is_ that the Dover mail?”
+- ¶27 · **Narrator** · *corrected* · “Why do you want to know?”
+- ¶28 · **Jerry Cruncher** · *corrected* · “I want a passenger, if it is.”
+- ¶29 · **Narrator** · *corrected* · “What passenger?”
+- ¶30 · **Jerry Cruncher** · *corrected* · “Mr. Jarvis Lorry.”
+- ¶32 · **Narrator** · *corrected* · “Keep where you are,”
+- ¶32 · **Narrator** · *corrected* · “because, if I should make a mistake, it could never be set right in your lifetime. Gentleman of the
+- ¶33 · **Jarvis Lorry** · *corrected* · “What is the matter?”
+- ¶33 · **Jarvis Lorry** · *corrected* · “Who wants me? Is it Jerry?”
+- ¶34 · **Narrator** · *corrected* · “I don’t like Jerry’s voice, if it is Jerry,”
+- ¶34 · **Narrator** · *corrected* · “He’s hoarser than suits me, is Jerry.”
+- ¶35 · **Jerry Cruncher** · *corrected* · “Yes, Mr. Lorry.”
+- ¶36 · **Jarvis Lorry** · *corrected* · “What is the matter?”
+- ¶37 · **Jerry Cruncher** · *corrected* · “A despatch sent after you from over yonder. T. and Co.”
+- ¶38 · **Jarvis Lorry** · *corrected* · “I know this messenger, guard,”
+- ¶38 · **Jarvis Lorry** · *corrected* · “He may come close; there’s nothing wrong.”
+- ¶39 · **Narrator** · *corrected* · “I hope there ain’t, but I can’t make so ‘Nation sure of that,”
+- ¶39 · **Narrator** · *corrected* · “Hallo you!”
+- ¶40 · **Jerry Cruncher** · *corrected* · “Well! And hallo you!”
+- ¶41 · **Narrator** · *corrected* · “Come on at a footpace! d’ye mind me? And if you’ve got holsters to that saddle o’ yourn, don’t let 
+- ¶43 · **Jarvis Lorry** · *corrected* · “Guard!”
+- ¶44 · **Narrator** · *corrected* · “Sir.”
+- ¶45 · **Jarvis Lorry** · *corrected* · “There is nothing to apprehend. I belong to Tellson’s Bank. You must know Tellson’s Bank in London. 
+- ¶46 · **Narrator** · *corrected* · “If so be as you’re quick, sir.”
+- ¶47 · **Jarvis Lorry** · *corrected* · “‘Wait at Dover for Mam’selle.’ It’s not long, you see, guard. Jerry, say that my answer was, RECALL
+- ¶48 · **Jerry Cruncher** · *corrected* · “That’s a Blazing strange answer, too,”
+- ¶49 · **Jarvis Lorry** · *corrected* · “Take that message back, and they will know that I received this, as well as if I wrote. Make the be
+- ¶52 · **Narrator** · *corrected* · “Tom!”
+- ¶53 · **Narrator** · *corrected* · “Hallo, Joe.”
+- ¶54 · **Narrator** · *corrected* · “Did you hear the message?”
+- ¶55 · **Narrator** · *corrected* · “I did, Joe.”
+- ¶56 · **Narrator** · *corrected* · “What did you make of it, Tom?”
+- ¶57 · **Narrator** · *corrected* · “Nothing at all, Joe.”
+- ¶58 · **Narrator** · *corrected* · “That’s a coincidence, too,”
+- ¶58 · **Narrator** · *corrected* · “for I made the same of it myself.”
+- ¶60 · **Jerry Cruncher** · *corrected* · “After that there gallop from Temple Bar, old lady, I won’t trust your fore-legs till I get you on t
+- ¶60 · **Jerry Cruncher** · *corrected* · “‘Recalled to life.’ That’s a Blazing strange message. Much of that wouldn’t do for you, Jerry! I sa
+
+## Book 1, Chapter III — The Night Shadows
+
+- ¶5 · **Jerry Cruncher** · *corrected* · “No, Jerry, no!”
+- ¶5 · **Jerry Cruncher** · *corrected* · “It wouldn’t do for you, Jerry. Jerry, you honest tradesman, it wouldn’t suit _your_ line of busines
+- ¶12 · **Jarvis Lorry** · *corrected* · “Buried how long?”
+- ¶13 · **Doctor Manette** · *corrected* · “Almost eighteen years.”
+- ¶14 · **Jarvis Lorry** · *corrected* · “You had abandoned all hope of being dug out?”
+- ¶15 · **Doctor Manette** · *corrected* · “Long ago.”
+- ¶16 · **Jarvis Lorry** · *corrected* · “You know that you are recalled to life?”
+- ¶17 · **Doctor Manette** · *corrected* · “They tell me so.”
+- ¶18 · **Jarvis Lorry** · *corrected* · “I hope you care to live?”
+- ¶19 · **Doctor Manette** · *corrected* · “I can’t say.”
+- ¶20 · **Jarvis Lorry** · *corrected* · “Shall I show her to you? Will you come and see her?”
+- ¶21 · **Doctor Manette** · *corrected* · “Wait! It would kill me if I saw her too soon.”
+- ¶21 · **Doctor Manette** · *corrected* · “Take me to her.”
+- ¶21 · **Doctor Manette** · *corrected* · “I don’t know her. I don’t understand.”
+- ¶24 · **Jarvis Lorry** · *corrected* · “Buried how long?”
+- ¶25 · **Doctor Manette** · *corrected* · “Almost eighteen years.”
+- ¶26 · **Jarvis Lorry** · *corrected* · “I hope you care to live?”
+- ¶27 · **Doctor Manette** · *corrected* · “I can’t say.”
+- ¶29 · **Jarvis Lorry** · *corrected* · “Buried how long?”
+- ¶30 · **Doctor Manette** · *corrected* · “Almost eighteen years.”
+- ¶31 · **Jarvis Lorry** · *corrected* · “You had abandoned all hope of being dug out?”
+- ¶32 · **Doctor Manette** · *corrected* · “Long ago.”
+- ¶35 · **Jarvis Lorry** · *corrected* · “Eighteen years!”
+- ¶35 · **Jarvis Lorry** · *corrected* · “Gracious Creator of day! To be buried alive for eighteen years!”
+
+## Book 1, Chapter IV — The Preparation
+
+- ¶4 · **Jarvis Lorry** · *corrected* · “There will be a packet to Calais, tomorrow, drawer?”
+- ¶5 · **Narrator** · *corrected* · “Yes, sir, if the weather holds and the wind sets tolerable fair. The tide will serve pretty nicely 
+- ¶6 · **Jarvis Lorry** · *corrected* · “I shall not go to bed till night; but I want a bedroom, and a barber.”
+- ¶7 · **Narrator** · *corrected* · “And then breakfast, sir? Yes, sir. That way, sir, if you please. Show Concord! Gentleman’s valise a
+- ¶12 · **Jarvis Lorry** · *corrected* · “I wish accommodation prepared for a young lady who may come here at any time to-day. She may ask fo
+- ¶13 · **Narrator** · *corrected* · “Yes, sir. Tellson’s Bank in London, sir?”
+- ¶14 · **Jarvis Lorry** · *corrected* · “Yes.”
+- ¶15 · **Narrator** · *corrected* · “Yes, sir. We have oftentimes the honour to entertain your gentlemen in their travelling backwards a
+- ¶16 · **Jarvis Lorry** · *corrected* · “Yes. We are quite a French House, as well as an English one.”
+- ¶17 · **Narrator** · *corrected* · “Yes, sir. Not much in the habit of such travelling yourself, I think, sir?”
+- ¶18 · **Jarvis Lorry** · *corrected* · “Not of late years. It is fifteen years since we--since I--came last from France.”
+- ¶19 · **Narrator** · *corrected* · “Indeed, sir? That was before my time here, sir. Before our people’s time here, sir. The George was 
+- ¶20 · **Jarvis Lorry** · *corrected* · “I believe so.”
+- ¶21 · **Narrator** · *corrected* · “But I would hold a pretty wager, sir, that a House like Tellson and Company was flourishing, a matt
+- ¶22 · **Jarvis Lorry** · *corrected* · “You might treble that, and say a hundred and fifty, yet not be far from the truth.”
+- ¶23 · **Narrator** · *corrected* · “Indeed, sir!”
+- ¶28 · **Jarvis Lorry** · *corrected* · “This is Mam’selle!”
+- ¶30 · **Jarvis Lorry** · *corrected* · “So soon?”
+- ¶34 · **Lucie Manette** · *corrected* · “Pray take a seat, sir.”
+- ¶35 · **Jarvis Lorry** · *corrected* · “I kiss your hand, miss,”
+- ¶36 · **Lucie Manette** · *corrected* · “I received a letter from the Bank, sir, yesterday, informing me that some intelligence--or discover
+- ¶37 · **Jarvis Lorry** · *corrected* · “The word is not material, miss; either word will do.”
+- ¶38 · **Lucie Manette** · *corrected* · “--respecting the small property of my poor father, whom I never saw--so long dead--”
+- ¶40 · **Lucie Manette** · *corrected* · “--rendered it necessary that I should go to Paris, there to communicate with a gentleman of the Ban
+- ¶41 · **Jarvis Lorry** · *corrected* · “Myself.”
+- ¶42 · **Lucie Manette** · *corrected* · “As I was prepared to hear, sir.”
+- ¶44 · **Lucie Manette** · *corrected* · “I replied to the Bank, sir, that as it was considered necessary, by those who know, and who are so 
+- ¶45 · **Jarvis Lorry** · *corrected* · “I was happy,”
+- ¶45 · **Jarvis Lorry** · *corrected* · “to be entrusted with the charge. I shall be more happy to execute it.”
+- ¶46 · **Lucie Manette** · *corrected* · “Sir, I thank you indeed. I thank you very gratefully. It was told me by the Bank that the gentleman
+- ¶47 · **Jarvis Lorry** · *corrected* · “Naturally,”
+- ¶47 · **Jarvis Lorry** · *corrected* · “Yes--I--”
+- ¶48 · **Jarvis Lorry** · *corrected* · “It is very difficult to begin.”
+- ¶50 · **Lucie Manette** · *corrected* · “Are you quite a stranger to me, sir?”
+- ¶51 · **Jarvis Lorry** · *corrected* · “Am I not?”
+- ¶53 · **Jarvis Lorry** · *corrected* · “In your adopted country, I presume, I cannot do better than address you as a young English lady, Mi
+- ¶54 · **Lucie Manette** · *corrected* · “If you please, sir.”
+- ¶55 · **Jarvis Lorry** · *corrected* · “Miss Manette, I am a man of business. I have a business charge to acquit myself of. In your recepti
+- ¶56 · **Lucie Manette** · *corrected* · “Story!”
+- ¶57 · **Jarvis Lorry** · *corrected* · “Yes, customers; in the banking business we usually call our connection our customers. He was a Fren
+- ¶58 · **Lucie Manette** · *corrected* · “Not of Beauvais?”
+- ¶59 · **Jarvis Lorry** · *corrected* · “Why, yes, of Beauvais. Like Monsieur Manette, your father, the gentleman was of Beauvais. Like Mons
+- ¶60 · **Lucie Manette** · *corrected* · “At that time--I may ask, at what time, sir?”
+- ¶61 · **Jarvis Lorry** · *corrected* · “I speak, miss, of twenty years ago. He married--an English lady--and I was one of the trustees. His
+- ¶62 · **Lucie Manette** · *corrected* · “But this is my father’s story, sir; and I begin to think”
+- ¶62 · **Lucie Manette** · *corrected* · “that when I was left an orphan through my mother’s surviving my father only two years, it was you w
+- ¶64 · **Jarvis Lorry** · *corrected* · “Miss Manette, it _was_ I. And you will see how truly I spoke of myself just now, in saying I had no
+- ¶66 · **Jarvis Lorry** · *corrected* · “So far, miss (as you have remarked), this is the story of your regretted father. Now comes the diff
+- ¶68 · **Jarvis Lorry** · *corrected* · “Pray,”
+- ¶68 · **Jarvis Lorry** · *corrected* · “pray control your agitation--a matter of business. As I was saying--”
+- ¶70 · **Jarvis Lorry** · *corrected* · “As I was saying; if Monsieur Manette had not died; if he had suddenly and silently disappeared; if 
+- ¶71 · **Lucie Manette** · *corrected* · “I entreat you to tell me more, sir.”
+- ¶72 · **Jarvis Lorry** · *corrected* · “I will. I am going to. You can bear it?”
+- ¶73 · **Lucie Manette** · *corrected* · “I can bear anything but the uncertainty you leave me in at this moment.”
+- ¶74 · **Jarvis Lorry** · *corrected* · “You speak collectedly, and you--_are_ collected. That’s good!”
+- ¶74 · **Jarvis Lorry** · *corrected* · “A matter of business. Regard it as a matter of business--business that must be done. Now if this do
+- ¶75 · **Lucie Manette** · *corrected* · “The little child was a daughter, sir.”
+- ¶76 · **Jarvis Lorry** · *corrected* · “A daughter. A-a-matter of business--don’t be distressed. Miss, if the poor lady had suffered so int
+- ¶77 · **Lucie Manette** · *corrected* · “For the truth. O dear, good, compassionate sir, for the truth!”
+- ¶78 · **Jarvis Lorry** · *corrected* · “A--a matter of business. You confuse me, and how can I transact business if I am confused? Let us b
+- ¶80 · **Jarvis Lorry** · *corrected* · “That’s right, that’s right. Courage! Business! You have business before you; useful business. Miss 
+- ¶82 · **Jarvis Lorry** · *corrected* · “You know that your parents had no great possession, and that what they had was secured to your moth
+- ¶84 · **Jarvis Lorry** · *corrected* · “But he has been--been found. He is alive. Greatly changed, it is too probable; almost a wreck, it i
+- ¶86 · **Lucie Manette** · *corrected* · “I am going to see his Ghost! It will be his Ghost--not him!”
+- ¶87 · **Jarvis Lorry** · *corrected* · “There, there, there! See now, see now! The best and the worst are known to you, now. You are well o
+- ¶88 · **Lucie Manette** · *corrected* · “I have been free, I have been happy, yet his Ghost has never haunted me!”
+- ¶89 · **Jarvis Lorry** · *corrected* · “Only one thing more,”
+- ¶89 · **Jarvis Lorry** · *corrected* · “he has been found under another name; his own, long forgotten or long concealed. It would be worse 
+- ¶92 · **Jarvis Lorry** · *corrected* · “I really think this must be a man!”
+- ¶93 · **Miss Pross** · *corrected* · “Why, look at you all!”
+- ¶93 · **Miss Pross** · *corrected* · “Why don’t you go and fetch things, instead of standing there staring at me? I am not so much to loo
+- ¶94 · **Miss Pross** · *corrected* · “my precious!”
+- ¶94 · **Miss Pross** · *corrected* · “my bird!”
+- ¶95 · **Miss Pross** · *corrected* · “And you in brown!”
+- ¶95 · **Miss Pross** · *corrected* · “couldn’t you tell her what you had to tell her, without frightening her to death? Look at her, with
+- ¶96 · **Narrator** · *corrected* · “letting them know”
+- ¶97 · **Jarvis Lorry** · *corrected* · “I hope she will do well now,”
+- ¶98 · **Miss Pross** · *corrected* · “No thanks to you in brown, if she does. My darling pretty!”
+- ¶99 · **Jarvis Lorry** · *corrected* · “I hope,”
+- ¶99 · **Jarvis Lorry** · *corrected* · “that you accompany Miss Manette to France?”
+- ¶100 · **Miss Pross** · *corrected* · “A likely thing, too!”
+- ¶100 · **Miss Pross** · *corrected* · “If it was ever intended that I should go across salt water, do you suppose Providence would have ca
+
+## Book 1, Chapter V — The Wine-shop
+
+- ¶10 · **Narrator (minor)** · *INFERRED* · “It’s not my affair,”
+- ¶10 · **Narrator (minor)** · *INFERRED* · “The people from the market did it. Let them bring another.”
+- ¶12 · **Ernest Defarge** · *corrected* · “Say, then, my Gaspard, what do you do there?”
+- ¶14 · **Ernest Defarge** · *tag* · “What now? Are you a subject for the mad hospital?”
+- ¶14 · **Ernest Defarge** · *tag* · “Why do you write in the public streets? Is there--tell me thou--is there no other place to write su
+- ¶16 · **Ernest Defarge** · *corrected* · “Put it on, put it on,”
+- ¶16 · **Ernest Defarge** · *corrected* · “Call wine, wine; and finish there.”
+- ¶19 · **Narrator** · *corrected* · “This is our man.”
+- ¶20 · **Ernest Defarge** · *corrected* · “What the devil do _you_ do in that galley there?”
+- ¶20 · **Ernest Defarge** · *corrected* · “I don’t know you.”
+- ¶22 · **Narrator** · *corrected* · “How goes it, Jacques?”
+- ¶22 · **Narrator** · *corrected* · “Is all the spilt wine swallowed?”
+- ¶23 · **Ernest Defarge** · *corrected* · “Every drop, Jacques,”
+- ¶25 · **Narrator** · *corrected* · “It is not often,”
+- ¶25 · **Narrator** · *corrected* · “that many of these miserable beasts know the taste of wine, or of anything but black bread and deat
+- ¶26 · **Ernest Defarge** · *corrected* · “It is so, Jacques,”
+- ¶29 · **Narrator** · *corrected* · “Ah! So much the worse! A bitter taste it is that such poor cattle always have in their mouths, and 
+- ¶30 · **Ernest Defarge** · *corrected* · “You are right, Jacques,”
+- ¶32 · **Ernest Defarge** · *corrected* · “Hold then! True!”
+- ¶32 · **Ernest Defarge** · *corrected* · “Gentlemen--my wife!”
+- ¶34 · **Ernest Defarge** · *corrected* · “Gentlemen,”
+- ¶34 · **Ernest Defarge** · *corrected* · “good day. The chamber, furnished bachelor-fashion, that you wished to see, and were inquiring for w
+- ¶34 · **Ernest Defarge** · *corrected* · “near to the window of my establishment. But, now that I remember, one of you has already been there
+- ¶36 · **Ernest Defarge** · *corrected* · “Willingly, sir,”
+- ¶39 · **Ernest Defarge** · *corrected* · “It is very high; it is a little difficult. Better to begin slowly.”
+- ¶40 · **Jarvis Lorry** · *corrected* · “Is he alone?”
+- ¶41 · **Ernest Defarge** · *corrected* · “Alone! God help him, who should be with him!”
+- ¶42 · **Jarvis Lorry** · *corrected* · “Is he always alone, then?”
+- ¶43 · **Ernest Defarge** · *corrected* · “Yes.”
+- ¶44 · **Jarvis Lorry** · *corrected* · “Of his own desire?”
+- ¶45 · **Ernest Defarge** · *corrected* · “Of his own necessity. As he was, when I first saw him after they found me and demanded to know if I
+- ¶46 · **Jarvis Lorry** · *corrected* · “He is greatly changed?”
+- ¶47 · **Ernest Defarge** · *corrected* · “Changed!”
+- ¶51 · **Jarvis Lorry** · *corrected* · “The door is locked then, my friend?”
+- ¶52 · **Ernest Defarge** · *corrected* · “Ay. Yes,”
+- ¶53 · **Jarvis Lorry** · *corrected* · “You think it necessary to keep the unfortunate gentleman so retired?”
+- ¶54 · **Ernest Defarge** · *corrected* · “I think it necessary to turn the key.”
+- ¶55 · **Jarvis Lorry** · *corrected* · “Why?”
+- ¶56 · **Ernest Defarge** · *corrected* · “Why! Because he has lived so long, locked up, that he would be frightened--rave--tear himself to pi
+- ¶57 · **Jarvis Lorry** · *corrected* · “Is it possible!”
+- ¶58 · **Ernest Defarge** · *corrected* · “Is it possible!”
+- ¶58 · **Ernest Defarge** · *corrected* · “Yes. And a beautiful world we live in, when it _is_ possible, and when many other such things are p
+- ¶60 · **Jarvis Lorry** · *corrected* · “Courage, dear miss! Courage! Business! The worst will be over in a moment; it is but passing the ro
+- ¶62 · **Ernest Defarge** · *corrected* · “I forgot them in the surprise of your visit,”
+- ¶62 · **Ernest Defarge** · *corrected* · “Leave us, good boys; we have business here.”
+- ¶65 · **Jarvis Lorry** · *corrected* · “Do you make a show of Monsieur Manette?”
+- ¶66 · **Ernest Defarge** · *corrected* · “I show him, in the way you have seen, to a chosen few.”
+- ¶67 · **Jarvis Lorry** · *corrected* · “Is that well?”
+- ¶68 · **Ernest Defarge** · *corrected* · “_I_ think it is well.”
+- ¶69 · **Jarvis Lorry** · *corrected* · “Who are the few? How do you choose them?”
+- ¶70 · **Ernest Defarge** · *corrected* · “I choose them as real men, of my name--Jacques is my name--to whom the sight is likely to do good. 
+- ¶74 · **Jarvis Lorry** · *corrected* · “A-a-a-business, business!”
+- ¶74 · **Jarvis Lorry** · *corrected* · “Come in, come in!”
+- ¶75 · **Lucie Manette** · *corrected* · “I am afraid of it,”
+- ¶76 · **Jarvis Lorry** · *corrected* · “Of it? What?”
+- ¶77 · **Lucie Manette** · *corrected* · “I mean of him. Of my father.”
+
+## Book 1, Chapter VI — The Shoemaker
+
+- ¶2 · **Ernest Defarge** · *corrected* · “Good day!”
+- ¶4 · **Doctor Manette** · *corrected* · “Good day!”
+- ¶5 · **Ernest Defarge** · *corrected* · “You are still hard at work, I see?”
+- ¶6 · **Doctor Manette** · *corrected* · “Yes--I am working.”
+- ¶9 · **Ernest Defarge** · *corrected* · “I want,”
+- ¶9 · **Ernest Defarge** · *corrected* · “to let in a little more light here. You can bear a little more?”
+- ¶11 · **Doctor Manette** · *corrected* · “What did you say?”
+- ¶12 · **Ernest Defarge** · *corrected* · “You can bear a little more light?”
+- ¶13 · **Doctor Manette** · *corrected* · “I must bear it, if you let it in.”
+- ¶16 · **Ernest Defarge** · *corrected* · “Are you going to finish that pair of shoes to-day?”
+- ¶17 · **Doctor Manette** · *corrected* · “What did you say?”
+- ¶18 · **Ernest Defarge** · *corrected* · “Do you mean to finish that pair of shoes to-day?”
+- ¶19 · **Doctor Manette** · *corrected* · “I can’t say that I mean to. I suppose so. I don’t know.”
+- ¶22 · **Ernest Defarge** · *corrected* · “You have a visitor, you see,”
+- ¶23 · **Doctor Manette** · *corrected* · “What did you say?”
+- ¶24 · **Ernest Defarge** · *corrected* · “Here is a visitor.”
+- ¶26 · **Ernest Defarge** · *corrected* · “Come!”
+- ¶26 · **Ernest Defarge** · *corrected* · “Here is monsieur, who knows a well-made shoe when he sees one. Show him that shoe you are working a
+- ¶28 · **Ernest Defarge** · *corrected* · “Tell monsieur what kind of shoe it is, and the maker’s name.”
+- ¶30 · **Doctor Manette** · *corrected* · “I forget what it was you asked me. What did you say?”
+- ¶31 · **Ernest Defarge** · *corrected* · “I said, couldn’t you describe the kind of shoe, for monsieur’s information?”
+- ¶32 · **Doctor Manette** · *corrected* · “It is a lady’s shoe. It is a young lady’s walking-shoe. It is in the present mode. I never saw the 
+- ¶33 · **Ernest Defarge** · *corrected* · “And the maker’s name?”
+- ¶35 · **Doctor Manette** · *corrected* · “Did you ask me for my name?”
+- ¶36 · **Ernest Defarge** · *corrected* · “Assuredly I did.”
+- ¶37 · **Doctor Manette** · *corrected* · “One Hundred and Five, North Tower.”
+- ¶38 · **Ernest Defarge** · *corrected* · “Is that all?”
+- ¶39 · **Doctor Manette** · *corrected* · “One Hundred and Five, North Tower.”
+- ¶41 · **Jarvis Lorry** · *corrected* · “You are not a shoemaker by trade?”
+- ¶43 · **Doctor Manette** · *corrected* · “I am not a shoemaker by trade? No, I was not a shoemaker by trade. I-I learnt it here. I taught mys
+- ¶45 · **Doctor Manette** · *corrected* · “I asked leave to teach myself, and I got it with much difficulty after a long while, and I have mad
+- ¶47 · **Ernest Defarge** · *corrected* · “Monsieur Manette, do you remember nothing of me?”
+- ¶49 · **Jarvis Lorry** · *corrected* · “Monsieur Manette”
+- ¶49 · **Jarvis Lorry** · *corrected* · “do you remember nothing of this man? Look at him. Look at me. Is there no old banker, no old busine
+- ¶52 · **Ernest Defarge** · *corrected* · “Have you recognised him, monsieur?”
+- ¶53 · **Jarvis Lorry** · *corrected* · “Yes; for a moment. At first I thought it quite hopeless, but I have unquestionably seen, for a sing
+- ¶58 · **Doctor Manette** · *corrected* · “What is this?”
+- ¶60 · **Doctor Manette** · *corrected* · “You are not the gaoler’s daughter?”
+- ¶61 · **Lucie Manette** · *corrected* · “No.”
+- ¶62 · **Doctor Manette** · *corrected* · “Who are you?”
+- ¶66 · **Doctor Manette** · *corrected* · “It is the same. How can it be! When was it! How was it!”
+- ¶68 · **Doctor Manette** · *corrected* · “She had laid her head upon my shoulder, that night when I was summoned out--she had a fear of my go
+- ¶70 · **Doctor Manette** · *corrected* · “How was this?--_Was it you_?”
+- ¶71 · **Lucie Manette** · *corrected* · “I entreat you, good gentlemen, do not come near us, do not speak, do not move!”
+- ¶72 · **Doctor Manette** · *corrected* · “Hark!”
+- ¶72 · **Doctor Manette** · *corrected* · “Whose voice was that?”
+- ¶74 · **Doctor Manette** · *corrected* · “No, no, no; you are too young, too blooming. It can’t be. See what the prisoner is. These are not t
+- ¶76 · **Lucie Manette** · *corrected* · “O, sir, at another time you shall know my name, and who my mother was, and who my father, and how I
+- ¶78 · **Lucie Manette** · *corrected* · “If you hear in my voice--I don’t know that it is so, but I hope it is--if you hear in my voice any 
+- ¶80 · **Lucie Manette** · *corrected* · “If, when I tell you, dearest dear, that your agony is over, and that I have come here to take you f
+- ¶83 · **Lucie Manette** · *corrected* · “If, without disturbing him,”
+- ¶83 · **Lucie Manette** · *corrected* · “all could be arranged for our leaving Paris at once, so that, from the very door, he could be taken
+- ¶84 · **Jarvis Lorry** · *corrected* · “But, consider. Is he fit for the journey?”
+- ¶85 · **Lucie Manette** · *corrected* · “More fit for that, I think, than to remain in this city, so dreadful to him.”
+- ¶86 · **Ernest Defarge** · *corrected* · “It is true,”
+- ¶86 · **Ernest Defarge** · *corrected* · “More than that; Monsieur Manette is, for all reasons, best out of France. Say, shall I hire a carri
+- ¶87 · **Jarvis Lorry** · *corrected* · “That’s business,”
+- ¶87 · **Jarvis Lorry** · *corrected* · “and if business is to be done, I had better do it.”
+- ¶88 · **Lucie Manette** · *corrected* · “Then be so kind,”
+- ¶88 · **Lucie Manette** · *corrected* · “as to leave us here. You see how composed he has become, and you cannot be afraid to leave him with
+- ¶95 · **Lucie Manette** · *corrected* · “You remember the place, my father? You remember coming up here?”
+- ¶96 · **Doctor Manette** · *corrected* · “What did you say?”
+- ¶98 · **Doctor Manette** · *corrected* · “Remember? No, I don’t remember. It was so very long ago.”
+- ¶99 · **Doctor Manette** · *corrected* · “One Hundred and Five, North Tower;”
+- ¶102 · **Ernest Defarge** · *corrected* · “To the Barrier!”
+- ¶103 · **Narrator** · *corrected* · “Your papers, travellers!”
+- ¶103 · **Ernest Defarge** · *corrected* · “See here then, Monsieur the Officer,”
+- ¶103 · **Ernest Defarge** · *corrected* · “these are the papers of monsieur inside, with the white head. They were consigned to me, with him, 
+- ¶103 · **Narrator** · *corrected* · “It is well. Forward!”
+- ¶103 · **Ernest Defarge** · *corrected* · “Adieu!”
+- ¶105 · **Jarvis Lorry** · *corrected* · “I hope you care to be recalled to life?”
+- ¶107 · **Doctor Manette** · *corrected* · “I can’t say.”
+
+## Book 2, Chapter I — Five Years Later
+
+- ¶5 · **Narrator (minor)** · *INFERRED* · “the House,”
+- ¶12 · **Narrator (minor)** · *INFERRED* · “Bust me, if she ain’t at it agin!”
+- ¶14 · **Jerry Cruncher** · *tag* · “What!”
+- ¶14 · **Jerry Cruncher** · *tag* · “You’re at it agin, are you?”
+- ¶16 · **Jerry Cruncher** · *tag* · “What,”
+- ¶16 · **Jerry Cruncher** · *tag* · “what are you up to, Aggerawayter?”
+- ¶17 · **Narrator (minor)** · *INFERRED* · “I was only saying my prayers.”
+- ¶18 · **Jerry Cruncher** · *INFERRED* · “Saying your prayers! You’re a nice woman! What do you mean by flopping yourself down and praying ag
+- ¶19 · **Narrator (minor)** · *INFERRED* · “I was not praying against you; I was praying for you.”
+- ¶20 · **Jerry Cruncher** · *INFERRED* · “You weren’t. And if you were, I won’t be took the liberty with. Here! your mother’s a nice woman, y
+- ¶22 · **Jerry Cruncher** · *tag* · “And what do you suppose, you conceited female,”
+- ¶22 · **Jerry Cruncher** · *tag* · “that the worth of _your_ prayers may be? Name the price that you put _your_ prayers at!”
+- ¶23 · **Narrator (minor)** · *INFERRED* · “They only come from the heart, Jerry. They are worth no more than that.”
+- ¶24 · **Jerry Cruncher** · *tag* · “Worth no more than that,”
+- ¶24 · **Jerry Cruncher** · *tag* · “They ain’t worth much, then. Whether or no, I won’t be prayed agin, I tell you. I can’t afford it. 
+- ¶24 · **Jerry Cruncher** · *tag* · “if I ain’t, what with piety and one blowed thing and another, been choused this last week into as b
+- ¶24 · **Jerry Cruncher** · *tag* · “I won’t be gone agin, in this manner. I am as rickety as a hackney-coach, I’m as sleepy as laudanum
+- ¶25 · **Narrator (minor)** · *INFERRED* · “Ah! yes! You’re religious, too. You wouldn’t put yourself in opposition to the interests of your hu
+- ¶25 · **Narrator (minor)** · *INFERRED* · “You are going to flop, mother. --Halloa, father!”
+- ¶27 · **Jerry Cruncher** · *INFERRED* · “Now, Aggerawayter! What are you up to? At it again?”
+- ¶28 · **Mrs Cruncher** · *PRONOUN* · “asked a blessing.”
+- ¶29 · **Jerry Cruncher** · *INFERRED* · “Don’t do it!”
+- ¶29 · **Jerry Cruncher** · *INFERRED* · “I ain’t a going to be blest out of house and home. I won’t have my wittles blest off my table. Keep
+- ¶31 · **Mrs Cruncher** · *INFERRED* · “a honest tradesman.”
+- ¶34 · **Jerry Cruncher** · *INFERRED* · “Porter wanted!”
+- ¶35 · **Mrs Cruncher** · *INFERRED* · “Hooray, father! Here’s an early job to begin with!”
+- ¶37 · **Young Jerry** · *tag* · “Al-ways rusty! His fingers is al-ways rusty!”
+- ¶37 · **Young Jerry** · *tag* · “Where does my father get all that iron rust from? He don’t get no iron rust here!”
+
+## Book 2, Chapter II — A Sight
+
+- ¶2 · **Jerry Cruncher** · *tag* · “You know the Old Bailey well, no doubt?”
+- ¶3 · **Jerry Cruncher** · *tag* · “Ye-es, sir,”
+- ¶3 · **Jerry Cruncher** · *tag* · “I _do_ know the Bailey.”
+- ¶4 · **Jerry Cruncher** · *INFERRED* · “Just so. And you know Mr. Lorry.”
+- ¶5 · **Jerry Cruncher** · *tag* · “I know Mr. Lorry, sir, much better than I know the Bailey. Much better,”
+- ¶5 · **Jerry Cruncher** · *tag* · “than I, as a honest tradesman, wish to know the Bailey.”
+- ¶6 · **Jerry Cruncher** · *INFERRED* · “Very well. Find the door where the witnesses go in, and show the door-keeper this note for Mr. Lorr
+- ¶7 · **Jerry Cruncher** · *INFERRED* · “Into the court, sir?”
+- ¶8 · **Jerry Cruncher** · *INFERRED* · “Into the court.”
+- ¶9 · **Jerry Cruncher** · *NAMED* · “What do you think of this?”
+- ¶10 · **Jerry Cruncher** · *tag-pronoun* · “Am I to wait in the court, sir?”
+- ¶11 · **Jerry Cruncher** · *INFERRED* · “I am going to tell you. The door-keeper will pass the note to Mr. Lorry, and do you make any gestur
+- ¶12 · **Jerry Cruncher** · *INFERRED* · “Is that all, sir?”
+- ¶13 · **Jerry Cruncher** · *INFERRED* · “That’s all. He wishes to have a messenger at hand. This is to tell him you are there.”
+- ¶15 · **Jerry Cruncher** · *INFERRED* · “I suppose they’ll be trying Forgeries this morning?”
+- ¶16 · **Jerry Cruncher** · *INFERRED* · “Treason!”
+- ¶17 · **Jerry Cruncher** · *tag* · “That’s quartering,”
+- ¶17 · **Jerry Cruncher** · *tag* · “Barbarous!”
+- ¶18 · **Jerry Cruncher** · *INFERRED* · “It is the law,”
+- ¶18 · **Jerry Cruncher** · *INFERRED* · “It is the law.”
+- ¶19 · **Jerry Cruncher** · *INFERRED* · “It’s hard in the law to spile a man, I think. It’s hard enough to kill him, but it’s wery hard to s
+- ¶20 · **Jerry Cruncher** · *INFERRED* · “Not at all,”
+- ¶20 · **Jerry Cruncher** · *INFERRED* · “Speak well of the law. Take care of your chest and voice, my good friend, and leave the law to take
+- ¶21 · **Jerry Cruncher** · *tag* · “It’s the damp, sir, what settles on my chest and voice,”
+- ¶21 · **Jerry Cruncher** · *tag* · “I leave you to judge what a damp way of earning a living mine is.”
+- ¶22 · **Jerry Cruncher** · *INFERRED* · “Well, well,”
+- ¶22 · **Jerry Cruncher** · *INFERRED* · “we all have our various ways of gaining a livelihood. Some of us have damp ways, and some of us hav
+- ¶23 · **Jerry Cruncher** · *NAMED* · “You are a lean old one, too,”
+- ¶24 · **Jerry Cruncher** · *INFERRED* · “Whatever is is right;”
+- ¶27 · **Jerry Cruncher** · *tag-pronoun* · “What’s on?”
+- ¶28 · **Jerry Cruncher** · *INFERRED* · “Nothing yet.”
+- ¶29 · **Jerry Cruncher** · *INFERRED* · “What’s coming on?”
+- ¶30 · **Jerry Cruncher** · *INFERRED* · “The Treason case.”
+- ¶31 · **Jerry Cruncher** · *INFERRED* · “The quartering one, eh?”
+- ¶32 · **Narrator (minor)** · *tag* · “Ah!”
+- ¶32 · **Narrator (minor)** · *tag* · “he’ll be drawn on a hurdle to be half hanged, and then he’ll be taken down and sliced before his ow
+- ¶33 · **Jerry Cruncher** · *tag* · “If he’s found Guilty, you mean to say?”
+- ¶34 · **Narrator (minor)** · *tag* · “Oh! they’ll find him guilty,”
+- ¶34 · **Narrator (minor)** · *tag* · “Don’t you be afraid of that.”
+- ¶36 · **Narrator (minor)** · *tag* · “What’s _he_ got to do with the case?”
+- ¶37 · **Jerry Cruncher** · *tag* · “Blest if I know,”
+- ¶38 · **Narrator (minor)** · *INFERRED* · “What have _you_ got to do with it, then, if a person may inquire?”
+- ¶39 · **Jerry Cruncher** · *tag* · “Blest if I know that either,”
+- ¶49 · **Narrator (minor)** · *INFERRED* · “Who are they?”
+- ¶51 · **Jerry Cruncher** · *INFERRED* · “Witnesses.”
+- ¶52 · **Narrator (minor)** · *INFERRED* · “For which side?”
+- ¶53 · **Jerry Cruncher** · *INFERRED* · “Against.”
+- ¶54 · **Narrator (minor)** · *INFERRED* · “Against what side?”
+- ¶55 · **Jerry Cruncher** · *INFERRED* · “The prisoner’s.”
+
+## Book 2, Chapter III — A Disappointment
+
+- ¶8 · **Narrator (minor)** · *INFERRED* · “Mr. Jarvis Lorry, are you a clerk in Tellson’s bank?”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “I am.”
+- ¶10 · **Narrator (minor)** · *INFERRED* · “On a certain Friday night in November one thousand seven hundred and seventy-five, did business occ
+- ¶11 · **Narrator (minor)** · *INFERRED* · “It did.”
+- ¶12 · **Narrator (minor)** · *INFERRED* · “Were there any other passengers in the mail?”
+- ¶13 · **Narrator (minor)** · *INFERRED* · “Two.”
+- ¶14 · **Narrator (minor)** · *INFERRED* · “Did they alight on the road in the course of the night?”
+- ¶15 · **Narrator (minor)** · *INFERRED* · “They did.”
+- ¶16 · **Narrator (minor)** · *INFERRED* · “Mr. Lorry, look upon the prisoner. Was he one of those two passengers?”
+- ¶17 · **Narrator (minor)** · *INFERRED* · “I cannot undertake to say that he was.”
+- ¶18 · **Narrator (minor)** · *INFERRED* · “Does he resemble either of these two passengers?”
+- ¶19 · **Narrator (minor)** · *INFERRED* · “Both were so wrapped up, and the night was so dark, and we were all so reserved, that I cannot unde
+- ¶20 · **Narrator (minor)** · *INFERRED* · “Mr. Lorry, look again upon the prisoner. Supposing him wrapped up as those two passengers were, is 
+- ¶21 · **Narrator (minor)** · *INFERRED* · “No.”
+- ¶22 · **Narrator (minor)** · *INFERRED* · “You will not swear, Mr. Lorry, that he was not one of them?”
+- ¶23 · **Narrator (minor)** · *INFERRED* · “No.”
+- ¶24 · **Narrator (minor)** · *INFERRED* · “So at least you say he may have been one of them?”
+- ¶25 · **Narrator (minor)** · *INFERRED* · “Yes. Except that I remember them both to have been--like myself--timorous of highwaymen, and the pr
+- ¶26 · **Narrator (minor)** · *INFERRED* · “Did you ever see a counterfeit of timidity, Mr. Lorry?”
+- ¶27 · **Narrator (minor)** · *INFERRED* · “I certainly have seen that.”
+- ¶28 · **Narrator (minor)** · *INFERRED* · “Mr. Lorry, look once more upon the prisoner. Have you seen him, to your certain knowledge, before?”
+- ¶29 · **Narrator (minor)** · *INFERRED* · “I have.”
+- ¶30 · **Narrator (minor)** · *INFERRED* · “When?”
+- ¶31 · **Narrator (minor)** · *INFERRED* · “I was returning from France a few days afterwards, and, at Calais, the prisoner came on board the p
+- ¶32 · **Narrator (minor)** · *INFERRED* · “At what hour did he come on board?”
+- ¶33 · **Narrator (minor)** · *INFERRED* · “At a little after midnight.”
+- ¶34 · **Narrator (minor)** · *INFERRED* · “In the dead of the night. Was he the only passenger who came on board at that untimely hour?”
+- ¶35 · **Narrator (minor)** · *INFERRED* · “He happened to be the only one.”
+- ¶36 · **Narrator (minor)** · *INFERRED* · “Never mind about ‘happening,’ Mr. Lorry. He was the only passenger who came on board in the dead of
+- ¶37 · **Narrator (minor)** · *INFERRED* · “He was.”
+- ¶38 · **Narrator (minor)** · *INFERRED* · “Were you travelling alone, Mr. Lorry, or with any companion?”
+- ¶39 · **Narrator (minor)** · *INFERRED* · “With two companions. A gentleman and lady. They are here.”
+- ¶40 · **Narrator (minor)** · *INFERRED* · “They are here. Had you any conversation with the prisoner?”
+- ¶41 · **Narrator (minor)** · *INFERRED* · “Hardly any. The weather was stormy, and the passage long and rough, and I lay on a sofa, almost fro
+- ¶42 · **Narrator (minor)** · *INFERRED* · “Miss Manette!”
+- ¶44 · **Narrator (minor)** · *INFERRED* · “Miss Manette, look upon the prisoner.”
+- ¶46 · **Narrator (minor)** · *INFERRED* · “Miss Manette, have you seen the prisoner before?”
+- ¶47 · **Narrator (minor)** · *INFERRED* · “Yes, sir.”
+- ¶48 · **Narrator (minor)** · *INFERRED* · “Where?”
+- ¶49 · **Narrator (minor)** · *INFERRED* · “On board of the packet-ship just now referred to, sir, and on the same occasion.”
+- ¶50 · **Narrator (minor)** · *INFERRED* · “You are the young lady just now referred to?”
+- ¶51 · **Narrator (minor)** · *INFERRED* · “O! most unhappily, I am!”
+- ¶52 · **Charles Darnay** · *PRONOUN* · “Answer the questions put to you, and make no remark upon them.”
+- ¶53 · **Narrator (minor)** · *INFERRED* · “Miss Manette, had you any conversation with the prisoner on that passage across the Channel?”
+- ¶54 · **Charles Darnay** · *INFERRED* · “Yes, sir.”
+- ¶55 · **Narrator (minor)** · *INFERRED* · “Recall it.”
+- ¶56 · **Lucie Manette** · *PRONOUN* · “When the gentleman came on board--”
+- ¶57 · **Narrator (minor)** · *INFERRED* · “Do you mean the prisoner?”
+- ¶58 · **Lucie Manette** · *INFERRED* · “Yes, my Lord.”
+- ¶59 · **Narrator (minor)** · *INFERRED* · “Then say the prisoner.”
+- ¶60 · **Lucie Manette** · *INFERRED* · “When the prisoner came on board, he noticed that my father,”
+- ¶60 · **Lucie Manette** · *INFERRED* · “was much fatigued and in a very weak state of health. My father was so reduced that I was afraid to
+- ¶61 · **Narrator (minor)** · *INFERRED* · “Let me interrupt you for a moment. Had he come on board alone?”
+- ¶62 · **Lucie Manette** · *INFERRED* · “No.”
+- ¶63 · **Narrator (minor)** · *INFERRED* · “How many were with him?”
+- ¶64 · **Lucie Manette** · *INFERRED* · “Two French gentlemen.”
+- ¶65 · **Narrator (minor)** · *INFERRED* · “Had they conferred together?”
+- ¶66 · **Lucie Manette** · *INFERRED* · “They had conferred together until the last moment, when it was necessary for the French gentlemen t
+- ¶67 · **Narrator (minor)** · *INFERRED* · “Had any papers been handed about among them, similar to these lists?”
+- ¶68 · **Lucie Manette** · *INFERRED* · “Some papers had been handed about among them, but I don’t know what papers.”
+- ¶69 · **Narrator (minor)** · *INFERRED* · “Like these in shape and size?”
+- ¶70 · **Lucie Manette** · *INFERRED* · “Possibly, but indeed I don’t know, although they stood whispering very near to me: because they sto
+- ¶71 · **Narrator (minor)** · *INFERRED* · “Now, to the prisoner’s conversation, Miss Manette.”
+- ¶72 · **Lucie Manette** · *INFERRED* · “The prisoner was as open in his confidence with me--which arose out of my helpless situation--as he
+- ¶72 · **Lucie Manette** · *INFERRED* · “I may not repay him by doing him harm to-day.”
+- ¶74 · **Narrator (minor)** · *INFERRED* · “Miss Manette, if the prisoner does not perfectly understand that you give the evidence which it is 
+- ¶75 · **Lucie Manette** · *INFERRED* · “He told me that he was travelling on business of a delicate and difficult nature, which might get p
+- ¶76 · **Narrator (minor)** · *INFERRED* · “Did he say anything about America, Miss Manette? Be particular.”
+- ¶77 · **Lucie Manette** · *INFERRED* · “He tried to explain to me how that quarrel had arisen, and he said that, so far as he could judge, 
+- ¶80 · **Narrator (minor)** · *INFERRED* · “Doctor Manette, look upon the prisoner. Have you ever seen him before?”
+- ¶81 · **Lucie Manette** · *INFERRED* · “Once. When he called at my lodgings in London. Some three years, or three years and a half ago.”
+- ¶82 · **Narrator (minor)** · *INFERRED* · “Can you identify him as your fellow-passenger on board the packet, or speak to his conversation wit
+- ¶83 · **Lucie Manette** · *INFERRED* · “Sir, I can do neither.”
+- ¶84 · **Narrator (minor)** · *INFERRED* · “Is there any particular and special reason for your being unable to do either?”
+- ¶85 · **Charles Darnay** · *PRONOUN* · “There is.”
+- ¶86 · **Narrator (minor)** · *INFERRED* · “Has it been your misfortune to undergo a long imprisonment, without trial, or even accusation, in y
+- ¶87 · **Doctor Manette** · *PRONOUN* · “A long imprisonment.”
+- ¶88 · **Narrator (minor)** · *INFERRED* · “Were you newly released on the occasion in question?”
+- ¶89 · **Doctor Manette** · *INFERRED* · “They tell me so.”
+- ¶90 · **Narrator (minor)** · *INFERRED* · “Have you no remembrance of the occasion?”
+- ¶91 · **Doctor Manette** · *INFERRED* · “None. My mind is a blank, from some time--I cannot even say what time--when I employed myself, in m
+- ¶94 · **Narrator (minor)** · *INFERRED* · “You say again you are quite sure that it was the prisoner?”
+- ¶96 · **Doctor Manette** · *INFERRED* · “Did you ever see anybody very like the prisoner?”
+- ¶98 · **Narrator (minor)** · *INFERRED* · “Look well upon that gentleman, my learned friend there,”
+- ¶98 · **Narrator (minor)** · *INFERRED* · “and then look well upon the prisoner. How say you? Are they very like each other?”
+- ¶103 · **Jerry Cruncher** · *NAMED* · “I’d hold half a guinea that _he_ don’t get no law-work to do. Don’t look like the sort of one to ge
+- ¶104 · **Sydney Carton** · *NAMED* · “Officer! look to that young lady. Help the gentleman to take her out. Don’t you see she will fall!”
+- ¶108 · **Jerry Cruncher** · *INFERRED* · “Jerry, if you wish to take something to eat, you can. But, keep in the way. You will be sure to hea
+- ¶110 · **Sydney Carton** · *INFERRED* · “How is the young lady?”
+- ¶111 · **Jerry Cruncher** · *INFERRED* · “She is greatly distressed; but her father is comforting her, and she feels the better for being out
+- ¶112 · **Sydney Carton** · *INFERRED* · “I’ll tell the prisoner so. It won’t do for a respectable bank gentleman like you, to be seen speaki
+- ¶114 · **Jerry Cruncher** · *INFERRED* · “Mr. Darnay!”
+- ¶116 · **Sydney Carton** · *INFERRED* · “You will naturally be anxious to hear of the witness, Miss Manette. She will do very well. You have
+- ¶117 · **Jerry Cruncher** · *INFERRED* · “I am deeply sorry to have been the cause of it. Could you tell her so for me, with my fervent ackno
+- ¶118 · **Sydney Carton** · *INFERRED* · “Yes, I could. I will, if you ask it.”
+- ¶120 · **Jerry Cruncher** · *INFERRED* · “I do ask it. Accept my cordial thanks.”
+- ¶121 · **Sydney Carton** · *tag* · “What,”
+- ¶121 · **Sydney Carton** · *tag* · “do you expect, Mr. Darnay?”
+- ¶122 · **Jerry Cruncher** · *INFERRED* · “The worst.”
+- ¶123 · **Sydney Carton** · *INFERRED* · “It’s the wisest thing to expect, and the likeliest. But I think their withdrawing is in your favour
+- ¶126 · **Jerry Cruncher** · *INFERRED* · “Jerry! Jerry!”
+- ¶127 · **Sydney Carton** · *INFERRED* · “Here, sir! It’s a fight to get back again. Here I am, sir!”
+- ¶128 · **Jerry Cruncher** · *INFERRED* · “Quick! Have you got it?”
+- ¶129 · **Sydney Carton** · *INFERRED* · “Yes, sir.”
+- ¶130 · **Jerry Cruncher** · *INFERRED* · “ACQUITTED.”
+- ¶131 · **Jerry Cruncher** · *tag* · “If you had sent the message, ‘Recalled to Life,’ again,”
+- ¶131 · **Jerry Cruncher** · *tag* · “I should have known what you meant, this time.”
+
+## Book 2, Chapter IV — Congratulatory
+
+- ¶6 · **Jarvis Lorry** · *NAMED* · “I am glad to have brought you off with honour, Mr. Darnay. It was an infamous prosecution, grossly 
+- ¶7 · **Jarvis Lorry** · *INFERRED* · “You have laid me under an obligation to you for life--in two senses,”
+- ¶8 · **Jarvis Lorry** · *INFERRED* · “I have done my best for you, Mr. Darnay; and my best is as good as another man’s, I believe.”
+- ¶9 · **Jarvis Lorry** · *tag* · “Much better,”
+- ¶10 · **Stryver** · *tag* · “You think so?”
+- ¶10 · **Stryver** · *tag* · “Well! you have been present all day, and you ought to know. You are a man of business, too.”
+- ¶11 · **Jarvis Lorry** · *INFERRED* · “And as such,”
+- ¶11 · **Jarvis Lorry** · *INFERRED* · “as such I will appeal to Doctor Manette, to break up this conference and order us all to our homes.
+- ¶12 · **Stryver** · *tag* · “Speak for yourself, Mr. Lorry,”
+- ¶12 · **Stryver** · *tag* · “I have a night’s work to do yet. Speak for yourself.”
+- ¶13 · **Jarvis Lorry** · *tag* · “I speak for myself,”
+- ¶13 · **Jarvis Lorry** · *tag* · “and for Mr. Darnay, and for Miss Lucie, and--Miss Lucie, do you not think I may speak for us all?”
+- ¶15 · **Lucie Manette** · *tag* · “My father,”
+- ¶17 · **Jarvis Lorry** · *INFERRED* · “Shall we go home, my father?”
+- ¶18 · **Jarvis Lorry** · *PRONOUN* · “Yes.”
+- ¶21 · **Lucie Manette** · *INFERRED* · “So, Mr. Lorry! Men of business may speak to Mr. Darnay now?”
+- ¶23 · **Jarvis Lorry** · *INFERRED* · “If you knew what a conflict goes on in the business mind, when the business mind is divided between
+- ¶24 · **Jarvis Lorry** · *NAMED* · “You have mentioned that before, sir. We men of business, who serve a House, are not our own masters
+- ¶25 · **Sydney Carton** · *tag* · “_I_ know, _I_ know,”
+- ¶25 · **Sydney Carton** · *tag* · “Don’t be nettled, Mr. Lorry. You are as good as another, I have no doubt: better, I dare say.”
+- ¶26 · **Jarvis Lorry** · *tag* · “And indeed, sir,”
+- ¶26 · **Jarvis Lorry** · *tag* · “I really don’t know what you have to do with the matter. If you’ll excuse me, as very much your eld
+- ¶27 · **Sydney Carton** · *tag* · “Business! Bless you, _I_ have no business,”
+- ¶28 · **Jarvis Lorry** · *INFERRED* · “It is a pity you have not, sir.”
+- ¶29 · **Sydney Carton** · *INFERRED* · “I think so, too.”
+- ¶30 · **Jarvis Lorry** · *tag* · “If you had,”
+- ¶30 · **Jarvis Lorry** · *tag* · “perhaps you would attend to it.”
+- ¶31 · **Sydney Carton** · *tag* · “Lord love you, no!--I shouldn’t,”
+- ¶32 · **Jarvis Lorry** · *tag* · “Well, sir!”
+- ¶32 · **Jarvis Lorry** · *tag* · “business is a very good thing, and a very respectable thing. And, sir, if business imposes its rest
+- ¶34 · **Sydney Carton** · *INFERRED* · “This is a strange chance that throws you and me together. This must be a strange night to you, stan
+- ¶35 · **Charles Darnay** · *tag* · “I hardly seem yet,”
+- ¶35 · **Charles Darnay** · *tag* · “to belong to this world again.”
+- ¶36 · **Sydney Carton** · *INFERRED* · “I don’t wonder at it; it’s not so long since you were pretty far advanced on your way to another. Y
+- ¶37 · **Charles Darnay** · *INFERRED* · “I begin to think I _am_ faint.”
+- ¶38 · **Sydney Carton** · *INFERRED* · “Then why the devil don’t you dine? I dined, myself, while those numskulls were deliberating which w
+- ¶40 · **Charles Darnay** · *INFERRED* · “Do you feel, yet, that you belong to this terrestrial scheme again, Mr. Darnay?”
+- ¶41 · **Sydney Carton** · *INFERRED* · “I am frightfully confused regarding time and place; but I am so far mended as to feel that.”
+- ¶42 · **Charles Darnay** · *INFERRED* · “It must be an immense satisfaction!”
+- ¶44 · **Sydney Carton** · *INFERRED* · “As to me, the greatest desire I have, is to forget that I belong to it. It has no good in it for me
+- ¶46 · **Charles Darnay** · *INFERRED* · “Now your dinner is done,”
+- ¶46 · **Charles Darnay** · *INFERRED* · “why don’t you call a health, Mr. Darnay; why don’t you give your toast?”
+- ¶47 · **Sydney Carton** · *INFERRED* · “What health? What toast?”
+- ¶48 · **Charles Darnay** · *INFERRED* · “Why, it’s on the tip of your tongue. It ought to be, it must be, I’ll swear it’s there.”
+- ¶49 · **Sydney Carton** · *INFERRED* · “Miss Manette, then!”
+- ¶50 · **Charles Darnay** · *INFERRED* · “Miss Manette, then!”
+- ¶52 · **Sydney Carton** · *tag-pronoun* · “That’s a fair young lady to hand to a coach in the dark, Mr. Darnay!”
+- ¶53 · **Charles Darnay** · *INFERRED* · “Yes,”
+- ¶54 · **Sydney Carton** · *INFERRED* · “That’s a fair young lady to be pitied by and wept for by! How does it feel? Is it worth being tried
+- ¶56 · **Charles Darnay** · *INFERRED* · “She was mightily pleased to have your message, when I gave it her. Not that she showed she was plea
+- ¶58 · **Sydney Carton** · *INFERRED* · “I neither want any thanks, nor merit any,”
+- ¶58 · **Sydney Carton** · *INFERRED* · “It was nothing to do, in the first place; and I don’t know why I did it, in the second. Mr. Darnay,
+- ¶59 · **Charles Darnay** · *INFERRED* · “Willingly, and a small return for your good offices.”
+- ¶60 · **Sydney Carton** · *INFERRED* · “Do you think I particularly like you?”
+- ¶61 · **Narrator (minor)** · *tag* · “Really, Mr. Carton,”
+- ¶61 · **Narrator (minor)** · *tag* · “I have not asked myself the question.”
+- ¶62 · **Sydney Carton** · *INFERRED* · “But ask yourself the question now.”
+- ¶63 · **Narrator (minor)** · *INFERRED* · “You have acted as if you do; but I don’t think you do.”
+- ¶64 · **Sydney Carton** · *tag* · “_I_ don’t think I do,”
+- ¶64 · **Sydney Carton** · *tag* · “I begin to have a very good opinion of your understanding.”
+- ¶65 · **Charles Darnay** · *tag* · “Nevertheless,”
+- ¶65 · **Charles Darnay** · *tag* · “there is nothing in that, I hope, to prevent my calling the reckoning, and our parting without ill-
+- ¶66 · **Sydney Carton** · *tag* · “Nothing in life!”
+- ¶66 · **Sydney Carton** · *tag* · “Do you call the whole reckoning?”
+- ¶66 · **Sydney Carton** · *tag* · “Then bring me another pint of this same wine, drawer, and come and wake me at ten.”
+- ¶67 · **Sydney Carton** · *NAMED* · “A last word, Mr. Darnay: you think I am drunk?”
+- ¶68 · **Charles Darnay** · *INFERRED* · “I think you have been drinking, Mr. Carton.”
+- ¶69 · **Sydney Carton** · *INFERRED* · “Think? You know I have been drinking.”
+- ¶70 · **Charles Darnay** · *INFERRED* · “Since I must say so, I know it.”
+- ¶71 · **Sydney Carton** · *INFERRED* · “Then you shall likewise know why. I am a disappointed drudge, sir. I care for no man on earth, and 
+- ¶72 · **Charles Darnay** · *INFERRED* · “Much to be regretted. You might have used your talents better.”
+- ¶73 · **Sydney Carton** · *INFERRED* · “May be so, Mr. Darnay; may be not. Don’t let your sober face elate you, however; you don’t know wha
+- ¶75 · **Sydney Carton** · *tag-pronoun* · “Do you particularly like the man?”
+- ¶75 · **Sydney Carton** · *tag-pronoun* · “why should you particularly like a man who resembles you? There is nothing in you to like; you know
+
+## Book 2, Chapter V — The Jackal
+
+- ¶6 · **Narrator (minor)** · *tag* · “Ten o’clock, sir,”
+- ¶6 · **Narrator (minor)** · *tag* · “ten o’clock, sir.”
+- ¶7 · **Narrator (minor)** · *INFERRED* · “_What’s_ the matter?”
+- ¶8 · **Narrator (minor)** · *INFERRED* · “Ten o’clock, sir.”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “What do you mean? Ten o’clock at night?”
+- ¶10 · **Narrator (minor)** · *INFERRED* · “Yes, sir. Your honour told me to call you.”
+- ¶11 · **Narrator (minor)** · *INFERRED* · “Oh! I remember. Very well, very well.”
+- ¶14 · **Stryver** · *tag* · “You are a little late, Memory,”
+- ¶15 · **Narrator (minor)** · *INFERRED* · “About the usual time; it may be a quarter of an hour later.”
+- ¶17 · **Stryver** · *INFERRED* · “You have had your bottle, I perceive, Sydney.”
+- ¶18 · **Narrator (minor)** · *INFERRED* · “Two to-night, I think. I have been dining with the day’s client; or seeing him dine--it’s all one!”
+- ¶19 · **Stryver** · *INFERRED* · “That was a rare point, Sydney, that you brought to bear upon the identification. How did you come b
+- ¶20 · **Narrator (minor)** · *INFERRED* · “I thought he was rather a handsome fellow, and I thought I should have been much the same sort of f
+- ¶22 · **Stryver** · *INFERRED* · “You and your luck, Sydney! Get to work, get to work.”
+- ¶23 · **Stryver** · *PRONOUN* · “Now I am ready!”
+- ¶24 · **Stryver** · *tag* · “Not much boiling down to be done to-night, Memory,”
+- ¶25 · **Narrator (minor)** · *INFERRED* · “How much?”
+- ¶26 · **Stryver** · *INFERRED* · “Only two sets of them.”
+- ¶27 · **Narrator (minor)** · *INFERRED* · “Give me the worst first.”
+- ¶28 · **Stryver** · *INFERRED* · “There they are, Sydney. Fire away!”
+- ¶31 · **Stryver** · *tag* · “And now we have done, Sydney, fill a bumper of punch,”
+- ¶33 · **Narrator (minor)** · *INFERRED* · “You were very sound, Sydney, in the matter of those crown witnesses to-day. Every question told.”
+- ¶34 · **Stryver** · *INFERRED* · “I always am sound; am I not?”
+- ¶35 · **Narrator (minor)** · *INFERRED* · “I don’t gainsay it. What has roughened your temper? Put some punch to it and smooth it again.”
+- ¶37 · **Stryver** · *tag* · “The old Sydney Carton of old Shrewsbury School,”
+- ¶37 · **Stryver** · *tag* · “the old seesaw Sydney. Up one minute and down the next; now in spirits and now in despondency!”
+- ¶38 · **Narrator (minor)** · *tag* · “Ah!”
+- ¶38 · **Narrator (minor)** · *tag* · “yes! The same Sydney, with the same luck. Even then, I did exercises for other boys, and seldom did
+- ¶39 · **Stryver** · *INFERRED* · “And why not?”
+- ¶40 · **Narrator (minor)** · *INFERRED* · “God knows. It was my way, I suppose.”
+- ¶42 · **Stryver** · *INFERRED* · “Carton,”
+- ¶42 · **Stryver** · *INFERRED* · “your way is, and always was, a lame way. You summon no energy and purpose. Look at me.”
+- ¶43 · **Sydney Carton** · *tag* · “Oh, botheration!”
+- ¶43 · **Sydney Carton** · *tag* · “don’t _you_ be moral!”
+- ¶44 · **Stryver** · *tag* · “How have I done what I have done?”
+- ¶44 · **Stryver** · *tag* · “how do I do what I do?”
+- ¶45 · **Sydney Carton** · *INFERRED* · “Partly through paying me to help you, I suppose. But it’s not worth your while to apostrophise me, 
+- ¶46 · **Stryver** · *INFERRED* · “I had to get into the front rank; I was not born there, was I?”
+- ¶47 · **Sydney Carton** · *tag* · “I was not present at the ceremony; but my opinion is you were,”
+- ¶48 · **Sydney Carton** · *tag* · “Before Shrewsbury, and at Shrewsbury, and ever since Shrewsbury,”
+- ¶48 · **Sydney Carton** · *tag* · “you have fallen into your rank, and I have fallen into mine. Even when we were fellow-students in t
+- ¶49 · **Stryver** · *INFERRED* · “And whose fault was that?”
+- ¶50 · **Sydney Carton** · *INFERRED* · “Upon my soul, I am not sure that it was not yours. You were always driving and riving and shoulderi
+- ¶51 · **Stryver** · *tag* · “Well then! Pledge me to the pretty witness,”
+- ¶51 · **Stryver** · *tag* · “Are you turned in a pleasant direction?”
+- ¶53 · **Stryver** · *tag-pronoun* · “Pretty witness,”
+- ¶53 · **Stryver** · *tag-pronoun* · “I have had enough of witnesses to-day and to-night; who’s your pretty witness?”
+- ¶54 · **Sydney Carton** · *INFERRED* · “The picturesque doctor’s daughter, Miss Manette.”
+- ¶55 · **Stryver** · *INFERRED* · “_She_ pretty?”
+- ¶56 · **Sydney Carton** · *INFERRED* · “Is she not?”
+- ¶57 · **Stryver** · *INFERRED* · “No.”
+- ¶58 · **Sydney Carton** · *INFERRED* · “Why, man alive, she was the admiration of the whole Court!”
+- ¶59 · **Stryver** · *INFERRED* · “Rot the admiration of the whole Court! Who made the Old Bailey a judge of beauty? She was a golden-
+- ¶60 · **Stryver** · *tag* · “Do you know, Sydney,”
+- ¶60 · **Stryver** · *tag* · “do you know, I rather thought, at the time, that you sympathised with the golden-haired doll, and w
+- ¶61 · **Sydney Carton** · *INFERRED* · “Quick to see what happened! If a girl, doll or no doll, swoons within a yard or two of a man’s nose
+
+## Book 2, Chapter VI — Hundreds of People
+
+- ¶9 · **Narrator (minor)** · *INFERRED* · “Doctor Manette at home?”
+- ¶11 · **Narrator (minor)** · *INFERRED* · “Miss Lucie at home?”
+- ¶13 · **Narrator (minor)** · *INFERRED* · “Miss Pross at home?”
+- ¶15 · **Jarvis Lorry** · *tag* · “As I am at home myself,”
+- ¶15 · **Jarvis Lorry** · *tag* · “I’ll go upstairs.”
+- ¶18 · **Jarvis Lorry** · *tag* · “I wonder,”
+- ¶18 · **Jarvis Lorry** · *tag* · “that he keeps that reminder of his sufferings about him!”
+- ¶19 · **Narrator (minor)** · *INFERRED* · “And why wonder at that?”
+- ¶21 · **Jarvis Lorry** · *tag* · “I should have thought--”
+- ¶22 · **Miss Pross** · *tag* · “Pooh! You’d have thought!”
+- ¶23 · **Jarvis Lorry** · *INFERRED* · “How do you do?”
+- ¶24 · **Jarvis Lorry** · *tag* · “I am pretty well, I thank you,”
+- ¶24 · **Jarvis Lorry** · *tag* · “how are you?”
+- ¶25 · **Miss Pross** · *tag* · “Nothing to boast of,”
+- ¶26 · **Jarvis Lorry** · *INFERRED* · “Indeed?”
+- ¶27 · **Miss Pross** · *tag* · “Ah! indeed!”
+- ¶27 · **Miss Pross** · *tag* · “I am very much put out about my Ladybird.”
+- ¶28 · **Jarvis Lorry** · *INFERRED* · “Indeed?”
+- ¶29 · **Miss Pross** · *tag* · “For gracious sake say something else besides ‘indeed,’ or you’ll fidget me to death,”
+- ¶30 · **Jarvis Lorry** · *tag* · “Really, then?”
+- ¶31 · **Miss Pross** · *tag* · “Really, is bad enough,”
+- ¶31 · **Miss Pross** · *tag* · “but better. Yes, I am very much put out.”
+- ¶32 · **Jarvis Lorry** · *INFERRED* · “May I ask the cause?”
+- ¶33 · **Miss Pross** · *tag* · “I don’t want dozens of people who are not at all worthy of Ladybird, to come here looking after her
+- ¶34 · **Jarvis Lorry** · *INFERRED* · “_Do_ dozens come for that purpose?”
+- ¶35 · **Miss Pross** · *tag* · “Hundreds,”
+- ¶37 · **Jarvis Lorry** · *tag* · “Dear me!”
+- ¶38 · **Miss Pross** · *tag* · “I have lived with the darling--or the darling has lived with me, and paid me for it; which she cert
+- ¶40 · **Miss Pross** · *tag* · “All sorts of people who are not in the least degree worthy of the pet, are always turning up,”
+- ¶40 · **Miss Pross** · *tag* · “When you began it--”
+- ¶41 · **Jarvis Lorry** · *INFERRED* · “_I_ began it, Miss Pross?”
+- ¶42 · **Miss Pross** · *INFERRED* · “Didn’t you? Who brought her father to life?”
+- ¶43 · **Jarvis Lorry** · *tag* · “Oh! If _that_ was beginning it--”
+- ¶44 · **Miss Pross** · *INFERRED* · “It wasn’t ending it, I suppose? I say, when you began it, it was hard enough; not that I have any f
+- ¶46 · **Miss Pross** · *tag* · “There never was, nor will be, but one man worthy of Ladybird,”
+- ¶46 · **Miss Pross** · *tag* · “and that was my brother Solomon, if he hadn’t made a mistake in life.”
+- ¶48 · **Jarvis Lorry** · *tag-pronoun* · “As we happen to be alone for the moment, and are both people of business,”
+- ¶48 · **Jarvis Lorry** · *tag-pronoun* · “let me ask you--does the Doctor, in talking with Lucie, never refer to the shoemaking time, yet?”
+- ¶49 · **Miss Pross** · *INFERRED* · “Never.”
+- ¶50 · **Jarvis Lorry** · *INFERRED* · “And yet keeps that bench and those tools beside him?”
+- ¶51 · **Miss Pross** · *tag* · “Ah!”
+- ¶51 · **Miss Pross** · *tag* · “But I don’t say he don’t refer to it within himself.”
+- ¶52 · **Jarvis Lorry** · *INFERRED* · “Do you believe that he thinks of it much?”
+- ¶53 · **Miss Pross** · *tag* · “I do,”
+- ¶54 · **Jarvis Lorry** · *INFERRED* · “Do you imagine--”
+- ¶55 · **Miss Pross** · *INFERRED* · “Never imagine anything. Have no imagination at all.”
+- ¶56 · **Jarvis Lorry** · *INFERRED* · “I stand corrected; do you suppose--you go so far as to suppose, sometimes?”
+- ¶57 · **Miss Pross** · *tag* · “Now and then,”
+- ¶58 · **Jarvis Lorry** · *tag* · “Do you suppose,”
+- ¶58 · **Jarvis Lorry** · *tag* · “that Doctor Manette has any theory of his own, preserved through all those years, relative to the c
+- ¶59 · **Miss Pross** · *INFERRED* · “I don’t suppose anything about it but what Ladybird tells me.”
+- ¶60 · **Jarvis Lorry** · *INFERRED* · “And that is--?”
+- ¶61 · **Miss Pross** · *INFERRED* · “That she thinks he has.”
+- ¶62 · **Jarvis Lorry** · *INFERRED* · “Now don’t be angry at my asking all these questions; because I am a mere dull man of business, and 
+- ¶63 · **Miss Pross** · *tag* · “Dull?”
+- ¶64 · **Jarvis Lorry** · *NAMED* · “No, no, no. Surely not. To return to business:--Is it not remarkable that Doctor Manette, unquestio
+- ¶65 · **Miss Pross** · *tag* · “Well! To the best of my understanding, and bad’s the best, you’ll tell me,”
+- ¶65 · **Miss Pross** · *tag* · “he is afraid of the whole subject.”
+- ¶66 · **Jarvis Lorry** · *INFERRED* · “Afraid?”
+- ¶67 · **Miss Pross** · *INFERRED* · “It’s plain enough, I should think, why he may be. It’s a dreadful remembrance. Besides that, his lo
+- ¶68 · **Jarvis Lorry** · *tag-pronoun* · “True,”
+- ¶68 · **Jarvis Lorry** · *tag-pronoun* · “and fearful to reflect upon. Yet, a doubt lurks in my mind, Miss Pross, whether it is good for Doct
+- ¶69 · **Miss Pross** · *tag* · “Can’t be helped,”
+- ¶69 · **Miss Pross** · *tag* · “Touch that string, and he instantly changes for the worse. Better leave it alone. In short, must le
+- ¶72 · **Miss Pross** · *tag* · “Here they are!”
+- ¶72 · **Miss Pross** · *tag* · “and now we shall have hundreds of people pretty soon!”
+- ¶79 · **Lucie Manette** · *PRONOUN* · “a fit of the jerks.”
+- ¶81 · **Charles Darnay** · *tag* · “Pray, Doctor Manette,”
+- ¶81 · **Charles Darnay** · *tag* · “have you seen much of the Tower?”
+- ¶82 · **Lucie Manette** · *INFERRED* · “Lucie and I have been there; but only casually. We have seen enough of it, to know that it teems wi
+- ¶83 · **Charles Darnay** · *tag* · “_I_ have been there, as you remember,”
+- ¶83 · **Charles Darnay** · *tag* · “in another character, and not in a character that gives facilities for seeing much of it. They told
+- ¶84 · **Lucie Manette** · *tag* · “What was that?”
+- ¶85 · **Charles Darnay** · *INFERRED* · “In making some alterations, the workmen came upon an old dungeon, which had been, for many years, b
+- ¶86 · **Lucie Manette** · *tag* · “My father,”
+- ¶86 · **Lucie Manette** · *tag* · “you are ill!”
+- ¶88 · **Charles Darnay** · *INFERRED* · “No, my dear, not ill. There are large drops of rain falling, and they made me start. We had better 
+- ¶93 · **Doctor Manette** · *tag* · “The rain-drops are still falling, large, heavy, and few,”
+- ¶93 · **Doctor Manette** · *tag* · “It comes slowly.”
+- ¶94 · **Sydney Carton** · *tag* · “It comes surely,”
+- ¶97 · **Charles Darnay** · *tag* · “A multitude of people, and yet a solitude!”
+- ¶98 · **Lucie Manette** · *tag* · “Is it not impressive, Mr. Darnay?”
+- ¶98 · **Lucie Manette** · *tag* · “Sometimes, I have sat here of an evening, until I have fancied--but even the shade of a foolish fan
+- ¶99 · **Charles Darnay** · *INFERRED* · “Let us shudder too. We may know what it is.”
+- ¶100 · **Lucie Manette** · *INFERRED* · “It will seem nothing to you. Such whims are only impressive as we originate them, I think; they are
+- ¶101 · **Sydney Carton** · *tag* · “There is a great crowd coming one day into our lives, if that be so,”
+- ¶103 · **Lucie Manette** · *INFERRED* · “Are all these footsteps destined to come to all of us, Miss Manette, or are we to divide them among
+- ¶104 · **Sydney Carton** · *INFERRED* · “I don’t know, Mr. Darnay; I told you it was a foolish fancy, but you asked for it. When I have yiel
+- ¶105 · **Sydney Carton** · *tag* · “I take them into mine!”
+- ¶105 · **Sydney Carton** · *tag* · “_I_ ask no questions and make no stipulations. There is a great crowd bearing down upon us, Miss Ma
+- ¶106 · **Sydney Carton** · *tag-pronoun* · “And I hear them!”
+- ¶106 · **Sydney Carton** · *tag-pronoun* · “Here they come, fast, fierce, and furious!”
+- ¶109 · **Jarvis Lorry** · *tag* · “What a night it has been! Almost a night, Jerry,”
+- ¶109 · **Jarvis Lorry** · *tag* · “to bring the dead out of their graves.”
+- ¶110 · **Jerry Cruncher** · *tag* · “I never see the night myself, master--nor yet I don’t expect to--what would do that,”
+- ¶111 · **Narrator (minor)** · *tag* · “Good night, Mr. Carton,”
+- ¶111 · **Narrator (minor)** · *tag* · “Good night, Mr. Darnay. Shall we ever see such a night again, together!”
+
+## Book 2, Chapter VII — Monseigneur in Town
+
+- ¶5 · **Narrator (minor)** · *INFERRED* · “The earth and the fulness thereof are mine, saith Monseigneur.”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “the Centre of Truth:”
+- ¶11 · **Narrator (minor)** · *INFERRED* · “frizzled, powdered, in a gold-laced coat, pumps, and white silk stockings.”
+- ¶15 · **Narrator (minor)** · *INFERRED* · “I devote you,”
+- ¶15 · **Narrator (minor)** · *INFERRED* · “to the Devil!”
+- ¶21 · **Narrator (minor)** · *INFERRED* · “What has gone wrong?”
+- ¶23 · **Narrator (minor)** · *INFERRED* · “Pardon, Monsieur the Marquis!”
+- ¶23 · **Narrator (minor)** · *INFERRED* · “it is a child.”
+- ¶24 · **Narrator (minor)** · *INFERRED* · “Why does he make that abominable noise? Is it his child?”
+- ¶25 · **Narrator (minor)** · *INFERRED* · “Excuse me, Monsieur the Marquis--it is a pity--yes.”
+- ¶27 · **Narrator (minor)** · *INFERRED* · “Killed!”
+- ¶27 · **Narrator (minor)** · *INFERRED* · “Dead!”
+- ¶30 · **The Marquis St. Evrémonde** · *tag-pronoun* · “It is extraordinary to me,”
+- ¶30 · **The Marquis St. Evrémonde** · *tag-pronoun* · “that you people cannot take care of yourselves and your children. One or the other of you is for ev
+- ¶31 · **Narrator (minor)** · *INFERRED* · “Dead!”
+- ¶33 · **The Marquis St. Evrémonde** · *INFERRED* · “I know all, I know all,”
+- ¶33 · **The Marquis St. Evrémonde** · *INFERRED* · “Be a brave man, my Gaspard! It is better for the poor little plaything to die so, than to live. It 
+- ¶34 · **The Marquis St. Evrémonde** · *tag* · “You are a philosopher, you there,”
+- ¶34 · **The Marquis St. Evrémonde** · *tag* · “How do they call you?”
+- ¶35 · **Narrator (minor)** · *INFERRED* · “They call me Defarge.”
+- ¶36 · **The Marquis St. Evrémonde** · *INFERRED* · “Of what trade?”
+- ¶37 · **Narrator (minor)** · *INFERRED* · “Monsieur the Marquis, vendor of wine.”
+- ¶38 · **The Marquis St. Evrémonde** · *tag* · “Pick up that, philosopher and vendor of wine,”
+- ¶38 · **The Marquis St. Evrémonde** · *tag* · “and spend it as you will. The horses there; are they right?”
+- ¶40 · **The Marquis St. Evrémonde** · *tag* · “Hold!”
+- ¶40 · **The Marquis St. Evrémonde** · *tag* · “Hold the horses! Who threw that?”
+- ¶42 · **The Marquis St. Evrémonde** · *tag* · “You dogs!”
+- ¶42 · **The Marquis St. Evrémonde** · *tag* · “I would ride over any of you very willingly, and exterminate you from the earth. If I knew which ra
+- ¶43 · **Narrator (minor)** · *INFERRED* · “Go on!”
+
+## Book 2, Chapter VIII — Monseigneur in the Country
+
+- ¶4 · **The Marquis St. Evrémonde** · *tag* · “It will die out,”
+- ¶4 · **The Marquis St. Evrémonde** · *tag* · “directly.”
+- ¶11 · **The Marquis St. Evrémonde** · *tag* · “Bring me hither that fellow!”
+- ¶13 · **The Marquis St. Evrémonde** · *INFERRED* · “I passed you on the road?”
+- ¶14 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, it is true. I had the honour of being passed on the road.”
+- ¶15 · **The Marquis St. Evrémonde** · *INFERRED* · “Coming up the hill, and at the top of the hill, both?”
+- ¶16 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, it is true.”
+- ¶17 · **The Marquis St. Evrémonde** · *INFERRED* · “What did you look at, so fixedly?”
+- ¶18 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, I looked at the man.”
+- ¶20 · **The Marquis St. Evrémonde** · *INFERRED* · “What man, pig? And why look there?”
+- ¶21 · **The Marquis St. Evrémonde** · *INFERRED* · “Pardon, Monseigneur; he swung by the chain of the shoe--the drag.”
+- ¶22 · **The Marquis St. Evrémonde** · *INFERRED* · “Who?”
+- ¶23 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, the man.”
+- ¶24 · **The Marquis St. Evrémonde** · *INFERRED* · “May the Devil carry away these idiots! How do you call the man? You know all the men of this part o
+- ¶25 · **The Marquis St. Evrémonde** · *INFERRED* · “Your clemency, Monseigneur! He was not of this part of the country. Of all the days of my life, I n
+- ¶26 · **The Marquis St. Evrémonde** · *INFERRED* · “Swinging by the chain? To be suffocated?”
+- ¶27 · **The Marquis St. Evrémonde** · *INFERRED* · “With your gracious permission, that was the wonder of it, Monseigneur. His head hanging over--like 
+- ¶29 · **The Marquis St. Evrémonde** · *INFERRED* · “What was he like?”
+- ¶30 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, he was whiter than the miller. All covered with dust, white as a spectre, tall as a sp
+- ¶32 · **The Marquis St. Evrémonde** · *tag* · “Truly, you did well,”
+- ¶32 · **The Marquis St. Evrémonde** · *tag* · “to see a thief accompanying my carriage, and not open that great mouth of yours. Bah! Put him aside
+- ¶34 · **Narrator (minor)** · *tag* · “Bah! Go aside!”
+- ¶35 · **The Marquis St. Evrémonde** · *INFERRED* · “Lay hands on this stranger if he seeks to lodge in your village to-night, and be sure that his busi
+- ¶36 · **Narrator (minor)** · *INFERRED* · “Monseigneur, I am flattered to devote myself to your orders.”
+- ¶37 · **The Marquis St. Evrémonde** · *INFERRED* · “Did he run away, fellow?--where is that Accursed?”
+- ¶39 · **Narrator (minor)** · *INFERRED* · “Did the man run away, Dolt, when we stopped for the drag?”
+- ¶40 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, he precipitated himself over the hill-side, head first, as a person plunges into the r
+- ¶41 · **Narrator (minor)** · *INFERRED* · “See to it, Gabelle. Go on!”
+- ¶46 · **The Marquis St. Evrémonde** · *INFERRED* · “It is you, Monseigneur! Monseigneur, a petition.”
+- ¶48 · **Narrator (minor)** · *INFERRED* · “How, then! What is it? Always petitions!”
+- ¶49 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur. For the love of the great God! My husband, the forester.”
+- ¶50 · **Narrator (minor)** · *INFERRED* · “What of your husband, the forester? Always the same with you people. He cannot pay something?”
+- ¶51 · **The Marquis St. Evrémonde** · *INFERRED* · “He has paid all, Monseigneur. He is dead.”
+- ¶52 · **Narrator (minor)** · *INFERRED* · “Well! He is quiet. Can I restore him to you?”
+- ¶53 · **The Marquis St. Evrémonde** · *INFERRED* · “Alas, no, Monseigneur! But he lies yonder, under a little heap of poor grass.”
+- ¶54 · **Narrator (minor)** · *INFERRED* · “Well?”
+- ¶55 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, there are so many little heaps of poor grass?”
+- ¶56 · **Narrator (minor)** · *INFERRED* · “Again, well?”
+- ¶58 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, hear me! Monseigneur, hear my petition! My husband died of want; so many die of want; 
+- ¶59 · **Narrator (minor)** · *INFERRED* · “Again, well? Can I feed them?”
+- ¶60 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, the good God knows; but I don’t ask it. My petition is, that a morsel of stone or wood
+- ¶64 · **Narrator (minor)** · *INFERRED* · “Monsieur Charles, whom I expect; is he arrived from England?”
+- ¶65 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, not yet.”
+
+## Book 2, Chapter IX — The Gorgon’s Head
+
+- ¶7 · **The Marquis St. Evrémonde** · *tag* · “My nephew,”
+- ¶7 · **The Marquis St. Evrémonde** · *tag* · “they said he was not arrived.”
+- ¶9 · **The Marquis St. Evrémonde** · *INFERRED* · “Ah! It is not probable he will arrive to-night; nevertheless, leave the table as it is. I shall be 
+- ¶11 · **The Marquis St. Evrémonde** · *INFERRED* · “What is that?”
+- ¶12 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur? That?”
+- ¶13 · **The Marquis St. Evrémonde** · *INFERRED* · “Outside the blinds. Open the blinds.”
+- ¶15 · **The Marquis St. Evrémonde** · *INFERRED* · “Well?”
+- ¶16 · **The Marquis St. Evrémonde** · *INFERRED* · “Monseigneur, it is nothing. The trees and the night are all that are here.”
+- ¶18 · **The Marquis St. Evrémonde** · *INFERRED* · “Good,”
+- ¶18 · **The Marquis St. Evrémonde** · *INFERRED* · “Close them again.”
+- ¶20 · **The Marquis St. Evrémonde** · *INFERRED* · “Ask who is arrived.”
+- ¶24 · **Charles Darnay** · *tag-pronoun* · “You left Paris yesterday, sir?”
+- ¶25 · **The Marquis St. Evrémonde** · *INFERRED* · “Yesterday. And you?”
+- ¶26 · **Charles Darnay** · *INFERRED* · “I come direct.”
+- ¶27 · **The Marquis St. Evrémonde** · *INFERRED* · “From London?”
+- ¶28 · **Charles Darnay** · *INFERRED* · “Yes.”
+- ¶29 · **The Marquis St. Evrémonde** · *tag* · “You have been a long time coming,”
+- ¶30 · **Charles Darnay** · *INFERRED* · “On the contrary; I come direct.”
+- ¶31 · **The Marquis St. Evrémonde** · *INFERRED* · “Pardon me! I mean, not a long time on the journey; a long time intending the journey.”
+- ¶32 · **Charles Darnay** · *INFERRED* · “I have been detained by”
+- ¶32 · **Charles Darnay** · *INFERRED* · “various business.”
+- ¶33 · **The Marquis St. Evrémonde** · *INFERRED* · “Without doubt,”
+- ¶35 · **Charles Darnay** · *INFERRED* · “I have come back, sir, as you anticipate, pursuing the object that took me away. It carried me into
+- ¶36 · **The Marquis St. Evrémonde** · *INFERRED* · “Not to death,”
+- ¶36 · **The Marquis St. Evrémonde** · *INFERRED* · “it is not necessary to say, to death.”
+- ¶37 · **Charles Darnay** · *INFERRED* · “I doubt, sir,”
+- ¶37 · **Charles Darnay** · *INFERRED* · “whether, if it had carried me to the utmost brink of death, you would have cared to stop me there.”
+- ¶39 · **The Marquis St. Evrémonde** · *INFERRED* · “Indeed, sir,”
+- ¶39 · **The Marquis St. Evrémonde** · *INFERRED* · “for anything I know, you may have expressly worked to give a more suspicious appearance to the susp
+- ¶40 · **Charles Darnay** · *INFERRED* · “No, no, no,”
+- ¶41 · **The Marquis St. Evrémonde** · *INFERRED* · “But, however that may be,”
+- ¶41 · **The Marquis St. Evrémonde** · *INFERRED* · “I know that your diplomacy would stop me by any means, and would know no scruple as to means.”
+- ¶42 · **Charles Darnay** · *INFERRED* · “My friend, I told you so,”
+- ¶42 · **Charles Darnay** · *INFERRED* · “Do me the favour to recall that I told you so, long ago.”
+- ¶43 · **The Marquis St. Evrémonde** · *INFERRED* · “I recall it.”
+- ¶44 · **Charles Darnay** · *INFERRED* · “Thank you,”
+- ¶46 · **The Marquis St. Evrémonde** · *INFERRED* · “In effect, sir,”
+- ¶46 · **The Marquis St. Evrémonde** · *INFERRED* · “I believe it to be at once your bad fortune, and my good fortune, that has kept me out of a prison 
+- ¶47 · **Charles Darnay** · *INFERRED* · “I do not quite understand,”
+- ¶47 · **Charles Darnay** · *INFERRED* · “Dare I ask you to explain?”
+- ¶48 · **The Marquis St. Evrémonde** · *INFERRED* · “I believe that if you were not in disgrace with the Court, and had not been overshadowed by that cl
+- ¶49 · **Charles Darnay** · *INFERRED* · “It is possible,”
+- ¶49 · **Charles Darnay** · *INFERRED* · “For the honour of the family, I could even resolve to incommode you to that extent. Pray excuse me!
+- ¶50 · **The Marquis St. Evrémonde** · *INFERRED* · “I perceive that, happily for me, the Reception of the day before yesterday was, as usual, a cold on
+- ¶51 · **Charles Darnay** · *INFERRED* · “I would not say happily, my friend,”
+- ¶51 · **Charles Darnay** · *INFERRED* · “I would not be sure of that. A good opportunity for consideration, surrounded by the advantages of 
+- ¶53 · **The Marquis St. Evrémonde** · *INFERRED* · “We have so asserted our station, both in the old time and in the modern time also,”
+- ¶53 · **The Marquis St. Evrémonde** · *INFERRED* · “that I believe our name to be more detested than any name in France.”
+- ¶54 · **Charles Darnay** · *INFERRED* · “Let us hope so,”
+- ¶54 · **Charles Darnay** · *INFERRED* · “Detestation of the high is the involuntary homage of the low.”
+- ¶55 · **The Marquis St. Evrémonde** · *INFERRED* · “There is not,”
+- ¶55 · **The Marquis St. Evrémonde** · *INFERRED* · “a face I can look at, in all this country round about us, which looks at me with any deference on i
+- ¶56 · **The Marquis St. Evrémonde** · *tag* · “A compliment,”
+- ¶56 · **The Marquis St. Evrémonde** · *tag* · “to the grandeur of the family, merited by the manner in which the family has sustained its grandeur
+- ¶58 · **The Marquis St. Evrémonde** · *tag* · “Repression is the only lasting philosophy. The dark deference of fear and slavery, my friend,”
+- ¶58 · **The Marquis St. Evrémonde** · *tag* · “will keep the dogs obedient to the whip, as long as this roof,”
+- ¶58 · **The Marquis St. Evrémonde** · *tag* · “shuts out the sky.”
+- ¶60 · **The Marquis St. Evrémonde** · *tag* · “Meanwhile,”
+- ¶60 · **The Marquis St. Evrémonde** · *tag* · “I will preserve the honour and repose of the family, if you will not. But you must be fatigued. Sha
+- ¶61 · **Charles Darnay** · *INFERRED* · “A moment more.”
+- ¶62 · **The Marquis St. Evrémonde** · *INFERRED* · “An hour, if you please.”
+- ¶63 · **Charles Darnay** · *INFERRED* · “Sir,”
+- ¶63 · **Charles Darnay** · *INFERRED* · “we have done wrong, and are reaping the fruits of wrong.”
+- ¶64 · **The Marquis St. Evrémonde** · *tag* · “_We_ have done wrong?”
+- ¶65 · **Charles Darnay** · *INFERRED* · “Our family; our honourable family, whose honour is of so much account to both of us, in such differ
+- ¶66 · **The Marquis St. Evrémonde** · *tag* · “Death has done that!”
+- ¶67 · **Charles Darnay** · *INFERRED* · “And has left me,”
+- ¶67 · **Charles Darnay** · *INFERRED* · “bound to a system that is frightful to me, responsible for it, but powerless in it; seeking to exec
+- ¶68 · **The Marquis St. Evrémonde** · *tag* · “Seeking them from me, my nephew,”
+- ¶68 · **The Marquis St. Evrémonde** · *tag* · “you will for ever seek them in vain, be assured.”
+- ¶70 · **Charles Darnay** · *INFERRED* · “My friend, I will die, perpetuating the system under which I have lived.”
+- ¶72 · **Charles Darnay** · *tag-pronoun* · “Better to be a rational creature,”
+- ¶72 · **Charles Darnay** · *tag-pronoun* · “and accept your natural destiny. But you are lost, Monsieur Charles, I see.”
+- ¶73 · **The Marquis St. Evrémonde** · *INFERRED* · “This property and France are lost to me,”
+- ¶73 · **The Marquis St. Evrémonde** · *INFERRED* · “I renounce them.”
+- ¶74 · **Charles Darnay** · *INFERRED* · “Are they both yours to renounce? France may be, but is the property? It is scarcely worth mentionin
+- ¶75 · **The Marquis St. Evrémonde** · *INFERRED* · “I had no intention, in the words I used, to claim it yet. If it passed to me from you, to-morrow--”
+- ¶76 · **Charles Darnay** · *INFERRED* · “Which I have the vanity to hope is not probable.”
+- ¶77 · **The Marquis St. Evrémonde** · *INFERRED* · “--or twenty years hence--”
+- ¶78 · **The Marquis St. Evrémonde** · *tag* · “You do me too much honour,”
+- ¶78 · **The Marquis St. Evrémonde** · *tag* · “still, I prefer that supposition.”
+- ¶79 · **Charles Darnay** · *INFERRED* · “--I would abandon it, and live otherwise and elsewhere. It is little to relinquish. What is it but 
+- ¶80 · **The Marquis St. Evrémonde** · *tag* · “Hah!”
+- ¶81 · **Charles Darnay** · *INFERRED* · “To the eye it is fair enough, here; but seen in its integrity, under the sky, and by the daylight, 
+- ¶82 · **The Marquis St. Evrémonde** · *tag* · “Hah!”
+- ¶83 · **Charles Darnay** · *INFERRED* · “If it ever becomes mine, it shall be put into some hands better qualified to free it slowly (if suc
+- ¶84 · **The Marquis St. Evrémonde** · *INFERRED* · “And you?”
+- ¶84 · **The Marquis St. Evrémonde** · *INFERRED* · “Forgive my curiosity; do you, under your new philosophy, graciously intend to live?”
+- ¶85 · **Charles Darnay** · *INFERRED* · “I must do, to live, what others of my countrymen, even with nobility at their backs, may have to do
+- ¶86 · **The Marquis St. Evrémonde** · *INFERRED* · “In England, for example?”
+- ¶87 · **Charles Darnay** · *INFERRED* · “Yes. The family honour, sir, is safe from me in this country. The family name can suffer from me in
+- ¶89 · **The Marquis St. Evrémonde** · *tag-pronoun* · “England is very attractive to you, seeing how indifferently you have prospered there,”
+- ¶90 · **Charles Darnay** · *INFERRED* · “I have already said, that for my prospering there, I am sensible I may be indebted to you, sir. For
+- ¶91 · **The Marquis St. Evrémonde** · *INFERRED* · “They say, those boastful English, that it is the Refuge of many. You know a compatriot who has foun
+- ¶92 · **Charles Darnay** · *INFERRED* · “Yes.”
+- ¶93 · **The Marquis St. Evrémonde** · *INFERRED* · “With a daughter?”
+- ¶94 · **Charles Darnay** · *INFERRED* · “Yes.”
+- ¶95 · **The Marquis St. Evrémonde** · *tag* · “Yes,”
+- ¶95 · **The Marquis St. Evrémonde** · *tag* · “You are fatigued. Good night!”
+- ¶97 · **The Marquis St. Evrémonde** · *tag* · “Yes,”
+- ¶97 · **The Marquis St. Evrémonde** · *tag* · “A Doctor with a daughter. Yes. So commences the new philosophy! You are fatigued. Good night!”
+- ¶99 · **The Marquis St. Evrémonde** · *tag-pronoun* · “Good night!”
+- ¶99 · **The Marquis St. Evrémonde** · *tag-pronoun* · “I look to the pleasure of seeing you again in the morning. Good repose! Light Monsieur my nephew to
+- ¶101 · **Charles Darnay** · *INFERRED* · “Dead!”
+- ¶102 · **The Marquis St. Evrémonde** · *tag* · “I am cool now,”
+- ¶102 · **The Marquis St. Evrémonde** · *tag* · “and may go to bed.”
+- ¶116 · **Charles Darnay** · *INFERRED* · “Drive him fast to his tomb. This, from Jacques.”
+
+## Book 2, Chapter X — Two Promises
+
+- ¶10 · **Narrator (minor)** · *INFERRED* · “Charles Darnay! I rejoice to see you. We have been counting on your return these three or four days
+- ¶11 · **Sydney Carton** · *tag-pronoun* · “I am obliged to them for their interest in the matter,”
+- ¶11 · **Sydney Carton** · *tag-pronoun* · “Miss Manette--”
+- ¶12 · **Doctor Manette** · *tag* · “Is well,”
+- ¶12 · **Doctor Manette** · *tag* · “and your return will delight us all. She has gone out on some household matters, but will soon be h
+- ¶13 · **Sydney Carton** · *INFERRED* · “Doctor Manette, I knew she was from home. I took the opportunity of her being from home, to beg to 
+- ¶15 · **Doctor Manette** · *tag* · “Yes?”
+- ¶15 · **Doctor Manette** · *tag* · “Bring your chair here, and speak on.”
+- ¶17 · **Sydney Carton** · *INFERRED* · “I have had the happiness, Doctor Manette, of being so intimate here,”
+- ¶17 · **Sydney Carton** · *INFERRED* · “for some year and a half, that I hope the topic on which I am about to touch may not--”
+- ¶19 · **Doctor Manette** · *INFERRED* · “Is Lucie the topic?”
+- ¶20 · **Sydney Carton** · *INFERRED* · “She is.”
+- ¶21 · **Doctor Manette** · *INFERRED* · “It is hard for me to speak of her at any time. It is very hard for me to hear her spoken of in that
+- ¶22 · **Doctor Manette** · *tag-pronoun* · “It is a tone of fervent admiration, true homage, and deep love, Doctor Manette!”
+- ¶24 · **Sydney Carton** · *INFERRED* · “I believe it. I do you justice; I believe it.”
+- ¶26 · **Doctor Manette** · *INFERRED* · “Shall I go on, sir?”
+- ¶28 · **Sydney Carton** · *INFERRED* · “Yes, go on.”
+- ¶29 · **Doctor Manette** · *INFERRED* · “You anticipate what I would say, though you cannot know how earnestly I say it, how earnestly I fee
+- ¶31 · **Sydney Carton** · *INFERRED* · “Not that, sir! Let that be! I adjure you, do not recall that!”
+- ¶33 · **Doctor Manette** · *tag* · “I ask your pardon,”
+- ¶33 · **Doctor Manette** · *tag* · “I do not doubt your loving Lucie; you may be satisfied of it.”
+- ¶35 · **Sydney Carton** · *INFERRED* · “Have you spoken to Lucie?”
+- ¶36 · **Doctor Manette** · *INFERRED* · “No.”
+- ¶37 · **Sydney Carton** · *INFERRED* · “Nor written?”
+- ¶38 · **Doctor Manette** · *INFERRED* · “Never.”
+- ¶39 · **Sydney Carton** · *INFERRED* · “It would be ungenerous to affect not to know that your self-denial is to be referred to your consid
+- ¶41 · **Charles Darnay** · *tag* · “I know,”
+- ¶41 · **Charles Darnay** · *tag* · “how can I fail to know, Doctor Manette, I who have seen you together from day to day, that between 
+- ¶43 · **Sydney Carton** · *INFERRED* · “Dear Doctor Manette, always knowing this, always seeing her and you with this hallowed light about 
+- ¶44 · **Doctor Manette** · *tag* · “I believe it,”
+- ¶44 · **Doctor Manette** · *tag* · “I have thought so before now. I believe it.”
+- ¶45 · **Charles Darnay** · *tag* · “But, do not believe,”
+- ¶45 · **Charles Darnay** · *tag* · “that if my fortune were so cast as that, being one day so happy as to make her my wife, I must at a
+- ¶47 · **Doctor Manette** · *INFERRED* · “No, dear Doctor Manette. Like you, a voluntary exile from France; like you, driven from it by its d
+- ¶49 · **Charles Darnay** · *INFERRED* · “You speak so feelingly and so manfully, Charles Darnay, that I thank you with all my heart, and wil
+- ¶50 · **Doctor Manette** · *INFERRED* · “None. As yet, none.”
+- ¶51 · **Charles Darnay** · *INFERRED* · “Is it the immediate object of this confidence, that you may at once ascertain that, with my knowled
+- ¶52 · **Doctor Manette** · *INFERRED* · “Not even so. I might not have the hopefulness to do it for weeks; I might (mistaken or not mistaken
+- ¶53 · **Charles Darnay** · *INFERRED* · “Do you seek any guidance from me?”
+- ¶54 · **Doctor Manette** · *INFERRED* · “I ask none, sir. But I have thought it possible that you might have it in your power, if you should
+- ¶55 · **Charles Darnay** · *INFERRED* · “Do you seek any promise from me?”
+- ¶56 · **Doctor Manette** · *INFERRED* · “I do seek that.”
+- ¶57 · **Charles Darnay** · *INFERRED* · “What is it?”
+- ¶58 · **Doctor Manette** · *INFERRED* · “I well understand that, without you, I could have no hope. I well understand that, even if Miss Man
+- ¶59 · **Charles Darnay** · *INFERRED* · “If that be so, do you see what, on the other hand, is involved in it?”
+- ¶60 · **Charles Darnay** · *tag* · “I understand equally well, that a word from her father in any suitor’s favour, would outweigh herse
+- ¶60 · **Charles Darnay** · *tag* · “I would not ask that word, to save my life.”
+- ¶61 · **Doctor Manette** · *INFERRED* · “I am sure of it. Charles Darnay, mysteries arise out of close love, as well as out of wide division
+- ¶62 · **Charles Darnay** · *INFERRED* · “May I ask, sir, if you think she is--”
+- ¶63 · **Doctor Manette** · *INFERRED* · “Is sought by any other suitor?”
+- ¶64 · **Charles Darnay** · *INFERRED* · “It is what I meant to say.”
+- ¶66 · **Doctor Manette** · *INFERRED* · “You have seen Mr. Carton here, yourself. Mr. Stryver is here too, occasionally. If it be at all, it
+- ¶67 · **Charles Darnay** · *tag* · “Or both,”
+- ¶68 · **Doctor Manette** · *INFERRED* · “I had not thought of both; I should not think either, likely. You want a promise from me. Tell me w
+- ¶69 · **Charles Darnay** · *INFERRED* · “It is, that if Miss Manette should bring to you at any time, on her own part, such a confidence as 
+- ¶70 · **Doctor Manette** · *tag* · “I give the promise,”
+- ¶70 · **Doctor Manette** · *tag* · “without any condition. I believe your object to be, purely and truthfully, as you have stated it. I
+- ¶72 · **Charles Darnay** · *INFERRED* · “--any fancies, any reasons, any apprehensions, anything whatsoever, new or old, against the man she
+- ¶74 · **Doctor Manette** · *tag* · “You said something to me,”
+- ¶74 · **Doctor Manette** · *tag* · “What was it you said to me?”
+- ¶76 · **Charles Darnay** · *INFERRED* · “Your confidence in me ought to be returned with full confidence on my part. My present name, though
+- ¶77 · **Doctor Manette** · *tag* · “Stop!”
+- ¶78 · **Charles Darnay** · *INFERRED* · “I wish it, that I may the better deserve your confidence, and have no secret from you.”
+- ¶79 · **Doctor Manette** · *INFERRED* · “Stop!”
+- ¶81 · **Charles Darnay** · *INFERRED* · “Tell me when I ask you, not now. If your suit should prosper, if Lucie should love you, you shall t
+- ¶82 · **Doctor Manette** · *INFERRED* · “Willingly.
+- ¶83 · **Charles Darnay** · *INFERRED* · “Give me your hand. She will be home directly, and it is better she should not see us together to-ni
+- ¶85 · **Miss Pross** · *tag-pronoun* · “My father!”
+- ¶85 · **Miss Pross** · *tag-pronoun* · “Father dear!”
+- ¶86 · **Miss Pross** · *PRONOUN* · “What shall I do! What shall I do!”
+
+## Book 2, Chapter XI — A Companion Picture
+
+- ¶2 · **Stryver** · *tag* · “Sydney,”
+- ¶2 · **Stryver** · *tag* · “mix another bowl of punch; I have something to say to you.”
+- ¶5 · **Stryver** · *tag* · “Are you mixing that other bowl of punch?”
+- ¶6 · **Stryver** · *INFERRED* · “I am.”
+- ¶7 · **Stryver** · *INFERRED* · “Now, look here! I am going to tell you something that will rather surprise you, and that perhaps wi
+- ¶8 · **Stryver** · *INFERRED* · “_Do_ you?”
+- ¶9 · **Stryver** · *INFERRED* · “Yes. And not for money. What do you say now?”
+- ¶10 · **Stryver** · *INFERRED* · “I don’t feel disposed to say much. Who is she?”
+- ¶11 · **Stryver** · *INFERRED* · “Guess.”
+- ¶12 · **Stryver** · *INFERRED* · “Do I know her?”
+- ¶13 · **Stryver** · *INFERRED* · “Guess.”
+- ¶14 · **Stryver** · *INFERRED* · “I am not going to guess, at five o’clock in the morning, with my brains frying and sputtering in my
+- ¶15 · **Stryver** · *tag* · “Well then, I’ll tell you,”
+- ¶15 · **Stryver** · *tag* · “Sydney, I rather despair of making myself intelligible to you, because you are such an insensible d
+- ¶16 · **Sydney Carton** · *tag* · “And you,”
+- ¶16 · **Sydney Carton** · *tag* · “are such a sensitive and poetical spirit--”
+- ¶17 · **Stryver** · *tag* · “Come!”
+- ¶17 · **Stryver** · *tag* · “though I don’t prefer any claim to being the soul of Romance (for I hope I know better), still I am
+- ¶18 · **Sydney Carton** · *INFERRED* · “You are a luckier, if you mean that.”
+- ¶19 · **Stryver** · *INFERRED* · “I don’t mean that. I mean I am a man of more--more--”
+- ¶20 · **Sydney Carton** · *tag* · “Say gallantry, while you are about it,”
+- ¶21 · **Stryver** · *tag* · “Well! I’ll say gallantry. My meaning is that I am a man,”
+- ¶21 · **Stryver** · *tag* · “who cares more to be agreeable, who takes more pains to be agreeable, who knows better how to be ag
+- ¶22 · **Sydney Carton** · *tag* · “Go on,”
+- ¶23 · **Stryver** · *tag* · “No; but before I go on,”
+- ¶23 · **Stryver** · *tag* · “I’ll have this out with you. You’ve been at Doctor Manette’s house as much as I have, or more than 
+- ¶24 · **Sydney Carton** · *tag* · “It should be very beneficial to a man in your practice at the bar, to be ashamed of anything,”
+- ¶24 · **Sydney Carton** · *tag* · “you ought to be much obliged to me.”
+- ¶25 · **Stryver** · *tag* · “You shall not get off in that way,”
+- ¶25 · **Stryver** · *tag* · “no, Sydney, it’s my duty to tell you--and I tell you to your face to do you good--that you are a de
+- ¶27 · **Stryver** · *tag* · “Look at me!”
+- ¶27 · **Stryver** · *tag* · “I have less need to make myself agreeable than you have, being more independent in circumstances. W
+- ¶28 · **Sydney Carton** · *tag* · “I never saw you do it yet,”
+- ¶29 · **Stryver** · *INFERRED* · “I do it because it’s politic; I do it on principle. And look at me! I get on.”
+- ¶30 · **Sydney Carton** · *tag* · “You don’t get on with your account of your matrimonial intentions,”
+- ¶30 · **Sydney Carton** · *tag* · “I wish you would keep to that. As to me--will you never understand that I am incorrigible?”
+- ¶32 · **Stryver** · *INFERRED* · “You have no business to be incorrigible,”
+- ¶33 · **Sydney Carton** · *tag* · “I have no business to be, at all, that I know of,”
+- ¶33 · **Sydney Carton** · *tag* · “Who is the lady?”
+- ¶34 · **Stryver** · *tag* · “Now, don’t let my announcement of the name make you uncomfortable, Sydney,”
+- ¶34 · **Stryver** · *tag* · “because I know you don’t mean half you say; and if you meant it all, it would be of no importance. 
+- ¶35 · **Sydney Carton** · *INFERRED* · “I did?”
+- ¶36 · **Stryver** · *INFERRED* · “Certainly; and in these chambers.”
+- ¶38 · **Sydney Carton** · *INFERRED* · “You made mention of the young lady as a golden-haired doll. The young lady is Miss Manette. If you 
+- ¶40 · **Stryver** · *tag* · “Now you know all about it, Syd,”
+- ¶40 · **Stryver** · *tag* · “I don’t care about fortune: she is a charming creature, and I have made up my mind to please myself
+- ¶41 · **Sydney Carton** · *NAMED* · “Why should I be astonished?”
+- ¶42 · **Stryver** · *INFERRED* · “You approve?”
+- ¶43 · **Sydney Carton** · *NAMED* · “Why should I not approve?”
+- ¶44 · **Stryver** · *tag* · “Well!”
+- ¶44 · **Stryver** · *tag* · “you take it more easily than I fancied you would, and are less mercenary on my behalf than I though
+- ¶46 · **Stryver** · *tag* · “Now, let me recommend you,”
+- ¶46 · **Stryver** · *tag* · “to look it in the face. I have looked it in the face, in my different way; look it in the face, you
+- ¶47 · **Sydney Carton** · *tag* · “I’ll think of it,”
+
+## Book 2, Chapter XII — The Fellow of Delicacy
+
+- ¶7 · **Stryver** · *tag* · “Halloa!”
+- ¶7 · **Stryver** · *tag* · “How do you do? I hope you are well!”
+- ¶9 · **Jarvis Lorry** · *NAMED* · “How do you do, Mr. Stryver? How do you do, sir?”
+- ¶10 · **Jarvis Lorry** · *tag* · “Can I do anything for you, Mr. Stryver?”
+- ¶11 · **Stryver** · *INFERRED* · “Why, no, thank you; this is a private visit to yourself, Mr. Lorry; I have come for a private word.
+- ¶12 · **Jarvis Lorry** · *tag* · “Oh indeed!”
+- ¶13 · **Stryver** · *tag* · “I am going,”
+- ¶13 · **Stryver** · *tag* · “I am going to make an offer of myself in marriage to your agreeable little friend, Miss Manette, Mr
+- ¶14 · **Jarvis Lorry** · *tag* · “Oh dear me!”
+- ¶15 · **Stryver** · *tag* · “Oh dear me, sir?”
+- ¶15 · **Stryver** · *tag* · “Oh dear you, sir? What may your meaning be, Mr. Lorry?”
+- ¶16 · **Narrator (minor)** · *tag* · “My meaning,”
+- ¶16 · **Narrator (minor)** · *tag* · “is, of course, friendly and appreciative, and that it does you the greatest credit, and--in short, 
+- ¶16 · **Narrator (minor)** · *tag* · “you know there really is so much too much of you!”
+- ¶17 · **Stryver** · *tag* · “Well!”
+- ¶17 · **Stryver** · *tag* · “if I understand you, Mr. Lorry, I’ll be hanged!”
+- ¶19 · **Stryver** · *tag* · “D--n it all, sir!”
+- ¶19 · **Stryver** · *tag* · “am I not eligible?”
+- ¶20 · **Jarvis Lorry** · *tag* · “Oh dear yes! Yes. Oh yes, you’re eligible!”
+- ¶20 · **Jarvis Lorry** · *tag* · “If you say eligible, you are eligible.”
+- ¶21 · **Stryver** · *tag* · “Am I not prosperous?”
+- ¶22 · **Jarvis Lorry** · *tag* · “Oh! if you come to prosperous, you are prosperous,”
+- ¶23 · **Stryver** · *INFERRED* · “And advancing?”
+- ¶24 · **Jarvis Lorry** · *tag* · “If you come to advancing you know,”
+- ¶24 · **Jarvis Lorry** · *tag* · “nobody can doubt that.”
+- ¶25 · **Stryver** · *tag* · “Then what on earth is your meaning, Mr. Lorry?”
+- ¶26 · **Jarvis Lorry** · *tag* · “Well! I--Were you going there now?”
+- ¶27 · **Stryver** · *tag* · “Straight!”
+- ¶28 · **Jarvis Lorry** · *INFERRED* · “Then I think I wouldn’t, if I was you.”
+- ¶29 · **Stryver** · *tag* · “Why?”
+- ¶29 · **Stryver** · *tag* · “Now, I’ll put you in a corner,”
+- ¶29 · **Stryver** · *tag* · “You are a man of business and bound to have a reason. State your reason. Why wouldn’t you go?”
+- ¶30 · **Jarvis Lorry** · *tag* · “Because,”
+- ¶30 · **Jarvis Lorry** · *tag* · “I wouldn’t go on such an object without having some cause to believe that I should succeed.”
+- ¶31 · **Stryver** · *tag* · “D--n _me_!”
+- ¶31 · **Stryver** · *tag* · “but this beats everything.”
+- ¶33 · **Stryver** · *tag* · “Here’s a man of business--a man of years--a man of experience--_in_ a Bank,”
+- ¶33 · **Stryver** · *tag* · “and having summed up three leading reasons for complete success, he says there’s no reason at all! 
+- ¶34 · **Jarvis Lorry** · *tag* · “When I speak of success, I speak of success with the young lady; and when I speak of causes and rea
+- ¶34 · **Jarvis Lorry** · *tag* · “the young lady. The young lady goes before all.”
+- ¶35 · **Stryver** · *tag* · “Then you mean to tell me, Mr. Lorry,”
+- ¶35 · **Stryver** · *tag* · “that it is your deliberate opinion that the young lady at present in question is a mincing Fool?”
+- ¶36 · **Jarvis Lorry** · *tag* · “Not exactly so. I mean to tell you, Mr. Stryver,”
+- ¶36 · **Jarvis Lorry** · *tag* · “that I will hear no disrespectful word of that young lady from any lips; and that if I knew any man
+- ¶38 · **Jarvis Lorry** · *tag* · “That is what I mean to tell you, sir,”
+- ¶38 · **Jarvis Lorry** · *tag* · “Pray let there be no mistake about it.”
+- ¶40 · **Stryver** · *INFERRED* · “This is something new to me, Mr. Lorry. You deliberately advise me not to go up to Soho and offer m
+- ¶41 · **Jarvis Lorry** · *INFERRED* · “Do you ask me for my advice, Mr. Stryver?”
+- ¶42 · **Stryver** · *INFERRED* · “Yes, I do.”
+- ¶43 · **Jarvis Lorry** · *INFERRED* · “Very good. Then I give it, and you have repeated it correctly.”
+- ¶44 · **Stryver** · *tag* · “And all I can say of it is,”
+- ¶44 · **Stryver** · *tag* · “that this--ha, ha!--beats everything past, present, and to come.”
+- ¶45 · **Jarvis Lorry** · *tag* · “Now understand me,”
+- ¶45 · **Jarvis Lorry** · *tag* · “As a man of business, I am not justified in saying anything about this matter, for, as a man of bus
+- ¶46 · **Stryver** · *tag* · “Not I!”
+- ¶46 · **Stryver** · *tag* · “I can’t undertake to find third parties in common sense; I can only find it for myself. I suppose s
+- ¶47 · **Jarvis Lorry** · *tag* · “What I suppose, Mr. Stryver, I claim to characterise for myself--And understand me, sir,”
+- ¶47 · **Jarvis Lorry** · *tag* · “I will not--not even at Tellson’s--have it characterised for me by any gentleman breathing.”
+- ¶48 · **Stryver** · *tag* · “There! I beg your pardon!”
+- ¶49 · **Jarvis Lorry** · *INFERRED* · “Granted. Thank you. Well, Mr. Stryver, I was about to say:--it might be painful to you to find your
+- ¶50 · **Stryver** · *INFERRED* · “How long would you keep me in town?”
+- ¶51 · **Jarvis Lorry** · *INFERRED* · “Oh! It is only a question of a few hours. I could go to Soho in the evening, and come to your chamb
+- ¶52 · **Stryver** · *tag* · “Then I say yes,”
+- ¶52 · **Stryver** · *tag* · “I won’t go up there now, I am not so hot upon it as that comes to; I say yes, and I shall expect yo
+- ¶54 · **Stryver** · *tag* · “And now,”
+- ¶54 · **Stryver** · *tag* · “my way out of this, is, to put you all in the wrong.”
+- ¶55 · **Stryver** · *tag* · “You shall not put me in the wrong, young lady,”
+- ¶55 · **Stryver** · *tag* · “I’ll do that for you.”
+- ¶57 · **Jarvis Lorry** · *INFERRED* · “Well!”
+- ¶57 · **Jarvis Lorry** · *INFERRED* · “I have been to Soho.”
+- ¶58 · **Stryver** · *tag* · “To Soho?”
+- ¶58 · **Stryver** · *tag* · “Oh, to be sure! What am I thinking of!”
+- ¶59 · **Jarvis Lorry** · *tag* · “And I have no doubt,”
+- ¶59 · **Jarvis Lorry** · *tag* · “that I was right in the conversation we had. My opinion is confirmed, and I reiterate my advice.”
+- ¶60 · **Stryver** · *tag* · “I assure you,”
+- ¶60 · **Stryver** · *tag* · “that I am sorry for it on your account, and sorry for it on the poor father’s account. I know this 
+- ¶61 · **Jarvis Lorry** · *tag* · “I don’t understand you,”
+- ¶62 · **Stryver** · *tag* · “I dare say not,”
+- ¶62 · **Stryver** · *tag* · “no matter, no matter.”
+- ¶63 · **Jarvis Lorry** · *tag* · “But it does matter,”
+- ¶64 · **Stryver** · *INFERRED* · “No it doesn’t; I assure you it doesn’t. Having supposed that there was sense where there is no sens
+- ¶65 · **Stryver** · *tag* · “Make the best of it, my dear sir,”
+- ¶65 · **Stryver** · *tag* · “say no more about it; thank you again for allowing me to sound you; good night!”
+
+## Book 2, Chapter XIII — The Fellow of No Delicacy
+
+- ¶4 · **Narrator (minor)** · *INFERRED* · “he had thought better of that marrying matter”
+- ¶6 · **Narrator (minor)** · *INFERRED* · “I fear you are not well, Mr. Carton!”
+- ¶7 · **Narrator (minor)** · *INFERRED* · “No. But the life I lead, Miss Manette, is not conducive to health. What is to be expected of, or by
+- ¶8 · **Narrator (minor)** · *INFERRED* · “Is it not--forgive me; I have begun the question on my lips--a pity to live no better life?”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “God knows it is a shame!”
+- ¶10 · **Narrator (minor)** · *INFERRED* · “Then why not change it?”
+- ¶12 · **Narrator (minor)** · *INFERRED* · “It is too late for that. I shall never be better than I am. I shall sink lower, and be worse.”
+- ¶15 · **Narrator (minor)** · *INFERRED* · “Pray forgive me, Miss Manette. I break down before the knowledge of what I want to say to you. Will
+- ¶16 · **Narrator (minor)** · *INFERRED* · “If it will do you any good, Mr. Carton, if it would make you happier, it would make me very glad!”
+- ¶17 · **Narrator (minor)** · *INFERRED* · “God bless you for your sweet compassion!”
+- ¶19 · **Narrator (minor)** · *INFERRED* · “Don’t be afraid to hear me. Don’t shrink from anything I say. I am like one who died young. All my 
+- ¶20 · **Narrator (minor)** · *INFERRED* · “No, Mr. Carton. I am sure that the best part of it might still be; I am sure that you might be much
+- ¶21 · **Narrator (minor)** · *INFERRED* · “Say of you, Miss Manette, and although I know better--although in the mystery of my own wretched he
+- ¶23 · **Narrator (minor)** · *INFERRED* · “If it had been possible, Miss Manette, that you could have returned the love of the man you see bef
+- ¶24 · **Narrator (minor)** · *INFERRED* · “Without it, can I not save you, Mr. Carton? Can I not recall you--forgive me again!--to a better co
+- ¶24 · **Narrator (minor)** · *INFERRED* · “I know you would say this to no one else. Can I turn it to no good account for yourself, Mr. Carton
+- ¶26 · **Narrator (minor)** · *INFERRED* · “To none. No, Miss Manette, to none. If you will hear me through a very little more, all you can eve
+- ¶27 · **Narrator (minor)** · *INFERRED* · “Will nothing of it remain? O Mr. Carton, think again! Try again!”
+- ¶28 · **Narrator (minor)** · *INFERRED* · “No, Miss Manette; all through it, I have known myself to be quite undeserving. And yet I have had t
+- ¶29 · **Narrator (minor)** · *INFERRED* · “Since it is my misfortune, Mr. Carton, to have made you more unhappy than you were before you knew 
+- ¶30 · **Narrator (minor)** · *INFERRED* · “Don’t say that, Miss Manette, for you would have reclaimed me, if anything could. You will not be t
+- ¶31 · **Narrator (minor)** · *INFERRED* · “Since the state of your mind that you describe, is, at all events, attributable to some influence o
+- ¶32 · **Narrator (minor)** · *INFERRED* · “The utmost good that I am capable of now, Miss Manette, I have come here to realise. Let me carry t
+- ¶33 · **Narrator (minor)** · *INFERRED* · “Which I entreated you to believe, again and again, most fervently, with all my heart, was capable o
+- ¶34 · **Narrator (minor)** · *INFERRED* · “Entreat me to believe it no more, Miss Manette. I have proved myself, and I know better. I distress
+- ¶35 · **Narrator (minor)** · *INFERRED* · “If that will be a consolation to you, yes.”
+- ¶36 · **Narrator (minor)** · *INFERRED* · “Not even by the dearest one ever to be known to you?”
+- ¶37 · **Lucie Manette** · *tag-pronoun* · “Mr. Carton,”
+- ¶37 · **Lucie Manette** · *tag-pronoun* · “the secret is yours, not mine; and I promise to respect it.”
+- ¶38 · **Narrator (minor)** · *INFERRED* · “Thank you. And again, God bless you.”
+- ¶40 · **Lucie Manette** · *INFERRED* · “Be under no apprehension, Miss Manette, of my ever resuming this conversation by so much as a passi
+- ¶42 · **Doctor Manette** · *tag-pronoun* · “Be comforted!”
+- ¶42 · **Doctor Manette** · *tag-pronoun* · “I am not worth such feeling, Miss Manette. An hour or two hence, and the low companions and low hab
+- ¶43 · **Lucie Manette** · *INFERRED* · “I will, Mr. Carton.”
+- ¶44 · **Doctor Manette** · *INFERRED* · “My last supplication of all, is this; and with it, I will relieve you of a visitor with whom I well
+- ¶45 · **Doctor Manette** · *PRONOUN* · “Farewell!”
+- ¶45 · **Doctor Manette** · *PRONOUN* · “God bless you!”
+
+## Book 2, Chapter XIV — The Honest Tradesman
+
+- ¶5 · **Narrator (minor)** · *INFERRED* · “flopping”
+- ¶6 · **Jerry Cruncher** · *tag* · “Young Jerry,”
+- ¶6 · **Jerry Cruncher** · *tag* · “it’s a buryin’.”
+- ¶7 · **Young Jerry** · *tag* · “Hooroar, father!”
+- ¶9 · **Jerry Cruncher** · *tag* · “What d’ye mean? What are you hooroaring at? What do you want to conwey to your own father, you youn
+- ¶9 · **Jerry Cruncher** · *tag* · “Him and his hooroars! Don’t let me hear no more of you, or you shall feel some more of me. D’ye hea
+- ¶10 · **Young Jerry** · *tag* · “I warn’t doing no harm,”
+- ¶11 · **Jerry Cruncher** · *tag* · “Drop it then,”
+- ¶11 · **Jerry Cruncher** · *tag* · “I won’t have none of _your_ no harms. Get a top of that there seat, and look at the crowd.”
+- ¶12 · **Young Jerry** · *INFERRED* · “Yah! Spies! Tst! Yaha! Spies!”
+- ¶14 · **Jerry Cruncher** · *INFERRED* · “What is it, brother? What’s it about?”
+- ¶15 · **Narrator (minor)** · *tag* · “_I_ don’t know,”
+- ¶15 · **Narrator (minor)** · *tag* · “Spies! Yaha! Tst! Spies!”
+- ¶16 · **Jerry Cruncher** · *INFERRED* · “Who is it?”
+- ¶17 · **Narrator (minor)** · *tag* · “_I_ don’t know,”
+- ¶17 · **Narrator (minor)** · *tag* · “Spies! Yaha! Tst, tst! Spi--ies!”
+- ¶19 · **Jerry Cruncher** · *tag* · “Was he a spy?”
+- ¶20 · **Narrator (minor)** · *INFERRED* · “Old Bailey spy,”
+- ¶20 · **Narrator (minor)** · *INFERRED* · “Yaha! Tst! Yah! Old Bailey Spi--i--ies!”
+- ¶21 · **Jerry Cruncher** · *tag* · “Why, to be sure!”
+- ¶21 · **Jerry Cruncher** · *tag* · “I’ve seen him. Dead, is he?”
+- ¶22 · **Narrator (minor)** · *tag* · “Dead as mutton,”
+- ¶22 · **Narrator (minor)** · *tag* · “and can’t be too dead. Have ’em out, there! Spies! Pull ’em out, there! Spies!”
+- ¶29 · **Jerry Cruncher** · *tag* · “Jerry,”
+- ¶29 · **Jerry Cruncher** · *tag* · “you see that there Cly that day, and you see with your own eyes that he was a young ’un and a strai
+- ¶32 · **Jerry Cruncher** · *tag* · “Now, I tell you where it is!”
+- ¶32 · **Jerry Cruncher** · *tag* · “If, as a honest tradesman, my wenturs goes wrong to-night, I shall make sure that you’ve been prayi
+- ¶34 · **Jerry Cruncher** · *tag* · “Why, you’re at it afore my face!”
+- ¶35 · **Narrator (minor)** · *INFERRED* · “I am saying nothing.”
+- ¶36 · **Jerry Cruncher** · *INFERRED* · “Well, then; don’t meditate nothing. You might as well flop as meditate. You may as well go again me
+- ¶37 · **Narrator (minor)** · *INFERRED* · “Yes, Jerry.”
+- ¶38 · **Jerry Cruncher** · *tag* · “Yes, Jerry,”
+- ¶38 · **Jerry Cruncher** · *tag* · “Ah! It _is_ yes, Jerry. That’s about it. You may say yes, Jerry.”
+- ¶40 · **Jerry Cruncher** · *tag* · “You and your yes, Jerry,”
+- ¶40 · **Jerry Cruncher** · *tag* · “Ah! I think so. I believe you.”
+- ¶41 · **Narrator (minor)** · *INFERRED* · “You are going out to-night?”
+- ¶42 · **Jerry Cruncher** · *INFERRED* · “Yes, I am.”
+- ¶43 · **Young Jerry** · *tag* · “May I go with you, father?”
+- ¶44 · **Jerry Cruncher** · *INFERRED* · “No, you mayn’t. I’m a going--as your mother knows--a fishing. That’s where I’m going to. Going a fi
+- ¶45 · **Young Jerry** · *INFERRED* · “Your fishing-rod gets rayther rusty; don’t it, father?”
+- ¶46 · **Jerry Cruncher** · *INFERRED* · “Never you mind.”
+- ¶47 · **Young Jerry** · *INFERRED* · “Shall you bring any fish home, father?”
+- ¶48 · **Jerry Cruncher** · *INFERRED* · “If I don’t, you’ll have short commons, to-morrow,”
+- ¶48 · **Jerry Cruncher** · *INFERRED* · “that’s questions enough for you; I ain’t a going out, till you’ve been long abed.”
+- ¶50 · **Jerry Cruncher** · *tag* · “And mind you!”
+- ¶50 · **Jerry Cruncher** · *tag* · “No games to-morrow! If I, as a honest tradesman, succeed in providing a jinte of meat or two, none 
+- ¶52 · **Young Jerry** · *INFERRED* · “With your flying into the face of your own wittles and drink! I don’t know how scarce you mayn’t ma
+- ¶64 · **Jerry Cruncher** · *tag* · “I told you I would,”
+- ¶64 · **Jerry Cruncher** · *tag* · “and I did.”
+- ¶65 · **Young Jerry** · *INFERRED* · “Jerry, Jerry, Jerry!”
+- ¶66 · **Jerry Cruncher** · *tag* · “You oppose yourself to the profit of the business,”
+- ¶66 · **Jerry Cruncher** · *tag* · “and me and my partners suffer. You was to honour and obey; why the devil don’t you?”
+- ¶67 · **Young Jerry** · *INFERRED* · “I try to be a good wife, Jerry,”
+- ¶68 · **Jerry Cruncher** · *INFERRED* · “Is it being a good wife to oppose your husband’s business? Is it honouring your husband to dishonou
+- ¶69 · **Young Jerry** · *INFERRED* · “You hadn’t taken to the dreadful business then, Jerry.”
+- ¶70 · **Jerry Cruncher** · *tag* · “It’s enough for you,”
+- ¶70 · **Jerry Cruncher** · *tag* · “to be the wife of a honest tradesman, and not to occupy your female mind with calculations when he 
+- ¶74 · **Young Jerry** · *tag* · “Father,”
+- ¶74 · **Young Jerry** · *tag* · “what’s a Resurrection-Man?”
+- ¶75 · **Jerry Cruncher** · *NAMED* · “How should I know?”
+- ¶76 · **Young Jerry** · *INFERRED* · “I thought you knowed everything, father,”
+- ¶77 · **Jerry Cruncher** · *tag* · “Hem! Well,”
+- ¶77 · **Jerry Cruncher** · *tag* · “he’s a tradesman.”
+- ¶78 · **Young Jerry** · *tag* · “What’s his goods, father?”
+- ¶79 · **Jerry Cruncher** · *tag* · “His goods,”
+- ¶79 · **Jerry Cruncher** · *tag* · “is a branch of Scientific goods.”
+- ¶80 · **Young Jerry** · *INFERRED* · “Persons’ bodies, ain’t it, father?”
+- ¶81 · **Jerry Cruncher** · *tag* · “I believe it is something of that sort,”
+- ¶82 · **Young Jerry** · *INFERRED* · “Oh, father, I should so like to be a Resurrection-Man when I’m quite growed up!”
+- ¶83 · **Jerry Cruncher** · *INFERRED* · “It depends upon how you dewelop your talents. Be careful to dewelop your talents, and never to say 
+- ¶83 · **Jerry Cruncher** · *INFERRED* · “Jerry, you honest tradesman, there’s hopes wot that boy will yet be a blessing to you, and a recomp
+
+## Book 2, Chapter XV — Knitting
+
+- ¶7 · **Ernest Defarge** · *tag* · “Good day, gentlemen!”
+- ¶8 · **Ernest Defarge** · *INFERRED* · “Good day!”
+- ¶9 · **Ernest Defarge** · *tag* · “It is bad weather, gentlemen,”
+- ¶11 · **Ernest Defarge** · *tag* · “My wife,”
+- ¶11 · **Ernest Defarge** · *tag* · “I have travelled certain leagues with this good mender of roads, called Jacques. I met him--by acci
+- ¶14 · **Ernest Defarge** · *tag-pronoun* · “Have you finished your repast, friend?”
+- ¶15 · **Ernest Defarge** · *INFERRED* · “Yes, thank you.”
+- ¶16 · **Ernest Defarge** · *INFERRED* · “Come, then! You shall see the apartment that I told you you could occupy. It will suit you to a mar
+- ¶20 · **Ernest Defarge** · *INFERRED* · “Jacques One, Jacques Two, Jacques Three! This is the witness encountered by appointment, by me, Jac
+- ¶21 · **The mender of roads** · *NAMED* · “Where shall I commence, monsieur?”
+- ¶22 · **Ernest Defarge** · *INFERRED* · “Commence,”
+- ¶22 · **Ernest Defarge** · *INFERRED* · “at the commencement.”
+- ¶23 · **The mender of roads** · *tag* · “I saw him then, messieurs,”
+- ¶23 · **The mender of roads** · *tag* · “a year ago this running summer, underneath the carriage of the Marquis, hanging by the chain. Behol
+- ¶26 · **The mender of roads** · *tag* · “Never,”
+- ¶28 · **The mender of roads** · *tag* · “By his tall figure,”
+- ¶28 · **The mender of roads** · *tag* · “When Monsieur the Marquis demands that evening, ‘Say, what is he like?’ I make response, ‘Tall as a
+- ¶29 · **Narrator (minor)** · *tag* · “You should have said, short as a dwarf,”
+- ¶30 · **The mender of roads** · *INFERRED* · “But what did I know? The deed was not then accomplished, neither did he confide in me. Observe! Und
+- ¶31 · **Ernest Defarge** · *tag* · “He is right there, Jacques,”
+- ¶31 · **Ernest Defarge** · *tag* · “Go on!”
+- ¶32 · **The mender of roads** · *tag* · “Good!”
+- ¶32 · **The mender of roads** · *tag* · “The tall man is lost, and he is sought--how many months? Nine, ten, eleven?”
+- ¶33 · **Ernest Defarge** · *tag* · “No matter, the number,”
+- ¶33 · **Ernest Defarge** · *tag* · “He is well hidden, but at last he is unluckily found. Go on!”
+- ¶34 · **The mender of roads** · *INFERRED* · “I am again at work upon the hill-side, and the sun is again about to go to bed. I am collecting my 
+- ¶36 · **Ernest Defarge** · *INFERRED* · “I stand aside, messieurs, by my heap of stones, to see the soldiers and their prisoner pass (for it
+- ¶38 · **The mender of roads** · *INFERRED* · “I do not show the soldiers that I recognise the tall man; he does not show the soldiers that he rec
+- ¶40 · **Ernest Defarge** · *INFERRED* · “As they descend the hill like madmen running a race, he falls. They laugh and pick him up again. Hi
+- ¶41 · **Ernest Defarge** · *NAMED* · “Go on, Jacques.”
+- ¶42 · **The mender of roads** · *tag* · “All the village,”
+- ¶42 · **The mender of roads** · *tag* · “withdraws; all the village whispers by the fountain; all the village sleeps; all the village dreams
+- ¶44 · **Ernest Defarge** · *tag* · “Go on, Jacques,”
+- ¶45 · **The mender of roads** · *INFERRED* · “He remains up there in his iron cage some days. The village looks at him by stealth, for it is afra
+- ¶46 · **Ernest Defarge** · *INFERRED* · “Listen then, Jacques,”
+- ¶46 · **Ernest Defarge** · *INFERRED* · “Know that a petition was presented to the King and Queen. All here, yourself excepted, saw the King
+- ¶47 · **The mender of roads** · *INFERRED* · “And once again listen, Jacques!”
+- ¶47 · **The mender of roads** · *INFERRED* · “the guard, horse and foot, surrounded the petitioner, and struck him blows. You hear?”
+- ¶48 · **Ernest Defarge** · *INFERRED* · “I hear, messieurs.”
+- ¶49 · **Ernest Defarge** · *tag* · “Go on then,”
+- ¶50 · **The mender of roads** · *INFERRED* · “Again; on the other hand, they whisper at the fountain,”
+- ¶50 · **The mender of roads** · *INFERRED* · “that he is brought down into our country to be executed on the spot, and that he will very certainl
+- ¶51 · **Narrator (minor)** · *tag* · “Listen once again then, Jacques!”
+- ¶51 · **Narrator (minor)** · *tag* · “The name of that prisoner was Damiens, and it was all done in open day, in the open streets of this
+- ¶52 · **The mender of roads** · *tag* · “Thirty-five,”
+- ¶53 · **Narrator (minor)** · *INFERRED* · “It was done when you were more than ten years old; you might have seen it.”
+- ¶54 · **Ernest Defarge** · *tag* · “Enough!”
+- ¶54 · **Ernest Defarge** · *tag* · “Long live the Devil! Go on.”
+- ¶55 · **Narrator (minor)** · *INFERRED* · “Well! Some whisper this, some whisper that; they speak of nothing else; even the fountain appears t
+- ¶57 · **The mender of roads** · *tag-pronoun* · “All work is stopped, all assemble there, nobody leads the cows out, the cows are there with the res
+- ¶57 · **The mender of roads** · *tag-pronoun* · “On the top of the gallows is fixed the knife, blade upwards, with its point in the air. He is hange
+- ¶59 · **Narrator (minor)** · *INFERRED* · “It is frightful, messieurs. How can the women and the children draw water! Who can gossip of an eve
+- ¶61 · **The mender of roads** · *INFERRED* · “That’s all, messieurs. I left at sunset (as I had been warned to do), and I walked on, that night a
+- ¶62 · **Narrator (minor)** · *NAMED* · “Good! You have acted and recounted faithfully. Will you wait for us a little, outside the door?”
+- ¶63 · **The mender of roads** · *tag* · “Very willingly,”
+- ¶65 · **Narrator (minor)** · *INFERRED* · “How say you, Jacques?”
+- ¶65 · **Narrator (minor)** · *INFERRED* · “To be registered?”
+- ¶66 · **Ernest Defarge** · *tag* · “To be registered, as doomed to destruction,”
+- ¶67 · **Narrator (minor)** · *INFERRED* · “Magnificent!”
+- ¶68 · **Ernest Defarge** · *INFERRED* · “The chateau, and all the race?”
+- ¶69 · **Ernest Defarge** · *tag* · “The chateau and all the race,”
+- ¶69 · **Ernest Defarge** · *tag* · “Extermination.”
+- ¶70 · **Narrator (minor)** · *INFERRED* · “Magnificent!”
+- ¶71 · **Narrator (minor)** · *tag* · “Are you sure,”
+- ¶71 · **Narrator (minor)** · *tag* · “that no embarrassment can arise from our manner of keeping the register? Without doubt it is safe, 
+- ¶72 · **Ernest Defarge** · *tag* · “Jacques,”
+- ¶72 · **Ernest Defarge** · *tag* · “if madame my wife undertook to keep the register in her memory alone, she would not lose a word of 
+- ¶73 · **Narrator (minor)** · *NAMED* · “Is this rustic to be sent back soon? I hope so. He is very simple; is he not a little dangerous?”
+- ¶74 · **Ernest Defarge** · *tag* · “He knows nothing,”
+- ¶74 · **Ernest Defarge** · *tag* · “at least nothing more than would easily elevate himself to a gallows of the same height. I charge m
+- ¶75 · **Narrator (minor)** · *INFERRED* · “What?”
+- ¶75 · **Narrator (minor)** · *INFERRED* · “Is it a good sign, that he wishes to see Royalty and Nobility?”
+- ¶76 · **Ernest Defarge** · *tag* · “Jacques,”
+- ¶76 · **Ernest Defarge** · *tag* · “judiciously show a cat milk, if you wish her to thirst for it. Judiciously show a dog his natural p
+- ¶80 · **Narrator (minor)** · *INFERRED* · “You work hard, madame,”
+- ¶81 · **Madame Defarge** · *tag* · “Yes,”
+- ¶81 · **Madame Defarge** · *tag* · “I have a good deal to do.”
+- ¶82 · **Narrator (minor)** · *INFERRED* · “What do you make, madame?”
+- ¶83 · **Madame Defarge** · *INFERRED* · “Many things.”
+- ¶84 · **Narrator (minor)** · *INFERRED* · “For instance--”
+- ¶85 · **Madame Defarge** · *tag* · “For instance,”
+- ¶85 · **Madame Defarge** · *tag* · “shrouds.”
+- ¶87 · **Ernest Defarge** · *tag* · “Bravo!”
+- ¶87 · **Ernest Defarge** · *tag* · “you are a good boy!”
+- ¶89 · **Ernest Defarge** · *tag* · “You are the fellow we want,”
+- ¶89 · **Ernest Defarge** · *tag* · “you make these fools believe that it will last for ever. Then, they are the more insolent, and it i
+- ¶90 · **The mender of roads** · *tag* · “Hey!”
+- ¶90 · **The mender of roads** · *tag* · “that’s true.”
+- ¶91 · **Ernest Defarge** · *INFERRED* · “These fools know nothing. While they despise your breath, and would stop it for ever and ever, in y
+- ¶93 · **Madame Defarge** · *tag-pronoun* · “As to you,”
+- ¶93 · **Madame Defarge** · *tag-pronoun* · “you would shout and shed tears for anything, if it made a show and a noise. Say! Would you not?”
+- ¶94 · **Ernest Defarge** · *INFERRED* · “Truly, madame, I think so. For the moment.”
+- ¶95 · **Madame Defarge** · *INFERRED* · “If you were shown a great heap of dolls, and were set upon them to pluck them to pieces and despoil
+- ¶96 · **Ernest Defarge** · *INFERRED* · “Truly yes, madame.”
+- ¶97 · **Madame Defarge** · *INFERRED* · “Yes. And if you were shown a flock of birds, unable to fly, and were set upon them to strip them of
+- ¶98 · **Ernest Defarge** · *INFERRED* · “It is true, madame.”
+- ¶99 · **Madame Defarge** · *tag* · “You have seen both dolls and birds to-day,”
+- ¶99 · **Madame Defarge** · *tag* · “now, go home!”
+
+## Book 2, Chapter XVI — Still Knitting
+
+- ¶6 · **Narrator (minor)** · *INFERRED* · “Say then, my friend; what did Jacques of the police tell thee?”
+- ¶7 · **Narrator (minor)** · *INFERRED* · “Very little to-night, but all he knows. There is another spy commissioned for our quarter. There ma
+- ¶8 · **Madame Defarge** · *tag* · “Eh well!”
+- ¶8 · **Madame Defarge** · *tag* · “It is necessary to register him. How do they call that man?”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “He is English.”
+- ¶10 · **Madame Defarge** · *INFERRED* · “So much the better. His name?”
+- ¶11 · **Ernest Defarge** · *tag* · “Barsad,”
+- ¶12 · **Madame Defarge** · *tag* · “Barsad,”
+- ¶12 · **Madame Defarge** · *tag* · “Good. Christian name?”
+- ¶13 · **Ernest Defarge** · *INFERRED* · “John.”
+- ¶14 · **Madame Defarge** · *tag* · “John Barsad,”
+- ¶14 · **Madame Defarge** · *tag* · “Good. His appearance; is it known?”
+- ¶15 · **Ernest Defarge** · *INFERRED* · “Age, about forty years; height, about five feet nine; black hair; complexion dark; generally, rathe
+- ¶16 · **Madame Defarge** · *tag* · “Eh my faith. It is a portrait!”
+- ¶16 · **Madame Defarge** · *tag* · “He shall be registered to-morrow.”
+- ¶19 · **Madame Defarge** · *tag* · “You are fatigued,”
+- ¶19 · **Madame Defarge** · *tag* · “There are only the usual odours.”
+- ¶20 · **Ernest Defarge** · *INFERRED* · “I am a little tired,”
+- ¶21 · **Madame Defarge** · *tag* · “You are a little depressed, too,”
+- ¶21 · **Madame Defarge** · *tag* · “Oh, the men, the men!”
+- ¶22 · **Ernest Defarge** · *tag* · “But my dear!”
+- ¶23 · **Madame Defarge** · *tag* · “But my dear!”
+- ¶23 · **Madame Defarge** · *tag* · “but my dear! You are faint of heart to-night, my dear!”
+- ¶24 · **Ernest Defarge** · *tag* · “Well, then,”
+- ¶24 · **Ernest Defarge** · *tag* · “it _is_ a long time.”
+- ¶25 · **Madame Defarge** · *INFERRED* · “It is a long time,”
+- ¶25 · **Madame Defarge** · *INFERRED* · “and when is it not a long time? Vengeance and retribution require a long time; it is the rule.”
+- ¶26 · **Ernest Defarge** · *tag* · “It does not take a long time to strike a man with Lightning,”
+- ¶27 · **Madame Defarge** · *tag* · “How long,”
+- ¶27 · **Madame Defarge** · *tag* · “does it take to make and store the lightning? Tell me.”
+- ¶29 · **Madame Defarge** · *tag* · “It does not take a long time,”
+- ¶29 · **Madame Defarge** · *tag* · “for an earthquake to swallow a town. Eh well! Tell me how long it takes to prepare the earthquake?”
+- ¶30 · **Ernest Defarge** · *tag* · “A long time, I suppose,”
+- ¶31 · **Madame Defarge** · *INFERRED* · “But when it is ready, it takes place, and grinds to pieces everything before it. In the meantime, i
+- ¶33 · **Madame Defarge** · *tag* · “I tell thee,”
+- ¶33 · **Madame Defarge** · *tag* · “that although it is a long time on the road, it is on the road and coming. I tell thee it never ret
+- ¶34 · **Ernest Defarge** · *tag* · “My brave wife,”
+- ¶34 · **Ernest Defarge** · *tag* · “I do not question all this. But it has lasted a long time, and it is possible--you know well, my wi
+- ¶35 · **Madame Defarge** · *tag* · “Eh well! How then?”
+- ¶36 · **Ernest Defarge** · *tag* · “Well!”
+- ¶36 · **Ernest Defarge** · *tag* · “We shall not see the triumph.”
+- ¶37 · **Madame Defarge** · *tag* · “We shall have helped it,”
+- ¶37 · **Madame Defarge** · *tag* · “Nothing that we do, is done in vain. I believe, with all my soul, that we shall see the triumph. Bu
+- ¶39 · **Ernest Defarge** · *tag* · “Hold!”
+- ¶39 · **Ernest Defarge** · *tag* · “I too, my dear, will stop at nothing.”
+- ¶40 · **Madame Defarge** · *INFERRED* · “Yes! But it is your weakness that you sometimes need to see your victim and your opportunity, to su
+- ¶45 · **Ernest Defarge** · *INFERRED* · “Good day, madame,”
+- ¶46 · **Madame Defarge** · *INFERRED* · “Good day, monsieur.”
+- ¶47 · **Madame Defarge** · *PRONOUN* · “Hah! Good day, age about forty, height about five feet nine, black hair, generally rather handsome 
+- ¶48 · **Ernest Defarge** · *INFERRED* · “Have the goodness to give me a little glass of old cognac, and a mouthful of cool fresh water, mada
+- ¶50 · **Madame Defarge** · *INFERRED* · “Marvellous cognac this, madame!”
+- ¶52 · **Ernest Defarge** · *INFERRED* · “You knit with great skill, madame.”
+- ¶53 · **Madame Defarge** · *INFERRED* · “I am accustomed to it.”
+- ¶54 · **Ernest Defarge** · *INFERRED* · “A pretty pattern too!”
+- ¶55 · **Madame Defarge** · *tag* · “_You_ think so?”
+- ¶56 · **Ernest Defarge** · *INFERRED* · “Decidedly. May one ask what it is for?”
+- ¶57 · **Madame Defarge** · *tag* · “Pastime,”
+- ¶58 · **Ernest Defarge** · *INFERRED* · “Not for use?”
+- ¶59 · **Madame Defarge** · *tag* · “That depends. I may find a use for it one day. If I do--Well,”
+- ¶59 · **Madame Defarge** · *tag* · “I’ll use it!”
+- ¶61 · **Ernest Defarge** · *INFERRED* · “_John_,”
+- ¶61 · **Ernest Defarge** · *INFERRED* · “Stay long enough, and I shall knit ‘BARSAD’ before you go.”
+- ¶62 · **Madame Defarge** · *INFERRED* · “You have a husband, madame?”
+- ¶63 · **Ernest Defarge** · *INFERRED* · “I have.”
+- ¶64 · **Madame Defarge** · *INFERRED* · “Children?”
+- ¶65 · **Ernest Defarge** · *INFERRED* · “No children.”
+- ¶66 · **Madame Defarge** · *INFERRED* · “Business seems bad?”
+- ¶67 · **Ernest Defarge** · *INFERRED* · “Business is very bad; the people are so poor.”
+- ¶68 · **Madame Defarge** · *INFERRED* · “Ah, the unfortunate, miserable people! So oppressed, too--as you say.”
+- ¶69 · **Ernest Defarge** · *INFERRED* · “As _you_ say,”
+- ¶70 · **Madame Defarge** · *INFERRED* · “Pardon me; certainly it was I who said so, but you naturally think so. Of course.”
+- ¶71 · **Madame Defarge** · *tag* · “_I_ think?”
+- ¶71 · **Madame Defarge** · *tag* · “I and my husband have enough to do to keep this wine-shop open, without thinking. All we think, her
+- ¶73 · **Ernest Defarge** · *INFERRED* · “A bad business this, madame, of Gaspard’s execution. Ah! the poor Gaspard!”
+- ¶74 · **Madame Defarge** · *tag* · “My faith!”
+- ¶74 · **Madame Defarge** · *tag* · “if people use knives for such purposes, they have to pay for it. He knew beforehand what the price 
+- ¶75 · **John Barsad** · *tag* · “I believe,”
+- ¶75 · **John Barsad** · *tag* · “I believe there is much compassion and anger in this neighbourhood, touching the poor fellow? Betwe
+- ¶76 · **Madame Defarge** · *tag* · “Is there?”
+- ¶77 · **John Barsad** · *INFERRED* · “Is there not?”
+- ¶78 · **Madame Defarge** · *tag* · “--Here is my husband!”
+- ¶79 · **Ernest Defarge** · *NAMED* · “Good day, Jacques!”
+- ¶80 · **Madame Defarge** · *INFERRED* · “Good day, Jacques!”
+- ¶81 · **Ernest Defarge** · *tag* · “You deceive yourself, monsieur,”
+- ¶81 · **Ernest Defarge** · *tag* · “You mistake me for another. That is not my name. I am Ernest Defarge.”
+- ¶82 · **John Barsad** · *tag* · “It is all the same,”
+- ¶82 · **John Barsad** · *tag* · “good day!”
+- ¶83 · **Ernest Defarge** · *tag* · “Good day!”
+- ¶84 · **John Barsad** · *INFERRED* · “I was saying to madame, with whom I had the pleasure of chatting when you entered, that they tell m
+- ¶85 · **Ernest Defarge** · *tag* · “No one has told me so,”
+- ¶85 · **Ernest Defarge** · *tag* · “I know nothing of it.”
+- ¶88 · **Ernest Defarge** · *tag* · “You seem to know this quarter well; that is to say, better than I do?”
+- ¶89 · **John Barsad** · *INFERRED* · “Not at all, but I hope to know it better. I am so profoundly interested in its miserable inhabitant
+- ¶90 · **Ernest Defarge** · *tag* · “Hah!”
+- ¶91 · **John Barsad** · *tag* · “The pleasure of conversing with you, Monsieur Defarge, recalls to me,”
+- ¶91 · **John Barsad** · *tag* · “that I have the honour of cherishing some interesting associations with your name.”
+- ¶92 · **Ernest Defarge** · *tag* · “Indeed!”
+- ¶93 · **John Barsad** · *INFERRED* · “Yes, indeed. When Doctor Manette was released, you, his old domestic, had the charge of him, I know
+- ¶94 · **Ernest Defarge** · *tag* · “Such is the fact, certainly,”
+- ¶95 · **John Barsad** · *tag* · “It was to you,”
+- ¶95 · **John Barsad** · *tag* · “that his daughter came; and it was from your care that his daughter took him, accompanied by a neat
+- ¶96 · **Ernest Defarge** · *tag* · “Such is the fact,”
+- ¶97 · **John Barsad** · *tag* · “Very interesting remembrances!”
+- ¶97 · **John Barsad** · *tag* · “I have known Doctor Manette and his daughter, in England.”
+- ¶98 · **Ernest Defarge** · *tag* · “Yes?”
+- ¶99 · **John Barsad** · *tag* · “You don’t hear much about them now?”
+- ¶100 · **Ernest Defarge** · *tag* · “No,”
+- ¶101 · **John Barsad** · *INFERRED* · “In effect,”
+- ¶101 · **John Barsad** · *INFERRED* · “we never hear about them. We received the news of their safe arrival, and perhaps another letter, o
+- ¶102 · **John Barsad** · *tag* · “Perfectly so, madame,”
+- ¶102 · **John Barsad** · *tag* · “She is going to be married.”
+- ¶103 · **Madame Defarge** · *tag* · “Going?”
+- ¶103 · **Madame Defarge** · *tag* · “She was pretty enough to have been married long ago. You English are cold, it seems to me.”
+- ¶104 · **John Barsad** · *INFERRED* · “Oh! You know I am English.”
+- ¶105 · **Madame Defarge** · *tag* · “I perceive your tongue is,”
+- ¶105 · **Madame Defarge** · *tag* · “and what the tongue is, I suppose the man is.”
+- ¶107 · **John Barsad** · *INFERRED* · “Yes, Miss Manette is going to be married. But not to an Englishman; to one who, like herself, is Fr
+- ¶110 · **Ernest Defarge** · *tag* · “Can it be true,”
+- ¶110 · **Ernest Defarge** · *tag* · “what he has said of Ma’amselle Manette?”
+- ¶111 · **Madame Defarge** · *tag* · “As he has said it,”
+- ¶111 · **Madame Defarge** · *tag* · “it is probably false. But it may be true.”
+- ¶112 · **Ernest Defarge** · *tag* · “If it is--”
+- ¶113 · **Madame Defarge** · *INFERRED* · “If it is?”
+- ¶114 · **Ernest Defarge** · *INFERRED* · “--And if it does come, while we live to see it triumph--I hope, for her sake, Destiny will keep her
+- ¶115 · **Madame Defarge** · *tag* · “Her husband’s destiny,”
+- ¶115 · **Madame Defarge** · *tag* · “will take him where he is to go, and will lead him to the end that is to end him. That is all I kno
+- ¶116 · **Ernest Defarge** · *tag* · “But it is very strange--now, at least, is it not very strange”
+- ¶116 · **Ernest Defarge** · *tag* · “that, after all our sympathy for Monsieur her father, and herself, her husband’s name should be pro
+- ¶117 · **Madame Defarge** · *tag* · “Stranger things than that will happen when it does come,”
+- ¶117 · **Madame Defarge** · *tag* · “I have them both here, of a certainty; and they are both here for their merits; that is enough.”
+- ¶121 · **Ernest Defarge** · *tag-pronoun* · “A great woman,”
+- ¶121 · **Ernest Defarge** · *tag-pronoun* · “a strong woman, a grand woman, a frightfully grand woman!”
+
+## Book 2, Chapter XVII — One Night
+
+- ¶4 · **Narrator (minor)** · *INFERRED* · “You are happy, my dear father?”
+- ¶5 · **Narrator (minor)** · *INFERRED* · “Quite, my child.”
+- ¶7 · **Narrator (minor)** · *INFERRED* · “And I am very happy to-night, dear father. I am deeply happy in the love that Heaven has so blessed
+- ¶10 · **Narrator (minor)** · *INFERRED* · “Dearest dear! Can you tell me, this last time, that you feel quite, quite sure, no new affections o
+- ¶11 · **Charles Darnay** · *tag-pronoun* · “Quite sure, my darling! More than that,”
+- ¶11 · **Charles Darnay** · *tag-pronoun* · “my future is far brighter, Lucie, seen through your marriage, than it could have been--nay, than it
+- ¶12 · **Narrator (minor)** · *INFERRED* · “If I could hope _that_, my father!--”
+- ¶13 · **Charles Darnay** · *INFERRED* · “Believe it, love! Indeed it is so. Consider how natural and how plain it is, my dear, that it shoul
+- ¶15 · **Narrator (minor)** · *INFERRED* · “--wasted, my child--should not be wasted, struck aside from the natural order of things--for my sak
+- ¶16 · **Charles Darnay** · *INFERRED* · “If I had never seen Charles, my father, I should have been quite happy with you.”
+- ¶18 · **Narrator (minor)** · *INFERRED* · “My child, you did see him, and it is Charles. If it had not been Charles, it would have been anothe
+- ¶20 · **Doctor Manette** · *tag* · “See!”
+- ¶20 · **Doctor Manette** · *tag* · “I have looked at her from my prison-window, when I could not bear her light. I have looked at her w
+- ¶20 · **Doctor Manette** · *tag* · “It was twenty either way, I remember, and the twentieth was difficult to squeeze in.”
+- ¶22 · **Narrator (minor)** · *INFERRED* · “I have looked at her, speculating thousands of times upon the unborn child from whom I had been ren
+- ¶24 · **Doctor Manette** · *INFERRED* · “I have pictured my daughter, to myself, as perfectly forgetful of me--rather, altogether ignorant o
+- ¶25 · **Narrator (minor)** · *INFERRED* · “My father! Even to hear that you had such thoughts of a daughter who never existed, strikes to my h
+- ¶26 · **Doctor Manette** · *INFERRED* · “You, Lucie? It is out of the Consolation and restoration you have brought to me, that these remembr
+- ¶27 · **Narrator (minor)** · *INFERRED* · “She knew nothing of you. She cared nothing for you.”
+- ¶28 · **Doctor Manette** · *INFERRED* · “So! But on other moonlight nights, when the sadness and the silence have touched me in a different 
+- ¶29 · **Narrator (minor)** · *INFERRED* · “The figure was not; the--the--image; the fancy?”
+- ¶30 · **Doctor Manette** · *INFERRED* · “No. That was another thing. It stood before my disturbed sense of sight, but it never moved. The ph
+- ¶32 · **Narrator (minor)** · *INFERRED* · “In that more peaceful state, I have imagined her, in the moonlight, coming to me and taking me out 
+- ¶33 · **Doctor Manette** · *INFERRED* · “I was that child, my father, I was not half so good, but in my love that was I.”
+- ¶34 · **Doctor Manette** · *tag* · “And she showed me her children,”
+- ¶34 · **Doctor Manette** · *tag* · “and they had heard of me, and had been taught to pity me. When they passed a prison of the State, t
+- ¶35 · **Narrator (minor)** · *INFERRED* · “I am that child, I hope, my father. O my dear, my dear, will you bless me as fervently to-morrow?”
+- ¶36 · **Doctor Manette** · *INFERRED* · “Lucie, I recall these old troubles in the reason that I have to-night for loving you better than wo
+
+## Book 2, Chapter XVIII — Nine Days
+
+- ¶3 · **Jarvis Lorry** · *tag* · “And so,”
+- ¶3 · **Jarvis Lorry** · *tag* · “and so it was for this, my sweet Lucie, that I brought you across the Channel, such a baby! Lord bl
+- ¶4 · **Miss Pross** · *tag* · “You didn’t mean it,”
+- ¶4 · **Miss Pross** · *tag* · “and therefore how could you know it? Nonsense!”
+- ¶5 · **Jarvis Lorry** · *tag* · “Really? Well; but don’t cry,”
+- ¶6 · **Miss Pross** · *tag* · “I am not crying,”
+- ¶6 · **Miss Pross** · *tag* · “_you_ are.”
+- ¶7 · **Jarvis Lorry** · *INFERRED* · “I, my Pross?”
+- ¶8 · **Miss Pross** · *tag* · “You were, just now; I saw you do it, and I don’t wonder at it. Such a present of plate as you have 
+- ¶8 · **Miss Pross** · *tag* · “that I didn’t cry over, last night after the box came, till I couldn’t see it.”
+- ¶9 · **Jarvis Lorry** · *tag* · “I am highly gratified,”
+- ¶9 · **Jarvis Lorry** · *tag* · “though, upon my honour, I had no intention of rendering those trifling articles of remembrance invi
+- ¶10 · **Miss Pross** · *INFERRED* · “Not at all!”
+- ¶11 · **Jarvis Lorry** · *INFERRED* · “You think there never might have been a Mrs. Lorry?”
+- ¶12 · **Miss Pross** · *tag* · “Pooh!”
+- ¶12 · **Miss Pross** · *tag* · “you were a bachelor in your cradle.”
+- ¶13 · **Jarvis Lorry** · *tag* · “Well!”
+- ¶13 · **Jarvis Lorry** · *tag* · “that seems probable, too.”
+- ¶14 · **Miss Pross** · *tag* · “And you were cut out for a bachelor,”
+- ¶14 · **Miss Pross** · *tag* · “before you were put in your cradle.”
+- ¶15 · **Jarvis Lorry** · *tag* · “Then, I think,”
+- ¶15 · **Jarvis Lorry** · *tag* · “that I was very unhandsomely dealt with, and that I ought to have had a voice in the selection of m
+- ¶15 · **Jarvis Lorry** · *tag* · “I hear them moving in the next room, and Miss Pross and I, as two formal folks of business, are anx
+- ¶20 · **Doctor Manette** · *NAMED* · “Take her, Charles! She is yours!”
+- ¶24 · **Ernest Defarge** · *tag-pronoun* · “I think,”
+- ¶24 · **Ernest Defarge** · *tag-pronoun* · “I think we had best not speak to him just now, or at all disturb him. I must look in at Tellson’s; 
+- ¶26 · **Doctor Manette** · *tag-pronoun* · “Good God!”
+- ¶26 · **Doctor Manette** · *tag-pronoun* · “What’s that?”
+- ¶27 · **Miss Pross** · *tag-pronoun* · “O me, O me! All is lost!”
+- ¶27 · **Miss Pross** · *tag-pronoun* · “What is to be told to Ladybird? He doesn’t know me, and is making shoes!”
+- ¶29 · **Doctor Manette** · *INFERRED* · “Doctor Manette. My dear friend, Doctor Manette!”
+- ¶33 · **Jarvis Lorry** · *tag-pronoun* · “A young lady’s walking shoe,”
+- ¶33 · **Jarvis Lorry** · *tag-pronoun* · “It ought to have been finished long ago. Let it be.”
+- ¶34 · **Doctor Manette** · *INFERRED* · “But, Doctor Manette. Look at me!”
+- ¶36 · **Jarvis Lorry** · *INFERRED* · “You know me, my dear friend? Think again. This is not your proper occupation. Think, dear friend!”
+- ¶43 · **Doctor Manette** · *INFERRED* · “Will you go out?”
+- ¶45 · **Jarvis Lorry** · *INFERRED* · “Out?”
+- ¶46 · **Doctor Manette** · *INFERRED* · “Yes; for a walk with me. Why not?”
+- ¶47 · **Jarvis Lorry** · *NAMED* · “Why not?”
+- ¶51 · **Doctor Manette** · *INFERRED* · “Dear Doctor, will you go out?”
+- ¶52 · **Doctor Manette** · *PRONOUN* · “Out?”
+- ¶53 · **Jarvis Lorry** · *INFERRED* · “Yes; for a walk with me. Why not?”
+
+## Book 2, Chapter XIX — An Opinion
+
+- ¶10 · **Narrator (minor)** · *INFERRED* · “My dear Manette, I am anxious to have your opinion, in confidence, on a very curious case in which 
+- ¶12 · **Jarvis Lorry** · *tag* · “Doctor Manette,”
+- ¶12 · **Jarvis Lorry** · *tag* · “the case is the case of a particularly dear friend of mine. Pray give your mind to it, and advise m
+- ¶13 · **Doctor Manette** · *tag* · “If I understand,”
+- ¶13 · **Doctor Manette** · *tag* · “some mental shock--?”
+- ¶14 · **Jarvis Lorry** · *INFERRED* · “Yes!”
+- ¶15 · **Doctor Manette** · *tag* · “Be explicit,”
+- ¶15 · **Doctor Manette** · *tag* · “Spare no detail.”
+- ¶17 · **Jarvis Lorry** · *INFERRED* · “My dear Manette, it is the case of an old and a prolonged shock, of great acuteness and severity to
+- ¶17 · **Jarvis Lorry** · *INFERRED* · “a slight relapse.”
+- ¶18 · **Doctor Manette** · *INFERRED* · “Of how long duration?”
+- ¶19 · **Jarvis Lorry** · *INFERRED* · “Nine days and nights.”
+- ¶20 · **Doctor Manette** · *INFERRED* · “How did it show itself? I infer,”
+- ¶20 · **Doctor Manette** · *INFERRED* · “in the resumption of some old pursuit connected with the shock?”
+- ¶21 · **Jarvis Lorry** · *INFERRED* · “That is the fact.”
+- ¶22 · **Doctor Manette** · *tag* · “Now, did you ever see him,”
+- ¶22 · **Doctor Manette** · *tag* · “engaged in that pursuit originally?”
+- ¶23 · **Jarvis Lorry** · *INFERRED* · “Once.”
+- ¶24 · **Doctor Manette** · *INFERRED* · “And when the relapse fell on him, was he in most respects--or in all respects--as he was then?”
+- ¶25 · **Jarvis Lorry** · *INFERRED* · “I think in all respects.”
+- ¶26 · **Doctor Manette** · *INFERRED* · “You spoke of his daughter. Does his daughter know of the relapse?”
+- ¶27 · **Jarvis Lorry** · *INFERRED* · “No. It has been kept from her, and I hope will always be kept from her. It is known only to myself,
+- ¶28 · **Doctor Manette** · *INFERRED* · “That was very kind. That was very thoughtful!”
+- ¶29 · **Jarvis Lorry** · *tag* · “Now, my dear Manette,”
+- ¶29 · **Jarvis Lorry** · *tag* · “I am a mere man of business, and unfit to cope with such intricate and difficult matters. I do not 
+- ¶30 · **Doctor Manette** · *INFERRED* · “But I don’t know how to originate, in such a case. If your sagacity, knowledge, and experience, cou
+- ¶32 · **Doctor Manette** · *tag* · “I think it probable,”
+- ¶32 · **Doctor Manette** · *tag* · “that the relapse you have described, my dear friend, was not quite unforeseen by its subject.”
+- ¶33 · **Jarvis Lorry** · *tag* · “Was it dreaded by him?”
+- ¶34 · **Jarvis Lorry** · *tag-pronoun* · “Very much.”
+- ¶35 · **Doctor Manette** · *INFERRED* · “You have no idea how such an apprehension weighs on the sufferer’s mind, and how difficult--how alm
+- ¶36 · **Jarvis Lorry** · *tag* · “Would he,”
+- ¶36 · **Jarvis Lorry** · *tag* · “be sensibly relieved if he could prevail upon himself to impart that secret brooding to any one, wh
+- ¶37 · **Doctor Manette** · *INFERRED* · “I think so. But it is, as I have told you, next to impossible. I even believe it--in some cases--to
+- ¶38 · **Jarvis Lorry** · *tag* · “Now,”
+- ¶38 · **Jarvis Lorry** · *tag* · “to what would you refer this attack?”
+- ¶39 · **Doctor Manette** · *tag* · “I believe,”
+- ¶39 · **Doctor Manette** · *tag* · “that there had been a strong and extraordinary revival of the train of thought and remembrance that
+- ¶40 · **Jarvis Lorry** · *tag* · “Would he remember what took place in the relapse?”
+- ¶41 · **Doctor Manette** · *INFERRED* · “Not at all.”
+- ¶42 · **Jarvis Lorry** · *INFERRED* · “Now, as to the future,”
+- ¶43 · **Doctor Manette** · *tag* · “As to the future,”
+- ¶43 · **Doctor Manette** · *tag* · “I should have great hope. As it pleased Heaven in its mercy to restore him so soon, I should have g
+- ¶44 · **Jarvis Lorry** · *tag* · “Well, well! That’s good comfort. I am thankful!”
+- ¶45 · **Doctor Manette** · *tag* · “I am thankful!”
+- ¶46 · **Jarvis Lorry** · *tag* · “There are two other points,”
+- ¶46 · **Jarvis Lorry** · *tag* · “on which I am anxious to be instructed. I may go on?”
+- ¶47 · **Doctor Manette** · *INFERRED* · “You cannot do your friend a better service.”
+- ¶48 · **Jarvis Lorry** · *INFERRED* · “To the first, then. He is of a studious habit, and unusually energetic; he applies himself with gre
+- ¶49 · **Doctor Manette** · *INFERRED* · “I think not. It may be the character of his mind, to be always in singular need of occupation. That
+- ¶50 · **Jarvis Lorry** · *INFERRED* · “You are sure that he is not under too great a strain?”
+- ¶51 · **Doctor Manette** · *INFERRED* · “I think I am quite sure of it.”
+- ¶52 · **Jarvis Lorry** · *INFERRED* · “My dear Manette, if he were overworked now--”
+- ¶53 · **Doctor Manette** · *INFERRED* · “My dear Lorry, I doubt if that could easily be. There has been a violent stress in one direction, a
+- ¶54 · **Jarvis Lorry** · *INFERRED* · “Excuse me, as a persistent man of business. Assuming for a moment, that he _was_ overworked; it wou
+- ¶55 · **Doctor Manette** · *tag* · “I do not think so. I do not think,”
+- ¶55 · **Doctor Manette** · *tag* · “that anything but the one train of association would renew it. I think that, henceforth, nothing bu
+- ¶57 · **Jarvis Lorry** · *tag* · “The occupation resumed under the influence of this passing affliction so happily recovered from,”
+- ¶57 · **Jarvis Lorry** · *tag* · “we will call--Blacksmith’s work, Blacksmith’s work. We will say, to put a case and for the sake of 
+- ¶59 · **Jarvis Lorry** · *tag* · “He has always kept it by him,”
+- ¶59 · **Jarvis Lorry** · *tag* · “Now, would it not be better that he should let it go?”
+- ¶61 · **Jarvis Lorry** · *tag* · “You do not find it easy to advise me?”
+- ¶61 · **Jarvis Lorry** · *tag* · “I quite understand it to be a nice question. And yet I think--”
+- ¶62 · **Doctor Manette** · *tag* · “You see,”
+- ¶62 · **Doctor Manette** · *tag* · “it is very hard to explain, consistently, the innermost workings of this poor man’s mind. He once y
+- ¶64 · **Jarvis Lorry** · *INFERRED* · “But may not--mind! I ask for information, as a plodding man of business who only deals with such ma
+- ¶66 · **Doctor Manette** · *tag* · “You see, too,”
+- ¶66 · **Doctor Manette** · *tag* · “it is such an old companion.”
+- ¶67 · **Jarvis Lorry** · *tag* · “I would not keep it,”
+- ¶67 · **Jarvis Lorry** · *tag* · “I would recommend him to sacrifice it. I only want your authority. I am sure it does no good. Come!
+- ¶69 · **Doctor Manette** · *INFERRED* · “In her name, then, let it be done; I sanction it. But, I would not take it away while he was presen
+
+## Book 2, Chapter XX — A Plea
+
+- ¶4 · **Sydney Carton** · *tag* · “Mr. Darnay,”
+- ¶4 · **Sydney Carton** · *tag* · “I wish we might be friends.”
+- ¶5 · **Sydney Carton** · *INFERRED* · “We are already friends, I hope.”
+- ¶6 · **Sydney Carton** · *INFERRED* · “You are good enough to say so, as a fashion of speech; but, I don’t mean any fashion of speech. Ind
+- ¶8 · **Sydney Carton** · *tag* · “Upon my life,”
+- ¶8 · **Sydney Carton** · *tag* · “I find that easier to comprehend in my own mind, than to convey to yours. However, let me try. You 
+- ¶9 · **Sydney Carton** · *INFERRED* · “I remember a certain famous occasion when you forced me to confess that you had been drinking.”
+- ¶10 · **Sydney Carton** · *INFERRED* · “I remember it too. The curse of those occasions is heavy upon me, for I always remember them. I hop
+- ¶11 · **Sydney Carton** · *INFERRED* · “I am not at all alarmed. Earnestness in you, is anything but alarming to me.”
+- ¶12 · **Sydney Carton** · *tag* · “Ah!”
+- ¶12 · **Sydney Carton** · *tag* · “On the drunken occasion in question (one of a large number, as you know), I was insufferable about 
+- ¶13 · **Sydney Carton** · *INFERRED* · “I forgot it long ago.”
+- ¶14 · **Sydney Carton** · *INFERRED* · “Fashion of speech again! But, Mr. Darnay, oblivion is not so easy to me, as you represent it to be 
+- ¶15 · **Charles Darnay** · *tag* · “If it was a light answer,”
+- ¶15 · **Charles Darnay** · *tag* · “I beg your forgiveness for it. I had no other object than to turn a slight thing, which, to my surp
+- ¶16 · **Sydney Carton** · *tag* · “As to the great service,”
+- ¶16 · **Sydney Carton** · *tag* · “I am bound to avow to you, when you speak of it in that way, that it was mere professional claptrap
+- ¶17 · **Charles Darnay** · *tag* · “You make light of the obligation,”
+- ¶17 · **Charles Darnay** · *tag* · “but I will not quarrel with _your_ light answer.”
+- ¶18 · **Sydney Carton** · *INFERRED* · “Genuine truth, Mr. Darnay, trust me! I have gone aside from my purpose; I was speaking about our be
+- ¶19 · **Charles Darnay** · *INFERRED* · “I prefer to form my own opinion, without the aid of his.”
+- ¶20 · **Sydney Carton** · *INFERRED* · “Well! At any rate you know me as a dissolute dog, who has never done any good, and never will.”
+- ¶21 · **Charles Darnay** · *INFERRED* · “I don’t know that you ‘never will.’”
+- ¶22 · **Sydney Carton** · *INFERRED* · “But I do, and you must take my word for it. Well! If you could endure to have such a worthless fell
+- ¶23 · **Charles Darnay** · *INFERRED* · “Will you try?”
+- ¶24 · **Sydney Carton** · *INFERRED* · “That is another way of saying that I am placed on the footing I have indicated. I thank you, Darnay
+- ¶25 · **Charles Darnay** · *INFERRED* · “I think so, Carton, by this time.”
+- ¶29 · **Charles Darnay** · *tag* · “We are thoughtful to-night!”
+- ¶30 · **Sydney Carton** · *INFERRED* · “Yes, dearest Charles,”
+- ¶30 · **Sydney Carton** · *INFERRED* · “we are rather thoughtful to-night, for we have something on our mind to-night.”
+- ¶31 · **Charles Darnay** · *INFERRED* · “What is it, my Lucie?”
+- ¶32 · **Sydney Carton** · *INFERRED* · “Will you promise not to press one question on me, if I beg you not to ask it?”
+- ¶33 · **Charles Darnay** · *INFERRED* · “Will I promise? What will I not promise to my Love?”
+- ¶35 · **Sydney Carton** · *INFERRED* · “I think, Charles, poor Mr. Carton deserves more consideration and respect than you expressed for hi
+- ¶36 · **Charles Darnay** · *INFERRED* · “Indeed, my own? Why so?”
+- ¶37 · **Sydney Carton** · *INFERRED* · “That is what you are not to ask me. But I think--I know--he does.”
+- ¶38 · **Charles Darnay** · *INFERRED* · “If you know it, it is enough. What would you have me do, my Life?”
+- ¶39 · **Sydney Carton** · *INFERRED* · “I would ask you, dearest, to be very generous with him always, and very lenient on his faults when 
+- ¶40 · **Charles Darnay** · *tag* · “It is a painful reflection to me,”
+- ¶40 · **Charles Darnay** · *tag* · “that I should have done him any wrong. I never thought this of him.”
+- ¶41 · **Sydney Carton** · *INFERRED* · “My husband, it is so. I fear he is not to be reclaimed; there is scarcely a hope that anything in h
+- ¶43 · **Lucie Manette** · *tag-pronoun* · “And, O my dearest Love!”
+- ¶43 · **Lucie Manette** · *tag-pronoun* · “remember how strong we are in our happiness, and how weak he is in his misery!”
+- ¶44 · **Sydney Carton** · *INFERRED* · “I will always remember it, dear Heart! I will remember it as long as I live.”
+- ¶46 · **Lucie Manette** · *INFERRED* · “God bless her for her sweet compassion!”
+
+## Book 2, Chapter XXI — Echoing Footsteps
+
+- ¶6 · **Doctor Manette** · *PRONOUN* · “Dear papa and mamma, I am very sorry to leave you both, and to leave my pretty sister; but I am cal
+- ¶9 · **Doctor Manette** · *INFERRED* · “Poor Carton! Kiss him for me!”
+- ¶11 · **Doctor Manette** · *INFERRED* · “Halloa! here are three lumps of bread-and-cheese towards your matrimonial picnic, Darnay!”
+- ¶11 · **Doctor Manette** · *INFERRED* · “catch”
+- ¶11 · **Doctor Manette** · *INFERRED* · “not to be caught.”
+- ¶12 · **Doctor Manette** · *NAMED* · “What is the magic secret, my darling, of your being everything to all of us, as if there were only 
+- ¶15 · **Jarvis Lorry** · *tag* · “I began to think,”
+- ¶15 · **Jarvis Lorry** · *tag* · “that I should have to pass the night at Tellson’s. We have been so full of business all day, that w
+- ¶16 · **Doctor Manette** · *INFERRED* · “That has a bad look,”
+- ¶17 · **Jarvis Lorry** · *INFERRED* · “A bad look, you say, my dear Darnay? Yes, but we don’t know what reason there is in it. People are 
+- ¶18 · **Charles Darnay** · *tag* · “Still,”
+- ¶18 · **Charles Darnay** · *tag* · “you know how gloomy and threatening the sky is.”
+- ¶19 · **Jarvis Lorry** · *tag* · “I know that, to be sure,”
+- ¶19 · **Jarvis Lorry** · *tag* · “but I am determined to be peevish after my long day’s botheration. Where is Manette?”
+- ¶20 · **Doctor Manette** · *tag* · “Here he is,”
+- ¶21 · **Jarvis Lorry** · *INFERRED* · “I am quite glad you are at home; for these hurries and forebodings by which I have been surrounded 
+- ¶22 · **Doctor Manette** · *tag* · “No; I am going to play backgammon with you, if you like,”
+- ¶23 · **Jarvis Lorry** · *INFERRED* · “I don’t think I do like, if I may speak my mind. I am not fit to be pitted against you to-night. Is
+- ¶24 · **Doctor Manette** · *INFERRED* · “Of course, it has been kept for you.”
+- ¶25 · **Jarvis Lorry** · *INFERRED* · “Thank ye, my dear. The precious child is safe in bed?”
+- ¶26 · **Doctor Manette** · *INFERRED* · “And sleeping soundly.”
+- ¶27 · **Jarvis Lorry** · *INFERRED* · “That’s right; all safe and well! I don’t know why anything should be otherwise than safe and well h
+- ¶28 · **Doctor Manette** · *INFERRED* · “Not a theory; it was a fancy.”
+- ¶29 · **Jarvis Lorry** · *tag* · “A fancy, then, my wise pet,”
+- ¶29 · **Jarvis Lorry** · *tag* · “They are very numerous and very loud, though, are they not? Only hear them!”
+- ¶34 · **Ernest Defarge** · *tag* · “Keep near to me, Jacques Three,”
+- ¶34 · **Ernest Defarge** · *tag* · “and do you, Jacques One and Two, separate and put yourselves at the head of as many of these patrio
+- ¶35 · **Madame Defarge** · *tag* · “Eh, well! Here you see me!”
+- ¶36 · **Ernest Defarge** · *INFERRED* · “Where do you go, my wife?”
+- ¶37 · **Madame Defarge** · *tag* · “I go,”
+- ¶37 · **Madame Defarge** · *tag* · “with you at present. You shall see me at the head of women, by-and-bye.”
+- ¶38 · **Ernest Defarge** · *tag* · “Come, then!”
+- ¶38 · **Ernest Defarge** · *tag* · “Patriots and friends, we are ready! The Bastille!”
+- ¶41 · **Madame Defarge** · *INFERRED* · “Work, comrades all, work! Work, Jacques One, Jacques Two, Jacques One Thousand, Jacques Two Thousan
+- ¶42 · **Madame Defarge** · *tag* · “To me, women!”
+- ¶42 · **Madame Defarge** · *tag* · “What! We can kill as well as the men when the place is taken!”
+- ¶46 · **Ernest Defarge** · *INFERRED* · “The Prisoners!”
+- ¶47 · **Madame Defarge** · *INFERRED* · “The Records!”
+- ¶48 · **Ernest Defarge** · *INFERRED* · “The secret cells!”
+- ¶49 · **Madame Defarge** · *INFERRED* · “The instruments of torture!”
+- ¶50 · **Ernest Defarge** · *INFERRED* · “The Prisoners!”
+- ¶51 · **Madame Defarge** · *INFERRED* · “The Prisoners!”
+- ¶52 · **Ernest Defarge** · *tag* · “Show me the North Tower!”
+- ¶52 · **Ernest Defarge** · *tag* · “Quick!”
+- ¶53 · **Narrator (minor)** · *tag* · “I will faithfully,”
+- ¶53 · **Narrator (minor)** · *tag* · “if you will come with me. But there is no one there.”
+- ¶54 · **Ernest Defarge** · *tag* · “What is the meaning of One Hundred and Five, North Tower?”
+- ¶54 · **Ernest Defarge** · *tag* · “Quick!”
+- ¶55 · **Narrator (minor)** · *INFERRED* · “The meaning, monsieur?”
+- ¶56 · **Ernest Defarge** · *INFERRED* · “Does it mean a captive, or a place of captivity? Or do you mean that I shall strike you dead?”
+- ¶57 · **Narrator (minor)** · *INFERRED* · “Kill him!”
+- ¶58 · **Ernest Defarge** · *INFERRED* · “Monsieur, it is a cell.”
+- ¶59 · **Narrator (minor)** · *INFERRED* · “Show it me!”
+- ¶60 · **Ernest Defarge** · *INFERRED* · “Pass this way, then.”
+- ¶64 · **Narrator (minor)** · *INFERRED* · “One hundred and five, North Tower!”
+- ¶66 · **Ernest Defarge** · *tag* · “Pass that torch slowly along these walls, that I may see them,”
+- ¶68 · **Narrator (minor)** · *INFERRED* · “Stop!--Look here, Jacques!”
+- ¶69 · **Ernest Defarge** · *INFERRED* · “A. M.!”
+- ¶70 · **Ernest Defarge** · *tag* · “Alexandre Manette,”
+- ¶70 · **Ernest Defarge** · *tag* · “And here he wrote ‘a poor physician.’ And it was he, without doubt, who scratched a calendar on thi
+- ¶72 · **Ernest Defarge** · *tag-pronoun* · “Hold the light higher!”
+- ¶72 · **Ernest Defarge** · *tag-pronoun* · “Look among those fragments with care, Jacques. And see! Here is my knife,”
+- ¶72 · **Ernest Defarge** · *tag-pronoun* · “rip open that bed, and search the straw. Hold the light higher, you!”
+- ¶74 · **Narrator (minor)** · *INFERRED* · “Nothing in the wood, and nothing in the straw, Jacques?”
+- ¶75 · **Ernest Defarge** · *INFERRED* · “Nothing.”
+- ¶76 · **Narrator (minor)** · *INFERRED* · “Let us collect them together, in the middle of the cell. So! Light them, you!”
+- ¶79 · **Madame Defarge** · *tag-pronoun* · “See, there is my husband!”
+- ¶79 · **Madame Defarge** · *tag-pronoun* · “See Defarge!”
+- ¶80 · **Narrator (minor)** · *INFERRED* · “Lower the lamp yonder!”
+- ¶80 · **Narrator (minor)** · *INFERRED* · “here is one of his soldiers to be left on guard!”
+- ¶82 · **Madame Defarge** · *INFERRED* · “THOU DIDST IT!”
+
+## Book 2, Chapter XXII — The Sea Still Rises
+
+- ¶3 · **Narrator (minor)** · *INFERRED* · “I know how hard it has grown for me, the wearer of this, to support life in myself; but do you know
+- ¶5 · **The Vengeance** · *tag* · “Hark!”
+- ¶5 · **The Vengeance** · *tag* · “Listen, then! Who comes?”
+- ¶7 · **Madame Defarge** · *tag* · “It is Defarge,”
+- ¶7 · **Madame Defarge** · *tag* · “Silence, patriots!”
+- ¶8 · **Madame Defarge** · *tag* · “Listen, everywhere!”
+- ¶8 · **Madame Defarge** · *tag* · “Listen to him!”
+- ¶9 · **The Vengeance** · *INFERRED* · “Say then, my husband. What is it?”
+- ¶10 · **Madame Defarge** · *INFERRED* · “News from the other world!”
+- ¶11 · **Madame Defarge** · *tag* · “How, then?”
+- ¶11 · **Madame Defarge** · *tag* · “The other world?”
+- ¶12 · **The Vengeance** · *INFERRED* · “Does everybody here recall old Foulon, who told the famished people that they might eat grass, and 
+- ¶13 · **Madame Defarge** · *INFERRED* · “Everybody!”
+- ¶14 · **The Vengeance** · *INFERRED* · “The news is of him. He is among us!”
+- ¶15 · **Madame Defarge** · *INFERRED* · “Among us!”
+- ¶15 · **Madame Defarge** · *INFERRED* · “And dead?”
+- ¶16 · **The Vengeance** · *INFERRED* · “Not dead! He feared us so much--and with reason--that he caused himself to be represented as dead, 
+- ¶19 · **Ernest Defarge** · *tag* · “Patriots!”
+- ¶19 · **Ernest Defarge** · *tag* · “are we ready?”
+- ¶24 · **Madame Defarge** · *tag* · “See!”
+- ¶24 · **Madame Defarge** · *tag* · “See the old villain bound with ropes. That was well done to tie a bunch of grass upon his back. Ha,
+- ¶27 · **Ernest Defarge** · *NAMED* · “Bring him out! Bring him to the lamp!”
+- ¶33 · **Madame Defarge** · *INFERRED* · “At last it is come, my dear!”
+- ¶34 · **Madame Defarge** · *tag* · “Eh well!”
+- ¶34 · **Madame Defarge** · *tag* · “Almost.”
+
+## Book 2, Chapter XXIII — Fire Rises
+
+- ¶9 · **Narrator (minor)** · *INFERRED* · “How goes it, Jacques?”
+- ¶10 · **Narrator (minor)** · *INFERRED* · “All well, Jacques.”
+- ¶11 · **Narrator (minor)** · *INFERRED* · “Touch then!”
+- ¶13 · **Narrator (minor)** · *INFERRED* · “No dinner?”
+- ¶14 · **The mender of roads** · *tag* · “Nothing but supper now,”
+- ¶15 · **Narrator (minor)** · *tag* · “It is the fashion,”
+- ¶15 · **Narrator (minor)** · *tag* · “I meet no dinner anywhere.”
+- ¶17 · **The mender of roads** · *INFERRED* · “Touch then.”
+- ¶18 · **The mender of roads** · *tag* · “To-night?”
+- ¶19 · **Narrator (minor)** · *tag* · “To-night,”
+- ¶20 · **The mender of roads** · *INFERRED* · “Where?”
+- ¶21 · **Narrator (minor)** · *INFERRED* · “Here.”
+- ¶23 · **The mender of roads** · *INFERRED* · “Show me!”
+- ¶24 · **The mender of roads** · *tag* · “See!”
+- ¶24 · **The mender of roads** · *tag* · “You go down here, and straight through the street, and past the fountain--”
+- ¶25 · **Narrator (minor)** · *tag* · “To the Devil with all that!”
+- ¶25 · **Narrator (minor)** · *tag* · “_I_ go through no streets and past no fountains. Well?”
+- ¶26 · **The mender of roads** · *INFERRED* · “Well! About two leagues beyond the summit of that hill above the village.”
+- ¶27 · **Narrator (minor)** · *INFERRED* · “Good. When do you cease to work?”
+- ¶28 · **The mender of roads** · *INFERRED* · “At sunset.”
+- ¶29 · **Narrator (minor)** · *INFERRED* · “Will you wake me, before departing? I have walked two nights without resting. Let me finish my pipe
+- ¶30 · **The mender of roads** · *INFERRED* · “Surely.”
+- ¶34 · **Narrator (minor)** · *INFERRED* · “Good!”
+- ¶34 · **Narrator (minor)** · *INFERRED* · “Two leagues beyond the summit of the hill?”
+- ¶35 · **The mender of roads** · *INFERRED* · “About.”
+- ¶36 · **Narrator (minor)** · *INFERRED* · “About. Good!”
+- ¶40 · **The mender of roads** · *INFERRED* · “Help, Gabelle! Help, every one!”
+- ¶40 · **The mender of roads** · *INFERRED* · “It must be forty feet high,”
+- ¶41 · **Narrator (minor)** · *INFERRED* · “Help, gentlemen--officers! The chateau is on fire; valuable objects may be saved from the flames by
+- ¶41 · **Narrator (minor)** · *INFERRED* · “It must burn.”
+
+## Book 2, Chapter XXIV — Drawn to the Loadstone Rock
+
+- ¶5 · **Narrator (minor)** · *INFERRED* · “suspended,”
+- ¶9 · **Charles Darnay** · *tag* · “But, although you are the youngest man that ever lived,”
+- ¶9 · **Charles Darnay** · *tag* · “I must still suggest to you--”
+- ¶10 · **Jarvis Lorry** · *tag* · “I understand. That I am too old?”
+- ¶11 · **Charles Darnay** · *INFERRED* · “Unsettled weather, a long journey, uncertain means of travelling, a disorganised country, a city th
+- ¶12 · **Jarvis Lorry** · *tag* · “My dear Charles,”
+- ¶12 · **Jarvis Lorry** · *tag* · “you touch some of the reasons for my going: not for my staying away. It is safe enough for me; nobo
+- ¶13 · **Charles Darnay** · *tag* · “I wish I were going myself,”
+- ¶14 · **Jarvis Lorry** · *tag* · “Indeed! You are a pretty fellow to object and advise!”
+- ¶14 · **Jarvis Lorry** · *tag* · “You wish you were going yourself? And you a Frenchman born? You are a wise counsellor.”
+- ¶15 · **Charles Darnay** · *INFERRED* · “My dear Mr. Lorry, it is because I am a Frenchman born, that the thought (which I did not mean to u
+- ¶15 · **Charles Darnay** · *INFERRED* · “that one might be listened to, and might have the power to persuade to some restraint. Only last ni
+- ¶16 · **Jarvis Lorry** · *tag* · “When you were talking to Lucie,”
+- ¶16 · **Jarvis Lorry** · *tag* · “Yes. I wonder you are not ashamed to mention the name of Lucie! Wishing you were going to France at
+- ¶17 · **Charles Darnay** · *tag* · “However, I am not going,”
+- ¶17 · **Charles Darnay** · *tag* · “It is more to the purpose that you say you are.”
+- ¶18 · **Jarvis Lorry** · *INFERRED* · “And I am, in plain reality. The truth is, my dear Charles,”
+- ¶18 · **Jarvis Lorry** · *INFERRED* · “you can have no conception of the difficulty with which our business is transacted, and of the peri
+- ¶19 · **Charles Darnay** · *INFERRED* · “How I admire the gallantry of your youthful spirit, Mr. Lorry.”
+- ¶20 · **Jarvis Lorry** · *tag* · “Tut! Nonsense, sir!--And, my dear Charles,”
+- ¶20 · **Jarvis Lorry** · *tag* · “you are to remember, that getting things out of Paris at this present time, no matter what things, 
+- ¶21 · **Charles Darnay** · *INFERRED* · “And do you really go to-night?”
+- ¶22 · **Jarvis Lorry** · *INFERRED* · “I really go to-night, for the case has become too pressing to admit of delay.”
+- ¶23 · **Charles Darnay** · *INFERRED* · “And do you take no one with you?”
+- ¶24 · **Jarvis Lorry** · *INFERRED* · “All sorts of people have been proposed to me, but I will have nothing to say to any of them. I inte
+- ¶25 · **Charles Darnay** · *INFERRED* · “I must say again that I heartily admire your gallantry and youthfulness.”
+- ¶26 · **Jarvis Lorry** · *INFERRED* · “I must say again, nonsense, nonsense! When I have executed this little commission, I shall, perhaps
+- ¶30 · **Charles Darnay** · *INFERRED* · “Very pressing. To Monsieur heretofore the Marquis St. Evrémonde, of France. Confided to the cares o
+- ¶32 · **Jarvis Lorry** · *tag* · “No,”
+- ¶32 · **Jarvis Lorry** · *tag* · “I have referred it, I think, to everybody now here, and no one can tell me where this gentleman is 
+- ¶34 · **Charles Darnay** · *INFERRED* · “Nephew, I believe--but in any case degenerate successor--of the polished Marquis who was murdered,”
+- ¶34 · **Charles Darnay** · *INFERRED* · “Happy to say, I never knew him.”
+- ¶35 · **Narrator (minor)** · *tag* · “A craven who abandoned his post,”
+- ¶35 · **Narrator (minor)** · *tag* · “some years ago.”
+- ¶36 · **Charles Darnay** · *INFERRED* · “Infected with the new doctrines,”
+- ¶36 · **Charles Darnay** · *INFERRED* · “set himself in opposition to the last Marquis, abandoned the estates when he inherited them, and le
+- ¶37 · **Stryver** · *tag* · “Hey?”
+- ¶37 · **Stryver** · *tag* · “Did he though? Is that the sort of fellow? Let us look at his infamous name. D--n the fellow!”
+- ¶39 · **Charles Darnay** · *INFERRED* · “I know the fellow.”
+- ¶40 · **Stryver** · *tag* · “Do you, by Jupiter?”
+- ¶40 · **Stryver** · *tag* · “I am sorry for it.”
+- ¶41 · **Charles Darnay** · *INFERRED* · “Why?”
+- ¶42 · **Stryver** · *INFERRED* · “Why, Mr. Darnay? D’ye hear what he did? Don’t ask, why, in these times.”
+- ¶43 · **Charles Darnay** · *INFERRED* · “But I do ask why?”
+- ¶44 · **Stryver** · *INFERRED* · “Then I tell you again, Mr. Darnay, I am sorry for it. I am sorry to hear you putting any such extra
+- ¶45 · **Charles Darnay** · *NAMED* · “You may not understand the gentleman.”
+- ¶46 · **Stryver** · *tag* · “I understand how to put _you_ in a corner, Mr. Darnay,”
+- ¶46 · **Stryver** · *tag* · “and I’ll do it. If this fellow is a gentleman, I _don’t_ understand him. You may tell him so, with 
+- ¶46 · **Stryver** · *tag* · “I know something of human nature, and I tell you that you’ll never find a fellow like this fellow, 
+- ¶48 · **Jarvis Lorry** · *tag* · “Will you take charge of the letter?”
+- ¶48 · **Jarvis Lorry** · *tag* · “You know where to deliver it?”
+- ¶49 · **Stryver** · *INFERRED* · “I do.”
+- ¶50 · **Jarvis Lorry** · *INFERRED* · “Will you undertake to explain, that we suppose it to have been addressed here, on the chance of our
+- ¶51 · **Stryver** · *INFERRED* · “I will do so. Do you start for Paris from here?”
+- ¶52 · **Jarvis Lorry** · *INFERRED* · “From here, at eight.”
+- ¶53 · **Stryver** · *INFERRED* · “I will come back, to see you off.”
+- ¶55 · **Jarvis Lorry** · *INFERRED* · “Prison of the Abbaye, Paris.
+- ¶56 · **Stryver** · *INFERRED* · “June 21, 1792. “MONSIEUR HERETOFORE THE MARQUIS.
+- ¶57 · **Jarvis Lorry** · *INFERRED* · “After having long been in danger of my life at the hands of the village, I have been seized, with g
+- ¶58 · **Stryver** · *INFERRED* · “The crime for which I am imprisoned, Monsieur heretofore the Marquis, and for which I shall be summ
+- ¶59 · **Jarvis Lorry** · *INFERRED* · “Ah! most gracious Monsieur heretofore the Marquis, where is that emigrant? I cry in my sleep where 
+- ¶60 · **Stryver** · *INFERRED* · “For the love of Heaven, of justice, of generosity, of the honour of your noble name, I supplicate y
+- ¶61 · **Jarvis Lorry** · *INFERRED* · “From this prison here of horror, whence I every hour tend nearer and nearer to destruction, I send 
+- ¶62 · **Stryver** · *INFERRED* · “Your afflicted,
+- ¶63 · **Jarvis Lorry** · *INFERRED* · “Gabelle.”
+- ¶75 · **Charles Darnay** · *tag* · “I have delivered that letter,”
+- ¶75 · **Charles Darnay** · *tag* · “I would not consent to your being charged with any written answer, but perhaps you will take a verb
+- ¶76 · **Jarvis Lorry** · *tag* · “That I will, and readily,”
+- ¶76 · **Jarvis Lorry** · *tag* · “if it is not dangerous.”
+- ¶77 · **Charles Darnay** · *INFERRED* · “Not at all. Though it is to a prisoner in the Abbaye.”
+- ¶78 · **Jarvis Lorry** · *tag* · “What is his name?”
+- ¶79 · **Charles Darnay** · *INFERRED* · “Gabelle.”
+- ¶80 · **Jarvis Lorry** · *INFERRED* · “Gabelle. And what is the message to the unfortunate Gabelle in prison?”
+- ¶81 · **Charles Darnay** · *INFERRED* · “Simply, ‘that he has received the letter, and will come.’”
+- ¶82 · **Jarvis Lorry** · *INFERRED* · “Any time mentioned?”
+- ¶83 · **Charles Darnay** · *INFERRED* · “He will start upon his journey to-morrow night.”
+- ¶84 · **Jarvis Lorry** · *INFERRED* · “Any person mentioned?”
+- ¶85 · **Charles Darnay** · *INFERRED* · “No.”
+- ¶86 · **Jarvis Lorry** · *tag* · “My love to Lucie, and to little Lucie,”
+- ¶86 · **Jarvis Lorry** · *tag* · “and take precious care of them till I come back.”
+- ¶89 · **Charles Darnay** · *INFERRED* · “For the love of Heaven, of justice, of generosity, of the honour of your noble name!”
+
+## Book 3, Chapter I — In Secret
+
+- ¶8 · **Narrator (minor)** · *INFERRED* · “Emigrant,”
+- ¶8 · **Narrator (minor)** · *INFERRED* · “I am going to send you on to Paris, under an escort.”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “Citizen, I desire nothing more than to get to Paris, though I could dispense with the escort.”
+- ¶10 · **Narrator (minor)** · *INFERRED* · “Silence!”
+- ¶10 · **Narrator (minor)** · *INFERRED* · “Peace, aristocrat!”
+- ¶11 · **Narrator (minor)** · *INFERRED* · “It is as the good patriot says,”
+- ¶11 · **Narrator (minor)** · *INFERRED* · “You are an aristocrat, and must have an escort--and must pay for it.”
+- ¶12 · **Charles Darnay** · *tag* · “I have no choice,”
+- ¶13 · **Narrator (minor)** · *INFERRED* · “Choice! Listen to him!”
+- ¶13 · **Narrator (minor)** · *INFERRED* · “As if it was not a favour to be protected from the lamp-iron!”
+- ¶14 · **Charles Darnay** · *INFERRED* · “It is always as the good patriot says,”
+- ¶14 · **Charles Darnay** · *INFERRED* · “Rise and dress yourself, emigrant.”
+- ¶19 · **Narrator (minor)** · *INFERRED* · “Down with the emigrant!”
+- ¶21 · **Charles Darnay** · *INFERRED* · “Emigrant, my friends! Do you not see me here, in France, of my own will?”
+- ¶22 · **Narrator (minor)** · *INFERRED* · “You are a cursed emigrant,”
+- ¶22 · **Narrator (minor)** · *INFERRED* · “and you are a cursed aristocrat!”
+- ¶23 · **Charles Darnay** · *PRONOUN* · “Let him be; let him be! He will be judged at Paris.”
+- ¶24 · **Narrator (minor)** · *INFERRED* · “Judged!”
+- ¶24 · **Narrator (minor)** · *INFERRED* · “Ay! and condemned as a traitor.”
+- ¶26 · **Charles Darnay** · *INFERRED* · “Friends, you deceive yourselves, or you are deceived. I am not a traitor.”
+- ¶27 · **Narrator (minor)** · *INFERRED* · “He lies!”
+- ¶27 · **Narrator (minor)** · *INFERRED* · “He is a traitor since the decree. His life is forfeit to the people. His cursed life is not his own
+- ¶29 · **Charles Darnay** · *tag* · “What is this decree that the smith spoke of?”
+- ¶30 · **Narrator (minor)** · *INFERRED* · “Truly, a decree for selling the property of emigrants.”
+- ¶31 · **Charles Darnay** · *INFERRED* · “When passed?”
+- ¶32 · **Narrator (minor)** · *INFERRED* · “On the fourteenth.”
+- ¶33 · **Charles Darnay** · *INFERRED* · “The day I left England!”
+- ¶34 · **Narrator (minor)** · *INFERRED* · “Everybody says it is but one of several, and that there will be others--if there are not already--b
+- ¶35 · **Charles Darnay** · *INFERRED* · “But there are no such decrees yet?”
+- ¶36 · **Narrator (minor)** · *INFERRED* · “What do I know!”
+- ¶36 · **Narrator (minor)** · *INFERRED* · “there may be, or there will be. It is all the same. What would you have?”
+- ¶39 · **Charles Darnay** · *INFERRED* · “Where are the papers of this prisoner?”
+- ¶41 · **Narrator (minor)** · *INFERRED* · “Where,”
+- ¶41 · **Narrator (minor)** · *INFERRED* · “are the papers of this prisoner?”
+- ¶46 · **Charles Darnay** · *tag-pronoun* · “Citizen Defarge,”
+- ¶46 · **Charles Darnay** · *tag-pronoun* · “Is this the emigrant Evrémonde?”
+- ¶47 · **Narrator (minor)** · *INFERRED* · “This is the man.”
+- ¶48 · **Charles Darnay** · *INFERRED* · “Your age, Evrémonde?”
+- ¶49 · **Narrator (minor)** · *INFERRED* · “Thirty-seven.”
+- ¶50 · **Charles Darnay** · *INFERRED* · “Married, Evrémonde?”
+- ¶51 · **Narrator (minor)** · *INFERRED* · “Yes.”
+- ¶52 · **Charles Darnay** · *INFERRED* · “Where married?”
+- ¶53 · **Narrator (minor)** · *INFERRED* · “In England.”
+- ¶54 · **Charles Darnay** · *INFERRED* · “Without doubt. Where is your wife, Evrémonde?”
+- ¶55 · **Narrator (minor)** · *INFERRED* · “In England.”
+- ¶56 · **Charles Darnay** · *INFERRED* · “Without doubt. You are consigned, Evrémonde, to the prison of La Force.”
+- ¶57 · **Charles Darnay** · *tag* · “Just Heaven!”
+- ¶57 · **Charles Darnay** · *tag* · “Under what law, and for what offence?”
+- ¶59 · **Charles Darnay** · *tag-pronoun* · “We have new laws, Evrémonde, and new offences, since you were here.”
+- ¶60 · **Narrator (minor)** · *INFERRED* · “I entreat you to observe that I have come here voluntarily, in response to that written appeal of a
+- ¶61 · **Charles Darnay** · *INFERRED* · “Emigrants have no rights, Evrémonde,”
+- ¶61 · **Charles Darnay** · *INFERRED* · “In secret.”
+- ¶63 · **Ernest Defarge** · *tag* · “Is it you,”
+- ¶63 · **Ernest Defarge** · *tag* · “who married the daughter of Doctor Manette, once a prisoner in the Bastille that is no more?”
+- ¶64 · **Charles Darnay** · *tag* · “Yes,”
+- ¶65 · **Ernest Defarge** · *INFERRED* · “My name is Defarge, and I keep a wine-shop in the Quarter Saint Antoine. Possibly you have heard of
+- ¶66 · **Charles Darnay** · *INFERRED* · “My wife came to your house to reclaim her father? Yes!”
+- ¶67 · **Ernest Defarge** · *INFERRED* · “wife”
+- ¶67 · **Ernest Defarge** · *INFERRED* · “In the name of that sharp female newly-born, and called La Guillotine, why did you come to France?”
+- ¶68 · **Charles Darnay** · *INFERRED* · “You heard me say why, a minute ago. Do you not believe it is the truth?”
+- ¶69 · **Ernest Defarge** · *tag* · “A bad truth for you,”
+- ¶70 · **Charles Darnay** · *INFERRED* · “Indeed I am lost here. All here is so unprecedented, so changed, so sudden and unfair, that I am ab
+- ¶71 · **Ernest Defarge** · *INFERRED* · “None.”
+- ¶72 · **Charles Darnay** · *INFERRED* · “Will you answer me a single question?”
+- ¶73 · **Ernest Defarge** · *INFERRED* · “Perhaps. According to its nature. You can say what it is.”
+- ¶74 · **Charles Darnay** · *INFERRED* · “In this prison that I am going to so unjustly, shall I have some free communication with the world 
+- ¶75 · **Ernest Defarge** · *INFERRED* · “You will see.”
+- ¶76 · **Charles Darnay** · *INFERRED* · “I am not to be buried there, prejudged, and without any means of presenting my case?”
+- ¶77 · **Ernest Defarge** · *INFERRED* · “You will see. But, what then? Other people have been similarly buried in worse prisons, before now.
+- ¶78 · **Charles Darnay** · *INFERRED* · “But never by me, Citizen Defarge.”
+- ¶80 · **Ernest Defarge** · *INFERRED* · “It is of the utmost importance to me (you know, Citizen, even better than I, of how much importance
+- ¶81 · **Charles Darnay** · *INFERRED* · “I will do,”
+- ¶81 · **Charles Darnay** · *INFERRED* · “nothing for you. My duty is to my country and the People. I am the sworn servant of both, against y
+- ¶83 · **Ernest Defarge** · *INFERRED* · “sharp female newly-born, and called La Guillotine,”
+- ¶85 · **Charles Darnay** · *INFERRED* · “The Emigrant Evrémonde.”
+- ¶86 · **Narrator (minor)** · *tag* · “What the Devil! How many more of them!”
+- ¶88 · **Narrator (minor)** · *tag* · “What the Devil, I say again!”
+- ¶88 · **Narrator (minor)** · *tag* · “How many more!”
+- ¶89 · **Charles Darnay** · *INFERRED* · “One must have patience, my dear!”
+- ¶89 · **Charles Darnay** · *INFERRED* · “For the love of Liberty;”
+- ¶91 · **Narrator (minor)** · *tag* · “In secret, too,”
+- ¶91 · **Narrator (minor)** · *tag* · “As if I was not already full to bursting!”
+- ¶93 · **Charles Darnay** · *INFERRED* · “Come!”
+- ¶93 · **Charles Darnay** · *INFERRED* · “come with me, emigrant.”
+- ¶98 · **Narrator (minor)** · *INFERRED* · “In the name of the assembled companions in misfortune,”
+- ¶98 · **Narrator (minor)** · *INFERRED* · “I have the honour of giving you welcome to La Force, and of condoling with you on the calamity that
+- ¶100 · **Charles Darnay** · *INFERRED* · “But I hope,”
+- ¶100 · **Charles Darnay** · *INFERRED* · “that you are not in secret?”
+- ¶101 · **Narrator (minor)** · *INFERRED* · “I do not understand the meaning of the term, but I have heard them say so.”
+- ¶102 · **Charles Darnay** · *INFERRED* · “Ah, what a pity! We so much regret it! But take courage; several members of our society have been i
+- ¶102 · **Charles Darnay** · *INFERRED* · “I grieve to inform the society--in secret.”
+- ¶105 · **Narrator (minor)** · *tag* · “Yours,”
+- ¶106 · **Charles Darnay** · *INFERRED* · “Why am I confined alone?”
+- ¶107 · **Narrator (minor)** · *INFERRED* · “How do I know!”
+- ¶108 · **Charles Darnay** · *INFERRED* · “I can buy pen, ink, and paper?”
+- ¶109 · **Narrator (minor)** · *INFERRED* · “Such are not my orders. You will be visited, and can ask then. At present, you may buy your food, a
+- ¶110 · **Narrator (minor)** · *NAMED* · “Now am I left, as if I were dead.”
+- ¶110 · **Narrator (minor)** · *NAMED* · “And here in these crawling creatures is the first condition of the body after death.”
+- ¶111 · **Charles Darnay** · *INFERRED* · “Five paces by four and a half, five paces by four and a half, five paces by four and a half.”
+- ¶111 · **Charles Darnay** · *INFERRED* · “He made shoes, he made shoes, he made shoes.”
+- ¶111 · **Charles Darnay** · *INFERRED* · “The ghosts that vanished when the wicket closed. There was one among them, the appearance of a lady
+
+## Book 3, Chapter II — The Grindstone
+
+- ¶8 · **Jarvis Lorry** · *tag* · “Thank God,”
+- ¶8 · **Jarvis Lorry** · *tag* · “that no one near and dear to me is in this dreadful town to-night. May He have mercy on all who are
+- ¶9 · **Jarvis Lorry** · *PRONOUN* · “They have come back!”
+- ¶12 · **Jarvis Lorry** · *tag* · “What is this?”
+- ¶12 · **Jarvis Lorry** · *tag* · “What is the matter? Lucie! Manette! What has happened? What has brought you here? What is it?”
+- ¶13 · **Lucie Manette** · *PRONOUN* · “O my dear friend! My husband!”
+- ¶14 · **Jarvis Lorry** · *INFERRED* · “Your husband, Lucie?”
+- ¶15 · **Lucie Manette** · *INFERRED* · “Charles.”
+- ¶16 · **Jarvis Lorry** · *INFERRED* · “What of Charles?”
+- ¶17 · **Lucie Manette** · *INFERRED* · “Here.
+- ¶18 · **Jarvis Lorry** · *INFERRED* · “Here, in Paris?”
+- ¶19 · **Lucie Manette** · *INFERRED* · “Has been here some days--three or four--I don’t know how many--I can’t collect my thoughts. An erra
+- ¶21 · **Doctor Manette** · *tag* · “What is that noise?”
+- ¶22 · **Jarvis Lorry** · *tag* · “Don’t look!”
+- ¶22 · **Jarvis Lorry** · *tag* · “Don’t look out! Manette, for your life, don’t touch the blind!”
+- ¶24 · **Doctor Manette** · *INFERRED* · “My dear friend, I have a charmed life in this city. I have been a Bastille prisoner. There is no pa
+- ¶25 · **Jarvis Lorry** · *tag* · “Don’t look!”
+- ¶25 · **Jarvis Lorry** · *tag* · “No, Lucie, my dear, nor you!”
+- ¶25 · **Jarvis Lorry** · *tag* · “Don’t be so terrified, my love. I solemnly swear to you that I know of no harm having happened to C
+- ¶26 · **Doctor Manette** · *INFERRED* · “La Force!”
+- ¶27 · **Jarvis Lorry** · *INFERRED* · “La Force! Lucie, my child, if ever you were brave and serviceable in your life--and you were always
+- ¶28 · **Doctor Manette** · *INFERRED* · “I will be submissive to you. I see in your face that you know I can do nothing else than this. I kn
+- ¶34 · **Jarvis Lorry** · *tag* · “They are,”
+- ¶34 · **Jarvis Lorry** · *tag* · “murdering the prisoners. If you are sure of what you say; if you really have the power you think yo
+- ¶36 · **Doctor Manette** · *INFERRED* · “Live the Bastille prisoner! Help for the Bastille prisoner’s kindred in La Force! Room for the Bast
+- ¶39 · **Lucie Manette** · *tag* · “What is it?”
+- ¶39 · **Lucie Manette** · *tag* · “Hush! The soldiers’ swords are sharpened there,”
+- ¶39 · **Lucie Manette** · *tag* · “The place is national property now, and used as a kind of armoury, my love.”
+
+## Book 3, Chapter III — The Shadow
+
+- ¶7 · **Jarvis Lorry** · *tag* · “Your servant,”
+- ¶7 · **Jarvis Lorry** · *tag* · “Do you know me?”
+- ¶9 · **Jarvis Lorry** · *INFERRED* · “Do you know me?”
+- ¶10 · **Jarvis Lorry** · *INFERRED* · “I have seen you somewhere.”
+- ¶11 · **Jarvis Lorry** · *INFERRED* · “Perhaps at my wine-shop?”
+- ¶12 · **Jarvis Lorry** · *NAMED* · “You come from Doctor Manette?”
+- ¶13 · **Jarvis Lorry** · *INFERRED* · “Yes. I come from Doctor Manette.”
+- ¶14 · **Jarvis Lorry** · *INFERRED* · “And what says he? What does he send me?”
+- ¶16 · **Jarvis Lorry** · *INFERRED* · “Charles is safe, but I cannot safely leave this place yet.      I have obtained the favour that the
+- ¶18 · **Jarvis Lorry** · *tag* · “Will you accompany me,”
+- ¶18 · **Jarvis Lorry** · *tag* · “to where his wife resides?”
+- ¶19 · **Ernest Defarge** · *tag* · “Yes,”
+- ¶21 · **Jarvis Lorry** · *tag* · “Madame Defarge, surely!”
+- ¶22 · **Ernest Defarge** · *INFERRED* · “It is she,”
+- ¶23 · **Jarvis Lorry** · *tag* · “Does Madame go with us?”
+- ¶24 · **Ernest Defarge** · *INFERRED* · “Yes. That she may be able to recognise the faces and know the persons. It is for their safety.”
+- ¶27 · **Jarvis Lorry** · *INFERRED* · “DEAREST,--Take courage.  I am well, and your father has       influence around me.  You cannot answ
+- ¶30 · **Jarvis Lorry** · *tag* · “My dear,”
+- ¶30 · **Jarvis Lorry** · *tag* · “there are frequent risings in the streets; and, although it is not likely they will ever trouble yo
+- ¶30 · **Jarvis Lorry** · *tag* · “I state the case, Citizen Defarge?”
+- ¶32 · **Jarvis Lorry** · *tag* · “You had better, Lucie,”
+- ¶32 · **Jarvis Lorry** · *tag* · “have the dear child here, and our good Pross. Our good Pross, Defarge, is an English lady, and know
+- ¶33 · **The Vengeance** · *NAMED* · “Well, I am sure, Boldface! I hope _you_ are pretty well!”
+- ¶34 · **Madame Defarge** · *tag* · “Is that his child?”
+- ¶35 · **Jarvis Lorry** · *tag* · “Yes, madame,”
+- ¶35 · **Jarvis Lorry** · *tag* · “this is our poor prisoner’s darling daughter, and only child.”
+- ¶37 · **Madame Defarge** · *tag* · “It is enough, my husband,”
+- ¶37 · **Madame Defarge** · *tag* · “I have seen them. We may go.”
+- ¶39 · **Jarvis Lorry** · *INFERRED* · “You will be good to my poor husband. You will do him no harm. You will help me to see him if you ca
+- ¶40 · **Madame Defarge** · *tag* · “Your husband is not my business here,”
+- ¶40 · **Madame Defarge** · *tag* · “It is the daughter of your father who is my business here.”
+- ¶41 · **Jarvis Lorry** · *INFERRED* · “For my sake, then, be merciful to my husband. For my child’s sake! She will put her hands together 
+- ¶43 · **Madame Defarge** · *tag* · “What is it that your husband says in that little letter?”
+- ¶43 · **Madame Defarge** · *tag* · “Influence; he says something touching influence?”
+- ¶44 · **Lucie Manette** · *tag* · “That my father,”
+- ¶44 · **Lucie Manette** · *tag* · “has much influence around him.”
+- ¶45 · **Madame Defarge** · *tag* · “Surely it will release him!”
+- ¶45 · **Madame Defarge** · *tag* · “Let it do so.”
+- ¶46 · **Lucie Manette** · *tag* · “As a wife and mother,”
+- ¶46 · **Lucie Manette** · *tag* · “I implore you to have pity on me and not to exercise any power that you possess, against my innocen
+- ¶48 · **Madame Defarge** · *INFERRED* · “The wives and mothers we have been used to see, since we were as little as this child, and much les
+- ¶49 · **The Vengeance** · *tag* · “We have seen nothing else,”
+- ¶50 · **Madame Defarge** · *tag* · “We have borne this a long time,”
+- ¶50 · **Madame Defarge** · *tag* · “Judge you! Is it likely that the trouble of one wife and mother would be much to us now?”
+- ¶52 · **Jarvis Lorry** · *tag* · “Courage, my dear Lucie,”
+- ¶52 · **Jarvis Lorry** · *tag* · “Courage, courage! So far all goes well with us--much, much better than it has of late gone with man
+- ¶53 · **Madame Defarge** · *INFERRED* · “I am not thankless, I hope, but that dreadful woman seems to throw a shadow on me and on all my hop
+- ¶54 · **Jarvis Lorry** · *tag* · “Tut, tut!”
+- ¶54 · **Jarvis Lorry** · *tag* · “what is this despondency in the brave little breast? A shadow indeed! No substance in it, Lucie.”
+
+## Book 3, Chapter IV — Calm in Storm
+
+- ¶7 · **Narrator (minor)** · *INFERRED* · “It all tended to a good end, my friend; it was not mere waste and ruin. As my beloved child was hel
+- ¶9 · **Narrator (minor)** · *INFERRED* · “All curious to see,”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “but all natural and right; so, take the lead, my dear friend, and keep it; it couldn’t be in better
+
+## Book 3, Chapter V — The Wood-Sawyer
+
+- ¶5 · **Doctor Manette** · *PRONOUN* · “Nothing can happen to him without my knowledge, and I know that I can save him, Lucie.”
+- ¶7 · **Doctor Manette** · *INFERRED* · “My dear, there is an upper window in the prison, to which Charles can sometimes gain access at thre
+- ¶8 · **Doctor Manette** · *INFERRED* · “O show me the place, my father, and I will go there every day.”
+- ¶11 · **Doctor Manette** · *INFERRED* · “Good day, citizeness.”
+- ¶12 · **Doctor Manette** · *INFERRED* · “Good day, citizen.”
+- ¶14 · **Doctor Manette** · *INFERRED* · “Walking here again, citizeness?”
+- ¶15 · **Doctor Manette** · *INFERRED* · “You see me, citizen!”
+- ¶17 · **The mender of roads** · *tag-pronoun* · “But it’s not my business,”
+- ¶19 · **Doctor Manette** · *INFERRED* · “What? Walking here again, citizeness?”
+- ¶20 · **The mender of roads** · *INFERRED* · “Yes, citizen.”
+- ¶21 · **Doctor Manette** · *INFERRED* · “Ah! A child too! Your mother, is it not, my little citizeness?”
+- ¶22 · **Lucie Manette** · *tag* · “Do I say yes, mamma?”
+- ¶23 · **Doctor Manette** · *INFERRED* · “Yes, dearest.”
+- ¶24 · **Lucie Manette** · *INFERRED* · “Yes, citizen.”
+- ¶25 · **Doctor Manette** · *INFERRED* · “Ah! But it’s not my business. My work is my business. See my saw! I call it my Little Guillotine. L
+- ¶27 · **Lucie Manette** · *INFERRED* · “I call myself the Samson of the firewood guillotine. See here again! Loo, loo, loo; Loo, loo, loo! 
+- ¶29 · **Doctor Manette** · *INFERRED* · “But it’s not my business!”
+- ¶32 · **Lucie Manette** · *INFERRED* · “Little Sainte Guillotine”
+- ¶35 · **Doctor Manette** · *INFERRED* · “O my father!”
+- ¶35 · **Doctor Manette** · *INFERRED* · “such a cruel, bad sight.”
+- ¶36 · **Lucie Manette** · *INFERRED* · “I know, my dear, I know. I have seen it many times. Don’t be frightened! Not one of them would harm
+- ¶37 · **Doctor Manette** · *INFERRED* · “I am not frightened for myself, my father. But when I think of my husband, and the mercies of these
+- ¶38 · **Lucie Manette** · *INFERRED* · “We will set him above their mercies very soon. I left him climbing to the window, and I came to tel
+- ¶39 · **Doctor Manette** · *INFERRED* · “I do so, father, and I send him my Soul with it!”
+- ¶40 · **Lucie Manette** · *INFERRED* · “You cannot see him, my poor dear?”
+- ¶41 · **Lucie Manette** · *tag* · “No, father,”
+- ¶41 · **Lucie Manette** · *tag* · “no.”
+- ¶42 · **Doctor Manette** · *INFERRED* · “I salute you, citizeness,”
+- ¶42 · **Doctor Manette** · *INFERRED* · “I salute you, citizen.”
+- ¶43 · **Lucie Manette** · *INFERRED* · “Give me your arm, my love. Pass from here with an air of cheerfulness and courage, for his sake. Th
+- ¶43 · **Lucie Manette** · *INFERRED* · “it shall not be in vain. Charles is summoned for to-morrow.”
+- ¶44 · **Doctor Manette** · *INFERRED* · “For to-morrow!”
+- ¶45 · **Lucie Manette** · *INFERRED* · “There is no time to lose. I am well prepared, but there are precautions to be taken, that could not
+- ¶46 · **Lucie Manette** · *PRONOUN* · “I trust in you.”
+- ¶47 · **Doctor Manette** · *INFERRED* · “Do so, implicitly. Your suspense is nearly ended, my darling; he shall be restored to you within a 
+- ¶49 · **Lucie Manette** · *INFERRED* · “I must see Lorry,”
+- ¶52 · **Doctor Manette** · *PRONOUN* · “Removed to the Conciergerie, and summoned for to-morrow?”
+
+## Book 3, Chapter VI — Triumph
+
+- ¶2 · **Narrator (minor)** · *INFERRED* · “Come out and listen to the Evening Paper, you inside there!”
+- ¶3 · **Narrator (minor)** · *INFERRED* · “Charles Evrémonde, called Darnay!”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “Charles Evrémonde, called Darnay,”
+- ¶12 · **Narrator (minor)** · *INFERRED* · “Take off his head!”
+- ¶12 · **Narrator (minor)** · *INFERRED* · “An enemy to the Republic!”
+- ¶26 · **Narrator (minor)** · *INFERRED* · “Lucie Manette, only daughter of Doctor Manette, the good physician who sits there.”
+- ¶31 · **Narrator (minor)** · *INFERRED* · “No!”
+- ¶31 · **Narrator (minor)** · *INFERRED* · “No!”
+- ¶37 · **Narrator (minor)** · *INFERRED* · “Long live the Republic!”
+- ¶43 · **Narrator (minor)** · *INFERRED* · “Lucie! My own! I am safe.”
+- ¶44 · **Narrator (minor)** · *INFERRED* · “O dearest Charles, let me thank God for this on my knees as I have prayed to Him.”
+- ¶46 · **Narrator (minor)** · *INFERRED* · “And now speak to your father, dearest. No other man in all this France could have done what he has 
+- ¶47 · **Narrator (minor)** · *INFERRED* · “You must not be weak, my darling,”
+- ¶47 · **Narrator (minor)** · *INFERRED* · “don’t tremble so. I have saved him.”
+
+## Book 3, Chapter VII — A Knock at the Door
+
+- ¶2 · **Narrator (minor)** · *INFERRED* · “I have saved him.”
+- ¶8 · **Narrator (minor)** · *INFERRED* · “nonsense”
+- ¶9 · **Miss Pross** · *tag* · “Now, Mr. Cruncher,”
+- ¶9 · **Miss Pross** · *tag* · “if you are ready, I am.”
+- ¶11 · **Miss Pross** · *tag* · “There’s all manner of things wanted,”
+- ¶11 · **Miss Pross** · *tag* · “and we shall have a precious time of it. We want wine, among the rest. Nice toasts these Redheads w
+- ¶12 · **Jerry Cruncher** · *tag* · “It will be much the same to your knowledge, miss, I should think,”
+- ¶12 · **Jerry Cruncher** · *tag* · “whether they drink your health or the Old Un’s.”
+- ¶13 · **Miss Pross** · *tag* · “Who’s he?”
+- ¶14 · **Jerry Cruncher** · *NAMED* · “Old Nick’s.”
+- ¶15 · **Miss Pross** · *tag* · “Ha!”
+- ¶15 · **Miss Pross** · *tag* · “it doesn’t need an interpreter to explain the meaning of these creatures. They have but one, and it
+- ¶16 · **Lucie Manette** · *tag* · “Hush, dear! Pray, pray, be cautious!”
+- ¶17 · **Miss Pross** · *tag* · “Yes, yes, yes, I’ll be cautious,”
+- ¶17 · **Miss Pross** · *tag* · “but I may say among ourselves, that I do hope there will be no oniony and tobaccoey smotherings in 
+- ¶18 · **Lucie Manette** · *INFERRED* · “I think you may take that liberty,”
+- ¶19 · **Miss Pross** · *tag* · “For gracious sake, don’t talk about Liberty; we have quite enough of that,”
+- ¶20 · **Lucie Manette** · *INFERRED* · “Hush, dear! Again?”
+- ¶21 · **Miss Pross** · *tag* · “Well, my sweet,”
+- ¶21 · **Miss Pross** · *tag* · “the short and the long of it is, that I am a subject of His Most Gracious Majesty King George the T
+- ¶21 · **Miss Pross** · *tag* · “and as such, my maxim is, Confound their politics, Frustrate their knavish tricks, On him our hopes
+- ¶23 · **Miss Pross** · *tag* · “I am glad you have so much of the Englishman in you, though I wish you had never taken that cold in
+- ¶23 · **Miss Pross** · *tag* · “But the question, Doctor Manette. Is there”
+- ¶23 · **Miss Pross** · *tag* · “is there any prospect yet, of our getting out of this place?”
+- ¶24 · **Lucie Manette** · *INFERRED* · “I fear not yet. It would be dangerous for Charles yet.”
+- ¶25 · **Miss Pross** · *tag* · “Heigh-ho-hum!”
+- ¶25 · **Miss Pross** · *tag* · “then we must have patience and wait: that’s all. We must hold up our heads and fight low, as my bro
+- ¶27 · **Lucie Manette** · *tag-pronoun* · “What is that?”
+- ¶28 · **Doctor Manette** · *tag* · “My dear!”
+- ¶28 · **Doctor Manette** · *tag* · “command yourself. What a disordered state you are in! The least thing--nothing--startles you! _You_
+- ¶29 · **Lucie Manette** · *tag* · “I thought, my father,”
+- ¶29 · **Lucie Manette** · *tag* · “that I heard strange feet upon the stairs.”
+- ¶30 · **Doctor Manette** · *INFERRED* · “My love, the staircase is as still as Death.”
+- ¶32 · **Lucie Manette** · *INFERRED* · “Oh father, father. What can this be! Hide Charles. Save him!”
+- ¶33 · **Doctor Manette** · *tag* · “My child,”
+- ¶33 · **Doctor Manette** · *tag* · “I _have_ saved him. What weakness is this, my dear! Let me go to the door.”
+- ¶35 · **Lucie Manette** · *INFERRED* · “The Citizen Evrémonde, called Darnay,”
+- ¶36 · **Charles Darnay** · *tag* · “Who seeks him?”
+- ¶37 · **Lucie Manette** · *INFERRED* · “I seek him. We seek him. I know you, Evrémonde; I saw you before the Tribunal to-day. You are again
+- ¶39 · **Charles Darnay** · *INFERRED* · “Tell me how and why am I again a prisoner?”
+- ¶40 · **Lucie Manette** · *INFERRED* · “It is enough that you return straight to the Conciergerie, and will know to-morrow. You are summone
+- ¶42 · **Charles Darnay** · *INFERRED* · “You know him, you have said. Do you know me?”
+- ¶43 · **Lucie Manette** · *INFERRED* · “Yes, I know you, Citizen Doctor.”
+- ¶44 · **Narrator (minor)** · *tag* · “We all know you, Citizen Doctor,”
+- ¶46 · **Lucie Manette** · *INFERRED* · “Will you answer his question to me then? How does this happen?”
+- ¶47 · **Narrator (minor)** · *INFERRED* · “Citizen Doctor,”
+- ¶47 · **Narrator (minor)** · *INFERRED* · “he has been denounced to the Section of Saint Antoine. This citizen,”
+- ¶47 · **Narrator (minor)** · *INFERRED* · “is from Saint Antoine.”
+- ¶49 · **Lucie Manette** · *INFERRED* · “He is accused by Saint Antoine.”
+- ¶50 · **Doctor Manette** · *tag* · “Of what?”
+- ¶51 · **Lucie Manette** · *INFERRED* · “Citizen Doctor,”
+- ¶51 · **Lucie Manette** · *INFERRED* · “ask no more. If the Republic demands sacrifices from you, without doubt you as a good patriot will 
+- ¶52 · **Doctor Manette** · *INFERRED* · “One word,”
+- ¶52 · **Doctor Manette** · *INFERRED* · “Will you tell me who denounced him?”
+- ¶53 · **Lucie Manette** · *INFERRED* · “It is against rule,”
+- ¶53 · **Lucie Manette** · *INFERRED* · “but you can ask Him of Saint Antoine here.”
+- ¶55 · **Doctor Manette** · *INFERRED* · “Well! Truly it is against rule. But he is denounced--and gravely--by the Citizen and Citizeness Def
+- ¶56 · **Lucie Manette** · *INFERRED* · “What other?”
+- ¶57 · **Doctor Manette** · *INFERRED* · “Do _you_ ask, Citizen Doctor?”
+- ¶58 · **Lucie Manette** · *INFERRED* · “Yes.”
+- ¶59 · **Doctor Manette** · *tag-pronoun* · “Then,”
+- ¶59 · **Doctor Manette** · *tag-pronoun* · “you will be answered to-morrow. Now, I am dumb!”
+
+## Book 3, Chapter VIII — A Hand at Cards
+
+- ¶8 · **Miss Pross** · *tag* · “What is the matter?”
+- ¶9 · **Miss Pross** · *tag* · “Oh, Solomon, dear Solomon!”
+- ¶9 · **Miss Pross** · *tag* · “After not setting eyes upon you or hearing of you for so long a time, do I find you here!”
+- ¶10 · **Narrator (minor)** · *tag* · “Don’t call me Solomon. Do you want to be the death of me?”
+- ¶11 · **Miss Pross** · *tag* · “Brother, brother!”
+- ¶11 · **Miss Pross** · *tag* · “Have I ever been so hard with you that you ask me such a cruel question?”
+- ¶12 · **John Barsad** · *tag* · “Then hold your meddlesome tongue,”
+- ¶12 · **John Barsad** · *tag* · “and come out, if you want to speak to me. Pay for your wine, and come out. Who’s this man?”
+- ¶13 · **Miss Pross** · *NAMED* · “Mr. Cruncher.”
+- ¶14 · **John Barsad** · *tag* · “Let him come out too,”
+- ¶14 · **John Barsad** · *tag* · “Does he think me a ghost?”
+- ¶16 · **John Barsad** · *tag* · “Now,”
+- ¶16 · **John Barsad** · *tag* · “what do you want?”
+- ¶17 · **Miss Pross** · *tag* · “How dreadfully unkind in a brother nothing has ever turned my love away from!”
+- ¶17 · **Miss Pross** · *tag* · “to give me such a greeting, and show me no affection.”
+- ¶18 · **John Barsad** · *tag* · “There. Confound it! There,”
+- ¶18 · **John Barsad** · *tag* · “Now are you content?”
+- ¶20 · **John Barsad** · *tag* · “If you expect me to be surprised,”
+- ¶20 · **John Barsad** · *tag* · “I am not surprised; I knew you were here; I know of most people who are here. If you really don’t w
+- ¶21 · **Miss Pross** · *INFERRED* · “My English brother Solomon,”
+- ¶21 · **Miss Pross** · *INFERRED* · “that had the makings in him of one of the best and greatest of men in his native country, an offici
+- ¶22 · **John Barsad** · *INFERRED* · “I said so!”
+- ¶22 · **John Barsad** · *INFERRED* · “I knew it. You want to be the death of me. I shall be rendered Suspected, by my own sister. Just as
+- ¶23 · **Miss Pross** · *tag* · “The gracious and merciful Heavens forbid!”
+- ¶23 · **Miss Pross** · *tag* · “Far rather would I never see you again, dear Solomon, though I have ever loved you truly, and ever 
+- ¶26 · **John Barsad** · *INFERRED* · “I say! Might I ask the favour? As to whether your name is John Solomon, or Solomon John?”
+- ¶28 · **Jerry Cruncher** · *tag* · “Come!”
+- ¶28 · **Jerry Cruncher** · *tag* · “Speak out, you know.”
+- ¶28 · **Jerry Cruncher** · *tag* · “John Solomon, or Solomon John? She calls you Solomon, and she must know, being your sister. And _I_
+- ¶29 · **John Barsad** · *INFERRED* · “What do you mean?”
+- ¶30 · **Jerry Cruncher** · *INFERRED* · “Well, I don’t know all I mean, for I can’t call to mind what your name was, over the water.”
+- ¶31 · **John Barsad** · *INFERRED* · “No?”
+- ¶32 · **Jerry Cruncher** · *INFERRED* · “No. But I’ll swear it was a name of two syllables.”
+- ¶33 · **John Barsad** · *INFERRED* · “Indeed?”
+- ¶34 · **Jerry Cruncher** · *INFERRED* · “Yes. T’other one’s was one syllable. I know you. You was a spy--witness at the Bailey. What, in the
+- ¶35 · **John Barsad** · *INFERRED* · “Barsad,”
+- ¶36 · **Jerry Cruncher** · *tag* · “That’s the name for a thousand pound!”
+- ¶38 · **John Barsad** · *INFERRED* · “Don’t be alarmed, my dear Miss Pross. I arrived at Mr. Lorry’s, to his surprise, yesterday evening;
+- ¶40 · **Sydney Carton** · *tag* · “I’ll tell you,”
+- ¶40 · **Sydney Carton** · *tag* · “I lighted on you, Mr. Barsad, coming out of the prison of the Conciergerie while I was contemplatin
+- ¶41 · **John Barsad** · *INFERRED* · “What purpose?”
+- ¶42 · **Sydney Carton** · *INFERRED* · “It would be troublesome, and might be dangerous, to explain in the street. Could you favour me, in 
+- ¶43 · **John Barsad** · *INFERRED* · “Under a threat?”
+- ¶44 · **Sydney Carton** · *INFERRED* · “Oh! Did I say that?”
+- ¶45 · **John Barsad** · *INFERRED* · “Then, why should I go there?”
+- ¶46 · **Sydney Carton** · *INFERRED* · “Really, Mr. Barsad, I can’t say, if you can’t.”
+- ¶47 · **John Barsad** · *INFERRED* · “Do you mean that you won’t say, sir?”
+- ¶48 · **Sydney Carton** · *INFERRED* · “You apprehend me very clearly, Mr. Barsad. I won’t.”
+- ¶50 · **John Barsad** · *tag* · “Now, I told you so,”
+- ¶50 · **John Barsad** · *tag* · “if any trouble comes of this, it’s your doing.”
+- ¶51 · **Sydney Carton** · *tag* · “Come, come, Mr. Barsad!”
+- ¶51 · **Sydney Carton** · *tag* · “Don’t be ungrateful. But for my great respect for your sister, I might not have led up so pleasantl
+- ¶52 · **John Barsad** · *INFERRED* · “I’ll hear what you have got to say. Yes, I’ll go with you.”
+- ¶53 · **Sydney Carton** · *INFERRED* · “I propose that we first conduct your sister safely to the corner of her own street. Let me take you
+- ¶57 · **Sydney Carton** · *tag* · “Miss Pross’s brother, sir,”
+- ¶57 · **Sydney Carton** · *tag* · “Mr. Barsad.”
+- ¶58 · **John Barsad** · *INFERRED* · “Barsad?”
+- ¶58 · **John Barsad** · *INFERRED* · “Barsad? I have an association with the name--and with the face.”
+- ¶59 · **Sydney Carton** · *tag* · “I told you you had a remarkable face, Mr. Barsad,”
+- ¶59 · **Sydney Carton** · *tag* · “Pray sit down.”
+- ¶60 · **Jarvis Lorry** · *NAMED* · “Witness at that trial.”
+- ¶61 · **Sydney Carton** · *tag* · “Mr. Barsad has been recognised by Miss Pross as the affectionate brother you have heard of,”
+- ¶61 · **Sydney Carton** · *tag* · “and has acknowledged the relationship. I pass to worse news. Darnay has been arrested again.”
+- ¶62 · **Jarvis Lorry** · *INFERRED* · “What do you tell me! I left him safe and free within these two hours, and am about to return to him
+- ¶63 · **Sydney Carton** · *INFERRED* · “Arrested for all that. When was it done, Mr. Barsad?”
+- ¶64 · **Jarvis Lorry** · *INFERRED* · “Just now, if at all.”
+- ¶65 · **Sydney Carton** · *tag* · “Mr. Barsad is the best authority possible, sir,”
+- ¶65 · **Sydney Carton** · *tag* · “and I have it from Mr. Barsad’s communication to a friend and brother Sheep over a bottle of wine, 
+- ¶67 · **Sydney Carton** · *tag* · “Now, I trust,”
+- ¶67 · **Sydney Carton** · *tag* · “that the name and influence of Doctor Manette may stand him in as good stead to-morrow--you said he
+- ¶68 · **Jarvis Lorry** · *INFERRED* · “Yes; I believe so.”
+- ¶69 · **Sydney Carton** · *INFERRED* · “--In as good stead to-morrow as to-day. But it may not be so. I own to you, I am shaken, Mr. Lorry,
+- ¶70 · **Jarvis Lorry** · *tag* · “He may not have known of it beforehand,”
+- ¶71 · **Sydney Carton** · *INFERRED* · “But that very circumstance would be alarming, when we remember how identified he is with his son-in
+- ¶72 · **Jarvis Lorry** · *INFERRED* · “That’s true,”
+- ¶73 · **Sydney Carton** · *tag* · “In short,”
+- ¶73 · **Sydney Carton** · *tag* · “this is a desperate time, when desperate games are played for desperate stakes. Let the Doctor play
+- ¶74 · **John Barsad** · *tag* · “You need have good cards, sir,”
+- ¶75 · **Sydney Carton** · *INFERRED* · “I’ll run them over. I’ll see what I hold,--Mr. Lorry, you know what a brute I am; I wish you’d give
+- ¶77 · **Sydney Carton** · *tag-pronoun* · “Mr. Barsad,”
+- ¶77 · **Sydney Carton** · *tag-pronoun* · “Sheep of the prisons, emissary of Republican committees, now turnkey, now prisoner, always spy and 
+- ¶78 · **John Barsad** · *tag* · “Not to understand your play,”
+- ¶79 · **Sydney Carton** · *INFERRED* · “I play my Ace, Denunciation of Mr. Barsad to the nearest Section Committee. Look over your hand, Mr
+- ¶81 · **John Barsad** · *INFERRED* · “Look over your hand carefully, Mr. Barsad. Take time.”
+- ¶83 · **Sydney Carton** · *tag* · “You scarcely seem to like your hand,”
+- ¶83 · **Sydney Carton** · *tag* · “Do you play?”
+- ¶84 · **John Barsad** · *tag* · “I think, sir,”
+- ¶84 · **John Barsad** · *tag* · “I may appeal to a gentleman of your years and benevolence, to put it to this other gentleman, so mu
+- ¶85 · **Sydney Carton** · *tag* · “I play my Ace, Mr. Barsad,”
+- ¶85 · **Sydney Carton** · *tag* · “without any scruple, in a very few minutes.”
+- ¶86 · **John Barsad** · *tag* · “I should have hoped, gentlemen both,”
+- ¶86 · **John Barsad** · *tag* · “that your respect for my sister--”
+- ¶87 · **Sydney Carton** · *tag* · “I could not better testify my respect for your sister than by finally relieving her of her brother,
+- ¶88 · **John Barsad** · *INFERRED* · “You think not, sir?”
+- ¶89 · **Sydney Carton** · *INFERRED* · “I have thoroughly made up my mind about it.”
+- ¶91 · **John Barsad** · *INFERRED* · “And indeed, now I think again, I have a strong impression that I have another good card here, not y
+- ¶92 · **John Barsad** · *tag* · “French. You don’t know him,”
+- ¶93 · **Sydney Carton** · *tag* · “French, eh?”
+- ¶93 · **Sydney Carton** · *tag* · “Well; he may be.”
+- ¶94 · **John Barsad** · *tag* · “Is, I assure you,”
+- ¶94 · **John Barsad** · *tag* · “though it’s not important.”
+- ¶95 · **Sydney Carton** · *tag* · “Though it’s not important,”
+- ¶95 · **Sydney Carton** · *tag* · “though it’s not important--No, it’s not important. No. Yet I know the face.”
+- ¶96 · **John Barsad** · *tag* · “I think not. I am sure not. It can’t be,”
+- ¶97 · **Sydney Carton** · *tag* · “It-can’t-be,”
+- ¶97 · **Sydney Carton** · *tag* · “Can’t-be. Spoke good French. Yet like a foreigner, I thought?”
+- ¶98 · **John Barsad** · *tag* · “Provincial,”
+- ¶99 · **Sydney Carton** · *tag* · “No. Foreign!”
+- ¶99 · **Sydney Carton** · *tag* · “Cly! Disguised, but the same man. We had that man before us at the Old Bailey.”
+- ¶100 · **John Barsad** · *tag* · “Now, there you are hasty, sir,”
+- ¶100 · **John Barsad** · *tag* · “there you really give me an advantage over you. Cly (who I will unreservedly admit, at this distanc
+- ¶102 · **John Barsad** · *tag* · “Let us be reasonable,”
+- ¶102 · **John Barsad** · *tag* · “and let us be fair. To show you how mistaken you are, and what an unfounded assumption yours is, I 
+- ¶102 · **John Barsad** · *tag* · “ever since. There it is. Oh, look at it, look at it! You may take it in your hand; it’s no forgery.
+- ¶105 · **Jerry Cruncher** · *tag* · “That there Roger Cly, master,”
+- ¶105 · **Jerry Cruncher** · *tag* · “So _you_ put him in his coffin?”
+- ¶106 · **John Barsad** · *INFERRED* · “I did.”
+- ¶107 · **Jerry Cruncher** · *INFERRED* · “Who took him out of it?”
+- ¶108 · **John Barsad** · *NAMED* · “What do you mean?”
+- ¶109 · **Jerry Cruncher** · *tag* · “I mean,”
+- ¶109 · **Jerry Cruncher** · *tag* · “that he warn’t never in it. No! Not he! I’ll have my head took off, if he was ever in it.”
+- ¶111 · **Jerry Cruncher** · *tag* · “I tell you,”
+- ¶111 · **Jerry Cruncher** · *tag* · “that you buried paving-stones and earth in that there coffin. Don’t go and tell me that you buried 
+- ¶112 · **John Barsad** · *INFERRED* · “How do you know it?”
+- ¶113 · **Jerry Cruncher** · *tag* · “What’s that to you? Ecod!”
+- ¶113 · **Jerry Cruncher** · *tag* · “it’s you I have got a old grudge again, is it, with your shameful impositions upon tradesmen! I’d c
+- ¶115 · **Jerry Cruncher** · *tag-pronoun* · “At another time, sir,”
+- ¶115 · **Jerry Cruncher** · *tag-pronoun* · “the present time is ill-conwenient for explainin’. What I stand to, is, that he knows well wot that
+- ¶115 · **Jerry Cruncher** · *tag-pronoun* · “or I’ll out and announce him.”
+- ¶116 · **Sydney Carton** · *tag* · “Humph! I see one thing,”
+- ¶116 · **Sydney Carton** · *tag* · “I hold another card, Mr. Barsad. Impossible, here in raging Paris, with Suspicion filling the air, 
+- ¶117 · **John Barsad** · *tag* · “No!”
+- ¶117 · **John Barsad** · *tag* · “I throw up. I confess that we were so unpopular with the outrageous mob, that I only got away from 
+- ¶118 · **Jerry Cruncher** · *tag* · “Never you trouble your head about this man,”
+- ¶118 · **Jerry Cruncher** · *tag* · “you’ll have trouble enough with giving your attention to that gentleman. And look here! Once more!”
+- ¶118 · **Jerry Cruncher** · *tag* · “I’d catch hold of your throat and choke you for half a guinea.”
+- ¶119 · **Sydney Carton** · *NAMED* · “It has come to a point. I go on duty soon, and can’t overstay my time. You told me you had a propos
+- ¶120 · **Jerry Cruncher** · *INFERRED* · “Not very much. You are a turnkey at the Conciergerie?”
+- ¶121 · **John Barsad** · *tag* · “I tell you once for all, there is no such thing as an escape possible,”
+- ¶122 · **Jerry Cruncher** · *INFERRED* · “Why need you tell me what I have not asked? You are a turnkey at the Conciergerie?”
+- ¶123 · **John Barsad** · *INFERRED* · “I am sometimes.”
+- ¶124 · **Jerry Cruncher** · *INFERRED* · “You can be when you choose?”
+- ¶125 · **John Barsad** · *INFERRED* · “I can pass in and out when I choose.”
+- ¶127 · **Jerry Cruncher** · *INFERRED* · “So far, we have spoken before these two, because it was as well that the merits of the cards should
+
+## Book 3, Chapter IX — The Game Made
+
+- ¶3 · **Jarvis Lorry** · *tag* · “Jerry,”
+- ¶3 · **Jarvis Lorry** · *tag* · “Come here.”
+- ¶5 · **Jarvis Lorry** · *INFERRED* · “What have you been, besides a messenger?”
+- ¶6 · **Jerry Cruncher** · *NAMED* · “Agicultooral character.”
+- ¶7 · **Jarvis Lorry** · *tag* · “My mind misgives me much,”
+- ¶7 · **Jarvis Lorry** · *tag* · “that you have used the respectable and great house of Tellson’s as a blind, and that you have had a
+- ¶8 · **Jerry Cruncher** · *tag* · “I hope, sir,”
+- ¶8 · **Jerry Cruncher** · *tag* · “that a gentleman like yourself wot I’ve had the honour of odd jobbing till I’m grey at it, would th
+- ¶9 · **Jarvis Lorry** · *tag* · “Ugh!”
+- ¶9 · **Jarvis Lorry** · *tag* · “I am shocked at the sight of you.”
+- ¶10 · **Jerry Cruncher** · *tag* · “Now, what I would humbly offer to you, sir,”
+- ¶10 · **Jerry Cruncher** · *tag* · “even if it wos so, which I don’t say it is--”
+- ¶11 · **Jarvis Lorry** · *tag* · “Don’t prevaricate,”
+- ¶12 · **Jerry Cruncher** · *tag* · “No, I will _not_, sir,”
+- ¶12 · **Jerry Cruncher** · *tag* · “which I don’t say it is--wot I would humbly offer to you, sir, would be this. Upon that there stool
+- ¶12 · **Jerry Cruncher** · *tag* · “is wot I would respectfully offer to you, sir. A man don’t see all this here a goin’ on dreadful ro
+- ¶13 · **Jarvis Lorry** · *tag* · “That at least is true,”
+- ¶13 · **Jarvis Lorry** · *tag* · “Say no more now. It may be that I shall yet stand your friend, if you deserve it, and repent in act
+- ¶14 · **Jerry Cruncher** · *INFERRED* · “Adieu, Mr. Barsad,”
+- ¶14 · **Jerry Cruncher** · *INFERRED* · “our arrangement thus made, you have nothing to fear from me.”
+- ¶16 · **Jarvis Lorry** · *INFERRED* · “Not much. If it should go ill with the prisoner, I have ensured access to him, once.”
+- ¶18 · **Sydney Carton** · *tag* · “It is all I could do,”
+- ¶18 · **Sydney Carton** · *tag* · “To propose too much, would be to put this man’s head under the axe, and, as he himself said, nothin
+- ¶19 · **Jarvis Lorry** · *tag* · “But access to him,”
+- ¶19 · **Jarvis Lorry** · *tag* · “if it should go ill before the Tribunal, will not save him.”
+- ¶20 · **Sydney Carton** · *INFERRED* · “I never said it would.”
+- ¶22 · **Sydney Carton** · *tag* · “You are a good man and a true friend,”
+- ¶22 · **Sydney Carton** · *tag* · “Forgive me if I notice that you are affected. I could not see my father weep, and sit by, careless.
+- ¶24 · **Sydney Carton** · *tag* · “To return to poor Darnay,”
+- ¶24 · **Sydney Carton** · *tag* · “Don’t tell Her of this interview, or this arrangement. It would not enable Her to go to see him. Sh
+- ¶26 · **Sydney Carton** · *tag* · “She might think a thousand things,”
+- ¶26 · **Sydney Carton** · *tag* · “and any of them would only add to her trouble. Don’t speak of me to her. As I said to you when I fi
+- ¶27 · **Jarvis Lorry** · *INFERRED* · “I am going now, directly.”
+- ¶28 · **Sydney Carton** · *INFERRED* · “I am glad of that. She has such a strong attachment to you and reliance on you. How does she look?”
+- ¶29 · **Jarvis Lorry** · *INFERRED* · “Anxious and unhappy, but very beautiful.”
+- ¶30 · **Sydney Carton** · *INFERRED* · “Ah!”
+- ¶32 · **Jarvis Lorry** · *tag-pronoun* · “I forgot it,”
+- ¶34 · **Sydney Carton** · *tag* · “And your duties here have drawn to an end, sir?”
+- ¶35 · **Jarvis Lorry** · *INFERRED* · “Yes. As I was telling you last night when Lucie came in so unexpectedly, I have at length done all 
+- ¶37 · **Sydney Carton** · *tag* · “Yours is a long life to look back upon, sir?”
+- ¶38 · **Jarvis Lorry** · *INFERRED* · “I am in my seventy-eighth year.”
+- ¶39 · **Sydney Carton** · *INFERRED* · “You have been useful all your life; steadily and constantly occupied; trusted, respected, and looke
+- ¶40 · **Jarvis Lorry** · *INFERRED* · “I have been a man of business, ever since I have been a man. Indeed, I may say that I was a man of 
+- ¶41 · **Sydney Carton** · *INFERRED* · “See what a place you fill at seventy-eight. How many people will miss you when you leave it empty!”
+- ¶42 · **Jarvis Lorry** · *tag* · “A solitary old bachelor,”
+- ¶42 · **Jarvis Lorry** · *tag* · “There is nobody to weep for me.”
+- ¶43 · **Sydney Carton** · *INFERRED* · “How can you say that? Wouldn’t She weep for you? Wouldn’t her child?”
+- ¶44 · **Jarvis Lorry** · *INFERRED* · “Yes, yes, thank God. I didn’t quite mean what I said.”
+- ¶45 · **Sydney Carton** · *INFERRED* · “It _is_ a thing to thank God for; is it not?”
+- ¶46 · **Jarvis Lorry** · *INFERRED* · “Surely, surely.”
+- ¶47 · **Sydney Carton** · *INFERRED* · “If you could say, with truth, to your own solitary heart, to-night, ‘I have secured to myself the l
+- ¶48 · **Jarvis Lorry** · *INFERRED* · “You say truly, Mr. Carton; I think they would be.”
+- ¶50 · **Sydney Carton** · *INFERRED* · “I should like to ask you:--Does your childhood seem far off? Do the days when you sat at your mothe
+- ¶52 · **Jarvis Lorry** · *INFERRED* · “Twenty years back, yes; at this time of my life, no. For, as I draw closer and closer to the end, I
+- ¶53 · **Sydney Carton** · *tag* · “I understand the feeling!”
+- ¶53 · **Sydney Carton** · *tag* · “And you are the better for it?”
+- ¶54 · **Jarvis Lorry** · *INFERRED* · “I hope so.”
+- ¶55 · **Jarvis Lorry** · *tag* · “But you,”
+- ¶55 · **Jarvis Lorry** · *tag* · “you are young.”
+- ¶56 · **Sydney Carton** · *tag* · “Yes,”
+- ¶56 · **Sydney Carton** · *tag* · “I am not old, but my young way was never the way to age. Enough of me.”
+- ¶57 · **Jarvis Lorry** · *tag* · “And of me, I am sure,”
+- ¶57 · **Jarvis Lorry** · *tag* · “Are you going out?”
+- ¶58 · **Sydney Carton** · *INFERRED* · “I’ll walk with you to her gate. You know my vagabond and restless habits. If I should prowl about t
+- ¶59 · **Jarvis Lorry** · *INFERRED* · “Yes, unhappily.”
+- ¶60 · **Sydney Carton** · *INFERRED* · “I shall be there, but only as one of the crowd. My Spy will find a place for me. Take my arm, sir.”
+- ¶61 · **Sydney Carton** · *tag-pronoun* · “She came out here,”
+- ¶61 · **Sydney Carton** · *tag-pronoun* · “turned this way, must have trod on these stones often. Let me follow in her steps.”
+- ¶63 · **Sydney Carton** · *tag* · “Good night, citizen,”
+- ¶64 · **Jarvis Lorry** · *INFERRED* · “Good night, citizen.”
+- ¶65 · **Sydney Carton** · *INFERRED* · “How goes the Republic?”
+- ¶66 · **Jarvis Lorry** · *INFERRED* · “You mean the Guillotine. Not ill. Sixty-three to-day. We shall mount to a hundred soon. Samson and 
+- ¶67 · **Sydney Carton** · *INFERRED* · “Do you often go to see him--”
+- ¶68 · **Jarvis Lorry** · *INFERRED* · “Shave? Always. Every day. What a barber! You have seen him at work?”
+- ¶69 · **Sydney Carton** · *INFERRED* · “Never.”
+- ¶70 · **Jarvis Lorry** · *INFERRED* · “Go and see him when he has a good batch. Figure this to yourself, citizen; he shaved the sixty-thre
+- ¶72 · **The mender of roads** · *tag* · “But you are not English,”
+- ¶72 · **The mender of roads** · *tag* · “though you wear English dress?”
+- ¶73 · **Sydney Carton** · *tag* · “Yes,”
+- ¶74 · **The mender of roads** · *INFERRED* · “You speak like a Frenchman.”
+- ¶75 · **Sydney Carton** · *INFERRED* · “I am an old student here.”
+- ¶76 · **The mender of roads** · *INFERRED* · “Aha, a perfect Frenchman! Good night, Englishman.”
+- ¶77 · **Sydney Carton** · *INFERRED* · “Good night, citizen.”
+- ¶78 · **The mender of roads** · *INFERRED* · “But go and see that droll dog,”
+- ¶78 · **The mender of roads** · *INFERRED* · “And take a pipe with you!”
+- ¶80 · **Sydney Carton** · *INFERRED* · “Whew!”
+- ¶80 · **Sydney Carton** · *INFERRED* · “Hi! hi! hi!”
+- ¶82 · **The mender of roads** · *INFERRED* · “For you, citizen?”
+- ¶83 · **Sydney Carton** · *INFERRED* · “For me.”
+- ¶84 · **The mender of roads** · *INFERRED* · “You will be careful to keep them separate, citizen? You know the consequences of mixing them?”
+- ¶85 · **Sydney Carton** · *INFERRED* · “Perfectly.”
+- ¶86 · **Sydney Carton** · *tag-pronoun* · “There is nothing more to do,”
+- ¶86 · **Sydney Carton** · *tag-pronoun* · “until to-morrow. I can’t sleep.”
+- ¶88 · **The mender of roads** · *INFERRED* · “I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, y
+- ¶92 · **Sydney Carton** · *INFERRED* · “I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, y
+- ¶96 · **The mender of roads** · *INFERRED* · “Like me.”
+- ¶97 · **Sydney Carton** · *INFERRED* · “I am the resurrection and the life.”
+- ¶107 · **The mender of roads** · *INFERRED* · “Openly, President.”
+- ¶108 · **Sydney Carton** · *INFERRED* · “By whom?”
+- ¶109 · **The mender of roads** · *INFERRED* · “Three voices. Ernest Defarge, wine-vendor of St. Antoine.”
+- ¶110 · **Sydney Carton** · *INFERRED* · “Good.”
+- ¶111 · **The mender of roads** · *INFERRED* · “Thérèse Defarge, his wife.”
+- ¶112 · **Sydney Carton** · *INFERRED* · “Good.”
+- ¶113 · **The mender of roads** · *INFERRED* · “Alexandre Manette, physician.”
+- ¶115 · **Sydney Carton** · *INFERRED* · “President, I indignantly protest to you that this is a forgery and a fraud. You know the accused to
+- ¶116 · **The mender of roads** · *INFERRED* · “Citizen Manette, be tranquil. To fail in submission to the authority of the Tribunal would be to pu
+- ¶118 · **Sydney Carton** · *INFERRED* · “If the Republic should demand of you the sacrifice of your child herself, you would have no duty bu
+- ¶121 · **The mender of roads** · *INFERRED* · “You did good service at the taking of the Bastille, citizen?”
+- ¶122 · **Sydney Carton** · *INFERRED* · “I believe so.”
+- ¶123 · **The mender of roads** · *INFERRED* · “You were one of the best patriots there. Why not say so? You were a cannonier that day there, and y
+- ¶124 · **The Vengeance** · *NAMED* · “I defy that bell!”
+- ¶125 · **The mender of roads** · *INFERRED* · “Inform the Tribunal of what you did that day within the Bastille, citizen.”
+- ¶126 · **Ernest Defarge** · *tag* · “I knew,”
+- ¶126 · **Ernest Defarge** · *tag* · “I knew that this prisoner, of whom I speak, had been confined in a cell known as One Hundred and Fi
+- ¶127 · **The mender of roads** · *INFERRED* · “Let it be read.”
+
+## Book 3, Chapter X — The Substance of the Shadow
+
+- ¶2 · **Narrator (minor)** · *INFERRED* · “I, Alexandre Manette, unfortunate physician, native of Beauvais, and afterwards resident in Paris, 
+- ¶3 · **Narrator (minor)** · *INFERRED* · “These words are formed by the rusty iron point with which I write with difficulty in scrapings of s
+- ¶4 · **Narrator (minor)** · *INFERRED* · “One cloudy moonlight night, in the third week of December (I think the twenty-second of the month) 
+- ¶5 · **Narrator (minor)** · *INFERRED* · “The carriage stopped as soon as the driver could rein in his horses, and the same voice called to m
+- ¶6 · **Narrator (minor)** · *INFERRED* · “I observed that they were both wrapped in cloaks, and appeared to conceal themselves. As they stood
+- ¶7 · **Narrator (minor)** · *INFERRED* · “‘You are Doctor Manette?’ said one.
+- ¶8 · **Narrator (minor)** · *INFERRED* · “I am.”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “‘Doctor Manette, formerly of Beauvais,’ said the other; ‘the young physician, originally an expert 
+- ¶10 · **Narrator (minor)** · *INFERRED* · “‘Gentlemen,’ I returned, ‘I am that Doctor Manette of whom you speak so graciously.’
+- ¶11 · **Narrator (minor)** · *INFERRED* · “‘We have been to your residence,’ said the first, ‘and not being so fortunate as to find you there,
+- ¶12 · **Narrator (minor)** · *INFERRED* · “The manner of both was imperious, and they both moved, as these words were spoken, so as to place m
+- ¶13 · **Narrator (minor)** · *INFERRED* · “‘Gentlemen,’ said I, ‘pardon me; but I usually inquire who does me the honour to seek my assistance
+- ¶14 · **Narrator (minor)** · *INFERRED* · “The reply to this was made by him who had spoken second. ‘Doctor, your clients are people of condit
+- ¶15 · **Narrator (minor)** · *INFERRED* · “I could do nothing but comply, and I entered it in silence. They both entered after me--the last sp
+- ¶16 · **Narrator (minor)** · *INFERRED* · “I repeat this conversation exactly as it occurred. I have no doubt that it is, word for word, the s
+- ¶18 · **Narrator (minor)** · *INFERRED* · “The carriage left the streets behind, passed the North Barrier, and emerged upon the country road. 
+- ¶19 · **Narrator (minor)** · *INFERRED* · “There was nothing in this action to attract my particular attention, for I had seen common people s
+- ¶20 · **Narrator (minor)** · *INFERRED* · “From the time of our alighting at the outer gate (which we found locked, and which one of the broth
+- ¶21 · **Narrator (minor)** · *INFERRED* · “The patient was a woman of great beauty, and young; assuredly not much past twenty. Her hair was to
+- ¶22 · **Narrator (minor)** · *INFERRED* · “I saw this, within the first minute of my contemplation of the patient; for, in her restless strivi
+- ¶23 · **Narrator (minor)** · *INFERRED* · “I turned her gently over, placed my hands upon her breast to calm her and keep her down, and looked
+- ¶24 · **Narrator (minor)** · *INFERRED* · “‘How long,’ I asked, ‘has this lasted?’
+- ¶25 · **Narrator (minor)** · *INFERRED* · “To distinguish the brothers, I will call them the elder and the younger; by the elder, I mean him w
+- ¶26 · **Narrator (minor)** · *INFERRED* · “‘She has a husband, a father, and a brother?’
+- ¶27 · **Narrator (minor)** · *INFERRED* · “‘A brother.’
+- ¶28 · **Narrator (minor)** · *INFERRED* · “‘I do not address her brother?’
+- ¶29 · **Narrator (minor)** · *INFERRED* · “He answered with great contempt, ‘No.’
+- ¶30 · **Narrator (minor)** · *INFERRED* · “‘She has some recent association with the number twelve?’
+- ¶31 · **Narrator (minor)** · *INFERRED* · “The younger brother impatiently rejoined, ‘With twelve o’clock?’
+- ¶32 · **Narrator (minor)** · *INFERRED* · “‘See, gentlemen,’ said I, still keeping my hands upon her breast, ‘how useless I am, as you have br
+- ¶33 · **Narrator (minor)** · *INFERRED* · “The elder brother looked to the younger, who said haughtily, ‘There is a case of medicines here;’ a
+- ¶35 · **Narrator (minor)** · *INFERRED* · “I opened some of the bottles, smelt them, and put the stoppers to my lips. If I had wanted to use a
+- ¶36 · **Narrator (minor)** · *INFERRED* · “‘Do you doubt them?’ asked the younger brother.
+- ¶37 · **Narrator (minor)** · *INFERRED* · “‘You see, monsieur, I am going to use them,’ I replied, and said no more.
+- ¶38 · **Narrator (minor)** · *INFERRED* · “I made the patient swallow, with great difficulty, and after many efforts, the dose that I desired 
+- ¶39 · **Narrator (minor)** · *INFERRED* · “For the reason that my hand had this effect (I assume), I had sat by the side of the bed for half a
+- ¶40 · **Narrator (minor)** · *INFERRED* · “‘There is another patient.’
+- ¶41 · **Narrator (minor)** · *INFERRED* · “I was startled, and asked, ‘Is it a pressing case?’
+- ¶42 · **Narrator (minor)** · *INFERRED* · “‘You had better see,’ he carelessly answered; and took up a light.
+- ¶44 · **Narrator (minor)** · *INFERRED* · “The other patient lay in a back room across a second staircase, which was a species of loft over a 
+- ¶45 · **Narrator (minor)** · *INFERRED* · “On some hay on the ground, with a cushion thrown under his head, lay a handsome peasant boy--a boy 
+- ¶46 · **Narrator (minor)** · *INFERRED* · “‘I am a doctor, my poor fellow,’ said I. ‘Let me examine it.’
+- ¶47 · **Narrator (minor)** · *INFERRED* · “‘I do not want it examined,’ he answered; ‘let it be.’
+- ¶48 · **Narrator (minor)** · *INFERRED* · “It was under his hand, and I soothed him to let me move his hand away. The wound was a sword-thrust
+- ¶49 · **Narrator (minor)** · *INFERRED* · “‘How has this been done, monsieur?’ said I.
+- ¶50 · **Narrator (minor)** · *INFERRED* · “‘A crazed young common dog! A serf! Forced my brother to draw upon him, and has fallen by my brothe
+- ¶51 · **Narrator (minor)** · *INFERRED* · “There was no touch of pity, sorrow, or kindred humanity, in this answer. The speaker seemed to ackn
+- ¶52 · **Narrator (minor)** · *INFERRED* · “The boy’s eyes had slowly moved to him as he had spoken, and they now slowly moved to me.
+- ¶53 · **Narrator (minor)** · *INFERRED* · “‘Doctor, they are very proud, these Nobles; but we common dogs are proud too, sometimes. They plund
+- ¶54 · **Narrator (minor)** · *INFERRED* · “The shrieks and the cries were audible there, though subdued by the distance. He referred to them, 
+- ¶55 · **Narrator (minor)** · *INFERRED* · “I said, ‘I have seen her.’
+- ¶56 · **Narrator (minor)** · *INFERRED* · “‘She is my sister, Doctor. They have had their shameful rights, these Nobles, in the modesty and vi
+- ¶57 · **Narrator (minor)** · *INFERRED* · “It was with the greatest difficulty that the boy gathered bodily force to speak; but, his spirit sp
+- ¶58 · **Narrator (minor)** · *INFERRED* · “‘We were so robbed by that man who stands there, as all we common dogs are by those superior Beings
+- ¶59 · **Narrator (minor)** · *INFERRED* · “I had never before seen the sense of being oppressed, bursting forth like a fire. I had supposed th
+- ¶60 · **Narrator (minor)** · *INFERRED* · “‘Nevertheless, Doctor, my sister married. He was ailing at that time, poor fellow, and she married 
+- ¶61 · **Narrator (minor)** · *INFERRED* · “The boy’s eyes, which had been fixed on mine, slowly turned to the looker-on, and I saw in the two 
+- ¶62 · **Narrator (minor)** · *INFERRED* · “‘You know, Doctor, that it is among the Rights of these Nobles to harness us common dogs to carts, 
+- ¶63 · **Narrator (minor)** · *INFERRED* · “Nothing human could have held life in the boy but his determination to tell all his wrong. He force
+- ¶64 · **Narrator (minor)** · *INFERRED* · “‘Then, with that man’s permission and even with his aid, his brother took her away; in spite of wha
+- ¶65 · **Narrator (minor)** · *INFERRED* · “The room was darkening to his sight; the world was narrowing around him. I glanced about me, and sa
+- ¶66 · **Narrator (minor)** · *INFERRED* · “‘She heard me, and ran in. I told her not to come near us till he was dead. He came in and first to
+- ¶67 · **Narrator (minor)** · *INFERRED* · “My glance had fallen, but a few moments before, on the fragments of a broken sword, lying among the
+- ¶68 · **Narrator (minor)** · *INFERRED* · “‘Now, lift me up, Doctor; lift me up. Where is he?’
+- ¶69 · **Narrator (minor)** · *INFERRED* · “‘He is not here,’ I said, supporting the boy, and thinking that he referred to the brother.
+- ¶70 · **Narrator (minor)** · *INFERRED* · “‘He! Proud as these nobles are, he is afraid to see me. Where is the man who was here? Turn my face
+- ¶71 · **Narrator (minor)** · *INFERRED* · “I did so, raising the boy’s head against my knee. But, invested for the moment with extraordinary p
+- ¶72 · **Narrator (minor)** · *INFERRED* · “‘Marquis,’ said the boy, turned to him with his eyes opened wide, and his right hand raised, ‘in th
+- ¶73 · **Narrator (minor)** · *INFERRED* · “Twice, he put his hand to the wound in his breast, and with his forefinger drew a cross in the air.
+- ¶75 · **Narrator (minor)** · *INFERRED* · “When I returned to the bedside of the young woman, I found her raving in precisely the same order o
+- ¶76 · **Narrator (minor)** · *INFERRED* · “I repeated the medicines I had given her, and I sat at the side of the bed until the night was far 
+- ¶77 · **Narrator (minor)** · *INFERRED* · “This lasted twenty-six hours from the time when I first saw her. I had come and gone twice, and was
+- ¶78 · **Narrator (minor)** · *INFERRED* · “It was as if the wind and rain had lulled at last, after a long and fearful storm. I released her a
+- ¶79 · **Narrator (minor)** · *INFERRED* · “‘Is she dead?’ asked the Marquis, whom I will still describe as the elder brother, coming booted in
+- ¶80 · **Narrator (minor)** · *INFERRED* · “‘Not dead,’ said I; ‘but like to die.’
+- ¶81 · **Narrator (minor)** · *INFERRED* · “‘What strength there is in these common bodies!’ he said, looking down at her with some curiosity.
+- ¶82 · **Narrator (minor)** · *INFERRED* · “‘There is prodigious strength,’ I answered him, ‘in sorrow and despair.’
+- ¶83 · **Narrator (minor)** · *INFERRED* · “He first laughed at my words, and then frowned at them. He moved a chair with his foot near to mine
+- ¶84 · **Narrator (minor)** · *INFERRED* · “‘Doctor, finding my brother in this difficulty with these hinds, I recommended that your aid should
+- ¶85 · **Narrator (minor)** · *INFERRED* · “I listened to the patient’s breathing, and avoided answering.
+- ¶86 · **Narrator (minor)** · *INFERRED* · “‘Do you honour me with your attention, Doctor?’
+- ¶87 · **Narrator (minor)** · *INFERRED* · “‘Monsieur,’ said I, ‘in my profession, the communications of patients are always received in confid
+- ¶88 · **Narrator (minor)** · *INFERRED* · “Her breathing was so difficult to trace, that I carefully tried the pulse and the heart. There was 
+- ¶90 · **Narrator (minor)** · *INFERRED* · “I write with so much difficulty, the cold is so severe, I am so fearful of being detected and consi
+- ¶91 · **Narrator (minor)** · *INFERRED* · “She lingered for a week. Towards the last, I could understand some few syllables that she said to m
+- ¶92 · **Narrator (minor)** · *INFERRED* · “I had no opportunity of asking her any question, until I had told the brothers she was sinking fast
+- ¶93 · **Narrator (minor)** · *INFERRED* · “I always observed that their pride bitterly resented the younger brother’s (as I call him) having c
+- ¶94 · **Narrator (minor)** · *INFERRED* · “My patient died, two hours before midnight--at a time, by my watch, answering almost to the minute 
+- ¶95 · **Narrator (minor)** · *INFERRED* · “The brothers were waiting in a room down-stairs, impatient to ride away. I had heard them, alone at
+- ¶96 · **Narrator (minor)** · *INFERRED* · “‘At last she is dead?’ said the elder, when I went in.
+- ¶97 · **Narrator (minor)** · *INFERRED* · “‘She is dead,’ said I.
+- ¶98 · **Narrator (minor)** · *INFERRED* · “‘I congratulate you, my brother,’ were his words as he turned round.
+- ¶99 · **Narrator (minor)** · *INFERRED* · “He had before offered me money, which I had postponed taking. He now gave me a rouleau of gold. I t
+- ¶100 · **Narrator (minor)** · *INFERRED* · “‘Pray excuse me,’ said I. ‘Under the circumstances, no.’
+- ¶101 · **Narrator (minor)** · *INFERRED* · “They exchanged looks, but bent their heads to me as I bent mine to them, and we parted without anot
+- ¶103 · **Narrator (minor)** · *INFERRED* · “I am weary, weary, weary--worn down by misery. I cannot read what I have written with this gaunt ha
+- ¶104 · **Narrator (minor)** · *INFERRED* · “Early in the morning, the rouleau of gold was left at my door in a little box, with my name on the 
+- ¶105 · **Narrator (minor)** · *INFERRED* · “I was much engaged that day, and could not complete my letter that night. I rose long before my usu
+- ¶107 · **Narrator (minor)** · *INFERRED* · “I am growing more and more unequal to the task I have set myself. It is so cold, so dark, my senses
+- ¶108 · **Narrator (minor)** · *INFERRED* · “The lady was young, engaging, and handsome, but not marked for long life. She was in great agitatio
+- ¶109 · **Narrator (minor)** · *INFERRED* · “My memory is still accurate, but I cannot write the words of our conversation. I suspect that I am 
+- ¶110 · **Narrator (minor)** · *INFERRED* · “She had reasons for believing that there was a young sister living, and her greatest desire was, to
+- ¶112 · **Narrator (minor)** · *INFERRED* · “These scraps of paper fail me. One was taken from me, with a warning, yesterday. I must finish my r
+- ¶113 · **Narrator (minor)** · *INFERRED* · “She was a good, compassionate lady, and not happy in her marriage. How could she be! The brother di
+- ¶114 · **Narrator (minor)** · *INFERRED* · “‘For his sake, Doctor,’ she said, pointing to him in tears, ‘I would do all I can to make what poor
+- ¶115 · **Narrator (minor)** · *INFERRED* · “She kissed the boy, and said, caressing him, ‘It is for thine own dear sake. Thou wilt be faithful,
+- ¶116 · **Narrator (minor)** · *INFERRED* · “As she had mentioned her husband’s name in the faith that I knew it, I added no mention of it to my
+- ¶117 · **Narrator (minor)** · *INFERRED* · “That night, the last night of the year, towards nine o’clock, a man in a black dress rang at my gat
+- ¶118 · **Narrator (minor)** · *INFERRED* · “An urgent case in the Rue St. Honore, he said. It would not detain me, he had a coach in waiting.
+- ¶119 · **Narrator (minor)** · *INFERRED* · “It brought me here, it brought me to my grave. When I was clear of the house, a black muffler was d
+- ¶120 · **Narrator (minor)** · *INFERRED* · “If it had pleased _God_ to put it in the hard heart of either of the brothers, in all these frightf
+- ¶124 · **Madame Defarge** · *tag* · “Much influence around him, has that Doctor?”
+- ¶124 · **Madame Defarge** · *tag* · “Save him now, my Doctor, save him!”
+
+## Book 3, Chapter XI — Dusk
+
+- ¶4 · **Narrator (minor)** · *INFERRED* · “If I might touch him! If I might embrace him once! O, good citizens, if you would have so much comp
+- ¶5 · **John Barsad** · *NAMED* · “Let her embrace him then; it is but a moment.”
+- ¶6 · **Narrator (minor)** · *INFERRED* · “Farewell, dear darling of my soul. My parting blessing on my love. We shall meet again, where the w
+- ¶8 · **John Barsad** · *INFERRED* · “I can bear it, dear Charles. I am supported from above: don’t suffer for me. A parting blessing for
+- ¶9 · **Narrator (minor)** · *INFERRED* · “I send it to her by you. I kiss her by you. I say farewell to her by you.”
+- ¶10 · **John Barsad** · *INFERRED* · “My husband. No! A moment!”
+- ¶10 · **John Barsad** · *INFERRED* · “We shall not be separated long. I feel that this will break my heart by-and-bye; but I will do my d
+- ¶12 · **Narrator (minor)** · *INFERRED* · “No, no! What have you done, what have you done, that you should kneel to us! We know now, what a st
+- ¶14 · **Charles Darnay** · *tag* · “It could not be otherwise,”
+- ¶14 · **Charles Darnay** · *tag* · “All things have worked together as they have fallen out. It was the always-vain endeavour to discha
+- ¶17 · **Narrator (minor)** · *INFERRED* · “Shall I take her to a coach? I shall never feel her weight.”
+- ¶20 · **Jarvis Lorry** · *tag-pronoun* · “Don’t recall her to herself,”
+- ¶20 · **Jarvis Lorry** · *tag-pronoun* · “she is better so. Don’t revive her to consciousness, while she only faints.”
+- ¶21 · **Lucie Manette** · *tag* · “Oh, Carton, Carton, dear Carton!”
+- ¶21 · **Lucie Manette** · *tag* · “Now that you have come, I think you will do something to help mamma, something to save papa! O, loo
+- ¶23 · **Sydney Carton** · *tag-pronoun* · “Before I go,”
+- ¶23 · **Sydney Carton** · *tag-pronoun* · “I may kiss her?”
+- ¶24 · **Lucie Manette** · *PRONOUN* · “A life you love.”
+- ¶26 · **Sydney Carton** · *INFERRED* · “You had great influence but yesterday, Doctor Manette; let it at least be tried. These judges, and 
+- ¶27 · **Sydney Carton** · *tag-pronoun* · “Nothing connected with Charles was concealed from me. I had the strongest assurances that I should 
+- ¶28 · **Lucie Manette** · *INFERRED* · “Try them again. The hours between this and to-morrow afternoon are few and short, but try.”
+- ¶29 · **Sydney Carton** · *INFERRED* · “I intend to try. I will not rest a moment.”
+- ¶30 · **Sydney Carton** · *tag-pronoun* · “That’s well. I have known such energy as yours do great things before now--though never,”
+- ¶30 · **Sydney Carton** · *tag-pronoun* · “such great things as this. But try! Of little worth as life is when we misuse it, it is worth that 
+- ¶31 · **Doctor Manette** · *tag* · “I will go,”
+- ¶31 · **Doctor Manette** · *tag* · “to the Prosecutor and the President straight, and I will go to others whom it is better not to name
+- ¶32 · **Sydney Carton** · *INFERRED* · “That’s true. Well! It is a forlorn hope at the best, and not much the forlorner for being delayed t
+- ¶33 · **Doctor Manette** · *INFERRED* · “Immediately after dark, I should hope. Within an hour or two from this.”
+- ¶34 · **Sydney Carton** · *INFERRED* · “It will be dark soon after four. Let us stretch the hour or two. If I go to Mr. Lorry’s at nine, sh
+- ¶35 · **Doctor Manette** · *INFERRED* · “Yes.”
+- ¶36 · **Sydney Carton** · *INFERRED* · “May you prosper!”
+- ¶38 · **Jarvis Lorry** · *tag* · “I have no hope,”
+- ¶39 · **Sydney Carton** · *INFERRED* · “Nor have I.”
+- ¶40 · **Jarvis Lorry** · *INFERRED* · “If any one of these men, or all of these men, were disposed to spare him--which is a large supposit
+- ¶41 · **Sydney Carton** · *INFERRED* · “And so do I. I heard the fall of the axe in that sound.”
+- ¶43 · **Sydney Carton** · *tag* · “Don’t despond,”
+- ¶43 · **Sydney Carton** · *tag* · “don’t grieve. I encouraged Doctor Manette in this idea, because I felt that it might one day be con
+- ¶44 · **Jarvis Lorry** · *tag* · “Yes, yes, yes,”
+- ¶44 · **Jarvis Lorry** · *tag* · “you are right. But he will perish; there is no real hope.”
+- ¶45 · **Sydney Carton** · *tag* · “Yes. He will perish: there is no real hope,”
+
+## Book 3, Chapter XII — Darkness
+
+- ¶2 · **Narrator (minor)** · *INFERRED* · “At Tellson’s banking-house at nine,”
+- ¶2 · **Narrator (minor)** · *INFERRED* · “Shall I do well, in the mean time, to show myself? I think so. It is best that these people should 
+- ¶3 · **Sydney Carton** · *tag-pronoun* · “It is best,”
+- ¶3 · **Sydney Carton** · *tag-pronoun* · “that these people should know there is such a man as I here.”
+- ¶9 · **Madame Defarge** · *tag* · “English?”
+- ¶10 · **Sydney Carton** · *INFERRED* · “Yes, madame, yes. I am English!”
+- ¶11 · **Madame Defarge** · *NAMED* · “I swear to you, like Evrémonde!”
+- ¶13 · **Sydney Carton** · *INFERRED* · “How?”
+- ¶14 · **Madame Defarge** · *INFERRED* · “Good evening.”
+- ¶15 · **Sydney Carton** · *INFERRED* · “Oh! Good evening, citizen,”
+- ¶15 · **Sydney Carton** · *INFERRED* · “Ah! and good wine. I drink to the Republic.”
+- ¶16 · **Ernest Defarge** · *NAMED* · “Certainly, a little like.”
+- ¶16 · **Ernest Defarge** · *NAMED* · “I tell you a good deal like.”
+- ¶16 · **Ernest Defarge** · *NAMED* · “He is so much in your mind, see you, madame.”
+- ¶16 · **Ernest Defarge** · *NAMED* · “Yes, my faith! And you are looking forward with so much pleasure to seeing him once more to-morrow!
+- ¶18 · **Jacques Three** · *tag* · “It is true what madame says,”
+- ¶18 · **Jacques Three** · *tag* · “Why stop? There is great force in that. Why stop?”
+- ¶19 · **Ernest Defarge** · *tag* · “Well, well,”
+- ¶19 · **Ernest Defarge** · *tag* · “but one must stop somewhere. After all, the question is still where?”
+- ¶20 · **Madame Defarge** · *tag* · “At extermination,”
+- ¶21 · **Ernest Defarge** · *INFERRED* · “Magnificent!”
+- ¶22 · **Ernest Defarge** · *tag* · “Extermination is good doctrine, my wife,”
+- ¶22 · **Ernest Defarge** · *tag* · “in general, I say nothing against it. But this Doctor has suffered much; you have seen him to-day; 
+- ¶23 · **Madame Defarge** · *tag* · “I have observed his face!”
+- ¶23 · **Madame Defarge** · *tag* · “Yes. I have observed his face. I have observed his face to be not the face of a true friend of the 
+- ¶24 · **Ernest Defarge** · *tag* · “And you have observed, my wife,”
+- ¶24 · **Ernest Defarge** · *tag* · “the anguish of his daughter, which must be a dreadful anguish to him!”
+- ¶25 · **Madame Defarge** · *tag* · “I have observed his daughter,”
+- ¶25 · **Madame Defarge** · *tag* · “yes, I have observed his daughter, more times than one. I have observed her to-day, and I have obse
+- ¶26 · **Ernest Defarge** · *INFERRED* · “The citizeness is superb!”
+- ¶27 · **The Vengeance** · *tag* · “She is an Angel!”
+- ¶28 · **Madame Defarge** · *tag* · “As to thee,”
+- ¶28 · **Madame Defarge** · *tag* · “if it depended on thee--which, happily, it does not--thou wouldst rescue this man even now.”
+- ¶29 · **Ernest Defarge** · *tag* · “No!”
+- ¶29 · **Ernest Defarge** · *tag* · “Not if to lift this glass would do it! But I would leave the matter there. I say, stop there.”
+- ¶30 · **Madame Defarge** · *tag* · “See you then, Jacques,”
+- ¶30 · **Madame Defarge** · *tag* · “and see you, too, my little Vengeance; see you both! Listen! For other crimes as tyrants and oppres
+- ¶31 · **Ernest Defarge** · *tag* · “It is so,”
+- ¶32 · **Madame Defarge** · *INFERRED* · “In the beginning of the great days, when the Bastille falls, he finds this paper of to-day, and he 
+- ¶33 · **Ernest Defarge** · *tag* · “It is so,”
+- ¶34 · **Madame Defarge** · *INFERRED* · “That night, I tell him, when the paper is read through, and the lamp is burnt out, and the day is g
+- ¶35 · **Ernest Defarge** · *tag* · “It is so,”
+- ¶36 · **Madame Defarge** · *INFERRED* · “I communicate to him that secret. I smite this bosom with these two hands as I smite it now, and I 
+- ¶37 · **Ernest Defarge** · *tag* · “It is so,”
+- ¶38 · **Madame Defarge** · *tag* · “Then tell Wind and Fire where to stop,”
+- ¶38 · **Madame Defarge** · *tag* · “but don’t tell me.”
+- ¶39 · **Ernest Defarge** · *INFERRED* · “Tell the Wind and the Fire where to stop; not me!”
+- ¶46 · **Jarvis Lorry** · *tag-pronoun* · “I cannot find it,”
+- ¶46 · **Jarvis Lorry** · *tag-pronoun* · “and I must have it. Where is it?”
+- ¶48 · **Ernest Defarge** · *INFERRED* · “Where is my bench? I have been looking everywhere for my bench, and I can’t find it. What have they
+- ¶50 · **Ernest Defarge** · *tag-pronoun* · “Come, come!”
+- ¶50 · **Ernest Defarge** · *tag-pronoun* · “let me get to work. Give me my work.”
+- ¶52 · **Jarvis Lorry** · *INFERRED* · “Don’t torture a poor forlorn wretch,”
+- ¶52 · **Jarvis Lorry** · *INFERRED* · “but give me my work! What is to become of us, if those shoes are not done to-night?”
+- ¶56 · **Ernest Defarge** · *INFERRED* · “The last chance is gone: it was not much. Yes; he had better be taken to her. But, before you go, w
+- ¶57 · **Jarvis Lorry** · *tag* · “I do not doubt it,”
+- ¶57 · **Jarvis Lorry** · *tag* · “Say on.”
+- ¶59 · **Jarvis Lorry** · *tag-pronoun* · “We should look at this!”
+- ¶59 · **Jarvis Lorry** · *tag-pronoun* · “Thank _God!_”
+- ¶60 · **Jarvis Lorry** · *tag* · “What is it?”
+- ¶61 · **Ernest Defarge** · *INFERRED* · “A moment! Let me speak of it in its place. First,”
+- ¶61 · **Ernest Defarge** · *INFERRED* · “that is the certificate which enables me to pass out of this city. Look at it. You see--Sydney Cart
+- ¶63 · **Jarvis Lorry** · *INFERRED* · “Keep it for me until to-morrow. I shall see him to-morrow, you remember, and I had better not take 
+- ¶64 · **Ernest Defarge** · *INFERRED* · “Why not?”
+- ¶65 · **Jarvis Lorry** · *INFERRED* · “I don’t know; I prefer not to do so. Now, take this paper that Doctor Manette has carried about him
+- ¶66 · **Ernest Defarge** · *INFERRED* · “Yes!”
+- ¶67 · **Jarvis Lorry** · *INFERRED* · “Perhaps he obtained it as his last and utmost precaution against evil, yesterday. When is it dated?
+- ¶68 · **Ernest Defarge** · *INFERRED* · “They are not in danger?”
+- ¶69 · **Jarvis Lorry** · *INFERRED* · “They are in great danger. They are in danger of denunciation by Madame Defarge. I know it from her 
+- ¶69 · **Jarvis Lorry** · *INFERRED* · “making signs and signals to prisoners. It is easy to foresee that the pretence will be the common o
+- ¶70 · **Ernest Defarge** · *INFERRED* · “Heaven grant I may, Carton! But how?”
+- ¶71 · **Jarvis Lorry** · *INFERRED* · “I am going to tell you how. It will depend on you, and it could depend on no better man. This new d
+- ¶72 · **Ernest Defarge** · *INFERRED* · “So attentively, and with so much confidence in what you say, that for the moment I lose sight,”
+- ¶72 · **Ernest Defarge** · *INFERRED* · “even of this distress.”
+- ¶73 · **Jarvis Lorry** · *INFERRED* · “You have money, and can buy the means of travelling to the seacoast as quickly as the journey can b
+- ¶74 · **Ernest Defarge** · *INFERRED* · “It shall be done!”
+- ¶76 · **Jarvis Lorry** · *tag-pronoun* · “You are a noble heart. Did I say we could depend upon no better man? Tell her, to-night, what you k
+- ¶76 · **Jarvis Lorry** · *tag-pronoun* · “For the sake of her child and her father, press upon her the necessity of leaving Paris, with them 
+- ¶77 · **Ernest Defarge** · *INFERRED* · “I am sure of it.”
+- ¶78 · **Jarvis Lorry** · *INFERRED* · “I thought so. Quietly and steadily have all these arrangements made in the courtyard here, even to 
+- ¶79 · **Ernest Defarge** · *INFERRED* · “I understand that I wait for you under all circumstances?”
+- ¶80 · **Jarvis Lorry** · *INFERRED* · “You have my certificate in your hand with the rest, you know, and will reserve my place. Wait for n
+- ¶81 · **Jarvis Lorry** · *tag* · “Why, then,”
+- ¶81 · **Jarvis Lorry** · *tag* · “it does not all depend on one old man, but I shall have a young and ardent man at my side.”
+- ¶82 · **Ernest Defarge** · *INFERRED* · “By the help of Heaven you shall! Promise me solemnly that nothing will influence you to alter the c
+- ¶83 · **Jarvis Lorry** · *INFERRED* · “Nothing, Carton.”
+- ¶84 · **Ernest Defarge** · *INFERRED* · “Remember these words to-morrow: change the course, or delay in it--for any reason--and no life can 
+- ¶85 · **Jarvis Lorry** · *INFERRED* · “I will remember them. I hope to do my part faithfully.”
+- ¶86 · **Ernest Defarge** · *INFERRED* · “And I hope to do mine. Now, good bye!”
+
+## Book 3, Chapter XIII — Fifty-two
+
+- ¶12 · **Sydney Carton** · *PRONOUN* · “this is the day of my death!”
+- ¶18 · **Sydney Carton** · *PRONOUN* · “There is but another now,”
+- ¶20 · **Sydney Carton** · *INFERRED* · “He has never seen me here; I have kept out of his way. Go you in alone; I wait near. Lose no time!”
+- ¶23 · **Charles Darnay** · *tag-pronoun* · “Of all the people upon earth, you least expected to see me?”
+- ¶24 · **Sydney Carton** · *INFERRED* · “I could not believe it to be you. I can scarcely believe it now. You are not”
+- ¶24 · **Sydney Carton** · *INFERRED* · “a prisoner?”
+- ¶25 · **Charles Darnay** · *INFERRED* · “No. I am accidentally possessed of a power over one of the keepers here, and in virtue of it I stan
+- ¶27 · **Sydney Carton** · *INFERRED* · “I bring you a request from her.”
+- ¶28 · **Charles Darnay** · *INFERRED* · “What is it?”
+- ¶29 · **Sydney Carton** · *INFERRED* · “A most earnest, pressing, and emphatic entreaty, addressed to you in the most pathetic tones of the
+- ¶31 · **Charles Darnay** · *INFERRED* · “You have no time to ask me why I bring it, or what it means; I have no time to tell you. You must c
+- ¶33 · **Sydney Carton** · *INFERRED* · “Draw on these boots of mine. Put your hands to them; put your will to them. Quick!”
+- ¶34 · **Charles Darnay** · *INFERRED* · “Carton, there is no escaping from this place; it never can be done. You will only die with me. It i
+- ¶35 · **Sydney Carton** · *INFERRED* · “It would be madness if I asked you to escape; but do I? When I ask you to pass out at that door, te
+- ¶37 · **Charles Darnay** · *INFERRED* · “Carton! Dear Carton! It is madness. It cannot be accomplished, it never can be done, it has been at
+- ¶38 · **Sydney Carton** · *INFERRED* · “Do I ask you, my dear Darnay, to pass the door? When I ask that, refuse. There are pen and ink and 
+- ¶39 · **Charles Darnay** · *INFERRED* · “It was when you came in.”
+- ¶40 · **Sydney Carton** · *INFERRED* · “Steady it again, and write what I shall dictate. Quick, friend, quick!”
+- ¶42 · **Charles Darnay** · *INFERRED* · “Write exactly as I speak.”
+- ¶43 · **Sydney Carton** · *INFERRED* · “To whom do I address it?”
+- ¶44 · **Charles Darnay** · *INFERRED* · “To no one.”
+- ¶45 · **Sydney Carton** · *INFERRED* · “Do I date it?”
+- ¶46 · **Charles Darnay** · *INFERRED* · “No.”
+- ¶48 · **Sydney Carton** · *tag* · “‘If you remember,’”
+- ¶48 · **Sydney Carton** · *tag* · “‘the words that passed between us, long ago, you will readily comprehend this when you see it. You 
+- ¶50 · **Sydney Carton** · *tag* · “Have you written ‘forget them’?”
+- ¶51 · **Charles Darnay** · *INFERRED* · “I have. Is that a weapon in your hand?”
+- ¶52 · **Sydney Carton** · *INFERRED* · “No; I am not armed.”
+- ¶53 · **Charles Darnay** · *INFERRED* · “What is it in your hand?”
+- ¶54 · **Sydney Carton** · *INFERRED* · “You shall know directly. Write on; there are but a few words more.”
+- ¶54 · **Sydney Carton** · *INFERRED* · “‘I am thankful that the time has come, when I can prove them. That I do so is no subject for regret
+- ¶56 · **Charles Darnay** · *tag-pronoun* · “What vapour is that?”
+- ¶57 · **Sydney Carton** · *INFERRED* · “Vapour?”
+- ¶58 · **Charles Darnay** · *INFERRED* · “Something that crossed me?”
+- ¶59 · **Sydney Carton** · *INFERRED* · “I am conscious of nothing; there can be nothing here. Take up the pen and finish. Hurry, hurry!”
+- ¶61 · **Charles Darnay** · *INFERRED* · “Hurry, hurry!”
+- ¶63 · **Sydney Carton** · *INFERRED* · “‘If it had been otherwise;’”
+- ¶63 · **Sydney Carton** · *INFERRED* · “‘I never should have used the longer opportunity. If it had been otherwise;’”
+- ¶63 · **Sydney Carton** · *INFERRED* · “‘I should but have had so much the more to answer for. If it had been otherwise--’”
+- ¶65 · **Sydney Carton** · *PRONOUN* · “Enter there! Come in!”
+- ¶66 · **Sydney Carton** · *tag* · “You see?”
+- ¶66 · **Sydney Carton** · *tag* · “is your hazard very great?”
+- ¶67 · **Charles Darnay** · *INFERRED* · “Mr. Carton,”
+- ¶67 · **Charles Darnay** · *INFERRED* · “my hazard is not _that_, in the thick of business here, if you are true to the whole of your bargai
+- ¶68 · **Sydney Carton** · *INFERRED* · “Don’t fear me. I will be true to the death.”
+- ¶69 · **Charles Darnay** · *INFERRED* · “You must be, Mr. Carton, if the tale of fifty-two is to be right. Being made right by you in that d
+- ¶70 · **Sydney Carton** · *INFERRED* · “Have no fear! I shall soon be out of the way of harming you, and the rest will soon be far from her
+- ¶71 · **Charles Darnay** · *INFERRED* · “You?”
+- ¶72 · **Sydney Carton** · *INFERRED* · “Him, man, with whom I have exchanged. You go out at the gate by which you brought me in?”
+- ¶73 · **Charles Darnay** · *INFERRED* · “Of course.”
+- ¶74 · **Sydney Carton** · *INFERRED* · “I was weak and faint when you brought me in, and I am fainter now you take me out. The parting inte
+- ¶75 · **Charles Darnay** · *INFERRED* · “You swear not to betray me?”
+- ¶76 · **Sydney Carton** · *tag* · “Man, man!”
+- ¶76 · **Sydney Carton** · *tag* · “have I sworn by no solemn vow already, to go through with this, that you waste the precious moments
+- ¶78 · **Charles Darnay** · *INFERRED* · “How, then?”
+- ¶78 · **Charles Darnay** · *INFERRED* · “So afflicted to find that his friend has drawn a prize in the lottery of Sainte Guillotine?”
+- ¶79 · **Narrator (minor)** · *tag* · “A good patriot,”
+- ¶79 · **Narrator (minor)** · *tag* · “could hardly have been more afflicted if the Aristocrat had drawn a blank.”
+- ¶81 · **Charles Darnay** · *INFERRED* · “The time is short, Evrémonde,”
+- ¶82 · **Sydney Carton** · *tag* · “I know it well,”
+- ¶82 · **Sydney Carton** · *tag* · “Be careful of my friend, I entreat you, and leave me.”
+- ¶83 · **John Barsad** · *tag* · “Come, then, my children,”
+- ¶83 · **John Barsad** · *tag* · “Lift him, and come away!”
+- ¶85 · **Sydney Carton** · *INFERRED* · “Follow me, Evrémonde!”
+- ¶87 · **Lucie Manette** · *tag-pronoun* · “Citizen Evrémonde,”
+- ¶87 · **Lucie Manette** · *tag-pronoun* · “I am a poor little seamstress, who was with you in La Force.”
+- ¶88 · **Charles Darnay** · *PRONOUN* · “True. I forget what you were accused of?”
+- ¶89 · **Lucie Manette** · *INFERRED* · “Plots. Though the just Heaven knows that I am innocent of any. Is it likely? Who would think of plo
+- ¶91 · **Charles Darnay** · *INFERRED* · “I am not afraid to die, Citizen Evrémonde, but I have done nothing. I am not unwilling to die, if t
+- ¶93 · **Lucie Manette** · *INFERRED* · “I heard you were released, Citizen Evrémonde. I hoped it was true?”
+- ¶94 · **Charles Darnay** · *INFERRED* · “It was. But, I was again taken and condemned.”
+- ¶95 · **Lucie Manette** · *INFERRED* · “If I may ride with you, Citizen Evrémonde, will you let me hold your hand? I am not afraid, but I a
+- ¶97 · **Lucie Manette** · *tag-pronoun* · “Are you dying for him?”
+- ¶98 · **Charles Darnay** · *INFERRED* · “And his wife and child. Hush! Yes.”
+- ¶99 · **Lucie Manette** · *INFERRED* · “O you will let me hold your brave hand, stranger?”
+- ¶100 · **Charles Darnay** · *INFERRED* · “Hush! Yes, my poor sister; to the last.”
+- ¶103 · **Lucie Manette** · *INFERRED* · “Who goes here? Whom have we within? Papers!”
+- ¶105 · **Charles Darnay** · *INFERRED* · “Alexandre Manette. Physician. French. Which is he?”
+- ¶107 · **Lucie Manette** · *INFERRED* · “Apparently the Citizen-Doctor is not in his right mind? The Revolution-fever will have been too muc
+- ¶109 · **Charles Darnay** · *INFERRED* · “Hah! Many suffer with it. Lucie. His daughter. French. Which is she?”
+- ¶111 · **Lucie Manette** · *INFERRED* · “Apparently it must be. Lucie, the wife of Evrémonde; is it not?”
+- ¶113 · **Charles Darnay** · *INFERRED* · “Hah! Evrémonde has an assignation elsewhere. Lucie, her child. English. This is she?”
+- ¶115 · **Lucie Manette** · *INFERRED* · “Kiss me, child of Evrémonde. Now, thou hast kissed a good Republican; something new in thy family; 
+- ¶117 · **Charles Darnay** · *INFERRED* · “Apparently the English advocate is in a swoon?”
+- ¶119 · **Lucie Manette** · *INFERRED* · “Is that all? It is not a great deal, that! Many are under the displeasure of the Republic, and must
+- ¶120 · **Charles Darnay** · *INFERRED* · “I am he. Necessarily, being the last.”
+- ¶122 · **Lucie Manette** · *INFERRED* · “Behold your papers, Jarvis Lorry, countersigned.”
+- ¶123 · **Charles Darnay** · *INFERRED* · “One can depart, citizen?”
+- ¶124 · **Lucie Manette** · *INFERRED* · “One can depart. Forward, my postilions! A good journey!”
+- ¶125 · **Charles Darnay** · *INFERRED* · “I salute you, citizens.--And the first danger passed!”
+- ¶127 · **Lucie Manette** · *INFERRED* · “Are we not going too slowly? Can they not be induced to go faster?”
+- ¶128 · **Charles Darnay** · *INFERRED* · “It would seem like flight, my darling. I must not urge them too much; it would rouse suspicion.”
+- ¶129 · **Lucie Manette** · *INFERRED* · “Look back, look back, and see if we are pursued!”
+- ¶130 · **Charles Darnay** · *INFERRED* · “The road is clear, my dearest. So far, we are not pursued.”
+- ¶135 · **Lucie Manette** · *INFERRED* · “Ho! Within the carriage there. Speak then!”
+- ¶136 · **Charles Darnay** · *INFERRED* · “What is it?”
+- ¶137 · **Lucie Manette** · *INFERRED* · “How many did they say?”
+- ¶138 · **Charles Darnay** · *INFERRED* · “I do not understand you.”
+- ¶139 · **Lucie Manette** · *INFERRED* · “--At the last post. How many to the Guillotine to-day?”
+- ¶140 · **Charles Darnay** · *INFERRED* · “Fifty-two.”
+- ¶141 · **Lucie Manette** · *INFERRED* · “I said so! A brave number! My fellow-citizen here would have it forty-two; ten more heads are worth
+
+## Book 3, Chapter XIV — The Knitting Done
+
+- ¶3 · **Jacques Three** · *tag* · “But our Defarge,”
+- ¶3 · **Jacques Three** · *tag* · “is undoubtedly a good Republican? Eh?”
+- ¶4 · **Jacques Three** · *INFERRED* · “There is no better,”
+- ¶4 · **Jacques Three** · *INFERRED* · “in France.”
+- ¶5 · **Madame Defarge** · *tag* · “Peace, little Vengeance,”
+- ¶5 · **Madame Defarge** · *tag* · “hear me speak. My husband, fellow-citizen, is a good Republican and a bold man; he has deserved wel
+- ¶6 · **Jacques Three** · *INFERRED* · “It is a great pity,”
+- ¶6 · **Jacques Three** · *INFERRED* · “it is not quite like a good citizen; it is a thing to regret.”
+- ¶7 · **Madame Defarge** · *tag* · “See you,”
+- ¶7 · **Madame Defarge** · *tag* · “I care nothing for this Doctor, I. He may wear his head or lose it, for any interest I have in him;
+- ¶8 · **Jacques Three** · *INFERRED* · “She has a fine head for it,”
+- ¶8 · **Jacques Three** · *INFERRED* · “I have seen blue eyes and golden hair there, and they looked charming when Samson held them up.”
+- ¶10 · **Jacques Three** · *tag* · “The child also,”
+- ¶10 · **Jacques Three** · *tag* · “has golden hair and blue eyes. And we seldom have a child there. It is a pretty sight!”
+- ¶11 · **Madame Defarge** · *tag* · “In a word,”
+- ¶11 · **Madame Defarge** · *tag* · “I cannot trust my husband in this matter. Not only do I feel, since last night, that I dare not con
+- ¶12 · **Jacques Three** · *INFERRED* · “That must never be,”
+- ¶12 · **Jacques Three** · *INFERRED* · “no one must escape. We have not half enough as it is. We ought to have six score a day.”
+- ¶13 · **Madame Defarge** · *tag* · “In a word,”
+- ¶13 · **Madame Defarge** · *tag* · “my husband has not my reason for pursuing this family to annihilation, and I have not his reason fo
+- ¶15 · **Madame Defarge** · *tag* · “Touching those signals, little citizen,”
+- ¶15 · **Madame Defarge** · *tag* · “that she made to the prisoners; you are ready to bear witness to them this very day?”
+- ¶16 · **Jacques Three** · *INFERRED* · “Ay, ay, why not!”
+- ¶16 · **Jacques Three** · *INFERRED* · “Every day, in all weathers, from two to four, always signalling, sometimes with the little one, som
+- ¶18 · **Jacques Three** · *tag* · “Clearly plots,”
+- ¶18 · **Jacques Three** · *tag* · “Transparently!”
+- ¶19 · **Madame Defarge** · *tag* · “There is no doubt of the Jury?”
+- ¶20 · **Jacques Three** · *INFERRED* · “Rely upon the patriotic Jury, dear citizeness. I answer for my fellow-Jurymen.”
+- ¶21 · **Madame Defarge** · *tag* · “Now, let me see,”
+- ¶21 · **Madame Defarge** · *tag* · “Yet once more! Can I spare this Doctor to my husband? I have no feeling either way. Can I spare him
+- ¶22 · **Jacques Three** · *tag* · “He would count as one head,”
+- ¶22 · **Jacques Three** · *tag* · “We really have not heads enough; it would be a pity, I think.”
+- ¶23 · **Madame Defarge** · *INFERRED* · “He was signalling with her when I saw her,”
+- ¶23 · **Madame Defarge** · *INFERRED* · “I cannot speak of one without the other; and I must not be silent, and trust the case wholly to him
+- ¶25 · **Madame Defarge** · *tag* · “He must take his chance,”
+- ¶25 · **Madame Defarge** · *tag* · “No, I cannot spare him! You are engaged at three o’clock; you are going to see the batch of to-day 
+- ¶27 · **Madame Defarge** · *tag* · “I,”
+- ¶27 · **Madame Defarge** · *tag* · “am equally engaged at the same place. After it is over--say at eight to-night--come you to me, in S
+- ¶30 · **Jacques Three** · *INFERRED* · “She will now be at home, awaiting the moment of his death. She will be mourning and grieving. She w
+- ¶31 · **Jacques Three** · *tag* · “What an admirable woman; what an adorable woman!”
+- ¶31 · **Jacques Three** · *tag* · “Ah, my cherished!”
+- ¶32 · **Madame Defarge** · *tag* · “Take you my knitting,”
+- ¶32 · **Madame Defarge** · *tag* · “and have it ready for me in my usual seat. Keep me my usual chair. Go you there, straight, for ther
+- ¶33 · **The Vengeance** · *tag* · “I willingly obey the orders of my Chief,”
+- ¶33 · **The Vengeance** · *tag* · “You will not be late?”
+- ¶34 · **Madame Defarge** · *INFERRED* · “I shall be there before the commencement.”
+- ¶35 · **The Vengeance** · *tag* · “And before the tumbrils arrive. Be sure you are there, my soul,”
+- ¶35 · **The Vengeance** · *tag* · “before the tumbrils arrive!”
+- ¶42 · **Miss Pross** · *tag* · “Now what do you think, Mr. Cruncher,”
+- ¶42 · **Miss Pross** · *tag* · “what do you think of our not starting from this courtyard? Another carriage having already gone fro
+- ¶43 · **Jerry Cruncher** · *tag* · “My opinion, miss,”
+- ¶43 · **Jerry Cruncher** · *tag* · “is as you’re right. Likewise wot I’ll stand by you, right or wrong.”
+- ¶44 · **Miss Pross** · *tag* · “I am so distracted with fear and hope for our precious creatures,”
+- ¶44 · **Miss Pross** · *tag* · “that I am incapable of forming any plan. Are _you_ capable of forming any plan, my dear good Mr. Cr
+- ¶45 · **Jerry Cruncher** · *tag* · “Respectin’ a future spear o’ life, miss,”
+- ¶45 · **Jerry Cruncher** · *tag* · “I hope so. Respectin’ any present use o’ this here blessed old head o’ mine, I think not. Would you
+- ¶46 · **Miss Pross** · *tag* · “Oh, for gracious sake!”
+- ¶46 · **Miss Pross** · *tag* · “record them at once, and get them out of the way, like an excellent man.”
+- ¶47 · **Jerry Cruncher** · *tag* · “First,”
+- ¶47 · **Jerry Cruncher** · *tag* · “them poor things well out o’ this, never no more will I do it, never no more!”
+- ¶48 · **Miss Pross** · *tag* · “I am quite sure, Mr. Cruncher,”
+- ¶48 · **Miss Pross** · *tag* · “that you never will do it again, whatever it is, and I beg you not to think it necessary to mention
+- ¶49 · **Jerry Cruncher** · *tag* · “No, miss,”
+- ¶49 · **Jerry Cruncher** · *tag* · “it shall not be named to you. Second: them poor things well out o’ this, and never no more will I i
+- ¶50 · **Miss Pross** · *tag* · “Whatever housekeeping arrangement that may be,”
+- ¶50 · **Miss Pross** · *tag* · “I have no doubt it is best that Mrs. Cruncher should have it entirely under her own superintendence
+- ¶51 · **Jerry Cruncher** · *tag* · “I go so far as to say, miss, moreover,”
+- ¶51 · **Jerry Cruncher** · *tag* · “and let my words be took down and took to Mrs. Cruncher through yourself--that wot my opinions resp
+- ¶52 · **Miss Pross** · *tag* · “There, there, there! I hope she is, my dear man,”
+- ¶52 · **Miss Pross** · *tag* · “and I hope she finds it answering her expectations.”
+- ¶53 · **Jerry Cruncher** · *tag* · “Forbid it,”
+- ¶53 · **Jerry Cruncher** · *tag* · “as anything wot I have ever said or done should be wisited on my earnest wishes for them poor creet
+- ¶55 · **Miss Pross** · *tag* · “If we ever get back to our native land,”
+- ¶55 · **Miss Pross** · *tag* · “you may rely upon my telling Mrs. Cruncher as much as I may be able to remember and understand of w
+- ¶57 · **Miss Pross** · *tag* · “If you were to go before,”
+- ¶57 · **Miss Pross** · *tag* · “and stop the vehicle and horses from coming here, and were to wait somewhere for me; wouldn’t that 
+- ¶59 · **Miss Pross** · *tag* · “Where could you wait for me?”
+- ¶61 · **Miss Pross** · *tag* · “By the cathedral door,”
+- ¶61 · **Miss Pross** · *tag* · “Would it be much out of the way, to take me in, near the great cathedral door between the two tower
+- ¶62 · **Jerry Cruncher** · *tag* · “No, miss,”
+- ¶63 · **Miss Pross** · *tag* · “Then, like the best of men,”
+- ¶63 · **Miss Pross** · *tag* · “go to the posting-house straight, and make that change.”
+- ¶64 · **Jerry Cruncher** · *tag* · “I am doubtful,”
+- ¶64 · **Jerry Cruncher** · *tag* · “about leaving of you, you see. We don’t know what may happen.”
+- ¶65 · **Miss Pross** · *tag* · “Heaven knows we don’t,”
+- ¶65 · **Miss Pross** · *tag* · “but have no fear for me. Take me in at the cathedral, at Three o’Clock, or as near it as you can, a
+- ¶70 · **Madame Defarge** · *NAMED* · “The wife of Evrémonde; where is she?”
+- ¶73 · **Miss Pross** · *tag* · “You might, from your appearance, be the wife of Lucifer,”
+- ¶73 · **Miss Pross** · *tag* · “Nevertheless, you shall not get the better of me. I am an Englishwoman.”
+- ¶75 · **Madame Defarge** · *tag* · “On my way yonder,”
+- ¶75 · **Madame Defarge** · *tag* · “where they reserve my chair and my knitting for me, I am come to make my compliments to her in pass
+- ¶76 · **Miss Pross** · *tag* · “I know that your intentions are evil,”
+- ¶76 · **Miss Pross** · *tag* · “and you may depend upon it, I’ll hold my own against them.”
+- ¶78 · **Madame Defarge** · *tag* · “It will do her no good to keep herself concealed from me at this moment,”
+- ¶78 · **Madame Defarge** · *tag* · “Good patriots will know what that means. Let me see her. Go tell her that I wish to see her. Do you
+- ¶79 · **Miss Pross** · *tag* · “If those eyes of yours were bed-winches,”
+- ¶79 · **Miss Pross** · *tag* · “and I was an English four-poster, they shouldn’t loose a splinter of me. No, you wicked foreign wom
+- ¶81 · **Madame Defarge** · *tag* · “Woman imbecile and pig-like!”
+- ¶81 · **Madame Defarge** · *tag* · “I take no answer from you. I demand to see her. Either tell her that I demand to see her, or stand 
+- ¶82 · **Miss Pross** · *tag* · “I little thought,”
+- ¶82 · **Miss Pross** · *tag* · “that I should ever want to understand your nonsensical language; but I would give all I have, excep
+- ¶84 · **Miss Pross** · *tag* · “I am a Briton,”
+- ¶84 · **Miss Pross** · *tag* · “I am desperate. I don’t care an English Twopence for myself. I know that the longer I keep you here
+- ¶86 · **Miss Pross** · *tag-pronoun* · “Ha, ha!”
+- ¶86 · **Miss Pross** · *tag-pronoun* · “you poor wretch! What are you worth! I address myself to that Doctor.”
+- ¶86 · **Miss Pross** · *tag-pronoun* · “Citizen Doctor! Wife of Evrémonde! Child of Evrémonde! Any person but this miserable fool, answer t
+- ¶88 · **Madame Defarge** · *INFERRED* · “Those rooms are all in disorder, there has been hurried packing, there are odds and ends upon the g
+- ¶89 · **Miss Pross** · *tag* · “Never!”
+- ¶90 · **Madame Defarge** · *tag* · “If they are not in that room, they are gone, and can be pursued and brought back,”
+- ¶91 · **Miss Pross** · *tag* · “As long as you don’t know whether they are in that room or not, you are uncertain what to do,”
+- ¶91 · **Miss Pross** · *tag* · “and you shall not know that, if I can prevent your knowing it; and know that, or not know that, you
+- ¶92 · **Madame Defarge** · *tag* · “I have been in the streets from the first, nothing has stopped me, I will tear you to pieces, but I
+- ¶93 · **Miss Pross** · *tag* · “We are alone at the top of a high house in a solitary courtyard, we are not likely to be heard, and
+- ¶95 · **Miss Pross** · *tag* · “It is under my arm,”
+- ¶95 · **Miss Pross** · *tag* · “you shall not draw it. I am stronger than you, I bless Heaven for it. I hold you till one or other 
+- ¶101 · **Miss Pross** · *tag-pronoun* · “Is there any noise in the streets?”
+- ¶102 · **Jerry Cruncher** · *tag* · “The usual noises,”
+- ¶103 · **Miss Pross** · *tag* · “I don’t hear you,”
+- ¶103 · **Miss Pross** · *tag* · “What do you say?”
+- ¶104 · **Jerry Cruncher** · *INFERRED* · “So I’ll nod my head,”
+- ¶104 · **Jerry Cruncher** · *INFERRED* · “at all events she’ll see that.”
+- ¶105 · **Miss Pross** · *tag* · “Is there any noise in the streets now?”
+- ¶107 · **Jerry Cruncher** · *INFERRED* · “I don’t hear it.”
+- ¶108 · **Jerry Cruncher** · *tag* · “Gone deaf in an hour?”
+- ¶108 · **Jerry Cruncher** · *tag* · “wot’s come to her?”
+- ¶109 · **Miss Pross** · *tag* · “I feel,”
+- ¶109 · **Miss Pross** · *tag* · “as if there had been a flash and a crash, and that crash was the last thing I should ever hear in t
+- ¶110 · **Jerry Cruncher** · *tag* · “Blest if she ain’t in a queer condition!”
+- ¶110 · **Jerry Cruncher** · *tag* · “Wot can she have been a takin’, to keep her courage up? Hark! There’s the roll of them dreadful car
+- ¶111 · **Miss Pross** · *tag* · “I can hear,”
+- ¶111 · **Miss Pross** · *tag* · “nothing. O, my good man, there was first a great crash, and then a great stillness, and that stilln
+- ¶112 · **Jerry Cruncher** · *tag* · “If she don’t hear the roll of those dreadful carts, now very nigh their journey’s end,”
+- ¶112 · **Jerry Cruncher** · *tag* · “it’s my opinion that indeed she never will hear anything else in this world.”
+
+## Book 3, Chapter XV — The Footsteps Die Out For Ever
+
+- ¶3 · **Narrator (minor)** · *INFERRED* · “If thou be changed into this shape by the will of God,”
+- ¶3 · **Narrator (minor)** · *INFERRED* · “then remain so! But, if thou wear this form through mere passing conjuration, then resume thy forme
+- ¶7 · **Narrator (minor)** · *INFERRED* · “Has he sacrificed me?”
+- ¶8 · **Narrator (minor)** · *INFERRED* · “Which is Evrémonde?”
+- ¶9 · **Narrator (minor)** · *INFERRED* · “That. At the back there.”
+- ¶10 · **Narrator (minor)** · *INFERRED* · “With his hand in the girl’s?”
+- ¶11 · **Narrator (minor)** · *INFERRED* · “Yes.”
+- ¶12 · **Narrator (minor)** · *INFERRED* · “Down, Evrémonde! To the Guillotine all aristocrats! Down, Evrémonde!”
+- ¶13 · **Narrator (minor)** · *INFERRED* · “Hush, hush!”
+- ¶14 · **Narrator (minor)** · *INFERRED* · “And why not, citizen?”
+- ¶15 · **Narrator (minor)** · *INFERRED* · “He is going to pay the forfeit: it will be paid in five minutes more. Let him be at peace.”
+- ¶16 · **Narrator (minor)** · *NAMED* · “Down, Evrémonde!”
+- ¶18 · **Narrator (minor)** · *INFERRED* · “Thérèse!”
+- ¶18 · **Narrator (minor)** · *INFERRED* · “Who has seen her? Thérèse Defarge!”
+- ¶19 · **Narrator (minor)** · *INFERRED* · “She never missed before,”
+- ¶20 · **Narrator (minor)** · *INFERRED* · “No; nor will she miss now,”
+- ¶20 · **Narrator (minor)** · *INFERRED* · “Thérèse.”
+- ¶21 · **Narrator (minor)** · *INFERRED* · “Louder,”
+- ¶23 · **Narrator (minor)** · *INFERRED* · “Bad Fortune!”
+- ¶23 · **Narrator (minor)** · *INFERRED* · “and here are the tumbrils! And Evrémonde will be despatched in a wink, and she not here! See her kn
+- ¶27 · **Narrator (minor)** · *INFERRED* · “But for you, dear stranger, I should not be so composed, for I am naturally a poor little thing, fa
+- ¶28 · **Sydney Carton** · *tag* · “Or you to me,”
+- ¶28 · **Sydney Carton** · *tag* · “Keep your eyes upon me, dear child, and mind no other object.”
+- ¶29 · **Narrator (minor)** · *INFERRED* · “I mind nothing while I hold your hand. I shall mind nothing when I let it go, if they are rapid.”
+- ¶30 · **Sydney Carton** · *INFERRED* · “They will be rapid. Fear not!”
+- ¶32 · **Narrator (minor)** · *INFERRED* · “Brave and generous friend, will you let me ask you one last question? I am very ignorant, and it tr
+- ¶33 · **Sydney Carton** · *INFERRED* · “Tell me what it is.”
+- ¶34 · **Narrator (minor)** · *INFERRED* · “I have a cousin, an only relative and an orphan, like myself, whom I love very dearly. She is five 
+- ¶35 · **Sydney Carton** · *INFERRED* · “Yes, yes: better as it is.”
+- ¶36 · **Narrator (minor)** · *INFERRED* · “What I have been thinking as we came along, and what I am still thinking now, as I look into your k
+- ¶37 · **Sydney Carton** · *INFERRED* · “What then, my gentle sister?”
+- ¶38 · **Narrator (minor)** · *INFERRED* · “Do you think:”
+- ¶38 · **Narrator (minor)** · *INFERRED* · “that it will seem long to me, while I wait for her in the better land where I trust both you and I 
+- ¶39 · **Sydney Carton** · *INFERRED* · “It cannot be, my child; there is no Time there, and no trouble there.”
+- ¶40 · **Narrator (minor)** · *INFERRED* · “You comfort me so much! I am so ignorant. Am I to kiss you now? Is the moment come?”
+- ¶41 · **Sydney Carton** · *INFERRED* · “Yes.”
+- ¶43 · **Narrator (minor)** · *INFERRED* · “I am the Resurrection and the Life, saith the Lord: he that believeth in me, though he were dead, y
+- ¶48 · **Sydney Carton** · *INFERRED* · “I see Barsad, and Cly, Defarge, The Vengeance, the Juryman, the Judge, long ranks of the new oppres
+- ¶49 · **Narrator (minor)** · *INFERRED* · “I see the lives for which I lay down my life, peaceful, useful, prosperous and happy, in that Engla
+- ¶50 · **Sydney Carton** · *INFERRED* · “I see that I hold a sanctuary in their hearts, and in the hearts of their descendants, generations 
+- ¶51 · **Narrator (minor)** · *INFERRED* · “I see that child who lay upon her bosom and who bore my name, a man winning his way up in that path
+- ¶52 · **Sydney Carton** · *INFERRED* · “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I
+

@@ -1,0 +1,658 @@
+{
+ "work": "a-tale-of-two-cities",
+ "episode": 11,
+ "chapter": 11,
+ "title": "The Jackal",
+ "document": "BOOK THE SECOND · THE GOLDEN THREAD · CHAPTER V",
+ "source": {
+  "library": "library/charles-dickens/a-tale-of-two-cities/ch11.md",
+  "text": "Charles Dickens, A Tale of Two Cities (1859) · Project Gutenberg #98 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Stryver",
+   "cast_as": "Pompey"
+  },
+  {
+   "role": "Sydney Carton",
+   "cast_as": "Christopher Hitchens"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "CHAPTER V."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Jackal"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Those were drinking days, and most men drank hard. So very great is\nthe improvement Time has brought about in such habits, that a moderate\nstatement of the quantity of wine and punch which one man would swallow\nin the course of a night, without any detriment to his reputation as a\nperfect gentleman, would seem, in these days, a ridiculous exaggeration.\nThe learned profession of the law was certainly not behind any other\nlearned profession in its Bacchanalian propensities; neither was Mr.\nStryver, already fast shouldering his way to a large and lucrative\npractice, behind his compeers in this particular, any more than in the\ndrier parts of the legal race."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "A favourite at the Old Bailey, and eke at the Sessions, Mr. Stryver had\nbegun cautiously to hew away the lower staves of the ladder on which\nhe mounted. Sessions and Old Bailey had now to summon their favourite,\nspecially, to their longing arms; and shouldering itself towards the\nvisage of the Lord Chief Justice in the Court of King’s Bench, the\nflorid countenance of Mr. Stryver might be daily seen, bursting out of\nthe bed of wigs, like a great sunflower pushing its way at the sun from\namong a rank garden-full of flaring companions."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It had once been noted at the Bar, that while Mr. Stryver was a glib\nman, and an unscrupulous, and a ready, and a bold, he had not that\nfaculty of extracting the essence from a heap of statements, which is\namong the most striking and necessary of the advocate’s accomplishments.\nBut, a remarkable improvement came upon him as to this. The more\nbusiness he got, the greater his power seemed to grow of getting at its\npith and marrow; and however late at night he sat carousing with Sydney\nCarton, he always had his points at his fingers’ ends in the morning."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Sydney Carton, idlest and most unpromising of men, was Stryver’s great\nally. What the two drank together, between Hilary Term and Michaelmas,\nmight have floated a king’s ship. Stryver never had a case in hand,\nanywhere, but Carton was there, with his hands in his pockets, staring\nat the ceiling of the court; they went the same Circuit, and even there\nthey prolonged their usual orgies late into the night, and Carton was\nrumoured to be seen at broad day, going home stealthily and unsteadily\nto his lodgings, like a dissipated cat. At last, it began to get about,\namong such as were interested in the matter, that although Sydney Carton\nwould never be a lion, he was an amazingly good jackal, and that he\nrendered suit and service to Stryver in that humble capacity."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Ten o’clock, sir,”"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said the man at the tavern, whom he had charged to\nwake him--"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“ten o’clock, sir.”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“_What’s_ the matter?”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Ten o’clock, sir.”"
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“What do you mean? Ten o’clock at night?”"
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Yes, sir. Your honour told me to call you.”"
+  },
+  {
+   "n": 14,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Oh! I remember. Very well, very well.”"
+  },
+  {
+   "n": 15,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "After a few dull efforts to get to sleep again, which the man\ndexterously combated by stirring the fire continuously for five minutes,\nhe got up, tossed his hat on, and walked out. He turned into the Temple,\nand, having revived himself by twice pacing the pavements of King’s\nBench-walk and Paper-buildings, turned into the Stryver chambers."
+  },
+  {
+   "n": 16,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The Stryver clerk, who never assisted at these conferences, had gone\nhome, and the Stryver principal opened the door. He had his slippers on,\nand a loose bed-gown, and his throat was bare for his greater ease. He\nhad that rather wild, strained, seared marking about the eyes, which\nmay be observed in all free livers of his class, from the portrait of\nJeffries downward, and which can be traced, under various disguises of\nArt, through the portraits of every Drinking Age."
+  },
+  {
+   "n": 17,
+   "para": 14,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“You are a little late, Memory,”"
+  },
+  {
+   "n": 18,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Stryver."
+  },
+  {
+   "n": 19,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“About the usual time; it may be a quarter of an hour later.”"
+  },
+  {
+   "n": 20,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "They went into a dingy room lined with books and littered with papers,\nwhere there was a blazing fire. A kettle steamed upon the hob, and in\nthe midst of the wreck of papers a table shone, with plenty of wine upon\nit, and brandy, and rum, and sugar, and lemons."
+  },
+  {
+   "n": 21,
+   "para": 17,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“You have had your bottle, I perceive, Sydney.”"
+  },
+  {
+   "n": 22,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Two to-night, I think. I have been dining with the day’s client; or\nseeing him dine--it’s all one!”"
+  },
+  {
+   "n": 23,
+   "para": 19,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“That was a rare point, Sydney, that you brought to bear upon the\nidentification. How did you come by it? When did it strike you?”"
+  },
+  {
+   "n": 24,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I thought he was rather a handsome fellow, and I thought I should have\nbeen much the same sort of fellow, if I had had any luck.”"
+  },
+  {
+   "n": 25,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Stryver laughed till he shook his precocious paunch."
+  },
+  {
+   "n": 26,
+   "para": 22,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“You and your luck, Sydney! Get to work, get to work.”"
+  },
+  {
+   "n": 27,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Sullenly enough, the jackal loosened his dress, went into an adjoining\nroom, and came back with a large jug of cold water, a basin, and a towel\nor two. Steeping the towels in the water, and partially wringing them\nout, he folded them on his head in a manner hideous to behold, sat down\nat the table, and said,"
+  },
+  {
+   "n": 28,
+   "para": 23,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Now I am ready!”"
+  },
+  {
+   "n": 29,
+   "para": 24,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Not much boiling down to be done to-night, Memory,”"
+  },
+  {
+   "n": 30,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Stryver,\ngaily, as he looked among his papers."
+  },
+  {
+   "n": 31,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“How much?”"
+  },
+  {
+   "n": 32,
+   "para": 26,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Only two sets of them.”"
+  },
+  {
+   "n": 33,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Give me the worst first.”"
+  },
+  {
+   "n": 34,
+   "para": 28,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“There they are, Sydney. Fire away!”"
+  },
+  {
+   "n": 35,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The lion then composed himself on his back on a sofa on one side of the\ndrinking-table, while the jackal sat at his own paper-bestrewn table\nproper, on the other side of it, with the bottles and glasses ready to\nhis hand. Both resorted to the drinking-table without stint, but each in\na different way; the lion for the most part reclining with his hands in\nhis waistband, looking at the fire, or occasionally flirting with some\nlighter document; the jackal, with knitted brows and intent face,\nso deep in his task, that his eyes did not even follow the hand he\nstretched out for his glass--which often groped about, for a minute or\nmore, before it found the glass for his lips. Two or three times, the\nmatter in hand became so knotty, that the jackal found it imperative on\nhim to get up, and steep his towels anew. From these pilgrimages to the\njug and basin, he returned with such eccentricities of damp headgear as\nno words can describe; which were made the more ludicrous by his anxious\ngravity."
+  },
+  {
+   "n": 36,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "At length the jackal had got together a compact repast for the lion, and\nproceeded to offer it to him. The lion took it with care and caution,\nmade his selections from it, and his remarks upon it, and the jackal\nassisted both. When the repast was fully discussed, the lion put his\nhands in his waistband again, and lay down to meditate. The jackal then\ninvigorated himself with a bumper for his throttle, and a fresh application\nto his head, and applied himself to the collection of a second meal;\nthis was administered to the lion in the same manner, and was not\ndisposed of until the clocks struck three in the morning."
+  },
+  {
+   "n": 37,
+   "para": 31,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“And now we have done, Sydney, fill a bumper of punch,”"
+  },
+  {
+   "n": 38,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr.\nStryver."
+  },
+  {
+   "n": 39,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The jackal removed the towels from his head, which had been steaming\nagain, shook himself, yawned, shivered, and complied."
+  },
+  {
+   "n": 40,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“You were very sound, Sydney, in the matter of those crown witnesses\nto-day. Every question told.”"
+  },
+  {
+   "n": 41,
+   "para": 34,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“I always am sound; am I not?”"
+  },
+  {
+   "n": 42,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I don’t gainsay it. What has roughened your temper? Put some punch to\nit and smooth it again.”"
+  },
+  {
+   "n": 43,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "With a deprecatory grunt, the jackal again complied."
+  },
+  {
+   "n": 44,
+   "para": 37,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“The old Sydney Carton of old Shrewsbury School,”"
+  },
+  {
+   "n": 45,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Stryver, nodding\nhis head over him as he reviewed him in the present and the past,"
+  },
+  {
+   "n": 46,
+   "para": 37,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“the\nold seesaw Sydney. Up one minute and down the next; now in spirits and\nnow in despondency!”"
+  },
+  {
+   "n": 47,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Ah!”"
+  },
+  {
+   "n": 48,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned the other, sighing:"
+  },
+  {
+   "n": 49,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“yes! The same Sydney, with the same\nluck. Even then, I did exercises for other boys, and seldom did my own.”"
+  },
+  {
+   "n": 50,
+   "para": 39,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“And why not?”"
+  },
+  {
+   "n": 51,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“God knows. It was my way, I suppose.”"
+  },
+  {
+   "n": 52,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He sat, with his hands in his pockets and his legs stretched out before\nhim, looking at the fire."
+  },
+  {
+   "n": 53,
+   "para": 42,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Carton,”"
+  },
+  {
+   "n": 54,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said his friend, squaring himself at him with a bullying air,\nas if the fire-grate had been the furnace in which sustained endeavour\nwas forged, and the one delicate thing to be done for the old Sydney\nCarton of old Shrewsbury School was to shoulder him into it,"
+  },
+  {
+   "n": 55,
+   "para": 42,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“your way\nis, and always was, a lame way. You summon no energy and purpose. Look\nat me.”"
+  },
+  {
+   "n": 56,
+   "para": 43,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Oh, botheration!”"
+  },
+  {
+   "n": 57,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Sydney, with a lighter and more\ngood-humoured laugh,"
+  },
+  {
+   "n": 58,
+   "para": 43,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“don’t _you_ be moral!”"
+  },
+  {
+   "n": 59,
+   "para": 44,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“How have I done what I have done?”"
+  },
+  {
+   "n": 60,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Stryver;"
+  },
+  {
+   "n": 61,
+   "para": 44,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“how do I do what I\ndo?”"
+  },
+  {
+   "n": 62,
+   "para": 45,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Partly through paying me to help you, I suppose. But it’s not worth\nyour while to apostrophise me, or the air, about it; what you want to\ndo, you do. You were always in the front rank, and I was always behind.”"
+  },
+  {
+   "n": 63,
+   "para": 46,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“I had to get into the front rank; I was not born there, was I?”"
+  },
+  {
+   "n": 64,
+   "para": 47,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I was not present at the ceremony; but my opinion is you were,”"
+  },
+  {
+   "n": 65,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said\nCarton. At this, he laughed again, and they both laughed."
+  },
+  {
+   "n": 66,
+   "para": 48,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Before Shrewsbury, and at Shrewsbury, and ever since Shrewsbury,”"
+  },
+  {
+   "n": 67,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pursued Carton,"
+  },
+  {
+   "n": 68,
+   "para": 48,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“you have fallen into your rank, and I have fallen into\nmine. Even when we were fellow-students in the Student-Quarter of Paris,\npicking up French, and French law, and other French crumbs that we\ndidn’t get much good of, you were always somewhere, and I was always\nnowhere.”"
+  },
+  {
+   "n": 69,
+   "para": 49,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“And whose fault was that?”"
+  },
+  {
+   "n": 70,
+   "para": 50,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Upon my soul, I am not sure that it was not yours. You were always\ndriving and riving and shouldering and passing, to that restless degree\nthat I had no chance for my life but in rust and repose. It’s a gloomy\nthing, however, to talk about one’s own past, with the day breaking.\nTurn me in some other direction before I go.”"
+  },
+  {
+   "n": 71,
+   "para": 51,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Well then! Pledge me to the pretty witness,”"
+  },
+  {
+   "n": 72,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Stryver, holding up\nhis glass."
+  },
+  {
+   "n": 73,
+   "para": 51,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Are you turned in a pleasant direction?”"
+  },
+  {
+   "n": 74,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Apparently not, for he became gloomy again."
+  },
+  {
+   "n": 75,
+   "para": 53,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Pretty witness,”"
+  },
+  {
+   "n": 76,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he muttered, looking down into his glass."
+  },
+  {
+   "n": 77,
+   "para": 53,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“I have had\nenough of witnesses to-day and to-night; who’s your pretty witness?”"
+  },
+  {
+   "n": 78,
+   "para": 54,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“The picturesque doctor’s daughter, Miss Manette.”"
+  },
+  {
+   "n": 79,
+   "para": 55,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“_She_ pretty?”"
+  },
+  {
+   "n": 80,
+   "para": 56,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Is she not?”"
+  },
+  {
+   "n": 81,
+   "para": 57,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“No.”"
+  },
+  {
+   "n": 82,
+   "para": 58,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Why, man alive, she was the admiration of the whole Court!”"
+  },
+  {
+   "n": 83,
+   "para": 59,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Rot the admiration of the whole Court! Who made the Old Bailey a judge\nof beauty? She was a golden-haired doll!”"
+  },
+  {
+   "n": 84,
+   "para": 60,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Do you know, Sydney,”"
+  },
+  {
+   "n": 85,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Stryver, looking at him with sharp eyes,\nand slowly drawing a hand across his florid face:"
+  },
+  {
+   "n": 86,
+   "para": 60,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“do you know, I rather\nthought, at the time, that you sympathised with the golden-haired doll,\nand were quick to see what happened to the golden-haired doll?”"
+  },
+  {
+   "n": 87,
+   "para": 61,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Quick to see what happened! If a girl, doll or no doll, swoons within a\nyard or two of a man’s nose, he can see it without a perspective-glass.\nI pledge you, but I deny the beauty. And now I’ll have no more drink;\nI’ll get to bed.”"
+  },
+  {
+   "n": 88,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When his host followed him out on the staircase with a candle, to light\nhim down the stairs, the day was coldly looking in through its grimy\nwindows. When he got out of the house, the air was cold and sad, the\ndull sky overcast, the river dark and dim, the whole scene like a\nlifeless desert. And wreaths of dust were spinning round and round\nbefore the morning blast, as if the desert-sand had risen far away, and\nthe first spray of it in its advance had begun to overwhelm the city."
+  },
+  {
+   "n": 89,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Waste forces within him, and a desert all around, this man stood still\non his way across a silent terrace, and saw for a moment, lying in the\nwilderness before him, a mirage of honourable ambition, self-denial, and\nperseverance. In the fair city of this vision, there were airy galleries\nfrom which the loves and graces looked upon him, gardens in which the\nfruits of life hung ripening, waters of Hope that sparkled in his sight.\nA moment, and it was gone. Climbing to a high chamber in a well of\nhouses, he threw himself down in his clothes on a neglected bed, and its\npillow was wet with wasted tears."
+  },
+  {
+   "n": 90,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Sadly, sadly, the sun rose; it rose upon no sadder sight than the man of\ngood abilities and good emotions, incapable of their directed exercise,\nincapable of his own help and his own happiness, sensible of the blight\non him, and resigning himself to let it eat him away."
+  }
+ ]
+}

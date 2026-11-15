@@ -1,0 +1,922 @@
+{
+ "work": "a-tale-of-two-cities",
+ "episode": 10,
+ "chapter": 10,
+ "title": "Congratulatory",
+ "document": "BOOK THE SECOND · THE GOLDEN THREAD · CHAPTER IV",
+ "source": {
+  "library": "library/charles-dickens/a-tale-of-two-cities/ch10.md",
+  "text": "Charles Dickens, A Tale of Two Cities (1859) · Project Gutenberg #98 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Jarvis Lorry",
+   "cast_as": "Isaac Newton"
+  },
+  {
+   "role": "Stryver",
+   "cast_as": "Pompey"
+  },
+  {
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
+  },
+  {
+   "role": "Sydney Carton",
+   "cast_as": "Christopher Hitchens"
+  },
+  {
+   "role": "Charles Darnay",
+   "cast_as": "Louis Philippe I"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "CHAPTER IV."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Congratulatory"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "From the dimly-lighted passages of the court, the last sediment of the\nhuman stew that had been boiling there all day, was straining off, when\nDoctor Manette, Lucie Manette, his daughter, Mr. Lorry, the solicitor\nfor the defence, and its counsel, Mr. Stryver, stood gathered round Mr.\nCharles Darnay--just released--congratulating him on his escape from\ndeath."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It would have been difficult by a far brighter light, to recognise\nin Doctor Manette, intellectual of face and upright of bearing, the\nshoemaker of the garret in Paris. Yet, no one could have looked at him\ntwice, without looking again: even though the opportunity of observation\nhad not extended to the mournful cadence of his low grave voice, and\nto the abstraction that overclouded him fitfully, without any apparent\nreason. While one external cause, and that a reference to his long\nlingering agony, would always--as on the trial--evoke this condition\nfrom the depths of his soul, it was also in its nature to arise of\nitself, and to draw a gloom over him, as incomprehensible to those\nunacquainted with his story as if they had seen the shadow of the actual\nBastille thrown upon him by a summer sun, when the substance was three\nhundred miles away."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Only his daughter had the power of charming this black brooding from\nhis mind. She was the golden thread that united him to a Past beyond his\nmisery, and to a Present beyond his misery: and the sound of her voice,\nthe light of her face, the touch of her hand, had a strong beneficial\ninfluence with him almost always. Not absolutely always, for she could\nrecall some occasions on which her power had failed; but they were few\nand slight, and she believed them over."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Darnay had kissed her hand fervently and gratefully, and had turned\nto Mr. Stryver, whom he warmly thanked. Mr. Stryver, a man of little\nmore than thirty, but looking twenty years older than he was, stout,\nloud, red, bluff, and free from any drawback of delicacy, had a pushing\nway of shouldering himself (morally and physically) into companies and\nconversations, that argued well for his shouldering his way up in life."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He still had his wig and gown on, and he said, squaring himself at his\nlate client to that degree that he squeezed the innocent Mr. Lorry clean\nout of the group:"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“I am glad to have brought you off with honour, Mr.\nDarnay. It was an infamous prosecution, grossly infamous; but not the\nless likely to succeed on that account.”"
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“You have laid me under an obligation to you for life--in two senses,”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said his late client, taking his hand."
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“I have done my best for you, Mr. Darnay; and my best is as good as\nanother man’s, I believe.”"
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "It clearly being incumbent on some one to say,"
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Much better,”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Lorry\nsaid it; perhaps not quite disinterestedly, but with the interested\nobject of squeezing himself back again."
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“You think so?”"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Stryver."
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Well! you have been present all day,\nand you ought to know. You are a man of business, too.”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“And as such,”"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "quoth Mr. Lorry, whom the counsel learned in the law had\nnow shouldered back into the group, just as he had previously shouldered\nhim out of it--"
+  },
+  {
+   "n": 20,
+   "para": 11,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“as such I will appeal to Doctor Manette, to break up\nthis conference and order us all to our homes. Miss Lucie looks ill, Mr.\nDarnay has had a terrible day, we are worn out.”"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“Speak for yourself, Mr. Lorry,”"
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Stryver;"
+  },
+  {
+   "n": 23,
+   "para": 12,
+   "role": "Stryver",
+   "cast": "Pompey",
+   "text": "“I have a night’s work to\ndo yet. Speak for yourself.”"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“I speak for myself,”"
+  },
+  {
+   "n": 25,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "answered Mr. Lorry,"
+  },
+  {
+   "n": 26,
+   "para": 13,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“and for Mr. Darnay, and for\nMiss Lucie, and--Miss Lucie, do you not think I may speak for us all?”"
+  },
+  {
+   "n": 27,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He asked her the question pointedly, and with a glance at her father."
+  },
+  {
+   "n": 28,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "His face had become frozen, as it were, in a very curious look at\nDarnay: an intent look, deepening into a frown of dislike and distrust,\nnot even unmixed with fear. With this strange expression on him his\nthoughts had wandered away."
+  },
+  {
+   "n": 29,
+   "para": 15,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“My father,”"
+  },
+  {
+   "n": 30,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Lucie, softly laying her hand on his."
+  },
+  {
+   "n": 31,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He slowly shook the shadow off, and turned to her."
+  },
+  {
+   "n": 32,
+   "para": 17,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Shall we go home, my father?”"
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "With a long breath, he answered"
+  },
+  {
+   "n": 34,
+   "para": 18,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Yes.”"
+  },
+  {
+   "n": 35,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The friends of the acquitted prisoner had dispersed, under the\nimpression--which he himself had originated--that he would not be\nreleased that night. The lights were nearly all extinguished in the\npassages, the iron gates were being closed with a jar and a rattle,\nand the dismal place was deserted until to-morrow morning’s interest of\ngallows, pillory, whipping-post, and branding-iron, should repeople it.\nWalking between her father and Mr. Darnay, Lucie Manette passed into\nthe open air. A hackney-coach was called, and the father and daughter\ndeparted in it."
+  },
+  {
+   "n": 36,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Stryver had left them in the passages, to shoulder his way back\nto the robing-room. Another person, who had not joined the group, or\ninterchanged a word with any one of them, but who had been leaning\nagainst the wall where its shadow was darkest, had silently strolled\nout after the rest, and had looked on until the coach drove away. He now\nstepped up to where Mr. Lorry and Mr. Darnay stood upon the pavement."
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
+   "text": "“So, Mr. Lorry! Men of business may speak to Mr. Darnay now?”"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Nobody had made any acknowledgment of Mr. Carton’s part in the day’s\nproceedings; nobody had known of it. He was unrobed, and was none the\nbetter for it in appearance."
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“If you knew what a conflict goes on in the business mind, when the\nbusiness mind is divided between good-natured impulse and business\nappearances, you would be amused, Mr. Darnay.”"
+  },
+  {
+   "n": 40,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Mr. Lorry reddened, and said, warmly,"
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“You have mentioned that before,\nsir. We men of business, who serve a House, are not our own masters. We\nhave to think of the House more than ourselves.”"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“_I_ know, _I_ know,”"
+  },
+  {
+   "n": 43,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "rejoined Mr. Carton, carelessly."
+  },
+  {
+   "n": 44,
+   "para": 25,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Don’t be\nnettled, Mr. Lorry. You are as good as another, I have no doubt: better,\nI dare say.”"
+  },
+  {
+   "n": 45,
+   "para": 26,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“And indeed, sir,”"
+  },
+  {
+   "n": 46,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pursued Mr. Lorry, not minding him,"
+  },
+  {
+   "n": 47,
+   "para": 26,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“I really don’t\nknow what you have to do with the matter. If you’ll excuse me, as very\nmuch your elder, for saying so, I really don’t know that it is your\nbusiness.”"
+  },
+  {
+   "n": 48,
+   "para": 27,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Business! Bless you, _I_ have no business,”"
+  },
+  {
+   "n": 49,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Carton."
+  },
+  {
+   "n": 50,
+   "para": 28,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“It is a pity you have not, sir.”"
+  },
+  {
+   "n": 51,
+   "para": 29,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I think so, too.”"
+  },
+  {
+   "n": 52,
+   "para": 30,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“If you had,”"
+  },
+  {
+   "n": 53,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pursued Mr. Lorry,"
+  },
+  {
+   "n": 54,
+   "para": 30,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“perhaps you would attend to it.”"
+  },
+  {
+   "n": 55,
+   "para": 31,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Lord love you, no!--I shouldn’t,”"
+  },
+  {
+   "n": 56,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Mr. Carton."
+  },
+  {
+   "n": 57,
+   "para": 32,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“Well, sir!”"
+  },
+  {
+   "n": 58,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "cried Mr. Lorry, thoroughly heated by his indifference,"
+  },
+  {
+   "n": 59,
+   "para": 32,
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
+   "text": "“business is a very good thing, and a very respectable thing. And, sir,\nif business imposes its restraints and its silences and impediments, Mr.\nDarnay as a young gentleman of generosity knows how to make allowance\nfor that circumstance. Mr. Darnay, good night, God bless you, sir!\nI hope you have been this day preserved for a prosperous and happy\nlife.--Chair there!”"
+  },
+  {
+   "n": 60,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Perhaps a little angry with himself, as well as with the barrister, Mr.\nLorry bustled into the chair, and was carried off to Tellson’s. Carton,\nwho smelt of port wine, and did not appear to be quite sober, laughed\nthen, and turned to Darnay:"
+  },
+  {
+   "n": 61,
+   "para": 34,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“This is a strange chance that throws you and me together. This must\nbe a strange night to you, standing alone here with your counterpart on\nthese street stones?”"
+  },
+  {
+   "n": 62,
+   "para": 35,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“I hardly seem yet,”"
+  },
+  {
+   "n": 63,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned Charles Darnay,"
+  },
+  {
+   "n": 64,
+   "para": 35,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“to belong to this world\nagain.”"
+  },
+  {
+   "n": 65,
+   "para": 36,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I don’t wonder at it; it’s not so long since you were pretty far\nadvanced on your way to another. You speak faintly.”"
+  },
+  {
+   "n": 66,
+   "para": 37,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“I begin to think I _am_ faint.”"
+  },
+  {
+   "n": 67,
+   "para": 38,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Then why the devil don’t you dine? I dined, myself, while those\nnumskulls were deliberating which world you should belong to--this, or\nsome other. Let me show you the nearest tavern to dine well at.”"
+  },
+  {
+   "n": 68,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Drawing his arm through his own, he took him down Ludgate-hill to\nFleet-street, and so, up a covered way, into a tavern. Here, they were\nshown into a little room, where Charles Darnay was soon recruiting\nhis strength with a good plain dinner and good wine: while Carton sat\nopposite to him at the same table, with his separate bottle of port\nbefore him, and his fully half-insolent manner upon him."
+  },
+  {
+   "n": 69,
+   "para": 40,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Do you feel, yet, that you belong to this terrestrial scheme again, Mr.\nDarnay?”"
+  },
+  {
+   "n": 70,
+   "para": 41,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I am frightfully confused regarding time and place; but I am so far\nmended as to feel that.”"
+  },
+  {
+   "n": 71,
+   "para": 42,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“It must be an immense satisfaction!”"
+  },
+  {
+   "n": 72,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He said it bitterly, and filled up his glass again: which was a large\none."
+  },
+  {
+   "n": 73,
+   "para": 44,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“As to me, the greatest desire I have, is to forget that I belong to it.\nIt has no good in it for me--except wine like this--nor I for it. So we\nare not much alike in that particular. Indeed, I begin to think we are\nnot much alike in any particular, you and I.”"
+  },
+  {
+   "n": 74,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Confused by the emotion of the day, and feeling his being there with\nthis Double of coarse deportment, to be like a dream, Charles Darnay was\nat a loss how to answer; finally, answered not at all."
+  },
+  {
+   "n": 75,
+   "para": 46,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Now your dinner is done,”"
+  },
+  {
+   "n": 76,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Carton presently said,"
+  },
+  {
+   "n": 77,
+   "para": 46,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“why don’t you call a\nhealth, Mr. Darnay; why don’t you give your toast?”"
+  },
+  {
+   "n": 78,
+   "para": 47,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“What health? What toast?”"
+  },
+  {
+   "n": 79,
+   "para": 48,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Why, it’s on the tip of your tongue. It ought to be, it must be, I’ll\nswear it’s there.”"
+  },
+  {
+   "n": 80,
+   "para": 49,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Miss Manette, then!”"
+  },
+  {
+   "n": 81,
+   "para": 50,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Miss Manette, then!”"
+  },
+  {
+   "n": 82,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Looking his companion full in the face while he drank the toast, Carton\nflung his glass over his shoulder against the wall, where it shivered to\npieces; then, rang the bell, and ordered in another."
+  },
+  {
+   "n": 83,
+   "para": 52,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“That’s a fair young lady to hand to a coach in the dark, Mr. Darnay!”"
+  },
+  {
+   "n": 84,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he said, filling his new goblet."
+  },
+  {
+   "n": 85,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "A slight frown and a laconic"
+  },
+  {
+   "n": 86,
+   "para": 53,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 87,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "were the answer."
+  },
+  {
+   "n": 88,
+   "para": 54,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“That’s a fair young lady to be pitied by and wept for by! How does it\nfeel? Is it worth being tried for one’s life, to be the object of such\nsympathy and compassion, Mr. Darnay?”"
+  },
+  {
+   "n": 89,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Again Darnay answered not a word."
+  },
+  {
+   "n": 90,
+   "para": 56,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“She was mightily pleased to have your message, when I gave it her. Not\nthat she showed she was pleased, but I suppose she was.”"
+  },
+  {
+   "n": 91,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The allusion served as a timely reminder to Darnay that this\ndisagreeable companion had, of his own free will, assisted him in the\nstrait of the day. He turned the dialogue to that point, and thanked him\nfor it."
+  },
+  {
+   "n": 92,
+   "para": 58,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I neither want any thanks, nor merit any,”"
+  },
+  {
+   "n": 93,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "was the careless rejoinder."
+  },
+  {
+   "n": 94,
+   "para": 58,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“It was nothing to do, in the first place; and I don’t know why I did\nit, in the second. Mr. Darnay, let me ask you a question.”"
+  },
+  {
+   "n": 95,
+   "para": 59,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Willingly, and a small return for your good offices.”"
+  },
+  {
+   "n": 96,
+   "para": 60,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Do you think I particularly like you?”"
+  },
+  {
+   "n": 97,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“Really, Mr. Carton,”"
+  },
+  {
+   "n": 98,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "returned the other, oddly disconcerted,"
+  },
+  {
+   "n": 99,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“I have\nnot asked myself the question.”"
+  },
+  {
+   "n": 100,
+   "para": 62,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“But ask yourself the question now.”"
+  },
+  {
+   "n": 101,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "“You have acted as if you do; but I don’t think you do.”"
+  },
+  {
+   "n": 102,
+   "para": 64,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“_I_ don’t think I do,”"
+  },
+  {
+   "n": 103,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Carton."
+  },
+  {
+   "n": 104,
+   "para": 64,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“I begin to have a very good\nopinion of your understanding.”"
+  },
+  {
+   "n": 105,
+   "para": 65,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Nevertheless,”"
+  },
+  {
+   "n": 106,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "pursued Darnay, rising to ring the bell,"
+  },
+  {
+   "n": 107,
+   "para": 65,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“there is\nnothing in that, I hope, to prevent my calling the reckoning, and our\nparting without ill-blood on either side.”"
+  },
+  {
+   "n": 108,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Carton rejoining,"
+  },
+  {
+   "n": 109,
+   "para": 66,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Nothing in life!”"
+  },
+  {
+   "n": 110,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "Darnay rang."
+  },
+  {
+   "n": 111,
+   "para": 66,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Do you call the whole\nreckoning?”"
+  },
+  {
+   "n": 112,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "said Carton. On his answering in the affirmative,"
+  },
+  {
+   "n": 113,
+   "para": 66,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Then\nbring me another pint of this same wine, drawer, and come and wake me at\nten.”"
+  },
+  {
+   "n": 114,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "The bill being paid, Charles Darnay rose and wished him good night.\nWithout returning the wish, Carton rose too, with something of a threat\nof defiance in his manner, and said,"
+  },
+  {
+   "n": 115,
+   "para": 67,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“A last word, Mr. Darnay: you think\nI am drunk?”"
+  },
+  {
+   "n": 116,
+   "para": 68,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“I think you have been drinking, Mr. Carton.”"
+  },
+  {
+   "n": 117,
+   "para": 69,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Think? You know I have been drinking.”"
+  },
+  {
+   "n": 118,
+   "para": 70,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Since I must say so, I know it.”"
+  },
+  {
+   "n": 119,
+   "para": 71,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Then you shall likewise know why. I am a disappointed drudge, sir. I\ncare for no man on earth, and no man on earth cares for me.”"
+  },
+  {
+   "n": 120,
+   "para": 72,
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
+   "text": "“Much to be regretted. You might have used your talents better.”"
+  },
+  {
+   "n": 121,
+   "para": 73,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“May be so, Mr. Darnay; may be not. Don’t let your sober face elate you,\nhowever; you don’t know what it may come to. Good night!”"
+  },
+  {
+   "n": 122,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "When he was left alone, this strange being took up a candle, went to a\nglass that hung against the wall, and surveyed himself minutely in it."
+  },
+  {
+   "n": 123,
+   "para": 75,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“Do you particularly like the man?”"
+  },
+  {
+   "n": 124,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "he muttered, at his own image;"
+  },
+  {
+   "n": 125,
+   "para": 75,
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
+   "text": "“why\nshould you particularly like a man who resembles you? There is nothing\nin you to like; you know that. Ah, confound you! What a change you have\nmade in yourself! A good reason for taking to a man, that he shows you\nwhat you have fallen away from, and what you might have been! Change\nplaces with him, and would you have been looked at by those blue eyes as\nhe was, and commiserated by that agitated face as he was? Come on, and\nhave it out in plain words! You hate the fellow.”"
+  },
+  {
+   "n": 126,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Charles Dickens",
+   "text": "He resorted to his pint of wine for consolation, drank it all in a few\nminutes, and fell asleep on his arms, with his hair straggling over the\ntable, and a long winding-sheet in the candle dripping down upon him."
+  }
+ ]
+}

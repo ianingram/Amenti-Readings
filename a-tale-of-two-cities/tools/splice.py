@@ -75,7 +75,17 @@ FIX_B2B = [  # Book the Second, ch 19-30 (15 Nov 2026)
  ('29', 51, '29-51', 'need to ring the tocsin by-and-bye.', (3, 'need to ring'), [4]),
  ('30', 62, '30-62', 'some years ago.', None, [0]),
 ]
-FIX = {'b2': FIX_B2, 'b2b': FIX_B2B}.get(BOOK, FIX_B1)
+FIX_B3A = [  # Book the Third, ch 31-39 (15 Nov 2026)
+ ('32', 6, '32-6', 'must be carried over into the next; no man could have said, that night, any more than Mr. Jarvis Lorry could, though he thought heavily of these questions.', None, [1, 2]),
+ ('32', 48, '32-48', 'through and through.', (5, 'through and'), [6]),
+ ('34', 2, '34-2', 'Calm in Storm', None, [0]),
+ ('35', 56, '35-56', 'from the Doctor.', None, [0]),
+ ('36', 40, '36-40', 'until they left off, of their own will.', None, [0]),
+ ('36', 43, '36-43', 'content to receive them.', (4, 'content to'), [5]),
+ ('37', 73, '37-73', 'said the first.', None, [0]),
+ ('38', 241, '38-241', '@', None, [0]),
+]
+FIX = {'b2': FIX_B2, 'b2b': FIX_B2B, 'b3a': FIX_B3A}.get(BOOK, FIX_B1)
 done = {}; report = []
 for ch, n, tag, own, prev, repl, *until in FIX:
     if own == '@': own = SHEET['lines'][tags.index(tag + '/0')][3]

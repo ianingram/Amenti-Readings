@@ -19,7 +19,8 @@ def words(a):
     a16 = np.interp(np.arange(0, len(a), SR / 16000), np.arange(len(a)), a).astype(np.float32)
     segs, _ = M.transcribe(a16, language='en', beam_size=5, word_timestamps=True)
     return [(w.word.strip(), w.start, w.end) for s in segs for w in s.words]
-N = lambda s: re.sub(r"[^a-z0-9' ]", ' ', s.lower().replace('’', "'")).split()
+SAME = {'madam': 'madame', 'toxin': 'tocsin', 'bye': 'by'}     # words the transcriber spells its own way
+N = lambda s: [SAME.get(w, w) for w in re.sub(r"[^a-z0-9' ]", ' ', s.lower().replace('’', "'")).split()]
 def find(ws, phrase):
     """index of the word where phrase begins (fuzzy on the first three words)"""
     p = N(phrase)[:3]; toks = [N(w[0])[0] if N(w[0]) else '' for w in ws]
@@ -65,7 +66,16 @@ FIX_B2 = [  # Book the Second, ch 7-18 (15 Nov 2026); a 7th field is the last ow
  ('17', 31, '17-31', 'suggested Carton.', None, [0]),
  ('18', 141, '18-141', 'I could have gained nothing by it.', (2, 'I could have'), [3]),
 ]
-FIX = FIX_B2 if BOOK == 'b2' else FIX_B1
+FIX_B2B = [  # Book the Second, ch 19-30 (15 Nov 2026)
+ ('21', 140, '21-140', 'the play was played out.', (2, 'the play was'), [3]),
+ ('22', 17, '22-17', 'repeated madame.', None, [0]),
+ ('27', 22, '27-22', 'and asked her', (3, 'and asked'), [4], 'her'),
+ ('27', 122, '27-122', 'throwing it to him;', None, [0], 'him'),
+ ('28', 30, '28-30', 'from the universal throat again.', None, [0]),
+ ('29', 51, '29-51', 'need to ring the tocsin by-and-bye.', (3, 'need to ring'), [4]),
+ ('30', 62, '30-62', 'some years ago.', None, [0]),
+]
+FIX = {'b2': FIX_B2, 'b2b': FIX_B2B}.get(BOOK, FIX_B1)
 done = {}; report = []
 for ch, n, tag, own, prev, repl, *until in FIX:
     if own == '@': own = SHEET['lines'][tags.index(tag + '/0')][3]

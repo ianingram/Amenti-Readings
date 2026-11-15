@@ -173,7 +173,11 @@ class Files:
 
     def path(self, url):
         for pre in (READINGS, RAW):
-            if url.startswith(pre): return os.path.join(self.root, url[len(pre):])
+            if url.startswith(pre):
+                p = os.path.join(self.root, url[len(pre):])
+                # a file borrowed from another production is not in this run's sparse
+                # checkout: fetch it from the live site (14 Nov 2026)
+                return p if os.path.exists(p) else url
         return url
 
     def load(self, url):

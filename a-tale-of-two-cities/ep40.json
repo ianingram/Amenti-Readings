@@ -869,7 +869,18 @@
    "para": 126,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Unanimously voted. At heart and by descent an Aristocrat, an enemy\nof the Republic, a notorious oppressor of the People. Back to the\nConciergerie, and Death within four-and-twenty hours!"
+   "text": "Unanimously voted. At heart and by descent an Aristocrat, an enemy\nof the Republic, a notorious oppressor of the People. Back to the\nConciergerie, and Death within four-and-twenty hours!",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "roar",
+     "at": "Unanimously voted."
+    }
+   ],
+   "score": {
+    "key": "terror",
+    "xfade": 6
+   }
   }
  ]
 }

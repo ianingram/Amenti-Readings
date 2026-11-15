@@ -51,7 +51,13 @@
    "para": 2,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Along the Paris streets, the death-carts rumble, hollow and harsh. Six\ntumbrils carry the day’s wine to La Guillotine. All the devouring and\ninsatiate Monsters imagined since imagination could record itself,\nare fused in the one realisation, Guillotine. And yet there is not in\nFrance, with its rich variety of soil and climate, a blade, a leaf,\na root, a sprig, a peppercorn, which will grow to maturity under\nconditions more certain than those that have produced this horror. Crush\nhumanity out of shape once more, under similar hammers, and it will\ntwist itself into the same tortured forms. Sow the same seed of\nrapacious license and oppression over again, and it will surely yield\nthe same fruit according to its kind."
+   "text": "Along the Paris streets, the death-carts rumble, hollow and harsh. Six\ntumbrils carry the day’s wine to La Guillotine. All the devouring and\ninsatiate Monsters imagined since imagination could record itself,\nare fused in the one realisation, Guillotine. And yet there is not in\nFrance, with its rich variety of soil and climate, a blade, a leaf,\na root, a sprig, a peppercorn, which will grow to maturity under\nconditions more certain than those that have produced this horror. Crush\nhumanity out of shape once more, under similar hammers, and it will\ntwist itself into the same tortured forms. Sow the same seed of\nrapacious license and oppression over again, and it will surely yield\nthe same fruit according to its kind.",
+   "sfx": [
+    {
+     "key": "tumbril",
+     "at": "the death-carts rumble, hollow and harsh"
+    }
+   ]
   },
   {
    "n": 4,
@@ -233,7 +239,15 @@
    "para": 17,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The clocks are on the stroke of three, and the furrow ploughed among the\npopulace is turning round, to come on into the place of execution, and\nend. The ridges thrown to this side and to that, now crumble in and\nclose behind the last plough as it passes on, for all are following\nto the Guillotine. In front of it, seated in chairs, as in a garden of\npublic diversion, are a number of women, busily knitting. On one of the\nfore-most chairs, stands The Vengeance, looking about for her friend."
+   "text": "The clocks are on the stroke of three, and the furrow ploughed among the\npopulace is turning round, to come on into the place of execution, and\nend. The ridges thrown to this side and to that, now crumble in and\nclose behind the last plough as it passes on, for all are following\nto the Guillotine. In front of it, seated in chairs, as in a garden of\npublic diversion, are a number of women, busily knitting. On one of the\nfore-most chairs, stands The Vengeance, looking about for her friend.",
+   "bed": "execution",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "clock_hour",
+     "at": "The clocks are on the stroke of three"
+    }
+   ]
   },
   {
    "n": 30,
@@ -338,21 +352,37 @@
    "para": 24,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "As The Vengeance descends from her elevation to do it, the tumbrils\nbegin to discharge their loads. The ministers of Sainte Guillotine are\nrobed and ready. Crash!--A head is held up, and the knitting-women who\nscarcely lifted their eyes to look at it a moment ago when it could\nthink and speak, count One."
+   "text": "As The Vengeance descends from her elevation to do it, the tumbrils\nbegin to discharge their loads. The ministers of Sainte Guillotine are\nrobed and ready. Crash!--A head is held up, and the knitting-women who\nscarcely lifted their eyes to look at it a moment ago when it could\nthink and speak, count One.",
+   "sfx": [
+    {
+     "key": "blade",
+     "at": "Crash!"
+    }
+   ]
   },
   {
    "n": 45,
    "para": 25,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The second tumbril empties and moves on; the third comes up. Crash!--And\nthe knitting-women, never faltering or pausing in their Work, count Two."
+   "text": "The second tumbril empties and moves on; the third comes up. Crash!--And\nthe knitting-women, never faltering or pausing in their Work, count Two.",
+   "sfx": [
+    {
+     "key": "blade",
+     "at": "Crash!"
+    }
+   ]
   },
   {
    "n": 46,
    "para": 26,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The supposed Evrémonde descends, and the seamstress is lifted out next\nafter him. He has not relinquished her patient hand in getting out, but\nstill holds it as he promised. He gently places her with her back to the\ncrashing engine that constantly whirrs up and falls, and she looks into\nhis face and thanks him."
+   "text": "The supposed Evrémonde descends, and the seamstress is lifted out next\nafter him. He has not relinquished her patient hand in getting out, but\nstill holds it as he promised. He gently places her with her back to the\ncrashing engine that constantly whirrs up and falls, and she looks into\nhis face and thanks him.",
+   "score": {
+    "key": "farewell",
+    "xfade": 9
+   }
   },
   {
    "n": 47,
@@ -506,14 +536,21 @@
    "para": 44,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The murmuring of many voices, the upturning of many faces, the pressing\non of many footsteps in the outskirts of the crowd, so that it swells\nforward in a mass, like one great heave of water, all flashes away.\nTwenty-Three."
+   "text": "The murmuring of many voices, the upturning of many faces, the pressing\non of many footsteps in the outskirts of the crowd, so that it swells\nforward in a mass, like one great heave of water, all flashes away.\nTwenty-Three.",
+   "sfx": [
+    {
+     "key": "blade",
+     "at": "all flashes away"
+    }
+   ]
   },
   {
    "n": 69,
    "para": 46,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They said of him, about the city that night, that it was the\npeacefullest man’s face ever beheld there. Many added that he looked\nsublime and prophetic."
+   "text": "They said of him, about the city that night, that it was the\npeacefullest man’s face ever beheld there. Many added that he looked\nsublime and prophetic.",
+   "state": 2
   },
   {
    "n": 70,

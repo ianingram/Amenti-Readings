@@ -211,7 +211,9 @@
    "para": 15,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Darnay complied, and was taken back to the guard-house, where other\npatriots in rough red caps were smoking, drinking, and sleeping, by\na watch-fire. Here he paid a heavy price for his escort, and hence he\nstarted with it on the wet, wet roads at three o’clock in the morning."
+   "text": "Darnay complied, and was taken back to the guard-house, where other\npatriots in rough red caps were smoking, drinking, and sleeping, by\na watch-fire. Here he paid a heavy price for his escort, and hence he\nstarted with it on the wet, wet roads at three o’clock in the morning.",
+   "bed": "wine_shop",
+   "state": 2
   },
   {
    "n": 28,
@@ -225,7 +227,9 @@
    "para": 17,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The escorted governed his own horse, but a loose line was attached to\nhis bridle, the end of which one of the patriots kept girded round his\nwrist. In this state they set forth with the sharp rain driving in their\nfaces: clattering at a heavy dragoon trot over the uneven town pavement,\nand out upon the mire-deep roads. In this state they traversed without\nchange, except of horses and pace, all the mire-deep leagues that lay\nbetween them and the capital."
+   "text": "The escorted governed his own horse, but a loose line was attached to\nhis bridle, the end of which one of the patriots kept girded round his\nwrist. In this state they set forth with the sharp rain driving in their\nfaces: clattering at a heavy dragoon trot over the uneven town pavement,\nand out upon the mire-deep roads. In this state they traversed without\nchange, except of horses and pace, all the mire-deep leagues that lay\nbetween them and the capital.",
+   "bed": "escort_road",
+   "state": 1
   },
   {
    "n": 30,
@@ -239,7 +243,13 @@
    "para": 19,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "But when they came to the town of Beauvais--which they did at eventide,\nwhen the streets were filled with people--he could not conceal from\nhimself that the aspect of affairs was very alarming. An ominous crowd\ngathered to see him dismount of the posting-yard, and many voices called\nout loudly,"
+   "text": "But when they came to the town of Beauvais--which they did at eventide,\nwhen the streets were filled with people--he could not conceal from\nhimself that the aspect of affairs was very alarming. An ominous crowd\ngathered to see him dismount of the posting-yard, and many voices called\nout loudly,",
+   "bed": "rising",
+   "state": 1,
+   "score": {
+    "key": "hunger",
+    "xfade": 8
+   }
   },
   {
    "n": 32,
@@ -323,7 +333,14 @@
    "para": 24,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "At this the crowd roared approval."
+   "text": "At this the crowd roared approval.",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "roar",
+     "at": "At this the crowd roared approval"
+    }
+   ]
   },
   {
    "n": 44,
@@ -365,14 +382,25 @@
    "para": 28,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "At the instant when Darnay saw a rush in the eyes of the crowd, which\nanother instant would have brought upon him, the postmaster turned his\nhorse into the yard, the escort rode in close upon his horse’s flanks,\nand the postmaster shut and barred the crazy double gates. The farrier\nstruck a blow upon them with his hammer, and the crowd groaned; but, no\nmore was done."
+   "text": "At the instant when Darnay saw a rush in the eyes of the crowd, which\nanother instant would have brought upon him, the postmaster turned his\nhorse into the yard, the escort rode in close upon his horse’s flanks,\nand the postmaster shut and barred the crazy double gates. The farrier\nstruck a blow upon them with his hammer, and the crowd groaned; but, no\nmore was done.",
+   "sfx": [
+    {
+     "key": "door_clang",
+     "at": "shut and barred the crazy double gates"
+    },
+    {
+     "key": "door_blow",
+     "at": "The farrier struck a blow upon them with his hammer"
+    }
+   ]
   },
   {
    "n": 50,
    "para": 29,
    "role": "Charles Darnay",
    "cast": "Louis Philippe I",
-   "text": "“What is this decree that the smith spoke of?”"
+   "text": "“What is this decree that the smith spoke of?”",
+   "state": 1
   },
   {
    "n": 51,
@@ -449,14 +477,22 @@
    "para": 37,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They rested on some straw in a loft until the middle of the night, and\nthen rode forward again when all the town was asleep. Among the many\nwild changes observable on familiar things which made this wild ride\nunreal, not the least was the seeming rarity of sleep. After long and\nlonely spurring over dreary roads, they would come to a cluster of poor\ncottages, not steeped in darkness, but all glittering with lights, and\nwould find the people, in a ghostly manner in the dead of the night,\ncircling hand in hand round a shrivelled tree of Liberty, or all drawn\nup together singing a Liberty song. Happily, however, there was sleep in\nBeauvais that night to help them out of it and they passed on once more\ninto solitude and loneliness: jingling through the untimely cold and\nwet, among impoverished fields that had yielded no fruits of the earth\nthat year, diversified by the blackened remains of burnt houses, and by\nthe sudden emergence from ambuscade, and sharp reining up across their\nway, of patriot patrols on the watch on all the roads."
+   "text": "They rested on some straw in a loft until the middle of the night, and\nthen rode forward again when all the town was asleep. Among the many\nwild changes observable on familiar things which made this wild ride\nunreal, not the least was the seeming rarity of sleep. After long and\nlonely spurring over dreary roads, they would come to a cluster of poor\ncottages, not steeped in darkness, but all glittering with lights, and\nwould find the people, in a ghostly manner in the dead of the night,\ncircling hand in hand round a shrivelled tree of Liberty, or all drawn\nup together singing a Liberty song. Happily, however, there was sleep in\nBeauvais that night to help them out of it and they passed on once more\ninto solitude and loneliness: jingling through the untimely cold and\nwet, among impoverished fields that had yielded no fruits of the earth\nthat year, diversified by the blackened remains of burnt houses, and by\nthe sudden emergence from ambuscade, and sharp reining up across their\nway, of patriot patrols on the watch on all the roads.",
+   "bed": "escort_road",
+   "state": 1,
+   "score": {
+    "key": "road",
+    "xfade": 8
+   }
   },
   {
    "n": 62,
    "para": 38,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Daylight at last found them before the wall of Paris. The barrier was\nclosed and strongly guarded when they rode up to it."
+   "text": "Daylight at last found them before the wall of Paris. The barrier was\nclosed and strongly guarded when they rode up to it.",
+   "bed": "saint_antoine",
+   "state": 1
   },
   {
    "n": 63,
@@ -526,7 +562,9 @@
    "para": 45,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He accompanied his conductor into a guard-room, smelling of common wine\nand tobacco, where certain soldiers and patriots, asleep and awake,\ndrunk and sober, and in various neutral states between sleeping and\nwaking, drunkenness and sobriety, were standing and lying about. The\nlight in the guard-house, half derived from the waning oil-lamps of\nthe night, and half from the overcast day, was in a correspondingly\nuncertain condition. Some registers were lying open on a desk, and an\nofficer of a coarse, dark aspect, presided over these."
+   "text": "He accompanied his conductor into a guard-room, smelling of common wine\nand tobacco, where certain soldiers and patriots, asleep and awake,\ndrunk and sober, and in various neutral states between sleeping and\nwaking, drunkenness and sobriety, were standing and lying about. The\nlight in the guard-house, half derived from the waning oil-lamps of\nthe night, and half from the overcast day, was in a correspondingly\nuncertain condition. Some registers were lying open on a desk, and an\nofficer of a coarse, dark aspect, presided over these.",
+   "bed": "wine_shop",
+   "state": 2
   },
   {
    "n": 73,
@@ -708,7 +746,9 @@
    "para": 63,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "said Defarge, in a low voice, as they went down the\nguardhouse steps and turned into Paris,"
+   "text": "said Defarge, in a low voice, as they went down the\nguardhouse steps and turned into Paris,",
+   "bed": "saint_antoine",
+   "state": 1
   },
   {
    "n": 99,
@@ -939,7 +979,9 @@
    "para": 85,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A man with a bloated face opened the strong wicket, to whom Defarge\npresented"
+   "text": "A man with a bloated face opened the strong wicket, to whom Defarge\npresented",
+   "bed": "prison",
+   "state": 1
   },
   {
    "n": 132,
@@ -1009,7 +1051,13 @@
    "para": 89,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Three turnkeys who entered\nresponsive to a bell she rang, echoed the sentiment, and one added,"
+   "text": "Three turnkeys who entered\nresponsive to a bell she rang, echoed the sentiment, and one added,",
+   "sfx": [
+    {
+     "key": "hand_bell",
+     "at": "responsive to a bell she rang"
+    }
+   ]
   },
   {
    "n": 142,
@@ -1030,7 +1078,11 @@
    "para": 90,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The prison of La Force was a gloomy prison, dark and filthy, and with a\nhorrible smell of foul sleep in it. Extraordinary how soon the noisome\nflavour of imprisoned sleep, becomes manifest in all such places that\nare ill cared for!"
+   "text": "The prison of La Force was a gloomy prison, dark and filthy, and with a\nhorrible smell of foul sleep in it. Extraordinary how soon the noisome\nflavour of imprisoned sleep, becomes manifest in all such places that\nare ill cared for!",
+   "score": {
+    "key": "recalled",
+    "xfade": 9
+   }
   },
   {
    "n": 145,
@@ -1086,7 +1138,15 @@
    "para": 94,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Through the dismal prison twilight, his new charge accompanied him by\ncorridor and staircase, many doors clanging and locking behind them,\nuntil they came into a large, low, vaulted chamber, crowded with\nprisoners of both sexes. The women were seated at a long table, reading\nand writing, knitting, sewing, and embroidering; the men were for the\nmost part standing behind their chairs, or lingering up and down the\nroom."
+   "text": "Through the dismal prison twilight, his new charge accompanied him by\ncorridor and staircase, many doors clanging and locking behind them,\nuntil they came into a large, low, vaulted chamber, crowded with\nprisoners of both sexes. The women were seated at a long table, reading\nand writing, knitting, sewing, and embroidering; the men were for the\nmost part standing behind their chairs, or lingering up and down the\nroom.",
+   "bed": "prison_hall",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "door_clang",
+     "at": "many doors clanging and locking behind them"
+    }
+   ]
   },
   {
    "n": 153,
@@ -1191,14 +1251,22 @@
    "para": 103,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "There was a murmur of commiseration as Charles Darnay crossed the room\nto a grated door where the gaoler awaited him, and many voices--among\nwhich, the soft and compassionate voices of women were conspicuous--gave\nhim good wishes and encouragement. He turned at the grated door, to\nrender the thanks of his heart; it closed under the gaoler’s hand; and\nthe apparitions vanished from his sight forever."
+   "text": "There was a murmur of commiseration as Charles Darnay crossed the room\nto a grated door where the gaoler awaited him, and many voices--among\nwhich, the soft and compassionate voices of women were conspicuous--gave\nhim good wishes and encouragement. He turned at the grated door, to\nrender the thanks of his heart; it closed under the gaoler’s hand; and\nthe apparitions vanished from his sight forever.",
+   "bed": "prison",
+   "state": 1
   },
   {
    "n": 168,
    "para": 104,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The wicket opened on a stone staircase, leading upward. When they had\nascended forty steps (the prisoner of half an hour already counted\nthem), the gaoler opened a low black door, and they passed into a\nsolitary cell. It struck cold and damp, but was not dark."
+   "text": "The wicket opened on a stone staircase, leading upward. When they had\nascended forty steps (the prisoner of half an hour already counted\nthem), the gaoler opened a low black door, and they passed into a\nsolitary cell. It struck cold and damp, but was not dark.",
+   "sfx": [
+    {
+     "key": "key_lock",
+     "at": "the gaoler opened a low black door"
+    }
+   ]
   },
   {
    "n": 169,
@@ -1247,7 +1315,9 @@
    "para": 110,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "There were in the cell, a chair, a table, and a straw mattress. As\nthe gaoler made a general inspection of these objects, and of the four\nwalls, before going out, a wandering fancy wandered through the mind of\nthe prisoner leaning against the wall opposite to him, that this gaoler\nwas so unwholesomely bloated, both in face and person, as to look like\na man who had been drowned and filled with water. When the gaoler was\ngone, he thought in the same wandering way,"
+   "text": "There were in the cell, a chair, a table, and a straw mattress. As\nthe gaoler made a general inspection of these objects, and of the four\nwalls, before going out, a wandering fancy wandered through the mind of\nthe prisoner leaning against the wall opposite to him, that this gaoler\nwas so unwholesomely bloated, both in face and person, as to look like\na man who had been drowned and filled with water. When the gaoler was\ngone, he thought in the same wandering way,",
+   "bed": "cell",
+   "state": 1
   },
   {
    "n": 176,

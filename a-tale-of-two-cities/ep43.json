@@ -73,7 +73,9 @@
    "para": 4,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Charles Darnay, alone in a cell, had sustained himself with no\nflattering delusion since he came to it from the Tribunal. In every line\nof the narrative he had heard, he had heard his condemnation. He had\nfully comprehended that no personal influence could possibly save him,\nthat he was virtually sentenced by the millions, and that units could\navail him nothing."
+   "text": "Charles Darnay, alone in a cell, had sustained himself with no\nflattering delusion since he came to it from the Tribunal. In every line\nof the narrative he had heard, he had heard his condemnation. He had\nfully comprehended that no personal influence could possibly save him,\nthat he was virtually sentenced by the millions, and that units could\navail him nothing.",
+   "bed": "cell",
+   "state": 1
   },
   {
    "n": 6,
@@ -157,14 +159,34 @@
    "para": 15,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The hours went on as he walked to and fro, and the clocks struck the\nnumbers he would never hear again. Nine gone for ever, ten gone for\never, eleven gone for ever, twelve coming on to pass away. After a hard\ncontest with that eccentric action of thought which had last perplexed\nhim, he had got the better of it. He walked up and down, softly\nrepeating their names to himself. The worst of the strife was over.\nHe could walk up and down, free from distracting fancies, praying for\nhimself and for them."
+   "text": "The hours went on as he walked to and fro, and the clocks struck the\nnumbers he would never hear again. Nine gone for ever, ten gone for\never, eleven gone for ever, twelve coming on to pass away. After a hard\ncontest with that eccentric action of thought which had last perplexed\nhim, he had got the better of it. He walked up and down, softly\nrepeating their names to himself. The worst of the strife was over.\nHe could walk up and down, free from distracting fancies, praying for\nhimself and for them.",
+   "sfx": [
+    {
+     "key": "clock_hour",
+     "at": "Nine gone for ever"
+    },
+    {
+     "key": "clock_hour",
+     "at": "ten gone for ever"
+    },
+    {
+     "key": "clock_hour",
+     "at": "eleven gone for ever"
+    }
+   ]
   },
   {
    "n": 18,
    "para": 16,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Twelve gone for ever."
+   "text": "Twelve gone for ever.",
+   "sfx": [
+    {
+     "key": "clock_hour",
+     "at": "Twelve gone for ever."
+    }
+   ]
   },
   {
    "n": 19,
@@ -199,14 +221,26 @@
    "para": 19,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Footsteps in the stone passage outside the door. He stopped."
+   "text": "Footsteps in the stone passage outside the door. He stopped.",
+   "sfx": [
+    {
+     "key": "stairs",
+     "at": "Footsteps in the stone passage outside the door."
+    }
+   ]
   },
   {
    "n": 24,
    "para": 20,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The key was put in the lock, and turned. Before the door was opened, or\nas it opened, a man said in a low voice, in English:"
+   "text": "The key was put in the lock, and turned. Before the door was opened, or\nas it opened, a man said in a low voice, in English:",
+   "sfx": [
+    {
+     "key": "key_lock",
+     "at": "The key was put in the lock, and turned"
+    }
+   ]
   },
   {
    "n": 25,
@@ -220,7 +254,17 @@
    "para": 21,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The door was quickly opened and closed, and there stood before him\nface to face, quiet, intent upon him, with the light of a smile on his\nfeatures, and a cautionary finger on his lip, Sydney Carton."
+   "text": "The door was quickly opened and closed, and there stood before him\nface to face, quiet, intent upon him, with the light of a smile on his\nfeatures, and a cautionary finger on his lip, Sydney Carton.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "The door was quickly opened and closed"
+    }
+   ],
+   "score": {
+    "key": "carton",
+    "xfade": 8
+   }
   },
   {
    "n": 27,
@@ -906,7 +950,17 @@
    "para": 84,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The door closed, and Carton was left alone. Straining his powers of\nlistening to the utmost, he listened for any sound that might denote\nsuspicion or alarm. There was none. Keys turned, doors clashed,\nfootsteps passed along distant passages: no cry was raised, or hurry\nmade, that seemed unusual. Breathing more freely in a little while, he\nsat down at the table, and listened again until the clock struck Two."
+   "text": "The door closed, and Carton was left alone. Straining his powers of\nlistening to the utmost, he listened for any sound that might denote\nsuspicion or alarm. There was none. Keys turned, doors clashed,\nfootsteps passed along distant passages: no cry was raised, or hurry\nmade, that seemed unusual. Breathing more freely in a little while, he\nsat down at the table, and listened again until the clock struck Two.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "The door closed"
+    },
+    {
+     "key": "clock_two",
+     "at": "until the clock struck Two"
+    }
+   ]
   },
   {
    "n": 125,
@@ -927,7 +981,9 @@
    "para": 85,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "and he followed into a large dark room,\nat a distance. It was a dark winter day, and what with the shadows\nwithin, and what with the shadows without, he could but dimly discern\nthe others who were brought there to have their arms bound. Some were\nstanding; some seated. Some were lamenting, and in restless motion;\nbut, these were few. The great majority were silent and still, looking\nfixedly at the ground."
+   "text": "and he followed into a large dark room,\nat a distance. It was a dark winter day, and what with the shadows\nwithin, and what with the shadows without, he could but dimly discern\nthe others who were brought there to have their arms bound. Some were\nstanding; some seated. Some were lamenting, and in restless motion;\nbut, these were few. The great majority were silent and still, looking\nfixedly at the ground.",
+   "bed": "prison_hall",
+   "state": 1
   },
   {
    "n": 128,
@@ -1067,7 +1123,13 @@
    "para": 102,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The same shadows that are falling on the prison, are falling, in that\nsame hour of the early afternoon, on the Barrier with the crowd about\nit, when a coach going out of Paris drives up to be examined."
+   "text": "The same shadows that are falling on the prison, are falling, in that\nsame hour of the early afternoon, on the Barrier with the crowd about\nit, when a coach going out of Paris drives up to be examined.",
+   "bed": "saint_antoine",
+   "state": 1,
+   "score": {
+    "key": "bailey",
+    "xfade": 8
+   }
   },
   {
    "n": 148,
@@ -1242,7 +1304,13 @@
    "para": 127,
    "role": "Lucie Manette",
    "cast": "Jane Goodall",
-   "text": "“Are we not going too slowly? Can they not be induced to go faster?”"
+   "text": "“Are we not going too slowly? Can they not be induced to go faster?”",
+   "bed": "coach_night",
+   "state": 1,
+   "score": {
+    "key": "road",
+    "xfade": 8
+   }
   },
   {
    "n": 173,
@@ -1291,14 +1359,26 @@
    "para": 133,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Leisurely, our four horses are taken out; leisurely, the coach stands in\nthe little street, bereft of horses, and with no likelihood upon it\nof ever moving again; leisurely, the new horses come into visible\nexistence, one by one; leisurely, the new postilions follow, sucking and\nplaiting the lashes of their whips; leisurely, the old postilions count\ntheir money, make wrong additions, and arrive at dissatisfied results.\nAll the time, our overfraught hearts are beating at a rate that would\nfar outstrip the fastest gallop of the fastest horses ever foaled."
+   "text": "Leisurely, our four horses are taken out; leisurely, the coach stands in\nthe little street, bereft of horses, and with no likelihood upon it\nof ever moving again; leisurely, the new horses come into visible\nexistence, one by one; leisurely, the new postilions follow, sucking and\nplaiting the lashes of their whips; leisurely, the old postilions count\ntheir money, make wrong additions, and arrive at dissatisfied results.\nAll the time, our overfraught hearts are beating at a rate that would\nfar outstrip the fastest gallop of the fastest horses ever foaled.",
+   "sfx": [
+    {
+     "key": "horses_halt",
+     "at": "our four horses are taken out"
+    }
+   ]
   },
   {
    "n": 180,
    "para": 134,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "At length the new postilions are in their saddles, and the old are left\nbehind. We are through the village, up the hill, and down the hill, and\non the low watery grounds. Suddenly, the postilions exchange speech with\nanimated gesticulation, and the horses are pulled up, almost on their\nhaunches. We are pursued?"
+   "text": "At length the new postilions are in their saddles, and the old are left\nbehind. We are through the village, up the hill, and down the hill, and\non the low watery grounds. Suddenly, the postilions exchange speech with\nanimated gesticulation, and the horses are pulled up, almost on their\nhaunches. We are pursued?",
+   "sfx": [
+    {
+     "key": "horses_start",
+     "at": "At length the new postilions are in their saddles"
+    }
+   ]
   },
   {
    "n": 181,
@@ -1368,7 +1448,13 @@
    "para": 143,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The wind is rushing after us, and the clouds are flying after us, and\nthe moon is plunging after us, and the whole wild night is in pursuit of\nus; but, so far, we are pursued by nothing else."
+   "text": "The wind is rushing after us, and the clouds are flying after us, and\nthe moon is plunging after us, and the whole wild night is in pursuit of\nus; but, so far, we are pursued by nothing else.",
+   "sfx": [
+    {
+     "key": "horse_gallop",
+     "at": "The wind is rushing after us"
+    }
+   ]
   }
  ]
 }

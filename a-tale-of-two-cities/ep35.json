@@ -107,14 +107,26 @@
    "para": 9,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "From that time, in all weathers, she waited there two hours. As the\nclock struck two, she was there, and at four she turned resignedly away.\nWhen it was not too wet or inclement for her child to be with her, they\nwent together; at other times she was alone; but, she never missed a\nsingle day."
+   "text": "From that time, in all weathers, she waited there two hours. As the\nclock struck two, she was there, and at four she turned resignedly away.\nWhen it was not too wet or inclement for her child to be with her, they\nwent together; at other times she was alone; but, she never missed a\nsingle day.",
+   "sfx": [
+    {
+     "key": "clock_two",
+     "at": "As the clock struck two"
+    }
+   ]
   },
   {
    "n": 12,
    "para": 10,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "It was the dark and dirty corner of a small winding street. The hovel\nof a cutter of wood into lengths for burning, was the only house at that\nend; all else was wall. On the third day of her being there, he noticed\nher."
+   "text": "It was the dark and dirty corner of a small winding street. The hovel\nof a cutter of wood into lengths for burning, was the only house at that\nend; all else was wall. On the third day of her being there, he noticed\nher.",
+   "bed": "winter_street",
+   "state": 1,
+   "score": {
+    "key": "tender",
+    "xfade": 8
+   }
   },
   {
    "n": 13,
@@ -317,14 +329,27 @@
    "para": 33,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "But, he was not far off, for presently she heard a troubled movement\nand a shouting coming along, which filled her with fear. A moment\nafterwards, and a throng of people came pouring round the corner by the\nprison wall, in the midst of whom was the wood-sawyer hand in hand with\nThe Vengeance. There could not be fewer than five hundred people, and\nthey were dancing like five thousand demons. There was no other music\nthan their own singing. They danced to the popular Revolution song,\nkeeping a ferocious time that was like a gnashing of teeth in unison.\nMen and women danced together, women danced together, men danced\ntogether, as hazard had brought them together. At first, they were a\nmere storm of coarse red caps and coarse woollen rags; but, as they\nfilled the place, and stopped to dance about Lucie, some ghastly\napparition of a dance-figure gone raving mad arose among them. They\nadvanced, retreated, struck at one another’s hands, clutched at one\nanother’s heads, spun round alone, caught one another and spun round\nin pairs, until many of them dropped. While those were down, the rest\nlinked hand in hand, and all spun round together: then the ring broke,\nand in separate rings of two and four they turned and turned until they\nall stopped at once, began again, struck, clutched, and tore, and then\nreversed the spin, and all spun round another way. Suddenly they stopped\nagain, paused, struck out the time afresh, formed into lines the width\nof the public way, and, with their heads low down and their hands high\nup, swooped screaming off. No fight could have been half so terrible\nas this dance. It was so emphatically a fallen sport--a something, once\ninnocent, delivered over to all devilry--a healthy pastime changed into\na means of angering the blood, bewildering the senses, and steeling the\nheart. Such grace as was visible in it, made it the uglier, showing how\nwarped and perverted all things good by nature were become. The maidenly\nbosom bared to this, the pretty almost-child’s head thus distracted, the\ndelicate foot mincing in this slough of blood and dirt, were types of\nthe disjointed time."
+   "text": "But, he was not far off, for presently she heard a troubled movement\nand a shouting coming along, which filled her with fear. A moment\nafterwards, and a throng of people came pouring round the corner by the\nprison wall, in the midst of whom was the wood-sawyer hand in hand with\nThe Vengeance. There could not be fewer than five hundred people, and\nthey were dancing like five thousand demons. There was no other music\nthan their own singing. They danced to the popular Revolution song,\nkeeping a ferocious time that was like a gnashing of teeth in unison.\nMen and women danced together, women danced together, men danced\ntogether, as hazard had brought them together. At first, they were a\nmere storm of coarse red caps and coarse woollen rags; but, as they\nfilled the place, and stopped to dance about Lucie, some ghastly\napparition of a dance-figure gone raving mad arose among them. They\nadvanced, retreated, struck at one another’s hands, clutched at one\nanother’s heads, spun round alone, caught one another and spun round\nin pairs, until many of them dropped. While those were down, the rest\nlinked hand in hand, and all spun round together: then the ring broke,\nand in separate rings of two and four they turned and turned until they\nall stopped at once, began again, struck, clutched, and tore, and then\nreversed the spin, and all spun round another way. Suddenly they stopped\nagain, paused, struck out the time afresh, formed into lines the width\nof the public way, and, with their heads low down and their hands high\nup, swooped screaming off. No fight could have been half so terrible\nas this dance. It was so emphatically a fallen sport--a something, once\ninnocent, delivered over to all devilry--a healthy pastime changed into\na means of angering the blood, bewildering the senses, and steeling the\nheart. Such grace as was visible in it, made it the uglier, showing how\nwarped and perverted all things good by nature were become. The maidenly\nbosom bared to this, the pretty almost-child’s head thus distracted, the\ndelicate foot mincing in this slough of blood and dirt, were types of\nthe disjointed time.",
+   "bed": "carmagnole",
+   "state": 1,
+   "score": {
+    "key": "rising",
+    "xfade": 6,
+    "at": "a troubled movement and a shouting coming along"
+   }
   },
   {
    "n": 42,
    "para": 34,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "This was the Carmagnole. As it passed, leaving Lucie frightened and\nbewildered in the doorway of the wood-sawyer’s house, the feathery snow\nfell as quietly and lay as white and soft, as if it had never been."
+   "text": "This was the Carmagnole. As it passed, leaving Lucie frightened and\nbewildered in the doorway of the wood-sawyer’s house, the feathery snow\nfell as quietly and lay as white and soft, as if it had never been.",
+   "bed": "winter_street",
+   "state": 1,
+   "score": {
+    "key": "tender",
+    "xfade": 9
+   }
   },
   {
    "n": 43,
@@ -408,7 +433,18 @@
    "para": 42,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A footstep in the snow. Madame Defarge."
+   "text": "A footstep in the snow. Madame Defarge.",
+   "sfx": [
+    {
+     "key": "snow_step",
+     "at": "A footstep in the snow."
+    }
+   ],
+   "score": {
+    "key": "bailey",
+    "xfade": 6,
+    "at": "A footstep in the snow."
+   }
   },
   {
    "n": 55,
@@ -499,7 +535,25 @@
    "para": 48,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He stopped. There was a heavy lumbering of wheels within hearing. They\nboth knew too well what it meant. One. Two. Three. Three tumbrils faring\naway with their dread loads over the hushing snow."
+   "text": "He stopped. There was a heavy lumbering of wheels within hearing. They\nboth knew too well what it meant. One. Two. Three. Three tumbrils faring\naway with their dread loads over the hushing snow.",
+   "sfx": [
+    {
+     "key": "tumbril",
+     "at": "One."
+    },
+    {
+     "key": "tumbril",
+     "at": "Two."
+    },
+    {
+     "key": "tumbril",
+     "at": "Three."
+    }
+   ],
+   "score": {
+    "key": "terror",
+    "xfade": 8
+   }
   },
   {
    "n": 68,
@@ -527,14 +581,18 @@
    "para": 51,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A murky red and yellow sky, and a rising mist from the Seine, denoted\nthe approach of darkness. It was almost dark when they arrived at the\nBank. The stately residence of Monseigneur was altogether blighted and\ndeserted. Above a heap of dust and ashes in the court, ran the letters:\nNational Property. Republic One and Indivisible. Liberty, Equality,\nFraternity, or Death!"
+   "text": "A murky red and yellow sky, and a rising mist from the Seine, denoted\nthe approach of darkness. It was almost dark when they arrived at the\nBank. The stately residence of Monseigneur was altogether blighted and\ndeserted. Above a heap of dust and ashes in the court, ran the letters:\nNational Property. Republic One and Indivisible. Liberty, Equality,\nFraternity, or Death!",
+   "bed": "paris_night",
+   "state": 1
   },
   {
    "n": 72,
    "para": 52,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Who could that be with Mr. Lorry--the owner of the riding-coat upon the\nchair--who must not be seen? From whom newly arrived, did he come out,\nagitated and surprised, to take his favourite in his arms? To whom did\nhe appear to repeat her faltering words, when, raising his voice and\nturning his head towards the door of the room from which he had issued,\nhe said:"
+   "text": "Who could that be with Mr. Lorry--the owner of the riding-coat upon the\nchair--who must not be seen? From whom newly arrived, did he come out,\nagitated and surprised, to take his favourite in his arms? To whom did\nhe appear to repeat her faltering words, when, raising his voice and\nturning his head towards the door of the room from which he had issued,\nhe said:",
+   "bed": "chambers",
+   "state": 1
   },
   {
    "n": 73,

@@ -791,7 +791,9 @@
    "para": 61,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Mr. Lorry did so, and they went down-stairs and out in the streets. A\nfew minutes brought them to Mr. Lorry’s destination. Carton left him\nthere; but lingered at a little distance, and turned back to the gate\nagain when it was shut, and touched it. He had heard of her going to\nthe prison every day."
+   "text": "Mr. Lorry did so, and they went down-stairs and out in the streets. A\nfew minutes brought them to Mr. Lorry’s destination. Carton left him\nthere; but lingered at a little distance, and turned back to the gate\nagain when it was shut, and touched it. He had heard of her going to\nthe prison every day.",
+   "bed": "paris_night",
+   "state": 1
   },
   {
    "n": 108,
@@ -819,7 +821,11 @@
    "para": 62,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "It was ten o’clock at night when he stood before the prison of La Force,\nwhere she had stood hundreds of times. A little wood-sawyer, having\nclosed his shop, was smoking his pipe at his shop-door."
+   "text": "It was ten o’clock at night when he stood before the prison of La Force,\nwhere she had stood hundreds of times. A little wood-sawyer, having\nclosed his shop, was smoking his pipe at his shop-door.",
+   "score": {
+    "key": "terror",
+    "xfade": 8
+   }
   },
   {
    "n": 112,
@@ -1099,7 +1105,11 @@
    "para": 89,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "In a city dominated by the axe, alone at night, with natural sorrow\nrising in him for the sixty-three who had been that day put to death,\nand for to-morrow’s victims then awaiting their doom in the prisons,\nand still of to-morrow’s and to-morrow’s, the chain of association that\nbrought the words home, like a rusty old ship’s anchor from the deep,\nmight have been easily found. He did not seek it, but repeated them and\nwent on."
+   "text": "In a city dominated by the axe, alone at night, with natural sorrow\nrising in him for the sixty-three who had been that day put to death,\nand for to-morrow’s victims then awaiting their doom in the prisons,\nand still of to-morrow’s and to-morrow’s, the chain of association that\nbrought the words home, like a rusty old ship’s anchor from the deep,\nmight have been easily found. He did not seek it, but repeated them and\nwent on.",
+   "score": {
+    "key": "farewell",
+    "xfade": 9
+   }
   },
   {
    "n": 152,
@@ -1134,7 +1144,9 @@
    "para": 94,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The night wore out, and, as he stood upon the bridge listening to the\nwater as it splashed the river-walls of the Island of Paris, where the\npicturesque confusion of houses and cathedral shone bright in the light\nof the moon, the day came coldly, looking like a dead face out of the\nsky. Then, the night, with the moon and the stars, turned pale and died,\nand for a little while it seemed as if Creation were delivered over to\nDeath’s dominion."
+   "text": "The night wore out, and, as he stood upon the bridge listening to the\nwater as it splashed the river-walls of the Island of Paris, where the\npicturesque confusion of houses and cathedral shone bright in the light\nof the moon, the day came coldly, looking like a dead face out of the\nsky. Then, the night, with the moon and the stars, turned pale and died,\nand for a little while it seemed as if Creation were delivered over to\nDeath’s dominion.",
+   "bed": "seine_dawn",
+   "state": 1
   },
   {
    "n": 157,
@@ -1183,7 +1195,13 @@
    "para": 99,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The court was all astir and a-buzz, when the black sheep--whom many fell\naway from in dread--pressed him into an obscure corner among the crowd.\nMr. Lorry was there, and Doctor Manette was there. She was there,\nsitting beside her father."
+   "text": "The court was all astir and a-buzz, when the black sheep--whom many fell\naway from in dread--pressed him into an obscure corner among the crowd.\nMr. Lorry was there, and Doctor Manette was there. She was there,\nsitting beside her father.",
+   "bed": "tribunal",
+   "state": 2,
+   "score": {
+    "key": "terror",
+    "xfade": 8
+   }
   },
   {
    "n": 164,
@@ -1197,7 +1215,8 @@
    "para": 101,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Before that unjust Tribunal, there was little or no order of procedure,\nensuring to any accused person any reasonable hearing. There could have\nbeen no such Revolution, if all laws, forms, and ceremonies, had not\nfirst been so monstrously abused, that the suicidal vengeance of the\nRevolution was to scatter them all to the winds."
+   "text": "Before that unjust Tribunal, there was little or no order of procedure,\nensuring to any accused person any reasonable hearing. There could have\nbeen no such Revolution, if all laws, forms, and ceremonies, had not\nfirst been so monstrously abused, that the suicidal vengeance of the\nRevolution was to scatter them all to the winds.",
+   "state": 1
   },
   {
    "n": 166,
@@ -1288,7 +1307,14 @@
    "para": 114,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A great uproar took place in the court, and in the midst of it, Doctor\nManette was seen, pale and trembling, standing where he had been seated."
+   "text": "A great uproar took place in the court, and in the midst of it, Doctor\nManette was seen, pale and trembling, standing where he had been seated.",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "roar",
+     "at": "A great uproar took place in the court"
+    }
+   ]
   },
   {
    "n": 179,
@@ -1330,7 +1356,8 @@
    "para": 120,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Defarge was produced, when the court was quiet enough to admit of his\nbeing heard, and rapidly expounded the story of the imprisonment, and of\nhis having been a mere boy in the Doctor’s service, and of the release,\nand of the state of the prisoner when released and delivered to him.\nThis short examination followed, for the court was quick with its work."
+   "text": "Defarge was produced, when the court was quiet enough to admit of his\nbeing heard, and rapidly expounded the story of the imprisonment, and of\nhis having been a mere boy in the Doctor’s service, and of the release,\nand of the state of the prisoner when released and delivered to him.\nThis short examination followed, for the court was quick with its work.",
+   "state": 3
   },
   {
    "n": 185,

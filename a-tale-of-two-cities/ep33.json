@@ -76,14 +76,22 @@
    "para": 5,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "To this lodging he at once removed Lucie and her child, and Miss Pross:\ngiving them what comfort he could, and much more than he had himself.\nHe left Jerry with them, as a figure to fill a doorway that would bear\nconsiderable knocking on the head, and returned to his own occupations.\nA disturbed and doleful mind he brought to bear upon them, and slowly\nand heavily the day lagged on with him."
+   "text": "To this lodging he at once removed Lucie and her child, and Miss Pross:\ngiving them what comfort he could, and much more than he had himself.\nHe left Jerry with them, as a figure to fill a doorway that would bear\nconsiderable knocking on the head, and returned to his own occupations.\nA disturbed and doleful mind he brought to bear upon them, and slowly\nand heavily the day lagged on with him.",
+   "bed": "garret",
+   "state": 1,
+   "score": {
+    "key": "tender",
+    "xfade": 8
+   }
   },
   {
    "n": 7,
    "para": 6,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "It wore itself out, and wore him out with it, until the Bank closed. He\nwas again alone in his room of the previous night, considering what to\ndo next, when he heard a foot upon the stair. In a few moments, a\nman stood in his presence, who, with a keenly observant look at him,\naddressed him by his name."
+   "text": "It wore itself out, and wore him out with it, until the Bank closed. He\nwas again alone in his room of the previous night, considering what to\ndo next, when he heard a foot upon the stair. In a few moments, a\nman stood in his presence, who, with a keenly observant look at him,\naddressed him by his name.",
+   "bed": "chambers",
+   "state": 1
   },
   {
    "n": 8,
@@ -223,7 +231,11 @@
    "para": 20,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Scarcely noticing as yet, in what a curiously reserved and mechanical\nway Defarge spoke, Mr. Lorry put on his hat and they went down into the\ncourtyard. There, they found two women; one, knitting."
+   "text": "Scarcely noticing as yet, in what a curiously reserved and mechanical\nway Defarge spoke, Mr. Lorry put on his hat and they went down into the\ncourtyard. There, they found two women; one, knitting.",
+   "score": {
+    "key": "bailey",
+    "xfade": 8
+   }
   },
   {
    "n": 28,
@@ -286,7 +298,9 @@
    "para": 26,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They passed through the intervening streets as quickly as they might,\nascended the staircase of the new domicile, were admitted by Jerry,\nand found Lucie weeping, alone. She was thrown into a transport by the\ntidings Mr. Lorry gave her of her husband, and clasped the hand that\ndelivered his note--little thinking what it had been doing near him in\nthe night, and might, but for a chance, have done to him."
+   "text": "They passed through the intervening streets as quickly as they might,\nascended the staircase of the new domicile, were admitted by Jerry,\nand found Lucie weeping, alone. She was thrown into a transport by the\ntidings Mr. Lorry gave her of her husband, and clasped the hand that\ndelivered his note--little thinking what it had been doing near him in\nthe night, and might, but for a chance, have done to him.",
+   "bed": "garret",
+   "state": 1
   },
   {
    "n": 37,

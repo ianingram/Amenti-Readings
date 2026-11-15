@@ -38,6 +38,10 @@ def p_rising(b, nb, bass, beat):                # the Revolution in the streets:
     if b % 2 == 1: out.append((kit('Snare2-rollNS_v1_rr1_Sum.wav')[: int(2 * beat * SR)] * np.linspace(0.2, 0.8, int(2 * beat * SR)), 2 * beat))
     if b % 4 == 3: out.append((timp(max(40, bass if bass <= 53 else bass - 12), 0.8), 3 * beat))
     return out
+def p_toll(b, nb, bass, beat):                  # the Terror: a low timpani tolling each bar, a muffled roll at the phrase
+    out = [(timp(max(40, bass if bass <= 53 else bass - 12), 0.75), 0), (BD(1, 1 + b % 2) * 0.5, 2 * beat)]
+    if b % 4 == 3: out.append((kit('Snare2-rollNS_v1_rr1_Sum.wav')[: int(2 * beat * SR)] * np.linspace(0, 0.35, int(2 * beat * SR)), 2 * beat))
+    return out
 
 MOODS = {
     # Book the First opens: "the best of times, the worst of times": C major turning to C minor and back
@@ -68,6 +72,12 @@ MOODS = {
     # The Revolution: the sea rises: D minor, march time, drums in the street, a roll into every other bar
     'rising': dict(bpm=96, chords='Dm Dm Bb A Dm Gm A A Bb Gm Dm A Gm Bb A Dm'.split(),
                    pulse=[(0, 0, 0.55), (1, 0, 0.35), (2, 0, 0.5), (3, 0, 0.35)], perc=p_rising, top=motif(8, 74, True)),
+    # The Terror: the Tribunal and the Guillotine: C minor, slow, a timpani tolling every bar
+    'terror': dict(bpm=60, chords='Cm Cm Ab G Cm Fm G G Ab Fm Cm G Fm Ab G Cm'.split(), pulse=[(0, 0, 0.5)], perc=p_toll,
+                   top=motif(8, 72, True)),
+    # "It is a far, far better thing": D major, a slow hymn; Recalled to Life carried through every phrase
+    'farewell': dict(bpm=54, chords='D Bm G A D F#m G A Bm G D A G Em A D'.split(), pulse=[(0, 0, 0.45)], perc=p_calm,
+                     top=motif(0, 74) + motif(4, 74) + motif(8, 74) + motif(12, 74)),
 }
 for name, kw in MOODS.items():
     if ONLY and name not in ONLY: continue

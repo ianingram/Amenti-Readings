@@ -2,7 +2,7 @@
   "_file": "a-tale-of-two-cities/sound.json",
   "_updated": "2026-11-15",
   "work": "a-tale-of-two-cities",
-  "note": "Book the First (14 Nov 2026) and Book the Second (15 Nov 2026): rooms, sounds on the words and score placed.",
+  "note": "All three books (14-15 Nov 2026): rooms, sounds on the words and score placed.",
   "files": {
     "base": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/",
     "beds": {
@@ -40,7 +40,18 @@
       "bastille_within": "bastille-within.mp3",
       "chateau_fire": "chateau-fire.mp3",
       "village_fire": "village-fire.mp3",
-      "soho_night": "soho-night.mp3"
+      "soho_night": "soho-night.mp3",
+      "escort_road": "escort-road.mp3",
+      "prison": "prison.mp3",
+      "prison_hall": "prison-hall.mp3",
+      "cell": "cell.mp3",
+      "grindstone": "grindstone.mp3",
+      "winter_street": "winter-street.mp3",
+      "carmagnole": "carmagnole.mp3",
+      "tribunal": "tribunal.mp3",
+      "seine_dawn": "seine-dawn.mp3",
+      "tumbrils": "tumbrils.mp3",
+      "execution": "execution.mp3"
     },
     "oneshots": {
       "whip_crack": "whip-crack.mp3",
@@ -93,7 +104,16 @@
       "cannon": "cannon.mp3",
       "volley": "volley.mp3",
       "blaze": "blaze.mp3",
-      "tocsin": "tocsin.mp3"
+      "tocsin": "tocsin.mp3",
+      "blade": "blade.mp3",
+      "pistol": "pistol.mp3",
+      "door_blow": "door-blow.mp3",
+      "chains": "chains.mp3",
+      "tumbril": "tumbril.mp3",
+      "saw": "saw.mp3",
+      "snow_step": "snow-step.mp3",
+      "clock_hour": "clock-hour.mp3",
+      "clock_two": "clock-two.mp3"
     },
     "score": {
       "overture_period": "score-period.mp3",
@@ -105,7 +125,9 @@
       "bailey": "score-bailey.mp3",
       "carton": "score-carton.mp3",
       "monseigneur": "score-monseigneur.mp3",
-      "rising": "score-rising.mp3"
+      "rising": "score-rising.mp3",
+      "terror": "score-terror.mp3",
+      "farewell": "score-farewell.mp3"
     },
     "levels": {
       "overture_period": 0.7,
@@ -117,7 +139,9 @@
       "bailey": 0.38,
       "carton": 0.38,
       "monseigneur": 0.38,
-      "rising": 0.38
+      "rising": 0.38,
+      "terror": 0.38,
+      "farewell": 0.38
     },
     "breath": {
       "note": "14 Nov 2026: the score ebbs and flows under the voice, as in Dracula.",
@@ -179,7 +203,16 @@
       "cannon": 0.6,
       "volley": 0.5,
       "blaze": 0.45,
-      "tocsin": 0.45
+      "tocsin": 0.45,
+      "blade": 0.55,
+      "pistol": 0.6,
+      "door_blow": 0.55,
+      "chains": 0.4,
+      "tumbril": 0.45,
+      "saw": 0.4,
+      "snow_step": 0.5,
+      "clock_hour": 0.45,
+      "clock_two": 0.45
     }
   },
   "beds": {
@@ -399,6 +432,77 @@
       "levels": {
         "1": 1.0
       }
+    },
+    "escort_road": {
+      "note": "Darnay's ride to Paris under escort: horses at a walk in deep mire, rain, wind (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "prison": {
+      "note": "La Force and the Conciergerie: stone passages, doors clanging and locking far off, keys, a footstep, water dropping (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "prison_hall": {
+      "note": "The large, low, vaulted chamber where the prisoners sit: quiet talk under stone (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "cell": {
+      "note": "A solitary cell: the roar of the city like muffled drums, a wild swell of voices (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "grindstone": {
+      "note": "The courtyard of Tellson's in Paris: the grindstone whirling and spluttering, the throng round it. 1 seen from the window, 2 heard through the closed window, feeble and fitful (built for this book).",
+      "levels": {
+        "1": 0.55,
+        "2": 0.2
+      }
+    },
+    "winter_street": {
+      "note": "The corner by the prison wall: wind, the wood-sawyer's saw now and then, the city hushed (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "carmagnole": {
+      "note": "The Carmagnole: a crowd dancing and shouting, feet stamping in time. 1 all round, 2 whirled away (built for this book).",
+      "levels": {
+        "1": 0.9,
+        "2": 0.4
+      }
+    },
+    "tribunal": {
+      "note": "The Revolutionary Tribunal: a rough crowd packed into the hall. 1 a murmur, 2 an uproar, 3 hushed (built for this book).",
+      "levels": {
+        "1": 0.7,
+        "2": 1.0,
+        "3": 0.3
+      }
+    },
+    "seine_dawn": {
+      "note": "The bridge over the Seine at dawn: the water splashing the river-walls, birds (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "tumbrils": {
+      "note": "The death-carts in the streets: wheels rumbling hollow and harsh, axles creaking, horses at a walk, the crowd lining the way (built for this book).",
+      "levels": {
+        "1": 0.8
+      }
+    },
+    "execution": {
+      "note": "The place of execution: a great crowd murmuring and pressing in. 1 the square, 2 far off as the story leaves it (built for this book).",
+      "levels": {
+        "1": 1.0,
+        "2": 0.3
+      }
     }
   },
   "chapters": [
@@ -586,93 +690,93 @@
     },
     {
       "n": 31,
-      "bed": null,
+      "bed": "escort_road",
       "state": 1,
-      "score": null
+      "score": "road"
     },
     {
       "n": 32,
-      "bed": null,
+      "bed": "chambers",
       "state": 1,
-      "score": null
+      "score": "bailey"
     },
     {
       "n": 33,
-      "bed": null,
+      "bed": "tellsons",
       "state": 1,
-      "score": null
+      "score": "bailey"
     },
     {
       "n": 34,
-      "bed": null,
+      "bed": "chambers",
       "state": 1,
-      "score": null
+      "score": "recalled"
     },
     {
       "n": 35,
-      "bed": null,
-      "state": 1,
-      "score": null
+      "bed": "saint_antoine",
+      "state": 2,
+      "score": "terror"
     },
     {
       "n": 36,
-      "bed": null,
+      "bed": "prison_hall",
       "state": 1,
-      "score": null
+      "score": "terror"
     },
     {
       "n": 37,
-      "bed": null,
+      "bed": "garret",
       "state": 1,
-      "score": null
+      "score": "tender"
     },
     {
       "n": 38,
-      "bed": null,
+      "bed": "saint_antoine",
       "state": 1,
-      "score": null
+      "score": "hunger"
     },
     {
       "n": 39,
-      "bed": null,
+      "bed": "chambers",
       "state": 1,
-      "score": null
+      "score": "carton"
     },
     {
       "n": 40,
-      "bed": null,
-      "state": 1,
-      "score": null
+      "bed": "tribunal",
+      "state": 3,
+      "score": "recalled"
     },
     {
       "n": 41,
-      "bed": null,
-      "state": 1,
-      "score": null
+      "bed": "tribunal",
+      "state": 3,
+      "score": "terror"
     },
     {
       "n": 42,
-      "bed": null,
+      "bed": "paris_night",
       "state": 1,
-      "score": null
+      "score": "carton"
     },
     {
       "n": 43,
-      "bed": null,
+      "bed": "prison",
       "state": 1,
-      "score": null
+      "score": "terror"
     },
     {
       "n": 44,
-      "bed": null,
-      "state": 1,
-      "score": null
+      "bed": "wine_shop",
+      "state": 2,
+      "score": "rising"
     },
     {
       "n": 45,
-      "bed": null,
+      "bed": "tumbrils",
       "state": 1,
-      "score": null
+      "score": "terror"
     }
   ]
 }

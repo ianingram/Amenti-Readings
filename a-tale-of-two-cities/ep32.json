@@ -222,7 +222,20 @@
    "para": 20,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The old man uttered an irrepressible cry. Almost at the same moment, the\nbell of the great gate rang again, and a loud noise of feet and voices\ncame pouring into the courtyard."
+   "text": "The old man uttered an irrepressible cry. Almost at the same moment, the\nbell of the great gate rang again, and a loud noise of feet and voices\ncame pouring into the courtyard.",
+   "bed": "grindstone",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "door_bell",
+     "at": "the bell of the great gate rang again"
+    }
+   ],
+   "score": {
+    "key": "rising",
+    "xfade": 6,
+    "at": "the bell of the great gate rang again"
+   }
   },
   {
    "n": 29,
@@ -341,14 +354,21 @@
    "para": 29,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The old man kissed her, and hurried her into his room, and turned the\nkey; then, came hurrying back to the Doctor, and opened the window and\npartly opened the blind, and put his hand upon the Doctor’s arm, and\nlooked out with him into the courtyard."
+   "text": "The old man kissed her, and hurried her into his room, and turned the\nkey; then, came hurrying back to the Doctor, and opened the window and\npartly opened the blind, and put his hand upon the Doctor’s arm, and\nlooked out with him into the courtyard.",
+   "sfx": [
+    {
+     "key": "key_lock",
+     "at": "and turned the key"
+    }
+   ]
   },
   {
    "n": 46,
    "para": 30,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Looked out upon a throng of men and women: not enough in number, or near\nenough, to fill the courtyard: not more than forty or fifty in all. The\npeople in possession of the house had let them in at the gate, and they\nhad rushed in to work at the grindstone; it had evidently been set up\nthere for their purpose, as in a convenient and retired spot."
+   "text": "Looked out upon a throng of men and women: not enough in number, or near\nenough, to fill the courtyard: not more than forty or fifty in all. The\npeople in possession of the house had let them in at the gate, and they\nhad rushed in to work at the grindstone; it had evidently been set up\nthere for their purpose, as in a convenient and retired spot.",
+   "state": 1
   },
   {
    "n": 47,
@@ -425,7 +445,8 @@
    "para": 37,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He closed the lattice again with a fluttering heart, closed the window\nand the curtain, hastened to Lucie, and told her that her father was\nassisted by the people, and gone in search of her husband. He found\nher child and Miss Pross with her; but, it never occurred to him to be\nsurprised by their appearance until a long time afterwards, when he sat\nwatching them in such quiet as the night knew."
+   "text": "He closed the lattice again with a fluttering heart, closed the window\nand the curtain, hastened to Lucie, and told her that her father was\nassisted by the people, and gone in search of her husband. He found\nher child and Miss Pross with her; but, it never occurred to him to be\nsurprised by their appearance until a long time afterwards, when he sat\nwatching them in such quiet as the night knew.",
+   "state": 2
   },
   {
    "n": 58,
@@ -439,7 +460,14 @@
    "para": 39,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Twice more in the darkness the bell at the great gate sounded, and the\nirruption was repeated, and the grindstone whirled and spluttered."
+   "text": "Twice more in the darkness the bell at the great gate sounded, and the\nirruption was repeated, and the grindstone whirled and spluttered.",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "door_bell",
+     "at": "Twice more in the darkness the bell at the great gate sounded"
+    }
+   ]
   },
   {
    "n": 60,
@@ -481,14 +509,21 @@
    "para": 40,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Twice more in all; but, the last spell of work was feeble and fitful.\nSoon afterwards the day began to dawn, and he softly detached himself\nfrom the clasping hand, and cautiously looked out again. A man, so\nbesmeared that he might have been a sorely wounded soldier creeping back\nto consciousness on a field of slain, was rising from the pavement by\nthe side of the grindstone, and looking about him with a vacant air.\nShortly, this worn-out murderer descried in the imperfect light one of\nthe carriages of Monseigneur, and, staggering to that gorgeous vehicle,\nclimbed in at the door, and shut himself up to take his rest on its\ndainty cushions."
+   "text": "Twice more in all; but, the last spell of work was feeble and fitful.\nSoon afterwards the day began to dawn, and he softly detached himself\nfrom the clasping hand, and cautiously looked out again. A man, so\nbesmeared that he might have been a sorely wounded soldier creeping back\nto consciousness on a field of slain, was rising from the pavement by\nthe side of the grindstone, and looking about him with a vacant air.\nShortly, this worn-out murderer descried in the imperfect light one of\nthe carriages of Monseigneur, and, staggering to that gorgeous vehicle,\nclimbed in at the door, and shut himself up to take his rest on its\ndainty cushions.",
+   "state": 2
   },
   {
    "n": 66,
    "para": 41,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The great grindstone, Earth, had turned when Mr. Lorry looked out again,\nand the sun was red on the courtyard. But, the lesser grindstone stood\nalone there in the calm morning air, with a red upon it that the sun had\nnever given, and would never take away."
+   "text": "The great grindstone, Earth, had turned when Mr. Lorry looked out again,\nand the sun was red on the courtyard. But, the lesser grindstone stood\nalone there in the calm morning air, with a red upon it that the sun had\nnever given, and would never take away.",
+   "bed": "soho",
+   "state": 1,
+   "score": {
+    "key": "terror",
+    "xfade": 9
+   }
   }
  ]
 }

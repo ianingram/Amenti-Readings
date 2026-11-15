@@ -96,7 +96,9 @@
    "para": 8,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The passage to the Conciergerie was short and dark; the night in its\nvermin-haunted cells was long and cold. Next day, fifteen prisoners were\nput to the bar before Charles Darnay’s name was called. All the fifteen\nwere condemned, and the trials of the whole occupied an hour and a half."
+   "text": "The passage to the Conciergerie was short and dark; the night in its\nvermin-haunted cells was long and cold. Next day, fifteen prisoners were\nput to the bar before Charles Darnay’s name was called. All the fifteen\nwere condemned, and the trials of the whole occupied an hour and a half.",
+   "bed": "prison",
+   "state": 1
   },
   {
    "n": 11,
@@ -117,7 +119,9 @@
    "para": 10,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "His judges sat upon the Bench in feathered hats; but the rough red cap\nand tricoloured cockade was the head-dress otherwise prevailing. Looking\nat the Jury and the turbulent audience, he might have thought that the\nusual order of things was reversed, and that the felons were trying the\nhonest men. The lowest, cruelest, and worst populace of a city, never\nwithout its quantity of low, cruel, and bad, were the directing\nspirits of the scene: noisily commenting, applauding, disapproving,\nanticipating, and precipitating the result, without a check. Of the men,\nthe greater part were armed in various ways; of the women, some wore\nknives, some daggers, some ate and drank as they looked on, many\nknitted. Among these last, was one, with a spare piece of knitting under\nher arm as she worked. She was in a front row, by the side of a man whom\nhe had never seen since his arrival at the Barrier, but whom he directly\nremembered as Defarge. He noticed that she once or twice whispered in\nhis ear, and that she seemed to be his wife; but, what he most noticed\nin the two figures was, that although they were posted as close to\nhimself as they could be, they never looked towards him. They seemed to\nbe waiting for something with a dogged determination, and they looked at\nthe Jury, but at nothing else. Under the President sat Doctor Manette,\nin his usual quiet dress. As well as the prisoner could see, he and Mr.\nLorry were the only men there, unconnected with the Tribunal, who\nwore their usual clothes, and had not assumed the coarse garb of the\nCarmagnole."
+   "text": "His judges sat upon the Bench in feathered hats; but the rough red cap\nand tricoloured cockade was the head-dress otherwise prevailing. Looking\nat the Jury and the turbulent audience, he might have thought that the\nusual order of things was reversed, and that the felons were trying the\nhonest men. The lowest, cruelest, and worst populace of a city, never\nwithout its quantity of low, cruel, and bad, were the directing\nspirits of the scene: noisily commenting, applauding, disapproving,\nanticipating, and precipitating the result, without a check. Of the men,\nthe greater part were armed in various ways; of the women, some wore\nknives, some daggers, some ate and drank as they looked on, many\nknitted. Among these last, was one, with a spare piece of knitting under\nher arm as she worked. She was in a front row, by the side of a man whom\nhe had never seen since his arrival at the Barrier, but whom he directly\nremembered as Defarge. He noticed that she once or twice whispered in\nhis ear, and that she seemed to be his wife; but, what he most noticed\nin the two figures was, that although they were posted as close to\nhimself as they could be, they never looked towards him. They seemed to\nbe waiting for something with a dogged determination, and they looked at\nthe Jury, but at nothing else. Under the President sat Doctor Manette,\nin his usual quiet dress. As well as the prisoner could see, he and Mr.\nLorry were the only men there, unconnected with the Tribunal, who\nwore their usual clothes, and had not assumed the coarse garb of the\nCarmagnole.",
+   "bed": "tribunal",
+   "state": 1
   },
   {
    "n": 14,
@@ -152,7 +156,13 @@
    "para": 13,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The President rang his bell to silence those cries, and asked the\nprisoner whether it was not true that he had lived many years in\nEngland?"
+   "text": "The President rang his bell to silence those cries, and asked the\nprisoner whether it was not true that he had lived many years in\nEngland?",
+   "sfx": [
+    {
+     "key": "hand_bell",
+     "at": "The President rang his bell"
+    }
+   ]
   },
   {
    "n": 19,
@@ -292,7 +302,13 @@
    "para": 31,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "and the President rang his\nbell to quiet them. Which it did not, for they continued to cry"
+   "text": "and the President rang his\nbell to quiet them. Which it did not, for they continued to cry",
+   "sfx": [
+    {
+     "key": "hand_bell",
+     "at": "the President rang his bell to quiet them"
+    }
+   ]
   },
   {
    "n": 39,
@@ -341,7 +357,12 @@
    "para": 36,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Then, began one of those extraordinary scenes with which the populace\nsometimes gratified their fickleness, or their better impulses towards\ngenerosity and mercy, or which they regarded as some set-off against\ntheir swollen account of cruel rage. No man can decide now to which of\nthese motives such extraordinary scenes were referable; it is probable,\nto a blending of all the three, with the second predominating. No sooner\nwas the acquittal pronounced, than tears were shed as freely as blood\nat another time, and such fraternal embraces were bestowed upon the\nprisoner by as many of both sexes as could rush at him, that after\nhis long and unwholesome confinement he was in danger of fainting from\nexhaustion; none the less because he knew very well, that the very same\npeople, carried by another current, would have rushed at him with\nthe very same intensity, to rend him to pieces and strew him over the\nstreets."
+   "text": "Then, began one of those extraordinary scenes with which the populace\nsometimes gratified their fickleness, or their better impulses towards\ngenerosity and mercy, or which they regarded as some set-off against\ntheir swollen account of cruel rage. No man can decide now to which of\nthese motives such extraordinary scenes were referable; it is probable,\nto a blending of all the three, with the second predominating. No sooner\nwas the acquittal pronounced, than tears were shed as freely as blood\nat another time, and such fraternal embraces were bestowed upon the\nprisoner by as many of both sexes as could rush at him, that after\nhis long and unwholesome confinement he was in danger of fainting from\nexhaustion; none the less because he knew very well, that the very same\npeople, carried by another current, would have rushed at him with\nthe very same intensity, to rend him to pieces and strew him over the\nstreets.",
+   "state": 2,
+   "score": {
+    "key": "rising",
+    "xfade": 6
+   }
   },
   {
    "n": 46,
@@ -355,14 +376,22 @@
    "para": 37,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "“Long live the\nRepublic!”"
+   "text": "“Long live the\nRepublic!”",
+   "sfx": [
+    {
+     "key": "cheer",
+     "at": "Long live the Republic!"
+    }
+   ]
   },
   {
    "n": 48,
    "para": 38,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The five had had, it is true, no audience to lengthen their proceedings,\nfor when he and Doctor Manette emerged from the gate, there was a great\ncrowd about it, in which there seemed to be every face he had seen in\nCourt--except two, for which he looked in vain. On his coming out, the\nconcourse made at him anew, weeping, embracing, and shouting, all by\nturns and all together, until the very tide of the river on the bank of\nwhich the mad scene was acted, seemed to run mad, like the people on the\nshore."
+   "text": "The five had had, it is true, no audience to lengthen their proceedings,\nfor when he and Doctor Manette emerged from the gate, there was a great\ncrowd about it, in which there seemed to be every face he had seen in\nCourt--except two, for which he looked in vain. On his coming out, the\nconcourse made at him anew, weeping, embracing, and shouting, all by\nturns and all together, until the very tide of the river on the bank of\nwhich the mad scene was acted, seemed to run mad, like the people on the\nshore.",
+   "bed": "rising",
+   "state": 2
   },
   {
    "n": 49,
@@ -383,14 +412,22 @@
    "para": 41,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "As he held her to his heart and turned her beautiful head between his\nface and the brawling crowd, so that his tears and her lips might come\ntogether unseen, a few of the people fell to dancing. Instantly, all the\nrest fell to dancing, and the courtyard overflowed with the Carmagnole.\nThen, they elevated into the vacant chair a young woman from the\ncrowd to be carried as the Goddess of Liberty, and then swelling and\noverflowing out into the adjacent streets, and along the river’s bank,\nand over the bridge, the Carmagnole absorbed them every one and whirled\nthem away."
+   "text": "As he held her to his heart and turned her beautiful head between his\nface and the brawling crowd, so that his tears and her lips might come\ntogether unseen, a few of the people fell to dancing. Instantly, all the\nrest fell to dancing, and the courtyard overflowed with the Carmagnole.\nThen, they elevated into the vacant chair a young woman from the\ncrowd to be carried as the Goddess of Liberty, and then swelling and\noverflowing out into the adjacent streets, and along the river’s bank,\nand over the bridge, the Carmagnole absorbed them every one and whirled\nthem away.",
+   "bed": "carmagnole",
+   "state": 1
   },
   {
    "n": 52,
    "para": 42,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "After grasping the Doctor’s hand, as he stood victorious and proud\nbefore him; after grasping the hand of Mr. Lorry, who came panting in\nbreathless from his struggle against the waterspout of the Carmagnole;\nafter kissing little Lucie, who was lifted up to clasp her arms round\nhis neck; and after embracing the ever zealous and faithful Pross who\nlifted her; he took his wife in his arms, and carried her up to their\nrooms."
+   "text": "After grasping the Doctor’s hand, as he stood victorious and proud\nbefore him; after grasping the hand of Mr. Lorry, who came panting in\nbreathless from his struggle against the waterspout of the Carmagnole;\nafter kissing little Lucie, who was lifted up to clasp her arms round\nhis neck; and after embracing the ever zealous and faithful Pross who\nlifted her; he took his wife in his arms, and carried her up to their\nrooms.",
+   "bed": "garret",
+   "state": 1,
+   "score": {
+    "key": "tender",
+    "xfade": 9
+   }
   },
   {
    "n": 53,

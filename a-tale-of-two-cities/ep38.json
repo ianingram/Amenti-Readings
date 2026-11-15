@@ -62,7 +62,9 @@
    "para": 3,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Having purchased a few small articles of grocery, and a measure of oil\nfor the lamp, Miss Pross bethought herself of the wine they wanted.\nAfter peeping into several wine-shops, she stopped at the sign of the\nGood Republican Brutus of Antiquity, not far from the National Palace,\nonce (and twice) the Tuileries, where the aspect of things rather\ntook her fancy. It had a quieter look than any other place of the same\ndescription they had passed, and, though red with patriotic caps, was\nnot so red as the rest. Sounding Mr. Cruncher, and finding him of her\nopinion, Miss Pross resorted to the Good Republican Brutus of Antiquity,\nattended by her cavalier."
+   "text": "Having purchased a few small articles of grocery, and a measure of oil\nfor the lamp, Miss Pross bethought herself of the wine they wanted.\nAfter peeping into several wine-shops, she stopped at the sign of the\nGood Republican Brutus of Antiquity, not far from the National Palace,\nonce (and twice) the Tuileries, where the aspect of things rather\ntook her fancy. It had a quieter look than any other place of the same\ndescription they had passed, and, though red with patriotic caps, was\nnot so red as the rest. Sounding Mr. Cruncher, and finding him of her\nopinion, Miss Pross resorted to the Good Republican Brutus of Antiquity,\nattended by her cavalier.",
+   "bed": "wine_shop",
+   "state": 1
   },
   {
    "n": 5,
@@ -104,7 +106,8 @@
    "para": 8,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "said the man who had caused Miss Pross to scream;\nspeaking in a vexed, abrupt voice (though in a low tone), and in\nEnglish."
+   "text": "said the man who had caused Miss Pross to scream;\nspeaking in a vexed, abrupt voice (though in a low tone), and in\nEnglish.",
+   "state": 2
   },
   {
    "n": 11,
@@ -699,7 +702,13 @@
    "para": 55,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They left her at the corner of the street, and Carton led the way to Mr.\nLorry’s, which was within a few minutes’ walk. John Barsad, or Solomon\nPross, walked at his side."
+   "text": "They left her at the corner of the street, and Carton led the way to Mr.\nLorry’s, which was within a few minutes’ walk. John Barsad, or Solomon\nPross, walked at his side.",
+   "bed": "chambers",
+   "state": 1,
+   "score": {
+    "key": "carton",
+    "xfade": 8
+   }
   },
   {
    "n": 96,

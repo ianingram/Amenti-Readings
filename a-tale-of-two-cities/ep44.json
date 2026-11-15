@@ -661,7 +661,9 @@
    "para": 41,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Seeing in this arrangement the hope of rendering real service in that\npressing emergency, Miss Pross hailed it with joy. She and Jerry had\nbeheld the coach start, had known who it was that Solomon brought, had\npassed some ten minutes in tortures of suspense, and were now concluding\ntheir arrangements to follow the coach, even as Madame Defarge,\ntaking her way through the streets, now drew nearer and nearer to the\nelse-deserted lodging in which they held their consultation."
+   "text": "Seeing in this arrangement the hope of rendering real service in that\npressing emergency, Miss Pross hailed it with joy. She and Jerry had\nbeheld the coach start, had known who it was that Solomon brought, had\npassed some ten minutes in tortures of suspense, and were now concluding\ntheir arrangements to follow the coach, even as Madame Defarge,\ntaking her way through the streets, now drew nearer and nearer to the\nelse-deserted lodging in which they held their consultation.",
+   "bed": "garret",
+   "state": 1
   },
   {
    "n": 90,
@@ -1123,7 +1125,11 @@
    "para": 68,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Afraid, in her extreme perturbation, of the loneliness of the deserted\nrooms, and of half-imagined faces peeping from behind every open door\nin them, Miss Pross got a basin of cold water and began laving her eyes,\nwhich were swollen and red. Haunted by her feverish apprehensions, she\ncould not bear to have her sight obscured for a minute at a time by the\ndripping water, but constantly paused and looked round to see that there\nwas no one watching her. In one of those pauses she recoiled and cried\nout, for she saw a figure standing in the room."
+   "text": "Afraid, in her extreme perturbation, of the loneliness of the deserted\nrooms, and of half-imagined faces peeping from behind every open door\nin them, Miss Pross got a basin of cold water and began laving her eyes,\nwhich were swollen and red. Haunted by her feverish apprehensions, she\ncould not bear to have her sight obscured for a minute at a time by the\ndripping water, but constantly paused and looked round to see that there\nwas no one watching her. In one of those pauses she recoiled and cried\nout, for she saw a figure standing in the room.",
+   "score": {
+    "key": "bailey",
+    "xfade": 8
+   }
   },
   {
    "n": 156,
@@ -1543,7 +1549,17 @@
    "para": 96,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Madame Defarge’s hands were at her bosom. Miss Pross looked up, saw\nwhat it was, struck at it, struck out a flash and a crash, and stood\nalone--blinded with smoke."
+   "text": "Madame Defarge’s hands were at her bosom. Miss Pross looked up, saw\nwhat it was, struck at it, struck out a flash and a crash, and stood\nalone--blinded with smoke.",
+   "sfx": [
+    {
+     "key": "pistol",
+     "at": "struck out a flash and a crash"
+    }
+   ],
+   "score": {
+    "key": null,
+    "xfade": 2
+   }
   },
   {
    "n": 216,
@@ -1557,21 +1573,33 @@
    "para": 98,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "In the first fright and horror of her situation, Miss Pross passed the\nbody as far from it as she could, and ran down the stairs to call for\nfruitless help. Happily, she bethought herself of the consequences of\nwhat she did, in time to check herself and go back. It was dreadful to\ngo in at the door again; but, she did go in, and even went near it, to\nget the bonnet and other things that she must wear. These she put on,\nout on the staircase, first shutting and locking the door and taking\naway the key. She then sat down on the stairs a few moments to breathe\nand to cry, and then got up and hurried away."
+   "text": "In the first fright and horror of her situation, Miss Pross passed the\nbody as far from it as she could, and ran down the stairs to call for\nfruitless help. Happily, she bethought herself of the consequences of\nwhat she did, in time to check herself and go back. It was dreadful to\ngo in at the door again; but, she did go in, and even went near it, to\nget the bonnet and other things that she must wear. These she put on,\nout on the staircase, first shutting and locking the door and taking\naway the key. She then sat down on the stairs a few moments to breathe\nand to cry, and then got up and hurried away.",
+   "sfx": [
+    {
+     "key": "key_lock",
+     "at": "shutting and locking the door"
+    }
+   ]
   },
   {
    "n": 218,
    "para": 99,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "By good fortune she had a veil on her bonnet, or she could hardly have\ngone along the streets without being stopped. By good fortune, too, she\nwas naturally so peculiar in appearance as not to show disfigurement\nlike any other woman. She needed both advantages, for the marks of\ngripping fingers were deep in her face, and her hair was torn, and her\ndress (hastily composed with unsteady hands) was clutched and dragged a\nhundred ways."
+   "text": "By good fortune she had a veil on her bonnet, or she could hardly have\ngone along the streets without being stopped. By good fortune, too, she\nwas naturally so peculiar in appearance as not to show disfigurement\nlike any other woman. She needed both advantages, for the marks of\ngripping fingers were deep in her face, and her hair was torn, and her\ndress (hastily composed with unsteady hands) was clutched and dragged a\nhundred ways.",
+   "bed": "saint_antoine",
+   "state": 1
   },
   {
    "n": 219,
    "para": 100,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "In crossing the bridge, she dropped the door key in the river. Arriving\nat the cathedral some few minutes before her escort, and waiting there,\nshe thought, what if the key were already taken in a net, what if\nit were identified, what if the door were opened and the remains\ndiscovered, what if she were stopped at the gate, sent to prison, and\ncharged with murder! In the midst of these fluttering thoughts, the\nescort appeared, took her in, and took her away."
+   "text": "In crossing the bridge, she dropped the door key in the river. Arriving\nat the cathedral some few minutes before her escort, and waiting there,\nshe thought, what if the key were already taken in a net, what if\nit were identified, what if the door were opened and the remains\ndiscovered, what if she were stopped at the gate, sent to prison, and\ncharged with murder! In the midst of these fluttering thoughts, the\nescort appeared, took her in, and took her away.",
+   "score": {
+    "key": "road",
+    "xfade": 9
+   }
   },
   {
    "n": 220,

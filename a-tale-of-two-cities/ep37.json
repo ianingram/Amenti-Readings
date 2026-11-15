@@ -496,7 +496,18 @@
    "para": 31,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "As he said the word, a blow was struck upon the door."
+   "text": "As he said the word, a blow was struck upon the door.",
+   "sfx": [
+    {
+     "key": "door_blow",
+     "at": "a blow was struck upon the door"
+    }
+   ],
+   "score": {
+    "key": "terror",
+    "xfade": 6,
+    "at": "a blow was struck upon the door"
+   }
   },
   {
    "n": 67,

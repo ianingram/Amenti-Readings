@@ -84,3 +84,22 @@ One-shots built for this book (`build-oneshots-b2b.py`), BigSoundBank (CC0):
 - **spade.mp3** #1305 · **creak.mp3** #0539 · **wedding-bells.mp3** #0829 · **bells-drums.mp3** #0994, #2402, #2405 · **chop.mp3** #0536 · **cheer.mp3** #0019, #0236, #0237 · **roar.mp3** the protest recordings · **drum-jar.mp3** #2400 · **drum-beat.mp3** #2408, #2404 · **alarm-bells.mp3** #0135, #0829, #0830 · **cannon.mp3** #1806 · **volley.mp3** #2853, #2854, #0397 · **blaze.mp3** #1341 · **tocsin.mp3** #0135.
 
 Score (`build-moods.py`, VSCO 2 CE, CC0): **score-rising.mp3** (the Revolution: D minor, march time, drums in the street).
+
+## Book the Third, chapters 31–45 (15 Nov 2026)
+Rooms built for this book (`build-rooms-b3.py`, using the helpers of `build-rooms-b2b.py`), all BigSoundBank (CC0):
+- **escort-road.mp3**: #0610 and #0611 (hoof strikes, at a walk, dulled as in mire), #1019 (rain), #0659 (wind).
+- **prison.mp3**: #0359, #0360 and #0361 (chains: the doors clanging), #0378, #2414, #2425, #2426 and #0445 (keys and locks), #0606 (steps on a stone staircase), #1386 and #1387 (drops), the protest recordings very far off.
+- **prison-hall.mp3**: #3515 and #3516 under stone, and the prison room.
+- **cell.mp3**: the protest recordings and #2402, #2405 and #2408 (drum rolls), heavily low-passed: the city's roar like muffled drums.
+- **grindstone.mp3**: #0327–#0332 (blades scraped on a stone, one at every turn), #0832 (a whetstone), #2768 (a mill wheel: the axle), the protest recordings, #0236/#0237.
+- **winter-street.mp3**: #0659 (wind), #0559 (a saw on wood: the wood-sawyer), #2968/#2969 far off.
+- **carmagnole.mp3**: #1318 and #1319 (footsteps, struck in time as stamping), the protest recordings, #0236/#0237.
+- **tribunal.mp3**: #3515/#3516 and the protest recordings, under a stone hall's reverb.
+- **seine-dawn.mp3**: #3132 and #3134 (a watercourse), #0222 and #0999 (birds waking).
+- **tumbrils.mp3**: #1316 (wheels), #2516–#2519 (squeaking wheelbarrows: the axles), #0610/#0611 (horses at a walk), #3515/#3516 (the crowd lining the way).
+- **execution.mp3**: #3515/#3516 and the protest recordings, heaving.
+
+One-shots (`build-oneshots-b3.py`):
+- **blade.mp3** #1234 (a trap snapping) and Dracula's `door_heavy.mp3` · **pistol.mp3** #0437 · **door-blow.mp3** Dracula's `door_heavy.mp3` · **chains.mp3** #0619, #0359 · **tumbril.mp3** #1316, #2517 · **saw.mp3** #0559 · **snow-step.mp3** #3363 · **clock-hour.mp3**, **clock-two.mp3** #3446.
+
+Score (`build-moods.py`, VSCO 2 CE, CC0): **score-terror.mp3** (the Terror: C minor, a timpani tolling every bar) and **score-farewell.mp3** ("It is a far, far better thing": D major, a slow hymn with Recalled to Life in every phrase).

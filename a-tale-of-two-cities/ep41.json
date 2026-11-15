@@ -62,7 +62,8 @@
    "para": 3,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The Judges having to take part in a public demonstration out of doors,\nthe Tribunal adjourned. The quick noise and movement of the court’s\nemptying itself by many passages had not ceased, when Lucie stood\nstretching out her arms towards her husband, with nothing in her face\nbut love and consolation."
+   "text": "The Judges having to take part in a public demonstration out of doors,\nthe Tribunal adjourned. The quick noise and movement of the court’s\nemptying itself by many passages had not ceased, when Lucie stood\nstretching out her arms towards her husband, with nothing in her face\nbut love and consolation.",
+   "state": 2
   },
   {
    "n": 5,
@@ -76,7 +77,8 @@
    "para": 5,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "There was but a gaoler left, along with two of the four men who had\ntaken him last night, and Barsad. The people had all poured out to the\nshow in the streets. Barsad proposed to the rest,"
+   "text": "There was but a gaoler left, along with two of the four men who had\ntaken him last night, and Barsad. The people had all poured out to the\nshow in the streets. Barsad proposed to the rest,",
+   "state": 3
   },
   {
    "n": 7,
@@ -195,7 +197,11 @@
    "para": 16,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Then, issuing from the obscure corner from which he had never moved,\nSydney Carton came and took her up. Only her father and Mr. Lorry were\nwith her. His arm trembled as it raised her, and supported her head.\nYet, there was an air about him that was not all of pity--that had a\nflush of pride in it."
+   "text": "Then, issuing from the obscure corner from which he had never moved,\nSydney Carton came and took her up. Only her father and Mr. Lorry were\nwith her. His arm trembled as it raised her, and supported her head.\nYet, there was an air about him that was not all of pity--that had a\nflush of pride in it.",
+   "score": {
+    "key": "carton",
+    "xfade": 9
+   }
   },
   {
    "n": 24,
@@ -209,14 +215,24 @@
    "para": 18,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He carried her lightly to the door, and laid her tenderly down in a\ncoach. Her father and their old friend got into it, and he took his seat\nbeside the driver."
+   "text": "He carried her lightly to the door, and laid her tenderly down in a\ncoach. Her father and their old friend got into it, and he took his seat\nbeside the driver.",
+   "bed": "paris_night",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "horses_start",
+     "at": "he took his seat beside the driver"
+    }
+   ]
   },
   {
    "n": 26,
    "para": 19,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "When they arrived at the gateway where he had paused in the dark not\nmany hours before, to picture to himself on which of the rough stones of\nthe street her feet had trodden, he lifted her again, and carried her up\nthe staircase to their rooms. There, he laid her down on a couch, where\nher child and Miss Pross wept over her."
+   "text": "When they arrived at the gateway where he had paused in the dark not\nmany hours before, to picture to himself on which of the rough stones of\nthe street her feet had trodden, he lifted her again, and carried her up\nthe staircase to their rooms. There, he laid her down on a couch, where\nher child and Miss Pross wept over her.",
+   "bed": "garret",
+   "state": 1
   },
   {
    "n": 27,

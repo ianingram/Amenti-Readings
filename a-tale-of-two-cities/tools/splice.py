@@ -85,7 +85,8 @@ FIX_B3A = [  # Book the Third, ch 31-39 (15 Nov 2026)
  ('37', 73, '37-73', 'said the first.', None, [0]),
  ('38', 241, '38-241', '@', None, [0]),
 ]
-FIX = {'b2': FIX_B2, 'b2b': FIX_B2B, 'b3a': FIX_B3A}.get(BOOK, FIX_B1)
+FIX_B3A2 = [('32', 6, '32-6b', 'must be carried over into the next; no man could have said, that night, any more than Mr. Jarvis Lorry could, though he thought heavily of these questions.', None, [1, 2])]   # second try, the clause before it in the take
+FIX = {'b2': FIX_B2, 'b2b': FIX_B2B, 'b3a': FIX_B3A, 'b3a2': FIX_B3A2}.get(BOOK, FIX_B1)
 done = {}; report = []
 for ch, n, tag, own, prev, repl, *until in FIX:
     if own == '@': own = SHEET['lines'][tags.index(tag + '/0')][3]

@@ -1,0 +1,410 @@
+{
+ "book": "a-tale-of-two-cities",
+ "part": "chapter headings",
+ "note": "Chapter heading pictures, 14 Nov 2026: one defining moment per chapter (Book the First chapters 2-6 come from book1.json), drawn by Gemini from the text, no reference images.",
+ "style": "An oil painting in the manner of nineteenth-century academic history painting: rich palette, dramatic chiaroscuro, visible brushwork, painterly and cinematic, 16:9 landscape. England and France between 1775 and 1793: tricorn hats, greatcoats, knee-breeches, buckled shoes, red caps and tricolour cockades after 1789, candle and lantern light, no modern objects, no railways. No captions, no lettering, no signature, no frames, no white margins, no black bars or borders.",
+ "refs": {},
+ "people": {
+  "lorry": "Mr. Jarvis Lorry: a neat, orderly English banker of about sixty, clean-shaven, a small sleek crisp flaxen wig close to his head, a well-worn brown suit and waistcoat, white linen",
+  "lucie": "Lucie: a slight, pretty young Englishwoman with long golden hair in curls and blue eyes, a smooth forehead that lifts in an intent, anxious expression",
+  "manette": "Doctor Manette: a tall upright man of about sixty with white hair, clean-shaven, dark eyebrows, bright eyes, in a dark coat",
+  "darnay": "Charles Darnay: a well-grown, good-looking young man of about twenty-five, sunburnt cheek, dark eyes, dark hair tied back, a plain dark coat",
+  "carton": "Sydney Carton: a young man of about twenty-five, the very image of Darnay in face and figure, but careless and slovenly, his dark hair untidy, his neckcloth loose, a dissipated, brooding face",
+  "stryver": "Mr. Stryver: a stout, loud, red-faced, bluff barrister of about thirty, pushing and self-satisfied",
+  "jerry": "Jerry Cruncher: a rough, broad London porter with stiff black spiky hair standing straight up like a hedge, eyes close together, a battered three-cornered hat",
+  "pross": "Miss Pross: a tall, strong, red-faced Englishwoman with red hair, in an odd tight-fitting dress and an enormous tall bonnet",
+  "defarge": "Ernest Defarge: a bull-necked, martial Frenchman with crisply curling short dark hair, shirtsleeves rolled up, a red cap in the later years",
+  "madame": "Madame Defarge: a stout, composed Frenchwoman with a steady face, strong features, darkly defined eyebrows, a watchful eye, large earrings, a bright shawl about her head, always knitting",
+  "marquis": "the Marquis St. Evrémonde: a haughty French aristocrat of about sixty, powdered hair, richly dressed, a face like a fine pale mask with pinched nostrils",
+  "mender": "the mender of roads: a lean, simple French peasant in a tattered blue cap and ragged clothes"
+ },
+ "beats": [
+  {
+   "tag": "tc-ch01",
+   "chapter": 1,
+   "cue": null,
+   "who": [],
+   "text": "France and England, 1775, an allegory: at dusk in a dark French forest a great stand of tall straight trees, one marked for felling; beside it, under a rough farmhouse shed, crude wooden carts spattered with mud, pigs nosing about them and hens roosting on them; a cold low sky. Quiet, ominous, no people in sight."
+  },
+  {
+   "tag": "tc-ch07",
+   "chapter": 7,
+   "cue": null,
+   "who": [
+    "jerry"
+   ],
+   "text": "London, 1780, a grey morning in Fleet Street by Temple Bar: outside the door of an old, cramped, dingy bank, a rough porter with stiff spiky hair sits on a wooden stool with a small boy beside him, the boy a copy of him, both watching the street; carriages, chairmen and crowds pass; the great stone arch of Temple Bar behind."
+  },
+  {
+   "tag": "tc-ch08",
+   "chapter": 8,
+   "cue": null,
+   "who": [
+    "darnay",
+    "lucie",
+    "manette",
+    "carton"
+   ],
+   "text": "The Old Bailey courtroom, 1780, crowded and close: the young prisoner stands composed in the dock, a mirror hung above him; packed benches of spectators lean forward; barristers in wigs and gowns below; among the witnesses a golden-haired young woman clings to the arm of a white-haired man; one young barrister lounges with his eyes on the ceiling. Grey light from high windows."
+  },
+  {
+   "tag": "tc-ch09",
+   "chapter": 9,
+   "cue": null,
+   "who": [
+    "carton",
+    "lucie"
+   ],
+   "text": "In the crowded Old Bailey courtroom, a careless young barrister in a wig and gown, who has seemed to look only at the ceiling, half rises and points as a golden-haired young woman swoons on the witness bench, her white-haired father catching her; heads turn; tense grey courtroom light."
+  },
+  {
+   "tag": "tc-ch10",
+   "chapter": 10,
+   "cue": null,
+   "who": [
+    "carton"
+   ],
+   "text": "Late at night in an old London tavern dining-room, one guttering candle on a table of empty bottles and glasses; a careless young man in a loose neckcloth sits alone, glass in hand, staring bitterly at his own reflection in a small dark mirror on the wall. Deep shadow, warm candlelight."
+  },
+  {
+   "tag": "tc-ch11",
+   "chapter": 11,
+   "cue": null,
+   "who": [
+    "carton",
+    "stryver"
+   ],
+   "text": "A barrister's chambers late at night, 1780, piled with papers and law books, a bowl of punch and a fire burning low: a slovenly young man with wet towels wrapped round his head works at a table full of papers by candlelight, while a stout red-faced barrister lolls on a sofa with his waistcoat open, glass in hand."
+  },
+  {
+   "tag": "tc-ch12",
+   "chapter": 12,
+   "cue": null,
+   "who": [
+    "lucie",
+    "manette",
+    "darnay",
+    "carton",
+    "lorry"
+   ],
+   "text": "A quiet corner of Soho, London, on a hot summer evening: a small courtyard with a great plane tree, its leaves rustling; under it a golden-haired young woman, her white-haired father, an elderly banker in a flaxen wig, and two young men sit on chairs; heavy thunder clouds gather over the rooftops and the first big drops begin to fall; a strange gloom. Wide view."
+  },
+  {
+   "tag": "tc-ch13",
+   "chapter": 13,
+   "cue": null,
+   "who": [
+    "marquis",
+    "defarge"
+   ],
+   "text": "Paris, a narrow street in Saint Antoine beside a stone fountain: a fine, fast carriage has pulled up; a haughty aristocrat with a face like a pale mask leans from its window and tosses a gold coin into the street; a ragged man kneels by the fountain over a small still bundle wrapped in cloth, grief-stricken; poor people crowd round in silence; a dark-haired wine-shop keeper stands by. Grey, tragic, restrained."
+  },
+  {
+   "tag": "tc-ch14",
+   "chapter": 14,
+   "cue": null,
+   "who": [
+    "marquis",
+    "mender"
+   ],
+   "text": "A French hillside road at sunset: a travelling carriage with four post-horses crests a steep hill, the sky blazing crimson so the occupant is steeped in red light; a haughty aristocrat looks out; at the roadside a poor mender of roads in a tattered blue cap stands with his cap off, pointing under the carriage; a poor village with a fountain and a church below. Horses lathered."
+  },
+  {
+   "tag": "tc-ch15",
+   "chapter": 15,
+   "cue": null,
+   "who": [],
+   "text": "A heavy stone château in the French countryside in early morning light: a great mass of stone, stone terraces and stone urns, and carved stone faces of lions and men staring from every wall and from the fountain; the château's people and villagers gather quietly in the courtyard below, frightened and whispering; a single bell rings. Cold, still, eerie."
+  },
+  {
+   "tag": "tc-ch16",
+   "chapter": 16,
+   "cue": null,
+   "who": [
+    "darnay",
+    "manette"
+   ],
+   "text": "A quiet Soho drawing-room in the evening: a young man earnestly tells an older white-haired man that he loves his daughter; the older man, in his reading chair with a book, has raised his hand as if to stop him, his face pale and troubled; warm lamplight, books, soft shadows."
+  },
+  {
+   "tag": "tc-ch17",
+   "chapter": 17,
+   "cue": null,
+   "who": [
+    "stryver",
+    "carton"
+   ],
+   "text": "A barrister's chambers late at night: a stout red-faced barrister stands boasting before the fire, thumbs in his waistcoat, announcing he will marry; a slovenly young man sprawls in a chair with his feet up and a glass of punch, looking at him with weary contempt. Firelight, punch bowl, papers."
+  },
+  {
+   "tag": "tc-ch18",
+   "chapter": 18,
+   "cue": null,
+   "who": [
+    "stryver",
+    "lorry"
+   ],
+   "text": "London, Fleet Street, a bright morning, 1780s: a stout, loud, red-faced barrister shoulders his way through the crowds and the traffic of carts and sedan chairs toward the narrow old door of a dingy bank, sure of himself; an elderly banker in a flaxen wig looks out anxiously from the window. Daylight, busy street life."
+  },
+  {
+   "tag": "tc-ch19",
+   "chapter": 19,
+   "cue": null,
+   "who": [
+    "carton",
+    "lucie"
+   ],
+   "text": "A Soho drawing-room on a summer afternoon: a careless young man, for once earnest, stands with his head bowed before a golden-haired young woman who sits weeping quietly at her work table; he speaks with deep feeling; soft daylight from a window, flowers, a sewing basket."
+  },
+  {
+   "tag": "tc-ch20",
+   "chapter": 20,
+   "cue": null,
+   "who": [
+    "jerry"
+   ],
+   "text": "Night in a lonely London churchyard, 1780s: three men with spades and a crowbar dig among the old gravestones by the light of a dark lantern; a small boy peers through the iron gate of the churchyard, terrified; a sliver of moon behind clouds; bare trees. Eerie, secretive."
+  },
+  {
+   "tag": "tc-ch21",
+   "chapter": 21,
+   "cue": null,
+   "who": [
+    "defarge",
+    "madame",
+    "mender"
+   ],
+   "text": "Versailles, 1780s, a sunny day: a great crowd at the gates of the palace as the gilded coach of the King and the Queen passes with outriders; a lean peasant in a tattered blue cap waves his cap and cheers wildly; beside him a dark-haired man and a stout woman with a bright shawl watch coolly, the woman knitting. Gardens, gold, fountains."
+  },
+  {
+   "tag": "tc-ch22",
+   "chapter": 22,
+   "cue": null,
+   "who": [
+    "madame"
+   ],
+   "text": "Inside a dark low Paris wine-shop: a stout woman behind the counter calmly knits, a rose pinned in her headdress; a well-dressed stranger with a smiling, sneering face leans on the counter talking to her; the regular customers have quietly drifted out of the door. Shadowy, grey daylight."
+  },
+  {
+   "tag": "tc-ch23",
+   "chapter": 23,
+   "cue": null,
+   "who": [
+    "lucie",
+    "manette"
+   ],
+   "text": "A Soho courtyard on a bright moonlit summer night: under the great plane tree a golden-haired young woman sits with her white-haired father, her arm through his, her head on his shoulder, on the eve of her wedding; moonlight through the leaves; a tender quiet. Night, silvery moonlight."
+  },
+  {
+   "tag": "tc-ch24",
+   "chapter": 24,
+   "cue": null,
+   "who": [
+    "lorry",
+    "manette",
+    "pross"
+   ],
+   "text": "A quiet room in a Soho house in pale morning light: a white-haired gentleman sits on a low shoemaker's bench with his back to the window, bent over a shoe, lost to the world; an elderly banker in a flaxen wig and a tall red-haired woman look on from the doorway in dismay. Muted, sad."
+  },
+  {
+   "tag": "tc-ch25",
+   "chapter": 25,
+   "cue": null,
+   "who": [
+    "lorry",
+    "pross"
+   ],
+   "text": "Night in a kitchen in Soho: an elderly banker in a flaxen wig, with a hatchet, has broken up a shoemaker's bench, and he and a tall red-haired woman feed the pieces into the kitchen fire, glancing over their shoulders like accomplices in a crime; firelight on their faces, a single candle. Half comic, half guilty."
+  },
+  {
+   "tag": "tc-ch26",
+   "chapter": 26,
+   "cue": null,
+   "who": [
+    "lucie",
+    "darnay"
+   ],
+   "text": "A Soho drawing-room by firelight late at night: a young wife with golden hair, her head resting against her husband's breast, looks up at him and pleads earnestly for a friend; the husband, a young dark-haired man, looks down at her moved. Warm, intimate firelight."
+  },
+  {
+   "tag": "tc-ch27",
+   "chapter": 27,
+   "cue": null,
+   "who": [
+    "defarge",
+    "madame"
+   ],
+   "text": "Paris, 14 July 1789: the storming of the Bastille: a great roaring crowd surges against the immense dark stone towers of the fortress under a sky thick with smoke; muskets, pikes, flags; the drawbridge coming down; a dark-haired man in shirtsleeves leads the rush at the front; a stout woman among them. Epic, chaotic, smoke and sunlight."
+  },
+  {
+   "tag": "tc-ch28",
+   "chapter": 28,
+   "cue": null,
+   "who": [
+    "madame"
+   ],
+   "text": "Paris, the streets of Saint Antoine in 1789: a roaring sea of people floods a narrow street, women in the front, wild-haired, shrieking, beating drums, waving pikes and knives; a stout woman with a bright shawl strides at their head, cold and composed; a woman beside her beats a drum. Fierce, overwhelming."
+  },
+  {
+   "tag": "tc-ch29",
+   "chapter": 29,
+   "cue": null,
+   "who": [
+    "mender"
+   ],
+   "text": "Night in the French countryside: a great stone château on fire, flames pouring from every window and the stone faces lit red; the villagers stand silent in the village street below by the fountain, watching, doing nothing; a mender of roads in a blue cap among them; sparks fly into a black sky; horsemen ride away. Spectacular firelight."
+  },
+  {
+   "tag": "tc-ch30",
+   "chapter": 30,
+   "cue": null,
+   "who": [
+    "darnay",
+    "lorry"
+   ],
+   "text": "Inside an old London bank in 1792, crowded with French émigré nobles in rich coats talking loudly by the fire: a young dark-haired man stands apart by a window, reading a letter with a grave face; an elderly banker in a flaxen wig watches him. Grey daylight."
+  },
+  {
+   "tag": "tc-ch31",
+   "chapter": 31,
+   "cue": null,
+   "who": [
+    "darnay"
+   ],
+   "text": "France, autumn 1792, a wet night on a muddy country road: a young traveller rides under escort between two mounted patriots in red caps and tricolour cockades, armed with muskets; rain, a lantern at a town gate ahead with a barrier and soldiers. Horses splashing, menace."
+  },
+  {
+   "tag": "tc-ch32",
+   "chapter": 32,
+   "cue": null,
+   "who": [
+    "lorry"
+   ],
+   "text": "Paris, 1792, at night, a courtyard seen from an upper window: a wild crowd in torchlight gathers round a great grindstone, two men turning its handles; others push forward to sharpen hatchets and swords, their faces and arms streaked red and wild; an elderly banker in a flaxen wig looks down in horror from the window. Lurid torchlight, sparks."
+  },
+  {
+   "tag": "tc-ch33",
+   "chapter": 33,
+   "cue": null,
+   "who": [
+    "madame",
+    "lucie"
+   ],
+   "text": "A Paris lodging room, 1792: a golden-haired young mother kneels and clasps her hands in a plea, her small daughter beside her, before a stout woman in a shawl who looks down coldly, knitting needles in hand; two others stand behind her; her dark shadow falls across the mother and child. Cold grey light, chilling."
+  },
+  {
+   "tag": "tc-ch34",
+   "chapter": 34,
+   "cue": null,
+   "who": [
+    "manette"
+   ],
+   "text": "Paris in the Terror, 1793: a tall upright white-haired doctor walks calmly through a crowded square, the people making way for him with respect; in the distance, above the crowd, a tall dark wooden scaffold stands against a pale sky; tricolour flags, red caps. Quiet authority in a wild city."
+  },
+  {
+   "tag": "tc-ch35",
+   "chapter": 35,
+   "cue": null,
+   "who": [
+    "lucie",
+    "mender"
+   ],
+   "text": "A snowy Paris street corner in winter, 1793: a slight young woman with golden hair stands alone in the falling snow, looking up toward a high barred window in a dark prison wall; nearby a little wood-sawyer in a red cap saws logs in the doorway of his hut. Snow, silence, longing."
+  },
+  {
+   "tag": "tc-ch36",
+   "chapter": 36,
+   "cue": null,
+   "who": [
+    "darnay",
+    "lucie"
+   ],
+   "text": "Paris, 1793, a street at evening: a shouting, dancing crowd in red caps carries a young dark-haired man shoulder-high in a great chair through the streets in triumph, torches and tricolour flags around him; at a doorway a golden-haired young wife waits to fall into his arms. Wild joy with a dark edge."
+  },
+  {
+   "tag": "tc-ch37",
+   "chapter": 37,
+   "cue": null,
+   "who": [
+    "darnay",
+    "lucie"
+   ],
+   "text": "Night in a Paris lodging, 1793: four rough men in red caps with sabres and pistols stand in the doorway with a lantern; a young dark-haired man rises from the fireside to meet them; his golden-haired wife clings to him in terror; a child asleep. Lamplight, menace."
+  },
+  {
+   "tag": "tc-ch38",
+   "chapter": 38,
+   "cue": null,
+   "who": [
+    "pross",
+    "carton",
+    "jerry"
+   ],
+   "text": "Inside a smoky Paris wine-shop, 1793: a tall red-haired Englishwoman in an odd bonnet has flung her arms round a startled, shifty man in a spy's dark coat, crying out; a rough porter with spiky hair stares; a young man in a plain dark coat steps forward from the shadows. Tense, dramatic."
+  },
+  {
+   "tag": "tc-ch39",
+   "chapter": 39,
+   "cue": null,
+   "who": [
+    "carton"
+   ],
+   "text": "Paris at night, 1793: a solitary young man in a plain dark coat stands on a stone bridge over the Seine in the moonlight, looking down at the dark water, the towers of Notre-Dame and the old city behind him; deep calm, a sense of resolve. Moonlit night."
+  },
+  {
+   "tag": "tc-ch40",
+   "chapter": 40,
+   "cue": null,
+   "who": [],
+   "text": "A cell in the Bastille, 1767: a young doctor in a plain dark coat sits on a stone bench in a dim stone cell lit by grey light from a high barred slit, secretly writing on a paper with a scrap of iron; a loose stone in the chimney behind him. Solitary, grim, quiet."
+  },
+  {
+   "tag": "tc-ch41",
+   "chapter": 41,
+   "cue": null,
+   "who": [
+    "carton",
+    "lucie"
+   ],
+   "text": "Dusk outside the Conciergerie prison in Paris: a young man in a plain dark coat carries a fainted golden-haired young woman in his arms toward a waiting coach; a small child clings to her skirt; an old doctor follows; red sunset fading behind the prison towers."
+  },
+  {
+   "tag": "tc-ch42",
+   "chapter": 42,
+   "cue": null,
+   "who": [
+    "carton"
+   ],
+   "text": "Night in Paris, 1793: inside a small dim chemist's shop, a young man in a plain dark coat waits as an old chemist by a single lamp measures out small powders into papers; jars and bottles on shelves; deep shadows."
+  },
+  {
+   "tag": "tc-ch43",
+   "chapter": 43,
+   "cue": null,
+   "who": [
+    "carton",
+    "darnay"
+   ],
+   "text": "A Paris prison cell, 1793, grey light from a high window: two young men who look exactly alike: one in a plain dark coat stands dictating, the other sits at a small table writing a letter, dazed; a jailer at the door. Tense, hushed."
+  },
+  {
+   "tag": "tc-ch44",
+   "chapter": 44,
+   "cue": null,
+   "who": [
+    "pross",
+    "madame"
+   ],
+   "text": "A Paris apartment, 1793: a tall red-haired Englishwoman grapples with a stout Frenchwoman in a shawl, holding her fast round the waist with all her strength in the doorway; the Frenchwoman struggles; furniture knocked over; a bright window behind. Fierce struggle, no weapons shown."
+  },
+  {
+   "tag": "tc-ch45",
+   "chapter": 45,
+   "cue": null,
+   "who": [
+    "carton"
+   ],
+   "text": "Paris, 1793: a slow line of tumbrils, rough wooden carts, rolls through a crowded street toward the square; in one cart a young man in a plain dark coat holds the hand of a frail young seamstress, both calm; knitting women sit in chairs to watch; the crowd quietens. Late afternoon, solemn and grand."
+  }
+ ]
+}

@@ -181,13 +181,14 @@
       "under_stockade": "score-under-stockade.mp3",
       "under_hunt": "score-under-hunt.mp3",
       "under_home": "score-under-home.mp3",
-      "overture_dutchman": "score-dutchman-overture.mp3",
+      "overture_dutchman": "score-dutchman-overture-v2.mp3",
       "mood_calm_sea": "score-mood-calm-sea.mp3",
       "mood_voyage": "score-mood-voyage.mp3",
       "mood_unease": "score-mood-unease.mp3",
       "mood_dread": "score-mood-dread.mp3",
       "mood_sorrow": "score-mood-sorrow.mp3",
-      "mood_home": "score-mood-home.mp3"
+      "mood_home": "score-mood-home.mp3",
+      "mood_voyage_yoho": "score-mood-voyage-yoho.mp3"
     },
     "levels": {
       "dread": 0.26,
@@ -207,7 +208,8 @@
       "mood_unease": 0.38,
       "mood_dread": 0.38,
       "mood_sorrow": 0.38,
-      "mood_home": 0.38
+      "mood_home": 0.38,
+      "mood_voyage_yoho": 0.38
     },
     "breath": {
       "note": "14 Nov 2026: the score ebbs and flows under the voice, as in Dracula.",

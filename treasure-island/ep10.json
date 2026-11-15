@@ -134,7 +134,11 @@
    "para": 6,
    "role": "Long John Silver",
    "cast": "Richard III of England",
-   "text": "“Fifteen men on the dead man’s chest--”"
+   "text": "“Fifteen men on the dead man’s chest--”",
+   "score": {
+    "key": "mood_voyage_yoho",
+    "xfade": 4
+   }
   },
   {
    "n": 9,
@@ -214,7 +218,11 @@
      "at": "good ship, the crew",
      "by": "place-players"
     }
-   ]
+   ],
+   "score": {
+    "key": "mood_calm_sea",
+    "xfade": 10
+   }
   },
   {
    "n": 14,

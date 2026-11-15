@@ -68,7 +68,13 @@
    "para": 5,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Thus it had come to pass, that Tellson’s was the triumphant perfection\nof inconvenience. After bursting open a door of idiotic obstinacy with\na weak rattle in its throat, you fell into Tellson’s down two steps,\nand came to your senses in a miserable little shop, with two little\ncounters, where the oldest of men made your cheque shake as if the\nwind rustled it, while they examined the signature by the dingiest of\nwindows, which were always under a shower-bath of mud from Fleet-street,\nand which were made the dingier by their own iron bars proper, and the\nheavy shadow of Temple Bar. If your business necessitated your seeing"
+   "text": "Thus it had come to pass, that Tellson’s was the triumphant perfection\nof inconvenience. After bursting open a door of idiotic obstinacy with\na weak rattle in its throat, you fell into Tellson’s down two steps,\nand came to your senses in a miserable little shop, with two little\ncounters, where the oldest of men made your cheque shake as if the\nwind rustled it, while they examined the signature by the dingiest of\nwindows, which were always under a shower-bath of mud from Fleet-street,\nand which were made the dingier by their own iron bars proper, and the\nheavy shadow of Temple Bar. If your business necessitated your seeing",
+   "sfx": [
+    {
+     "key": "door_open",
+     "at": "with a weak rattle in its throat"
+    }
+   ]
   },
   {
    "n": 7,
@@ -110,7 +116,9 @@
    "para": 9,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The scene was Mr. Cruncher’s private lodging in Hanging-sword-alley,\nWhitefriars: the time, half-past seven of the clock on a windy March\nmorning, Anno Domini seventeen hundred and eighty. (Mr. Cruncher himself\nalways spoke of the year of our Lord as Anna Dominoes: apparently under\nthe impression that the Christian era dated from the invention of a\npopular game, by a lady who had bestowed her name upon it.)"
+   "text": "The scene was Mr. Cruncher’s private lodging in Hanging-sword-alley,\nWhitefriars: the time, half-past seven of the clock on a windy March\nmorning, Anno Domini seventeen hundred and eighty. (Mr. Cruncher himself\nalways spoke of the year of our Lord as Anna Dominoes: apparently under\nthe impression that the Christian era dated from the invention of a\npopular game, by a lady who had bestowed her name upon it.)",
+   "bed": "cruncher",
+   "state": 1
   },
   {
    "n": 13,
@@ -390,7 +398,9 @@
    "para": 30,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Exceedingly red-eyed and grim, as if he had been up all night at a party\nwhich had taken anything but a convivial turn, Jerry Cruncher worried\nhis breakfast rather than ate it, growling over it like any four-footed\ninmate of a menagerie. Towards nine o’clock he smoothed his ruffled\naspect, and, presenting as respectable and business-like an exterior as\nhe could overlay his natural self with, issued forth to the occupation\nof the day."
+   "text": "Exceedingly red-eyed and grim, as if he had been up all night at a party\nwhich had taken anything but a convivial turn, Jerry Cruncher worried\nhis breakfast rather than ate it, growling over it like any four-footed\ninmate of a menagerie. Towards nine o’clock he smoothed his ruffled\naspect, and, presenting as respectable and business-like an exterior as\nhe could overlay his natural self with, issued forth to the occupation\nof the day.",
+   "bed": "fleet_street",
+   "state": 1
   },
   {
    "n": 53,

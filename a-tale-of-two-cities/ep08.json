@@ -326,7 +326,9 @@
    "para": 24,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They hanged at Tyburn, in those days, so the street outside Newgate had\nnot obtained one infamous notoriety that has since attached to it.\nBut, the gaol was a vile place, in which most kinds of debauchery and\nvillainy were practised, and where dire diseases were bred, that came\ninto court with the prisoners, and sometimes rushed straight from the\ndock at my Lord Chief Justice himself, and pulled him off the bench. It\nhad more than once happened, that the Judge in the black cap pronounced\nhis own doom as certainly as the prisoner’s, and even died before him.\nFor the rest, the Old Bailey was famous as a kind of deadly inn-yard,\nfrom which pale travellers set out continually, in carts and coaches, on\na violent passage into the other world: traversing some two miles and a\nhalf of public street and road, and shaming few good citizens, if any.\nSo powerful is use, and so desirable to be good use in the beginning. It\nwas famous, too, for the pillory, a wise old institution, that inflicted\na punishment of which no one could foresee the extent; also, for\nthe whipping-post, another dear old institution, very humanising and\nsoftening to behold in action; also, for extensive transactions in\nblood-money, another fragment of ancestral wisdom, systematically\nleading to the most frightful mercenary crimes that could be committed\nunder Heaven. Altogether, the Old Bailey, at that date, was a choice\nillustration of the precept, that"
+   "text": "They hanged at Tyburn, in those days, so the street outside Newgate had\nnot obtained one infamous notoriety that has since attached to it.\nBut, the gaol was a vile place, in which most kinds of debauchery and\nvillainy were practised, and where dire diseases were bred, that came\ninto court with the prisoners, and sometimes rushed straight from the\ndock at my Lord Chief Justice himself, and pulled him off the bench. It\nhad more than once happened, that the Judge in the black cap pronounced\nhis own doom as certainly as the prisoner’s, and even died before him.\nFor the rest, the Old Bailey was famous as a kind of deadly inn-yard,\nfrom which pale travellers set out continually, in carts and coaches, on\na violent passage into the other world: traversing some two miles and a\nhalf of public street and road, and shaming few good citizens, if any.\nSo powerful is use, and so desirable to be good use in the beginning. It\nwas famous, too, for the pillory, a wise old institution, that inflicted\na punishment of which no one could foresee the extent; also, for\nthe whipping-post, another dear old institution, very humanising and\nsoftening to behold in action; also, for extensive transactions in\nblood-money, another fragment of ancestral wisdom, systematically\nleading to the most frightful mercenary crimes that could be committed\nunder Heaven. Altogether, the Old Bailey, at that date, was a choice\nillustration of the precept, that",
+   "bed": "fleet_street",
+   "state": 2
   },
   {
    "n": 45,
@@ -354,7 +356,15 @@
    "para": 26,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "After some delay and demur, the door grudgingly turned on its hinges a\nvery little way, and allowed Mr. Jerry Cruncher to squeeze himself into\ncourt."
+   "text": "After some delay and demur, the door grudgingly turned on its hinges a\nvery little way, and allowed Mr. Jerry Cruncher to squeeze himself into\ncourt.",
+   "bed": "court",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "door_open",
+     "at": "the door grudgingly turned on its hinges"
+    }
+   ]
   },
   {
    "n": 49,
@@ -515,7 +525,8 @@
    "para": 40,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The entrance of the Judge, and a consequent great stir and settling\ndown in the court, stopped the dialogue. Presently, the dock became the\ncentral point of interest. Two gaolers, who had been standing there,\nwent out, and the prisoner was brought in, and put to the bar."
+   "text": "The entrance of the Judge, and a consequent great stir and settling\ndown in the court, stopped the dialogue. Presently, the dock became the\ncentral point of interest. Two gaolers, who had been standing there,\nwent out, and the prisoner was brought in, and put to the bar.",
+   "state": 2
   },
   {
    "n": 72,
@@ -543,7 +554,8 @@
    "para": 44,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Silence in the court! Charles Darnay had yesterday pleaded Not Guilty to\nan indictment denouncing him (with infinite jingle and jangle) for that\nhe was a false traitor to our serene, illustrious, excellent, and so\nforth, prince, our Lord the King, by reason of his having, on divers\noccasions, and by divers means and ways, assisted Lewis, the French\nKing, in his wars against our said serene, illustrious, excellent, and\nso forth; that was to say, by coming and going, between the dominions of\nour said serene, illustrious, excellent, and so forth, and those of the\nsaid French Lewis, and wickedly, falsely, traitorously, and otherwise\nevil-adverbiously, revealing to the said French Lewis what forces our\nsaid serene, illustrious, excellent, and so forth, had in preparation\nto send to Canada and North America. This much, Jerry, with his head\nbecoming more and more spiky as the law terms bristled it, made out with\nhuge satisfaction, and so arrived circuitously at the understanding that\nthe aforesaid, and over and over again aforesaid, Charles Darnay, stood\nthere before him upon his trial; that the jury were swearing in; and\nthat Mr. Attorney-General was making ready to speak."
+   "text": "Silence in the court! Charles Darnay had yesterday pleaded Not Guilty to\nan indictment denouncing him (with infinite jingle and jangle) for that\nhe was a false traitor to our serene, illustrious, excellent, and so\nforth, prince, our Lord the King, by reason of his having, on divers\noccasions, and by divers means and ways, assisted Lewis, the French\nKing, in his wars against our said serene, illustrious, excellent, and\nso forth; that was to say, by coming and going, between the dominions of\nour said serene, illustrious, excellent, and so forth, and those of the\nsaid French Lewis, and wickedly, falsely, traitorously, and otherwise\nevil-adverbiously, revealing to the said French Lewis what forces our\nsaid serene, illustrious, excellent, and so forth, had in preparation\nto send to Canada and North America. This much, Jerry, with his head\nbecoming more and more spiky as the law terms bristled it, made out with\nhuge satisfaction, and so arrived circuitously at the understanding that\nthe aforesaid, and over and over again aforesaid, Charles Darnay, stood\nthere before him upon his trial; that the jury were swearing in; and\nthat Mr. Attorney-General was making ready to speak.",
+   "state": 3
   },
   {
    "n": 76,

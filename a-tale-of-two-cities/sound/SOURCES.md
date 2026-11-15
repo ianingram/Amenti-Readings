@@ -44,3 +44,26 @@ The book's theme, "Recalled to Life", is a rising four-note figure carried by th
 
 ## Short endings (`tools/splice.py`, 15 Nov 2026)
 `tc-chNN-cueNNN-v1.mp3` are the cast voice, re-rendered inside a longer clause (`tools/sampler/tc-fixes-b1.json`), cut back to the book's words, spliced to the cached pieces and checked by transcription.
+
+## Book the Second, chapters 7–18 (15 Nov 2026)
+Rooms built for this book (`build-rooms-b2.py`), all BigSoundBank (CC0):
+- **fleet-street.mp3**: #0610 and #0611 (hoof strikes, set at a walk going by), #1316 (wheels), #2968 and #2969 (people talking outdoors), #1318 (steps).
+- **old-bailey.mp3**: #3515 and #3516 (a crowd of 50–60 people indoors), given a high hall's reverb.
+- **soho-corner.mp3**: #0659 (wind in a tree), #1859 (evening birds), the Fleet Street room far off.
+- **storm.mp3**: #1019 (summer rain on a terrace), #0740 (rain and storm), #2719 (storm and rain: the thunder rolls).
+- **after-rain.mp3**: #0555 (night after rain), #1384 and #1385 (drops of water).
+- **salon.mp3**: #3516 and #3515 (the crowd), #0472 and #1205 (glasses).
+- **paris-fountain.mp3**: the Fleet Street room and #0913 (a fountain).
+- **coach-dusk.mp3**: Book the First's `coach-night.mp3` and #1859 (evening birds).
+- **village-evening.mp3**: #0913 (the fountain), #1859 (birds), #2968/#2969 far off.
+- **chateau-night.mp3**: #1386 and #1387 (drops: the fountain into its stone basin), #0429 and #1400 (owls), #0425 and #0426 (night insects), #0315 (birds at night).
+- **chateau-dawn.mp3**: #0222 and #0999 (birds waking), #0913.
+
+One-shots built for this book (`build-oneshots-b2.py`), BigSoundBank (CC0):
+- **hand-bell.mp3** #0292 · **church-one.mp3** #3446 · **thunder-far.mp3** #3114 · **thunder-crash.mp3** #3116 · **rain-drops.mp3** #1384, #1385 · **steps-echo.mp3**, **steps-rush.mp3** #1318, #1319 (the echoing corner) · **chateau-bell.mp3** #0135 · **owl.mp3** #0429 · **horses-stable.mp3** #0289 · **coin.mp3** #0193.
+
+Borrowed by URL:
+- A Christmas Carol: `bed-counting-house-v2.mp3` (Tellson's), `bed-chambers-v2.mp3` (Stryver's chambers), the tavern, the yard (Mr. Cruncher's lodging), the street (London at night), the door-bell, the poker in the fire.
+- Dracula: the wind (dawn by the river), the glass breaking, the heavy door, the horse's neigh.
+
+Score (`build-moods.py`, VSCO 2 CE, CC0): **score-bailey.mp3** (the Old Bailey), **score-carton.mp3** (Sydney Carton), **score-monseigneur.mp3** (Monseigneur and the Marquis).

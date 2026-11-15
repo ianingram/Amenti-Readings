@@ -71,14 +71,22 @@
    "para": 6,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "His way taking him past Tellson’s, and he both banking at Tellson’s and\nknowing Mr. Lorry as the intimate friend of the Manettes, it entered Mr.\nStryver’s mind to enter the bank, and reveal to Mr. Lorry the brightness\nof the Soho horizon. So, he pushed open the door with the weak rattle\nin its throat, stumbled down the two steps, got past the two ancient\ncashiers, and shouldered himself into the musty back closet where Mr.\nLorry sat at great books ruled for figures, with perpendicular iron\nbars to his window as if that were ruled for figures too, and everything\nunder the clouds were a sum."
+   "text": "His way taking him past Tellson’s, and he both banking at Tellson’s and\nknowing Mr. Lorry as the intimate friend of the Manettes, it entered Mr.\nStryver’s mind to enter the bank, and reveal to Mr. Lorry the brightness\nof the Soho horizon. So, he pushed open the door with the weak rattle\nin its throat, stumbled down the two steps, got past the two ancient\ncashiers, and shouldered himself into the musty back closet where Mr.\nLorry sat at great books ruled for figures, with perpendicular iron\nbars to his window as if that were ruled for figures too, and everything\nunder the clouds were a sum.",
+   "sfx": [
+    {
+     "key": "door_open",
+     "at": "he pushed open the door with the weak rattle in its throat"
+    }
+   ]
   },
   {
    "n": 8,
    "para": 7,
    "role": "Stryver",
    "cast": "Pompey",
-   "text": "“Halloa!”"
+   "text": "“Halloa!”",
+   "bed": "tellsons",
+   "state": 1
   },
   {
    "n": 9,
@@ -869,7 +877,13 @@
    "para": 56,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Accordingly, when Mr. Lorry called that night as late as ten o’clock,\nMr. Stryver, among a quantity of books and papers littered out for the\npurpose, seemed to have nothing less on his mind than the subject of\nthe morning. He even showed surprise when he saw Mr. Lorry, and was\naltogether in an absent and preoccupied state."
+   "text": "Accordingly, when Mr. Lorry called that night as late as ten o’clock,\nMr. Stryver, among a quantity of books and papers littered out for the\npurpose, seemed to have nothing less on his mind than the subject of\nthe morning. He even showed surprise when he saw Mr. Lorry, and was\naltogether in an absent and preoccupied state.",
+   "bed": "chambers",
+   "state": 1,
+   "score": {
+    "key": "carton",
+    "xfade": 8
+   }
   },
   {
    "n": 122,
@@ -1044,7 +1058,15 @@
    "para": 66,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Mr. Lorry was out in the night, before he knew where he was. Mr. Stryver\nwas lying back on his sofa, winking at his ceiling."
+   "text": "Mr. Lorry was out in the night, before he knew where he was. Mr. Stryver\nwas lying back on his sofa, winking at his ceiling.",
+   "bed": "london_night",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "Mr. Lorry was out in the night"
+    }
+   ]
   }
  ]
 }

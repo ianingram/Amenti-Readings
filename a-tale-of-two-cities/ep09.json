@@ -74,14 +74,16 @@
    "para": 3,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "When the Attorney-General ceased, a buzz arose in the court as if\na cloud of great blue-flies were swarming about the prisoner, in\nanticipation of what he was soon to become. When toned down again, the\nunimpeachable patriot appeared in the witness-box."
+   "text": "When the Attorney-General ceased, a buzz arose in the court as if\na cloud of great blue-flies were swarming about the prisoner, in\nanticipation of what he was soon to become. When toned down again, the\nunimpeachable patriot appeared in the witness-box.",
+   "state": 2
   },
   {
    "n": 5,
    "para": 4,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Mr. Solicitor-General then, following his leader’s lead, examined the\npatriot: John Barsad, gentleman, by name. The story of his pure soul was\nexactly what Mr. Attorney-General had described it to be--perhaps, if\nit had a fault, a little too exactly. Having released his noble bosom\nof its burden, he would have modestly withdrawn himself, but that the\nwigged gentleman with the papers before him, sitting not far from Mr.\nLorry, begged to ask him a few questions. The wigged gentleman sitting\nopposite, still looking at the ceiling of the court."
+   "text": "Mr. Solicitor-General then, following his leader’s lead, examined the\npatriot: John Barsad, gentleman, by name. The story of his pure soul was\nexactly what Mr. Attorney-General had described it to be--perhaps, if\nit had a fault, a little too exactly. Having released his noble bosom\nof its burden, he would have modestly withdrawn himself, but that the\nwigged gentleman with the papers before him, sitting not far from Mr.\nLorry, begged to ask him a few questions. The wigged gentleman sitting\nopposite, still looking at the ceiling of the court.",
+   "state": 3
   },
   {
    "n": 6,
@@ -879,7 +881,8 @@
    "para": 105,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "There was much commiseration for her as she was removed, and much\nsympathy with her father. It had evidently been a great distress to\nhim, to have the days of his imprisonment recalled. He had shown\nstrong internal agitation when he was questioned, and that pondering or\nbrooding look which made him old, had been upon him, like a heavy cloud,\never since. As he passed out, the jury, who had turned back and paused a\nmoment, spoke, through their foreman."
+   "text": "There was much commiseration for her as she was removed, and much\nsympathy with her father. It had evidently been a great distress to\nhim, to have the days of his imprisonment recalled. He had shown\nstrong internal agitation when he was questioned, and that pondering or\nbrooding look which made him old, had been upon him, like a heavy cloud,\never since. As he passed out, the jury, who had turned back and paused a\nmoment, spoke, through their foreman.",
+   "state": 1
   },
   {
    "n": 120,
@@ -1033,7 +1036,8 @@
    "para": 125,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "An hour and a half limped heavily away in the thief-and-rascal crowded\npassages below, even though assisted off with mutton pies and ale.\nThe hoarse messenger, uncomfortably seated on a form after taking that\nrefection, had dropped into a doze, when a loud murmur and a rapid tide\nof people setting up the stairs that led to the court, carried him along\nwith them."
+   "text": "An hour and a half limped heavily away in the thief-and-rascal crowded\npassages below, even though assisted off with mutton pies and ale.\nThe hoarse messenger, uncomfortably seated on a form after taking that\nrefection, had dropped into a doze, when a loud murmur and a rapid tide\nof people setting up the stairs that led to the court, carried him along\nwith them.",
+   "state": 4
   },
   {
    "n": 142,
@@ -1117,7 +1121,9 @@
    "para": 132,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He had no opportunity of saying, or so much as thinking, anything else,\nuntil he was clear of the Old Bailey; for, the crowd came pouring out\nwith a vehemence that nearly took him off his legs, and a loud buzz\nswept into the street as if the baffled blue-flies were dispersing in\nsearch of other carrion."
+   "text": "He had no opportunity of saying, or so much as thinking, anything else,\nuntil he was clear of the Old Bailey; for, the crowd came pouring out\nwith a vehemence that nearly took him off his legs, and a loud buzz\nswept into the street as if the baffled blue-flies were dispersing in\nsearch of other carrion.",
+   "bed": "fleet_street",
+   "state": 2
   }
  ]
 }

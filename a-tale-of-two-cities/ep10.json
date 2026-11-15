@@ -59,7 +59,11 @@
    "para": 2,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "From the dimly-lighted passages of the court, the last sediment of the\nhuman stew that had been boiling there all day, was straining off, when\nDoctor Manette, Lucie Manette, his daughter, Mr. Lorry, the solicitor\nfor the defence, and its counsel, Mr. Stryver, stood gathered round Mr.\nCharles Darnay--just released--congratulating him on his escape from\ndeath."
+   "text": "From the dimly-lighted passages of the court, the last sediment of the\nhuman stew that had been boiling there all day, was straining off, when\nDoctor Manette, Lucie Manette, his daughter, Mr. Lorry, the solicitor\nfor the defence, and its counsel, Mr. Stryver, stood gathered round Mr.\nCharles Darnay--just released--congratulating him on his escape from\ndeath.",
+   "score": {
+    "key": null,
+    "xfade": 6
+   }
   },
   {
    "n": 4,
@@ -283,14 +287,27 @@
    "para": 19,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The friends of the acquitted prisoner had dispersed, under the\nimpression--which he himself had originated--that he would not be\nreleased that night. The lights were nearly all extinguished in the\npassages, the iron gates were being closed with a jar and a rattle,\nand the dismal place was deserted until to-morrow morning’s interest of\ngallows, pillory, whipping-post, and branding-iron, should repeople it.\nWalking between her father and Mr. Darnay, Lucie Manette passed into\nthe open air. A hackney-coach was called, and the father and daughter\ndeparted in it."
+   "text": "The friends of the acquitted prisoner had dispersed, under the\nimpression--which he himself had originated--that he would not be\nreleased that night. The lights were nearly all extinguished in the\npassages, the iron gates were being closed with a jar and a rattle,\nand the dismal place was deserted until to-morrow morning’s interest of\ngallows, pillory, whipping-post, and branding-iron, should repeople it.\nWalking between her father and Mr. Darnay, Lucie Manette passed into\nthe open air. A hackney-coach was called, and the father and daughter\ndeparted in it.",
+   "bed": "london_night",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "door_clang",
+     "at": "closed with a jar and a rattle"
+    }
+   ]
   },
   {
    "n": 36,
    "para": 20,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Mr. Stryver had left them in the passages, to shoulder his way back\nto the robing-room. Another person, who had not joined the group, or\ninterchanged a word with any one of them, but who had been leaning\nagainst the wall where its shadow was darkest, had silently strolled\nout after the rest, and had looked on until the coach drove away. He now\nstepped up to where Mr. Lorry and Mr. Darnay stood upon the pavement."
+   "text": "Mr. Stryver had left them in the passages, to shoulder his way back\nto the robing-room. Another person, who had not joined the group, or\ninterchanged a word with any one of them, but who had been leaning\nagainst the wall where its shadow was darkest, had silently strolled\nout after the rest, and had looked on until the coach drove away. He now\nstepped up to where Mr. Lorry and Mr. Darnay stood upon the pavement.",
+   "score": {
+    "key": "carton",
+    "xfade": 8,
+    "at": "Another person, who had not joined the group"
+   }
   },
   {
    "n": 37,
@@ -514,7 +531,9 @@
    "para": 39,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Drawing his arm through his own, he took him down Ludgate-hill to\nFleet-street, and so, up a covered way, into a tavern. Here, they were\nshown into a little room, where Charles Darnay was soon recruiting\nhis strength with a good plain dinner and good wine: while Carton sat\nopposite to him at the same table, with his separate bottle of port\nbefore him, and his fully half-insolent manner upon him."
+   "text": "Drawing his arm through his own, he took him down Ludgate-hill to\nFleet-street, and so, up a covered way, into a tavern. Here, they were\nshown into a little room, where Charles Darnay was soon recruiting\nhis strength with a good plain dinner and good wine: while Carton sat\nopposite to him at the same table, with his separate bottle of port\nbefore him, and his fully half-insolent manner upon him.",
+   "bed": "tavern",
+   "state": 1
   },
   {
    "n": 69,
@@ -612,7 +631,17 @@
    "para": 51,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Looking his companion full in the face while he drank the toast, Carton\nflung his glass over his shoulder against the wall, where it shivered to\npieces; then, rang the bell, and ordered in another."
+   "text": "Looking his companion full in the face while he drank the toast, Carton\nflung his glass over his shoulder against the wall, where it shivered to\npieces; then, rang the bell, and ordered in another.",
+   "sfx": [
+    {
+     "key": "glass_smash",
+     "at": "where it shivered to pieces"
+    },
+    {
+     "key": "hand_bell",
+     "at": "then, rang the bell"
+    }
+   ]
   },
   {
    "n": 83,
@@ -780,7 +809,13 @@
    "para": 65,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "pursued Darnay, rising to ring the bell,"
+   "text": "pursued Darnay, rising to ring the bell,",
+   "sfx": [
+    {
+     "key": "hand_bell",
+     "at": "rising to ring the bell"
+    }
+   ]
   },
   {
    "n": 107,
@@ -892,7 +927,8 @@
    "para": 74,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "When he was left alone, this strange being took up a candle, went to a\nglass that hung against the wall, and surveyed himself minutely in it."
+   "text": "When he was left alone, this strange being took up a candle, went to a\nglass that hung against the wall, and surveyed himself minutely in it.",
+   "state": 2
   },
   {
    "n": 123,

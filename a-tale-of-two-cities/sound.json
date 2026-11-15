@@ -1,8 +1,8 @@
 {
   "_file": "a-tale-of-two-cities/sound.json",
-  "_updated": "2026-11-14",
+  "_updated": "2026-11-15",
   "work": "a-tale-of-two-cities",
-  "note": "Book the First: rooms, sounds on the words and score placed (14 Nov 2026).",
+  "note": "Book the First (14 Nov 2026) and Book the Second ch 7-18 (15 Nov 2026): rooms, sounds on the words and score placed.",
   "files": {
     "base": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/",
     "beds": {
@@ -14,7 +14,24 @@
       "wine_shop": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-tavern-v2.mp3",
       "stair": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-yard-v2.mp3",
       "garret": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-yard-v2.mp3",
-      "paris_night": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-street-fog-v2.mp3"
+      "paris_night": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-street-fog-v2.mp3",
+      "tellsons": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-counting-house-v2.mp3",
+      "cruncher": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-yard-v2.mp3",
+      "fleet_street": "fleet-street.mp3",
+      "court": "old-bailey.mp3",
+      "london_night": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-street-fog-v2.mp3",
+      "tavern": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-tavern-v2.mp3",
+      "chambers": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-chambers-v2.mp3",
+      "river_dawn": "https://ianingram.github.io/Amenti-Readings/dracula/sound/wind.mp3",
+      "soho": "soho-corner.mp3",
+      "storm": "storm.mp3",
+      "after_rain": "after-rain.mp3",
+      "salon": "salon.mp3",
+      "paris_fountain": "paris-fountain.mp3",
+      "coach_dusk": "coach-dusk.mp3",
+      "village": "village-evening.mp3",
+      "chateau_night": "chateau-night.mp3",
+      "chateau_dawn": "chateau-dawn.mp3"
     },
     "oneshots": {
       "whip_crack": "whip-crack.mp3",
@@ -37,7 +54,23 @@
       "steps_climb": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/steps-stone-v2.mp3",
       "stairs": "https://ianingram.github.io/Amenti-Readings/dracula/sound/stairs.mp3",
       "knock": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/knock.mp3",
-      "key_lock": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/key-lock-v2.mp3"
+      "key_lock": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/key-lock-v2.mp3",
+      "hand_bell": "hand-bell.mp3",
+      "church_one": "church-one.mp3",
+      "thunder_far": "thunder-far.mp3",
+      "thunder_crash": "thunder-crash.mp3",
+      "rain_drops": "rain-drops.mp3",
+      "steps_echo": "steps-echo.mp3",
+      "steps_rush": "steps-rush.mp3",
+      "chateau_bell": "chateau-bell.mp3",
+      "owl": "owl.mp3",
+      "horses_stable": "horses-stable.mp3",
+      "coin": "coin.mp3",
+      "door_bell": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/door-bell-v2.mp3",
+      "poke_fire": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/poke-fire-v2.mp3",
+      "glass_smash": "https://ianingram.github.io/Amenti-Readings/dracula/sound/glass-crash.mp3",
+      "door_clang": "https://ianingram.github.io/Amenti-Readings/dracula/sound/door_heavy.mp3",
+      "horse_neigh": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horse-neigh.mp3"
     },
     "score": {
       "overture_period": "score-period.mp3",
@@ -45,7 +78,10 @@
       "road": "score-road.mp3",
       "tender": "score-tender.mp3",
       "hunger": "score-hunger.mp3",
-      "recalled": "score-recalled.mp3"
+      "recalled": "score-recalled.mp3",
+      "bailey": "score-bailey.mp3",
+      "carton": "score-carton.mp3",
+      "monseigneur": "score-monseigneur.mp3"
     },
     "levels": {
       "overture_period": 0.7,
@@ -53,7 +89,10 @@
       "road": 0.38,
       "tender": 0.38,
       "hunger": 0.38,
-      "recalled": 0.38
+      "recalled": 0.38,
+      "bailey": 0.38,
+      "carton": 0.38,
+      "monseigneur": 0.38
     },
     "breath": {
       "note": "14 Nov 2026: the score ebbs and flows under the voice, as in Dracula.",
@@ -85,7 +124,23 @@
       "steps_climb": 0.45,
       "stairs": 0.45,
       "knock": 0.7,
-      "key_lock": 0.5
+      "key_lock": 0.5,
+      "hand_bell": 0.45,
+      "church_one": 0.55,
+      "thunder_far": 0.5,
+      "thunder_crash": 0.75,
+      "rain_drops": 0.45,
+      "steps_echo": 0.5,
+      "steps_rush": 0.6,
+      "chateau_bell": 0.45,
+      "owl": 0.4,
+      "horses_stable": 0.4,
+      "coin": 0.5,
+      "door_bell": 0.45,
+      "poke_fire": 0.45,
+      "glass_smash": 0.45,
+      "door_clang": 0.55,
+      "horse_neigh": 0.5
     }
   },
   "beds": {
@@ -137,6 +192,116 @@
       "levels": {
         "1": 0.4
       }
+    },
+    "tellsons": {
+      "note": "Tellson's Bank by Temple Bar: a fire, a clock ticking, horses muffled in Fleet Street (A Christmas Carol's counting-house).",
+      "levels": {
+        "1": 0.45
+      }
+    },
+    "cruncher": {
+      "note": "Mr. Cruncher's lodging in Hanging-sword-alley on a windy March morning (A Christmas Carol's yard, held low).",
+      "levels": {
+        "1": 0.4
+      }
+    },
+    "fleet_street": {
+      "note": "Fleet Street by day, 1780: horses at a walk going by, wheels, people talking, quick steps (built for this book).",
+      "levels": {
+        "1": 0.9,
+        "2": 1.0
+      }
+    },
+    "court": {
+      "note": "The Old Bailey: a packed hall under a high ceiling. 1 the court murmuring, 2 a buzz or a stir, 3 hushed for the evidence, 4 the passages below, far off (built for this book).",
+      "levels": {
+        "1": 0.7,
+        "2": 1.0,
+        "3": 0.3,
+        "4": 0.16
+      }
+    },
+    "london_night": {
+      "note": "A London street at night (A Christmas Carol's street, held low).",
+      "levels": {
+        "1": 0.4
+      }
+    },
+    "tavern": {
+      "note": "A Fleet Street tavern: 1 the house busy, 2 late, nearly empty (A Christmas Carol's tavern).",
+      "levels": {
+        "1": 0.5,
+        "2": 0.22
+      }
+    },
+    "chambers": {
+      "note": "Stryver's chambers in the Temple: a blazing fire, a clock (A Christmas Carol's chambers).",
+      "levels": {
+        "1": 0.5
+      }
+    },
+    "river_dawn": {
+      "note": "Dawn by the river, cold and sad: the wind off the water (Dracula's wind, low).",
+      "levels": {
+        "1": 0.4
+      }
+    },
+    "soho": {
+      "note": "The Doctor's quiet corner in Soho: the plane tree's leaves, birds, the city far off. 1 a fine afternoon, 2 the sultry evening, windows open (built for this book).",
+      "levels": {
+        "1": 1.0,
+        "2": 0.6
+      }
+    },
+    "storm": {
+      "note": "The storm over Soho: the rush and roar of rain, thunder rolling inside it (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "after_rain": {
+      "note": "The night after the storm: wet quiet, dripping (built for this book).",
+      "levels": {
+        "1": 0.9
+      }
+    },
+    "salon": {
+      "note": "Monseigneur's reception in his grand hotel in Paris: a crowd of fine people in a great room, glasses (built for this book).",
+      "levels": {
+        "1": 0.9
+      }
+    },
+    "paris_fountain": {
+      "note": "The Paris street corner by the fountain: the street, the water running (built for this book).",
+      "levels": {
+        "1": 0.8
+      }
+    },
+    "coach_dusk": {
+      "note": "The Marquis's travelling carriage on the hills at sunset: Book the First's coach, evening birds. 1 driving, 2 far off as the story looks away (built for this book).",
+      "levels": {
+        "1": 0.8,
+        "2": 0.4
+      }
+    },
+    "village": {
+      "note": "The poor village: its one fountain, birds, voices far off (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "chateau_night": {
+      "note": "The chateau at night: the fountain dropping into its stone basin, owls, insects. 1 the courtyard, 2 heard from inside through an open window (built for this book).",
+      "levels": {
+        "1": 1.0,
+        "2": 0.45
+      }
+    },
+    "chateau_dawn": {
+      "note": "The chateau at sunrise: the birds waking, the fountain (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
     }
   },
   "chapters": [
@@ -179,75 +344,76 @@
     },
     {
       "n": 7,
-      "bed": null,
+      "bed": "tellsons",
       "state": 1,
-      "score": null
+      "score": "period",
+      "lead": 16
     },
     {
       "n": 8,
-      "bed": null,
+      "bed": "tellsons",
       "state": 1,
-      "score": null
+      "score": "bailey"
     },
     {
       "n": 9,
-      "bed": null,
-      "state": 1,
-      "score": null
+      "bed": "court",
+      "state": 3,
+      "score": "bailey"
     },
     {
       "n": 10,
-      "bed": null,
-      "state": 1,
-      "score": null
+      "bed": "court",
+      "state": 4,
+      "score": "carton"
     },
     {
       "n": 11,
-      "bed": null,
-      "state": 1,
-      "score": null
+      "bed": "tavern",
+      "state": 2,
+      "score": "carton"
     },
     {
       "n": 12,
-      "bed": null,
+      "bed": "soho",
       "state": 1,
-      "score": null
+      "score": "tender"
     },
     {
       "n": 13,
-      "bed": null,
+      "bed": "salon",
       "state": 1,
-      "score": null
+      "score": "monseigneur"
     },
     {
       "n": 14,
-      "bed": null,
+      "bed": "coach_dusk",
       "state": 1,
-      "score": null
+      "score": "monseigneur"
     },
     {
       "n": 15,
-      "bed": null,
+      "bed": "chateau_night",
       "state": 1,
-      "score": null
+      "score": "monseigneur"
     },
     {
       "n": 16,
-      "bed": null,
+      "bed": "soho",
       "state": 1,
-      "score": null
+      "score": "tender"
     },
     {
       "n": 17,
-      "bed": null,
+      "bed": "chambers",
       "state": 1,
-      "score": null
+      "score": "carton"
     },
     {
       "n": 18,
-      "bed": null,
+      "bed": "fleet_street",
       "state": 1,
-      "score": null
+      "score": "period"
     },
     {
       "n": 19,

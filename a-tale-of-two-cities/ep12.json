@@ -105,7 +105,13 @@
    "para": 8,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "These things were within Mr. Jarvis Lorry’s knowledge, thoughts, and\nnotice, when he rang the door-bell of the tranquil house in the corner,\non the fine Sunday afternoon."
+   "text": "These things were within Mr. Jarvis Lorry’s knowledge, thoughts, and\nnotice, when he rang the door-bell of the tranquil house in the corner,\non the fine Sunday afternoon.",
+   "sfx": [
+    {
+     "key": "door_bell",
+     "at": "when he rang the door-bell"
+    }
+   ]
   },
   {
    "n": 10,
@@ -1015,7 +1021,11 @@
    "para": 85,
    "role": "Charles Darnay",
    "cast": "Louis Philippe I",
-   "text": "“In making some alterations, the workmen came upon an old dungeon, which\nhad been, for many years, built up and forgotten. Every stone of\nits inner wall was covered by inscriptions which had been carved by\nprisoners--dates, names, complaints, and prayers. Upon a corner stone\nin an angle of the wall, one prisoner, who seemed to have gone to\nexecution, had cut as his last work, three letters. They were done with\nsome very poor instrument, and hurriedly, with an unsteady hand.\nAt first, they were read as D. I. C.; but, on being more carefully\nexamined, the last letter was found to be G. There was no record or\nlegend of any prisoner with those initials, and many fruitless guesses\nwere made what the name could have been. At length, it was suggested\nthat the letters were not initials, but the complete word, DIG. The\nfloor was examined very carefully under the inscription, and, in the\nearth beneath a stone, or tile, or some fragment of paving, were found\nthe ashes of a paper, mingled with the ashes of a small leathern case\nor bag. What the unknown prisoner had written will never be read, but he\nhad written something, and hidden it away to keep it from the gaoler.”"
+   "text": "“In making some alterations, the workmen came upon an old dungeon, which\nhad been, for many years, built up and forgotten. Every stone of\nits inner wall was covered by inscriptions which had been carved by\nprisoners--dates, names, complaints, and prayers. Upon a corner stone\nin an angle of the wall, one prisoner, who seemed to have gone to\nexecution, had cut as his last work, three letters. They were done with\nsome very poor instrument, and hurriedly, with an unsteady hand.\nAt first, they were read as D. I. C.; but, on being more carefully\nexamined, the last letter was found to be G. There was no record or\nlegend of any prisoner with those initials, and many fruitless guesses\nwere made what the name could have been. At length, it was suggested\nthat the letters were not initials, but the complete word, DIG. The\nfloor was examined very carefully under the inscription, and, in the\nearth beneath a stone, or tile, or some fragment of paving, were found\nthe ashes of a paper, mingled with the ashes of a small leathern case\nor bag. What the unknown prisoner had written will never be read, but he\nhad written something, and hidden it away to keep it from the gaoler.”",
+   "score": {
+    "key": "recalled",
+    "xfade": 8
+   }
   },
   {
    "n": 140,
@@ -1050,7 +1060,13 @@
    "para": 88,
    "role": "Doctor Manette",
    "cast": "Nostradamus",
-   "text": "“No, my dear, not ill. There are large drops of rain falling, and they\nmade me start. We had better go in.”"
+   "text": "“No, my dear, not ill. There are large drops of rain falling, and they\nmade me start. We had better go in.”",
+   "sfx": [
+    {
+     "key": "rain_drops",
+     "at": "There are large drops of rain falling"
+    }
+   ]
   },
   {
    "n": 145,
@@ -1078,7 +1094,14 @@
    "para": 92,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The night was so very sultry, that although they sat with doors and\nwindows open, they were overpowered by heat. When the tea-table was\ndone with, they all moved to one of the windows, and looked out into the\nheavy twilight. Lucie sat by her father; Darnay sat beside her; Carton\nleaned against a window. The curtains were long and white, and some of\nthe thunder-gusts that whirled into the corner, caught them up to the\nceiling, and waved them like spectral wings."
+   "text": "The night was so very sultry, that although they sat with doors and\nwindows open, they were overpowered by heat. When the tea-table was\ndone with, they all moved to one of the windows, and looked out into the\nheavy twilight. Lucie sat by her father; Darnay sat beside her; Carton\nleaned against a window. The curtains were long and white, and some of\nthe thunder-gusts that whirled into the corner, caught them up to the\nceiling, and waved them like spectral wings.",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "thunder_far",
+     "at": "some of the thunder-gusts that whirled into the corner"
+    }
+   ]
   },
   {
    "n": 149,
@@ -1127,7 +1150,18 @@
    "para": 96,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "There was a great hurry in the streets of people speeding away to\nget shelter before the storm broke; the wonderful corner for echoes\nresounded with the echoes of footsteps coming and going, yet not a\nfootstep was there."
+   "text": "There was a great hurry in the streets of people speeding away to\nget shelter before the storm broke; the wonderful corner for echoes\nresounded with the echoes of footsteps coming and going, yet not a\nfootstep was there.",
+   "sfx": [
+    {
+     "key": "steps_echo",
+     "at": "resounded with the echoes of footsteps coming and going"
+    }
+   ],
+   "score": {
+    "key": "hunger",
+    "xfade": 9,
+    "at": "There was a great hurry in the streets"
+   }
   },
   {
    "n": 156,
@@ -1197,7 +1231,13 @@
    "para": 102,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The footsteps were incessant, and the hurry of them became more and more\nrapid. The corner echoed and re-echoed with the tread of feet; some,\nas it seemed, under the windows; some, as it seemed, in the room; some\ncoming, some going, some breaking off, some stopping altogether; all in\nthe distant streets, and not one within sight."
+   "text": "The footsteps were incessant, and the hurry of them became more and more\nrapid. The corner echoed and re-echoed with the tread of feet; some,\nas it seemed, under the windows; some, as it seemed, in the room; some\ncoming, some going, some breaking off, some stopping altogether; all in\nthe distant streets, and not one within sight.",
+   "sfx": [
+    {
+     "key": "steps_rush",
+     "at": "The footsteps were incessant"
+    }
+   ]
   },
   {
    "n": 166,
@@ -1239,7 +1279,13 @@
    "para": 105,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He added the last words, after there\nhad been a vivid flash which had shown him lounging in the window."
+   "text": "He added the last words, after there\nhad been a vivid flash which had shown him lounging in the window.",
+   "sfx": [
+    {
+     "key": "thunder_far",
+     "at": "after there had been a vivid flash"
+    }
+   ]
   },
   {
    "n": 172,
@@ -1253,7 +1299,13 @@
    "para": 106,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "he added again, after a peal of thunder."
+   "text": "he added again, after a peal of thunder.",
+   "sfx": [
+    {
+     "key": "thunder_far",
+     "at": "after a peal of thunder"
+    }
+   ]
   },
   {
    "n": 174,
@@ -1267,14 +1319,34 @@
    "para": 107,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "It was the rush and roar of rain that he typified, and it stopped him,\nfor no voice could be heard in it. A memorable storm of thunder and\nlightning broke with that sweep of water, and there was not a moment’s\ninterval in crash, and fire, and rain, until after the moon rose at\nmidnight."
+   "text": "It was the rush and roar of rain that he typified, and it stopped him,\nfor no voice could be heard in it. A memorable storm of thunder and\nlightning broke with that sweep of water, and there was not a moment’s\ninterval in crash, and fire, and rain, until after the moon rose at\nmidnight.",
+   "bed": "storm",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "thunder_crash",
+     "at": "A memorable storm of thunder and lightning broke"
+    }
+   ]
   },
   {
    "n": 176,
    "para": 108,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The great bell of Saint Paul’s was striking one in the cleared air, when\nMr. Lorry, escorted by Jerry, high-booted and bearing a lantern, set\nforth on his return-passage to Clerkenwell. There were solitary patches\nof road on the way between Soho and Clerkenwell, and Mr. Lorry, mindful\nof foot-pads, always retained Jerry for this service: though it was\nusually performed a good two hours earlier."
+   "text": "The great bell of Saint Paul’s was striking one in the cleared air, when\nMr. Lorry, escorted by Jerry, high-booted and bearing a lantern, set\nforth on his return-passage to Clerkenwell. There were solitary patches\nof road on the way between Soho and Clerkenwell, and Mr. Lorry, mindful\nof foot-pads, always retained Jerry for this service: though it was\nusually performed a good two hours earlier.",
+   "bed": "after_rain",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "church_one",
+     "at": "was striking one in the cleared air"
+    }
+   ],
+   "score": {
+    "key": "tender",
+    "xfade": 9
+   }
   },
   {
    "n": 177,

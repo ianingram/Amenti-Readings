@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""A Tale of Two Cities: the score for Book the First · 14 Nov 2026.
+"""A Tale of Two Cities: the score for Books the First and Second · 14–15 Nov 2026.
 Built the way Ian approved for Treasure Island: mood strings in 4/4 with light percussion,
 made to sit under the voice and loop (treasure-island/sound/build-moods.py does the work;
 VSCO 2 CE, CC0). The book's own theme is a rising four-note figure, "Recalled to Life"
@@ -49,6 +49,16 @@ MOODS = {
     # the garret, the shoemaker, the golden hair: B minor that finds D major at the end
     'recalled': dict(bpm=58, chords='Bm G D F#m G Em F# F# Bm G D A G Em A D'.split(), perc=p_sorrow,
                      top=motif(12, 74)),
+    # --- Book the Second (15 Nov 2026) ---
+    # the Old Bailey: a man's life on trial: G minor, a steady heartbeat under the court
+    'bailey': dict(bpm=72, chords='Gm Gm Eb D Gm Cm D D Eb Cm Gm D Cm Eb D Gm'.split(), pulse=[(0, 0, 0.5), (2, 0, 0.4)],
+                   perc=p_unease, top=motif(8, 74, True)),
+    # Sydney Carton: waste, and what he might have been: A minor, slow, only a roll at the phrase
+    'carton': dict(bpm=56, chords='Am F C G Am Dm E E F Dm Am E F G E Am'.split(), perc=p_sorrow,
+                   top=motif(12, 76, True)),
+    # Monseigneur: gilded and cold: E flat major turning to C minor, a crisp court pulse on every beat
+    'monseigneur': dict(bpm=80, chords='Eb Cm Ab Bb Eb Gm Ab Bb Cm Ab Fm G Cm Ab Bb Eb'.split(),
+                        pulse=[(0, 0, 0.45), (1, 0, 0.3), (2, 0, 0.4), (3, 0, 0.3)], perc=p_calm, top=motif(8, 75)),
 }
 for name, kw in MOODS.items():
     if ONLY and name not in ONLY: continue

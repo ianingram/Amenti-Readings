@@ -306,7 +306,11 @@
    "para": 30,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The Doctor sat with his face turned away, and his eyes bent on the\nground. At the last words, he stretched out his hand again, hurriedly,\nand cried:"
+   "text": "The Doctor sat with his face turned away, and his eyes bent on the\nground. At the last words, he stretched out his hand again, hurriedly,\nand cried:",
+   "score": {
+    "key": "recalled",
+    "xfade": 8
+   }
   },
   {
    "n": 41,
@@ -782,7 +786,11 @@
    "para": 81,
    "role": "Doctor Manette",
    "cast": "Nostradamus",
-   "text": "“Tell me when I ask you, not now. If your suit should prosper, if Lucie\nshould love you, you shall tell me on your marriage morning. Do you\npromise?”"
+   "text": "“Tell me when I ask you, not now. If your suit should prosper, if Lucie\nshould love you, you shall tell me on your marriage morning. Do you\npromise?”",
+   "score": {
+    "key": "tender",
+    "xfade": 8
+   }
   },
   {
    "n": 109,
@@ -831,7 +839,18 @@
    "para": 86,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Nothing was said in answer, but she heard a low hammering sound in his\nbedroom. Passing lightly across the intermediate room, she looked in at\nhis door and came running back frightened, crying to herself, with her\nblood all chilled,"
+   "text": "Nothing was said in answer, but she heard a low hammering sound in his\nbedroom. Passing lightly across the intermediate room, she looked in at\nhis door and came running back frightened, crying to herself, with her\nblood all chilled,",
+   "sfx": [
+    {
+     "key": "shoe_hammer_1",
+     "at": "she heard a low hammering sound in his bedroom"
+    }
+   ],
+   "score": {
+    "key": "recalled",
+    "xfade": 6,
+    "at": "a low hammering sound"
+   }
   },
   {
    "n": 116,
@@ -845,7 +864,13 @@
    "para": 87,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Her uncertainty lasted but a moment; she hurried back, and tapped at\nhis door, and softly called to him. The noise ceased at the sound of\nher voice, and he presently came out to her, and they walked up and down\ntogether for a long time."
+   "text": "Her uncertainty lasted but a moment; she hurried back, and tapped at\nhis door, and softly called to him. The noise ceased at the sound of\nher voice, and he presently came out to her, and they walked up and down\ntogether for a long time.",
+   "sfx": [
+    {
+     "key": "knock",
+     "at": "tapped at his door"
+    }
+   ]
   },
   {
    "n": 118,

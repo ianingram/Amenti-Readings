@@ -50,21 +50,34 @@
    "para": 3,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Up the broad flight of shallow steps, Monsieur the Marquis, flambeau\npreceded, went from his carriage, sufficiently disturbing the darkness\nto elicit loud remonstrance from an owl in the roof of the great pile\nof stable building away among the trees. All else was so quiet, that the\nflambeau carried up the steps, and the other flambeau held at the great\ndoor, burnt as if they were in a close room of state, instead of being\nin the open night-air. Other sound than the owl’s voice there was none,\nsave the falling of a fountain into its stone basin; for, it was one of\nthose dark nights that hold their breath by the hour together, and then\nheave a long low sigh, and hold their breath again."
+   "text": "Up the broad flight of shallow steps, Monsieur the Marquis, flambeau\npreceded, went from his carriage, sufficiently disturbing the darkness\nto elicit loud remonstrance from an owl in the roof of the great pile\nof stable building away among the trees. All else was so quiet, that the\nflambeau carried up the steps, and the other flambeau held at the great\ndoor, burnt as if they were in a close room of state, instead of being\nin the open night-air. Other sound than the owl’s voice there was none,\nsave the falling of a fountain into its stone basin; for, it was one of\nthose dark nights that hold their breath by the hour together, and then\nheave a long low sigh, and hold their breath again.",
+   "sfx": [
+    {
+     "key": "owl",
+     "at": "loud remonstrance from an owl"
+    }
+   ]
   },
   {
    "n": 5,
    "para": 4,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The great door clanged behind him, and Monsieur the Marquis crossed a\nhall grim with certain old boar-spears, swords, and knives of the chase;\ngrimmer with certain heavy riding-rods and riding-whips, of which many a\npeasant, gone to his benefactor Death, had felt the weight when his lord\nwas angry."
+   "text": "The great door clanged behind him, and Monsieur the Marquis crossed a\nhall grim with certain old boar-spears, swords, and knives of the chase;\ngrimmer with certain heavy riding-rods and riding-whips, of which many a\npeasant, gone to his benefactor Death, had felt the weight when his lord\nwas angry.",
+   "sfx": [
+    {
+     "key": "door_clang",
+     "at": "The great door clanged behind him"
+    }
+   ]
   },
   {
    "n": 6,
    "para": 5,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Avoiding the larger rooms, which were dark and made fast for the night,\nMonsieur the Marquis, with his flambeau-bearer going on before, went up\nthe staircase to a door in a corridor. This thrown open, admitted him\nto his own private apartment of three rooms: his bed-chamber and two\nothers. High vaulted rooms with cool uncarpeted floors, great dogs upon\nthe hearths for the burning of wood in winter time, and all luxuries\nbefitting the state of a marquis in a luxurious age and country.\nThe fashion of the last Louis but one, of the line that was never to\nbreak--the fourteenth Louis--was conspicuous in their rich furniture;\nbut, it was diversified by many objects that were illustrations of old\npages in the history of France."
+   "text": "Avoiding the larger rooms, which were dark and made fast for the night,\nMonsieur the Marquis, with his flambeau-bearer going on before, went up\nthe staircase to a door in a corridor. This thrown open, admitted him\nto his own private apartment of three rooms: his bed-chamber and two\nothers. High vaulted rooms with cool uncarpeted floors, great dogs upon\nthe hearths for the burning of wood in winter time, and all luxuries\nbefitting the state of a marquis in a luxurious age and country.\nThe fashion of the last Louis but one, of the line that was never to\nbreak--the fourteenth Louis--was conspicuous in their rich furniture;\nbut, it was diversified by many objects that were illustrations of old\npages in the history of France.",
+   "state": 2
   },
   {
    "n": 7,
@@ -197,7 +210,13 @@
    "para": 19,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "That was done too, and the Marquis went on with his supper. He was\nhalf way through it, when he again stopped with his glass in his hand,\nhearing the sound of wheels. It came on briskly, and came up to the\nfront of the chateau."
+   "text": "That was done too, and the Marquis went on with his supper. He was\nhalf way through it, when he again stopped with his glass in his hand,\nhearing the sound of wheels. It came on briskly, and came up to the\nfront of the chateau.",
+   "sfx": [
+    {
+     "key": "horses_halt",
+     "at": "came up to the front of the chateau"
+    }
+   ]
   },
   {
    "n": 26,
@@ -918,7 +937,13 @@
    "para": 72,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "he added then, after ringing a small\nbell on the table,"
+   "text": "he added then, after ringing a small\nbell on the table,",
+   "sfx": [
+    {
+     "key": "hand_bell",
+     "at": "after ringing a small bell on the table"
+    }
+   ]
   },
   {
    "n": 129,
@@ -1226,7 +1251,13 @@
    "para": 99,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "he\nadded to himself, before he rang his little bell again, and summoned his\nvalet to his own bedroom."
+   "text": "he\nadded to himself, before he rang his little bell again, and summoned his\nvalet to his own bedroom.",
+   "sfx": [
+    {
+     "key": "hand_bell",
+     "at": "before he rang his little bell again"
+    }
+   ]
   },
   {
    "n": 173,
@@ -1282,7 +1313,22 @@
    "para": 104,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The stone faces on the outer walls stared blindly at the black night\nfor three heavy hours; for three heavy hours, the horses in the stables\nrattled at their racks, the dogs barked, and the owl made a noise with\nvery little resemblance in it to the noise conventionally assigned to\nthe owl by men-poets. But it is the obstinate custom of such creatures\nhardly ever to say what is set down for them."
+   "text": "The stone faces on the outer walls stared blindly at the black night\nfor three heavy hours; for three heavy hours, the horses in the stables\nrattled at their racks, the dogs barked, and the owl made a noise with\nvery little resemblance in it to the noise conventionally assigned to\nthe owl by men-poets. But it is the obstinate custom of such creatures\nhardly ever to say what is set down for them.",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "horses_stable",
+     "at": "the horses in the stables rattled at their racks"
+    },
+    {
+     "key": "owl",
+     "at": "and the owl made a noise"
+    }
+   ],
+   "score": {
+    "key": "hunger",
+    "xfade": 9
+   }
   },
   {
    "n": 181,
@@ -1303,28 +1349,54 @@
    "para": 107,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Lighter and lighter, until at last the sun touched the tops of the still\ntrees, and poured its radiance over the hill. In the glow, the water\nof the chateau fountain seemed to turn to blood, and the stone faces\ncrimsoned. The carol of the birds was loud and high, and, on the\nweather-beaten sill of the great window of the bed-chamber of Monsieur\nthe Marquis, one little bird sang its sweetest song with all its might.\nAt this, the nearest stone face seemed to stare amazed, and, with open\nmouth and dropped under-jaw, looked awe-stricken."
+   "text": "Lighter and lighter, until at last the sun touched the tops of the still\ntrees, and poured its radiance over the hill. In the glow, the water\nof the chateau fountain seemed to turn to blood, and the stone faces\ncrimsoned. The carol of the birds was loud and high, and, on the\nweather-beaten sill of the great window of the bed-chamber of Monsieur\nthe Marquis, one little bird sang its sweetest song with all its might.\nAt this, the nearest stone face seemed to stare amazed, and, with open\nmouth and dropped under-jaw, looked awe-stricken.",
+   "bed": "chateau_dawn",
+   "state": 1,
+   "score": {
+    "key": "tender",
+    "xfade": 9,
+    "at": "Lighter and lighter"
+   }
   },
   {
    "n": 184,
    "para": 108,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Now, the sun was full up, and movement began in the village. Casement\nwindows opened, crazy doors were unbarred, and people came forth\nshivering--chilled, as yet, by the new sweet air. Then began the rarely\nlightened toil of the day among the village population. Some, to the\nfountain; some, to the fields; men and women here, to dig and delve; men\nand women there, to see to the poor live stock, and lead the bony cows\nout, to such pasture as could be found by the roadside. In the church\nand at the Cross, a kneeling figure or two; attendant on the latter\nprayers, the led cow, trying for a breakfast among the weeds at its\nfoot."
+   "text": "Now, the sun was full up, and movement began in the village. Casement\nwindows opened, crazy doors were unbarred, and people came forth\nshivering--chilled, as yet, by the new sweet air. Then began the rarely\nlightened toil of the day among the village population. Some, to the\nfountain; some, to the fields; men and women here, to dig and delve; men\nand women there, to see to the poor live stock, and lead the bony cows\nout, to such pasture as could be found by the roadside. In the church\nand at the Cross, a kneeling figure or two; attendant on the latter\nprayers, the led cow, trying for a breakfast among the weeds at its\nfoot.",
+   "bed": "village",
+   "state": 1
   },
   {
    "n": 185,
    "para": 109,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The chateau awoke later, as became its quality, but awoke gradually and\nsurely. First, the lonely boar-spears and knives of the chase had been\nreddened as of old; then, had gleamed trenchant in the morning sunshine;\nnow, doors and windows were thrown open, horses in their stables looked\nround over their shoulders at the light and freshness pouring in at\ndoorways, leaves sparkled and rustled at iron-grated windows, dogs\npulled hard at their chains, and reared impatient to be loosed."
+   "text": "The chateau awoke later, as became its quality, but awoke gradually and\nsurely. First, the lonely boar-spears and knives of the chase had been\nreddened as of old; then, had gleamed trenchant in the morning sunshine;\nnow, doors and windows were thrown open, horses in their stables looked\nround over their shoulders at the light and freshness pouring in at\ndoorways, leaves sparkled and rustled at iron-grated windows, dogs\npulled hard at their chains, and reared impatient to be loosed.",
+   "bed": "chateau_dawn",
+   "state": 1
   },
   {
    "n": 186,
    "para": 110,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "All these trivial incidents belonged to the routine of life, and the\nreturn of morning. Surely, not so the ringing of the great bell of the\nchateau, nor the running up and down the stairs; nor the hurried\nfigures on the terrace; nor the booting and tramping here and there and\neverywhere, nor the quick saddling of horses and riding away?"
+   "text": "All these trivial incidents belonged to the routine of life, and the\nreturn of morning. Surely, not so the ringing of the great bell of the\nchateau, nor the running up and down the stairs; nor the hurried\nfigures on the terrace; nor the booting and tramping here and there and\neverywhere, nor the quick saddling of horses and riding away?",
+   "sfx": [
+    {
+     "key": "chateau_bell",
+     "at": "the ringing of the great bell of the chateau"
+    },
+    {
+     "key": "horse_gallop",
+     "at": "the quick saddling of horses and riding away"
+    }
+   ],
+   "score": {
+    "key": "hunger",
+    "xfade": 6,
+    "at": "Surely, not so the ringing"
+   }
   },
   {
    "n": 187,
@@ -1338,7 +1410,9 @@
    "para": 112,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "All the people of the village were at the fountain, standing about\nin their depressed manner, and whispering low, but showing no other\nemotions than grim curiosity and surprise. The led cows, hastily brought\nin and tethered to anything that would hold them, were looking stupidly\non, or lying down chewing the cud of nothing particularly repaying their\ntrouble, which they had picked up in their interrupted saunter. Some of\nthe people of the chateau, and some of those of the posting-house, and\nall the taxing authorities, were armed more or less, and were crowded\non the other side of the little street in a purposeless way, that was\nhighly fraught with nothing. Already, the mender of roads had penetrated\ninto the midst of a group of fifty particular friends, and was smiting\nhimself in the breast with his blue cap. What did all this portend,\nand what portended the swift hoisting-up of Monsieur Gabelle behind\na servant on horseback, and the conveying away of the said Gabelle\n(double-laden though the horse was), at a gallop, like a new version of\nthe German ballad of Leonora?"
+   "text": "All the people of the village were at the fountain, standing about\nin their depressed manner, and whispering low, but showing no other\nemotions than grim curiosity and surprise. The led cows, hastily brought\nin and tethered to anything that would hold them, were looking stupidly\non, or lying down chewing the cud of nothing particularly repaying their\ntrouble, which they had picked up in their interrupted saunter. Some of\nthe people of the chateau, and some of those of the posting-house, and\nall the taxing authorities, were armed more or less, and were crowded\non the other side of the little street in a purposeless way, that was\nhighly fraught with nothing. Already, the mender of roads had penetrated\ninto the midst of a group of fifty particular friends, and was smiting\nhimself in the breast with his blue cap. What did all this portend,\nand what portended the swift hoisting-up of Monsieur Gabelle behind\na servant on horseback, and the conveying away of the said Gabelle\n(double-laden though the horse was), at a gallop, like a new version of\nthe German ballad of Leonora?",
+   "bed": "village",
+   "state": 1
   },
   {
    "n": 189,

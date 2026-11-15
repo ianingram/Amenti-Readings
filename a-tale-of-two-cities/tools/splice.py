@@ -86,7 +86,15 @@ FIX_B3A = [  # Book the Third, ch 31-39 (15 Nov 2026)
  ('38', 241, '38-241', '@', None, [0]),
 ]
 FIX_B3A2 = [('32', 6, '32-6b', 'must be carried over into the next; no man could have said, that night, any more than Mr. Jarvis Lorry could, though he thought heavily of these questions.', None, [1, 2])]   # second try, the clause before it in the take
-FIX = {'b2': FIX_B2, 'b2b': FIX_B2B, 'b3a': FIX_B3A, 'b3a2': FIX_B3A2}.get(BOOK, FIX_B1)
+FIX_B3B = [  # Book the Third, ch 40-45 (15 Nov 2026)
+ ('42', 58, '42-58', 'repeated madame;', None, [0]),
+ ('43', 166, '43-166', 'wife of an aristocrat who has gone to the Guillotine.', (1, 'wife of an'), [2]),
+ ('44', 85, '44-85', 'under any circumstances.', (1, 'under any'), [2]),
+ ('45', 23, '45-23', 'the Spy entreats him, timidly.', None, [0]),
+ ('45', 39, '45-39', 'the woman recommends.', None, [0]),
+ ('45', 58, '45-58', 'live to be old.', (0, 'live to be'), [1]),
+]
+FIX = {'b2': FIX_B2, 'b2b': FIX_B2B, 'b3a': FIX_B3A, 'b3a2': FIX_B3A2, 'b3b': FIX_B3B}.get(BOOK, FIX_B1)
 done = {}; report = []
 for ch, n, tag, own, prev, repl, *until in FIX:
     if own == '@': own = SHEET['lines'][tags.index(tag + '/0')][3]

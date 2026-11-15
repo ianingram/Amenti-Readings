@@ -43,7 +43,7 @@ def score(a, text):
     heard = ' '.join(w[0] for w in words(a)); return difflib.SequenceMatcher(None, N(text), N(heard)).ratio(), heard
 
 SHEET = json.load(open('/home/claude/ar/tools/sampler/tc-fixes-%s.json' % BOOK)); tags = SHEET['tags']
-take = lambda tag, k: glob.glob(TAKES + '/%02d.*' % (tags.index('%s/%d' % (tag, k)) + 1))[0]
+take = lambda tag, k: (glob.glob(TAKES + '/%02d.*' % (tags.index('%s/%d' % (tag, k)) + 1)) or [None])[0]
 FIX_B1 = [  # (chapter, cue, tag, the cue's own words in the take, (piece to cut, words it is cut before) or None, pieces replaced)
  ('01', 3, '01-3', 'The Period', None, [0]),
  ('03', 3, '03-3', 'is, in some of its imaginings, a secret to the heart nearest it!', (1, 'is, in some'), [2]),
@@ -91,6 +91,7 @@ for ch, n, tag, own, prev, repl, *until in FIX:
     if own == '@': own = SHEET['lines'][tags.index(tag + '/0')][3]
     best = None
     for k in range(3):
+        if take(tag, k) is None: report.append((tag, k, 'no take')); continue     # a take the sampler could not render
         a = load(take(tag, k)); ws = words(a); i = find(ws, own)
         if i is None: report.append((tag, k, 'words not found', ' '.join(w[0] for w in ws))); continue
         s = quiet(a, ws[i - 1][2], ws[i][1]) if i > 0 else max(0, int((ws[i][1] - 0.05) * SR))

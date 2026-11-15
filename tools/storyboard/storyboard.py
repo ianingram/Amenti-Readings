@@ -11,15 +11,17 @@ URL = 'https://amenti-proxy.ingram-ian.workers.dev/storyboard/image'
 log = []
 for b in sheet['beats']:
     who = '; '.join(sheet['people'][w] for w in b['who'])
-    refs = [sheet['refs']['style']] + [sheet['refs'][w] for w in b['who'] if w in sheet['refs']]
+    R = sheet.get('refs') or {}
+    refs = ([R['style']] if R.get('style') else []) + [R[w] for w in b['who'] if w in R]
     for m in models:
         gem = not m.startswith('imagen')
-        lead = ('Use the first reference image only for its painting style, palette and light. '
-                + ''.join('Reference image %d is the face and look of %s. ' % (i + 2, w.title()) for i, w in enumerate(b['who']) if w in sheet['refs'])
+        faces = [w for w in b['who'] if w in R]; off = 2 if R.get('style') else 1
+        lead = (('Use the first reference image only for its painting style, palette and light. ' if R.get('style') else '')
+                + ''.join('Reference image %d is the face and look of %s. ' % (i + off, w.title()) for i, w in enumerate(faces))
                 if gem else '')
         prompt = lead + 'Scene: ' + b['text'] + (' People: ' + who + '.' if who else '') + ' Style: ' + sheet['style']
         body = {'model': m, 'prompt': prompt, 'aspect': '16:9', 'n': n}
-        if gem: body['refs'] = refs
+        if gem and refs: body['refs'] = refs
         for attempt in range(3):
             req = urllib.request.Request(URL, json.dumps(body).encode(), {'Content-Type': 'application/json', 'x-amenti-render': KEY, 'User-Agent': 'Mozilla/5.0 amenti-storyboard'})
             try:
@@ -36,5 +38,5 @@ for b in sheet['beats']:
         for k, im in enumerate(imgs):
             f = '%s-%s-%d.%s' % (b['tag'], m.replace('.', '_'), k, ext); open(os.path.join(out, f), 'wb').write(base64.b64decode(im)); names.append(f)
         print('%-8s %-28s %d image(s) %s' % (b['tag'], m, len(names), ('' if names else json.dumps(d)[:300])), flush=True)
-        log.append({'tag': b['tag'], 'cue': b['cue'], 'mj': b.get('mj'), 'model': m, 'files': names, 'text': d.get('text') or d.get('detail')})
+        log.append({'tag': b['tag'], 'cue': b['cue'], 'mj': b.get('mj'), 'chapter': b.get('chapter'), 'model': m, 'files': names, 'text': d.get('text') or d.get('detail')})
 json.dump(log, open(os.path.join(out, 'takes.json'), 'w'), indent=1)

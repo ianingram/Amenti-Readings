@@ -1,0 +1,126 @@
+{
+ "book": "a-tale-of-two-cities",
+ "part": "Book the First",
+ "note": "Storyboard test, 14 Nov 2026: Book the First of A Tale of Two Cities, twelve beats drawn by Gemini from the text alone. No reference images and no Midjourney: every picture is new.",
+ "style": "An oil painting in the manner of nineteenth-century academic history painting: rich palette, dramatic chiaroscuro, visible brushwork, painterly and cinematic, 16:9. England and France in 1775: tricorn hats, greatcoats, knee-breeches, buckled shoes, candle and lantern light, no modern objects. No captions, no signature, no frames, no black bars or borders.",
+ "refs": {},
+ "people": {
+  "lorry": "Mr. Jarvis Lorry: a neat, orderly English banker of about sixty, clean-shaven, a small sleek crisp flaxen wig close to his head, a well-worn brown suit and waistcoat, brown stockings, plain buckled shoes, white linen",
+  "lucie": "Lucie Manette: a young lady of seventeen, short, slight and pretty, with a quantity of golden hair and blue eyes, a smooth young forehead that lifts in an intent, inquiring expression",
+  "pross": "Miss Pross: a tall, strong, red-faced Englishwoman with red hair, in an odd tight-fitting dress and an enormous tall bonnet",
+  "defarge": "Ernest Defarge: a bull-necked, martial-looking Frenchman of thirty with crisply curling short dark hair, shirtsleeves rolled to the elbow, bare brown arms, good bold eyes",
+  "madame": "Madame Defarge: a stout Frenchwoman of thirty, steady face, strong features, darkly defined eyebrows, watchful eye, a large hand heavily ringed, wrapped in fur with a bright shawl about her head, large earrings, knitting",
+  "manette": "Doctor Manette: a gaunt old man worn by eighteen years in prison, a ragged white beard, hollow face, exceedingly bright eyes under dark eyebrows, confused white hair, ragged shirt"
+ },
+ "beats": [
+  {
+   "tag": "tc1-2-hill",
+   "chapter": 2,
+   "cue": 3,
+   "who": [
+    "lorry"
+   ],
+   "text": "Night, late November 1775, on the Dover road: the heavy Dover mail coach lumbers up a steep muddy hill in thick steaming mist, its four horses straining with drooping heads, floundering in the mire; the passengers, muffled to the ears in greatcoats and capes, walk uphill in the mud beside it; the guard stands on the back of the coach by the arms-chest; coach-lamps glow through the fog. Wide view."
+  },
+  {
+   "tag": "tc1-2-rider",
+   "chapter": 2,
+   "cue": 29,
+   "who": [],
+   "text": "At the summit of a misty hill at night, a lone horseman in a mud-splashed greatcoat and three-cornered hat gallops up out of the fog toward the halted Dover mail coach; the guard on the coach roof levels a blunderbuss at him; the coachman holds the four steaming horses; lamplight on wet mud. Dramatic, tense, the rider's face unseen."
+  },
+  {
+   "tag": "tc1-2-note",
+   "chapter": 2,
+   "cue": 78,
+   "who": [
+    "lorry"
+   ],
+   "text": "Close beside the halted mail coach at night in the mist, the elderly passenger reads a small folded note by the yellow light of the coach-lamp; the messenger, still on his blowing, steaming mare, waits in the dark behind; the guard looks down from above, blunderbuss in hand."
+  },
+  {
+   "tag": "tc1-3-dream",
+   "chapter": 3,
+   "cue": 13,
+   "who": [
+    "lorry",
+    "manette"
+   ],
+   "text": "Inside the dark swaying mail coach at night, the elderly passenger dozes upright among the sleeping passengers, his head nodding; in the black coach window beside him, like a reflection or a dream, floats the faint pale face of a gaunt prisoner with long white hair, as if just dug out of the earth. Moody, dreamlike, lamp-glow through the misted glass."
+  },
+  {
+   "tag": "tc1-4-dover",
+   "chapter": 4,
+   "cue": 3,
+   "who": [
+    "lorry"
+   ],
+   "text": "Dover, a bright cold November forenoon, 1775: the little narrow crooked town tucked under the white chalk cliffs, the grey-green sea breaking on the shingle beach, fishing boats drawn up; the elderly gentleman walks alone on the beach in his brown coat, the sea wind in his face. Luminous daylight, open sky, wide view."
+  },
+  {
+   "tag": "tc1-4-lucie",
+   "chapter": 4,
+   "cue": 35,
+   "who": [
+    "lorry",
+    "lucie"
+   ],
+   "text": "A large dark hotel sitting-room furnished in black horsehair, its heavy dark tables polished like mirrors, lit only by two tall candles; the elderly gentleman makes a formal old-fashioned bow to a young lady standing by the table in a riding-cloak, holding her straw travelling hat by its ribbon, her golden hair loose; candlelight on her face. Warm candlelight against deep shadow."
+  },
+  {
+   "tag": "tc1-4-pross",
+   "chapter": 4,
+   "cue": 113,
+   "who": [
+    "lorry",
+    "lucie",
+    "pross"
+   ],
+   "text": "In a dark candle-lit hotel sitting-room, the young golden-haired lady has fainted in her chair; a tall, powerful, red-faced woman with red hair, in a strange tight-fitting dress and a towering bonnet, has burst in and with one brawny hand sends the startled elderly gentleman flying back against the wall; inn servants crowd in the doorway behind. Lively, almost comic."
+  },
+  {
+   "tag": "tc1-5-cask",
+   "chapter": 5,
+   "cue": 3,
+   "who": [],
+   "text": "Paris, a narrow cold grey street in the poor quarter of Saint Antoine, 1775: a great wine cask has fallen from a cart and burst on the cobbles; ragged men, women and children in wooden shoes and rags kneel and crowd to scoop the red wine from the stones with their hands, with broken pottery, with handkerchiefs; red wine stains the stones, the hands, the faces. Tall dark leaning houses, washing hung across, a grey sky."
+  },
+  {
+   "tag": "tc1-5-blood",
+   "chapter": 5,
+   "cue": 6,
+   "who": [],
+   "text": "In a narrow grey Paris street, a tall gaunt man with a long squalid nightcap half off his head, his mouth smeared red with wine, scrawls the word BLOOD in large dripping red letters on a stone wall with his finger dipped in wine-lees; ragged people behind him still scrabbling at a spilled wine cask; ominous. The word BLOOD clearly legible on the wall."
+  },
+  {
+   "tag": "tc1-5-shop",
+   "chapter": 5,
+   "cue": 27,
+   "who": [
+    "defarge",
+    "madame"
+   ],
+   "text": "Inside a dark low Paris wine-shop on a bitter day: behind the counter sits a stout, composed woman wrapped in fur, a bright shawl twined about her head, large earrings, her knitting laid before her; her husband, a bull-necked dark man in shirtsleeves with his coat slung over his shoulder, has just come in from the street; three rough customers at a table with wine cups glance up. Smoky, shadowy, a little grey daylight from the door."
+  },
+  {
+   "tag": "tc1-6-garret",
+   "chapter": 6,
+   "cue": 21,
+   "who": [
+    "manette",
+    "defarge"
+   ],
+   "text": "A bare, dim garret under the roof, lit only by a narrow shaft of light from a half-opened door; a gaunt old man with a ragged white beard, a hollow face and wild white hair sits stooped on a low bench making a shoe, scraps of leather around him; the wine-shop keeper stands at the door, looking in. Very dark, one hard beam of light, dust in the air."
+  },
+  {
+   "tag": "tc1-6-hair",
+   "chapter": 6,
+   "cue": 82,
+   "who": [
+    "manette",
+    "lucie"
+   ],
+   "text": "In a dim bare garret, the young woman with long golden curls sits on the low shoemaker's bench beside the gaunt white-haired old man; he has laid down his knife and, wondering, lifts a lock of her golden hair in his trembling hand to look at it; tears in her eyes; a single shaft of light falls on the two of them. Tender, hushed."
+  }
+ ]
+}

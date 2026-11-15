@@ -905,7 +905,9 @@
    "para": 94,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They began to descend; Monsieur Defarge going first with the lamp, Mr.\nLorry closing the little procession. They had not traversed many steps\nof the long main staircase when he stopped, and stared at the roof and\nround at the walls."
+   "text": "They began to descend; Monsieur Defarge going first with the lamp, Mr.\nLorry closing the little procession. They had not traversed many steps\nof the long main staircase when he stopped, and stared at the roof and\nround at the walls.",
+   "bed": "stair",
+   "state": 1
   },
   {
    "n": 126,
@@ -996,7 +998,9 @@
    "para": 103,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Under the over-swinging lamps--swinging ever brighter in the better\nstreets, and ever dimmer in the worse--and by lighted shops, gay crowds,\nilluminated coffee-houses, and theatre-doors, to one of the city\ngates. Soldiers with lanterns, at the guard-house there."
+   "text": "Under the over-swinging lamps--swinging ever brighter in the better\nstreets, and ever dimmer in the worse--and by lighted shops, gay crowds,\nilluminated coffee-houses, and theatre-doors, to one of the city\ngates. Soldiers with lanterns, at the guard-house there.",
+   "bed": "paris_night",
+   "state": 1
   },
   {
    "n": 139,
@@ -1066,7 +1070,9 @@
    "para": 104,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Beneath that arch of unmoved and eternal lights; some, so remote from\nthis little earth that the learned tell us it is doubtful whether their\nrays have even yet discovered it, as a point in space where anything\nis suffered or done: the shadows of the night were broad and black.\nAll through the cold and restless interval, until dawn, they once more\nwhispered in the ears of Mr. Jarvis Lorry--sitting opposite the buried\nman who had been dug out, and wondering what subtle powers were for ever\nlost to him, and what were capable of restoration--the old inquiry:"
+   "text": "Beneath that arch of unmoved and eternal lights; some, so remote from\nthis little earth that the learned tell us it is doubtful whether their\nrays have even yet discovered it, as a point in space where anything\nis suffered or done: the shadows of the night were broad and black.\nAll through the cold and restless interval, until dawn, they once more\nwhispered in the ears of Mr. Jarvis Lorry--sitting opposite the buried\nman who had been dug out, and wondering what subtle powers were for ever\nlost to him, and what were capable of restoration--the old inquiry:",
+   "bed": "coach_night",
+   "state": 1
   },
   {
    "n": 149,

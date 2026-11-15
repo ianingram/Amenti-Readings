@@ -2,10 +2,20 @@
   "_file": "a-tale-of-two-cities/sound.json",
   "_updated": "2026-11-14",
   "work": "a-tale-of-two-cities",
-  "note": "Skeleton: no rooms, effects or score yet. Sound and score come after the cue sheets are checked and the base voices approved.",
+  "note": "Book the First: rooms placed (14 Nov 2026). Sounds on the words and the score come next, in that order.",
   "files": {
     "base": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/",
-    "beds": {},
+    "beds": {
+      "dover_road": "https://ianingram.github.io/Amenti-Readings/dracula/sound/wind.mp3",
+      "coach_night": "coach-night.mp3",
+      "dover_inn": "https://ianingram.github.io/Amenti-Readings/dracula/sound/fire.mp3",
+      "dover_beach": "dover-beach.mp3",
+      "saint_antoine": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-street-fog-v2.mp3",
+      "wine_shop": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-tavern-v2.mp3",
+      "stair": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-yard-v2.mp3",
+      "garret": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-yard-v2.mp3",
+      "paris_night": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-street-fog-v2.mp3"
+    },
     "oneshots": {},
     "score": {},
     "levels": {},
@@ -20,7 +30,57 @@
     },
     "sfx_levels": {}
   },
-  "beds": {},
+  "beds": {
+    "dover_road": {
+      "note": "Shooter's Hill, a Friday night late in November: cold wind and mist on the open road (Dracula's wind, held low). The coach and horses come in as sounds on the words.",
+      "levels": {
+        "1": 0.6
+      }
+    },
+    "coach_night": {
+      "note": "Inside the Dover mail at night: four horses at a labouring trot on mud, every strike a real hoof; the wheels' rumble, leather springs creaking, the wind outside (built for this book).",
+      "levels": {
+        "1": 0.8
+      }
+    },
+    "dover_inn": {
+      "note": "The Royal George at Dover: the coffee-room fire (Dracula's fire)."
+    },
+    "dover_beach": {
+      "note": "Dover beach under the chalk cliffs: the sea thundering on the shingle below a cliff, stones tumbling close by, gulls far off (built for this book)."
+    },
+    "saint_antoine": {
+      "note": "Saint Antoine: a narrow, poor Paris street: wheels and hooves on the stones, people about (A Christmas Carol's street, held well down).",
+      "levels": {
+        "1": 0.45,
+        "2": 0.3
+      }
+    },
+    "wine_shop": {
+      "note": "The Defarges' wine-shop: low talk, cups, a small fire (A Christmas Carol's tavern, held down).",
+      "levels": {
+        "1": 0.5
+      }
+    },
+    "stair": {
+      "note": "The courtyard and the long foul staircase: the city far off, nothing near (A Christmas Carol's yard).",
+      "levels": {
+        "1": 0.7
+      }
+    },
+    "garret": {
+      "note": "The garret under the roof: the city very far off, almost silence.",
+      "levels": {
+        "1": 0.4
+      }
+    },
+    "paris_night": {
+      "note": "The coach through the Paris streets at night: lamps, shops, crowds, the barrier (the street bed, held down).",
+      "levels": {
+        "1": 0.4
+      }
+    }
+  },
   "chapters": [
     {
       "n": 1,
@@ -30,31 +90,31 @@
     },
     {
       "n": 2,
-      "bed": null,
+      "bed": "dover_road",
       "state": 1,
       "score": null
     },
     {
       "n": 3,
-      "bed": null,
+      "bed": "dover_road",
       "state": 1,
       "score": null
     },
     {
       "n": 4,
-      "bed": null,
+      "bed": "dover_inn",
       "state": 1,
       "score": null
     },
     {
       "n": 5,
-      "bed": null,
+      "bed": "saint_antoine",
       "state": 1,
       "score": null
     },
     {
       "n": 6,
-      "bed": null,
+      "bed": "garret",
       "state": 1,
       "score": null
     },

@@ -215,7 +215,9 @@
    "para": 18,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Madame Defarge, his wife, sat in the shop behind the counter as he\ncame in. Madame Defarge was a stout woman of about his own age, with\na watchful eye that seldom seemed to look at anything, a large hand\nheavily ringed, a steady face, strong features, and great composure of\nmanner. There was a character about Madame Defarge, from which one might\nhave predicated that she did not often make mistakes against herself\nin any of the reckonings over which she presided. Madame Defarge being\nsensitive to cold, was wrapped in fur, and had a quantity of bright\nshawl twined about her head, though not to the concealment of her large\nearrings. Her knitting was before her, but she had laid it down to pick\nher teeth with a toothpick. Thus engaged, with her right elbow supported\nby her left hand, Madame Defarge said nothing when her lord came in, but\ncoughed just one grain of cough. This, in combination with the lifting\nof her darkly defined eyebrows over her toothpick by the breadth of a\nline, suggested to her husband that he would do well to look round the\nshop among the customers, for any new customer who had dropped in while\nhe stepped over the way."
+   "text": "Madame Defarge, his wife, sat in the shop behind the counter as he\ncame in. Madame Defarge was a stout woman of about his own age, with\na watchful eye that seldom seemed to look at anything, a large hand\nheavily ringed, a steady face, strong features, and great composure of\nmanner. There was a character about Madame Defarge, from which one might\nhave predicated that she did not often make mistakes against herself\nin any of the reckonings over which she presided. Madame Defarge being\nsensitive to cold, was wrapped in fur, and had a quantity of bright\nshawl twined about her head, though not to the concealment of her large\nearrings. Her knitting was before her, but she had laid it down to pick\nher teeth with a toothpick. Thus engaged, with her right elbow supported\nby her left hand, Madame Defarge said nothing when her lord came in, but\ncoughed just one grain of cough. This, in combination with the lifting\nof her darkly defined eyebrows over her toothpick by the breadth of a\nline, suggested to her husband that he would do well to look round the\nshop among the customers, for any new customer who had dropped in while\nhe stepped over the way.",
+   "bed": "wine_shop",
+   "state": 1
   },
   {
    "n": 28,
@@ -474,7 +476,9 @@
    "para": 38,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Mr. Jarvis Lorry and Miss Manette, emerging from the wine-shop thus,\njoined Monsieur Defarge in the doorway to which he had directed his own\ncompany just before. It opened from a stinking little black courtyard,\nand was the general public entrance to a great pile of houses, inhabited\nby a great number of people. In the gloomy tile-paved entry to the\ngloomy tile-paved staircase, Monsieur Defarge bent down on one knee\nto the child of his old master, and put her hand to his lips. It was\na gentle action, but not at all gently done; a very remarkable\ntransformation had come over him in a few seconds. He had no good-humour\nin his face, nor any openness of aspect left, but had become a secret,\nangry, dangerous man."
+   "text": "Mr. Jarvis Lorry and Miss Manette, emerging from the wine-shop thus,\njoined Monsieur Defarge in the doorway to which he had directed his own\ncompany just before. It opened from a stinking little black courtyard,\nand was the general public entrance to a great pile of houses, inhabited\nby a great number of people. In the gloomy tile-paved entry to the\ngloomy tile-paved staircase, Monsieur Defarge bent down on one knee\nto the child of his old master, and put her hand to his lips. It was\na gentle action, but not at all gently done; a very remarkable\ntransformation had come over him in a few seconds. He had no good-humour\nin his face, nor any openness of aspect left, but had become a secret,\nangry, dangerous man.",
+   "bed": "stair",
+   "state": 1
   },
   {
    "n": 65,
@@ -866,7 +870,9 @@
    "para": 80,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The garret, built to be a depository for firewood and the like, was dim\nand dark: for, the window of dormer shape, was in truth a door in the\nroof, with a little crane over it for the hoisting up of stores from\nthe street: unglazed, and closing up the middle in two pieces, like any\nother door of French construction. To exclude the cold, one half of this\ndoor was fast closed, and the other was opened but a very little way.\nSuch a scanty portion of light was admitted through these means, that it\nwas difficult, on first coming in, to see anything; and long habit\nalone could have slowly formed in any one, the ability to do any work\nrequiring nicety in such obscurity. Yet, work of that kind was being\ndone in the garret; for, with his back towards the door, and his face\ntowards the window where the keeper of the wine-shop stood looking at\nhim, a white-haired man sat on a low bench, stooping forward and very\nbusy, making shoes."
+   "text": "The garret, built to be a depository for firewood and the like, was dim\nand dark: for, the window of dormer shape, was in truth a door in the\nroof, with a little crane over it for the hoisting up of stores from\nthe street: unglazed, and closing up the middle in two pieces, like any\nother door of French construction. To exclude the cold, one half of this\ndoor was fast closed, and the other was opened but a very little way.\nSuch a scanty portion of light was admitted through these means, that it\nwas difficult, on first coming in, to see anything; and long habit\nalone could have slowly formed in any one, the ability to do any work\nrequiring nicety in such obscurity. Yet, work of that kind was being\ndone in the garret; for, with his back towards the door, and his face\ntowards the window where the keeper of the wine-shop stood looking at\nhim, a white-haired man sat on a low bench, stooping forward and very\nbusy, making shoes.",
+   "bed": "garret",
+   "state": 1
   }
  ]
 }

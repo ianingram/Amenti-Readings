@@ -512,7 +512,7 @@ def main():
     stalled = mx.run()
     title = man.get('title') or ''
     num = int(man['nn']) if man['nn'] else 0
-    alb = {'dracula': 'Dracula', 'a-christmas-carol': 'A Christmas Carol', 'treasure-island': 'Treasure Island'}.get(mx.work, mx.work) + ' · Amenti Studios'
+    alb = {'dracula': 'Dracula', 'a-christmas-carol': 'A Christmas Carol', 'treasure-island': 'Treasure Island', 'a-tale-of-two-cities': 'A Tale of Two Cities'}.get(mx.work, mx.work) + ' · Amenti Studios'
     log('%s ep%s: %d sources, %.1f s' % (mx.work, man['nn'], len(mx.srcs), mx.length))
     tmp = out + '.part.m4a'
     ff = subprocess.Popen(['ffmpeg', '-hide_banner', '-loglevel', 'error', '-y', '-f', 'f32le', '-ar', str(SR), '-ac', '2', '-i', '-',

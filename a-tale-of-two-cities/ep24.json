@@ -25,10 +25,6 @@
   {
    "role": "Doctor Manette",
    "cast_as": "Nostradamus"
-  },
-  {
-   "role": "Ernest Defarge",
-   "cast_as": "Victor Hugo"
   }
  ],
  "cues": [
@@ -378,8 +374,8 @@
   {
    "n": 50,
    "para": 24,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I think,”"
   },
   {
@@ -392,8 +388,8 @@
   {
    "n": 52,
    "para": 24,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I\nthink we had best not speak to him just now, or at all disturb him.\nI must look in at Tellson’s; so I will go there at once and come back\npresently. Then, we will take him a ride into the country, and dine\nthere, and all will be well.”"
   },
   {
@@ -406,8 +402,8 @@
   {
    "n": 54,
    "para": 26,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Good God!”"
   },
   {
@@ -420,8 +416,8 @@
   {
    "n": 56,
    "para": 26,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“What’s that?”"
   },
   {
@@ -462,8 +458,8 @@
   {
    "n": 62,
    "para": 29,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Doctor Manette. My dear friend, Doctor Manette!”"
   },
   {
@@ -490,8 +486,8 @@
   {
    "n": 66,
    "para": 33,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“A young lady’s walking shoe,”"
   },
   {
@@ -504,15 +500,15 @@
   {
    "n": 68,
    "para": 33,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“It\nought to have been finished long ago. Let it be.”"
   },
   {
    "n": 69,
    "para": 34,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“But, Doctor Manette. Look at me!”"
   },
   {
@@ -574,8 +570,8 @@
   {
    "n": 78,
    "para": 43,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Will you go out?”"
   },
   {
@@ -588,15 +584,15 @@
   {
    "n": 80,
    "para": 45,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Out?”"
   },
   {
    "n": 81,
    "para": 46,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Yes; for a walk with me. Why not?”"
   },
   {
@@ -609,8 +605,8 @@
   {
    "n": 83,
    "para": 47,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Why not?”"
   },
   {
@@ -644,8 +640,8 @@
   {
    "n": 88,
    "para": 51,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Dear Doctor, will you go out?”"
   },
   {

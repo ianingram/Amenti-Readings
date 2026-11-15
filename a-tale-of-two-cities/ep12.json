@@ -23,16 +23,16 @@
    "cast_as": "Emmeline Pankhurst"
   },
   {
-   "role": "Lucie Manette",
-   "cast_as": "Jane Goodall"
-  },
-  {
    "role": "Charles Darnay",
    "cast_as": "Louis Philippe I"
   },
   {
    "role": "Doctor Manette",
    "cast_as": "Nostradamus"
+  },
+  {
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
   },
   {
    "role": "Sydney Carton",
@@ -110,8 +110,8 @@
   {
    "n": 10,
    "para": 9,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Doctor Manette at home?”"
   },
   {
@@ -124,8 +124,8 @@
   {
    "n": 12,
    "para": 11,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Miss Lucie at home?”"
   },
   {
@@ -138,8 +138,8 @@
   {
    "n": 14,
    "para": 13,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Miss Pross at home?”"
   },
   {
@@ -208,8 +208,8 @@
   {
    "n": 24,
    "para": 19,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
    "text": "“And why wonder at that?”"
   },
   {
@@ -257,8 +257,8 @@
   {
    "n": 31,
    "para": 23,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
    "text": "“How do you do?”"
   },
   {
@@ -929,8 +929,8 @@
   {
    "n": 127,
    "para": 79,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“a fit of the\njerks.”"
   },
   {
@@ -971,8 +971,8 @@
   {
    "n": 133,
    "para": 82,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Lucie and I have been there; but only casually. We have seen enough of\nit, to know that it teems with interest; little more.”"
   },
   {
@@ -1048,8 +1048,8 @@
   {
    "n": 144,
    "para": 88,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“No, my dear, not ill. There are large drops of rain falling, and they\nmade me start. We had better go in.”"
   },
   {
@@ -1202,15 +1202,15 @@
   {
    "n": 166,
    "para": 103,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Are all these footsteps destined to come to all of us, Miss Manette, or\nare we to divide them among us?”"
   },
   {
    "n": 167,
    "para": 104,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“I don’t know, Mr. Darnay; I told you it was a foolish fancy, but you\nasked for it. When I have yielded myself to it, I have been alone, and\nthen I have imagined them the footsteps of the people who are to come\ninto my life, and my father’s.”"
   },
   {
@@ -1314,8 +1314,8 @@
   {
    "n": 182,
    "para": 111,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Good night, Mr. Carton,”"
   },
   {
@@ -1328,8 +1328,8 @@
   {
    "n": 184,
    "para": 111,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Good night, Mr.\nDarnay. Shall we ever see such a night again, together!”"
   },
   {

@@ -15,6 +15,10 @@
    "cast_as": "Charles Dickens"
   },
   {
+   "role": "John Barsad",
+   "cast_as": "Richard III of England"
+  },
+  {
    "role": "Sydney Carton",
    "cast_as": "Christopher Hitchens"
   },
@@ -23,8 +27,12 @@
    "cast_as": "Louis Philippe I"
   },
   {
-   "role": "John Barsad",
-   "cast_as": "Richard III of England"
+   "role": "The seamstress",
+   "cast_as": "Marie Antoinette"
+  },
+  {
+   "role": "Jarvis Lorry",
+   "cast_as": "Isaac Newton"
   },
   {
    "role": "Lucie Manette",
@@ -126,8 +134,8 @@
   {
    "n": 14,
    "para": 12,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“this is the day of my death!”"
   },
   {
@@ -175,8 +183,8 @@
   {
    "n": 21,
    "para": 18,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“There is but another now,”"
   },
   {
@@ -203,8 +211,8 @@
   {
    "n": 25,
    "para": 20,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“He has never seen\nme here; I have kept out of his way. Go you in alone; I wait near. Lose\nno time!”"
   },
   {
@@ -224,8 +232,8 @@
   {
    "n": 28,
    "para": 23,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Of all the people upon earth, you least expected to see me?”"
   },
   {
@@ -238,8 +246,8 @@
   {
    "n": 30,
    "para": 24,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“I could not believe it to be you. I can scarcely believe it now. You\nare not”"
   },
   {
@@ -252,15 +260,15 @@
   {
    "n": 32,
    "para": 24,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“a prisoner?”"
   },
   {
    "n": 33,
    "para": 25,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“No. I am accidentally possessed of a power over one of the keepers\nhere, and in virtue of it I stand before you. I come from her--your\nwife, dear Darnay.”"
   },
   {
@@ -301,8 +309,8 @@
   {
    "n": 39,
    "para": 31,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“You have no time to ask me why I bring it, or what it means; I have\nno time to tell you. You must comply with it--take off those boots you\nwear, and draw on these of mine.”"
   },
   {
@@ -378,22 +386,22 @@
   {
    "n": 50,
    "para": 42,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Write exactly as I speak.”"
   },
   {
    "n": 51,
    "para": 43,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“To whom do I address it?”"
   },
   {
    "n": 52,
    "para": 44,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“To no one.”"
   },
   {
@@ -406,15 +414,15 @@
   {
    "n": 54,
    "para": 45,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Do I date it?”"
   },
   {
    "n": 55,
    "para": 46,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“No.”"
   },
   {
@@ -637,8 +645,8 @@
   {
    "n": 87,
    "para": 65,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Enter there! Come in!”"
   },
   {
@@ -672,8 +680,8 @@
   {
    "n": 92,
    "para": 67,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“Mr. Carton,”"
   },
   {
@@ -686,8 +694,8 @@
   {
    "n": 94,
    "para": 67,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“my\nhazard is not _that_, in the thick of business here, if you are true to\nthe whole of your bargain.”"
   },
   {
@@ -700,8 +708,8 @@
   {
    "n": 96,
    "para": 69,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“You must be, Mr. Carton, if the tale of fifty-two is to be right. Being\nmade right by you in that dress, I shall have no fear.”"
   },
   {
@@ -714,8 +722,8 @@
   {
    "n": 98,
    "para": 71,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“You?”"
   },
   {
@@ -735,8 +743,8 @@
   {
    "n": 101,
    "para": 73,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“Of course.”"
   },
   {
@@ -749,8 +757,8 @@
   {
    "n": 103,
    "para": 75,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“You swear not to betray me?”"
   },
   {
@@ -791,8 +799,8 @@
   {
    "n": 109,
    "para": 78,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“How, then?”"
   },
   {
@@ -805,8 +813,8 @@
   {
    "n": 111,
    "para": 78,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“So\nafflicted to find that his friend has drawn a prize in the lottery of\nSainte Guillotine?”"
   },
   {
@@ -840,8 +848,8 @@
   {
    "n": 116,
    "para": 81,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“The time is short, Evrémonde,”"
   },
   {
@@ -910,8 +918,8 @@
   {
    "n": 126,
    "para": 85,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Follow me, Evrémonde!”"
   },
   {
@@ -931,8 +939,8 @@
   {
    "n": 129,
    "para": 87,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "The seamstress",
+   "cast": "Marie Antoinette",
    "text": "“Citizen Evrémonde,”"
   },
   {
@@ -945,8 +953,8 @@
   {
    "n": 131,
    "para": 87,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "The seamstress",
+   "cast": "Marie Antoinette",
    "text": "“I am a\npoor little seamstress, who was with you in La Force.”"
   },
   {
@@ -959,15 +967,15 @@
   {
    "n": 133,
    "para": 88,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“True. I forget what you were accused of?”"
   },
   {
    "n": 134,
    "para": 89,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "The seamstress",
+   "cast": "Marie Antoinette",
    "text": "“Plots. Though the just Heaven knows that I am innocent of any. Is it\nlikely? Who would think of plotting with a poor little weak creature\nlike me?”"
   },
   {
@@ -980,8 +988,8 @@
   {
    "n": 136,
    "para": 91,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "The seamstress",
+   "cast": "Marie Antoinette",
    "text": "“I am not afraid to die, Citizen Evrémonde, but I have done nothing. I\nam not unwilling to die, if the Republic which is to do so much good\nto us poor, will profit by my death; but I do not know how that can be,\nCitizen Evrémonde. Such a poor weak little creature!”"
   },
   {
@@ -994,22 +1002,22 @@
   {
    "n": 138,
    "para": 93,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "The seamstress",
+   "cast": "Marie Antoinette",
    "text": "“I heard you were released, Citizen Evrémonde. I hoped it was true?”"
   },
   {
    "n": 139,
    "para": 94,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“It was. But, I was again taken and condemned.”"
   },
   {
    "n": 140,
    "para": 95,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "The seamstress",
+   "cast": "Marie Antoinette",
    "text": "“If I may ride with you, Citizen Evrémonde, will you let me hold your\nhand? I am not afraid, but I am little and weak, and it will give me\nmore courage.”"
   },
   {
@@ -1022,8 +1030,8 @@
   {
    "n": 142,
    "para": 97,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "The seamstress",
+   "cast": "Marie Antoinette",
    "text": "“Are you dying for him?”"
   },
   {
@@ -1036,22 +1044,22 @@
   {
    "n": 144,
    "para": 98,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“And his wife and child. Hush! Yes.”"
   },
   {
    "n": 145,
    "para": 99,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "The seamstress",
+   "cast": "Marie Antoinette",
    "text": "“O you will let me hold your brave hand, stranger?”"
   },
   {
    "n": 146,
    "para": 100,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Hush! Yes, my poor sister; to the last.”"
   },
   {
@@ -1064,8 +1072,8 @@
   {
    "n": 148,
    "para": 103,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Who goes here? Whom have we within? Papers!”"
   },
   {
@@ -1078,8 +1086,8 @@
   {
    "n": 150,
    "para": 105,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Alexandre Manette. Physician. French. Which is he?”"
   },
   {
@@ -1092,8 +1100,8 @@
   {
    "n": 152,
    "para": 107,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Apparently the Citizen-Doctor is not in his right mind? The\nRevolution-fever will have been too much for him?”"
   },
   {
@@ -1106,8 +1114,8 @@
   {
    "n": 154,
    "para": 109,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Hah! Many suffer with it. Lucie. His daughter. French. Which is she?”"
   },
   {
@@ -1120,8 +1128,8 @@
   {
    "n": 156,
    "para": 111,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Apparently it must be. Lucie, the wife of Evrémonde; is it not?”"
   },
   {
@@ -1134,8 +1142,8 @@
   {
    "n": 158,
    "para": 113,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Hah! Evrémonde has an assignation elsewhere. Lucie, her child. English.\nThis is she?”"
   },
   {
@@ -1148,8 +1156,8 @@
   {
    "n": 160,
    "para": 115,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Kiss me, child of Evrémonde. Now, thou hast kissed a good Republican;\nsomething new in thy family; remember it! Sydney Carton. Advocate.\nEnglish. Which is he?”"
   },
   {
@@ -1162,8 +1170,8 @@
   {
    "n": 162,
    "para": 117,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Apparently the English advocate is in a swoon?”"
   },
   {
@@ -1176,15 +1184,15 @@
   {
    "n": 164,
    "para": 119,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Is that all? It is not a great deal, that! Many are under the\ndispleasure of the Republic, and must look out at the little window.\nJarvis Lorry. Banker. English. Which is he?”"
   },
   {
    "n": 165,
    "para": 120,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I am he. Necessarily, being the last.”"
   },
   {
@@ -1197,29 +1205,29 @@
   {
    "n": 167,
    "para": 122,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Behold your papers, Jarvis Lorry, countersigned.”"
   },
   {
    "n": 168,
    "para": 123,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“One can depart, citizen?”"
   },
   {
    "n": 169,
    "para": 124,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“One can depart. Forward, my postilions! A good journey!”"
   },
   {
    "n": 170,
    "para": 125,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I salute you, citizens.--And the first danger passed!”"
   },
   {
@@ -1246,8 +1254,8 @@
   {
    "n": 174,
    "para": 128,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“It would seem like flight, my darling. I must not urge them too much;\nit would rouse suspicion.”"
   },
   {
@@ -1260,8 +1268,8 @@
   {
    "n": 176,
    "para": 130,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“The road is clear, my dearest. So far, we are not pursued.”"
   },
   {
@@ -1295,15 +1303,15 @@
   {
    "n": 181,
    "para": 135,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Ho! Within the carriage there. Speak then!”"
   },
   {
    "n": 182,
    "para": 136,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“What is it?”"
   },
   {
@@ -1316,36 +1324,36 @@
   {
    "n": 184,
    "para": 137,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“How many did they say?”"
   },
   {
    "n": 185,
    "para": 138,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I do not understand you.”"
   },
   {
    "n": 186,
    "para": 139,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“--At the last post. How many to the Guillotine to-day?”"
   },
   {
    "n": 187,
    "para": 140,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Fifty-two.”"
   },
   {
    "n": 188,
    "para": 141,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“I said so! A brave number! My fellow-citizen here would have it\nforty-two; ten more heads are worth having. The Guillotine goes\nhandsomely. I love it. Hi forward. Whoop!”"
   },
   {

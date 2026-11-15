@@ -35,6 +35,10 @@
    "cast_as": "Edith Piaf"
   },
   {
+   "role": "Doctor Manette",
+   "cast_as": "Nostradamus"
+  },
+  {
    "role": "Jarvis Lorry",
    "cast_as": "Isaac Newton"
   }
@@ -64,8 +68,8 @@
   {
    "n": 4,
    "para": 2,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“At\nTellson’s banking-house at nine,”"
   },
   {
@@ -78,8 +82,8 @@
   {
    "n": 6,
    "para": 2,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Shall I\ndo well, in the mean time, to show myself? I think so. It is best that\nthese people should know there is such a man as I here; it is a sound\nprecaution, and may be a necessary preparation. But care, care, care!\nLet me think it out!”"
   },
   {
@@ -211,8 +215,8 @@
   {
    "n": 25,
    "para": 14,
-   "role": "Madame Defarge",
-   "cast": "Coco Chanel",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Good evening.”"
   },
   {
@@ -260,8 +264,8 @@
   {
    "n": 32,
    "para": 16,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
    "text": "“I tell you a good deal like.”"
   },
   {
@@ -274,8 +278,8 @@
   {
    "n": 34,
    "para": 16,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“He is so much in your mind, see you, madame.”"
   },
   {
@@ -288,8 +292,8 @@
   {
    "n": 36,
    "para": 16,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "The Vengeance",
+   "cast": "Edith Piaf",
    "text": "“Yes, my faith! And you\nare looking forward with so much pleasure to seeing him once more\nto-morrow!”"
   },
   {
@@ -358,8 +362,8 @@
   {
    "n": 46,
    "para": 21,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“Magnificent!”"
   },
   {
@@ -463,8 +467,8 @@
   {
    "n": 61,
    "para": 26,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“The citizeness is superb!”"
   },
   {
@@ -659,8 +663,8 @@
   {
    "n": 89,
    "para": 39,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Tell\nthe Wind and the Fire where to stop; not me!”"
   },
   {
@@ -708,8 +712,8 @@
   {
    "n": 96,
    "para": 46,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“I cannot find it,”"
   },
   {
@@ -722,8 +726,8 @@
   {
    "n": 98,
    "para": 46,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“and I must have it. Where is it?”"
   },
   {
@@ -736,8 +740,8 @@
   {
    "n": 100,
    "para": 48,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Where is my bench? I have been looking everywhere for my bench, and I\ncan’t find it. What have they done with my work? Time presses: I must\nfinish those shoes.”"
   },
   {
@@ -750,8 +754,8 @@
   {
    "n": 102,
    "para": 50,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Come, come!”"
   },
   {
@@ -764,8 +768,8 @@
   {
    "n": 104,
    "para": 50,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“let me get to\nwork. Give me my work.”"
   },
   {
@@ -778,8 +782,8 @@
   {
    "n": 106,
    "para": 52,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Don’t torture a poor forlorn wretch,”"
   },
   {
@@ -792,8 +796,8 @@
   {
    "n": 108,
    "para": 52,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“but give me my work! What is to become of us, if those shoes are\nnot done to-night?”"
   },
   {
@@ -820,8 +824,8 @@
   {
    "n": 112,
    "para": 56,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“The last chance is gone: it was not much. Yes; he had better be taken\nto her. But, before you go, will you, for a moment, steadily attend to\nme? Don’t ask me why I make the stipulations I am going to make, and\nexact the promise I am going to exact; I have a reason--a good one.”"
   },
   {
@@ -862,8 +866,8 @@
   {
    "n": 118,
    "para": 59,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“We should look\nat this!”"
   },
   {
@@ -876,8 +880,8 @@
   {
    "n": 120,
    "para": 59,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Thank _God!_”"
   },
   {
@@ -897,8 +901,8 @@
   {
    "n": 123,
    "para": 61,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“A moment! Let me speak of it in its place. First,”"
   },
   {
@@ -911,8 +915,8 @@
   {
    "n": 125,
    "para": 61,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“that is the certificate which\nenables me to pass out of this city. Look at it. You see--Sydney Carton,\nan Englishman?”"
   },
   {
@@ -925,50 +929,50 @@
   {
    "n": 127,
    "para": 63,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Keep it for me until to-morrow. I shall see him to-morrow, you\nremember, and I had better not take it into the prison.”"
   },
   {
    "n": 128,
    "para": 64,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Why not?”"
   },
   {
    "n": 129,
    "para": 65,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“I don’t know; I prefer not to do so. Now, take this paper that Doctor\nManette has carried about him. It is a similar certificate, enabling him\nand his daughter and her child, at any time, to pass the barrier and the\nfrontier! You see?”"
   },
   {
    "n": 130,
    "para": 66,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Yes!”"
   },
   {
    "n": 131,
    "para": 67,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Perhaps he obtained it as his last and utmost precaution against evil,\nyesterday. When is it dated? But no matter; don’t stay to look; put it\nup carefully with mine and your own. Now, observe! I never doubted until\nwithin this hour or two, that he had, or could have such a paper. It is\ngood, until recalled. But it may be soon recalled, and, I have reason to\nthink, will be.”"
   },
   {
    "n": 132,
    "para": 68,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“They are not in danger?”"
   },
   {
    "n": 133,
    "para": 69,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“They are in great danger. They are in danger of denunciation by Madame\nDefarge. I know it from her own lips. I have overheard words of that\nwoman’s, to-night, which have presented their danger to me in strong\ncolours. I have lost no time, and since then, I have seen the spy. He\nconfirms me. He knows that a wood-sawyer, living by the prison wall,\nis under the control of the Defarges, and has been rehearsed by\nMadame Defarge as to his having seen Her”"
   },
   {
@@ -981,29 +985,29 @@
   {
    "n": 135,
    "para": 69,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“making signs and signals to prisoners. It is easy to foresee that\nthe pretence will be the common one, a prison plot, and that it will\ninvolve her life--and perhaps her child’s--and perhaps her father’s--for\nboth have been seen with her at that place. Don’t look so horrified. You\nwill save them all.”"
   },
   {
    "n": 136,
    "para": 70,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Heaven grant I may, Carton! But how?”"
   },
   {
    "n": 137,
    "para": 71,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“I am going to tell you how. It will depend on you, and it could depend\non no better man. This new denunciation will certainly not take place\nuntil after to-morrow; probably not until two or three days afterwards;\nmore probably a week afterwards. You know it is a capital crime, to\nmourn for, or sympathise with, a victim of the Guillotine. She and her\nfather would unquestionably be guilty of this crime, and this woman (the\ninveteracy of whose pursuit cannot be described) would wait to add that\nstrength to her case, and make herself doubly sure. You follow me?”"
   },
   {
    "n": 138,
    "para": 72,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“So attentively, and with so much confidence in what you say, that for\nthe moment I lose sight,”"
   },
   {
@@ -1016,22 +1020,22 @@
   {
    "n": 140,
    "para": 72,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“even\nof this distress.”"
   },
   {
    "n": 141,
    "para": 73,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“You have money, and can buy the means of travelling to the seacoast\nas quickly as the journey can be made. Your preparations have been\ncompleted for some days, to return to England. Early to-morrow have your\nhorses ready, so that they may be in starting trim at two o’clock in the\nafternoon.”"
   },
   {
    "n": 142,
    "para": 74,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“It shall be done!”"
   },
   {
@@ -1044,8 +1048,8 @@
   {
    "n": 144,
    "para": 76,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“You are a noble heart. Did I say we could depend upon no better man?\nTell her, to-night, what you know of her danger as involving her child\nand her father. Dwell upon that, for she would lay her own fair head\nbeside her husband’s cheerfully.”"
   },
   {
@@ -1058,36 +1062,36 @@
   {
    "n": 146,
    "para": 76,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“For the sake of her child and her father, press upon her\nthe necessity of leaving Paris, with them and you, at that hour. Tell\nher that it was her husband’s last arrangement. Tell her that more\ndepends upon it than she dare believe, or hope. You think that her\nfather, even in this sad state, will submit himself to her; do you not?”"
   },
   {
    "n": 147,
    "para": 77,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I am sure of it.”"
   },
   {
    "n": 148,
    "para": 78,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“I thought so. Quietly and steadily have all these arrangements made in\nthe courtyard here, even to the taking of your own seat in the carriage.\nThe moment I come to you, take me in, and drive away.”"
   },
   {
    "n": 149,
    "para": 79,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I understand that I wait for you under all circumstances?”"
   },
   {
    "n": 150,
    "para": 80,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“You have my certificate in your hand with the rest, you know, and will\nreserve my place. Wait for nothing but to have my place occupied, and\nthen for England!”"
   },
   {
@@ -1114,8 +1118,8 @@
   {
    "n": 154,
    "para": 82,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“By the help of Heaven you shall! Promise me solemnly that nothing will\ninfluence you to alter the course on which we now stand pledged to one\nanother.”"
   },
   {
@@ -1128,8 +1132,8 @@
   {
    "n": 156,
    "para": 84,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Remember these words to-morrow: change the course, or delay in it--for\nany reason--and no life can possibly be saved, and many lives must\ninevitably be sacrificed.”"
   },
   {
@@ -1142,8 +1146,8 @@
   {
    "n": 158,
    "para": 86,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“And I hope to do mine. Now, good bye!”"
   },
   {

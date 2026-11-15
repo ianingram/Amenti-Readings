@@ -15,12 +15,12 @@
    "cast_as": "Charles Dickens"
   },
   {
-   "role": "Miss Pross",
-   "cast_as": "Emmeline Pankhurst"
-  },
-  {
    "role": "John Barsad",
    "cast_as": "Richard III of England"
+  },
+  {
+   "role": "Miss Pross",
+   "cast_as": "Emmeline Pankhurst"
   },
   {
    "role": "Jerry Cruncher",
@@ -95,8 +95,8 @@
   {
    "n": 9,
    "para": 8,
-   "role": "Miss Pross",
-   "cast": "Emmeline Pankhurst",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“What is the matter?”"
   },
   {
@@ -130,8 +130,8 @@
   {
    "n": 14,
    "para": 10,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“Don’t call me Solomon. Do you want to be the death of me?”"
   },
   {
@@ -396,8 +396,8 @@
   {
    "n": 52,
    "para": 26,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
    "text": "“I say! Might I ask the favour? As to whether your name is John Solomon,\nor Solomon John?”"
   },
   {
@@ -487,8 +487,8 @@
   {
    "n": 65,
    "para": 35,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Barsad,”"
   },
   {
@@ -522,8 +522,8 @@
   {
    "n": 70,
    "para": 38,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Don’t be alarmed, my dear Miss Pross. I arrived at Mr. Lorry’s, to his\nsurprise, yesterday evening; we agreed that I would not present myself\nelsewhere until all was well, or unless I could be useful; I present\nmyself here, to beg a little talk with your brother. I wish you had a\nbetter employed brother than Mr. Barsad. I wish for your sake Mr. Barsad\nwas not a Sheep of the Prisons.”"
   },
   {
@@ -732,8 +732,8 @@
   {
    "n": 100,
    "para": 58,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Barsad?”"
   },
   {
@@ -746,8 +746,8 @@
   {
    "n": 102,
    "para": 58,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Barsad? I have an association\nwith the name--and with the face.”"
   },
   {
@@ -781,8 +781,8 @@
   {
    "n": 107,
    "para": 60,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Witness at that trial.”"
   },
   {
@@ -837,8 +837,8 @@
   {
    "n": 115,
    "para": 64,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“Just now, if at all.”"
   },
   {
@@ -1040,8 +1040,8 @@
   {
    "n": 144,
    "para": 81,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Look over your hand carefully, Mr. Barsad. Take time.”"
   },
   {
@@ -1173,8 +1173,8 @@
   {
    "n": 163,
    "para": 91,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“And indeed, now I think again, I have a strong impression that I\nhave another good card here, not yet enumerated. That friend and\nfellow-Sheep, who spoke of himself as pasturing in the country prisons;\nwho was he?”"
   },
   {
@@ -1656,15 +1656,15 @@
   {
    "n": 232,
    "para": 119,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "John Barsad",
+   "cast": "Richard III of England",
    "text": "“It has come to a point. I go on duty soon, and\ncan’t overstay my time. You told me you had a proposal; what is it?\nNow, it is of no use asking too much of me. Ask me to do anything in my\noffice, putting my head in great extra danger, and I had better trust my\nlife to the chances of a refusal than the chances of consent. In short,\nI should make that choice. You talk of desperation. We are all desperate\nhere. Remember! I may denounce you if I think proper, and I can swear my\nway through stone walls, and so can others. Now, what do you want with\nme?”"
   },
   {
    "n": 233,
    "para": 120,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Not very much. You are a turnkey at the Conciergerie?”"
   },
   {
@@ -1684,8 +1684,8 @@
   {
    "n": 236,
    "para": 122,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Why need you tell me what I have not asked? You are a turnkey at the\nConciergerie?”"
   },
   {
@@ -1698,8 +1698,8 @@
   {
    "n": 238,
    "para": 124,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“You can be when you choose?”"
   },
   {
@@ -1719,8 +1719,8 @@
   {
    "n": 241,
    "para": 127,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“So far, we have spoken before these two, because it was as well that\nthe merits of the cards should not rest solely between you and me. Come\ninto the dark room here, and let us have one final word alone.”"
   }
  ]

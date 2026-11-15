@@ -17,6 +17,10 @@
   {
    "role": "The Marquis St. Evrémonde",
    "cast_as": "Marquis de Sade"
+  },
+  {
+   "role": "Ernest Defarge",
+   "cast_as": "Victor Hugo"
   }
  ],
  "cues": [
@@ -219,8 +223,8 @@
   {
    "n": 29,
    "para": 21,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“What has gone wrong?”"
   },
   {
@@ -261,8 +265,8 @@
   {
    "n": 35,
    "para": 24,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“Why does he make that abominable noise? Is it his child?”"
   },
   {
@@ -359,8 +363,8 @@
   {
    "n": 49,
    "para": 33,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“I know all, I know all,”"
   },
   {
@@ -373,8 +377,8 @@
   {
    "n": 51,
    "para": 33,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Be a brave man, my\nGaspard! It is better for the poor little plaything to die so, than to\nlive. It has died in a moment without pain. Could it have lived an hour\nas happily?”"
   },
   {
@@ -401,8 +405,8 @@
   {
    "n": 55,
    "para": 35,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“They call me Defarge.”"
   },
   {
@@ -415,8 +419,8 @@
   {
    "n": 57,
    "para": 37,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Monsieur the Marquis, vendor of wine.”"
   },
   {

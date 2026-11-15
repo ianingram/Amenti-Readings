@@ -19,12 +19,16 @@
    "cast_as": "Philip IV of France"
   },
   {
+   "role": "The Vengeance",
+   "cast_as": "Edith Piaf"
+  },
+  {
    "role": "Madame Defarge",
    "cast_as": "Coco Chanel"
   },
   {
-   "role": "The Vengeance",
-   "cast_as": "Edith Piaf"
+   "role": "The mender of roads",
+   "cast_as": "Louis Pasteur"
   },
   {
    "role": "Miss Pross",
@@ -81,8 +85,8 @@
   {
    "n": 7,
    "para": 4,
-   "role": "Jacques Three",
-   "cast": "Philip IV of France",
+   "role": "The Vengeance",
+   "cast": "Edith Piaf",
    "text": "“There is no better,”"
   },
   {
@@ -95,8 +99,8 @@
   {
    "n": 9,
    "para": 4,
-   "role": "Jacques Three",
-   "cast": "Philip IV of France",
+   "role": "The Vengeance",
+   "cast": "Edith Piaf",
    "text": "“in France.”"
   },
   {
@@ -312,8 +316,8 @@
   {
    "n": 40,
    "para": 16,
-   "role": "Jacques Three",
-   "cast": "Philip IV of France",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Ay, ay, why not!”"
   },
   {
@@ -326,8 +330,8 @@
   {
    "n": 42,
    "para": 16,
-   "role": "Jacques Three",
-   "cast": "Philip IV of France",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Every day, in all weathers, from\ntwo to four, always signalling, sometimes with the little one, sometimes\nwithout. I know what I know. I have seen with my eyes.”"
   },
   {
@@ -515,8 +519,8 @@
   {
    "n": 69,
    "para": 30,
-   "role": "Jacques Three",
-   "cast": "Philip IV of France",
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
    "text": "“She will now be at home, awaiting the moment of his death. She will\nbe mourning and grieving. She will be in a state of mind to impeach the\njustice of the Republic. She will be full of sympathy with its enemies.\nI will go to her.”"
   },
   {
@@ -1677,8 +1681,8 @@
   {
    "n": 235,
    "para": 107,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Miss Pross",
+   "cast": "Emmeline Pankhurst",
    "text": "“I don’t hear it.”"
   },
   {

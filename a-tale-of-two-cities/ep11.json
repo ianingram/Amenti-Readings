@@ -15,12 +15,12 @@
    "cast_as": "Charles Dickens"
   },
   {
-   "role": "Stryver",
-   "cast_as": "Pompey"
-  },
-  {
    "role": "Sydney Carton",
    "cast_as": "Christopher Hitchens"
+  },
+  {
+   "role": "Stryver",
+   "cast_as": "Pompey"
   }
  ],
  "cues": [
@@ -90,8 +90,8 @@
   {
    "n": 10,
    "para": 7,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“_What’s_ the matter?”"
   },
   {
@@ -104,8 +104,8 @@
   {
    "n": 12,
    "para": 9,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“What do you mean? Ten o’clock at night?”"
   },
   {
@@ -118,8 +118,8 @@
   {
    "n": 14,
    "para": 11,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Oh! I remember. Very well, very well.”"
   },
   {
@@ -153,8 +153,8 @@
   {
    "n": 19,
    "para": 15,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“About the usual time; it may be a quarter of an hour later.”"
   },
   {
@@ -174,8 +174,8 @@
   {
    "n": 22,
    "para": 18,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Two to-night, I think. I have been dining with the day’s client; or\nseeing him dine--it’s all one!”"
   },
   {
@@ -188,8 +188,8 @@
   {
    "n": 24,
    "para": 20,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“I thought he was rather a handsome fellow, and I thought I should have\nbeen much the same sort of fellow, if I had had any luck.”"
   },
   {
@@ -216,8 +216,8 @@
   {
    "n": 28,
    "para": 23,
-   "role": "Stryver",
-   "cast": "Pompey",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Now I am ready!”"
   },
   {
@@ -237,8 +237,8 @@
   {
    "n": 31,
    "para": 25,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“How much?”"
   },
   {
@@ -251,8 +251,8 @@
   {
    "n": 33,
    "para": 27,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Give me the worst first.”"
   },
   {
@@ -300,22 +300,22 @@
   {
    "n": 40,
    "para": 33,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“You were very sound, Sydney, in the matter of those crown witnesses\nto-day. Every question told.”"
   },
   {
    "n": 41,
    "para": 34,
-   "role": "Stryver",
-   "cast": "Pompey",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“I always am sound; am I not?”"
   },
   {
    "n": 42,
    "para": 35,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“I don’t gainsay it. What has roughened your temper? Put some punch to\nit and smooth it again.”"
   },
   {
@@ -349,8 +349,8 @@
   {
    "n": 47,
    "para": 38,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Ah!”"
   },
   {
@@ -363,8 +363,8 @@
   {
    "n": 49,
    "para": 38,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“yes! The same Sydney, with the same\nluck. Even then, I did exercises for other boys, and seldom did my own.”"
   },
   {
@@ -377,8 +377,8 @@
   {
    "n": 51,
    "para": 40,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“God knows. It was my way, I suppose.”"
   },
   {
@@ -545,8 +545,8 @@
   {
    "n": 75,
    "para": 53,
-   "role": "Stryver",
-   "cast": "Pompey",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Pretty witness,”"
   },
   {
@@ -559,50 +559,50 @@
   {
    "n": 77,
    "para": 53,
-   "role": "Stryver",
-   "cast": "Pompey",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“I have had\nenough of witnesses to-day and to-night; who’s your pretty witness?”"
   },
   {
    "n": 78,
    "para": 54,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“The picturesque doctor’s daughter, Miss Manette.”"
   },
   {
    "n": 79,
    "para": 55,
-   "role": "Stryver",
-   "cast": "Pompey",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“_She_ pretty?”"
   },
   {
    "n": 80,
    "para": 56,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“Is she not?”"
   },
   {
    "n": 81,
    "para": 57,
-   "role": "Stryver",
-   "cast": "Pompey",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“No.”"
   },
   {
    "n": 82,
    "para": 58,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“Why, man alive, she was the admiration of the whole Court!”"
   },
   {
    "n": 83,
    "para": 59,
-   "role": "Stryver",
-   "cast": "Pompey",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Rot the admiration of the whole Court! Who made the Old Bailey a judge\nof beauty? She was a golden-haired doll!”"
   },
   {

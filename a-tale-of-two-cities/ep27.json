@@ -15,8 +15,8 @@
    "cast_as": "Charles Dickens"
   },
   {
-   "role": "Doctor Manette",
-   "cast_as": "Nostradamus"
+   "role": "Stryver",
+   "cast_as": "Pompey"
   },
   {
    "role": "Jarvis Lorry",
@@ -27,12 +27,24 @@
    "cast_as": "Louis Philippe I"
   },
   {
+   "role": "Doctor Manette",
+   "cast_as": "Nostradamus"
+  },
+  {
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
+  },
+  {
    "role": "Ernest Defarge",
    "cast_as": "Victor Hugo"
   },
   {
    "role": "Madame Defarge",
    "cast_as": "Coco Chanel"
+  },
+  {
+   "role": "Jacques Three",
+   "cast_as": "Philip IV of France"
   }
  ],
  "cues": [
@@ -88,8 +100,8 @@
   {
    "n": 8,
    "para": 6,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Dear papa and mamma, I am very sorry to leave you both, and to\nleave my pretty sister; but I am called, and I must go!”"
   },
   {
@@ -123,8 +135,8 @@
   {
    "n": 13,
    "para": 9,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Poor Carton! Kiss him for me!”"
   },
   {
@@ -144,8 +156,8 @@
   {
    "n": 16,
    "para": 11,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“Halloa! here are three lumps of\nbread-and-cheese towards your matrimonial picnic, Darnay!”"
   },
   {
@@ -158,8 +170,8 @@
   {
    "n": 18,
    "para": 11,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“catch”"
   },
   {
@@ -172,8 +184,8 @@
   {
    "n": 20,
    "para": 11,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“not\nto be caught.”"
   },
   {
@@ -193,8 +205,8 @@
   {
    "n": 23,
    "para": 12,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“What is\nthe magic secret, my darling, of your being everything to all of us,\nas if there were only one of us, yet never seeming to be hurried, or to\nhave too much to do?”"
   },
   {
@@ -235,8 +247,8 @@
   {
    "n": 29,
    "para": 16,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“That has a bad look,”"
   },
   {
@@ -340,8 +352,8 @@
   {
    "n": 44,
    "para": 24,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“Of course, it has been kept for you.”"
   },
   {
@@ -354,8 +366,8 @@
   {
    "n": 46,
    "para": 26,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“And sleeping soundly.”"
   },
   {
@@ -368,8 +380,8 @@
   {
    "n": 48,
    "para": 28,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“Not a theory; it was a fancy.”"
   },
   {
@@ -529,8 +541,8 @@
   {
    "n": 71,
    "para": 41,
-   "role": "Madame Defarge",
-   "cast": "Coco Chanel",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Work, comrades\nall, work! Work, Jacques One, Jacques Two, Jacques One Thousand, Jacques\nTwo Thousand, Jacques Five-and-Twenty Thousand; in the name of all\nthe Angels or the Devils--which you prefer--work!”"
   },
   {
@@ -592,36 +604,36 @@
   {
    "n": 80,
    "para": 46,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“The Prisoners!”"
   },
   {
    "n": 81,
    "para": 47,
-   "role": "Madame Defarge",
-   "cast": "Coco Chanel",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“The Records!”"
   },
   {
    "n": 82,
    "para": 48,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“The secret cells!”"
   },
   {
    "n": 83,
    "para": 49,
-   "role": "Madame Defarge",
-   "cast": "Coco Chanel",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“The instruments of torture!”"
   },
   {
    "n": 84,
    "para": 50,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“The Prisoners!”"
   },
   {
@@ -634,8 +646,8 @@
   {
    "n": 86,
    "para": 51,
-   "role": "Madame Defarge",
-   "cast": "Coco Chanel",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“The Prisoners!”"
   },
   {
@@ -725,8 +737,8 @@
   {
    "n": 99,
    "para": 57,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“Kill him!”"
   },
   {
@@ -739,22 +751,22 @@
   {
    "n": 101,
    "para": 58,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Monsieur, it is a cell.”"
   },
   {
    "n": 102,
    "para": 59,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Show it me!”"
   },
   {
    "n": 103,
    "para": 60,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Pass this way, then.”"
   },
   {
@@ -816,15 +828,15 @@
   {
    "n": 112,
    "para": 68,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Stop!--Look here, Jacques!”"
   },
   {
    "n": 113,
    "para": 69,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“A. M.!”"
   },
   {
@@ -907,22 +919,22 @@
   {
    "n": 125,
    "para": 74,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Nothing in the wood, and nothing in the straw, Jacques?”"
   },
   {
    "n": 126,
    "para": 75,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Nothing.”"
   },
   {
    "n": 127,
    "para": 76,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Let us collect them together, in the middle of the cell. So! Light\nthem, you!”"
   },
   {
@@ -1026,8 +1038,8 @@
   {
    "n": 142,
    "para": 82,
-   "role": "Madame Defarge",
-   "cast": "Coco Chanel",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“THOU DIDST\nIT!”"
   },
   {

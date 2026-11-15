@@ -21,6 +21,10 @@
   {
    "role": "Young Jerry",
    "cast_as": "Charlie Chaplin"
+  },
+  {
+   "role": "Mrs Cruncher",
+   "cast_as": "Mary I of England"
   }
  ],
  "cues": [
@@ -188,8 +192,8 @@
   {
    "n": 24,
    "para": 12,
-   "role": "Young Jerry",
-   "cast": "Charlie Chaplin",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Yah! Spies! Tst! Yaha! Spies!”"
   },
   {
@@ -475,8 +479,8 @@
   {
    "n": 65,
    "para": 35,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Mrs Cruncher",
+   "cast": "Mary I of England",
    "text": "“I am saying nothing.”"
   },
   {
@@ -489,8 +493,8 @@
   {
    "n": 67,
    "para": 37,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Mrs Cruncher",
+   "cast": "Mary I of England",
    "text": "“Yes, Jerry.”"
   },
   {
@@ -545,8 +549,8 @@
   {
    "n": 75,
    "para": 41,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Mrs Cruncher",
+   "cast": "Mary I of England",
    "text": "“You are going out to-night?”"
   },
   {
@@ -664,8 +668,8 @@
   {
    "n": 92,
    "para": 52,
-   "role": "Young Jerry",
-   "cast": "Charlie Chaplin",
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
    "text": "“With your flying into the face of your own wittles and drink! I don’t\nknow how scarce you mayn’t make the wittles and drink here, by your\nflopping tricks and your unfeeling conduct. Look at your boy: he _is_\nyour’n, ain’t he? He’s as thin as a lath. Do you call yourself a mother,\nand not know that a mother’s first duty is to blow her boy out?”"
   },
   {
@@ -769,8 +773,8 @@
   {
    "n": 107,
    "para": 65,
-   "role": "Young Jerry",
-   "cast": "Charlie Chaplin",
+   "role": "Mrs Cruncher",
+   "cast": "Mary I of England",
    "text": "“Jerry, Jerry, Jerry!”"
   },
   {
@@ -804,8 +808,8 @@
   {
    "n": 112,
    "para": 67,
-   "role": "Young Jerry",
-   "cast": "Charlie Chaplin",
+   "role": "Mrs Cruncher",
+   "cast": "Mary I of England",
    "text": "“I try to be a good wife, Jerry,”"
   },
   {
@@ -825,8 +829,8 @@
   {
    "n": 115,
    "para": 69,
-   "role": "Young Jerry",
-   "cast": "Charlie Chaplin",
+   "role": "Mrs Cruncher",
+   "cast": "Mary I of England",
    "text": "“You hadn’t taken to the dreadful business then, Jerry.”"
   },
   {

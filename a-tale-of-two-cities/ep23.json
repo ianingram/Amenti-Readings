@@ -15,8 +15,8 @@
    "cast_as": "Charles Dickens"
   },
   {
-   "role": "Charles Darnay",
-   "cast_as": "Louis Philippe I"
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
   },
   {
    "role": "Doctor Manette",
@@ -55,15 +55,15 @@
   {
    "n": 5,
    "para": 4,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“You are happy, my dear father?”"
   },
   {
    "n": 6,
    "para": 5,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Quite, my child.”"
   },
   {
@@ -76,8 +76,8 @@
   {
    "n": 8,
    "para": 7,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“And I am very happy to-night, dear father. I am deeply happy in the\nlove that Heaven has so blessed--my love for Charles, and Charles’s love\nfor me. But, if my life were not to be still consecrated to you, or\nif my marriage were so arranged as that it would part us, even by\nthe length of a few of these streets, I should be more unhappy and\nself-reproachful now than I can tell you. Even as it is--”"
   },
   {
@@ -97,8 +97,8 @@
   {
    "n": 11,
    "para": 10,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“Dearest dear! Can you tell me, this last time, that you feel quite,\nquite sure, no new affections of mine, and no new duties of mine, will\never interpose between us? _I_ know it well, but do you know it? In your\nown heart, do you feel quite certain?”"
   },
   {
@@ -111,8 +111,8 @@
   {
    "n": 13,
    "para": 11,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Quite sure, my darling! More than that,”"
   },
   {
@@ -125,22 +125,22 @@
   {
    "n": 15,
    "para": 11,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“my future is far brighter, Lucie,\nseen through your marriage, than it could have been--nay, than it ever\nwas--without it.”"
   },
   {
    "n": 16,
    "para": 12,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“If I could hope _that_, my father!--”"
   },
   {
    "n": 17,
    "para": 13,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Believe it, love! Indeed it is so. Consider how natural and how plain\nit is, my dear, that it should be so. You, devoted and young, cannot\nfully appreciate the anxiety I have felt that your life should not be\nwasted--”"
   },
   {
@@ -153,15 +153,15 @@
   {
    "n": 19,
    "para": 15,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“--wasted, my child--should not be wasted, struck aside from the\nnatural order of things--for my sake. Your unselfishness cannot entirely\ncomprehend how much my mind has gone on this; but, only ask yourself,\nhow could my happiness be perfect, while yours was incomplete?”"
   },
   {
    "n": 20,
    "para": 16,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“If I had never seen Charles, my father, I should have been quite happy\nwith you.”"
   },
   {
@@ -174,8 +174,8 @@
   {
    "n": 22,
    "para": 18,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“My child, you did see him, and it is Charles. If it had not been\nCharles, it would have been another. Or, if it had been no other, I\nshould have been the cause, and then the dark part of my life would have\ncast its shadow beyond myself, and would have fallen on you.”"
   },
   {
@@ -230,8 +230,8 @@
   {
    "n": 30,
    "para": 22,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“I have looked at her, speculating thousands of times upon the unborn\nchild from whom I had been rent. Whether it was alive. Whether it had\nbeen born alive, or the poor mother’s shock had killed it. Whether it\nwas a son who would some day avenge his father. (There was a time in my\nimprisonment, when my desire for vengeance was unbearable.) Whether it\nwas a son who would never know his father’s story; who might even live\nto weigh the possibility of his father’s having disappeared of his own\nwill and act. Whether it was a daughter who would grow to be a woman.”"
   },
   {
@@ -251,8 +251,8 @@
   {
    "n": 33,
    "para": 25,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“My father! Even to hear that you had such thoughts of a daughter who\nnever existed, strikes to my heart as if I had been that child.”"
   },
   {
@@ -265,8 +265,8 @@
   {
    "n": 35,
    "para": 27,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“She knew nothing of you. She cared nothing for you.”"
   },
   {
@@ -279,8 +279,8 @@
   {
    "n": 37,
    "para": 29,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“The figure was not; the--the--image; the fancy?”"
   },
   {
@@ -300,15 +300,15 @@
   {
    "n": 40,
    "para": 32,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“In that more peaceful state, I have imagined her, in the moonlight,\ncoming to me and taking me out to show me that the home of her married\nlife was full of her loving remembrance of her lost father. My picture\nwas in her room, and I was in her prayers. Her life was active,\ncheerful, useful; but my poor history pervaded it all.”"
   },
   {
    "n": 41,
    "para": 33,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“I was that child, my father, I was not half so good, but in my love\nthat was I.”"
   },
   {
@@ -335,8 +335,8 @@
   {
    "n": 45,
    "para": 35,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“I am that child, I hope, my father. O my dear, my dear, will you bless\nme as fervently to-morrow?”"
   },
   {

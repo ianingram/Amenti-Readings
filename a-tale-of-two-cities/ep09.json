@@ -15,8 +15,12 @@
    "cast_as": "Charles Dickens"
   },
   {
-   "role": "Charles Darnay",
-   "cast_as": "Louis Philippe I"
+   "role": "Attorney-General",
+   "cast_as": "Edward Gibbon"
+  },
+  {
+   "role": "Jarvis Lorry",
+   "cast_as": "Isaac Newton"
   },
   {
    "role": "Lucie Manette",
@@ -27,12 +31,20 @@
    "cast_as": "Nostradamus"
   },
   {
-   "role": "Jerry Cruncher",
-   "cast_as": "Plautus"
+   "role": "Stryver",
+   "cast_as": "Pompey"
   },
   {
    "role": "Sydney Carton",
    "cast_as": "Christopher Hitchens"
+  },
+  {
+   "role": "Charles Darnay",
+   "cast_as": "Louis Philippe I"
+  },
+  {
+   "role": "Jerry Cruncher",
+   "cast_as": "Plautus"
   }
  ],
  "cues": [
@@ -95,246 +107,246 @@
   {
    "n": 9,
    "para": 8,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Mr. Jarvis Lorry, are you a clerk in Tellson’s bank?”"
   },
   {
    "n": 10,
    "para": 9,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I am.”"
   },
   {
    "n": 11,
    "para": 10,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“On a certain Friday night in November one thousand seven hundred and\nseventy-five, did business occasion you to travel between London and\nDover by the mail?”"
   },
   {
    "n": 12,
    "para": 11,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“It did.”"
   },
   {
    "n": 13,
    "para": 12,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Were there any other passengers in the mail?”"
   },
   {
    "n": 14,
    "para": 13,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Two.”"
   },
   {
    "n": 15,
    "para": 14,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Did they alight on the road in the course of the night?”"
   },
   {
    "n": 16,
    "para": 15,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“They did.”"
   },
   {
    "n": 17,
    "para": 16,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Mr. Lorry, look upon the prisoner. Was he one of those two passengers?”"
   },
   {
    "n": 18,
    "para": 17,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I cannot undertake to say that he was.”"
   },
   {
    "n": 19,
    "para": 18,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Does he resemble either of these two passengers?”"
   },
   {
    "n": 20,
    "para": 19,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Both were so wrapped up, and the night was so dark, and we were all so\nreserved, that I cannot undertake to say even that.”"
   },
   {
    "n": 21,
    "para": 20,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Mr. Lorry, look again upon the prisoner. Supposing him wrapped up as\nthose two passengers were, is there anything in his bulk and stature to\nrender it unlikely that he was one of them?”"
   },
   {
    "n": 22,
    "para": 21,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“No.”"
   },
   {
    "n": 23,
    "para": 22,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“You will not swear, Mr. Lorry, that he was not one of them?”"
   },
   {
    "n": 24,
    "para": 23,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“No.”"
   },
   {
    "n": 25,
    "para": 24,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“So at least you say he may have been one of them?”"
   },
   {
    "n": 26,
    "para": 25,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Yes. Except that I remember them both to have been--like\nmyself--timorous of highwaymen, and the prisoner has not a timorous\nair.”"
   },
   {
    "n": 27,
    "para": 26,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Did you ever see a counterfeit of timidity, Mr. Lorry?”"
   },
   {
    "n": 28,
    "para": 27,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I certainly have seen that.”"
   },
   {
    "n": 29,
    "para": 28,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Mr. Lorry, look once more upon the prisoner. Have you seen him, to your\ncertain knowledge, before?”"
   },
   {
    "n": 30,
    "para": 29,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I have.”"
   },
   {
    "n": 31,
    "para": 30,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“When?”"
   },
   {
    "n": 32,
    "para": 31,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“I was returning from France a few days afterwards, and, at Calais, the\nprisoner came on board the packet-ship in which I returned, and made the\nvoyage with me.”"
   },
   {
    "n": 33,
    "para": 32,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“At what hour did he come on board?”"
   },
   {
    "n": 34,
    "para": 33,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“At a little after midnight.”"
   },
   {
    "n": 35,
    "para": 34,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“In the dead of the night. Was he the only passenger who came on board\nat that untimely hour?”"
   },
   {
    "n": 36,
    "para": 35,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“He happened to be the only one.”"
   },
   {
    "n": 37,
    "para": 36,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Never mind about ‘happening,’ Mr. Lorry. He was the only passenger who\ncame on board in the dead of the night?”"
   },
   {
    "n": 38,
    "para": 37,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“He was.”"
   },
   {
    "n": 39,
    "para": 38,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Were you travelling alone, Mr. Lorry, or with any companion?”"
   },
   {
    "n": 40,
    "para": 39,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“With two companions. A gentleman and lady. They are here.”"
   },
   {
    "n": 41,
    "para": 40,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“They are here. Had you any conversation with the prisoner?”"
   },
   {
    "n": 42,
    "para": 41,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Hardly any. The weather was stormy, and the passage long and rough, and\nI lay on a sofa, almost from shore to shore.”"
   },
   {
    "n": 43,
    "para": 42,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Miss Manette!”"
   },
   {
@@ -347,8 +359,8 @@
   {
    "n": 45,
    "para": 44,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Miss Manette, look upon the prisoner.”"
   },
   {
@@ -361,43 +373,43 @@
   {
    "n": 47,
    "para": 46,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Miss Manette, have you seen the prisoner before?”"
   },
   {
    "n": 48,
    "para": 47,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“Yes, sir.”"
   },
   {
    "n": 49,
    "para": 48,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Where?”"
   },
   {
    "n": 50,
    "para": 49,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“On board of the packet-ship just now referred to, sir, and on the same\noccasion.”"
   },
   {
    "n": 51,
    "para": 50,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“You are the young lady just now referred to?”"
   },
   {
    "n": 52,
    "para": 51,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“O! most unhappily, I am!”"
   },
   {
@@ -410,29 +422,29 @@
   {
    "n": 54,
    "para": 52,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Answer the questions put\nto you, and make no remark upon them.”"
   },
   {
    "n": 55,
    "para": 53,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Miss Manette, had you any conversation with the prisoner on that\npassage across the Channel?”"
   },
   {
    "n": 56,
    "para": 54,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“Yes, sir.”"
   },
   {
    "n": 57,
    "para": 55,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Recall it.”"
   },
   {
@@ -501,8 +513,8 @@
   {
    "n": 67,
    "para": 61,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Let me interrupt you for a moment. Had he come on board alone?”"
   },
   {
@@ -515,8 +527,8 @@
   {
    "n": 69,
    "para": 63,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“How many were with him?”"
   },
   {
@@ -529,8 +541,8 @@
   {
    "n": 71,
    "para": 65,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Had they conferred together?”"
   },
   {
@@ -543,8 +555,8 @@
   {
    "n": 73,
    "para": 67,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Had any papers been handed about among them, similar to these lists?”"
   },
   {
@@ -557,8 +569,8 @@
   {
    "n": 75,
    "para": 69,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Like these in shape and size?”"
   },
   {
@@ -571,8 +583,8 @@
   {
    "n": 77,
    "para": 71,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Now, to the prisoner’s conversation, Miss Manette.”"
   },
   {
@@ -620,8 +632,8 @@
   {
    "n": 84,
    "para": 76,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Did he say anything about America, Miss Manette? Be particular.”"
   },
   {
@@ -648,36 +660,36 @@
   {
    "n": 88,
    "para": 80,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Doctor Manette, look upon the prisoner. Have you ever seen him before?”"
   },
   {
    "n": 89,
    "para": 81,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Once. When he called at my lodgings in London. Some three years, or\nthree years and a half ago.”"
   },
   {
    "n": 90,
    "para": 82,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Can you identify him as your fellow-passenger on board the packet, or\nspeak to his conversation with your daughter?”"
   },
   {
    "n": 91,
    "para": 83,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Sir, I can do neither.”"
   },
   {
    "n": 92,
    "para": 84,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Is there any particular and special reason for your being unable to do\neither?”"
   },
   {
@@ -690,15 +702,15 @@
   {
    "n": 94,
    "para": 85,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“There is.”"
   },
   {
    "n": 95,
    "para": 86,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Has it been your misfortune to undergo a long imprisonment, without\ntrial, or even accusation, in your native country, Doctor Manette?”"
   },
   {
@@ -718,8 +730,8 @@
   {
    "n": 98,
    "para": 88,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Were you newly released on the occasion in question?”"
   },
   {
@@ -732,8 +744,8 @@
   {
    "n": 100,
    "para": 90,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Attorney-General",
+   "cast": "Edward Gibbon",
    "text": "“Have you no remembrance of the occasion?”"
   },
   {
@@ -760,8 +772,8 @@
   {
    "n": 104,
    "para": 94,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“You say again you are quite sure that it was the prisoner?”"
   },
   {
@@ -774,8 +786,8 @@
   {
    "n": 106,
    "para": 96,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“Did you ever see anybody very like the prisoner?”"
   },
   {
@@ -788,8 +800,8 @@
   {
    "n": 108,
    "para": 98,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“Look well upon that gentleman, my learned friend there,”"
   },
   {
@@ -802,8 +814,8 @@
   {
    "n": 110,
    "para": 98,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Stryver",
+   "cast": "Pompey",
    "text": "“and then look well upon the\nprisoner. How say you? Are they very like each other?”"
   },
   {
@@ -844,8 +856,8 @@
   {
    "n": 116,
    "para": 103,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“I’d hold half a guinea\nthat _he_ don’t get no law-work to do. Don’t look like the sort of one\nto get any, do he?”"
   },
   {
@@ -858,8 +870,8 @@
   {
    "n": 118,
    "para": 104,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Officer! look to that young lady. Help the gentleman to take her out.\nDon’t you see she will fall!”"
   },
   {
@@ -886,8 +898,8 @@
   {
    "n": 122,
    "para": 108,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Jerry, if you wish to take something to eat, you can. But, keep in the\nway. You will be sure to hear when the jury come in. Don’t be a moment\nbehind them, for I want you to take the verdict back to the bank. You\nare the quickest messenger I know, and will get to Temple Bar long\nbefore I can.”"
   },
   {
@@ -907,8 +919,8 @@
   {
    "n": 125,
    "para": 111,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“She is greatly distressed; but her father is comforting her, and she\nfeels the better for being out of court.”"
   },
   {
@@ -928,8 +940,8 @@
   {
    "n": 128,
    "para": 114,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Mr. Darnay!”"
   },
   {
@@ -949,8 +961,8 @@
   {
    "n": 131,
    "para": 117,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“I am deeply sorry to have been the cause of it. Could you tell her so\nfor me, with my fervent acknowledgments?”"
   },
   {
@@ -970,8 +982,8 @@
   {
    "n": 134,
    "para": 120,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“I do ask it. Accept my cordial thanks.”"
   },
   {
@@ -998,8 +1010,8 @@
   {
    "n": 138,
    "para": 122,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“The worst.”"
   },
   {
@@ -1026,8 +1038,8 @@
   {
    "n": 142,
    "para": 126,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Jerry! Jerry!”"
   },
   {
@@ -1040,8 +1052,8 @@
   {
    "n": 144,
    "para": 127,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
    "text": "“Here, sir! It’s a fight to get back again. Here I am, sir!”"
   },
   {
@@ -1054,15 +1066,15 @@
   {
    "n": 146,
    "para": 128,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Jarvis Lorry",
+   "cast": "Isaac Newton",
    "text": "“Quick! Have you got\nit?”"
   },
   {
    "n": 147,
    "para": 129,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Jerry Cruncher",
+   "cast": "Plautus",
    "text": "“Yes, sir.”"
   },
   {
@@ -1075,8 +1087,8 @@
   {
    "n": 149,
    "para": 130,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“ACQUITTED.”"
   },
   {

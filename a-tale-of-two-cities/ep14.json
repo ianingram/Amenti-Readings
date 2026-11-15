@@ -17,6 +17,10 @@
   {
    "role": "The Marquis St. Evrémonde",
    "cast_as": "Marquis de Sade"
+  },
+  {
+   "role": "The mender of roads",
+   "cast_as": "Louis Pasteur"
   }
  ],
  "cues": [
@@ -149,8 +153,8 @@
   {
    "n": 19,
    "para": 14,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Monseigneur, it is true. I had the honour of being passed on the road.”"
   },
   {
@@ -163,8 +167,8 @@
   {
    "n": 21,
    "para": 16,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Monseigneur, it is true.”"
   },
   {
@@ -177,8 +181,8 @@
   {
    "n": 23,
    "para": 18,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Monseigneur, I looked at the man.”"
   },
   {
@@ -198,8 +202,8 @@
   {
    "n": 26,
    "para": 21,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Pardon, Monseigneur; he swung by the chain of the shoe--the drag.”"
   },
   {
@@ -219,8 +223,8 @@
   {
    "n": 29,
    "para": 23,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Monseigneur, the man.”"
   },
   {
@@ -233,8 +237,8 @@
   {
    "n": 31,
    "para": 25,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Your clemency, Monseigneur! He was not of this part of the country. Of\nall the days of my life, I never saw him.”"
   },
   {
@@ -247,8 +251,8 @@
   {
    "n": 33,
    "para": 27,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“With your gracious permission, that was the wonder of it, Monseigneur.\nHis head hanging over--like this!”"
   },
   {
@@ -268,8 +272,8 @@
   {
    "n": 36,
    "para": 30,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Monseigneur, he was whiter than the miller. All covered with dust,\nwhite as a spectre, tall as a spectre!”"
   },
   {
@@ -352,22 +356,22 @@
   {
    "n": 48,
    "para": 39,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“Did the man run away, Dolt, when we stopped for the drag?”"
   },
   {
    "n": 49,
    "para": 40,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Monseigneur, he precipitated himself over the hill-side, head first, as\na person plunges into the river.”"
   },
   {
    "n": 50,
    "para": 41,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“See to it, Gabelle. Go on!”"
   },
   {
@@ -401,8 +405,8 @@
   {
    "n": 55,
    "para": 46,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“It is you, Monseigneur! Monseigneur, a petition.”"
   },
   {
@@ -415,64 +419,64 @@
   {
    "n": 57,
    "para": 48,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“How, then! What is it? Always petitions!”"
   },
   {
    "n": 58,
    "para": 49,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Monseigneur. For the love of the great God! My husband, the forester.”"
   },
   {
    "n": 59,
    "para": 50,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“What of your husband, the forester? Always the same with you people. He\ncannot pay something?”"
   },
   {
    "n": 60,
    "para": 51,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“He has paid all, Monseigneur. He is dead.”"
   },
   {
    "n": 61,
    "para": 52,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“Well! He is quiet. Can I restore him to you?”"
   },
   {
    "n": 62,
    "para": 53,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Alas, no, Monseigneur! But he lies yonder, under a little heap of poor\ngrass.”"
   },
   {
    "n": 63,
    "para": 54,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“Well?”"
   },
   {
    "n": 64,
    "para": 55,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Monseigneur, there are so many little heaps of poor grass?”"
   },
   {
    "n": 65,
    "para": 56,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“Again, well?”"
   },
   {
@@ -485,22 +489,22 @@
   {
    "n": 67,
    "para": 58,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Monseigneur, hear me! Monseigneur, hear my petition! My husband died of\nwant; so many die of want; so many more will die of want.”"
   },
   {
    "n": 68,
    "para": 59,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“Again, well? Can I feed them?”"
   },
   {
    "n": 69,
    "para": 60,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Monseigneur, the good God knows; but I don’t ask it. My petition is,\nthat a morsel of stone or wood, with my husband’s name, may be placed\nover him to show where he lies. Otherwise, the place will be quickly\nforgotten, it will never be found when I am dead of the same malady, I\nshall be laid under some other heap of poor grass. Monseigneur, they\nare so many, they increase so fast, there is so much want. Monseigneur!\nMonseigneur!”"
   },
   {
@@ -527,15 +531,15 @@
   {
    "n": 73,
    "para": 64,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The Marquis St. Evrémonde",
+   "cast": "Marquis de Sade",
    "text": "“Monsieur Charles, whom I expect; is he arrived from England?”"
   },
   {
    "n": 74,
    "para": 65,
-   "role": "The Marquis St. Evrémonde",
-   "cast": "Marquis de Sade",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Monseigneur, not yet.”"
   }
  ]

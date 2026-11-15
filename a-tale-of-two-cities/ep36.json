@@ -13,6 +13,18 @@
   {
    "role": "Narrator",
    "cast_as": "Charles Dickens"
+  },
+  {
+   "role": "Charles Darnay",
+   "cast_as": "Louis Philippe I"
+  },
+  {
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
+  },
+  {
+   "role": "Doctor Manette",
+   "cast_as": "Nostradamus"
   }
  ],
  "cues": [
@@ -229,8 +241,8 @@
   {
    "n": 31,
    "para": 26,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Lucie Manette, only daughter of Doctor Manette, the good physician who\nsits there.”"
   },
   {
@@ -383,15 +395,15 @@
   {
    "n": 53,
    "para": 43,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Lucie! My own! I am safe.”"
   },
   {
    "n": 54,
    "para": 44,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“O dearest Charles, let me thank God for this on my knees as I have\nprayed to Him.”"
   },
   {
@@ -404,8 +416,8 @@
   {
    "n": 56,
    "para": 46,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“And now speak to your father, dearest. No other man in all this France\ncould have done what he has done for me.”"
   },
   {
@@ -418,8 +430,8 @@
   {
    "n": 58,
    "para": 47,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“You must not be weak, my darling,”"
   },
   {
@@ -432,8 +444,8 @@
   {
    "n": 60,
    "para": 47,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“don’t\ntremble so. I have saved him.”"
   }
  ]

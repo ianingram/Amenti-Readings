@@ -15,10 +15,6 @@
    "cast_as": "Charles Dickens"
   },
   {
-   "role": "Sydney Carton",
-   "cast_as": "Christopher Hitchens"
-  },
-  {
    "role": "Doctor Manette",
    "cast_as": "Nostradamus"
   },
@@ -27,8 +23,8 @@
    "cast_as": "Louis Philippe I"
   },
   {
-   "role": "Miss Pross",
-   "cast_as": "Emmeline Pankhurst"
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
   }
  ],
  "cues": [
@@ -105,15 +101,15 @@
   {
    "n": 11,
    "para": 10,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Charles Darnay! I rejoice to see you. We have been counting on your\nreturn these three or four days past. Mr. Stryver and Sydney Carton were\nboth here yesterday, and both made you out to be more than due.”"
   },
   {
    "n": 12,
    "para": 11,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“I am obliged to them for their interest in the matter,”"
   },
   {
@@ -126,8 +122,8 @@
   {
    "n": 14,
    "para": 11,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Miss\nManette--”"
   },
   {
@@ -154,8 +150,8 @@
   {
    "n": 18,
    "para": 13,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Doctor Manette, I knew she was from home. I took the opportunity of her\nbeing from home, to beg to speak to you.”"
   },
   {
@@ -196,8 +192,8 @@
   {
    "n": 24,
    "para": 17,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“I have had the happiness, Doctor Manette, of being so intimate here,”"
   },
   {
@@ -210,8 +206,8 @@
   {
    "n": 26,
    "para": 17,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“for some year and a half, that I hope the topic\non which I am about to touch may not--”"
   },
   {
@@ -231,8 +227,8 @@
   {
    "n": 29,
    "para": 20,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“She is.”"
   },
   {
@@ -245,8 +241,8 @@
   {
    "n": 31,
    "para": 22,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“It is a tone of fervent admiration, true homage, and deep love, Doctor\nManette!”"
   },
   {
@@ -266,8 +262,8 @@
   {
    "n": 34,
    "para": 24,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“I believe it. I do you justice; I believe it.”"
   },
   {
@@ -280,8 +276,8 @@
   {
    "n": 36,
    "para": 26,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Shall I go on, sir?”"
   },
   {
@@ -294,15 +290,15 @@
   {
    "n": 38,
    "para": 28,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Yes, go on.”"
   },
   {
    "n": 39,
    "para": 29,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“You anticipate what I would say, though you cannot know how earnestly\nI say it, how earnestly I feel it, without knowing my secret heart, and\nthe hopes and fears and anxieties with which it has long been\nladen. Dear Doctor Manette, I love your daughter fondly, dearly,\ndisinterestedly, devotedly. If ever there were love in the world, I love\nher. You have loved yourself; let your old love speak for me!”"
   },
   {
@@ -315,8 +311,8 @@
   {
    "n": 41,
    "para": 31,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Not that, sir! Let that be! I adjure you, do not recall that!”"
   },
   {
@@ -357,36 +353,36 @@
   {
    "n": 47,
    "para": 35,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Have you spoken to Lucie?”"
   },
   {
    "n": 48,
    "para": 36,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“No.”"
   },
   {
    "n": 49,
    "para": 37,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Nor written?”"
   },
   {
    "n": 50,
    "para": 38,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Never.”"
   },
   {
    "n": 51,
    "para": 39,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“It would be ungenerous to affect not to know that your self-denial is\nto be referred to your consideration for her father. Her father thanks\nyou.”"
   },
   {
@@ -427,8 +423,8 @@
   {
    "n": 57,
    "para": 43,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Dear Doctor Manette, always knowing this, always seeing her and you\nwith this hallowed light about you, I have forborne, and forborne, as\nlong as it was in the nature of man to do it. I have felt, and do even\nnow feel, that to bring my love--even mine--between you, is to touch\nyour history with something not quite so good as itself. But I love her.\nHeaven is my witness that I love her!”"
   },
   {
@@ -483,8 +479,8 @@
   {
    "n": 65,
    "para": 47,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“No, dear Doctor Manette. Like you, a voluntary exile from France; like\nyou, driven from it by its distractions, oppressions, and miseries; like\nyou, striving to live away from it by my own exertions, and trusting\nin a happier future; I look only to sharing your fortunes, sharing your\nlife and home, and being faithful to you to the death. Not to divide\nwith Lucie her privilege as your child, companion, and friend; but to\ncome in aid of it, and bind her closer to you, if such a thing can be.”"
   },
   {
@@ -497,78 +493,78 @@
   {
    "n": 67,
    "para": 49,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“You speak so feelingly and so manfully, Charles Darnay, that I thank\nyou with all my heart, and will open all my heart--or nearly so. Have\nyou any reason to believe that Lucie loves you?”"
   },
   {
    "n": 68,
    "para": 50,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“None. As yet, none.”"
   },
   {
    "n": 69,
    "para": 51,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Is it the immediate object of this confidence, that you may at once\nascertain that, with my knowledge?”"
   },
   {
    "n": 70,
    "para": 52,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Not even so. I might not have the hopefulness to do it for weeks; I\nmight (mistaken or not mistaken) have that hopefulness to-morrow.”"
   },
   {
    "n": 71,
    "para": 53,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Do you seek any guidance from me?”"
   },
   {
    "n": 72,
    "para": 54,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“I ask none, sir. But I have thought it possible that you might have it\nin your power, if you should deem it right, to give me some.”"
   },
   {
    "n": 73,
    "para": 55,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Do you seek any promise from me?”"
   },
   {
    "n": 74,
    "para": 56,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“I do seek that.”"
   },
   {
    "n": 75,
    "para": 57,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“What is it?”"
   },
   {
    "n": 76,
    "para": 58,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“I well understand that, without you, I could have no hope. I well\nunderstand that, even if Miss Manette held me at this moment in her\ninnocent heart--do not think I have the presumption to assume so much--I\ncould retain no place in it against her love for her father.”"
   },
   {
    "n": 77,
    "para": 59,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“If that be so, do you see what, on the other hand, is involved in it?”"
   },
   {
@@ -784,22 +780,22 @@
   {
    "n": 108,
    "para": 81,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Tell me when I ask you, not now. If your suit should prosper, if Lucie\nshould love you, you shall tell me on your marriage morning. Do you\npromise?”"
   },
   {
    "n": 109,
    "para": 82,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Willingly."
   },
   {
    "n": 110,
    "para": 83,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Give me your hand. She will be home directly, and it is better she\nshould not see us together to-night. Go! God bless you!”"
   },
   {
@@ -812,8 +808,8 @@
   {
    "n": 112,
    "para": 85,
-   "role": "Miss Pross",
-   "cast": "Emmeline Pankhurst",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“My father!”"
   },
   {
@@ -826,8 +822,8 @@
   {
    "n": 114,
    "para": 85,
-   "role": "Miss Pross",
-   "cast": "Emmeline Pankhurst",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“Father dear!”"
   },
   {
@@ -840,8 +836,8 @@
   {
    "n": 116,
    "para": 86,
-   "role": "Miss Pross",
-   "cast": "Emmeline Pankhurst",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“What shall I do! What shall I do!”"
   },
   {

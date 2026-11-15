@@ -23,6 +23,10 @@
    "cast_as": "Louis Pasteur"
   },
   {
+   "role": "Jacques Three",
+   "cast_as": "Philip IV of France"
+  },
+  {
    "role": "Madame Defarge",
    "cast_as": "Coco Chanel"
   }
@@ -101,8 +105,8 @@
   {
    "n": 11,
    "para": 8,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Good day!”"
   },
   {
@@ -178,8 +182,8 @@
   {
    "n": 22,
    "para": 15,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Yes, thank you.”"
   },
   {
@@ -430,8 +434,8 @@
   {
    "n": 58,
    "para": 36,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“I stand aside, messieurs, by my heap of stones, to see the soldiers\nand their prisoner pass (for it is a solitary road, that, where any\nspectacle is well worth looking at), and at first, as they approach, I\nsee no more than that they are six soldiers with a tall man bound, and\nthat they are almost black to my sight--except on the side of the sun\ngoing to bed, where they have a red edge, messieurs. Also, I see that\ntheir long shadows are on the hollow ridge on the opposite side of the\nroad, and are on the hill above it, and are like the shadows of giants.\nAlso, I see that they are covered with dust, and that the dust moves\nwith them as they come, tramp, tramp! But when they advance quite near\nto me, I recognise the tall man, and he recognises me. Ah, but he would\nbe well content to precipitate himself over the hill-side once again, as\non the evening when he and I first encountered, close to the same spot!”"
   },
   {
@@ -458,8 +462,8 @@
   {
    "n": 62,
    "para": 40,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“As they descend the hill like madmen running a race, he falls. They\nlaugh and pick him up again. His face is bleeding and covered with dust,\nbut he cannot touch it; thereupon they laugh again. They bring him into\nthe village; all the village runs to look; they take him past the mill,\nand up to the prison; all the village sees the prison gate open in the\ndarkness of the night, and swallow him--like this!”"
   },
   {
@@ -472,8 +476,8 @@
   {
    "n": 64,
    "para": 41,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Go on, Jacques.”"
   },
   {
@@ -528,8 +532,8 @@
   {
    "n": 72,
    "para": 46,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Listen then, Jacques,”"
   },
   {
@@ -542,15 +546,15 @@
   {
    "n": 74,
    "para": 46,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Know that a petition was presented to the King and Queen. All here,\nyourself excepted, saw the King take it, in his carriage in the street,\nsitting beside the Queen. It is Defarge whom you see here, who, at the\nhazard of his life, darted out before the horses, with the petition in\nhis hand.”"
   },
   {
    "n": 75,
    "para": 47,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“And once again listen, Jacques!”"
   },
   {
@@ -563,15 +567,15 @@
   {
    "n": 77,
    "para": 47,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“the guard, horse and foot, surrounded the petitioner,\nand struck him blows. You hear?”"
   },
   {
    "n": 78,
    "para": 48,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“I hear, messieurs.”"
   },
   {
@@ -612,8 +616,8 @@
   {
    "n": 84,
    "para": 51,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“Listen once again then, Jacques!”"
   },
   {
@@ -626,8 +630,8 @@
   {
    "n": 86,
    "para": 51,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“The name of that prisoner was Damiens, and it was\nall done in open day, in the open streets of this city of Paris; and\nnothing was more noticed in the vast concourse that saw it done, than\nthe crowd of ladies of quality and fashion, who were full of eager\nattention to the last--to the last, Jacques, prolonged until nightfall,\nwhen he had lost two legs and an arm, and still breathed! And it was\ndone--why, how old are you?”"
   },
   {
@@ -647,8 +651,8 @@
   {
    "n": 89,
    "para": 53,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“It was done when you were more than ten years old; you might have seen\nit.”"
   },
   {
@@ -675,8 +679,8 @@
   {
    "n": 93,
    "para": 55,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Well! Some whisper this, some whisper that; they speak of nothing else;\neven the fountain appears to fall to that tune. At length, on Sunday\nnight when all the village is asleep, come soldiers, winding down from\nthe prison, and their guns ring on the stones of the little street.\nWorkmen dig, workmen hammer, soldiers laugh and sing; in the morning, by\nthe fountain, there is raised a gallows forty feet high, poisoning the\nwater.”"
   },
   {
@@ -717,8 +721,8 @@
   {
    "n": 99,
    "para": 59,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“It is frightful, messieurs. How can the women and the children draw\nwater! Who can gossip of an evening, under that shadow! Under it, have\nI said? When I left the village, Monday evening as the sun was going to\nbed, and looked back from the hill, the shadow struck across the church,\nacross the mill, across the prison--seemed to strike across the earth,\nmessieurs, to where the sky rests upon it!”"
   },
   {
@@ -808,8 +812,8 @@
   {
    "n": 112,
    "para": 67,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“Magnificent!”"
   },
   {
@@ -822,8 +826,8 @@
   {
    "n": 114,
    "para": 68,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“The chateau, and all the race?”"
   },
   {
@@ -864,8 +868,8 @@
   {
    "n": 120,
    "para": 70,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“Magnificent!”"
   },
   {
@@ -927,8 +931,8 @@
   {
    "n": 129,
    "para": 73,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“Is this rustic to be sent back soon? I hope so. He is\nvery simple; is he not a little dangerous?”"
   },
   {
@@ -955,8 +959,8 @@
   {
    "n": 133,
    "para": 75,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“What?”"
   },
   {
@@ -969,8 +973,8 @@
   {
    "n": 135,
    "para": 75,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Jacques Three",
+   "cast": "Philip IV of France",
    "text": "“Is it a good sign, that he\nwishes to see Royalty and Nobility?”"
   },
   {
@@ -1207,8 +1211,8 @@
   {
    "n": 169,
    "para": 94,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Truly, madame, I think so. For the moment.”"
   },
   {
@@ -1221,8 +1225,8 @@
   {
    "n": 171,
    "para": 96,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Truly yes, madame.”"
   },
   {
@@ -1235,8 +1239,8 @@
   {
    "n": 173,
    "para": 98,
-   "role": "Ernest Defarge",
-   "cast": "Victor Hugo",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“It is true, madame.”"
   },
   {

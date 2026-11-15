@@ -31,12 +31,16 @@
    "cast_as": "Louis Pasteur"
   },
   {
-   "role": "The Vengeance",
-   "cast_as": "Edith Piaf"
+   "role": "Doctor Manette",
+   "cast_as": "Nostradamus"
   },
   {
    "role": "Ernest Defarge",
    "cast_as": "Victor Hugo"
+  },
+  {
+   "role": "The Vengeance",
+   "cast_as": "Edith Piaf"
   }
  ],
  "cues": [
@@ -274,8 +278,8 @@
   {
    "n": 34,
    "para": 14,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Adieu, Mr. Barsad,”"
   },
   {
@@ -288,8 +292,8 @@
   {
    "n": 36,
    "para": 14,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“our\narrangement thus made, you have nothing to fear from me.”"
   },
   {
@@ -302,8 +306,8 @@
   {
    "n": 38,
    "para": 16,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Not much. If it should go ill with the prisoner, I have ensured access\nto him, once.”"
   },
   {
@@ -834,8 +838,8 @@
   {
    "n": 114,
    "para": 64,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Good night, citizen.”"
   },
   {
@@ -848,8 +852,8 @@
   {
    "n": 116,
    "para": 66,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“You mean the Guillotine. Not ill. Sixty-three to-day. We shall mount\nto a hundred soon. Samson and his men complain sometimes, of being\nexhausted. Ha, ha, ha! He is so droll, that Samson. Such a Barber!”"
   },
   {
@@ -862,8 +866,8 @@
   {
    "n": 118,
    "para": 68,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Shave? Always. Every day. What a barber! You have seen him at work?”"
   },
   {
@@ -876,8 +880,8 @@
   {
    "n": 120,
    "para": 70,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Go and see him when he has a good batch. Figure this to yourself,\ncitizen; he shaved the sixty-three to-day, in less than two pipes! Less\nthan two pipes. Word of honour!”"
   },
   {
@@ -988,8 +992,8 @@
   {
    "n": 136,
    "para": 80,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Whew!”"
   },
   {
@@ -1002,8 +1006,8 @@
   {
    "n": 138,
    "para": 80,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Hi! hi! hi!”"
   },
   {
@@ -1016,8 +1020,8 @@
   {
    "n": 140,
    "para": 82,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“For you, citizen?”"
   },
   {
@@ -1030,8 +1034,8 @@
   {
    "n": 142,
    "para": 84,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“You will be careful to keep them separate, citizen? You know the\nconsequences of mixing them?”"
   },
   {
@@ -1086,8 +1090,8 @@
   {
    "n": 150,
    "para": 88,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“I am the resurrection and the life, saith the Lord:\nhe that believeth in me, though he were dead, yet shall he live: and\nwhosoever liveth and believeth in me, shall never die.”"
   },
   {
@@ -1149,8 +1153,8 @@
   {
    "n": 159,
    "para": 96,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Like me.”"
   },
   {
@@ -1233,50 +1237,50 @@
   {
    "n": 171,
    "para": 107,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Openly, President.”"
   },
   {
    "n": 172,
    "para": 108,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“By whom?”"
   },
   {
    "n": 173,
    "para": 109,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Three voices. Ernest Defarge, wine-vendor of St. Antoine.”"
   },
   {
    "n": 174,
    "para": 110,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Good.”"
   },
   {
    "n": 175,
    "para": 111,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Thérèse Defarge, his wife.”"
   },
   {
    "n": 176,
    "para": 112,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Good.”"
   },
   {
    "n": 177,
    "para": 113,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Alexandre Manette, physician.”"
   },
   {
@@ -1289,15 +1293,15 @@
   {
    "n": 179,
    "para": 115,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“President, I indignantly protest to you that this is a forgery and\na fraud. You know the accused to be the husband of my daughter. My\ndaughter, and those dear to her, are far dearer to me than my life. Who\nand where is the false conspirator who says that I denounce the husband\nof my child!”"
   },
   {
    "n": 180,
    "para": 116,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Citizen Manette, be tranquil. To fail in submission to the authority of\nthe Tribunal would be to put yourself out of Law. As to what is dearer\nto you than life, nothing can be so dear to a good citizen as the\nRepublic.”"
   },
   {
@@ -1310,8 +1314,8 @@
   {
    "n": 182,
    "para": 118,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“If the Republic should demand of you the sacrifice of your child\nherself, you would have no duty but to sacrifice her. Listen to what is\nto follow. In the meanwhile, be silent!”"
   },
   {
@@ -1331,15 +1335,15 @@
   {
    "n": 185,
    "para": 121,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“You did good service at the taking of the Bastille, citizen?”"
   },
   {
    "n": 186,
    "para": 122,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“I believe so.”"
   },
   {
@@ -1352,8 +1356,8 @@
   {
    "n": 188,
    "para": 123,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "The Vengeance",
+   "cast": "Edith Piaf",
    "text": "“You were one of the\nbest patriots there. Why not say so? You were a cannonier that day\nthere, and you were among the first to enter the accursed fortress when\nit fell. Patriots, I speak the truth!”"
   },
   {
@@ -1380,8 +1384,8 @@
   {
    "n": 192,
    "para": 125,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Inform the Tribunal of what you did that day within the Bastille,\ncitizen.”"
   },
   {
@@ -1408,8 +1412,8 @@
   {
    "n": 196,
    "para": 127,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Let it be read.”"
   },
   {

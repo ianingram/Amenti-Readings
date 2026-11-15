@@ -31,7 +31,7 @@ def names_for(ch):
     b = BOOK[ch]
     N = [
         (r"Sydney|Carton|the jackal", 'carton'),
-        (r"Darnay|Charles(?! Evrémonde)|the prisoner" if b < 3 else r"Darnay|Charles|Evrémonde|the prisoner", 'darnay'),
+        (r"Darnay|Charles(?! Evrémonde)|the prisoner|the nephew" if b < 3 else r"Darnay|Charles|Evrémonde|the prisoner", 'darnay'),
         (r"Lucie|Miss Manette|Mrs\.? Darnay|Ladybird|the young lady|her mistress", 'lucie'),
         (r"Doctor Manette|Dr\.? Manette|the Doctor|Manette|the shoemaker|her father", 'manette'),
         (r"Jarvis|Lorry", 'lorry'), (r"Miss Pross|Pross", 'pross'), (r"Stryver", 'stryver'),
@@ -39,7 +39,7 @@ def names_for(ch):
         (r"young Jerry|Young Jerry|his son|the boy", 'young_jerry'), (r"Jerry|Cruncher", 'jerry'),
         (r"Attorney-General|Mr\.? Attorney", 'attorney'),
         (r"Madame Defarge|madame", 'madame'), (r"Defarge|Jacques Four|the keeper of the wine-shop|the wine-shop keeper", 'defarge'),
-        (r"Monsieur the Marquis|the Marquis|Marquis" + (r"|Evrémonde" if b == 2 else ""), 'marquis'),
+        (r"Monsieur the Marquis|the Marquis|Marquis|the uncle" + (r"|Evrémonde" if b == 2 else ""), 'marquis'),
         (r"The Vengeance|the Vengeance|Vengeance", 'vengeance'), (r"Jacques Three", 'jacques3'),
         (r"mender of roads|the wood-sawyer|wood-sawyer", 'mender'), (r"the seamstress|the poor little seamstress|the girl", 'seamstress' if b == 3 else 'minor_f'),
         (r"Gabelle|Cly|Jacques One|Jacques Two|Jacques Five|Jacques|the judge|the President|the guard|the coachman|the driver|"
@@ -126,7 +126,7 @@ def attribute(ch, paras, heads):
         if speaker != last: prev, last = last, speaker
     return res
 
-REVIEWED = set(range(1, 7))   # chapters whose every quote has been read and set by hand
+REVIEWED = set(range(1, 46))   # every chapter read and set quote by quote (14 Nov 2026)
 OVR = {}   # (chapter, paragraph) -> speaker key, or a list per quote in the paragraph; set by hand
 if os.path.exists(OUT + 'tools/ovr.json'):
     for k, v in json.load(open(OUT + 'tools/ovr.json')).items():

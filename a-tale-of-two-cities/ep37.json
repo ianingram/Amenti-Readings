@@ -15,6 +15,10 @@
    "cast_as": "Charles Dickens"
   },
   {
+   "role": "Doctor Manette",
+   "cast_as": "Nostradamus"
+  },
+  {
    "role": "Miss Pross",
    "cast_as": "Emmeline Pankhurst"
   },
@@ -25,10 +29,6 @@
   {
    "role": "Lucie Manette",
    "cast_as": "Jane Goodall"
-  },
-  {
-   "role": "Doctor Manette",
-   "cast_as": "Nostradamus"
   },
   {
    "role": "Charles Darnay",
@@ -53,8 +53,8 @@
   {
    "n": 3,
    "para": 2,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“I have saved him.”"
   },
   {
@@ -214,8 +214,8 @@
   {
    "n": 26,
    "para": 14,
-   "role": "Jerry Cruncher",
-   "cast": "Plautus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Old\nNick’s.”"
   },
   {
@@ -277,8 +277,8 @@
   {
    "n": 35,
    "para": 18,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“I think you may take that liberty,”"
   },
   {
@@ -536,8 +536,8 @@
   {
    "n": 72,
    "para": 35,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“The Citizen Evrémonde, called Darnay,”"
   },
   {
@@ -564,8 +564,8 @@
   {
    "n": 76,
    "para": 37,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“I seek him. We seek him. I know you, Evrémonde; I saw you before the\nTribunal to-day. You are again the prisoner of the Republic.”"
   },
   {
@@ -585,8 +585,8 @@
   {
    "n": 79,
    "para": 40,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“It is enough that you return straight to the Conciergerie, and will\nknow to-morrow. You are summoned for to-morrow.”"
   },
   {
@@ -599,15 +599,15 @@
   {
    "n": 81,
    "para": 42,
-   "role": "Charles Darnay",
-   "cast": "Louis Philippe I",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“You know him, you have said. Do you know me?”"
   },
   {
    "n": 82,
    "para": 43,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Yes, I know you, Citizen Doctor.”"
   },
   {
@@ -634,8 +634,8 @@
   {
    "n": 86,
    "para": 46,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Will you answer his question to me then? How does this happen?”"
   },
   {
@@ -683,8 +683,8 @@
   {
    "n": 93,
    "para": 49,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“He is accused by Saint Antoine.”"
   },
   {
@@ -704,8 +704,8 @@
   {
    "n": 96,
    "para": 51,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Citizen Doctor,”"
   },
   {
@@ -718,8 +718,8 @@
   {
    "n": 98,
    "para": 51,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“ask no\nmore. If the Republic demands sacrifices from you, without doubt you as\na good patriot will be happy to make them. The Republic goes before all.\nThe People is supreme. Evrémonde, we are pressed.”"
   },
   {
@@ -746,8 +746,8 @@
   {
    "n": 102,
    "para": 53,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“It is against rule,”"
   },
   {
@@ -760,8 +760,8 @@
   {
    "n": 104,
    "para": 53,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“but you can ask Him of Saint\nAntoine here.”"
   },
   {
@@ -774,36 +774,36 @@
   {
    "n": 106,
    "para": 55,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Well! Truly it is against rule. But he is denounced--and gravely--by\nthe Citizen and Citizeness Defarge. And by one other.”"
   },
   {
    "n": 107,
    "para": 56,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“What other?”"
   },
   {
    "n": 108,
    "para": 57,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Do _you_ ask, Citizen Doctor?”"
   },
   {
    "n": 109,
    "para": 58,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Yes.”"
   },
   {
    "n": 110,
    "para": 59,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Then,”"
   },
   {
@@ -816,8 +816,8 @@
   {
    "n": 112,
    "para": 59,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“you will be\nanswered to-morrow. Now, I am dumb!”"
   }
  ]

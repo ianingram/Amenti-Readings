@@ -15,20 +15,12 @@
    "cast_as": "Charles Dickens"
   },
   {
-   "role": "John Barsad",
-   "cast_as": "Richard III of England"
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
   },
   {
    "role": "Charles Darnay",
    "cast_as": "Louis Philippe I"
-  },
-  {
-   "role": "Jarvis Lorry",
-   "cast_as": "Isaac Newton"
-  },
-  {
-   "role": "Lucie Manette",
-   "cast_as": "Jane Goodall"
   },
   {
    "role": "Sydney Carton",
@@ -37,6 +29,10 @@
   {
    "role": "Doctor Manette",
    "cast_as": "Nostradamus"
+  },
+  {
+   "role": "Jarvis Lorry",
+   "cast_as": "Isaac Newton"
   }
  ],
  "cues": [
@@ -71,8 +67,8 @@
   {
    "n": 5,
    "para": 4,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“If I might touch him! If I might embrace him once! O, good citizens, if\nyou would have so much compassion for us!”"
   },
   {
@@ -85,8 +81,8 @@
   {
    "n": 7,
    "para": 5,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Let her embrace\nhim then; it is but a moment.”"
   },
   {
@@ -99,8 +95,8 @@
   {
    "n": 9,
    "para": 6,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“Farewell, dear darling of my soul. My parting blessing on my love. We\nshall meet again, where the weary are at rest!”"
   },
   {
@@ -113,22 +109,22 @@
   {
    "n": 11,
    "para": 8,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“I can bear it, dear Charles. I am supported from above: don’t suffer\nfor me. A parting blessing for our child.”"
   },
   {
    "n": 12,
    "para": 9,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“I send it to her by you. I kiss her by you. I say farewell to her by\nyou.”"
   },
   {
    "n": 13,
    "para": 10,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“My husband. No! A moment!”"
   },
   {
@@ -141,8 +137,8 @@
   {
    "n": 15,
    "para": 10,
-   "role": "John Barsad",
-   "cast": "Richard III of England",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“We shall not be separated long. I feel that this will break my heart\nby-and-bye; but I will do my duty while I can, and when I leave her, God\nwill raise up friends for her, as He did for me.”"
   },
   {
@@ -155,8 +151,8 @@
   {
    "n": 17,
    "para": 12,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Charles Darnay",
+   "cast": "Louis Philippe I",
    "text": "“No, no! What have you done, what have you done, that you should kneel\nto us! We know now, what a struggle you made of old. We know, now what\nyou underwent when you suspected my descent, and when you knew it. We\nknow now, the natural antipathy you strove against, and conquered, for\nher dear sake. We thank you with all our hearts, and all our love and\nduty. Heaven be with you!”"
   },
   {
@@ -204,8 +200,8 @@
   {
    "n": 24,
    "para": 17,
-   "role": "Narrator",
-   "cast": "Charles Dickens",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Shall I take her to a coach? I shall never feel her weight.”"
   },
   {
@@ -225,8 +221,8 @@
   {
    "n": 27,
    "para": 20,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Don’t recall her to herself,”"
   },
   {
@@ -239,15 +235,15 @@
   {
    "n": 29,
    "para": 20,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“she is\nbetter so. Don’t revive her to consciousness, while she only faints.”"
   },
   {
    "n": 30,
    "para": 21,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Oh, Carton, Carton, dear Carton!”"
   },
   {
@@ -260,8 +256,8 @@
   {
    "n": 32,
    "para": 21,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Now that\nyou have come, I think you will do something to help mamma, something to\nsave papa! O, look at her, dear Carton! Can you, of all the people who\nlove her, bear to see her so?”"
   },
   {
@@ -302,8 +298,8 @@
   {
    "n": 38,
    "para": 24,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“A life you love.”"
   },
   {
@@ -323,8 +319,8 @@
   {
    "n": 41,
    "para": 27,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Nothing connected with Charles was concealed from me. I had the\nstrongest assurances that I should save him; and I did.”"
   },
   {
@@ -337,15 +333,15 @@
   {
    "n": 43,
    "para": 28,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Sydney Carton",
+   "cast": "Christopher Hitchens",
    "text": "“Try them again. The hours between this and to-morrow afternoon are few\nand short, but try.”"
   },
   {
    "n": 44,
    "para": 29,
-   "role": "Sydney Carton",
-   "cast": "Christopher Hitchens",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“I intend to try. I will not rest a moment.”"
   },
   {

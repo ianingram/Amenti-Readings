@@ -19,12 +19,16 @@
    "cast_as": "Nostradamus"
   },
   {
+   "role": "Lucie Manette",
+   "cast_as": "Jane Goodall"
+  },
+  {
    "role": "The mender of roads",
    "cast_as": "Louis Pasteur"
   },
   {
-   "role": "Lucie Manette",
-   "cast_as": "Jane Goodall"
+   "role": "Madame Defarge",
+   "cast_as": "Coco Chanel"
   }
  ],
  "cues": [
@@ -73,8 +77,8 @@
   {
    "n": 7,
    "para": 5,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Nothing can happen to him\nwithout my knowledge, and I know that I can save him, Lucie.”"
   },
   {
@@ -94,8 +98,8 @@
   {
    "n": 10,
    "para": 8,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“O show me the place, my father, and I will go there every day.”"
   },
   {
@@ -115,15 +119,15 @@
   {
    "n": 13,
    "para": 11,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Good day, citizeness.”"
   },
   {
    "n": 14,
    "para": 12,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“Good day, citizen.”"
   },
   {
@@ -136,15 +140,15 @@
   {
    "n": 16,
    "para": 14,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Walking here again, citizeness?”"
   },
   {
    "n": 17,
    "para": 15,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“You see me, citizen!”"
   },
   {
@@ -178,29 +182,29 @@
   {
    "n": 22,
    "para": 19,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“What? Walking here again, citizeness?”"
   },
   {
    "n": 23,
    "para": 20,
-   "role": "The mender of roads",
-   "cast": "Louis Pasteur",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“Yes, citizen.”"
   },
   {
    "n": 24,
    "para": 21,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Ah! A child too! Your mother, is it not, my little citizeness?”"
   },
   {
    "n": 25,
    "para": 22,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Do I say yes, mamma?”"
   },
   {
@@ -213,22 +217,22 @@
   {
    "n": 27,
    "para": 23,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“Yes, dearest.”"
   },
   {
    "n": 28,
    "para": 24,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Yes, citizen.”"
   },
   {
    "n": 29,
    "para": 25,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“Ah! But it’s not my business. My work is my business. See my saw! I\ncall it my Little Guillotine. La, la, la; La, la, la! And off his head\ncomes!”"
   },
   {
@@ -241,8 +245,8 @@
   {
    "n": 31,
    "para": 27,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "The mender of roads",
+   "cast": "Louis Pasteur",
    "text": "“I call myself the Samson of the firewood guillotine. See here again!\nLoo, loo, loo; Loo, loo, loo! And off _her_ head comes! Now, a child.\nTickle, tickle; Pickle, pickle! And off _its_ head comes. All the\nfamily!”"
   },
   {
@@ -262,8 +266,8 @@
   {
    "n": 34,
    "para": 29,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“But it’s\nnot my business!”"
   },
   {
@@ -297,8 +301,8 @@
   {
    "n": 39,
    "para": 32,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Little Sainte Guillotine”"
   },
   {
@@ -325,8 +329,8 @@
   {
    "n": 43,
    "para": 35,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“O my father!”"
   },
   {
@@ -339,43 +343,43 @@
   {
    "n": 45,
    "para": 35,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“such a cruel, bad sight.”"
   },
   {
    "n": 46,
    "para": 36,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“I know, my dear, I know. I have seen it many times. Don’t be\nfrightened! Not one of them would harm you.”"
   },
   {
    "n": 47,
    "para": 37,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“I am not frightened for myself, my father. But when I think of my\nhusband, and the mercies of these people--”"
   },
   {
    "n": 48,
    "para": 38,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“We will set him above their mercies very soon. I left him climbing to\nthe window, and I came to tell you. There is no one here to see. You may\nkiss your hand towards that highest shelving roof.”"
   },
   {
    "n": 49,
    "para": 39,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“I do so, father, and I send him my Soul with it!”"
   },
   {
    "n": 50,
    "para": 40,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“You cannot see him, my poor dear?”"
   },
   {
@@ -423,8 +427,8 @@
   {
    "n": 57,
    "para": 42,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Madame Defarge",
+   "cast": "Coco Chanel",
    "text": "“I salute you, citizen.”"
   },
   {
@@ -437,8 +441,8 @@
   {
    "n": 59,
    "para": 43,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“Give me your arm, my love. Pass from here with an air of cheerfulness\nand courage, for his sake. That was well done;”"
   },
   {
@@ -451,22 +455,22 @@
   {
    "n": 61,
    "para": 43,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“it shall not be in vain. Charles is summoned for to-morrow.”"
   },
   {
    "n": 62,
    "para": 44,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“For to-morrow!”"
   },
   {
    "n": 63,
    "para": 45,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“There is no time to lose. I am well prepared, but there are precautions\nto be taken, that could not be taken until he was actually summoned\nbefore the Tribunal. He has not received the notice yet, but I know\nthat he will presently be summoned for to-morrow, and removed to the\nConciergerie; I have timely information. You are not afraid?”"
   },
   {
@@ -500,8 +504,8 @@
   {
    "n": 68,
    "para": 49,
-   "role": "Lucie Manette",
-   "cast": "Jane Goodall",
+   "role": "Doctor Manette",
+   "cast": "Nostradamus",
    "text": "“I must see Lorry,”"
   },
   {
@@ -535,8 +539,8 @@
   {
    "n": 73,
    "para": 52,
-   "role": "Doctor Manette",
-   "cast": "Nostradamus",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Removed to the Conciergerie, and summoned for to-morrow?”"
   }
  ]

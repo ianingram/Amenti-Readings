@@ -23,16 +23,16 @@
    "cast_as": "Victor Hugo"
   },
   {
-   "role": "The Vengeance",
-   "cast_as": "Edith Piaf"
-  },
-  {
    "role": "Madame Defarge",
    "cast_as": "Coco Chanel"
   },
   {
    "role": "Lucie Manette",
    "cast_as": "Jane Goodall"
+  },
+  {
+   "role": "The Vengeance",
+   "cast_as": "Edith Piaf"
   }
  ],
  "cues": [
@@ -116,8 +116,8 @@
   {
    "n": 12,
    "para": 9,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Do you know me?”"
   },
   {
@@ -130,8 +130,8 @@
   {
    "n": 14,
    "para": 11,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Perhaps at my wine-shop?”"
   },
   {
@@ -151,8 +151,8 @@
   {
    "n": 17,
    "para": 13,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Ernest Defarge",
+   "cast": "Victor Hugo",
    "text": "“Yes. I come from Doctor Manette.”"
   },
   {
@@ -291,8 +291,8 @@
   {
    "n": 37,
    "para": 27,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“DEAREST,--Take courage.  I am well, and your father has\n      influence around me.  You cannot answer this.\n      Kiss our child for me.”"
   },
   {
@@ -382,8 +382,8 @@
   {
    "n": 50,
    "para": 33,
-   "role": "The Vengeance",
-   "cast": "Edith Piaf",
+   "role": "Narrator",
+   "cast": "Charles Dickens",
    "text": "“Well, I am sure, Boldface! I hope\n_you_ are pretty well!”"
   },
   {
@@ -466,8 +466,8 @@
   {
    "n": 62,
    "para": 39,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“You will be good to my poor husband. You will do him no harm. You will\nhelp me to see him if you can?”"
   },
   {
@@ -494,8 +494,8 @@
   {
    "n": 66,
    "para": 41,
-   "role": "Jarvis Lorry",
-   "cast": "Isaac Newton",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“For my sake, then, be merciful to my husband. For my child’s sake! She\nwill put her hands together and pray you to be merciful. We are more\nafraid of you than of these others.”"
   },
   {
@@ -669,8 +669,8 @@
   {
    "n": 91,
    "para": 53,
-   "role": "Madame Defarge",
-   "cast": "Coco Chanel",
+   "role": "Lucie Manette",
+   "cast": "Jane Goodall",
    "text": "“I am not thankless, I hope, but that dreadful woman seems to throw a\nshadow on me and on all my hopes.”"
   },
   {

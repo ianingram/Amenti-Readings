@@ -22,13 +22,14 @@ for b in sheet['beats']:
         prompt = lead + 'Scene: ' + b['text'] + (' People: ' + who + '.' if who else '') + ' Style: ' + sheet['style']
         body = {'model': m, 'prompt': prompt, 'aspect': '16:9', 'n': n}
         if gem and refs: body['refs'] = refs
-        for attempt in range(3):
+        time.sleep(float(os.environ.get('PACE', '12')))  # Vertex's per-minute image quota
+        for attempt in range(5):
             req = urllib.request.Request(URL, json.dumps(body).encode(), {'Content-Type': 'application/json', 'x-amenti-render': KEY, 'User-Agent': 'Mozilla/5.0 amenti-storyboard'})
             try:
                 d = json.load(urllib.request.urlopen(req, timeout=240)); break
             except urllib.error.HTTPError as e:
                 d = {'error': e.code, 'detail': e.read().decode()[:400]}
-                if e.code in (429, 500, 502, 503): time.sleep(15 * (attempt + 1)); continue
+                if e.code in (429, 500, 502, 503): time.sleep(30 * (attempt + 1)); continue
                 break
             except Exception as e:
                 d = {'error': 'net', 'detail': str(e)[:200]}; time.sleep(10)

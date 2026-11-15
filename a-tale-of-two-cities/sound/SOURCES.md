@@ -67,3 +67,20 @@ Borrowed by URL:
 - Dracula: the wind (dawn by the river), the glass breaking, the heavy door, the horse's neigh.
 
 Score (`build-moods.py`, VSCO 2 CE, CC0): **score-bailey.mp3** (the Old Bailey), **score-carton.mp3** (Sydney Carton), **score-monseigneur.mp3** (Monseigneur and the Marquis).
+
+## Book the Second, chapters 19–30 (15 Nov 2026)
+Rooms built for this book (`build-rooms-b2b.py`), all BigSoundBank (CC0). The protest recordings (#0108, #2980–#2983, #3382–#3391, "manifestation") are French street chants: they are cut into short grains and shuffled so no words or rhythm survive.
+- **funeral-mob.mp3**: the protest recordings, #3515 and #3516 (a crowd), #0236 and #0237 (shouts), #0610 and #0611 (hooves at a slow walk), #1316 (wheels).
+- **churchyard.mp3**: #0315 (night), #0659 (wind in the leaves), #0429 and #1400 (owls).
+- **versailles.mp3**: #3515 and #3516, #2968 and #2969 (people outdoors), #0610/#0611, #0019 (applause, far off and low-passed: the shouting).
+- **rising.mp3**: the protest recordings, #3515/#3516, #2402, #2405 and #2408 (drum rolls), #0135, #0829 and #0830 (church bells), far off.
+- **bastille.mp3**: all of the above, with #1023 and #1806–#1808 (explosions far off: the cannon) and #2853, #2854, #0397 and #0532 (shots: the musketry).
+- **bastille-within.mp3**: the Bastille room through stone, #1386 and #1387 (drops).
+- **chateau-fire.mp3**: #0987–#0989 (a big fire), #1341 and #1342 (a fire roaring), #2855–#2857 (crackling), #0659 (wind).
+- **village-fire.mp3**: #0913 (the fountain), the fire far off, #0135 (the bell, struck in runs: the tocsin), #2968/#2969.
+- **soho-night.mp3**: #0425 and #0426 (night insects), #0315, #0659, #2968/#2969 very far off.
+
+One-shots built for this book (`build-oneshots-b2b.py`), BigSoundBank (CC0):
+- **spade.mp3** #1305 · **creak.mp3** #0539 · **wedding-bells.mp3** #0829 · **bells-drums.mp3** #0994, #2402, #2405 · **chop.mp3** #0536 · **cheer.mp3** #0019, #0236, #0237 · **roar.mp3** the protest recordings · **drum-jar.mp3** #2400 · **drum-beat.mp3** #2408, #2404 · **alarm-bells.mp3** #0135, #0829, #0830 · **cannon.mp3** #1806 · **volley.mp3** #2853, #2854, #0397 · **blaze.mp3** #1341 · **tocsin.mp3** #0135.
+
+Score (`build-moods.py`, VSCO 2 CE, CC0): **score-rising.mp3** (the Revolution: D minor, march time, drums in the street).

@@ -382,21 +382,51 @@
    "para": 38,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The night deepened. The trees environing the old chateau, keeping its\nsolitary state apart, moved in a rising wind, as though they threatened\nthe pile of building massive and dark in the gloom. Up the two terrace\nflights of steps the rain ran wildly, and beat at the great door, like a\nswift messenger rousing those within; uneasy rushes of wind went through\nthe hall, among the old spears and knives, and passed lamenting up the\nstairs, and shook the curtains of the bed where the last Marquis\nhad slept. East, West, North, and South, through the woods, four\nheavy-treading, unkempt figures crushed the high grass and cracked the\nbranches, striding on cautiously to come together in the courtyard. Four\nlights broke out there, and moved away in different directions, and all\nwas black again."
+   "text": "The night deepened. The trees environing the old chateau, keeping its\nsolitary state apart, moved in a rising wind, as though they threatened\nthe pile of building massive and dark in the gloom. Up the two terrace\nflights of steps the rain ran wildly, and beat at the great door, like a\nswift messenger rousing those within; uneasy rushes of wind went through\nthe hall, among the old spears and knives, and passed lamenting up the\nstairs, and shook the curtains of the bed where the last Marquis\nhad slept. East, West, North, and South, through the woods, four\nheavy-treading, unkempt figures crushed the high grass and cracked the\nbranches, striding on cautiously to come together in the courtyard. Four\nlights broke out there, and moved away in different directions, and all\nwas black again.",
+   "bed": "chateau_night",
+   "state": 1,
+   "score": {
+    "key": "bailey",
+    "xfade": 9
+   }
   },
   {
    "n": 53,
    "para": 39,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "But, not for long. Presently, the chateau began to make itself strangely\nvisible by some light of its own, as though it were growing luminous.\nThen, a flickering streak played behind the architecture of the front,\npicking out transparent places, and showing where balustrades, arches,\nand windows were. Then it soared higher, and grew broader and brighter.\nSoon, from a score of the great windows, flames burst forth, and the\nstone faces awakened, stared out of fire."
+   "text": "But, not for long. Presently, the chateau began to make itself strangely\nvisible by some light of its own, as though it were growing luminous.\nThen, a flickering streak played behind the architecture of the front,\npicking out transparent places, and showing where balustrades, arches,\nand windows were. Then it soared higher, and grew broader and brighter.\nSoon, from a score of the great windows, flames burst forth, and the\nstone faces awakened, stared out of fire.",
+   "bed": "chateau_fire",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "blaze",
+     "at": "flames burst forth"
+    }
+   ],
+   "score": {
+    "key": "rising",
+    "xfade": 8
+   }
   },
   {
    "n": 54,
    "para": 40,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A faint murmur arose about the house from the few people who were left\nthere, and there was a saddling of a horse and riding away. There was\nspurring and splashing through the darkness, and bridle was drawn in the\nspace by the village fountain, and the horse in a foam stood at Monsieur\nGabelle’s door."
+   "text": "A faint murmur arose about the house from the few people who were left\nthere, and there was a saddling of a horse and riding away. There was\nspurring and splashing through the darkness, and bridle was drawn in the\nspace by the village fountain, and the horse in a foam stood at Monsieur\nGabelle’s door.",
+   "bed": "village",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "horse_gallop",
+     "at": "there was a saddling of a horse and riding away"
+    },
+    {
+     "key": "horses_halt",
+     "at": "the horse in a foam stood at Monsieur Gabelle’s door"
+    }
+   ]
   },
   {
    "n": 55,
@@ -410,7 +440,15 @@
    "para": 40,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The tocsin rang\nimpatiently, but other help (if that were any) there was none. The\nmender of roads, and two hundred and fifty particular friends, stood\nwith folded arms at the fountain, looking at the pillar of fire in the\nsky."
+   "text": "The tocsin rang\nimpatiently, but other help (if that were any) there was none. The\nmender of roads, and two hundred and fifty particular friends, stood\nwith folded arms at the fountain, looking at the pillar of fire in the\nsky.",
+   "bed": "village_fire",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "tocsin",
+     "at": "The tocsin rang impatiently"
+    }
+   ]
   },
   {
    "n": 57,
@@ -431,7 +469,13 @@
    "para": 41,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The rider from the chateau, and the horse in a foam, clattered away\nthrough the village, and galloped up the stony steep, to the prison on\nthe crag. At the gate, a group of officers were looking at the fire;\nremoved from them, a group of soldiers."
+   "text": "The rider from the chateau, and the horse in a foam, clattered away\nthrough the village, and galloped up the stony steep, to the prison on\nthe crag. At the gate, a group of officers were looking at the fire;\nremoved from them, a group of soldiers.",
+   "sfx": [
+    {
+     "key": "horse_gallop",
+     "at": "galloped up the stony steep"
+    }
+   ]
   },
   {
    "n": 60,
@@ -459,42 +503,71 @@
    "para": 42,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "As the rider rattled down the hill again and through the street, the\nvillage was illuminating. The mender of roads, and the two hundred and\nfifty particular friends, inspired as one man and woman by the idea of\nlighting up, had darted into their houses, and were putting candles in\nevery dull little pane of glass. The general scarcity of everything,\noccasioned candles to be borrowed in a rather peremptory manner of\nMonsieur Gabelle; and in a moment of reluctance and hesitation on\nthat functionary’s part, the mender of roads, once so submissive to\nauthority, had remarked that carriages were good to make bonfires with,\nand that post-horses would roast."
+   "text": "As the rider rattled down the hill again and through the street, the\nvillage was illuminating. The mender of roads, and the two hundred and\nfifty particular friends, inspired as one man and woman by the idea of\nlighting up, had darted into their houses, and were putting candles in\nevery dull little pane of glass. The general scarcity of everything,\noccasioned candles to be borrowed in a rather peremptory manner of\nMonsieur Gabelle; and in a moment of reluctance and hesitation on\nthat functionary’s part, the mender of roads, once so submissive to\nauthority, had remarked that carriages were good to make bonfires with,\nand that post-horses would roast.",
+   "sfx": [
+    {
+     "key": "horse_gallop",
+     "at": "As the rider rattled down the hill again"
+    }
+   ]
   },
   {
    "n": 64,
    "para": 43,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The chateau was left to itself to flame and burn. In the roaring and\nraging of the conflagration, a red-hot wind, driving straight from the\ninfernal regions, seemed to be blowing the edifice away. With the rising\nand falling of the blaze, the stone faces showed as if they were in\ntorment. When great masses of stone and timber fell, the face with the\ntwo dints in the nose became obscured: anon struggled out of the smoke\nagain, as if it were the face of the cruel Marquis, burning at the stake\nand contending with the fire."
+   "text": "The chateau was left to itself to flame and burn. In the roaring and\nraging of the conflagration, a red-hot wind, driving straight from the\ninfernal regions, seemed to be blowing the edifice away. With the rising\nand falling of the blaze, the stone faces showed as if they were in\ntorment. When great masses of stone and timber fell, the face with the\ntwo dints in the nose became obscured: anon struggled out of the smoke\nagain, as if it were the face of the cruel Marquis, burning at the stake\nand contending with the fire.",
+   "bed": "chateau_fire",
+   "state": 1
   },
   {
    "n": 65,
    "para": 44,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The chateau burned; the nearest trees, laid hold of by the fire,\nscorched and shrivelled; trees at a distance, fired by the four fierce\nfigures, begirt the blazing edifice with a new forest of smoke. Molten\nlead and iron boiled in the marble basin of the fountain; the water ran\ndry; the extinguisher tops of the towers vanished like ice before the\nheat, and trickled down into four rugged wells of flame. Great rents and\nsplits branched out in the solid walls, like crystallisation; stupefied\nbirds wheeled about and dropped into the furnace; four fierce figures\ntrudged away, East, West, North, and South, along the night-enshrouded\nroads, guided by the beacon they had lighted, towards their next\ndestination. The illuminated village had seized hold of the tocsin, and,\nabolishing the lawful ringer, rang for joy."
+   "text": "The chateau burned; the nearest trees, laid hold of by the fire,\nscorched and shrivelled; trees at a distance, fired by the four fierce\nfigures, begirt the blazing edifice with a new forest of smoke. Molten\nlead and iron boiled in the marble basin of the fountain; the water ran\ndry; the extinguisher tops of the towers vanished like ice before the\nheat, and trickled down into four rugged wells of flame. Great rents and\nsplits branched out in the solid walls, like crystallisation; stupefied\nbirds wheeled about and dropped into the furnace; four fierce figures\ntrudged away, East, West, North, and South, along the night-enshrouded\nroads, guided by the beacon they had lighted, towards their next\ndestination. The illuminated village had seized hold of the tocsin, and,\nabolishing the lawful ringer, rang for joy.",
+   "bed": "village_fire",
+   "state": 1
   },
   {
    "n": 66,
    "para": 45,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Not only that; but the village, light-headed with famine, fire, and\nbell-ringing, and bethinking itself that Monsieur Gabelle had to do with\nthe collection of rent and taxes--though it was but a small instalment\nof taxes, and no rent at all, that Gabelle had got in those latter\ndays--became impatient for an interview with him, and, surrounding his\nhouse, summoned him to come forth for personal conference. Whereupon,\nMonsieur Gabelle did heavily bar his door, and retire to hold counsel\nwith himself. The result of that conference was, that Gabelle again\nwithdrew himself to his housetop behind his stack of chimneys; this time\nresolved, if his door were broken in (he was a small Southern man\nof retaliative temperament), to pitch himself head foremost over the\nparapet, and crush a man or two below."
+   "text": "Not only that; but the village, light-headed with famine, fire, and\nbell-ringing, and bethinking itself that Monsieur Gabelle had to do with\nthe collection of rent and taxes--though it was but a small instalment\nof taxes, and no rent at all, that Gabelle had got in those latter\ndays--became impatient for an interview with him, and, surrounding his\nhouse, summoned him to come forth for personal conference. Whereupon,\nMonsieur Gabelle did heavily bar his door, and retire to hold counsel\nwith himself. The result of that conference was, that Gabelle again\nwithdrew himself to his housetop behind his stack of chimneys; this time\nresolved, if his door were broken in (he was a small Southern man\nof retaliative temperament), to pitch himself head foremost over the\nparapet, and crush a man or two below.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "did heavily bar his door"
+    }
+   ]
   },
   {
    "n": 67,
    "para": 46,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Probably, Monsieur Gabelle passed a long night up there, with the\ndistant chateau for fire and candle, and the beating at his door,\ncombined with the joy-ringing, for music; not to mention his having an\nill-omened lamp slung across the road before his posting-house gate,\nwhich the village showed a lively inclination to displace in his favour.\nA trying suspense, to be passing a whole summer night on the brink of\nthe black ocean, ready to take that plunge into it upon which Monsieur\nGabelle had resolved! But, the friendly dawn appearing at last, and the\nrush-candles of the village guttering out, the people happily dispersed,\nand Monsieur Gabelle came down bringing his life with him for that\nwhile."
+   "text": "Probably, Monsieur Gabelle passed a long night up there, with the\ndistant chateau for fire and candle, and the beating at his door,\ncombined with the joy-ringing, for music; not to mention his having an\nill-omened lamp slung across the road before his posting-house gate,\nwhich the village showed a lively inclination to displace in his favour.\nA trying suspense, to be passing a whole summer night on the brink of\nthe black ocean, ready to take that plunge into it upon which Monsieur\nGabelle had resolved! But, the friendly dawn appearing at last, and the\nrush-candles of the village guttering out, the people happily dispersed,\nand Monsieur Gabelle came down bringing his life with him for that\nwhile.",
+   "sfx": [
+    {
+     "key": "knock",
+     "at": "the beating at his door"
+    }
+   ],
+   "score": {
+    "key": "hunger",
+    "xfade": 9,
+    "at": "But, the friendly dawn appearing at last"
+   }
   },
   {
    "n": 68,
    "para": 47,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Within a hundred miles, and in the light of other fires, there were\nother functionaries less fortunate, that night and other nights, whom\nthe rising sun found hanging across once-peaceful streets, where they\nhad been born and bred; also, there were other villagers and townspeople\nless fortunate than the mender of roads and his fellows, upon whom the\nfunctionaries and soldiery turned with success, and whom they strung up\nin their turn. But, the fierce figures were steadily wending East, West,\nNorth, and South, be that as it would; and whosoever hung, fire burned.\nThe altitude of the gallows that would turn to water and quench it,\nno functionary, by any stretch of mathematics, was able to calculate\nsuccessfully."
+   "text": "Within a hundred miles, and in the light of other fires, there were\nother functionaries less fortunate, that night and other nights, whom\nthe rising sun found hanging across once-peaceful streets, where they\nhad been born and bred; also, there were other villagers and townspeople\nless fortunate than the mender of roads and his fellows, upon whom the\nfunctionaries and soldiery turned with success, and whom they strung up\nin their turn. But, the fierce figures were steadily wending East, West,\nNorth, and South, be that as it would; and whosoever hung, fire burned.\nThe altitude of the gallows that would turn to water and quench it,\nno functionary, by any stretch of mathematics, was able to calculate\nsuccessfully.",
+   "bed": "village",
+   "state": 1
   }
  ]
 }

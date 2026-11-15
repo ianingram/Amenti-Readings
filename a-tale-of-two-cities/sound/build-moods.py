@@ -32,6 +32,12 @@ def p_road(b, nb, bass, beat):                  # the mail at night: a low heart
     out = [(BD(2, 1) * 1.0, 0), (BD(1, 2) * 0.65, 0.38 * beat)]
     if b % 4 == 3: out.append((timp(max(40, bass if bass <= 53 else bass - 12), 0.7), 2 * beat))
     return out
+def p_rising(b, nb, bass, beat):                # the Revolution in the streets: march drums, a roll into every other bar
+    out = [(BD(2, 1 + b % 2) * 1.2, 0), (BD(1, 2) * 0.8, 2 * beat)]
+    out += [(TAP(1, 1 + (b + i) % 2) * 0.45, (i + 0.5) * beat) for i in range(4)]
+    if b % 2 == 1: out.append((kit('Snare2-rollNS_v1_rr1_Sum.wav')[: int(2 * beat * SR)] * np.linspace(0.2, 0.8, int(2 * beat * SR)), 2 * beat))
+    if b % 4 == 3: out.append((timp(max(40, bass if bass <= 53 else bass - 12), 0.8), 3 * beat))
+    return out
 
 MOODS = {
     # Book the First opens: "the best of times, the worst of times": C major turning to C minor and back
@@ -59,6 +65,9 @@ MOODS = {
     # Monseigneur: gilded and cold: E flat major turning to C minor, a crisp court pulse on every beat
     'monseigneur': dict(bpm=80, chords='Eb Cm Ab Bb Eb Gm Ab Bb Cm Ab Fm G Cm Ab Bb Eb'.split(),
                         pulse=[(0, 0, 0.45), (1, 0, 0.3), (2, 0, 0.4), (3, 0, 0.3)], perc=p_calm, top=motif(8, 75)),
+    # The Revolution: the sea rises: D minor, march time, drums in the street, a roll into every other bar
+    'rising': dict(bpm=96, chords='Dm Dm Bb A Dm Gm A A Bb Gm Dm A Gm Bb A Dm'.split(),
+                   pulse=[(0, 0, 0.55), (1, 0, 0.35), (2, 0, 0.5), (3, 0, 0.35)], perc=p_rising, top=motif(8, 74, True)),
 }
 for name, kw in MOODS.items():
     if ONLY and name not in ONLY: continue

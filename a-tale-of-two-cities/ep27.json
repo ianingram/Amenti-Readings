@@ -214,14 +214,21 @@
    "para": 13,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "But, there were other echoes, from a distance, that rumbled menacingly\nin the corner all through this space of time. And it was now, about\nlittle Lucie’s sixth birthday, that they began to have an awful sound,\nas of a great storm in France with a dreadful sea rising."
+   "text": "But, there were other echoes, from a distance, that rumbled menacingly\nin the corner all through this space of time. And it was now, about\nlittle Lucie’s sixth birthday, that they began to have an awful sound,\nas of a great storm in France with a dreadful sea rising.",
+   "score": {
+    "key": "hunger",
+    "xfade": 9,
+    "at": "an awful sound, as of a great storm in France"
+   }
   },
   {
    "n": 25,
    "para": 14,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "On a night in mid-July, one thousand seven hundred and eighty-nine, Mr.\nLorry came in late, from Tellson’s, and sat himself down by Lucie and\nher husband in the dark window. It was a hot, wild night, and they were\nall three reminded of the old Sunday night when they had looked at the\nlightning from the same place."
+   "text": "On a night in mid-July, one thousand seven hundred and eighty-nine, Mr.\nLorry came in late, from Tellson’s, and sat himself down by Lucie and\nher husband in the dark window. It was a hot, wild night, and they were\nall three reminded of the old Sunday night when they had looked at the\nlightning from the same place.",
+   "bed": "soho_night",
+   "state": 1
   },
   {
    "n": 26,
@@ -403,7 +410,13 @@
    "para": 29,
    "role": "Jarvis Lorry",
    "cast": "Isaac Newton",
-   "text": "“They\nare very numerous and very loud, though, are they not? Only hear them!”"
+   "text": "“They\nare very numerous and very loud, though, are they not? Only hear them!”",
+   "sfx": [
+    {
+     "key": "steps_rush",
+     "at": "Only hear them!"
+    }
+   ]
   },
   {
    "n": 52,
@@ -417,7 +430,19 @@
    "para": 31,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Saint Antoine had been, that morning, a vast dusky mass of scarecrows\nheaving to and fro, with frequent gleams of light above the billowy\nheads, where steel blades and bayonets shone in the sun. A tremendous\nroar arose from the throat of Saint Antoine, and a forest of naked arms\nstruggled in the air like shrivelled branches of trees in a winter wind:\nall the fingers convulsively clutching at every weapon or semblance of a\nweapon that was thrown up from the depths below, no matter how far off."
+   "text": "Saint Antoine had been, that morning, a vast dusky mass of scarecrows\nheaving to and fro, with frequent gleams of light above the billowy\nheads, where steel blades and bayonets shone in the sun. A tremendous\nroar arose from the throat of Saint Antoine, and a forest of naked arms\nstruggled in the air like shrivelled branches of trees in a winter wind:\nall the fingers convulsively clutching at every weapon or semblance of a\nweapon that was thrown up from the depths below, no matter how far off.",
+   "bed": "rising",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "roar",
+     "at": "A tremendous roar arose from the throat of Saint Antoine"
+    }
+   ],
+   "score": {
+    "key": "rising",
+    "xfade": 6
+   }
   },
   {
    "n": 54,
@@ -522,21 +547,57 @@
    "para": 39,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "With a roar that sounded as if all the breath in France had been shaped\ninto the detested word, the living sea rose, wave on wave, depth on\ndepth, and overflowed the city to that point. Alarm-bells ringing, drums\nbeating, the sea raging and thundering on its new beach, the attack\nbegan."
+   "text": "With a roar that sounded as if all the breath in France had been shaped\ninto the detested word, the living sea rose, wave on wave, depth on\ndepth, and overflowed the city to that point. Alarm-bells ringing, drums\nbeating, the sea raging and thundering on its new beach, the attack\nbegan.",
+   "bed": "bastille",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "roar",
+     "at": "With a roar that sounded as if all the breath in France had been shaped into the detested word"
+    },
+    {
+     "key": "alarm_bells",
+     "at": "Alarm-bells ringing"
+    },
+    {
+     "key": "drum_beat",
+     "at": "drums beating"
+    }
+   ]
   },
   {
    "n": 69,
    "para": 40,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Deep ditches, double drawbridge, massive stone walls, eight great\ntowers, cannon, muskets, fire and smoke. Through the fire and through\nthe smoke--in the fire and in the smoke, for the sea cast him up against\na cannon, and on the instant he became a cannonier--Defarge of the\nwine-shop worked like a manful soldier, Two fierce hours."
+   "text": "Deep ditches, double drawbridge, massive stone walls, eight great\ntowers, cannon, muskets, fire and smoke. Through the fire and through\nthe smoke--in the fire and in the smoke, for the sea cast him up against\na cannon, and on the instant he became a cannonier--Defarge of the\nwine-shop worked like a manful soldier, Two fierce hours.",
+   "sfx": [
+    {
+     "key": "cannon",
+     "at": "eight great towers, cannon"
+    },
+    {
+     "key": "volley",
+     "at": "muskets, fire and smoke"
+    },
+    {
+     "key": "cannon",
+     "at": "he became a cannonier"
+    }
+   ]
   },
   {
    "n": 70,
    "para": 41,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Deep ditch, single drawbridge, massive stone walls, eight great towers,\ncannon, muskets, fire and smoke. One drawbridge down!"
+   "text": "Deep ditch, single drawbridge, massive stone walls, eight great towers,\ncannon, muskets, fire and smoke. One drawbridge down!",
+   "sfx": [
+    {
+     "key": "cheer",
+     "at": "One drawbridge down!"
+    }
+   ]
   },
   {
    "n": 71,
@@ -585,14 +646,32 @@
    "para": 43,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Cannon, muskets, fire and smoke; but, still the deep ditch, the single\ndrawbridge, the massive stone walls, and the eight great towers. Slight\ndisplacements of the raging sea, made by the falling wounded. Flashing\nweapons, blazing torches, smoking waggonloads of wet straw, hard work\nat neighbouring barricades in all directions, shrieks, volleys,\nexecrations, bravery without stint, boom smash and rattle, and the\nfurious sounding of the living sea; but, still the deep ditch, and the\nsingle drawbridge, and the massive stone walls, and the eight great\ntowers, and still Defarge of the wine-shop at his gun, grown doubly hot\nby the service of Four fierce hours."
+   "text": "Cannon, muskets, fire and smoke; but, still the deep ditch, the single\ndrawbridge, the massive stone walls, and the eight great towers. Slight\ndisplacements of the raging sea, made by the falling wounded. Flashing\nweapons, blazing torches, smoking waggonloads of wet straw, hard work\nat neighbouring barricades in all directions, shrieks, volleys,\nexecrations, bravery without stint, boom smash and rattle, and the\nfurious sounding of the living sea; but, still the deep ditch, and the\nsingle drawbridge, and the massive stone walls, and the eight great\ntowers, and still Defarge of the wine-shop at his gun, grown doubly hot\nby the service of Four fierce hours.",
+   "sfx": [
+    {
+     "key": "volley",
+     "at": "shrieks, volleys"
+    },
+    {
+     "key": "cannon",
+     "at": "boom smash and rattle"
+    }
+   ]
   },
   {
    "n": 78,
    "para": 44,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A white flag from within the fortress, and a parley--this dimly\nperceptible through the raging storm, nothing audible in it--suddenly\nthe sea rose immeasurably wider and higher, and swept Defarge of the\nwine-shop over the lowered drawbridge, past the massive stone outer\nwalls, in among the eight great towers surrendered!"
+   "text": "A white flag from within the fortress, and a parley--this dimly\nperceptible through the raging storm, nothing audible in it--suddenly\nthe sea rose immeasurably wider and higher, and swept Defarge of the\nwine-shop over the lowered drawbridge, past the massive stone outer\nwalls, in among the eight great towers surrendered!",
+   "bed": "rising",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "cheer",
+     "at": "in among the eight great towers surrendered!"
+    }
+   ]
   },
   {
    "n": 79,
@@ -781,14 +860,30 @@
    "para": 62,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Through gloomy vaults where the light of day had never shone, past\nhideous doors of dark dens and cages, down cavernous flights of steps,\nand again up steep rugged ascents of stone and brick, more like dry\nwaterfalls than staircases, Defarge, the turnkey, and Jacques Three,\nlinked hand and arm, went with all the speed they could make. Here and\nthere, especially at first, the inundation started on them and swept by;\nbut when they had done descending, and were winding and climbing up a\ntower, they were alone. Hemmed in here by the massive thickness of walls\nand arches, the storm within the fortress and without was only audible\nto them in a dull, subdued way, as if the noise out of which they had\ncome had almost destroyed their sense of hearing."
+   "text": "Through gloomy vaults where the light of day had never shone, past\nhideous doors of dark dens and cages, down cavernous flights of steps,\nand again up steep rugged ascents of stone and brick, more like dry\nwaterfalls than staircases, Defarge, the turnkey, and Jacques Three,\nlinked hand and arm, went with all the speed they could make. Here and\nthere, especially at first, the inundation started on them and swept by;\nbut when they had done descending, and were winding and climbing up a\ntower, they were alone. Hemmed in here by the massive thickness of walls\nand arches, the storm within the fortress and without was only audible\nto them in a dull, subdued way, as if the noise out of which they had\ncome had almost destroyed their sense of hearing.",
+   "bed": "bastille_within",
+   "state": 1,
+   "score": {
+    "key": "recalled",
+    "xfade": 9
+   }
   },
   {
    "n": 106,
    "para": 63,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The turnkey stopped at a low door, put a key in a clashing lock, swung\nthe door slowly open, and said, as they all bent their heads and passed\nin:"
+   "text": "The turnkey stopped at a low door, put a key in a clashing lock, swung\nthe door slowly open, and said, as they all bent their heads and passed\nin:",
+   "sfx": [
+    {
+     "key": "key_lock",
+     "at": "put a key in a clashing lock"
+    },
+    {
+     "key": "door_open",
+     "at": "swung the door slowly open"
+    }
+   ]
   },
   {
    "n": 107,
@@ -942,7 +1037,20 @@
    "para": 77,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The turnkey fired the little pile, which blazed high and hot. Stooping\nagain to come out at the low-arched door, they left it burning, and\nretraced their way to the courtyard; seeming to recover their sense\nof hearing as they came down, until they were in the raging flood once\nmore."
+   "text": "The turnkey fired the little pile, which blazed high and hot. Stooping\nagain to come out at the low-arched door, they left it burning, and\nretraced their way to the courtyard; seeming to recover their sense\nof hearing as they came down, until they were in the raging flood once\nmore.",
+   "bed": "rising",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "blaze",
+     "at": "The turnkey fired the little pile"
+    }
+   ],
+   "score": {
+    "key": "rising",
+    "xfade": 8,
+    "at": "until they were in the raging flood once more"
+   }
   },
   {
    "n": 129,

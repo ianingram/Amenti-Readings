@@ -57,7 +57,9 @@
    "para": 4,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "On a day in August, when Mr. Stryver (after notifying to his jackal\nthat"
+   "text": "On a day in August, when Mr. Stryver (after notifying to his jackal\nthat",
+   "bed": "soho",
+   "state": 1
   },
   {
    "n": 6,
@@ -428,7 +430,13 @@
    "para": 45,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "and left her."
+   "text": "and left her.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "and left her"
+    }
+   ]
   }
  ]
 }

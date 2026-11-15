@@ -2,7 +2,7 @@
   "_file": "a-tale-of-two-cities/sound.json",
   "_updated": "2026-11-15",
   "work": "a-tale-of-two-cities",
-  "note": "Book the First (14 Nov 2026) and Book the Second ch 7-18 (15 Nov 2026): rooms, sounds on the words and score placed.",
+  "note": "Book the First (14 Nov 2026) and Book the Second (15 Nov 2026): rooms, sounds on the words and score placed.",
   "files": {
     "base": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/",
     "beds": {
@@ -31,7 +31,16 @@
       "coach_dusk": "coach-dusk.mp3",
       "village": "village-evening.mp3",
       "chateau_night": "chateau-night.mp3",
-      "chateau_dawn": "chateau-dawn.mp3"
+      "chateau_dawn": "chateau-dawn.mp3",
+      "funeral_mob": "funeral-mob.mp3",
+      "churchyard": "churchyard.mp3",
+      "versailles": "versailles.mp3",
+      "rising": "rising.mp3",
+      "bastille": "bastille.mp3",
+      "bastille_within": "bastille-within.mp3",
+      "chateau_fire": "chateau-fire.mp3",
+      "village_fire": "village-fire.mp3",
+      "soho_night": "soho-night.mp3"
     },
     "oneshots": {
       "whip_crack": "whip-crack.mp3",
@@ -70,7 +79,21 @@
       "poke_fire": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/poke-fire-v2.mp3",
       "glass_smash": "https://ianingram.github.io/Amenti-Readings/dracula/sound/glass-crash.mp3",
       "door_clang": "https://ianingram.github.io/Amenti-Readings/dracula/sound/door_heavy.mp3",
-      "horse_neigh": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horse-neigh.mp3"
+      "horse_neigh": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horse-neigh.mp3",
+      "spade": "spade.mp3",
+      "creak": "creak.mp3",
+      "wedding_bells": "wedding-bells.mp3",
+      "bells_drums": "bells-drums.mp3",
+      "chop": "chop.mp3",
+      "cheer": "cheer.mp3",
+      "roar": "roar.mp3",
+      "drum_jar": "drum-jar.mp3",
+      "drum_beat": "drum-beat.mp3",
+      "alarm_bells": "alarm-bells.mp3",
+      "cannon": "cannon.mp3",
+      "volley": "volley.mp3",
+      "blaze": "blaze.mp3",
+      "tocsin": "tocsin.mp3"
     },
     "score": {
       "overture_period": "score-period.mp3",
@@ -81,7 +104,8 @@
       "recalled": "score-recalled.mp3",
       "bailey": "score-bailey.mp3",
       "carton": "score-carton.mp3",
-      "monseigneur": "score-monseigneur.mp3"
+      "monseigneur": "score-monseigneur.mp3",
+      "rising": "score-rising.mp3"
     },
     "levels": {
       "overture_period": 0.7,
@@ -92,7 +116,8 @@
       "recalled": 0.38,
       "bailey": 0.38,
       "carton": 0.38,
-      "monseigneur": 0.38
+      "monseigneur": 0.38,
+      "rising": 0.38
     },
     "breath": {
       "note": "14 Nov 2026: the score ebbs and flows under the voice, as in Dracula.",
@@ -140,7 +165,21 @@
       "poke_fire": 0.45,
       "glass_smash": 0.45,
       "door_clang": 0.55,
-      "horse_neigh": 0.5
+      "horse_neigh": 0.5,
+      "spade": 0.45,
+      "creak": 0.4,
+      "wedding_bells": 0.4,
+      "bells_drums": 0.45,
+      "chop": 0.45,
+      "cheer": 0.4,
+      "roar": 0.5,
+      "drum_jar": 0.4,
+      "drum_beat": 0.5,
+      "alarm_bells": 0.5,
+      "cannon": 0.6,
+      "volley": 0.5,
+      "blaze": 0.45,
+      "tocsin": 0.45
     }
   },
   "beds": {
@@ -172,7 +211,8 @@
     "wine_shop": {
       "note": "The Defarges' wine-shop: low talk, cups, a small fire (A Christmas Carol's tavern, held down).",
       "levels": {
-        "1": 0.5
+        "1": 0.5,
+        "2": 0.15
       }
     },
     "stair": {
@@ -302,6 +342,63 @@
       "levels": {
         "1": 1.0
       }
+    },
+    "funeral_mob": {
+      "note": "Roger Cly's funeral in Fleet Street: a jeering mob round the hearse and mourning coach, horses at a walk. 1 coming down the street, 2 all round (built for this book).",
+      "levels": {
+        "1": 0.4,
+        "2": 0.8
+      }
+    },
+    "churchyard": {
+      "note": "The churchyard in the fields at night: the night air, the grass and leaves, an owl (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "versailles": {
+      "note": "Versailles: the crowd waiting for the King and Queen, horses far off, swells of shouting. 1 waiting, 2 thinning away (built for this book).",
+      "levels": {
+        "1": 0.9,
+        "2": 0.45
+      }
+    },
+    "rising": {
+      "note": "Saint Antoine rising: a vast crowd seething, drums and alarm-bells far off. 1 heaving, 2 the living sea at full (built for this book).",
+      "levels": {
+        "1": 0.7,
+        "2": 1.0
+      }
+    },
+    "bastille": {
+      "note": "The attack on the Bastille: the roar of the crowd, cannon, musketry, drums, bells (built for this book).",
+      "levels": {
+        "1": 0.9
+      }
+    },
+    "bastille_within": {
+      "note": "Inside the fortress: the storm outside heard only in a dull, subdued way through the stone (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
+    },
+    "chateau_fire": {
+      "note": "The chateau burning: the roar of the fire and the wind it makes, timbers cracking (built for this book).",
+      "levels": {
+        "1": 0.75
+      }
+    },
+    "village_fire": {
+      "note": "The village at its fountain under the fire on the sky: the tocsin rung impatiently, people, the fire far off (built for this book).",
+      "levels": {
+        "1": 0.9
+      }
+    },
+    "soho_night": {
+      "note": "The corner in Soho on a moonlit night: insects, the leaves, the city very far off (built for this book).",
+      "levels": {
+        "1": 1.0
+      }
     }
   },
   "chapters": [
@@ -417,75 +514,75 @@
     },
     {
       "n": 19,
-      "bed": null,
+      "bed": "london_night",
       "state": 1,
-      "score": null
+      "score": "carton"
     },
     {
       "n": 20,
-      "bed": null,
+      "bed": "fleet_street",
       "state": 1,
-      "score": null
+      "score": "period"
     },
     {
       "n": 21,
-      "bed": null,
+      "bed": "wine_shop",
       "state": 1,
-      "score": null
+      "score": "hunger"
     },
     {
       "n": 22,
-      "bed": null,
+      "bed": "dover_road",
       "state": 1,
-      "score": null
+      "score": "hunger"
     },
     {
       "n": 23,
-      "bed": null,
-      "state": 1,
-      "score": null
+      "bed": "soho",
+      "state": 2,
+      "score": "tender"
     },
     {
       "n": 24,
-      "bed": null,
+      "bed": "soho",
       "state": 1,
-      "score": null
+      "score": "tender"
     },
     {
       "n": 25,
-      "bed": null,
+      "bed": "soho",
       "state": 1,
-      "score": null
+      "score": "recalled"
     },
     {
       "n": 26,
-      "bed": null,
+      "bed": "soho",
       "state": 1,
-      "score": null
+      "score": "carton"
     },
     {
       "n": 27,
-      "bed": null,
+      "bed": "soho",
       "state": 1,
-      "score": null
+      "score": "tender"
     },
     {
       "n": 28,
-      "bed": null,
+      "bed": "saint_antoine",
       "state": 1,
-      "score": null
+      "score": "hunger"
     },
     {
       "n": 29,
-      "bed": null,
+      "bed": "village",
       "state": 1,
-      "score": null
+      "score": "hunger"
     },
     {
       "n": 30,
-      "bed": null,
+      "bed": "tellsons",
       "state": 1,
-      "score": null
+      "score": "period"
     },
     {
       "n": 31,

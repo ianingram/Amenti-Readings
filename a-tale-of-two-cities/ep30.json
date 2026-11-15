@@ -824,7 +824,13 @@
    "para": 74,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A carriage with post-horses was ready at the Bank door, and Jerry was\nbooted and equipped."
+   "text": "A carriage with post-horses was ready at the Bank door, and Jerry was\nbooted and equipped.",
+   "sfx": [
+    {
+     "key": "horses_halt",
+     "at": "A carriage with post-horses was ready at the Bank door"
+    }
+   ]
   },
   {
    "n": 115,
@@ -943,7 +949,9 @@
    "para": 86,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He helped Mr. Lorry to wrap himself in a number of coats and cloaks,\nand went out with him from the warm atmosphere of the old Bank, into the\nmisty air of Fleet-street."
+   "text": "He helped Mr. Lorry to wrap himself in a number of coats and cloaks,\nand went out with him from the warm atmosphere of the old Bank, into the\nmisty air of Fleet-street.",
+   "bed": "london_night",
+   "state": 1
   },
   {
    "n": 132,
@@ -971,7 +979,13 @@
    "para": 86,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Charles Darnay shook his head and doubtfully smiled, as the carriage\nrolled away."
+   "text": "Charles Darnay shook his head and doubtfully smiled, as the carriage\nrolled away.",
+   "sfx": [
+    {
+     "key": "horses_start",
+     "at": "as the carriage rolled away"
+    }
+   ]
   },
   {
    "n": 136,
@@ -992,7 +1006,17 @@
    "para": 89,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The unseen force was drawing him fast to itself, now, and all the tides\nand winds were setting straight and strong towards it. He left his\ntwo letters with a trusty porter, to be delivered half an hour before\nmidnight, and no sooner; took horse for Dover; and began his journey."
+   "text": "The unseen force was drawing him fast to itself, now, and all the tides\nand winds were setting straight and strong towards it. He left his\ntwo letters with a trusty porter, to be delivered half an hour before\nmidnight, and no sooner; took horse for Dover; and began his journey.",
+   "sfx": [
+    {
+     "key": "horse_gallop",
+     "at": "took horse for Dover; and began his journey"
+    }
+   ],
+   "score": {
+    "key": "road",
+    "xfade": 8
+   }
   },
   {
    "n": 139,

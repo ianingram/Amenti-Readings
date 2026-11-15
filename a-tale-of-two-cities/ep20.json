@@ -82,7 +82,14 @@
    "para": 5,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "in some pointed manner, when an\nunusual concourse pouring down Fleet-street westward, attracted his\nattention. Looking that way, Mr. Cruncher made out that some kind of\nfuneral was coming along, and that there was popular objection to this\nfuneral, which engendered uproar."
+   "text": "in some pointed manner, when an\nunusual concourse pouring down Fleet-street westward, attracted his\nattention. Looking that way, Mr. Cruncher made out that some kind of\nfuneral was coming along, and that there was popular objection to this\nfuneral, which engendered uproar.",
+   "bed": "funeral_mob",
+   "state": 1,
+   "score": {
+    "key": "bailey",
+    "xfade": 8,
+    "at": "some kind of funeral was coming along"
+   }
   },
   {
    "n": 9,
@@ -187,7 +194,8 @@
    "para": 12,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "His son obeyed, and the crowd approached; they were bawling and hissing\nround a dingy hearse and dingy mourning coach, in which mourning coach\nthere was only one mourner, dressed in the dingy trappings that were\nconsidered essential to the dignity of the position. The position\nappeared by no means to please him, however, with an increasing rabble\nsurrounding the coach, deriding him, making grimaces at him, and\nincessantly groaning and calling out:"
+   "text": "His son obeyed, and the crowd approached; they were bawling and hissing\nround a dingy hearse and dingy mourning coach, in which mourning coach\nthere was only one mourner, dressed in the dingy trappings that were\nconsidered essential to the dignity of the position. The position\nappeared by no means to please him, however, with an increasing rabble\nsurrounding the coach, deriding him, making grimaces at him, and\nincessantly groaning and calling out:",
+   "state": 2
   },
   {
    "n": 24,
@@ -362,7 +370,13 @@
    "para": 23,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The idea was so acceptable in the prevalent absence of any idea,\nthat the crowd caught it up with eagerness, and loudly repeating the\nsuggestion to have ’em out, and to pull ’em out, mobbed the two vehicles\nso closely that they came to a stop. On the crowd’s opening the coach\ndoors, the one mourner scuffled out by himself and was in their hands\nfor a moment; but he was so alert, and made such good use of his time,\nthat in another moment he was scouring away up a bye-street, after\nshedding his cloak, hat, long hatband, white pocket-handkerchief, and\nother symbolical tears."
+   "text": "The idea was so acceptable in the prevalent absence of any idea,\nthat the crowd caught it up with eagerness, and loudly repeating the\nsuggestion to have ’em out, and to pull ’em out, mobbed the two vehicles\nso closely that they came to a stop. On the crowd’s opening the coach\ndoors, the one mourner scuffled out by himself and was in their hands\nfor a moment; but he was so alert, and made such good use of his time,\nthat in another moment he was scouring away up a bye-street, after\nshedding his cloak, hat, long hatband, white pocket-handkerchief, and\nother symbolical tears.",
+   "sfx": [
+    {
+     "key": "roar",
+     "at": "mobbed the two vehicles so closely that they came to a stop"
+    }
+   ]
   },
   {
    "n": 49,
@@ -390,14 +404,21 @@
    "para": 27,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The dead man disposed of, and the crowd being under the necessity of\nproviding some other entertainment for itself, another brighter\ngenius (or perhaps the same) conceived the humour of impeaching casual\npassers-by, as Old Bailey spies, and wreaking vengeance on them. Chase\nwas given to some scores of inoffensive persons who had never been near\nthe Old Bailey in their lives, in the realisation of this fancy, and\nthey were roughly hustled and maltreated. The transition to the sport of\nwindow-breaking, and thence to the plundering of public-houses, was easy\nand natural. At last, after several hours, when sundry summer-houses had\nbeen pulled down, and some area-railings had been torn up, to arm\nthe more belligerent spirits, a rumour got about that the Guards were\ncoming. Before this rumour, the crowd gradually melted away, and perhaps\nthe Guards came, and perhaps they never came, and this was the usual\nprogress of a mob."
+   "text": "The dead man disposed of, and the crowd being under the necessity of\nproviding some other entertainment for itself, another brighter\ngenius (or perhaps the same) conceived the humour of impeaching casual\npassers-by, as Old Bailey spies, and wreaking vengeance on them. Chase\nwas given to some scores of inoffensive persons who had never been near\nthe Old Bailey in their lives, in the realisation of this fancy, and\nthey were roughly hustled and maltreated. The transition to the sport of\nwindow-breaking, and thence to the plundering of public-houses, was easy\nand natural. At last, after several hours, when sundry summer-houses had\nbeen pulled down, and some area-railings had been torn up, to arm\nthe more belligerent spirits, a rumour got about that the Guards were\ncoming. Before this rumour, the crowd gradually melted away, and perhaps\nthe Guards came, and perhaps they never came, and this was the usual\nprogress of a mob.",
+   "state": 1
   },
   {
    "n": 53,
    "para": 28,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Mr. Cruncher did not assist at the closing sports, but had remained\nbehind in the churchyard, to confer and condole with the undertakers.\nThe place had a soothing influence on him. He procured a pipe from a\nneighbouring public-house, and smoked it, looking in at the railings and\nmaturely considering the spot."
+   "text": "Mr. Cruncher did not assist at the closing sports, but had remained\nbehind in the churchyard, to confer and condole with the undertakers.\nThe place had a soothing influence on him. He procured a pipe from a\nneighbouring public-house, and smoked it, looking in at the railings and\nmaturely considering the spot.",
+   "bed": "soho",
+   "state": 1,
+   "score": {
+    "key": "period",
+    "xfade": 8
+   }
   },
   {
    "n": 54,
@@ -432,7 +453,9 @@
    "para": 31,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Young Jerry relieved his father with dutiful interest, and reported No\njob in his absence. The bank closed, the ancient clerks came out, the\nusual watch was set, and Mr. Cruncher and his son went home to tea."
+   "text": "Young Jerry relieved his father with dutiful interest, and reported No\njob in his absence. The bank closed, the ancient clerks came out, the\nusual watch was set, and Mr. Cruncher and his son went home to tea.",
+   "bed": "fleet_street",
+   "state": 1
   },
   {
    "n": 59,
@@ -446,7 +469,9 @@
    "para": 32,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "said Mr. Cruncher to his wife, on\nentering."
+   "text": "said Mr. Cruncher to his wife, on\nentering.",
+   "bed": "cruncher",
+   "state": 1
   },
   {
    "n": 61,
@@ -691,28 +716,42 @@
    "para": 55,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Young Jerry, who had only made a feint of undressing when he went to\nbed, was not long after his father. Under cover of the darkness he\nfollowed out of the room, followed down the stairs, followed down the\ncourt, followed out into the streets. He was in no uneasiness concerning\nhis getting into the house again, for it was full of lodgers, and the\ndoor stood ajar all night."
+   "text": "Young Jerry, who had only made a feint of undressing when he went to\nbed, was not long after his father. Under cover of the darkness he\nfollowed out of the room, followed down the stairs, followed down the\ncourt, followed out into the streets. He was in no uneasiness concerning\nhis getting into the house again, for it was full of lodgers, and the\ndoor stood ajar all night.",
+   "bed": "london_night",
+   "state": 1
   },
   {
    "n": 96,
    "para": 56,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Impelled by a laudable ambition to study the art and mystery of his\nfather’s honest calling, Young Jerry, keeping as close to house fronts,\nwalls, and doorways, as his eyes were close to one another, held his\nhonoured parent in view. The honoured parent steering Northward, had not\ngone far, when he was joined by another disciple of Izaak Walton, and\nthe two trudged on together."
+   "text": "Impelled by a laudable ambition to study the art and mystery of his\nfather’s honest calling, Young Jerry, keeping as close to house fronts,\nwalls, and doorways, as his eyes were close to one another, held his\nhonoured parent in view. The honoured parent steering Northward, had not\ngone far, when he was joined by another disciple of Izaak Walton, and\nthe two trudged on together.",
+   "score": {
+    "key": "bailey",
+    "xfade": 8
+   }
   },
   {
    "n": 97,
    "para": 57,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Within half an hour from the first starting, they were beyond the\nwinking lamps, and the more than winking watchmen, and were out upon a\nlonely road. Another fisherman was picked up here--and that so silently,\nthat if Young Jerry had been superstitious, he might have supposed the\nsecond follower of the gentle craft to have, all of a sudden, split\nhimself into two."
+   "text": "Within half an hour from the first starting, they were beyond the\nwinking lamps, and the more than winking watchmen, and were out upon a\nlonely road. Another fisherman was picked up here--and that so silently,\nthat if Young Jerry had been superstitious, he might have supposed the\nsecond follower of the gentle craft to have, all of a sudden, split\nhimself into two.",
+   "bed": "churchyard",
+   "state": 1
   },
   {
    "n": 98,
    "para": 58,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The three went on, and Young Jerry went on, until the three stopped\nunder a bank overhanging the road. Upon the top of the bank was a low\nbrick wall, surmounted by an iron railing. In the shadow of bank and\nwall the three turned out of the road, and up a blind lane, of which\nthe wall--there, risen to some eight or ten feet high--formed one side.\nCrouching down in a corner, peeping up the lane, the next object that\nYoung Jerry saw, was the form of his honoured parent, pretty well\ndefined against a watery and clouded moon, nimbly scaling an iron gate.\nHe was soon over, and then the second fisherman got over, and then the\nthird. They all dropped softly on the ground within the gate, and lay\nthere a little--listening perhaps. Then, they moved away on their hands\nand knees."
+   "text": "The three went on, and Young Jerry went on, until the three stopped\nunder a bank overhanging the road. Upon the top of the bank was a low\nbrick wall, surmounted by an iron railing. In the shadow of bank and\nwall the three turned out of the road, and up a blind lane, of which\nthe wall--there, risen to some eight or ten feet high--formed one side.\nCrouching down in a corner, peeping up the lane, the next object that\nYoung Jerry saw, was the form of his honoured parent, pretty well\ndefined against a watery and clouded moon, nimbly scaling an iron gate.\nHe was soon over, and then the second fisherman got over, and then the\nthird. They all dropped softly on the ground within the gate, and lay\nthere a little--listening perhaps. Then, they moved away on their hands\nand knees.",
+   "sfx": [
+    {
+     "key": "creak",
+     "at": "nimbly scaling an iron gate"
+    }
+   ]
   },
   {
    "n": 99,
@@ -726,28 +765,52 @@
    "para": 60,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They fished with a spade, at first. Presently the honoured parent\nappeared to be adjusting some instrument like a great corkscrew.\nWhatever tools they worked with, they worked hard, until the awful\nstriking of the church clock so terrified Young Jerry, that he made off,\nwith his hair as stiff as his father’s."
+   "text": "They fished with a spade, at first. Presently the honoured parent\nappeared to be adjusting some instrument like a great corkscrew.\nWhatever tools they worked with, they worked hard, until the awful\nstriking of the church clock so terrified Young Jerry, that he made off,\nwith his hair as stiff as his father’s.",
+   "sfx": [
+    {
+     "key": "spade",
+     "at": "They fished with a spade, at first"
+    },
+    {
+     "key": "church_one",
+     "at": "the awful striking of the church clock"
+    }
+   ]
   },
   {
    "n": 101,
    "para": 61,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "But, his long-cherished desire to know more about these matters, not\nonly stopped him in his running away, but lured him back again. They\nwere still fishing perseveringly, when he peeped in at the gate for\nthe second time; but, now they seemed to have got a bite. There was a\nscrewing and complaining sound down below, and their bent figures were\nstrained, as if by a weight. By slow degrees the weight broke away the\nearth upon it, and came to the surface. Young Jerry very well knew what\nit would be; but, when he saw it, and saw his honoured parent about to\nwrench it open, he was so frightened, being new to the sight, that he\nmade off again, and never stopped until he had run a mile or more."
+   "text": "But, his long-cherished desire to know more about these matters, not\nonly stopped him in his running away, but lured him back again. They\nwere still fishing perseveringly, when he peeped in at the gate for\nthe second time; but, now they seemed to have got a bite. There was a\nscrewing and complaining sound down below, and their bent figures were\nstrained, as if by a weight. By slow degrees the weight broke away the\nearth upon it, and came to the surface. Young Jerry very well knew what\nit would be; but, when he saw it, and saw his honoured parent about to\nwrench it open, he was so frightened, being new to the sight, that he\nmade off again, and never stopped until he had run a mile or more.",
+   "sfx": [
+    {
+     "key": "creak",
+     "at": "There was a screwing and complaining sound down below"
+    }
+   ]
   },
   {
    "n": 102,
    "para": 62,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He would not have stopped then, for anything less necessary than breath,\nit being a spectral sort of race that he ran, and one highly desirable\nto get to the end of. He had a strong idea that the coffin he had seen\nwas running after him; and, pictured as hopping on behind him, bolt\nupright, upon its narrow end, always on the point of overtaking him\nand hopping on at his side--perhaps taking his arm--it was a pursuer to\nshun. It was an inconsistent and ubiquitous fiend too, for, while it\nwas making the whole night behind him dreadful, he darted out into the\nroadway to avoid dark alleys, fearful of its coming hopping out of them\nlike a dropsical boy’s kite without tail and wings. It hid in doorways\ntoo, rubbing its horrible shoulders against doors, and drawing them up\nto its ears, as if it were laughing. It got into shadows on the road,\nand lay cunningly on its back to trip him up. All this time it was\nincessantly hopping on behind and gaining on him, so that when the boy\ngot to his own door he had reason for being half dead. And even then\nit would not leave him, but followed him upstairs with a bump on every\nstair, scrambled into bed with him, and bumped down, dead and heavy, on\nhis breast when he fell asleep."
+   "text": "He would not have stopped then, for anything less necessary than breath,\nit being a spectral sort of race that he ran, and one highly desirable\nto get to the end of. He had a strong idea that the coffin he had seen\nwas running after him; and, pictured as hopping on behind him, bolt\nupright, upon its narrow end, always on the point of overtaking him\nand hopping on at his side--perhaps taking his arm--it was a pursuer to\nshun. It was an inconsistent and ubiquitous fiend too, for, while it\nwas making the whole night behind him dreadful, he darted out into the\nroadway to avoid dark alleys, fearful of its coming hopping out of them\nlike a dropsical boy’s kite without tail and wings. It hid in doorways\ntoo, rubbing its horrible shoulders against doors, and drawing them up\nto its ears, as if it were laughing. It got into shadows on the road,\nand lay cunningly on its back to trip him up. All this time it was\nincessantly hopping on behind and gaining on him, so that when the boy\ngot to his own door he had reason for being half dead. And even then\nit would not leave him, but followed him upstairs with a bump on every\nstair, scrambled into bed with him, and bumped down, dead and heavy, on\nhis breast when he fell asleep.",
+   "sfx": [
+    {
+     "key": "stairs",
+     "at": "followed him upstairs with a bump on every stair"
+    }
+   ]
   },
   {
    "n": 103,
    "para": 63,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "From his oppressed slumber, Young Jerry in his closet was awakened after\ndaybreak and before sunrise, by the presence of his father in the\nfamily room. Something had gone wrong with him; at least, so Young Jerry\ninferred, from the circumstance of his holding Mrs. Cruncher by the\nears, and knocking the back of her head against the head-board of the\nbed."
+   "text": "From his oppressed slumber, Young Jerry in his closet was awakened after\ndaybreak and before sunrise, by the presence of his father in the\nfamily room. Something had gone wrong with him; at least, so Young Jerry\ninferred, from the circumstance of his holding Mrs. Cruncher by the\nears, and knocking the back of her head against the head-board of the\nbed.",
+   "bed": "cruncher",
+   "state": 1
   },
   {
    "n": 104,
@@ -873,7 +936,13 @@
    "para": 73,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Young Jerry, walking with the stool under his arm at his father’s side\nalong sunny and crowded Fleet-street, was a very different Young Jerry\nfrom him of the previous night, running home through darkness and\nsolitude from his grim pursuer. His cunning was fresh with the day,\nand his qualms were gone with the night--in which particulars it is not\nimprobable that he had compeers in Fleet-street and the City of London,\nthat fine morning."
+   "text": "Young Jerry, walking with the stool under his arm at his father’s side\nalong sunny and crowded Fleet-street, was a very different Young Jerry\nfrom him of the previous night, running home through darkness and\nsolitude from his grim pursuer. His cunning was fresh with the day,\nand his qualms were gone with the night--in which particulars it is not\nimprobable that he had compeers in Fleet-street and the City of London,\nthat fine morning.",
+   "bed": "fleet_street",
+   "state": 1,
+   "score": {
+    "key": "period",
+    "xfade": 8
+   }
   },
   {
    "n": 122,

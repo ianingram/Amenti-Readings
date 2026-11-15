@@ -327,7 +327,17 @@
    "para": 18,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He gave his arm to his daughter, and took her down-stairs to the chariot\nwhich Mr. Lorry had hired in honour of the day. The rest followed in\nanother carriage, and soon, in a neighbouring church, where no strange\neyes looked on, Charles Darnay and Lucie Manette were happily married."
+   "text": "He gave his arm to his daughter, and took her down-stairs to the chariot\nwhich Mr. Lorry had hired in honour of the day. The rest followed in\nanother carriage, and soon, in a neighbouring church, where no strange\neyes looked on, Charles Darnay and Lucie Manette were happily married.",
+   "sfx": [
+    {
+     "key": "horses_start",
+     "at": "took her down-stairs to the chariot"
+    },
+    {
+     "key": "wedding_bells",
+     "at": "Charles Darnay and Lucie Manette were happily married"
+    }
+   ]
   },
   {
    "n": 44,
@@ -362,7 +372,12 @@
    "para": 22,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The corner being out of the way of the idle and curious, and the\npreparations having been very simple and few, the Doctor, Mr. Lorry,\nand Miss Pross, were left quite alone. It was when they turned into\nthe welcome shade of the cool old hall, that Mr. Lorry observed a great\nchange to have come over the Doctor; as if the golden arm uplifted\nthere, had struck him a poisoned blow."
+   "text": "The corner being out of the way of the idle and curious, and the\npreparations having been very simple and few, the Doctor, Mr. Lorry,\nand Miss Pross, were left quite alone. It was when they turned into\nthe welcome shade of the cool old hall, that Mr. Lorry observed a great\nchange to have come over the Doctor; as if the golden arm uplifted\nthere, had struck him a poisoned blow.",
+   "score": {
+    "key": "recalled",
+    "xfade": 8,
+    "at": "a great change to have come over the Doctor"
+   }
   },
   {
    "n": 49,
@@ -397,7 +412,13 @@
    "para": 25,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "It was easier for Mr. Lorry to look in at Tellson’s, than to look out of\nTellson’s. He was detained two hours. When he came back, he ascended the\nold staircase alone, having asked no question of the servant; going thus\ninto the Doctor’s rooms, he was stopped by a low sound of knocking."
+   "text": "It was easier for Mr. Lorry to look in at Tellson’s, than to look out of\nTellson’s. He was detained two hours. When he came back, he ascended the\nold staircase alone, having asked no question of the servant; going thus\ninto the Doctor’s rooms, he was stopped by a low sound of knocking.",
+   "sfx": [
+    {
+     "key": "shoe_hammer_1",
+     "at": "he was stopped by a low sound of knocking"
+    }
+   ]
   },
   {
    "n": 54,

@@ -198,7 +198,9 @@
    "para": 17,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Out of the wine-shop into the street, out of the street into a\ncourtyard, out of the courtyard up a steep staircase, out of the\nstaircase into a garret--formerly the garret where a white-haired man\nsat on a low bench, stooping forward and very busy, making shoes."
+   "text": "Out of the wine-shop into the street, out of the street into a\ncourtyard, out of the courtyard up a steep staircase, out of the\nstaircase into a garret--formerly the garret where a white-haired man\nsat on a low bench, stooping forward and very busy, making shoes.",
+   "bed": "garret",
+   "state": 1
   },
   {
    "n": 25,
@@ -1017,7 +1019,14 @@
    "para": 79,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Therefore, when Sunday came, the mender of roads was not enchanted\n(though he said he was) to find that madame was to accompany monsieur\nand himself to Versailles. It was additionally disconcerting to have\nmadame knitting all the way there, in a public conveyance; it was\nadditionally disconcerting yet, to have madame in the crowd in the\nafternoon, still with her knitting in her hands as the crowd waited to\nsee the carriage of the King and Queen."
+   "text": "Therefore, when Sunday came, the mender of roads was not enchanted\n(though he said he was) to find that madame was to accompany monsieur\nand himself to Versailles. It was additionally disconcerting to have\nmadame knitting all the way there, in a public conveyance; it was\nadditionally disconcerting yet, to have madame in the crowd in the\nafternoon, still with her knitting in her hands as the crowd waited to\nsee the carriage of the King and Queen.",
+   "bed": "versailles",
+   "state": 1,
+   "score": {
+    "key": "monseigneur",
+    "xfade": 8,
+    "at": "to Versailles"
+   }
   },
   {
    "n": 142,
@@ -1101,7 +1110,13 @@
    "para": 86,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The man moved a little further away, as soon as he could, and the mender\nof roads fanned himself with his blue cap: feeling it mightily close\nand oppressive. If he needed a King and Queen to restore him, he was\nfortunate in having his remedy at hand; for, soon the large-faced King\nand the fair-faced Queen came in their golden coach, attended by the\nshining Bull’s Eye of their Court, a glittering multitude of laughing\nladies and fine lords; and in jewels and silks and powder and splendour\nand elegantly spurning figures and handsomely disdainful faces of both\nsexes, the mender of roads bathed himself, so much to his temporary\nintoxication, that he cried Long live the King, Long live the Queen,\nLong live everybody and everything! as if he had never heard of\nubiquitous Jacques in his time. Then, there were gardens, courtyards,\nterraces, fountains, green banks, more King and Queen, more Bull’s Eye,\nmore lords and ladies, more Long live they all! until he absolutely wept\nwith sentiment. During the whole of this scene, which lasted some three\nhours, he had plenty of shouting and weeping and sentimental company,\nand throughout Defarge held him by the collar, as if to restrain him\nfrom flying at the objects of his brief devotion and tearing them to\npieces."
+   "text": "The man moved a little further away, as soon as he could, and the mender\nof roads fanned himself with his blue cap: feeling it mightily close\nand oppressive. If he needed a King and Queen to restore him, he was\nfortunate in having his remedy at hand; for, soon the large-faced King\nand the fair-faced Queen came in their golden coach, attended by the\nshining Bull’s Eye of their Court, a glittering multitude of laughing\nladies and fine lords; and in jewels and silks and powder and splendour\nand elegantly spurning figures and handsomely disdainful faces of both\nsexes, the mender of roads bathed himself, so much to his temporary\nintoxication, that he cried Long live the King, Long live the Queen,\nLong live everybody and everything! as if he had never heard of\nubiquitous Jacques in his time. Then, there were gardens, courtyards,\nterraces, fountains, green banks, more King and Queen, more Bull’s Eye,\nmore lords and ladies, more Long live they all! until he absolutely wept\nwith sentiment. During the whole of this scene, which lasted some three\nhours, he had plenty of shouting and weeping and sentimental company,\nand throughout Defarge held him by the collar, as if to restrain him\nfrom flying at the objects of his brief devotion and tearing them to\npieces.",
+   "sfx": [
+    {
+     "key": "cheer",
+     "at": "Long live the King, Long live the Queen"
+    }
+   ]
   },
   {
    "n": 154,
@@ -1115,7 +1130,12 @@
    "para": 87,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "said Defarge, clapping him on the back when it was over, like a\npatron;"
+   "text": "said Defarge, clapping him on the back when it was over, like a\npatron;",
+   "state": 2,
+   "score": {
+    "key": "hunger",
+    "xfade": 8
+   }
   },
   {
    "n": 156,

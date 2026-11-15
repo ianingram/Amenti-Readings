@@ -103,7 +103,15 @@
    "para": 6,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "As if a train of powder laid from the outermost bound of Saint Antoine\nQuarter to the wine-shop door, had been suddenly fired, a fast-spreading\nmurmur came rushing along."
+   "text": "As if a train of powder laid from the outermost bound of Saint Antoine\nQuarter to the wine-shop door, had been suddenly fired, a fast-spreading\nmurmur came rushing along.",
+   "bed": "rising",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "roar",
+     "at": "a fast-spreading murmur came rushing along"
+    }
+   ]
   },
   {
    "n": 12,
@@ -264,7 +272,13 @@
    "para": 18,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A moment of profound silence followed. Defarge and his wife looked\nsteadfastly at one another. The Vengeance stooped, and the jar of a drum\nwas heard as she moved it at her feet behind the counter."
+   "text": "A moment of profound silence followed. Defarge and his wife looked\nsteadfastly at one another. The Vengeance stooped, and the jar of a drum\nwas heard as she moved it at her feet behind the counter.",
+   "sfx": [
+    {
+     "key": "drum_jar",
+     "at": "the jar of a drum was heard"
+    }
+   ]
   },
   {
    "n": 35,
@@ -292,7 +306,18 @@
    "para": 20,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Instantly Madame Defarge’s knife was in her girdle; the drum was beating\nin the streets, as if it and a drummer had flown together by magic; and\nThe Vengeance, uttering terrific shrieks, and flinging her arms about\nher head like all the forty Furies at once, was tearing from house to\nhouse, rousing the women."
+   "text": "Instantly Madame Defarge’s knife was in her girdle; the drum was beating\nin the streets, as if it and a drummer had flown together by magic; and\nThe Vengeance, uttering terrific shrieks, and flinging her arms about\nher head like all the forty Furies at once, was tearing from house to\nhouse, rousing the women.",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "drum_beat",
+     "at": "the drum was beating in the streets"
+    }
+   ],
+   "score": {
+    "key": "rising",
+    "xfade": 6
+   }
   },
   {
    "n": 39,
@@ -362,7 +387,13 @@
    "para": 27,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "It was known directly, to the furthest confines of the crowd. Defarge\nhad but sprung over a railing and a table, and folded the miserable\nwretch in a deadly embrace--Madame Defarge had but followed and turned\nher hand in one of the ropes with which he was tied--The Vengeance and\nJacques Three were not yet up with them, and the men at the windows\nhad not yet swooped into the Hall, like birds of prey from their high\nperches--when the cry seemed to go up, all over the city,"
+   "text": "It was known directly, to the furthest confines of the crowd. Defarge\nhad but sprung over a railing and a table, and folded the miserable\nwretch in a deadly embrace--Madame Defarge had but followed and turned\nher hand in one of the ropes with which he was tied--The Vengeance and\nJacques Three were not yet up with them, and the men at the windows\nhad not yet swooped into the Hall, like birds of prey from their high\nperches--when the cry seemed to go up, all over the city,",
+   "sfx": [
+    {
+     "key": "roar",
+     "at": "when the cry seemed to go up, all over the city"
+    }
+   ]
   },
   {
    "n": 49,
@@ -390,7 +421,13 @@
    "para": 30,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Not before dark night did the men and women come back to the children,\nwailing and breadless. Then, the miserable bakers’ shops were beset by\nlong files of them, patiently waiting to buy bad bread; and while\nthey waited with stomachs faint and empty, they beguiled the time by\nembracing one another on the triumphs of the day, and achieving them\nagain in gossip. Gradually, these strings of ragged people shortened and\nfrayed away; and then poor lights began to shine in high windows, and\nslender fires were made in the streets, at which neighbours cooked in\ncommon, afterwards supping at their doors."
+   "text": "Not before dark night did the men and women come back to the children,\nwailing and breadless. Then, the miserable bakers’ shops were beset by\nlong files of them, patiently waiting to buy bad bread; and while\nthey waited with stomachs faint and empty, they beguiled the time by\nembracing one another on the triumphs of the day, and achieving them\nagain in gossip. Gradually, these strings of ragged people shortened and\nfrayed away; and then poor lights began to shine in high windows, and\nslender fires were made in the streets, at which neighbours cooked in\ncommon, afterwards supping at their doors.",
+   "bed": "saint_antoine",
+   "state": 2,
+   "score": {
+    "key": "hunger",
+    "xfade": 9
+   }
   },
   {
    "n": 53,

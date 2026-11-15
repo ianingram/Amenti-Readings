@@ -43,7 +43,9 @@
    "para": 2,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Never did the sun go down with a brighter glory on the quiet corner in\nSoho, than one memorable evening when the Doctor and his daughter sat\nunder the plane-tree together. Never did the moon rise with a milder\nradiance over great London, than on that night when it found them still\nseated under the tree, and shone upon their faces through its leaves."
+   "text": "Never did the sun go down with a brighter glory on the quiet corner in\nSoho, than one memorable evening when the Doctor and his daughter sat\nunder the plane-tree together. Never did the moon rise with a milder\nradiance over great London, than on that night when it found them still\nseated under the tree, and shone upon their faces through its leaves.",
+   "bed": "soho_night",
+   "state": 1
   },
   {
    "n": 4,
@@ -204,7 +206,11 @@
    "para": 20,
    "role": "Doctor Manette",
    "cast": "Nostradamus",
-   "text": "“I have looked at her from my prison-window, when I could not bear her\nlight. I have looked at her when it has been such torture to me to think\nof her shining upon what I had lost, that I have beaten my head against\nmy prison-walls. I have looked at her, in a state so dull and lethargic,\nthat I have thought of nothing but the number of horizontal lines I\ncould draw across her at the full, and the number of perpendicular lines\nwith which I could intersect them.”"
+   "text": "“I have looked at her from my prison-window, when I could not bear her\nlight. I have looked at her when it has been such torture to me to think\nof her shining upon what I had lost, that I have beaten my head against\nmy prison-walls. I have looked at her, in a state so dull and lethargic,\nthat I have thought of nothing but the number of horizontal lines I\ncould draw across her at the full, and the number of perpendicular lines\nwith which I could intersect them.”",
+   "score": {
+    "key": "recalled",
+    "xfade": 8
+   }
   },
   {
    "n": 27,
@@ -393,7 +399,13 @@
    "para": 43,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "She timidly laid her hand on his dear breast, and put up a prayer that\nshe might ever be as true to him as her love aspired to be, and as his\nsorrows deserved. Then, she withdrew her hand, and kissed his lips once\nmore, and went away. So, the sunrise came, and the shadows of the leaves\nof the plane-tree moved upon his face, as softly as her lips had moved\nin praying for him."
+   "text": "She timidly laid her hand on his dear breast, and put up a prayer that\nshe might ever be as true to him as her love aspired to be, and as his\nsorrows deserved. Then, she withdrew her hand, and kissed his lips once\nmore, and went away. So, the sunrise came, and the shadows of the leaves\nof the plane-tree moved upon his face, as softly as her lips had moved\nin praying for him.",
+   "bed": "soho",
+   "state": 1,
+   "score": {
+    "key": "tender",
+    "xfade": 8
+   }
   }
  ]
 }

@@ -61,14 +61,24 @@
    "para": 4,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The Defarges, husband and wife, came lumbering under the starlight,\nin their public vehicle, to that gate of Paris whereunto their\njourney naturally tended. There was the usual stoppage at the barrier\nguardhouse, and the usual lanterns came glancing forth for the usual\nexamination and inquiry. Monsieur Defarge alighted; knowing one or two\nof the soldiery there, and one of the police. The latter he was intimate\nwith, and affectionately embraced."
+   "text": "The Defarges, husband and wife, came lumbering under the starlight,\nin their public vehicle, to that gate of Paris whereunto their\njourney naturally tended. There was the usual stoppage at the barrier\nguardhouse, and the usual lanterns came glancing forth for the usual\nexamination and inquiry. Monsieur Defarge alighted; knowing one or two\nof the soldiery there, and one of the police. The latter he was intimate\nwith, and affectionately embraced.",
+   "bed": "paris_night",
+   "state": 1,
+   "sfx": [
+    {
+     "key": "horses_halt",
+     "at": "to that gate of Paris whereunto their journey naturally tended"
+    }
+   ]
   },
   {
    "n": 6,
    "para": 5,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "When Saint Antoine had again enfolded the Defarges in his dusky wings,\nand they, having finally alighted near the Saint’s boundaries, were\npicking their way on foot through the black mud and offal of his\nstreets, Madame Defarge spoke to her husband:"
+   "text": "When Saint Antoine had again enfolded the Defarges in his dusky wings,\nand they, having finally alighted near the Saint’s boundaries, were\npicking their way on foot through the black mud and offal of his\nstreets, Madame Defarge spoke to her husband:",
+   "bed": "saint_antoine",
+   "state": 2
   },
   {
    "n": 7,
@@ -215,7 +225,9 @@
    "para": 17,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They turned into the wine-shop, which was closed (for it was midnight),\nand where Madame Defarge immediately took her post at her desk, counted\nthe small moneys that had been taken during her absence, examined the\nstock, went through the entries in the book, made other entries of\nher own, checked the serving man in every possible way, and finally\ndismissed him to bed. Then she turned out the contents of the bowl\nof money for the second time, and began knotting them up in her\nhandkerchief, in a chain of separate knots, for safe keeping through the\nnight. All this while, Defarge, with his pipe in his mouth, walked\nup and down, complacently admiring, but never interfering; in which\ncondition, indeed, as to the business and his domestic affairs, he\nwalked up and down through life."
+   "text": "They turned into the wine-shop, which was closed (for it was midnight),\nand where Madame Defarge immediately took her post at her desk, counted\nthe small moneys that had been taken during her absence, examined the\nstock, went through the entries in the book, made other entries of\nher own, checked the serving man in every possible way, and finally\ndismissed him to bed. Then she turned out the contents of the bowl\nof money for the second time, and began knotting them up in her\nhandkerchief, in a chain of separate knots, for safe keeping through the\nnight. All this while, Defarge, with his pipe in his mouth, walked\nup and down, complacently admiring, but never interfering; in which\ncondition, indeed, as to the business and his domestic affairs, he\nwalked up and down through life.",
+   "bed": "wine_shop",
+   "state": 2
   },
   {
    "n": 28,
@@ -593,21 +605,29 @@
    "para": 42,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Next noontide saw the admirable woman in her usual place in the\nwine-shop, knitting away assiduously. A rose lay beside her, and if she\nnow and then glanced at the flower, it was with no infraction of her\nusual preoccupied air. There were a few customers, drinking or not\ndrinking, standing or seated, sprinkled about. The day was very hot,\nand heaps of flies, who were extending their inquisitive and adventurous\nperquisitions into all the glutinous little glasses near madame, fell\ndead at the bottom. Their decease made no impression on the other flies\nout promenading, who looked at them in the coolest manner (as if they\nthemselves were elephants, or something as far removed), until they met\nthe same fate. Curious to consider how heedless flies are!--perhaps they\nthought as much at Court that sunny summer day."
+   "text": "Next noontide saw the admirable woman in her usual place in the\nwine-shop, knitting away assiduously. A rose lay beside her, and if she\nnow and then glanced at the flower, it was with no infraction of her\nusual preoccupied air. There were a few customers, drinking or not\ndrinking, standing or seated, sprinkled about. The day was very hot,\nand heaps of flies, who were extending their inquisitive and adventurous\nperquisitions into all the glutinous little glasses near madame, fell\ndead at the bottom. Their decease made no impression on the other flies\nout promenading, who looked at them in the coolest manner (as if they\nthemselves were elephants, or something as far removed), until they met\nthe same fate. Curious to consider how heedless flies are!--perhaps they\nthought as much at Court that sunny summer day.",
+   "bed": "wine_shop",
+   "state": 1
   },
   {
    "n": 82,
    "para": 43,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A figure entering at the door threw a shadow on Madame Defarge which she\nfelt to be a new one. She laid down her knitting, and began to pin her\nrose in her head-dress, before she looked at the figure."
+   "text": "A figure entering at the door threw a shadow on Madame Defarge which she\nfelt to be a new one. She laid down her knitting, and began to pin her\nrose in her head-dress, before she looked at the figure.",
+   "score": {
+    "key": "bailey",
+    "xfade": 6,
+    "at": "A figure entering at the door"
+   }
   },
   {
    "n": 83,
    "para": 44,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "It was curious. The moment Madame Defarge took up the rose, the\ncustomers ceased talking, and began gradually to drop out of the\nwine-shop."
+   "text": "It was curious. The moment Madame Defarge took up the rose, the\ncustomers ceased talking, and began gradually to drop out of the\nwine-shop.",
+   "state": 2
   },
   {
    "n": 84,
@@ -1559,14 +1579,20 @@
    "para": 118,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "She rolled up her knitting when she had said those words, and presently\ntook the rose out of the handkerchief that was wound about her head.\nEither Saint Antoine had an instinctive sense that the objectionable\ndecoration was gone, or Saint Antoine was on the watch for its\ndisappearance; howbeit, the Saint took courage to lounge in, very\nshortly afterwards, and the wine-shop recovered its habitual aspect."
+   "text": "She rolled up her knitting when she had said those words, and presently\ntook the rose out of the handkerchief that was wound about her head.\nEither Saint Antoine had an instinctive sense that the objectionable\ndecoration was gone, or Saint Antoine was on the watch for its\ndisappearance; howbeit, the Saint took courage to lounge in, very\nshortly afterwards, and the wine-shop recovered its habitual aspect.",
+   "score": {
+    "key": "hunger",
+    "xfade": 8
+   }
   },
   {
    "n": 220,
    "para": 119,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "In the evening, at which season of all others Saint Antoine turned\nhimself inside out, and sat on door-steps and window-ledges, and came\nto the corners of vile streets and courts, for a breath of air, Madame\nDefarge with her work in her hand was accustomed to pass from place\nto place and from group to group: a Missionary--there were many like\nher--such as the world will do well never to breed again. All the women\nknitted. They knitted worthless things; but, the mechanical work was a\nmechanical substitute for eating and drinking; the hands moved for the\njaws and the digestive apparatus: if the bony fingers had been still,\nthe stomachs would have been more famine-pinched."
+   "text": "In the evening, at which season of all others Saint Antoine turned\nhimself inside out, and sat on door-steps and window-ledges, and came\nto the corners of vile streets and courts, for a breath of air, Madame\nDefarge with her work in her hand was accustomed to pass from place\nto place and from group to group: a Missionary--there were many like\nher--such as the world will do well never to breed again. All the women\nknitted. They knitted worthless things; but, the mechanical work was a\nmechanical substitute for eating and drinking; the hands moved for the\njaws and the digestive apparatus: if the bony fingers had been still,\nthe stomachs would have been more famine-pinched.",
+   "bed": "saint_antoine",
+   "state": 1
   },
   {
    "n": 221,
@@ -1608,7 +1634,13 @@
    "para": 122,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Darkness closed around, and then came the ringing of church bells and\nthe distant beating of the military drums in the Palace Courtyard, as\nthe women sat knitting, knitting. Darkness encompassed them. Another\ndarkness was closing in as surely, when the church bells, then ringing\npleasantly in many an airy steeple over France, should be melted into\nthundering cannon; when the military drums should be beating to drown a\nwretched voice, that night all potent as the voice of Power and Plenty,\nFreedom and Life. So much was closing in about the women who sat\nknitting, knitting, that they their very selves were closing in around\na structure yet unbuilt, where they were to sit knitting, knitting,\ncounting dropping heads."
+   "text": "Darkness closed around, and then came the ringing of church bells and\nthe distant beating of the military drums in the Palace Courtyard, as\nthe women sat knitting, knitting. Darkness encompassed them. Another\ndarkness was closing in as surely, when the church bells, then ringing\npleasantly in many an airy steeple over France, should be melted into\nthundering cannon; when the military drums should be beating to drown a\nwretched voice, that night all potent as the voice of Power and Plenty,\nFreedom and Life. So much was closing in about the women who sat\nknitting, knitting, that they their very selves were closing in around\na structure yet unbuilt, where they were to sit knitting, knitting,\ncounting dropping heads.",
+   "sfx": [
+    {
+     "key": "bells_drums",
+     "at": "the distant beating of the military drums in the Palace Courtyard"
+    }
+   ]
   }
  ]
 }

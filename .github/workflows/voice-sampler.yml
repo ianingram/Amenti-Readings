@@ -1,0 +1,43 @@
+# Base-voice sampler · 14 Nov 2026. Renders one line per cast member in a proposed
+# base voice (/speak?probe=1: nothing is cached), joins them into one mp3 with a
+# beat between, and sends it to the private bucket under samplers/. Costs a little money.
+name: Voice sampler
+on:
+  workflow_dispatch:
+    inputs:
+      sheet: { description: "Sampler sheet (tools/sampler/…json)", required: true, default: "tools/sampler/two-cities.json" }
+permissions: { contents: read }
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: tools }
+      - name: Tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          cd tools/sampler && npm init -y >/dev/null && npm i -s playwright@1.48.2 && npx playwright install --with-deps chromium >/dev/null
+      - name: Render
+        env: { VOICE_RENDER_KEY: "${{ secrets.VOICE_RENDER_KEY }}" }
+        run: cd tools/sampler && node sample.js "$GITHUB_WORKSPACE/${{ inputs.sheet }}" "$RUNNER_TEMP/s"
+      - name: Join
+        run: |
+          cd "$RUNNER_TEMP/s"; ffmpeg -v error -f lavfi -i anullsrc=r=24000:cl=mono -t 1.4 -c:a pcm_s16le gap.wav
+          > list.txt; for f in $(ls [0-9][0-9].* | sort); do ffmpeg -v error -y -i "$f" -ar 24000 -ac 1 "n_${f%.*}.wav"; echo "file 'n_${f%.*}.wav'" >> list.txt; echo "file 'gap.wav'" >> list.txt; done
+          ffmpeg -v error -y -f concat -safe 0 -i list.txt -af loudnorm=I=-18 -ar 44100 -c:a libmp3lame -b:a 128k sampler.mp3
+          python3 - <<'PY'
+          import json, subprocess
+          t = 0.0
+          for x in json.load(open('sampler.json')):
+              f = 'n_%02d.wav' % x['n']
+              try: d = float(subprocess.run(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',f],capture_output=True,text=True).stdout)
+              except Exception: continue
+              print('%d:%02d  %s · %s · %s' % (int(t // 60), int(t % 60), x['role'], x['figure'], x['voice'])); t += d + 1.4
+          PY
+      - name: Deliver to the private bucket
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          EP: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+        run: aws s3 cp "$RUNNER_TEMP/s/sampler.mp3" "s3://amenti-studios-private/samplers/$(basename '${{ inputs.sheet }}' .json)-${{ github.run_id }}.mp3" --endpoint-url "$EP" --only-show-errors && echo "delivered samplers/$(basename '${{ inputs.sheet }}' .json)-${{ github.run_id }}.mp3"

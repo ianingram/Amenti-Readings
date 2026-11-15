@@ -1,0 +1,41 @@
+{
+ "book": "a-tale-of-two-cities",
+ "part": "chapter headings",
+ "note": "Chapter heading pictures, 14 Nov 2026: one defining moment per chapter (Book the First chapters 2-6 come from book1.json), drawn by Gemini from the text, no reference images. Retry of the two refused beats.",
+ "style": "An oil painting in the manner of nineteenth-century academic history painting: rich palette, dramatic chiaroscuro, visible brushwork, painterly and cinematic, 16:9 landscape. England and France between 1775 and 1793: tricorn hats, greatcoats, knee-breeches, buckled shoes, red caps and tricolour cockades after 1789, candle and lantern light, no modern objects, no railways. No captions, no lettering, no signature, no frames, no white margins, no black bars or borders.",
+ "refs": {},
+ "people": {
+  "lorry": "Mr. Jarvis Lorry: a neat, orderly English banker of about sixty, clean-shaven, a small sleek crisp flaxen wig close to his head, a well-worn brown suit and waistcoat, white linen",
+  "lucie": "Lucie: a slight, pretty young Englishwoman with long golden hair in curls and blue eyes, a smooth forehead that lifts in an intent, anxious expression",
+  "manette": "Doctor Manette: a tall upright man of about sixty with white hair, clean-shaven, dark eyebrows, bright eyes, in a dark coat",
+  "darnay": "Charles Darnay: a well-grown, good-looking young man of about twenty-five, sunburnt cheek, dark eyes, dark hair tied back, a plain dark coat",
+  "carton": "Sydney Carton: a young man of about twenty-five, the very image of Darnay in face and figure, but careless and slovenly, his dark hair untidy, his neckcloth loose, a dissipated, brooding face",
+  "stryver": "Mr. Stryver: a stout, loud, red-faced, bluff barrister of about thirty, pushing and self-satisfied",
+  "jerry": "Jerry Cruncher: a rough, broad London porter with stiff black spiky hair standing straight up like a hedge, eyes close together, a battered three-cornered hat",
+  "pross": "Miss Pross: a tall, strong, red-faced Englishwoman with red hair, in an odd tight-fitting dress and an enormous tall bonnet",
+  "defarge": "Ernest Defarge: a bull-necked, martial Frenchman with crisply curling short dark hair, shirtsleeves rolled up, a red cap in the later years",
+  "madame": "Madame Defarge: a stout, composed Frenchwoman with a steady face, strong features, darkly defined eyebrows, a watchful eye, large earrings, a bright shawl about her head, always knitting",
+  "marquis": "the Marquis St. Evrémonde: a haughty French aristocrat of about sixty, powdered hair, richly dressed, a face like a fine pale mask with pinched nostrils",
+  "mender": "the mender of roads: a lean, simple French peasant in a tattered blue cap and ragged clothes"
+ },
+ "beats": [
+  {
+   "tag": "tc-ch29",
+   "chapter": 29,
+   "cue": null,
+   "who": [
+    "mender"
+   ],
+   "text": "Night in the French countryside, 1789: a great stone château far off on a hill glows orange, firelight pouring from its windows against a black sky full of drifting sparks; in the village street below, the villagers stand quietly by the stone fountain, watching, lit by the distant glow; a lean peasant in a blue cap among them. Spectacular firelight, stillness."
+  },
+  {
+   "tag": "tc-ch32",
+   "chapter": 32,
+   "cue": null,
+   "who": [
+    "lorry"
+   ],
+   "text": "Paris, 1792, at night, seen from an upper window: a large courtyard lit by torches where a rough crowd gathers around a great grindstone turned by two men, a shower of bright sparks flying from it; wild faces in the flickering light; an elderly banker in a flaxen wig looks down from the window, shocked. Lurid torchlight and sparks."
+  }
+ ]
+}

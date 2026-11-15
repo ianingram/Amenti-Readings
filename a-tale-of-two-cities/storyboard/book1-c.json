@@ -1,0 +1,24 @@
+{
+ "book": "a-tale-of-two-cities",
+ "part": "Book the First",
+ "note": "Storyboard test, 14 Nov 2026: Book the First of A Tale of Two Cities, twelve beats drawn by Gemini from the text alone. No reference images and no Midjourney: every picture is new. Second pass: the six beats the first run missed.",
+ "style": "An oil painting in the manner of nineteenth-century academic history painting: rich palette, dramatic chiaroscuro, visible brushwork, painterly and cinematic, 16:9. England and France in 1775: tricorn hats, greatcoats, knee-breeches, buckled shoes, candle and lantern light, no modern objects. No captions, no signature, no frames, no black bars or borders.",
+ "refs": {},
+ "people": {
+  "lorry": "Mr. Jarvis Lorry: a neat, orderly English banker of about sixty, clean-shaven, a small sleek crisp flaxen wig close to his head, a well-worn brown suit and waistcoat, brown stockings, plain buckled shoes, white linen",
+  "lucie": "Lucie Manette: a young lady of seventeen, short, slight and pretty, with a quantity of golden hair and blue eyes, a smooth young forehead that lifts in an intent, inquiring expression",
+  "pross": "Miss Pross: a tall, strong, red-faced Englishwoman with red hair, in an odd tight-fitting dress and an enormous tall bonnet",
+  "defarge": "Ernest Defarge: a bull-necked, martial-looking Frenchman of thirty with crisply curling short dark hair, shirtsleeves rolled to the elbow, bare brown arms, good bold eyes",
+  "madame": "Madame Defarge: a stout Frenchwoman of thirty, steady face, strong features, darkly defined eyebrows, watchful eye, a large hand heavily ringed, wrapped in fur with a bright shawl about her head, large earrings, knitting",
+  "manette": "Doctor Manette: a gaunt old man worn by eighteen years in prison, a ragged white beard, hollow face, exceedingly bright eyes under dark eyebrows, confused white hair, ragged shirt"
+ },
+ "beats": [
+  {
+   "tag": "tc1-5-blood",
+   "chapter": 5,
+   "cue": 6,
+   "who": [],
+   "text": "A narrow grey Paris street in 1775: a tall gaunt man in a long ragged nightcap, his mouth stained red with spilled wine, reaches up and scrawls a single large word in dark red wine on a pale stone wall with his fingertip; ragged men and women behind him gather spilled wine from the cobbles around a broken cask. A grim, quiet moment."
+  }
+ ]
+}

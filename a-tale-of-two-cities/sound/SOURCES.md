@@ -41,3 +41,6 @@ Mood strings in 4/4 with light percussion, built with Treasure Island's mood bui
 - **score-recalled.mp3**
 
 The book's theme, "Recalled to Life", is a rising four-note figure carried by the violins in every mood.
+
+## Short endings (`tools/splice.py`, 15 Nov 2026)
+`tc-chNN-cueNNN-v1.mp3` are the cast voice, re-rendered inside a longer clause (`tools/sampler/tc-fixes-b1.json`), cut back to the book's words, spliced to the cached pieces and checked by transcription.

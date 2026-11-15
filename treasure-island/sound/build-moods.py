@@ -63,7 +63,7 @@ def swell(n, shape):
     if shape == 'flat': return np.ones(n, np.float32)
     return (0.8 + 0.2 * np.sin(np.pi * t)).astype(np.float32)
 
-def mood(name, bpm, chords, pulse=None, shape='breath', top=None, lo=55, hi=79, level=1.0, perc=None):
+def mood(name, bpm, chords, pulse=None, shape='breath', top=None, lo=55, hi=79, level=1.0, perc=None, chant=None):
     beat = 60 / bpm; bar = 4 * beat; T0 = 0.3; nb = len(chords)
     L = T0 + nb * bar + 5.0; N = int(L * SR)
     up = np.zeros(N, np.float32); vc = np.zeros(N, np.float32); kb = np.zeros(N, np.float32); pu = np.zeros(N, np.float32); pc = np.zeros(N, np.float32)
@@ -90,6 +90,12 @@ def mood(name, bpm, chords, pulse=None, shape='breath', top=None, lo=55, hi=79, 
             root, q = parse(c); bass = 36 + root % 12 if (36 + root % 12) >= 38 else 48 + root % 12
             for (x, at) in perc(b, nb, bass, beat):
                 put(pc, x, T0 + b * bar + at, 1.0)
+    if chant:                                                 # the crew's yo-ho from the Fifteen Men theme: (file, [bars], gain)
+        f, bars, g = chant
+        raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'candidates', f),
+                              '-ac', '1', '-ar', str(SR), '-f', 'f32le', '-'], capture_output=True, check=True).stdout
+        ch = np.frombuffer(raw, np.float32).copy()
+        for b in bars: put(pc, ch, T0 + b * bar - 0.03, g)
     if top:                                                   # an optional slow line: (bar, beat, midi, beats)
         for (b, bt, m, d) in top:
             x = held('vln_sus', m, d * beat + 0.4, xf=0.3); a = int(0.2 * SR); x[:a] *= np.linspace(0, 1, a)
@@ -148,11 +154,14 @@ def p_home(b, nb, bass, beat):                    # a warm timpani on 1 and 3, a
     return out
 
 ARGS = sys.argv[2:]
+MOODS_EXTRA = {}
 MOODS = {
     # the sea on a fair day: D major, unhurried, a pizzicato step on 1 and 3
     'calm-sea': dict(bpm=66, chords='D Bm G A D F#m G A Bm G D A G A D Dsus'.split(), pulse=[(0, 0, 0.6), (2, 2, 0.45)], perc=p_calm),
     # setting out, the voyage under sail: G major, a walking pizzicato on every beat
     'voyage': dict(bpm=84, chords='G C D G Em C D D G Bm C D C D G G'.split(), pulse=[(0, 0, 0.6), (1, 2, 0.35), (2, 3, 0.45), (3, 2, 0.35)], shape='gentle', perc=p_voyage),
+    # the voyage with the crew's yo-ho in its second half (Ian: mix the chant with the 4/4 strings)
+    'voyage-yoho': dict(bpm=84, chords='G C D G Em C D D G Bm C D C D G G'.split(), pulse=[(0, 0, 0.6), (1, 2, 0.35), (2, 3, 0.45), (3, 2, 0.35)], shape='gentle', perc=p_voyage, chant=('chant-yoho-84.mp3', [8, 12], 0.14)),
     # something is wrong: A minor, a soft pulse of two
     'unease': dict(bpm=72, chords='Am Am F E Am Dm E E F Dm Am E F Dm E E'.split(), pulse=[(0, 0, 0.5), (2, 0, 0.35)], perc=p_unease),
     # dread: D minor, low and slow, no pulse

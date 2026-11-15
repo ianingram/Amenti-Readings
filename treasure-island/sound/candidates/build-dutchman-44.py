@@ -79,9 +79,9 @@ def T(b, beat=1.0): return T0 + _map((b - 1) * 6 + (beat - 1)) * Q4
 def D(b, beat, q): return T(b, beat + q) - T(b, beat) if beat + q <= 7 else T(b + 1, beat + q - 6) - T(b, beat)
 N = int(L * SR)
 BUS = {k: np.zeros(N, np.float32) for k in
-       ('vln', 'vla', 'vc', 'kb', 'picc', 'fl', 'ob', 'cl', 'bsn', 'hn', 'tpt', 'tbn', 'tuba', 'timp', 'perc')}
+       ('vln', 'vla', 'vc', 'kb', 'picc', 'fl', 'ob', 'cl', 'bsn', 'hn', 'tpt', 'tbn', 'tuba', 'timp', 'perc', 'chant')}
 PAN = {'vln': -0.55, 'vla': 0.15, 'vc': 0.45, 'kb': 0.6, 'picc': -0.1, 'fl': -0.2, 'ob': 0.05, 'cl': -0.1,
-       'bsn': 0.15, 'hn': -0.3, 'tpt': 0.25, 'tbn': 0.4, 'tuba': 0.5, 'timp': 0.0, 'perc': 0.1}
+       'bsn': 0.15, 'hn': -0.3, 'tpt': 0.25, 'tbn': 0.4, 'tuba': 0.5, 'timp': 0.0, 'perc': 0.1, 'chant': 0.0}
 
 def note(bus, inst, m, t, d, g=1.0, att=0.03, legato=0.15):
     x = held(inst, m, d + legato, xf=0.35)
@@ -282,9 +282,20 @@ for b in (15, 16, 19, 20):                                      # the gusts: dru
 sroll(T(22), BAR, 0.3, 0.8); sroll(T(23), BAR + 1.5, 0.8, 0.2)
 pk('susCymb1-cresc-Median_v1.wav', 0.5, T(23) - 1.0)
 
+# ── the crew's 'yo-ho' (Ian: "the yo-ho chant can be mixed with the flying dutchman 4/4") ──
+# Four bars of the crew's chant from the Fifteen Men theme (separated from its mix),
+# fitted to this tempo: the crew hauling through the storm (bars 7-12) and in a gust (19-20).
+def mp3(path):
+    raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', path, '-ac', '1', '-ar', str(SR), '-f', 'f32le', '-'], capture_output=True, check=True).stdout
+    return np.frombuffer(raw, np.float32).copy()
+CH = mp3(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'chant-yoho-100.mp3'))
+def chant(t, g, bars=4):
+    x = CH[: int(bars * BAR * SR + 0.3 * SR)].copy(); r = int(0.3 * SR); x[-r:] *= np.linspace(1, 0, r); put(BUS['chant'], x, t - 0.03, g)
+chant(T(7), 0.55); chant(T(11), 0.9, bars=2); chant(T(19), 0.8, bars=2)
+
 # ── mix: seating, a hall, the level ───────────────────────────────────────────
 LEVEL = {'vln': 0.55, 'vla': 0.5, 'vc': 0.6, 'kb': 1.1, 'picc': 0.25, 'fl': 0.35, 'ob': 0.6, 'cl': 0.32,
-         'bsn': 0.4, 'hn': 0.55, 'tpt': 0.35, 'tbn': 0.45, 'tuba': 0.5, 'timp': 1.1, 'perc': 0.9}
+         'bsn': 0.4, 'hn': 0.55, 'tpt': 0.35, 'tbn': 0.45, 'tuba': 0.5, 'timp': 1.1, 'perc': 0.9, 'chant': 0.55}
 Lch = np.zeros(N, np.float32); Rch = np.zeros(N, np.float32)
 for k, x in BUS.items():
     p = (PAN[k] + 1) * np.pi / 4; x = x * LEVEL[k]

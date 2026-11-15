@@ -80,7 +80,9 @@ jobs:
       - name: Fetch the voice (from the cache; new lines only if "voice" is ticked)
         env:
           VOICE_RENDER_KEY: ${{ inputs.voice && secrets.VOICE_RENDER_KEY || '' }}
-        run: cd tools/mixer && node fetch_voice.js "$W" "$NN" "$RUNNER_TEMP/m/$W/ep$NN" 2>&1 | grep -v '^\[page\]'
+        # pipefail: the filter must not hide fetch_voice's exit 3 (MISSING measures) — ch09 of
+        # A Tale of Two Cities was mixed one measure short because of it (15 Nov 2026)
+        run: set -o pipefail; cd tools/mixer && node fetch_voice.js "$W" "$NN" "$RUNNER_TEMP/m/$W/ep$NN" 2>&1 | grep -v '^\[page\]'
       - name: Mix
         run: |
           python3 tools/mixer/mix.py "$GITHUB_WORKSPACE" "$RUNNER_TEMP/m/$W/ep$NN" "$RUNNER_TEMP/$W-ch$NN.m4a" > result.json

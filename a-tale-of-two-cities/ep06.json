@@ -58,7 +58,13 @@
    "para": 2,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "said Monsieur Defarge, looking down at the white head that\nbent low over the shoemaking."
+   "text": "said Monsieur Defarge, looking down at the white head that\nbent low over the shoemaking.",
+   "sfx": [
+    {
+     "key": "shoe_hammer_2",
+     "at": "bent low over the shoemaking"
+    }
+   ]
   },
   {
    "n": 5,
@@ -233,7 +239,13 @@
    "para": 21,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Mr. Lorry came silently forward, leaving the daughter by the door. When\nhe had stood, for a minute or two, by the side of Defarge, the shoemaker\nlooked up. He showed no surprise at seeing another figure, but the\nunsteady fingers of one of his hands strayed to his lips as he looked at\nit (his lips and his nails were of the same pale lead-colour), and then\nthe hand dropped to his work, and he once more bent over the shoe. The\nlook and the action had occupied but an instant."
+   "text": "Mr. Lorry came silently forward, leaving the daughter by the door. When\nhe had stood, for a minute or two, by the side of Defarge, the shoemaker\nlooked up. He showed no surprise at seeing another figure, but the\nunsteady fingers of one of his hands strayed to his lips as he looked at\nit (his lips and his nails were of the same pale lead-colour), and then\nthe hand dropped to his work, and he once more bent over the shoe. The\nlook and the action had occupied but an instant.",
+   "sfx": [
+    {
+     "key": "shoe_hammer_1",
+     "at": "once more bent over the shoe"
+    }
+   ]
   },
   {
    "n": 30,
@@ -401,7 +413,13 @@
    "para": 40,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "With a weary sound that was not a sigh, nor a groan, he bent to work\nagain, until the silence was again broken."
+   "text": "With a weary sound that was not a sigh, nor a groan, he bent to work\nagain, until the silence was again broken.",
+   "sfx": [
+    {
+     "key": "shoe_hammer_2",
+     "at": "he bent to work again"
+    }
+   ]
   },
   {
    "n": 54,
@@ -534,7 +552,13 @@
    "para": 55,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Not a word was spoken, not a sound was made. She stood, like a spirit,\nbeside him, and he bent over his work."
+   "text": "Not a word was spoken, not a sound was made. She stood, like a spirit,\nbeside him, and he bent over his work.",
+   "sfx": [
+    {
+     "key": "shoe_hammer_1",
+     "at": "he bent over his work"
+    }
+   ]
   },
   {
    "n": 73,
@@ -907,7 +931,13 @@
    "cast": "Charles Dickens",
    "text": "They began to descend; Monsieur Defarge going first with the lamp, Mr.\nLorry closing the little procession. They had not traversed many steps\nof the long main staircase when he stopped, and stared at the roof and\nround at the walls.",
    "bed": "stair",
-   "state": 1
+   "state": 1,
+   "sfx": [
+    {
+     "key": "stairs",
+     "at": "They began to descend"
+    }
+   ]
   },
   {
    "n": 126,
@@ -970,7 +1000,13 @@
    "para": 101,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The prisoner had got into a coach, and his daughter had followed\nhim, when Mr. Lorry’s feet were arrested on the step by his asking,\nmiserably, for his shoemaking tools and the unfinished shoes. Madame\nDefarge immediately called to her husband that she would get them, and\nwent, knitting, out of the lamplight, through the courtyard. She quickly\nbrought them down and handed them in;--and immediately afterwards leaned\nagainst the door-post, knitting, and saw nothing."
+   "text": "The prisoner had got into a coach, and his daughter had followed\nhim, when Mr. Lorry’s feet were arrested on the step by his asking,\nmiserably, for his shoemaking tools and the unfinished shoes. Madame\nDefarge immediately called to her husband that she would get them, and\nwent, knitting, out of the lamplight, through the courtyard. She quickly\nbrought them down and handed them in;--and immediately afterwards leaned\nagainst the door-post, knitting, and saw nothing.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "his daughter had followed him"
+    }
+   ]
   },
   {
    "n": 135,
@@ -991,7 +1027,26 @@
    "para": 102,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The\npostilion cracked his whip, and they clattered away under the feeble\nover-swinging lamps."
+   "text": "The\npostilion cracked his whip, and they clattered away under the feeble\nover-swinging lamps.",
+   "sfx": [
+    {
+     "key": "whip_crack",
+     "at": "The postilion cracked his whip"
+    },
+    {
+     "key": "horses_start",
+     "at": "they clattered away"
+    },
+    {
+     "key": "cart",
+     "at": "under the feeble over-swinging lamps"
+    }
+   ],
+   "score": {
+    "key": "road",
+    "xfade": 8,
+    "at": "The postilion cracked his whip"
+   }
   },
   {
    "n": 138,

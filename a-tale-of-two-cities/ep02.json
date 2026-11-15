@@ -57,14 +57,26 @@
    "para": 3,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "“Wo-ho! so-ho-then!”"
+   "text": "“Wo-ho! so-ho-then!”",
+   "sfx": [
+    {
+     "key": "horses_halt",
+     "at": "Wo-ho! so-ho-then!"
+    }
+   ]
   },
   {
    "n": 6,
    "para": 3,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "the\nnear leader violently shook his head and everything upon it--like an\nunusually emphatic horse, denying that the coach could be got up the\nhill. Whenever the leader made this rattle, the passenger started, as a\nnervous passenger might, and was disturbed in mind."
+   "text": "the\nnear leader violently shook his head and everything upon it--like an\nunusually emphatic horse, denying that the coach could be got up the\nhill. Whenever the leader made this rattle, the passenger started, as a\nnervous passenger might, and was disturbed in mind.",
+   "sfx": [
+    {
+     "key": "horse_snort",
+     "at": "violently shook his head"
+    }
+   ]
   },
   {
    "n": 7,
@@ -176,14 +188,34 @@
    "para": 12,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The emphatic horse, cut short by the whip in a most decided negative,\nmade a decided scramble for it, and the three other horses followed\nsuit. Once more, the Dover mail struggled on, with the jack-boots of its\npassengers squashing along by its side. They had stopped when the coach\nstopped, and they kept close company with it. If any one of the three\nhad had the hardihood to propose to another to walk on a little ahead\ninto the mist and darkness, he would have put himself in a fair way of\ngetting shot instantly as a highwayman."
+   "text": "The emphatic horse, cut short by the whip in a most decided negative,\nmade a decided scramble for it, and the three other horses followed\nsuit. Once more, the Dover mail struggled on, with the jack-boots of its\npassengers squashing along by its side. They had stopped when the coach\nstopped, and they kept close company with it. If any one of the three\nhad had the hardihood to propose to another to walk on a little ahead\ninto the mist and darkness, he would have put himself in a fair way of\ngetting shot instantly as a highwayman.",
+   "sfx": [
+    {
+     "key": "whip_crack",
+     "at": "cut short by the whip"
+    },
+    {
+     "key": "horses_start",
+     "at": "made a decided scramble for it"
+    }
+   ]
   },
   {
    "n": 23,
    "para": 13,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The last burst carried the mail to the summit of the hill. The horses\nstopped to breathe again, and the guard got down to skid the wheel for\nthe descent, and open the coach-door to let the passengers in."
+   "text": "The last burst carried the mail to the summit of the hill. The horses\nstopped to breathe again, and the guard got down to skid the wheel for\nthe descent, and open the coach-door to let the passengers in.",
+   "sfx": [
+    {
+     "key": "horses_halt",
+     "at": "The horses stopped to breathe again"
+    },
+    {
+     "key": "door_open",
+     "at": "open the coach-door"
+    }
+   ]
   },
   {
    "n": 24,
@@ -267,7 +299,13 @@
    "para": 22,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The sound of a horse at a gallop came fast and furiously up the hill."
+   "text": "The sound of a horse at a gallop came fast and furiously up the hill.",
+   "sfx": [
+    {
+     "key": "horse_gallop",
+     "at": "The sound of a horse at a gallop"
+    }
+   ]
   },
   {
    "n": 36,
@@ -463,7 +501,17 @@
    "para": 38,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "said Mr. Lorry, getting down into the\nroad--assisted from behind more swiftly than politely by the other two\npassengers, who immediately scrambled into the coach, shut the door, and\npulled up the window."
+   "text": "said Mr. Lorry, getting down into the\nroad--assisted from behind more swiftly than politely by the other two\npassengers, who immediately scrambled into the coach, shut the door, and\npulled up the window.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "shut the door"
+    },
+    {
+     "key": "window",
+     "at": "pulled up the window"
+    }
+   ]
   },
   {
    "n": 64,
@@ -519,7 +567,13 @@
    "para": 42,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The figures of a horse and rider came slowly through the eddying mist,\nand came to the side of the mail, where the passenger stood. The rider\nstooped, and, casting up his eyes at the guard, handed the passenger\na small folded paper. The rider’s horse was blown, and both horse and\nrider were covered with mud, from the hoofs of the horse to the hat of\nthe man."
+   "text": "The figures of a horse and rider came slowly through the eddying mist,\nand came to the side of the mail, where the passenger stood. The rider\nstooped, and, casting up his eyes at the guard, handed the passenger\na small folded paper. The rider’s horse was blown, and both horse and\nrider were covered with mud, from the hoofs of the horse to the hat of\nthe man.",
+   "sfx": [
+    {
+     "key": "horse_walk_up",
+     "at": "The figures of a horse and rider"
+    }
+   ]
   },
   {
    "n": 72,
@@ -617,7 +671,17 @@
    "para": 51,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The coach lumbered on again, with heavier wreaths of mist closing round\nit as it began the descent. The guard soon replaced his blunderbuss\nin his arm-chest, and, having looked to the rest of its contents, and\nhaving looked to the supplementary pistols that he wore in his belt,\nlooked to a smaller chest beneath his seat, in which there were a\nfew smith’s tools, a couple of torches, and a tinder-box. For he was\nfurnished with that completeness that if the coach-lamps had been blown\nand stormed out, which did occasionally happen, he had only to shut\nhimself up inside, keep the flint and steel sparks well off the straw,\nand get a light with tolerable safety and ease (if he were lucky) in\nfive minutes."
+   "text": "The coach lumbered on again, with heavier wreaths of mist closing round\nit as it began the descent. The guard soon replaced his blunderbuss\nin his arm-chest, and, having looked to the rest of its contents, and\nhaving looked to the supplementary pistols that he wore in his belt,\nlooked to a smaller chest beneath his seat, in which there were a\nfew smith’s tools, a couple of torches, and a tinder-box. For he was\nfurnished with that completeness that if the coach-lamps had been blown\nand stormed out, which did occasionally happen, he had only to shut\nhimself up inside, keep the flint and steel sparks well off the straw,\nand get a light with tolerable safety and ease (if he were lucky) in\nfive minutes.",
+   "sfx": [
+    {
+     "key": "whip_crack",
+     "at": "The coach lumbered on again"
+    },
+    {
+     "key": "cart",
+     "at": "heavier wreaths of mist"
+    }
+   ]
   },
   {
    "n": 86,

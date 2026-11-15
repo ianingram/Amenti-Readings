@@ -47,7 +47,13 @@
    "para": 2,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "When the mail got successfully to Dover, in the course of the forenoon,\nthe head drawer at the Royal George Hotel opened the coach-door as his\ncustom was. He did it with some flourish of ceremony, for a mail journey\nfrom London in winter was an achievement to congratulate an adventurous\ntraveller upon."
+   "text": "When the mail got successfully to Dover, in the course of the forenoon,\nthe head drawer at the Royal George Hotel opened the coach-door as his\ncustom was. He did it with some flourish of ceremony, for a mail journey\nfrom London in winter was an achievement to congratulate an adventurous\ntraveller upon.",
+   "sfx": [
+    {
+     "key": "door_open",
+     "at": "opened the coach-door"
+    }
+   ]
   },
   {
    "n": 4,
@@ -103,7 +109,13 @@
    "para": 10,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Very orderly and methodical he looked, with a hand on each knee, and a\nloud watch ticking a sonorous sermon under his flapped waist-coat,\nas though it pitted its gravity and longevity against the levity and\nevanescence of the brisk fire. He had a good leg, and was a little vain\nof it, for his brown stockings fitted sleek and close, and were of a\nfine texture; his shoes and buckles, too, though plain, were trim. He\nwore an odd little sleek crisp flaxen wig, setting very close to his\nhead: which wig, it is to be presumed, was made of hair, but which\nlooked far more as though it were spun from filaments of silk or glass.\nHis linen, though not of a fineness in accordance with his stockings,\nwas as white as the tops of the waves that broke upon the neighbouring\nbeach, or the specks of sail that glinted in the sunlight far at sea. A\nface habitually suppressed and quieted, was still lighted up under the\nquaint wig by a pair of moist bright eyes that it must have cost\ntheir owner, in years gone by, some pains to drill to the composed and\nreserved expression of Tellson’s Bank. He had a healthy colour in his\ncheeks, and his face, though lined, bore few traces of anxiety.\nBut, perhaps the confidential bachelor clerks in Tellson’s Bank were\nprincipally occupied with the cares of other people; and perhaps\nsecond-hand cares, like second-hand clothes, come easily off and on."
+   "text": "Very orderly and methodical he looked, with a hand on each knee, and a\nloud watch ticking a sonorous sermon under his flapped waist-coat,\nas though it pitted its gravity and longevity against the levity and\nevanescence of the brisk fire. He had a good leg, and was a little vain\nof it, for his brown stockings fitted sleek and close, and were of a\nfine texture; his shoes and buckles, too, though plain, were trim. He\nwore an odd little sleek crisp flaxen wig, setting very close to his\nhead: which wig, it is to be presumed, was made of hair, but which\nlooked far more as though it were spun from filaments of silk or glass.\nHis linen, though not of a fineness in accordance with his stockings,\nwas as white as the tops of the waves that broke upon the neighbouring\nbeach, or the specks of sail that glinted in the sunlight far at sea. A\nface habitually suppressed and quieted, was still lighted up under the\nquaint wig by a pair of moist bright eyes that it must have cost\ntheir owner, in years gone by, some pains to drill to the composed and\nreserved expression of Tellson’s Bank. He had a healthy colour in his\ncheeks, and his face, though lined, bore few traces of anxiety.\nBut, perhaps the confidential bachelor clerks in Tellson’s Bank were\nprincipally occupied with the cares of other people; and perhaps\nsecond-hand cares, like second-hand clothes, come easily off and on.",
+   "sfx": [
+    {
+     "key": "pocket_watch",
+     "at": "a loud watch ticking"
+    }
+   ]
   },
   {
    "n": 12,
@@ -226,7 +238,17 @@
    "para": 27,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A bottle of good claret after dinner does a digger in the red coals no\nharm, otherwise than as it has a tendency to throw him out of work.\nMr. Lorry had been idle a long time, and had just poured out his last\nglassful of wine with as complete an appearance of satisfaction as is\never to be found in an elderly gentleman of a fresh complexion who has\ngot to the end of a bottle, when a rattling of wheels came up the narrow\nstreet, and rumbled into the inn-yard."
+   "text": "A bottle of good claret after dinner does a digger in the red coals no\nharm, otherwise than as it has a tendency to throw him out of work.\nMr. Lorry had been idle a long time, and had just poured out his last\nglassful of wine with as complete an appearance of satisfaction as is\never to be found in an elderly gentleman of a fresh complexion who has\ngot to the end of a bottle, when a rattling of wheels came up the narrow\nstreet, and rumbled into the inn-yard.",
+   "sfx": [
+    {
+     "key": "cart",
+     "at": "a rattling of wheels came up the narrow street"
+    },
+    {
+     "key": "horses_halt",
+     "at": "rumbled into the inn-yard"
+    }
+   ]
   },
   {
    "n": 29,
@@ -744,7 +766,12 @@
    "para": 84,
    "role": "Jarvis Lorry",
    "cast": "Isaac Newton",
-   "text": "“But he has been--been found. He is alive. Greatly changed, it is too\nprobable; almost a wreck, it is possible; though we will hope the best.\nStill, alive. Your father has been taken to the house of an old servant\nin Paris, and we are going there: I, to identify him if I can: you, to\nrestore him to life, love, duty, rest, comfort.”"
+   "text": "“But he has been--been found. He is alive. Greatly changed, it is too\nprobable; almost a wreck, it is possible; though we will hope the best.\nStill, alive. Your father has been taken to the house of an old servant\nin Paris, and we are going there: I, to identify him if I can: you, to\nrestore him to life, love, duty, rest, comfort.”",
+   "score": {
+    "key": "recalled",
+    "xfade": 8,
+    "at": "But he has been--been found. He is alive."
+   }
   },
   {
    "n": 103,
@@ -821,7 +848,13 @@
    "para": 91,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A wild-looking woman, whom even in his agitation, Mr. Lorry observed to\nbe all of a red colour, and to have red hair, and to be dressed in some\nextraordinary tight-fitting fashion, and to have on her head a most\nwonderful bonnet like a Grenadier wooden measure, and good measure too,\nor a great Stilton cheese, came running into the room in advance of the\ninn servants, and soon settled the question of his detachment from the\npoor young lady, by laying a brawny hand upon his chest, and sending him\nflying back against the nearest wall."
+   "text": "A wild-looking woman, whom even in his agitation, Mr. Lorry observed to\nbe all of a red colour, and to have red hair, and to be dressed in some\nextraordinary tight-fitting fashion, and to have on her head a most\nwonderful bonnet like a Grenadier wooden measure, and good measure too,\nor a great Stilton cheese, came running into the room in advance of the\ninn servants, and soon settled the question of his detachment from the\npoor young lady, by laying a brawny hand upon his chest, and sending him\nflying back against the nearest wall.",
+   "sfx": [
+    {
+     "key": "body_fall",
+     "at": "flying back against the nearest wall"
+    }
+   ]
   },
   {
    "n": 114,

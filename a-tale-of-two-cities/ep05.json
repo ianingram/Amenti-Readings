@@ -47,7 +47,17 @@
    "para": 2,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A large cask of wine had been dropped and broken, in the street. The\naccident had happened in getting it out of a cart; the cask had tumbled\nout with a run, the hoops had burst, and it lay on the stones just\noutside the door of the wine-shop, shattered like a walnut-shell."
+   "text": "A large cask of wine had been dropped and broken, in the street. The\naccident had happened in getting it out of a cart; the cask had tumbled\nout with a run, the hoops had burst, and it lay on the stones just\noutside the door of the wine-shop, shattered like a walnut-shell.",
+   "sfx": [
+    {
+     "key": "cask_burst",
+     "at": "the hoops had burst"
+    },
+    {
+     "key": "wine_splash",
+     "at": "it lay on the stones"
+    }
+   ]
   },
   {
    "n": 4,
@@ -61,7 +71,13 @@
    "para": 4,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "A shrill sound of laughter and of amused voices--voices of men, women,\nand children--resounded in the street while this wine game lasted. There\nwas little roughness in the sport, and much playfulness. There was a\nspecial companionship in it, an observable inclination on the part\nof every one to join some other one, which led, especially among the\nluckier or lighter-hearted, to frolicsome embraces, drinking of healths,\nshaking of hands, and even joining of hands and dancing, a dozen\ntogether. When the wine was gone, and the places where it had been\nmost abundant were raked into a gridiron-pattern by fingers, these\ndemonstrations ceased, as suddenly as they had broken out. The man who\nhad left his saw sticking in the firewood he was cutting, set it in\nmotion again; the women who had left on a door-step the little pot of\nhot ashes, at which she had been trying to soften the pain in her own\nstarved fingers and toes, or in those of her child, returned to it; men\nwith bare arms, matted locks, and cadaverous faces, who had emerged into\nthe winter light from cellars, moved away, to descend again; and a gloom\ngathered on the scene that appeared more natural to it than sunshine."
+   "text": "A shrill sound of laughter and of amused voices--voices of men, women,\nand children--resounded in the street while this wine game lasted. There\nwas little roughness in the sport, and much playfulness. There was a\nspecial companionship in it, an observable inclination on the part\nof every one to join some other one, which led, especially among the\nluckier or lighter-hearted, to frolicsome embraces, drinking of healths,\nshaking of hands, and even joining of hands and dancing, a dozen\ntogether. When the wine was gone, and the places where it had been\nmost abundant were raked into a gridiron-pattern by fingers, these\ndemonstrations ceased, as suddenly as they had broken out. The man who\nhad left his saw sticking in the firewood he was cutting, set it in\nmotion again; the women who had left on a door-step the little pot of\nhot ashes, at which she had been trying to soften the pain in her own\nstarved fingers and toes, or in those of her child, returned to it; men\nwith bare arms, matted locks, and cadaverous faces, who had emerged into\nthe winter light from cellars, moved away, to descend again; and a gloom\ngathered on the scene that appeared more natural to it than sunshine.",
+   "sfx": [
+    {
+     "key": "laughter",
+     "at": "A shrill sound of laughter"
+    }
+   ]
   },
   {
    "n": 6,
@@ -448,7 +464,13 @@
    "para": 35,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They paid for their wine, and left the place. The eyes of Monsieur\nDefarge were studying his wife at her knitting when the elderly\ngentleman advanced from his corner, and begged the favour of a word."
+   "text": "They paid for their wine, and left the place. The eyes of Monsieur\nDefarge were studying his wife at her knitting when the elderly\ngentleman advanced from his corner, and begged the favour of a word.",
+   "sfx": [
+    {
+     "key": "door_close",
+     "at": "left the place"
+    }
+   ]
   },
   {
    "n": 61,
@@ -576,7 +598,13 @@
    "para": 49,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Such a staircase, with its accessories, in the older and more crowded\nparts of Paris, would be bad enough now; but, at that time, it was vile\nindeed to unaccustomed and unhardened senses. Every little habitation\nwithin the great foul nest of one high building--that is to say,\nthe room or rooms within every door that opened on the general\nstaircase--left its own heap of refuse on its own landing, besides\nflinging other refuse from its own windows. The uncontrollable and\nhopeless mass of decomposition so engendered, would have polluted\nthe air, even if poverty and deprivation had not loaded it with their\nintangible impurities; the two bad sources combined made it almost\ninsupportable. Through such an atmosphere, by a steep dark shaft of dirt\nand poison, the way lay. Yielding to his own disturbance of mind, and to\nhis young companion’s agitation, which became greater every instant, Mr.\nJarvis Lorry twice stopped to rest. Each of these stoppages was made\nat a doleful grating, by which any languishing good airs that were left\nuncorrupted, seemed to escape, and all spoilt and sickly vapours seemed\nto crawl in. Through the rusted bars, tastes, rather than glimpses, were\ncaught of the jumbled neighbourhood; and nothing within range, nearer\nor lower than the summits of the two great towers of Notre-Dame, had any\npromise on it of healthy life or wholesome aspirations."
+   "text": "Such a staircase, with its accessories, in the older and more crowded\nparts of Paris, would be bad enough now; but, at that time, it was vile\nindeed to unaccustomed and unhardened senses. Every little habitation\nwithin the great foul nest of one high building--that is to say,\nthe room or rooms within every door that opened on the general\nstaircase--left its own heap of refuse on its own landing, besides\nflinging other refuse from its own windows. The uncontrollable and\nhopeless mass of decomposition so engendered, would have polluted\nthe air, even if poverty and deprivation had not loaded it with their\nintangible impurities; the two bad sources combined made it almost\ninsupportable. Through such an atmosphere, by a steep dark shaft of dirt\nand poison, the way lay. Yielding to his own disturbance of mind, and to\nhis young companion’s agitation, which became greater every instant, Mr.\nJarvis Lorry twice stopped to rest. Each of these stoppages was made\nat a doleful grating, by which any languishing good airs that were left\nuncorrupted, seemed to escape, and all spoilt and sickly vapours seemed\nto crawl in. Through the rusted bars, tastes, rather than glimpses, were\ncaught of the jumbled neighbourhood; and nothing within range, nearer\nor lower than the summits of the two great towers of Notre-Dame, had any\npromise on it of healthy life or wholesome aspirations.",
+   "sfx": [
+    {
+     "key": "steps_climb",
+     "at": "Such a staircase"
+    }
+   ]
   },
   {
    "n": 79,
@@ -702,7 +730,13 @@
    "para": 61,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "They went up slowly and softly. The staircase was short, and they were\nsoon at the top. There, as it had an abrupt turn in it, they came all at\nonce in sight of three men, whose heads were bent down close together at\nthe side of a door, and who were intently looking into the room to which\nthe door belonged, through some chinks or holes in the wall. On hearing\nfootsteps close at hand, these three turned, and rose, and showed\nthemselves to be the three of one name who had been drinking in the\nwine-shop."
+   "text": "They went up slowly and softly. The staircase was short, and they were\nsoon at the top. There, as it had an abrupt turn in it, they came all at\nonce in sight of three men, whose heads were bent down close together at\nthe side of a door, and who were intently looking into the room to which\nthe door belonged, through some chinks or holes in the wall. On hearing\nfootsteps close at hand, these three turned, and rose, and showed\nthemselves to be the three of one name who had been drinking in the\nwine-shop.",
+   "sfx": [
+    {
+     "key": "stairs",
+     "at": "They went up slowly and softly"
+    }
+   ]
   },
   {
    "n": 97,
@@ -786,14 +820,26 @@
    "para": 71,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "With an admonitory gesture to keep them back, he stooped, and looked in\nthrough the crevice in the wall. Soon raising his head again, he struck\ntwice or thrice upon the door--evidently with no other object than to\nmake a noise there. With the same intention, he drew the key across it,\nthree or four times, before he put it clumsily into the lock, and turned\nit as heavily as he could."
+   "text": "With an admonitory gesture to keep them back, he stooped, and looked in\nthrough the crevice in the wall. Soon raising his head again, he struck\ntwice or thrice upon the door--evidently with no other object than to\nmake a noise there. With the same intention, he drew the key across it,\nthree or four times, before he put it clumsily into the lock, and turned\nit as heavily as he could.",
+   "sfx": [
+    {
+     "key": "knock",
+     "at": "he struck twice or thrice upon the door"
+    }
+   ]
   },
   {
    "n": 109,
    "para": 72,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The door slowly opened inward under his hand, and he looked into the\nroom and said something. A faint voice answered something. Little more\nthan a single syllable could have been spoken on either side."
+   "text": "The door slowly opened inward under his hand, and he looked into the\nroom and said something. A faint voice answered something. Little more\nthan a single syllable could have been spoken on either side.",
+   "sfx": [
+    {
+     "key": "door_open",
+     "at": "The door slowly opened inward"
+    }
+   ]
   },
   {
    "n": 110,
@@ -863,7 +909,13 @@
    "para": 79,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "Defarge drew out the key, closed the door, locked it on the inside,\ntook out the key again, and held it in his hand. All this he did,\nmethodically, and with as loud and harsh an accompaniment of noise as he\ncould make. Finally, he walked across the room with a measured tread to\nwhere the window was. He stopped there, and faced round."
+   "text": "Defarge drew out the key, closed the door, locked it on the inside,\ntook out the key again, and held it in his hand. All this he did,\nmethodically, and with as loud and harsh an accompaniment of noise as he\ncould make. Finally, he walked across the room with a measured tread to\nwhere the window was. He stopped there, and faced round.",
+   "sfx": [
+    {
+     "key": "key_lock",
+     "at": "locked it on the inside"
+    }
+   ]
   },
   {
    "n": 120,
@@ -872,7 +924,18 @@
    "cast": "Charles Dickens",
    "text": "The garret, built to be a depository for firewood and the like, was dim\nand dark: for, the window of dormer shape, was in truth a door in the\nroof, with a little crane over it for the hoisting up of stores from\nthe street: unglazed, and closing up the middle in two pieces, like any\nother door of French construction. To exclude the cold, one half of this\ndoor was fast closed, and the other was opened but a very little way.\nSuch a scanty portion of light was admitted through these means, that it\nwas difficult, on first coming in, to see anything; and long habit\nalone could have slowly formed in any one, the ability to do any work\nrequiring nicety in such obscurity. Yet, work of that kind was being\ndone in the garret; for, with his back towards the door, and his face\ntowards the window where the keeper of the wine-shop stood looking at\nhim, a white-haired man sat on a low bench, stooping forward and very\nbusy, making shoes.",
    "bed": "garret",
-   "state": 1
+   "state": 1,
+   "sfx": [
+    {
+     "key": "shoe_hammer_1",
+     "at": "very busy, making shoes"
+    }
+   ],
+   "score": {
+    "key": "recalled",
+    "xfade": 10,
+    "at": "The garret, built to be a depository for firewood"
+   }
   }
  ]
 }

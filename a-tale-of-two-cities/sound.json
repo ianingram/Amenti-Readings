@@ -2,7 +2,7 @@
   "_file": "a-tale-of-two-cities/sound.json",
   "_updated": "2026-11-14",
   "work": "a-tale-of-two-cities",
-  "note": "Book the First: rooms placed (14 Nov 2026). Sounds on the words and the score come next, in that order.",
+  "note": "Book the First: rooms, sounds on the words and score placed (14 Nov 2026).",
   "files": {
     "base": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/",
     "beds": {
@@ -16,9 +16,45 @@
       "garret": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-yard-v2.mp3",
       "paris_night": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-street-fog-v2.mp3"
     },
-    "oneshots": {},
-    "score": {},
-    "levels": {},
+    "oneshots": {
+      "whip_crack": "whip-crack.mp3",
+      "horse_snort": "horse-snort.mp3",
+      "shoe_hammer_1": "shoe-hammer-1.mp3",
+      "shoe_hammer_2": "shoe-hammer-2.mp3",
+      "pocket_watch": "pocket-watch.mp3",
+      "horses_halt": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/horses-arrive.mp3",
+      "horses_start": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/horses-trot-away.mp3",
+      "horse_walk_up": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/horse-come-go.mp3",
+      "horse_gallop": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horses-gallop.mp3",
+      "cart": "https://ianingram.github.io/Amenti-Readings/dracula/sound/cart.mp3",
+      "door_open": "https://ianingram.github.io/Amenti-Readings/dracula/sound/door_open.mp3",
+      "door_close": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/door-close-v2.mp3",
+      "window": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/window-v2.mp3",
+      "body_fall": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/body-fall.mp3",
+      "cask_burst": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/stalls-overturned.mp3",
+      "wine_splash": "https://ianingram.github.io/Amenti-Readings/quo-vadis/sound/qv-bath-splash-v1.mp3",
+      "laughter": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/crowd-giggle.mp3",
+      "steps_climb": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/steps-stone-v2.mp3",
+      "stairs": "https://ianingram.github.io/Amenti-Readings/dracula/sound/stairs.mp3",
+      "knock": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/knock.mp3",
+      "key_lock": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/key-lock-v2.mp3"
+    },
+    "score": {
+      "overture_period": "score-period.mp3",
+      "period": "score-period.mp3",
+      "road": "score-road.mp3",
+      "tender": "score-tender.mp3",
+      "hunger": "score-hunger.mp3",
+      "recalled": "score-recalled.mp3"
+    },
+    "levels": {
+      "overture_period": 0.7,
+      "period": 0.38,
+      "road": 0.38,
+      "tender": 0.38,
+      "hunger": 0.38,
+      "recalled": 0.38
+    },
     "breath": {
       "note": "14 Nov 2026: the score ebbs and flows under the voice, as in Dracula.",
       "min": 0.35,
@@ -28,7 +64,29 @@
         113
       ]
     },
-    "sfx_levels": {}
+    "sfx_levels": {
+      "whip_crack": 0.55,
+      "horse_snort": 0.5,
+      "shoe_hammer_1": 0.4,
+      "shoe_hammer_2": 0.4,
+      "pocket_watch": 0.45,
+      "horses_halt": 0.55,
+      "horses_start": 0.55,
+      "horse_walk_up": 0.55,
+      "horse_gallop": 0.6,
+      "cart": 0.45,
+      "door_open": 0.5,
+      "door_close": 0.5,
+      "window": 0.5,
+      "body_fall": 0.45,
+      "cask_burst": 0.6,
+      "wine_splash": 0.35,
+      "laughter": 0.25,
+      "steps_climb": 0.45,
+      "stairs": 0.45,
+      "knock": 0.7,
+      "key_lock": 0.5
+    }
   },
   "beds": {
     "dover_road": {
@@ -86,37 +144,38 @@
       "n": 1,
       "bed": null,
       "state": 1,
-      "score": null
+      "score": "overture_period",
+      "lead": 32
     },
     {
       "n": 2,
       "bed": "dover_road",
       "state": 1,
-      "score": null
+      "score": "road"
     },
     {
       "n": 3,
       "bed": "dover_road",
       "state": 1,
-      "score": null
+      "score": "road"
     },
     {
       "n": 4,
       "bed": "dover_inn",
       "state": 1,
-      "score": null
+      "score": "tender"
     },
     {
       "n": 5,
       "bed": "saint_antoine",
       "state": 1,
-      "score": null
+      "score": "hunger"
     },
     {
       "n": 6,
       "bed": "garret",
       "state": 1,
-      "score": null
+      "score": "recalled"
     },
     {
       "n": 7,

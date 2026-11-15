@@ -61,7 +61,13 @@
    "para": 4,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "The messenger rode back at an easy trot, stopping pretty often at\nale-houses by the way to drink, but evincing a tendency to keep his\nown counsel, and to keep his hat cocked over his eyes. He had eyes that\nassorted very well with that decoration, being of a surface black, with\nno depth in the colour or form, and much too near together--as if they\nwere afraid of being found out in something, singly, if they kept too\nfar apart. They had a sinister expression, under an old cocked-hat like\na three-cornered spittoon, and over a great muffler for the chin and\nthroat, which descended nearly to the wearer’s knees. When he stopped\nfor drink, he moved this muffler with his left hand, only while he\npoured his liquor in with his right; as soon as that was done, he\nmuffled again."
+   "text": "The messenger rode back at an easy trot, stopping pretty often at\nale-houses by the way to drink, but evincing a tendency to keep his\nown counsel, and to keep his hat cocked over his eyes. He had eyes that\nassorted very well with that decoration, being of a surface black, with\nno depth in the colour or form, and much too near together--as if they\nwere afraid of being found out in something, singly, if they kept too\nfar apart. They had a sinister expression, under an old cocked-hat like\na three-cornered spittoon, and over a great muffler for the chin and\nthroat, which descended nearly to the wearer’s knees. When he stopped\nfor drink, he moved this muffler with his left hand, only while he\npoured his liquor in with his right; as soon as that was done, he\nmuffled again.",
+   "sfx": [
+    {
+     "key": "horses_start",
+     "at": "rode back at an easy trot"
+    }
+   ]
   },
   {
    "n": 6,
@@ -329,7 +335,13 @@
    "para": 34,
    "role": "Narrator",
    "cast": "Charles Dickens",
-   "text": "He lowered the window, and looked out at the rising sun. There was a\nridge of ploughed land, with a plough upon it where it had been left\nlast night when the horses were unyoked; beyond, a quiet coppice-wood,\nin which many leaves of burning red and golden yellow still remained\nupon the trees. Though the earth was cold and wet, the sky was clear,\nand the sun rose bright, placid, and beautiful."
+   "text": "He lowered the window, and looked out at the rising sun. There was a\nridge of ploughed land, with a plough upon it where it had been left\nlast night when the horses were unyoked; beyond, a quiet coppice-wood,\nin which many leaves of burning red and golden yellow still remained\nupon the trees. Though the earth was cold and wet, the sky was clear,\nand the sun rose bright, placid, and beautiful.",
+   "sfx": [
+    {
+     "key": "window",
+     "at": "He lowered the window"
+    }
+   ]
   },
   {
    "n": 44,

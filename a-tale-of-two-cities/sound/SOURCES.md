@@ -17,3 +17,27 @@ BigSoundBank (bigsoundbank.com) releases all its sounds under CC0.
 - A Christmas Carol: `bed-street-fog-v2.mp3`, `bed-tavern-v2.mp3`, `bed-yard-v2.mp3`.
 
 Their sources are listed in those productions' SOURCES.md.
+
+## One-shots built for Book the First (`build-oneshots.py`)
+- **whip-crack.mp3**: BigSoundBank #2949.
+- **horse-snort.mp3**: #0285 and #0286.
+- **shoe-hammer-1.mp3, shoe-hammer-2.mp3**: #0005 and #0006 (nail and hammer).
+- **pocket-watch.mp3**: #1372.
+
+Borrowed by URL:
+- Treasure Island: the horses arriving, trotting away, coming and going; the body fall.
+- Dracula: the gallop, the cart, the door, the stairs.
+- A Christmas Carol: door, window, steps, key.
+- Julius Caesar: the stalls overturned (the cask), the crowd's laughter.
+- Quo Vadis: the splash (the wine).
+- Romeo and Juliet: the knock.
+
+## Score (`build-moods.py`)
+Mood strings in 4/4 with light percussion, built with Treasure Island's mood builder from VSCO 2 Community Edition samples (Versilian Studios, CC0):
+- **score-period.mp3**: the overture; 32 s before chapter I's first words.
+- **score-road.mp3**
+- **score-tender.mp3**
+- **score-hunger.mp3**
+- **score-recalled.mp3**
+
+The book's theme, "Recalled to Life", is a rising four-note figure carried by the violins in every mood.

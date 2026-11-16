@@ -1,3 +1,5 @@
+# NOTE (16 Nov 2026): candidates are working material. Once chosen, move them to the private repo
+# Amenti-Print-Masters (studios-working/<book>/sound/candidates/) and delete them here: this repo is public.
 # Finds audio on the Internet Archive (Musopen and others) and lists licence and files.
 # With "fetch" set to identifier/filename (separated by |), downloads it, cuts a
 # 90 s sample and commits both to treasure-island/sound/candidates/. Only items

@@ -1,3 +1,5 @@
+# NOTE (16 Nov 2026): candidates are working material. Once chosen, move them to the private repo
+# Amenti-Print-Masters (studios-working/<book>/sound/candidates/) and delete them here: this repo is public.
 # Finds recordings on Wikimedia Commons and lists performer, length and licence.
 # With "fetch" set to File: titles (one per line), downloads them, cuts a 75 s
 # sample of each and commits the samples to treasure-island/sound/candidates/.

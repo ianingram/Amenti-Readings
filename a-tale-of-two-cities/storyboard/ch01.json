@@ -1,0 +1,81 @@
+{
+ "book": "a-tale-of-two-cities",
+ "part": "Book the First",
+ "chapter": 1,
+ "note": "Chapter I, The Period: the first chapter illustrated in full (16 Nov 2026). Nano Banana 2.1, 2 takes per beat, Claude chooses and places, Ian reviews the chapter. Placement (cue, at) is in chapter-art/ch01.json.",
+ "style": "An oil painting in the manner of nineteenth-century academic history painting: rich palette, dramatic chiaroscuro, visible brushwork, painterly and cinematic, 16:9. England and France in 1775: tricorn hats, greatcoats, knee-breeches, buckled shoes, candle and lantern light, no modern objects.  One single painting that fills the whole 16:9 frame edge to edge. Absolutely no text, lettering, captions, signature, monogram, watermark, border, frame or black bars anywhere. Bodies, arms and objects never pass through doors, walls or each other.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Studios/a-tale-of-two-cities/opening/b1-2-hill-0.jpg"
+ },
+ "people": {
+  "george": "King George III of England in 1775: thirty-seven, a heavy jaw, full pale face, powdered wig, scarlet and ermine robes",
+  "charlotte": "Queen Charlotte of England in 1775: thirty-one, a plain face, powdered hair, a court gown of white and gold",
+  "louis": "King Louis XVI of France in 1775: twenty-one, a large heavy jaw, plump, powdered wig, blue velvet and ermine robes with gold fleurs-de-lis",
+  "marie": "Queen Marie Antoinette of France in 1775: nineteen, a fair, delicate face, high powdered hair with feathers, a pale silk court gown"
+ },
+ "beats": [
+  {
+   "tag": "tc-c01-a",
+   "chapter": 1,
+   "cue": 1,
+   "who": [],
+   "text": "Two cities in 1775 side by side in one wide painting, divided by a narrow sea: on the left London under a bright sky, St Paul's dome above the Thames crowded with ships; on the right Paris under a dark storm, the towers of Notre-Dame and the Seine. Light on one side, gloom on the other. Wide view."
+  },
+  {
+   "tag": "tc-c01-b",
+   "chapter": 1,
+   "cue": 5,
+   "who": [
+    "george",
+    "charlotte",
+    "louis",
+    "marie"
+   ],
+   "text": "Two thrones in one grand painting: on the left the King and Queen of England seated in state; on the right the King and Queen of France seated in state, a gilded palace hall behind each pair, courtiers bowing. The kings both have large jaws. Calm, complacent, splendid."
+  },
+  {
+   "tag": "tc-c01-c",
+   "chapter": 1,
+   "cue": 6,
+   "who": [],
+   "text": "London 1775, night: an eager crowd of curious Londoners packed into a narrow dark lane in front of a shabby old house in Cock Lane, holding candles and lanterns, peering up at a lit upper window where a ghost is said to rap; gentlemen in tricorns, women in hoods. Wide view."
+  },
+  {
+   "tag": "tc-c01-d",
+   "chapter": 1,
+   "cue": 7,
+   "who": [],
+   "text": "France 1775, a muddy town street in heavy rain: a procession of monks in dirty brown habits passes under dripping banners while townspeople kneel in the mud; one young man of nineteen stands apart, not kneeling, and soldiers in blue coats turn to seize him. Grey light, dread."
+  },
+  {
+   "tag": "tc-c01-e",
+   "chapter": 1,
+   "cue": 7,
+   "at": "It is likely enough that, rooted in the woods",
+   "who": [],
+   "text": "A dark French forest in 1775: tall old trees, some marked with a white chalk cross by the woodman; at the edge of the wood, under the eaves of a poor farmhouse, rude wooden carts spattered with mud, pigs snuffing about them and hens roosting on them. Ominous, quiet, cold blue light."
+  },
+  {
+   "tag": "tc-c01-f",
+   "chapter": 1,
+   "cue": 8,
+   "who": [],
+   "text": "An English highway at night in 1775: masked highwaymen on horseback with pistols stop a coach on a lonely heath; the passengers stand by the coach with raised hands, a lantern lit; moonlight through clouds. Wide view."
+  },
+  {
+   "tag": "tc-c01-g",
+   "chapter": 1,
+   "cue": 12,
+   "at": "the Lord Mayor of London, was made to stand and deliver",
+   "who": [],
+   "text": "Turnham Green near London, 1775, by day: the Lord Mayor of London in his scarlet robes and gold chain stands beside his gilded state coach while a single bold highwayman on horseback points a pistol at him; his whole retinue of footmen and attendants stands stock still, robbed in plain sight. Satirical, bright, absurd."
+  },
+  {
+   "tag": "tc-c01-h",
+   "chapter": 1,
+   "cue": 13,
+   "who": [],
+   "text": "The great road out of London toward Dover at dusk in late 1775: a long, empty, muddy road over a dark heath under a vast darkening sky, a single mail coach far off with its lamps lit, the first lights of a town behind. Quiet, wide, foreboding."
+  }
+ ]
+}

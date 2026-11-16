@@ -1,0 +1,40 @@
+{
+ "book": "a-tale-of-two-cities",
+ "part": "Book the First",
+ "chapter": 1,
+ "note": "Chapter I establishing shots in English watercolour (Ian, 16 Nov: watercolour for landscapes and exteriors, to set the mood). The interiors and close scenes stay Victorian narrative painting.",
+ "style": "An English watercolour landscape of the late eighteenth century, in the manner of J. M. W. Turner, Thomas Girtin and John Sell Cotman: transparent washes of colour on warm paper, soft wet edges, broad luminous skies, atmosphere and weather over detail, figures small in the scene. One single watercolour that fills the whole 16:9 frame edge to edge, with no paper edge, mount, frame, border or black bars. Absolutely no text, lettering, captions, signature, monogram or watermark anywhere.",
+ "refs": {},
+ "people": {},
+ "beats": [
+  {
+   "tag": "tc-c01-a-wc",
+   "chapter": 1,
+   "cue": 1,
+   "who": [],
+   "text": "Two cities in 1775 side by side in one wide painting, divided by a narrow sea: on the left London under a bright sky, St Paul's dome above the Thames crowded with ships; on the right Paris under a dark storm, the towers of Notre-Dame and the Seine. Light on one side, gloom on the other. Wide establishing view."
+  },
+  {
+   "tag": "tc-c01-e-wc",
+   "chapter": 1,
+   "cue": 7,
+   "at": "It is likely enough that, rooted in the woods",
+   "who": [],
+   "text": "A dark French forest in 1775: tall old trees, some marked with a white chalk cross by the woodman; at the edge of the wood, under the eaves of a poor farmhouse, rude wooden carts spattered with mud, pigs snuffing about them and hens roosting on them. Ominous, quiet, cold blue light. Wide establishing view."
+  },
+  {
+   "tag": "tc-c01-f-wc",
+   "chapter": 1,
+   "cue": 8,
+   "who": [],
+   "text": "An English highway at night in 1775: masked highwaymen on horseback with pistols stop a coach on a lonely heath; the passengers stand by the coach with raised hands, a lantern lit; moonlight through clouds. Wide establishing view."
+  },
+  {
+   "tag": "tc-c01-h-wc",
+   "chapter": 1,
+   "cue": 13,
+   "who": [],
+   "text": "The great road out of London toward Dover at dusk in late 1775: a long, empty, muddy road over a dark heath under a vast darkening sky, a single mail coach far off with its lamps lit, the first lights of a town behind. Quiet, wide, foreboding. Wide establishing view."
+  }
+ ]
+}

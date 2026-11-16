@@ -1,0 +1,64 @@
+{
+ "book": "a-tale-of-two-cities",
+ "part": "Book the First",
+ "chapter": 1,
+ "note": "Chapter I establishing shots in watercolour, second set (Ian, 16 Nov: the start of the book can spend more time setting the scene; more pictures in chapter 1).",
+ "style": "An English watercolour landscape of the late eighteenth century, in the manner of J. M. W. Turner, Thomas Girtin and John Sell Cotman: transparent washes of colour on warm paper, soft wet edges, broad luminous skies, atmosphere and weather over detail, figures small in the scene. One single watercolour that fills the whole 16:9 frame edge to edge, with no paper edge, mount, frame, border or black bars. Absolutely no text, lettering, captions, signature, monogram or watermark anywhere.",
+ "refs": {},
+ "people": {},
+ "beats": [
+  {
+   "tag": "tc-c01-w1",
+   "chapter": 1,
+   "cue": 1,
+   "who": [],
+   "text": "The English Channel at dawn in 1775 seen from the white cliffs of Dover: a pale sea, a few sails, and far off across the water the low grey line of the French coast, a vast sky with the first light breaking. Wide establishing view."
+  },
+  {
+   "tag": "tc-c01-w2",
+   "chapter": 1,
+   "cue": 4,
+   "who": [],
+   "text": "London from the Thames on a bright spring morning in 1775: St Paul's dome and the church spires above the river, sailing barges and wherries on the water, soft sunlight through haze. Wide establishing view.",
+   "at": "it was the season of Light"
+  },
+  {
+   "tag": "tc-c01-w3",
+   "chapter": 1,
+   "cue": 4,
+   "who": [],
+   "text": "Paris in deep winter in 1775: snow on the grey roofs and the towers of Notre-Dame, the frozen grey Seine, a low heavy sky, a few dark figures hunched on a bridge. Wide establishing view.",
+   "at": "it was the winter of despair"
+  },
+  {
+   "tag": "tc-c01-w4",
+   "chapter": 1,
+   "cue": 6,
+   "who": [],
+   "text": "A small British sailing packet ship crossing a grey, heaving Atlantic in 1775, carrying letters from America to England, rain squalls on the horizon, gulls. Wide establishing view.",
+   "at": "Mere messages in the earthly order"
+  },
+  {
+   "tag": "tc-c01-w5",
+   "chapter": 1,
+   "cue": 7,
+   "who": [],
+   "text": "The French countryside in 1775: a long dusty road winding steeply down a hill past a poor village of stone hovels and a church spire, thin fields, a lone peasant cart, a pale washed-out sky. Wide establishing view."
+  },
+  {
+   "tag": "tc-c01-w6",
+   "chapter": 1,
+   "cue": 8,
+   "who": [],
+   "text": "A London street at night in 1775: tall dark houses, a few feeble oil lamps on brackets, mud and puddles shining, a watchman with a lantern far off, deep shadows in doorways. Wide establishing view."
+  },
+  {
+   "tag": "tc-c01-w7",
+   "chapter": 1,
+   "cue": 12,
+   "who": [],
+   "text": "Newgate Prison in London at grey dawn in 1775: the massive windowless stone walls of the gaol, a few figures waiting by the gate, mist and soot, a cold sky. Wide establishing view.",
+   "at": "prisoners in London gaols"
+  }
+ ]
+}

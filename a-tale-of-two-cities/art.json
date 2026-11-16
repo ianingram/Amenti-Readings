@@ -1,15 +1,38 @@
 {
  "work": "a-tale-of-two-cities",
  "base": "art/",
- "note": "Pictures under the reading (player/art.js). House style: Victorian narrative painting (Ian, 16 Nov 2026). Drawn by Google Nano Banana 2.1 from the storyboard sheets (storyboard/chNN.json), two takes a beat; Claude chooses and places, Ian reviews each chapter. Every picture is cropped 7.5% at the edges to clear painted-in signatures.",
+ "note": "Pictures under the reading (player/art.js). House style: Victorian narrative painting (Ian, 16 Nov 2026). Drawn by Google Nano Banana 2.1 from the storyboard sheets (storyboard/chNN.json), two takes a beat; Claude chooses and places, Ian reviews each chapter. Every picture is cropped 7.5% at the edges to clear painted-in signatures. Establishing shots (landscapes, exteriors) are English watercolour, after Turner, Girtin and Cotman (Ian, 16 Nov).",
  "episodes": {
   "1": [
    {
     "from": 1,
+    "caption": "The Channel at dawn, 1775",
+    "images": [
+     "ch01-w1-1.jpg"
+    ]
+   },
+   {
+    "from": 4,
     "caption": "It was the best of times, it was the worst of times",
     "images": [
-     "ch01-a-1.jpg"
+     "ch01-a-wc-1.jpg"
     ]
+   },
+   {
+    "from": 4,
+    "caption": "It was the season of Light",
+    "images": [
+     "ch01-w2-1.jpg"
+    ],
+    "at": "it was the season of Light"
+   },
+   {
+    "from": 4,
+    "caption": "It was the winter of despair",
+    "images": [
+     "ch01-w3-1.jpg"
+    ],
+    "at": "it was the winter of despair"
    },
    {
     "from": 5,
@@ -26,26 +49,50 @@
     ]
    },
    {
+    "from": 6,
+    "caption": "Messages from a congress of British subjects in America",
+    "images": [
+     "ch01-w4-1.jpg"
+    ],
+    "at": "Mere messages in the earthly order"
+   },
+   {
     "from": 7,
     "caption": "France rolled with exceeding smoothness down hill",
     "images": [
-     "ch01-d-1.jpg"
+     "ch01-w5-1.jpg"
     ]
+   },
+   {
+    "from": 7,
+    "caption": "A dirty procession of monks",
+    "images": [
+     "ch01-d-1.jpg"
+    ],
+    "at": "sentencing a youth"
    },
    {
     "from": 7,
     "caption": "The Woodman, Fate, and the Farmer, Death",
     "images": [
-     "ch01-e-1.jpg"
+     "ch01-e-wc-1.jpg"
     ],
     "at": "It is likely enough that, rooted in the woods"
    },
    {
     "from": 8,
-    "caption": "Daring burglaries by armed men, and highway robberies",
+    "caption": "In England, scarcely order and protection",
     "images": [
-     "ch01-f-1.jpg"
+     "ch01-w6-1.jpg"
     ]
+   },
+   {
+    "from": 8,
+    "caption": "Highway robberies",
+    "images": [
+     "ch01-f-wc-1.jpg"
+    ],
+    "at": "highway robberies"
    },
    {
     "from": 12,
@@ -56,10 +103,18 @@
     "at": "the Lord Mayor of London, was made to stand"
    },
    {
+    "from": 12,
+    "caption": "The London gaols",
+    "images": [
+     "ch01-w7-1.jpg"
+    ],
+    "at": "prisoners in London gaols"
+   },
+   {
     "from": 13,
     "caption": "The year one thousand seven hundred and seventy-five",
     "images": [
-     "ch01-h-1.jpg"
+     "ch01-h-wc-1.jpg"
     ]
    }
   ]

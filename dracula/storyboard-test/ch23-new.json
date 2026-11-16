@@ -1,0 +1,59 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "Chapter XXIII: four new pictures for the two holds the stock could not fill (the supper speech, the trance at dawn), drawn by Google to match the Midjourney paintings (16 Nov 2026).",
+ "style": "A dark, intimate oil painting of 1893 in the manner of the existing paintings: academic realism, deep chiaroscuro, warm candle and lamp light against brown-black shadow, rich glazes, faces lit from one side. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch23-supper-3m.jpg",
+  "mina": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-mina-cross.jpg",
+  "jonathan": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-jonathan-white.jpg",
+  "vanhelsing": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing-2.jpg"
+ },
+ "people": {
+  "mina": "Mina Harker, a young dark-haired Englishwoman of about twenty-five, hair up, a small dark-red cross-shaped burn mark in the centre of her forehead just above the brows",
+  "jonathan": "Jonathan Harker, a grown man of twenty-six with prematurely white hair and a haggard young face, clean-shaven",
+  "vanhelsing": "Professor Van Helsing, an elderly Dutch doctor with short grey hair, bare clean-shaven chin, jaw and upper lip, in a black frock coat"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch23-supper-n1",
+   "chapter": 23,
+   "cue": 54,
+   "who": [
+    "mina",
+    "jonathan"
+   ],
+   "text": "At a supper table in a dim London dining room at night, Mina sits holding her husband Jonathan's hand, turning to him and speaking with great tenderness; candle light on their faces, plates and glasses before them, the other men shadowy around the table."
+  },
+  {
+   "tag": "d3-ch23-supper-n2",
+   "chapter": 23,
+   "cue": 56,
+   "who": [
+    "jonathan",
+    "mina"
+   ],
+   "text": "Close on Jonathan at the supper table: his face darkened and drawn with rage, his hand clenched so tightly round Mina's hand that his knuckles are white; Mina beside him does not flinch, looking at him with pleading love. Candle light."
+  },
+  {
+   "tag": "d3-ch23-supper-n3",
+   "chapter": 23,
+   "cue": 58,
+   "who": [
+    "mina",
+    "vanhelsing"
+   ],
+   "text": "Mina standing at the supper table with tears in her eyes, one hand raised as if begging silence, crying \"Oh, hush!\"; the men round the table bow their heads, the old professor among them with bowed grey head. Candle light, deep shadow."
+  },
+  {
+   "tag": "d3-ch23-trance-n1",
+   "chapter": 23,
+   "cue": 93,
+   "who": [
+    "vanhelsing",
+    "mina"
+   ],
+   "text": "A bedroom at grey dawn: Mina sits rigid upright in bed in a white nightgown, eyes closed in a hypnotic trance; the old professor stands over her, staring fixedly at her face, one hand raised; behind them the window blind half drawn up, the cold first light coming in, other men standing very still in the shadows."
+  }
+ ]
+}

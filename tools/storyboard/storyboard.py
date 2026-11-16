@@ -43,5 +43,5 @@ for b in sheet['beats']:
         for k, im in enumerate(imgs):
             f = '%s-%s-%d.%s' % (b['tag'], m.replace('.', '_'), k, ext); open(os.path.join(out, f), 'wb').write(base64.b64decode(im)); names.append(f)
         print('%-8s %-28s %d image(s) %s' % (b['tag'], m, len(names), ('' if names else json.dumps(d)[:300])), flush=True)
-        log.append({'tag': b['tag'], 'cue': b['cue'], 'mj': b.get('mj'), 'chapter': b.get('chapter'), 'model': m, 'files': names, 'text': d.get('text') or d.get('detail')})
+        log.append({'tag': b['tag'], 'cue': b.get('cue'), 'mj': b.get('mj'), 'chapter': b.get('chapter'), 'model': m, 'files': names, 'text': d.get('text') or d.get('detail')})
 json.dump(log, open(os.path.join(out, 'takes.json'), 'w'), indent=1)

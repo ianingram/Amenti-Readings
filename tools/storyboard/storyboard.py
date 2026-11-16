@@ -22,6 +22,10 @@ for b in sheet['beats']:
         prompt = lead + 'Scene: ' + b['text'] + (' People: ' + who + '.' if who else '') + ' Style: ' + sheet['style']
         body = {'model': m, 'prompt': prompt, 'aspect': '16:9', 'n': n}
         if gem and refs: body['refs'] = refs
+        if b.get('edit'):   # repair an existing painting: the image goes in, the change is described, the rest is kept
+            body['refs'] = [b['edit']] + refs[:3]
+            body['prompt'] = ('Edit the first image, a finished oil painting. ' + b['text'] + ' Change nothing else: keep the same '
+                              'composition, framing, people, faces, light, colours, brushwork and aspect ratio. No text, signature or border.')
         time.sleep(float(os.environ.get('PACE', '12')))  # Vertex's per-minute image quota
         for attempt in range(5):
             req = urllib.request.Request(URL, json.dumps(body).encode(), {'Content-Type': 'application/json', 'x-amenti-render': KEY, 'User-Agent': 'Mozilla/5.0 amenti-storyboard'})

@@ -1,0 +1,68 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "people": {},
+ "note": "Chapter XVII fill shots (Ian, 16 Nov): exteriors, far angles, window views, down the hall \u2014 general shapes to rest the eye while the story is told.",
+ "style": "A dark, atmospheric oil painting of 1893 in the manner of the reference: academic realism, deep chiaroscuro, a wide view from far back, the room or place more than the people. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch17-phonograph-3.jpg"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17-w-study",
+   "chapter": 17,
+   "cue": 31,
+   "who": [],
+   "text": "A wide view of a doctor's study in an asylum, 1893, seen from the far corner of the room: book-lined walls, a big desk, a phonograph with a brass horn, a tall window with afternoon light, a dark-haired young woman in black standing small in the doorway. Any people are small, distant figures with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch17-w-window",
+   "chapter": 17,
+   "cue": 52,
+   "who": [],
+   "text": "Looking out through the tall window of the study from inside, 1893: the asylum lawn and elms in soft afternoon light, rain-streaked glass, heavy curtains framing it, the edge of a desk and a lamp in the foreground; the room quiet and empty."
+  },
+  {
+   "tag": "d3-ch17-w-stairs",
+   "chapter": 17,
+   "cue": 63,
+   "who": [],
+   "text": "A wide high view looking down the asylum staircase at night, 1893: a long stair hall with dark panelling, a candle carried by a small figure far below, shadows climbing the walls. Any people are small, distant figures with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch17-w-hall",
+   "chapter": 17,
+   "cue": 70,
+   "who": [],
+   "text": "A long, dim asylum corridor at dusk, 1893, seen from one end: polished floor reflecting a row of tall windows, doors along one side, a single gas jet lit far down the passage, empty."
+  },
+  {
+   "tag": "d3-ch17-w-typing",
+   "chapter": 17,
+   "cue": 77,
+   "who": [],
+   "text": "A wide view of the study at night from the doorway, 1893: two small figures at a desk lit by one lamp, a typewriter and phonograph, stacks of paper, the rest of the big room sunk in brown-black shadow. Any people are small, distant figures with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch17-w-sitting",
+   "chapter": 17,
+   "cue": 99,
+   "who": [],
+   "text": "A wide view of a drawing-room in the asylum, 1893, seen from the far end: grey afternoon light from tall windows, a fire, three small figures near the hearth, one man turned away with his face in his hands. Any people are small, distant figures with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch17-w-corridor",
+   "chapter": 17,
+   "cue": 113,
+   "who": [],
+   "text": "A long asylum corridor in evening light, 1893: a man in a travelling coat stands far off at a window, a woman approaching him down the passage, the floor shining with reflected sunset. Any people are small, distant figures with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch17-w-night",
+   "chapter": 17,
+   "cue": 121,
+   "who": [],
+   "text": "Exterior, the asylum at night, 1893, seen from the garden: dark mass of the building with a few windows lit gold, the moon behind thin cloud, and beyond the wall the black shape of the old house Carfax among trees."
+  }
+ ]
+}

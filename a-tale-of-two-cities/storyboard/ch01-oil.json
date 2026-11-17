@@ -1,0 +1,55 @@
+{
+ "book": "a-tale-of-two-cities",
+ "part": "Book the First",
+ "chapter": 1,
+ "note": "Chapter I opening redrawn as strong oil scenes in place of the pale watercolours (Ian, 17 Nov).",
+ "style": "An oil painting in the manner of nineteenth-century English narrative and history painting (Frith, Fildes, Holl): rich dark palette, dramatic chiaroscuro, visible brushwork, a strong, weighty painted statement, 16:9. England and France in 1775: tricorn hats, greatcoats, knee-breeches, buckled shoes, candle and lantern light, no modern objects. One single painting that fills the whole 16:9 frame edge to edge. Absolutely no text, lettering, captions, signature, monogram, watermark, border, frame or black bars anywhere. Bodies, arms and objects never pass through doors, walls or each other.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Studios/a-tale-of-two-cities/opening/b1-6-garret-1.jpg"
+ },
+ "people": {},
+ "beats": [
+  {
+   "tag": "tc-c01-oroad",
+   "chapter": 1,
+   "cue": 1,
+   "who": [],
+   "text": "The Dover Road at night in 1775: a heavy mail coach labouring up a steep muddy hill in thick mist, its lamps glowing, the guard with a blunderbuss on the roof, bare trees, a cold moon smothered in fog. Far view; figures small."
+  },
+  {
+   "tag": "tc-c01-obest",
+   "chapter": 1,
+   "cue": 4,
+   "who": [],
+   "text": "A London street in 1775 on a grey day: a gilded carriage with liveried footmen splashes past ragged barefoot children and a beggar woman in the mud; fine ladies at a lit shop window, the poor in shadow. The best of times and the worst in one picture. Wide view."
+  },
+  {
+   "tag": "tc-c01-olight",
+   "chapter": 1,
+   "cue": 4,
+   "who": [],
+   "text": "Inside a great cathedral in 1775: shafts of golden light fall through tall windows onto a few kneeling figures, while the side aisles sink into deep darkness. The season of Light and the season of Darkness. Wide view, figures small."
+  },
+  {
+   "tag": "tc-c01-owinter",
+   "chapter": 1,
+   "cue": 4,
+   "who": [],
+   "text": "A Paris street in deep winter, 1775: snow on the cobbles, a starving family huddled round a dying brazier in a doorway, while above them the tall windows of a nobleman's hotel blaze with candlelight and dancing shadows. Wide view."
+  },
+  {
+   "tag": "tc-c01-oheaven",
+   "chapter": 1,
+   "cue": 4,
+   "who": [],
+   "text": "London in 1775 at dusk: a church spire glowing against a stormy sky with bells ringing, and on the far hill at Tyburn the dark shape of the gallows with a crowd gathering. Heaven and the other way. Far view, figures small."
+  },
+  {
+   "tag": "tc-c01-opaper",
+   "chapter": 1,
+   "cue": 7,
+   "who": [],
+   "text": "A gilded salon at Versailles in 1775: powdered courtiers in silks laughing over a gaming table heaped with paper money and gold, servants pouring wine, candles everywhere; through a tall window, a grey and hungry countryside. Wide view."
+  }
+ ]
+}

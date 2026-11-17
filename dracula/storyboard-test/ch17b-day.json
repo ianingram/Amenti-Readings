@@ -1,0 +1,122 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "Chapter XVII full pass in the Book I painting style (Ian, 17 Nov), shot-sized.",
+ "style": "A cinematic Romantic oil painting of 1893 in the exact manner of the reference painting: academic realism with dramatic chiaroscuro, luminous grey daylight and soft sky, cool shadow, atmospheric haze and shafts of light, deep architectural space, rich painterly brushwork. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch01-b5-2.jpg",
+  "mina": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg",
+  "seward": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg",
+  "jonathan": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-jonathan-white.jpg",
+  "arthur": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg",
+  "quincey": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-quincey.jpg",
+  "vh": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing-2.jpg"
+ },
+ "people": {
+  "mina": "Mina Harker, a young dark-haired Englishwoman of about twenty-five, hair pinned up, a plain dark dress with a white high collar; no mark on her face",
+  "seward": "Dr John Seward, a doctor of about thirty, dark hair, bare clean-shaven face with no beard, no moustache and no spectacles, dark frock coat",
+  "jonathan": "Jonathan Harker, a grown man of twenty-six with snow-white hair and a young clean-shaven face, dark suit",
+  "arthur": "Arthur Holmwood, Lord Godalming, a tall young English nobleman of about thirty, dark curly hair, clean-shaven, in black mourning clothes",
+  "quincey": "Quincey Morris, a tall lean Texan of about thirty with a moustache, in a travelling coat and wide hat",
+  "vh": "Professor Van Helsing, a stocky elderly Dutch doctor of about sixty, grey hair, bare clean-shaven face with no beard and no moustache, dark frock coat"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17b-x-hotel",
+   "chapter": 17,
+   "cue": 3,
+   "who": "",
+   "text": "Shot: establishing, far. A grand London hotel front in Piccadilly on a grey September morning, hansom cabs at the kerb, wet pavement, gas lamps, tall stone buildings in haze."
+  },
+  {
+   "tag": "d3-ch17b-cab",
+   "chapter": 17,
+   "cue": 15,
+   "who": [],
+   "text": "Shot: wide. A hansom cab drives away down a busy London street toward a railway station in grey morning light; omnibuses, crowds, wet cobbles."
+  },
+  {
+   "tag": "d3-ch17b-x-paddington",
+   "chapter": 17,
+   "cue": 15,
+   "who": [],
+   "text": "Shot: establishing, far. Paddington Station: the vast iron-and-glass train shed seen from far down the platform, a steam train coming in under the arched roof, shafts of daylight through steam, crowds small on the platform."
+  },
+  {
+   "tag": "d3-ch17b-jarrives",
+   "chapter": 17,
+   "cue": 80,
+   "who": [
+    "jonathan"
+   ],
+   "text": "Shot: wide. Morning: a cab on the gravel drive before the asylum porch; a white-haired young man steps down with a travelling bag; elms, grey sky."
+  },
+  {
+   "tag": "d3-ch17b-x-whitby",
+   "chapter": 17,
+   "cue": 85,
+   "who": [],
+   "text": "Shot: establishing, far. Whitby harbour from the West Cliff on a clear September day: red roofs down both banks, fishing boats, the ruined abbey on the East Cliff against the sky, the piers running out to a grey-blue sea."
+  },
+  {
+   "tag": "d3-ch17b-stationmaster",
+   "chapter": 17,
+   "cue": 85,
+   "who": [
+    "jonathan"
+   ],
+   "text": "Shot: medium. The station-master's office at Whitby: the white-haired young man and an old station-master in uniform bent over an invoice book by a window full of sea light."
+  },
+  {
+   "tag": "d3-ch17b-x-kingscross",
+   "chapter": 17,
+   "cue": 86,
+   "who": [],
+   "text": "Shot: establishing, far. King's Cross station front, early morning: the twin great arched windows and clock tower, drays and carts in the forecourt, pale sun in smoky air, people small."
+  },
+  {
+   "tag": "d3-ch17b-foreman",
+   "chapter": 17,
+   "cue": 86,
+   "who": [
+    "jonathan"
+   ],
+   "text": "Shot: medium. In a goods office at King's Cross, a foreman in a cap shows the white-haired young man a delivery book; through the open door, carts and stacked crates in the goods yard."
+  },
+  {
+   "tag": "d3-ch17b-x-depot",
+   "chapter": 17,
+   "cue": 87,
+   "who": [],
+   "text": "Shot: establishing, far. A big London carrier's depot: wide gates, horse-drawn vans loading crates, carters in aprons, cobbles, brick warehouses, sunlight through smoke; people small."
+  },
+  {
+   "tag": "d3-ch17b-clerks",
+   "chapter": 17,
+   "cue": 87,
+   "who": [
+    "jonathan"
+   ],
+   "text": "Shot: wide. Inside a carrier's busy counting-house: clerks at high desks under tall windows, one looking up an entry in a great day-book for the white-haired young gentleman."
+  },
+  {
+   "tag": "d3-ch17b-carter",
+   "chapter": 17,
+   "cue": 88,
+   "who": [
+    "jonathan"
+   ],
+   "text": "Shot: medium. In a plain working-class kitchen, a burly carter in shirt-sleeves with a pot of beer gestures as he tells his story to the white-haired young gentleman, who takes notes."
+  },
+  {
+   "tag": "d3-ch17b-papers",
+   "chapter": 17,
+   "cue": 92,
+   "who": [
+    "mina",
+    "jonathan"
+   ],
+   "text": "Shot: medium. A sunlit sitting-room: the young dark-haired woman and the white-haired young man sit at a table covered with letters and typed pages, putting them in order; tall window, morning light."
+  }
+ ]
+}

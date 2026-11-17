@@ -1,0 +1,165 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "Chapter XVII full pass in the Book I painting style (Ian, 17 Nov), shot-sized.",
+ "style": "A cinematic Romantic oil painting of 1893 in the exact manner of the reference painting: academic realism with dramatic chiaroscuro, warm amber lamplight and firelight against deep brown-black shadow, a cool blue window, atmospheric haze and shafts of light, deep architectural space, rich painterly brushwork. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch03-b1-1.jpg",
+  "mina": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg",
+  "seward": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg",
+  "jonathan": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-jonathan-white.jpg",
+  "arthur": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg",
+  "quincey": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-quincey.jpg",
+  "vh": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing-2.jpg"
+ },
+ "people": {
+  "mina": "Mina Harker, a young dark-haired Englishwoman of about twenty-five, hair pinned up, a plain dark dress with a white high collar; no mark on her face",
+  "seward": "Dr John Seward, a doctor of about thirty, dark hair, bare clean-shaven face with no beard, no moustache and no spectacles, dark frock coat",
+  "jonathan": "Jonathan Harker, a grown man of twenty-six with snow-white hair and a young clean-shaven face, dark suit",
+  "arthur": "Arthur Holmwood, Lord Godalming, a tall young English nobleman of about thirty, dark curly hair, clean-shaven, in black mourning clothes",
+  "quincey": "Quincey Morris, a tall lean Texan of about thirty with a moustache, in a travelling coat and wide hat",
+  "vh": "Professor Van Helsing, a stocky elderly Dutch doctor of about sixty, grey hair, bare clean-shaven face with no beard and no moustache, dark frock coat"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17b-reading",
+   "chapter": 17,
+   "cue": 65,
+   "who": [
+    "seward"
+   ],
+   "text": "Shot: wide. The study in fading afternoon light: the doctor absorbed in bundles of typewritten diaries spread over his desk, the window going blue, lamp not yet lit."
+  },
+  {
+   "tag": "d3-ch17b-redeyes",
+   "chapter": 17,
+   "cue": 65,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Shot: medium. At the door of her small sitting-room the young woman meets the doctor; her eyes are red with weeping, the phonograph on the table behind her."
+  },
+  {
+   "tag": "d3-ch17b-hand",
+   "chapter": 17,
+   "cue": 70,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Shot: close. Close: the young woman lays her hand on the doctor's hand on the table and speaks gravely; warm lamplight on the two hands and her face."
+  },
+  {
+   "tag": "d3-ch17b-typing",
+   "chapter": 17,
+   "cue": 76,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Shot: wide, far. The study at night from the doorway: two small figures at a desk in one pool of lamplight, a typewriter and phonograph, the rest of the room in deep shadow, blue moonlight at the window."
+  },
+  {
+   "tag": "d3-ch17b-powerless",
+   "chapter": 17,
+   "cue": 77,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Shot: medium. The young woman lies back in her chair, pale and spent, the phonograph earpieces in her lap; the doctor has jumped up with a horrified face and pours brandy from a decanter."
+  },
+  {
+   "tag": "d3-ch17b-greet",
+   "chapter": 17,
+   "cue": 80,
+   "who": [
+    "jonathan",
+    "seward"
+   ],
+   "text": "Shot: medium. In the hall of the asylum the young doctor shakes hands with the energetic white-haired young man; morning light through a tall window."
+  },
+  {
+   "tag": "d3-ch17b-o-harkers",
+   "chapter": 17,
+   "cue": 81,
+   "who": [
+    "mina",
+    "jonathan"
+   ],
+   "text": "Shot: looking in from outside. From the dark garden, an upstairs window of the asylum lit gold: inside, a young woman types while a white-haired young man sorts papers beside her; rain on the glass."
+  },
+  {
+   "tag": "d3-ch17b-renfield",
+   "chapter": 17,
+   "cue": 83,
+   "who": [
+    "seward"
+   ],
+   "text": "Shot: medium. A bare whitewashed asylum cell: a patient in a rough shirt sits placidly on the edge of an iron bed, hands folded, while the doctor watches from the doorway with a lamp."
+  },
+  {
+   "tag": "d3-ch17b-visitors",
+   "chapter": 17,
+   "cue": 95,
+   "who": [
+    "mina",
+    "arthur",
+    "quincey"
+   ],
+   "text": "Shot: wide. A drawing-room at the asylum on a grey afternoon: the young woman receives a tall young nobleman in black mourning and a lean Texan with a moustache; fire in the grate."
+  },
+  {
+   "tag": "d3-ch17b-wrote",
+   "chapter": 17,
+   "cue": 96,
+   "who": [
+    "arthur",
+    "mina"
+   ],
+   "text": "Shot: medium. The tall clean-shaven young nobleman in mourning holds a thick typed manuscript and asks the young woman if she wrote it all; she nods gravely."
+  },
+  {
+   "tag": "d3-ch17b-weeps",
+   "chapter": 17,
+   "cue": 99,
+   "who": [
+    "arthur",
+    "quincey",
+    "mina"
+   ],
+   "text": "Shot: medium. The tall young nobleman has turned away and covered his face with his hands; the Texan lays a hand on his shoulder before quietly leaving; the young woman watches with pity."
+  },
+  {
+   "tag": "d3-ch17b-sofa",
+   "chapter": 17,
+   "cue": 102,
+   "who": [
+    "arthur",
+    "mina"
+   ],
+   "text": "Shot: wide, far. The drawing-room from the far end, grey light at tall windows and a low fire: on a sofa the young nobleman weeps, his head on the young woman's shoulder."
+  },
+  {
+   "tag": "d3-ch17b-clasp",
+   "chapter": 17,
+   "cue": 107,
+   "who": [
+    "mina",
+    "arthur"
+   ],
+   "text": "Shot: close. Close: the young woman and the young nobleman clasp hands, his eyes wet, hers kind; firelight."
+  },
+  {
+   "tag": "d3-ch17b-kiss",
+   "chapter": 17,
+   "cue": 118,
+   "who": [
+    "quincey",
+    "mina"
+   ],
+   "text": "Shot: medium. By a corridor window in evening light, the lean Texan with a moustache stoops to kiss the young woman's hand."
+  }
+ ]
+}

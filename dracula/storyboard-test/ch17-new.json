@@ -1,0 +1,251 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "Chapter XVII rework (Ian, 16 Nov: \"17 needs the most work\"): new beats that follow the text, drawn by Google with a Dracula painting as the style reference and the cast portraits for faces.",
+ "style": "A dark, intimate oil painting of 1893 in the manner of the existing paintings: academic realism, deep chiaroscuro, warm lamp and window light against brown-black shadow, rich glazes. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch17-phonograph-3.jpg",
+  "mina": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg",
+  "seward": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg",
+  "jonathan": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-jonathan-white.jpg",
+  "arthur": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg",
+  "quincey": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-quincey.jpg"
+ },
+ "people": {
+  "mina": "Mina Harker, a young dark-haired Englishwoman of about twenty-five, hair pinned up, a plain dark dress with a white high collar; no mark on her face",
+  "seward": "Dr John Seward, a doctor of about thirty, dark hair, bare clean-shaven face with no beard and no moustache, dark frock coat",
+  "jonathan": "Jonathan Harker, a grown man of twenty-six with prematurely white hair and a young face, clean-shaven, dark suit",
+  "arthur": "Arthur Holmwood, Lord Godalming, a tall young English nobleman of about thirty in black mourning clothes",
+  "quincey": "Quincey Morris, a tall lean Texan of about thirty with a moustache, in a travelling coat"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17-meet",
+   "chapter": 17,
+   "cue": 16,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "On a crowded Paddington railway platform in 1893, steam and iron girders behind, a sweet-faced young woman holds out her gloved hand to the doctor, who has just recognised her; porters and travellers around them.",
+   "at": "a sweet-faced, dainty-looking girl"
+  },
+  {
+   "tag": "d3-ch17-underground",
+   "chapter": 17,
+   "cue": 21,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Inside a gas-lit carriage of the London Underground railway in 1893: the doctor and the young woman sit opposite each other on wooden benches, her small typewriter case on the floor at her feet, the dark tunnel wall beyond the window."
+  },
+  {
+   "tag": "d3-ch17-sees",
+   "chapter": 17,
+   "cue": 28,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "A doctor's study at an asylum: the young woman stands in the doorway, surprised and curious, looking at a phonograph with a brass horn on the table, the doctor rising from his chair beside it, alone in the room."
+  },
+  {
+   "tag": "d3-ch17-horror",
+   "chapter": 17,
+   "cue": 47,
+   "who": [
+    "seward",
+    "mina"
+   ],
+   "text": "In the study, the doctor recoils with a horror-struck face, one hand raised as if to ward off the question; the young woman watches him gravely, a terrible feeling coming over her."
+  },
+  {
+   "tag": "d3-ch17-honest",
+   "chapter": 17,
+   "cue": 52,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "In the study, the young woman cannot help smiling, and the doctor grimaces sheepishly, caught out like a boy, one hand on the phonograph."
+  },
+  {
+   "tag": "d3-ch17-pallor",
+   "chapter": 17,
+   "cue": 57,
+   "who": [
+    "seward",
+    "mina"
+   ],
+   "text": "In the study, the doctor turns deathly pale and shakes his head, while the young woman, seated by the phonograph, quietly offers to copy his diary on her typewriter."
+  },
+  {
+   "tag": "d3-ch17-typed",
+   "chapter": 17,
+   "cue": 59,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "In the study, the young woman points to a great batch of typewritten pages on the table and speaks earnestly; the doctor looks at the papers, his resistance giving way.",
+   "at": "For a moment I thought"
+  },
+  {
+   "tag": "d3-ch17-carries",
+   "chapter": 17,
+   "cue": 63,
+   "who": [
+    "seward",
+    "mina"
+   ],
+   "text": "The doctor carries the heavy phonograph up a staircase in the asylum himself, the young woman going ahead with a candle, lamplight on the banisters."
+  },
+  {
+   "tag": "d3-ch17-reading",
+   "chapter": 17,
+   "cue": 65,
+   "who": [
+    "seward"
+   ],
+   "text": "Late afternoon in the doctor's study: he sits absorbed in reading thick bundles of typewritten diaries, papers spread all over his desk, the light fading at the window, utterly forgetting the time."
+  },
+  {
+   "tag": "d3-ch17-redeyes",
+   "chapter": 17,
+   "cue": 65,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "At the door of her sitting-room, the young woman meets the doctor; her eyes are red and swollen with weeping, the phonograph visible on the table behind her; he looks at her with deep concern.",
+   "at": "Mrs. Harker was not down"
+  },
+  {
+   "tag": "d3-ch17-hand",
+   "chapter": 17,
+   "cue": 70,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "In a lamplit sitting-room, the young woman lays her hand on the doctor's hand and speaks very gravely to him; he looks down, moved."
+  },
+  {
+   "tag": "d3-ch17-powerless",
+   "chapter": 17,
+   "cue": 77,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "In the study at night, the young woman lies back in her chair, powerless and pale after listening, the phonograph earpieces fallen in her lap; the doctor has jumped up with a horrified face and is reaching for a decanter of brandy."
+  },
+  {
+   "tag": "d3-ch17-arrives",
+   "chapter": 17,
+   "cue": 80,
+   "who": [
+    "jonathan",
+    "seward"
+   ],
+   "text": "Morning at the asylum: a young man with prematurely white hair, full of energy, strides in through the hall carrying a travelling bag and shakes the doctor's hand."
+  },
+  {
+   "tag": "d3-ch17-whitby",
+   "chapter": 17,
+   "cue": 85,
+   "who": [
+    "jonathan"
+   ],
+   "text": "The station-master's office at Whitby in 1893: the white-haired young man leans over a desk studying the invoice for fifty great boxes of earth, the station-master pointing at a ledger, sea light through the window."
+  },
+  {
+   "tag": "d3-ch17-kingscross",
+   "chapter": 17,
+   "cue": 86,
+   "who": [
+    "jonathan"
+   ],
+   "text": "The goods office at King's Cross station in 1893: the white-haired young man questions a foreman in a cap, who shows him a delivery book; behind them, carts and stacked crates in the goods yard."
+  },
+  {
+   "tag": "d3-ch17-office",
+   "chapter": 17,
+   "cue": 87,
+   "who": [
+    "jonathan"
+   ],
+   "text": "The busy counting-house of a London carrier's office in 1893: clerks at high desks look up an entry in a great day-book for the white-haired young gentleman; a telephone on the wall."
+  },
+  {
+   "tag": "d3-ch17-chapel",
+   "chapter": 17,
+   "cue": 90,
+   "who": [],
+   "text": "The old ruined chapel of Carfax at night: fifty great wooden boxes of earth stacked in the dust and shadows, cobwebs, a shaft of moonlight from a broken window. No people."
+  },
+  {
+   "tag": "d3-ch17-visitors",
+   "chapter": 17,
+   "cue": 95,
+   "who": [
+    "mina",
+    "arthur",
+    "quincey"
+   ],
+   "text": "A drawing-room at the asylum: the young woman receives two visitors, a tall young nobleman in black mourning and a lean Texan with a moustache, a painful meeting; grey afternoon light."
+  },
+  {
+   "tag": "d3-ch17-wrote",
+   "chapter": 17,
+   "cue": 96,
+   "who": [
+    "arthur",
+    "mina"
+   ],
+   "text": "In the drawing-room the tall young nobleman in mourning holds a thick typewritten manuscript and asks the young woman whether she wrote all of it; she nods."
+  },
+  {
+   "tag": "d3-ch17-shoulder",
+   "chapter": 17,
+   "cue": 99,
+   "who": [
+    "arthur",
+    "quincey",
+    "mina"
+   ],
+   "text": "The tall young nobleman in mourning has turned away and covered his face with his hands; the Texan lays a hand on his shoulder for a moment before quietly leaving the room; the young woman watches with pity."
+  },
+  {
+   "tag": "d3-ch17-clasp",
+   "chapter": 17,
+   "cue": 107,
+   "who": [
+    "mina",
+    "arthur"
+   ],
+   "text": "In the drawing-room, the young woman and the tall young nobleman in mourning clasp hands, his eyes wet, hers kind."
+  },
+  {
+   "tag": "d3-ch17-kiss",
+   "chapter": 17,
+   "cue": 118,
+   "who": [
+    "quincey",
+    "mina"
+   ],
+   "text": "In a long asylum corridor by a window, the lean Texan with a moustache stoops and takes the young woman's hand and kisses it, moved; evening light through the window.",
+   "at": "He saw that I was in earnest"
+  },
+  {
+   "tag": "d3-ch17-alone",
+   "chapter": 17,
+   "cue": 121,
+   "who": [
+    "mina"
+   ],
+   "text": "The young woman stands alone in the dim corridor, her eyes red, one hand at her throat, deeply moved, looking after the men."
+  }
+ ]
+}

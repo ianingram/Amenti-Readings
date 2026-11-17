@@ -1,0 +1,27 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "XVII cue 25 redrawn (Ian, 16 Nov): Mina at the study door hearing Seward dictate.",
+ "style": "A dark, intimate oil painting of 1893 in the manner of the reference: academic realism, deep chiaroscuro, warm lamp light against brown-black shadow, rich glazes. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch17-phonograph-3.jpg",
+  "mina": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg",
+  "seward": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg"
+ },
+ "people": {
+  "mina": "Mina Harker, a young dark-haired Englishwoman of about twenty-five, hair pinned up, a plain dark dress with a white high collar; no mark on her face",
+  "seward": "Dr John Seward, a doctor of about thirty, dark hair, bare clean-shaven face with no beard and no moustache, dark frock coat"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17-door",
+   "chapter": 17,
+   "cue": 25,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Seen from a dim hallway of the asylum: the young woman has paused just outside a half-open study door, one hand on the door frame, her head turned to listen. Through the gap, warm lamplight: the doctor sits alone at his desk speaking into the speaking-tube of an Edison phonograph with a wax cylinder, no one else in the room. Dark panelled hall in the foreground, the lit room beyond."
+  }
+ ]
+}

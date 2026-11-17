@@ -5833,9 +5833,9 @@
   "17": [
    {
     "from": 3,
-    "caption": "29 September",
     "images": [
      "ch17-x-berkeley.jpg",
+     "ch17b-telegram.jpg",
      "ch17-hotel-v11.jpg",
      "ch17-hotel-b2.jpg"
     ]
@@ -5854,7 +5854,7 @@
    {
     "from": 10,
     "images": [
-     "ch17-hotel-0.jpg",
+     "ch17b-take.jpg",
      "ch17-o-hotel.jpg",
      "ch17-hotel-v10.jpg"
     ]
@@ -5862,6 +5862,7 @@
    {
     "from": 15,
     "images": [
+     "ch17b-cab.jpg",
      "ch17-x-paddington.jpg",
      "ch17-paddington-u0.jpg",
      "ch17-paddington-1.jpg"
@@ -5870,14 +5871,14 @@
    {
     "from": 16,
     "images": [
-     "ch17-meet-n.jpg"
+     "ch17b-meet.jpg"
     ],
     "at": "a sweet-faced, dainty-looking girl"
    },
    {
     "from": 21,
     "images": [
-     "ch17-underground-n.jpg"
+     "ch17b-underground.jpg"
     ]
    },
    {
@@ -5885,21 +5886,20 @@
     "images": [
      "ch17-x-purfleet-2.jpg",
      "ch17-asylum-0.jpg",
-     "ch17-asylum-3.jpg",
+     "ch17b-hall.jpg",
      "ch17-asylum-u0.jpg"
     ]
    },
    {
     "from": 25,
-    "caption": "",
     "images": [
-     "ch17-door-n.jpg"
+     "ch17b-door.jpg"
     ]
    },
    {
     "from": 28,
     "images": [
-     "ch17-sees-n.jpg"
+     "ch17b-study.jpg"
     ]
    },
    {
@@ -5919,32 +5919,26 @@
    {
     "from": 47,
     "images": [
-     "ch17-horror-n.jpg"
+     "ch17b-horror.jpg"
     ]
    },
    {
     "from": 52,
     "images": [
-     "ch17-honest-n.jpg",
      "ch17-w-window.jpg"
     ]
    },
    {
     "from": 57,
     "images": [
-     "ch17-pallor-n.jpg"
+     "ch17b-offer.jpg",
+     "ch17b-o-study.jpg"
     ]
-   },
-   {
-    "from": 59,
-    "images": [
-     "ch17-typed-n.jpg"
-    ],
-    "at": "For a moment I thought"
    },
    {
     "from": 61,
     "images": [
+     "ch17b-drawer.jpg",
      "ch17-o-drawer.jpg",
      "ch17-drawer-2.jpg",
      "ch17-drawer-u0-g.jpg"
@@ -5953,22 +5947,21 @@
    {
     "from": 63,
     "images": [
-     "ch17-carries-n.jpg",
+     "ch17b-stairs.jpg",
      "ch17-w-stairs.jpg"
     ]
    },
    {
     "from": 65,
     "images": [
-     "ch17-x-thames.jpg",
-     "ch17-reading-n.jpg"
+     "ch17-x-thames.jpg"
     ]
    },
    {
     "from": 65,
     "images": [
      "ch17-o-sitting.jpg",
-     "ch17-redeyes-n.jpg",
+     "ch17b-redeyes.jpg",
      "ch17-listening-1-g.jpg"
     ],
     "at": "Mrs. Harker was not down"
@@ -5976,15 +5969,22 @@
    {
     "from": 70,
     "images": [
-     "ch17-hand-n.jpg",
+     "ch17b-hand.jpg",
      "ch17-w-hall.jpg",
      "ch17-listening-0.jpg",
      "ch17-listening-2.jpg"
     ]
    },
    {
+    "from": 74,
+    "images": [
+     "ch17b-o-night.jpg"
+    ]
+   },
+   {
     "from": 76,
     "images": [
+     "ch17b-typing.jpg",
      "ch17-typing-1-g.jpg",
      "ch17-o-typing.jpg"
     ]
@@ -5992,7 +5992,7 @@
    {
     "from": 77,
     "images": [
-     "ch17-powerless-n.jpg",
+     "ch17b-powerless.jpg",
      "ch17-w-typing.jpg",
      "ch17-typing-2-g.jpg",
      "ch17-typing-3-g.jpg"
@@ -6001,40 +6001,40 @@
    {
     "from": 80,
     "images": [
-     "ch17-arrives-n.jpg",
+     "ch17b-jarrives.jpg",
      "ch17-papers-0-g.jpg"
     ]
    },
    {
     "from": 81,
     "images": [
-     "ch17-o-harkers.jpg"
+     "ch17-o-harkers.jpg",
+     "ch17b-o-harkers.jpg"
     ]
    },
    {
     "from": 82,
-    "caption": "",
     "images": [
+     "ch17b-carfaxwin.jpg",
      "ch17-x-carfax.jpg",
+     "ch17b-x-carfax.jpg",
      "ch17-carfax-u0.jpg",
-     "ch17-carfax-3.jpg",
-     "ch17-carfax-1.jpg"
+     "ch17-carfax-3.jpg"
     ]
    },
    {
     "from": 83,
     "images": [
      "ch17-o-renfield.jpg",
+     "ch17b-renfield.jpg",
      "ch17-renfield-3.jpg",
-     "ch17-renfield-0.jpg",
-     "ch17-renfield-u0.jpg"
+     "ch17-renfield-0.jpg"
     ]
    },
    {
     "from": 85,
     "images": [
      "ch17-x-whitby.jpg",
-     "ch17-whitby-n.jpg",
      "ch17-goods-1.jpg",
      "ch17-goods-3.jpg",
      "ch17-goods-2.jpg"
@@ -6044,7 +6044,6 @@
     "from": 86,
     "images": [
      "ch17-x-kingscross.jpg",
-     "ch17-kingscross-n.jpg",
      "ch17-goods-0.jpg"
     ]
    },
@@ -6052,7 +6051,7 @@
     "from": 87,
     "images": [
      "ch17-x-street.jpg",
-     "ch17-office-n.jpg",
+     "ch17b-x-depot.jpg",
      "ch17-carter-1.jpg"
     ]
    },
@@ -6067,36 +6066,35 @@
     "from": 90,
     "images": [
      "ch17-x-chapel.jpg",
-     "ch17-chapel-n.jpg"
+     "ch17b-chapel.jpg"
     ]
    },
    {
     "from": 92,
-    "caption": "",
     "images": [
      "ch17-papers-3-g.jpg",
-     "ch18-manuscripts-3.jpg",
      "ch17-papers-1-g.jpg"
     ]
    },
    {
     "from": 95,
     "images": [
-     "ch17-x-evening.jpg",
-     "ch17-visitors-n.jpg",
+     "ch17b-x-evening.jpg",
+     "ch17b-visitors.jpg",
      "ch17-comfort-0.jpg"
     ]
    },
    {
     "from": 96,
     "images": [
-     "ch17-wrote-n-g.jpg"
+     "ch17b-wrote.jpg"
     ]
    },
    {
     "from": 99,
     "images": [
      "ch17-o-drawing.jpg",
+     "ch17b-weeps.jpg",
      "ch17-comfort-1.jpg"
     ]
    },
@@ -6104,20 +6102,20 @@
     "from": 102,
     "images": [
      "ch17-comfort-3.jpg",
-     "ch17-w-sitting.jpg",
+     "ch17b-sofa.jpg",
      "ch17-comfort-2.jpg"
     ]
    },
    {
     "from": 107,
     "images": [
-     "ch17-clasp-n.jpg"
+     "ch17b-clasp.jpg"
     ]
    },
    {
     "from": 113,
     "images": [
-     "ch17-w-corridor.jpg",
+     "ch17b-corridor.jpg",
      "ch17-corridor-2.jpg",
      "ch17-o-corridor.jpg",
      "ch17-corridor-1.jpg"
@@ -6126,14 +6124,13 @@
    {
     "from": 118,
     "images": [
-     "ch17-kiss-n.jpg"
+     "ch17b-kiss.jpg"
     ],
     "at": "He saw that I was in earnest"
    },
    {
     "from": 121,
     "images": [
-     "ch17-alone-n.jpg",
      "ch17-w-night.jpg"
     ]
    }

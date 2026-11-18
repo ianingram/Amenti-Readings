@@ -1,0 +1,30 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "XVII M4: Seward young and clean-shaven (Midjourney gave him a beard).",
+ "style": "",
+ "refs": {
+  "seward": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg"
+ },
+ "people": {},
+ "beats": [
+  {
+   "tag": "d3-ch17-m4a-fix",
+   "chapter": 17,
+   "who": [
+    "seward"
+   ],
+   "edit": "https://ianingram.github.io/Amenti-Readings/dracula/art/edit-src/ch17-m4a.jpg",
+   "text": "Make the man seated at the desk a young doctor of about thirty: remove his beard and moustache entirely so his chin, jaw and upper lip are bare and clean-shaven, with full dark hair and a young face, painted in the same light and brushwork. Change nothing else."
+  },
+  {
+   "tag": "d3-ch17-m4b-fix",
+   "chapter": 17,
+   "who": [
+    "seward"
+   ],
+   "edit": "https://ianingram.github.io/Amenti-Readings/dracula/art/edit-src/ch17-m4b.jpg",
+   "text": "Make the man seated at the desk a young doctor of about thirty: remove his beard and moustache entirely so his chin, jaw and upper lip are bare and clean-shaven, with full dark hair and a young face, painted in the same light and brushwork. Change nothing else."
+  }
+ ]
+}

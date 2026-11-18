@@ -20,7 +20,7 @@ for b in sheet['beats']:
                 + ''.join('Reference image %d is the face and look of %s. ' % (i + off, w.title()) for i, w in enumerate(faces))
                 if gem else '')
         prompt = lead + 'Scene: ' + b['text'] + (' People: ' + who + '.' if who else '') + ' Style: ' + sheet['style']
-        body = {'model': m, 'prompt': prompt, 'aspect': '16:9', 'n': n}
+        body = {'model': m, 'prompt': prompt, 'aspect': b.get('aspect', '16:9'), 'n': n}
         if gem and refs: body['refs'] = refs
         if b.get('edit'):   # repair an existing painting: the image goes in, the change is described, the rest is kept
             body['refs'] = [b['edit']] + refs[:3]

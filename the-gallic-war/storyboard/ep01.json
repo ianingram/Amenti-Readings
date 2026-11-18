@@ -1,0 +1,392 @@
+{
+ "book": "the-gallic-war",
+ "part": "Part 1",
+ "chapter": 1,
+ "note": "Episode 1 (Book I, chapters I–XIX).",
+ "style": "A Roman history painting in the manner of Jean-Léon Gérôme and Lawrence Alma-Tadema: crisp academic realism, brilliant Mediterranean daylight, clear warm light and deep blue shadow, precise archaeological detail of 58 BC, rich painterly finish. One single painting filling the whole 16:9 frame, no text, lettering, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/plate.jpg",
+  "caesar": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/caesar.jpg",
+  "divico": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divico.jpg",
+  "dumnorix": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/dumnorix.jpg",
+  "divitiacus": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divitiacus.jpg"
+ },
+ "people": {
+  "caesar": "Julius Caesar, lean, bald crown with thin hair combed forward, clean-shaven, red general's cloak over a bronze muscled cuirass",
+  "divico": "Divico, an aged Helvetian war-leader with long white hair and a long white moustache, gold torc, checked cloak",
+  "dumnorix": "Dumnorix of the Aedui, long fair hair, drooping moustache, gold torc, rich checked cloak",
+  "divitiacus": "Divitiacus, an Aeduan druid with long grey-brown hair and a moustache, white robe, gold torc"
+ },
+ "beats": [
+  {
+   "tag": "gw1-gaul-map",
+   "chapter": 1,
+   "cue": 1,
+   "who": [],
+   "text": "A vast painted bird's-eye view of all Gaul in 58 BC seen from high above the Alps on a clear day: the great rivers Rhône, Saône, Loire, Seine and Garonne winding north and west through forests and plains toward a far silver ocean, the Pyrenees to the south-west, the Rhine and dark German forests to the north-east. No people, no lettering."
+  },
+  {
+   "tag": "gw1-belgae",
+   "chapter": 1,
+   "cue": 1,
+   "who": [],
+   "text": "A dark oak forest in northern Gaul: Belgic warriors with long limed hair, moustaches, spears and tall oval shields gathered in a clearing, smoke from a hall; across a river the edge of German forest. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-aquitania",
+   "chapter": 1,
+   "cue": 1,
+   "who": [],
+   "text": "The Garonne river winding through the warm south-west of Gaul toward the snowy Pyrenees on a bright day, a small Aquitanian village of thatched houses, herds on the meadows. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-helvetia",
+   "chapter": 1,
+   "cue": 2,
+   "who": [],
+   "text": "The land of the Helvetii from the heights of the Jura on a brilliant summer day: Lake Geneva shining below, the Rhône leaving it, and the Alps white beyond; farms and villages in the green valleys. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-orgetorix",
+   "chapter": 1,
+   "cue": 2,
+   "who": [],
+   "text": "Inside a great timber hall of the Helvetii by firelight and daylight from the smoke-hole: Orgetorix, a rich Helvetian noble with long hair, moustache, gold torc and a fur-trimmed checked cloak, swears an oath with a ring of nobles, their hands on a sword.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-wagons",
+   "chapter": 1,
+   "cue": 3,
+   "who": [],
+   "text": "A wide summer valley of the Helvetii filled with hundreds of wagons with solid wheels, oxen and draught horses being gathered, men loading sacks of grain, women and children, fields being sown; mountains beyond. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-pact",
+   "chapter": 1,
+   "cue": 3,
+   "who": [
+    "dumnorix"
+   ],
+   "text": "On a hillside above a river, Orgetorix of the Helvetii clasps hands with Dumnorix of the Aedui and with Casticus of the Sequani, three Gaulish chiefs in rich cloaks and torcs swearing a secret pact, their horsemen waiting below.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-chains",
+   "chapter": 1,
+   "cue": 4,
+   "who": [],
+   "text": "A Helvetian assembly in an open meadow: Orgetorix led forward in chains before the magistrates, while a huge crowd of his retainers, ten thousand armed men, surges behind him with spears; overcast sky. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-torches",
+   "chapter": 1,
+   "cue": 4,
+   "who": [],
+   "text": "Night in a Helvetian town: torches and armed men in the streets, the magistrates gathering a force, a chieftain's house dark; moonlight on thatched roofs. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-burning",
+   "chapter": 1,
+   "cue": 5,
+   "who": [],
+   "text": "The Helvetii burn their own towns and villages before leaving: a whole valley of thatched towns in flames under a towering column of smoke at sunset, a long column of wagons already moving away along the road. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-burning2",
+   "chapter": 1,
+   "cue": 5,
+   "who": [],
+   "text": "Close on the edge of a burning Helvetian town: grain stores and houses ablaze, families with oxen and laden carts turning away from the fire, a warrior hurling a torch onto a granary.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-jura-pass",
+   "chapter": 1,
+   "cue": 6,
+   "who": [],
+   "text": "A narrow, difficult pass between the steep cliffs of the Jura and the river Rhône, scarcely wide enough for single wagons, a high mountain overhanging it; a few figures and a cart far below. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-geneva",
+   "chapter": 1,
+   "cue": 6,
+   "who": [],
+   "text": "The town of Geneva of the Allobroges at the end of Lake Geneva in 58 BC: a small hill town with timber walls, the wooden bridge over the Rhône leading toward the Helvetian shore, the Alps beyond under a blue sky. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-caesar-rides",
+   "chapter": 1,
+   "cue": 7,
+   "who": [
+    "caesar"
+   ],
+   "text": "Julius Caesar riding at full gallop along a Roman road in southern Gaul with a small escort of cavalry in red cloaks, dust rising, cypresses and vineyards beside the road, hard bright sun.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-bridge-down",
+   "chapter": 1,
+   "cue": 7,
+   "who": [],
+   "text": "Roman legionaries breaking down the wooden bridge over the Rhône at Geneva with axes and ropes, timbers falling into the fast blue water, a centurion directing, the lake and Alps beyond.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-envoys",
+   "chapter": 1,
+   "cue": 7,
+   "who": [
+    "caesar"
+   ],
+   "text": "Two Helvetian envoys, noblemen with long hair and moustaches in fine checked cloaks, stand before Julius Caesar seated on a camp stool outside his tent at Geneva, lictors with fasces beside him, legionaries behind.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-wall",
+   "chapter": 1,
+   "cue": 8,
+   "who": [],
+   "text": "A long earth wall sixteen feet high and a deep trench running for miles along the bank of the Rhône from Lake Geneva toward the Jura, Roman legionaries digging and carrying turf, forts and redoubts at intervals, bright day.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs.  Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-rafts",
+   "chapter": 1,
+   "cue": 8,
+   "who": [],
+   "text": "Night on the Rhône: the Helvetii trying to cross on boats lashed together and many rafts and by the fords, while Roman legionaries on the wall above hurl javelins and drive them back, moonlight on the water, torches.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs.  Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-dumnorix-plea",
+   "chapter": 1,
+   "cue": 9,
+   "who": [
+    "dumnorix"
+   ],
+   "text": "Dumnorix of the Aedui speaks with Sequani chiefs in a Gaulish hall, persuading them to let the Helvetii pass through their land, hostages being exchanged, a fire burning between them.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-column-pass",
+   "chapter": 1,
+   "cue": 9,
+   "who": [],
+   "text": "The immense column of the Helvetii, wagons, cattle, women, children and warriors, winding slowly through the narrow pass of the Jura beside the Rhône, dust in the sunlight. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-alps",
+   "chapter": 1,
+   "cue": 10,
+   "who": [],
+   "text": "Caesar's legions crossing the high Alps in 58 BC by forced marches: a long column of legionaries and mule trains on a steep mountain road among snowfields and precipices, glaciers glittering under a deep blue sky.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs.  Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-ambush",
+   "chapter": 1,
+   "cue": 10,
+   "who": [],
+   "text": "In a steep Alpine valley, mountain tribesmen hurl rocks and spears from the heights onto a Roman column below, the legionaries raising their shields and charging uphill.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs.  Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-plunder",
+   "chapter": 1,
+   "cue": 11,
+   "who": [],
+   "text": "The Helvetii plundering the lands of the Aedui: burning farms, cattle being driven off, Aeduan villagers fleeing with bundles across ravaged fields toward a hill-fort. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-aedui-envoys",
+   "chapter": 1,
+   "cue": 11,
+   "who": [
+    "caesar"
+   ],
+   "text": "Envoys of the Aedui in fine cloaks, with outstretched hands, pleading before Julius Caesar outside his tent; behind them the Ambarri and Allobroges, smoke on the horizon.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-saone",
+   "chapter": 1,
+   "cue": 12,
+   "who": [],
+   "text": "The broad slow river Saône in late afternoon: the Helvetii ferrying their people across on rafts and boats lashed together, three quarters already on the far bank, the last division still waiting with their wagons on the near shore. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-third-watch",
+   "chapter": 1,
+   "cue": 12,
+   "who": [],
+   "text": "Before dawn, in the third watch: three Roman legions moving silently in the dark through mist toward the river, the eagle standard and helmets catching the first grey light.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs.  Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-tigurini",
+   "chapter": 1,
+   "cue": 12,
+   "who": [],
+   "text": "At first light by the Saône the Romans fall upon the Tigurini, the last Helvetian division, encumbered with baggage: legionaries charging with drawn swords among wagons, Gauls fleeing into the woods; mist and low sun.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs.  Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-bridge-saone",
+   "chapter": 1,
+   "cue": 13,
+   "who": [],
+   "text": "Roman legionaries building a timber bridge across the Saône in a single day: piles being driven, beams hoisted with ropes, carpenters and engineers swarming over the frame, the army waiting to cross, bright day.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs.  Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-divico-arrives",
+   "chapter": 1,
+   "cue": 14,
+   "who": [
+    "divico"
+   ],
+   "text": "An embassy of the Helvetii led by old Divico arrives at Caesar's camp by the Saône: the white-haired war-leader on a grey horse, nobles behind him, legionaries watching at the gate.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-divico-speaks",
+   "chapter": 1,
+   "cue": 14,
+   "who": [
+    "divico",
+    "caesar"
+   ],
+   "text": "Old Divico of the Helvetii, white-haired and proud, stands before Julius Caesar and speaks, reminding him of the Roman army his people once destroyed; Caesar seated, listening coldly; officers and lictors behind.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-caesar-replies",
+   "chapter": 1,
+   "cue": 15,
+   "who": [
+    "caesar"
+   ],
+   "text": "Julius Caesar replies to the Helvetian envoys from a raised tribunal in his camp, one hand raised, legates and tribunes standing by, the old Helvetian chief below; brilliant daylight.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-camp-saone",
+   "chapter": 1,
+   "cue": 15,
+   "who": [],
+   "text": "A Roman marching camp on the bank of the Saône: square rampart and ditch, rows of leather tents, legionaries at work, the eagle standard, the Helvetian camp far off across the plain. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-divico-leaves",
+   "chapter": 1,
+   "cue": 16,
+   "who": [
+    "divico"
+   ],
+   "text": "Divico turns his back on Caesar and strides away from the tribunal toward his horse, his nobles following; Roman officers watching.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-cavalry",
+   "chapter": 1,
+   "cue": 17,
+   "who": [],
+   "text": "A cavalry battle on an open plain in Gaul: four thousand horsemen of Caesar's Gaulish allies routed by a small body of Helvetian horse, riders wheeling and fleeing, dust and spears, a river beyond.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs.  Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-march-follow",
+   "chapter": 1,
+   "cue": 17,
+   "who": [],
+   "text": "For fifteen days the two armies march: the long column of the Helvetii with its wagons in the valley, and five miles behind, Caesar's legions following along the hills. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-corn",
+   "chapter": 1,
+   "cue": 18,
+   "who": [],
+   "text": "In Caesar's camp, nearly empty grain stores and quartermasters measuring the last sacks of corn, fields of unripe green wheat beyond the rampart, legionaries waiting.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs.  Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-aedui-chiefs",
+   "chapter": 1,
+   "cue": 18,
+   "who": [
+    "caesar",
+    "divitiacus"
+   ],
+   "text": "Julius Caesar in his tent with the chiefs of the Aedui, Divitiacus among them, rebuking them for the corn that has not come; the chiefs uneasy.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-liscus",
+   "chapter": 1,
+   "cue": 20,
+   "who": [
+    "caesar"
+   ],
+   "text": "Liscus, chief magistrate of the Aedui, a grey-haired Gaul in a fine cloak, speaks gravely in council before Caesar, other Aeduan chiefs looking away.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-private",
+   "chapter": 1,
+   "cue": 21,
+   "who": [
+    "caesar"
+   ],
+   "text": "Inside Caesar's tent in lamplight: Caesar questions Liscus alone, maps and tablets on the table, a guard at the entrance.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-dumnorix-wealth",
+   "chapter": 1,
+   "cue": 22,
+   "who": [
+    "dumnorix"
+   ],
+   "text": "Dumnorix of the Aedui in his hall, surrounded by his mounted retainers, gold and hostages, rich and powerful, his horsemen's spears against the wall.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-dumnorix-cavalry",
+   "chapter": 1,
+   "cue": 23,
+   "who": [],
+   "text": "Dumnorix and his Aeduan cavalry wheeling away and fleeing from a skirmish, the rest of the allied horse panicking after them across a field. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-caesar-thinks",
+   "chapter": 1,
+   "cue": 24,
+   "who": [
+    "caesar"
+   ],
+   "text": "Julius Caesar alone in his tent at evening, considering, lamplight, a dispatch in his hand.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-divitiacus-called",
+   "chapter": 1,
+   "cue": 24,
+   "who": [
+    "caesar",
+    "divitiacus"
+   ],
+   "text": "Caesar summons Divitiacus: the Aeduan druid enters Caesar's tent, an interpreter beside Caesar, lamplight.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-x-camp-eve",
+   "chapter": 1,
+   "cue": 24,
+   "who": [],
+   "text": "A Roman marching camp at golden evening beside a broad river in Gaul, campfires lit in rows, the eagle standard, forested hills. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-x-bibracte",
+   "chapter": 1,
+   "cue": 18,
+   "who": [],
+   "text": "Bibracte, the great hill-fort of the Aedui, on its wooded mountain in brilliant afternoon light: timber-laced stone ramparts, thatched houses and smoke, the plain below. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-x-lake",
+   "chapter": 1,
+   "cue": 8,
+   "who": [],
+   "text": "Lake Geneva at dawn from the Roman wall: still water, the Alps rose-pink, a line of Roman watch-fires along the bank, mist on the Rhône. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-x-road",
+   "chapter": 1,
+   "cue": 10,
+   "who": [],
+   "text": "A Roman road through the Province in hot sun, a legion marching away into the distance between olive trees and cypresses, dust hanging in the air. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-x-rhone",
+   "chapter": 1,
+   "cue": 2,
+   "who": [],
+   "text": "The Rhône rushing out of Lake Geneva through a narrow valley between mountains on a sparkling day, fishermen's boats, a small ferry. Any people are small, far off, with no detail in their faces."
+  }
+ ],
+ "size": "2K"
+}

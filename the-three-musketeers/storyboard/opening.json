@@ -1,0 +1,108 @@
+{
+ "book": "the-three-musketeers",
+ "part": "Opening",
+ "size": "2K",
+ "note": "The title film: one moment from each part of the book.",
+ "style": "A seventeenth-century French narrative oil painting in the manner of Meissonier and Maurice Leloir: academic realism, exact costume of 1625 (doublets, falling lace collars, wide-brimmed plumed felt hats, bucket-top boots, rapiers and baldrics), warm candlelight and golden daylight against blue Paris dusk, rich glazes, fine brushwork. One single painting filling the whole frame edge to edge; no text, lettering, signature, monogram, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/plate.jpg",
+  "dartagnan": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/dartagnan.jpg",
+  "athos": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/athos.jpg",
+  "porthos": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/porthos.jpg",
+  "aramis": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/aramis.jpg",
+  "richelieu": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/richelieu.jpg",
+  "constance": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/constance.jpg",
+  "milady": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/milady.jpg",
+  "treville": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/treville.jpg"
+ },
+ "people": {
+  "dartagnan": "D'Artagnan, a Gascon youth of eighteen: a long brown face, high cheekbones, open intelligent eyes, a finely chiselled hooked nose, dark hair to the shoulders, the faint first down of a moustache and no beard; a faded blue woollen doublet, a Béarnais cap with a feather, a long rapier on a leather baldric",
+  "athos": "Athos, a musketeer of about thirty: a noble, handsome, pale melancholy face, dark hair, a small dark moustache, grave dark eyes; the blue musketeer's cassock with the silver cross over a plain doublet",
+  "porthos": "Porthos, a musketeer of giant stature, about thirty: a ruddy laughing face, a magnificent curled brown moustache and small tuft beard, a gold-embroidered baldric and a crimson velvet cloak over the musketeer's blue cassock",
+  "aramis": "Aramis, a young musketeer of twenty-two: a delicate sweet face, soft black eyes, rosy cheeks, a small neat black moustache, white hands; the musketeer's blue cassock with the silver cross, a little clerical in manner",
+  "richelieu": "Cardinal Richelieu at forty: a thin pale aristocratic face, a pointed grey-brown beard and moustache, piercing eyes; scarlet cardinal's robes, a red skullcap, a white lace collar",
+  "constance": "Constance Bonacieux, a young woman of twenty-five: dark hair, blue eyes, a slightly turned-up nose, a fresh pink complexion; a modest dark bodice with a white linen collar",
+  "milady": "Milady de Winter, a woman of twenty-two: pale and fair, long blonde curls falling over her shoulders, large languishing blue eyes, rosy lips, alabaster hands; a dark travelling gown with a lace collar",
+  "treville": "M. de Tréville, captain of the King's Musketeers, about fifty: a hard weathered Gascon face, a grizzled moustache and small beard, keen eyes; a rich dark doublet with the musketeer's cassock and a gold chain"
+ },
+ "beats": [
+  {
+   "tag": "tm-op-antechamber",
+   "chapter": 0,
+   "who": [
+    "treville"
+   ],
+   "text": "Wide: the antechamber of M. de Tréville in Paris, crowded with musketeers in blue cassocks with silver crosses fencing on the great staircase, laughing, swaggering; golden light through tall windows."
+  },
+  {
+   "tag": "tm-op-four",
+   "chapter": 0,
+   "who": [
+    "dartagnan",
+    "athos",
+    "porthos",
+    "aramis"
+   ],
+   "text": "Medium: the four friends together, swords raised and crossed in the air, \"All for one, one for all\", in a Paris street at golden sunset: a young Gascon, a pale noble musketeer, a giant in a crimson cloak, a delicate young musketeer."
+  },
+  {
+   "tag": "tm-op-carmes",
+   "chapter": 0,
+   "who": [
+    "dartagnan",
+    "athos"
+   ],
+   "text": "Wide: a duel behind the convent of the Carmes-Deschaux in Paris, four musketeers against the Cardinal's Guards in red tabards with white crosses, swords flashing in bright noon light on an empty lot by a high wall."
+  },
+  {
+   "tag": "tm-op-cardinal",
+   "chapter": 0,
+   "who": [
+    "richelieu"
+   ],
+   "text": "Medium: Cardinal Richelieu at his desk in the Palais-Cardinal by candlelight, scarlet robes, a quill in hand, cold eyes looking up, a cat on the table, blue dusk at the window."
+  },
+  {
+   "tag": "tm-op-louvre",
+   "chapter": 0,
+   "who": [
+    "constance"
+   ],
+   "text": "Wide: a candlelit corridor of the Louvre at night, a young woman in a dark cloak leading a hooded nobleman by the hand past tapestries, a guard asleep."
+  },
+  {
+   "tag": "tm-op-ride",
+   "chapter": 0,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Wide, far: four horsemen galloping at dawn along a poplar-lined road to Calais, cloaks flying, mist on the fields, a brilliant sky."
+  },
+  {
+   "tag": "tm-op-ball",
+   "chapter": 0,
+   "who": [],
+   "text": "Wide: the Merlaison ballet at the Hôtel de Ville in Paris, 1625: a great hall blazing with candles, courtiers in satin and lace, the queen wearing diamond studs, musicians in the gallery."
+  },
+  {
+   "tag": "tm-op-rochelle",
+   "chapter": 0,
+   "who": [],
+   "text": "Establishing, far: the siege of La Rochelle in 1628: the walled port beyond the great royal dike across the harbour, tents, cannon smoke, the sea and a stormy sky. Small figures."
+  },
+  {
+   "tag": "tm-op-milady",
+   "chapter": 0,
+   "who": [
+    "milady"
+   ],
+   "text": "Medium: Milady at night by a candle in a dark chamber, pale and beautiful, a small vial in her hand, her face cold and resolved."
+  },
+  {
+   "tag": "tm-op-river",
+   "chapter": 0,
+   "who": [],
+   "text": "Wide, far: night by the river Lys at Armentières, a lantern on a small boat in the middle of the dark water, figures on the bank, the moon behind clouds."
+  }
+ ]
+}

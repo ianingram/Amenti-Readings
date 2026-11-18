@@ -1,0 +1,75 @@
+{
+ "book": "the-three-musketeers",
+ "part": "Cast portraits",
+ "note": "Face references for the cast; plate as the style reference.",
+ "style": "A seventeenth-century French narrative oil painting in the manner of Meissonier and Maurice Leloir: academic realism, exact costume of 1625 (doublets, falling lace collars, wide-brimmed plumed felt hats, bucket-top boots, rapiers and baldrics), warm candlelight and golden daylight against blue Paris dusk, rich glazes, fine brushwork. One single painting filling the whole frame edge to edge; no text, lettering, signature, monogram, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/plate.jpg"
+ },
+ "people": {},
+ "beats": [
+  {
+   "tag": "tm-ref-dartagnan",
+   "chapter": 1,
+   "who": [],
+   "aspect": "3:4",
+   "text": "A head-and-shoulders portrait of D'Artagnan, a Gascon youth of eighteen: a long brown face, high cheekbones, open intelligent eyes, a finely chiselled hooked nose, dark hair to the shoulders, the faint first down of a moustache and no beard; a faded blue woollen doublet, a Béarnais cap with a feather, a long rapier on a leather baldric. Plain dark brown background, soft window light from the left, painted as a study for a history painting."
+  },
+  {
+   "tag": "tm-ref-rochefort",
+   "chapter": 1,
+   "who": [],
+   "aspect": "3:4",
+   "text": "A head-and-shoulders portrait of the man of Meung (the Comte de Rochefort): a gentleman of forty to forty-five, black piercing eyes, a pale complexion, a strongly marked nose, a black well-shaped moustache, a small pale scar on the temple; a violet doublet with lace collar. Plain dark brown background, soft window light from the left, painted as a study for a history painting."
+  },
+  {
+   "tag": "tm-ref-milady",
+   "chapter": 1,
+   "who": [],
+   "aspect": "3:4",
+   "text": "A head-and-shoulders portrait of Milady de Winter, a woman of twenty-two: pale and fair, long blonde curls falling over her shoulders, large languishing blue eyes, rosy lips, alabaster hands; a dark travelling gown with a lace collar. Plain dark brown background, soft window light from the left, painted as a study for a history painting."
+  },
+  {
+   "tag": "tm-ref-athos",
+   "chapter": 1,
+   "who": [],
+   "aspect": "3:4",
+   "text": "A head-and-shoulders portrait of Athos, a musketeer of about thirty: a noble, handsome, pale melancholy face, dark hair, a small dark moustache, grave dark eyes; the blue musketeer's cassock with the silver cross over a plain doublet. Plain dark brown background, soft window light from the left, painted as a study for a history painting."
+  },
+  {
+   "tag": "tm-ref-porthos",
+   "chapter": 1,
+   "who": [],
+   "aspect": "3:4",
+   "text": "A head-and-shoulders portrait of Porthos, a musketeer of giant stature, about thirty: a ruddy laughing face, a magnificent curled brown moustache and small tuft beard, a gold-embroidered baldric and a crimson velvet cloak over the musketeer's blue cassock. Plain dark brown background, soft window light from the left, painted as a study for a history painting."
+  },
+  {
+   "tag": "tm-ref-aramis",
+   "chapter": 1,
+   "who": [],
+   "aspect": "3:4",
+   "text": "A head-and-shoulders portrait of Aramis, a young musketeer of twenty-two: a delicate sweet face, soft black eyes, rosy cheeks, a small neat black moustache, white hands; the musketeer's blue cassock with the silver cross, a little clerical in manner. Plain dark brown background, soft window light from the left, painted as a study for a history painting."
+  },
+  {
+   "tag": "tm-ref-richelieu",
+   "chapter": 1,
+   "who": [],
+   "aspect": "3:4",
+   "text": "A head-and-shoulders portrait of Cardinal Richelieu at forty: a thin pale aristocratic face, a pointed grey-brown beard and moustache, piercing eyes; scarlet cardinal's robes, a red skullcap, a white lace collar. Plain dark brown background, soft window light from the left, painted as a study for a history painting."
+  },
+  {
+   "tag": "tm-ref-constance",
+   "chapter": 1,
+   "who": [],
+   "aspect": "3:4",
+   "text": "A head-and-shoulders portrait of Constance Bonacieux, a young woman of twenty-five: dark hair, blue eyes, a slightly turned-up nose, a fresh pink complexion; a modest dark bodice with a white linen collar. Plain dark brown background, soft window light from the left, painted as a study for a history painting."
+  },
+  {
+   "tag": "tm-ref-treville",
+   "chapter": 1,
+   "who": [],
+   "aspect": "3:4",
+   "text": "A head-and-shoulders portrait of M. de Tréville, captain of the King's Musketeers, about fifty: a hard weathered Gascon face, a grizzled moustache and small beard, keen eyes; a rich dark doublet with the musketeer's cassock and a gold chain. Plain dark brown background, soft window light from the left, painted as a study for a history painting."
+  }
+ ]
+}

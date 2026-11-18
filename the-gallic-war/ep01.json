@@ -42,7 +42,8 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "Among the Helvetii, Orgetorix was by far the most distinguished and wealthy. He, when Marcus Messala and Marcus Piso were consuls, incited by lust of sovereignty, formed a conspiracy among the nobility, and persuaded the people to go forth from their territories with all their possessions, [saying] that it would be very easy, since they excelled all in valour, to acquire the supremacy of the whole of Gaul. To this he the more easily persuaded them, because the Helvetii are confined on every side by the nature of their situation; on one side by the Rhine, a very broad and deep river, which separates the Helvetian territory from the Germans; on a second side by the Jura, a very high mountain which is [situated] between the Sequani and the Helvetii; on a third by the Lake of Geneva, and by the river Rhone, which separates our Province from the Helvetii. From these circumstances it resulted that they could range less widely, and could less easily make war upon their neighbours; for which reason men fond of war [as they were] were affected with great regret. They thought, that considering the extent of their population, and their renown for warfare and bravery, they had but narrow limits, although they extended in length 240, and in breadth 180 [Roman] miles.",
-   "section": "II"
+   "section": "II",
+   "bed": "rhone"
   },
   {
    "n": 3,
@@ -66,7 +67,13 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "After his death, the Helvetii nevertheless attempt to do that which they had resolved on, namely, to go forth from their territories. When they thought that they were at length prepared for this undertaking, they set fire to all their towns, in number about twelve--to their villages about four hundred--and to the private dwellings that remained; they burn up all the corn, except what they intend to carry with them; that after destroying the hope of a return home, they might be the more ready for undergoing all dangers. They order every one to carry forth from home for himself provisions for three months, ready ground. They persuade the Rauraci, and the Tulingi, and the Latobrigi, their neighbours, to adopt the same plan, and after burning down their towns and villages, to set out with them: and they admit to their party and unite to themselves as confederates the Boii, who had dwelt on the other side of the Rhine, and had crossed over into the Norican territory, and assaulted Noreia.",
-   "section": "V"
+   "section": "V",
+   "sfx": [
+    {
+     "key": "blaze",
+     "at": "set fire to all their towns"
+    }
+   ]
   },
   {
    "n": 6,
@@ -82,7 +89,19 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "When it was reported to Caesar that they were attempting to make their route through our Province, he hastens to set out from the city, and, by as great marches as he can, proceeds to Further Gaul, and arrives at Geneva. He orders the whole Province [to furnish] as great a number of soldiers as possible, as there was in all only one legion in Further Gaul: he orders the bridge at Geneva to be broken down. When the Helvetii are apprised of his arrival, they send to him, as ambassadors, the most illustrious men of their state (in which embassy Numeius and Verudoctius held the chief place), to say \"that it was their intention to march through the Province without doing any harm, because they had\" [according to their own representations] \"no other route:--that they requested they might be allowed to do so with his consent.\" Caesar, inasmuch as he kept in remembrance that Lucius Cassius, the consul, had been slain, and his army routed and made to pass under the yoke by the Helvetii, did not think that [their request] ought to be granted; nor was he of opinion that men of hostile disposition, if an opportunity of marching through the Province were given them, would abstain from outrage and mischief. Yet, in order that a period might intervene, until the soldiers whom he had ordered [to be furnished] should assemble, he replied to the ambassadors, that he would take time to deliberate; if they wanted anything, they might return on the day before the ides of April [on April 12th].",
-   "section": "VII"
+   "section": "VII",
+   "bed": "march",
+   "score": "march",
+   "sfx": [
+    {
+     "key": "horse_gallop",
+     "at": "hastens to set out from the city"
+    },
+    {
+     "key": "hammering",
+     "at": "bridge at Geneva to be broken down"
+    }
+   ]
   },
   {
    "n": 8,
@@ -90,7 +109,18 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "Meanwhile, with the legion which he had with him and the soldiers who had assembled from the Province, he carries along for nineteen [Roman, not quite eighteen English] miles a wall, to the height of sixteen feet, and a trench, from the lake of Geneva, which flows into the river Rhone, to Mount Jura, which separates the territories of the Sequani from those of the Helvetii. When that work was finished, he distributes garrisons, and closely fortifies redoubts, in order that he may the more easily intercept them, if they should attempt to cross over against his will. When the day which he had appointed with the ambassadors came, and they returned to him, he says that he cannot, consistently with the custom and precedent of the Roman people, grant any one a passage through the Province; and he gives them to understand that, if they should attempt to use violence, he would oppose them. The Helvetii, disappointed in this hope, tried if they could force a passage (some by means of a bridge of boats and numerous rafts constructed for the purpose; others, by the fords of the Rhone, where the depth of the river was least, sometimes by day, but more frequently by night), but being kept at bay by the strength of our works, and by the concourse of the soldiers, and by the missiles, they desisted from this attempt.",
-   "section": "VIII"
+   "section": "VIII",
+   "bed": "rhone",
+   "sfx": [
+    {
+     "key": "spade",
+     "at": "a wall, to the height of sixteen feet"
+    },
+    {
+     "key": "creak",
+     "at": "boats and numerous rafts"
+    }
+   ]
   },
   {
    "n": 9,
@@ -106,7 +136,14 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "It-is again told Caesar that the Helvetii intend to march through the country of the Sequani and the Aedui into the territories of the Santones, which are not far distant from those boundaries of the Tolosates, which [viz. Tolosa, Toulouse] is a state in the Province. If this took place, he saw that it would be attended with great danger to the Province to have warlike men, enemies of the Roman people, bordering upon an open and very fertile tract of country. For these reasons he appointed Titus Labienus, his lieutenant, to the command of the fortification which he had made. He himself proceeds to Italy by forced marches, and there levies two legions, and leads out from winter-quarters three which were wintering around Aquileia, and with these five legions marches rapidly by the nearest route across the Alps into Further Gaul. Here the Centrones and the Graioceli and the Caturiges, having taken possession of the higher parts, attempt to obstruct the army in their march. After having routed these in several battles, he arrives in the territories of the Vocontii in the Further Province on the seventh day from Ocelum, which is the most remote town of the Hither Province; thence he leads his army into the country of the Allobroges, and from the Allobroges to the Segusiani. These people are the first beyond the Province on the opposite side of the Rhone.",
-   "section": "X"
+   "section": "X",
+   "bed": "march",
+   "sfx": [
+    {
+     "key": "drum_march",
+     "at": "by forced marches"
+    }
+   ]
   },
   {
    "n": 11,
@@ -122,7 +159,22 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "There is a river [called] the Saone, which flows through the territories of the Aedui and Sequani into the Rhone with such incredible slowness, that it cannot be determined by the eye in which direction it flows. This the Helvetii were crossing by rafts and boats joined together. When Caesar was informed by spies that the Helvetii had already conveyed three parts of their forces across that river, but that the fourth part was left behind on this side of the Saone, he set out from the camp with three legions during the third watch, and came up with that division which had not yet crossed the river. Attacking them, encumbered with baggage, and not expecting him, he cut to pieces a great part of them; the rest betook themselves to flight, and concealed themselves in the nearest woods. That canton [which was cut down] was called the Tigurine; for the whole Helvetian state is divided into four cantons. This single canton having left their country, within the recollection of our fathers, had slain Lucius Cassius the consul, and had made his army pass under the yoke [B.C. 107]. Thus, whether by chance, or by the design of the immortal gods, that part of the Helvetian state which had brought a signal calamity upon the Roman people was the first to pay the penalty. In this Caesar avenged not only the public, but also his own personal wrongs, because the Tigurini had slain Lucius Piso the lieutenant [of Cassius], the grandfather of Lucius Calpurnius Piso, his [Caesar's] father-in-law, in the same battle as Cassius himself.",
-   "section": "XII"
+   "section": "XII",
+   "score": "battle",
+   "sfx": [
+    {
+     "key": "trumpet",
+     "at": "during the third watch"
+    },
+    {
+     "key": "sword_clash",
+     "at": "cut to pieces a great part of them"
+    },
+    {
+     "key": "roar",
+     "at": "cut to pieces a great part of them"
+    }
+   ]
   },
   {
    "n": 13,
@@ -130,14 +182,28 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "This battle ended, that he might be able to come up with the remaining forces of the Helvetii, he procures a bridge to be made across the Saone, and thus leads his army over. The Helvetii, confused by his sudden arrival, when they found that he had effected in one day what they themselves had with the utmost difficulty accomplished in twenty, namely, the crossing of the river, send ambassadors to him; at the head of which embassy was Divico, who had been commander of the Helvetii in the war against Cassius. He thus treats with Caesar:--that,",
-   "section": "XIII"
+   "section": "XIII",
+   "bed": "rhone",
+   "score": "march",
+   "sfx": [
+    {
+     "key": "hammering",
+     "at": "bridge to be made across the Saone"
+    },
+    {
+     "key": "saw",
+     "at": "bridge to be made across the Saone"
+    }
+   ]
   },
   {
    "n": 14,
    "para": 13,
    "role": "Divico",
    "cast": "Hannibal Barca",
-   "text": "\"if the Roman people would make peace with the Helvetii they would go to that part and there remain, where Caesar might appoint and desire them to be; but if he should persist in persecuting them with war, that he ought to remember both the ancient disgrace of the Roman people and the characteristic valour of the Helvetii. As to his having attacked one canton by surprise, [at a time] when those who had crossed the river could not bring assistance to their friends, that he ought not on that account to ascribe very much to his own valour, or despise them; that they had so learned from their sires and ancestors, as to rely more on valour than on artifice or stratagem. Wherefore let him not bring it to pass that the place, where they were standing, should acquire a name, from the disaster of the Roman people and the destruction of their army or transmit the remembrance [of such an event to posterity].\""
+   "text": "\"if the Roman people would make peace with the Helvetii they would go to that part and there remain, where Caesar might appoint and desire them to be; but if he should persist in persecuting them with war, that he ought to remember both the ancient disgrace of the Roman people and the characteristic valour of the Helvetii. As to his having attacked one canton by surprise, [at a time] when those who had crossed the river could not bring assistance to their friends, that he ought not on that account to ascribe very much to his own valour, or despise them; that they had so learned from their sires and ancestors, as to rely more on valour than on artifice or stratagem. Wherefore let him not bring it to pass that the place, where they were standing, should acquire a name, from the disaster of the Roman people and the destruction of their army or transmit the remembrance [of such an event to posterity].\"",
+   "bed": "council",
+   "score": "caesar"
   },
   {
    "n": 15,
@@ -160,7 +226,19 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "On the following day they move their camp from that place; Caesar does the same, and sends forward all his cavalry, to the number of four thousand (which he had drawn together from all parts of the Province and from the Aedui and their allies), to observe towards what parts the enemy are directing their march. These, having too eagerly pursued the enemy's rear, come to a battle with the cavalry of the Helvetii in a disadvantageous place, and a few of our men fall. The Helvetii, elated with this battle because they had with five hundred horse repulsed so large a body of horse, began to face us more boldly, sometimes too from their rear to provoke our men by an attack. Caesar [however] restrained his men from battle, deeming it sufficient for the present to prevent the enemy from rapine, forage, and depredation. They marched for about fifteen days in such a manner that there was not more than five or six miles between the enemy's rear and our van.",
-   "section": "XV"
+   "section": "XV",
+   "bed": "march",
+   "score": "march",
+   "sfx": [
+    {
+     "key": "horse_gallop",
+     "at": "cavalry of the Helvetii in a disadvantageous place"
+    },
+    {
+     "key": "horse_neigh",
+     "at": "horse repulsed so large a body of horse"
+    }
+   ]
   },
   {
    "n": 18,
@@ -168,7 +246,9 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "Meanwhile, Caesar kept daily importuning the Aedui for the corn which they had promised in the name of their state; for, in consequence of the coldness (Gaul being, as before said, situated towards the north), not only was the corn in the fields not ripe, but there was not in store a sufficiently large quantity even of fodder: besides he was unable to use the corn which he had conveyed in ships up the river Saone, because the Helvetii, from whom he was unwilling to retire, had diverted their march from the Saone. The Aedui kept deferring from day to day, and saying that it was being \"collected--brought in--on the road.\" When he saw that he was put off too long, and that the day was close at hand on which he ought to serve out the corn to his soldiers,-- having called together their chiefs, of whom he had a great number in his camp, among them Divitiacus, and Liscus who was invested with the chief magistracy (whom the Aedui style the Vergobretus, and who is elected annually, and has power of life and death over his countrymen), he severely reprimands them, because he is not assisted by them on so urgent an occasion, when the enemy were so close at hand, and when [corn] could neither be bought nor taken from the fields, particularly as, in a great measure urged by their prayers, he had undertaken the war; much more bitterly, therefore, does he complain of his being forsaken.",
-   "section": "XVI"
+   "section": "XVI",
+   "bed": "camp",
+   "score": "camp"
   },
   {
    "n": 19,
@@ -176,7 +256,8 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "Then at length Liscus, moved by Caesar's speech, discloses what he had hitherto kept secret:--that",
-   "section": "XVII"
+   "section": "XVII",
+   "bed": "council"
   },
   {
    "n": 20,
@@ -213,7 +294,8 @@
    "role": "Narrator",
    "cast": "Julius Caesar",
    "text": "After learning these circumstances, since to these suspicions the most unequivocal facts were added, viz., that he had led the Helvetii through the territories of the Sequani; that he had provided that hostages should be mutually given; that he had done all these things, not only without any orders of his [Caesar's] and of his own state's, but even without their [the Aedui] knowing anything of it themselves; that he [Dumnorix] was reprimanded by the [chief] magistrate of the Aedui; he [Caesar] considered that there was sufficient reason why he should either punish him himself, or order the state to do so. One thing [however] stood in the way of all this--that he had learned by experience his brother Divitiacus's very high regard for the Roman people, his great affection towards him, his distinguished faithfulness, justice, and moderation; for he was afraid lest by the punishment of this man, he should hurt the feelings of Divitiacus. Therefore, before he attempted anything, he orders Divitiacus to be summoned to him, and when the ordinary interpreters had been withdrawn, converses with him through Caius Valerius Procillus, chief of the province of Gaul, an intimate friend of his, in whom he reposed the highest confidence in everything; at the same time he reminds him of what was said about Dumnorix in the council of the Gauls, when he himself was present, and shows what each had said of him privately in his [Caesar's] own presence; he begs and exhorts him, that, without offence to his feelings, he may either himself pass judgment on him [Dumnorix] after trying the case, or else order the [Aeduan] state to do so.",
-   "section": "XIX"
+   "section": "XIX",
+   "score": "caesar"
   }
  ]
 }

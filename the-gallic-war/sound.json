@@ -1,0 +1,279 @@
+{
+ "_file": "the-gallic-war/sound.json",
+ "_updated": "2026-11-18",
+ "work": "the-gallic-war",
+ "note": "18 Nov 2026: rooms, score and sounds on the words for Part 1; every part has a room and a score. New score in four moods (march, gaul, camp, battle) built on the shared mood engine; Caesar's own theme and Philippi reused from Julius Caesar. Sources in sound/SOURCES.md.",
+ "files": {
+  "base": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/sound/",
+  "beds": {
+   "gaul_open": "https://ianingram.github.io/Amenti-Readings/dracula/sound/wind.mp3",
+   "rhone": "https://ianingram.github.io/Amenti-Readings/dracula/sound/river.mp3",
+   "march": "march-column.mp3",
+   "camp": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/camp-night.mp3",
+   "campfire": "https://ianingram.github.io/Amenti-Readings/dracula/sound/campfire.mp3",
+   "council": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/senate.mp3",
+   "battle": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/philippi.mp3",
+   "coast": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/dover-beach.mp3",
+   "storm": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/storm.mp3",
+   "forest": "https://ianingram.github.io/Amenti-Readings/dracula/sound/wind.mp3"
+  },
+  "oneshots": {
+   "blaze": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/blaze.mp3",
+   "hammering": "https://ianingram.github.io/Amenti-Readings/dracula/sound/hammering.mp3",
+   "saw": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/saw.mp3",
+   "spade": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/spade.mp3",
+   "horse_gallop": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horses-gallop.mp3",
+   "horse_neigh": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horse-neigh.mp3",
+   "horse_snort": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/horse-snort.mp3",
+   "cart": "https://ianingram.github.io/Amenti-Readings/dracula/sound/cart.mp3",
+   "sword_clash": "https://ianingram.github.io/Amenti-Readings/romeo-and-juliet/sound/sword-clash.mp3",
+   "roar": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/roar.mp3",
+   "trumpet": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/flourish.mp3",
+   "sennet": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/sennet.mp3",
+   "alarum": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/alarum.mp3",
+   "drum_march": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/drum-march.mp3",
+   "creak": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/creak.mp3"
+  },
+  "score": {
+   "main": "score-march.mp3",
+   "march": "score-march.mp3",
+   "gaul": "score-gaul.mp3",
+   "camp": "score-camp.mp3",
+   "battle": "score-battle.mp3",
+   "caesar": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/score-caesar.mp3",
+   "philippi": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/score-philippi.mp3"
+  },
+  "levels": {
+   "main": 0.7,
+   "march": 0.38,
+   "gaul": 0.38,
+   "camp": 0.38,
+   "battle": 0.38,
+   "caesar": 0.38,
+   "philippi": 0.38
+  },
+  "breath": {
+   "note": "the score ebbs and flows under the voice, as in Dracula and Two Cities.",
+   "min": 0.35,
+   "periods": [
+    43,
+    71,
+    113
+   ]
+  },
+  "sfx_levels": {
+   "blaze": 0.5,
+   "hammering": 0.45,
+   "saw": 0.4,
+   "spade": 0.4,
+   "horse_gallop": 0.6,
+   "horse_neigh": 0.5,
+   "horse_snort": 0.5,
+   "cart": 0.45,
+   "sword_clash": 0.5,
+   "roar": 0.4,
+   "trumpet": 0.5,
+   "sennet": 0.5,
+   "alarum": 0.5,
+   "drum_march": 0.5,
+   "creak": 0.4
+  }
+ },
+ "beds": {
+  "gaul_open": {
+   "note": "Open Gaul under the wind (Dracula's wind, held low).",
+   "levels": {
+    "1": 0.7
+   }
+  },
+  "rhone": {
+   "note": "The Rhône and the Saône: a broad river running (Dracula's river, BigSoundBank #3137).",
+   "levels": {
+    "1": 0.7
+   }
+  },
+  "march": {
+   "note": "The legion on the road: thirty-two layers of real footsteps on gravel, officers' horses at a walk, wind (built for this book from BigSoundBank #1117, #3202, #3216, #0839, #0610, #0611, #0659).",
+   "levels": {
+    "1": 0.7
+   }
+  },
+  "camp": {
+   "note": "The camp at night (Julius Caesar's camp-night).",
+   "levels": {
+    "1": 0.7
+   }
+  },
+  "campfire": {
+   "note": "Fires in the camp (Dracula's campfire, BigSoundBank #0988).",
+   "levels": {
+    "1": 0.7
+   }
+  },
+  "council": {
+   "note": "A council of officers or chiefs, voices low (Julius Caesar's senate, held far back).",
+   "levels": {
+    "1": 0.7
+   }
+  },
+  "battle": {
+   "note": "The battle (Julius Caesar's Philippi bed).",
+   "levels": {
+    "1": 0.7
+   }
+  },
+  "coast": {
+   "note": "The Ocean coast (Two Cities' Dover beach).",
+   "levels": {
+    "1": 0.7
+   }
+  },
+  "storm": {
+   "note": "Storm (Two Cities' storm).",
+   "levels": {
+    "1": 0.7
+   }
+  },
+  "forest": {
+   "note": "The great forests, wind in the trees.",
+   "levels": {
+    "1": 0.7
+   }
+  }
+ },
+ "chapters": [
+  {
+   "n": 1,
+   "bed": "gaul_open",
+   "state": 1,
+   "score": "main",
+   "lead": 30
+  },
+  {
+   "n": 2,
+   "bed": "march",
+   "state": 1,
+   "score": "march"
+  },
+  {
+   "n": 3,
+   "bed": "camp",
+   "state": 1,
+   "score": "caesar"
+  },
+  {
+   "n": 4,
+   "bed": "march",
+   "state": 1,
+   "score": "march"
+  },
+  {
+   "n": 5,
+   "bed": "battle",
+   "state": 1,
+   "score": "battle"
+  },
+  {
+   "n": 6,
+   "bed": "coast",
+   "state": 1,
+   "score": "gaul"
+  },
+  {
+   "n": 7,
+   "bed": "march",
+   "state": 1,
+   "score": "march"
+  },
+  {
+   "n": 8,
+   "bed": "rhone",
+   "state": 1,
+   "score": "march"
+  },
+  {
+   "n": 9,
+   "bed": "coast",
+   "state": 1,
+   "score": "march"
+  },
+  {
+   "n": 10,
+   "bed": "coast",
+   "state": 1,
+   "score": "march"
+  },
+  {
+   "n": 11,
+   "bed": "forest",
+   "state": 1,
+   "score": "camp"
+  },
+  {
+   "n": 12,
+   "bed": "camp",
+   "state": 1,
+   "score": "battle"
+  },
+  {
+   "n": 13,
+   "bed": "camp",
+   "state": 1,
+   "score": "camp"
+  },
+  {
+   "n": 14,
+   "bed": "forest",
+   "state": 1,
+   "score": "gaul"
+  },
+  {
+   "n": 15,
+   "bed": "gaul_open",
+   "state": 1,
+   "score": "gaul"
+  },
+  {
+   "n": 16,
+   "bed": "battle",
+   "state": 1,
+   "score": "battle"
+  },
+  {
+   "n": 17,
+   "bed": "camp",
+   "state": 1,
+   "score": "battle"
+  },
+  {
+   "n": 18,
+   "bed": "march",
+   "state": 1,
+   "score": "march"
+  },
+  {
+   "n": 19,
+   "bed": "battle",
+   "state": 1,
+   "score": "battle"
+  },
+  {
+   "n": 20,
+   "bed": "march",
+   "state": 1,
+   "score": "march"
+  },
+  {
+   "n": 21,
+   "bed": "battle",
+   "state": 1,
+   "score": "battle"
+  },
+  {
+   "n": 22,
+   "bed": "camp",
+   "state": 1,
+   "score": "camp"
+  }
+ ]
+}

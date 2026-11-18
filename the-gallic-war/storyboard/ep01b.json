@@ -1,0 +1,81 @@
+{
+ "book": "the-gallic-war",
+ "part": "Part 1",
+ "chapter": 1,
+ "note": "Episode 1 (Book I, chapters I–XIX). Recipe (18 Nov, Ian): gemini-2.5-flash-image, alla-prima style sentence, face portraits only as references, no style-plate image.",
+ "style": "An oil painting of 58 BC, in the manner of Jean-Léon Gérôme, Lawrence Alma-Tadema and Ernest Meissonier's military pictures, painted alla prima: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; brilliant Mediterranean and Gaulish daylight — deep blue sky, towering white clouds, raking sun and crisp blue shadow on warm earth and stone (at night or by fire: a single source of light, much of the picture in deep shadow); ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Roman legionaries in mail shirts, bronze Montefortino helmets and curved oval shields; Gauls with long hair, moustaches, checked trousers, cloaks and torcs. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "caesar": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/caesar.jpg",
+  "divico": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divico.jpg",
+  "dumnorix": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/dumnorix.jpg",
+  "divitiacus": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divitiacus.jpg"
+ },
+ "people": {
+  "caesar": "Julius Caesar, lean, bald crown with thin hair combed forward, clean-shaven, red general's cloak over a bronze muscled cuirass",
+  "divico": "Divico, an aged Helvetian war-leader with long white hair and a long white moustache, gold torc, checked cloak",
+  "dumnorix": "Dumnorix of the Aedui, long fair hair, drooping moustache, gold torc, rich checked cloak",
+  "divitiacus": "Divitiacus, an Aeduan druid with long grey-brown hair and a moustache, white robe, gold torc"
+ },
+ "beats": [
+  {
+   "tag": "gw1-orgetorix",
+   "chapter": 1,
+   "cue": 2,
+   "who": [],
+   "text": "Inside a great timber hall of the Helvetii by firelight and daylight from the smoke-hole: Orgetorix, a rich Helvetian noble with long hair, moustache, gold torc and a fur-trimmed checked cloak, swears an oath with a ring of nobles, their hands on a sword.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-wagons",
+   "chapter": 1,
+   "cue": 3,
+   "who": [],
+   "text": "A wide summer valley of the Helvetii filled with hundreds of wagons with solid wheels, oxen and draught horses being gathered, men loading sacks of grain, women and children, fields being sown; mountains beyond. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-burning2",
+   "chapter": 1,
+   "cue": 5,
+   "who": [],
+   "text": "Close on the edge of a burning Helvetian town: grain stores and houses ablaze, families with oxen and laden carts turning away from the fire, a warrior hurling a torch onto a granary.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-jura-pass",
+   "chapter": 1,
+   "cue": 6,
+   "who": [],
+   "text": "A narrow, difficult pass between the steep cliffs of the Jura and the river Rhône, scarcely wide enough for single wagons, a high mountain overhanging it; a few figures and a cart far below. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-geneva",
+   "chapter": 1,
+   "cue": 6,
+   "who": [],
+   "text": "The town of Geneva of the Allobroges at the end of Lake Geneva in 58 BC: a small hill town with timber walls, the wooden bridge over the Rhône leading toward the Helvetian shore, the Alps beyond under a blue sky. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-caesar-rides",
+   "chapter": 1,
+   "cue": 7,
+   "who": [
+    "caesar"
+   ],
+   "text": "Julius Caesar riding at full gallop along a Roman road in southern Gaul with a small escort of cavalry in red cloaks, dust rising, cypresses and vineyards beside the road, hard bright sun.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-bridge-down",
+   "chapter": 1,
+   "cue": 7,
+   "who": [],
+   "text": "Roman legionaries breaking down the wooden bridge over the Rhône at Geneva with axes and ropes, timbers falling into the fast blue water, a centurion directing, the lake and Alps beyond.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  },
+  {
+   "tag": "gw1-private",
+   "chapter": 1,
+   "cue": 21,
+   "who": [
+    "caesar"
+   ],
+   "text": "Inside Caesar's tent in lamplight: Caesar questions Liscus alone, maps and tablets on the table, a guard at the entrance.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  }
+ ]
+}

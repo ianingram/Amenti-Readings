@@ -1,0 +1,70 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "XVII evidence wall (Ian, 18 Nov 13:11): Mina's chronology as a chalk-board wall in a large asylum room; through-the-window shots. Recipe B.",
+ "style": "An oil painting of 1893, painted alla prima in the manner of Sargent, Repin and the Victorian narrative painters: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges, broken colour, canvas weave showing through; pale afternoon daylight from tall windows, deep shadows in the corners of the room; ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Papers and writing on the walls are painted as loose strokes, never legible lettering. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "mina": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg",
+  "seward": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg",
+  "jonathan": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-jonathan-white.jpg"
+ },
+ "people": {
+  "mina": "Mina Harker, a young dark-haired Englishwoman of about twenty-five, hair pinned up, a plain dark dress with a white high collar; no mark on her face",
+  "seward": "Dr John Seward, a doctor of about thirty, dark hair, bare clean-shaven face with no beard, no moustache and no spectacles, dark frock coat",
+  "jonathan": "Jonathan Harker, a grown man of twenty-six with snow-white hair and a young clean-shaven face, dark suit",
+  "arthur": "Arthur Holmwood, Lord Godalming, a tall young English nobleman of about thirty, dark curly hair, clean-shaven, in black mourning clothes",
+  "quincey": "Quincey Morris, a tall lean Texan of about thirty with a moustache, in a travelling coat and wide hat",
+  "vh": "Professor Van Helsing, a stocky elderly Dutch doctor of about sixty, grey hair, bare clean-shaven face with no beard and no moustache, dark frock coat"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17-wall-win",
+   "chapter": 17,
+   "cue": 81,
+   "who": [],
+   "text": "Shot: far, exterior, looking in. Seen from the asylum lawn through three tall lit sash windows on an autumn afternoon: inside, a large, high disused day-room in the 1893 asylum at Purfleet, bare boards, tall sash windows, an old lecture blackboard twenty feet long on one wall covered in chalk dates, arrows and lines, and around it dozens of pinned newspaper cuttings, telegrams, typed sheets, letters and a map of Europe, joined by red thread; two small figures at a long table with a typewriter. Ivy and brick around the windows, a stone urn on the terrace in the foreground. Figures small, no detail in faces."
+  },
+  {
+   "tag": "d3-ch17-wall-wide",
+   "chapter": 17,
+   "cue": 81,
+   "who": [
+    "mina",
+    "jonathan"
+   ],
+   "text": "Shot: wide interior. a large, high disused day-room in the 1893 asylum at Purfleet, bare boards, tall sash windows, an old lecture blackboard twenty feet long on one wall covered in chalk dates, arrows and lines, and around it dozens of pinned newspaper cuttings, telegrams, typed sheets, letters and a map of Europe, joined by red thread. The young woman stands on a low step pinning a newspaper cutting high on the wall; the white-haired young man sits at the long table typing, papers in stacks. Daylight falls across the floor."
+  },
+  {
+   "tag": "d3-ch17-wall-chalk",
+   "chapter": 17,
+   "cue": 92,
+   "who": [
+    "mina"
+   ],
+   "text": "Shot: medium, from behind and to one side. The young woman draws a long chalk line on the blackboard from a written date to a pinned newspaper cutting; chalk dust on her dark sleeve; the wall of papers fills the frame around her."
+  },
+  {
+   "tag": "d3-ch17-wall-detail",
+   "chapter": 17,
+   "cue": 92,
+   "who": [],
+   "text": "Shot: close detail, no people. A section of the blackboard wall: pinned yellowed newspaper cuttings, a telegram form, typed foolscap sheets, a ship's log page, a map with a chalked route from the Carpathians across the sea to the English coast, red thread between pins, chalk arrows and dates. All lettering is loose painted strokes, unreadable."
+  },
+  {
+   "tag": "d3-ch17-wall-dusk",
+   "chapter": 17,
+   "cue": 92,
+   "who": [],
+   "text": "Shot: far, exterior, looking in, at dusk. The asylum's tall windows glow with lamplight against a deep blue evening; inside, the long wall of pinned papers and chalk lines is lit by lamps, and two small silhouettes bend over a table. Bare elms, a gravel path, a stone statue in the foreground in shadow."
+  },
+  {
+   "tag": "d3-ch17-wall-seward",
+   "chapter": 17,
+   "cue": 81,
+   "who": [
+    "seward"
+   ],
+   "text": "Shot: medium-wide, interior. The doctor pauses in the open doorway of the large day-room, looking in astonished at the long wall covered in pinned papers, chalk dates and red thread; afternoon light from the tall windows."
+  }
+ ]
+}

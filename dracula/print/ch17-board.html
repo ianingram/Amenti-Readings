@@ -1,0 +1,242 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Mina's Board</title>
+<style>
+@font-face{font-family:Caveat;src:url(node_modules/@fontsource/caveat/files/caveat-latin-500-normal.woff2)}
+@font-face{font-family:Caveat;font-weight:700;src:url(node_modules/@fontsource/caveat/files/caveat-latin-700-normal.woff2)}
+@font-face{font-family:Elite;src:url(node_modules/@fontsource/special-elite/files/special-elite-latin-400-normal.woff2)}
+@font-face{font-family:Fraktur;src:url(node_modules/@fontsource/unifrakturmaguntia/files/unifrakturmaguntia-latin-400-normal.woff2)}
+@font-face{font-family:OldStd;src:url(node_modules/@fontsource/old-standard-tt/files/old-standard-tt-latin-400-normal.woff2)}
+@font-face{font-family:OldStd;font-weight:700;src:url(node_modules/@fontsource/old-standard-tt/files/old-standard-tt-latin-700-normal.woff2)}
+@font-face{font-family:OldStd;font-style:italic;src:url(node_modules/@fontsource/old-standard-tt/files/old-standard-tt-latin-400-italic.woff2)}
+@font-face{font-family:Fell;src:url(node_modules/@fontsource/im-fell-english/files/im-fell-english-latin-400-normal.woff2)}
+@font-face{font-family:Fell;font-style:italic;src:url(node_modules/@fontsource/im-fell-english/files/im-fell-english-latin-400-italic.woff2)}
+@font-face{font-family:Hand;src:url(node_modules/@fontsource/homemade-apple/files/homemade-apple-latin-400-normal.woff2)}
+:root{--chalk:#ecebe2;--paper:#efe5cb;--ink:#2a2420;--thread:#a8231b}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#000}
+#spread{position:relative;width:2560px;height:720px;overflow:hidden;
+ background:#3a2a1c;}
+#board{position:absolute;inset:16px 16px 34px 16px;border-radius:3px;overflow:hidden;
+ background:
+  radial-gradient(ellipse 420px 160px at 380px 300px,rgba(255,255,255,.055),transparent 70%),
+  radial-gradient(ellipse 520px 140px at 1500px 610px,rgba(255,255,255,.05),transparent 70%),
+  radial-gradient(ellipse 380px 200px at 2150px 360px,rgba(255,255,255,.045),transparent 70%),
+  radial-gradient(ellipse 600px 220px at 960px 200px,rgba(255,255,255,.035),transparent 70%),
+  linear-gradient(180deg,#26302b,#1f2925 60%,#1b2421);
+ box-shadow:inset 0 0 60px rgba(0,0,0,.65)}
+#board:before{content:"";position:absolute;inset:0;filter:url(#grain);opacity:.55;background:#fff;mix-blend-mode:overlay}
+#ledge{position:absolute;left:16px;right:16px;bottom:10px;height:26px;background:linear-gradient(#5a412a,#3c2a1a);border-radius:2px;box-shadow:0 -3px 6px rgba(0,0,0,.5)}
+.stub{position:absolute;bottom:22px;height:9px;border-radius:4px;background:#f2f0e6;box-shadow:0 1px 1px rgba(0,0,0,.5)}
+.chalk{position:absolute;font-family:Caveat;color:var(--chalk);filter:url(#chalk);line-height:1.02;font-weight:500;text-shadow:0 0 1px rgba(255,255,255,.35)}
+svg.lay{position:absolute;left:0;top:0;width:2560px;height:720px;pointer-events:none}
+.p{position:absolute;background:var(--paper);color:var(--ink);box-shadow:3px 6px 12px rgba(0,0,0,.6),0 0 1px rgba(0,0,0,.4);
+ background-image:radial-gradient(ellipse at 30% 20%,rgba(255,255,240,.5),transparent 60%),radial-gradient(ellipse at 80% 90%,rgba(150,110,60,.18),transparent 60%)}
+.p:after{content:"";position:absolute;inset:0;filter:url(#grain);opacity:.22;background:#fff;mix-blend-mode:multiply;pointer-events:none}
+.pin{position:absolute;width:15px;height:15px;border-radius:50%;margin:-7px 0 0 -7px;z-index:5;
+ background:radial-gradient(circle at 35% 35%,#f0d58a,#a87b2a 55%,#4b3410);box-shadow:2px 3px 3px rgba(0,0,0,.6)}
+.torn{clip-path:polygon(0 1%,4% 0,9% 1.2%,15% .2%,22% 1%,30% 0,37% 1.4%,45% .3%,53% 1.1%,61% 0,70% 1.3%,78% .2%,86% 1%,93% 0,100% 1.2%,99.3% 20%,100% 45%,99.2% 70%,100% 99%,94% 100%,86% 98.9%,77% 100%,68% 99%,59% 100%,50% 98.8%,41% 100%,32% 99.1%,23% 100%,14% 98.9%,6% 100%,0 99%,.8% 75%,0 50%,.7% 25%)}
+/* newspaper */
+.np{padding:12px 14px 12px;font-family:OldStd;font-size:10.6px;line-height:1.32;text-align:justify;hyphens:auto}
+.np .mast{font-family:Fraktur;font-size:27px;text-align:center;line-height:1;letter-spacing:.3px}
+.np .date{display:flex;justify-content:space-between;font-size:8.6px;border-top:1.4px solid #2a2420;border-bottom:.8px solid #2a2420;padding:2px 0;margin:5px 0 6px;letter-spacing:.6px;text-transform:uppercase}
+.np h3{font-weight:700;font-size:15px;text-align:center;letter-spacing:.8px;line-height:1.1}
+.np h4{font-weight:400;font-size:10px;text-align:center;letter-spacing:1.2px;text-transform:uppercase;margin:2px 0 1px}
+.np h5{font-style:italic;font-weight:400;font-size:10.4px;text-align:center;margin:0 0 5px}
+.np .rule{border-top:.8px solid #2a2420;width:40%;margin:4px auto 6px}
+.np .cols{column-count:2;column-gap:12px;column-rule:.6px solid rgba(42,36,32,.6)}
+.np p{text-indent:1.1em}
+.np p.first:first-letter{font-size:24px;float:left;line-height:.9;margin:1px 3px 0 0;font-weight:700}
+/* typescript */
+.ts{padding:18px 20px;font-family:Elite;font-size:11.4px;line-height:1.45;background-color:#f3eedf}
+.ts .hd{text-align:center;letter-spacing:2px;margin-bottom:8px}
+.ts .sm{font-size:10px;text-align:center;margin:-6px 0 8px}
+/* handwriting */
+.hw{padding:16px 20px;font-family:Hand;font-size:11.5px;line-height:1.7;background-color:#ebe0c6;color:#2b2140}
+/* log */
+.log{padding:14px 16px;font-family:Fell;font-size:11.6px;line-height:1.33;background-color:#e2d4ad;
+ background-image:repeating-linear-gradient(180deg,transparent 0 14.9px,rgba(80,60,40,.18) 14.9px 15.4px)}
+.log .hd{text-align:center;font-size:15px;letter-spacing:1px}
+.log .sub{text-align:center;font-style:italic;margin-bottom:6px}
+/* letter */
+.lt{padding:16px 20px;font-family:OldStd;font-size:10.8px;line-height:1.42;background-color:#f4efe3}
+.lt .head{text-align:center;border-bottom:.8px solid #2a2420;padding-bottom:5px;margin-bottom:8px}
+.lt .head b{display:block;font-size:13px;letter-spacing:1px}
+.lt .head i{font-size:9.4px}
+.lt p{margin-bottom:5px;text-indent:1.2em}
+.lt .r{text-align:right;font-style:italic}
+/* telegram */
+.tg{padding:0;background-color:#e9dcae;font-family:OldStd;font-size:10px}
+.tg .bar{background:#6c3b2a;color:#f3e7c6;text-align:center;letter-spacing:3px;font-weight:700;font-size:12px;padding:5px 0}
+.tg .meta{display:flex;justify-content:space-between;padding:5px 12px;border-bottom:.8px solid #6c3b2a;font-size:9px;letter-spacing:.5px;text-transform:uppercase}
+.tg .body{padding:9px 14px 12px;font-family:Elite;font-size:11.6px;line-height:1.45;text-transform:uppercase}
+.tg .note{padding:0 14px 9px;font-style:italic;font-size:9.2px}
+</style></head><body>
+<div id="spread">
+ <div id="board"></div>
+ <div id="ledge"></div>
+ <div class="stub" style="left:300px;width:58px"></div><div class="stub" style="left:1890px;width:36px;transform:rotate(4deg)"></div><div class="stub" style="left:2300px;width:24px"></div>
+
+ <svg class="lay" id="chalklines"></svg>
+
+ <!-- ===== chalk writing ===== -->
+ <div class="chalk" style="left:60px;top:34px;font-size:46px;font-weight:700">In this matter dates are everything.</div>
+ <div class="chalk" style="left:640px;top:84px;font-size:24px;transform:rotate(-2deg)">— M. H., 29 Sept.</div>
+
+ <div class="chalk" style="left:1792px;top:28px;font-size:26px;transform:rotate(-1deg)">and every item in<br>chronological order</div>
+
+ <div class="chalk" style="left:1100px;top:440px;font-size:23px;width:170px;transform:rotate(-1.5deg)">11 Aug — Lucy asleep on the East Cliff, at the suicide's seat. Something dark bent over her.</div>
+
+ <div class="chalk" style="left:1932px;top:402px;font-size:24px;width:210px;transform:rotate(1deg)">20 Sept — Lucy dies.<br><span style="font-size:20px">Hillingham.</span></div>
+ <div class="chalk" style="left:1975px;top:470px;font-size:22px;width:200px;transform:rotate(-1deg)">22 Sept — Piccadilly. J. sees the Count — grown young!</div>
+
+ <div class="chalk" style="left:1945px;top:562px;font-size:22px;width:190px;transform:rotate(-1deg)">50 boxes of earth → the old chapel, marked "A"</div>
+
+ <div class="chalk" style="left:2190px;top:560px;font-size:25px;width:330px;transform:rotate(-2deg)">29 Sept — Purfleet.<br>Who has the 50 boxes now?<br><span style="font-size:34px;font-weight:700">CARFAX</span> <span style="font-size:22px">— next door.</span></div>
+
+ <!-- map labels -->
+ <div class="chalk" style="left:56px;top:640px;font-size:21px">The Demeter, 6 July – 8 Aug.</div>
+ <div id="maplabels"></div>
+
+ <!-- ===== papers ===== -->
+ <!-- Jonathan, typescript -->
+ <div class="p ts" data-pin="3 May" style="left:62px;top:132px;width:300px;transform:rotate(-2deg)">
+  <div class="hd">JONATHAN HARKER'S JOURNAL.</div><div class="sm">(Kept in shorthand.)</div>
+  3 May. Bistritz.—Left Munich at 8:35 P.M., on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late. Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train ...
+  <div style="text-align:right;margin-top:6px;font-size:10px">— copy 1 of 3 —</div>
+ </div>
+
+ <!-- Count's letter -->
+ <div class="p hw" data-pin="3 May" style="left:394px;top:150px;width:262px;transform:rotate(3deg)">
+  My Friend.—Welcome to the Carpathians. I am anxiously expecting you. Sleep well to-night. At three to-morrow the diligence will start for Bukovina; a place on it is kept for you. At the Borgo Pass my carriage will await you and will bring you to me.
+  <div style="text-align:right;margin-top:4px">Your friend,<br>Dracula.</div>
+ </div>
+
+ <!-- 30 June -->
+ <div class="p ts" data-pin="30 June" style="left:446px;top:470px;width:250px;transform:rotate(-3deg);padding:14px 16px">
+  30 June, morning.—These may be the last words I ever write in this diary.
+  <div style="text-align:right;margin-top:6px;font-size:10px">J. H.</div>
+ </div>
+
+ <!-- Demeter log -->
+ <div class="p log" data-pin="6 July" style="left:722px;top:446px;width:270px;transform:rotate(2deg)">
+  <div class="hd">LOG OF THE "DEMETER."</div><div class="sub">Varna to Whitby.</div>
+  On 6 July we finished taking in cargo, silver sand and boxes of earth. At noon set sail. East wind, fresh. Crew, five hands ... two mates, cook, and myself (captain).<br>
+  On 11 July at dawn entered Bosphorus. Boarded by Turkish Customs officers. Backsheesh. All correct.
+ </div>
+
+ <!-- Dailygraph -->
+ <div class="p np torn" data-pin="8 Aug" style="left:806px;top:84px;width:400px;transform:rotate(-1.5deg)">
+  <div class="mast">The Dailygraph</div>
+  <div class="date"><span>London</span><span>8 August, 1893</span><span>One Penny</span></div>
+  <h4>From a Correspondent. — Whitby.</h4><div class="rule"></div>
+  <div class="cols">
+  <p class="first">... between the piers, leaping from wave to wave as it rushed at headlong speed, swept the strange schooner before the blast, with all sail set, and gained the safety of the harbour. The searchlight followed her, and a shudder ran through all who saw her, for lashed to the helm was a corpse, with drooping head, which swung horribly to and fro at each motion of the ship. No other form could be seen on deck at all.</p>
+  <p>... the very instant the shore was touched, an immense dog sprang up on deck from below, as if shot up by the concussion, and running forward, jumped from the bow on the sand. Making straight for the steep cliff, where the churchyard hangs over the laneway to the East Pier ... it disappeared in the darkness.</p>
+  </div>
+ </div>
+
+ <!-- Billington -->
+ <div class="p lt" data-pin="17 Aug" style="left:1326px;top:96px;width:330px;transform:rotate(1.5deg)">
+  <div class="head"><b>SAMUEL F. BILLINGTON &amp; SON</b><i>Solicitors · Whitby</i></div>
+  <div style="text-align:right;margin-bottom:4px">17 August.</div>
+  <div>Dear Sirs,—</div>
+  <p>Herewith please receive invoice of goods sent by Great Northern Railway. Same are to be delivered at Carfax, near Purfleet, immediately on receipt at goods station King's Cross.</p>
+  <p>You will please deposit the boxes, fifty in number, which form the consignment, in the partially ruined building forming part of the house and marked 'A' on rough diagram enclosed ... it is the ancient chapel of the mansion.</p>
+  <div class="r">Faithfully yours,<br>Samuel F. Billington &amp; Son.</div>
+ </div>
+
+ <!-- Carter Paterson -->
+ <div class="p lt" data-pin="17 Aug" style="left:1318px;top:470px;width:270px;transform:rotate(-2.5deg);padding:13px 16px">
+  <div class="head" style="margin-bottom:6px"><b style="font-size:11.5px">CARTER, PATERSON &amp; CO.</b><i>Carriers · London</i></div>
+  <div style="text-align:right;margin-bottom:3px">21 August.</div>
+  <p>Goods are delivered in exact accordance with instructions, and keys left in parcel in main hall, as directed.</p>
+  <div class="r">Pro Carter, Paterson &amp; Co.</div>
+ </div>
+
+ <!-- Pall Mall -->
+ <div class="p np torn" data-pin="17 Sept" style="left:1690px;top:118px;width:340px;transform:rotate(-2deg)">
+  <div class="mast" style="font-size:24px">The Pall Mall Gazette</div>
+  <div class="date"><span>18 September</span><span>Price One Penny</span></div>
+  <h3>THE ESCAPED WOLF.</h3>
+  <h4>Perilous Adventure of Our Interviewer.</h4>
+  <h5>Interview with the Keeper in the Zoölogical Gardens.</h5>
+  <div class="cols">
+  <p class="first">After many inquiries and almost as many refusals, and perpetually using the words "Pall Mall Gazette" as a sort of talisman, I managed to find the keeper of the section of the Zoölogical Gardens in which the wolf department is included. Thomas Bilder lives in one of the cottages in the enclosure behind the elephant-house, and was just sitting down to his tea when I found him.</p>
+  </div>
+ </div>
+
+ <!-- Telegram -->
+ <div class="p tg" data-pin="17 Sept" style="left:1662px;top:456px;width:266px;transform:rotate(2.5deg)">
+  <div class="bar">POST OFFICE TELEGRAPHS</div>
+  <div class="meta"><span>From: Van Helsing, Antwerp</span><span>To: Seward, Carfax</span></div>
+  <div class="body">17 September.—Do not fail to be at Hillingham to-night. If not watching all the time frequently, visit and see that flowers are as placed; very important; do not fail.</div>
+  <div class="note">Sent to Carfax, Sussex, as no county given; delivered late by twenty-two hours.</div>
+ </div>
+
+ <!-- Westminster -->
+ <div class="p np torn" data-pin="25 Sept" style="left:2142px;top:66px;width:370px;transform:rotate(1.5deg)">
+  <div class="mast">The Westminster Gazette</div>
+  <div class="date"><span>25 September</span><span>Extra Special</span></div>
+  <h3>THE HAMPSTEAD HORROR.</h3>
+  <h4>Another Child Injured.</h4>
+  <h5>The "Bloofer Lady."</h5>
+  <div class="cols">
+  <p class="first">We have just received intelligence that another child, missed last night, was only discovered late in the morning under a furze bush at the Shooter's Hill side of Hampstead Heath, which is, perhaps, less frequented than the other parts. It has the same tiny wound in the throat as has been noticed in other cases. It was terribly weak, and looked quite emaciated. It too, when partially restored, had the common story to tell of being lured away by the "bloofer lady."</p>
+  </div>
+ </div>
+
+ <svg class="lay" id="threads" style="z-index:6"></svg>
+ <div id="pins"></div>
+</div>
+
+<svg width="0" height="0" style="position:absolute">
+ <filter id="chalk" x="-5%" y="-5%" width="110%" height="110%">
+  <feTurbulence type="fractalNoise" baseFrequency="1.4" numOctaves="2" seed="4" result="n"/>
+  <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.6 1.35" result="m"/>
+  <feComposite in="SourceGraphic" in2="m" operator="in" result="c"/>
+  <feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="1" seed="9" result="w"/>
+  <feDisplacementMap in="c" in2="w" scale="2.2"/>
+ </filter>
+ <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" seed="2"/><feColorMatrix type="saturate" values="0"/></filter>
+</svg>
+
+<script>
+// timeline: chalk line, ticks and dates; threads from each paper's pin to its date
+const Y=372, T=[["3 May",150,"Bistritz"],["30 June",540,"J. escapes the castle"],["6 July",760,"Demeter sails"],["8 Aug",1010,"Whitby: the wreck"],["",1180,""],["",1950,""],["",2060,""],["17 Aug",1440,"boxes leave Whitby"],["17 Sept",1735,"the wolf; Lucy's last night"],["25 Sept",2210,"the bloofer lady"],["29 Sept",2420,""]];
+const NS="http://www.w3.org/2000/svg", cl=document.getElementById('chalklines');
+function el(t,a,p){const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);(p||cl).appendChild(e);return e}
+const g=el('g',{filter:'url(#chalk)',stroke:'#ecebe2',fill:'none','stroke-linecap':'round'});
+let d=`M60 ${Y+2}`;for(let x=60;x<=2500;x+=40)d+=` L${x} ${Y+Math.sin(x*.013)*1.6+(x%120?0:.8)}`;
+el('path',{d,'stroke-width':3.4},g);el('path',{d:`M2470 ${Y-10} L2500 ${Y} L2470 ${Y+10}`,'stroke-width':3},g);
+T.forEach(([lab,x,sub],i)=>{el('path',{d:`M${x} ${Y-13} L${x+1} ${Y+13}`,'stroke-width':3},g);
+ const up=false, ty=Y+30;
+ const tx=el('text',{x:x+8,y:ty,fill:'#ecebe2',stroke:'none','font-family':'Caveat','font-weight':700,'font-size':25},g);tx.textContent=lab;
+ if(sub){const s=el('text',{x:x+8,y:ty+20,fill:'#ecebe2',stroke:'none','font-family':'Caveat','font-size':19},g);s.textContent=sub;}});
+// circle round CARFAX + arrow from the 50 boxes note
+el('ellipse',{cx:2248,cy:634,rx:70,ry:22,'stroke-width':2.4,transform:'rotate(-3 2248 634)'},g);
+el('path',{d:'M2120 615 C 2140 625, 2155 632, 2172 636','stroke-width':2.4},g);
+el('path',{d:'M2158 628 L2175 637 L2160 645','stroke-width':2.4},g);
+// underline title
+el('path',{d:'M62 88 C 300 84, 450 92, 600 86','stroke-width':2.6},g);
+// map: schematic route
+const M=[["Varna",330,500],["Bosphorus",318,540],["Matapan",252,585],["Gibraltar",120,620],["Biscay",104,560],["Dover",196,512],["Whitby",250,486]];
+let md='M'+M.map(p=>p[1]+' '+p[2]).join(' L ');
+el('path',{d:md,'stroke-width':2.2,'stroke-dasharray':'7 7'},g);
+M.forEach(([n,x,y])=>{el('circle',{cx:x,cy:y,r:4,fill:'#ecebe2'},g);const t=el('text',{x:x+(n=='Gibraltar'||n=='Biscay'||n=='Whitby'?-12:8),y:y+(n=='Whitby'?-10:5),fill:'#ecebe2',stroke:'none','font-family':'Caveat','font-size':18,'text-anchor':(n=='Gibraltar'||n=='Biscay'||n=='Whitby'?'end':'start')},g);if(n!='Whitby')t.textContent=n;});
+const kc=el('text',{x:160,y:472,fill:'#ecebe2',stroke:'none','font-family':'Caveat','font-size':18},g);kc.textContent='Whitby → rail → King\'s Cross → Carfax';
+// threads
+document.fonts.ready.then(()=>{
+ const th=document.getElementById('threads'), pins=document.getElementById('pins'), S=document.getElementById('spread').getBoundingClientRect();
+ document.querySelectorAll('.p[data-pin]').forEach((p,i)=>{
+  const r=p.getBoundingClientRect(), x=r.left-S.left+r.width/2+(i%3-1)*40, above=r.top-S.top<Y, y=above? r.bottom-S.top-12 : r.top-S.top+12;
+  const dp=document.createElement('div');dp.className='pin';dp.style.left=(r.left-S.left+r.width/2)+'px';dp.style.top=(r.top-S.top+13)+'px';if(above)pins.appendChild(dp);
+  const px=document.createElement('div');px.className='pin';px.style.left=x+'px';px.style.top=y+'px';pins.appendChild(px);
+  const tx=T.find(t=>t[0]==p.dataset.pin)[1], ty=Y;
+  const mx=(x+tx)/2, my=Math.max(y,ty)+ (above? 18:-18);
+  el('path',{d:`M${x} ${y} Q ${mx} ${(y+ty)/2+(above?26:-26)} ${tx} ${ty}`,stroke:'#a8231b','stroke-width':1.7,fill:'none',opacity:.92},th);
+  const k=document.createElement('div');k.className='pin';k.style.left=tx+'px';k.style.top=ty+'px';k.style.width=k.style.height='11px';k.style.margin='-5px 0 0 -5px';pins.appendChild(k);
+ });
+ document.body.dataset.ready=1;
+});
+</script>
+</body></html>

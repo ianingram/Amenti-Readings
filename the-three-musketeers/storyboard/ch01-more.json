@@ -1,0 +1,180 @@
+{
+ "book": "the-three-musketeers",
+ "part": "Chapter I, gap beats",
+ "note": "Chapter I illustrated, shot-sized: establishing for each place, wide shots carry the narration, close-ups sparing. Recipe of 18 Nov: gemini-2.5-flash-image, face refs only, no plate ref.",
+ "style": "An oil painting of France in 1625, in the manner of Meissonier and Maurice Leloir, painted alla prima: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; a single source of light, much of the picture in deep shadow (in daylight scenes: brilliant raking sun and crisp shadow instead); ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Exact costume of 1625: doublets, falling lace collars, wide-brimmed plumed felt hats, bucket-top boots, rapiers on baldrics; no tricorns, no wigs. Honey-coloured stone, dark timber and ochre dust by day; candle-gold against blue Paris dusk by night. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "dartagnan": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/dartagnan.jpg",
+  "rochefort": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/rochefort.jpg",
+  "milady": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/milady.jpg"
+ },
+ "people": {
+  "dartagnan": "D'Artagnan, a Gascon youth of eighteen: a long brown face, high cheekbones, open intelligent eyes, a finely chiselled hooked nose, dark hair to the shoulders, the faint first down of a moustache and no beard; a faded blue woollen doublet, a Béarnais cap with a feather, a long rapier on a leather baldric",
+  "rochefort": "the man of Meung (the Comte de Rochefort): a gentleman of forty to forty-five, black piercing eyes, a pale complexion, a strongly marked nose, a black well-shaped moustache, a small pale scar on the temple; a violet doublet with lace collar",
+  "milady": "Milady de Winter, a woman of twenty-two: pale and fair, long blonde curls falling over her shoulders, large languishing blue eyes, rosy lips, alabaster hands; a dark travelling gown with a lace collar",
+  "father": "D'Artagnan's father, an old Gascon gentleman of about sixty, lean and weathered, grey moustache and tuft, a worn but proud old-fashioned doublet",
+  "mother": "D'Artagnan's mother, a Gascon lady of about fifty in a dark gown and white coif",
+  "host": "the host of the Jolly Miller, a stout cunning innkeeper of fifty in a leather apron, cap in hand"
+ },
+ "beats": [
+  {
+   "tag": "tm-c01-vineyard",
+   "chapter": 1,
+   "cue": 11,
+   "at": "there he is, captain of the Musketeers",
+   "who": [
+    "father",
+    "dartagnan"
+   ],
+   "text": "Shot: wide, far. Evening on the terrace of the old Gascon manor above its vineyards: the old father walking slowly beside his son, talking with one hand raised, the Pyrenees blue beyond. Small figures in a large landscape."
+  },
+  {
+   "tag": "tm-c01-farewell",
+   "chapter": 1,
+   "cue": 13,
+   "at": "whereas Mme. D’Artagnan was a woman",
+   "who": [
+    "mother",
+    "father",
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The doorway of the old Gascon manor at dawn: the mother weeping into her apron, the stern old father standing apart with folded arms, the son holding the bridle of a yellow pony, a servant watching from the stable."
+  },
+  {
+   "tag": "tm-c01-auditors",
+   "chapter": 1,
+   "cue": 16,
+   "at": "his horse was",
+   "who": [
+    "rochefort",
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The inn yard at Meung in raking afternoon sun: at a ground-floor window a gentleman in a violet doublet points out at a yellow pony while two men beside him laugh; below, the young Gascon in his faded blue doublet stands by the pony, unnoticed, listening."
+  },
+  {
+   "tag": "tm-c01-portmanteau",
+   "chapter": 1,
+   "cue": 17,
+   "at": "This doublet and hose, though new, were creased",
+   "who": [],
+   "text": "Shot: close detail. On an inn bed, an open leather portmanteau with a creased violet doublet and hose folded in it, a plumed black hat and gloves beside it, afternoon light through a shutter."
+  },
+  {
+   "tag": "tm-c01-cap-down",
+   "chapter": 1,
+   "cue": 18,
+   "at": "he pulled his cap down over his eyes",
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. The young Gascon pulling his cap down over his eyes, one hand on the hilt of his long sword, striding across the sunlit inn yard toward an open window, flushed with anger."
+  },
+  {
+   "tag": "tm-c01-buttercup",
+   "chapter": 1,
+   "cue": 26,
+   "who": [
+    "rochefort",
+    "dartagnan"
+   ],
+   "text": "Shot: wide. Under the inn gateway the gentleman in violet stands with his back half turned, gesturing at a yellow pony and talking to two laughing men at the window; the young Gascon faces him with his sword drawn a foot out of the scabbard."
+  },
+  {
+   "tag": "tm-c01-turn",
+   "chapter": 1,
+   "cue": 42,
+   "who": [
+    "dartagnan",
+    "rochefort"
+   ],
+   "text": "Shot: medium. The young Gascon, sword fully drawn, coming after the gentleman in violet, who turns on his heel in the gateway and looks at him with astonishment and contempt."
+  },
+  {
+   "tag": "tm-c01-host-tells",
+   "chapter": 1,
+   "cue": 86,
+   "who": [
+    "rochefort",
+    "host"
+   ],
+   "text": "Shot: medium. In the low beamed room of the inn, the gentleman in violet suddenly attentive, leaning forward from the window seat, while the stout host bends close to tell him something, cap in hand."
+  },
+  {
+   "tag": "tm-c01-doorway-wait",
+   "chapter": 1,
+   "cue": 113,
+   "who": [
+    "rochefort"
+   ],
+   "text": "Shot: wide. The gentleman in violet alone in the inn's great gateway, pulling on his gloves and looking impatiently down the empty road, his saddled black horse beside him."
+  },
+  {
+   "tag": "tm-c01-kitchen-enter",
+   "chapter": 1,
+   "cue": 116,
+   "who": [
+    "rochefort"
+   ],
+   "text": "Shot: wide. The gentleman in violet stepping into the dim inn kitchen, glancing round; a worn blue doublet hangs on a chair by the fire. Copper pans, a single window of light."
+  },
+  {
+   "tag": "tm-c01-sees-carriage",
+   "chapter": 1,
+   "cue": 118,
+   "at": "the first thing he saw was his antagonist",
+   "who": [
+    "dartagnan",
+    "rochefort"
+   ],
+   "text": "Shot: wide. From the dark kitchen doorway, the young Gascon, head bound in a linen cloth and without his doublet, sees across the bright yard his antagonist talking calmly at the step of a heavy travelling carriage."
+  },
+  {
+   "tag": "tm-c01-rage",
+   "chapter": 1,
+   "cue": 164,
+   "at": "he flew, for the third time, into such a rage",
+   "who": [
+    "dartagnan",
+    "host"
+   ],
+   "text": "Shot: wide. The inn kitchen in uproar: the young Gascon in a fury threatening to smash everything, the stout host and his wife backing away, servants peering round the door."
+  },
+  {
+   "tag": "tm-c01-stump",
+   "chapter": 1,
+   "cue": 168,
+   "at": "stump of a sword",
+   "who": [],
+   "text": "Shot: close detail. A young man's hand gripping the hilt of a long sword broken off a hand's breadth above the guard, the jagged steel catching the light."
+  },
+  {
+   "tag": "tm-c01-cowed",
+   "chapter": 1,
+   "cue": 176,
+   "who": [
+    "host",
+    "dartagnan"
+   ],
+   "text": "Shot: medium. The stout host lowering the point of his roasting spit, cowed, as the young Gascon glares at him across the kitchen table."
+  },
+  {
+   "tag": "tm-c01-idea",
+   "chapter": 1,
+   "cue": 193,
+   "who": [
+    "host"
+   ],
+   "text": "Shot: medium. The stout host stopping in the middle of his useless search, struck by an idea, one finger raised, the kitchen in disorder behind him."
+  },
+  {
+   "tag": "tm-c01-mime",
+   "chapter": 1,
+   "cue": 208,
+   "who": [
+    "host",
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The inn kitchen: the host showing the young Gascon the chair by the fire where the doublet had hung, miming how the gentleman lingered there alone."
+  }
+ ]
+}

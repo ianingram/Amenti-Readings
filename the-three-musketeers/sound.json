@@ -1,0 +1,537 @@
+{
+ "_file": "the-three-musketeers/sound.json",
+ "_updated": "2026-11-18",
+ "work": "the-three-musketeers",
+ "note": "Rooms, sounds on the words and score for The Three Musketeers. Chapter 1 is placed by hand (sounds on the words); later chapters carry a room and a score mood chosen from the chapter title. Score: four moods built from VSCO 2 CE (build-moods.py). Sources in sound/SOURCES.md.",
+ "files": {
+  "base": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/sound/",
+  "beds": {
+   "meung": "meung-crowd.mp3",
+   "gascon_road": "https://ianingram.github.io/Amenti-Readings/dracula/sound/wind.mp3",
+   "inn": "https://ianingram.github.io/Amenti-Readings/a-christmas-carol/sound/bed-tavern-v2.mp3",
+   "antechamber": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/old-bailey.mp3",
+   "paris_street": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/fleet-street.mp3",
+   "louvre": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/salon.mp3",
+   "night_street": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/soho-night.mp3"
+  },
+  "oneshots": {
+   "sword_draw": "sword-draw.mp3",
+   "sword_cut": "sword-cut.mp3",
+   "sword_swish": "sword-swish.mp3",
+   "blade_break": "blade-break.mp3",
+   "horse_trot": "horse-trot.mp3",
+   "horse_neigh": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horse-neigh.mp3",
+   "horse_snort": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/horse-snort.mp3",
+   "horses_halt": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/horses-arrive.mp3",
+   "horses_start": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/horses-trot-away.mp3",
+   "horse_gallop": "https://ianingram.github.io/Amenti-Readings/dracula/sound/horses-gallop.mp3",
+   "whip_crack": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/whip-crack.mp3",
+   "cart": "https://ianingram.github.io/Amenti-Readings/dracula/sound/cart.mp3",
+   "laughter": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/crowd-giggle.mp3",
+   "door_open": "https://ianingram.github.io/Amenti-Readings/dracula/sound/door_open.mp3",
+   "body_fall": "https://ianingram.github.io/Amenti-Readings/treasure-island/sound/body-fall.mp3",
+   "blows": "https://ianingram.github.io/Amenti-Readings/julius-caesar/sound/stalls-overturned.mp3",
+   "coin": "https://ianingram.github.io/Amenti-Readings/a-tale-of-two-cities/sound/coin.mp3",
+   "stairs": "https://ianingram.github.io/Amenti-Readings/dracula/sound/stairs.mp3"
+  },
+  "score": {
+   "overture": "score-gascony.mp3",
+   "gascony": "score-gascony.mp3",
+   "meung": "score-meung.mp3",
+   "intrigue": "score-intrigue.mp3",
+   "romance": "score-romance.mp3"
+  },
+  "levels": {
+   "overture": 0.7,
+   "gascony": 0.38,
+   "meung": 0.38,
+   "intrigue": 0.38,
+   "romance": 0.38
+  },
+  "breath": {
+   "note": "The score ebbs and flows under the voice, as in Dracula and Two Cities.",
+   "min": 0.35,
+   "periods": [
+    43,
+    71,
+    113
+   ]
+  },
+  "sfx_levels": {
+   "sword_draw": 0.6,
+   "sword_cut": 0.55,
+   "sword_swish": 0.5,
+   "blade_break": 0.6,
+   "horse_trot": 0.5,
+   "horse_neigh": 0.5,
+   "horse_snort": 0.5,
+   "horses_halt": 0.55,
+   "horses_start": 0.55,
+   "horse_gallop": 0.6,
+   "whip_crack": 0.55,
+   "cart": 0.45,
+   "laughter": 0.25,
+   "door_open": 0.5,
+   "body_fall": 0.45,
+   "blows": 0.45,
+   "coin": 0.5,
+   "stairs": 0.45
+  }
+ },
+ "beds": {
+  "meung": {
+   "note": "Meung, the first Monday of April 1625: a curious crowd in the High Street outside the Jolly Miller (BigSoundBank #3515, CC0, softened).",
+   "levels": {
+    "1": 0.55,
+    "2": 0.25
+   }
+  },
+  "gascon_road": {
+   "note": "The open road from Gascony: wind (Dracula's wind, held low); the yellow pony comes in as sounds on the words.",
+   "levels": {
+    "1": 0.4
+   }
+  },
+  "inn": {
+   "note": "Inside the Jolly Miller: tavern murmur (the Carol's tavern).",
+   "levels": {
+    "1": 0.5
+   }
+  },
+  "antechamber": {
+   "note": "M. de Tréville's antechamber: a crowded hall of musketeers (Two Cities' Old Bailey crowd).",
+   "levels": {
+    "1": 0.45
+   }
+  },
+  "paris_street": {
+   "note": "Paris streets by day (Two Cities' Fleet Street).",
+   "levels": {
+    "1": 0.45
+   }
+  },
+  "louvre": {
+   "note": "The Louvre: a salon murmur (Two Cities' salon).",
+   "levels": {
+    "1": 0.4
+   }
+  },
+  "night_street": {
+   "note": "Paris at night (Two Cities' Soho night).",
+   "levels": {
+    "1": 0.4
+   }
+  }
+ },
+ "chapters": [
+  {
+   "n": 1,
+   "bed": "meung",
+   "state": 1,
+   "score": "overture",
+   "lead": 20
+  },
+  {
+   "n": 2,
+   "bed": "antechamber",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 3,
+   "bed": "antechamber",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 4,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 5,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 6,
+   "bed": "antechamber",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 7,
+   "bed": "antechamber",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 8,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 9,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 10,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 11,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 12,
+   "bed": "louvre",
+   "state": 1,
+   "score": "romance"
+  },
+  {
+   "n": 13,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 14,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 15,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 16,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 17,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 18,
+   "bed": "louvre",
+   "state": 1,
+   "score": "romance"
+  },
+  {
+   "n": 19,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 20,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 21,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 22,
+   "bed": "louvre",
+   "state": 1,
+   "score": "romance"
+  },
+  {
+   "n": 23,
+   "bed": "louvre",
+   "state": 1,
+   "score": "romance"
+  },
+  {
+   "n": 24,
+   "bed": "louvre",
+   "state": 1,
+   "score": "romance"
+  },
+  {
+   "n": 25,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 26,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 27,
+   "bed": "louvre",
+   "state": 1,
+   "score": "romance"
+  },
+  {
+   "n": 28,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 29,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 30,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 31,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 32,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 33,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 34,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 35,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 36,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 37,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 38,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 39,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 40,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 41,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 42,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 43,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 44,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 45,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 46,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 47,
+   "bed": "antechamber",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 48,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 49,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 50,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 51,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 52,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 53,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 54,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 55,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 56,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 57,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 58,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 59,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 60,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 61,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 62,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 63,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 64,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 65,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 66,
+   "bed": "night_street",
+   "state": 1,
+   "score": "intrigue"
+  },
+  {
+   "n": 67,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  },
+  {
+   "n": 68,
+   "bed": "paris_street",
+   "state": 1,
+   "score": "gascony"
+  }
+ ]
+}

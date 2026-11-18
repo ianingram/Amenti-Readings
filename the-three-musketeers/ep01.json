@@ -62,14 +62,24 @@
    "para": 3,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "A young man—we can sketch his portrait at a dash. Imagine to yourself a\nDon Quixote of eighteen; a Don Quixote without his corselet, without\nhis coat of mail, without his cuisses; a Don Quixote clothed in a\nwoolen doublet, the blue color of which had faded into a nameless shade\nbetween lees of wine and a heavenly azure; face long and brown; high\ncheek bones, a sign of sagacity; the maxillary muscles enormously\ndeveloped, an infallible sign by which a Gascon may always be detected,\neven without his cap—and our young man wore a cap set off with a sort\nof feather; the eye open and intelligent; the nose hooked, but finely\nchiseled. Too big for a youth, too small for a grown man, an\nexperienced eye might have taken him for a farmer’s son upon a journey\nhad it not been for the long sword which, dangling from a leather\nbaldric, hit against the calves of its owner as he walked, and against\nthe rough side of his steed when he was on horseback."
+   "text": "A young man—we can sketch his portrait at a dash. Imagine to yourself a\nDon Quixote of eighteen; a Don Quixote without his corselet, without\nhis coat of mail, without his cuisses; a Don Quixote clothed in a\nwoolen doublet, the blue color of which had faded into a nameless shade\nbetween lees of wine and a heavenly azure; face long and brown; high\ncheek bones, a sign of sagacity; the maxillary muscles enormously\ndeveloped, an infallible sign by which a Gascon may always be detected,\neven without his cap—and our young man wore a cap set off with a sort\nof feather; the eye open and intelligent; the nose hooked, but finely\nchiseled. Too big for a youth, too small for a grown man, an\nexperienced eye might have taken him for a farmer’s son upon a journey\nhad it not been for the long sword which, dangling from a leather\nbaldric, hit against the calves of its owner as he walked, and against\nthe rough side of his steed when he was on horseback.",
+   "score": {
+    "key": "gascony",
+    "xfade": 8
+   }
   },
   {
    "n": 5,
    "para": 4,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "For our young man had a steed which was the observed of all observers.\nIt was a Béarn pony, from twelve to fourteen years old, yellow in his\nhide, without a hair in his tail, but not without windgalls on his\nlegs, which, though going with his head lower than his knees, rendering\na martingale quite unnecessary, contrived nevertheless to perform his\neight leagues a day. Unfortunately, the qualities of this horse were so\nwell concealed under his strange-colored hide and his unaccountable\ngait, that at a time when everybody was a connoisseur in horseflesh,\nthe appearance of the aforesaid pony at Meung—which place he had\nentered about a quarter of an hour before, by the gate of\nBeaugency—produced an unfavorable feeling, which extended to his rider."
+   "text": "For our young man had a steed which was the observed of all observers.\nIt was a Béarn pony, from twelve to fourteen years old, yellow in his\nhide, without a hair in his tail, but not without windgalls on his\nlegs, which, though going with his head lower than his knees, rendering\na martingale quite unnecessary, contrived nevertheless to perform his\neight leagues a day. Unfortunately, the qualities of this horse were so\nwell concealed under his strange-colored hide and his unaccountable\ngait, that at a time when everybody was a connoisseur in horseflesh,\nthe appearance of the aforesaid pony at Meung—which place he had\nentered about a quarter of an hour before, by the gate of\nBeaugency—produced an unfavorable feeling, which extended to his rider.",
+   "sfx": [
+    {
+     "key": "horse_snort",
+     "at": "a Béarn pony"
+    }
+   ]
   },
   {
    "n": 6,
@@ -132,7 +142,14 @@
    "para": 9,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "The same day the young man set forward on his journey, furnished with\nthe three paternal gifts, which consisted, as we have said, of fifteen\ncrowns, the horse, and the letter for M. de Tréville—the counsels being\nthrown into the bargain."
+   "text": "The same day the young man set forward on his journey, furnished with\nthe three paternal gifts, which consisted, as we have said, of fifteen\ncrowns, the horse, and the letter for M. de Tréville—the counsels being\nthrown into the bargain.",
+   "bed": "gascon_road",
+   "sfx": [
+    {
+     "key": "horse_trot",
+     "at": "set forward on his journey"
+    }
+   ]
   },
   {
    "n": 15,
@@ -146,7 +163,19 @@
    "para": 11,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "But there, as he was alighting from his horse at the gate of the Jolly\nMiller, without anyone—host, waiter, or hostler—coming to hold his\nstirrup or take his horse, D’Artagnan spied, though an open window on\nthe ground floor, a gentleman, well-made and of good carriage, although\nof rather a stern countenance, talking with two persons who appeared to\nlisten to him with respect. D’Artagnan fancied quite naturally,\naccording to his custom, that he must be the object of their\nconversation, and listened. This time D’Artagnan was only in part\nmistaken; he himself was not in question, but his horse was. The\ngentleman appeared to be enumerating all his qualities to his auditors;\nand, as I have said, the auditors seeming to have great deference for\nthe narrator, they every moment burst into fits of laughter. Now, as a\nhalf-smile was sufficient to awaken the irascibility of the young man,\nthe effect produced upon him by this vociferous mirth may be easily\nimagined."
+   "text": "But there, as he was alighting from his horse at the gate of the Jolly\nMiller, without anyone—host, waiter, or hostler—coming to hold his\nstirrup or take his horse, D’Artagnan spied, though an open window on\nthe ground floor, a gentleman, well-made and of good carriage, although\nof rather a stern countenance, talking with two persons who appeared to\nlisten to him with respect. D’Artagnan fancied quite naturally,\naccording to his custom, that he must be the object of their\nconversation, and listened. This time D’Artagnan was only in part\nmistaken; he himself was not in question, but his horse was. The\ngentleman appeared to be enumerating all his qualities to his auditors;\nand, as I have said, the auditors seeming to have great deference for\nthe narrator, they every moment burst into fits of laughter. Now, as a\nhalf-smile was sufficient to awaken the irascibility of the young man,\nthe effect produced upon him by this vociferous mirth may be easily\nimagined.",
+   "bed": "meung",
+   "state": 2,
+   "sfx": [
+    {
+     "key": "horses_halt",
+     "at": "alighting from his horse"
+    },
+    {
+     "key": "laughter",
+     "at": "talking with two persons"
+    }
+   ]
   },
   {
    "n": 17,
@@ -160,7 +189,13 @@
    "para": 13,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "Now, as at the moment in which D’Artagnan fixed his eyes upon the\ngentleman in the violet doublet, the gentleman made one of his most\nknowing and profound remarks respecting the Béarnese pony, his two\nauditors laughed even louder than before, and he himself, though\ncontrary to his custom, allowed a pale smile (if I may be allowed to\nuse such an expression) to stray over his countenance. This time there\ncould be no doubt; D’Artagnan was really insulted. Full, then, of this\nconviction, he pulled his cap down over his eyes, and endeavoring to\ncopy some of the court airs he had picked up in Gascony among young\ntraveling nobles, he advanced with one hand on the hilt of his sword\nand the other resting on his hip. Unfortunately, as he advanced, his\nanger increased at every step; and instead of the proper and lofty\nspeech he had prepared as a prelude to his challenge, he found nothing\nat the tip of his tongue but a gross personality, which he accompanied\nwith a furious gesture."
+   "text": "Now, as at the moment in which D’Artagnan fixed his eyes upon the\ngentleman in the violet doublet, the gentleman made one of his most\nknowing and profound remarks respecting the Béarnese pony, his two\nauditors laughed even louder than before, and he himself, though\ncontrary to his custom, allowed a pale smile (if I may be allowed to\nuse such an expression) to stray over his countenance. This time there\ncould be no doubt; D’Artagnan was really insulted. Full, then, of this\nconviction, he pulled his cap down over his eyes, and endeavoring to\ncopy some of the court airs he had picked up in Gascony among young\ntraveling nobles, he advanced with one hand on the hilt of his sword\nand the other resting on his hip. Unfortunately, as he advanced, his\nanger increased at every step; and instead of the proper and lofty\nspeech he had prepared as a prelude to his challenge, he found nothing\nat the tip of his tongue but a gross personality, which he accompanied\nwith a furious gesture.",
+   "sfx": [
+    {
+     "key": "laughter",
+     "at": "laughed even louder than before"
+    }
+   ]
   },
   {
    "n": 19,
@@ -202,14 +237,30 @@
    "para": 17,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "The stranger looked at him again with a slight smile, and retiring from\nthe window, came out of the hostelry with a slow step, and placed\nhimself before the horse, within two paces of D’Artagnan. His quiet\nmanner and the ironical expression of his countenance redoubled the\nmirth of the persons with whom he had been talking, and who still\nremained at the window."
+   "text": "The stranger looked at him again with a slight smile, and retiring from\nthe window, came out of the hostelry with a slow step, and placed\nhimself before the horse, within two paces of D’Artagnan. His quiet\nmanner and the ironical expression of his countenance redoubled the\nmirth of the persons with whom he had been talking, and who still\nremained at the window.",
+   "sfx": [
+    {
+     "key": "horse_neigh",
+     "at": "placed himself before the horse"
+    }
+   ]
   },
   {
    "n": 25,
    "para": 18,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "D’Artagnan, seeing him approach, drew his sword a foot out of the\nscabbard."
+   "text": "D’Artagnan, seeing him approach, drew his sword a foot out of the\nscabbard.",
+   "sfx": [
+    {
+     "key": "sword_draw",
+     "at": "drew his sword a foot out of the scabbard"
+    }
+   ],
+   "score": {
+    "key": "meung",
+    "xfade": 4
+   }
   },
   {
    "n": 26,
@@ -321,7 +372,13 @@
    "para": 24,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "But, D’Artagnan was not of a character to allow a man to escape him\nthus who had the insolence to ridicule him. He drew his sword entirely\nfrom the scabbard, and followed him, crying,"
+   "text": "But, D’Artagnan was not of a character to allow a man to escape him\nthus who had the insolence to ridicule him. He drew his sword entirely\nfrom the scabbard, and followed him, crying,",
+   "sfx": [
+    {
+     "key": "sword_draw",
+     "at": "drew his sword entirely from the scabbard"
+    }
+   ]
   },
   {
    "n": 42,
@@ -384,7 +441,21 @@
    "para": 26,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "He had scarcely finished, when D’Artagnan made such a furious lunge at\nhim that if he had not sprung nimbly backward, it is probable he would\nhave jested for the last time. The stranger, then perceiving that the\nmatter went beyond raillery, drew his sword, saluted his adversary, and\nseriously placed himself on guard. But at the same moment, his two\nauditors, accompanied by the host, fell upon D’Artagnan with sticks,\nshovels and tongs. This caused so rapid and complete a diversion from\nthe attack that D’Artagnan’s adversary, while the latter turned round\nto face this shower of blows, sheathed his sword with the same\nprecision, and instead of an actor, which he had nearly been, became a\nspectator of the fight—a part in which he acquitted himself with his\nusual impassiveness, muttering, nevertheless,"
+   "text": "He had scarcely finished, when D’Artagnan made such a furious lunge at\nhim that if he had not sprung nimbly backward, it is probable he would\nhave jested for the last time. The stranger, then perceiving that the\nmatter went beyond raillery, drew his sword, saluted his adversary, and\nseriously placed himself on guard. But at the same moment, his two\nauditors, accompanied by the host, fell upon D’Artagnan with sticks,\nshovels and tongs. This caused so rapid and complete a diversion from\nthe attack that D’Artagnan’s adversary, while the latter turned round\nto face this shower of blows, sheathed his sword with the same\nprecision, and instead of an actor, which he had nearly been, became a\nspectator of the fight—a part in which he acquitted himself with his\nusual impassiveness, muttering, nevertheless,",
+   "sfx": [
+    {
+     "key": "sword_swish",
+     "at": "furious lunge"
+    },
+    {
+     "key": "sword_draw",
+     "at": "drew his sword, saluted"
+    },
+    {
+     "key": "blows",
+     "at": "with sticks, shovels and tongs"
+    }
+   ]
   },
   {
    "n": 51,
@@ -405,7 +476,13 @@
    "para": 27,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "cried D’Artagnan, making the\nbest face possible, and never retreating one step before his three\nassailants, who continued to shower blows upon him."
+   "text": "cried D’Artagnan, making the\nbest face possible, and never retreating one step before his three\nassailants, who continued to shower blows upon him.",
+   "sfx": [
+    {
+     "key": "blows",
+     "at": "shower blows upon him"
+    }
+   ]
   },
   {
    "n": 54,
@@ -433,7 +510,22 @@
    "para": 29,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "But the stranger knew not the headstrong personage he had to do with;\nD’Artagnan was not the man ever to cry for quarter. The fight was\ntherefore prolonged for some seconds; but at length D’Artagnan dropped\nhis sword, which was broken in two pieces by the blow of a stick.\nAnother blow full upon his forehead at the same moment brought him to\nthe ground, covered with blood and almost fainting."
+   "text": "But the stranger knew not the headstrong personage he had to do with;\nD’Artagnan was not the man ever to cry for quarter. The fight was\ntherefore prolonged for some seconds; but at length D’Artagnan dropped\nhis sword, which was broken in two pieces by the blow of a stick.\nAnother blow full upon his forehead at the same moment brought him to\nthe ground, covered with blood and almost fainting.",
+   "sfx": [
+    {
+     "key": "blade_break",
+     "at": "broken in two pieces"
+    },
+    {
+     "key": "body_fall",
+     "at": "brought him to the ground"
+    }
+   ],
+   "score": {
+    "key": null,
+    "at": "brought him to the ground",
+    "xfade": 3
+   }
   },
   {
    "n": 58,
@@ -447,7 +539,12 @@
    "para": 31,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "As to the gentleman, he resumed his place at the window, and surveyed\nthe crowd with a certain impatience, evidently annoyed by their\nremaining undispersed."
+   "text": "As to the gentleman, he resumed his place at the window, and surveyed\nthe crowd with a certain impatience, evidently annoyed by their\nremaining undispersed.",
+   "bed": "inn",
+   "score": {
+    "key": "intrigue",
+    "xfade": 8
+   }
   },
   {
    "n": 60,
@@ -461,7 +558,13 @@
    "para": 32,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "exclaimed he, turning round as the\nnoise of the door announced the entrance of the host, who came in to\ninquire if he was unhurt."
+   "text": "exclaimed he, turning round as the\nnoise of the door announced the entrance of the host, who came in to\ninquire if he was unhurt.",
+   "sfx": [
+    {
+     "key": "door_open",
+     "at": "the noise of the door"
+    }
+   ]
   },
   {
    "n": 62,
@@ -860,14 +963,28 @@
    "para": 62,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "In the meantime, the host, who entertained no doubt that it was the\npresence of the young man that drove the stranger from his hostelry,\nre-ascended to his wife’s chamber, and found D’Artagnan just recovering\nhis senses. Giving him to understand that the police would deal with\nhim pretty severely for having sought a quarrel with a great lord—for\nin the opinion of the host the stranger could be nothing less than a\ngreat lord—he insisted that notwithstanding his weakness D’Artagnan\nshould get up and depart as quickly as possible. D’Artagnan, half\nstupefied, without his doublet, and with his head bound up in a linen\ncloth, arose then, and urged by the host, began to descend the stairs;\nbut on arriving at the kitchen, the first thing he saw was his\nantagonist talking calmly at the step of a heavy carriage, drawn by two\nlarge Norman horses."
+   "text": "In the meantime, the host, who entertained no doubt that it was the\npresence of the young man that drove the stranger from his hostelry,\nre-ascended to his wife’s chamber, and found D’Artagnan just recovering\nhis senses. Giving him to understand that the police would deal with\nhim pretty severely for having sought a quarrel with a great lord—for\nin the opinion of the host the stranger could be nothing less than a\ngreat lord—he insisted that notwithstanding his weakness D’Artagnan\nshould get up and depart as quickly as possible. D’Artagnan, half\nstupefied, without his doublet, and with his head bound up in a linen\ncloth, arose then, and urged by the host, began to descend the stairs;\nbut on arriving at the kitchen, the first thing he saw was his\nantagonist talking calmly at the step of a heavy carriage, drawn by two\nlarge Norman horses.",
+   "sfx": [
+    {
+     "key": "stairs",
+     "at": "re-ascended to his wife’s chamber"
+    }
+   ]
   },
   {
    "n": 119,
    "para": 63,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "His interlocutor, whose head appeared through the carriage window, was\na woman of from twenty to two-and-twenty years. We have already\nobserved with what rapidity D’Artagnan seized the expression of a\ncountenance. He perceived then, at a glance, that this woman was young\nand beautiful; and her style of beauty struck him more forcibly from\nits being totally different from that of the southern countries in\nwhich D’Artagnan had hitherto resided. She was pale and fair, with long\ncurls falling in profusion over her shoulders, had large, blue,\nlanguishing eyes, rosy lips, and hands of alabaster. She was talking\nwith great animation with the stranger."
+   "text": "His interlocutor, whose head appeared through the carriage window, was\na woman of from twenty to two-and-twenty years. We have already\nobserved with what rapidity D’Artagnan seized the expression of a\ncountenance. He perceived then, at a glance, that this woman was young\nand beautiful; and her style of beauty struck him more forcibly from\nits being totally different from that of the southern countries in\nwhich D’Artagnan had hitherto resided. She was pale and fair, with long\ncurls falling in profusion over her shoulders, had large, blue,\nlanguishing eyes, rosy lips, and hands of alabaster. She was talking\nwith great animation with the stranger.",
+   "sfx": [
+    {
+     "key": "cart",
+     "at": "the carriage window"
+    }
+   ],
+   "bed": "meung",
+   "state": 2
   },
   {
    "n": 120,
@@ -1035,7 +1152,17 @@
    "para": 76,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "And bowing to the lady, he sprang into\nhis saddle, while her coachman applied his whip vigorously to his\nhorses. The two interlocutors thus separated, taking opposite\ndirections, at full gallop."
+   "text": "And bowing to the lady, he sprang into\nhis saddle, while her coachman applied his whip vigorously to his\nhorses. The two interlocutors thus separated, taking opposite\ndirections, at full gallop.",
+   "sfx": [
+    {
+     "key": "whip_crack",
+     "at": "applied his whip vigorously"
+    },
+    {
+     "key": "horse_gallop",
+     "at": "at full gallop"
+    }
+   ]
   },
   {
    "n": 144,
@@ -1049,7 +1176,17 @@
    "para": 77,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "cried the stranger to his servant, without checking\nthe speed of his horse; and the man, after throwing two or three silver\npieces at the foot of mine host, galloped after his master."
+   "text": "cried the stranger to his servant, without checking\nthe speed of his horse; and the man, after throwing two or three silver\npieces at the foot of mine host, galloped after his master.",
+   "sfx": [
+    {
+     "key": "coin",
+     "at": "two or three silver pieces"
+    },
+    {
+     "key": "horse_gallop",
+     "at": "galloped after his master"
+    }
+   ]
   },
   {
    "n": 146,
@@ -1063,7 +1200,17 @@
    "para": 78,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "cried D’Artagnan, springing forward, in\nhis turn, after the servant. But his wound had rendered him too weak to\nsupport such an exertion. Scarcely had he gone ten steps when his ears\nbegan to tingle, a faintness seized him, a cloud of blood passed over\nhis eyes, and he fell in the middle of the street, crying still,"
+   "text": "cried D’Artagnan, springing forward, in\nhis turn, after the servant. But his wound had rendered him too weak to\nsupport such an exertion. Scarcely had he gone ten steps when his ears\nbegan to tingle, a faintness seized him, a cloud of blood passed over\nhis eyes, and he fell in the middle of the street, crying still,",
+   "sfx": [
+    {
+     "key": "body_fall",
+     "at": "fell in the middle of the street"
+    }
+   ],
+   "score": {
+    "key": "meung",
+    "xfade": 5
+   }
   },
   {
    "n": 148,
@@ -1175,7 +1322,12 @@
    "para": 86,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "But when the time came to pay for his rosemary, this oil, and the wine,\nthe only expense the master had incurred, as he had preserved a strict\nabstinence—while on the contrary, the yellow horse, by the account of\nthe hostler at least, had eaten three times as much as a horse of his\nsize could reasonably be supposed to have done—D’Artagnan found nothing\nin his pocket but his little old velvet purse with the eleven crowns it\ncontained; for as to the letter addressed to M. de Tréville, it had\ndisappeared."
+   "text": "But when the time came to pay for his rosemary, this oil, and the wine,\nthe only expense the master had incurred, as he had preserved a strict\nabstinence—while on the contrary, the yellow horse, by the account of\nthe hostler at least, had eaten three times as much as a horse of his\nsize could reasonably be supposed to have done—D’Artagnan found nothing\nin his pocket but his little old velvet purse with the eleven crowns it\ncontained; for as to the letter addressed to M. de Tréville, it had\ndisappeared.",
+   "bed": "inn",
+   "score": {
+    "key": "gascony",
+    "xfade": 8
+   }
   },
   {
    "n": 164,
@@ -1518,14 +1670,30 @@
    "para": 110,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "He then drew two crowns majestically from his purse and gave\nthem to the host, who accompanied him, cap in hand, to the gate, and\nremounted his yellow horse, which bore him without any further accident\nto the gate of St. Antoine at Paris, where his owner sold him for three\ncrowns, which was a very good price, considering that D’Artagnan had\nridden him hard during the last stage. Thus the dealer to whom\nD’Artagnan sold him for the nine livres did not conceal from the young\nman that he only gave that enormous sum for him on the account of the\noriginality of his color."
+   "text": "He then drew two crowns majestically from his purse and gave\nthem to the host, who accompanied him, cap in hand, to the gate, and\nremounted his yellow horse, which bore him without any further accident\nto the gate of St. Antoine at Paris, where his owner sold him for three\ncrowns, which was a very good price, considering that D’Artagnan had\nridden him hard during the last stage. Thus the dealer to whom\nD’Artagnan sold him for the nine livres did not conceal from the young\nman that he only gave that enormous sum for him on the account of the\noriginality of his color.",
+   "sfx": [
+    {
+     "key": "coin",
+     "at": "two crowns"
+    },
+    {
+     "key": "horse_trot",
+     "at": "remounted his yellow horse"
+    }
+   ],
+   "bed": "gascon_road"
   },
   {
    "n": 213,
    "para": 111,
    "role": "Narrator",
    "cast": "Alexandre Dumas",
-   "text": "Thus D’Artagnan entered Paris on foot, carrying his little packet under\nhis arm, and walked about till he found an apartment to be let on terms\nsuited to the scantiness of his means. This chamber was a sort of\ngarret, situated in the Rue des Fossoyeurs, near the Luxembourg."
+   "text": "Thus D’Artagnan entered Paris on foot, carrying his little packet under\nhis arm, and walked about till he found an apartment to be let on terms\nsuited to the scantiness of his means. This chamber was a sort of\ngarret, situated in the Rue des Fossoyeurs, near the Luxembourg.",
+   "bed": "paris_street",
+   "score": {
+    "key": "gascony",
+    "xfade": 8
+   }
   },
   {
    "n": 214,

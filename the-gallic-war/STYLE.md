@@ -44,4 +44,7 @@ The plate's look in words: a legion winding along a dusty road through a wide gr
 - Anchors (chosen after Part 1 is placed; later parts use plate + one anchor as style refs): listed below.
 
 ## Anchors
-_(set after Part 1)_
+Chosen from Part 1 (18 Nov). Later parts pass **one** anchor as a style reference beside the face portraits, matched to the scene's light:
+- **Day, landscape and the march:** `art/ep01-alps.jpg` — the legion over the Alps in snow and sun.
+- **Day, people:** `art/ep01-divico-speaks.jpg` — Divico before Caesar's tribunal.
+- **Night and fire:** `art/ep01-x-tent-night.jpg` — Caesar's tent among the dark rows.

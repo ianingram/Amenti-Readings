@@ -1,0 +1,154 @@
+{
+ "work": "the-gallic-war",
+ "base": "art/",
+ "note": "Part 1 drawn 18 Nov 2026 with gemini-2.5-flash-image (alla-prima recipe, face refs only), 1K, cropped 7.5% for signatures.",
+ "episodes": {
+  "1": [
+   {
+    "from": 1,
+    "images": [
+     "ep01-gaul-map.jpg",
+     "ep01-belgae.jpg",
+     "ep01-aquitania.jpg"
+    ]
+   },
+   {
+    "from": 2,
+    "images": [
+     "ep01-x-rhone.jpg",
+     "ep01-helvetia.jpg"
+    ]
+   },
+   {
+    "from": 3,
+    "images": [
+     "ep01-pact.jpg"
+    ]
+   },
+   {
+    "from": 4,
+    "images": [
+     "ep01-chains.jpg",
+     "ep01-torches.jpg"
+    ]
+   },
+   {
+    "from": 5,
+    "images": [
+     "ep01-burning.jpg"
+    ]
+   },
+   {
+    "from": 7,
+    "images": [
+     "ep01-envoys.jpg"
+    ]
+   },
+   {
+    "from": 8,
+    "images": [
+     "ep01-x-lake.jpg",
+     "ep01-wall.jpg",
+     "ep01-rafts.jpg"
+    ]
+   },
+   {
+    "from": 9,
+    "images": [
+     "ep01-dumnorix-plea.jpg",
+     "ep01-column-pass.jpg"
+    ]
+   },
+   {
+    "from": 10,
+    "images": [
+     "ep01-x-road.jpg",
+     "ep01-alps.jpg",
+     "ep01-ambush.jpg"
+    ]
+   },
+   {
+    "from": 11,
+    "images": [
+     "ep01-plunder.jpg",
+     "ep01-aedui-envoys.jpg"
+    ]
+   },
+   {
+    "from": 12,
+    "images": [
+     "ep01-saone.jpg",
+     "ep01-third-watch.jpg",
+     "ep01-tigurini.jpg"
+    ]
+   },
+   {
+    "from": 13,
+    "images": [
+     "ep01-bridge-saone.jpg"
+    ]
+   },
+   {
+    "from": 14,
+    "images": [
+     "ep01-divico-arrives.jpg",
+     "ep01-divico-speaks.jpg"
+    ]
+   },
+   {
+    "from": 15,
+    "images": [
+     "ep01-caesar-replies.jpg",
+     "ep01-camp-saone.jpg"
+    ]
+   },
+   {
+    "from": 16,
+    "images": [
+     "ep01-divico-leaves.jpg"
+    ]
+   },
+   {
+    "from": 17,
+    "images": [
+     "ep01-cavalry.jpg",
+     "ep01-march-follow.jpg"
+    ]
+   },
+   {
+    "from": 18,
+    "images": [
+     "ep01-x-bibracte.jpg",
+     "ep01-corn.jpg",
+     "ep01-aedui-chiefs.jpg"
+    ]
+   },
+   {
+    "from": 20,
+    "images": [
+     "ep01-liscus.jpg"
+    ]
+   },
+   {
+    "from": 22,
+    "images": [
+     "ep01-dumnorix-wealth.jpg"
+    ]
+   },
+   {
+    "from": 23,
+    "images": [
+     "ep01-dumnorix-cavalry.jpg"
+    ]
+   },
+   {
+    "from": 24,
+    "images": [
+     "ep01-x-camp-eve.jpg",
+     "ep01-caesar-thinks.jpg",
+     "ep01-divitiacus-called.jpg"
+    ]
+   }
+  ]
+ }
+}

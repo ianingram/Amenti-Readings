@@ -2,10 +2,9 @@
  "book": "the-gallic-war",
  "part": "Part 1",
  "chapter": 1,
- "note": "Episode 1 (Book I, chapters I–XIX).",
- "style": "A Roman history painting in the manner of Jean-Léon Gérôme and Lawrence Alma-Tadema: crisp academic realism, brilliant Mediterranean daylight, clear warm light and deep blue shadow, precise archaeological detail of 58 BC, rich painterly finish. One single painting filling the whole 16:9 frame, no text, lettering, signature, border or black bars.",
+ "note": "Episode 1 (Book I, chapters I–XIX). Recipe (18 Nov, Ian): gemini-2.5-flash-image, alla-prima style sentence, face portraits only as references, no style-plate image.",
+ "style": "An oil painting of 58 BC, in the manner of Jean-Léon Gérôme, Lawrence Alma-Tadema and Ernest Meissonier's military pictures, painted alla prima: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; brilliant Mediterranean and Gaulish daylight — deep blue sky, towering white clouds, raking sun and crisp blue shadow on warm earth and stone (at night or by fire: a single source of light, much of the picture in deep shadow); ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Roman legionaries in mail shirts, bronze Montefortino helmets and curved oval shields; Gauls with long hair, moustaches, checked trousers, cloaks and torcs. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
  "refs": {
-  "style": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/plate.jpg",
   "caesar": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/caesar.jpg",
   "divico": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divico.jpg",
   "dumnorix": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/dumnorix.jpg",
@@ -387,6 +386,5 @@
    "who": [],
    "text": "The Rhône rushing out of Lake Geneva through a narrow valley between mountains on a sparkling day, fishermen's boats, a small ferry. Any people are small, far off, with no detail in their faces."
   }
- ],
- "size": "2K"
+ ]
 }

@@ -1,6 +1,6 @@
 # The Gallic War — house style
 
-Every picture in this book is drawn by Google (Nano Banana 2.1) through the storyboard workflow, with the **style plate** as the style reference and, for people, a **portrait** as the face reference. This page is the rule book so the look does not drift across 22 parts, and stays distinct from Dracula (dark Victorian chiaroscuro) and A Tale of Two Cities (English narrative painting and watercolour).
+**Recipe (18 Nov 2026, Ian's choice after a side-by-side test):** every scene is drawn by Google **gemini-2.5-flash-image** through the storyboard workflow (1K; it has no native 2K). **Only face portraits are passed as references, and only for people shots. The style plate is NOT passed as an image** — it pulled the model toward a polished, commercial look; the plate now guides by description, written into the style sentence below. Nano Banana 2.1 stays for edit/repair beats. Crop 7.5% where a signature appears. This page is the rule book so the look does not drift across 22 parts, and stays distinct from Dracula (dark Victorian chiaroscuro) and A Tale of Two Cities (English narrative painting and watercolour).
 
 ## Painters to follow
 - **Jean-Léon Gérôme**: crisp academic realism, hard clear light, exact archaeological detail.
@@ -34,10 +34,12 @@ Establishing and wide shots carry the narration — armies, columns, rivers, cam
 Segmented plate armour; rectangular "Hollywood" shields; Roman helmets with tall transverse crests on common soldiers; medieval castles; stirrups (none in 58 BC); horned Viking helmets; Christian or later symbols; modern faces and haircuts; text, lettering, signatures (crop 7.5% if one appears); black bars.
 
 ## The fixed style sentence (in every sheet)
-> A Roman history painting in the manner of Jean-Léon Gérôme and Lawrence Alma-Tadema: crisp academic realism, brilliant Mediterranean daylight, clear warm light and deep blue shadow, precise archaeological detail of 58 BC, rich painterly finish. One single painting filling the whole 16:9 frame, no text, lettering, signature, border or black bars.
+> An oil painting of 58 BC, in the manner of Jean-Léon Gérôme, Lawrence Alma-Tadema and Ernest Meissonier's military pictures, painted alla prima: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; brilliant Mediterranean and Gaulish daylight — deep blue sky, towering white clouds, raking sun and crisp blue shadow on warm earth and stone (at night or by fire: a single source of light, much of the picture in deep shadow); ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Roman legionaries in mail shirts, bronze Montefortino helmets and curved oval shields; Gauls with long hair, moustaches, checked trousers, cloaks and torcs. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.
+
+The plate's look in words: a legion winding along a dusty road through a wide green valley under towering white clouds, a river and blue mountains beyond; bright warm sun, blue shadow; mail, bronze, red shields and cloaks.
 
 ## Reference files
-- Style plate (chosen): `art/ref/plate.jpg`. Candidates kept for switching: `art/ref/plate-a.jpg`, `art/ref/plate-b.jpg`, `art/ref/plate-c.jpg`.
+- Style plate (chosen; described, not passed as an image): `art/ref/plate.jpg` (Nano Banana 2.1, 1K). Candidates kept for switching: `art/ref/plate-a.jpg`, `art/ref/plate-b.jpg`, `art/ref/plate-c.jpg`.
 - Portraits (3:4): `art/ref/caesar.jpg`, `labienus.jpg`, `vercingetorix.jpg`, `ariovistus.jpg`, `divitiacus.jpg`, `dumnorix.jpg`, `divico.jpg`.
 - Anchors (chosen after Part 1 is placed; later parts use plate + one anchor as style refs): listed below.
 

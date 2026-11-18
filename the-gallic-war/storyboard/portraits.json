@@ -1,0 +1,63 @@
+{
+ "book": "the-gallic-war",
+ "part": "Portraits",
+ "chapter": 0,
+ "note": "Cast portraits (face references).",
+ "style": "A Roman history portrait in the manner of Jean-L\u00e9on G\u00e9r\u00f4me and Lawrence Alma-Tadema: crisp academic realism, clear warm daylight from one side, plain dark warm background, head and shoulders, precise archaeological detail of 58 BC, rich painterly finish. One single painting filling the whole 3:4 frame, no text, lettering, signature, border or black bars.",
+ "aspect": "3:4",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/plate.jpg"
+ },
+ "people": {},
+ "beats": [
+  {
+   "tag": "gw-ref-caesar",
+   "chapter": 0,
+   "who": [],
+   "aspect": "3:4",
+   "text": "Gaius Julius Caesar at about forty-two: lean face, high cheekbones, keen dark eyes, bald crown with the thin hair combed forward, clean-shaven, a red general's cloak (paludamentum) pinned over a bronze muscled cuirass."
+  },
+  {
+   "tag": "gw-ref-divico",
+   "chapter": 0,
+   "who": [],
+   "aspect": "3:4",
+   "text": "Divico, an aged Helvetian war-leader of about seventy: long white hair swept back, long white moustache, deeply lined weathered face, fierce proud eyes, a heavy gold torc, a dark checked wool cloak pinned at the shoulder."
+  },
+  {
+   "tag": "gw-ref-dumnorix",
+   "chapter": 0,
+   "who": [],
+   "aspect": "3:4",
+   "text": "Dumnorix of the Aedui, about thirty-five: long fair hair swept back, a drooping moustache, bold arrogant handsome face, a gold torc and gold arm-rings, a rich red-and-gold checked cloak."
+  },
+  {
+   "tag": "gw-ref-divitiacus",
+   "chapter": 0,
+   "who": [],
+   "aspect": "3:4",
+   "text": "Divitiacus, an Aeduan druid and chief of about fifty: long grey-brown hair, a moustache, grave gentle face, a plain white wool robe with a gold torc and a druid's oak-leaf wreath."
+  },
+  {
+   "tag": "gw-ref-ariovistus",
+   "chapter": 0,
+   "who": [],
+   "aspect": "3:4",
+   "text": "Ariovistus, king of the Germans, about fifty: hair gathered in a side knot, full reddish beard, broad hard face, a fur cloak over a bare chest, a gold arm-ring."
+  },
+  {
+   "tag": "gw-ref-labienus",
+   "chapter": 0,
+   "who": [],
+   "aspect": "3:4",
+   "text": "Titus Labienus, Roman legate of about forty-five: short grey hair, clean-shaven, hard soldier's face with a scar on the chin, a red cloak over a mail shirt."
+  },
+  {
+   "tag": "gw-ref-vercingetorix",
+   "chapter": 0,
+   "who": [],
+   "aspect": "3:4",
+   "text": "Vercingetorix of the Arverni, about twenty-eight: long dark hair swept back, a long drooping moustache, intense young face, a gold torc, a bronze-and-iron chieftain's helmet held at his side, a dark cloak."
+  }
+ ]
+}

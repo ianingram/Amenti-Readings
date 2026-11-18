@@ -1,0 +1,165 @@
+{
+ "work": "the-gallic-war",
+ "title": "The Gallic War",
+ "subtitle": "Caesar's own account of the conquest of Gaul",
+ "author": "Gaius Julius Caesar",
+ "first_published": -50,
+ "source": "library/julius-caesar/gallic-war-1.md … gallic-war-8.md in Amenti.live · trans. McDevitte & Bohn (1869) · Project Gutenberg #10657 · public domain",
+ "note": "Eight books in twenty-two parts. Caesar narrates his own commentaries and speaks his own speeches; the Gauls and Germans who speak at length are cast from the ledger. Book VIII was written after Caesar by his officer Aulus Hirtius; Caesar's voice carries it on. Attributions are in REVIEW.md.",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "the-gallic-war/ep01.json",
+   "document": "BOOK I · PART 1 OF 3 · CHAPTERS I–XIX",
+   "summary": "All Gaul Is Divided",
+   "status": "scripted"
+  },
+  {
+   "n": 2,
+   "file": "the-gallic-war/ep02.json",
+   "document": "BOOK I · PART 2 OF 3 · CHAPTERS XX–XXXVIII",
+   "summary": "The Helvetii Defeated",
+   "status": "scripted"
+  },
+  {
+   "n": 3,
+   "file": "the-gallic-war/ep03.json",
+   "document": "BOOK I · PART 3 OF 3 · CHAPTERS XXXIX–LIV",
+   "summary": "Ariovistus",
+   "status": "scripted"
+  },
+  {
+   "n": 4,
+   "file": "the-gallic-war/ep04.json",
+   "document": "BOOK II · PART 1 OF 2 · CHAPTERS I–XVII",
+   "summary": "The Belgae Rise",
+   "status": "scripted"
+  },
+  {
+   "n": 5,
+   "file": "the-gallic-war/ep05.json",
+   "document": "BOOK II · PART 2 OF 2 · CHAPTERS XVIII–XXXV",
+   "summary": "The Nervii",
+   "status": "scripted"
+  },
+  {
+   "n": 6,
+   "file": "the-gallic-war/ep06.json",
+   "document": "BOOK III · PART 1 OF 2 · CHAPTERS I–XIV",
+   "summary": "The Veneti and the Sea Fight",
+   "status": "scripted"
+  },
+  {
+   "n": 7,
+   "file": "the-gallic-war/ep07.json",
+   "document": "BOOK III · PART 2 OF 2 · CHAPTERS XV–XXIX",
+   "summary": "Aquitania",
+   "status": "scripted"
+  },
+  {
+   "n": 8,
+   "file": "the-gallic-war/ep08.json",
+   "document": "BOOK IV · PART 1 OF 2 · CHAPTERS I–XVIII",
+   "summary": "The Germans Cross the Rhine",
+   "status": "scripted"
+  },
+  {
+   "n": 9,
+   "file": "the-gallic-war/ep09.json",
+   "document": "BOOK IV · PART 2 OF 2 · CHAPTERS XIX–XXXVIII",
+   "summary": "Britain",
+   "status": "scripted"
+  },
+  {
+   "n": 10,
+   "file": "the-gallic-war/ep10.json",
+   "document": "BOOK V · PART 1 OF 3 · CHAPTERS I–XX",
+   "summary": "The Second Crossing to Britain",
+   "status": "scripted"
+  },
+  {
+   "n": 11,
+   "file": "the-gallic-war/ep11.json",
+   "document": "BOOK V · PART 2 OF 3 · CHAPTERS XXI–XL",
+   "summary": "Ambiorix",
+   "status": "scripted"
+  },
+  {
+   "n": 12,
+   "file": "the-gallic-war/ep12.json",
+   "document": "BOOK V · PART 3 OF 3 · CHAPTERS XLI–LVIII",
+   "summary": "Cicero Besieged",
+   "status": "scripted"
+  },
+  {
+   "n": 13,
+   "file": "the-gallic-war/ep13.json",
+   "document": "BOOK VI · PART 1 OF 2 · CHAPTERS I–XXII",
+   "summary": "The Druids and the Customs of Gaul",
+   "status": "scripted"
+  },
+  {
+   "n": 14,
+   "file": "the-gallic-war/ep14.json",
+   "document": "BOOK VI · PART 2 OF 2 · CHAPTERS XXIII–XLIV",
+   "summary": "The Hercynian Forest",
+   "status": "scripted"
+  },
+  {
+   "n": 15,
+   "file": "the-gallic-war/ep15.json",
+   "document": "BOOK VII · PART 1 OF 5 · CHAPTERS I–XIX",
+   "summary": "Vercingetorix",
+   "status": "scripted"
+  },
+  {
+   "n": 16,
+   "file": "the-gallic-war/ep16.json",
+   "document": "BOOK VII · PART 2 OF 5 · CHAPTERS XX–XXXVI",
+   "summary": "Avaricum",
+   "status": "scripted"
+  },
+  {
+   "n": 17,
+   "file": "the-gallic-war/ep17.json",
+   "document": "BOOK VII · PART 3 OF 5 · CHAPTERS XXXVII–LV",
+   "summary": "Gergovia",
+   "status": "scripted"
+  },
+  {
+   "n": 18,
+   "file": "the-gallic-war/ep18.json",
+   "document": "BOOK VII · PART 4 OF 5 · CHAPTERS LVI–LXXII",
+   "summary": "Lutetia and the Road to Alesia",
+   "status": "scripted"
+  },
+  {
+   "n": 19,
+   "file": "the-gallic-war/ep19.json",
+   "document": "BOOK VII · PART 5 OF 5 · CHAPTERS LXXIII–XC",
+   "summary": "Alesia",
+   "status": "scripted"
+  },
+  {
+   "n": 20,
+   "file": "the-gallic-war/ep20.json",
+   "document": "BOOK VIII · PART 1 OF 3 · CHAPTERS PREFACE–XVI",
+   "summary": "The Bellovaci",
+   "status": "scripted"
+  },
+  {
+   "n": 21,
+   "file": "the-gallic-war/ep21.json",
+   "document": "BOOK VIII · PART 2 OF 3 · CHAPTERS XVII–XXXVI",
+   "summary": "Uxellodunum",
+   "status": "scripted"
+  },
+  {
+   "n": 22,
+   "file": "the-gallic-war/ep22.json",
+   "document": "BOOK VIII · PART 3 OF 3 · CHAPTERS XXXVII–LV",
+   "summary": "The End of the War",
+   "status": "scripted"
+  }
+ ]
+}

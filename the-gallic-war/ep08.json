@@ -1,0 +1,196 @@
+{
+ "work": "the-gallic-war",
+ "episode": 8,
+ "chapter": 8,
+ "title": "The Germans Cross the Rhine",
+ "document": "BOOK IV · PART 1 OF 2 · CHAPTERS I–XVIII",
+ "source": {
+  "library": "library/julius-caesar/gallic-war-4.md",
+  "text": "Julius Caesar, Commentaries on the Gallic War, trans. W. A. McDevitte and W. S. Bohn (1869) · Project Gutenberg #10657 · public domain"
+ },
+ "note": "Cue boundaries fall on paragraph breaks and on the quotation marks of long reported speeches; Caesar's chapter numerals are kept as each cue's \"section\", not spoken. Every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Julius Caesar"
+  },
+  {
+   "role": "Caesar",
+   "cast_as": "Julius Caesar"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "The following winter (this was the year in which Cn. Pompey and M. Crassus were consuls), those Germans [called] the Usipetes, and likewise the Tenchtheri, with a great number of men, crossed the Rhine, not far from the place at which that river discharges itself into the sea. The motive for crossing [that river] was that, having been for several years harassed by the Suevi, they were constantly engaged in war, and hindered from the pursuits of agriculture. The nation of the Suevi is by far the largest and the most warlike nation of all the Germans. They are said to possess a hundred cantons, from each of which they yearly send from their territories for the purpose of war a thousand armed men: the others who remain at home, maintain [both] themselves and those engaged in the expedition. The latter again, in their turn, are in arms the year after: the former remain at home. Thus neither husbandry nor the art and practice of war are neglected. But among them there exists no private and separate land; nor are they permitted to remain more than one year in one place for the purpose of residence. They do not live much on corn, but subsist for the most part on milk and flesh, and are much [engaged] in hunting; which circumstance must, by the nature of their food, and by their daily exercise and the freedom of their life (for having from boyhood been accustomed to no employment, or discipline, they do nothing at all contrary to their inclination), both promote their strength and render them men of vast stature of body. And to such a habit have they brought themselves, that even in the coldest parts they wear no clothing whatever except skins, by reason of the scantiness of which a great portion of their body is bare, and besides they bathe in open rivers.",
+   "section": "I"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "Merchants have access to them rather that they may have persons to whom they may sell those things which they have taken in war, than because they need any commodity to be imported to them. Moreover, even as to labouring cattle, in which the Gauls take the greatest pleasure, and which they procure at a great price, the Germans do not employ such as are imported, but those poor and ill-shaped animals which belong to their country; these, however, they render capable of the greatest labour by daily exercise. In cavalry actions they frequently leap from their horses and fight on foot; and train their horses to stand still in the very spot on which they leave them, to which they retreat with great activity when there is occasion; nor, according to their practice, is anything regarded as more unseemly, or more unmanly, than to use housings. Accordingly, they have the courage, though they be themselves but few, to advance against any number whatever of horse mounted with housings. They on no account permit wine to be imported to them, because they consider that men degenerate in their powers of enduring fatigue, and are rendered effeminate by that commodity.",
+   "section": "II"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "They esteem it their greatest praise as a nation that the lands about their territories lie unoccupied to a very great extent, inasmuch as [they think] that by this circumstance is indicated that a great number of nations cannot, withstand their power; and thus on one side of the Suevi the lands are said to lie desolate for about six hundred miles. On the other side they border on the Ubii, whose state was large and flourishing, considering the condition of the Germans, and who are somewhat more refined than those of the same race and the rest [of the Germans], and that because they border on the Rhine, and are much resorted to by merchants, and are accustomed to the manners of the Gauls, by reason of their approximity to them. Though the Suevi, after making the attempt frequently and in several wars, could not expel this nation from their territories, on account of the extent and population of their state, yet they made them tributaries, and rendered them less distinguished and powerful [than they had ever been].",
+   "section": "III"
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "In the same condition were the Usipetes and the Tenchtheri (whom we have mentioned above), who for many years resisted the power of the Suevi, but being at last driven from their possessions, and having wandered through many parts of Germany, came to the Rhine, to districts which the Menapii inhabited, and where they had lands, houses, and villages on either side of the river. The latter people, alarmed by the arrival of so great a multitude, removed from those houses which they had on the other side of the river, and having placed guards on this side the Rhine, proceeded to hinder the Germans from crossing. They, finding themselves, after they had tried all means, unable either to force a passage on account of their deficiency in shipping, or cross by stealth on account of the guards of the Menapii, pretended to return to their own settlements and districts; and, after having proceeded three days' march, returned; and their cavalry having performed the whole of this journey in one night, cut off the Menapii, who were ignorant of, and did not expect [their approach, and] who, having moreover been informed of the departure of the Germans by their scouts, had without apprehension returned to their villages beyond the Rhine. Having slain these, and seized their ships, they crossed the river before that part of the Menapii, who were at peace in their settlements over the Rhine, were apprised of [their intention]; and seizing all their houses, maintained themselves upon their provisions during the rest of the winter.",
+   "section": "IV"
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "Caesar, when informed of these matters, fearing the fickle disposition of the Gauls, who are easily prompted to take up resolutions, and much addicted to change, considered that nothing was to be entrusted to them; for it is the custom of that people to compel travellers to stop, even against their inclination, and inquire what they may have heard, or may know, respecting any matter; and in towns the common people throng around merchants and force them to state from what countries they come, and what affairs they know of there. They often engage in resolutions concerning the most important matters, induced by these reports and stories alone; of which they must necessarily instantly repent, since they yield to mere unauthorised reports; and since most people give to their questions answers framed agreeably to their wishes.",
+   "section": "V"
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "Caesar, being aware of their custom, in order that he might not encounter a more formidable war, sets forward to the army earlier in the year than he was accustomed to do. When he had arrived there, he discovered that those things, which he had suspected would occur, had taken place; that embassies had been sent to the Germans by some of the states, and that they had been entreated to leave the Rhine, and had been promised that all things which they desired should be provided by the Gauls. Allured by this hope, the Germans were then making excursions to greater distances, and had advanced to the territories of the Eburones and the Condrusi, who are under the protection of the Treviri. After summoning the chiefs of Gaul, Caesar thought proper to pretend ignorance of the things which he had discovered; and having conciliated and confirmed their minds, and ordered some cavalry to be raised, resolved to make war against the Germans.",
+   "section": "VI"
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "Having provided corn and selected his cavalry, he began to direct his march towards those parts in which he heard the Germans were. When he was distant from them only a few days' march, ambassadors come to him from their state; whose speech was as follows:--",
+   "section": "VII"
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "\"That the Germans neither make war upon the Roman people first, nor do they decline, if they are provoked, to engage with them in arms; for that this was the custom of the Germans handed down to them from their forefathers, to resist whatsoever people make war upon them and not to avert it by entreaty; this, however, they confessed,--that they had come hither reluctantly, having been expelled from their country. If the Romans were disposed to accept their friendship, they might be serviceable allies to them; and let them either assign them lands, or permit them to retain those which they had acquired by their arms; that they are inferior to the Suevi alone, to whom not even the immortal gods can show themselves equal; that there was none at all besides on earth whom they could not conquer.\""
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "To these remarks Caesar replied in such terms as he thought proper; but the conclusion of his speech was,",
+   "section": "VIII"
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Caesar",
+   "cast": "Julius Caesar",
+   "text": "\"That he could make no alliance with them, if they continued in Gaul; that it was not probable that they who were not able to defend their own territories, should get possession of those of others, nor were there any lands lying waste in Gaul which could be given away, especially to so great a number of men, without doing wrong [to others]; but they might, if they were desirous, settle in the territories of the Ubii; whose ambassadors were then with him, and were complaining of the aggressions of the Suevi, and requesting assistance from him; and that he would obtain this request from them.\""
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "The ambassadors said that they would report these things to their countrymen; and, after having deliberated on the matter, would return to Caesar after the third day, they begged that he would not in the meantime advance his camp nearer to them. Caesar said that he could not grant them even that; for he had learned that they had sent a great part of their cavalry over the Meuse to the Ambivariti, some days before, for the purpose of plundering and procuring forage. He supposed that they were then waiting for these horse, and that the delay was caused on this account.",
+   "section": "IX"
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "The Meuse rises from mount Le Vosge, which is in the territories of the Lingones; and, having received a branch of the Rhine, which is called the Waal, forms the island of the Batavi, and not more than eighty miles from it it falls into the ocean. But the Rhine takes its course among the Lepontii, who inhabit the Alps, and is carried with a rapid current for a long distance through the territories of the Sarunates, Helvetii, Sequani, Mediomatrici, Tribuci, and Treviri, and when it approaches the ocean, divides into several branches; and, having formed many and extensive islands, a great part of which are inhabited by savage and barbarous nations (of whom there are some who are supposed to live on fish and the eggs of sea-fowl), flows into the ocean by several mouths.",
+   "section": "X"
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "When Caesar was not more than twelve miles distant from the enemy, the ambassadors return to him, as had been arranged; who meeting him on the march, earnestly entreated him not to advance any farther. When they could not obtain this, they begged him to send on a despatch to those who had marched in advance of the main army, and forbid them to engage; and grant them permission to send ambassadors to the Ubii, and if the princes and senate of the latter would give them security by oath, they assured Caesar that they would accept such conditions as might be proposed by him; and requested that he would give them the space of three days for negotiating these affairs. Caesar thought that these things tended to the self-same point [as their other proposal]; [namely] that, in consequence of a delay of three days intervening, their horse which were at a distance might return; however, he said, that he would not that day advance farther than four miles for the purpose of procuring water; he ordered that they should assemble at that place in as large a number as possible the following day, that he might inquire into their demands. In the meantime he sends messengers to the officers who had marched in advance with all the cavalry to order them not to provoke the enemy to an engagement, and if they themselves were assailed, to sustain the attack until he came up with the army.",
+   "section": "XI"
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "But the enemy, as soon as they saw our horse, the number of which was 5000, whereas they themselves had not more than 800 horse, because those which had gone over the Meuse for the purpose of foraging had not returned, while our men had no apprehensions, because their ambassadors had gone away from Caesar a little before, and that day had been requested by them as a period of truce, made an onset on our men, and soon threw them into disorder. When our men, in their turn, made a stand, they, according to their practice, leaped from their horses to their feet, and stabbing our horses in the belly and overthrowing a great many of our men, put the rest to flight, and drove them forward so much alarmed that they did not desist from their retreat till they had come in sight of our army. In that encounter seventy-four of our horse were slain; among them, Piso, an Aquitanian, a most valiant man, and descended from a very illustrious family; whose grandfather had held the sovereignty of his state, and had been styled friend by our senate. He, while he was endeavouring to render assistance to his brother who was surrounded by the enemy, and whom he rescued from danger, was himself thrown from his horse, which was wounded under him, but still opposed [his antagonists] with the greatest intrepidity, as long as he was able to maintain the conflict. When at length he fell, surrounded on all sides and after receiving many wounds, and his brother, who had then retired from the fight, observed it from a distance, he spurred on his horse, threw himself upon the enemy, and was killed.",
+   "section": "XII"
+  },
+  {
+   "n": 15,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "After this engagement, Caesar considered that neither ought ambassadors to be received to audience, nor conditions be accepted by him from those who, after having sued for peace by way of stratagem and treachery, had made war without provocation. And to wait till the enemy's forces were augmented and their cavalry had returned, he concluded, would be the greatest madness; and knowing the fickleness of the Gauls, he felt how much influence the enemy had already acquired among them by this one skirmish. He [therefore] deemed that no time for converting measures ought to be afforded them. After having resolved on these things and communicated his plans to his lieutenants and quaestor in order that he might not suffer any opportunity for engaging to escape him, a very seasonable event occurred, namely, that on the morning of the next day, a large body of Germans, consisting of their princes and old men, came to the camp to him to practise the same treachery and dissimulation; but, as they asserted, for the purpose of acquitting themselves for having engaged in a skirmish the day before, contrary to what had been agreed and to what, indeed, they themselves had requested; and also if they could by any means obtain a truce by deceiving him. Caesar, rejoicing that they had fallen into his power, ordered them to be detained. He then drew all his forces out of the camp, and commanded the cavalry, because he thought they were intimidated by the late skirmish, to follow in the rear.",
+   "section": "XIII"
+  },
+  {
+   "n": 16,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "Having marshalled his army in three lines, and in a short time performed a march of eight miles, he arrived at the camp of the enemy before the Germans could perceive what was going on; who being suddenly alarmed by all the circumstances, both by the speediness of our arrival and the absence of their own officers, as time was afforded neither for concerting measures nor for seizing their arms, are perplexed as to whether it would be better to lead out their forces against the enemy, or to defend their camp, or seek their safety by flight. Their consternation being made apparent by their noise and tumult, our soldiers, excited by the treachery of the preceding day, rushed into the camp: such of them as could readily get their arms for a short time withstood our men, and gave battle among their carts and baggage-waggons; but the rest of the people, [consisting] of boys and women (for they had left their country and crossed the Rhine with all their families), began to fly in all directions; in pursuit of whom Caesar sent the cavalry.",
+   "section": "XIV"
+  },
+  {
+   "n": 17,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "The Germans when, upon hearing a noise behind them, [they looked and] saw that their families were being slain, throwing away their arms and abandoning their standards, fled out of the camp, and when they had arrived at the confluence of the Meuse and the Rhine, the survivors despairing of farther escape, as a great number of their countrymen had been killed, threw themselves into the river and there perished, overcome by fear, fatigue, and the violence of the stream. Our soldiers, after the alarm of so great a war, for the number of the enemy amounted to 430,000, returned to their camp, all safe to a man, very few being even wounded. Caesar granted those whom he had detained in the camp liberty of departing. They however, dreading revenge and torture from the Gauls, whose lands they had harassed, said that they desired to remain with him. Caesar granted them permission.",
+   "section": "XV"
+  },
+  {
+   "n": 18,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "The German war being finished, Caesar thought it expedient for him to cross the Rhine, for many reasons; of which this was the most weighty, that, since he saw the Germans were so easily urged to go into Gaul, he desired they should have their fears for their own territories when they discovered that the army of the Roman people both could and dared pass the Rhine. There was added also, that that portion of the cavalry of the Usipetes and the Tenchtheri, which I have above related to have crossed the Meuse for the purpose of plundering and procuring forage, and was not present at the engagement, had betaken themselves, after the retreat of their countrymen, across the Rhine into the territories of the Sigambri, and united themselves to them. When Caesar sent ambassadors to them, to demand that they should give up to him those who had made war against him and against Gaul, they replied, \"That the Rhine bounded the empire of the Roman people; if he did not think it just for the Germans to pass over into Gaul against his consent, why did he claim that anything beyond the Rhine should be subject to his dominion or power?\" The Ubii also, who alone, out of all the nations lying beyond the Rhine, had sent ambassadors to Caesar, and formed an alliance and given hostages, earnestly entreated",
+   "section": "XVI"
+  },
+  {
+   "n": 19,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "\"that he would bring them assistance, because they were grievously oppressed by the Suevi; or, if he was prevented from doing so by the business of the commonwealth, he would at least transport his army over the Rhine; that that would be sufficient for their present assistance and their hope for the future; that so great was the name and the reputation of his army, even among the most remote nations of the Germans, arising from the defeat of Ariovistus and this last battle which was fought, that they might be safe under the fame and friendship of the Roman people.\""
+  },
+  {
+   "n": 20,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "They promised a large number of ships for transporting the army."
+  },
+  {
+   "n": 21,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "Caesar, for those reasons which I have mentioned, had resolved to cross the Rhine; but to cross by ships he neither deemed to be sufficiently safe, nor considered consistent with his own dignity or that of the Roman people. Therefore, although the greatest difficulty in forming a bridge was presented to him, on account of the breadth, rapidity, and depth of the river, he nevertheless considered that it ought to be attempted by him, or that his army ought not otherwise to be led over. He devised this plan of a bridge. He joined together at the distance of two feet, two piles, each a foot and a half thick, sharpened a little at the lower end, and proportioned in length to the depth of the river. After he had, by means of engines, sunk these into the river, and fixed them at the bottom, and then driven them in with rammers, not quite perpendicularly, like a stake, but bending forward and sloping, so as to incline in the direction of the current of the river; he also placed two [other piles] opposite to these, at the distance of forty feet lower down, fastened together in the same manner, but directed against the force and current of the river. Both these, moreover, were kept firmly apart by beams two feet thick (the space which the binding of the piles occupied), laid in at their extremities between two braces on each side; and in consequence of these being in different directions and fastened on sides the one opposite to the other, so great was the strength of the work, and such the arrangement of the materials, that in proportion as the greater body of water dashed against the bridge, so much the closer were its parts held fastened together. These beams were bound together by timber laid over them in the direction of the length of the bridge, and were [then] covered over with laths and hurdles; and in addition to this, piles were driven into the water obliquely, at the lower side of the bridge, and these serving as buttresses, and being connected with every portion of the work, sustained the force of the stream: and there were others also above the bridge, at a moderate distance; that if trunks of trees or vessels were floated down the river by the barbarians for the purpose of destroying the work, the violence of such things might be diminished by these defences, and might not injure the bridge.",
+   "section": "XVII"
+  },
+  {
+   "n": 22,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Julius Caesar",
+   "text": "Within ten days after the timber began to be collected, the whole work was completed, and the whole army led over. Caesar, leaving a strong guard at each end of the bridge, hastens into the territories of the Sigambri. In the meantime ambassadors from several nations come to him, whom, on their suing for peace and alliance, he answers in a courteous manner, and orders hostages to be brought to him. But the Sigambri, at the very time the bridge was begun to be built, made preparations for a flight (by the advice of such of the Tenchtheri and Usipetes as they had amongst them), and quitted their territories and conveyed away all their possessions, and concealed themselves in deserts and woods.",
+   "section": "XVIII"
+  }
+ ]
+}

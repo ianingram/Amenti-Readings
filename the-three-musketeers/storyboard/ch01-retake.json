@@ -1,0 +1,94 @@
+{
+ "book": "the-three-musketeers",
+ "part": "Chapter I, retakes",
+ "note": "Chapter I illustrated, shot-sized: establishing for each place, wide shots carry the narration, close-ups sparing. Recipe of 18 Nov: gemini-2.5-flash-image, face refs only, no plate ref.",
+ "style": "An oil painting of France in 1625, in the manner of Meissonier and Maurice Leloir, painted alla prima: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; a single source of light, much of the picture in deep shadow (in daylight scenes: brilliant raking sun and crisp shadow instead); ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Exact costume of 1625: doublets, falling lace collars, wide-brimmed plumed felt hats, bucket-top boots, rapiers on baldrics; no tricorns, no wigs. Honey-coloured stone, dark timber and ochre dust by day; candle-gold against blue Paris dusk by night. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "dartagnan": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/dartagnan.jpg",
+  "rochefort": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/rochefort.jpg",
+  "milady": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/milady.jpg"
+ },
+ "people": {
+  "dartagnan": "D'Artagnan, a Gascon youth of eighteen: a long brown face, high cheekbones, open intelligent eyes, a finely chiselled hooked nose, dark hair to the shoulders, the faint first down of a moustache and no beard; a faded blue woollen doublet, a Béarnais cap with a feather, a long rapier on a leather baldric",
+  "rochefort": "the man of Meung (the Comte de Rochefort): a gentleman of forty to forty-five, black piercing eyes, a pale complexion, a strongly marked nose, a black well-shaped moustache, a small pale scar on the temple; a violet doublet with lace collar",
+  "milady": "Milady de Winter, a woman of twenty-two: pale and fair, long blonde curls falling over her shoulders, large languishing blue eyes, rosy lips, alabaster hands; a dark travelling gown with a lace collar",
+  "father": "D'Artagnan's father, an old Gascon gentleman of about sixty, lean and weathered, grey moustache and tuft, a worn but proud old-fashioned doublet",
+  "mother": "D'Artagnan's mother, a Gascon lady of about fifty in a dark gown and white coif",
+  "host": "the host of the Jolly Miller, a stout cunning innkeeper of fifty in a leather apron, cap in hand"
+ },
+ "beats": [
+  {
+   "tag": "tm-c01-crowd-inn",
+   "chapter": 1,
+   "cue": 3,
+   "who": [],
+   "text": "Shot: wide. A vociferous curious crowd gathered before the gate of the Jolly Miller inn, craning to see something in the street. No sign, board or lettering anywhere on the building.",
+   "at": "the cause of the hubbub",
+   "aspect": "16:9"
+  },
+  {
+   "tag": "tm-c01-portrait-ride",
+   "chapter": 1,
+   "cue": 4,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. A young Gascon of eighteen riding into town on a small yellow pony, his long sword trailing, a feathered Béarnais cap, a faded blue doublet, looking proudly about him.",
+   "aspect": "16:9"
+  },
+  {
+   "tag": "tm-c01-portrait-close",
+   "chapter": 1,
+   "cue": 4,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: close. Close portrait of the young Gascon: long brown face, high cheekbones, keen intelligent eyes, hooked nose, a proud defiant air.",
+   "at": "face long and brown",
+   "aspect": "16:9"
+  },
+  {
+   "tag": "tm-c01-broken",
+   "chapter": 1,
+   "cue": 57,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. The young Gascon struck down in the dust of the inn yard, his sword broken in two beside him, a little blood on his forehead, almost fainting.",
+   "aspect": "16:9"
+  },
+  {
+   "tag": "tm-c01-fury",
+   "chapter": 1,
+   "cue": 180,
+   "who": [
+    "dartagnan",
+    "host"
+   ],
+   "text": "Shot: medium. The young Gascon in a fury, hand on his broken sword hilt, threatening the cowering host in the inn kitchen.",
+   "aspect": "16:9"
+  },
+  {
+   "tag": "tm-c01-saint-antoine",
+   "chapter": 1,
+   "cue": 212,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: establishing, far. The gate of Saint-Antoine at Paris in 1625, the towers of the Bastille beside it, carts and travellers; a young man selling his yellow pony to a horse dealer.",
+   "at": "gate of St. Antoine",
+   "aspect": "16:9"
+  },
+  {
+   "tag": "tm-c01-fossoyeurs",
+   "chapter": 1,
+   "cue": 213,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The Rue des Fossoyeurs near the Luxembourg: a narrow Paris street of tall old houses; the young Gascon on foot, his little packet under his arm, looking up at a garret window.",
+   "at": "This chamber was a sort of garret",
+   "aspect": "16:9"
+  }
+ ]
+}

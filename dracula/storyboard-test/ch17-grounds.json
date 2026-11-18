@@ -1,0 +1,54 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "people": {},
+ "note": "XVII grounds, statues and rooftops (Ian, 17 Nov).",
+ "style": "A cinematic Romantic oil painting of 1893 in the manner of the reference: academic realism, atmospheric haze, rich colour and light, a wide establishing view, painterly brushwork. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch01-munich-carriage-3.jpg"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17-gstatue",
+   "chapter": 17,
+   "cue": 28,
+   "who": [],
+   "text": "Exterior, the formal grounds of a Victorian asylum in autumn 1893: a weathered marble statue of a robed woman on a plinth beside clipped yew hedges, a manicured lawn and gravel walk leading to the long house, fallen leaves, grey afternoon light. Any people are small and far off, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch17-gurns",
+   "chapter": 17,
+   "cue": 36,
+   "who": [],
+   "text": "Exterior: a stone terrace with balustrade and carved stone urns overlooking a sweeping manicured lawn and the cedar trees of an asylum park, 1893, soft late-afternoon light breaking through cloud. Any people are small and far off, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch17-gtopiary",
+   "chapter": 17,
+   "cue": 52,
+   "who": [],
+   "text": "Exterior: an avenue of clipped topiary yews and box hedges in the asylum garden at dusk, a gardener small with a wheelbarrow, the lit windows of the house at the end of the walk. Any people are small and far off, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch17-gfountain",
+   "chapter": 17,
+   "cue": 61,
+   "who": [],
+   "text": "Exterior: a still round stone fountain basin with a mossy cherub in the centre of a formal lawn at dusk, reflecting the pale sky, the dark house and its chimneys behind. Any people are small and far off, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch17-grooftop",
+   "chapter": 17,
+   "cue": 65,
+   "who": [],
+   "text": "Exterior, on the leads of the asylum roof at sunset, 1893: tall chimney stacks, slate slopes and a stone parapet, the wide view beyond over the Thames and the marshes glowing red and gold. No people."
+  },
+  {
+   "tag": "d3-ch17-gangel",
+   "chapter": 17,
+   "cue": 76,
+   "who": [],
+   "text": "Exterior at night: a marble statue of an angel in the asylum garden, silvered by moonlight against black trees, a lit study window far behind it across the lawn. Any people are small and far off, with no detail in their faces."
+  }
+ ]
+}

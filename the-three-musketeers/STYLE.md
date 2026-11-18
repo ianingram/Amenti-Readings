@@ -26,8 +26,19 @@ This book has its own look, distinct from Dracula (gothic chiaroscuro, 1893) and
 - Text, lettering, signatures (crop 7.5% if one appears), borders, black bars.
 - Dracula's gothic darkness and Two Cities' English watercolour.
 
+## Recipe (18 Nov 2026, Ian's choice after a side-by-side test)
+- **Model:** `gemini-2.5-flash-image` (storyboard.yml `models=gemini-2.5-flash-image`, takes=1). No `"size"` — it draws 1K only.
+- **References:** face portraits only, and only for beats with people in them. **No style plate as a reference** — it pulled the model toward the polished, commercial look Ian rejected. The plate now guides by description (below).
+- **Repairs:** Nano Banana 2.1 (`gemini-nano-banana-2.1`) stays for edit/repair beats.
+- **Signatures:** crop 7.5% where one appears.
+
 ## Fixed style sentence (every prompt)
-> A seventeenth-century French narrative oil painting in the manner of Meissonier and Maurice Leloir: academic realism, exact costume of 1625 (doublets, falling lace collars, wide-brimmed plumed felt hats, bucket-top boots, rapiers and baldrics), warm candlelight and golden daylight against blue Paris dusk, rich glazes, fine brushwork. One single painting filling the whole frame edge to edge; no text, lettering, signature, monogram, border or black bars.
+> An oil painting of France in 1625, in the manner of Meissonier and Maurice Leloir, painted alla prima: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; a single source of light, much of the picture in deep shadow (in daylight scenes: brilliant raking sun and crisp shadow instead); ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Exact costume of 1625: doublets, falling lace collars, wide-brimmed plumed felt hats, bucket-top boots, rapiers on baldrics; no tricorns, no wigs. Honey-coloured stone, dark timber and ochre dust by day; candle-gold against blue Paris dusk by night. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.
+
+The plate's look, written in: honey stone, dark timber and ochre dust under a raking golden sun at Meung; candle-gold against blue dusk in Paris.
+
+### Before 18 Nov (retired)
+> A seventeenth-century French narrative oil painting in the manner of Meissonier and Maurice Leloir: academic realism, exact costume of 1625 … warm candlelight and golden daylight against blue Paris dusk, rich glazes, fine brushwork. (Used for the plates, the nine portraits, and a first set of opening pictures drawn with Nano Banana 2.1 at 2K, with the plate as a style reference.)
 
 ## Reference files (`the-three-musketeers/art/ref/`)
 - **Style plate (chosen):** `plate.jpg` — the inn yard at Meung, golden afternoon.
@@ -35,7 +46,7 @@ This book has its own look, distinct from Dracula (gothic chiaroscuro, 1893) and
 - **Cast portraits (3:4):** `dartagnan.jpg`, `rochefort.jpg`, `milady.jpg`, `athos.jpg`, `porthos.jpg`, `aramis.jpg`, `richelieu.jpg`, `constance.jpg`, `treville.jpg`.
 
 ## Anchors
-Chosen after chapter 1 is placed: the three best chapter-1 pictures. Later chapters use **plate + one anchor** as style references.
+Chosen after chapter 1 is placed: the three best chapter-1 pictures. Later chapters describe the look in words and may pass one anchor beside the faces (never the plate).
 
 ## Every batch
-Contact sheet against the plate; reject anything that drifts (photographic, illustrative/commercial, wrong period); check faces against the portraits; check corners for signatures.
+Contact sheet beside the plate and the anchors (by eye; they are not passed to the model); reject anything that drifts (photographic, illustrative/commercial, wrong period); check faces against the portraits; check corners for signatures.

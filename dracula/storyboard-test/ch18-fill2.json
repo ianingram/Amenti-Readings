@@ -1,0 +1,40 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "people": {},
+ "note": "XVIII more far shots for Renfield's appeal.",
+ "style": "A cinematic Romantic oil painting of 1893 in the manner of the reference: academic realism, atmospheric haze, cool blue moonlight against warm amber lamplight, a wide view, rich painterly brushwork. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch01-munich-carriage-3.jpg"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch18-w-cellhigh",
+   "chapter": 18,
+   "cue": 108,
+   "who": [],
+   "text": "A high wide view down into a bare whitewashed asylum cell at four in the morning, 1893: an iron bed, a single lamp on a stool, a thin man standing with his hands clasped pleading, four men grouped by the open door, long shadows on the walls. Any people are small and far off, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch18-x-moonroof",
+   "chapter": 18,
+   "cue": 108,
+   "who": [],
+   "text": "Exterior at four in the morning: the moon breaking through torn clouds above the dark roofs and chimneys of the asylum, a single lit barred window below, mist drifting over the lawn."
+  },
+  {
+   "tag": "d3-ch18-w-sill",
+   "chapter": 18,
+   "cue": 108,
+   "who": [],
+   "text": "Close view: a barred cell window at night, a few dead flies and a spider's web on the stone sill, the lamplit cell reflected in the glass, the black garden beyond. No people."
+  },
+  {
+   "tag": "d3-ch18-w-passage",
+   "chapter": 18,
+   "cue": 108,
+   "who": [],
+   "text": "A wide view along the asylum corridor at night from far down the passage: one cell door open, lamplight spilling out across the floor, the shadows of several men cast across the opposite wall. Any people are small and far off, with no detail in their faces."
+  }
+ ]
+}

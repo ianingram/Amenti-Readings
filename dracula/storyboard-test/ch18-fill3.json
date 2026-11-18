@@ -1,0 +1,40 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "people": {},
+ "note": "XVIII: Renfield's appeal on long and establishing shots only (Ian, 18 Nov).",
+ "style": "A cinematic Romantic oil painting of 1893 in the manner of the reference: academic realism, atmospheric haze, cool blue moonlight against warm amber lamplight, a wide view, rich painterly brushwork. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch01-munich-carriage-3.jpg"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch18-w-shadows",
+   "chapter": 18,
+   "cue": 108,
+   "who": [],
+   "text": "Close view at night: a lantern standing on the bare boards of an asylum cell floor, and the long black shadows of five standing men stretched across the whitewashed wall. No faces."
+  },
+  {
+   "tag": "d3-ch18-w-attendant",
+   "chapter": 18,
+   "cue": 108,
+   "who": [],
+   "text": "A long asylum corridor at four in the morning, 1893: at the far end an attendant dozing on a wooden chair under a turned-down gas jet, one cell door ajar with warm light spilling out. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch18-x-carfaxside",
+   "chapter": 18,
+   "cue": 108,
+   "who": [],
+   "text": "Exterior at four in the morning seen from the grounds of the old house Carfax: across the high wall, the dark asylum with one barred ground-floor window glowing, the moon low behind bare trees, mist in the hollows. No people."
+  },
+  {
+   "tag": "d3-ch18-w-throughgrille",
+   "chapter": 18,
+   "cue": 108,
+   "who": [],
+   "text": "Seen through the iron grille of a cell door from the dark corridor: inside, a lamplit whitewashed cell and the silhouettes of several men standing, a thin man in the middle with his hands raised. Any people are small, far off or in shadow, with no detail in their faces."
+  }
+ ]
+}

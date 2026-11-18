@@ -1,0 +1,1720 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 23,
+ "chapter": 23,
+ "title": "The Rendezvous",
+ "document": "CHAPTER XXIII",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch23.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "M. de Tréville",
+   "cast_as": "Jacques Cartier"
+  },
+  {
+   "role": "Rochefort, the man of Meung",
+   "cast_as": "Voltaire"
+  },
+  {
+   "role": "M. Bonacieux",
+   "cast_as": "Auguste Comte"
+  },
+  {
+   "role": "Planchet",
+   "cast_as": "Edouard Manet"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter XXIII.\nTHE RENDEZVOUS"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan ran home immediately, and although it was three o’clock in\nthe morning and he had some of the worst quarters of Paris to traverse,\nhe met with no misadventure. Everyone knows that drunkards and lovers\nhave a protecting deity."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He found the door of his passage open, sprang up the stairs and knocked\nsoftly in a manner agreed upon between him and his lackey. Planchet*,\nwhom he had sent home two hours before from the Hôtel de Ville, telling\nhim to sit up for him, opened the door for him."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "* The reader may ask,"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“How came Planchet here?”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "when he was left"
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“stiff\nas a rush”"
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "in London. In the intervening time Buckingham perhaps sent\nhim to Paris, as he did the horses."
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Has anyone brought a letter for me?”"
+  },
+  {
+   "n": 10,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked D’Artagnan, eagerly."
+  },
+  {
+   "n": 11,
+   "para": 5,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“No one has _brought_ a letter, monsieur,”"
+  },
+  {
+   "n": 12,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Planchet;"
+  },
+  {
+   "n": 13,
+   "para": 5,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“but one\nhas come of itself.”"
+  },
+  {
+   "n": 14,
+   "para": 6,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What do you mean, blockhead?”"
+  },
+  {
+   "n": 15,
+   "para": 7,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“I mean to say that when I came in, although I had the key of your\napartment in my pocket, and that key had never quit me, I found a\nletter on the green table cover in your bedroom.”"
+  },
+  {
+   "n": 16,
+   "para": 8,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And where is that letter?”"
+  },
+  {
+   "n": 17,
+   "para": 9,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“I left it where I found it, monsieur. It is not natural for letters to\nenter people’s houses in this manner. If the window had been open or\neven ajar, I should think nothing of it; but, no—all was hermetically\nsealed. Beware, monsieur; there is certainly some magic underneath.”"
+  },
+  {
+   "n": 18,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Meanwhile, the young man had darted in to his chamber, and opened the\nletter. It was from Mme. Bonacieux, and was expressed in these terms:"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“There are many thanks to be offered to you, and to be transmitted to\nyou. Be this evening about ten o’clock at St. Cloud, in front of the\npavilion which stands at the corner of the house of M. d’Estrées.—C.B.”"
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "While reading this letter, D’Artagnan felt his heart dilated and\ncompressed by that delicious spasm which tortures and caresses the\nhearts of lovers."
+  },
+  {
+   "n": 21,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It was the first billet he had received; it was the first rendezvous\nthat had been granted him. His heart, swelled by the intoxication of\njoy, felt ready to dissolve away at the very gate of that terrestrial\nparadise called Love!"
+  },
+  {
+   "n": 22,
+   "para": 14,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Well, monsieur,”"
+  },
+  {
+   "n": 23,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Planchet, who had observed his master grow red\nand pale successively,"
+  },
+  {
+   "n": 24,
+   "para": 14,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“did I not guess truly? Is it not some bad\naffair?”"
+  },
+  {
+   "n": 25,
+   "para": 15,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You are mistaken, Planchet,”"
+  },
+  {
+   "n": 26,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan;"
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“and as a proof,\nthere is a crown to drink my health.”"
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“I am much obliged to Monsieur for the crown he has given me, and I\npromise him to follow his instructions exactly; but it is not the less\ntrue that letters which come in this way into shut-up houses—”"
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Fall from heaven, my friend, fall from heaven.”"
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Then Monsieur is satisfied?”"
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Planchet."
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“My dear Planchet, I am the happiest of men!”"
+  },
+  {
+   "n": 33,
+   "para": 20,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“And I may profit by Monsieur’s happiness, and go to bed?”"
+  },
+  {
+   "n": 34,
+   "para": 21,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, go.”"
+  },
+  {
+   "n": 35,
+   "para": 22,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“May the blessings of heaven fall upon Monsieur! But it is not the less\ntrue that that letter—”"
+  },
+  {
+   "n": 36,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And Planchet retired, shaking his head with an air of doubt, which the\nliberality of D’Artagnan had not entirely effaced."
+  },
+  {
+   "n": 37,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Left alone, D’Artagnan read and reread his billet. Then he kissed and\nrekissed twenty times the lines traced by the hand of his beautiful\nmistress. At length he went to bed, fell asleep, and had golden dreams."
+  },
+  {
+   "n": 38,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At seven o’clock in the morning he arose and called Planchet, who at\nthe second summons opened the door, his countenance not yet quite freed\nfrom the anxiety of the preceding night."
+  },
+  {
+   "n": 39,
+   "para": 26,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Planchet,”"
+  },
+  {
+   "n": 40,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 41,
+   "para": 26,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I am going out for all day, perhaps. You\nare, therefore, your own master till seven o’clock in the evening; but\nat seven o’clock you must hold yourself in readiness with two horses.”"
+  },
+  {
+   "n": 42,
+   "para": 27,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“There!”"
+  },
+  {
+   "n": 43,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Planchet."
+  },
+  {
+   "n": 44,
+   "para": 27,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“We are going again, it appears, to have our\nhides pierced in all sorts of ways.”"
+  },
+  {
+   "n": 45,
+   "para": 28,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You will take your musketoon and your pistols.”"
+  },
+  {
+   "n": 46,
+   "para": 29,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“There, now! Didn’t I say so?”"
+  },
+  {
+   "n": 47,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Planchet."
+  },
+  {
+   "n": 48,
+   "para": 29,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“I was sure of it—the\ncursed letter!”"
+  },
+  {
+   "n": 49,
+   "para": 30,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Don’t be afraid, you idiot; there is nothing in hand but a party of\npleasure.”"
+  },
+  {
+   "n": 50,
+   "para": 31,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Ah, like the charming journey the other day, when it rained bullets\nand produced a crop of steel traps!”"
+  },
+  {
+   "n": 51,
+   "para": 32,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, if you are really afraid, Monsieur Planchet,”"
+  },
+  {
+   "n": 52,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed\nD’Artagnan,"
+  },
+  {
+   "n": 53,
+   "para": 32,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I will go without you. I prefer traveling alone to having\na companion who entertains the least fear.”"
+  },
+  {
+   "n": 54,
+   "para": 33,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Monsieur does me wrong,”"
+  },
+  {
+   "n": 55,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Planchet;"
+  },
+  {
+   "n": 56,
+   "para": 33,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“I thought he had seen me at\nwork.”"
+  },
+  {
+   "n": 57,
+   "para": 34,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, but I thought perhaps you had worn out all your courage the first\ntime.”"
+  },
+  {
+   "n": 58,
+   "para": 35,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Monsieur shall see that upon occasion I have some left; only I beg\nMonsieur not to be too prodigal of it if he wishes it to last long.”"
+  },
+  {
+   "n": 59,
+   "para": 36,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Do you believe you have still a certain amount of it to expend this\nevening?”"
+  },
+  {
+   "n": 60,
+   "para": 37,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“I hope so, monsieur.”"
+  },
+  {
+   "n": 61,
+   "para": 38,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, then, I count on you.”"
+  },
+  {
+   "n": 62,
+   "para": 39,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“At the appointed hour I shall be ready; only I believed that Monsieur\nhad but one horse in the Guard stables.”"
+  },
+  {
+   "n": 63,
+   "para": 40,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Perhaps there is but one at this moment; but by this evening there\nwill be four.”"
+  },
+  {
+   "n": 64,
+   "para": 41,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“It appears that our journey was a remounting journey, then?”"
+  },
+  {
+   "n": 65,
+   "para": 42,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Exactly so,”"
+  },
+  {
+   "n": 66,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan; and nodding to Planchet, he went out."
+  },
+  {
+   "n": 67,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. Bonacieux was at his door. D’Artagnan’s intention was to go out\nwithout speaking to the worthy mercer; but the latter made so polite\nand friendly a salutation that his tenant felt obliged, not only to\nstop, but to enter into conversation with him."
+  },
+  {
+   "n": 68,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Besides, how is it possible to avoid a little condescension toward a\nhusband whose pretty wife has appointed a meeting with you that same\nevening at St. Cloud, opposite D’Estrées’s pavilion? D’Artagnan\napproached him with the most amiable air he could assume."
+  },
+  {
+   "n": 69,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The conversation naturally fell upon the incarceration of the poor man.\nM. Bonacieux, who was ignorant that D’Artagnan had overheard his\nconversation with the stranger of Meung, related to his young tenant\nthe persecutions of that monster, M. de Laffemas, whom he never ceased\nto designate, during his account, by the title of the"
+  },
+  {
+   "n": 70,
+   "para": 45,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“cardinal’s\nexecutioner,”"
+  },
+  {
+   "n": 71,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "and expatiated at great length upon the Bastille, the\nbolts, the wickets, the dungeons, the gratings, the instruments of\ntorture."
+  },
+  {
+   "n": 72,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan listened to him with exemplary complaisance, and when he had\nfinished said,"
+  },
+  {
+   "n": 73,
+   "para": 46,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And Madame Bonacieux, do you know who carried her\noff?—For I do not forget that I owe to that unpleasant circumstance the\ngood fortune of having made your acquaintance.”"
+  },
+  {
+   "n": 74,
+   "para": 47,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“Ah!”"
+  },
+  {
+   "n": 75,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Bonacieux,"
+  },
+  {
+   "n": 76,
+   "para": 47,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“they took good care not to tell me that; and my\nwife, on her part, has sworn to me by all that’s sacred that she does\nnot know. But you,”"
+  },
+  {
+   "n": 77,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued M. Bonacieux, in a tone of perfect good\nfellowship,"
+  },
+  {
+   "n": 78,
+   "para": 47,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“what has become of you all these days? I have not seen you\nnor your friends, and I don’t think you could gather all that dust that\nI saw Planchet brush off your boots yesterday from the pavement of\nParis.”"
+  },
+  {
+   "n": 79,
+   "para": 48,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You are right, my dear Monsieur Bonacieux, my friends and I have been\non a little journey.”"
+  },
+  {
+   "n": 80,
+   "para": 49,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“Far from here?”"
+  },
+  {
+   "n": 81,
+   "para": 50,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Oh, Lord, no! About forty leagues only. We went to take Monsieur Athos\nto the waters of Forges, where my friends still remain.”"
+  },
+  {
+   "n": 82,
+   "para": 51,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“And you have returned, have you not?”"
+  },
+  {
+   "n": 83,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied M. Bonacieux, giving to\nhis countenance a most sly air."
+  },
+  {
+   "n": 84,
+   "para": 51,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“A handsome young fellow like you does\nnot obtain long leaves of absence from his mistress; and we were\nimpatiently waited for at Paris, were we not?”"
+  },
+  {
+   "n": 85,
+   "para": 52,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“My faith!”"
+  },
+  {
+   "n": 86,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the young man, laughing,"
+  },
+  {
+   "n": 87,
+   "para": 52,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I confess it, and so much\nmore the readily, my dear Bonacieux, as I see there is no concealing\nanything from you. Yes, I was expected, and very impatiently, I\nacknowledge.”"
+  },
+  {
+   "n": 88,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A slight shade passed over the brow of Bonacieux, but so slight that\nD’Artagnan did not perceive it."
+  },
+  {
+   "n": 89,
+   "para": 54,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“And we are going to be recompensed for our diligence?”"
+  },
+  {
+   "n": 90,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the\nmercer, with a trifling alteration in his voice—so trifling, indeed,\nthat D’Artagnan did not perceive it any more than he had the momentary\nshade which, an instant before, had darkened the countenance of the\nworthy man."
+  },
+  {
+   "n": 91,
+   "para": 55,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Ah, may you be a true prophet!”"
+  },
+  {
+   "n": 92,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, laughing."
+  },
+  {
+   "n": 93,
+   "para": 56,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“No; what I say,”"
+  },
+  {
+   "n": 94,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Bonacieux,"
+  },
+  {
+   "n": 95,
+   "para": 56,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“is only that I may know whether I\nam delaying you.”"
+  },
+  {
+   "n": 96,
+   "para": 57,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Why that question, my dear host?”"
+  },
+  {
+   "n": 97,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked D’Artagnan."
+  },
+  {
+   "n": 98,
+   "para": 57,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Do you intend to\nsit up for me?”"
+  },
+  {
+   "n": 99,
+   "para": 58,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“No; but since my arrest and the robbery that was committed in my\nhouse, I am alarmed every time I hear a door open, particularly in the\nnight. What the deuce can you expect? I am no swordsman.”"
+  },
+  {
+   "n": 100,
+   "para": 59,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, don’t be alarmed if I return at one, two or three o’clock in the\nmorning; indeed, do not be alarmed if I do not come at all.”"
+  },
+  {
+   "n": 101,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This time Bonacieux became so pale that D’Artagnan could not help\nperceiving it, and asked him what was the matter."
+  },
+  {
+   "n": 102,
+   "para": 61,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“Nothing,”"
+  },
+  {
+   "n": 103,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Bonacieux,"
+  },
+  {
+   "n": 104,
+   "para": 61,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“nothing. Since my misfortunes I have\nbeen subject to faintnesses, which seize me all at once, and I have\njust felt a cold shiver. Pay no attention to it; you have nothing to\noccupy yourself with but being happy.”"
+  },
+  {
+   "n": 105,
+   "para": 62,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Then I have full occupation, for I am so.”"
+  },
+  {
+   "n": 106,
+   "para": 63,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“Not yet; wait a little! This evening, you said.”"
+  },
+  {
+   "n": 107,
+   "para": 64,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, this evening will come, thank God! And perhaps you look for it\nwith as much impatience as I do; perhaps this evening Madame Bonacieux\nwill visit the conjugal domicile.”"
+  },
+  {
+   "n": 108,
+   "para": 65,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“Madame Bonacieux is not at liberty this evening,”"
+  },
+  {
+   "n": 109,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the husband,\nseriously;"
+  },
+  {
+   "n": 110,
+   "para": 65,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“she is detained at the Louvre this evening by her duties.”"
+  },
+  {
+   "n": 111,
+   "para": 66,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“So much the worse for you, my dear host, so much the worse! When I am\nhappy, I wish all the world to be so; but it appears that is not\npossible.”"
+  },
+  {
+   "n": 112,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The young man departed, laughing at the joke, which he thought he alone\ncould comprehend."
+  },
+  {
+   "n": 113,
+   "para": 68,
+   "role": "M. Bonacieux",
+   "cast": "Auguste Comte",
+   "text": "“Amuse yourself well!”"
+  },
+  {
+   "n": 114,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Bonacieux, in a sepulchral tone."
+  },
+  {
+   "n": 115,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But D’Artagnan was too far off to hear him; and if he had heard him in\nthe disposition of mind he then enjoyed, he certainly would not have\nremarked it."
+  },
+  {
+   "n": 116,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He took his way toward the hôtel of M. de Tréville; his visit of the\nday before, it is to be remembered, had been very short and very little\nexplicative."
+  },
+  {
+   "n": 117,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He found Tréville in a joyful mood. He had thought the king and queen\ncharming at the ball. It is true the cardinal had been particularly\nill-tempered. He had retired at one o’clock under the pretense of being\nindisposed. As to their Majesties, they did not return to the Louvre\ntill six o’clock in the morning."
+  },
+  {
+   "n": 118,
+   "para": 72,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Now,”"
+  },
+  {
+   "n": 119,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Tréville, lowering his voice, and looking into every corner\nof the apartment to see if they were alone,"
+  },
+  {
+   "n": 120,
+   "para": 72,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“now let us talk about\nyourself, my young friend; for it is evident that your happy return has\nsomething to do with the joy of the king, the triumph of the queen, and\nthe humiliation of his Eminence. You must look out for yourself.”"
+  },
+  {
+   "n": 121,
+   "para": 73,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What have I to fear,”"
+  },
+  {
+   "n": 122,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan,"
+  },
+  {
+   "n": 123,
+   "para": 73,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“as long as I shall have the\nluck to enjoy the favor of their Majesties?”"
+  },
+  {
+   "n": 124,
+   "para": 74,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Everything, believe me. The cardinal is not the man to forget a\nmystification until he has settled account with the mystifier; and the\nmystifier appears to me to have the air of being a certain young Gascon\nof my acquaintance.”"
+  },
+  {
+   "n": 125,
+   "para": 75,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Do you believe that the cardinal is as well posted as yourself, and\nknows that I have been to London?”"
+  },
+  {
+   "n": 126,
+   "para": 76,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“The devil! You have been to London! Was it from London you brought\nthat beautiful diamond that glitters on your finger? Beware, my dear\nD’Artagnan! A present from an enemy is not a good thing. Are there not\nsome Latin verses upon that subject? Stop!”"
+  },
+  {
+   "n": 127,
+   "para": 77,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, doubtless,”"
+  },
+  {
+   "n": 128,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan, who had never been able to cram\nthe first rudiments of that language into his head, and who had by his\nignorance driven his master to despair,"
+  },
+  {
+   "n": 129,
+   "para": 77,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“yes, doubtless there is one.”"
+  },
+  {
+   "n": 130,
+   "para": 78,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“There certainly is one,”"
+  },
+  {
+   "n": 131,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville, who had a tincture of\nliterature,"
+  },
+  {
+   "n": 132,
+   "para": 78,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“and Monsieur de Benserade was quoting it to me the other\nday. Stop a minute—ah, this is it: ‘Timeo Danaos et dona ferentes,’\nwhich means, ‘Beware of the enemy who makes you presents.”"
+  },
+  {
+   "n": 133,
+   "para": 79,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“This diamond does not come from an enemy, monsieur,”"
+  },
+  {
+   "n": 134,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied\nD’Artagnan,"
+  },
+  {
+   "n": 135,
+   "para": 79,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“it comes from the queen.”"
+  },
+  {
+   "n": 136,
+   "para": 80,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“From the queen! Oh, oh!”"
+  },
+  {
+   "n": 137,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville."
+  },
+  {
+   "n": 138,
+   "para": 80,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Why, it is indeed a\ntrue royal jewel, which is worth a thousand pistoles if it is worth a\ndenier. By whom did the queen send you this jewel?”"
+  },
+  {
+   "n": 139,
+   "para": 81,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“She gave it to me herself.”"
+  },
+  {
+   "n": 140,
+   "para": 82,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Where?”"
+  },
+  {
+   "n": 141,
+   "para": 83,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“In the room adjoining the chamber in which she changed her toilet.”"
+  },
+  {
+   "n": 142,
+   "para": 84,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“How?”"
+  },
+  {
+   "n": 143,
+   "para": 85,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Giving me her hand to kiss.”"
+  },
+  {
+   "n": 144,
+   "para": 86,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“You have kissed the queen’s hand?”"
+  },
+  {
+   "n": 145,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville, looking\nearnestly at D’Artagnan."
+  },
+  {
+   "n": 146,
+   "para": 87,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Her Majesty did me the honor to grant me that favor.”"
+  },
+  {
+   "n": 147,
+   "para": 88,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“And that in the presence of witnesses! Imprudent, thrice imprudent!”"
+  },
+  {
+   "n": 148,
+   "para": 89,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“No, monsieur, be satisfied; nobody saw her,”"
+  },
+  {
+   "n": 149,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan, and\nhe related to M. de Tréville how the affair came to pass."
+  },
+  {
+   "n": 150,
+   "para": 90,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Oh, the women, the women!”"
+  },
+  {
+   "n": 151,
+   "para": 90,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the old soldier."
+  },
+  {
+   "n": 152,
+   "para": 90,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“I know them by\ntheir romantic imagination. Everything that savors of mystery charms\nthem. So you have seen the arm, that was all. You would meet the queen,\nand she would not know who you are?”"
+  },
+  {
+   "n": 153,
+   "para": 91,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“No; but thanks to this diamond,”"
+  },
+  {
+   "n": 154,
+   "para": 91,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the young man."
+  },
+  {
+   "n": 155,
+   "para": 92,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Listen,”"
+  },
+  {
+   "n": 156,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville;"
+  },
+  {
+   "n": 157,
+   "para": 92,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“shall I give you counsel, good counsel,\nthe counsel of a friend?”"
+  },
+  {
+   "n": 158,
+   "para": 93,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You will do me honor, monsieur,”"
+  },
+  {
+   "n": 159,
+   "para": 93,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan."
+  },
+  {
+   "n": 160,
+   "para": 94,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Well, then, off to the nearest goldsmith’s, and sell that diamond for\nthe highest price you can get from him. However much of a Jew he may\nbe, he will give you at least eight hundred pistoles. Pistoles have no\nname, young man, and that ring has a terrible one, which may betray him\nwho wears it.”"
+  },
+  {
+   "n": 161,
+   "para": 95,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Sell this ring, a ring which comes from my sovereign? Never!”"
+  },
+  {
+   "n": 162,
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said\nD’Artagnan."
+  },
+  {
+   "n": 163,
+   "para": 96,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Then, at least turn the gem inside, you silly fellow; for everybody\nmust be aware that a cadet from Gascony does not find such stones in\nhis mother’s jewel case.”"
+  },
+  {
+   "n": 164,
+   "para": 97,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You think, then, I have something to dread?”"
+  },
+  {
+   "n": 165,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked D’Artagnan."
+  },
+  {
+   "n": 166,
+   "para": 98,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“I mean to say, young man, that he who sleeps over a mine the match of\nwhich is already lighted, may consider himself in safety in comparison\nwith you.”"
+  },
+  {
+   "n": 167,
+   "para": 99,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The devil!”"
+  },
+  {
+   "n": 168,
+   "para": 99,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, whom the positive tone of M. de Tréville\nbegan to disquiet,"
+  },
+  {
+   "n": 169,
+   "para": 99,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“the devil! What must I do?”"
+  },
+  {
+   "n": 170,
+   "para": 100,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Above all things be always on your guard. The cardinal has a tenacious\nmemory and a long arm; you may depend upon it, he will repay you by\nsome ill turn.”"
+  },
+  {
+   "n": 171,
+   "para": 101,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But of what sort?”"
+  },
+  {
+   "n": 172,
+   "para": 102,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Eh! How can I tell? Has he not all the tricks of a demon at his\ncommand? The least that can be expected is that you will be arrested.”"
+  },
+  {
+   "n": 173,
+   "para": 103,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What! Will they dare to arrest a man in his Majesty’s service?”"
+  },
+  {
+   "n": 174,
+   "para": 104,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“_Pardieu!_ They did not scruple much in the case of Athos. At all\nevents, young man, rely upon one who has been thirty years at court. Do\nnot lull yourself in security, or you will be lost; but, on the\ncontrary—and it is I who say it—see enemies in all directions. If\nanyone seeks a quarrel with you, shun it, were it with a child of ten\nyears old. If you are attacked by day or by night, fight, but retreat,\nwithout shame; if you cross a bridge, feel every plank of it with your\nfoot, lest one should give way beneath you; if you pass before a house\nwhich is being built, look up, for fear a stone should fall upon your\nhead; if you stay out late, be always followed by your lackey, and let\nyour lackey be armed—if, by the by, you can be sure of your lackey.\nMistrust everybody, your friend, your brother, your mistress—your\nmistress above all.”"
+  },
+  {
+   "n": 175,
+   "para": 105,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan blushed."
+  },
+  {
+   "n": 176,
+   "para": 106,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“My mistress above all,”"
+  },
+  {
+   "n": 177,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "repeated he, mechanically;"
+  },
+  {
+   "n": 178,
+   "para": 106,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“and why her rather\nthan another?”"
+  },
+  {
+   "n": 179,
+   "para": 107,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Because a mistress is one of the cardinal’s favorite means; he has not\none that is more expeditious. A woman will sell you for ten pistoles,\nwitness Delilah. You are acquainted with the Scriptures?”"
+  },
+  {
+   "n": 180,
+   "para": 108,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan thought of the appointment Mme. Bonacieux had made with him\nfor that very evening; but we are bound to say, to the credit of our\nhero, that the bad opinion entertained by M. de Tréville of women in\ngeneral, did not inspire him with the least suspicion of his pretty\nhostess."
+  },
+  {
+   "n": 181,
+   "para": 109,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“But, _à propos_,”"
+  },
+  {
+   "n": 182,
+   "para": 109,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed M. de Tréville,"
+  },
+  {
+   "n": 183,
+   "para": 109,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“what has become of your\nthree companions?”"
+  },
+  {
+   "n": 184,
+   "para": 110,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I was about to ask you if you had heard any news of them?”"
+  },
+  {
+   "n": 185,
+   "para": 111,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“None, monsieur.”"
+  },
+  {
+   "n": 186,
+   "para": 112,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, I left them on my road—Porthos at Chantilly, with a duel on his\nhands; Aramis at Crèvecœur, with a ball in his shoulder; and Athos at\nAmiens, detained by an accusation of coining.”"
+  },
+  {
+   "n": 187,
+   "para": 113,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“See there, now!”"
+  },
+  {
+   "n": 188,
+   "para": 113,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville;"
+  },
+  {
+   "n": 189,
+   "para": 113,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“and how the devil did you\nescape?”"
+  },
+  {
+   "n": 190,
+   "para": 114,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“By a miracle, monsieur, I must acknowledge, with a sword thrust in my\nbreast, and by nailing the Comte de Wardes on the byroad to Calais,\nlike a butterfly on a tapestry.”"
+  },
+  {
+   "n": 191,
+   "para": 115,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“There again! De Wardes, one of the cardinal’s men, a cousin of\nRochefort! Stop, my friend, I have an idea.”"
+  },
+  {
+   "n": 192,
+   "para": 116,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Speak, monsieur.”"
+  },
+  {
+   "n": 193,
+   "para": 117,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“In your place, I would do one thing.”"
+  },
+  {
+   "n": 194,
+   "para": 118,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What?”"
+  },
+  {
+   "n": 195,
+   "para": 119,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“While his Eminence was seeking for me in Paris, I would take, without\nsound of drum or trumpet, the road to Picardy, and would go and make\nsome inquiries concerning my three companions. What the devil! They\nmerit richly that piece of attention on your part.”"
+  },
+  {
+   "n": 196,
+   "para": 120,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The advice is good, monsieur, and tomorrow I will set out.”"
+  },
+  {
+   "n": 197,
+   "para": 121,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Tomorrow! Any why not this evening?”"
+  },
+  {
+   "n": 198,
+   "para": 122,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“This evening, monsieur, I am detained in Paris by indispensable\nbusiness.”"
+  },
+  {
+   "n": 199,
+   "para": 123,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Ah, young man, young man, some flirtation or other. Take care, I\nrepeat to you, take care. It is woman who has ruined us, still ruins\nus, and will ruin us, as long as the world stands. Take my advice and\nset out this evening.”"
+  },
+  {
+   "n": 200,
+   "para": 124,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Impossible, monsieur.”"
+  },
+  {
+   "n": 201,
+   "para": 125,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“You have given your word, then?”"
+  },
+  {
+   "n": 202,
+   "para": 126,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, monsieur.”"
+  },
+  {
+   "n": 203,
+   "para": 127,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Ah, that’s quite another thing; but promise me, if you should not be\nkilled tonight, that you will go tomorrow.”"
+  },
+  {
+   "n": 204,
+   "para": 128,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I promise it.”"
+  },
+  {
+   "n": 205,
+   "para": 129,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Do you need money?”"
+  },
+  {
+   "n": 206,
+   "para": 130,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I have still fifty pistoles. That, I think, is as much as I shall\nwant.”"
+  },
+  {
+   "n": 207,
+   "para": 131,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“But your companions?”"
+  },
+  {
+   "n": 208,
+   "para": 132,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I don’t think they can be in need of any. We left Paris, each with\nseventy-five pistoles in his pocket.”"
+  },
+  {
+   "n": 209,
+   "para": 133,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Shall I see you again before your departure?”"
+  },
+  {
+   "n": 210,
+   "para": 134,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I think not, monsieur, unless something new should happen.”"
+  },
+  {
+   "n": 211,
+   "para": 135,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Well, a pleasant journey.”"
+  },
+  {
+   "n": 212,
+   "para": 136,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Thanks, monsieur.”"
+  },
+  {
+   "n": 213,
+   "para": 137,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan left M. de Tréville, touched more than ever by his paternal\nsolicitude for his Musketeers."
+  },
+  {
+   "n": 214,
+   "para": 138,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He called successively at the abodes of Athos, Porthos, and Aramis.\nNeither of them had returned. Their lackeys likewise were absent, and\nnothing had been heard of either the one or the other. He would have\ninquired after them of their mistresses, but he was neither acquainted\nwith Porthos’s nor Aramis’s, and as to Athos, he had none."
+  },
+  {
+   "n": 215,
+   "para": 139,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As he passed the Hôtel des Gardes, he took a glance into the stables.\nThree of the four horses had already arrived. Planchet, all\nastonishment, was busy grooming them, and had already finished two."
+  },
+  {
+   "n": 216,
+   "para": 140,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Ah, monsieur,”"
+  },
+  {
+   "n": 217,
+   "para": 140,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Planchet, on perceiving D’Artagnan,"
+  },
+  {
+   "n": 218,
+   "para": 140,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“how glad I am\nto see you.”"
+  },
+  {
+   "n": 219,
+   "para": 141,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Why so, Planchet?”"
+  },
+  {
+   "n": 220,
+   "para": 141,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the young man."
+  },
+  {
+   "n": 221,
+   "para": 142,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Do you place confidence in our landlord—Monsieur Bonacieux?”"
+  },
+  {
+   "n": 222,
+   "para": 143,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I? Not the least in the world.”"
+  },
+  {
+   "n": 223,
+   "para": 144,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Oh, you do quite right, monsieur.”"
+  },
+  {
+   "n": 224,
+   "para": 145,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But why this question?”"
+  },
+  {
+   "n": 225,
+   "para": 146,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Because, while you were talking with him, I watched you without\nlistening to you; and, monsieur, his countenance changed color two or\nthree times!”"
+  },
+  {
+   "n": 226,
+   "para": 147,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Bah!”"
+  },
+  {
+   "n": 227,
+   "para": 148,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Preoccupied as Monsieur was with the letter he had received, he did\nnot observe that; but I, whom the strange fashion in which that letter\ncame into the house had placed on my guard—I did not lose a movement of\nhis features.”"
+  },
+  {
+   "n": 228,
+   "para": 149,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And you found it?”"
+  },
+  {
+   "n": 229,
+   "para": 150,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Traitorous, monsieur.”"
+  },
+  {
+   "n": 230,
+   "para": 151,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Indeed!”"
+  },
+  {
+   "n": 231,
+   "para": 152,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Still more; as soon as Monsieur had left and disappeared round the\ncorner of the street, Monsieur Bonacieux took his hat, shut his door,\nand set off at a quick pace in an opposite direction.”"
+  },
+  {
+   "n": 232,
+   "para": 153,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“It seems you are right, Planchet; all this appears to be a little\nmysterious; and be assured that we will not pay him our rent until the\nmatter shall be categorically explained to us.”"
+  },
+  {
+   "n": 233,
+   "para": 154,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Monsieur jests, but Monsieur will see.”"
+  },
+  {
+   "n": 234,
+   "para": 155,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What would you have, Planchet? What must come is written.”"
+  },
+  {
+   "n": 235,
+   "para": 156,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Monsieur does not then renounce his excursion for this evening?”"
+  },
+  {
+   "n": 236,
+   "para": 157,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Quite the contrary, Planchet; the more ill will I have toward Monsieur\nBonacieux, the more punctual I shall be in keeping the appointment made\nby that letter which makes you so uneasy.”"
+  },
+  {
+   "n": 237,
+   "para": 158,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Then that is Monsieur’s determination?”"
+  },
+  {
+   "n": 238,
+   "para": 159,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Undeniably, my friend. At nine o’clock, then, be ready here at the\nhôtel, I will come and take you.”"
+  },
+  {
+   "n": 239,
+   "para": 160,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Planchet seeing there was no longer any hope of making his master\nrenounce his project, heaved a profound sigh and set to work to groom\nthe third horse."
+  },
+  {
+   "n": 240,
+   "para": 161,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As to D’Artagnan, being at bottom a prudent youth, instead of returning\nhome, went and dined with the Gascon priest, who, at the time of the\ndistress of the four friends, had given them a breakfast of chocolate."
+  }
+ ]
+}

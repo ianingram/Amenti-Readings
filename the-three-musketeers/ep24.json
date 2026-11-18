@@ -1,0 +1,861 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 24,
+ "chapter": 24,
+ "title": "The Pavilion",
+ "document": "CHAPTER XXIV",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch24.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Planchet",
+   "cast_as": "Edouard Manet"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter XXIV.\nTHE PAVILION"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At nine o’clock D’Artagnan was at the Hôtel des Gardes; he found\nPlanchet all ready. The fourth horse had arrived."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Planchet was armed with his musketoon and a pistol. D’Artagnan had his\nsword and placed two pistols in his belt; then both mounted and\ndeparted quietly. It was quite dark, and no one saw them go out.\nPlanchet took place behind his master, and kept at a distance of ten\npaces from him."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan crossed the quays, went out by the gate of La Conférence and\nfollowed the road, much more beautiful then than it is now, which leads\nto St. Cloud."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As long as he was in the city, Planchet kept at the respectful distance\nhe had imposed upon himself; but as soon as the road began to be more\nlonely and dark, he drew softly nearer, so that when they entered the\nBois de Boulogne he found himself riding quite naturally side by side\nwith his master. In fact, we must not dissemble that the oscillation of\nthe tall trees and the reflection of the moon in the dark underwood\ngave him serious uneasiness. D’Artagnan could not help perceiving that\nsomething more than usual was passing in the mind of his lackey and\nsaid,"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, Monsieur Planchet, what is the matter with us now?”"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Don’t you think, monsieur, that woods are like churches?”"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“How so, Planchet?”"
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Because we dare not speak aloud in one or the other.”"
+  },
+  {
+   "n": 10,
+   "para": 8,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But why did you not dare to speak aloud, Planchet—because you are\nafraid?”"
+  },
+  {
+   "n": 11,
+   "para": 9,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Afraid of being heard? Yes, monsieur.”"
+  },
+  {
+   "n": 12,
+   "para": 10,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Afraid of being heard! Why, there is nothing improper in our\nconversation, my dear Planchet, and no one could find fault with it.”"
+  },
+  {
+   "n": 13,
+   "para": 11,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Ah, monsieur!”"
+  },
+  {
+   "n": 14,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Planchet, recurring to his besetting idea,"
+  },
+  {
+   "n": 15,
+   "para": 11,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“that Monsieur Bonacieux has something vicious in his eyebrows, and\nsomething very unpleasant in the play of his lips.”"
+  },
+  {
+   "n": 16,
+   "para": 12,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What the devil makes you think of Bonacieux?”"
+  },
+  {
+   "n": 17,
+   "para": 13,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Monsieur, we think of what we can, and not of what we will.”"
+  },
+  {
+   "n": 18,
+   "para": 14,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Because you are a coward, Planchet.”"
+  },
+  {
+   "n": 19,
+   "para": 15,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Monsieur, we must not confound prudence with cowardice; prudence is a\nvirtue.”"
+  },
+  {
+   "n": 20,
+   "para": 16,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And you are very virtuous, are you not, Planchet?”"
+  },
+  {
+   "n": 21,
+   "para": 17,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Monsieur, is not that the barrel of a musket which glitters yonder?\nHad we not better lower our heads?”"
+  },
+  {
+   "n": 22,
+   "para": 18,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“In truth,”"
+  },
+  {
+   "n": 23,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured D’Artagnan, to whom M. de Tréville’s\nrecommendation recurred,"
+  },
+  {
+   "n": 24,
+   "para": 18,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“this animal will end by making me afraid.”"
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And he put his horse into a trot."
+  },
+  {
+   "n": 26,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Planchet followed the movements of his master as if he had been his\nshadow, and was soon trotting by his side."
+  },
+  {
+   "n": 27,
+   "para": 20,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Are we going to continue this pace all night?”"
+  },
+  {
+   "n": 28,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Planchet."
+  },
+  {
+   "n": 29,
+   "para": 21,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“No; you are at your journey’s end.”"
+  },
+  {
+   "n": 30,
+   "para": 22,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“How, monsieur! And you?”"
+  },
+  {
+   "n": 31,
+   "para": 23,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I am going a few steps farther.”"
+  },
+  {
+   "n": 32,
+   "para": 24,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“And Monsieur leaves me here alone?”"
+  },
+  {
+   "n": 33,
+   "para": 25,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You are afraid, Planchet?”"
+  },
+  {
+   "n": 34,
+   "para": 26,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“No; I only beg leave to observe to Monsieur that the night will be\nvery cold, that chills bring on rheumatism, and that a lackey who has\nthe rheumatism makes but a poor servant, particularly to a master as\nactive as Monsieur.”"
+  },
+  {
+   "n": 35,
+   "para": 27,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, if you are cold, Planchet, you can go into one of those cabarets\nthat you see yonder, and be in waiting for me at the door by six\no’clock in the morning.”"
+  },
+  {
+   "n": 36,
+   "para": 28,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Monsieur, I have eaten and drunk respectfully the crown you gave me\nthis morning, so that I have not a sou left in case I should be cold.”"
+  },
+  {
+   "n": 37,
+   "para": 29,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Here’s half a pistole. Tomorrow morning.”"
+  },
+  {
+   "n": 38,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan sprang from his horse, threw the bridle to Planchet, and\ndeparted at a quick pace, folding his cloak around him."
+  },
+  {
+   "n": 39,
+   "para": 31,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Good Lord, how cold I am!”"
+  },
+  {
+   "n": 40,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Planchet, as soon as he had lost\nsight of his master; and in such haste was he to warm himself that he\nwent straight to a house set out with all the attributes of a suburban\ntavern, and knocked at the door."
+  },
+  {
+   "n": 41,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In the meantime D’Artagnan, who had plunged into a bypath, continued\nhis route and reached St. Cloud; but instead of following the main\nstreet he turned behind the château, reached a sort of retired lane,\nand found himself soon in front of the pavilion named. It was situated\nin a very private spot. A high wall, at the angle of which was the\npavilion, ran along one side of this lane, and on the other was a\nlittle garden connected with a poor cottage which was protected by a\nhedge from passers-by."
+  },
+  {
+   "n": 42,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He gained the place appointed, and as no signal had been given him by\nwhich to announce his presence, he waited."
+  },
+  {
+   "n": 43,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Not the least noise was to be heard; it might be imagined that he was a\nhundred miles from the capital. D’Artagnan leaned against the hedge,\nafter having cast a glance behind it. Beyond that hedge, that garden,\nand that cottage, a dark mist enveloped with its folds that immensity\nwhere Paris slept—a vast void from which glittered a few luminous\npoints, the funeral stars of that hell!"
+  },
+  {
+   "n": 44,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But for D’Artagnan all aspects were clothed happily, all ideas wore a\nsmile, all shades were diaphanous. The appointed hour was about to\nstrike. In fact, at the end of a few minutes the belfry of St. Cloud\nlet fall slowly ten strokes from its sonorous jaws. There was something\nmelancholy in this brazen voice pouring out its lamentations in the\nmiddle of the night; but each of those strokes, which made up the\nexpected hour, vibrated harmoniously to the heart of the young man."
+  },
+  {
+   "n": 45,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "His eyes were fixed upon the little pavilion situated at the angle of\nthe wall, of which all the windows were closed with shutters, except\none on the first story. Through this window shone a mild light which\nsilvered the foliage of two or three linden trees which formed a group\noutside the park. There could be no doubt that behind this little\nwindow, which threw forth such friendly beams, the pretty Mme.\nBonacieux expected him."
+  },
+  {
+   "n": 46,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Wrapped in this sweet idea, D’Artagnan waited half an hour without the\nleast impatience, his eyes fixed upon that charming little abode of\nwhich he could perceive a part of the ceiling with its gilded moldings,\nattesting the elegance of the rest of the apartment."
+  },
+  {
+   "n": 47,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The belfry of St. Cloud sounded half past ten."
+  },
+  {
+   "n": 48,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This time, without knowing why, D’Artagnan felt a cold shiver run\nthrough his veins. Perhaps the cold began to affect him, and he took a\nperfectly physical sensation for a moral impression."
+  },
+  {
+   "n": 49,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then the idea seized him that he had read incorrectly, and that the\nappointment was for eleven o’clock. He drew near to the window, and\nplacing himself so that a ray of light should fall upon the letter as\nhe held it, he drew it from his pocket and read it again; but he had\nnot been mistaken, the appointment was for ten o’clock. He went and\nresumed his post, beginning to be rather uneasy at this silence and\nthis solitude."
+  },
+  {
+   "n": 50,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Eleven o’clock sounded."
+  },
+  {
+   "n": 51,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan began now really to fear that something had happened to Mme.\nBonacieux. He clapped his hands three times—the ordinary signal of\nlovers; but nobody replied to him, not even an echo."
+  },
+  {
+   "n": 52,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He then thought, with a touch of vexation, that perhaps the young woman\nhad fallen asleep while waiting for him. He approached the wall, and\ntried to climb it; but the wall had been recently pointed, and\nD’Artagnan could get no hold."
+  },
+  {
+   "n": 53,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At that moment he thought of the trees, upon whose leaves the light\nstill shone; and as one of them drooped over the road, he thought that\nfrom its branches he might get a glimpse of the interior of the\npavilion."
+  },
+  {
+   "n": 54,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The tree was easy to climb. Besides, D’Artagnan was but twenty years\nold, and consequently had not yet forgotten his schoolboy habits. In an\ninstant he was among the branches, and his keen eyes plunged through\nthe transparent panes into the interior of the pavilion."
+  },
+  {
+   "n": 55,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It was a strange thing, and one which made D’Artagnan tremble from the\nsole of his foot to the roots of his hair, to find that this soft\nlight, this calm lamp, enlightened a scene of fearful disorder. One of\nthe windows was broken, the door of the chamber had been beaten in and\nhung, split in two, on its hinges. A table, which had been covered with\nan elegant supper, was overturned. The decanters broken in pieces, and\nthe fruits crushed, strewed the floor. Everything in the apartment gave\nevidence of a violent and desperate struggle. D’Artagnan even fancied\nhe could recognize amid this strange disorder, fragments of garments,\nand some bloody spots staining the cloth and the curtains. He hastened\nto descend into the street, with a frightful beating at his heart; he\nwished to see if he could find other traces of violence."
+  },
+  {
+   "n": 56,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The little soft light shone on in the calmness of the night. D’Artagnan\nthen perceived a thing that he had not before remarked—for nothing had\nled him to the examination—that the ground, trampled here and\nhoofmarked there, presented confused traces of men and horses. Besides,\nthe wheels of a carriage, which appeared to have come from Paris, had\nmade a deep impression in the soft earth, which did not extend beyond\nthe pavilion, but turned again toward Paris."
+  },
+  {
+   "n": 57,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At length D’Artagnan, in pursuing his researches, found near the wall a\nwoman’s torn glove. This glove, wherever it had not touched the muddy\nground, was of irreproachable odor. It was one of those perfumed gloves\nthat lovers like to snatch from a pretty hand."
+  },
+  {
+   "n": 58,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As D’Artagnan pursued his investigations, a more abundant and more icy\nsweat rolled in large drops from his forehead; his heart was oppressed\nby a horrible anguish; his respiration was broken and short. And yet he\nsaid, to reassure himself, that this pavilion perhaps had nothing in\ncommon with Mme. Bonacieux; that the young woman had made an\nappointment with him before the pavilion, and not in the pavilion; that\nshe might have been detained in Paris by her duties, or perhaps by the\njealousy of her husband."
+  },
+  {
+   "n": 59,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But all these reasons were combated, destroyed, overthrown, by that\nfeeling of intimate pain which, on certain occasions, takes possession\nof our being, and cries to us so as to be understood unmistakably that\nsome great misfortune is hanging over us."
+  },
+  {
+   "n": 60,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then D’Artagnan became almost wild. He ran along the high road, took\nthe path he had before taken, and reaching the ferry, interrogated the\nboatman."
+  },
+  {
+   "n": 61,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "About seven o’clock in the evening, the boatman had taken over a young\nwoman, wrapped in a black mantle, who appeared to be very anxious not\nto be recognized; but entirely on account of her precautions, the\nboatman had paid more attention to her and discovered that she was\nyoung and pretty."
+  },
+  {
+   "n": 62,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "There were then, as now, a crowd of young and pretty women who came to\nSt. Cloud, and who had reasons for not being seen, and yet D’Artagnan\ndid not for an instant doubt that it was Mme. Bonacieux whom the\nboatman had noticed."
+  },
+  {
+   "n": 63,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan took advantage of the lamp which burned in the cabin of the\nferryman to read the billet of Mme. Bonacieux once again, and satisfy\nhimself that he had not been mistaken, that the appointment was at St.\nCloud and not elsewhere, before the D’Estrées’s pavilion and not in\nanother street. Everything conspired to prove to D’Artagnan that his\npresentiments had not deceived him, and that a great misfortune had\nhappened."
+  },
+  {
+   "n": 64,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He again ran back to the château. It appeared to him that something\nmight have happened at the pavilion in his absence, and that fresh\ninformation awaited him. The lane was still deserted, and the same calm\nsoft light shone through the window."
+  },
+  {
+   "n": 65,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan then thought of that cottage, silent and obscure, which had\nno doubt seen all, and could tell its tale. The gate of the enclosure\nwas shut; but he leaped over the hedge, and in spite of the barking of\na chained-up dog, went up to the cabin."
+  },
+  {
+   "n": 66,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "No one answered to his first knocking. A silence of death reigned in\nthe cabin as in the pavilion; but as the cabin was his last resource,\nhe knocked again."
+  },
+  {
+   "n": 67,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It soon appeared to him that he heard a slight noise within—a timid\nnoise which seemed to tremble lest it should be heard."
+  },
+  {
+   "n": 68,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then D’Artagnan ceased knocking, and prayed with an accent so full of\nanxiety and promises, terror and cajolery, that his voice was of a\nnature to reassure the most fearful. At length an old, worm-eaten\nshutter was opened, or rather pushed ajar, but closed again as soon as\nthe light from a miserable lamp which burned in the corner had shone\nupon the baldric, sword belt, and pistol pommels of D’Artagnan.\nNevertheless, rapid as the movement had been, D’Artagnan had had time\nto get a glimpse of the head of an old man."
+  },
+  {
+   "n": 69,
+   "para": 60,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“In the name of heaven!”"
+  },
+  {
+   "n": 70,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried he,"
+  },
+  {
+   "n": 71,
+   "para": 60,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“listen to me; I have been waiting\nfor someone who has not come. I am dying with anxiety. Has anything\nparticular happened in the neighborhood? Speak!”"
+  },
+  {
+   "n": 72,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The window was again opened slowly, and the same face appeared, only it\nwas now still more pale than before."
+  },
+  {
+   "n": 73,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan related his story simply, with the omission of names. He\ntold how he had a rendezvous with a young woman before that pavilion,\nand how, not seeing her come, he had climbed the linden tree, and by\nthe light of the lamp had seen the disorder of the chamber."
+  },
+  {
+   "n": 74,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The old man listened attentively, making a sign only that it was all\nso; and then, when D’Artagnan had ended, he shook his head with an air\nthat announced nothing good."
+  },
+  {
+   "n": 75,
+   "para": 64,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What do you mean?”"
+  },
+  {
+   "n": 76,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 77,
+   "para": 64,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“In the name of heaven, explain\nyourself!”"
+  },
+  {
+   "n": 78,
+   "para": 65,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Oh! Monsieur,”"
+  },
+  {
+   "n": 79,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the old man,"
+  },
+  {
+   "n": 80,
+   "para": 65,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“ask me nothing; for if I dared tell\nyou what I have seen, certainly no good would befall me.”"
+  },
+  {
+   "n": 81,
+   "para": 66,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You have, then, seen something?”"
+  },
+  {
+   "n": 82,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan."
+  },
+  {
+   "n": 83,
+   "para": 66,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“In that case, in\nthe name of heaven,”"
+  },
+  {
+   "n": 84,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued he, throwing him a pistole,"
+  },
+  {
+   "n": 85,
+   "para": 66,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“tell me\nwhat you have seen, and I will pledge you the word of a gentleman that\nnot one of your words shall escape from my heart.”"
+  },
+  {
+   "n": 86,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The old man read so much truth and so much grief in the face of the\nyoung man that he made him a sign to listen, and repeated in a low\nvoice:"
+  },
+  {
+   "n": 87,
+   "para": 67,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“It was scarcely nine o’clock when I heard a noise in the\nstreet, and was wondering what it could be, when on coming to my door,\nI found that somebody was endeavoring to open it. As I am very poor and\nam not afraid of being robbed, I went and opened the gate and saw three\nmen at a few paces from it. In the shadow was a carriage with two\nhorses, and some saddlehorses. These horses evidently belonged to the\nthree men, who were dressed as cavaliers. ‘Ah, my worthy gentlemen,’\ncried I, ‘what do you want?’ ‘You must have a ladder?’ said he who\nappeared to be the leader of the party. ‘Yes, monsieur, the one with\nwhich I gather my fruit.’ ‘Lend it to us, and go into your house again;\nthere is a crown for the annoyance we have caused you. Only remember\nthis—if you speak a word of what you may see or what you may hear (for\nyou will look and you will listen, I am quite sure, however we may\nthreaten you), you are lost.’ At these words he threw me a crown, which\nI picked up, and he took the ladder. After shutting the gate behind\nthem, I pretended to return to the house, but I immediately went out a\nback door, and stealing along in the shade of the hedge, I gained\nyonder clump of elder, from which I could hear and see everything. The\nthree men brought the carriage up quietly, and took out of it a little\nman, stout, short, elderly, and commonly dressed in clothes of a dark\ncolor, who ascended the ladder very carefully, looked suspiciously in\nat the window of the pavilion, came down as quietly as he had gone up,\nand whispered, ‘It is she!’ Immediately, he who had spoken to me\napproached the door of the pavilion, opened it with a key he had in his\nhand, closed the door and disappeared, while at the same time the other\ntwo men ascended the ladder. The little old man remained at the coach\ndoor; the coachman took care of his horses, the lackey held the\nsaddlehorses. All at once great cries resounded in the pavilion, and a\nwoman came to the window, and opened it, as if to throw herself out of\nit; but as soon as she perceived the other two men, she fell back and\nthey went into the chamber. Then I saw no more; but I heard the noise\nof breaking furniture. The woman screamed, and cried for help; but her\ncries were soon stifled. Two of the men appeared, bearing the woman in\ntheir arms, and carried her to the carriage, into which the little old\nman got after her. The leader closed the window, came out an instant\nafter by the door, and satisfied himself that the woman was in the\ncarriage. His two companions were already on horseback. He sprang into\nhis saddle; the lackey took his place by the coachman; the carriage\nwent off at a quick pace, escorted by the three horsemen, and all was\nover. From that moment I have neither seen nor heard anything.”"
+  },
+  {
+   "n": 88,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan, entirely overcome by this terrible story, remained\nmotionless and mute, while all the demons of anger and jealousy were\nhowling in his heart."
+  },
+  {
+   "n": 89,
+   "para": 69,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But, my good gentleman,”"
+  },
+  {
+   "n": 90,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed the old man, upon whom this mute\ndespair certainly produced a greater effect than cries and tears would\nhave done,"
+  },
+  {
+   "n": 91,
+   "para": 69,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“do not take on so; they did not kill her, and that’s a\ncomfort.”"
+  },
+  {
+   "n": 92,
+   "para": 70,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Can you guess,”"
+  },
+  {
+   "n": 93,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 94,
+   "para": 70,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“who was the man who headed this\ninfernal expedition?”"
+  },
+  {
+   "n": 95,
+   "para": 71,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“I don’t know him.”"
+  },
+  {
+   "n": 96,
+   "para": 72,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But as you spoke to him you must have seen him.”"
+  },
+  {
+   "n": 97,
+   "para": 73,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Oh, it’s a description you want?”"
+  },
+  {
+   "n": 98,
+   "para": 74,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Exactly so.”"
+  },
+  {
+   "n": 99,
+   "para": 75,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“A tall, dark man, with black mustaches, dark eyes, and the air of a\ngentleman.”"
+  },
+  {
+   "n": 100,
+   "para": 76,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“That’s the man!”"
+  },
+  {
+   "n": 101,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan,"
+  },
+  {
+   "n": 102,
+   "para": 76,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“again he, forever he! He is my\ndemon, apparently. And the other?”"
+  },
+  {
+   "n": 103,
+   "para": 77,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Which?”"
+  },
+  {
+   "n": 104,
+   "para": 78,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The short one.”"
+  },
+  {
+   "n": 105,
+   "para": 79,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“Oh, he was not a gentleman, I’ll answer for it; besides, he did not\nwear a sword, and the others treated him with small consideration.”"
+  },
+  {
+   "n": 106,
+   "para": 80,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Some lackey,”"
+  },
+  {
+   "n": 107,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured D’Artagnan."
+  },
+  {
+   "n": 108,
+   "para": 80,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Poor woman, poor woman, what have\nthey done with you?”"
+  },
+  {
+   "n": 109,
+   "para": 81,
+   "role": "Planchet",
+   "cast": "Edouard Manet",
+   "text": "“You have promised to be secret, my good monsieur?”"
+  },
+  {
+   "n": 110,
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the old man."
+  },
+  {
+   "n": 111,
+   "para": 82,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And I renew my promise. Be easy, I am a gentleman. A gentleman has but\nhis word, and I have given you mine.”"
+  },
+  {
+   "n": 112,
+   "para": 83,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "With a heavy heart, D’Artagnan again bent his way toward the ferry.\nSometimes he hoped it could not be Mme. Bonacieux, and that he should\nfind her next day at the Louvre; sometimes he feared she had had an\nintrigue with another, who, in a jealous fit, had surprised her and\ncarried her off. His mind was torn by doubt, grief, and despair."
+  },
+  {
+   "n": 113,
+   "para": 84,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Oh, if I had my three friends here,”"
+  },
+  {
+   "n": 114,
+   "para": 84,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried he,"
+  },
+  {
+   "n": 115,
+   "para": 84,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I should have, at\nleast, some hopes of finding her; but who knows what has become of\nthem?”"
+  },
+  {
+   "n": 116,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It was past midnight; the next thing was to find Planchet. D’Artagnan\nwent successively into all the cabarets in which there was a light, but\ncould not find Planchet in any of them."
+  },
+  {
+   "n": 117,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At the sixth he began to reflect that the search was rather dubious.\nD’Artagnan had appointed six o’clock in the morning for his lackey, and\nwherever he might be, he was right."
+  },
+  {
+   "n": 118,
+   "para": 87,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Besides, it came into the young man’s mind that by remaining in the\nenvirons of the spot on which this sad event had passed, he would,\nperhaps, have some light thrown upon the mysterious affair. At the\nsixth cabaret, then, as we said, D’Artagnan stopped, asked for a bottle\nof wine of the best quality, and placing himself in the darkest corner\nof the room, determined thus to wait till daylight; but this time again\nhis hopes were disappointed, and although he listened with all his\nears, he heard nothing, amid the oaths, coarse jokes, and abuse which\npassed between the laborers, servants, and carters who comprised the\nhonorable society of which he formed a part, which could put him upon\nthe least track of her who had been stolen from him. He was compelled,\nthen, after having swallowed the contents of his bottle, to pass the\ntime as well as to evade suspicion, to fall into the easiest position\nin his corner and to sleep, whether well or ill. D’Artagnan, be it\nremembered, was only twenty years old, and at that age sleep has its\nimprescriptible rights which it imperiously insists upon, even with the\nsaddest hearts."
+  },
+  {
+   "n": 119,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Toward six o’clock D’Artagnan awoke with that uncomfortable feeling\nwhich generally accompanies the break of day after a bad night. He was\nnot long in making his toilet. He examined himself to see if advantage\nhad been taken of his sleep, and having found his diamond ring on his\nfinger, his purse in his pocket, and his pistols in his belt, he rose,\npaid for his bottle, and went out to try if he could have any better\nluck in his search after his lackey than he had had the night before.\nThe first thing he perceived through the damp gray mist was honest\nPlanchet, who, with the two horses in hand, awaited him at the door of\na little blind cabaret, before which D’Artagnan had passed without even\na suspicion of its existence."
+  }
+ ]
+}

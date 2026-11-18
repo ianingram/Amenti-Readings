@@ -1,0 +1,1057 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 62,
+ "chapter": 62,
+ "title": "Two Varieties of Demons",
+ "document": "CHAPTER LXII",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch62.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "Rochefort, the man of Meung",
+   "cast_as": "Voltaire"
+  },
+  {
+   "role": "Milady de Winter",
+   "cast_as": "Sarah Bernhardt"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter LXII.\nTWO VARIETIES OF DEMONS"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Ah,” cried Milady and Rochefort together,"
+  },
+  {
+   "n": 3,
+   "para": 1,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“it is you!”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Yes, it is I.”"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“And you come?”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Milady."
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“From La Rochelle; and you?”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“From England.”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Buckingham?”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Dead or desperately wounded, as I left without having been able to\nhear anything of him. A fanatic has just assassinated him.”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Ah,”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Rochefort, with a smile;"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“this is a fortunate chance—one\nthat will delight his Eminence! Have you informed him of it?”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I wrote to him from Boulogne. But what brings you here?”"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“His Eminence was uneasy, and sent me to find you.”"
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I only arrived yesterday.”"
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“And what have you been doing since yesterday?”"
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I have not lost my time.”"
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Oh, I don’t doubt that.”"
+  },
+  {
+   "n": 20,
+   "para": 15,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Do you know whom I have encountered here?”"
+  },
+  {
+   "n": 21,
+   "para": 16,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“No.”"
+  },
+  {
+   "n": 22,
+   "para": 17,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Guess.”"
+  },
+  {
+   "n": 23,
+   "para": 18,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“How can I?”"
+  },
+  {
+   "n": 24,
+   "para": 19,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That young woman whom the queen took out of prison.”"
+  },
+  {
+   "n": 25,
+   "para": 20,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“The mistress of that fellow D’Artagnan?”"
+  },
+  {
+   "n": 26,
+   "para": 21,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes; Madame Bonacieux, with whose retreat the cardinal was\nunacquainted.”"
+  },
+  {
+   "n": 27,
+   "para": 22,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Well, well,”"
+  },
+  {
+   "n": 28,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Rochefort,"
+  },
+  {
+   "n": 29,
+   "para": 22,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“here is a chance which may pair off with\nthe other! Monsieur Cardinal is indeed a privileged man!”"
+  },
+  {
+   "n": 30,
+   "para": 23,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Imagine my astonishment,”"
+  },
+  {
+   "n": 31,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued Milady,"
+  },
+  {
+   "n": 32,
+   "para": 23,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“when I found myself face\nto face with this woman!”"
+  },
+  {
+   "n": 33,
+   "para": 24,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Does she know you?”"
+  },
+  {
+   "n": 34,
+   "para": 25,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“No.”"
+  },
+  {
+   "n": 35,
+   "para": 26,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Then she looks upon you as a stranger?”"
+  },
+  {
+   "n": 36,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady smiled."
+  },
+  {
+   "n": 37,
+   "para": 27,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I am her best friend.”"
+  },
+  {
+   "n": 38,
+   "para": 28,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Upon my honor,”"
+  },
+  {
+   "n": 39,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Rochefort,"
+  },
+  {
+   "n": 40,
+   "para": 28,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“it takes you, my dear countess, to\nperform such miracles!”"
+  },
+  {
+   "n": 41,
+   "para": 29,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“And it is well I can, Chevalier,”"
+  },
+  {
+   "n": 42,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady,"
+  },
+  {
+   "n": 43,
+   "para": 29,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“for do you know what\nis going on here?”"
+  },
+  {
+   "n": 44,
+   "para": 30,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“No.”"
+  },
+  {
+   "n": 45,
+   "para": 31,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“They will come for her tomorrow or the day after, with an order from\nthe queen.”"
+  },
+  {
+   "n": 46,
+   "para": 32,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Indeed! And who?”"
+  },
+  {
+   "n": 47,
+   "para": 33,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“D’Artagnan and his friends.”"
+  },
+  {
+   "n": 48,
+   "para": 34,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Indeed, they will go so far that we shall be obliged to send them to\nthe Bastille.”"
+  },
+  {
+   "n": 49,
+   "para": 35,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Why is it not done already?”"
+  },
+  {
+   "n": 50,
+   "para": 36,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“What would you? The cardinal has a weakness for these men which I\ncannot comprehend.”"
+  },
+  {
+   "n": 51,
+   "para": 37,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Indeed!”"
+  },
+  {
+   "n": 52,
+   "para": 38,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Yes.”"
+  },
+  {
+   "n": 53,
+   "para": 39,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Well, then, tell him this, Rochefort. Tell him that our conversation\nat the inn of the Red Dovecot was overheard by these four men; tell him\nthat after his departure one of them came up to me and took from me by\nviolence the safe-conduct which he had given me; tell him they warned\nLord de Winter of my journey to England; that this time they nearly\nfoiled my mission as they foiled the affair of the studs; tell him that\namong these four men two only are to be feared—D’Artagnan and Athos;\ntell him that the third, Aramis, is the lover of Madame de Chevreuse—he\nmay be left alone, we know his secret, and it may be useful; as to the\nfourth, Porthos, he is a fool, a simpleton, a blustering booby, not\nworth troubling himself about.”"
+  },
+  {
+   "n": 54,
+   "para": 40,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“But these four men must be now at the siege of La Rochelle?”"
+  },
+  {
+   "n": 55,
+   "para": 41,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I thought so, too; but a letter which Madame Bonacieux has received\nfrom Madame the Constable, and which she has had the imprudence to show\nme, leads me to believe that these four men, on the contrary, are on\nthe road hither to take her away.”"
+  },
+  {
+   "n": 56,
+   "para": 42,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“The devil! What’s to be done?”"
+  },
+  {
+   "n": 57,
+   "para": 43,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“What did the cardinal say about me?”"
+  },
+  {
+   "n": 58,
+   "para": 44,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“I was to take your dispatches, written or verbal, and return by post;\nand when he shall know what you have done, he will advise what you have\nto do.”"
+  },
+  {
+   "n": 59,
+   "para": 45,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I must, then, remain here?”"
+  },
+  {
+   "n": 60,
+   "para": 46,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Here, or in the neighborhood.”"
+  },
+  {
+   "n": 61,
+   "para": 47,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You cannot take me with you?”"
+  },
+  {
+   "n": 62,
+   "para": 48,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“No, the order is imperative. Near the camp you might be recognized;\nand your presence, you must be aware, would compromise the cardinal.”"
+  },
+  {
+   "n": 63,
+   "para": 49,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Then I must wait here, or in the neighborhood?”"
+  },
+  {
+   "n": 64,
+   "para": 50,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Only tell me beforehand where you will wait for intelligence from the\ncardinal; let me know always where to find you.”"
+  },
+  {
+   "n": 65,
+   "para": 51,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Observe, it is probable that I may not be able to remain here.”"
+  },
+  {
+   "n": 66,
+   "para": 52,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Why?”"
+  },
+  {
+   "n": 67,
+   "para": 53,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You forget that my enemies may arrive at any minute.”"
+  },
+  {
+   "n": 68,
+   "para": 54,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“That’s true; but is this little woman, then, to escape his Eminence?”"
+  },
+  {
+   "n": 69,
+   "para": 55,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Bah!”"
+  },
+  {
+   "n": 70,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady, with a smile that belonged only to herself;"
+  },
+  {
+   "n": 71,
+   "para": 55,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“you\nforget that I am her best friend.”"
+  },
+  {
+   "n": 72,
+   "para": 56,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Ah, that’s true! I may then tell the cardinal, with respect to this\nlittle woman—”"
+  },
+  {
+   "n": 73,
+   "para": 57,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That he may be at ease.”"
+  },
+  {
+   "n": 74,
+   "para": 58,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Is that all?”"
+  },
+  {
+   "n": 75,
+   "para": 59,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“He will know what that means.”"
+  },
+  {
+   "n": 76,
+   "para": 60,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“He will guess, at least. Now, then, what had I better do?”"
+  },
+  {
+   "n": 77,
+   "para": 61,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Return instantly. It appears to me that the news you bear is worth the\ntrouble of a little diligence.”"
+  },
+  {
+   "n": 78,
+   "para": 62,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“My chaise broke down coming into Lilliers.”"
+  },
+  {
+   "n": 79,
+   "para": 63,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Capital!”"
+  },
+  {
+   "n": 80,
+   "para": 64,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“What, _capital?_”"
+  },
+  {
+   "n": 81,
+   "para": 65,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes, I want your chaise.”"
+  },
+  {
+   "n": 82,
+   "para": 66,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“And how shall I travel, then?”"
+  },
+  {
+   "n": 83,
+   "para": 67,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“On horseback.”"
+  },
+  {
+   "n": 84,
+   "para": 68,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“You talk very comfortably,—a hundred and eighty leagues!”"
+  },
+  {
+   "n": 85,
+   "para": 69,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“What’s that?”"
+  },
+  {
+   "n": 86,
+   "para": 70,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“One can do it! Afterward?”"
+  },
+  {
+   "n": 87,
+   "para": 71,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Afterward? Why, in passing through Lilliers you will send me your\nchaise, with an order to your servant to place himself at my disposal.”"
+  },
+  {
+   "n": 88,
+   "para": 72,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Well.”"
+  },
+  {
+   "n": 89,
+   "para": 73,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You have, no doubt, some order from the cardinal about you?”"
+  },
+  {
+   "n": 90,
+   "para": 74,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“I have my _full power_.”"
+  },
+  {
+   "n": 91,
+   "para": 75,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Show it to the abbess, and tell her that someone will come and fetch\nme, either today or tomorrow, and that I am to follow the person who\npresents himself in your name.”"
+  },
+  {
+   "n": 92,
+   "para": 76,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Very well.”"
+  },
+  {
+   "n": 93,
+   "para": 77,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Don’t forget to treat me harshly in speaking of me to the abbess.”"
+  },
+  {
+   "n": 94,
+   "para": 78,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“To what purpose?”"
+  },
+  {
+   "n": 95,
+   "para": 79,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I am a victim of the cardinal. It is necessary to inspire confidence\nin that poor little Madame Bonacieux.”"
+  },
+  {
+   "n": 96,
+   "para": 80,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“That’s true. Now, will you make me a report of all that has happened?”"
+  },
+  {
+   "n": 97,
+   "para": 81,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Why, I have related the events to you. You have a good memory; repeat\nwhat I have told you. A paper may be lost.”"
+  },
+  {
+   "n": 98,
+   "para": 82,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“You are right; only let me know where to find you that I may not run\nneedlessly about the neighborhood.”"
+  },
+  {
+   "n": 99,
+   "para": 83,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That’s correct; wait!”"
+  },
+  {
+   "n": 100,
+   "para": 84,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Do you want a map?”"
+  },
+  {
+   "n": 101,
+   "para": 85,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Oh, I know this country marvelously!”"
+  },
+  {
+   "n": 102,
+   "para": 86,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“You? When were you here?”"
+  },
+  {
+   "n": 103,
+   "para": 87,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I was brought up here.”"
+  },
+  {
+   "n": 104,
+   "para": 88,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Truly?”"
+  },
+  {
+   "n": 105,
+   "para": 89,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“It is worth something, you see, to have been brought up somewhere.”"
+  },
+  {
+   "n": 106,
+   "para": 90,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“You will wait for me, then?”"
+  },
+  {
+   "n": 107,
+   "para": 91,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Let me reflect a little! Ay, that will do—at Armentières.”"
+  },
+  {
+   "n": 108,
+   "para": 92,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Where is that Armentières?”"
+  },
+  {
+   "n": 109,
+   "para": 93,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“A little town on the Lys; I shall only have to cross the river, and I\nshall be in a foreign country.”"
+  },
+  {
+   "n": 110,
+   "para": 94,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Capital! but it is understood you will only cross the river in case of\ndanger.”"
+  },
+  {
+   "n": 111,
+   "para": 95,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That is well understood.”"
+  },
+  {
+   "n": 112,
+   "para": 96,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“And in that case, how shall I know where you are?”"
+  },
+  {
+   "n": 113,
+   "para": 97,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You do not want your lackey?”"
+  },
+  {
+   "n": 114,
+   "para": 98,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Is he a sure man?”"
+  },
+  {
+   "n": 115,
+   "para": 99,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“To the proof.”"
+  },
+  {
+   "n": 116,
+   "para": 100,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Give him to me. Nobody knows him. I will leave him at the place I\nquit, and he will conduct you to me.”"
+  },
+  {
+   "n": 117,
+   "para": 101,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“And you say you will wait for me at Armentières?”"
+  },
+  {
+   "n": 118,
+   "para": 102,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“At Armentières.”"
+  },
+  {
+   "n": 119,
+   "para": 103,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Write that name on a bit of paper, lest I should forget it. There is\nnothing compromising in the name of a town. Is it not so?”"
+  },
+  {
+   "n": 120,
+   "para": 104,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Eh, who knows? Never mind,”"
+  },
+  {
+   "n": 121,
+   "para": 104,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady, writing the name on half a\nsheet of paper;"
+  },
+  {
+   "n": 122,
+   "para": 104,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I will compromise myself.”"
+  },
+  {
+   "n": 123,
+   "para": 105,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Well,”"
+  },
+  {
+   "n": 124,
+   "para": 105,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Rochefort, taking the paper from Milady, folding it, and\nplacing it in the lining of his hat,"
+  },
+  {
+   "n": 125,
+   "para": 105,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“you may be easy. I will do as\nchildren do, for fear of losing the paper—repeat the name along the\nroute. Now, is that all?”"
+  },
+  {
+   "n": 126,
+   "para": 106,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I believe so.”"
+  },
+  {
+   "n": 127,
+   "para": 107,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Let us see: Buckingham dead or grievously wounded; your conversation\nwith the cardinal overheard by the four Musketeers; Lord de Winter\nwarned of your arrival at Portsmouth; D’Artagnan and Athos to the\nBastille; Aramis the lover of Madame de Chevreuse; Porthos an ass;\nMadame Bonacieux found again; to send you the chaise as soon as\npossible; to place my lackey at your disposal; to make you out a victim\nof the cardinal in order that the abbess may entertain no suspicion;\nArmentières, on the banks of the Lys. Is that all, then?”"
+  },
+  {
+   "n": 128,
+   "para": 108,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“In truth, my dear Chevalier, you are a miracle of memory. _A propos_,\nadd one thing—”"
+  },
+  {
+   "n": 129,
+   "para": 109,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“What?”"
+  },
+  {
+   "n": 130,
+   "para": 110,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I saw some very pretty woods which almost touch the convent garden.\nSay that I am permitted to walk in those woods. Who knows? Perhaps I\nshall stand in need of a back door for retreat.”"
+  },
+  {
+   "n": 131,
+   "para": 111,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“You think of everything.”"
+  },
+  {
+   "n": 132,
+   "para": 112,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“And you forget one thing.”"
+  },
+  {
+   "n": 133,
+   "para": 113,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“What?”"
+  },
+  {
+   "n": 134,
+   "para": 114,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“To ask me if I want money.”"
+  },
+  {
+   "n": 135,
+   "para": 115,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“That’s true. How much do you want?”"
+  },
+  {
+   "n": 136,
+   "para": 116,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“All you have in gold.”"
+  },
+  {
+   "n": 137,
+   "para": 117,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“I have five hundred pistoles, or thereabouts.”"
+  },
+  {
+   "n": 138,
+   "para": 118,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I have as much. With a thousand pistoles one may face everything.\nEmpty your pockets.”"
+  },
+  {
+   "n": 139,
+   "para": 119,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“There.”"
+  },
+  {
+   "n": 140,
+   "para": 120,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Right. And you go—”"
+  },
+  {
+   "n": 141,
+   "para": 121,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“In an hour—time to eat a morsel, during which I shall send for a post\nhorse.”"
+  },
+  {
+   "n": 142,
+   "para": 122,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Capital! Adieu, Chevalier.”"
+  },
+  {
+   "n": 143,
+   "para": 123,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Adieu, Countess.”"
+  },
+  {
+   "n": 144,
+   "para": 124,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Commend me to the cardinal.”"
+  },
+  {
+   "n": 145,
+   "para": 125,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Commend me to Satan.”"
+  },
+  {
+   "n": 146,
+   "para": 126,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady and Rochefort exchanged a smile and separated. An hour afterward\nRochefort set out at a grand gallop; five hours after that he passed\nthrough Arras."
+  },
+  {
+   "n": 147,
+   "para": 127,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Our readers already know how he was recognized by D’Artagnan, and how\nthat recognition by inspiring fear in the four Musketeers had given\nfresh activity to their journey."
+  }
+ ]
+}

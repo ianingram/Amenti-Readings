@@ -1,0 +1,791 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 2,
+ "chapter": 2,
+ "title": "The Antechamber of M. de Tréville",
+ "document": "CHAPTER II",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch02.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "Porthos",
+   "cast_as": "Honore de Balzac"
+  },
+  {
+   "role": "Aramis",
+   "cast_as": "Napoleon III"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter II.\nTHE ANTECHAMBER OF M. DE TRÉVILLE"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. de Troisville, as his family was still called in Gascony, or M. de\nTréville, as he has ended by styling himself in Paris, had really\ncommenced life as D’Artagnan now did; that is to say, without a sou in\nhis pocket, but with a fund of audacity, shrewdness, and intelligence\nwhich makes the poorest Gascon gentleman often derive more in his hope\nfrom the paternal inheritance than the richest Perigordian or Berrichan\ngentleman derives in reality from his. His insolent bravery, his still\nmore insolent success at a time when blows poured down like hail, had\nborne him to the top of that difficult ladder called Court Favor, which\nhe had climbed four steps at a time."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He was the friend of the king, who honored highly, as everyone knows,\nthe memory of his father, Henry IV. The father of M. de Tréville had\nserved him so faithfully in his wars against the league that in default\nof money—a thing to which the Béarnais was accustomed all his life, and\nwho constantly paid his debts with that of which he never stood in need\nof borrowing, that is to say, with ready wit—in default of money, we\nrepeat, he authorized him, after the reduction of Paris, to assume for\nhis arms a golden lion passant upon gules, with the motto _Fidelis et\nfortis_. This was a great matter in the way of honor, but very little\nin the way of wealth; so that when the illustrious companion of the\ngreat Henry died, the only inheritance he was able to leave his son was\nhis sword and his motto. Thanks to this double gift and the spotless\nname that accompanied it, M. de Tréville was admitted into the\nhousehold of the young prince where he made such good use of his sword,\nand was so faithful to his motto, that Louis XIII., one of the good\nblades of his kingdom, was accustomed to say that if he had a friend\nwho was about to fight, he would advise him to choose as a second,\nhimself first, and Tréville next—or even, perhaps, before himself."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Thus Louis XIII. had a real liking for Tréville—a royal liking, a\nself-interested liking, it is true, but still a liking. At that unhappy\nperiod it was an important consideration to be surrounded by such men\nas Tréville. Many might take for their device the epithet _strong_,\nwhich formed the second part of his motto, but very few gentlemen could\nlay claim to the _faithful_, which constituted the first. Tréville was\none of these latter. His was one of those rare organizations, endowed\nwith an obedient intelligence like that of the dog; with a blind valor,\na quick eye, and a prompt hand; to whom sight appeared only to be given\nto see if the king were dissatisfied with anyone, and the hand to\nstrike this displeasing personage, whether a Besme, a Maurevers, a\nPoltiot de Méré, or a Vitry. In short, up to this period nothing had\nbeen wanting to Tréville but opportunity; but he was ever on the watch\nfor it, and he faithfully promised himself that he would not fail to\nseize it by its three hairs whenever it came within reach of his hand.\nAt last Louis XIII. made Tréville the captain of his Musketeers, who\nwere to Louis XIII. in devotedness, or rather in fanaticism, what his\nOrdinaries had been to Henry III., and his Scotch Guard to Louis XI."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On his part, the cardinal was not behind the king in this respect. When\nhe saw the formidable and chosen body with which Louis XIII. had\nsurrounded himself, this second, or rather this first king of France,\nbecame desirous that he, too, should have his guard. He had his\nMusketeers therefore, as Louis XIII. had his, and these two powerful\nrivals vied with each other in procuring, not only from all the\nprovinces of France, but even from all foreign states, the most\ncelebrated swordsmen. It was not uncommon for Richelieu and Louis XIII.\nto dispute over their evening game of chess upon the merits of their\nservants. Each boasted the bearing and the courage of his own people.\nWhile exclaiming loudly against duels and brawls, they excited them\nsecretly to quarrel, deriving an immoderate satisfaction or genuine\nregret from the success or defeat of their own combatants. We learn\nthis from the memoirs of a man who was concerned in some few of these\ndefeats and in many of these victories."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Tréville had grasped the weak side of his master; and it was to this\naddress that he owed the long and constant favor of a king who has not\nleft the reputation behind him of being very faithful in his\nfriendships. He paraded his Musketeers before the Cardinal Armand\nDuplessis with an insolent air which made the gray moustache of his\nEminence curl with ire. Tréville understood admirably the war method of\nthat period, in which he who could not live at the expense of the enemy\nmust live at the expense of his compatriots. His soldiers formed a\nlegion of devil-may-care fellows, perfectly undisciplined toward all\nbut himself."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Loose, half-drunk, imposing, the king’s Musketeers, or rather M. de\nTréville’s, spread themselves about in the cabarets, in the public\nwalks, and the public sports, shouting, twisting their mustaches,\nclanking their swords, and taking great pleasure in annoying the Guards\nof the cardinal whenever they could fall in with them; then drawing in\nthe open streets, as if it were the best of all possible sports;\nsometimes killed, but sure in that case to be both wept and avenged;\noften killing others, but then certain of not rotting in prison, M. de\nTréville being there to claim them. Thus M. de Tréville was praised to\nthe highest note by these men, who adored him, and who, ruffians as\nthey were, trembled before him like scholars before their master,\nobedient to his least word, and ready to sacrifice themselves to wash\nout the smallest insult."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. de Tréville employed this powerful weapon for the king, in the first\nplace, and the friends of the king—and then for himself and his own\nfriends. For the rest, in the memoirs of this period, which has left so\nmany memoirs, one does not find this worthy gentleman blamed even by\nhis enemies; and he had many such among men of the pen as well as among\nmen of the sword. In no instance, let us say, was this worthy gentleman\naccused of deriving personal advantage from the cooperation of his\nminions. Endowed with a rare genius for intrigue which rendered him the\nequal of the ablest intriguers, he remained an honest man. Still\nfurther, in spite of sword thrusts which weaken, and painful exercises\nwhich fatigue, he had become one of the most gallant frequenters of\nrevels, one of the most insinuating lady’s men, one of the softest\nwhisperers of interesting nothings of his day; the _bonnes fortunes_ of\nde Tréville were talked of as those of M. de Bassompierre had been\ntalked of twenty years before, and that was not saying a little. The\ncaptain of the Musketeers was therefore admired, feared, and loved; and\nthis constitutes the zenith of human fortune."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Louis XIV. absorbed all the smaller stars of his court in his own vast\nradiance; but his father, a sun _pluribus impar_, left his personal\nsplendor to each of his favorites, his individual value to each of his\ncourtiers. In addition to the levees of the king and the cardinal,\nthere might be reckoned in Paris at that time more than two hundred\nsmaller but still noteworthy levees. Among these two hundred levees,\nthat of Tréville was one of the most sought."
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The court of his hôtel, situated in the Rue du Vieux-Colombier,\nresembled a camp from by six o’clock in the morning in summer and eight\no’clock in winter. From fifty to sixty Musketeers, who appeared to\nreplace one another in order always to present an imposing number,\nparaded constantly, armed to the teeth and ready for anything. On one\nof those immense staircases, upon whose space modern civilization would\nbuild a whole house, ascended and descended the office seekers of\nParis, who ran after any sort of favor—gentlemen from the provinces\nanxious to be enrolled, and servants in all sorts of liveries, bringing\nand carrying messages between their masters and M. de Tréville. In the\nantechamber, upon long circular benches, reposed the elect; that is to\nsay, those who were called. In this apartment a continued buzzing\nprevailed from morning till night, while M. de Tréville, in his office\ncontiguous to this antechamber, received visits, listened to\ncomplaints, gave his orders, and like the king in his balcony at the\nLouvre, had only to place himself at the window to review both his men\nand arms."
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The day on which D’Artagnan presented himself the assemblage was\nimposing, particularly for a provincial just arriving from his\nprovince. It is true that this provincial was a Gascon; and that,\nparticularly at this period, the compatriots of D’Artagnan had the\nreputation of not being easily intimidated. When he had once passed the\nmassive door covered with long square-headed nails, he fell into the\nmidst of a troop of swordsmen, who crossed one another in their\npassage, calling out, quarreling, and playing tricks one with another.\nIn order to make one’s way amid these turbulent and conflicting waves,\nit was necessary to be an officer, a great noble, or a pretty woman."
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It was, then, into the midst of this tumult and disorder that our young\nman advanced with a beating heart, ranging his long rapier up his lanky\nleg, and keeping one hand on the edge of his cap, with that half-smile\nof the embarrassed provincial who wishes to put on a good face. When he\nhad passed one group he began to breathe more freely; but he could not\nhelp observing that they turned round to look at him, and for the first\ntime in his life D’Artagnan, who had till that day entertained a very\ngood opinion of himself, felt ridiculous."
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Arrived at the staircase, it was still worse. There were four\nMusketeers on the bottom steps, amusing themselves with the following\nexercise, while ten or twelve of their comrades waited upon the landing\nplace to take their turn in the sport."
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "One of them, stationed upon the top stair, naked sword in hand,\nprevented, or at least endeavored to prevent, the three others from\nascending."
+  },
+  {
+   "n": 15,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "These three others fenced against him with their agile swords."
+  },
+  {
+   "n": 16,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan at first took these weapons for foils, and believed them to\nbe buttoned; but he soon perceived by certain scratches that every\nweapon was pointed and sharpened, and that at each of these scratches\nnot only the spectators, but even the actors themselves, laughed like\nso many madmen."
+  },
+  {
+   "n": 17,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He who at the moment occupied the upper step kept his adversaries\nmarvelously in check. A circle was formed around them. The conditions\nrequired that at every hit the man touched should quit the game,\nyielding his turn for the benefit of the adversary who had hit him. In\nfive minutes three were slightly wounded, one on the hand, another on\nthe ear, by the defender of the stair, who himself remained intact—a\npiece of skill which was worth to him, according to the rules agreed\nupon, three turns of favor."
+  },
+  {
+   "n": 18,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "However difficult it might be, or rather as he pretended it was, to\nastonish our young traveler, this pastime really astonished him. He had\nseen in his province—that land in which heads become so easily heated—a\nfew of the preliminaries of duels; but the daring of these four fencers\nappeared to him the strongest he had ever heard of even in Gascony. He\nbelieved himself transported into that famous country of giants into\nwhich Gulliver afterward went and was so frightened; and yet he had not\ngained the goal, for there were still the landing place and the\nantechamber."
+  },
+  {
+   "n": 19,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On the landing they were no longer fighting, but amused themselves with\nstories about women, and in the antechamber, with stories about the\ncourt. On the landing D’Artagnan blushed; in the antechamber he\ntrembled. His warm and fickle imagination, which in Gascony had\nrendered him formidable to young chambermaids, and even sometimes their\nmistresses, had never dreamed, even in moments of delirium, of half the\namorous wonders or a quarter of the feats of gallantry which were here\nset forth in connection with names the best known and with details the\nleast concealed. But if his morals were shocked on the landing, his\nrespect for the cardinal was scandalized in the antechamber. There, to\nhis great astonishment, D’Artagnan heard the policy which made all\nEurope tremble criticized aloud and openly, as well as the private life\nof the cardinal, which so many great nobles had been punished for\ntrying to pry into. That great man who was so revered by D’Artagnan the\nelder served as an object of ridicule to the Musketeers of Tréville,\nwho cracked their jokes upon his bandy legs and his crooked back. Some\nsang ballads about Mme. d’Aguillon, his mistress, and Mme. Cambalet,\nhis niece; while others formed parties and plans to annoy the pages and\nguards of the cardinal duke—all things which appeared to D’Artagnan\nmonstrous impossibilities."
+  },
+  {
+   "n": 20,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Nevertheless, when the name of the king was now and then uttered\nunthinkingly amid all these cardinal jests, a sort of gag seemed to\nclose for a moment on all these jeering mouths. They looked\nhesitatingly around them, and appeared to doubt the thickness of the\npartition between them and the office of M. de Tréville; but a fresh\nallusion soon brought back the conversation to his Eminence, and then\nthe laughter recovered its loudness and the light was not withheld from\nany of his actions."
+  },
+  {
+   "n": 21,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“Certes, these fellows will all either be imprisoned or hanged,”"
+  },
+  {
+   "n": 22,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "thought the terrified D’Artagnan,"
+  },
+  {
+   "n": 23,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“and I, no doubt, with them; for from\nthe moment I have either listened to or heard them, I shall be held as\nan accomplice. What would my good father say, who so strongly pointed\nout to me the respect due to the cardinal, if he knew I was in the\nsociety of such pagans?”"
+  },
+  {
+   "n": 24,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "We have no need, therefore, to say that D’Artagnan dared not join in\nthe conversation, only he looked with all his eyes and listened with\nall his ears, stretching his five senses so as to lose nothing; and\ndespite his confidence on the paternal admonitions, he felt himself\ncarried by his tastes and led by his instincts to praise rather than to\nblame the unheard-of things which were taking place."
+  },
+  {
+   "n": 25,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Although he was a perfect stranger in the court of M. de Tréville’s\ncourtiers, and this his first appearance in that place, he was at\nlength noticed, and somebody came and asked him what he wanted. At this\ndemand D’Artagnan gave his name very modestly, emphasized the title of\ncompatriot, and begged the servant who had put the question to him to\nrequest a moment’s audience of M. de Tréville—a request which the\nother, with an air of protection, promised to transmit in due season."
+  },
+  {
+   "n": 26,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan, a little recovered from his first surprise, had now leisure\nto study costumes and physiognomy."
+  },
+  {
+   "n": 27,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The center of the most animated group was a Musketeer of great height\nand haughty countenance, dressed in a costume so peculiar as to attract\ngeneral attention. He did not wear the uniform cloak—which was not\nobligatory at that epoch of less liberty but more independence—but a\ncerulean-blue doublet, a little faded and worn, and over this a\nmagnificent baldric, worked in gold, which shone like water ripples in\nthe sun. A long cloak of crimson velvet fell in graceful folds from his\nshoulders, disclosing in front the splendid baldric, from which was\nsuspended a gigantic rapier. This Musketeer had just come off guard,\ncomplained of having a cold, and coughed from time to time affectedly.\nIt was for this reason, as he said to those around him, that he had put\non his cloak; and while he spoke with a lofty air and twisted his\nmustache disdainfully, all admired his embroidered baldric, and\nD’Artagnan more than anyone."
+  },
+  {
+   "n": 28,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“What would you have?”"
+  },
+  {
+   "n": 29,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the Musketeer."
+  },
+  {
+   "n": 30,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“This fashion is coming in.\nIt is a folly, I admit, but still it is the fashion. Besides, one must\nlay out one’s inheritance somehow.”"
+  },
+  {
+   "n": 31,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“Ah, Porthos!”"
+  },
+  {
+   "n": 32,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried one of his companions,"
+  },
+  {
+   "n": 33,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“don’t try to make us\nbelieve you obtained that baldric by paternal generosity. It was given\nto you by that veiled lady I met you with the other Sunday, near the\ngate St. Honoré.”"
+  },
+  {
+   "n": 34,
+   "para": 27,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“No, upon honor and by the faith of a gentleman, I bought it with the\ncontents of my own purse,”"
+  },
+  {
+   "n": 35,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "answered he whom they designated by the name\nPorthos."
+  },
+  {
+   "n": 36,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“Yes; about in the same manner,”"
+  },
+  {
+   "n": 37,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said another Musketeer,"
+  },
+  {
+   "n": 38,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“that I bought\nthis new purse with what my mistress put into the old one.”"
+  },
+  {
+   "n": 39,
+   "para": 29,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“It’s true, though,”"
+  },
+  {
+   "n": 40,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos;"
+  },
+  {
+   "n": 41,
+   "para": 29,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“and the proof is that I paid twelve\npistoles for it.”"
+  },
+  {
+   "n": 42,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The wonder was increased, though the doubt continued to exist."
+  },
+  {
+   "n": 43,
+   "para": 31,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Is it not true, Aramis?”"
+  },
+  {
+   "n": 44,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos, turning toward another\nMusketeer."
+  },
+  {
+   "n": 45,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This other Musketeer formed a perfect contrast to his interrogator, who\nhad just designated him by the name of Aramis. He was a stout man, of\nabout two- or three-and-twenty, with an open, ingenuous countenance, a\nblack, mild eye, and cheeks rosy and downy as an autumn peach. His\ndelicate mustache marked a perfectly straight line upon his upper lip;\nhe appeared to dread to lower his hands lest their veins should swell,\nand he pinched the tips of his ears from time to time to preserve their\ndelicate pink transparency. Habitually he spoke little and slowly,\nbowed frequently, laughed without noise, showing his teeth, which were\nfine and of which, as the rest of his person, he appeared to take great\ncare. He answered the appeal of his friend by an affirmative nod of the\nhead."
+  },
+  {
+   "n": 46,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This affirmation appeared to dispel all doubts with regard to the\nbaldric. They continued to admire it, but said no more about it; and\nwith a rapid change of thought, the conversation passed suddenly to\nanother subject."
+  },
+  {
+   "n": 47,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“What do you think of the story Chalais’s esquire relates?”"
+  },
+  {
+   "n": 48,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked\nanother Musketeer, without addressing anyone in particular, but on the\ncontrary speaking to everybody."
+  },
+  {
+   "n": 49,
+   "para": 35,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“And what does he say?”"
+  },
+  {
+   "n": 50,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Porthos, in a self-sufficient tone."
+  },
+  {
+   "n": 51,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“He relates that he met at Brussels Rochefort, the _âme damnée_ of the\ncardinal disguised as a Capuchin, and that this cursed Rochefort,\nthanks to his disguise, had tricked Monsieur de Laigues, like a ninny\nas he is.”"
+  },
+  {
+   "n": 52,
+   "para": 37,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“A ninny, indeed!”"
+  },
+  {
+   "n": 53,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos;"
+  },
+  {
+   "n": 54,
+   "para": 37,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“but is the matter certain?”"
+  },
+  {
+   "n": 55,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“I had it from Aramis,”"
+  },
+  {
+   "n": 56,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the Musketeer."
+  },
+  {
+   "n": 57,
+   "para": 39,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Indeed?”"
+  },
+  {
+   "n": 58,
+   "para": 40,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Why, you knew it, Porthos,”"
+  },
+  {
+   "n": 59,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 60,
+   "para": 40,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I told you of it yesterday.\nLet us say no more about it.”"
+  },
+  {
+   "n": 61,
+   "para": 41,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Say no more about it? That’s _your_ opinion!”"
+  },
+  {
+   "n": 62,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Porthos."
+  },
+  {
+   "n": 63,
+   "para": 42,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Say no more about it! _Peste!_ You come to your conclusions quickly.\nWhat! The cardinal sets a spy upon a gentleman, has his letters stolen\nfrom him by means of a traitor, a brigand, a rascal—has, with the help\nof this spy and thanks to this correspondence, Chalais’s throat cut,\nunder the stupid pretext that he wanted to kill the king and marry\nMonsieur to the queen! Nobody knew a word of this enigma. You unraveled\nit yesterday to the great satisfaction of all; and while we are still\ngaping with wonder at the news, you come and tell us today, ‘Let us say\nno more about it.’”"
+  },
+  {
+   "n": 64,
+   "para": 43,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Well, then, let us talk about it, since you desire it,”"
+  },
+  {
+   "n": 65,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied\nAramis, patiently."
+  },
+  {
+   "n": 66,
+   "para": 44,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“This Rochefort,”"
+  },
+  {
+   "n": 67,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Porthos,"
+  },
+  {
+   "n": 68,
+   "para": 44,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“if I were the esquire of poor\nChalais, should pass a minute or two very uncomfortably with me.”"
+  },
+  {
+   "n": 69,
+   "para": 45,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And you—you would pass rather a sad quarter-hour with the Red Duke,”"
+  },
+  {
+   "n": 70,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis."
+  },
+  {
+   "n": 71,
+   "para": 46,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Oh, the Red Duke! Bravo! Bravo! The Red Duke!”"
+  },
+  {
+   "n": 72,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Porthos, clapping\nhis hands and nodding his head."
+  },
+  {
+   "n": 73,
+   "para": 46,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“The Red Duke is capital. I’ll\ncirculate that saying, be assured, my dear fellow. Who says this Aramis\nis not a wit? What a misfortune it is you did not follow your first\nvocation; what a delicious abbé you would have made!”"
+  },
+  {
+   "n": 74,
+   "para": 47,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Oh, it’s only a temporary postponement,”"
+  },
+  {
+   "n": 75,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis;"
+  },
+  {
+   "n": 76,
+   "para": 47,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I shall be\none someday. You very well know, Porthos, that I continue to study\ntheology for that purpose.”"
+  },
+  {
+   "n": 77,
+   "para": 48,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“He will be one, as he says,”"
+  },
+  {
+   "n": 78,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Porthos;"
+  },
+  {
+   "n": 79,
+   "para": 48,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“he will be one, sooner or\nlater.”"
+  },
+  {
+   "n": 80,
+   "para": 49,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Sooner,”"
+  },
+  {
+   "n": 81,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 82,
+   "para": 50,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“He only waits for one thing to determine him to resume his cassock,\nwhich hangs behind his uniform,”"
+  },
+  {
+   "n": 83,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said another Musketeer."
+  },
+  {
+   "n": 84,
+   "para": 51,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“What is he waiting for?”"
+  },
+  {
+   "n": 85,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked another."
+  },
+  {
+   "n": 86,
+   "para": 52,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Only till the queen has given an heir to the crown of France.”"
+  },
+  {
+   "n": 87,
+   "para": 53,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“No jesting upon that subject, gentlemen,”"
+  },
+  {
+   "n": 88,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos;"
+  },
+  {
+   "n": 89,
+   "para": 53,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“thank God the\nqueen is still of an age to give one!”"
+  },
+  {
+   "n": 90,
+   "para": 54,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“They say that Monsieur de Buckingham is in France,”"
+  },
+  {
+   "n": 91,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis,\nwith a significant smile which gave to this sentence, apparently so\nsimple, a tolerably scandalous meaning."
+  },
+  {
+   "n": 92,
+   "para": 55,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Aramis, my good friend, this time you are wrong,”"
+  },
+  {
+   "n": 93,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "interrupted Porthos."
+  },
+  {
+   "n": 94,
+   "para": 55,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Your wit is always leading you beyond bounds; if Monsieur de Tréville\nheard you, you would repent of speaking thus.”"
+  },
+  {
+   "n": 95,
+   "para": 56,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Are you going to give me a lesson, Porthos?”"
+  },
+  {
+   "n": 96,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis, from whose\nusually mild eye a flash passed like lightning."
+  },
+  {
+   "n": 97,
+   "para": 57,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“My dear fellow, be a Musketeer or an abbé. Be one or the other, but\nnot both,”"
+  },
+  {
+   "n": 98,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Porthos."
+  },
+  {
+   "n": 99,
+   "para": 57,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“You know what Athos told you the other\nday; you eat at everybody’s mess. Ah, don’t be angry, I beg of you,\nthat would be useless; you know what is agreed upon between you, Athos\nand me. You go to Madame d’Aguillon’s, and you pay your court to her;\nyou go to Madame de Bois-Tracy’s, the cousin of Madame de Chevreuse,\nand you pass for being far advanced in the good graces of that lady.\nOh, good Lord! Don’t trouble yourself to reveal your good luck; no one\nasks for your secret—all the world knows your discretion. But since you\npossess that virtue, why the devil don’t you make use of it with\nrespect to her Majesty? Let whoever likes talk of the king and the\ncardinal, and how he likes; but the queen is sacred, and if anyone\nspeaks of her, let it be respectfully.”"
+  },
+  {
+   "n": 100,
+   "para": 58,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Porthos, you are as vain as Narcissus; I plainly tell you so,”"
+  },
+  {
+   "n": 101,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied\nAramis."
+  },
+  {
+   "n": 102,
+   "para": 58,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“You know I hate moralizing, except when it is done by Athos.\nAs to you, good sir, you wear too magnificent a baldric to be strong on\nthat head. I will be an abbé if it suits me. In the meanwhile I am a\nMusketeer; in that quality I say what I please, and at this moment it\npleases me to say that you weary me.”"
+  },
+  {
+   "n": 103,
+   "para": 59,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Aramis!”"
+  },
+  {
+   "n": 104,
+   "para": 60,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Porthos!”"
+  },
+  {
+   "n": 105,
+   "para": 61,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Gentlemen! Gentlemen!”"
+  },
+  {
+   "n": 106,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the surrounding group."
+  },
+  {
+   "n": 107,
+   "para": 62,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Monsieur de Tréville awaits Monsieur d’Artagnan,”"
+  },
+  {
+   "n": 108,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried a servant,\nthrowing open the door of the cabinet."
+  },
+  {
+   "n": 109,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At this announcement, during which the door remained open, everyone\nbecame mute, and amid the general silence the young man crossed part of\nthe length of the antechamber, and entered the apartment of the captain\nof the Musketeers, congratulating himself with all his heart at having\nso narrowly escaped the end of this strange quarrel."
+  }
+ ]
+}

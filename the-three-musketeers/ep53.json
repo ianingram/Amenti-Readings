@@ -1,0 +1,956 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 53,
+ "chapter": 53,
+ "title": "Captivity: the Second Day",
+ "document": "CHAPTER LIII",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch53.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "Milady de Winter",
+   "cast_as": "Sarah Bernhardt"
+  },
+  {
+   "role": "Lord de Winter",
+   "cast_as": "Henry Hudson"
+  },
+  {
+   "role": "Felton",
+   "cast_as": "John Wesley"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter LIII.\nCAPTIVITY: THE SECOND DAY"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady dreamed that she at length had D’Artagnan in her power, that she\nwas present at his execution; and it was the sight of his odious blood,\nflowing beneath the ax of the headsman, which spread that charming\nsmile upon her lips."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "She slept as a prisoner sleeps, rocked by his first hope."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In the morning, when they entered her chamber she was still in bed.\nFelton remained in the corridor. He brought with him the woman of whom\nhe had spoken the evening before, and who had just arrived; this woman\nentered, and approaching Milady’s bed, offered her services."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady was habitually pale; her complexion might therefore deceive a\nperson who saw her for the first time."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I am in a fever,”"
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she;"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I have not slept a single instant during\nall this long night. I suffer horribly. Are you likely to be more\nhumane to me than others were yesterday? All I ask is permission to\nremain abed.”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Would you like to have a physician called?”"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the woman."
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton listened to this dialogue without speaking a word."
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady reflected that the more people she had around her the more she\nwould have to work upon, and Lord de Winter would redouble his watch.\nBesides, the physician might declare the ailment feigned; and Milady,\nafter having lost the first trick, was not willing to lose the second."
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Go and fetch a physician?”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she."
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“What could be the good of that?\nThese gentlemen declared yesterday that my illness was a comedy; it\nwould be just the same today, no doubt—for since yesterday evening they\nhave had plenty of time to send for a doctor.”"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Then,”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton, who became impatient,"
+  },
+  {
+   "n": 18,
+   "para": 10,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“say yourself, madame, what\ntreatment you wish followed.”"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Eh, how can I tell? My God! I know that I suffer, that’s all. Give me\nanything you like, it is of little consequence.”"
+  },
+  {
+   "n": 20,
+   "para": 12,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Go and fetch Lord de Winter,”"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton, tired of these eternal\ncomplaints."
+  },
+  {
+   "n": 22,
+   "para": 13,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Oh, no, no!”"
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady;"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“no, sir, do not call him, I conjure you. I\nam well, I want nothing; do not call him.”"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "She gave so much vehemence, such magnetic eloquence to this\nexclamation, that Felton in spite of himself advanced some steps into\nthe room."
+  },
+  {
+   "n": 26,
+   "para": 15,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“He has come!”"
+  },
+  {
+   "n": 27,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "thought Milady."
+  },
+  {
+   "n": 28,
+   "para": 16,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Meanwhile, madame, if you really suffer,”"
+  },
+  {
+   "n": 29,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton,"
+  },
+  {
+   "n": 30,
+   "para": 16,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“a physician\nshall be sent for; and if you deceive us—well, it will be the worse for\nyou. But at least we shall not have to reproach ourselves with\nanything.”"
+  },
+  {
+   "n": 31,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady made no reply, but turning her beautiful head round upon her\npillow, she burst into tears, and uttered heartbreaking sobs."
+  },
+  {
+   "n": 32,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton surveyed her for an instant with his usual impassiveness; then,\nseeing that the crisis threatened to be prolonged, he went out. The\nwoman followed him, and Lord de Winter did not appear."
+  },
+  {
+   "n": 33,
+   "para": 19,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I fancy I begin to see my way,”"
+  },
+  {
+   "n": 34,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured Milady, with a savage joy,\nburying herself under the clothes to conceal from anybody who might be\nwatching her this burst of inward satisfaction."
+  },
+  {
+   "n": 35,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Two hours passed away."
+  },
+  {
+   "n": 36,
+   "para": 21,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Now it is time that the malady should be over,”"
+  },
+  {
+   "n": 37,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she;"
+  },
+  {
+   "n": 38,
+   "para": 21,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“let me\nrise, and obtain some success this very day. I have but ten days, and\nthis evening two of them will be gone.”"
+  },
+  {
+   "n": 39,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In the morning, when they entered Milady’s chamber they had brought her\nbreakfast. Now, she thought, they could not long delay coming to clear\nthe table, and that Felton would then reappear."
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady was not deceived. Felton reappeared, and without observing\nwhether Milady had or had not touched her repast, made a sign that the\ntable should be carried out of the room, it having been brought in\nready spread."
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton remained behind; he held a book in his hand."
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady, reclining in an armchair near the chimney, beautiful, pale, and\nresigned, looked like a holy virgin awaiting martyrdom."
+  },
+  {
+   "n": 43,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton approached her, and said,"
+  },
+  {
+   "n": 44,
+   "para": 26,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Lord de Winter, who is a Catholic,\nlike yourself, madame, thinking that the deprivation of the rites and\nceremonies of your church might be painful to you, has consented that\nyou should read every day the ordinary of your Mass; and here is a book\nwhich contains the ritual.”"
+  },
+  {
+   "n": 45,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At the manner in which Felton laid the book upon the little table near\nwhich Milady was sitting, at the tone in which he pronounced the two\nwords, _your Mass_, at the disdainful smile with which he accompanied\nthem, Milady raised her head, and looked more attentively at the\nofficer."
+  },
+  {
+   "n": 46,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "By that plain arrangement of the hair, by that costume of extreme\nsimplicity, by the brow polished like marble and as hard and\nimpenetrable, she recognized one of those gloomy Puritans she had so\noften met, not only in the court of King James, but in that of the King\nof France, where, in spite of the remembrance of the St. Bartholomew,\nthey sometimes came to seek refuge."
+  },
+  {
+   "n": 47,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "She then had one of those sudden inspirations which only people of\ngenius receive in great crises, in supreme moments which are to decide\ntheir fortunes or their lives."
+  },
+  {
+   "n": 48,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Those two words, _your Mass_, and a simple glance cast upon Felton,\nrevealed to her all the importance of the reply she was about to make;\nbut with that rapidity of intelligence which was peculiar to her, this\nreply, ready arranged, presented itself to her lips:"
+  },
+  {
+   "n": 49,
+   "para": 31,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I?”"
+  },
+  {
+   "n": 50,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she, with an accent of disdain in unison with that which she\nhad remarked in the voice of the young officer,"
+  },
+  {
+   "n": 51,
+   "para": 31,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I, sir? _My Mass?_\nLord de Winter, the corrupted Catholic, knows very well that I am not\nof his religion, and this is a snare he wishes to lay for me!”"
+  },
+  {
+   "n": 52,
+   "para": 32,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“And of what religion are you, then, madame?”"
+  },
+  {
+   "n": 53,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Felton, with an\nastonishment which in spite of the empire he held over himself he could\nnot entirely conceal."
+  },
+  {
+   "n": 54,
+   "para": 33,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I will tell it,”"
+  },
+  {
+   "n": 55,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady, with a feigned exultation,"
+  },
+  {
+   "n": 56,
+   "para": 33,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“on the day\nwhen I shall have suffered sufficiently for my faith.”"
+  },
+  {
+   "n": 57,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The look of Felton revealed to Milady the full extent of the space she\nhad opened for herself by this single word."
+  },
+  {
+   "n": 58,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The young officer, however, remained mute and motionless; his look\nalone had spoken."
+  },
+  {
+   "n": 59,
+   "para": 36,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I am in the hands of my enemies,”"
+  },
+  {
+   "n": 60,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued she, with that tone of\nenthusiasm which she knew was familiar to the Puritans."
+  },
+  {
+   "n": 61,
+   "para": 36,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Well, let my\nGod save me, or let me perish for my God! That is the reply I beg you\nto make to Lord de Winter. And as to this book,”"
+  },
+  {
+   "n": 62,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added she, pointing to\nthe manual with her finger but without touching it, as if she must be\ncontaminated by it,"
+  },
+  {
+   "n": 63,
+   "para": 36,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“you may carry it back and make use of it yourself,\nfor doubtless you are doubly the accomplice of Lord de Winter—the\naccomplice in his persecutions, the accomplice in his heresies.”"
+  },
+  {
+   "n": 64,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton made no reply, took the book with the same appearance of\nrepugnance which he had before manifested, and retired pensively."
+  },
+  {
+   "n": 65,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Lord de Winter came toward five o’clock in the evening. Milady had had\ntime, during the whole day, to trace her plan of conduct. She received\nhim like a woman who had already recovered all her advantages."
+  },
+  {
+   "n": 66,
+   "para": 39,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“It appears,”"
+  },
+  {
+   "n": 67,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the baron, seating himself in the armchair opposite\nthat occupied by Milady, and stretching out his legs carelessly upon\nthe hearth,"
+  },
+  {
+   "n": 68,
+   "para": 39,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“it appears we have made a little apostasy!”"
+  },
+  {
+   "n": 69,
+   "para": 40,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“What do you mean, sir!”"
+  },
+  {
+   "n": 70,
+   "para": 41,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“I mean to say that since we last met you have changed your religion.\nYou have not by chance married a Protestant for a third husband, have\nyou?”"
+  },
+  {
+   "n": 71,
+   "para": 42,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Explain yourself, my Lord,”"
+  },
+  {
+   "n": 72,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the prisoner, with majesty;"
+  },
+  {
+   "n": 73,
+   "para": 42,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“for\nthough I hear your words, I declare I do not understand them.”"
+  },
+  {
+   "n": 74,
+   "para": 43,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Then you have no religion at all; I like that best,”"
+  },
+  {
+   "n": 75,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Lord de\nWinter, laughing."
+  },
+  {
+   "n": 76,
+   "para": 44,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Certainly that is most in accord with your own principles,”"
+  },
+  {
+   "n": 77,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied\nMilady, frigidly."
+  },
+  {
+   "n": 78,
+   "para": 45,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Oh, I confess it is all the same to me.”"
+  },
+  {
+   "n": 79,
+   "para": 46,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Oh, you need not avow this religious indifference, my Lord; your\ndebaucheries and crimes would vouch for it.”"
+  },
+  {
+   "n": 80,
+   "para": 47,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“What, you talk of debaucheries, Madame Messalina, Lady Macbeth! Either\nI misunderstand you or you are very shameless!”"
+  },
+  {
+   "n": 81,
+   "para": 48,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You only speak thus because you are overheard,”"
+  },
+  {
+   "n": 82,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "coolly replied Milady;"
+  },
+  {
+   "n": 83,
+   "para": 48,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“and you wish to interest your jailers and your hangmen against me.”"
+  },
+  {
+   "n": 84,
+   "para": 49,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“My jailers and my hangmen! Heyday, madame! you are taking a poetical\ntone, and the comedy of yesterday turns to a tragedy this evening. As\nto the rest, in eight days you will be where you ought to be, and my\ntask will be completed.”"
+  },
+  {
+   "n": 85,
+   "para": 50,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Infamous task! impious task!”"
+  },
+  {
+   "n": 86,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady, with the exultation of a\nvictim who provokes his judge."
+  },
+  {
+   "n": 87,
+   "para": 51,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“My word,”"
+  },
+  {
+   "n": 88,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said de Winter, rising,"
+  },
+  {
+   "n": 89,
+   "para": 51,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“I think the hussy is going mad!\nCome, come, calm yourself, Madame Puritan, or I’ll remove you to a\ndungeon. It’s my Spanish wine that has got into your head, is it not?\nBut never mind; that sort of intoxication is not dangerous, and will\nhave no bad effects.”"
+  },
+  {
+   "n": 90,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And Lord de Winter retired swearing, which at that period was a very\nknightly habit."
+  },
+  {
+   "n": 91,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton was indeed behind the door, and had not lost one word of this\nscene. Milady had guessed aright."
+  },
+  {
+   "n": 92,
+   "para": 54,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes, go, go!”"
+  },
+  {
+   "n": 93,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she to her brother;"
+  },
+  {
+   "n": 94,
+   "para": 54,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“the effects _are_ drawing\nnear, on the contrary; but you, weak fool, will not see them until it\nis too late to shun them.”"
+  },
+  {
+   "n": 95,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Silence was re-established. Two hours passed away. Milady’s supper was\nbrought in, and she was found deeply engaged in saying her prayers\naloud—prayers which she had learned of an old servant of her second\nhusband, a most austere Puritan. She appeared to be in ecstasy, and did\nnot pay the least attention to what was going on around her. Felton\nmade a sign that she should not be disturbed; and when all was\narranged, he went out quietly with the soldiers."
+  },
+  {
+   "n": 96,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady knew she might be watched, so she continued her prayers to the\nend; and it appeared to her that the soldier who was on duty at her\ndoor did not march with the same step, and seemed to listen. For the\nmoment she wished nothing better. She arose, came to the table, ate but\nlittle, and drank only water."
+  },
+  {
+   "n": 97,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "An hour after, her table was cleared; but Milady remarked that this\ntime Felton did not accompany the soldiers. He feared, then, to see her\ntoo often."
+  },
+  {
+   "n": 98,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "She turned toward the wall to smile—for there was in this smile such an\nexpression of triumph that this smile alone would have betrayed her."
+  },
+  {
+   "n": 99,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "She allowed, therefore, half an hour to pass away; and as at that\nmoment all was silence in the old castle, as nothing was heard but the\neternal murmur of the waves—that immense breaking of the ocean—with her\npure, harmonious, and powerful voice, she began the first couplet of\nthe psalm then in great favor with the Puritans:"
+  },
+  {
+   "n": 100,
+   "para": 60,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Thou leavest thy servants, Lord,\n    To see if they be strong;\nBut soon thou dost afford\n    Thy hand to lead them on.”"
+  },
+  {
+   "n": 101,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "These verses were not excellent—very far from it; but as it is well\nknown, the Puritans did not pique themselves upon their poetry."
+  },
+  {
+   "n": 102,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "While singing, Milady listened. The soldier on guard at her door\nstopped, as if he had been changed into stone. Milady was then able to\njudge of the effect she had produced."
+  },
+  {
+   "n": 103,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then she continued her singing with inexpressible fervor and feeling.\nIt appeared to her that the sounds spread to a distance beneath the\nvaulted roofs, and carried with them a magic charm to soften the hearts\nof her jailers. It however likewise appeared that the soldier on duty—a\nzealous Catholic, no doubt—shook off the charm, for through the door he\ncalled:"
+  },
+  {
+   "n": 104,
+   "para": 63,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Hold your tongue, madame! Your song is as dismal as a ‘De\nprofundis’; and if besides the pleasure of being in garrison here, we\nmust hear such things as these, no mortal can hold out.”"
+  },
+  {
+   "n": 105,
+   "para": 64,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Silence!”"
+  },
+  {
+   "n": 106,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "then exclaimed another stern voice which Milady recognized\nas that of Felton."
+  },
+  {
+   "n": 107,
+   "para": 64,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“What are you meddling with, stupid? Did anybody\norder you to prevent that woman from singing? No. You were told to\nguard her—to fire at her if she attempted to fly. Guard her! If she\nflies, kill her; but don’t exceed your orders.”"
+  },
+  {
+   "n": 108,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "An expression of unspeakable joy lightened the countenance of Milady;\nbut this expression was fleeting as the reflection of lightning.\nWithout appearing to have heard the dialogue, of which she had not lost\na word, she began again, giving to her voice all the charm, all the\npower, all the seduction the demon had bestowed upon it:"
+  },
+  {
+   "n": 109,
+   "para": 66,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“For all my tears, my cares,\n    My exile, and my chains,\nI have my youth, my prayers,\n    And God, who counts my pains.”"
+  },
+  {
+   "n": 110,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Her voice, of immense power and sublime expression, gave to the rude,\nunpolished poetry of these psalms a magic and an effect which the most\nexalted Puritans rarely found in the songs of their brethren, and which\nthey were forced to ornament with all the resources of their\nimagination. Felton believed he heard the singing of the angel who\nconsoled the three Hebrews in the furnace."
+  },
+  {
+   "n": 111,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady continued:"
+  },
+  {
+   "n": 112,
+   "para": 69,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“One day our doors will ope,\n    With God come our desire;\nAnd if betrays that hope,\n    To death we can aspire.”"
+  },
+  {
+   "n": 113,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This verse, into which the terrible enchantress threw her whole soul,\ncompleted the trouble which had seized the heart of the young officer.\nHe opened the door quickly; and Milady saw him appear, pale as usual,\nbut with his eye inflamed and almost wild."
+  },
+  {
+   "n": 114,
+   "para": 71,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Why do you sing thus, and with such a voice?”"
+  },
+  {
+   "n": 115,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he."
+  },
+  {
+   "n": 116,
+   "para": 72,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Your pardon, sir,”"
+  },
+  {
+   "n": 117,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady, with mildness."
+  },
+  {
+   "n": 118,
+   "para": 72,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I forgot that my songs\nare out of place in this castle. I have perhaps offended you in your\ncreed; but it was without wishing to do so, I swear. Pardon me, then, a\nfault which is perhaps great, but which certainly was involuntary.”"
+  },
+  {
+   "n": 119,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady was so beautiful at this moment, the religious ecstasy in which\nshe appeared to be plunged gave such an expression to her countenance,\nthat Felton was so dazzled that he fancied he beheld the angel whom he\nhad only just before heard."
+  },
+  {
+   "n": 120,
+   "para": 74,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Yes, yes,”"
+  },
+  {
+   "n": 121,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he;"
+  },
+  {
+   "n": 122,
+   "para": 74,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“you disturb, you agitate the people who live in\nthe castle.”"
+  },
+  {
+   "n": 123,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The poor, senseless young man was not aware of the incoherence of his\nwords, while Milady was reading with her lynx’s eyes the very depths of\nhis heart."
+  },
+  {
+   "n": 124,
+   "para": 76,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I will be silent, then,”"
+  },
+  {
+   "n": 125,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady, casting down her eyes with all\nthe sweetness she could give to her voice, with all the resignation she\ncould impress upon her manner."
+  },
+  {
+   "n": 126,
+   "para": 77,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“No, no, madame,”"
+  },
+  {
+   "n": 127,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton,"
+  },
+  {
+   "n": 128,
+   "para": 77,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“only do not sing so loud, particularly\nat night.”"
+  },
+  {
+   "n": 129,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And at these words Felton, feeling that he could not long maintain his\nseverity toward his prisoner, rushed out of the room."
+  },
+  {
+   "n": 130,
+   "para": 79,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You have done right, Lieutenant,”"
+  },
+  {
+   "n": 131,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the soldier."
+  },
+  {
+   "n": 132,
+   "para": 79,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Such songs\ndisturb the mind; and yet we become accustomed to them, her voice is so\nbeautiful.”"
+  }
+ ]
+}

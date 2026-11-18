@@ -1,0 +1,896 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 50,
+ "chapter": 50,
+ "title": "Chat Between Brother and Sister",
+ "document": "CHAPTER L",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch50.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "Milady de Winter",
+   "cast_as": "Sarah Bernhardt"
+  },
+  {
+   "role": "Lord de Winter",
+   "cast_as": "Henry Hudson"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter L.\nCHAT BETWEEN BROTHER AND SISTER"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "During the time which Lord de Winter took to shut the door, close a\nshutter, and draw a chair near to his sister-in-law’s _fauteuil_,\nMilady, anxiously thoughtful, plunged her glance into the depths of\npossibility, and discovered all the plan, of which she could not even\nobtain a glance as long as she was ignorant into whose hands she had\nfallen. She knew her brother-in-law to be a worthy gentleman, a bold\nhunter, an intrepid player, enterprising with women, but by no means\nremarkable for his skill in intrigues. How had he discovered her\narrival, and caused her to be seized? Why did he detain her?"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Athos had dropped some words which proved that the conversation she had\nwith the cardinal had fallen into outside ears; but she could not\nsuppose that he had dug a countermine so promptly and so boldly. She\nrather feared that her preceding operations in England might have been\ndiscovered. Buckingham might have guessed that it was she who had cut\noff the two studs, and avenge himself for that little treachery; but\nBuckingham was incapable of going to any excess against a woman,\nparticularly if that woman was supposed to have acted from a feeling of\njealousy."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This supposition appeared to her most reasonable. It seemed to her that\nthey wanted to revenge the past, and not to anticipate the future. At\nall events, she congratulated herself upon having fallen into the hands\nof her brother-in-law, with whom she reckoned she could deal very\neasily, rather than into the hands of an acknowledged and intelligent\nenemy."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes, let us chat, brother,”"
+  },
+  {
+   "n": 6,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she, with a kind of cheerfulness,\ndecided as she was to draw from the conversation, in spite of all the\ndissimulation Lord de Winter could bring, the revelations of which she\nstood in need to regulate her future conduct."
+  },
+  {
+   "n": 7,
+   "para": 5,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“You have, then, decided to come to England again,”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Lord de\nWinter,"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“in spite of the resolutions you so often expressed in Paris\nnever to set your feet on British ground?”"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady replied to this question by another question."
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“To begin with,\ntell me,”"
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she,"
+  },
+  {
+   "n": 13,
+   "para": 6,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“how have you watched me so closely as to be aware\nbeforehand not only of my arrival, but even of the day, the hour, and\nthe port at which I should arrive?”"
+  },
+  {
+   "n": 14,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Lord de Winter adopted the same tactics as Milady, thinking that as his\nsister-in-law employed them they must be the best."
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“But tell me, my dear sister,”"
+  },
+  {
+   "n": 16,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied he,"
+  },
+  {
+   "n": 17,
+   "para": 8,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“what makes you come to\nEngland?”"
+  },
+  {
+   "n": 18,
+   "para": 9,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I come to see you,”"
+  },
+  {
+   "n": 19,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Milady, without knowing how much she\naggravated by this reply the suspicions to which D’Artagnan’s letter\nhad given birth in the mind of her brother-in-law, and only desiring to\ngain the good will of her auditor by a falsehood."
+  },
+  {
+   "n": 20,
+   "para": 10,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Ah, to see me?”"
+  },
+  {
+   "n": 21,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said de Winter, cunningly."
+  },
+  {
+   "n": 22,
+   "para": 11,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“To be sure, to see you. What is there astonishing in that?”"
+  },
+  {
+   "n": 23,
+   "para": 12,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“And you had no other object in coming to England but to see me?”"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“No.”"
+  },
+  {
+   "n": 25,
+   "para": 14,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“So it was for me alone you have taken the trouble to cross the\nChannel?”"
+  },
+  {
+   "n": 26,
+   "para": 15,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“For you alone.”"
+  },
+  {
+   "n": 27,
+   "para": 16,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“The deuce! What tenderness, my sister!”"
+  },
+  {
+   "n": 28,
+   "para": 17,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“But am I not your nearest relative?”"
+  },
+  {
+   "n": 29,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "demanded Milady, with a tone of\nthe most touching ingenuousness."
+  },
+  {
+   "n": 30,
+   "para": 18,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“And my only heir, are you not?”"
+  },
+  {
+   "n": 31,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Lord de Winter in his turn,\nfixing his eyes on those of Milady."
+  },
+  {
+   "n": 32,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Whatever command she had over herself, Milady could not help starting;\nand as in pronouncing the last words Lord de Winter placed his hand\nupon the arm of his sister, this start did not escape him."
+  },
+  {
+   "n": 33,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In fact, the blow was direct and severe. The first idea that occurred\nto Milady’s mind was that she had been betrayed by Kitty, and that she\nhad recounted to the baron the selfish aversion toward himself of which\nshe had imprudently allowed some marks to escape before her servant.\nShe also recollected the furious and imprudent attack she had made upon\nD’Artagnan when he spared the life of her brother."
+  },
+  {
+   "n": 34,
+   "para": 21,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I do not understand, my Lord,”"
+  },
+  {
+   "n": 35,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she, in order to gain time and\nmake her adversary speak out."
+  },
+  {
+   "n": 36,
+   "para": 21,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“What do you mean to say? Is there any\nsecret meaning concealed beneath your words?”"
+  },
+  {
+   "n": 37,
+   "para": 22,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Oh, my God, no!”"
+  },
+  {
+   "n": 38,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Lord de Winter, with apparent good nature."
+  },
+  {
+   "n": 39,
+   "para": 22,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“You\nwish to see me, and you come to England. I learn this desire, or rather\nI suspect that you feel it; and in order to spare you all the\nannoyances of a nocturnal arrival in a port and all the fatigues of\nlanding, I send one of my officers to meet you, I place a carriage at\nhis orders, and he brings you hither to this castle, of which I am\ngovernor, whither I come every day, and where, in order to satisfy our\nmutual desire of seeing each other, I have prepared you a chamber. What\nis there more astonishing in all that I have said to you than in what\nyou have told me?”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“No; what I think astonishing is that you should expect my coming.”"
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“And yet that is the most simple thing in the world, my dear sister.\nHave you not observed that the captain of your little vessel, on\nentering the roadstead, sent forward, in order to obtain permission to\nenter the port, a little boat bearing his logbook and the register of\nhis voyagers? I am commandant of the port. They brought me that book. I\nrecognized your name in it. My heart told me what your mouth has just\nconfirmed—that is to say, with what view you have exposed yourself to\nthe dangers of a sea so perilous, or at least so troublesome at this\nmoment—and I sent my cutter to meet you. You know the rest.”"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady knew that Lord de Winter lied, and she was the more alarmed."
+  },
+  {
+   "n": 43,
+   "para": 26,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“My brother,”"
+  },
+  {
+   "n": 44,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued she,"
+  },
+  {
+   "n": 45,
+   "para": 26,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“was not that my Lord Buckingham whom I\nsaw on the jetty this evening as we arrived?”"
+  },
+  {
+   "n": 46,
+   "para": 27,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Himself. Ah, I can understand how the sight of him struck you,”"
+  },
+  {
+   "n": 47,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Lord de Winter."
+  },
+  {
+   "n": 48,
+   "para": 27,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“You came from a country where he must be very\nmuch talked of, and I know that his armaments against France greatly\nengage the attention of your friend the cardinal.”"
+  },
+  {
+   "n": 49,
+   "para": 28,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“My friend the cardinal!”"
+  },
+  {
+   "n": 50,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady, seeing that on this point as on\nthe other Lord de Winter seemed well instructed."
+  },
+  {
+   "n": 51,
+   "para": 29,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Is he not your friend?”"
+  },
+  {
+   "n": 52,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the baron, negligently."
+  },
+  {
+   "n": 53,
+   "para": 29,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Ah, pardon! I\nthought so; but we will return to my Lord Duke presently. Let us not\ndepart from the sentimental turn our conversation had taken. You came,\nyou say, to see me?”"
+  },
+  {
+   "n": 54,
+   "para": 30,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes.”"
+  },
+  {
+   "n": 55,
+   "para": 31,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Well, I reply that you shall be served to the height of your wishes,\nand that we shall see each other every day.”"
+  },
+  {
+   "n": 56,
+   "para": 32,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Am I, then, to remain here eternally?”"
+  },
+  {
+   "n": 57,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "demanded Milady, with a certain\nterror."
+  },
+  {
+   "n": 58,
+   "para": 33,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Do you find yourself badly lodged, sister? Demand anything you want,\nand I will hasten to have you furnished with it.”"
+  },
+  {
+   "n": 59,
+   "para": 34,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“But I have neither my women nor my servants.”"
+  },
+  {
+   "n": 60,
+   "para": 35,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“You shall have all, madame. Tell me on what footing your household was\nestablished by your first husband, and although I am only your\nbrother-in-law, I will arrange one similar.”"
+  },
+  {
+   "n": 61,
+   "para": 36,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“My first husband!”"
+  },
+  {
+   "n": 62,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady, looking at Lord de Winter with eyes\nalmost starting from their sockets."
+  },
+  {
+   "n": 63,
+   "para": 37,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Yes, your French husband. I don’t speak of my brother. If you have\nforgotten, as he is still living, I can write to him and he will send\nme information on the subject.”"
+  },
+  {
+   "n": 64,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A cold sweat burst from the brow of Milady."
+  },
+  {
+   "n": 65,
+   "para": 39,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You jest!”"
+  },
+  {
+   "n": 66,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she, in a hollow voice."
+  },
+  {
+   "n": 67,
+   "para": 40,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Do I look so?”"
+  },
+  {
+   "n": 68,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the baron, rising and going a step backward."
+  },
+  {
+   "n": 69,
+   "para": 41,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Or rather you insult me,”"
+  },
+  {
+   "n": 70,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued she, pressing with her stiffened\nhands the two arms of her easy chair, and raising herself upon her\nwrists."
+  },
+  {
+   "n": 71,
+   "para": 42,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“I insult you!”"
+  },
+  {
+   "n": 72,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Lord de Winter, with contempt."
+  },
+  {
+   "n": 73,
+   "para": 42,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“In truth, madame,\ndo you think that can be possible?”"
+  },
+  {
+   "n": 74,
+   "para": 43,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Indeed, sir,”"
+  },
+  {
+   "n": 75,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady,"
+  },
+  {
+   "n": 76,
+   "para": 43,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“you must be either drunk or mad. Leave the\nroom, and send me a woman.”"
+  },
+  {
+   "n": 77,
+   "para": 44,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Women are very indiscreet, my sister. Cannot I serve you as a waiting\nmaid? By that means all our secrets will remain in the family.”"
+  },
+  {
+   "n": 78,
+   "para": 45,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Insolent!”"
+  },
+  {
+   "n": 79,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady; and as if acted upon by a spring, she bounded\ntoward the baron, who awaited her attack with his arms crossed, but\nnevertheless with one hand on the hilt of his sword."
+  },
+  {
+   "n": 80,
+   "para": 46,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Come!”"
+  },
+  {
+   "n": 81,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he."
+  },
+  {
+   "n": 82,
+   "para": 46,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“I know you are accustomed to assassinate people; but\nI warn you I shall defend myself, even against you.”"
+  },
+  {
+   "n": 83,
+   "para": 47,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You are right,”"
+  },
+  {
+   "n": 84,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady."
+  },
+  {
+   "n": 85,
+   "para": 47,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You have all the appearance of being\ncowardly enough to lift your hand against a woman.”"
+  },
+  {
+   "n": 86,
+   "para": 48,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Perhaps so; and I have an excuse, for mine would not be the first hand\nof a man that has been placed upon you, I imagine.”"
+  },
+  {
+   "n": 87,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And the baron pointed, with a slow and accusing gesture, to the left\nshoulder of Milady, which he almost touched with his finger."
+  },
+  {
+   "n": 88,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady uttered a deep, inward shriek, and retreated to a corner of the\nroom like a panther which crouches for a spring."
+  },
+  {
+   "n": 89,
+   "para": 51,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Oh, growl as much as you please,”"
+  },
+  {
+   "n": 90,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Lord de Winter,"
+  },
+  {
+   "n": 91,
+   "para": 51,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“but don’t try\nto bite, for I warn you that it would be to your disadvantage. There\nare here no procurators who regulate successions beforehand. There is\nno knight-errant to come and seek a quarrel with me on account of the\nfair lady I detain a prisoner; but I have judges quite ready who will\nquickly dispose of a woman so shameless as to glide, a bigamist, into\nthe bed of Lord de Winter, my brother. And these judges, I warn you,\nwill soon send you to an executioner who will make both your shoulders\nalike.”"
+  },
+  {
+   "n": 92,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The eyes of Milady darted such flashes that although he was a man and\narmed before an unarmed woman, he felt the chill of fear glide through\nhis whole frame. However, he continued all the same, but with\nincreasing warmth:"
+  },
+  {
+   "n": 93,
+   "para": 52,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes, I can very well understand that after having\ninherited the fortune of my brother it would be very agreeable to you\nto be my heir likewise; but know beforehand, if you kill me or cause me\nto be killed, my precautions are taken. Not a penny of what I possess\nwill pass into your hands. Were you not already rich enough—you who\npossess nearly a million? And could you not stop your fatal career, if\nyou did not do evil for the infinite and supreme joy of doing it? Oh,\nbe assured, if the memory of my brother were not sacred to me, you\nshould rot in a state dungeon or satisfy the curiosity of sailors at\nTyburn. I will be silent, but you must endure your captivity quietly.\nIn fifteen or twenty days I shall set out for La Rochelle with the\narmy; but on the eve of my departure a vessel which I shall see depart\nwill take you hence and convey you to our colonies in the south. And be\nassured that you shall be accompanied by one who will blow your brains\nout at the first attempt you make to return to England or the\nContinent.”"
+  },
+  {
+   "n": 94,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady listened with an attention that dilated her inflamed eyes."
+  },
+  {
+   "n": 95,
+   "para": 54,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Yes, at present,”"
+  },
+  {
+   "n": 96,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued Lord de Winter,"
+  },
+  {
+   "n": 97,
+   "para": 54,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“you will remain in this\ncastle. The walls are thick, the doors strong, and the bars solid;\nbesides, your window opens immediately over the sea. The men of my\ncrew, who are devoted to me for life and death, mount guard around this\napartment, and watch all the passages that lead to the courtyard. Even\nif you gained the yard, there would still be three iron gates for you\nto pass. The order is positive. A step, a gesture, a word, on your\npart, denoting an effort to escape, and you are to be fired upon. If\nthey kill you, English justice will be under an obligation to me for\nhaving saved it trouble. Ah! I see your features regain their calmness,\nyour countenance recovers its assurance. You are saying to yourself:\n‘Fifteen days, twenty days? Bah! I have an inventive mind; before that\nis expired some idea will occur to me. I have an infernal spirit. I\nshall meet with a victim. Before fifteen days are gone by I shall be\naway from here.’ Ah, try it!”"
+  },
+  {
+   "n": 98,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady, finding her thoughts betrayed, dug her nails into her flesh to\nsubdue every emotion that might give to her face any expression except\nagony."
+  },
+  {
+   "n": 99,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Lord de Winter continued:"
+  },
+  {
+   "n": 100,
+   "para": 56,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“The officer who commands here in my absence\nyou have already seen, and therefore know him. He knows how, as you\nmust have observed, to obey an order—for you did not, I am sure, come\nfrom Portsmouth hither without endeavoring to make him speak. What do\nyou say of him? Could a statue of marble have been more impassive and\nmore mute? You have already tried the power of your seductions upon\nmany men, and unfortunately you have always succeeded; but I give you\nleave to try them upon this one. _Pardieu!_ if you succeed with him, I\npronounce you the demon himself.”"
+  },
+  {
+   "n": 101,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He went toward the door and opened it hastily."
+  },
+  {
+   "n": 102,
+   "para": 58,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Call Mr. Felton,”"
+  },
+  {
+   "n": 103,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he."
+  },
+  {
+   "n": 104,
+   "para": 58,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Wait a minute longer, and I will introduce\nhim to you.”"
+  },
+  {
+   "n": 105,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "There followed between these two personages a strange silence, during\nwhich the sound of a slow and regular step was heard approaching.\nShortly a human form appeared in the shade of the corridor, and the\nyoung lieutenant, with whom we are already acquainted, stopped at the\nthreshold to receive the orders of the baron."
+  },
+  {
+   "n": 106,
+   "para": 60,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Come in, my dear John,”"
+  },
+  {
+   "n": 107,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Lord de Winter,"
+  },
+  {
+   "n": 108,
+   "para": 60,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“come in, and shut the\ndoor.”"
+  },
+  {
+   "n": 109,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The young officer entered."
+  },
+  {
+   "n": 110,
+   "para": 62,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Now,”"
+  },
+  {
+   "n": 111,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the baron,"
+  },
+  {
+   "n": 112,
+   "para": 62,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“look at this woman. She is young; she is\nbeautiful; she possesses all earthly seductions. Well, she is a\nmonster, who, at twenty-five years of age, has been guilty of as many\ncrimes as you could read of in a year in the archives of our tribunals.\nHer voice prejudices her hearers in her favor; her beauty serves as a\nbait to her victims; her body even pays what she promises—I must do her\nthat justice. She will try to seduce you, perhaps she will try to kill\nyou. I have extricated you from misery, Felton; I have caused you to be\nnamed lieutenant; I once saved your life, you know on what occasion. I\nam for you not only a protector, but a friend; not only a benefactor,\nbut a father. This woman has come back again into England for the\npurpose of conspiring against my life. I hold this serpent in my hands.\nWell, I call you, and say to you: Friend Felton, John, my child, guard\nme, and more particularly guard yourself, against this woman. Swear, by\nyour hopes of salvation, to keep her safely for the chastisement she\nhas merited. John Felton, I trust your word! John Felton, I put faith\nin your loyalty!”"
+  },
+  {
+   "n": 113,
+   "para": 63,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“My Lord,”"
+  },
+  {
+   "n": 114,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the young officer, summoning to his mild countenance\nall the hatred he could find in his heart,"
+  },
+  {
+   "n": 115,
+   "para": 63,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“my Lord, I swear all shall\nbe done as you desire.”"
+  },
+  {
+   "n": 116,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady received this look like a resigned victim; it was impossible to\nimagine a more submissive or a more mild expression than that which\nprevailed on her beautiful countenance. Lord de Winter himself could\nscarcely recognize the tigress who, a minute before, prepared\napparently for a fight."
+  },
+  {
+   "n": 117,
+   "para": 65,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“She is not to leave this chamber, understand, John,”"
+  },
+  {
+   "n": 118,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the\nbaron."
+  },
+  {
+   "n": 119,
+   "para": 65,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“She is to correspond with nobody; she is to speak to no one but\nyou—if you will do her the honor to address a word to her.”"
+  },
+  {
+   "n": 120,
+   "para": 66,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That is sufficient, my Lord! I have sworn.”"
+  },
+  {
+   "n": 121,
+   "para": 67,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“And now, madame, try to make your peace with God, for you are judged\nby men!”"
+  },
+  {
+   "n": 122,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady let her head sink, as if crushed by this sentence. Lord de\nWinter went out, making a sign to Felton, who followed him, shutting\nthe door after him."
+  },
+  {
+   "n": 123,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "One instant after, the heavy step of a marine who served as sentinel\nwas heard in the corridor—his ax in his girdle and his musket on his\nshoulder."
+  },
+  {
+   "n": 124,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady remained for some minutes in the same position, for she thought\nthey might perhaps be examining her through the keyhole; she then\nslowly raised her head, which had resumed its formidable expression of\nmenace and defiance, ran to the door to listen, looked out of her\nwindow, and returning to bury herself again in her large armchair, she\nreflected."
+  }
+ ]
+}

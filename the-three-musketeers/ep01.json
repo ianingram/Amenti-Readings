@@ -1,0 +1,1552 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 1,
+ "chapter": 1,
+ "title": "The Three Presents of D’Artagnan the Elder",
+ "document": "CHAPTER I",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch01.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Rochefort, the man of Meung",
+   "cast_as": "Voltaire"
+  },
+  {
+   "role": "D’Artagnan the Elder",
+   "cast_as": "Montesquieu"
+  },
+  {
+   "role": "The Host",
+   "cast_as": "Louis Daguerre"
+  },
+  {
+   "role": "Milady de Winter",
+   "cast_as": "Sarah Bernhardt"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter I.\nTHE THREE PRESENTS OF D’ARTAGNAN THE ELDER"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On the first Monday of the month of April, 1625, the market town of\nMeung, in which the author of _Romance of the Rose_ was born, appeared\nto be in as perfect a state of revolution as if the Huguenots had just\nmade a second La Rochelle of it. Many citizens, seeing the women flying\ntoward the High Street, leaving their children crying at the open\ndoors, hastened to don the cuirass, and supporting their somewhat\nuncertain courage with a musket or a partisan, directed their steps\ntoward the hostelry of the Jolly Miller, before which was gathered,\nincreasing every minute, a compact group, vociferous and full of\ncuriosity."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In those times panics were common, and few days passed without some\ncity or other registering in its archives an event of this kind. There\nwere nobles, who made war against each other; there was the king, who\nmade war against the cardinal; there was Spain, which made war against\nthe king. Then, in addition to these concealed or public, secret or\nopen wars, there were robbers, mendicants, Huguenots, wolves, and\nscoundrels, who made war upon everybody. The citizens always took up\narms readily against thieves, wolves or scoundrels, often against\nnobles or Huguenots, sometimes against the king, but never against the\ncardinal or Spain. It resulted, then, from this habit that on the said\nfirst Monday of April, 1625, the citizens, on hearing the clamor, and\nseeing neither the red-and-yellow standard nor the livery of the Duc de\nRichelieu, rushed toward the hostel of the Jolly Miller. When arrived\nthere, the cause of the hubbub was apparent to all."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A young man—we can sketch his portrait at a dash. Imagine to yourself a\nDon Quixote of eighteen; a Don Quixote without his corselet, without\nhis coat of mail, without his cuisses; a Don Quixote clothed in a\nwoolen doublet, the blue color of which had faded into a nameless shade\nbetween lees of wine and a heavenly azure; face long and brown; high\ncheek bones, a sign of sagacity; the maxillary muscles enormously\ndeveloped, an infallible sign by which a Gascon may always be detected,\neven without his cap—and our young man wore a cap set off with a sort\nof feather; the eye open and intelligent; the nose hooked, but finely\nchiseled. Too big for a youth, too small for a grown man, an\nexperienced eye might have taken him for a farmer’s son upon a journey\nhad it not been for the long sword which, dangling from a leather\nbaldric, hit against the calves of its owner as he walked, and against\nthe rough side of his steed when he was on horseback."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "For our young man had a steed which was the observed of all observers.\nIt was a Béarn pony, from twelve to fourteen years old, yellow in his\nhide, without a hair in his tail, but not without windgalls on his\nlegs, which, though going with his head lower than his knees, rendering\na martingale quite unnecessary, contrived nevertheless to perform his\neight leagues a day. Unfortunately, the qualities of this horse were so\nwell concealed under his strange-colored hide and his unaccountable\ngait, that at a time when everybody was a connoisseur in horseflesh,\nthe appearance of the aforesaid pony at Meung—which place he had\nentered about a quarter of an hour before, by the gate of\nBeaugency—produced an unfavorable feeling, which extended to his rider."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And this feeling had been more painfully perceived by young\nD’Artagnan—for so was the Don Quixote of this second Rosinante\nnamed—from his not being able to conceal from himself the ridiculous\nappearance that such a steed gave him, good horseman as he was. He had\nsighed deeply, therefore, when accepting the gift of the pony from M.\nd’Artagnan the elder. He was not ignorant that such a beast was worth\nat least twenty livres; and the words which had accompanied the present\nwere above all price."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "D’Artagnan the Elder",
+   "cast": "Montesquieu",
+   "text": "“My son,”"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the old Gascon gentleman, in that pure Béarn _patois_ of\nwhich Henry IV. could never rid himself,"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "D’Artagnan the Elder",
+   "cast": "Montesquieu",
+   "text": "“this horse was born in the\nhouse of your father about thirteen years ago, and has remained in it\never since, which ought to make you love it. Never sell it; allow it to\ndie tranquilly and honorably of old age, and if you make a campaign\nwith it, take as much care of it as you would of an old servant. At\ncourt, provided you have ever the honor to go there,”"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued M.\nd’Artagnan the elder,"
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "D’Artagnan the Elder",
+   "cast": "Montesquieu",
+   "text": "“—an honor to which, remember, your ancient\nnobility gives you the right—sustain worthily your name of gentleman,\nwhich has been worthily borne by your ancestors for five hundred years,\nboth for your own sake and the sake of those who belong to you. By the\nlatter I mean your relatives and friends. Endure nothing from anyone\nexcept Monsieur the Cardinal and the king. It is by his courage, please\nobserve, by his courage alone, that a gentleman can make his way\nnowadays. Whoever hesitates for a second perhaps allows the bait to\nescape which during that exact second fortune held out to him. You are\nyoung. You ought to be brave for two reasons: the first is that you are\na Gascon, and the second is that you are my son. Never fear quarrels,\nbut seek adventures. I have taught you how to handle a sword; you have\nthews of iron, a wrist of steel. Fight on all occasions. Fight the more\nfor duels being forbidden, since consequently there is twice as much\ncourage in fighting. I have nothing to give you, my son, but fifteen\ncrowns, my horse, and the counsels you have just heard. Your mother\nwill add to them a recipe for a certain balsam, which she had from a\nBohemian and which has the miraculous virtue of curing all wounds that\ndo not reach the heart. Take advantage of all, and live happily and\nlong. I have but one word to add, and that is to propose an example to\nyou—not mine, for I myself have never appeared at court, and have only\ntaken part in religious wars as a volunteer; I speak of Monsieur de\nTréville, who was formerly my neighbor, and who had the honor to be, as\na child, the play-fellow of our king, Louis XIII., whom God preserve!\nSometimes their play degenerated into battles, and in these battles the\nking was not always the stronger. The blows which he received increased\ngreatly his esteem and friendship for Monsieur de Tréville. Afterward,\nMonsieur de Tréville fought with others: in his first journey to Paris,\nfive times; from the death of the late king till the young one came of\nage, without reckoning wars and sieges, seven times; and from that date\nup to the present day, a hundred times, perhaps! So that in spite of\nedicts, ordinances, and decrees, there he is, captain of the\nMusketeers; that is to say, chief of a legion of Cæsars, whom the king\nholds in great esteem and whom the cardinal dreads—he who dreads\nnothing, as it is said. Still further, Monsieur de Tréville gains ten\nthousand crowns a year; he is therefore a great noble. He began as you\nbegin. Go to him with this letter, and make him your model in order\nthat you may do as he has done.”"
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Upon which M. d’Artagnan the elder girded his own sword round his son,\nkissed him tenderly on both cheeks, and gave him his benediction."
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On leaving the paternal chamber, the young man found his mother, who\nwas waiting for him with the famous recipe of which the counsels we\nhave just repeated would necessitate frequent employment. The adieux\nwere on this side longer and more tender than they had been on the\nother—not that M. d’Artagnan did not love his son, who was his only\noffspring, but M. d’Artagnan was a man, and he would have considered it\nunworthy of a man to give way to his feelings; whereas Mme. D’Artagnan\nwas a woman, and still more, a mother. She wept abundantly; and—let us\nspeak it to the praise of M. d’Artagnan the younger—notwithstanding the\nefforts he made to remain firm, as a future Musketeer ought, nature\nprevailed, and he shed many tears, of which he succeeded with great\ndifficulty in concealing the half."
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The same day the young man set forward on his journey, furnished with\nthe three paternal gifts, which consisted, as we have said, of fifteen\ncrowns, the horse, and the letter for M. de Tréville—the counsels being\nthrown into the bargain."
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "With such a _vade mecum_ D’Artagnan was morally and physically an exact\ncopy of the hero of Cervantes, to whom we so happily compared him when\nour duty of an historian placed us under the necessity of sketching his\nportrait. Don Quixote took windmills for giants, and sheep for armies;\nD’Artagnan took every smile for an insult, and every look as a\nprovocation—whence it resulted that from Tarbes to Meung his fist was\nconstantly doubled, or his hand on the hilt of his sword; and yet the\nfist did not descend upon any jaw, nor did the sword issue from its\nscabbard. It was not that the sight of the wretched pony did not excite\nnumerous smiles on the countenances of passers-by; but as against the\nside of this pony rattled a sword of respectable length, and as over\nthis sword gleamed an eye rather ferocious than haughty, these\npassers-by repressed their hilarity, or if hilarity prevailed over\nprudence, they endeavored to laugh only on one side, like the masks of\nthe ancients. D’Artagnan, then, remained majestic and intact in his\nsusceptibility, till he came to this unlucky city of Meung."
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But there, as he was alighting from his horse at the gate of the Jolly\nMiller, without anyone—host, waiter, or hostler—coming to hold his\nstirrup or take his horse, D’Artagnan spied, though an open window on\nthe ground floor, a gentleman, well-made and of good carriage, although\nof rather a stern countenance, talking with two persons who appeared to\nlisten to him with respect. D’Artagnan fancied quite naturally,\naccording to his custom, that he must be the object of their\nconversation, and listened. This time D’Artagnan was only in part\nmistaken; he himself was not in question, but his horse was. The\ngentleman appeared to be enumerating all his qualities to his auditors;\nand, as I have said, the auditors seeming to have great deference for\nthe narrator, they every moment burst into fits of laughter. Now, as a\nhalf-smile was sufficient to awaken the irascibility of the young man,\nthe effect produced upon him by this vociferous mirth may be easily\nimagined."
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Nevertheless, D’Artagnan was desirous of examining the appearance of\nthis impertinent personage who ridiculed him. He fixed his haughty eye\nupon the stranger, and perceived a man of from forty to forty-five\nyears of age, with black and piercing eyes, pale complexion, a strongly\nmarked nose, and a black and well-shaped mustache. He was dressed in a\ndoublet and hose of a violet color, with aiguillettes of the same\ncolor, without any other ornaments than the customary slashes, through\nwhich the shirt appeared. This doublet and hose, though new, were\ncreased, like traveling clothes for a long time packed in a\nportmanteau. D’Artagnan made all these remarks with the rapidity of a\nmost minute observer, and doubtless from an instinctive feeling that\nthis stranger was destined to have a great influence over his future\nlife."
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Now, as at the moment in which D’Artagnan fixed his eyes upon the\ngentleman in the violet doublet, the gentleman made one of his most\nknowing and profound remarks respecting the Béarnese pony, his two\nauditors laughed even louder than before, and he himself, though\ncontrary to his custom, allowed a pale smile (if I may be allowed to\nuse such an expression) to stray over his countenance. This time there\ncould be no doubt; D’Artagnan was really insulted. Full, then, of this\nconviction, he pulled his cap down over his eyes, and endeavoring to\ncopy some of the court airs he had picked up in Gascony among young\ntraveling nobles, he advanced with one hand on the hilt of his sword\nand the other resting on his hip. Unfortunately, as he advanced, his\nanger increased at every step; and instead of the proper and lofty\nspeech he had prepared as a prelude to his challenge, he found nothing\nat the tip of his tongue but a gross personality, which he accompanied\nwith a furious gesture."
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I say, sir, you sir, who are hiding yourself behind that shutter—yes,\nyou, sir, tell me what you are laughing at, and we will laugh\ntogether!”"
+  },
+  {
+   "n": 20,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The gentleman raised his eyes slowly from the nag to his cavalier, as\nif he required some time to ascertain whether it could be to him that\nsuch strange reproaches were addressed; then, when he could not\npossibly entertain any doubt of the matter, his eyebrows slightly bent,\nand with an accent of irony and insolence impossible to be described,\nhe replied to D’Artagnan,"
+  },
+  {
+   "n": 21,
+   "para": 15,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“I was not speaking to you, sir.”"
+  },
+  {
+   "n": 22,
+   "para": 16,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But I am speaking to you!”"
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the young man, additionally\nexasperated with this mixture of insolence and good manners, of\npoliteness and scorn."
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The stranger looked at him again with a slight smile, and retiring from\nthe window, came out of the hostelry with a slow step, and placed\nhimself before the horse, within two paces of D’Artagnan. His quiet\nmanner and the ironical expression of his countenance redoubled the\nmirth of the persons with whom he had been talking, and who still\nremained at the window."
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan, seeing him approach, drew his sword a foot out of the\nscabbard."
+  },
+  {
+   "n": 26,
+   "para": 19,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“This horse is decidedly, or rather has been in his youth, a\nbuttercup,”"
+  },
+  {
+   "n": 27,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed the stranger, continuing the remarks he had begun,\nand addressing himself to his auditors at the window, without paying\nthe least attention to the exasperation of D’Artagnan, who, however,\nplaced himself between him and them."
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“It is a color very well known in\nbotany, but till the present time very rare among horses.”"
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“There are people who laugh at the horse that would not dare to laugh\nat the master,”"
+  },
+  {
+   "n": 30,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the young emulator of the furious Tréville."
+  },
+  {
+   "n": 31,
+   "para": 21,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“I do not often laugh, sir,”"
+  },
+  {
+   "n": 32,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the stranger,"
+  },
+  {
+   "n": 33,
+   "para": 21,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“as you may perceive\nby the expression of my countenance; but nevertheless I retain the\nprivilege of laughing when I please.”"
+  },
+  {
+   "n": 34,
+   "para": 22,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And I,”"
+  },
+  {
+   "n": 35,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan,"
+  },
+  {
+   "n": 36,
+   "para": 22,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“will allow no man to laugh when it\ndispleases me!”"
+  },
+  {
+   "n": 37,
+   "para": 23,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Indeed, sir,”"
+  },
+  {
+   "n": 38,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the stranger, more calm than ever;"
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“well, that\nis perfectly right!”"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "and turning on his heel, was about to re-enter the\nhostelry by the front gate, beneath which D’Artagnan on arriving had\nobserved a saddled horse."
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But, D’Artagnan was not of a character to allow a man to escape him\nthus who had the insolence to ridicule him. He drew his sword entirely\nfrom the scabbard, and followed him, crying,"
+  },
+  {
+   "n": 42,
+   "para": 24,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Turn, turn, Master Joker,\nlest I strike you behind!”"
+  },
+  {
+   "n": 43,
+   "para": 25,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Strike me!”"
+  },
+  {
+   "n": 44,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the other, turning on his heels, and surveying the\nyoung man with as much astonishment as contempt."
+  },
+  {
+   "n": 45,
+   "para": 25,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Why, my good fellow,\nyou must be mad!”"
+  },
+  {
+   "n": 46,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then, in a suppressed tone, as if speaking to\nhimself,"
+  },
+  {
+   "n": 47,
+   "para": 25,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“This is annoying,”"
+  },
+  {
+   "n": 48,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued he."
+  },
+  {
+   "n": 49,
+   "para": 25,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“What a godsend this would\nbe for his Majesty, who is seeking everywhere for brave fellows to\nrecruit for his Musketeers!”"
+  },
+  {
+   "n": 50,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He had scarcely finished, when D’Artagnan made such a furious lunge at\nhim that if he had not sprung nimbly backward, it is probable he would\nhave jested for the last time. The stranger, then perceiving that the\nmatter went beyond raillery, drew his sword, saluted his adversary, and\nseriously placed himself on guard. But at the same moment, his two\nauditors, accompanied by the host, fell upon D’Artagnan with sticks,\nshovels and tongs. This caused so rapid and complete a diversion from\nthe attack that D’Artagnan’s adversary, while the latter turned round\nto face this shower of blows, sheathed his sword with the same\nprecision, and instead of an actor, which he had nearly been, became a\nspectator of the fight—a part in which he acquitted himself with his\nusual impassiveness, muttering, nevertheless,"
+  },
+  {
+   "n": 51,
+   "para": 26,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“A plague upon these\nGascons! Replace him on his orange horse, and let him begone!”"
+  },
+  {
+   "n": 52,
+   "para": 27,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Not before I have killed you, poltroon!”"
+  },
+  {
+   "n": 53,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan, making the\nbest face possible, and never retreating one step before his three\nassailants, who continued to shower blows upon him."
+  },
+  {
+   "n": 54,
+   "para": 28,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Another gasconade!”"
+  },
+  {
+   "n": 55,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured the gentleman."
+  },
+  {
+   "n": 56,
+   "para": 28,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“By my honor, these\nGascons are incorrigible! Keep up the dance, then, since he will have\nit so. When he is tired, he will perhaps tell us that he has had enough\nof it.”"
+  },
+  {
+   "n": 57,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But the stranger knew not the headstrong personage he had to do with;\nD’Artagnan was not the man ever to cry for quarter. The fight was\ntherefore prolonged for some seconds; but at length D’Artagnan dropped\nhis sword, which was broken in two pieces by the blow of a stick.\nAnother blow full upon his forehead at the same moment brought him to\nthe ground, covered with blood and almost fainting."
+  },
+  {
+   "n": 58,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It was at this moment that people came flocking to the scene of action\nfrom all sides. The host, fearful of consequences, with the help of his\nservants carried the wounded man into the kitchen, where some trifling\nattentions were bestowed upon him."
+  },
+  {
+   "n": 59,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As to the gentleman, he resumed his place at the window, and surveyed\nthe crowd with a certain impatience, evidently annoyed by their\nremaining undispersed."
+  },
+  {
+   "n": 60,
+   "para": 32,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Well, how is it with this madman?”"
+  },
+  {
+   "n": 61,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "exclaimed he, turning round as the\nnoise of the door announced the entrance of the host, who came in to\ninquire if he was unhurt."
+  },
+  {
+   "n": 62,
+   "para": 33,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“Your Excellency is safe and sound?”"
+  },
+  {
+   "n": 63,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the host."
+  },
+  {
+   "n": 64,
+   "para": 34,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Oh, yes! Perfectly safe and sound, my good host; and I wish to know\nwhat has become of our young man.”"
+  },
+  {
+   "n": 65,
+   "para": 35,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“He is better,”"
+  },
+  {
+   "n": 66,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the host,"
+  },
+  {
+   "n": 67,
+   "para": 35,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“he fainted quite away.”"
+  },
+  {
+   "n": 68,
+   "para": 36,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Indeed!”"
+  },
+  {
+   "n": 69,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the gentleman."
+  },
+  {
+   "n": 70,
+   "para": 37,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“But before he fainted, he collected all his strength to challenge you,\nand to defy you while challenging you.”"
+  },
+  {
+   "n": 71,
+   "para": 38,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Why, this fellow must be the devil in person!”"
+  },
+  {
+   "n": 72,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the stranger."
+  },
+  {
+   "n": 73,
+   "para": 39,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“Oh, no, your Excellency, he is not the devil,”"
+  },
+  {
+   "n": 74,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the host, with\na grin of contempt;"
+  },
+  {
+   "n": 75,
+   "para": 39,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“for during his fainting we rummaged his valise and\nfound nothing but a clean shirt and eleven crowns—which however, did\nnot prevent his saying, as he was fainting, that if such a thing had\nhappened in Paris, you should have cause to repent of it at a later\nperiod.”"
+  },
+  {
+   "n": 76,
+   "para": 40,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Then,”"
+  },
+  {
+   "n": 77,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the stranger coolly,"
+  },
+  {
+   "n": 78,
+   "para": 40,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“he must be some prince in disguise.”"
+  },
+  {
+   "n": 79,
+   "para": 41,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“I have told you this, good sir,”"
+  },
+  {
+   "n": 80,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed the host,"
+  },
+  {
+   "n": 81,
+   "para": 41,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“in order that you\nmay be on your guard.”"
+  },
+  {
+   "n": 82,
+   "para": 42,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Did he name no one in his passion?”"
+  },
+  {
+   "n": 83,
+   "para": 43,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“Yes; he struck his pocket and said, ‘We shall see what Monsieur de\nTréville will think of this insult offered to his _protégé_.’”"
+  },
+  {
+   "n": 84,
+   "para": 44,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Monsieur de Tréville?”"
+  },
+  {
+   "n": 85,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the stranger, becoming attentive,"
+  },
+  {
+   "n": 86,
+   "para": 44,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“he put\nhis hand upon his pocket while pronouncing the name of Monsieur de\nTréville? Now, my dear host, while your young man was insensible, you\ndid not fail, I am quite sure, to ascertain what that pocket contained.\nWhat was there in it?”"
+  },
+  {
+   "n": 87,
+   "para": 45,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“A letter addressed to Monsieur de Tréville, captain of the\nMusketeers.”"
+  },
+  {
+   "n": 88,
+   "para": 46,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Indeed!”"
+  },
+  {
+   "n": 89,
+   "para": 47,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“Exactly as I have the honor to tell your Excellency.”"
+  },
+  {
+   "n": 90,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The host, who was not endowed with great perspicacity, did not observe\nthe expression which his words had given to the physiognomy of the\nstranger. The latter rose from the front of the window, upon the sill\nof which he had leaned with his elbow, and knitted his brow like a man\ndisquieted."
+  },
+  {
+   "n": 91,
+   "para": 49,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“The devil!”"
+  },
+  {
+   "n": 92,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured he, between his teeth."
+  },
+  {
+   "n": 93,
+   "para": 49,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Can Tréville have set\nthis Gascon upon me? He is very young; but a sword thrust is a sword\nthrust, whatever be the age of him who gives it, and a youth is less to\nbe suspected than an older man,”"
+  },
+  {
+   "n": 94,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "and the stranger fell into a reverie\nwhich lasted some minutes."
+  },
+  {
+   "n": 95,
+   "para": 49,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“A weak obstacle is sometimes sufficient to\noverthrow a great design."
+  },
+  {
+   "n": 96,
+   "para": 50,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Host,”"
+  },
+  {
+   "n": 97,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 98,
+   "para": 50,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“could you not contrive to get rid of this frantic boy\nfor me? In conscience, I cannot kill him; and yet,”"
+  },
+  {
+   "n": 99,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added he, with a\ncoldly menacing expression,"
+  },
+  {
+   "n": 100,
+   "para": 50,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“he annoys me. Where is he?”"
+  },
+  {
+   "n": 101,
+   "para": 51,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“In my wife’s chamber, on the first flight, where they are dressing his\nwounds.”"
+  },
+  {
+   "n": 102,
+   "para": 52,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“His things and his bag are with him? Has he taken off his doublet?”"
+  },
+  {
+   "n": 103,
+   "para": 53,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“On the contrary, everything is in the kitchen. But if he annoys you,\nthis young fool—”"
+  },
+  {
+   "n": 104,
+   "para": 54,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“To be sure he does. He causes a disturbance in your hostelry, which\nrespectable people cannot put up with. Go; make out my bill and notify\nmy servant.”"
+  },
+  {
+   "n": 105,
+   "para": 55,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“What, monsieur, will you leave us so soon?”"
+  },
+  {
+   "n": 106,
+   "para": 56,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“You know that very well, as I gave my order to saddle my horse. Have\nthey not obeyed me?”"
+  },
+  {
+   "n": 107,
+   "para": 57,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“It is done; as your Excellency may have observed, your horse is in the\ngreat gateway, ready saddled for your departure.”"
+  },
+  {
+   "n": 108,
+   "para": 58,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“That is well; do as I have directed you, then.”"
+  },
+  {
+   "n": 109,
+   "para": 59,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“What the devil!”"
+  },
+  {
+   "n": 110,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the host to himself."
+  },
+  {
+   "n": 111,
+   "para": 59,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“Can he be afraid of this\nboy?”"
+  },
+  {
+   "n": 112,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But an imperious glance from the stranger stopped him short; he\nbowed humbly and retired."
+  },
+  {
+   "n": 113,
+   "para": 60,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“It is not necessary for Milady* to be seen by this fellow,”"
+  },
+  {
+   "n": 114,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued\nthe stranger."
+  },
+  {
+   "n": 115,
+   "para": 60,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“She will soon pass; she is already late. I had better\nget on horseback, and go and meet her. I should like, however, to know\nwhat this letter addressed to Tréville contains.”"
+  },
+  {
+   "n": 116,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And the stranger,\nmuttering to himself, directed his steps toward the kitchen."
+  },
+  {
+   "n": 117,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "* We are well aware that this term, milady, is only properly used when\nfollowed by a family name. But we find it thus in the manuscript, and\nwe do not choose to take upon ourselves to alter it."
+  },
+  {
+   "n": 118,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In the meantime, the host, who entertained no doubt that it was the\npresence of the young man that drove the stranger from his hostelry,\nre-ascended to his wife’s chamber, and found D’Artagnan just recovering\nhis senses. Giving him to understand that the police would deal with\nhim pretty severely for having sought a quarrel with a great lord—for\nin the opinion of the host the stranger could be nothing less than a\ngreat lord—he insisted that notwithstanding his weakness D’Artagnan\nshould get up and depart as quickly as possible. D’Artagnan, half\nstupefied, without his doublet, and with his head bound up in a linen\ncloth, arose then, and urged by the host, began to descend the stairs;\nbut on arriving at the kitchen, the first thing he saw was his\nantagonist talking calmly at the step of a heavy carriage, drawn by two\nlarge Norman horses."
+  },
+  {
+   "n": 119,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "His interlocutor, whose head appeared through the carriage window, was\na woman of from twenty to two-and-twenty years. We have already\nobserved with what rapidity D’Artagnan seized the expression of a\ncountenance. He perceived then, at a glance, that this woman was young\nand beautiful; and her style of beauty struck him more forcibly from\nits being totally different from that of the southern countries in\nwhich D’Artagnan had hitherto resided. She was pale and fair, with long\ncurls falling in profusion over her shoulders, had large, blue,\nlanguishing eyes, rosy lips, and hands of alabaster. She was talking\nwith great animation with the stranger."
+  },
+  {
+   "n": 120,
+   "para": 64,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“His Eminence, then, orders me—”"
+  },
+  {
+   "n": 121,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the lady."
+  },
+  {
+   "n": 122,
+   "para": 65,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“To return instantly to England, and to inform him as soon as the duke\nleaves London.”"
+  },
+  {
+   "n": 123,
+   "para": 66,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“And as to my other instructions?”"
+  },
+  {
+   "n": 124,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the fair traveler."
+  },
+  {
+   "n": 125,
+   "para": 67,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“They are contained in this box, which you will not open until you are\non the other side of the Channel.”"
+  },
+  {
+   "n": 126,
+   "para": 68,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Very well; and you—what will you do?”"
+  },
+  {
+   "n": 127,
+   "para": 69,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“I—I return to Paris.”"
+  },
+  {
+   "n": 128,
+   "para": 70,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“What, without chastising this insolent boy?”"
+  },
+  {
+   "n": 129,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the lady."
+  },
+  {
+   "n": 130,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The stranger was about to reply; but at the moment he opened his mouth,\nD’Artagnan, who had heard all, precipitated himself over the threshold\nof the door."
+  },
+  {
+   "n": 131,
+   "para": 72,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“This insolent boy chastises others,”"
+  },
+  {
+   "n": 132,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried he;"
+  },
+  {
+   "n": 133,
+   "para": 72,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“and I hope that this\ntime he whom he ought to chastise will not escape him as before.”"
+  },
+  {
+   "n": 134,
+   "para": 73,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Will not escape him?”"
+  },
+  {
+   "n": 135,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the stranger, knitting his brow."
+  },
+  {
+   "n": 136,
+   "para": 74,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“No; before a woman you would dare not fly, I presume?”"
+  },
+  {
+   "n": 137,
+   "para": 75,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Remember,”"
+  },
+  {
+   "n": 138,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady, seeing the stranger lay his hand on his sword,"
+  },
+  {
+   "n": 139,
+   "para": 75,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“the least delay may ruin everything.”"
+  },
+  {
+   "n": 140,
+   "para": 76,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“You are right,”"
+  },
+  {
+   "n": 141,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the gentleman;"
+  },
+  {
+   "n": 142,
+   "para": 76,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“begone then, on your part, and I\nwill depart as quickly on mine.”"
+  },
+  {
+   "n": 143,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And bowing to the lady, he sprang into\nhis saddle, while her coachman applied his whip vigorously to his\nhorses. The two interlocutors thus separated, taking opposite\ndirections, at full gallop."
+  },
+  {
+   "n": 144,
+   "para": 77,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Pay him, booby!”"
+  },
+  {
+   "n": 145,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the stranger to his servant, without checking\nthe speed of his horse; and the man, after throwing two or three silver\npieces at the foot of mine host, galloped after his master."
+  },
+  {
+   "n": 146,
+   "para": 78,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Base coward! false gentleman!”"
+  },
+  {
+   "n": 147,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan, springing forward, in\nhis turn, after the servant. But his wound had rendered him too weak to\nsupport such an exertion. Scarcely had he gone ten steps when his ears\nbegan to tingle, a faintness seized him, a cloud of blood passed over\nhis eyes, and he fell in the middle of the street, crying still,"
+  },
+  {
+   "n": 148,
+   "para": 78,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Coward! coward! coward!”"
+  },
+  {
+   "n": 149,
+   "para": 79,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“He is a coward, indeed,”"
+  },
+  {
+   "n": 150,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "grumbled the host, drawing near to\nD’Artagnan, and endeavoring by this little flattery to make up matters\nwith the young man, as the heron of the fable did with the snail he had\ndespised the evening before."
+  },
+  {
+   "n": 151,
+   "para": 80,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, a base coward,”"
+  },
+  {
+   "n": 152,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured D’Artagnan;"
+  },
+  {
+   "n": 153,
+   "para": 80,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“but she—she was very\nbeautiful.”"
+  },
+  {
+   "n": 154,
+   "para": 81,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“What _she?_”"
+  },
+  {
+   "n": 155,
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "demanded the host."
+  },
+  {
+   "n": 156,
+   "para": 82,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Milady,”"
+  },
+  {
+   "n": 157,
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "faltered D’Artagnan, and fainted a second time."
+  },
+  {
+   "n": 158,
+   "para": 83,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“Ah, it’s all one,”"
+  },
+  {
+   "n": 159,
+   "para": 83,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the host;"
+  },
+  {
+   "n": 160,
+   "para": 83,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“I have lost two customers, but this\none remains, of whom I am pretty certain for some days to come. There\nwill be eleven crowns gained.”"
+  },
+  {
+   "n": 161,
+   "para": 84,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It is to be remembered that eleven crowns was just the sum that\nremained in D’Artagnan’s purse."
+  },
+  {
+   "n": 162,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The host had reckoned upon eleven days of confinement at a crown a day,\nbut he had reckoned without his guest. On the following morning at five\no’clock D’Artagnan arose, and descending to the kitchen without help,\nasked, among other ingredients the list of which has not come down to\nus, for some oil, some wine, and some rosemary, and with his mother’s\nrecipe in his hand composed a balsam, with which he anointed his\nnumerous wounds, replacing his bandages himself, and positively\nrefusing the assistance of any doctor, D’Artagnan walked about that\nsame evening, and was almost cured by the morrow."
+  },
+  {
+   "n": 163,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But when the time came to pay for his rosemary, this oil, and the wine,\nthe only expense the master had incurred, as he had preserved a strict\nabstinence—while on the contrary, the yellow horse, by the account of\nthe hostler at least, had eaten three times as much as a horse of his\nsize could reasonably be supposed to have done—D’Artagnan found nothing\nin his pocket but his little old velvet purse with the eleven crowns it\ncontained; for as to the letter addressed to M. de Tréville, it had\ndisappeared."
+  },
+  {
+   "n": 164,
+   "para": 87,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The young man commenced his search for the letter with the greatest\npatience, turning out his pockets of all kinds over and over again,\nrummaging and rerummaging in his valise, and opening and reopening his\npurse; but when he found that he had come to the conviction that the\nletter was not to be found, he flew, for the third time, into such a\nrage as was near costing him a fresh consumption of wine, oil, and\nrosemary—for upon seeing this hot-headed youth become exasperated and\nthreaten to destroy everything in the establishment if his letter were\nnot found, the host seized a spit, his wife a broom handle, and the\nservants the same sticks they had used the day before."
+  },
+  {
+   "n": 165,
+   "para": 88,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“My letter of recommendation!”"
+  },
+  {
+   "n": 166,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan,"
+  },
+  {
+   "n": 167,
+   "para": 88,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“my letter of\nrecommendation! or, the holy blood, I will spit you all like ortolans!”"
+  },
+  {
+   "n": 168,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Unfortunately, there was one circumstance which created a powerful\nobstacle to the accomplishment of this threat; which was, as we have\nrelated, that his sword had been in his first conflict broken in two,\nand which he had entirely forgotten. Hence, it resulted when D’Artagnan\nproceeded to draw his sword in earnest, he found himself purely and\nsimply armed with a stump of a sword about eight or ten inches in\nlength, which the host had carefully placed in the scabbard. As to the\nrest of the blade, the master had slyly put that on one side to make\nhimself a larding pin."
+  },
+  {
+   "n": 169,
+   "para": 90,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But this deception would probably not have stopped our fiery young man\nif the host had not reflected that the reclamation which his guest made\nwas perfectly just."
+  },
+  {
+   "n": 170,
+   "para": 91,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“But, after all,”"
+  },
+  {
+   "n": 171,
+   "para": 91,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he, lowering the point of his spit,"
+  },
+  {
+   "n": 172,
+   "para": 91,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“where is\nthis letter?”"
+  },
+  {
+   "n": 173,
+   "para": 92,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, where is this letter?”"
+  },
+  {
+   "n": 174,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 175,
+   "para": 92,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“In the first place, I\nwarn you that that letter is for Monsieur de Tréville, and it must be\nfound, or if it is not found, he will know how to find it.”"
+  },
+  {
+   "n": 176,
+   "para": 93,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "His threat completed the intimidation of the host. After the king and\nthe cardinal, M. de Tréville was the man whose name was perhaps most\nfrequently repeated by the military, and even by citizens. There was,\nto be sure, Father Joseph, but his name was never pronounced but with a\nsubdued voice, such was the terror inspired by his Gray Eminence, as\nthe cardinal’s familiar was called."
+  },
+  {
+   "n": 177,
+   "para": 94,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Throwing down his spit, and ordering his wife to do the same with her\nbroom handle, and the servants with their sticks, he set the first\nexample of commencing an earnest search for the lost letter."
+  },
+  {
+   "n": 178,
+   "para": 95,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“Does the letter contain anything valuable?”"
+  },
+  {
+   "n": 179,
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "demanded the host, after a\nfew minutes of useless investigation."
+  },
+  {
+   "n": 180,
+   "para": 96,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Zounds! I think it does indeed!”"
+  },
+  {
+   "n": 181,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the Gascon, who reckoned upon\nthis letter for making his way at court."
+  },
+  {
+   "n": 182,
+   "para": 96,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“It contained my fortune!”"
+  },
+  {
+   "n": 183,
+   "para": 97,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“Bills upon Spain?”"
+  },
+  {
+   "n": 184,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the disturbed host."
+  },
+  {
+   "n": 185,
+   "para": 98,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Bills upon his Majesty’s private treasury,”"
+  },
+  {
+   "n": 186,
+   "para": 98,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "answered D’Artagnan, who,\nreckoning upon entering into the king’s service in consequence of this\nrecommendation, believed he could make this somewhat hazardous reply\nwithout telling of a falsehood."
+  },
+  {
+   "n": 187,
+   "para": 99,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“The devil!”"
+  },
+  {
+   "n": 188,
+   "para": 99,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the host, at his wits’ end."
+  },
+  {
+   "n": 189,
+   "para": 100,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But it’s of no importance,”"
+  },
+  {
+   "n": 190,
+   "para": 100,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued D’Artagnan, with natural\nassurance;"
+  },
+  {
+   "n": 191,
+   "para": 100,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“it’s of no importance. The money is nothing; that letter\nwas everything. I would rather have lost a thousand pistoles than have\nlost it.”"
+  },
+  {
+   "n": 192,
+   "para": 100,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He would not have risked more if he had said twenty thousand;\nbut a certain juvenile modesty restrained him."
+  },
+  {
+   "n": 193,
+   "para": 101,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A ray of light all at once broke upon the mind of the host as he was\ngiving himself to the devil upon finding nothing."
+  },
+  {
+   "n": 194,
+   "para": 102,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“That letter is not lost!”"
+  },
+  {
+   "n": 195,
+   "para": 102,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried he."
+  },
+  {
+   "n": 196,
+   "para": 103,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What!”"
+  },
+  {
+   "n": 197,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 198,
+   "para": 104,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“No, it has been stolen from you.”"
+  },
+  {
+   "n": 199,
+   "para": 105,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Stolen? By whom?”"
+  },
+  {
+   "n": 200,
+   "para": 106,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“By the gentleman who was here yesterday. He came down into the\nkitchen, where your doublet was. He remained there some time alone. I\nwould lay a wager he has stolen it.”"
+  },
+  {
+   "n": 201,
+   "para": 107,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Do you think so?”"
+  },
+  {
+   "n": 202,
+   "para": 107,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "answered D’Artagnan, but little convinced, as he\nknew better than anyone else how entirely personal the value of this\nletter was, and saw nothing in it likely to tempt cupidity. The fact\nwas that none of his servants, none of the travelers present, could\nhave gained anything by being possessed of this paper."
+  },
+  {
+   "n": 203,
+   "para": 108,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Do you say,”"
+  },
+  {
+   "n": 204,
+   "para": 108,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed D’Artagnan,"
+  },
+  {
+   "n": 205,
+   "para": 108,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“that you suspect that impertinent\ngentleman?”"
+  },
+  {
+   "n": 206,
+   "para": 109,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“I tell you I am sure of it,”"
+  },
+  {
+   "n": 207,
+   "para": 109,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the host."
+  },
+  {
+   "n": 208,
+   "para": 109,
+   "role": "The Host",
+   "cast": "Louis Daguerre",
+   "text": "“When I informed him\nthat your lordship was the _protégé_ of Monsieur de Tréville, and that\nyou even had a letter for that illustrious gentleman, he appeared to be\nvery much disturbed, and asked me where that letter was, and\nimmediately came down into the kitchen, where he knew your doublet\nwas.”"
+  },
+  {
+   "n": 209,
+   "para": 110,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Then that’s my thief,”"
+  },
+  {
+   "n": 210,
+   "para": 110,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan."
+  },
+  {
+   "n": 211,
+   "para": 110,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I will complain to\nMonsieur de Tréville, and Monsieur de Tréville will complain to the\nking.”"
+  },
+  {
+   "n": 212,
+   "para": 110,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He then drew two crowns majestically from his purse and gave\nthem to the host, who accompanied him, cap in hand, to the gate, and\nremounted his yellow horse, which bore him without any further accident\nto the gate of St. Antoine at Paris, where his owner sold him for three\ncrowns, which was a very good price, considering that D’Artagnan had\nridden him hard during the last stage. Thus the dealer to whom\nD’Artagnan sold him for the nine livres did not conceal from the young\nman that he only gave that enormous sum for him on the account of the\noriginality of his color."
+  },
+  {
+   "n": 213,
+   "para": 111,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Thus D’Artagnan entered Paris on foot, carrying his little packet under\nhis arm, and walked about till he found an apartment to be let on terms\nsuited to the scantiness of his means. This chamber was a sort of\ngarret, situated in the Rue des Fossoyeurs, near the Luxembourg."
+  },
+  {
+   "n": 214,
+   "para": 112,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As soon as the earnest money was paid, D’Artagnan took possession of\nhis lodging, and passed the remainder of the day in sewing onto his\ndoublet and hose some ornamental braiding which his mother had taken\noff an almost-new doublet of the elder M. d’Artagnan, and which she had\ngiven her son secretly. Next he went to the Quai de Feraille to have a\nnew blade put to his sword, and then returned toward the Louvre,\ninquiring of the first Musketeer he met for the situation of the hôtel\nof M. de Tréville, which proved to be in the Rue du Vieux-Colombier;\nthat is to say, in the immediate vicinity of the chamber hired by\nD’Artagnan—a circumstance which appeared to furnish a happy augury for\nthe success of his journey."
+  },
+  {
+   "n": 215,
+   "para": 113,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "After this, satisfied with the way in which he had conducted himself at\nMeung, without remorse for the past, confident in the present, and full\nof hope for the future, he retired to bed and slept the sleep of the\nbrave."
+  },
+  {
+   "n": 216,
+   "para": 114,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This sleep, provincial as it was, brought him to nine o’clock in the\nmorning; at which hour he rose, in order to repair to the residence of\nM. de Tréville, the third personage in the kingdom, in the paternal\nestimation."
+  }
+ ]
+}

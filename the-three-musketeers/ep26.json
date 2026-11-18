@@ -1,0 +1,2268 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 26,
+ "chapter": 26,
+ "title": "Aramis and His Thesis",
+ "document": "CHAPTER XXVI",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch26.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Aramis",
+   "cast_as": "Napoleon III"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter XXVI.\nARAMIS AND HIS THESIS"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan had said nothing to Porthos of his wound or of his\nprocurator’s wife. Our Béarnais was a prudent lad, however young he\nmight be. Consequently he had appeared to believe all that the\nvainglorious Musketeer had told him, convinced that no friendship will\nhold out against a surprised secret. Besides, we feel always a sort of\nmental superiority over those whose lives we know better than they\nsuppose. In his projects of intrigue for the future, and determined as\nhe was to make his three friends the instruments of his fortune,\nD’Artagnan was not sorry at getting into his grasp beforehand the\ninvisible strings by which he reckoned upon moving them."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And yet, as he journeyed along, a profound sadness weighed upon his\nheart. He thought of that young and pretty Mme. Bonacieux who was to\nhave paid him the price of his devotedness; but let us hasten to say\nthat this sadness possessed the young man less from the regret of the\nhappiness he had missed, than from the fear he entertained that some\nserious misfortune had befallen the poor woman. For himself, he had no\ndoubt she was a victim of the cardinal’s vengeance; and, as was well\nknown, the vengeance of his Eminence was terrible. How he had found\ngrace in the eyes of the minister, he did not know; but without doubt\nM. de Cavois would have revealed this to him if the captain of the\nGuards had found him at home."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Nothing makes time pass more quickly or more shortens a journey than a\nthought which absorbs in itself all the faculties of the organization\nof him who thinks. External existence then resembles a sleep of which\nthis thought is the dream. By its influence, time has no longer\nmeasure, space has no longer distance. We depart from one place, and\narrive at another, that is all. Of the interval passed, nothing remains\nin the memory but a vague mist in which a thousand confused images of\ntrees, mountains, and landscapes are lost. It was as a prey to this\nhallucination that D’Artagnan traveled, at whatever pace his horse\npleased, the six or eight leagues that separated Chantilly from\nCrèvecœur, without his being able to remember on his arrival in the\nvillage any of the things he had passed or met with on the road."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "There only his memory returned to him. He shook his head, perceived the\ncabaret at which he had left Aramis, and putting his horse to the trot,\nhe shortly pulled up at the door."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This time it was not a host but a hostess who received him. D’Artagnan\nwas a physiognomist. His eye took in at a glance the plump, cheerful\ncountenance of the mistress of the place, and he at once perceived\nthere was no occasion for dissembling with her, or of fearing anything\nfrom one blessed with such a joyous physiognomy."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“My good dame,”"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked D’Artagnan,"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“can you tell me what has become of\none of my friends, whom we were obliged to leave here about a dozen\ndays ago?”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“A handsome young man, three- or four-and-twenty years old, mild,\namiable, and well made?”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“That is he—wounded in the shoulder.”"
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Just so. Well, monsieur, he is still here.”"
+  },
+  {
+   "n": 13,
+   "para": 10,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Ah, _pardieu!_ My dear dame,”"
+  },
+  {
+   "n": 14,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, springing from his\nhorse, and throwing the bridle to Planchet,"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“you restore me to life;\nwhere is this dear Aramis? Let me embrace him, I am in a hurry to see\nhim again.”"
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Pardon, monsieur, but I doubt whether he can see you at this moment.”"
+  },
+  {
+   "n": 17,
+   "para": 12,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Why so? Has he a lady with him?”"
+  },
+  {
+   "n": 18,
+   "para": 13,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Jesus! What do you mean by that? Poor lad! No, monsieur, he has not a\nlady with him.”"
+  },
+  {
+   "n": 19,
+   "para": 14,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“With whom is he, then?”"
+  },
+  {
+   "n": 20,
+   "para": 15,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“With the curate of Montdidier and the superior of the Jesuits of\nAmiens.”"
+  },
+  {
+   "n": 21,
+   "para": 16,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Good heavens!”"
+  },
+  {
+   "n": 22,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan,"
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“is the poor fellow worse, then?”"
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“No, monsieur, quite the contrary; but after his illness grace touched\nhim, and he determined to take orders.”"
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“That’s it!”"
+  },
+  {
+   "n": 26,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I had forgotten that he was only a\nMusketeer for a time.”"
+  },
+  {
+   "n": 28,
+   "para": 19,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monsieur still insists upon seeing him?”"
+  },
+  {
+   "n": 29,
+   "para": 20,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“More than ever.”"
+  },
+  {
+   "n": 30,
+   "para": 21,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, monsieur has only to take the right-hand staircase in the\ncourtyard, and knock at Number Five on the second floor.”"
+  },
+  {
+   "n": 31,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan walked quickly in the direction indicated, and found one of\nthose exterior staircases that are still to be seen in the yards of our\nold-fashioned taverns. But there was no getting at the place of sojourn\nof the future abbé; the defiles of the chamber of Aramis were as well\nguarded as the gardens of Armida. Bazin was stationed in the corridor,\nand barred his passage with the more intrepidity that, after many years\nof trial, Bazin found himself near a result of which he had ever been\nambitious."
+  },
+  {
+   "n": 32,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In fact, the dream of poor Bazin had always been to serve a churchman;\nand he awaited with impatience the moment, always in the future, when\nAramis would throw aside the uniform and assume the cassock. The\ndaily-renewed promise of the young man that the moment would not long\nbe delayed, had alone kept him in the service of a Musketeer—a service\nin which, he said, his soul was in constant jeopardy."
+  },
+  {
+   "n": 33,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Bazin was then at the height of joy. In all probability, this time his\nmaster would not retract. The union of physical pain with moral\nuneasiness had produced the effect so long desired. Aramis, suffering\nat once in body and mind, had at length fixed his eyes and his thoughts\nupon religion, and he had considered as a warning from heaven the\ndouble accident which had happened to him; that is to say, the sudden\ndisappearance of his mistress and the wound in his shoulder."
+  },
+  {
+   "n": 34,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It may be easily understood that in the present disposition of his\nmaster nothing could be more disagreeable to Bazin than the arrival of\nD’Artagnan, which might cast his master back again into that vortex of\nmundane affairs which had so long carried him away. He resolved, then,\nto defend the door bravely; and as, betrayed by the mistress of the\ninn, he could not say that Aramis was absent, he endeavored to prove to\nthe newcomer that it would be the height of indiscretion to disturb his\nmaster in his pious conference, which had commenced with the morning\nand would not, as Bazin said, terminate before night."
+  },
+  {
+   "n": 35,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But D’Artagnan took very little heed of the eloquent discourse of M.\nBazin; and as he had no desire to support a polemic discussion with his\nfriend’s valet, he simply moved him out of the way with one hand, and\nwith the other turned the handle of the door of Number Five. The door\nopened, and D’Artagnan went into the chamber."
+  },
+  {
+   "n": 36,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Aramis, in a black gown, his head enveloped in a sort of round flat\ncap, not much unlike a _calotte_, was seated before an oblong table,\ncovered with rolls of paper and enormous volumes in folio. At his right\nhand was placed the superior of the Jesuits, and on his left the curate\nof Montdidier. The curtains were half drawn, and only admitted the\nmysterious light calculated for beatific reveries. All the mundane\nobjects that generally strike the eye on entering the room of a young\nman, particularly when that young man is a Musketeer, had disappeared\nas if by enchantment; and for fear, no doubt, that the sight of them\nmight bring his master back to ideas of this world, Bazin had laid his\nhands upon sword, pistols, plumed hat, and embroideries and laces of\nall kinds and sorts. In their stead D’Artagnan thought he perceived in\nan obscure corner a discipline cord suspended from a nail in the wall."
+  },
+  {
+   "n": 37,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At the noise made by D’Artagnan in entering, Aramis lifted up his head,\nand beheld his friend; but to the great astonishment of the young man,\nthe sight of him did not produce much effect upon the Musketeer, so\ncompletely was his mind detached from the things of this world."
+  },
+  {
+   "n": 38,
+   "para": 29,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Good day, dear D’Artagnan,”"
+  },
+  {
+   "n": 39,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis;"
+  },
+  {
+   "n": 40,
+   "para": 29,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“believe me, I am glad to see\nyou.”"
+  },
+  {
+   "n": 41,
+   "para": 30,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“So am I delighted to see you,”"
+  },
+  {
+   "n": 42,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 43,
+   "para": 30,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“although I am not yet\nsure that it is Aramis I am speaking to.”"
+  },
+  {
+   "n": 44,
+   "para": 31,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“To himself, my friend, to himself! But what makes you doubt it?”"
+  },
+  {
+   "n": 45,
+   "para": 32,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I was afraid I had made a mistake in the chamber, and that I had found\nmy way into the apartment of some churchman. Then another error seized\nme on seeing you in company with these gentlemen—I was afraid you were\ndangerously ill.”"
+  },
+  {
+   "n": 46,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The two men in black, who guessed D’Artagnan’s meaning, darted at him a\nglance which might have been thought threatening; but D’Artagnan took\nno heed of it."
+  },
+  {
+   "n": 47,
+   "para": 34,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I disturb you, perhaps, my dear Aramis,”"
+  },
+  {
+   "n": 48,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued D’Artagnan,"
+  },
+  {
+   "n": 49,
+   "para": 34,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“for by\nwhat I see, I am led to believe that you are confessing to these\ngentlemen.”"
+  },
+  {
+   "n": 50,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Aramis colored imperceptibly."
+  },
+  {
+   "n": 51,
+   "para": 35,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“You disturb me? Oh, quite the contrary,\ndear friend, I swear; and as a proof of what I say, permit me to\ndeclare I am rejoiced to see you safe and sound.”"
+  },
+  {
+   "n": 52,
+   "para": 36,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Ah, he’ll come round,”"
+  },
+  {
+   "n": 53,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "thought D’Artagnan;"
+  },
+  {
+   "n": 54,
+   "para": 36,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“that’s not bad!”"
+  },
+  {
+   "n": 55,
+   "para": 37,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“This gentleman, who is my friend, has just escaped from a serious\ndanger,”"
+  },
+  {
+   "n": 56,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued Aramis, with unction, pointing to D’Artagnan with\nhis hand, and addressing the two ecclesiastics."
+  },
+  {
+   "n": 57,
+   "para": 38,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Praise God, monsieur,”"
+  },
+  {
+   "n": 58,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied they, bowing together."
+  },
+  {
+   "n": 59,
+   "para": 39,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I have not failed to do so, your Reverences,”"
+  },
+  {
+   "n": 60,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the young man,\nreturning their salutation."
+  },
+  {
+   "n": 61,
+   "para": 40,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“You arrive in good time, dear D’Artagnan,”"
+  },
+  {
+   "n": 62,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis,"
+  },
+  {
+   "n": 63,
+   "para": 40,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“and by taking\npart in our discussion may assist us with your intelligence. Monsieur\nthe Principal of Amiens, Monsieur the Curate of Montdidier, and I are\narguing certain theological questions in which we have been much\ninterested; I shall be delighted to have your opinion.”"
+  },
+  {
+   "n": 64,
+   "para": 41,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The opinion of a swordsman can have very little weight,”"
+  },
+  {
+   "n": 65,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied\nD’Artagnan, who began to be uneasy at the turn things were taking,"
+  },
+  {
+   "n": 66,
+   "para": 41,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“and\nyou had better be satisfied, believe me, with the knowledge of these\ngentlemen.”"
+  },
+  {
+   "n": 67,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The two men in black bowed in their turn."
+  },
+  {
+   "n": 68,
+   "para": 43,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“On the contrary,”"
+  },
+  {
+   "n": 69,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis,"
+  },
+  {
+   "n": 70,
+   "para": 43,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“your opinion will be very valuable.\nThe question is this: Monsieur the Principal thinks that my thesis\nought to be dogmatic and didactic.”"
+  },
+  {
+   "n": 71,
+   "para": 44,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Your thesis! Are you then making a thesis?”"
+  },
+  {
+   "n": 72,
+   "para": 45,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Without doubt,”"
+  },
+  {
+   "n": 73,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the Jesuit."
+  },
+  {
+   "n": 74,
+   "para": 45,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“In the examination which precedes\nordination, a thesis is always a requisite.”"
+  },
+  {
+   "n": 75,
+   "para": 46,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Ordination!”"
+  },
+  {
+   "n": 76,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan, who could not believe what the hostess\nand Bazin had successively told him; and he gazed, half stupefied, upon\nthe three persons before him."
+  },
+  {
+   "n": 77,
+   "para": 47,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Now,”"
+  },
+  {
+   "n": 78,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued Aramis, taking the same graceful position in his easy\nchair that he would have assumed in bed, and complacently examining his\nhand, which was as white and plump as that of a woman, and which he\nheld in the air to cause the blood to descend,"
+  },
+  {
+   "n": 79,
+   "para": 47,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“now, as you have heard,\nD’Artagnan, Monsieur the Principal is desirous that my thesis should be\ndogmatic, while I, for my part, would rather it should be ideal. This\nis the reason why Monsieur the Principal has proposed to me the\nfollowing subject, which has not yet been treated upon, and in which I\nperceive there is matter for magnificent elaboration—‘_Utraque manus in\nbenedicendo clericis inferioribus necessaria est_.’”"
+  },
+  {
+   "n": 80,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan, whose erudition we are well acquainted with, evinced no\nmore interest on hearing this quotation than he had at that of M. de\nTréville in allusion to the gifts he pretended that D’Artagnan had\nreceived from the Duke of Buckingham."
+  },
+  {
+   "n": 81,
+   "para": 49,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Which means,”"
+  },
+  {
+   "n": 82,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed Aramis, that he might perfectly understand,"
+  },
+  {
+   "n": 83,
+   "para": 49,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“‘The two hands are indispensable for priests of the inferior orders,\nwhen they bestow the benediction.’”"
+  },
+  {
+   "n": 84,
+   "para": 50,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“An admirable subject!”"
+  },
+  {
+   "n": 85,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the Jesuit."
+  },
+  {
+   "n": 86,
+   "para": 51,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Admirable and dogmatic!”"
+  },
+  {
+   "n": 87,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "repeated the curate, who, about as strong as\nD’Artagnan with respect to Latin, carefully watched the Jesuit in order\nto keep step with him, and repeated his words like an echo."
+  },
+  {
+   "n": 88,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As to D’Artagnan, he remained perfectly insensible to the enthusiasm of\nthe two men in black."
+  },
+  {
+   "n": 89,
+   "para": 53,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Yes, admirable! _prorsus admirabile!_”"
+  },
+  {
+   "n": 90,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued Aramis;"
+  },
+  {
+   "n": 91,
+   "para": 53,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“but which\nrequires a profound study of both the Scriptures and the Fathers. Now,\nI have confessed to these learned ecclesiastics, and that in all\nhumility, that the duties of mounting guard and the service of the king\nhave caused me to neglect study a little. I should find myself,\ntherefore, more at my ease, _facilius natans_, in a subject of my own\nchoice, which would be to these hard theological questions what morals\nare to metaphysics in philosophy.”"
+  },
+  {
+   "n": 92,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan began to be tired, and so did the curate."
+  },
+  {
+   "n": 93,
+   "para": 55,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“See what an exordium!”"
+  },
+  {
+   "n": 94,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the Jesuit."
+  },
+  {
+   "n": 95,
+   "para": 56,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Exordium,”"
+  },
+  {
+   "n": 96,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "repeated the curate, for the sake of saying something."
+  },
+  {
+   "n": 97,
+   "para": 56,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“_Quemadmodum inter cœlorum immensitatem_.”"
+  },
+  {
+   "n": 98,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Aramis cast a glance upon D’Artagnan to see what effect all this\nproduced, and found his friend gaping enough to split his jaws."
+  },
+  {
+   "n": 99,
+   "para": 58,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Let us speak French, my father,”"
+  },
+  {
+   "n": 100,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he to the Jesuit;"
+  },
+  {
+   "n": 101,
+   "para": 58,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monsieur\nd’Artagnan will enjoy our conversation better.”"
+  },
+  {
+   "n": 102,
+   "para": 59,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 103,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan;"
+  },
+  {
+   "n": 104,
+   "para": 59,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I am fatigued with reading, and all this\nLatin confuses me.”"
+  },
+  {
+   "n": 105,
+   "para": 60,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Certainly,”"
+  },
+  {
+   "n": 106,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the Jesuit, a little put out, while the curate,\ngreatly delighted, turned upon D’Artagnan a look full of gratitude."
+  },
+  {
+   "n": 107,
+   "para": 60,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Well, let us see what is to be derived from this gloss. Moses, the\nservant of God—he was but a servant, please to understand—Moses blessed\nwith the hands; he held out both his arms while the Hebrews beat their\nenemies, and then he blessed them with his two hands. Besides, what\ndoes the Gospel say? _Imponite manus_, and not _manum_—place the\n_hands_, not the _hand_.”"
+  },
+  {
+   "n": 108,
+   "para": 61,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Place the _hands_,”"
+  },
+  {
+   "n": 109,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "repeated the curate, with a gesture."
+  },
+  {
+   "n": 110,
+   "para": 62,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“St. Peter, on the contrary, of whom the Popes are the successors,”"
+  },
+  {
+   "n": 111,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the Jesuit;"
+  },
+  {
+   "n": 112,
+   "para": 62,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“_porrige digitos_—present the fingers. Are you\nthere, now?”"
+  },
+  {
+   "n": 113,
+   "para": 63,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“_Certes_,”"
+  },
+  {
+   "n": 114,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis, in a pleased tone,"
+  },
+  {
+   "n": 115,
+   "para": 63,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“but the thing is\nsubtle.”"
+  },
+  {
+   "n": 116,
+   "para": 64,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The _fingers_,”"
+  },
+  {
+   "n": 117,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed the Jesuit,"
+  },
+  {
+   "n": 118,
+   "para": 64,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“St. Peter blessed with the\n_fingers_. The Pope, therefore blesses with the fingers. And with how\nmany fingers does he bless? With _three_ fingers, to be sure—one for\nthe Father, one for the Son, and one for the Holy Ghost.”"
+  },
+  {
+   "n": 119,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "All crossed themselves. D’Artagnan thought it was proper to follow this\nexample."
+  },
+  {
+   "n": 120,
+   "para": 66,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“The Pope is the successor of St. Peter, and represents the three\ndivine powers; the rest—_ordines inferiores_—of the ecclesiastical\nhierarchy bless in the name of the holy archangels and angels. The most\nhumble clerks such as our deacons and sacristans, bless with holy water\nsprinklers, which resemble an infinite number of blessing fingers.\nThere is the subject simplified. _Argumentum omni denudatum ornamento_.\nI could make of that subject two volumes the size of this,”"
+  },
+  {
+   "n": 121,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued\nthe Jesuit; and in his enthusiasm he struck a St. Chrysostom in folio,\nwhich made the table bend beneath its weight."
+  },
+  {
+   "n": 122,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan trembled."
+  },
+  {
+   "n": 123,
+   "para": 68,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“_Certes_,”"
+  },
+  {
+   "n": 124,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis,"
+  },
+  {
+   "n": 125,
+   "para": 68,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I do justice to the beauties of this thesis;\nbut at the same time I perceive it would be overwhelming for me. I had\nchosen this text—tell me, dear D’Artagnan, if it is not to your\ntaste—‘_Non inutile est desiderium in oblatione_’; that is, ‘A little\nregret is not unsuitable in an offering to the Lord.’”"
+  },
+  {
+   "n": 126,
+   "para": 69,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Stop there!”"
+  },
+  {
+   "n": 127,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the Jesuit,"
+  },
+  {
+   "n": 128,
+   "para": 69,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“for that thesis touches closely upon\nheresy. There is a proposition almost like it in the _Augustinus_ of\nthe heresiarch Jansenius, whose book will sooner or later be burned by\nthe hands of the executioner. Take care, my young friend. You are\ninclining toward false doctrines, my young friend; you will be lost.”"
+  },
+  {
+   "n": 129,
+   "para": 70,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“You will be lost,”"
+  },
+  {
+   "n": 130,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the curate, shaking his head sorrowfully."
+  },
+  {
+   "n": 131,
+   "para": 71,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You approach that famous point of free will which is a mortal rock.\nYou face the insinuations of the Pelagians and the semi-Pelagians.”"
+  },
+  {
+   "n": 132,
+   "para": 72,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“But, my Reverend—”"
+  },
+  {
+   "n": 133,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis, a little amazed by the shower of\narguments that poured upon his head."
+  },
+  {
+   "n": 134,
+   "para": 73,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“How will you prove,”"
+  },
+  {
+   "n": 135,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the Jesuit, without allowing him time\nto speak,"
+  },
+  {
+   "n": 136,
+   "para": 73,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“that we ought to regret the world when we offer ourselves to\nGod? Listen to this dilemma: God is God, and the world is the devil. To\nregret the world is to regret the devil; that is my conclusion.”"
+  },
+  {
+   "n": 137,
+   "para": 74,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And that is mine also,”"
+  },
+  {
+   "n": 138,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the curate."
+  },
+  {
+   "n": 139,
+   "para": 75,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“But, for heaven’s sake—”"
+  },
+  {
+   "n": 140,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed Aramis."
+  },
+  {
+   "n": 141,
+   "para": 76,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“_Desideras diabolum_, unhappy man!”"
+  },
+  {
+   "n": 142,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the Jesuit."
+  },
+  {
+   "n": 143,
+   "para": 77,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“He regrets the devil! Ah, my young friend,”"
+  },
+  {
+   "n": 144,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added the curate,\ngroaning,"
+  },
+  {
+   "n": 145,
+   "para": 77,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“do not regret the devil, I implore you!”"
+  },
+  {
+   "n": 146,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan felt himself bewildered. It seemed to him as though he were\nin a madhouse, and was becoming as mad as those he saw. He was,\nhowever, forced to hold his tongue from not comprehending half the\nlanguage they employed."
+  },
+  {
+   "n": 147,
+   "para": 79,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“But listen to me, then,”"
+  },
+  {
+   "n": 148,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed Aramis with politeness mingled with a\nlittle impatience."
+  },
+  {
+   "n": 149,
+   "para": 79,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I do not say I regret; no, I will never pronounce\nthat sentence, which would not be orthodox.”"
+  },
+  {
+   "n": 150,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The Jesuit raised his hands toward heaven, and the curate did the same."
+  },
+  {
+   "n": 151,
+   "para": 81,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“No; but pray grant me that it is acting with an ill grace to offer to\nthe Lord only that with which we are perfectly disgusted! Don’t you\nthink so, D’Artagnan?”"
+  },
+  {
+   "n": 152,
+   "para": 82,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I think so, indeed,”"
+  },
+  {
+   "n": 153,
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried he."
+  },
+  {
+   "n": 154,
+   "para": 83,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The Jesuit and the curate quite started from their chairs."
+  },
+  {
+   "n": 155,
+   "para": 84,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“This is the point of departure; it is a syllogism. The world is not\nwanting in attractions. I quit the world; then I make a sacrifice. Now,\nthe Scripture says positively, ‘Make a sacrifice unto the Lord.’”"
+  },
+  {
+   "n": 156,
+   "para": 85,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“That is true,”"
+  },
+  {
+   "n": 157,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said his antagonists."
+  },
+  {
+   "n": 158,
+   "para": 86,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And then,”"
+  },
+  {
+   "n": 159,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis, pinching his ear to make it red, as he rubbed\nhis hands to make them white,"
+  },
+  {
+   "n": 160,
+   "para": 86,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“and then I made a certain _rondeau_ upon\nit last year, which I showed to Monsieur Voiture, and that great man\npaid me a thousand compliments.”"
+  },
+  {
+   "n": 161,
+   "para": 87,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“A _rondeau!_”"
+  },
+  {
+   "n": 162,
+   "para": 87,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the Jesuit, disdainfully."
+  },
+  {
+   "n": 163,
+   "para": 88,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“A _rondeau!_”"
+  },
+  {
+   "n": 164,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the curate, mechanically."
+  },
+  {
+   "n": 165,
+   "para": 89,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Repeat it! Repeat it!”"
+  },
+  {
+   "n": 166,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan;"
+  },
+  {
+   "n": 167,
+   "para": 89,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“it will make a little\nchange.”"
+  },
+  {
+   "n": 168,
+   "para": 90,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Not so, for it is religious,”"
+  },
+  {
+   "n": 169,
+   "para": 90,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis;"
+  },
+  {
+   "n": 170,
+   "para": 90,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“it is theology in\nverse.”"
+  },
+  {
+   "n": 171,
+   "para": 91,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The devil!”"
+  },
+  {
+   "n": 172,
+   "para": 91,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan."
+  },
+  {
+   "n": 173,
+   "para": 92,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Here it is,”"
+  },
+  {
+   "n": 174,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis, with a little look of diffidence, which,\nhowever, was not exempt from a shade of hypocrisy:"
+  },
+  {
+   "n": 175,
+   "para": 93,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Vous qui pleurez un passé plein de charmes,\n    Et qui trainez des jours infortunés,\n    Tous vos malheurs se verront terminés,\nQuand à Dieu seul vous offrirez vos larmes,\n        Vous qui pleurez!”"
+  },
+  {
+   "n": 176,
+   "para": 94,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“You who weep for pleasures fled,\n    While dragging on a life of care,\n    All your woes will melt in air,\nIf to God your tears are shed,\n        You who weep!”"
+  },
+  {
+   "n": 177,
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan and the curate appeared pleased. The Jesuit persisted in his\nopinion."
+  },
+  {
+   "n": 178,
+   "para": 95,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Beware of a profane taste in your theological style. What\nsays Augustine on this subject: ‘_Severus sit clericorum verbo_.’”"
+  },
+  {
+   "n": 179,
+   "para": 96,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Yes, let the sermon be clear,”"
+  },
+  {
+   "n": 180,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the curate."
+  },
+  {
+   "n": 181,
+   "para": 97,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Now,”"
+  },
+  {
+   "n": 182,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "hastily interrupted the Jesuit, on seeing that his acolyte was\ngoing astray,"
+  },
+  {
+   "n": 183,
+   "para": 97,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“now your thesis would please the ladies; it would have\nthe success of one of Monsieur Patru’s pleadings.”"
+  },
+  {
+   "n": 184,
+   "para": 98,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Please God!”"
+  },
+  {
+   "n": 185,
+   "para": 98,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis, transported."
+  },
+  {
+   "n": 186,
+   "para": 99,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“There it is,”"
+  },
+  {
+   "n": 187,
+   "para": 99,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the Jesuit;"
+  },
+  {
+   "n": 188,
+   "para": 99,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“the world still speaks within you in\na loud voice, _altisimâ voce_. You follow the world, my young friend,\nand I tremble lest grace prove not efficacious.”"
+  },
+  {
+   "n": 189,
+   "para": 100,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Be satisfied, my reverend father, I can answer for myself.”"
+  },
+  {
+   "n": 190,
+   "para": 101,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Mundane presumption!”"
+  },
+  {
+   "n": 191,
+   "para": 102,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I know myself, Father; my resolution is irrevocable.”"
+  },
+  {
+   "n": 192,
+   "para": 103,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Then you persist in continuing that thesis?”"
+  },
+  {
+   "n": 193,
+   "para": 104,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I feel myself called upon to treat that, and no other. I will see\nabout the continuation of it, and tomorrow I hope you will be satisfied\nwith the corrections I shall have made in consequence of your advice.”"
+  },
+  {
+   "n": 194,
+   "para": 105,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Work slowly,”"
+  },
+  {
+   "n": 195,
+   "para": 105,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the curate;"
+  },
+  {
+   "n": 196,
+   "para": 105,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“we leave you in an excellent tone of\nmind.”"
+  },
+  {
+   "n": 197,
+   "para": 106,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Yes, the ground is all sown,”"
+  },
+  {
+   "n": 198,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the Jesuit,"
+  },
+  {
+   "n": 199,
+   "para": 106,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“and we have not to\nfear that one portion of the seed may have fallen upon stone, another\nupon the highway, or that the birds of heaven have eaten the rest,\n_aves cœli comederunt illam_.”"
+  },
+  {
+   "n": 200,
+   "para": 107,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Plague stifle you and your Latin!”"
+  },
+  {
+   "n": 201,
+   "para": 107,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, who began to feel\nall his patience exhausted."
+  },
+  {
+   "n": 202,
+   "para": 108,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Farewell, my son,”"
+  },
+  {
+   "n": 203,
+   "para": 108,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the curate,"
+  },
+  {
+   "n": 204,
+   "para": 108,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“till tomorrow.”"
+  },
+  {
+   "n": 205,
+   "para": 109,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Till tomorrow, rash youth,”"
+  },
+  {
+   "n": 206,
+   "para": 109,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the Jesuit."
+  },
+  {
+   "n": 207,
+   "para": 109,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You promise to become\none of the lights of the Church. Heaven grant that this light prove not\na devouring fire!”"
+  },
+  {
+   "n": 208,
+   "para": 110,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan, who for an hour past had been gnawing his nails with\nimpatience, was beginning to attack the quick."
+  },
+  {
+   "n": 209,
+   "para": 111,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The two men in black rose, bowed to Aramis and D’Artagnan, and advanced\ntoward the door. Bazin, who had been standing listening to all this\ncontroversy with a pious jubilation, sprang toward them, took the\nbreviary of the curate and the missal of the Jesuit, and walked\nrespectfully before them to clear their way."
+  },
+  {
+   "n": 210,
+   "para": 112,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Aramis conducted them to the foot of the stairs, and then immediately\ncame up again to D’Artagnan, whose senses were still in a state of\nconfusion."
+  },
+  {
+   "n": 211,
+   "para": 113,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "When left alone, the two friends at first kept an embarrassed silence.\nIt however became necessary for one of them to break it first, and as\nD’Artagnan appeared determined to leave that honor to his companion,\nAramis said,"
+  },
+  {
+   "n": 212,
+   "para": 113,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“you see that I am returned to my fundamental ideas.”"
+  },
+  {
+   "n": 213,
+   "para": 114,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, efficacious grace has touched you, as that gentleman said just\nnow.”"
+  },
+  {
+   "n": 214,
+   "para": 115,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Oh, these plans of retreat have been formed for a long time. You have\noften heard me speak of them, have you not, my friend?”"
+  },
+  {
+   "n": 215,
+   "para": 116,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes; but I confess I always thought you jested.”"
+  },
+  {
+   "n": 216,
+   "para": 117,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“With such things! Oh, D’Artagnan!”"
+  },
+  {
+   "n": 217,
+   "para": 118,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The devil! Why, people jest with death.”"
+  },
+  {
+   "n": 218,
+   "para": 119,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And people are wrong, D’Artagnan; for death is the door which leads to\nperdition or to salvation.”"
+  },
+  {
+   "n": 219,
+   "para": 120,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Granted; but if you please, let us not theologize, Aramis. You must\nhave had enough for today. As for me, I have almost forgotten the\nlittle Latin I have ever known. Then I confess to you that I have eaten\nnothing since ten o’clock this morning, and I am devilish hungry.”"
+  },
+  {
+   "n": 220,
+   "para": 121,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“We will dine directly, my friend; only you must please to remember\nthat this is Friday. Now, on such a day I can neither eat flesh nor see\nit eaten. If you can be satisfied with my dinner—it consists of cooked\ntetragones and fruits.”"
+  },
+  {
+   "n": 221,
+   "para": 122,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What do you mean by tetragones?”"
+  },
+  {
+   "n": 222,
+   "para": 122,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked D’Artagnan, uneasily."
+  },
+  {
+   "n": 223,
+   "para": 123,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I mean spinach,”"
+  },
+  {
+   "n": 224,
+   "para": 123,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis;"
+  },
+  {
+   "n": 225,
+   "para": 123,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“but on your account I will add some\neggs, and that is a serious infraction of the rule—for eggs are meat,\nsince they engender chickens.”"
+  },
+  {
+   "n": 226,
+   "para": 124,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“This feast is not very succulent; but never mind, I will put up with\nit for the sake of remaining with you.”"
+  },
+  {
+   "n": 227,
+   "para": 125,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I am grateful to you for the sacrifice,”"
+  },
+  {
+   "n": 228,
+   "para": 125,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis;"
+  },
+  {
+   "n": 229,
+   "para": 125,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“but if your\nbody be not greatly benefited by it, be assured your soul will.”"
+  },
+  {
+   "n": 230,
+   "para": 126,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And so, Aramis, you are decidedly going into the Church? What will our\ntwo friends say? What will Monsieur de Tréville say? They will treat\nyou as a deserter, I warn you.”"
+  },
+  {
+   "n": 231,
+   "para": 127,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I do not enter the Church; I re-enter it. I deserted the Church for\nthe world, for you know that I forced myself when I became a\nMusketeer.”"
+  },
+  {
+   "n": 232,
+   "para": 128,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I? I know nothing about it.”"
+  },
+  {
+   "n": 233,
+   "para": 129,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“You don’t know I quit the seminary?”"
+  },
+  {
+   "n": 234,
+   "para": 130,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Not at all.”"
+  },
+  {
+   "n": 235,
+   "para": 131,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“This is my story, then. Besides, the Scriptures say, ‘Confess\nyourselves to one another,’ and I confess to you, D’Artagnan.”"
+  },
+  {
+   "n": 236,
+   "para": 132,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And I give you absolution beforehand. You see I am a good sort of a\nman.”"
+  },
+  {
+   "n": 237,
+   "para": 133,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Do not jest about holy things, my friend.”"
+  },
+  {
+   "n": 238,
+   "para": 134,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Go on, then, I listen.”"
+  },
+  {
+   "n": 239,
+   "para": 135,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I had been at the seminary from nine years old; in three days I should\nhave been twenty. I was about to become an abbé, and all was arranged.\nOne evening I went, according to custom, to a house which I frequented\nwith much pleasure: when one is young, what can be expected?—one is\nweak. An officer who saw me, with a jealous eye, reading the _Lives of\nthe Saints_ to the mistress of the house, entered suddenly and without\nbeing announced. That evening I had translated an episode of Judith,\nand had just communicated my verses to the lady, who gave me all sorts\nof compliments, and leaning on my shoulder, was reading them a second\ntime with me. Her pose, which I must admit was rather free, wounded\nthis officer. He said nothing; but when I went out he followed, and\nquickly came up with me. ‘Monsieur the Abbé,’ said he, ‘do you like\nblows with a cane?’ ‘I cannot say, monsieur,’ answered I; ‘no one has\never dared to give me any.’ ‘Well, listen to me, then, Monsieur the\nAbbé! If you venture again into the house in which I have met you this\nevening, I will dare it myself.’ I really think I must have been\nfrightened. I became very pale; I felt my legs fail me; I sought for a\nreply, but could find none—I was silent. The officer waited for his\nreply, and seeing it so long coming, he burst into a laugh, turned upon\nhis heel, and re-entered the house. I returned to the seminary."
+  },
+  {
+   "n": 240,
+   "para": 136,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I am a gentleman born, and my blood is warm, as you may have remarked,\nmy dear D’Artagnan. The insult was terrible, and although unknown to\nthe rest of the world, I felt it live and fester at the bottom of my\nheart. I informed my superiors that I did not feel myself sufficiently\nprepared for ordination, and at my request the ceremony was postponed\nfor a year. I sought out the best fencing master in Paris, I made an\nagreement with him to take a lesson every day, and every day for a year\nI took that lesson. Then, on the anniversary of the day on which I had\nbeen insulted, I hung my cassock on a peg, assumed the costume of a\ncavalier, and went to a ball given by a lady friend of mine and to\nwhich I knew my man was invited. It was in the Rue des\nFrance-Bourgeois, close to La Force. As I expected, my officer was\nthere. I went up to him as he was singing a love ditty and looking\ntenderly at a lady, and interrupted him exactly in the middle of the\nsecond couplet. ‘Monsieur,’ said I, ‘does it still displease you that I\nshould frequent a certain house of La Rue Payenne? And would you still\ncane me if I took it into my head to disobey you? The officer looked at\nme with astonishment, and then said, ‘What is your business with me,\nmonsieur? I do not know you.’ ‘I am,’ said I, ‘the little abbé who\nreads _Lives of the Saints_, and translates Judith into verse.’ ‘Ah,\nah! I recollect now,’ said the officer, in a jeering tone; ‘well, what\ndo you want with me?’ ‘I want you to spare time to take a walk with\nme.’ ‘Tomorrow morning, if you like, with the greatest pleasure.’ ‘No,\nnot tomorrow morning, if you please, but immediately.’ ‘If you\nabsolutely insist.’ ‘I do insist upon it.’ ‘Come, then. Ladies,’ said\nthe officer, ‘do not disturb yourselves; allow me time just to kill\nthis gentleman, and I will return and finish the last couplet.’"
+  },
+  {
+   "n": 241,
+   "para": 137,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“We went out. I took him to the Rue Payenne, to exactly the same spot\nwhere, a year before, at the very same hour, he had paid me the\ncompliment I have related to you. It was a superb moonlight night. We\nimmediately drew, and at the first pass I laid him stark dead.”"
+  },
+  {
+   "n": 242,
+   "para": 138,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The devil!”"
+  },
+  {
+   "n": 243,
+   "para": 138,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 244,
+   "para": 139,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Now,”"
+  },
+  {
+   "n": 245,
+   "para": 139,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued Aramis,"
+  },
+  {
+   "n": 246,
+   "para": 139,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“as the ladies did not see the singer come\nback, and as he was found in the Rue Payenne with a great sword wound\nthrough his body, it was supposed that I had accommodated him thus; and\nthe matter created some scandal which obliged me to renounce the\ncassock for a time. Athos, whose acquaintance I made about that period,\nand Porthos, who had in addition to my lessons taught me some effective\ntricks of fence, prevailed upon me to solicit the uniform of a\nMusketeer. The king entertained great regard for my father, who had\nfallen at the siege of Arras, and the uniform was granted. You may\nunderstand that the moment has come for me to re-enter the bosom of the\nChurch.”"
+  },
+  {
+   "n": 247,
+   "para": 140,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And why today, rather than yesterday or tomorrow? What has happened to\nyou today, to raise all these melancholy ideas?”"
+  },
+  {
+   "n": 248,
+   "para": 141,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“This wound, my dear D’Artagnan, has been a warning to me from heaven.”"
+  },
+  {
+   "n": 249,
+   "para": 142,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“This wound? Bah, it is now nearly healed, and I am sure it is not that\nwhich gives you the most pain.”"
+  },
+  {
+   "n": 250,
+   "para": 143,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“What, then?”"
+  },
+  {
+   "n": 251,
+   "para": 143,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis, blushing."
+  },
+  {
+   "n": 252,
+   "para": 144,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You have one at heart, Aramis, one deeper and more painful—a wound\nmade by a woman.”"
+  },
+  {
+   "n": 253,
+   "para": 145,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The eye of Aramis kindled in spite of himself."
+  },
+  {
+   "n": 254,
+   "para": 146,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Ah,”"
+  },
+  {
+   "n": 255,
+   "para": 146,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he, dissembling his emotion under a feigned carelessness,"
+  },
+  {
+   "n": 256,
+   "para": 146,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“do not talk of such things, and suffer love pains? _Vanitas\nvanitatum!_ According to your idea, then, my brain is turned. And for\nwhom—for some _grisette_, some chambermaid with whom I have trifled in\nsome garrison? Fie!”"
+  },
+  {
+   "n": 257,
+   "para": 147,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Pardon, my dear Aramis, but I thought you carried your eyes higher.”"
+  },
+  {
+   "n": 258,
+   "para": 148,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Higher? And who am I, to nourish such ambition? A poor Musketeer, a\nbeggar, an unknown—who hates slavery, and finds himself ill-placed in\nthe world.”"
+  },
+  {
+   "n": 259,
+   "para": 149,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Aramis, Aramis!”"
+  },
+  {
+   "n": 260,
+   "para": 149,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan, looking at his friend with an air\nof doubt."
+  },
+  {
+   "n": 261,
+   "para": 150,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Dust I am, and to dust I return. Life is full of humiliations and\nsorrows,”"
+  },
+  {
+   "n": 262,
+   "para": 150,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued he, becoming still more melancholy;"
+  },
+  {
+   "n": 263,
+   "para": 150,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“all the ties\nwhich attach him to life break in the hand of man, particularly the\ngolden ties. Oh, my dear D’Artagnan,”"
+  },
+  {
+   "n": 264,
+   "para": 150,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed Aramis, giving to his\nvoice a slight tone of bitterness,"
+  },
+  {
+   "n": 265,
+   "para": 150,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“trust me! Conceal your wounds when\nyou have any; silence is the last joy of the unhappy. Beware of giving\nanyone the clue to your griefs; the curious suck our tears as flies\nsuck the blood of a wounded hart.”"
+  },
+  {
+   "n": 266,
+   "para": 151,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Alas, my dear Aramis,”"
+  },
+  {
+   "n": 267,
+   "para": 151,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, in his turn heaving a profound\nsigh,"
+  },
+  {
+   "n": 268,
+   "para": 151,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“that is my story you are relating!”"
+  },
+  {
+   "n": 269,
+   "para": 152,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“How?”"
+  },
+  {
+   "n": 270,
+   "para": 153,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes; a woman whom I love, whom I adore, has just been torn from me by\nforce. I do not know where she is or whither they have conducted her.\nShe is perhaps a prisoner; she is perhaps dead!”"
+  },
+  {
+   "n": 271,
+   "para": 154,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Yes, but you have at least this consolation, that you can say to\nyourself she has not quit you voluntarily, that if you learn no news of\nher, it is because all communication with you is interdicted; while I—”"
+  },
+  {
+   "n": 272,
+   "para": 155,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well?”"
+  },
+  {
+   "n": 273,
+   "para": 156,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Nothing,”"
+  },
+  {
+   "n": 274,
+   "para": 156,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis,"
+  },
+  {
+   "n": 275,
+   "para": 156,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“nothing.”"
+  },
+  {
+   "n": 276,
+   "para": 157,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“So you renounce the world, then, forever; that is a settled thing—a\nresolution registered!”"
+  },
+  {
+   "n": 277,
+   "para": 158,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Forever! You are my friend today; tomorrow you will be no more to me\nthan a shadow, or rather, even, you will no longer exist. As for the\nworld, it is a sepulcher and nothing else.”"
+  },
+  {
+   "n": 278,
+   "para": 159,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The devil! All this is very sad which you tell me.”"
+  },
+  {
+   "n": 279,
+   "para": 160,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“What will you? My vocation commands me; it carries me away.”"
+  },
+  {
+   "n": 280,
+   "para": 161,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan smiled, but made no answer."
+  },
+  {
+   "n": 281,
+   "para": 162,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Aramis continued,"
+  },
+  {
+   "n": 282,
+   "para": 162,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And yet, while I do belong to the earth, I wish to\nspeak of you—of our friends.”"
+  },
+  {
+   "n": 283,
+   "para": 163,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And on my part,”"
+  },
+  {
+   "n": 284,
+   "para": 163,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 285,
+   "para": 163,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I wished to speak of you, but I\nfind you so completely detached from everything! To love you cry, ‘Fie!\nFriends are shadows! The world is a sepulcher!’”"
+  },
+  {
+   "n": 286,
+   "para": 164,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Alas, you will find it so yourself,”"
+  },
+  {
+   "n": 287,
+   "para": 164,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis, with a sigh."
+  },
+  {
+   "n": 288,
+   "para": 165,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, then, let us say no more about it,”"
+  },
+  {
+   "n": 289,
+   "para": 165,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan;"
+  },
+  {
+   "n": 290,
+   "para": 165,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“and let us\nburn this letter, which, no doubt, announces to you some fresh\ninfidelity of your _grisette_ or your chambermaid.”"
+  },
+  {
+   "n": 291,
+   "para": 166,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“What letter?”"
+  },
+  {
+   "n": 292,
+   "para": 166,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis, eagerly."
+  },
+  {
+   "n": 293,
+   "para": 167,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“A letter which was sent to your abode in your absence, and which was\ngiven to me for you.”"
+  },
+  {
+   "n": 294,
+   "para": 168,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“But from whom is that letter?”"
+  },
+  {
+   "n": 295,
+   "para": 169,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Oh, from some heartbroken waiting woman, some desponding _grisette;_\nfrom Madame de Chevreuse’s chambermaid, perhaps, who was obliged to\nreturn to Tours with her mistress, and who, in order to appear smart\nand attractive, stole some perfumed paper, and sealed her letter with a\nduchess’s coronet.”"
+  },
+  {
+   "n": 296,
+   "para": 170,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“What do you say?”"
+  },
+  {
+   "n": 297,
+   "para": 171,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Hold! I must have lost it,”"
+  },
+  {
+   "n": 298,
+   "para": 171,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the young man maliciously, pretending\nto search for it."
+  },
+  {
+   "n": 299,
+   "para": 171,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But fortunately the world is a sepulcher; the men,\nand consequently the women, are but shadows, and love is a sentiment to\nwhich you cry, ‘Fie! Fie!’”"
+  },
+  {
+   "n": 300,
+   "para": 172,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“D’Artagnan, D’Artagnan,”"
+  },
+  {
+   "n": 301,
+   "para": 172,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis,"
+  },
+  {
+   "n": 302,
+   "para": 172,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“you are killing me!”"
+  },
+  {
+   "n": 303,
+   "para": 173,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, here it is at last!”"
+  },
+  {
+   "n": 304,
+   "para": 173,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, as he drew the letter from\nhis pocket."
+  },
+  {
+   "n": 305,
+   "para": 174,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Aramis made a bound, seized the letter, read it, or rather devoured it,\nhis countenance radiant."
+  },
+  {
+   "n": 306,
+   "para": 175,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“This same waiting maid seems to have an agreeable style,”"
+  },
+  {
+   "n": 307,
+   "para": 175,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the\nmessenger, carelessly."
+  },
+  {
+   "n": 308,
+   "para": 176,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Thanks, D’Artagnan, thanks!”"
+  },
+  {
+   "n": 309,
+   "para": 176,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis, almost in a state of\ndelirium."
+  },
+  {
+   "n": 310,
+   "para": 176,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“She was forced to return to Tours; she is not faithless; she\nstill loves me! Come, my friend, come, let me embrace you. Happiness\nalmost stifles me!”"
+  },
+  {
+   "n": 311,
+   "para": 177,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The two friends began to dance around the venerable St. Chrysostom,\nkicking about famously the sheets of the thesis, which had fallen on\nthe floor."
+  },
+  {
+   "n": 312,
+   "para": 178,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At that moment Bazin entered with the spinach and the omelet."
+  },
+  {
+   "n": 313,
+   "para": 179,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Be off, you wretch!”"
+  },
+  {
+   "n": 314,
+   "para": 179,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis, throwing his skullcap in his face."
+  },
+  {
+   "n": 315,
+   "para": 179,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Return whence you came; take back those horrible vegetables, and that\npoor kickshaw! Order a larded hare, a fat capon, mutton leg dressed\nwith garlic, and four bottles of old Burgundy.”"
+  },
+  {
+   "n": 316,
+   "para": 180,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Bazin, who looked at his master, without comprehending the cause of\nthis change, in a melancholy manner, allowed the omelet to slip into\nthe spinach, and the spinach onto the floor."
+  },
+  {
+   "n": 317,
+   "para": 181,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Now this is the moment to consecrate your existence to the King of\nkings,”"
+  },
+  {
+   "n": 318,
+   "para": 181,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 319,
+   "para": 181,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“if you persist in offering him a civility.\n_Non inutile desiderium oblatione_.”"
+  },
+  {
+   "n": 320,
+   "para": 182,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Go to the devil with your Latin. Let us drink, my dear D’Artagnan,\n_morbleu!_ Let us drink while the wine is fresh! Let us drink heartily,\nand while we do so, tell me a little of what is going on in the world\nyonder.”"
+  }
+ ]
+}

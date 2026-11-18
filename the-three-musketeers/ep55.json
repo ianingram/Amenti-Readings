@@ -1,0 +1,1338 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 55,
+ "chapter": 55,
+ "title": "Captivity: the Fourth Day",
+ "document": "CHAPTER LV",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch55.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Milady de Winter",
+   "cast_as": "Sarah Bernhardt"
+  },
+  {
+   "role": "Lord de Winter",
+   "cast_as": "Henry Hudson"
+  },
+  {
+   "role": "Felton",
+   "cast_as": "John Wesley"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter LV.\nCAPTIVITY: THE FOURTH DAY"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The next day, when Felton entered Milady’s apartment he found her\nstanding, mounted upon a chair, holding in her hands a cord made by\nmeans of torn cambric handkerchiefs, twisted into a kind of rope one\nwith another, and tied at the ends. At the noise Felton made in\nentering, Milady leaped lightly to the ground, and tried to conceal\nbehind her the improvised cord she held in her hand."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The young man was more pale than usual, and his eyes, reddened by want\nof sleep, denoted that he had passed a feverish night. Nevertheless,\nhis brow was armed with a severity more austere than ever."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He advanced slowly toward Milady, who had seated herself, and taking an\nend of the murderous rope which by neglect, or perhaps by design, she\nallowed to be seen,"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“What is this, madame?”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "he asked coldly."
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That? Nothing,”"
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady, smiling with that painful expression\nwhich she knew so well how to give to her smile."
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Ennui is the mortal\nenemy of prisoners; I had ennui, and I amused myself with twisting that\nrope.”"
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton turned his eyes toward the part of the wall of the apartment\nbefore which he had found Milady standing in the armchair in which she\nwas now seated, and over her head he perceived a gilt-headed screw,\nfixed in the wall for the purpose of hanging up clothes or weapons."
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He started, and the prisoner saw that start—for though her eyes were\ncast down, nothing escaped her."
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“What were you doing on that armchair?”"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked he."
+  },
+  {
+   "n": 14,
+   "para": 8,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Of what consequence?”"
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Milady."
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“But,”"
+  },
+  {
+   "n": 17,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Felton,"
+  },
+  {
+   "n": 18,
+   "para": 9,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I wish to know.”"
+  },
+  {
+   "n": 19,
+   "para": 10,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Do not question me,”"
+  },
+  {
+   "n": 20,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the prisoner;"
+  },
+  {
+   "n": 21,
+   "para": 10,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“you know that we who are true\nChristians are forbidden to lie.”"
+  },
+  {
+   "n": 22,
+   "para": 11,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Well, then,”"
+  },
+  {
+   "n": 23,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton,"
+  },
+  {
+   "n": 24,
+   "para": 11,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I will tell you what you were doing, or\nrather what you meant to do; you were going to complete the fatal\nproject you cherish in your mind. Remember, madame, if our God forbids\nfalsehood, he much more severely condemns suicide.”"
+  },
+  {
+   "n": 25,
+   "para": 12,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“When God sees one of his creatures persecuted unjustly, placed between\nsuicide and dishonor, believe me, sir,”"
+  },
+  {
+   "n": 26,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Milady, in a tone of\ndeep conviction,"
+  },
+  {
+   "n": 27,
+   "para": 12,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“God pardons suicide, for then suicide becomes\nmartyrdom.”"
+  },
+  {
+   "n": 28,
+   "para": 13,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“You say either too much or too little; speak, madame. In the name of\nheaven, explain yourself.”"
+  },
+  {
+   "n": 29,
+   "para": 14,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That I may relate my misfortunes for you to treat them as fables; that\nI may tell you my projects for you to go and betray them to my\npersecutor? No, sir. Besides, of what importance to you is the life or\ndeath of a condemned wretch? You are only responsible for my body, is\nit not so? And provided you produce a carcass that may be recognized as\nmine, they will require no more of you; nay, perhaps you will even have\na double reward.”"
+  },
+  {
+   "n": 30,
+   "para": 15,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I, madame, I?”"
+  },
+  {
+   "n": 31,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Felton."
+  },
+  {
+   "n": 32,
+   "para": 15,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“You suppose that I would ever accept the\nprice of your life? Oh, you cannot believe what you say!”"
+  },
+  {
+   "n": 33,
+   "para": 16,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Let me act as I please, Felton, let me act as I please,”"
+  },
+  {
+   "n": 34,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady,\nelated."
+  },
+  {
+   "n": 35,
+   "para": 16,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Every soldier must be ambitious, must he not? You are a\nlieutenant? Well, you will follow me to the grave with the rank of\ncaptain.”"
+  },
+  {
+   "n": 36,
+   "para": 17,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“What have I, then, done to you,”"
+  },
+  {
+   "n": 37,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton, much agitated,"
+  },
+  {
+   "n": 38,
+   "para": 17,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“that you\nshould load me with such a responsibility before God and before men? In\na few days you will be away from this place; your life, madame, will\nthen no longer be under my care, and,”"
+  },
+  {
+   "n": 39,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added he, with a sigh,"
+  },
+  {
+   "n": 40,
+   "para": 17,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“then you\ncan do what you will with it.”"
+  },
+  {
+   "n": 41,
+   "para": 18,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“So,”"
+  },
+  {
+   "n": 42,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady, as if she could not resist giving utterance to a\nholy indignation,"
+  },
+  {
+   "n": 43,
+   "para": 18,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“you, a pious man, you who are called a just man, you\nask but one thing—and that is that you may not be inculpated, annoyed,\nby my death!”"
+  },
+  {
+   "n": 44,
+   "para": 19,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“It is my duty to watch over your life, madame, and I will watch.”"
+  },
+  {
+   "n": 45,
+   "para": 20,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“But do you understand the mission you are fulfilling? Cruel enough, if\nI am guilty; but what name can you give it, what name will the Lord\ngive it, if I am innocent?”"
+  },
+  {
+   "n": 46,
+   "para": 21,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I am a soldier, madame, and fulfill the orders I have received.”"
+  },
+  {
+   "n": 47,
+   "para": 22,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Do you believe, then, that at the day of the Last Judgment God will\nseparate blind executioners from iniquitous judges? You are not willing\nthat I should kill my body, and you make yourself the agent of him who\nwould kill my soul.”"
+  },
+  {
+   "n": 48,
+   "para": 23,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“But I repeat it again to you,”"
+  },
+  {
+   "n": 49,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Felton, in great emotion,"
+  },
+  {
+   "n": 50,
+   "para": 23,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“no\ndanger threatens you; I will answer for Lord de Winter as for myself.”"
+  },
+  {
+   "n": 51,
+   "para": 24,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Dunce,”"
+  },
+  {
+   "n": 52,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady,"
+  },
+  {
+   "n": 53,
+   "para": 24,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“dunce! who dares to answer for another man,\nwhen the wisest, when those most after God’s own heart, hesitate to\nanswer for themselves, and who ranges himself on the side of the\nstrongest and the most fortunate, to crush the weakest and the most\nunfortunate.”"
+  },
+  {
+   "n": 54,
+   "para": 25,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Impossible, madame, impossible,”"
+  },
+  {
+   "n": 55,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured Felton, who felt to the\nbottom of his heart the justness of this argument."
+  },
+  {
+   "n": 56,
+   "para": 25,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“A prisoner, you\nwill not recover your liberty through me; living, you will not lose\nyour life through me.”"
+  },
+  {
+   "n": 57,
+   "para": 26,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 58,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady,"
+  },
+  {
+   "n": 59,
+   "para": 26,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“but I shall lose that which is much dearer to me\nthan life, I shall lose my honor, Felton; and it is you, you whom I\nmake responsible, before God and before men, for my shame and my\ninfamy.”"
+  },
+  {
+   "n": 60,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This time Felton, immovable as he was, or appeared to be, could not\nresist the secret influence which had already taken possession of him.\nTo see this woman, so beautiful, fair as the brightest vision, to see\nher by turns overcome with grief and threatening; to resist at once the\nascendancy of grief and beauty—it was too much for a visionary; it was\ntoo much for a brain weakened by the ardent dreams of an ecstatic\nfaith; it was too much for a heart furrowed by the love of heaven that\nburns, by the hatred of men that devours."
+  },
+  {
+   "n": 61,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady saw the trouble. She felt by intuition the flame of the opposing\npassions which burned with the blood in the veins of the young fanatic.\nAs a skillful general, seeing the enemy ready to surrender, marches\ntoward him with a cry of victory, she rose, beautiful as an antique\npriestess, inspired like a Christian virgin, her arms extended, her\nthroat uncovered, her hair disheveled, holding with one hand her robe\nmodestly drawn over her breast, her look illumined by that fire which\nhad already created such disorder in the veins of the young Puritan,\nand went toward him, crying out with a vehement air, and in her\nmelodious voice, to which on this occasion she communicated a terrible\nenergy:"
+  },
+  {
+   "n": 62,
+   "para": 29,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Let this victim to Baal be sent,\n    To the lions the martyr be thrown!\nThy God shall teach thee to repent!\n    From th’ abyss he’ll give ear to my moan.”"
+  },
+  {
+   "n": 63,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton stood before this strange apparition like one petrified."
+  },
+  {
+   "n": 64,
+   "para": 31,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Who art thou? Who art thou?”"
+  },
+  {
+   "n": 65,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried he, clasping his hands."
+  },
+  {
+   "n": 66,
+   "para": 31,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Art thou a\nmessenger from God; art thou a minister from hell; art thou an angel or\na demon; callest thou thyself Eloa or Astarte?”"
+  },
+  {
+   "n": 67,
+   "para": 32,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Do you not know me, Felton? I am neither an angel nor a demon; I am a\ndaughter of earth, I am a sister of thy faith, that is all.”"
+  },
+  {
+   "n": 68,
+   "para": 33,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Yes, yes!”"
+  },
+  {
+   "n": 69,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton,"
+  },
+  {
+   "n": 70,
+   "para": 33,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I doubted, but now I believe.”"
+  },
+  {
+   "n": 71,
+   "para": 34,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You believe, and still you are an accomplice of that child of Belial\nwho is called Lord de Winter! You believe, and yet you leave me in the\nhands of mine enemies, of the enemy of England, of the enemy of God!\nYou believe, and yet you deliver me up to him who fills and defiles the\nworld with his heresies and debaucheries—to that infamous Sardanapalus\nwhom the blind call the Duke of Buckingham, and whom believers name\nAntichrist!”"
+  },
+  {
+   "n": 72,
+   "para": 35,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I deliver you up to Buckingham? I? what mean you by that?”"
+  },
+  {
+   "n": 73,
+   "para": 36,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“They have eyes,”"
+  },
+  {
+   "n": 74,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady,"
+  },
+  {
+   "n": 75,
+   "para": 36,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“but they see not; ears have they, but\nthey hear not.”"
+  },
+  {
+   "n": 76,
+   "para": 37,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Yes, yes!”"
+  },
+  {
+   "n": 77,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton, passing his hands over his brow, covered with\nsweat, as if to remove his last doubt."
+  },
+  {
+   "n": 78,
+   "para": 37,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Yes, I recognize the voice\nwhich speaks to me in my dreams; yes, I recognize the features of the\nangel who appears to me every night, crying to my soul, which cannot\nsleep: ‘Strike, save England, save thyself—for thou wilt die without\nhaving appeased God!’ Speak, speak!”"
+  },
+  {
+   "n": 79,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Felton,"
+  },
+  {
+   "n": 80,
+   "para": 37,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I can understand\nyou now.”"
+  },
+  {
+   "n": 81,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A flash of terrible joy, but rapid as thought, gleamed from the eyes of\nMilady."
+  },
+  {
+   "n": 82,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "However fugitive this homicide flash, Felton saw it, and started as if\nits light had revealed the abysses of this woman’s heart. He recalled,\nall at once, the warnings of Lord de Winter, the seductions of Milady,\nher first attempts after her arrival. He drew back a step, and hung\ndown his head, without, however, ceasing to look at her, as if,\nfascinated by this strange creature, he could not detach his eyes from\nher eyes."
+  },
+  {
+   "n": 83,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady was not a woman to misunderstand the meaning of this hesitation.\nUnder her apparent emotions her icy coolness never abandoned her.\nBefore Felton replied, and before she should be forced to resume this\nconversation, so difficult to be sustained in the same exalted tone,\nshe let her hands fall; and as if the weakness of the woman overpowered\nthe enthusiasm of the inspired fanatic, she said:"
+  },
+  {
+   "n": 84,
+   "para": 40,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“But no, it is not\nfor me to be the Judith to deliver Bethulia from this Holofernes. The\nsword of the eternal is too heavy for my arm. Allow me, then, to avoid\ndishonor by death; let me take refuge in martyrdom. I do not ask you\nfor liberty, as a guilty one would, nor for vengeance, as would a\npagan. Let me die; that is all. I supplicate you, I implore you on my\nknees—let me die, and my last sigh shall be a blessing for my\npreserver.”"
+  },
+  {
+   "n": 85,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Hearing that voice, so sweet and suppliant, seeing that look, so timid\nand downcast, Felton reproached himself. By degrees the enchantress had\nclothed herself with that magic adornment which she assumed and threw\naside at will; that is to say, beauty, meekness, and tears—and above\nall, the irresistible attraction of mystical voluptuousness, the most\ndevouring of all voluptuousness."
+  },
+  {
+   "n": 86,
+   "para": 42,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Alas!”"
+  },
+  {
+   "n": 87,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton,"
+  },
+  {
+   "n": 88,
+   "para": 42,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I can do but one thing, which is to pity you if\nyou prove to me you are a victim! But Lord de Winter makes cruel\naccusations against you. You are a Christian; you are my sister in\nreligion. I feel myself drawn toward you—I, who have never loved anyone\nbut my benefactor—I who have met with nothing but traitors and impious\nmen. But you, madame, so beautiful in reality, you, so pure in\nappearance, must have committed great iniquities for Lord de Winter to\npursue you thus.”"
+  },
+  {
+   "n": 89,
+   "para": 43,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“They have eyes,”"
+  },
+  {
+   "n": 90,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "repeated Milady, with an accent of indescribable\ngrief,"
+  },
+  {
+   "n": 91,
+   "para": 43,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“but they see not; ears have they, but they hear not.”"
+  },
+  {
+   "n": 92,
+   "para": 44,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“But,”"
+  },
+  {
+   "n": 93,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the young officer,"
+  },
+  {
+   "n": 94,
+   "para": 44,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“speak, then, speak!”"
+  },
+  {
+   "n": 95,
+   "para": 45,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Confide my shame to you,”"
+  },
+  {
+   "n": 96,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady, with the blush of modesty upon\nher countenance,"
+  },
+  {
+   "n": 97,
+   "para": 45,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“for often the crime of one becomes the shame of\nanother—confide my shame to you, a man, and I a woman? Oh,”"
+  },
+  {
+   "n": 98,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued\nshe, placing her hand modestly over her beautiful eyes,"
+  },
+  {
+   "n": 99,
+   "para": 45,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“never!\nnever!—I could not!”"
+  },
+  {
+   "n": 100,
+   "para": 46,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“To me, to a brother?”"
+  },
+  {
+   "n": 101,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton."
+  },
+  {
+   "n": 102,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady looked at him for some time with an expression which the young\nman took for doubt, but which, however, was nothing but observation, or\nrather the wish to fascinate."
+  },
+  {
+   "n": 103,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton, in his turn a suppliant, clasped his hands."
+  },
+  {
+   "n": 104,
+   "para": 49,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Well, then,”"
+  },
+  {
+   "n": 105,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady,"
+  },
+  {
+   "n": 106,
+   "para": 49,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I confide in my brother; I will dare to—”"
+  },
+  {
+   "n": 107,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At this moment the steps of Lord de Winter were heard; but this time\nthe terrible brother-in-law of Milady did not content himself, as on\nthe preceding day, with passing before the door and going away again.\nHe paused, exchanged two words with the sentinel; then the door opened,\nand he appeared."
+  },
+  {
+   "n": 108,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "During the exchange of these two words Felton drew back quickly, and\nwhen Lord de Winter entered, he was several paces from the prisoner."
+  },
+  {
+   "n": 109,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The baron entered slowly, sending a scrutinizing glance from Milady to\nthe young officer."
+  },
+  {
+   "n": 110,
+   "para": 53,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“You have been here a very long time, John,”"
+  },
+  {
+   "n": 111,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he."
+  },
+  {
+   "n": 112,
+   "para": 53,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Has this woman\nbeen relating her crimes to you? In that case I can comprehend the\nlength of the conversation.”"
+  },
+  {
+   "n": 113,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton started; and Milady felt she was lost if she did not come to the\nassistance of the disconcerted Puritan."
+  },
+  {
+   "n": 114,
+   "para": 55,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Ah, you fear your prisoner should escape!”"
+  },
+  {
+   "n": 115,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she."
+  },
+  {
+   "n": 116,
+   "para": 55,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Well, ask your\nworthy jailer what favor I this instant solicited of him.”"
+  },
+  {
+   "n": 117,
+   "para": 56,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“You demanded a favor?”"
+  },
+  {
+   "n": 118,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the baron, suspiciously."
+  },
+  {
+   "n": 119,
+   "para": 57,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, my Lord,”"
+  },
+  {
+   "n": 120,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the young man, confused."
+  },
+  {
+   "n": 121,
+   "para": 58,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“And what favor, pray?”"
+  },
+  {
+   "n": 122,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Lord de Winter."
+  },
+  {
+   "n": 123,
+   "para": 59,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“A knife, which she would return to me through the grating of the door\na minute after she had received it,”"
+  },
+  {
+   "n": 124,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Felton."
+  },
+  {
+   "n": 125,
+   "para": 60,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“There is someone, then, concealed here whose throat this amiable lady\nis desirous of cutting,”"
+  },
+  {
+   "n": 126,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said de Winter, in an ironical, contemptuous\ntone."
+  },
+  {
+   "n": 127,
+   "para": 61,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“There is myself,”"
+  },
+  {
+   "n": 128,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Milady."
+  },
+  {
+   "n": 129,
+   "para": 62,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“I have given you the choice between America and Tyburn,”"
+  },
+  {
+   "n": 130,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Lord\nde Winter."
+  },
+  {
+   "n": 131,
+   "para": 62,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Choose Tyburn, madame. Believe me, the cord is more certain\nthan the knife.”"
+  },
+  {
+   "n": 132,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton grew pale, and made a step forward, remembering that at the\nmoment he entered Milady had a rope in her hand."
+  },
+  {
+   "n": 133,
+   "para": 64,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You are right,”"
+  },
+  {
+   "n": 134,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she,"
+  },
+  {
+   "n": 135,
+   "para": 64,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I have often thought of it.”"
+  },
+  {
+   "n": 136,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then she added\nin a low voice,"
+  },
+  {
+   "n": 137,
+   "para": 64,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“And I will think of it again.”"
+  },
+  {
+   "n": 138,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton felt a shudder run to the marrow of his bones; probably Lord de\nWinter perceived this emotion."
+  },
+  {
+   "n": 139,
+   "para": 66,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Mistrust yourself, John,”"
+  },
+  {
+   "n": 140,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he."
+  },
+  {
+   "n": 141,
+   "para": 66,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I have placed reliance upon you,\nmy friend. Beware! I have warned you! But be of good courage, my lad;\nin three days we shall be delivered from this creature, and where I\nshall send her she can harm nobody.”"
+  },
+  {
+   "n": 142,
+   "para": 67,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You hear him!”"
+  },
+  {
+   "n": 143,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady, with vehemence, so that the baron might\nbelieve she was addressing heaven, and that Felton might understand she\nwas addressing him."
+  },
+  {
+   "n": 144,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Felton lowered his head and reflected."
+  },
+  {
+   "n": 145,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The baron took the young officer by the arm, and turned his head over\nhis shoulder, so as not to lose sight of Milady till he was gone out."
+  },
+  {
+   "n": 146,
+   "para": 70,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Well,”"
+  },
+  {
+   "n": 147,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the prisoner, when the door was shut,"
+  },
+  {
+   "n": 148,
+   "para": 70,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I am not so far\nadvanced as I believed. De Winter has changed his usual stupidity into\na strange prudence. It is the desire of vengeance, and how desire molds\na man! As to Felton, he hesitates. Ah, he is not a man like that cursed\nD’Artagnan. A Puritan only adores virgins, and he adores them by\nclasping his hands. A Musketeer loves women, and he loves them by\nclasping his arms round them.”"
+  },
+  {
+   "n": 149,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady waited, then, with much impatience, for she feared the day would\npass away without her seeing Felton again. At last, in an hour after\nthe scene we have just described, she heard someone speaking in a low\nvoice at the door. Presently the door opened, and she perceived Felton."
+  },
+  {
+   "n": 150,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The young man advanced rapidly into the chamber, leaving the door open\nbehind him, and making a sign to Milady to be silent; his face was much\nagitated."
+  },
+  {
+   "n": 151,
+   "para": 73,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“What do you want with me?”"
+  },
+  {
+   "n": 152,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she."
+  },
+  {
+   "n": 153,
+   "para": 74,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Listen,”"
+  },
+  {
+   "n": 154,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Felton, in a low voice."
+  },
+  {
+   "n": 155,
+   "para": 74,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“I have just sent away the\nsentinel that I might remain here without anybody knowing it, in order\nto speak to you without being overheard. The baron has just related a\nfrightful story to me.”"
+  },
+  {
+   "n": 156,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady assumed her smile of a resigned victim, and shook her head."
+  },
+  {
+   "n": 157,
+   "para": 76,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Either you are a demon,”"
+  },
+  {
+   "n": 158,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued Felton,"
+  },
+  {
+   "n": 159,
+   "para": 76,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“or the baron—my\nbenefactor, my father—is a monster. I have known you four days; I have\nloved him four years. I therefore may hesitate between you. Be not\nalarmed at what I say; I want to be convinced. Tonight, after twelve, I\nwill come and see you, and you shall convince me.”"
+  },
+  {
+   "n": 160,
+   "para": 77,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“No, Felton, no, my brother,”"
+  },
+  {
+   "n": 161,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she;"
+  },
+  {
+   "n": 162,
+   "para": 77,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“the sacrifice is too great,\nand I feel what it must cost you. No, I am lost; do not be lost with\nme. My death will be much more eloquent than my life, and the silence\nof the corpse will convince you much better than the words of the\nprisoner.”"
+  },
+  {
+   "n": 163,
+   "para": 78,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Be silent, madame,”"
+  },
+  {
+   "n": 164,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Felton,"
+  },
+  {
+   "n": 165,
+   "para": 78,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“and do not speak to me thus; I came\nto entreat you to promise me upon your honor, to swear to me by what\nyou hold most sacred, that you will make no attempt upon your life.”"
+  },
+  {
+   "n": 166,
+   "para": 79,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I will not promise,”"
+  },
+  {
+   "n": 167,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady,"
+  },
+  {
+   "n": 168,
+   "para": 79,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“for no one has more respect for a\npromise or an oath than I have; and if I make a promise I must keep\nit.”"
+  },
+  {
+   "n": 169,
+   "para": 80,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Well,”"
+  },
+  {
+   "n": 170,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton,"
+  },
+  {
+   "n": 171,
+   "para": 80,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“only promise till you have seen me again. If,\nwhen you have seen me again, you still persist—well, then you shall be\nfree, and I myself will give you the weapon you desire.”"
+  },
+  {
+   "n": 172,
+   "para": 81,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Well,”"
+  },
+  {
+   "n": 173,
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady,"
+  },
+  {
+   "n": 174,
+   "para": 81,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“for you I will wait.”"
+  },
+  {
+   "n": 175,
+   "para": 82,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Swear.”"
+  },
+  {
+   "n": 176,
+   "para": 83,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I swear it, by our God. Are you satisfied?”"
+  },
+  {
+   "n": 177,
+   "para": 84,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“Well,”"
+  },
+  {
+   "n": 178,
+   "para": 84,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Felton,"
+  },
+  {
+   "n": 179,
+   "para": 84,
+   "role": "Felton",
+   "cast": "John Wesley",
+   "text": "“till tonight.”"
+  },
+  {
+   "n": 180,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And he darted out of the room, shut the door, and waited in the\ncorridor, the soldier’s half-pike in his hand, and as if he had mounted\nguard in his place."
+  },
+  {
+   "n": 181,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The soldier returned, and Felton gave him back his weapon."
+  },
+  {
+   "n": 182,
+   "para": 87,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then, through the grating to which she had drawn near, Milady saw the\nyoung man make a sign with delirious fervor, and depart in an apparent\ntransport of joy."
+  },
+  {
+   "n": 183,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As for her, she returned to her place with a smile of savage contempt\nupon her lips, and repeated, blaspheming, that terrible name of God, by\nwhom she had just sworn without ever having learned to know Him."
+  },
+  {
+   "n": 184,
+   "para": 89,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“My God,”"
+  },
+  {
+   "n": 185,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she,"
+  },
+  {
+   "n": 186,
+   "para": 89,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“what a senseless fanatic! My God, it is I—I—and\nthis fellow who will help me to avenge myself.”"
+  }
+ ]
+}

@@ -1,0 +1,603 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 22,
+ "chapter": 22,
+ "title": "The Ballet of La Merlaison",
+ "document": "CHAPTER XXII",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch22.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Cardinal Richelieu",
+   "cast_as": "Cardinal Richelieu"
+  },
+  {
+   "role": "Louis XIII",
+   "cast_as": "Louis XVI of France"
+  },
+  {
+   "role": "Anne of Austria",
+   "cast_as": "Mary, Queen of Scots"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter XXII.\nTHE BALLET OF LA MERLAISON"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On the morrow, nothing was talked of in Paris but the ball which the\naldermen of the city were to give to the king and queen, and in which\ntheir Majesties were to dance the famous La Merlaison—the favorite\nballet of the king."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Eight days had been occupied in preparations at the Hôtel de Ville for\nthis important evening. The city carpenters had erected scaffolds upon\nwhich the invited ladies were to be placed; the city grocer had\nornamented the chambers with two hundred _flambeaux_ of white wax, a\npiece of luxury unheard of at that period; and twenty violins were\nordered, and the price for them fixed at double the usual rate, upon\ncondition, said the report, that they should be played all night."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At ten o’clock in the morning the Sieur de la Coste, ensign in the\nking’s Guards, followed by two officers and several archers of that\nbody, came to the city registrar, named Clement, and demanded of him\nall the keys of the rooms and offices of the hôtel. These keys were\ngiven up to him instantly. Each of them had a ticket attached to it, by\nwhich it might be recognized; and from that moment the Sieur de la\nCoste was charged with the care of all the doors and all the avenues."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At eleven o’clock came in his turn Duhallier, captain of the Guards,\nbringing with him fifty archers, who were distributed immediately\nthrough the Hôtel de Ville, at the doors assigned them."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At three o’clock came two companies of the Guards, one French, the\nother Swiss. The company of French guards was composed of half of M.\nDuhallier’s men and half of M. Dessessart’s men."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At six in the evening the guests began to come. As fast as they\nentered, they were placed in the grand saloon, on the platforms\nprepared for them."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At nine o’clock Madame la Première Présidente arrived. As next to the\nqueen, she was the most considerable personage of the fête, she was\nreceived by the city officials, and placed in a box opposite to that\nwhich the queen was to occupy."
+  },
+  {
+   "n": 9,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At ten o’clock, the king’s collation, consisting of preserves and other\ndelicacies, was prepared in the little room on the side of the church\nof St. Jean, in front of the silver buffet of the city, which was\nguarded by four archers."
+  },
+  {
+   "n": 10,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At midnight great cries and loud acclamations were heard. It was the\nking, who was passing through the streets which led from the Louvre to\nthe Hôtel de Ville, and which were all illuminated with colored\nlanterns."
+  },
+  {
+   "n": 11,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Immediately the aldermen, clothed in their cloth robes and preceded by\nsix sergeants, each holding a _flambeau_ in his hand, went to attend\nupon the king, whom they met on the steps, where the provost of the\nmerchants made him the speech of welcome—a compliment to which his\nMajesty replied with an apology for coming so late, laying the blame\nupon the cardinal, who had detained him till eleven o’clock, talking of\naffairs of state."
+  },
+  {
+   "n": 12,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "His Majesty, in full dress, was accompanied by his royal Highness, M.\nle Comte de Soissons, by the Grand Prior, by the Duc de Longueville, by\nthe Duc d’Eubœuf, by the Comte d’Harcourt, by the Comte de la\nRoche-Guyon, by M. de Liancourt, by M. de Baradas, by the Comte de\nCramail, and by the Chevalier de Souveray. Everybody noticed that the\nking looked dull and preoccupied."
+  },
+  {
+   "n": 13,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A private room had been prepared for the king and another for Monsieur.\nIn each of these closets were placed masquerade dresses. The same had\nbeen done for the queen and Madame the President. The nobles and ladies\nof their Majesties’ suites were to dress, two by two, in chambers\nprepared for the purpose. Before entering his closet the king desired\nto be informed the moment the cardinal arrived."
+  },
+  {
+   "n": 14,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Half an hour after the entrance of the king, fresh acclamations were\nheard; these announced the arrival of the queen. The aldermen did as\nthey had done before, and preceded by their sergeants, advanced to\nreceive their illustrious guest. The queen entered the great hall; and\nit was remarked that, like the king, she looked dull and even weary."
+  },
+  {
+   "n": 15,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At the moment she entered, the curtain of a small gallery which to that\ntime had been closed, was drawn, and the pale face of the cardinal\nappeared, he being dressed as a Spanish cavalier. His eyes were fixed\nupon those of the queen, and a smile of terrible joy passed over his\nlips; the queen did not wear her diamond studs."
+  },
+  {
+   "n": 16,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The queen remained for a short time to receive the compliments of the\ncity dignitaries and to reply to the salutations of the ladies. All at\nonce the king appeared with the cardinal at one of the doors of the\nhall. The cardinal was speaking to him in a low voice, and the king was\nvery pale."
+  },
+  {
+   "n": 17,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king made his way through the crowd without a mask, and the ribbons\nof his doublet scarcely tied. He went straight to the queen, and in an\naltered voice said,"
+  },
+  {
+   "n": 18,
+   "para": 16,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Why, madame, have you not thought proper to wear\nyour diamond studs, when you know it would give me so much\ngratification?”"
+  },
+  {
+   "n": 19,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The queen cast a glance around her, and saw the cardinal behind, with a\ndiabolical smile on his countenance."
+  },
+  {
+   "n": 20,
+   "para": 18,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Sire,”"
+  },
+  {
+   "n": 21,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the queen, with a faltering voice,"
+  },
+  {
+   "n": 22,
+   "para": 18,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“because, in the\nmidst of such a crowd as this, I feared some accident might happen to\nthem.”"
+  },
+  {
+   "n": 23,
+   "para": 19,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“And you were wrong, madame. If I made you that present it was that you\nmight adorn yourself therewith. I tell you that you were wrong.”"
+  },
+  {
+   "n": 24,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The voice of the king was tremulous with anger. Everybody looked and\nlistened with astonishment, comprehending nothing of what passed."
+  },
+  {
+   "n": 25,
+   "para": 21,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Sire,”"
+  },
+  {
+   "n": 26,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the queen,"
+  },
+  {
+   "n": 27,
+   "para": 21,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“I can send for them to the Louvre, where they\nare, and thus your Majesty’s wishes will be complied with.”"
+  },
+  {
+   "n": 28,
+   "para": 22,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Do so, madame, do so, and that at once; for within an hour the ballet\nwill commence.”"
+  },
+  {
+   "n": 29,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The queen bent in token of submission, and followed the ladies who were\nto conduct her to her room. On his part the king returned to his\napartment."
+  },
+  {
+   "n": 30,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "There was a moment of trouble and confusion in the assembly. Everybody\nhad remarked that something had passed between the king and queen; but\nboth of them had spoken so low that everybody, out of respect, withdrew\nseveral steps, so that nobody had heard anything. The violins began to\nsound with all their might, but nobody listened to them."
+  },
+  {
+   "n": 31,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king came out first from his room. He was in a most elegant hunting\ncostume; and Monsieur and the other nobles were dressed like him. This\nwas the costume that best became the king. So dressed, he really\nappeared the first gentleman of his kingdom."
+  },
+  {
+   "n": 32,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The cardinal drew near to the king, and placed in his hand a small\ncasket. The king opened it, and found in it two diamond studs."
+  },
+  {
+   "n": 33,
+   "para": 27,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“What does this mean?”"
+  },
+  {
+   "n": 34,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "demanded he of the cardinal."
+  },
+  {
+   "n": 35,
+   "para": 28,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Nothing,”"
+  },
+  {
+   "n": 36,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the latter;"
+  },
+  {
+   "n": 37,
+   "para": 28,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“only, if the queen has the studs, which\nI very much doubt, count them, sire, and if you only find ten, ask her\nMajesty who can have stolen from her the two studs that are here.”"
+  },
+  {
+   "n": 38,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king looked at the cardinal as if to interrogate him; but he had\nnot time to address any question to him—a cry of admiration burst from\nevery mouth. If the king appeared to be the first gentleman of his\nkingdom, the queen was without doubt the most beautiful woman in\nFrance."
+  },
+  {
+   "n": 39,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It is true that the habit of a huntress became her admirably. She wore\na beaver hat with blue feathers, a surtout of gray-pearl velvet,\nfastened with diamond clasps, and a petticoat of blue satin,\nembroidered with silver. On her left shoulder sparkled the diamond\nstuds, on a bow of the same color as the plumes and the petticoat."
+  },
+  {
+   "n": 40,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king trembled with joy and the cardinal with vexation; although,\ndistant as they were from the queen, they could not count the studs.\nThe queen had them. The only question was, had she ten or twelve?"
+  },
+  {
+   "n": 41,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At that moment the violins sounded the signal for the ballet. The king\nadvanced toward Madame the President, with whom he was to dance, and\nhis Highness Monsieur with the queen. They took their places, and the\nballet began."
+  },
+  {
+   "n": 42,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king danced facing the queen, and every time he passed by her, he\ndevoured with his eyes those studs of which he could not ascertain the\nnumber. A cold sweat covered the brow of the cardinal."
+  },
+  {
+   "n": 43,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The ballet lasted an hour, and had sixteen _entrées_. The ballet ended\namid the applause of the whole assemblage, and everyone reconducted his\nlady to her place; but the king took advantage of the privilege he had\nof leaving his lady, to advance eagerly toward the queen."
+  },
+  {
+   "n": 44,
+   "para": 35,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“I thank you, madame,”"
+  },
+  {
+   "n": 45,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 46,
+   "para": 35,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“for the deference you have shown to my\nwishes, but I think you want two of the studs, and I bring them back to\nyou.”"
+  },
+  {
+   "n": 47,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "With these words he held out to the queen the two studs the cardinal\nhad given him."
+  },
+  {
+   "n": 48,
+   "para": 37,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“How, sire?”"
+  },
+  {
+   "n": 49,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the young queen, affecting surprise,"
+  },
+  {
+   "n": 50,
+   "para": 37,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“you are giving\nme, then, two more: I shall have fourteen.”"
+  },
+  {
+   "n": 51,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In fact the king counted them, and the twelve studs were all on her\nMajesty’s shoulder."
+  },
+  {
+   "n": 52,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king called the cardinal."
+  },
+  {
+   "n": 53,
+   "para": 40,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“What does this mean, Monsieur Cardinal?”"
+  },
+  {
+   "n": 54,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the king in a severe\ntone."
+  },
+  {
+   "n": 55,
+   "para": 41,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“This means, sire,”"
+  },
+  {
+   "n": 56,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the cardinal,"
+  },
+  {
+   "n": 57,
+   "para": 41,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“that I was desirous of\npresenting her Majesty with these two studs, and that not daring to\noffer them myself, I adopted this means of inducing her to accept\nthem.”"
+  },
+  {
+   "n": 58,
+   "para": 42,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“And I am the more grateful to your Eminence,”"
+  },
+  {
+   "n": 59,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Anne of Austria,\nwith a smile that proved she was not the dupe of this ingenious\ngallantry,"
+  },
+  {
+   "n": 60,
+   "para": 42,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“from being certain that these two studs alone have cost you\nas much as all the others cost his Majesty.”"
+  },
+  {
+   "n": 61,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then saluting the king and the cardinal, the queen resumed her way to\nthe chamber in which she had dressed, and where she was to take off her\ncostume."
+  },
+  {
+   "n": 62,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The attention which we have been obliged to give, during the\ncommencement of the chapter, to the illustrious personages we have\nintroduced into it, has diverted us for an instant from him to whom\nAnne of Austria owed the extraordinary triumph she had obtained over\nthe cardinal; and who, confounded, unknown, lost in the crowd gathered\nat one of the doors, looked on at this scene, comprehensible only to\nfour persons—the king, the queen, his Eminence, and himself."
+  },
+  {
+   "n": 63,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The queen had just regained her chamber, and D’Artagnan was about to\nretire, when he felt his shoulder lightly touched. He turned and saw a\nyoung woman, who made him a sign to follow her. The face of this young\nwoman was covered with a black velvet mask; but notwithstanding this\nprecaution, which was in fact taken rather against others than against\nhim, he at once recognized his usual guide, the light and intelligent\nMme. Bonacieux."
+  },
+  {
+   "n": 64,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On the evening before, they had scarcely seen each other for a moment\nat the apartment of the Swiss guard, Germain, whither D’Artagnan had\nsent for her. The haste which the young woman was in to convey to the\nqueen the excellent news of the happy return of her messenger prevented\nthe two lovers from exchanging more than a few words. D’Artagnan\ntherefore followed Mme. Bonacieux moved by a double sentiment—love and\ncuriosity. All the way, and in proportion as the corridors became more\ndeserted, D’Artagnan wished to stop the young woman, seize her and gaze\nupon her, were it only for a minute; but quick as a bird she glided\nbetween his hands, and when he wished to speak to her, her finger\nplaced upon her mouth, with a little imperative gesture full of grace,\nreminded him that he was under the command of a power which he must\nblindly obey, and which forbade him even to make the slightest\ncomplaint. At length, after winding about for a minute or two, Mme.\nBonacieux opened the door of a closet, which was entirely dark, and led\nD’Artagnan into it. There she made a fresh sign of silence, and opened\na second door concealed by tapestry. The opening of this door disclosed\na brilliant light, and she disappeared."
+  },
+  {
+   "n": 65,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan remained for a moment motionless, asking himself where he\ncould be; but soon a ray of light which penetrated through the chamber,\ntogether with the warm and perfumed air which reached him from the same\naperture, the conversation of two of three ladies in language at once\nrespectful and refined, and the word"
+  },
+  {
+   "n": 66,
+   "para": 47,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Majesty”"
+  },
+  {
+   "n": 67,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "several times repeated,\nindicated clearly that he was in a closet attached to the queen’s\napartment. The young man waited in comparative darkness and listened."
+  },
+  {
+   "n": 68,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The queen appeared cheerful and happy, which seemed to astonish the\npersons who surrounded her and who were accustomed to see her almost\nalways sad and full of care. The queen attributed this joyous feeling\nto the beauty of the fête, to the pleasure she had experienced in the\nballet; and as it is not permissible to contradict a queen, whether she\nsmile or weep, everybody expatiated on the gallantry of the aldermen of\nthe city of Paris."
+  },
+  {
+   "n": 69,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Although D’Artagnan did not at all know the queen, he soon\ndistinguished her voice from the others, at first by a slightly foreign\naccent, and next by that tone of domination naturally impressed upon\nall royal words. He heard her approach and withdraw from the partially\nopen door; and twice or three times he even saw the shadow of a person\nintercept the light."
+  },
+  {
+   "n": 70,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At length a hand and an arm, surpassingly beautiful in their form and\nwhiteness, glided through the tapestry. D’Artagnan at once comprehended\nthat this was his recompense. He cast himself on his knees, seized the\nhand, and touched it respectfully with his lips. Then the hand was\nwithdrawn, leaving in his an object which he perceived to be a ring.\nThe door immediately closed, and D’Artagnan found himself again in\ncomplete obscurity."
+  },
+  {
+   "n": 71,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan placed the ring on his finger, and again waited; it was\nevident that all was not yet over. After the reward of his devotion,\nthat of his love was to come. Besides, although the ballet was danced,\nthe evening had scarcely begun. Supper was to be served at three, and\nthe clock of St. Jean had struck three quarters past two."
+  },
+  {
+   "n": 72,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The sound of voices diminished by degrees in the adjoining chamber. The\ncompany was then heard departing; then the door of the closet in which\nD’Artagnan was, was opened, and Mme. Bonacieux entered."
+  },
+  {
+   "n": 73,
+   "para": 53,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You at last?”"
+  },
+  {
+   "n": 74,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 75,
+   "para": 54,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Silence!”"
+  },
+  {
+   "n": 76,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the young woman, placing her hand upon his lips;"
+  },
+  {
+   "n": 77,
+   "para": 54,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“silence, and go the same way you came!”"
+  },
+  {
+   "n": 78,
+   "para": 55,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But where and when shall I see you again?”"
+  },
+  {
+   "n": 79,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 80,
+   "para": 56,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“A note which you will find at home will tell you. Begone, begone!”"
+  },
+  {
+   "n": 81,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At these words she opened the door of the corridor, and pushed\nD’Artagnan out of the room. D’Artagnan obeyed like a child, without the\nleast resistance or objection, which proved that he was really in love."
+  }
+ ]
+}

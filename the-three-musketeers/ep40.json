@@ -1,0 +1,960 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 40,
+ "chapter": 40,
+ "title": "A Terrible Vision",
+ "document": "CHAPTER XL",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch40.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Athos",
+   "cast_as": "Michel de Montaigne"
+  },
+  {
+   "role": "Aramis",
+   "cast_as": "Napoleon III"
+  },
+  {
+   "role": "Cardinal Richelieu",
+   "cast_as": "Cardinal Richelieu"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter XL.\nA TERRIBLE VISION"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The cardinal leaned his elbow on his manuscript, his cheek upon his\nhand, and looked intently at the young man for a moment. No one had a\nmore searching eye than the Cardinal de Richelieu, and D’Artagnan felt\nthis glance run through his veins like a fever."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He however kept a good countenance, holding his hat in his hand and\nawaiting the good pleasure of his Eminence, without too much assurance,\nbut also without too much humility."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Monsieur,”"
+  },
+  {
+   "n": 5,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the cardinal,"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“are you a D’Artagnan from Béarn?”"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, monseigneur,”"
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the young man."
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“There are several branches of the D’Artagnans at Tarbes and in its\nenvirons,”"
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the cardinal;"
+  },
+  {
+   "n": 11,
+   "para": 5,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“to which do you belong?”"
+  },
+  {
+   "n": 12,
+   "para": 6,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I am the son of him who served in the Religious Wars under the great\nKing Henry, the father of his gracious Majesty.”"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“That is well. It is you who set out seven or eight months ago from\nyour country to seek your fortune in the capital?”"
+  },
+  {
+   "n": 14,
+   "para": 8,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, monseigneur.”"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“You came through Meung, where something befell you. I don’t very well\nknow what, but still something.”"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monseigneur,”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 18,
+   "para": 10,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“this was what happened to me—”"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Never mind, never mind!”"
+  },
+  {
+   "n": 20,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed the cardinal, with a smile which\nindicated that he knew the story as well as he who wished to relate it."
+  },
+  {
+   "n": 21,
+   "para": 11,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“You were recommended to Monsieur de Tréville, were you not?”"
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, monseigneur; but in that unfortunate affair at Meung—”"
+  },
+  {
+   "n": 23,
+   "para": 13,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“The letter was lost,”"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied his Eminence;"
+  },
+  {
+   "n": 25,
+   "para": 13,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“yes, I know that. But\nMonsieur de Tréville is a skilled physiognomist, who knows men at first\nsight; and he placed you in the company of his brother-in-law, Monsieur\nDessessart, leaving you to hope that one day or other you should enter\nthe Musketeers.”"
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monseigneur is correctly informed,”"
+  },
+  {
+   "n": 27,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan."
+  },
+  {
+   "n": 28,
+   "para": 15,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Since that time many things have happened to you. You were walking one\nday behind the Chartreux, when it would have been better if you had\nbeen elsewhere. Then you took with your friends a journey to the waters\nof Forges; they stopped on the road, but you continued yours. That is\nall very simple: you had business in England.”"
+  },
+  {
+   "n": 29,
+   "para": 16,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monseigneur,”"
+  },
+  {
+   "n": 30,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, quite confused,"
+  },
+  {
+   "n": 31,
+   "para": 16,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I went—”"
+  },
+  {
+   "n": 32,
+   "para": 17,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Hunting at Windsor, or elsewhere—that concerns nobody. I know, because\nit is my office to know everything. On your return you were received by\nan august personage, and I perceive with pleasure that you preserve the\nsouvenir she gave you.”"
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan placed his hand upon the queen’s diamond, which he wore, and\nquickly turned the stone inward; but it was too late."
+  },
+  {
+   "n": 34,
+   "para": 19,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“The day after that, you received a visit from Cavois,”"
+  },
+  {
+   "n": 35,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed the\ncardinal."
+  },
+  {
+   "n": 36,
+   "para": 19,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“He went to desire you to come to the palace. You have not\nreturned that visit, and you were wrong.”"
+  },
+  {
+   "n": 37,
+   "para": 20,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monseigneur, I feared I had incurred disgrace with your Eminence.”"
+  },
+  {
+   "n": 38,
+   "para": 21,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“How could that be, monsieur? Could you incur my displeasure by having\nfollowed the orders of your superiors with more intelligence and\ncourage than another would have done? It is the people who do not obey\nthat I punish, and not those who, like you, obey—but too well. As a\nproof, remember the date of the day on which I had you bidden to come\nto me, and seek in your memory for what happened to you that very\nnight.”"
+  },
+  {
+   "n": 39,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "That was the very evening when the abduction of Mme. Bonacieux took\nplace. D’Artagnan trembled; and he likewise recollected that during the\npast half hour the poor woman had passed close to him, without doubt\ncarried away by the same power that had caused her disappearance."
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“In short,”"
+  },
+  {
+   "n": 41,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the cardinal,"
+  },
+  {
+   "n": 42,
+   "para": 23,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“as I have heard nothing of you for\nsome time past, I wished to know what you were doing. Besides, you owe\nme some thanks. You must yourself have remarked how much you have been\nconsidered in all the circumstances.”"
+  },
+  {
+   "n": 43,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan bowed with respect."
+  },
+  {
+   "n": 44,
+   "para": 25,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“That,”"
+  },
+  {
+   "n": 45,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the cardinal,"
+  },
+  {
+   "n": 46,
+   "para": 25,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“arose not only from a feeling of\nnatural equity, but likewise from a plan I have marked out with respect\nto you.”"
+  },
+  {
+   "n": 47,
+   "para": 26,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan became more and more astonished."
+  },
+  {
+   "n": 48,
+   "para": 27,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I wished to explain this plan to you on the day you received my first\ninvitation; but you did not come. Fortunately, nothing is lost by this\ndelay, and you are now about to hear it. Sit down there, before me,\nD’Artagnan; you are gentleman enough not to listen standing.”"
+  },
+  {
+   "n": 49,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And the\ncardinal pointed with his finger to a chair for the young man, who was\nso astonished at what was passing that he awaited a second sign from\nhis interlocutor before he obeyed."
+  },
+  {
+   "n": 50,
+   "para": 28,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“You are brave, Monsieur d’Artagnan,”"
+  },
+  {
+   "n": 51,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued his Eminence;"
+  },
+  {
+   "n": 52,
+   "para": 28,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“you are\nprudent, which is still better. I like men of head and heart. Don’t be\nafraid,”"
+  },
+  {
+   "n": 53,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he, smiling."
+  },
+  {
+   "n": 54,
+   "para": 28,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“By men of heart I mean men of courage. But\nyoung as you are, and scarcely entering into the world, you have\npowerful enemies; if you do not take great heed, they will destroy\nyou.”"
+  },
+  {
+   "n": 55,
+   "para": 29,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Alas, monseigneur!”"
+  },
+  {
+   "n": 56,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the young man,"
+  },
+  {
+   "n": 57,
+   "para": 29,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“very easily, no doubt, for\nthey are strong and well supported, while I am alone.”"
+  },
+  {
+   "n": 58,
+   "para": 30,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Yes, that’s true; but alone as you are, you have done much already,\nand will do still more, I don’t doubt. Yet you have need, I believe, to\nbe guided in the adventurous career you have undertaken; for, if I\nmistake not, you came to Paris with the ambitious idea of making your\nfortune.”"
+  },
+  {
+   "n": 59,
+   "para": 31,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I am at the age of extravagant hopes, monseigneur,”"
+  },
+  {
+   "n": 60,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan."
+  },
+  {
+   "n": 61,
+   "para": 32,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“There are no extravagant hopes but for fools, monsieur, and you are a\nman of understanding. Now, what would you say to an ensign’s commission\nin my Guards, and a company after the campaign?”"
+  },
+  {
+   "n": 62,
+   "para": 33,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Ah, monseigneur.”"
+  },
+  {
+   "n": 63,
+   "para": 34,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“You accept it, do you not?”"
+  },
+  {
+   "n": 64,
+   "para": 35,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monseigneur,”"
+  },
+  {
+   "n": 65,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan, with an embarrassed air."
+  },
+  {
+   "n": 66,
+   "para": 36,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“How? You refuse?”"
+  },
+  {
+   "n": 67,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the cardinal, with astonishment."
+  },
+  {
+   "n": 68,
+   "para": 37,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I am in his Majesty’s Guards, monseigneur, and I have no reason to be\ndissatisfied.”"
+  },
+  {
+   "n": 69,
+   "para": 38,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“But it appears to me that my Guards—mine—are also his Majesty’s\nGuards; and whoever serves in a French corps serves the king.”"
+  },
+  {
+   "n": 70,
+   "para": 39,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monseigneur, your Eminence has ill understood my words.”"
+  },
+  {
+   "n": 71,
+   "para": 40,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“You want a pretext, do you not? I comprehend. Well, you have this\nexcuse: advancement, the opening campaign, the opportunity which I\noffer you—so much for the world. As regards yourself, the need of\nprotection; for it is fit you should know, Monsieur d’Artagnan, that I\nhave received heavy and serious complaints against you. You do not\nconsecrate your days and nights wholly to the king’s service.”"
+  },
+  {
+   "n": 72,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan colored."
+  },
+  {
+   "n": 73,
+   "para": 42,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“In fact,”"
+  },
+  {
+   "n": 74,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the cardinal, placing his hand upon a bundle of papers,"
+  },
+  {
+   "n": 75,
+   "para": 42,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“I have here a whole pile which concerns you. I know you to be a man of\nresolution; and your services, well directed, instead of leading you to\nill, might be very advantageous to you. Come; reflect, and decide.”"
+  },
+  {
+   "n": 76,
+   "para": 43,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Your goodness confounds me, monseigneur,”"
+  },
+  {
+   "n": 77,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan,"
+  },
+  {
+   "n": 78,
+   "para": 43,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“and I\nam conscious of a greatness of soul in your Eminence that makes me mean\nas an earthworm; but since Monseigneur permits me to speak freely—”"
+  },
+  {
+   "n": 79,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan paused."
+  },
+  {
+   "n": 80,
+   "para": 45,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Yes; speak.”"
+  },
+  {
+   "n": 81,
+   "para": 46,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Then, I will presume to say that all my friends are in the king’s\nMusketeers and Guards, and that by an inconceivable fatality my enemies\nare in the service of your Eminence; I should, therefore, be ill\nreceived here and ill regarded there if I accepted what Monseigneur\noffers me.”"
+  },
+  {
+   "n": 82,
+   "para": 47,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Do you happen to entertain the haughty idea that I have not yet made\nyou an offer equal to your value?”"
+  },
+  {
+   "n": 83,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the cardinal, with a smile of\ndisdain."
+  },
+  {
+   "n": 84,
+   "para": 48,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monseigneur, your Eminence is a hundred times too kind to me; and on\nthe contrary, I think I have not proved myself worthy of your goodness.\nThe siege of La Rochelle is about to be resumed, monseigneur. I shall\nserve under the eye of your Eminence, and if I have the good fortune to\nconduct myself at the siege in such a manner as merits your attention,\nthen I shall at least leave behind me some brilliant action to justify\nthe protection with which you honor me. Everything is best in its time,\nmonseigneur. Hereafter, perhaps, I shall have the right of _giving_\nmyself; at present I shall appear to sell myself.”"
+  },
+  {
+   "n": 85,
+   "para": 49,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“That is to say, you refuse to serve me, monsieur,”"
+  },
+  {
+   "n": 86,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the cardinal,\nwith a tone of vexation, through which, however, might be seen a sort\nof esteem;"
+  },
+  {
+   "n": 87,
+   "para": 49,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“remain free, then, and guard your hatreds and your\nsympathies.”"
+  },
+  {
+   "n": 88,
+   "para": 50,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Monseigneur—”"
+  },
+  {
+   "n": 89,
+   "para": 51,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Well, well,”"
+  },
+  {
+   "n": 90,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the cardinal,"
+  },
+  {
+   "n": 91,
+   "para": 51,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“I don’t wish you any ill; but you\nmust be aware that it is quite trouble enough to defend and recompense\nour friends. We owe nothing to our enemies; and let me give you a piece\nof advice; take care of yourself, Monsieur d’Artagnan, for from the\nmoment I withdraw my hand from behind you, I would not give an _obolus_\nfor your life.”"
+  },
+  {
+   "n": 92,
+   "para": 52,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I will try to do so, monseigneur,”"
+  },
+  {
+   "n": 93,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the Gascon, with a noble\nconfidence."
+  },
+  {
+   "n": 94,
+   "para": 53,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Remember at a later period and at a certain moment, if any mischance\nshould happen to you,”"
+  },
+  {
+   "n": 95,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Richelieu, significantly,"
+  },
+  {
+   "n": 96,
+   "para": 53,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“that it was I\nwho came to seek you, and that I did all in my power to prevent this\nmisfortune befalling you.”"
+  },
+  {
+   "n": 97,
+   "para": 54,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I shall entertain, whatever may happen,”"
+  },
+  {
+   "n": 98,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, placing his\nhand upon his breast and bowing,"
+  },
+  {
+   "n": 99,
+   "para": 54,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“an eternal gratitude toward your\nEminence for that which you now do for me.”"
+  },
+  {
+   "n": 100,
+   "para": 55,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Well, let it be, then, as you have said, Monsieur d’Artagnan; we shall\nsee each other again after the campaign. I will have my eye upon you,\nfor I shall be there,”"
+  },
+  {
+   "n": 101,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the cardinal, pointing with his finger\nto a magnificent suit of armor he was to wear,"
+  },
+  {
+   "n": 102,
+   "para": 55,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“and on our return,\nwell—we will settle our account!”"
+  },
+  {
+   "n": 103,
+   "para": 56,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Ah, monseigneur,”"
+  },
+  {
+   "n": 104,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan,"
+  },
+  {
+   "n": 105,
+   "para": 56,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“spare me the weight of your\ndispleasure. Remain neutral monseigneur, if you find that I act as\nbecomes a gallant man.”"
+  },
+  {
+   "n": 106,
+   "para": 57,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Young man,”"
+  },
+  {
+   "n": 107,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Richelieu,"
+  },
+  {
+   "n": 108,
+   "para": 57,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“if I shall be able to say to you at\nanother time what I have said to you today, I promise you to do so.”"
+  },
+  {
+   "n": 109,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This last expression of Richelieu’s conveyed a terrible doubt; it\nalarmed D’Artagnan more than a menace would have done, for it was a\nwarning. The cardinal, then, was seeking to preserve him from some\nmisfortune which threatened him. He opened his mouth to reply, but with\na haughty gesture the cardinal dismissed him."
+  },
+  {
+   "n": 110,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan went out, but at the door his heart almost failed him, and\nhe felt inclined to return. Then the noble and severe countenance of\nAthos crossed his mind; if he made the compact with the cardinal which\nhe required, Athos would no more give him his hand—Athos would renounce\nhim."
+  },
+  {
+   "n": 111,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It was this fear that restrained him, so powerful is the influence of a\ntruly great character on all that surrounds it."
+  },
+  {
+   "n": 112,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan descended by the staircase at which he had entered, and\nfound Athos and the four Musketeers waiting his appearance, and\nbeginning to grow uneasy. With a word, D’Artagnan reassured them; and\nPlanchet ran to inform the other sentinels that it was useless to keep\nguard longer, as his master had come out safe from the Palais-Cardinal."
+  },
+  {
+   "n": 113,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Returned home with Athos, Aramis and Porthos inquired eagerly the cause\nof the strange interview; but D’Artagnan confined himself to telling\nthem that M. de Richelieu had sent for him to propose to him to enter\ninto his guards with the rank of ensign, and that he had refused."
+  },
+  {
+   "n": 114,
+   "para": 63,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And you were right,”"
+  },
+  {
+   "n": 115,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis and Porthos, with one voice."
+  },
+  {
+   "n": 116,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Athos fell into a profound reverie and answered nothing. But when they\nwere alone he said,"
+  },
+  {
+   "n": 117,
+   "para": 64,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“You have done that which you ought to have done,\nD’Artagnan; but perhaps you have been wrong.”"
+  },
+  {
+   "n": 118,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan sighed deeply, for this voice responded to a secret voice of\nhis soul, which told him that great misfortunes awaited him."
+  },
+  {
+   "n": 119,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The whole of the next day was spent in preparations for departure.\nD’Artagnan went to take leave of M. de Tréville. At that time it was\nbelieved that the separation of the Musketeers and the Guards would be\nbut momentary, the king holding his Parliament that very day and\nproposing to set out the day after. M. de Tréville contented himself\nwith asking D’Artagnan if he could do anything for him, but D’Artagnan\nanswered that he was supplied with all he wanted."
+  },
+  {
+   "n": 120,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "That night brought together all those comrades of the Guards of M.\nDessessart and the company of Musketeers of M. de Tréville who had been\naccustomed to associate together. They were parting to meet again when\nit pleased God, and if it pleased God. That night, then, was somewhat\nriotous, as may be imagined. In such cases extreme preoccupation is\nonly to be combated by extreme carelessness."
+  },
+  {
+   "n": 121,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At the first sound of the morning trumpet the friends separated; the\nMusketeers hastening to the hôtel of M. de Tréville, the Guards to that\nof M. Dessessart. Each of the captains then led his company to the\nLouvre, where the king held his review."
+  },
+  {
+   "n": 122,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king was dull and appeared ill, which detracted a little from his\nusual lofty bearing. In fact, the evening before, a fever had seized\nhim in the midst of the Parliament, while he was holding his Bed of\nJustice. He had, not the less, decided upon setting out that same\nevening; and in spite of the remonstrances that had been offered to\nhim, he persisted in having the review, hoping by setting it at\ndefiance to conquer the disease which began to lay hold upon him."
+  },
+  {
+   "n": 123,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The review over, the Guards set forward alone on their march, the\nMusketeers waiting for the king, which allowed Porthos time to go and\ntake a turn in his superb equipment in the Rue aux Ours."
+  },
+  {
+   "n": 124,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The procurator’s wife saw him pass in his new uniform and on his fine\nhorse. She loved Porthos too dearly to allow him to part thus; she made\nhim a sign to dismount and come to her. Porthos was magnificent; his\nspurs jingled, his cuirass glittered, his sword knocked proudly against\nhis ample limbs. This time the clerks evinced no inclination to laugh,\nsuch a real ear clipper did Porthos appear."
+  },
+  {
+   "n": 125,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The Musketeer was introduced to M. Coquenard, whose little gray eyes\nsparkled with anger at seeing his cousin all blazing new. Nevertheless,\none thing afforded him inward consolation; it was expected by everybody\nthat the campaign would be a severe one. He whispered a hope to himself\nthat this beloved relative might be killed in the field."
+  },
+  {
+   "n": 126,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Porthos paid his compliments to M. Coquenard and bade him farewell. M.\nCoquenard wished him all sorts of prosperities. As to Mme. Coquenard,\nshe could not restrain her tears; but no evil impressions were taken\nfrom her grief as she was known to be very much attached to her\nrelatives, about whom she was constantly having serious disputes with\nher husband."
+  },
+  {
+   "n": 127,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But the real adieux were made in Mme. Coquenard’s chamber; they were\nheartrending."
+  },
+  {
+   "n": 128,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As long as the procurator’s wife could follow him with her eyes, she\nwaved her handkerchief to him, leaning so far out of the window as to\nlead people to believe she wished to precipitate herself. Porthos\nreceived all these attentions like a man accustomed to such\ndemonstrations, only on turning the corner of the street he lifted his\nhat gracefully, and waved it to her as a sign of adieu."
+  },
+  {
+   "n": 129,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On his part Aramis wrote a long letter. To whom? Nobody knew. Kitty,\nwho was to set out that evening for Tours, was waiting in the next\nchamber."
+  },
+  {
+   "n": 130,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Athos sipped the last bottle of his Spanish wine."
+  },
+  {
+   "n": 131,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In the meantime D’Artagnan was defiling with his company. Arriving at\nthe Faubourg St. Antoine, he turned round to look gaily at the\nBastille; but as it was the Bastille alone he looked at, he did not\nobserve Milady, who, mounted upon a light chestnut horse, designated\nhim with her finger to two ill-looking men who came close up to the\nranks to take notice of him. To a look of interrogation which they\nmade, Milady replied by a sign that it was he. Then, certain that there\ncould be no mistake in the execution of her orders, she started her\nhorse and disappeared."
+  },
+  {
+   "n": 132,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The two men followed the company, and on leaving the Faubourg St.\nAntoine, mounted two horses properly equipped, which a servant without\nlivery had waiting for them."
+  }
+ ]
+}

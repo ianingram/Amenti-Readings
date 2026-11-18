@@ -1,0 +1,2508 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 63,
+ "chapter": 63,
+ "title": "The Drop of Water",
+ "document": "CHAPTER LXIII",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch63.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Athos",
+   "cast_as": "Michel de Montaigne"
+  },
+  {
+   "role": "Rochefort, the man of Meung",
+   "cast_as": "Voltaire"
+  },
+  {
+   "role": "Milady de Winter",
+   "cast_as": "Sarah Bernhardt"
+  },
+  {
+   "role": "Constance Bonacieux",
+   "cast_as": "George Sand"
+  },
+  {
+   "role": "Lord de Winter",
+   "cast_as": "Henry Hudson"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter LXIII.\nTHE DROP OF WATER"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Rochefort had scarcely departed when Mme. Bonacieux re-entered. She\nfound Milady with a smiling countenance."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“Well,”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the young woman,"
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“what you dreaded has happened. This\nevening, or tomorrow, the cardinal will send someone to take you away.”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Who told you that, my dear?”"
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Milady."
+  },
+  {
+   "n": 8,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“I heard it from the mouth of the messenger himself.”"
+  },
+  {
+   "n": 9,
+   "para": 5,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Come and sit down close to me,”"
+  },
+  {
+   "n": 10,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady."
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“Here I am.”"
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Wait till I assure myself that nobody hears us.”"
+  },
+  {
+   "n": 13,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“Why all these precautions?”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“You shall know.”"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady arose, went to the door, opened it, looked in the corridor, and\nthen returned and seated herself close to Mme. Bonacieux."
+  },
+  {
+   "n": 16,
+   "para": 11,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Then,”"
+  },
+  {
+   "n": 17,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she,"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“he has well played his part.”"
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Who has?”"
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“He who just now presented himself to the abbess as a messenger from\nthe cardinal.”"
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“It was, then, a part he was playing?”"
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Yes, my child.”"
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That man, then, was not—”"
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That man,”"
+  },
+  {
+   "n": 25,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady, lowering her voice,"
+  },
+  {
+   "n": 26,
+   "para": 17,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“is my brother.”"
+  },
+  {
+   "n": 27,
+   "para": 18,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Your brother!”"
+  },
+  {
+   "n": 28,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Mme. Bonacieux."
+  },
+  {
+   "n": 29,
+   "para": 19,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“No one must know this secret, my dear, but yourself. If you reveal it\nto anyone in the world, I shall be lost, and perhaps yourself\nlikewise.”"
+  },
+  {
+   "n": 30,
+   "para": 20,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, my God!”"
+  },
+  {
+   "n": 31,
+   "para": 21,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Listen. This is what has happened: My brother, who was coming to my\nassistance to take me away by force if it were necessary, met with the\nemissary of the cardinal, who was coming in search of me. He followed\nhim. At a solitary and retired part of the road he drew his sword, and\nrequired the messenger to deliver up to him the papers of which he was\nthe bearer. The messenger resisted; my brother killed him.”"
+  },
+  {
+   "n": 32,
+   "para": 22,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh!”"
+  },
+  {
+   "n": 33,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Mme. Bonacieux, shuddering."
+  },
+  {
+   "n": 34,
+   "para": 23,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Remember, that was the only means. Then my brother determined to\nsubstitute cunning for force. He took the papers, and presented himself\nhere as the emissary of the cardinal, and in an hour or two a carriage\nwill come to take me away by the orders of his Eminence.”"
+  },
+  {
+   "n": 35,
+   "para": 24,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“I understand. It is your brother who sends this carriage.”"
+  },
+  {
+   "n": 36,
+   "para": 25,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Exactly; but that is not all. That letter you have received, and which\nyou believe to be from Madame de Chevreuse—”"
+  },
+  {
+   "n": 37,
+   "para": 26,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Well?”"
+  },
+  {
+   "n": 38,
+   "para": 27,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“It is a forgery.”"
+  },
+  {
+   "n": 39,
+   "para": 28,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“How can that be?”"
+  },
+  {
+   "n": 40,
+   "para": 29,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes, a forgery; it is a snare to prevent your making any resistance\nwhen they come to fetch you.”"
+  },
+  {
+   "n": 41,
+   "para": 30,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“But it is D’Artagnan that will come.”"
+  },
+  {
+   "n": 42,
+   "para": 31,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Do not deceive yourself. D’Artagnan and his friends are detained at\nthe siege of La Rochelle.”"
+  },
+  {
+   "n": 43,
+   "para": 32,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“How do you know that?”"
+  },
+  {
+   "n": 44,
+   "para": 33,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“My brother met some emissaries of the cardinal in the uniform of\nMusketeers. You would have been summoned to the gate; you would have\nbelieved yourself about to meet friends; you would have been abducted,\nand conducted back to Paris.”"
+  },
+  {
+   "n": 45,
+   "para": 34,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, my God! My senses fail me amid such a chaos of iniquities. I feel,\nif this continues,”"
+  },
+  {
+   "n": 46,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Mme. Bonacieux, raising her hands to her\nforehead,"
+  },
+  {
+   "n": 47,
+   "para": 34,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“I shall go mad!”"
+  },
+  {
+   "n": 48,
+   "para": 35,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Stop—”"
+  },
+  {
+   "n": 49,
+   "para": 36,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“What?”"
+  },
+  {
+   "n": 50,
+   "para": 37,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I hear a horse’s steps; it is my brother setting off again. I should\nlike to offer him a last salute. Come!”"
+  },
+  {
+   "n": 51,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady opened the window, and made a sign to Mme. Bonacieux to join\nher. The young woman complied."
+  },
+  {
+   "n": 52,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Rochefort passed at a gallop."
+  },
+  {
+   "n": 53,
+   "para": 40,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Adieu, brother!”"
+  },
+  {
+   "n": 54,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady."
+  },
+  {
+   "n": 55,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The chevalier raised his head, saw the two young women, and without\nstopping, waved his hand in a friendly way to Milady."
+  },
+  {
+   "n": 56,
+   "para": 42,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“The good George!”"
+  },
+  {
+   "n": 57,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she, closing the window with an expression of\ncountenance full of affection and melancholy. And she resumed her seat,\nas if plunged in reflections entirely personal."
+  },
+  {
+   "n": 58,
+   "para": 43,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Dear lady,”"
+  },
+  {
+   "n": 59,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Mme. Bonacieux,"
+  },
+  {
+   "n": 60,
+   "para": 43,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“pardon me for interrupting you; but\nwhat do you advise me to do? Good heaven! You have more experience than\nI have. Speak; I will listen.”"
+  },
+  {
+   "n": 61,
+   "para": 44,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“In the first place,”"
+  },
+  {
+   "n": 62,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady,"
+  },
+  {
+   "n": 63,
+   "para": 44,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“it is possible I may be deceived,\nand that D’Artagnan and his friends may really come to your\nassistance.”"
+  },
+  {
+   "n": 64,
+   "para": 45,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, that would be too much!”"
+  },
+  {
+   "n": 65,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Mme. Bonacieux,"
+  },
+  {
+   "n": 66,
+   "para": 45,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“so much happiness\nis not in store for me!”"
+  },
+  {
+   "n": 67,
+   "para": 46,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Then you comprehend it would be only a question of time, a sort of\nrace, which should arrive first. If your friends are the more speedy,\nyou are to be saved; if the satellites of the cardinal, you are lost.”"
+  },
+  {
+   "n": 68,
+   "para": 47,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, yes, yes; lost beyond redemption! What, then, to do? What to do?”"
+  },
+  {
+   "n": 69,
+   "para": 48,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“There would be a very simple means, very natural—”"
+  },
+  {
+   "n": 70,
+   "para": 49,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Tell me what!”"
+  },
+  {
+   "n": 71,
+   "para": 50,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“To wait, concealed in the neighborhood, and assure yourself who are\nthe men who come to ask for you.”"
+  },
+  {
+   "n": 72,
+   "para": 51,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“But where can I wait?”"
+  },
+  {
+   "n": 73,
+   "para": 52,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Oh, there is no difficulty in that. I shall stop and conceal myself a\nfew leagues hence until my brother can rejoin me. Well, I take you with\nme; we conceal ourselves, and wait together.”"
+  },
+  {
+   "n": 74,
+   "para": 53,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“But I shall not be allowed to go; I am almost a prisoner.”"
+  },
+  {
+   "n": 75,
+   "para": 54,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“As they believe that I go in consequence of an order from the\ncardinal, no one will believe you anxious to follow me.”"
+  },
+  {
+   "n": 76,
+   "para": 55,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Well?”"
+  },
+  {
+   "n": 77,
+   "para": 56,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Well! The carriage is at the door; you bid me adieu; you mount the\nstep to embrace me a last time; my brother’s servant, who comes to\nfetch me, is told how to proceed; he makes a sign to the postillion,\nand we set off at a gallop.”"
+  },
+  {
+   "n": 78,
+   "para": 57,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“But D’Artagnan! D’Artagnan! if he comes?”"
+  },
+  {
+   "n": 79,
+   "para": 58,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Shall we not know it?”"
+  },
+  {
+   "n": 80,
+   "para": 59,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“How?”"
+  },
+  {
+   "n": 81,
+   "para": 60,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Nothing easier. We will send my brother’s servant back to Béthune,\nwhom, as I told you, we can trust. He shall assume a disguise, and\nplace himself in front of the convent. If the emissaries of the\ncardinal arrive, he will take no notice; if it is Monsieur d’Artagnan\nand his friends, he will bring them to us.”"
+  },
+  {
+   "n": 82,
+   "para": 61,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“He knows them, then?”"
+  },
+  {
+   "n": 83,
+   "para": 62,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Doubtless. Has he not seen Monsieur d’Artagnan at my house?”"
+  },
+  {
+   "n": 84,
+   "para": 63,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, yes, yes; you are right. Thus all may go well—all may be for the\nbest; but we do not go far from this place?”"
+  },
+  {
+   "n": 85,
+   "para": 64,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Seven or eight leagues at the most. We will keep on the frontiers, for\ninstance; and at the first alarm we can leave France.”"
+  },
+  {
+   "n": 86,
+   "para": 65,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“And what can we do there?”"
+  },
+  {
+   "n": 87,
+   "para": 66,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Wait.”"
+  },
+  {
+   "n": 88,
+   "para": 67,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“But if they come?”"
+  },
+  {
+   "n": 89,
+   "para": 68,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“My brother’s carriage will be here first.”"
+  },
+  {
+   "n": 90,
+   "para": 69,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“If I should happen to be any distance from you when the carriage comes\nfor you—at dinner or supper, for instance?”"
+  },
+  {
+   "n": 91,
+   "para": 70,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Do one thing.”"
+  },
+  {
+   "n": 92,
+   "para": 71,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“What is that?”"
+  },
+  {
+   "n": 93,
+   "para": 72,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Tell your good superior that in order that we may be as much together\nas possible, you ask her permission to share my repast.”"
+  },
+  {
+   "n": 94,
+   "para": 73,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Will she permit it?”"
+  },
+  {
+   "n": 95,
+   "para": 74,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“What inconvenience can it be?”"
+  },
+  {
+   "n": 96,
+   "para": 75,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, delightful! In this way we shall not be separated for an instant.”"
+  },
+  {
+   "n": 97,
+   "para": 76,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Well, go down to her, then, to make your request. I feel my head a\nlittle confused; I will take a turn in the garden.”"
+  },
+  {
+   "n": 98,
+   "para": 77,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Go; and where shall I find you?”"
+  },
+  {
+   "n": 99,
+   "para": 78,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Here, in an hour.”"
+  },
+  {
+   "n": 100,
+   "para": 79,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Here, in an hour. Oh, you are so kind, and I am so grateful!”"
+  },
+  {
+   "n": 101,
+   "para": 80,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“How can I avoid interesting myself for one who is so beautiful and so\namiable? Are you not the beloved of one of my best friends?”"
+  },
+  {
+   "n": 102,
+   "para": 81,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Dear D’Artagnan! Oh, how he will thank you!”"
+  },
+  {
+   "n": 103,
+   "para": 82,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“I hope so. Now, then, all is agreed; let us go down.”"
+  },
+  {
+   "n": 104,
+   "para": 83,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“You are going into the garden?”"
+  },
+  {
+   "n": 105,
+   "para": 84,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes.”"
+  },
+  {
+   "n": 106,
+   "para": 85,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Go along this corridor, down a little staircase, and you are in it.”"
+  },
+  {
+   "n": 107,
+   "para": 86,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Excellent; thank you!”"
+  },
+  {
+   "n": 108,
+   "para": 87,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And the two women parted, exchanging charming smiles."
+  },
+  {
+   "n": 109,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady had told the truth—her head was confused, for her ill-arranged\nplans clashed one another like chaos. She required to be alone that she\nmight put her thoughts a little into order. She saw vaguely the future;\nbut she stood in need of a little silence and quiet to give all her\nideas, as yet confused, a distinct form and a regular plan."
+  },
+  {
+   "n": 110,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "What was most pressing was to get Mme. Bonacieux away, and convey her\nto a place of safety, and there, if matters required, make her a\nhostage. Milady began to have doubts of the issue of this terrible\nduel, in which her enemies showed as much perseverance as she did\nanimosity."
+  },
+  {
+   "n": 111,
+   "para": 90,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Besides, she felt as we feel when a storm is coming on—that this issue\nwas near, and could not fail to be terrible."
+  },
+  {
+   "n": 112,
+   "para": 91,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The principal thing for her, then, was, as we have said, to keep Mme.\nBonacieux in her power. Mme. Bonacieux was the very life of D’Artagnan.\nThis was more than his life, the life of the woman he loved; this was,\nin case of ill fortune, a means of temporizing and obtaining good\nconditions."
+  },
+  {
+   "n": 113,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Now, this point was settled; Mme. Bonacieux, without any suspicion,\naccompanied her. Once concealed with her at Armentières, it would be\neasy to make her believe that D’Artagnan had not come to Béthune. In\nfifteen days at most, Rochefort would be back; besides, during that\nfifteen days she would have time to think how she could best avenge\nherself on the four friends. She would not be weary, thank God! for she\nshould enjoy the sweetest pastime such events could accord a woman of\nher character—perfecting a beautiful vengeance."
+  },
+  {
+   "n": 114,
+   "para": 93,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Revolving all this in her mind, she cast her eyes around her, and\narranged the topography of the garden in her head. Milady was like a\ngood general who contemplates at the same time victory and defeat, and\nwho is quite prepared, according to the chances of the battle, to march\nforward or to beat a retreat."
+  },
+  {
+   "n": 115,
+   "para": 94,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At the end of an hour she heard a soft voice calling her; it was Mme.\nBonacieux’s. The good abbess had naturally consented to her request;\nand as a commencement, they were to sup together."
+  },
+  {
+   "n": 116,
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On reaching the courtyard, they heard the noise of a carriage which\nstopped at the gate."
+  },
+  {
+   "n": 117,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady listened."
+  },
+  {
+   "n": 118,
+   "para": 97,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Do you hear anything?”"
+  },
+  {
+   "n": 119,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she."
+  },
+  {
+   "n": 120,
+   "para": 98,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Yes, the rolling of a carriage.”"
+  },
+  {
+   "n": 121,
+   "para": 99,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“It is the one my brother sends for us.”"
+  },
+  {
+   "n": 122,
+   "para": 100,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, my God!”"
+  },
+  {
+   "n": 123,
+   "para": 101,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Come, come! courage!”"
+  },
+  {
+   "n": 124,
+   "para": 102,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The bell of the convent gate was sounded; Milady was not mistaken."
+  },
+  {
+   "n": 125,
+   "para": 103,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Go to your chamber,”"
+  },
+  {
+   "n": 126,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she to Mme. Bonacieux;"
+  },
+  {
+   "n": 127,
+   "para": 103,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“you have perhaps\nsome jewels you would like to take.”"
+  },
+  {
+   "n": 128,
+   "para": 104,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“I have his letters,”"
+  },
+  {
+   "n": 129,
+   "para": 104,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she."
+  },
+  {
+   "n": 130,
+   "para": 105,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Well, go and fetch them, and come to my apartment. We will snatch some\nsupper; we shall perhaps travel part of the night, and must keep our\nstrength up.”"
+  },
+  {
+   "n": 131,
+   "para": 106,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Great God!”"
+  },
+  {
+   "n": 132,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Mme. Bonacieux, placing her hand upon her bosom,"
+  },
+  {
+   "n": 133,
+   "para": 106,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“my\nheart beats so I cannot walk.”"
+  },
+  {
+   "n": 134,
+   "para": 107,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Courage, courage! remember that in a quarter of an hour you will be\nsafe; and think that what you are about to do is for _his_ sake.”"
+  },
+  {
+   "n": 135,
+   "para": 108,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Yes, yes, everything for him. You have restored my courage by a single\nword; go, I will rejoin you.”"
+  },
+  {
+   "n": 136,
+   "para": 109,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady ran up to her apartment quickly; she there found Rochefort’s\nlackey, and gave him his instructions."
+  },
+  {
+   "n": 137,
+   "para": 110,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He was to wait at the gate; if by chance the Musketeers should appear,\nthe carriage was to set off as fast as possible, pass around the\nconvent, and go and wait for Milady at a little village which was\nsituated at the other side of the wood. In this case Milady would cross\nthe garden and gain the village on foot. As we have already said,\nMilady was admirably acquainted with this part of France."
+  },
+  {
+   "n": 138,
+   "para": 111,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "If the Musketeers did not appear, things were to go on as had been\nagreed; Mme. Bonacieux was to get into the carriage as if to bid her\nadieu, and she was to take away Mme. Bonacieux."
+  },
+  {
+   "n": 139,
+   "para": 112,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Mme. Bonacieux came in; and to remove all suspicion, if she had any,\nMilady repeated to the lackey, before her, the latter part of her\ninstructions."
+  },
+  {
+   "n": 140,
+   "para": 113,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady asked some questions about the carriage. It was a chaise drawn\nby three horses, driven by a postillion; Rochefort’s lackey would\nprecede it, as courier."
+  },
+  {
+   "n": 141,
+   "para": 114,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady was wrong in fearing that Mme. Bonacieux would have any\nsuspicion. The poor young woman was too pure to suppose that any female\ncould be guilty of such perfidy; besides, the name of the Comtesse de\nWinter, which she had heard the abbess pronounce, was wholly unknown to\nher, and she was even ignorant that a woman had had so great and so\nfatal a share in the misfortune of her life."
+  },
+  {
+   "n": 142,
+   "para": 115,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“You see,”"
+  },
+  {
+   "n": 143,
+   "para": 115,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she, when the lackey had gone out,"
+  },
+  {
+   "n": 144,
+   "para": 115,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“everything is\nready. The abbess suspects nothing, and believes that I am taken by\norder of the cardinal. This man goes to give his last orders; take the\nleast thing, drink a finger of wine, and let us be gone.”"
+  },
+  {
+   "n": 145,
+   "para": 116,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 146,
+   "para": 116,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Mme. Bonacieux, mechanically,"
+  },
+  {
+   "n": 147,
+   "para": 116,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“yes, let us be gone.”"
+  },
+  {
+   "n": 148,
+   "para": 117,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady made her a sign to sit down opposite, poured her a small glass\nof Spanish wine, and helped her to the wing of a chicken."
+  },
+  {
+   "n": 149,
+   "para": 118,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“See,”"
+  },
+  {
+   "n": 150,
+   "para": 118,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said she,"
+  },
+  {
+   "n": 151,
+   "para": 118,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“if everything does not second us! Here is night\ncoming on; by daybreak we shall have reached our retreat, and nobody\ncan guess where we are. Come, courage! take something.”"
+  },
+  {
+   "n": 152,
+   "para": 119,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Mme. Bonacieux ate a few mouthfuls mechanically, and just touched the\nglass with her lips."
+  },
+  {
+   "n": 153,
+   "para": 120,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Come, come!”"
+  },
+  {
+   "n": 154,
+   "para": 120,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady, lifting hers to her mouth,"
+  },
+  {
+   "n": 155,
+   "para": 120,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“do as I do.”"
+  },
+  {
+   "n": 156,
+   "para": 121,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But at the moment the glass touched her lips, her hand remained\nsuspended; she heard something on the road which sounded like the\nrattling of a distant gallop. Then it grew nearer, and it seemed to\nher, almost at the same time, that she heard the neighing of horses."
+  },
+  {
+   "n": 157,
+   "para": 122,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This noise acted upon her joy like the storm which awakens the sleeper\nin the midst of a happy dream; she grew pale and ran to the window,\nwhile Mme. Bonacieux, rising all in a tremble, supported herself upon\nher chair to avoid falling. Nothing was yet to be seen, only they heard\nthe galloping draw nearer."
+  },
+  {
+   "n": 158,
+   "para": 123,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, my God!”"
+  },
+  {
+   "n": 159,
+   "para": 123,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Mme. Bonacieux,"
+  },
+  {
+   "n": 160,
+   "para": 123,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“what is that noise?”"
+  },
+  {
+   "n": 161,
+   "para": 124,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“That of either our friends or our enemies,”"
+  },
+  {
+   "n": 162,
+   "para": 124,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady, with her\nterrible coolness."
+  },
+  {
+   "n": 163,
+   "para": 124,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Stay where you are, I will tell you.”"
+  },
+  {
+   "n": 164,
+   "para": 125,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Mme. Bonacieux remained standing, mute, motionless, and pale as a\nstatue."
+  },
+  {
+   "n": 165,
+   "para": 126,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The noise became louder; the horses could not be more than a hundred\nand fifty paces distant. If they were not yet to be seen, it was\nbecause the road made an elbow. The noise became so distinct that the\nhorses might be counted by the rattle of their hoofs."
+  },
+  {
+   "n": 166,
+   "para": 127,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady gazed with all the power of her attention; it was just light\nenough for her to see who was coming."
+  },
+  {
+   "n": 167,
+   "para": 128,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "All at once, at the turning of the road she saw the glitter of laced\nhats and the waving of feathers; she counted two, then five, then eight\nhorsemen. One of them preceded the rest by double the length of his\nhorse."
+  },
+  {
+   "n": 168,
+   "para": 129,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Milady uttered a stifled groan. In the first horseman she recognized\nD’Artagnan."
+  },
+  {
+   "n": 169,
+   "para": 130,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, my God, my God,”"
+  },
+  {
+   "n": 170,
+   "para": 130,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Mme. Bonacieux,"
+  },
+  {
+   "n": 171,
+   "para": 130,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“what is it?”"
+  },
+  {
+   "n": 172,
+   "para": 131,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“It is the uniform of the cardinal’s Guards. Not an instant to be lost!\nFly, fly!”"
+  },
+  {
+   "n": 173,
+   "para": 132,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Yes, yes, let us fly!”"
+  },
+  {
+   "n": 174,
+   "para": 132,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "repeated Mme. Bonacieux, but without being able\nto make a step, glued as she was to the spot by terror."
+  },
+  {
+   "n": 175,
+   "para": 133,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "They heard the horsemen pass under the windows."
+  },
+  {
+   "n": 176,
+   "para": 134,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Come, then, come, then!”"
+  },
+  {
+   "n": 177,
+   "para": 134,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady, trying to drag the young woman\nalong by the arm."
+  },
+  {
+   "n": 178,
+   "para": 134,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Thanks to the garden, we yet can flee; I have the\nkey, but make haste! in five minutes it will be too late!”"
+  },
+  {
+   "n": 179,
+   "para": 135,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Mme. Bonacieux tried to walk, made two steps, and sank upon her knees.\nMilady tried to raise and carry her, but could not do it."
+  },
+  {
+   "n": 180,
+   "para": 136,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At this moment they heard the rolling of the carriage, which at the\napproach of the Musketeers set off at a gallop. Then three or four\nshots were fired."
+  },
+  {
+   "n": 181,
+   "para": 137,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“For the last time, will you come?”"
+  },
+  {
+   "n": 182,
+   "para": 137,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady."
+  },
+  {
+   "n": 183,
+   "para": 138,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, my God, my God! you see my strength fails me; you see plainly I\ncannot walk. Flee alone!”"
+  },
+  {
+   "n": 184,
+   "para": 139,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Flee alone, and leave you here? No, no, never!”"
+  },
+  {
+   "n": 185,
+   "para": 139,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Milady."
+  },
+  {
+   "n": 186,
+   "para": 140,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "All at once she paused, a livid flash darted from her eyes; she ran to\nthe table, emptied into Mme. Bonacieux’s glass the contents of a ring\nwhich she opened with singular quickness. It was a grain of a reddish\ncolor, which dissolved immediately."
+  },
+  {
+   "n": 187,
+   "para": 141,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then, taking the glass with a firm hand, she said,"
+  },
+  {
+   "n": 188,
+   "para": 141,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Drink. This wine\nwill give you strength, drink!”"
+  },
+  {
+   "n": 189,
+   "para": 141,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And she put the glass to the lips of\nthe young woman, who drank mechanically."
+  },
+  {
+   "n": 190,
+   "para": 142,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“This is not the way that I wished to avenge myself,”"
+  },
+  {
+   "n": 191,
+   "para": 142,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Milady,\nreplacing the glass upon the table, with an infernal smile,"
+  },
+  {
+   "n": 192,
+   "para": 142,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“but, my\nfaith! we do what we can!”"
+  },
+  {
+   "n": 193,
+   "para": 142,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And she rushed out of the room."
+  },
+  {
+   "n": 194,
+   "para": 143,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Mme. Bonacieux saw her go without being able to follow her; she was\nlike people who dream they are pursued, and who in vain try to walk."
+  },
+  {
+   "n": 195,
+   "para": 144,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A few moments passed; a great noise was heard at the gate. Every\ninstant Mme. Bonacieux expected to see Milady, but she did not return.\nSeveral times, with terror, no doubt, the cold sweat burst from her\nburning brow."
+  },
+  {
+   "n": 196,
+   "para": 145,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At length she heard the grating of the hinges of the opening gates; the\nnoise of boots and spurs resounded on the stairs. There was a great\nmurmur of voices which continued to draw near, amid which she seemed to\nhear her own name pronounced."
+  },
+  {
+   "n": 197,
+   "para": 146,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "All at once she uttered a loud cry of joy, and darted toward the door;\nshe had recognized the voice of D’Artagnan."
+  },
+  {
+   "n": 198,
+   "para": 147,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“D’Artagnan! D’Artagnan!”"
+  },
+  {
+   "n": 199,
+   "para": 147,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried she,"
+  },
+  {
+   "n": 200,
+   "para": 147,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“is it you? This way! this way!”"
+  },
+  {
+   "n": 201,
+   "para": 148,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Constance? Constance?”"
+  },
+  {
+   "n": 202,
+   "para": 148,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the young man,"
+  },
+  {
+   "n": 203,
+   "para": 148,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“where are you? where\nare you? My God!”"
+  },
+  {
+   "n": 204,
+   "para": 149,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At the same moment the door of the cell yielded to a shock, rather than\nopened; several men rushed into the chamber. Mme. Bonacieux had sunk\ninto an armchair, without the power of moving."
+  },
+  {
+   "n": 205,
+   "para": 150,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan threw down a yet-smoking pistol which he held in his hand,\nand fell on his knees before his mistress. Athos replaced his in his\nbelt; Porthos and Aramis, who held their drawn swords in their hands,\nreturned them to their scabbards."
+  },
+  {
+   "n": 206,
+   "para": 151,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Oh, D’Artagnan, my beloved D’Artagnan! You have come, then, at last!\nYou have not deceived me! It is indeed thee!”"
+  },
+  {
+   "n": 207,
+   "para": 152,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, yes, Constance. Reunited!”"
+  },
+  {
+   "n": 208,
+   "para": 153,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Oh, it was in vain she told me you would not come! I hoped in silence.\nI was not willing to fly. Oh, I have done well! How happy I am!”"
+  },
+  {
+   "n": 209,
+   "para": 154,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At this word _she_, Athos, who had seated himself quietly, started up."
+  },
+  {
+   "n": 210,
+   "para": 155,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“_She!_ What she?”"
+  },
+  {
+   "n": 211,
+   "para": 155,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked D’Artagnan."
+  },
+  {
+   "n": 212,
+   "para": 156,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Why, my companion. She who out of friendship for me wished to take me\nfrom my persecutors. She who, mistaking you for the cardinal’s Guards,\nhas just fled away.”"
+  },
+  {
+   "n": 213,
+   "para": 157,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Your companion!”"
+  },
+  {
+   "n": 214,
+   "para": 157,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan, becoming more pale than the white\nveil of his mistress."
+  },
+  {
+   "n": 215,
+   "para": 157,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Of what companion are you speaking, dear\nConstance?”"
+  },
+  {
+   "n": 216,
+   "para": 158,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Of her whose carriage was at the gate; of a woman who calls herself\nyour friend; of a woman to whom you have told everything.”"
+  },
+  {
+   "n": 217,
+   "para": 159,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Her name, her name!”"
+  },
+  {
+   "n": 218,
+   "para": 159,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 219,
+   "para": 159,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“My God, can you not remember\nher name?”"
+  },
+  {
+   "n": 220,
+   "para": 160,
+   "role": "Milady de Winter",
+   "cast": "Sarah Bernhardt",
+   "text": "“Yes, it was pronounced in my hearing once. Stop—but—it is very\nstrange—oh, my God, my head swims! I cannot see!”"
+  },
+  {
+   "n": 221,
+   "para": 161,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Help, help, my friends! her hands are icy cold,”"
+  },
+  {
+   "n": 222,
+   "para": 161,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 223,
+   "para": 161,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“She is ill! Great God, she is losing her senses!”"
+  },
+  {
+   "n": 224,
+   "para": 162,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "While Porthos was calling for help with all the power of his strong\nvoice, Aramis ran to the table to get a glass of water; but he stopped\nat seeing the horrible alteration that had taken place in the\ncountenance of Athos, who, standing before the table, his hair rising\nfrom his head, his eyes fixed in stupor, was looking at one of the\nglasses, and appeared a prey to the most horrible doubt."
+  },
+  {
+   "n": 225,
+   "para": 163,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Oh!”"
+  },
+  {
+   "n": 226,
+   "para": 163,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 227,
+   "para": 163,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“oh, no, it is impossible! God would not permit such\na crime!”"
+  },
+  {
+   "n": 228,
+   "para": 164,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Water, water!”"
+  },
+  {
+   "n": 229,
+   "para": 164,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 230,
+   "para": 164,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Water!”"
+  },
+  {
+   "n": 231,
+   "para": 165,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Oh, poor woman, poor woman!”"
+  },
+  {
+   "n": 232,
+   "para": 165,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured Athos, in a broken voice."
+  },
+  {
+   "n": 233,
+   "para": 166,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Mme. Bonacieux opened her eyes under the kisses of D’Artagnan."
+  },
+  {
+   "n": 234,
+   "para": 167,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“She revives!”"
+  },
+  {
+   "n": 235,
+   "para": 167,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the young man."
+  },
+  {
+   "n": 236,
+   "para": 167,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Oh, my God, my God, I thank thee!”"
+  },
+  {
+   "n": 237,
+   "para": 168,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Madame!”"
+  },
+  {
+   "n": 238,
+   "para": 168,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 239,
+   "para": 168,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“madame, in the name of heaven, whose empty glass\nis this?”"
+  },
+  {
+   "n": 240,
+   "para": 169,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Mine, monsieur,”"
+  },
+  {
+   "n": 241,
+   "para": 169,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the young woman, in a dying voice."
+  },
+  {
+   "n": 242,
+   "para": 170,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“But who poured the wine for you that was in this glass?”"
+  },
+  {
+   "n": 243,
+   "para": 171,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“She.”"
+  },
+  {
+   "n": 244,
+   "para": 172,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“But who is _she?_”"
+  },
+  {
+   "n": 245,
+   "para": 173,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Oh, I remember!”"
+  },
+  {
+   "n": 246,
+   "para": 173,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Mme. Bonacieux,"
+  },
+  {
+   "n": 247,
+   "para": 173,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“the Comtesse de Winter.”"
+  },
+  {
+   "n": 248,
+   "para": 174,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The four friends uttered one and the same cry, but that of Athos\ndominated all the rest."
+  },
+  {
+   "n": 249,
+   "para": 175,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At that moment the countenance of Mme. Bonacieux became livid; a\nfearful agony pervaded her frame, and she sank panting into the arms of\nPorthos and Aramis."
+  },
+  {
+   "n": 250,
+   "para": 176,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan seized the hands of Athos with an anguish difficult to be\ndescribed."
+  },
+  {
+   "n": 251,
+   "para": 177,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“And what do you believe?”"
+  },
+  {
+   "n": 252,
+   "para": 177,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "His voice was stifled by sobs."
+  },
+  {
+   "n": 253,
+   "para": 178,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“I believe everything,”"
+  },
+  {
+   "n": 254,
+   "para": 178,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos, biting his lips till the blood\nsprang to avoid sighing."
+  },
+  {
+   "n": 255,
+   "para": 179,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“D’Artagnan, D’Artagnan!”"
+  },
+  {
+   "n": 256,
+   "para": 179,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Mme. Bonacieux,"
+  },
+  {
+   "n": 257,
+   "para": 179,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“where art thou? Do not\nleave me! You see I am dying!”"
+  },
+  {
+   "n": 258,
+   "para": 180,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan released the hands of Athos which he still held clasped in\nboth his own, and hastened to her. Her beautiful face was distorted\nwith agony; her glassy eyes had no longer their sight; a convulsive\nshuddering shook her whole body; the sweat rolled from her brow."
+  },
+  {
+   "n": 259,
+   "para": 181,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“In the name of heaven, run, call! Aramis! Porthos! Call for help!”"
+  },
+  {
+   "n": 260,
+   "para": 182,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Useless!”"
+  },
+  {
+   "n": 261,
+   "para": 182,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 262,
+   "para": 182,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“useless! For the poison which _she_ pours there\nis no antidote.”"
+  },
+  {
+   "n": 263,
+   "para": 183,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“Yes, yes! Help, help!”"
+  },
+  {
+   "n": 264,
+   "para": 183,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured Mme. Bonacieux;"
+  },
+  {
+   "n": 265,
+   "para": 183,
+   "role": "Constance Bonacieux",
+   "cast": "George Sand",
+   "text": "“help!”"
+  },
+  {
+   "n": 266,
+   "para": 184,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then, collecting all her strength, she took the head of the young man\nbetween her hands, looked at him for an instant as if her whole soul\npassed into that look, and with a sobbing cry pressed her lips to his."
+  },
+  {
+   "n": 267,
+   "para": 185,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Constance, Constance!”"
+  },
+  {
+   "n": 268,
+   "para": 185,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan."
+  },
+  {
+   "n": 269,
+   "para": 186,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A sigh escaped from the mouth of Mme. Bonacieux, and dwelt for an\ninstant on the lips of D’Artagnan. That sigh was the soul, so chaste\nand so loving, which reascended to heaven."
+  },
+  {
+   "n": 270,
+   "para": 187,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan pressed nothing but a corpse in his arms. The young man\nuttered a cry, and fell by the side of his mistress as pale and as icy\nas herself."
+  },
+  {
+   "n": 271,
+   "para": 188,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Porthos wept; Aramis pointed toward heaven; Athos made the sign of the\ncross."
+  },
+  {
+   "n": 272,
+   "para": 189,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At that moment a man appeared in the doorway, almost as pale as those\nin the chamber. He looked around him and saw Mme. Bonacieux dead, and\nD’Artagnan in a swoon. He appeared just at that moment of stupor which\nfollows great catastrophes."
+  },
+  {
+   "n": 273,
+   "para": 190,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I was not deceived,”"
+  },
+  {
+   "n": 274,
+   "para": 190,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he;"
+  },
+  {
+   "n": 275,
+   "para": 190,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“here is Monsieur d’Artagnan; and you\nare his friends, Messieurs Athos, Porthos, and Aramis.”"
+  },
+  {
+   "n": 276,
+   "para": 191,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The persons whose names were thus pronounced looked at the stranger\nwith astonishment. It seemed to all three that they knew him."
+  },
+  {
+   "n": 277,
+   "para": 192,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Gentlemen,”"
+  },
+  {
+   "n": 278,
+   "para": 192,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed the newcomer,"
+  },
+  {
+   "n": 279,
+   "para": 192,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“you are, as I am, in search of a\nwoman who,”"
+  },
+  {
+   "n": 280,
+   "para": 192,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added he, with a terrible smile,"
+  },
+  {
+   "n": 281,
+   "para": 192,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“must have passed this\nway, for I see a corpse.”"
+  },
+  {
+   "n": 282,
+   "para": 193,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The three friends remained mute—for although the voice as well as the\ncountenance reminded them of someone they had seen, they could not\nremember under what circumstances."
+  },
+  {
+   "n": 283,
+   "para": 194,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Gentlemen,”"
+  },
+  {
+   "n": 284,
+   "para": 194,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the stranger,"
+  },
+  {
+   "n": 285,
+   "para": 194,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“since you do not recognize a man\nwho probably owes his life to you twice, I must name myself. I am Lord\nde Winter, brother-in-law of that _woman_.”"
+  },
+  {
+   "n": 286,
+   "para": 195,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The three friends uttered a cry of surprise."
+  },
+  {
+   "n": 287,
+   "para": 196,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Athos rose, and offering him his hand,"
+  },
+  {
+   "n": 288,
+   "para": 196,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“Be welcome, my Lord,”"
+  },
+  {
+   "n": 289,
+   "para": 196,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 290,
+   "para": 196,
+   "role": "Rochefort, the man of Meung",
+   "cast": "Voltaire",
+   "text": "“you are one of us.”"
+  },
+  {
+   "n": 291,
+   "para": 197,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“I set out five hours after her from Portsmouth,”"
+  },
+  {
+   "n": 292,
+   "para": 197,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Lord de Winter."
+  },
+  {
+   "n": 293,
+   "para": 197,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“I arrived three hours after her at Boulogne. I missed her by twenty\nminutes at St. Omer. Finally, at Lilliers I lost all trace of her. I\nwas going about at random, inquiring of everybody, when I saw you\ngallop past. I recognized Monsieur d’Artagnan. I called to you, but you\ndid not answer me; I wished to follow you, but my horse was too much\nfatigued to go at the same pace with yours. And yet it appears, in\nspite of all your diligence, you have arrived too late.”"
+  },
+  {
+   "n": 294,
+   "para": 198,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“You see!”"
+  },
+  {
+   "n": 295,
+   "para": 198,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos, pointing to Mme. Bonacieux dead, and to\nD’Artagnan, whom Porthos and Aramis were trying to recall to life."
+  },
+  {
+   "n": 296,
+   "para": 199,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Are they both dead?”"
+  },
+  {
+   "n": 297,
+   "para": 199,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Lord de Winter, sternly."
+  },
+  {
+   "n": 298,
+   "para": 200,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“No,”"
+  },
+  {
+   "n": 299,
+   "para": 200,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Athos,"
+  },
+  {
+   "n": 300,
+   "para": 200,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“fortunately Monsieur d’Artagnan has only\nfainted.”"
+  },
+  {
+   "n": 301,
+   "para": 201,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“Ah, indeed, so much the better!”"
+  },
+  {
+   "n": 302,
+   "para": 201,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Lord de Winter."
+  },
+  {
+   "n": 303,
+   "para": 202,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At that moment D’Artagnan opened his eyes. He tore himself from the\narms of Porthos and Aramis, and threw himself like a madman on the\ncorpse of his mistress."
+  },
+  {
+   "n": 304,
+   "para": 203,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Athos rose, walked toward his friend with a slow and solemn step,\nembraced him tenderly, and as he burst into violent sobs, he said to\nhim with his noble and persuasive voice,"
+  },
+  {
+   "n": 305,
+   "para": 203,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Friend, be a man! Women weep\nfor the dead; men avenge them!”"
+  },
+  {
+   "n": 306,
+   "para": 204,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Oh, yes!”"
+  },
+  {
+   "n": 307,
+   "para": 204,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried D’Artagnan,"
+  },
+  {
+   "n": 308,
+   "para": 204,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“yes! If it be to avenge her, I am ready\nto follow you.”"
+  },
+  {
+   "n": 309,
+   "para": 205,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Athos profited by this moment of strength which the hope of vengeance\nrestored to his unfortunate friend to make a sign to Porthos and Aramis\nto go and fetch the superior."
+  },
+  {
+   "n": 310,
+   "para": 206,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The two friends met her in the corridor, greatly troubled and much\nupset by such strange events; she called some of the nuns, who against\nall monastic custom found themselves in the presence of five men."
+  },
+  {
+   "n": 311,
+   "para": 207,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Madame,”"
+  },
+  {
+   "n": 312,
+   "para": 207,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos, passing his arm under that of D’Artagnan,"
+  },
+  {
+   "n": 313,
+   "para": 207,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“we\nabandon to your pious care the body of that unfortunate woman. She was\nan angel on earth before being an angel in heaven. Treat her as one of\nyour sisters. We will return someday to pray over her grave.”"
+  },
+  {
+   "n": 314,
+   "para": 208,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan concealed his face in the bosom of Athos, and sobbed aloud."
+  },
+  {
+   "n": 315,
+   "para": 209,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Weep,”"
+  },
+  {
+   "n": 316,
+   "para": 209,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 317,
+   "para": 209,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“weep, heart full of love, youth, and life! Alas,\nwould I could weep like you!”"
+  },
+  {
+   "n": 318,
+   "para": 210,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And he drew away his friend, as affectionate as a father, as consoling\nas a priest, noble as a man who has suffered much."
+  },
+  {
+   "n": 319,
+   "para": 211,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "All five, followed by their lackeys leading their horses, took their\nway to the town of Béthune, whose outskirts they perceived, and stopped\nbefore the first inn they came to."
+  },
+  {
+   "n": 320,
+   "para": 212,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But,”"
+  },
+  {
+   "n": 321,
+   "para": 212,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 322,
+   "para": 212,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“shall we not pursue that woman?”"
+  },
+  {
+   "n": 323,
+   "para": 213,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Later,”"
+  },
+  {
+   "n": 324,
+   "para": 213,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos."
+  },
+  {
+   "n": 325,
+   "para": 213,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“I have measures to take.”"
+  },
+  {
+   "n": 326,
+   "para": 214,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“She will escape us,”"
+  },
+  {
+   "n": 327,
+   "para": 214,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the young man;"
+  },
+  {
+   "n": 328,
+   "para": 214,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“she will escape us, and\nit will be your fault, Athos.”"
+  },
+  {
+   "n": 329,
+   "para": 215,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“I will be accountable for her,”"
+  },
+  {
+   "n": 330,
+   "para": 215,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos."
+  },
+  {
+   "n": 331,
+   "para": 216,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan had so much confidence in the word of his friend that he\nlowered his head, and entered the inn without reply."
+  },
+  {
+   "n": 332,
+   "para": 217,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Porthos and Aramis regarded each other, not understanding this\nassurance of Athos."
+  },
+  {
+   "n": 333,
+   "para": 218,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Lord de Winter believed he spoke in this manner to soothe the grief of\nD’Artagnan."
+  },
+  {
+   "n": 334,
+   "para": 219,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Now, gentlemen,”"
+  },
+  {
+   "n": 335,
+   "para": 219,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos, when he had ascertained there were five\nchambers free in the hôtel,"
+  },
+  {
+   "n": 336,
+   "para": 219,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“let everyone retire to his own apartment.\nD’Artagnan needs to be alone, to weep and to sleep. I take charge of\neverything; be easy.”"
+  },
+  {
+   "n": 337,
+   "para": 220,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“It appears, however,”"
+  },
+  {
+   "n": 338,
+   "para": 220,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Lord de Winter,"
+  },
+  {
+   "n": 339,
+   "para": 220,
+   "role": "Lord de Winter",
+   "cast": "Henry Hudson",
+   "text": "“if there are any measures\nto take against the countess, it concerns me; she is my sister-in-law.”"
+  },
+  {
+   "n": 340,
+   "para": 221,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“And me,”"
+  },
+  {
+   "n": 341,
+   "para": 221,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 342,
+   "para": 221,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“—she is my wife!”"
+  },
+  {
+   "n": 343,
+   "para": 222,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan smiled—for he understood that Athos was sure of his\nvengeance when he revealed such a secret. Porthos and Aramis looked at\neach other, and grew pale. Lord de Winter thought Athos was mad."
+  },
+  {
+   "n": 344,
+   "para": 223,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Now, retire to your chambers,”"
+  },
+  {
+   "n": 345,
+   "para": 223,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 346,
+   "para": 223,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“and leave me to act. You\nmust perceive that in my quality of a husband this concerns me. Only,\nD’Artagnan, if you have not lost it, give me the paper which fell from\nthat man’s hat, upon which is written the name of the village of—”"
+  },
+  {
+   "n": 347,
+   "para": 224,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Ah,”"
+  },
+  {
+   "n": 348,
+   "para": 224,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 349,
+   "para": 224,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I comprehend! that name written in her hand.”"
+  },
+  {
+   "n": 350,
+   "para": 225,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“You see, then,”"
+  },
+  {
+   "n": 351,
+   "para": 225,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 352,
+   "para": 225,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“there is a god in heaven still!”"
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "work": "the-three-musketeers",
+ "title": "The Three Musketeers",
+ "author": "Alexandre Dumas",
+ "first_published": 1844,
+ "source": "library/alexandre-dumas/the-three-musketeers/ch01.md … ch68.md in Amenti.live · Project Gutenberg #1257 · public domain",
+ "note": "Sixty-seven chapters and the Epilogue. Dumas narrates and speaks the minor parts; the principals are cast from the ledger. Attributions are in REVIEW.md.",
+ "chapters": [
+  {
+   "n": 1,
+   "file": "the-three-musketeers/ep01.json",
+   "document": "CHAPTER I",
+   "summary": "The Three Presents of D’Artagnan the Elder",
+   "status": "scripted"
+  },
+  {
+   "n": 2,
+   "file": "the-three-musketeers/ep02.json",
+   "document": "CHAPTER II",
+   "summary": "The Antechamber of M. de Tréville",
+   "status": "scripted"
+  },
+  {
+   "n": 3,
+   "file": "the-three-musketeers/ep03.json",
+   "document": "CHAPTER III",
+   "summary": "The Audience",
+   "status": "scripted"
+  },
+  {
+   "n": 4,
+   "file": "the-three-musketeers/ep04.json",
+   "document": "CHAPTER IV",
+   "summary": "The Shoulder of Athos, the Baldric of Porthos and the Handkerchief of Aramis",
+   "status": "scripted"
+  },
+  {
+   "n": 5,
+   "file": "the-three-musketeers/ep05.json",
+   "document": "CHAPTER V",
+   "summary": "The King’s Musketeers and the Cardinal’s Guards",
+   "status": "scripted"
+  },
+  {
+   "n": 6,
+   "file": "the-three-musketeers/ep06.json",
+   "document": "CHAPTER VI",
+   "summary": "His Majesty King Louis Xiii",
+   "status": "scripted"
+  },
+  {
+   "n": 7,
+   "file": "the-three-musketeers/ep07.json",
+   "document": "CHAPTER VII",
+   "summary": "The Interior of the Musketeers",
+   "status": "scripted"
+  },
+  {
+   "n": 8,
+   "file": "the-three-musketeers/ep08.json",
+   "document": "CHAPTER VIII",
+   "summary": "Concerning a Court Intrigue",
+   "status": "scripted"
+  },
+  {
+   "n": 9,
+   "file": "the-three-musketeers/ep09.json",
+   "document": "CHAPTER IX",
+   "summary": "D’Artagnan Shows Himself",
+   "status": "scripted"
+  },
+  {
+   "n": 10,
+   "file": "the-three-musketeers/ep10.json",
+   "document": "CHAPTER X",
+   "summary": "A Mousetrap in the Seventeenth Century",
+   "status": "scripted"
+  },
+  {
+   "n": 11,
+   "file": "the-three-musketeers/ep11.json",
+   "document": "CHAPTER XI",
+   "summary": "In which the Plot Thickens",
+   "status": "scripted"
+  },
+  {
+   "n": 12,
+   "file": "the-three-musketeers/ep12.json",
+   "document": "CHAPTER XII",
+   "summary": "George Villiers, Duke of Buckingham",
+   "status": "scripted"
+  },
+  {
+   "n": 13,
+   "file": "the-three-musketeers/ep13.json",
+   "document": "CHAPTER XIII",
+   "summary": "Monsieur Bonacieux",
+   "status": "scripted"
+  },
+  {
+   "n": 14,
+   "file": "the-three-musketeers/ep14.json",
+   "document": "CHAPTER XIV",
+   "summary": "The Man of Meung",
+   "status": "scripted"
+  },
+  {
+   "n": 15,
+   "file": "the-three-musketeers/ep15.json",
+   "document": "CHAPTER XV",
+   "summary": "Men of the Robe and Men of the Sword",
+   "status": "scripted"
+  },
+  {
+   "n": 16,
+   "file": "the-three-musketeers/ep16.json",
+   "document": "CHAPTER XVI",
+   "summary": "In which M. Séguier, Keeper of the Seals, Looks More Than Once for the Bell",
+   "status": "scripted"
+  },
+  {
+   "n": 17,
+   "file": "the-three-musketeers/ep17.json",
+   "document": "CHAPTER XVII",
+   "summary": "Bonacieux at Home",
+   "status": "scripted"
+  },
+  {
+   "n": 18,
+   "file": "the-three-musketeers/ep18.json",
+   "document": "CHAPTER XVIII",
+   "summary": "Lover and Husband",
+   "status": "scripted"
+  },
+  {
+   "n": 19,
+   "file": "the-three-musketeers/ep19.json",
+   "document": "CHAPTER XIX",
+   "summary": "Plan of Campaign",
+   "status": "scripted"
+  },
+  {
+   "n": 20,
+   "file": "the-three-musketeers/ep20.json",
+   "document": "CHAPTER XX",
+   "summary": "The Journey",
+   "status": "scripted"
+  },
+  {
+   "n": 21,
+   "file": "the-three-musketeers/ep21.json",
+   "document": "CHAPTER XXI",
+   "summary": "The Countess De Winter",
+   "status": "scripted"
+  },
+  {
+   "n": 22,
+   "file": "the-three-musketeers/ep22.json",
+   "document": "CHAPTER XXII",
+   "summary": "The Ballet of La Merlaison",
+   "status": "scripted"
+  },
+  {
+   "n": 23,
+   "file": "the-three-musketeers/ep23.json",
+   "document": "CHAPTER XXIII",
+   "summary": "The Rendezvous",
+   "status": "scripted"
+  },
+  {
+   "n": 24,
+   "file": "the-three-musketeers/ep24.json",
+   "document": "CHAPTER XXIV",
+   "summary": "The Pavilion",
+   "status": "scripted"
+  },
+  {
+   "n": 25,
+   "file": "the-three-musketeers/ep25.json",
+   "document": "CHAPTER XXV",
+   "summary": "Porthos",
+   "status": "scripted"
+  },
+  {
+   "n": 26,
+   "file": "the-three-musketeers/ep26.json",
+   "document": "CHAPTER XXVI",
+   "summary": "Aramis and His Thesis",
+   "status": "scripted"
+  },
+  {
+   "n": 27,
+   "file": "the-three-musketeers/ep27.json",
+   "document": "CHAPTER XXVII",
+   "summary": "The Wife of Athos",
+   "status": "scripted"
+  },
+  {
+   "n": 28,
+   "file": "the-three-musketeers/ep28.json",
+   "document": "CHAPTER XXVIII",
+   "summary": "The Return",
+   "status": "scripted"
+  },
+  {
+   "n": 29,
+   "file": "the-three-musketeers/ep29.json",
+   "document": "CHAPTER XXIX",
+   "summary": "Hunting for the Equipments",
+   "status": "scripted"
+  },
+  {
+   "n": 30,
+   "file": "the-three-musketeers/ep30.json",
+   "document": "CHAPTER XXX",
+   "summary": "D’Artagnan and the Englishman",
+   "status": "scripted"
+  },
+  {
+   "n": 31,
+   "file": "the-three-musketeers/ep31.json",
+   "document": "CHAPTER XXXI",
+   "summary": "English and French",
+   "status": "scripted"
+  },
+  {
+   "n": 32,
+   "file": "the-three-musketeers/ep32.json",
+   "document": "CHAPTER XXXII",
+   "summary": "A Procurator’s Dinner",
+   "status": "scripted"
+  },
+  {
+   "n": 33,
+   "file": "the-three-musketeers/ep33.json",
+   "document": "CHAPTER XXXIII",
+   "summary": "Soubrette and Mistress",
+   "status": "scripted"
+  },
+  {
+   "n": 34,
+   "file": "the-three-musketeers/ep34.json",
+   "document": "CHAPTER XXXIV",
+   "summary": "In which the Equipment of Aramis and Porthos is Treated of",
+   "status": "scripted"
+  },
+  {
+   "n": 35,
+   "file": "the-three-musketeers/ep35.json",
+   "document": "CHAPTER XXXV",
+   "summary": "A Gascon a Match for Cupid",
+   "status": "scripted"
+  },
+  {
+   "n": 36,
+   "file": "the-three-musketeers/ep36.json",
+   "document": "CHAPTER XXXVI",
+   "summary": "Dream of Vengeance",
+   "status": "scripted"
+  },
+  {
+   "n": 37,
+   "file": "the-three-musketeers/ep37.json",
+   "document": "CHAPTER XXXVII",
+   "summary": "Milady’s Secret",
+   "status": "scripted"
+  },
+  {
+   "n": 38,
+   "file": "the-three-musketeers/ep38.json",
+   "document": "CHAPTER XXXVIII",
+   "summary": "How, Without Incommding Himself, Athos Procures His Equipment",
+   "status": "scripted"
+  },
+  {
+   "n": 39,
+   "file": "the-three-musketeers/ep39.json",
+   "document": "CHAPTER XXXIX",
+   "summary": "A Vision",
+   "status": "scripted"
+  },
+  {
+   "n": 40,
+   "file": "the-three-musketeers/ep40.json",
+   "document": "CHAPTER XL",
+   "summary": "A Terrible Vision",
+   "status": "scripted"
+  },
+  {
+   "n": 41,
+   "file": "the-three-musketeers/ep41.json",
+   "document": "CHAPTER XLI",
+   "summary": "The Siege of La Rochelle",
+   "status": "scripted"
+  },
+  {
+   "n": 42,
+   "file": "the-three-musketeers/ep42.json",
+   "document": "CHAPTER XLII",
+   "summary": "The Anjou Wine",
+   "status": "scripted"
+  },
+  {
+   "n": 43,
+   "file": "the-three-musketeers/ep43.json",
+   "document": "CHAPTER XLIII",
+   "summary": "The Sign of the Red Dovecot",
+   "status": "scripted"
+  },
+  {
+   "n": 44,
+   "file": "the-three-musketeers/ep44.json",
+   "document": "CHAPTER XLIV",
+   "summary": "The Utility of Stovepipes",
+   "status": "scripted"
+  },
+  {
+   "n": 45,
+   "file": "the-three-musketeers/ep45.json",
+   "document": "CHAPTER XLV",
+   "summary": "A Conjugal Scene",
+   "status": "scripted"
+  },
+  {
+   "n": 46,
+   "file": "the-three-musketeers/ep46.json",
+   "document": "CHAPTER XLVI",
+   "summary": "The Bastion Saint-gervais",
+   "status": "scripted"
+  },
+  {
+   "n": 47,
+   "file": "the-three-musketeers/ep47.json",
+   "document": "CHAPTER XLVII",
+   "summary": "The Council of the Musketeers",
+   "status": "scripted"
+  },
+  {
+   "n": 48,
+   "file": "the-three-musketeers/ep48.json",
+   "document": "CHAPTER XLVIII",
+   "summary": "A Family Affair",
+   "status": "scripted"
+  },
+  {
+   "n": 49,
+   "file": "the-three-musketeers/ep49.json",
+   "document": "CHAPTER XLIX",
+   "summary": "Fatality",
+   "status": "scripted"
+  },
+  {
+   "n": 50,
+   "file": "the-three-musketeers/ep50.json",
+   "document": "CHAPTER L",
+   "summary": "Chat Between Brother and Sister",
+   "status": "scripted"
+  },
+  {
+   "n": 51,
+   "file": "the-three-musketeers/ep51.json",
+   "document": "CHAPTER LI",
+   "summary": "Officer",
+   "status": "scripted"
+  },
+  {
+   "n": 52,
+   "file": "the-three-musketeers/ep52.json",
+   "document": "CHAPTER LII",
+   "summary": "Captivity: the First Day",
+   "status": "scripted"
+  },
+  {
+   "n": 53,
+   "file": "the-three-musketeers/ep53.json",
+   "document": "CHAPTER LIII",
+   "summary": "Captivity: the Second Day",
+   "status": "scripted"
+  },
+  {
+   "n": 54,
+   "file": "the-three-musketeers/ep54.json",
+   "document": "CHAPTER LIV",
+   "summary": "Captivity: the Third Day",
+   "status": "scripted"
+  },
+  {
+   "n": 55,
+   "file": "the-three-musketeers/ep55.json",
+   "document": "CHAPTER LV",
+   "summary": "Captivity: the Fourth Day",
+   "status": "scripted"
+  },
+  {
+   "n": 56,
+   "file": "the-three-musketeers/ep56.json",
+   "document": "CHAPTER LVI",
+   "summary": "Captivity: the Fifth Day",
+   "status": "scripted"
+  },
+  {
+   "n": 57,
+   "file": "the-three-musketeers/ep57.json",
+   "document": "CHAPTER LVII",
+   "summary": "Means for Classical Tragedy",
+   "status": "scripted"
+  },
+  {
+   "n": 58,
+   "file": "the-three-musketeers/ep58.json",
+   "document": "CHAPTER LVIII",
+   "summary": "Escape",
+   "status": "scripted"
+  },
+  {
+   "n": 59,
+   "file": "the-three-musketeers/ep59.json",
+   "document": "CHAPTER LIX",
+   "summary": "What Took Place at Portsmouth August 23, 1628",
+   "status": "scripted"
+  },
+  {
+   "n": 60,
+   "file": "the-three-musketeers/ep60.json",
+   "document": "CHAPTER LX",
+   "summary": "In France",
+   "status": "scripted"
+  },
+  {
+   "n": 61,
+   "file": "the-three-musketeers/ep61.json",
+   "document": "CHAPTER LXI",
+   "summary": "The Carmelite Convent at Béthune",
+   "status": "scripted"
+  },
+  {
+   "n": 62,
+   "file": "the-three-musketeers/ep62.json",
+   "document": "CHAPTER LXII",
+   "summary": "Two Varieties of Demons",
+   "status": "scripted"
+  },
+  {
+   "n": 63,
+   "file": "the-three-musketeers/ep63.json",
+   "document": "CHAPTER LXIII",
+   "summary": "The Drop of Water",
+   "status": "scripted"
+  },
+  {
+   "n": 64,
+   "file": "the-three-musketeers/ep64.json",
+   "document": "CHAPTER LXIV",
+   "summary": "The Man in the Red Cloak",
+   "status": "scripted"
+  },
+  {
+   "n": 65,
+   "file": "the-three-musketeers/ep65.json",
+   "document": "CHAPTER LXV",
+   "summary": "Trial",
+   "status": "scripted"
+  },
+  {
+   "n": 66,
+   "file": "the-three-musketeers/ep66.json",
+   "document": "CHAPTER LXVI",
+   "summary": "Execution",
+   "status": "scripted"
+  },
+  {
+   "n": 67,
+   "file": "the-three-musketeers/ep67.json",
+   "document": "CHAPTER LXVII",
+   "summary": "Conclusion",
+   "status": "scripted"
+  },
+  {
+   "n": 68,
+   "file": "the-three-musketeers/ep68.json",
+   "document": "EPILOGUE",
+   "summary": "Epilogue",
+   "status": "scripted"
+  }
+ ]
+}

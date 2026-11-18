@@ -1,0 +1,1362 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 16,
+ "chapter": 16,
+ "title": "In which M. Séguier, Keeper of the Seals, Looks More Than Once for the Bell",
+ "document": "CHAPTER XVI",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch16.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "Cardinal Richelieu",
+   "cast_as": "Cardinal Richelieu"
+  },
+  {
+   "role": "Louis XIII",
+   "cast_as": "Louis XVI of France"
+  },
+  {
+   "role": "Anne of Austria",
+   "cast_as": "Mary, Queen of Scots"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter XVI.\nIN WHICH M. SÉGUIER, KEEPER OF THE SEALS, LOOKS MORE THAN ONCE FOR THE\nBELL"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It is impossible to form an idea of the impression these few words made\nupon Louis XIII. He grew pale and red alternately; and the cardinal saw\nat once that he had recovered by a single blow all the ground he had\nlost."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Buckingham in Paris!”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried he,"
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“and why does he come?”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“To conspire, no doubt, with your enemies, the Huguenots and the\nSpaniards.”"
+  },
+  {
+   "n": 7,
+   "para": 4,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“No, _pardieu_, no! To conspire against my honor with Madame de\nChevreuse, Madame de Longueville, and the Condés.”"
+  },
+  {
+   "n": 8,
+   "para": 5,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Oh, sire, what an idea! The queen is too virtuous; and besides, loves\nyour Majesty too well.”"
+  },
+  {
+   "n": 9,
+   "para": 6,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Woman is weak, Monsieur Cardinal,”"
+  },
+  {
+   "n": 10,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king;"
+  },
+  {
+   "n": 11,
+   "para": 6,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“and as to loving me\nmuch, I have my own opinion as to that love.”"
+  },
+  {
+   "n": 12,
+   "para": 7,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“I not the less maintain,”"
+  },
+  {
+   "n": 13,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the cardinal,"
+  },
+  {
+   "n": 14,
+   "para": 7,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“that the Duke of\nBuckingham came to Paris for a project wholly political.”"
+  },
+  {
+   "n": 15,
+   "para": 8,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And I am sure that he came for quite another purpose, Monsieur\nCardinal; but if the queen be guilty, let her tremble!”"
+  },
+  {
+   "n": 16,
+   "para": 9,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Indeed,”"
+  },
+  {
+   "n": 17,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the cardinal,"
+  },
+  {
+   "n": 18,
+   "para": 9,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“whatever repugnance I may have to\ndirecting my mind to such a treason, your Majesty compels me to think\nof it. Madame de Lannoy, whom, according to your Majesty’s command, I\nhave frequently interrogated, told me this morning that the night\nbefore last her Majesty sat up very late, that this morning she wept\nmuch, and that she was writing all day.”"
+  },
+  {
+   "n": 19,
+   "para": 10,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“That’s it!”"
+  },
+  {
+   "n": 20,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the king;"
+  },
+  {
+   "n": 21,
+   "para": 10,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“to him, no doubt. Cardinal, I must have\nthe queen’s papers.”"
+  },
+  {
+   "n": 22,
+   "para": 11,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“But how to take them, sire? It seems to me that it is neither your\nMajesty nor myself who can charge himself with such a mission.”"
+  },
+  {
+   "n": 23,
+   "para": 12,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“How did they act with regard to the Maréchale d’Ancre?”"
+  },
+  {
+   "n": 24,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the\nking, in the highest state of choler;"
+  },
+  {
+   "n": 25,
+   "para": 12,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“first her closets were\nthoroughly searched, and then she herself.”"
+  },
+  {
+   "n": 26,
+   "para": 13,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“The Maréchale d’Ancre was no more than the Maréchale d’Ancre. A\nFlorentine adventurer, sire, and that was all; while the august spouse\nof your Majesty is Anne of Austria, Queen of France—that is to say, one\nof the greatest princesses in the world.”"
+  },
+  {
+   "n": 27,
+   "para": 14,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“She is not the less guilty, Monsieur Duke! The more she has forgotten\nthe high position in which she was placed, the more degrading is her\nfall. Besides, I long ago determined to put an end to all these petty\nintrigues of policy and love. She has near her a certain Laporte.”"
+  },
+  {
+   "n": 28,
+   "para": 15,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Who, I believe, is the mainspring of all this, I confess,”"
+  },
+  {
+   "n": 29,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the\ncardinal."
+  },
+  {
+   "n": 30,
+   "para": 16,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“You think then, as I do, that she deceives me?”"
+  },
+  {
+   "n": 31,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king."
+  },
+  {
+   "n": 32,
+   "para": 17,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“I believe, and I repeat it to your Majesty, that the queen conspires\nagainst the power of the king, but I have not said against his honor.”"
+  },
+  {
+   "n": 33,
+   "para": 18,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And I—I tell you against both. I tell you the queen does not love me;\nI tell you she loves another; I tell you she loves that infamous\nBuckingham! Why did you not have him arrested while in Paris?”"
+  },
+  {
+   "n": 34,
+   "para": 19,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Arrest the Duke! Arrest the prime minister of King Charles I.! Think\nof it, sire! What a scandal! And if the suspicions of your Majesty,\nwhich I still continue to doubt, should prove to have any foundation,\nwhat a terrible disclosure, what a fearful scandal!”"
+  },
+  {
+   "n": 35,
+   "para": 20,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“But as he exposed himself like a vagabond or a thief, he should have\nbeen—”"
+  },
+  {
+   "n": 36,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Louis XIII. stopped, terrified at what he was about to say, while\nRichelieu, stretching out his neck, waited uselessly for the word which\nhad died on the lips of the king."
+  },
+  {
+   "n": 37,
+   "para": 22,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“He should have been—?”"
+  },
+  {
+   "n": 38,
+   "para": 23,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Nothing,”"
+  },
+  {
+   "n": 39,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king,"
+  },
+  {
+   "n": 40,
+   "para": 23,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“nothing. But all the time he was in Paris,\nyou, of course, did not lose sight of him?”"
+  },
+  {
+   "n": 41,
+   "para": 24,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“No, sire.”"
+  },
+  {
+   "n": 42,
+   "para": 25,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Where did he lodge?”"
+  },
+  {
+   "n": 43,
+   "para": 26,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Rue de la Harpe. No. 75.”"
+  },
+  {
+   "n": 44,
+   "para": 27,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Where is that?”"
+  },
+  {
+   "n": 45,
+   "para": 28,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“By the side of the Luxembourg.”"
+  },
+  {
+   "n": 46,
+   "para": 29,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And you are certain that the queen and he did not see each other?”"
+  },
+  {
+   "n": 47,
+   "para": 30,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“I believe the queen to have too high a sense of her duty, sire.”"
+  },
+  {
+   "n": 48,
+   "para": 31,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“But they have corresponded; it is to him that the queen has been\nwriting all the day. Monsieur Duke, I must have those letters!”"
+  },
+  {
+   "n": 49,
+   "para": 32,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Sire, notwithstanding—”"
+  },
+  {
+   "n": 50,
+   "para": 33,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Monsieur Duke, at whatever price it may be, I will have them.”"
+  },
+  {
+   "n": 51,
+   "para": 34,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“I would, however, beg your Majesty to observe—”"
+  },
+  {
+   "n": 52,
+   "para": 35,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Do you, then, also join in betraying me, Monsieur Cardinal, by thus\nalways opposing my will? Are you also in accord with Spain and England,\nwith Madame de Chevreuse and the queen?”"
+  },
+  {
+   "n": 53,
+   "para": 36,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Sire,”"
+  },
+  {
+   "n": 54,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the cardinal, sighing,"
+  },
+  {
+   "n": 55,
+   "para": 36,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“I believed myself secure from\nsuch a suspicion.”"
+  },
+  {
+   "n": 56,
+   "para": 37,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Monsieur Cardinal, you have heard me; I will have those letters.”"
+  },
+  {
+   "n": 57,
+   "para": 38,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“There is but one way.”"
+  },
+  {
+   "n": 58,
+   "para": 39,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“What is that?”"
+  },
+  {
+   "n": 59,
+   "para": 40,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“That would be to charge Monsieur de Séguier, the keeper of the seals,\nwith this mission. The matter enters completely into the duties of the\npost.”"
+  },
+  {
+   "n": 60,
+   "para": 41,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Let him be sent for instantly.”"
+  },
+  {
+   "n": 61,
+   "para": 42,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“He is most likely at my hôtel. I requested him to call, and when I\ncame to the Louvre I left orders if he came, to desire him to wait.”"
+  },
+  {
+   "n": 62,
+   "para": 43,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Let him be sent for instantly.”"
+  },
+  {
+   "n": 63,
+   "para": 44,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Your Majesty’s orders shall be executed; but—”"
+  },
+  {
+   "n": 64,
+   "para": 45,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“But what?”"
+  },
+  {
+   "n": 65,
+   "para": 46,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“But the queen will perhaps refuse to obey.”"
+  },
+  {
+   "n": 66,
+   "para": 47,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“My orders?”"
+  },
+  {
+   "n": 67,
+   "para": 48,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Yes, if she is ignorant that these orders come from the king.”"
+  },
+  {
+   "n": 68,
+   "para": 49,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Well, that she may have no doubt on that head, I will go and inform\nher myself.”"
+  },
+  {
+   "n": 69,
+   "para": 50,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Your Majesty will not forget that I have done everything in my power\nto prevent a rupture.”"
+  },
+  {
+   "n": 70,
+   "para": 51,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Yes, Duke, yes, I know you are very indulgent toward the queen, too\nindulgent, perhaps; we shall have occasion, I warn you, at some future\nperiod to speak of that.”"
+  },
+  {
+   "n": 71,
+   "para": 52,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Whenever it shall please your Majesty; but I shall be always happy and\nproud, sire, to sacrifice myself to the harmony which I desire to see\nreign between you and the Queen of France.”"
+  },
+  {
+   "n": 72,
+   "para": 53,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Very well, Cardinal, very well; but, meantime, send for Monsieur the\nKeeper of the Seals. I will go to the queen.”"
+  },
+  {
+   "n": 73,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And Louis XIII., opening the door of communication, passed into the\ncorridor which led from his apartments to those of Anne of Austria."
+  },
+  {
+   "n": 74,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The queen was in the midst of her women—Mme. de Guitaut, Mme. de Sable,\nMme. de Montbazon, and Mme. de Guémené. In a corner was the Spanish\ncompanion, Donna Estafania, who had followed her from Madrid. Mme.\nGuémené was reading aloud, and everybody was listening to her with\nattention with the exception of the queen, who had, on the contrary,\ndesired this reading in order that she might be able, while feigning to\nlisten, to pursue the thread of her own thoughts."
+  },
+  {
+   "n": 75,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "These thoughts, gilded as they were by a last reflection of love, were\nnot the less sad. Anne of Austria, deprived of the confidence of her\nhusband, pursued by the hatred of the cardinal, who could not pardon\nher for having repulsed a more tender feeling, having before her eyes\nthe example of the queen-mother whom that hatred had tormented all her\nlife—though Marie de Médicis, if the memoirs of the time are to be\nbelieved, had begun by according to the cardinal that sentiment which\nAnne of Austria always refused him—Anne of Austria had seen her most\ndevoted servants fall around her, her most intimate confidants, her\ndearest favorites. Like those unfortunate persons endowed with a fatal\ngift, she brought misfortune upon everything she touched. Her\nfriendship was a fatal sign which called down persecution. Mme. de\nChevreuse and Mme. de Bernet were exiled, and Laporte did not conceal\nfrom his mistress that he expected to be arrested every instant."
+  },
+  {
+   "n": 76,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It was at the moment when she was plunged in the deepest and darkest of\nthese reflections that the door of the chamber opened, and the king\nentered."
+  },
+  {
+   "n": 77,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The reader hushed herself instantly. All the ladies rose, and there was\na profound silence. As to the king, he made no demonstration of\npoliteness, only stopping before the queen."
+  },
+  {
+   "n": 78,
+   "para": 58,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Madame,”"
+  },
+  {
+   "n": 79,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 80,
+   "para": 58,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“you are\nabout to receive a visit from the chancellor, who will communicate\ncertain matters to you with which I have charged him.”"
+  },
+  {
+   "n": 81,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The unfortunate queen, who was constantly threatened with divorce,\nexile, and trial even, turned pale under her rouge, and could not\nrefrain from saying,"
+  },
+  {
+   "n": 82,
+   "para": 59,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“But why this visit, sire? What can the chancellor\nhave to say to me that your Majesty could not say yourself?”"
+  },
+  {
+   "n": 83,
+   "para": 60,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king turned upon his heel without reply, and almost at the same\ninstant the captain of the Guards, M. de Guitant, announced the visit\nof the chancellor."
+  },
+  {
+   "n": 84,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "When the chancellor appeared, the king had already gone out by another\ndoor."
+  },
+  {
+   "n": 85,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The chancellor entered, half smiling, half blushing. As we shall\nprobably meet with him again in the course of our history, it may be\nwell for our readers to be made at once acquainted with him."
+  },
+  {
+   "n": 86,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This chancellor was a pleasant man. He was Des Roches le Masle, canon\nof Notre Dame, who had formerly been valet of a bishop, who introduced\nhim to his Eminence as a perfectly devout man. The cardinal trusted\nhim, and therein found his advantage."
+  },
+  {
+   "n": 87,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "There are many stories related of him, and among them this. After a\nwild youth, he had retired into a convent, there to expiate, at least\nfor some time, the follies of adolescence. On entering this holy place,\nthe poor penitent was unable to shut the door so close as to prevent\nthe passions he fled from entering with him. He was incessantly\nattacked by them, and the superior, to whom he had confided this\nmisfortune, wishing as much as in him lay to free him from them, had\nadvised him, in order to conjure away the tempting demon, to have\nrecourse to the bell rope, and ring with all his might. At the\ndenunciating sound, the monks would be rendered aware that temptation\nwas besieging a brother, and all the community would go to prayers."
+  },
+  {
+   "n": 88,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This advice appeared good to the future chancellor. He conjured the\nevil spirit with abundance of prayers offered up by the monks. But the\ndevil does not suffer himself to be easily dispossessed from a place in\nwhich he has fixed his garrison. In proportion as they redoubled the\nexorcisms he redoubled the temptations; so that day and night the bell\nwas ringing full swing, announcing the extreme desire for mortification\nwhich the penitent experienced."
+  },
+  {
+   "n": 89,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The monks had no longer an instant of repose. By day they did nothing\nbut ascend and descend the steps which led to the chapel; at night, in\naddition to complines and matins, they were further obliged to leap\ntwenty times out of their beds and prostrate themselves on the floor of\ntheir cells."
+  },
+  {
+   "n": 90,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It is not known whether it was the devil who gave way, or the monks who\ngrew tired; but within three months the penitent reappeared in the\nworld with the reputation of being the most terrible _possessed_ that\never existed."
+  },
+  {
+   "n": 91,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On leaving the convent he entered into the magistracy, became president\non the place of his uncle, embraced the cardinal’s party, which did not\nprove want of sagacity, became chancellor, served his Eminence with\nzeal in his hatred against the queen-mother and his vengeance against\nAnne of Austria, stimulated the judges in the affair of Calais,\nencouraged the attempts of M. de Laffemas, chief gamekeeper of France;\nthen, at length, invested with the entire confidence of the cardinal—a\nconfidence which he had so well earned—he received the singular\ncommission for the execution of which he presented himself in the\nqueen’s apartments."
+  },
+  {
+   "n": 92,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The queen was still standing when he entered; but scarcely had she\nperceived him then she reseated herself in her armchair, and made a\nsign to her women to resume their cushions and stools, and with an air\nof supreme hauteur, said,"
+  },
+  {
+   "n": 93,
+   "para": 69,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“What do you desire, monsieur, and with what\nobject do you present yourself here?”"
+  },
+  {
+   "n": 94,
+   "para": 70,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“To make, madame, in the name of the king, and without prejudice to the\nrespect which I have the honor to owe to your Majesty a close\nexamination into all your papers.”"
+  },
+  {
+   "n": 95,
+   "para": 71,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“How, monsieur, an investigation of my papers—mine! Truly, this is an\nindignity!”"
+  },
+  {
+   "n": 96,
+   "para": 72,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Be kind enough to pardon me, madame; but in this circumstance I am but\nthe instrument which the king employs. Has not his Majesty just left\nyou, and has he not himself asked you to prepare for this visit?”"
+  },
+  {
+   "n": 97,
+   "para": 73,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Search, then, monsieur! I am a criminal, as it appears. Estafania,\ngive up the keys of my drawers and my desks.”"
+  },
+  {
+   "n": 98,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "For form’s sake the chancellor paid a visit to the pieces of furniture\nnamed; but he well knew that it was not in a piece of furniture that\nthe queen would place the important letter she had written that day."
+  },
+  {
+   "n": 99,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "When the chancellor had opened and shut twenty times the drawers of the\nsecretaries, it became necessary, whatever hesitation he might\nexperience—it became necessary, I say, to come to the conclusion of the\naffair; that is to say, to search the queen herself. The chancellor\nadvanced, therefore, toward Anne of Austria, and said with a very\nperplexed and embarrassed air,"
+  },
+  {
+   "n": 100,
+   "para": 75,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“And now it remains for me to make the\nprincipal examination.”"
+  },
+  {
+   "n": 101,
+   "para": 76,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“What is that?”"
+  },
+  {
+   "n": 102,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the queen, who did not understand, or rather was\nnot willing to understand."
+  },
+  {
+   "n": 103,
+   "para": 77,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“His majesty is certain that a letter has been written by you during\nthe day; he knows that it has not yet been sent to its address. This\nletter is not in your table nor in your secretary; and yet this letter\nmust be somewhere.”"
+  },
+  {
+   "n": 104,
+   "para": 78,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Would you dare to lift your hand to your queen?”"
+  },
+  {
+   "n": 105,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Anne of Austria,\ndrawing herself up to her full height, and fixing her eyes upon the\nchancellor with an expression almost threatening."
+  },
+  {
+   "n": 106,
+   "para": 79,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“I am a faithful subject of the king, madame, and all that his Majesty\ncommands I shall do.”"
+  },
+  {
+   "n": 107,
+   "para": 80,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Well, it is true!”"
+  },
+  {
+   "n": 108,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Anne of Austria;"
+  },
+  {
+   "n": 109,
+   "para": 80,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“and the spies of the\ncardinal have served him faithfully. I have written a letter today;\nthat letter is not yet gone. The letter is here.”"
+  },
+  {
+   "n": 110,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And the queen laid\nher beautiful hand on her bosom."
+  },
+  {
+   "n": 111,
+   "para": 81,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Then give me that letter, madame,”"
+  },
+  {
+   "n": 112,
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the chancellor."
+  },
+  {
+   "n": 113,
+   "para": 82,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“I will give it to none but the king, monsieur,”"
+  },
+  {
+   "n": 114,
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Anne."
+  },
+  {
+   "n": 115,
+   "para": 83,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“If the king had desired that the letter should be given to him,\nmadame, he would have demanded it of you himself. But I repeat to you,\nI am charged with reclaiming it; and if you do not give it up—”"
+  },
+  {
+   "n": 116,
+   "para": 84,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Well?”"
+  },
+  {
+   "n": 117,
+   "para": 85,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“He has, then, charged me to take it from you.”"
+  },
+  {
+   "n": 118,
+   "para": 86,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“How! What do you say?”"
+  },
+  {
+   "n": 119,
+   "para": 87,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“That my orders go far, madame; and that I am authorized to seek for\nthe suspected paper, even on the person of your Majesty.”"
+  },
+  {
+   "n": 120,
+   "para": 88,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“What horror!”"
+  },
+  {
+   "n": 121,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the queen."
+  },
+  {
+   "n": 122,
+   "para": 89,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Be kind enough, then, madame, to act more compliantly.”"
+  },
+  {
+   "n": 123,
+   "para": 90,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“The conduct is infamously violent! Do you know that, monsieur?”"
+  },
+  {
+   "n": 124,
+   "para": 91,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“The king commands it, madame; excuse me.”"
+  },
+  {
+   "n": 125,
+   "para": 92,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“I will not suffer it! No, no, I would rather die!”"
+  },
+  {
+   "n": 126,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the queen, in\nwhom the imperious blood of Spain and Austria began to rise."
+  },
+  {
+   "n": 127,
+   "para": 93,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The chancellor made a profound reverence. Then, with the intention\nquite patent of not drawing back a foot from the accomplishment of the\ncommission with which he was charged, and as the attendant of an\nexecutioner might have done in the chamber of torture, he approached\nAnne of Austria, from whose eyes at the same instant sprang tears of\nrage."
+  },
+  {
+   "n": 128,
+   "para": 94,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The queen was, as we have said, of great beauty. The commission might\nwell be called delicate; and the king had reached, in his jealousy of\nBuckingham, the point of not being jealous of anyone else."
+  },
+  {
+   "n": 129,
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Without doubt the chancellor Séguier looked about at that moment for\nthe rope of the famous bell; but not finding it he summoned his\nresolution, and stretched forth his hands toward the place where the\nqueen had acknowledged the paper was to be found."
+  },
+  {
+   "n": 130,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Anne of Austria took one step backward, became so pale that it might be\nsaid she was dying, and leaning with her left hand upon a table behind\nher to keep herself from falling, she with her right hand drew the\npaper from her bosom and held it out to the keeper of the seals."
+  },
+  {
+   "n": 131,
+   "para": 97,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“There, monsieur, there is that letter!”"
+  },
+  {
+   "n": 132,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the queen, with a broken\nand trembling voice;"
+  },
+  {
+   "n": 133,
+   "para": 97,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“take it, and deliver me from your odious\npresence.”"
+  },
+  {
+   "n": 134,
+   "para": 98,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The chancellor, who, on his part, trembled with an emotion easily to be\nconceived, took the letter, bowed to the ground, and retired. The door\nwas scarcely closed upon him, when the queen sank, half fainting, into\nthe arms of her women."
+  },
+  {
+   "n": 135,
+   "para": 99,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The chancellor carried the letter to the king without having read a\nsingle word of it. The king took it with a trembling hand, looked for\nthe address, which was wanting, became very pale, opened it slowly,\nthen seeing by the first words that it was addressed to the King of\nSpain, he read it rapidly."
+  },
+  {
+   "n": 136,
+   "para": 100,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "It was nothing but a plan of attack against the cardinal. The queen\npressed her brother and the Emperor of Austria to appear to be wounded,\nas they really were, by the policy of Richelieu—the eternal object of\nwhich was the abasement of the house of Austria—to declare war against\nFrance, and as a condition of peace, to insist upon the dismissal of\nthe cardinal; but as to love, there was not a single word about it in\nall the letter."
+  },
+  {
+   "n": 137,
+   "para": 101,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king, quite delighted, inquired if the cardinal was still at the\nLouvre; he was told that his Eminence awaited the orders of his Majesty\nin the business cabinet."
+  },
+  {
+   "n": 138,
+   "para": 102,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king went straight to him."
+  },
+  {
+   "n": 139,
+   "para": 103,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“There, Duke,”"
+  },
+  {
+   "n": 140,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 141,
+   "para": 103,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“you were right and I was wrong. The whole\nintrigue is political, and there is not the least question of love in\nthis letter; but, on the other hand, there is abundant question of\nyou.”"
+  },
+  {
+   "n": 142,
+   "para": 104,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The cardinal took the letter, and read it with the greatest attention;\nthen, when he had arrived at the end of it, he read it a second time."
+  },
+  {
+   "n": 143,
+   "para": 104,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Well, your Majesty,”"
+  },
+  {
+   "n": 144,
+   "para": 104,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 145,
+   "para": 104,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“you see how far my enemies go; they\nmenace you with two wars if you do not dismiss me. In your place, in\ntruth, sire, I should yield to such powerful instance; and on my part,\nit would be a real happiness to withdraw from public affairs.”"
+  },
+  {
+   "n": 146,
+   "para": 105,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“What say you, Duke?”"
+  },
+  {
+   "n": 147,
+   "para": 106,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“I say, sire, that my health is sinking under these excessive struggles\nand these never-ending labors. I say that according to all probability\nI shall not be able to undergo the fatigues of the siege of La\nRochelle, and that it would be far better that you should appoint there\neither Monsieur de Condé, Monsieur de Bassopierre, or some valiant\ngentleman whose business is war, and not me, who am a churchman, and\nwho am constantly turned aside for my real vocation to look after\nmatters for which I have no aptitude. You would be the happier for it\nat home, sire, and I do not doubt you would be the greater for it\nabroad.”"
+  },
+  {
+   "n": 148,
+   "para": 107,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Monsieur Duke,”"
+  },
+  {
+   "n": 149,
+   "para": 107,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king,"
+  },
+  {
+   "n": 150,
+   "para": 107,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“I understand you. Be satisfied, all\nwho are named in that letter shall be punished as they deserve, even\nthe queen herself.”"
+  },
+  {
+   "n": 151,
+   "para": 108,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“What do you say, sire? God forbid that the queen should suffer the\nleast inconvenience or uneasiness on my account! She has always\nbelieved me, sire, to be her enemy; although your Majesty can bear\nwitness that I have always taken her part warmly, even against you. Oh,\nif she betrayed your Majesty on the side of your honor, it would be\nquite another thing, and I should be the first to say, ‘No grace,\nsire—no grace for the guilty!’ Happily, there is nothing of the kind,\nand your Majesty has just acquired a new proof of it.”"
+  },
+  {
+   "n": 152,
+   "para": 109,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“That is true, Monsieur Cardinal,”"
+  },
+  {
+   "n": 153,
+   "para": 109,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king,"
+  },
+  {
+   "n": 154,
+   "para": 109,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“and you were right,\nas you always are; but the queen, not the less, deserves all my anger.”"
+  },
+  {
+   "n": 155,
+   "para": 110,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“It is you, sire, who have now incurred hers. And even if she were to\nbe seriously offended, I could well understand it; your Majesty has\ntreated her with a severity—”"
+  },
+  {
+   "n": 156,
+   "para": 111,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“It is thus I will always treat my enemies and yours, Duke, however\nhigh they may be placed, and whatever peril I may incur in acting\nseverely toward them.”"
+  },
+  {
+   "n": 157,
+   "para": 112,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“The queen is my enemy, but is not yours, sire; on the contrary, she is\na devoted, submissive, and irreproachable wife. Allow me, then, sire,\nto intercede for her with your Majesty.”"
+  },
+  {
+   "n": 158,
+   "para": 113,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Let her humble herself, then, and come to me first.”"
+  },
+  {
+   "n": 159,
+   "para": 114,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“On the contrary, sire, set the example. You have committed the first\nwrong, since it was you who suspected the queen.”"
+  },
+  {
+   "n": 160,
+   "para": 115,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“What! I make the first advances?”"
+  },
+  {
+   "n": 161,
+   "para": 115,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king."
+  },
+  {
+   "n": 162,
+   "para": 115,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Never!”"
+  },
+  {
+   "n": 163,
+   "para": 116,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Sire, I entreat you to do so.”"
+  },
+  {
+   "n": 164,
+   "para": 117,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Besides, in what manner can I make advances first?”"
+  },
+  {
+   "n": 165,
+   "para": 118,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“By doing a thing which you know will be agreeable to her.”"
+  },
+  {
+   "n": 166,
+   "para": 119,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“What is that?”"
+  },
+  {
+   "n": 167,
+   "para": 120,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“Give a ball; you know how much the queen loves dancing. I will answer\nfor it, her resentment will not hold out against such an attention.”"
+  },
+  {
+   "n": 168,
+   "para": 121,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Monsieur Cardinal, you know that I do not like worldly pleasures.”"
+  },
+  {
+   "n": 169,
+   "para": 122,
+   "role": "Anne of Austria",
+   "cast": "Mary, Queen of Scots",
+   "text": "“The queen will only be the more grateful to you, as she knows your\nantipathy for that amusement; besides, it will be an opportunity for\nher to wear those beautiful diamonds which you gave her recently on her\nbirthday and with which she has since had no occasion to adorn\nherself.”"
+  },
+  {
+   "n": 170,
+   "para": 123,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“We shall see, Monsieur Cardinal, we shall see,”"
+  },
+  {
+   "n": 171,
+   "para": 123,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king, who, in\nhis joy at finding the queen guilty of a crime which he cared little\nabout, and innocent of a fault of which he had great dread, was ready\nto make up all differences with her,"
+  },
+  {
+   "n": 172,
+   "para": 123,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“we shall see, but upon my honor,\nyou are too indulgent toward her.”"
+  },
+  {
+   "n": 173,
+   "para": 124,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Sire,”"
+  },
+  {
+   "n": 174,
+   "para": 124,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the cardinal,"
+  },
+  {
+   "n": 175,
+   "para": 124,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“leave severity to your ministers. Clemency\nis a royal virtue; employ it, and you will find that you derive\nadvantage therein.”"
+  },
+  {
+   "n": 176,
+   "para": 125,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Thereupon the cardinal, hearing the clock strike eleven, bowed low,\nasking permission of the king to retire, and supplicating him to come\nto a good understanding with the queen."
+  },
+  {
+   "n": 177,
+   "para": 126,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Anne of Austria, who, in consequence of the seizure of her letter,\nexpected reproaches, was much astonished the next day to see the king\nmake some attempts at reconciliation with her. Her first movement was\nrepellent. Her womanly pride and her queenly dignity had both been so\ncruelly offended that she could not come round at the first advance;\nbut, overpersuaded by the advice of her women, she at last had the\nappearance of beginning to forget. The king took advantage of this\nfavorable moment to tell her that he had the intention of shortly\ngiving a fête."
+  },
+  {
+   "n": 178,
+   "para": 127,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A fête was so rare a thing for poor Anne of Austria that at this\nannouncement, as the cardinal had predicted, the last trace of her\nresentment disappeared, if not from her heart, at least from her\ncountenance. She asked upon what day this fête would take place, but\nthe king replied that he must consult the cardinal upon that head."
+  },
+  {
+   "n": 179,
+   "para": 128,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Indeed, every day the king asked the cardinal when this fête should\ntake place; and every day the cardinal, under some pretext, deferred\nfixing it. Ten days passed away thus."
+  },
+  {
+   "n": 180,
+   "para": 129,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On the eighth day after the scene we have described, the cardinal\nreceived a letter with the London stamp which only contained these\nlines:"
+  },
+  {
+   "n": 181,
+   "para": 129,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“I have them; but I am unable to leave London for want of money.\nSend me five hundred pistoles, and four or five days after I have\nreceived them I shall be in Paris.”"
+  },
+  {
+   "n": 182,
+   "para": 130,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On the same day the cardinal received this letter the king put his\ncustomary question to him."
+  },
+  {
+   "n": 183,
+   "para": 131,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Richelieu counted on his fingers, and said to himself,"
+  },
+  {
+   "n": 184,
+   "para": 131,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“She will\narrive, she says, four or five days after having received the money. It\nwill require four or five days for the transmission of the money, four\nor five days for her to return; that makes ten days. Now, allowing for\ncontrary winds, accidents, and a woman’s weakness, there are twelve\ndays.”"
+  },
+  {
+   "n": 185,
+   "para": 132,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Well, Monsieur Duke,”"
+  },
+  {
+   "n": 186,
+   "para": 132,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king,"
+  },
+  {
+   "n": 187,
+   "para": 132,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“have you made your\ncalculations?”"
+  },
+  {
+   "n": 188,
+   "para": 133,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“Yes, sire. Today is the twentieth of September. The aldermen of the\ncity give a fête on the third of October. That will fall in wonderfully\nwell; you will not appear to have gone out of your way to please the\nqueen.”"
+  },
+  {
+   "n": 189,
+   "para": 134,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then the cardinal added,"
+  },
+  {
+   "n": 190,
+   "para": 134,
+   "role": "Cardinal Richelieu",
+   "cast": "Cardinal Richelieu",
+   "text": "“_A propos_, sire, do not forget to tell her\nMajesty the evening before the fête that you should like to see how her\ndiamond studs become her.”"
+  }
+ ]
+}

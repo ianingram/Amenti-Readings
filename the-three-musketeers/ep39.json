@@ -1,0 +1,1429 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 39,
+ "chapter": 39,
+ "title": "A Vision",
+ "document": "CHAPTER XXXIX",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch39.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Athos",
+   "cast_as": "Michel de Montaigne"
+  },
+  {
+   "role": "Porthos",
+   "cast_as": "Honore de Balzac"
+  },
+  {
+   "role": "Aramis",
+   "cast_as": "Napoleon III"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter XXXIX.\nA VISION"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At four o’clock the four friends were all assembled with Athos. Their\nanxiety about their outfits had all disappeared, and each countenance\nonly preserved the expression of its own secret disquiet—for behind all\npresent happiness is concealed a fear for the future."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Suddenly Planchet entered, bringing two letters for D’Artagnan."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The one was a little billet, genteelly folded, with a pretty seal in\ngreen wax on which was impressed a dove bearing a green branch."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The other was a large square epistle, resplendent with the terrible\narms of his Eminence the cardinal duke."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At the sight of the little letter the heart of D’Artagnan bounded, for\nhe believed he recognized the handwriting, and although he had seen\nthat writing but once, the memory of it remained at the bottom of his\nheart."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He therefore seized the little epistle, and opened it eagerly."
+  },
+  {
+   "n": 8,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“Be,”"
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the letter,"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "“on Thursday next, at from six to seven o’clock\nin the evening, on the road to Chaillot, and look carefully into the\ncarriages that pass; but if you have any consideration for your own\nlife or that of those who love you, do not speak a single word, do not\nmake a movement which may lead anyone to believe you have recognized\nher who exposes herself to everything for the sake of seeing you but\nfor an instant.”"
+  },
+  {
+   "n": 11,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "No signature."
+  },
+  {
+   "n": 12,
+   "para": 9,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“That’s a snare,”"
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos;"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“don’t go, D’Artagnan.”"
+  },
+  {
+   "n": 15,
+   "para": 10,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And yet,”"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan,"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I think I recognize the writing.”"
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“It may be counterfeit,”"
+  },
+  {
+   "n": 19,
+   "para": 11,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos."
+  },
+  {
+   "n": 20,
+   "para": 11,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Between six and seven o’clock the\nroad of Chaillot is quite deserted; you might as well go and ride in\nthe forest of Bondy.”"
+  },
+  {
+   "n": 21,
+   "para": 12,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But suppose we all go,”"
+  },
+  {
+   "n": 22,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan;"
+  },
+  {
+   "n": 23,
+   "para": 12,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“what the devil! They won’t\ndevour us all four, four lackeys, horses, arms, and all!”"
+  },
+  {
+   "n": 24,
+   "para": 13,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“And besides, it will be a chance for displaying our new equipments,”"
+  },
+  {
+   "n": 25,
+   "para": 13,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos."
+  },
+  {
+   "n": 26,
+   "para": 14,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“But if it is a woman who writes,”"
+  },
+  {
+   "n": 27,
+   "para": 14,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis,"
+  },
+  {
+   "n": 28,
+   "para": 14,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“and that woman desires\nnot to be seen, remember, you compromise her, D’Artagnan; which is not\nthe part of a gentleman.”"
+  },
+  {
+   "n": 29,
+   "para": 15,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“We will remain in the background,”"
+  },
+  {
+   "n": 30,
+   "para": 15,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos,"
+  },
+  {
+   "n": 31,
+   "para": 15,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“and he will advance\nalone.”"
+  },
+  {
+   "n": 32,
+   "para": 16,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Yes; but a pistol shot is easily fired from a carriage which goes at a\ngallop.”"
+  },
+  {
+   "n": 33,
+   "para": 17,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Bah!”"
+  },
+  {
+   "n": 34,
+   "para": 17,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 35,
+   "para": 17,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“they will miss me; if they fire we will ride\nafter the carriage, and exterminate those who may be in it. They must\nbe enemies.”"
+  },
+  {
+   "n": 36,
+   "para": 18,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“He is right,”"
+  },
+  {
+   "n": 37,
+   "para": 18,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos;"
+  },
+  {
+   "n": 38,
+   "para": 18,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“battle. Besides, we must try our own\narms.”"
+  },
+  {
+   "n": 39,
+   "para": 19,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Bah, let us enjoy that pleasure,”"
+  },
+  {
+   "n": 40,
+   "para": 19,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis, with his mild and\ncareless manner."
+  },
+  {
+   "n": 41,
+   "para": 20,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“As you please,”"
+  },
+  {
+   "n": 42,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos."
+  },
+  {
+   "n": 43,
+   "para": 21,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Gentlemen,”"
+  },
+  {
+   "n": 44,
+   "para": 21,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 45,
+   "para": 21,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“it is half past four, and we have\nscarcely time to be on the road of Chaillot by six.”"
+  },
+  {
+   "n": 46,
+   "para": 22,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Besides, if we go out too late, nobody will see us,”"
+  },
+  {
+   "n": 47,
+   "para": 22,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos,"
+  },
+  {
+   "n": 48,
+   "para": 22,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“and that will be a pity. Let us get ready, gentlemen.”"
+  },
+  {
+   "n": 49,
+   "para": 23,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“But this second letter,”"
+  },
+  {
+   "n": 50,
+   "para": 23,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 51,
+   "para": 23,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“you forget that; it appears to\nme, however, that the seal denotes that it deserves to be opened. For\nmy part, I declare, D’Artagnan, I think it of much more consequence\nthan the little piece of waste paper you have so cunningly slipped into\nyour bosom.”"
+  },
+  {
+   "n": 52,
+   "para": 24,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan blushed."
+  },
+  {
+   "n": 53,
+   "para": 25,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well,”"
+  },
+  {
+   "n": 54,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 55,
+   "para": 25,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“let us see, gentlemen, what are his Eminence’s\ncommands,”"
+  },
+  {
+   "n": 56,
+   "para": 25,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "and D’Artagnan unsealed the letter and read,"
+  },
+  {
+   "n": 57,
+   "para": 26,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“M. d’Artagnan, of the king’s Guards, company Dessessart, is expected\nat the Palais-Cardinal this evening, at eight o’clock."
+  },
+  {
+   "n": 58,
+   "para": 27,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“LA HOUDINIERE, _Captain of the Guards_”"
+  },
+  {
+   "n": 59,
+   "para": 28,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“The devil!”"
+  },
+  {
+   "n": 60,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos;"
+  },
+  {
+   "n": 61,
+   "para": 28,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“here’s a rendezvous much more serious than\nthe other.”"
+  },
+  {
+   "n": 62,
+   "para": 29,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I will go to the second after attending the first,”"
+  },
+  {
+   "n": 63,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan."
+  },
+  {
+   "n": 64,
+   "para": 29,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“One is for seven o’clock, and the other for eight; there will be time\nfor both.”"
+  },
+  {
+   "n": 65,
+   "para": 30,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Hum! I would not go at all,”"
+  },
+  {
+   "n": 66,
+   "para": 30,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 67,
+   "para": 30,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“A gallant knight cannot\ndecline a rendezvous with a lady; but a prudent gentleman may excuse\nhimself from not waiting on his Eminence, particularly when he has\nreason to believe he is not invited to make his compliments.”"
+  },
+  {
+   "n": 68,
+   "para": 31,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“I am of Aramis’s opinion,”"
+  },
+  {
+   "n": 69,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos."
+  },
+  {
+   "n": 70,
+   "para": 32,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Gentlemen,”"
+  },
+  {
+   "n": 71,
+   "para": 32,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan,"
+  },
+  {
+   "n": 72,
+   "para": 32,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I have already received by Monsieur\nde Cavois a similar invitation from his Eminence. I neglected it, and\non the morrow a serious misfortune happened to me—Constance\ndisappeared. Whatever may ensue, I will go.”"
+  },
+  {
+   "n": 73,
+   "para": 33,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“If you are determined,”"
+  },
+  {
+   "n": 74,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 75,
+   "para": 33,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“do so.”"
+  },
+  {
+   "n": 76,
+   "para": 34,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“But the Bastille?”"
+  },
+  {
+   "n": 77,
+   "para": 34,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 78,
+   "para": 35,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Bah! you will get me out if they put me there,”"
+  },
+  {
+   "n": 79,
+   "para": 35,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan."
+  },
+  {
+   "n": 80,
+   "para": 36,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“To be sure we will,”"
+  },
+  {
+   "n": 81,
+   "para": 36,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis and Porthos, with admirable\npromptness and decision, as if that were the simplest thing in the\nworld,"
+  },
+  {
+   "n": 82,
+   "para": 36,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“to be sure we will get you out; but meantime, as we are to set\noff the day after tomorrow, you would do much better not to risk this\nBastille.”"
+  },
+  {
+   "n": 83,
+   "para": 37,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Let us do better than that,”"
+  },
+  {
+   "n": 84,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos;"
+  },
+  {
+   "n": 85,
+   "para": 37,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“do not let us leave him\nduring the whole evening. Let each of us wait at a gate of the palace\nwith three Musketeers behind him; if we see a close carriage, at all\nsuspicious in appearance, come out, let us fall upon it. It is a long\ntime since we have had a skirmish with the Guards of Monsieur the\nCardinal; Monsieur de Tréville must think us dead.”"
+  },
+  {
+   "n": 86,
+   "para": 38,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“To a certainty, Athos,”"
+  },
+  {
+   "n": 87,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis,"
+  },
+  {
+   "n": 88,
+   "para": 38,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“you were meant to be a general\nof the army! What do you think of the plan, gentlemen?”"
+  },
+  {
+   "n": 89,
+   "para": 39,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Admirable!”"
+  },
+  {
+   "n": 90,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the young men in chorus."
+  },
+  {
+   "n": 91,
+   "para": 40,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Well,”"
+  },
+  {
+   "n": 92,
+   "para": 40,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos,"
+  },
+  {
+   "n": 93,
+   "para": 40,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“I will run to the hôtel, and engage our comrades\nto hold themselves in readiness by eight o’clock; the rendezvous, the\nPlace du Palais-Cardinal. Meantime, you see that the lackeys saddle the\nhorses.”"
+  },
+  {
+   "n": 94,
+   "para": 41,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I have no horse,”"
+  },
+  {
+   "n": 95,
+   "para": 41,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan;"
+  },
+  {
+   "n": 96,
+   "para": 41,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“but that is of no consequence, I\ncan take one of Monsieur de Tréville’s.”"
+  },
+  {
+   "n": 97,
+   "para": 42,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“That is not worth while,”"
+  },
+  {
+   "n": 98,
+   "para": 42,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis,"
+  },
+  {
+   "n": 99,
+   "para": 42,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“you can have one of mine.”"
+  },
+  {
+   "n": 100,
+   "para": 43,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“One of yours! how many have you, then?”"
+  },
+  {
+   "n": 101,
+   "para": 43,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked D’Artagnan."
+  },
+  {
+   "n": 102,
+   "para": 44,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Three,”"
+  },
+  {
+   "n": 103,
+   "para": 44,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis, smiling."
+  },
+  {
+   "n": 104,
+   "para": 45,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“_Certes_,”"
+  },
+  {
+   "n": 105,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Athos,"
+  },
+  {
+   "n": 106,
+   "para": 45,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“you are the best-mounted poet of France or\nNavarre.”"
+  },
+  {
+   "n": 107,
+   "para": 46,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Well, my dear Aramis, you don’t want three horses? I cannot comprehend\nwhat induced you to buy three!”"
+  },
+  {
+   "n": 108,
+   "para": 47,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Therefore I only purchased two,”"
+  },
+  {
+   "n": 109,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 110,
+   "para": 48,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“The third, then, fell from the clouds, I suppose?”"
+  },
+  {
+   "n": 111,
+   "para": 49,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“No, the third was brought to me this very morning by a groom out of\nlivery, who would not tell me in whose service he was, and who said he\nhad received orders from his master.”"
+  },
+  {
+   "n": 112,
+   "para": 50,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Or his mistress,”"
+  },
+  {
+   "n": 113,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "interrupted D’Artagnan."
+  },
+  {
+   "n": 114,
+   "para": 51,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“That makes no difference,”"
+  },
+  {
+   "n": 115,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis, coloring;"
+  },
+  {
+   "n": 116,
+   "para": 51,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“and who affirmed,\nas I said, that he had received orders from his master or mistress to\nplace the horse in my stable, without informing me whence it came.”"
+  },
+  {
+   "n": 117,
+   "para": 52,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“It is only to poets that such things happen,”"
+  },
+  {
+   "n": 118,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos, gravely."
+  },
+  {
+   "n": 119,
+   "para": 53,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, in that case, we can manage famously,”"
+  },
+  {
+   "n": 120,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan;"
+  },
+  {
+   "n": 121,
+   "para": 53,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“which\nof the two horses will you ride—that which you bought or the one that\nwas given to you?”"
+  },
+  {
+   "n": 122,
+   "para": 54,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“That which was given to me, assuredly. You cannot for a moment\nimagine, D’Artagnan, that I would commit such an offense toward—”"
+  },
+  {
+   "n": 123,
+   "para": 55,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The unknown giver,”"
+  },
+  {
+   "n": 124,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "interrupted D’Artagnan."
+  },
+  {
+   "n": 125,
+   "para": 56,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Or the mysterious benefactress,”"
+  },
+  {
+   "n": 126,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos."
+  },
+  {
+   "n": 127,
+   "para": 57,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The one you bought will then become useless to you?”"
+  },
+  {
+   "n": 128,
+   "para": 58,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Nearly so.”"
+  },
+  {
+   "n": 129,
+   "para": 59,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And you selected it yourself?”"
+  },
+  {
+   "n": 130,
+   "para": 60,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“With the greatest care. The safety of the horseman, you know, depends\nalmost always upon the goodness of his horse.”"
+  },
+  {
+   "n": 131,
+   "para": 61,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, transfer it to me at the price it cost you?”"
+  },
+  {
+   "n": 132,
+   "para": 62,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“I was going to make you the offer, my dear D’Artagnan, giving you all\nthe time necessary for repaying me such a trifle.”"
+  },
+  {
+   "n": 133,
+   "para": 63,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“How much did it cost you?”"
+  },
+  {
+   "n": 134,
+   "para": 64,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Eight hundred livres.”"
+  },
+  {
+   "n": 135,
+   "para": 65,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Here are forty double pistoles, my dear friend,”"
+  },
+  {
+   "n": 136,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,\ntaking the sum from his pocket;"
+  },
+  {
+   "n": 137,
+   "para": 65,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I know that is the coin in which you\nwere paid for your poems.”"
+  },
+  {
+   "n": 138,
+   "para": 66,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“You are rich, then?”"
+  },
+  {
+   "n": 139,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 140,
+   "para": 67,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Rich? Richest, my dear fellow!”"
+  },
+  {
+   "n": 141,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And D’Artagnan chinked the remainder of his pistoles in his pocket."
+  },
+  {
+   "n": 142,
+   "para": 69,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Send your saddle, then, to the hôtel of the Musketeers, and your horse\ncan be brought back with ours.”"
+  },
+  {
+   "n": 143,
+   "para": 70,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Very well; but it is already five o’clock, so make haste.”"
+  },
+  {
+   "n": 144,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A quarter of an hour afterward Porthos appeared at the end of the Rue\nFérou on a very handsome _genet_. Mousqueton followed him upon an\nAuvergne horse, small but very handsome. Porthos was resplendent with\njoy and pride."
+  },
+  {
+   "n": 145,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At the same time, Aramis made his appearance at the other end of the\nstreet upon a superb English charger. Bazin followed him upon a roan,\nholding by the halter a vigorous Mecklenburg horse; this was\nD’Artagnan’s mount."
+  },
+  {
+   "n": 146,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The two Musketeers met at the gate. Athos and D’Artagnan watched their\napproach from the window."
+  },
+  {
+   "n": 147,
+   "para": 74,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“The devil!”"
+  },
+  {
+   "n": 148,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis,"
+  },
+  {
+   "n": 149,
+   "para": 74,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“you have a magnificent horse there,\nPorthos.”"
+  },
+  {
+   "n": 150,
+   "para": 75,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Yes,”"
+  },
+  {
+   "n": 151,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Porthos,"
+  },
+  {
+   "n": 152,
+   "para": 75,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“it is the one that ought to have been sent to\nme at first. A bad joke of the husband’s substituted the other; but the\nhusband has been punished since, and I have obtained full\nsatisfaction.”"
+  },
+  {
+   "n": 153,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Planchet and Grimaud appeared in their turn, leading their masters’\nsteeds. D’Artagnan and Athos put themselves into saddle with their\ncompanions, and all four set forward; Athos upon a horse he owed to a\nwoman, Aramis on a horse he owed to his mistress, Porthos on a horse he\nowed to his procurator’s wife, and D’Artagnan on a horse he owed to his\ngood fortune—the best mistress possible."
+  },
+  {
+   "n": 154,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The lackeys followed."
+  },
+  {
+   "n": 155,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As Porthos had foreseen, the cavalcade produced a good effect; and if\nMme. Coquenard had met Porthos and seen what a superb appearance he\nmade upon his handsome Spanish _genet_, she would not have regretted\nthe bleeding she had inflicted upon the strongbox of her husband."
+  },
+  {
+   "n": 156,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Near the Louvre the four friends met with M. de Tréville, who was\nreturning from St. Germain; he stopped them to offer his compliments\nupon their appointments, which in an instant drew round them a hundred\ngapers."
+  },
+  {
+   "n": 157,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan profited by the circumstance to speak to M. de Tréville of\nthe letter with the great red seal and the cardinal’s arms. It is well\nunderstood that he did not breathe a word about the other."
+  },
+  {
+   "n": 158,
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. de Tréville approved of the resolution he had adopted, and assured\nhim that if on the morrow he did not appear, he himself would undertake\nto find him, let him be where he might."
+  },
+  {
+   "n": 159,
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At this moment the clock of La Samaritaine struck six; the four friends\npleaded an engagement, and took leave of M. de Tréville."
+  },
+  {
+   "n": 160,
+   "para": 83,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "A short gallop brought them to the road of Chaillot; the day began to\ndecline, carriages were passing and repassing. D’Artagnan, keeping at\nsome distance from his friends, darted a scrutinizing glance into every\ncarriage that appeared, but saw no face with which he was acquainted."
+  },
+  {
+   "n": 161,
+   "para": 84,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At length, after waiting a quarter of an hour and just as twilight was\nbeginning to thicken, a carriage appeared, coming at a quick pace on\nthe road of Sèvres. A presentiment instantly told D’Artagnan that this\ncarriage contained the person who had appointed the rendezvous; the\nyoung man was himself astonished to find his heart beat so violently.\nAlmost instantly a female head was put out at the window, with two\nfingers placed upon her mouth, either to enjoin silence or to send him\na kiss. D’Artagnan uttered a slight cry of joy; this woman, or rather\nthis apparition—for the carriage passed with the rapidity of a\nvision—was Mme. Bonacieux."
+  },
+  {
+   "n": 162,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "By an involuntary movement and in spite of the injunction given,\nD’Artagnan put his horse into a gallop, and in a few strides overtook\nthe carriage; but the window was hermetically closed, the vision had\ndisappeared."
+  },
+  {
+   "n": 163,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan then remembered the injunction:"
+  },
+  {
+   "n": 164,
+   "para": 86,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“If you value your own life\nor that of those who love you, remain motionless, and as if you had\nseen nothing.”"
+  },
+  {
+   "n": 165,
+   "para": 87,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He stopped, therefore, trembling not for himself but for the poor woman\nwho had evidently exposed herself to great danger by appointing this\nrendezvous."
+  },
+  {
+   "n": 166,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The carriage pursued its way, still going at a great pace, till it\ndashed into Paris, and disappeared."
+  },
+  {
+   "n": 167,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan remained fixed to the spot, astounded and not knowing what\nto think. If it was Mme. Bonacieux and if she was returning to Paris,\nwhy this fugitive rendezvous, why this simple exchange of a glance, why\nthis lost kiss? If, on the other side, it was not she—which was still\nquite possible—for the little light that remained rendered a mistake\neasy—might it not be the commencement of some plot against him through\nthe allurement of this woman, for whom his love was known?"
+  },
+  {
+   "n": 168,
+   "para": 90,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "His three companions joined him. All had plainly seen a woman’s head\nappear at the window, but none of them, except Athos, knew Mme.\nBonacieux. The opinion of Athos was that it was indeed she; but less\npreoccupied by that pretty face than D’Artagnan, he had fancied he saw\na second head, a man’s head, inside the carriage."
+  },
+  {
+   "n": 169,
+   "para": 91,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“If that be the case,”"
+  },
+  {
+   "n": 170,
+   "para": 91,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 171,
+   "para": 91,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“they are doubtless\ntransporting her from one prison to another. But what can they intend\nto do with the poor creature, and how shall I ever meet her again?”"
+  },
+  {
+   "n": 172,
+   "para": 92,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Friend,”"
+  },
+  {
+   "n": 173,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos, gravely,"
+  },
+  {
+   "n": 174,
+   "para": 92,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“remember that it is the dead alone with\nwhom we are not likely to meet again on this earth. You know something\nof that, as well as I do, I think. Now, if your mistress is not dead,\nif it is she we have just seen, you will meet with her again some day\nor other. And perhaps, my God!”"
+  },
+  {
+   "n": 175,
+   "para": 92,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added he, with that misanthropic tone\nwhich was peculiar to him,"
+  },
+  {
+   "n": 176,
+   "para": 92,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“perhaps sooner than you wish.”"
+  },
+  {
+   "n": 177,
+   "para": 93,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Half past seven had sounded. The carriage had been twenty minutes\nbehind the time appointed. D’Artagnan’s friends reminded him that he\nhad a visit to pay, but at the same time bade him observe that there\nwas yet time to retract."
+  },
+  {
+   "n": 178,
+   "para": 94,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But D’Artagnan was at the same time impetuous and curious. He had made\nup his mind that he would go to the Palais-Cardinal, and that he would\nlearn what his Eminence had to say to him. Nothing could turn him from\nhis purpose."
+  },
+  {
+   "n": 179,
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "They reached the Rue St. Honoré, and in the Place du Palais-Cardinal\nthey found the twelve invited Musketeers, walking about in expectation\nof their comrades. There only they explained to them the matter in\nhand."
+  },
+  {
+   "n": 180,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan was well known among the honorable corps of the king’s\nMusketeers, in which it was known he would one day take his place; he\nwas considered beforehand as a comrade. It resulted from these\nantecedents that everyone entered heartily into the purpose for which\nthey met; besides, it would not be unlikely that they would have an\nopportunity of playing either the cardinal or his people an ill turn,\nand for such expeditions these worthy gentlemen were always ready."
+  },
+  {
+   "n": 181,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Athos divided them into three groups, assumed the command of one, gave\nthe second to Aramis, and the third to Porthos; and then each group\nwent and took their watch near an entrance."
+  },
+  {
+   "n": 182,
+   "para": 98,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan, on his part, entered boldly at the principal gate."
+  },
+  {
+   "n": 183,
+   "para": 99,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Although he felt himself ably supported, the young man was not without\na little uneasiness as he ascended the great staircase, step by step.\nHis conduct toward Milady bore a strong resemblance to treachery, and\nhe was very suspicious of the political relations which existed between\nthat woman and the cardinal. Still further, De Wardes, whom he had\ntreated so ill, was one of the tools of his Eminence; and D’Artagnan\nknew that while his Eminence was terrible to his enemies, he was\nstrongly attached to his friends."
+  },
+  {
+   "n": 184,
+   "para": 100,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“If De Wardes has related all our affair to the cardinal, which is not\nto be doubted, and if he has recognized me, as is probable, I may\nconsider myself almost as a condemned man,”"
+  },
+  {
+   "n": 185,
+   "para": 100,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, shaking\nhis head."
+  },
+  {
+   "n": 186,
+   "para": 100,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But why has he waited till now? That’s all plain enough.\nMilady has laid her complaints against me with that hypocritical grief\nwhich renders her so interesting, and this last offense has made the\ncup overflow.”"
+  },
+  {
+   "n": 187,
+   "para": 101,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Fortunately,”"
+  },
+  {
+   "n": 188,
+   "para": 101,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added he,"
+  },
+  {
+   "n": 189,
+   "para": 101,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“my good friends are down yonder, and they\nwill not allow me to be carried away without a struggle. Nevertheless,\nMonsieur de Tréville’s company of Musketeers alone cannot maintain a\nwar against the cardinal, who disposes of the forces of all France, and\nbefore whom the queen is without power and the king without will.\nD’Artagnan, my friend, you are brave, you are prudent, you have\nexcellent qualities; but the women will ruin you!”"
+  },
+  {
+   "n": 190,
+   "para": 102,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He came to this melancholy conclusion as he entered the antechamber. He\nplaced his letter in the hands of the usher on duty, who led him into\nthe waiting room and passed on into the interior of the palace."
+  },
+  {
+   "n": 191,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In this waiting room were five or six of the cardinal’s Guards, who\nrecognized D’Artagnan, and knowing that it was he who had wounded\nJussac, they looked upon him with a smile of singular meaning."
+  },
+  {
+   "n": 192,
+   "para": 104,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This smile appeared to D’Artagnan to be of bad augury. Only, as our\nGascon was not easily intimidated—or rather, thanks to a great pride\nnatural to the men of his country, he did not allow one easily to see\nwhat was passing in his mind when that which was passing at all\nresembled fear—he placed himself haughtily in front of Messieurs the\nGuards, and waited with his hand on his hip, in an attitude by no means\ndeficient in majesty."
+  },
+  {
+   "n": 193,
+   "para": 105,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The usher returned and made a sign to D’Artagnan to follow him. It\nappeared to the young man that the Guards, on seeing him depart,\nchuckled among themselves."
+  },
+  {
+   "n": 194,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He traversed a corridor, crossed a grand saloon, entered a library, and\nfound himself in the presence of a man seated at a desk and writing."
+  },
+  {
+   "n": 195,
+   "para": 107,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The usher introduced him, and retired without speaking a word.\nD’Artagnan remained standing and examined this man."
+  },
+  {
+   "n": 196,
+   "para": 108,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan at first believed that he had to do with some judge\nexamining his papers; but he perceived that the man at the desk wrote,\nor rather corrected, lines of unequal length, scanning the words on his\nfingers. He saw then that he was with a poet. At the end of an instant\nthe poet closed his manuscript, upon the cover of which was written"
+  },
+  {
+   "n": 197,
+   "para": 108,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Mirame, a Tragedy in Five Acts,”"
+  },
+  {
+   "n": 198,
+   "para": 108,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "and raised his head."
+  },
+  {
+   "n": 199,
+   "para": 109,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan recognized the cardinal."
+  }
+ ]
+}

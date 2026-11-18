@@ -1,0 +1,1689 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 19,
+ "chapter": 19,
+ "title": "Plan of Campaign",
+ "document": "CHAPTER XIX",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch19.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Athos",
+   "cast_as": "Michel de Montaigne"
+  },
+  {
+   "role": "Porthos",
+   "cast_as": "Honore de Balzac"
+  },
+  {
+   "role": "Aramis",
+   "cast_as": "Napoleon III"
+  },
+  {
+   "role": "M. de Tréville",
+   "cast_as": "Jacques Cartier"
+  },
+  {
+   "role": "Louis XIII",
+   "cast_as": "Louis XVI of France"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter XIX.\nPLAN OF CAMPAIGN"
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan went straight to M. de Tréville’s. He had reflected that in\na few minutes the cardinal would be warned by this cursed stranger, who\nappeared to be his agent, and he judged, with reason, he had not a\nmoment to lose."
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The heart of the young man overflowed with joy. An opportunity\npresented itself to him in which there would be at the same time glory\nto be acquired, and money to be gained; and as a far higher\nencouragement, it brought him into close intimacy with a woman he\nadored. This chance did, then, for him at once more than he would have\ndared to ask of Providence."
+  },
+  {
+   "n": 4,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. de Tréville was in his saloon with his habitual court of gentlemen.\nD’Artagnan, who was known as a familiar of the house, went straight to\nhis office, and sent word that he wished to see him on something of\nimportance."
+  },
+  {
+   "n": 5,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan had been there scarcely five minutes when M. de Tréville\nentered. At the first glance, and by the joy which was painted on his\ncountenance, the worthy captain plainly perceived that something new\nwas on foot."
+  },
+  {
+   "n": 6,
+   "para": 5,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "All the way along D’Artagnan had been consulting with himself whether\nhe should place confidence in M. de Tréville, or whether he should only\nask him to give him _carte blanche_ for some secret affair. But M. de\nTréville had always been so thoroughly his friend, had always been so\ndevoted to the king and queen, and hated the cardinal so cordially,\nthat the young man resolved to tell him everything."
+  },
+  {
+   "n": 7,
+   "para": 6,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Did you ask for me, my good friend?”"
+  },
+  {
+   "n": 8,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville."
+  },
+  {
+   "n": 9,
+   "para": 7,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Yes, monsieur,”"
+  },
+  {
+   "n": 10,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, lowering his voice,"
+  },
+  {
+   "n": 11,
+   "para": 7,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“and you will\npardon me, I hope, for having disturbed you when you know the\nimportance of my business.”"
+  },
+  {
+   "n": 12,
+   "para": 8,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Speak, then, I am all attention.”"
+  },
+  {
+   "n": 13,
+   "para": 9,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“It concerns nothing less,”"
+  },
+  {
+   "n": 14,
+   "para": 9,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 15,
+   "para": 9,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“than the honor, perhaps\nthe life of the queen.”"
+  },
+  {
+   "n": 16,
+   "para": 10,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“What did you say?”"
+  },
+  {
+   "n": 17,
+   "para": 10,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked M. de Tréville, glancing round to see if they\nwere surely alone, and then fixing his questioning look upon\nD’Artagnan."
+  },
+  {
+   "n": 18,
+   "para": 11,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I say, monsieur, that chance has rendered me master of a secret—”"
+  },
+  {
+   "n": 19,
+   "para": 12,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Which you will guard, I hope, young man, as your life.”"
+  },
+  {
+   "n": 20,
+   "para": 13,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“But which I must impart to you, monsieur, for you alone can assist me\nin the mission I have just received from her Majesty.”"
+  },
+  {
+   "n": 21,
+   "para": 14,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Is this secret your own?”"
+  },
+  {
+   "n": 22,
+   "para": 15,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“No, monsieur; it is her Majesty’s.”"
+  },
+  {
+   "n": 23,
+   "para": 16,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Are you authorized by her Majesty to communicate it to me?”"
+  },
+  {
+   "n": 24,
+   "para": 17,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“No, monsieur, for, on the contrary, I am desired to preserve the\nprofoundest mystery.”"
+  },
+  {
+   "n": 25,
+   "para": 18,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Why, then, are you about to betray it to me?”"
+  },
+  {
+   "n": 26,
+   "para": 19,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Because, as I said, without you I can do nothing; and I am afraid you\nwill refuse me the favor I come to ask if you do not know to what end I\nask it.”"
+  },
+  {
+   "n": 27,
+   "para": 20,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Keep your secret, young man, and tell me what you wish.”"
+  },
+  {
+   "n": 28,
+   "para": 21,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I wish you to obtain for me, from Monsieur Dessessart, leave of\nabsence for fifteen days.”"
+  },
+  {
+   "n": 29,
+   "para": 22,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“When?”"
+  },
+  {
+   "n": 30,
+   "para": 23,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“This very night.”"
+  },
+  {
+   "n": 31,
+   "para": 24,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“You leave Paris?”"
+  },
+  {
+   "n": 32,
+   "para": 25,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I am going on a mission.”"
+  },
+  {
+   "n": 33,
+   "para": 26,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“May you tell me whither?”"
+  },
+  {
+   "n": 34,
+   "para": 27,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“To London.”"
+  },
+  {
+   "n": 35,
+   "para": 28,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Has anyone an interest in preventing your arrival there?”"
+  },
+  {
+   "n": 36,
+   "para": 29,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The cardinal, I believe, would give the world to prevent my success.”"
+  },
+  {
+   "n": 37,
+   "para": 30,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“And you are going alone?”"
+  },
+  {
+   "n": 38,
+   "para": 31,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I am going alone.”"
+  },
+  {
+   "n": 39,
+   "para": 32,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“In that case you will not get beyond Bondy. I tell you so, by the\nfaith of de Tréville.”"
+  },
+  {
+   "n": 40,
+   "para": 33,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“How so?”"
+  },
+  {
+   "n": 41,
+   "para": 34,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“You will be assassinated.”"
+  },
+  {
+   "n": 42,
+   "para": 35,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And I shall die in the performance of my duty.”"
+  },
+  {
+   "n": 43,
+   "para": 36,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“But your mission will not be accomplished.”"
+  },
+  {
+   "n": 44,
+   "para": 37,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“That is true,”"
+  },
+  {
+   "n": 45,
+   "para": 37,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan."
+  },
+  {
+   "n": 46,
+   "para": 38,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Believe me,”"
+  },
+  {
+   "n": 47,
+   "para": 38,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued Tréville,"
+  },
+  {
+   "n": 48,
+   "para": 38,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“in enterprises of this kind, in\norder that one may arrive, four must set out.”"
+  },
+  {
+   "n": 49,
+   "para": 39,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Ah, you are right, monsieur,”"
+  },
+  {
+   "n": 50,
+   "para": 39,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan;"
+  },
+  {
+   "n": 51,
+   "para": 39,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“but you know Athos,\nPorthos, and Aramis, and you know if I can dispose of them.”"
+  },
+  {
+   "n": 52,
+   "para": 40,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Without confiding to them the secret which I am not willing to know?”"
+  },
+  {
+   "n": 53,
+   "para": 41,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“We are sworn, once for all, to implicit confidence and devotedness\nagainst all proof. Besides, you can tell them that you have full\nconfidence in me, and they will not be more incredulous than you.”"
+  },
+  {
+   "n": 54,
+   "para": 42,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“I can send to each of them leave of absence for fifteen days, that is\nall—to Athos, whose wound still makes him suffer, to go to the waters\nof Forges; to Porthos and Aramis to accompany their friend, whom they\nare not willing to abandon in such a painful condition. Sending their\nleave of absence will be proof enough that I authorize their journey.”"
+  },
+  {
+   "n": 55,
+   "para": 43,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Thanks, monsieur. You are a hundred times too good.”"
+  },
+  {
+   "n": 56,
+   "para": 44,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Begone, then, find them instantly, and let all be done tonight! Ha!\nBut first write your request to Dessessart. Perhaps you had a spy at\nyour heels; and your visit, if it should ever be known to the cardinal,\nwill thus seem legitimate.”"
+  },
+  {
+   "n": 57,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan drew up his request, and M. de Tréville, on receiving it,\nassured him that by two o’clock in the morning the four leaves of\nabsence should be at the respective domiciles of the travelers."
+  },
+  {
+   "n": 58,
+   "para": 46,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Have the goodness to send mine to Athos’s residence. I should dread\nsome disagreeable encounter if I were to go home.”"
+  },
+  {
+   "n": 59,
+   "para": 47,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Be easy. Adieu, and a prosperous voyage. _A propos_,”"
+  },
+  {
+   "n": 60,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de\nTréville, calling him back."
+  },
+  {
+   "n": 61,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan returned."
+  },
+  {
+   "n": 62,
+   "para": 49,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Have you any money?”"
+  },
+  {
+   "n": 63,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan tapped the bag he had in his pocket."
+  },
+  {
+   "n": 64,
+   "para": 51,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Enough?”"
+  },
+  {
+   "n": 65,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked M. de Tréville."
+  },
+  {
+   "n": 66,
+   "para": 52,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Three hundred pistoles.”"
+  },
+  {
+   "n": 67,
+   "para": 53,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Oh, plenty! That would carry you to the end of the world. Begone,\nthen!”"
+  },
+  {
+   "n": 68,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan saluted M. de Tréville, who held out his hand to him;\nD’Artagnan pressed it with a respect mixed with gratitude. Since his\nfirst arrival at Paris, he had had constant occasion to honor this\nexcellent man, whom he had always found worthy, loyal, and great."
+  },
+  {
+   "n": 69,
+   "para": 55,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "His first visit was to Aramis, at whose residence he had not been since\nthe famous evening on which he had followed Mme. Bonacieux. Still\nfurther, he had seldom seen the young Musketeer; but every time he had\nseen him, he had remarked a deep sadness imprinted on his countenance."
+  },
+  {
+   "n": 70,
+   "para": 56,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This evening, especially, Aramis was melancholy and thoughtful.\nD’Artagnan asked some questions about this prolonged melancholy. Aramis\npleaded as his excuse a commentary upon the eighteenth chapter of St.\nAugustine, which he was forced to write in Latin for the following\nweek, and which preoccupied him a good deal."
+  },
+  {
+   "n": 71,
+   "para": 57,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "After the two friends had been chatting a few moments, a servant from\nM. de Tréville entered, bringing a sealed packet."
+  },
+  {
+   "n": 72,
+   "para": 58,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“What is that?”"
+  },
+  {
+   "n": 73,
+   "para": 58,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Aramis."
+  },
+  {
+   "n": 74,
+   "para": 59,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“The leave of absence Monsieur has asked for,”"
+  },
+  {
+   "n": 75,
+   "para": 59,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the lackey."
+  },
+  {
+   "n": 76,
+   "para": 60,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“For me! I have asked for no leave of absence.”"
+  },
+  {
+   "n": 77,
+   "para": 61,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Hold your tongue and take it!”"
+  },
+  {
+   "n": 78,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan."
+  },
+  {
+   "n": 79,
+   "para": 61,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And you, my friend,\nthere is a demipistole for your trouble; you will tell Monsieur de\nTréville that Monsieur Aramis is very much obliged to him. Go.”"
+  },
+  {
+   "n": 80,
+   "para": 62,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The lackey bowed to the ground and departed."
+  },
+  {
+   "n": 81,
+   "para": 63,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“What does all this mean?”"
+  },
+  {
+   "n": 82,
+   "para": 63,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Aramis."
+  },
+  {
+   "n": 83,
+   "para": 64,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Pack up all you want for a journey of a fortnight, and follow me.”"
+  },
+  {
+   "n": 84,
+   "para": 65,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“But I cannot leave Paris just now without knowing—”"
+  },
+  {
+   "n": 85,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Aramis stopped."
+  },
+  {
+   "n": 86,
+   "para": 67,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What is become of her? I suppose you mean—”"
+  },
+  {
+   "n": 87,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued D’Artagnan."
+  },
+  {
+   "n": 88,
+   "para": 68,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Become of whom?”"
+  },
+  {
+   "n": 89,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis."
+  },
+  {
+   "n": 90,
+   "para": 69,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“The woman who was here—the woman with the embroidered handkerchief.”"
+  },
+  {
+   "n": 91,
+   "para": 70,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Who told you there was a woman here?”"
+  },
+  {
+   "n": 92,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Aramis, becoming as pale\nas death."
+  },
+  {
+   "n": 93,
+   "para": 71,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I saw her.”"
+  },
+  {
+   "n": 94,
+   "para": 72,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And you know who she is?”"
+  },
+  {
+   "n": 95,
+   "para": 73,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I believe I can guess, at least.”"
+  },
+  {
+   "n": 96,
+   "para": 74,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Listen!”"
+  },
+  {
+   "n": 97,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 98,
+   "para": 74,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Since you appear to know so many things, can\nyou tell me what is become of that woman?”"
+  },
+  {
+   "n": 99,
+   "para": 75,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I presume that she has returned to Tours.”"
+  },
+  {
+   "n": 100,
+   "para": 76,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“To Tours? Yes, that may be. You evidently know her. But why did she\nreturn to Tours without telling me anything?”"
+  },
+  {
+   "n": 101,
+   "para": 77,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Because she was in fear of being arrested.”"
+  },
+  {
+   "n": 102,
+   "para": 78,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Why has she not written to me, then?”"
+  },
+  {
+   "n": 103,
+   "para": 79,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Because she was afraid of compromising you.”"
+  },
+  {
+   "n": 104,
+   "para": 80,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“D’Artagnan, you restore me to life!”"
+  },
+  {
+   "n": 105,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis."
+  },
+  {
+   "n": 106,
+   "para": 80,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I fancied myself\ndespised, betrayed. I was so delighted to see her again! I could not\nhave believed she would risk her liberty for me, and yet for what other\ncause could she have returned to Paris?”"
+  },
+  {
+   "n": 107,
+   "para": 81,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“For the cause which today takes us to England.”"
+  },
+  {
+   "n": 108,
+   "para": 82,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And what is this cause?”"
+  },
+  {
+   "n": 109,
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "demanded Aramis."
+  },
+  {
+   "n": 110,
+   "para": 83,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Oh, you’ll know it someday, Aramis; but at present I must imitate the\ndiscretion of ‘the doctor’s niece.’”"
+  },
+  {
+   "n": 111,
+   "para": 84,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Aramis smiled, as he remembered the tale he had told his friends on a\ncertain evening."
+  },
+  {
+   "n": 112,
+   "para": 84,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Well, then, since she has left Paris, and you are\nsure of it, D’Artagnan, nothing prevents me, and I am ready to follow\nyou. You say we are going—”"
+  },
+  {
+   "n": 113,
+   "para": 85,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“To see Athos now, and if you will come thither, I beg you to make\nhaste, for we have lost much time already. _A propos_, inform Bazin.”"
+  },
+  {
+   "n": 114,
+   "para": 86,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Will Bazin go with us?”"
+  },
+  {
+   "n": 115,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Aramis."
+  },
+  {
+   "n": 116,
+   "para": 87,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Perhaps so. At all events, it is best that he should follow us to\nAthos’s.”"
+  },
+  {
+   "n": 117,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Aramis called Bazin, and, after having ordered him to join them at\nAthos’s residence, said"
+  },
+  {
+   "n": 118,
+   "para": 88,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Let us go then,”"
+  },
+  {
+   "n": 119,
+   "para": 88,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "at the same time taking his\ncloak, sword, and three pistols, opening uselessly two or three drawers\nto see if he could not find stray coin. When well assured this search\nwas superfluous, he followed D’Artagnan, wondering to himself how this\nyoung Guardsman should know so well who the lady was to whom he had\ngiven hospitality, and that he should know better than himself what had\nbecome of her."
+  },
+  {
+   "n": 120,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Only as they went out Aramis placed his hand upon the arm of\nD’Artagnan, and looking at him earnestly,"
+  },
+  {
+   "n": 121,
+   "para": 89,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“You have not spoken of this\nlady?”"
+  },
+  {
+   "n": 122,
+   "para": 89,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he."
+  },
+  {
+   "n": 123,
+   "para": 90,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“To nobody in the world.”"
+  },
+  {
+   "n": 124,
+   "para": 91,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Not even to Athos or Porthos?”"
+  },
+  {
+   "n": 125,
+   "para": 92,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I have not breathed a syllable to them.”"
+  },
+  {
+   "n": 126,
+   "para": 93,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Good enough!”"
+  },
+  {
+   "n": 127,
+   "para": 94,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Tranquil on this important point, Aramis continued his way with\nD’Artagnan, and both soon arrived at Athos’s dwelling. They found him\nholding his leave of absence in one hand, and M. de Tréville’s note in\nthe other."
+  },
+  {
+   "n": 128,
+   "para": 95,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Can you explain to me what signify this leave of absence and this\nletter, which I have just received?”"
+  },
+  {
+   "n": 129,
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the astonished Athos."
+  },
+  {
+   "n": 130,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "MY DEAR ATHOS,\n    I wish, as your health absolutely requires it, that you should rest\n    for a fortnight. Go, then, and take the waters of Forges, or any\n    that may be more agreeable to you, and recuperate yourself as\n    quickly as possible."
+  },
+  {
+   "n": 131,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Yours affectionate,\nDE TRÉVILLE"
+  },
+  {
+   "n": 132,
+   "para": 98,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, this leave of absence and that letter mean that you must follow\nme, Athos.”"
+  },
+  {
+   "n": 133,
+   "para": 99,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“To the waters of Forges?”"
+  },
+  {
+   "n": 134,
+   "para": 100,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“There or elsewhere.”"
+  },
+  {
+   "n": 135,
+   "para": 101,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“In the king’s service?”"
+  },
+  {
+   "n": 136,
+   "para": 102,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Either the king’s or the queen’s. Are we not their Majesties’\nservants?”"
+  },
+  {
+   "n": 137,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At that moment Porthos entered."
+  },
+  {
+   "n": 138,
+   "para": 103,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“_Pardieu!_”"
+  },
+  {
+   "n": 139,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 140,
+   "para": 103,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“here is a\nstrange thing! Since when, I wonder, in the Musketeers, did they grant\nmen leave of absence without their asking for it?”"
+  },
+  {
+   "n": 141,
+   "para": 104,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Since,”"
+  },
+  {
+   "n": 142,
+   "para": 104,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 143,
+   "para": 104,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“they have friends who ask it for them.”"
+  },
+  {
+   "n": 144,
+   "para": 105,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Ah, ah!”"
+  },
+  {
+   "n": 145,
+   "para": 105,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos,"
+  },
+  {
+   "n": 146,
+   "para": 105,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“it appears there’s something fresh here.”"
+  },
+  {
+   "n": 147,
+   "para": 106,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Yes, we are going—”"
+  },
+  {
+   "n": 148,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 149,
+   "para": 107,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“To what country?”"
+  },
+  {
+   "n": 150,
+   "para": 107,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "demanded Porthos."
+  },
+  {
+   "n": 151,
+   "para": 108,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“My faith! I don’t know much about it,”"
+  },
+  {
+   "n": 152,
+   "para": 108,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos."
+  },
+  {
+   "n": 153,
+   "para": 108,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Ask D’Artagnan.”"
+  },
+  {
+   "n": 154,
+   "para": 109,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“To London, gentlemen,”"
+  },
+  {
+   "n": 155,
+   "para": 109,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan."
+  },
+  {
+   "n": 156,
+   "para": 110,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“To London!”"
+  },
+  {
+   "n": 157,
+   "para": 110,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Porthos;"
+  },
+  {
+   "n": 158,
+   "para": 110,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“and what the devil are we going to do in\nLondon?”"
+  },
+  {
+   "n": 159,
+   "para": 111,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“That is what I am not at liberty to tell you, gentlemen; you must\ntrust to me.”"
+  },
+  {
+   "n": 160,
+   "para": 112,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“But in order to go to London,”"
+  },
+  {
+   "n": 161,
+   "para": 112,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added Porthos,"
+  },
+  {
+   "n": 162,
+   "para": 112,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“money is needed, and I\nhave none.”"
+  },
+  {
+   "n": 163,
+   "para": 113,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Nor I,”"
+  },
+  {
+   "n": 164,
+   "para": 113,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 165,
+   "para": 114,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Nor I,”"
+  },
+  {
+   "n": 166,
+   "para": 114,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos."
+  },
+  {
+   "n": 167,
+   "para": 115,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I have,”"
+  },
+  {
+   "n": 168,
+   "para": 115,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan, pulling out his treasure from his pocket,\nand placing it on the table."
+  },
+  {
+   "n": 169,
+   "para": 115,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“There are in this bag three hundred\npistoles. Let each take seventy-five; that is enough to take us to\nLondon and back. Besides, make yourselves easy; we shall not all arrive\nat London.”"
+  },
+  {
+   "n": 170,
+   "para": 116,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Why so?”"
+  },
+  {
+   "n": 171,
+   "para": 117,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Because, in all probability, some one of us will be left on the road.”"
+  },
+  {
+   "n": 172,
+   "para": 118,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Is this, then, a campaign upon which we are now entering?”"
+  },
+  {
+   "n": 173,
+   "para": 119,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“One of a most dangerous kind, I give you notice.”"
+  },
+  {
+   "n": 174,
+   "para": 120,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Ah! But if we do risk being killed,”"
+  },
+  {
+   "n": 175,
+   "para": 120,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos,"
+  },
+  {
+   "n": 176,
+   "para": 120,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“at least I should\nlike to know what for.”"
+  },
+  {
+   "n": 177,
+   "para": 121,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“You would be all the wiser,”"
+  },
+  {
+   "n": 178,
+   "para": 121,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos."
+  },
+  {
+   "n": 179,
+   "para": 122,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And yet,”"
+  },
+  {
+   "n": 180,
+   "para": 122,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis,"
+  },
+  {
+   "n": 181,
+   "para": 122,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I am somewhat of Porthos’s opinion.”"
+  },
+  {
+   "n": 182,
+   "para": 123,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Is the king accustomed to give you such reasons? No. He says to you\njauntily, ‘Gentlemen, there is fighting going on in Gascony or in\nFlanders; go and fight,’ and you go there. Why? You need give\nyourselves no more uneasiness about this.”"
+  },
+  {
+   "n": 183,
+   "para": 124,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“D’Artagnan is right,”"
+  },
+  {
+   "n": 184,
+   "para": 124,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos;"
+  },
+  {
+   "n": 185,
+   "para": 124,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“here are our three leaves of\nabsence which came from Monsieur de Tréville, and here are three\nhundred pistoles which came from I don’t know where. So let us go and\nget killed where we are told to go. Is life worth the trouble of so\nmany questions? D’Artagnan, I am ready to follow you.”"
+  },
+  {
+   "n": 186,
+   "para": 125,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“And I also,”"
+  },
+  {
+   "n": 187,
+   "para": 125,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos."
+  },
+  {
+   "n": 188,
+   "para": 126,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And I also,”"
+  },
+  {
+   "n": 189,
+   "para": 126,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Aramis."
+  },
+  {
+   "n": 190,
+   "para": 126,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“And, indeed, I am not sorry to quit Paris;\nI had need of distraction.”"
+  },
+  {
+   "n": 191,
+   "para": 127,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, you will have distractions enough, gentlemen, be assured,”"
+  },
+  {
+   "n": 192,
+   "para": 127,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said\nD’Artagnan."
+  },
+  {
+   "n": 193,
+   "para": 128,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“And, now, when are we to go?”"
+  },
+  {
+   "n": 194,
+   "para": 128,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Athos."
+  },
+  {
+   "n": 195,
+   "para": 129,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Immediately,”"
+  },
+  {
+   "n": 196,
+   "para": 129,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan;"
+  },
+  {
+   "n": 197,
+   "para": 129,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“we have not a minute to lose.”"
+  },
+  {
+   "n": 198,
+   "para": 130,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Hello, Grimaud! Planchet! Mousqueton! Bazin!”"
+  },
+  {
+   "n": 199,
+   "para": 130,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the four young\nmen, calling their lackeys,"
+  },
+  {
+   "n": 200,
+   "para": 130,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“clean my boots, and fetch the horses from\nthe hôtel.”"
+  },
+  {
+   "n": 201,
+   "para": 131,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Each Musketeer was accustomed to leave at the general hôtel, as at a\nbarrack, his own horse and that of his lackey. Planchet, Grimaud,\nMousqueton, and Bazin set off at full speed."
+  },
+  {
+   "n": 202,
+   "para": 132,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Now let us lay down the plan of campaign,”"
+  },
+  {
+   "n": 203,
+   "para": 132,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos."
+  },
+  {
+   "n": 204,
+   "para": 132,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Where do we\ngo first?”"
+  },
+  {
+   "n": 205,
+   "para": 133,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“To Calais,”"
+  },
+  {
+   "n": 206,
+   "para": 133,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan;"
+  },
+  {
+   "n": 207,
+   "para": 133,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“that is the most direct line to London.”"
+  },
+  {
+   "n": 208,
+   "para": 134,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Well,”"
+  },
+  {
+   "n": 209,
+   "para": 134,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos,"
+  },
+  {
+   "n": 210,
+   "para": 134,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“this is my advice—”"
+  },
+  {
+   "n": 211,
+   "para": 135,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Speak!”"
+  },
+  {
+   "n": 212,
+   "para": 136,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Four men traveling together would be suspected. D’Artagnan will give\neach of us his instructions. I will go by the way of Boulogne to clear\nthe way; Athos will set out two hours after, by that of Amiens; Aramis\nwill follow us by that of Noyon; as to D’Artagnan, he will go by what\nroute he thinks is best, in Planchet’s clothes, while Planchet will\nfollow us like D’Artagnan, in the uniform of the Guards.”"
+  },
+  {
+   "n": 213,
+   "para": 137,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Gentlemen,”"
+  },
+  {
+   "n": 214,
+   "para": 137,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 215,
+   "para": 137,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“my opinion is that it is not proper to allow\nlackeys to have anything to do in such an affair. A secret may, by\nchance, be betrayed by gentlemen; but it is almost always sold by\nlackeys.”"
+  },
+  {
+   "n": 216,
+   "para": 138,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Porthos’s plan appears to me to be impracticable,”"
+  },
+  {
+   "n": 217,
+   "para": 138,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 218,
+   "para": 138,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“inasmuch as I am myself ignorant of what instructions I can give you.\nI am the bearer of a letter, that is all. I have not, and I cannot make\nthree copies of that letter, because it is sealed. We must, then, as it\nappears to me, travel in company. This letter is here, in this pocket,”"
+  },
+  {
+   "n": 219,
+   "para": 138,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "and he pointed to the pocket which contained the letter."
+  },
+  {
+   "n": 220,
+   "para": 138,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“If I should\nbe killed, one of you must take it, and continue the route; if he be\nkilled, it will be another’s turn, and so on—provided a single one\narrives, that is all that is required.”"
+  },
+  {
+   "n": 221,
+   "para": 139,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Bravo, D’Artagnan, your opinion is mine,”"
+  },
+  {
+   "n": 222,
+   "para": 139,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Athos,"
+  },
+  {
+   "n": 223,
+   "para": 139,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Besides, we\nmust be consistent; I am going to take the waters, you will accompany\nme. Instead of taking the waters of Forges, I go and take sea waters; I\nam free to do so. If anyone wishes to stop us, I will show Monsieur de\nTréville’s letter, and you will show your leaves of absence. If we are\nattacked, we will defend ourselves; if we are tried, we will stoutly\nmaintain that we were only anxious to dip ourselves a certain number of\ntimes in the sea. They would have an easy bargain of four isolated men;\nwhereas four men together make a troop. We will arm our four lackeys\nwith pistols and musketoons; if they send an army out against us, we\nwill give battle, and the survivor, as D’Artagnan says, will carry the\nletter.”"
+  },
+  {
+   "n": 224,
+   "para": 140,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Well said,”"
+  },
+  {
+   "n": 225,
+   "para": 140,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried Aramis;"
+  },
+  {
+   "n": 226,
+   "para": 140,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“you don’t often speak, Athos, but when you\ndo speak, it is like St. John of the Golden Mouth. I agree to Athos’s\nplan. And you, Porthos?”"
+  },
+  {
+   "n": 227,
+   "para": 141,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“I agree to it, too,”"
+  },
+  {
+   "n": 228,
+   "para": 141,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Porthos,"
+  },
+  {
+   "n": 229,
+   "para": 141,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“if D’Artagnan approves of it.\nD’Artagnan, being the bearer of the letter, is naturally the head of\nthe enterprise; let him decide, and we will execute.”"
+  },
+  {
+   "n": 230,
+   "para": 142,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well,”"
+  },
+  {
+   "n": 231,
+   "para": 142,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan,"
+  },
+  {
+   "n": 232,
+   "para": 142,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I decide that we should adopt Athos’s plan,\nand that we set off in half an hour.”"
+  },
+  {
+   "n": 233,
+   "para": 143,
+   "role": "Porthos",
+   "cast": "Honore de Balzac",
+   "text": "“Agreed!”"
+  },
+  {
+   "n": 234,
+   "para": 143,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "shouted the three Musketeers in chorus."
+  },
+  {
+   "n": 235,
+   "para": 144,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Each one, stretching out his hand to the bag, took his seventy-five\npistoles, and made his preparations to set out at the time appointed."
+  }
+ ]
+}

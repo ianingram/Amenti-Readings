@@ -1,0 +1,2242 @@
+{
+ "work": "the-three-musketeers",
+ "episode": 6,
+ "chapter": 6,
+ "title": "His Majesty King Louis Xiii",
+ "document": "CHAPTER VI",
+ "source": {
+  "library": "library/alexandre-dumas/the-three-musketeers/ch06.md",
+  "text": "Alexandre Dumas, The Three Musketeers (1844) · Project Gutenberg #1257 · public domain"
+ },
+ "note": "Chapter complete. Cue boundaries fall on paragraph breaks and on the quotation marks of speech; every cue is byte-identical to the library file. Attributions are in REVIEW.md.",
+ "cast": [
+  {
+   "role": "Narrator",
+   "cast_as": "Alexandre Dumas"
+  },
+  {
+   "role": "D’Artagnan",
+   "cast_as": "Jules Verne"
+  },
+  {
+   "role": "Athos",
+   "cast_as": "Michel de Montaigne"
+  },
+  {
+   "role": "Aramis",
+   "cast_as": "Napoleon III"
+  },
+  {
+   "role": "M. de Tréville",
+   "cast_as": "Jacques Cartier"
+  },
+  {
+   "role": "Louis XIII",
+   "cast_as": "Louis XVI of France"
+  },
+  {
+   "role": "The Duke of Buckingham",
+   "cast_as": "John Milton"
+  }
+ ],
+ "cues": [
+  {
+   "n": 1,
+   "para": 0,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Chapter VI.\nHIS MAJESTY KING LOUIS XIII."
+  },
+  {
+   "n": 2,
+   "para": 1,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This affair made a great noise. M. de Tréville scolded his Musketeers\nin public, and congratulated them in private; but as no time was to be\nlost in gaining the king, M. de Tréville hastened to report himself at\nthe Louvre. It was already too late. The king was closeted with the\ncardinal, and M. de Tréville was informed that the king was busy and\ncould not receive him at that moment. In the evening M. de Tréville\nattended the king’s gaming table. The king was winning; and as he was\nvery avaricious, he was in an excellent humor. Perceiving M. de\nTréville at a distance—"
+  },
+  {
+   "n": 3,
+   "para": 2,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Come here, Monsieur Captain,”"
+  },
+  {
+   "n": 4,
+   "para": 2,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 5,
+   "para": 2,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“come here, that I may growl at\nyou. Do you know that his Eminence has been making fresh complaints\nagainst your Musketeers, and that with so much emotion, that this\nevening his Eminence is indisposed? Ah, these Musketeers of yours are\nvery devils—fellows to be hanged.”"
+  },
+  {
+   "n": 6,
+   "para": 3,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“No, sire,”"
+  },
+  {
+   "n": 7,
+   "para": 3,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied Tréville, who saw at the first glance how things\nwould go,"
+  },
+  {
+   "n": 8,
+   "para": 3,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“on the contrary, they are good creatures, as meek as lambs,\nand have but one desire, I’ll be their warranty. And that is that their\nswords may never leave their scabbards but in your majesty’s service.\nBut what are they to do? The Guards of Monsieur the Cardinal are\nforever seeking quarrels with them, and for the honor of the corps\neven, the poor young men are obliged to defend themselves.”"
+  },
+  {
+   "n": 9,
+   "para": 4,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Listen to Monsieur de Tréville,”"
+  },
+  {
+   "n": 10,
+   "para": 4,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king;"
+  },
+  {
+   "n": 11,
+   "para": 4,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“listen to him! Would\nnot one say he was speaking of a religious community? In truth, my dear\nCaptain, I have a great mind to take away your commission and give it\nto Mademoiselle de Chemerault, to whom I promised an abbey. But don’t\nfancy that I am going to take you on your bare word. I am called Louis\nthe Just, Monsieur de Tréville, and by and by, by and by we will see.”"
+  },
+  {
+   "n": 12,
+   "para": 5,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Ah, sire; it is because I confide in that justice that I shall wait\npatiently and quietly the good pleasure of your Majesty.”"
+  },
+  {
+   "n": 13,
+   "para": 6,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Wait, then, monsieur, wait,”"
+  },
+  {
+   "n": 14,
+   "para": 6,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king;"
+  },
+  {
+   "n": 15,
+   "para": 6,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“I will not detain you\nlong.”"
+  },
+  {
+   "n": 16,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In fact, fortune changed; and as the king began to lose what he had\nwon, he was not sorry to find an excuse for playing Charlemagne—if we\nmay use a gaming phrase of whose origin we confess our ignorance. The\nking therefore arose a minute after, and putting the money which lay\nbefore him into his pocket, the major part of which arose from his\nwinnings,"
+  },
+  {
+   "n": 17,
+   "para": 7,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“La Vieuville,”"
+  },
+  {
+   "n": 18,
+   "para": 7,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 19,
+   "para": 7,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“take my place; I must speak to\nMonsieur de Tréville on an affair of importance. Ah, I had eighty louis\nbefore me; put down the same sum, so that they who have lost may have\nnothing to complain of. Justice before everything.”"
+  },
+  {
+   "n": 20,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Then turning toward M. de Tréville and walking with him toward the\nembrasure of a window,"
+  },
+  {
+   "n": 21,
+   "para": 8,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Well, monsieur,”"
+  },
+  {
+   "n": 22,
+   "para": 8,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued he,"
+  },
+  {
+   "n": 23,
+   "para": 8,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“you say it is\nhis Eminence’s Guards who have sought a quarrel with your Musketeers?”"
+  },
+  {
+   "n": 24,
+   "para": 9,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Yes, sire, as they always do.”"
+  },
+  {
+   "n": 25,
+   "para": 10,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“And how did the thing happen? Let us see, for you know, my dear\nCaptain, a judge must hear both sides.”"
+  },
+  {
+   "n": 26,
+   "para": 11,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Good Lord! In the most simple and natural manner possible. Three of my\nbest soldiers, whom your Majesty knows by name, and whose devotedness\nyou have more than once appreciated, and who have, I dare affirm to the\nking, his service much at heart—three of my best soldiers, I say,\nAthos, Porthos, and Aramis, had made a party of pleasure with a young\nfellow from Gascony, whom I had introduced to them the same morning.\nThe party was to take place at St. Germain, I believe, and they had\nappointed to meet at the Carmes-Deschaux, when they were disturbed by\nde Jussac, Cahusac, Bicarat, and two other Guardsmen, who certainly did\nnot go there in such a numerous company without some ill intention\nagainst the edicts.”"
+  },
+  {
+   "n": 27,
+   "para": 12,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Ah, ah! You incline me to think so,”"
+  },
+  {
+   "n": 28,
+   "para": 12,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king."
+  },
+  {
+   "n": 29,
+   "para": 12,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“There is no doubt\nthey went thither to fight themselves.”"
+  },
+  {
+   "n": 30,
+   "para": 13,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“I do not accuse them, sire; but I leave your Majesty to judge what\nfive armed men could possibly be going to do in such a deserted place\nas the neighborhood of the Convent des Carmes.”"
+  },
+  {
+   "n": 31,
+   "para": 14,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Yes, you are right, Tréville, you are right!”"
+  },
+  {
+   "n": 32,
+   "para": 15,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Then, upon seeing my Musketeers they changed their minds, and forgot\ntheir private hatred for partisan hatred; for your Majesty cannot be\nignorant that the Musketeers, who belong to the king and nobody but the\nking, are the natural enemies of the Guardsmen, who belong to the\ncardinal.”"
+  },
+  {
+   "n": 33,
+   "para": 16,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Yes, Tréville, yes,”"
+  },
+  {
+   "n": 34,
+   "para": 16,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king, in a melancholy tone;"
+  },
+  {
+   "n": 35,
+   "para": 16,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“and it is\nvery sad, believe me, to see thus two parties in France, two heads to\nroyalty. But all this will come to an end, Tréville, will come to an\nend. You say, then, that the Guardsmen sought a quarrel with the\nMusketeers?”"
+  },
+  {
+   "n": 36,
+   "para": 17,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“I say that it is probable that things have fallen out so, but I will\nnot swear to it, sire. You know how difficult it is to discover the\ntruth; and unless a man be endowed with that admirable instinct which\ncauses Louis XIII. to be named the Just—”"
+  },
+  {
+   "n": 37,
+   "para": 18,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“You are right, Tréville; but they were not alone, your Musketeers.\nThey had a youth with them?”"
+  },
+  {
+   "n": 38,
+   "para": 19,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Yes, sire, and one wounded man; so that three of the king’s\nMusketeers—one of whom was wounded—and a youth not only maintained\ntheir ground against five of the most terrible of the cardinal’s\nGuardsmen, but absolutely brought four of them to earth.”"
+  },
+  {
+   "n": 39,
+   "para": 20,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Why, this is a victory!”"
+  },
+  {
+   "n": 40,
+   "para": 20,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the king, all radiant,"
+  },
+  {
+   "n": 41,
+   "para": 20,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“a complete\nvictory!”"
+  },
+  {
+   "n": 42,
+   "para": 21,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Yes, sire; as complete as that of the Bridge of Ce.”"
+  },
+  {
+   "n": 43,
+   "para": 22,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Four men, one of them wounded, and a youth, say you?”"
+  },
+  {
+   "n": 44,
+   "para": 23,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“One hardly a young man; but who, however, behaved himself so admirably\non this occasion that I will take the liberty of recommending him to\nyour Majesty.”"
+  },
+  {
+   "n": 45,
+   "para": 24,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“How does he call himself?”"
+  },
+  {
+   "n": 46,
+   "para": 25,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“D’Artagnan, sire; he is the son of one of my oldest friends—the son of\na man who served under the king your father, of glorious memory, in the\ncivil war.”"
+  },
+  {
+   "n": 47,
+   "para": 26,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And you say this young man behaved himself well? Tell me how,\nTréville—you know how I delight in accounts of war and fighting.”"
+  },
+  {
+   "n": 48,
+   "para": 27,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "And Louis XIII. twisted his mustache proudly, placing his hand upon his\nhip."
+  },
+  {
+   "n": 49,
+   "para": 28,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Sire,”"
+  },
+  {
+   "n": 50,
+   "para": 28,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed Tréville,"
+  },
+  {
+   "n": 51,
+   "para": 28,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“as I told you, Monsieur d’Artagnan is little\nmore than a boy; and as he has not the honor of being a Musketeer, he\nwas dressed as a citizen. The Guards of the cardinal, perceiving his\nyouth and that he did not belong to the corps, invited him to retire\nbefore they attacked.”"
+  },
+  {
+   "n": 52,
+   "para": 29,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“So you may plainly see, Tréville,”"
+  },
+  {
+   "n": 53,
+   "para": 29,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "interrupted the king,"
+  },
+  {
+   "n": 54,
+   "para": 29,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“it was they\nwho attacked?”"
+  },
+  {
+   "n": 55,
+   "para": 30,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“That is true, sire; there can be no more doubt on that head. They\ncalled upon him then to retire; but he answered that he was a Musketeer\nat heart, entirely devoted to your Majesty, and that therefore he would\nremain with Messieurs the Musketeers.”"
+  },
+  {
+   "n": 56,
+   "para": 31,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Brave young man!”"
+  },
+  {
+   "n": 57,
+   "para": 31,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured the king."
+  },
+  {
+   "n": 58,
+   "para": 32,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Well, he did remain with them; and your Majesty has in him so firm a\nchampion that it was he who gave Jussac the terrible sword thrust which\nhas made the cardinal so angry.”"
+  },
+  {
+   "n": 59,
+   "para": 33,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“He who wounded Jussac!”"
+  },
+  {
+   "n": 60,
+   "para": 33,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the king,"
+  },
+  {
+   "n": 61,
+   "para": 33,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“he, a boy! Tréville, that’s\nimpossible!”"
+  },
+  {
+   "n": 62,
+   "para": 34,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“It is as I have the honor to relate it to your Majesty.”"
+  },
+  {
+   "n": 63,
+   "para": 35,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Jussac, one of the first swordsmen in the kingdom?”"
+  },
+  {
+   "n": 64,
+   "para": 36,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Well, sire, for once he found his master.”"
+  },
+  {
+   "n": 65,
+   "para": 37,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“I will see this young man, Tréville—I will see him; and if anything\ncan be done—well, we will make it our business.”"
+  },
+  {
+   "n": 66,
+   "para": 38,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“When will your Majesty deign to receive him?”"
+  },
+  {
+   "n": 67,
+   "para": 39,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Tomorrow, at midday, Tréville.”"
+  },
+  {
+   "n": 68,
+   "para": 40,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Shall I bring him alone?”"
+  },
+  {
+   "n": 69,
+   "para": 41,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“No, bring me all four together. I wish to thank them all at once.\nDevoted men are so rare, Tréville, by the back staircase. It is useless\nto let the cardinal know.”"
+  },
+  {
+   "n": 70,
+   "para": 42,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Yes, sire.”"
+  },
+  {
+   "n": 71,
+   "para": 43,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“You understand, Tréville—an edict is still an edict, it is forbidden\nto fight, after all.”"
+  },
+  {
+   "n": 72,
+   "para": 44,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“But this encounter, sire, is quite out of the ordinary conditions of a\nduel. It is a brawl; and the proof is that there were five of the\ncardinal’s Guardsmen against my three Musketeers and Monsieur\nd’Artagnan.”"
+  },
+  {
+   "n": 73,
+   "para": 45,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“That is true,”"
+  },
+  {
+   "n": 74,
+   "para": 45,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king;"
+  },
+  {
+   "n": 75,
+   "para": 45,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“but never mind, Tréville, come still by\nthe back staircase.”"
+  },
+  {
+   "n": 76,
+   "para": 46,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Tréville smiled; but as it was indeed something to have prevailed upon\nthis child to rebel against his master, he saluted the king\nrespectfully, and with this agreement, took leave of him."
+  },
+  {
+   "n": 77,
+   "para": 47,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "That evening the three Musketeers were informed of the honor accorded\nthem. As they had long been acquainted with the king, they were not\nmuch excited; but D’Artagnan, with his Gascon imagination, saw in it\nhis future fortune, and passed the night in golden dreams. By eight\no’clock in the morning he was at the apartment of Athos."
+  },
+  {
+   "n": 78,
+   "para": 48,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan found the Musketeer dressed and ready to go out. As the hour\nto wait upon the king was not till twelve, he had made a party with\nPorthos and Aramis to play a game at tennis in a tennis court situated\nnear the stables of the Luxembourg. Athos invited D’Artagnan to follow\nthem; and although ignorant of the game, which he had never played, he\naccepted, not knowing what to do with his time from nine o’clock in the\nmorning, as it then scarcely was, till twelve."
+  },
+  {
+   "n": 79,
+   "para": 49,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The two Musketeers were already there, and were playing together.\nAthos, who was very expert in all bodily exercises, passed with\nD’Artagnan to the opposite side and challenged them; but at the first\neffort he made, although he played with his left hand, he found that\nhis wound was yet too recent to allow of such exertion. D’Artagnan\nremained, therefore, alone; and as he declared he was too ignorant of\nthe game to play it regularly they only continued giving balls to one\nanother without counting. But one of these balls, launched by Porthos’\nherculean hand, passed so close to D’Artagnan’s face that he thought\nthat if, instead of passing near, it had hit him, his audience would\nhave been probably lost, as it would have been impossible for him to\npresent himself before the king. Now, as upon this audience, in his\nGascon imagination, depended his future life, he saluted Aramis and\nPorthos politely, declaring that he would not resume the game until he\nshould be prepared to play with them on more equal terms, and went and\ntook his place near the cord and in the gallery."
+  },
+  {
+   "n": 80,
+   "para": 50,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Unfortunately for D’Artagnan, among the spectators was one of his\nEminence’s Guardsmen, who, still irritated by the defeat of his\ncompanions, which had happened only the day before, had promised\nhimself to seize the first opportunity of avenging it. He believed this\nopportunity was now come and addressed his neighbor:"
+  },
+  {
+   "n": 81,
+   "para": 50,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“It is not\nastonishing that that young man should be afraid of a ball, for he is\ndoubtless a Musketeer apprentice.”"
+  },
+  {
+   "n": 82,
+   "para": 51,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan turned round as if a serpent had stung him, and fixed his\neyes intensely upon the Guardsman who had just made this insolent\nspeech."
+  },
+  {
+   "n": 83,
+   "para": 52,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“_Pardieu_,”"
+  },
+  {
+   "n": 84,
+   "para": 52,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "resumed the latter, twisting his mustache,"
+  },
+  {
+   "n": 85,
+   "para": 52,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“look at me as\nlong as you like, my little gentleman! I have said what I have said.”"
+  },
+  {
+   "n": 86,
+   "para": 53,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“And as since that which you have said is too clear to require any\nexplanation,”"
+  },
+  {
+   "n": 87,
+   "para": 53,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan, in a low voice,"
+  },
+  {
+   "n": 88,
+   "para": 53,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I beg you to follow\nme.”"
+  },
+  {
+   "n": 89,
+   "para": 54,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And when?”"
+  },
+  {
+   "n": 90,
+   "para": 54,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked the Guardsman, with the same jeering air."
+  },
+  {
+   "n": 91,
+   "para": 55,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“At once, if you please.”"
+  },
+  {
+   "n": 92,
+   "para": 56,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And you know who I am, without doubt?”"
+  },
+  {
+   "n": 93,
+   "para": 57,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I? I am completely ignorant; nor does it much disquiet me.”"
+  },
+  {
+   "n": 94,
+   "para": 58,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“You’re in the wrong there; for if you knew my name, perhaps you would\nnot be so pressing.”"
+  },
+  {
+   "n": 95,
+   "para": 59,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What is your name?”"
+  },
+  {
+   "n": 96,
+   "para": 60,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Bernajoux, at your service.”"
+  },
+  {
+   "n": 97,
+   "para": 61,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Well, then, Monsieur Bernajoux,”"
+  },
+  {
+   "n": 98,
+   "para": 61,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said D’Artagnan, tranquilly,"
+  },
+  {
+   "n": 99,
+   "para": 61,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“I will\nwait for you at the door.”"
+  },
+  {
+   "n": 100,
+   "para": 62,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Go, monsieur, I will follow you.”"
+  },
+  {
+   "n": 101,
+   "para": 63,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“Do not hurry yourself, monsieur, lest it be observed that we go out\ntogether. You must be aware that for our undertaking, company would be\nin the way.”"
+  },
+  {
+   "n": 102,
+   "para": 64,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“That’s true,”"
+  },
+  {
+   "n": 103,
+   "para": 64,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the Guardsman, astonished that his name had not\nproduced more effect upon the young man."
+  },
+  {
+   "n": 104,
+   "para": 65,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Indeed, the name of Bernajoux was known to all the world, D’Artagnan\nalone excepted, perhaps; for it was one of those which figured most\nfrequently in the daily brawls which all the edicts of the cardinal\ncould not repress."
+  },
+  {
+   "n": 105,
+   "para": 66,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Porthos and Aramis were so engaged with their game, and Athos was\nwatching them with so much attention, that they did not even perceive\ntheir young companion go out, who, as he had told the Guardsman of his\nEminence, stopped outside the door. An instant after, the Guardsman\ndescended in his turn. As D’Artagnan had no time to lose, on account of\nthe audience of the king, which was fixed for midday, he cast his eyes\naround, and seeing that the street was empty, said to his adversary,"
+  },
+  {
+   "n": 106,
+   "para": 66,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“My faith! It is fortunate for you, although your name is Bernajoux, to\nhave only to deal with an apprentice Musketeer. Never mind; be content,\nI will do my best. On guard!”"
+  },
+  {
+   "n": 107,
+   "para": 67,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“But,”"
+  },
+  {
+   "n": 108,
+   "para": 67,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he whom D’Artagnan thus provoked,"
+  },
+  {
+   "n": 109,
+   "para": 67,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“it appears to me that\nthis place is badly chosen, and that we should be better behind the\nAbbey St. Germain or in the Pré-aux-Clercs.”"
+  },
+  {
+   "n": 110,
+   "para": 68,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“What you say is full of sense,”"
+  },
+  {
+   "n": 111,
+   "para": 68,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied D’Artagnan;"
+  },
+  {
+   "n": 112,
+   "para": 68,
+   "role": "D’Artagnan",
+   "cast": "Jules Verne",
+   "text": "“but unfortunately\nI have very little time to spare, having an appointment at twelve\nprecisely. On guard, then, monsieur, on guard!”"
+  },
+  {
+   "n": 113,
+   "para": 69,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Bernajoux was not a man to have such a compliment paid to him twice. In\nan instant his sword glittered in his hand, and he sprang upon his\nadversary, whom, thanks to his great youthfulness, he hoped to\nintimidate."
+  },
+  {
+   "n": 114,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "But D’Artagnan had on the preceding day served his apprenticeship.\nFresh sharpened by his victory, full of hopes of future favor, he was\nresolved not to recoil a step. So the two swords were crossed close to\nthe hilts, and as D’Artagnan stood firm, it was his adversary who made\nthe retreating step; but D’Artagnan seized the moment at which, in this\nmovement, the sword of Bernajoux deviated from the line. He freed his\nweapon, made a lunge, and touched his adversary on the shoulder.\nD’Artagnan immediately made a step backward and raised his sword; but\nBernajoux cried out that it was nothing, and rushing blindly upon him,\nabsolutely spitted himself upon D’Artagnan’s sword. As, however, he did\nnot fall, as he did not declare himself conquered, but only broke away\ntoward the hôtel of M. de la Trémouille, in whose service he had a\nrelative, D’Artagnan was ignorant of the seriousness of the last wound\nhis adversary had received, and pressing him warmly, without doubt\nwould soon have completed his work with a third blow, when the noise\nwhich arose from the street being heard in the tennis court, two of the\nfriends of the Guardsman, who had seen him go out after exchanging some\nwords with D’Artagnan, rushed, sword in hand, from the court, and fell\nupon the conqueror. But Athos, Porthos, and Aramis quickly appeared in\ntheir turn, and the moment the two Guardsmen attacked their young\ncompanion, drove them back. Bernajoux now fell, and as the Guardsmen\nwere only two against four, they began to cry,"
+  },
+  {
+   "n": 115,
+   "para": 70,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“To the rescue! The\nHôtel de la Trémouille!”"
+  },
+  {
+   "n": 116,
+   "para": 70,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At these cries, all who were in the hôtel\nrushed out and fell upon the four companions, who on their side cried\naloud,"
+  },
+  {
+   "n": 117,
+   "para": 70,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“To the rescue, Musketeers!”"
+  },
+  {
+   "n": 118,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This cry was generally heeded; for the Musketeers were known to be\nenemies of the cardinal, and were beloved on account of the hatred they\nbore to his Eminence. Thus the soldiers of other companies than those\nwhich belonged to the Red Duke, as Aramis had called him, often took\npart with the king’s Musketeers in these quarrels. Of three Guardsmen\nof the company of M. Dessessart who were passing, two came to the\nassistance of the four companions, while the other ran toward the hôtel\nof M. de Tréville, crying,"
+  },
+  {
+   "n": 119,
+   "para": 71,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“To the rescue, Musketeers! To the rescue!”"
+  },
+  {
+   "n": 120,
+   "para": 71,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "As usual, this hôtel was full of soldiers of this company, who hastened\nto the succor of their comrades. The _mêlée_ became general, but\nstrength was on the side of the Musketeers. The cardinal’s Guards and\nM. de la Trémouille’s people retreated into the hôtel, the doors of\nwhich they closed just in time to prevent their enemies from entering\nwith them. As to the wounded man, he had been taken in at once, and, as\nwe have said, in a very bad state."
+  },
+  {
+   "n": 121,
+   "para": 72,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Excitement was at its height among the Musketeers and their allies, and\nthey even began to deliberate whether they should not set fire to the\nhôtel to punish the insolence of M. de la Trémouille’s domestics in\ndaring to make a _sortie_ upon the king’s Musketeers. The proposition\nhad been made, and received with enthusiasm, when fortunately eleven\no’clock struck. D’Artagnan and his companions remembered their\naudience, and as they would very much have regretted that such an\nopportunity should be lost, they succeeded in calming their friends,\nwho contented themselves with hurling some paving stones against the\ngates; but the gates were too strong. They soon tired of the sport.\nBesides, those who must be considered the leaders of the enterprise had\nquit the group and were making their way toward the hôtel of M. de\nTréville, who was waiting for them, already informed of this fresh\ndisturbance."
+  },
+  {
+   "n": 122,
+   "para": 73,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Quick to the Louvre,”"
+  },
+  {
+   "n": 123,
+   "para": 73,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 124,
+   "para": 73,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“to the Louvre without losing an\ninstant, and let us endeavor to see the king before he is prejudiced by\nthe cardinal. We will describe the thing to him as a consequence of the\naffair of yesterday, and the two will pass off together.”"
+  },
+  {
+   "n": 125,
+   "para": 74,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. de Tréville, accompanied by the four young fellows, directed his\ncourse toward the Louvre; but to the great astonishment of the captain\nof the Musketeers, he was informed that the king had gone stag hunting\nin the forest of St. Germain. M. de Tréville required this intelligence\nto be repeated to him twice, and each time his companions saw his brow\nbecome darker."
+  },
+  {
+   "n": 126,
+   "para": 75,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Had his Majesty,”"
+  },
+  {
+   "n": 127,
+   "para": 75,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked he,"
+  },
+  {
+   "n": 128,
+   "para": 75,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“any intention of holding this hunting\nparty yesterday?”"
+  },
+  {
+   "n": 129,
+   "para": 76,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“No, your Excellency,”"
+  },
+  {
+   "n": 130,
+   "para": 76,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the valet de chambre,"
+  },
+  {
+   "n": 131,
+   "para": 76,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“the Master of the\nHounds came this morning to inform him that he had marked down a stag.\nAt first the king answered that he would not go; but he could not\nresist his love of sport, and set out after dinner.”"
+  },
+  {
+   "n": 132,
+   "para": 77,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“And the king has seen the cardinal?”"
+  },
+  {
+   "n": 133,
+   "para": 77,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked M. de Tréville."
+  },
+  {
+   "n": 134,
+   "para": 78,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“In all probability he has,”"
+  },
+  {
+   "n": 135,
+   "para": 78,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the valet,"
+  },
+  {
+   "n": 136,
+   "para": 78,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“for I saw the horses\nharnessed to his Eminence’s carriage this morning, and when I asked\nwhere he was going, they told me, ‘To St. Germain.’”"
+  },
+  {
+   "n": 137,
+   "para": 79,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“He is beforehand with us,”"
+  },
+  {
+   "n": 138,
+   "para": 79,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville."
+  },
+  {
+   "n": 139,
+   "para": 79,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Gentlemen, I will see\nthe king this evening; but as to you, I do not advise you to risk doing\nso.”"
+  },
+  {
+   "n": 140,
+   "para": 80,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This advice was too reasonable, and moreover came from a man who knew\nthe king too well, to allow the four young men to dispute it. M. de\nTréville recommended everyone to return home and wait for news."
+  },
+  {
+   "n": 141,
+   "para": 81,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On entering his hôtel, M. de Tréville thought it best to be first in\nmaking the complaint. He sent one of his servants to M. de la\nTrémouille with a letter in which he begged of him to eject the\ncardinal’s Guardsmen from his house, and to reprimand his people for\ntheir audacity in making _sortie_ against the king’s Musketeers. But M.\nde la Trémouille—already prejudiced by his esquire, whose relative, as\nwe already know, Bernajoux was—replied that it was neither for M. de\nTréville nor the Musketeers to complain, but, on the contrary, for him,\nwhose people the Musketeers had assaulted and whose hôtel they had\nendeavored to burn. Now, as the debate between these two nobles might\nlast a long time, each becoming, naturally, more firm in his own\nopinion, M. de Tréville thought of an expedient which might terminate\nit quietly. This was to go himself to M. de la Trémouille."
+  },
+  {
+   "n": 142,
+   "para": 82,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "He repaired, therefore, immediately to his hôtel, and caused himself to\nbe announced."
+  },
+  {
+   "n": 143,
+   "para": 83,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The two nobles saluted each other politely, for if no friendship\nexisted between them, there was at least esteem. Both were men of\ncourage and honor; and as M. de la Trémouille—a Protestant, and seeing\nthe king seldom—was of no party, he did not, in general, carry any bias\ninto his social relations. This time, however, his address, although\npolite, was cooler than usual."
+  },
+  {
+   "n": 144,
+   "para": 84,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Monsieur,”"
+  },
+  {
+   "n": 145,
+   "para": 84,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville,"
+  },
+  {
+   "n": 146,
+   "para": 84,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“we fancy that we have each cause to\ncomplain of the other, and I am come to endeavor to clear up this\naffair.”"
+  },
+  {
+   "n": 147,
+   "para": 85,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“I have no objection,”"
+  },
+  {
+   "n": 148,
+   "para": 85,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied M. de la Trémouille,"
+  },
+  {
+   "n": 149,
+   "para": 85,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“but I warn you\nthat I am well informed, and all the fault is with your Musketeers.”"
+  },
+  {
+   "n": 150,
+   "para": 86,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“You are too just and reasonable a man, monsieur!”"
+  },
+  {
+   "n": 151,
+   "para": 86,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Tréville,"
+  },
+  {
+   "n": 152,
+   "para": 86,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“not\nto accept the proposal I am about to make to you.”"
+  },
+  {
+   "n": 153,
+   "para": 87,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Make it, monsieur, I listen.”"
+  },
+  {
+   "n": 154,
+   "para": 88,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“How is Monsieur Bernajoux, your esquire’s relative?”"
+  },
+  {
+   "n": 155,
+   "para": 89,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Why, monsieur, very ill indeed! In addition to the sword thrust in his\narm, which is not dangerous, he has received another right through his\nlungs, of which the doctor says bad things.”"
+  },
+  {
+   "n": 156,
+   "para": 90,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“But has the wounded man retained his senses?”"
+  },
+  {
+   "n": 157,
+   "para": 91,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“Perfectly.”"
+  },
+  {
+   "n": 158,
+   "para": 92,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Does he talk?”"
+  },
+  {
+   "n": 159,
+   "para": 93,
+   "role": "Aramis",
+   "cast": "Napoleon III",
+   "text": "“With difficulty, but he can speak.”"
+  },
+  {
+   "n": 160,
+   "para": 94,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Well, monsieur, let us go to him. Let us adjure him, in the name of\nthe God before whom he must perhaps appear, to speak the truth. I will\ntake him for judge in his own cause, monsieur, and will believe what he\nwill say.”"
+  },
+  {
+   "n": 161,
+   "para": 95,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. de la Trémouille reflected for an instant; then as it was difficult\nto suggest a more reasonable proposal, he agreed to it."
+  },
+  {
+   "n": 162,
+   "para": 96,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Both descended to the chamber in which the wounded man lay. The latter,\non seeing these two noble lords who came to visit him, endeavored to\nraise himself up in his bed; but he was too weak, and exhausted by the\neffort, he fell back again almost senseless."
+  },
+  {
+   "n": 163,
+   "para": 97,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. de la Trémouille approached him, and made him inhale some salts,\nwhich recalled him to life. Then M. de Tréville, unwilling that it\nshould be thought that he had influenced the wounded man, requested M.\nde la Trémouille to interrogate him himself."
+  },
+  {
+   "n": 164,
+   "para": 98,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "That happened which M. de Tréville had foreseen. Placed between life\nand death, as Bernajoux was, he had no idea for a moment of concealing\nthe truth; and he described to the two nobles the affair exactly as it\nhad passed."
+  },
+  {
+   "n": 165,
+   "para": 99,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This was all that M. de Tréville wanted. He wished Bernajoux a speedy\nconvalescence, took leave of M. de la Trémouille, returned to his\nhôtel, and immediately sent word to the four friends that he awaited\ntheir company at dinner."
+  },
+  {
+   "n": 166,
+   "para": 100,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. de Tréville entertained good company, wholly anticardinalist,\nthough. It may easily be understood, therefore, that the conversation\nduring the whole of dinner turned upon the two checks that his\nEminence’s Guardsmen had received. Now, as D’Artagnan had been the hero\nof these two fights, it was upon him that all the felicitations fell,\nwhich Athos, Porthos, and Aramis abandoned to him, not only as good\ncomrades, but as men who had so often had their turn that they could\nvery well afford him his."
+  },
+  {
+   "n": 167,
+   "para": 101,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Toward six o’clock M. de Tréville announced that it was time to go to\nthe Louvre; but as the hour of audience granted by his Majesty was\npast, instead of claiming the _entrée_ by the back stairs, he placed\nhimself with the four young men in the antechamber. The king had not\nyet returned from hunting. Our young men had been waiting about half an\nhour, amid a crowd of courtiers, when all the doors were thrown open,\nand his Majesty was announced."
+  },
+  {
+   "n": 168,
+   "para": 102,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At his announcement D’Artagnan felt himself tremble to the very marrow\nof his bones. The coming instant would in all probability decide the\nrest of his life. His eyes therefore were fixed in a sort of agony upon\nthe door through which the king must enter."
+  },
+  {
+   "n": 169,
+   "para": 103,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Louis XIII. appeared, walking fast. He was in hunting costume covered\nwith dust, wearing large boots, and holding a whip in his hand. At the\nfirst glance, D’Artagnan judged that the mind of the king was stormy."
+  },
+  {
+   "n": 170,
+   "para": 104,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This disposition, visible as it was in his Majesty, did not prevent the\ncourtiers from ranging themselves along his pathway. In royal\nantechambers it is worth more to be viewed with an angry eye than not\nto be seen at all. The three Musketeers therefore did not hesitate to\nmake a step forward. D’Artagnan on the contrary remained concealed\nbehind them; but although the king knew Athos, Porthos, and Aramis\npersonally, he passed before them without speaking or looking—indeed,\nas if he had never seen them before. As for M. de Tréville, when the\neyes of the king fell upon him, he sustained the look with so much\nfirmness that it was the king who dropped his eyes; after which his\nMajesty, grumbling, entered his apartment."
+  },
+  {
+   "n": 171,
+   "para": 105,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Matters go but badly,”"
+  },
+  {
+   "n": 172,
+   "para": 105,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos, smiling;"
+  },
+  {
+   "n": 173,
+   "para": 105,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“and we shall not be made\nChevaliers of the Order this time.”"
+  },
+  {
+   "n": 174,
+   "para": 106,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Wait here ten minutes,”"
+  },
+  {
+   "n": 175,
+   "para": 106,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville;"
+  },
+  {
+   "n": 176,
+   "para": 106,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“and if at the expiration\nof ten minutes you do not see me come out, return to my hôtel, for it\nwill be useless for you to wait for me longer.”"
+  },
+  {
+   "n": 177,
+   "para": 107,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The four young men waited ten minutes, a quarter of an hour, twenty\nminutes; and seeing that M. de Tréville did not return, went away very\nuneasy as to what was going to happen."
+  },
+  {
+   "n": 178,
+   "para": 108,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "M. de Tréville entered the king’s cabinet boldly, and found his Majesty\nin a very ill humor, seated on an armchair, beating his boot with the\nhandle of his whip. This, however, did not prevent his asking, with the\ngreatest coolness, after his Majesty’s health."
+  },
+  {
+   "n": 179,
+   "para": 109,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Bad, monsieur, bad!”"
+  },
+  {
+   "n": 180,
+   "para": 109,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the king;"
+  },
+  {
+   "n": 181,
+   "para": 109,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“I am bored.”"
+  },
+  {
+   "n": 182,
+   "para": 110,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This was, in fact, the worst complaint of Louis XIII., who would\nsometimes take one of his courtiers to a window and say,"
+  },
+  {
+   "n": 183,
+   "para": 110,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Monsieur\nSo-and-so, let us weary ourselves together.”"
+  },
+  {
+   "n": 184,
+   "para": 111,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“How! Your Majesty is bored? Have you not enjoyed the pleasures of the\nchase today?”"
+  },
+  {
+   "n": 185,
+   "para": 112,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“A fine pleasure, indeed, monsieur! Upon my soul, everything\ndegenerates; and I don’t know whether it is the game which leaves no\nscent, or the dogs that have no noses. We started a stag of ten\nbranches. We chased him for six hours, and when he was near being\ntaken—when St. Simon was already putting his horn to his mouth to sound\nthe _halali_—crack, all the pack takes the wrong scent and sets off\nafter a two-year-older. I shall be obliged to give up hunting, as I\nhave given up hawking. Ah, I am an unfortunate king, Monsieur de\nTréville! I had but one gerfalcon, and he died day before yesterday.”"
+  },
+  {
+   "n": 186,
+   "para": 113,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Indeed, sire, I wholly comprehend your disappointment. The misfortune\nis great; but I think you have still a good number of falcons, sparrow\nhawks, and tiercels.”"
+  },
+  {
+   "n": 187,
+   "para": 114,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And not a man to instruct them. Falconers are declining. I know no one\nbut myself who is acquainted with the noble art of venery. After me it\nwill all be over, and people will hunt with gins, snares, and traps. If\nI had but the time to train pupils! But there is the cardinal always at\nhand, who does not leave me a moment’s repose; who talks to me about\nSpain, who talks to me about Austria, who talks to me about England!\nAh! _à propos_ of the cardinal, Monsieur de Tréville, I am vexed with\nyou!”"
+  },
+  {
+   "n": 188,
+   "para": 115,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This was the chance at which M. de Tréville waited for the king. He\nknew the king of old, and he knew that all these complaints were but a\npreface—a sort of excitation to encourage himself—and that he had now\ncome to his point at last."
+  },
+  {
+   "n": 189,
+   "para": 116,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“And in what have I been so unfortunate as to displease your Majesty?”"
+  },
+  {
+   "n": 190,
+   "para": 116,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked M. de Tréville, feigning the most profound astonishment."
+  },
+  {
+   "n": 191,
+   "para": 117,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Is it thus you perform your charge, monsieur?”"
+  },
+  {
+   "n": 192,
+   "para": 117,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the king,\nwithout directly replying to de Tréville’s question."
+  },
+  {
+   "n": 193,
+   "para": 117,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Is it for this I\nname you captain of my Musketeers, that they should assassinate a man,\ndisturb a whole quarter, and endeavor to set fire to Paris, without\nyour saying a word? But yet,”"
+  },
+  {
+   "n": 194,
+   "para": 117,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the king,"
+  },
+  {
+   "n": 195,
+   "para": 117,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“undoubtedly my haste\naccuses you wrongfully; without doubt the rioters are in prison, and\nyou come to tell me justice is done.”"
+  },
+  {
+   "n": 196,
+   "para": 118,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Sire,”"
+  },
+  {
+   "n": 197,
+   "para": 118,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied M. de Tréville, calmly,"
+  },
+  {
+   "n": 198,
+   "para": 118,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“on the contrary, I come to\ndemand it of you.”"
+  },
+  {
+   "n": 199,
+   "para": 119,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And against whom?”"
+  },
+  {
+   "n": 200,
+   "para": 119,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the king."
+  },
+  {
+   "n": 201,
+   "para": 120,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Against calumniators,”"
+  },
+  {
+   "n": 202,
+   "para": 120,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville."
+  },
+  {
+   "n": 203,
+   "para": 121,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Ah! This is something new,”"
+  },
+  {
+   "n": 204,
+   "para": 121,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "replied the king."
+  },
+  {
+   "n": 205,
+   "para": 121,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Will you tell me that\nyour three damned Musketeers, Athos, Porthos, and Aramis, and your\nyoungster from Béarn, have not fallen, like so many furies, upon poor\nBernajoux, and have not maltreated him in such a fashion that probably\nby this time he is dead? Will you tell me that they did not lay siege\nto the hôtel of the Duc de la Trémouille, and that they did not\nendeavor to burn it?—which would not, perhaps, have been a great\nmisfortune in time of war, seeing that it is nothing but a nest of\nHuguenots, but which is, in time of peace, a frightful example. Tell\nme, now, can you deny all this?”"
+  },
+  {
+   "n": 206,
+   "para": 122,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“And who told you this fine story, sire?”"
+  },
+  {
+   "n": 207,
+   "para": 122,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "asked Tréville, quietly."
+  },
+  {
+   "n": 208,
+   "para": 123,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Who has told me this fine story, monsieur? Who should it be but he who\nwatches while I sleep, who labors while I amuse myself, who conducts\neverything at home and abroad—in France as in Europe?”"
+  },
+  {
+   "n": 209,
+   "para": 124,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Your Majesty probably refers to God,”"
+  },
+  {
+   "n": 210,
+   "para": 124,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville;"
+  },
+  {
+   "n": 211,
+   "para": 124,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“for I know\nno one except God who can be so far above your Majesty.”"
+  },
+  {
+   "n": 212,
+   "para": 125,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“No, monsieur; I speak of the prop of the state, of my only servant, of\nmy only friend—of the cardinal.”"
+  },
+  {
+   "n": 213,
+   "para": 126,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“His Eminence is not his holiness, sire.”"
+  },
+  {
+   "n": 214,
+   "para": 127,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“What do you mean by that, monsieur?”"
+  },
+  {
+   "n": 215,
+   "para": 128,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“That it is only the Pope who is infallible, and that this\ninfallibility does not extend to cardinals.”"
+  },
+  {
+   "n": 216,
+   "para": 129,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“You mean to say that he deceives me; you mean to say that he betrays\nme? You accuse him, then? Come, speak; avow freely that you accuse\nhim!”"
+  },
+  {
+   "n": 217,
+   "para": 130,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“No, sire, but I say that he deceives himself. I say that he is\nill-informed. I say that he has hastily accused your Majesty’s\nMusketeers, toward whom he is unjust, and that he has not obtained his\ninformation from good sources.”"
+  },
+  {
+   "n": 218,
+   "para": 131,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“The accusation comes from Monsieur de la Trémouille, from the duke\nhimself. What do you say to that?”"
+  },
+  {
+   "n": 219,
+   "para": 132,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“I might answer, sire, that he is too deeply interested in the question\nto be a very impartial witness; but so far from that, sire, I know the\nduke to be a royal gentleman, and I refer the matter to him—but upon\none condition, sire.”"
+  },
+  {
+   "n": 220,
+   "para": 133,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“What?”"
+  },
+  {
+   "n": 221,
+   "para": 134,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“It is that your Majesty will make him come here, will interrogate him\nyourself, _tête-à-tête_, without witnesses, and that I shall see your\nMajesty as soon as you have seen the duke.”"
+  },
+  {
+   "n": 222,
+   "para": 135,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“What, then! You will bind yourself,”"
+  },
+  {
+   "n": 223,
+   "para": 135,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the king,"
+  },
+  {
+   "n": 224,
+   "para": 135,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“by what Monsieur\nde la Trémouille shall say?”"
+  },
+  {
+   "n": 225,
+   "para": 136,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Yes, sire.”"
+  },
+  {
+   "n": 226,
+   "para": 137,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“You will accept his judgment?”"
+  },
+  {
+   "n": 227,
+   "para": 138,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Undoubtedly.”"
+  },
+  {
+   "n": 228,
+   "para": 139,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And you will submit to the reparation he may require?”"
+  },
+  {
+   "n": 229,
+   "para": 140,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Certainly.”"
+  },
+  {
+   "n": 230,
+   "para": 141,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“La Chesnaye,”"
+  },
+  {
+   "n": 231,
+   "para": 141,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king."
+  },
+  {
+   "n": 232,
+   "para": 141,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“La Chesnaye!”"
+  },
+  {
+   "n": 233,
+   "para": 142,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Louis XIII.’s confidential valet, who never left the door, entered in\nreply to the call."
+  },
+  {
+   "n": 234,
+   "para": 143,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“La Chesnaye,”"
+  },
+  {
+   "n": 235,
+   "para": 143,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king,"
+  },
+  {
+   "n": 236,
+   "para": 143,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“let someone go instantly and find\nMonsieur de la Trémouille; I wish to speak with him this evening.”"
+  },
+  {
+   "n": 237,
+   "para": 144,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Your Majesty gives me your word that you will not see anyone between\nMonsieur de la Trémouille and myself?”"
+  },
+  {
+   "n": 238,
+   "para": 145,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Nobody, by the faith of a gentleman.”"
+  },
+  {
+   "n": 239,
+   "para": 146,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Tomorrow, then, sire?”"
+  },
+  {
+   "n": 240,
+   "para": 147,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Tomorrow, monsieur.”"
+  },
+  {
+   "n": 241,
+   "para": 148,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“At what o’clock, please your Majesty?”"
+  },
+  {
+   "n": 242,
+   "para": 149,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“At any hour you will.”"
+  },
+  {
+   "n": 243,
+   "para": 150,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“But in coming too early I should be afraid of awakening your Majesty.”"
+  },
+  {
+   "n": 244,
+   "para": 151,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Awaken me! Do you think I ever sleep, then? I sleep no longer,\nmonsieur. I sometimes dream, that’s all. Come, then, as early as you\nlike—at seven o’clock; but beware, if you and your Musketeers are\nguilty.”"
+  },
+  {
+   "n": 245,
+   "para": 152,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“If my Musketeers are guilty, sire, the guilty shall be placed in your\nMajesty’s hands, who will dispose of them at your good pleasure. Does\nyour Majesty require anything further? Speak, I am ready to obey.”"
+  },
+  {
+   "n": 246,
+   "para": 153,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“No, monsieur, no; I am not called Louis the Just without reason.\nTomorrow, then, monsieur—tomorrow.”"
+  },
+  {
+   "n": 247,
+   "para": 154,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Till then, God preserve your Majesty!”"
+  },
+  {
+   "n": 248,
+   "para": 155,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "However ill the king might sleep, M. de Tréville slept still worse. He\nhad ordered his three Musketeers and their companion to be with him at\nhalf past six in the morning. He took them with him, without\nencouraging them or promising them anything, and without concealing\nfrom them that their luck, and even his own, depended upon the cast of\nthe dice."
+  },
+  {
+   "n": 249,
+   "para": 156,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "Arrived at the foot of the back stairs, he desired them to wait. If the\nking was still irritated against them, they would depart without being\nseen; if the king consented to see them, they would only have to be\ncalled."
+  },
+  {
+   "n": 250,
+   "para": 157,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "On arriving at the king’s private antechamber, M. de Tréville found La\nChesnaye, who informed him that they had not been able to find M. de la\nTrémouille on the preceding evening at his hôtel, that he returned too\nlate to present himself at the Louvre, that he had only that moment\narrived and that he was at that very hour with the king."
+  },
+  {
+   "n": 251,
+   "para": 158,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "This circumstance pleased M. de Tréville much, as he thus became\ncertain that no foreign suggestion could insinuate itself between M. de\nla Trémouille’s testimony and himself."
+  },
+  {
+   "n": 252,
+   "para": 159,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "In fact, ten minutes had scarcely passed away when the door of the\nking’s closet opened, and M. de Tréville saw M. de la Trémouille come\nout. The duke came straight up to him, and said:"
+  },
+  {
+   "n": 253,
+   "para": 159,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Monsieur de Tréville,\nhis Majesty has just sent for me in order to inquire respecting the\ncircumstances which took place yesterday at my hôtel. I have told him\nthe truth; that is to say, that the fault lay with my people, and that\nI was ready to offer you my excuses. Since I have the good fortune to\nmeet you, I beg you to receive them, and to hold me always as one of\nyour friends.”"
+  },
+  {
+   "n": 254,
+   "para": 160,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Monsieur the Duke,”"
+  },
+  {
+   "n": 255,
+   "para": 160,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said M. de Tréville,"
+  },
+  {
+   "n": 256,
+   "para": 160,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“I was so confident of your\nloyalty that I required no other defender before his Majesty than\nyourself. I find that I have not been mistaken, and I thank you that\nthere is still one man in France of whom may be said, without\ndisappointment, what I have said of you.”"
+  },
+  {
+   "n": 257,
+   "para": 161,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“That’s well said,”"
+  },
+  {
+   "n": 258,
+   "para": 161,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the king, who had heard all these compliments\nthrough the open door;"
+  },
+  {
+   "n": 259,
+   "para": 161,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“only tell him, Tréville, since he wishes to be\nconsidered your friend, that I also wish to be one of his, but he\nneglects me; that it is nearly three years since I have seen him, and\nthat I never do see him unless I send for him. Tell him all this for\nme, for these are things which a king cannot say for himself.”"
+  },
+  {
+   "n": 260,
+   "para": 162,
+   "role": "The Duke of Buckingham",
+   "cast": "John Milton",
+   "text": "“Thanks, sire, thanks,”"
+  },
+  {
+   "n": 261,
+   "para": 162,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the duke;"
+  },
+  {
+   "n": 262,
+   "para": 162,
+   "role": "The Duke of Buckingham",
+   "cast": "John Milton",
+   "text": "“but your Majesty may be assured\nthat it is not those—I do not speak of Monsieur de Tréville—whom your\nMajesty sees at all hours of the day that are most devoted to you.”"
+  },
+  {
+   "n": 263,
+   "para": 163,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Ah! You have heard what I said? So much the better, Duke, so much the\nbetter,”"
+  },
+  {
+   "n": 264,
+   "para": 163,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king, advancing toward the door."
+  },
+  {
+   "n": 265,
+   "para": 163,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Ah! It is you,\nTréville. Where are your Musketeers? I told you the day before\nyesterday to bring them with you; why have you not done so?”"
+  },
+  {
+   "n": 266,
+   "para": 164,
+   "role": "The Duke of Buckingham",
+   "cast": "John Milton",
+   "text": "“They are below, sire, and with your permission La Chesnaye will bid\nthem come up.”"
+  },
+  {
+   "n": 267,
+   "para": 165,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Yes, yes, let them come up immediately. It is nearly eight o’clock,\nand at nine I expect a visit. Go, Monsieur Duke, and return often. Come\nin, Tréville.”"
+  },
+  {
+   "n": 268,
+   "para": 166,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The Duke saluted and retired. At the moment he opened the door, the\nthree Musketeers and D’Artagnan, conducted by La Chesnaye, appeared at\nthe top of the staircase."
+  },
+  {
+   "n": 269,
+   "para": 167,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Come in, my braves,”"
+  },
+  {
+   "n": 270,
+   "para": 167,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king,"
+  },
+  {
+   "n": 271,
+   "para": 167,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“come in; I am going to scold\nyou.”"
+  },
+  {
+   "n": 272,
+   "para": 168,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The Musketeers advanced, bowing, D’Artagnan following closely behind\nthem."
+  },
+  {
+   "n": 273,
+   "para": 169,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“What the devil!”"
+  },
+  {
+   "n": 274,
+   "para": 169,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "continued the king."
+  },
+  {
+   "n": 275,
+   "para": 169,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Seven of his Eminence’s Guards\nplaced _hors de combat_ by you four in two days! That’s too many,\ngentlemen, too many! If you go on so, his Eminence will be forced to\nrenew his company in three weeks, and I to put the edicts in force in\nall their rigor. One now and then I don’t say much about; but seven in\ntwo days, I repeat, it is too many, it is far too many!”"
+  },
+  {
+   "n": 276,
+   "para": 170,
+   "role": "The Duke of Buckingham",
+   "cast": "John Milton",
+   "text": "“Therefore, sire, your Majesty sees that they are come, quite contrite\nand repentant, to offer you their excuses.”"
+  },
+  {
+   "n": 277,
+   "para": 171,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Quite contrite and repentant! Hem!”"
+  },
+  {
+   "n": 278,
+   "para": 171,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king."
+  },
+  {
+   "n": 279,
+   "para": 171,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“I place no\nconfidence in their hypocritical faces. In particular, there is one\nyonder of a Gascon look. Come hither, monsieur.”"
+  },
+  {
+   "n": 280,
+   "para": 172,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan, who understood that it was to him this compliment was\naddressed, approached, assuming a most deprecating air."
+  },
+  {
+   "n": 281,
+   "para": 173,
+   "role": "The Duke of Buckingham",
+   "cast": "John Milton",
+   "text": "“Why, you told me he was a young man? This is a boy, Tréville, a mere\nboy! Do you mean to say that it was he who bestowed that severe thrust\nat Jussac?”"
+  },
+  {
+   "n": 282,
+   "para": 174,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“And those two equally fine thrusts at Bernajoux.”"
+  },
+  {
+   "n": 283,
+   "para": 175,
+   "role": "The Duke of Buckingham",
+   "cast": "John Milton",
+   "text": "“Truly!”"
+  },
+  {
+   "n": 284,
+   "para": 176,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Without reckoning,”"
+  },
+  {
+   "n": 285,
+   "para": 176,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Athos,"
+  },
+  {
+   "n": 286,
+   "para": 176,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“that if he had not rescued me from\nthe hands of Cahusac, I should not now have the honor of making my very\nhumble reverence to your Majesty.”"
+  },
+  {
+   "n": 287,
+   "para": 177,
+   "role": "The Duke of Buckingham",
+   "cast": "John Milton",
+   "text": "“Why he is a very devil, this Béarnais! _Ventre-saint-gris_, Monsieur\nde Tréville, as the king my father would have said. But at this sort of\nwork, many doublets must be slashed and many swords broken. Now,\nGascons are always poor, are they not?”"
+  },
+  {
+   "n": 288,
+   "para": 178,
+   "role": "Athos",
+   "cast": "Michel de Montaigne",
+   "text": "“Sire, I can assert that they have hitherto discovered no gold mines in\ntheir mountains; though the Lord owes them this miracle in recompense\nfor the manner in which they supported the pretensions of the king your\nfather.”"
+  },
+  {
+   "n": 289,
+   "para": 179,
+   "role": "The Duke of Buckingham",
+   "cast": "John Milton",
+   "text": "“Which is to say that the Gascons made a king of me, myself, seeing\nthat I am my father’s son, is it not, Tréville? Well, happily, I don’t\nsay nay to it. La Chesnaye, go and see if by rummaging all my pockets\nyou can find forty pistoles; and if you can find them, bring them to\nme. And now let us see, young man, with your hand upon your conscience,\nhow did all this come to pass?”"
+  },
+  {
+   "n": 290,
+   "para": 180,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "D’Artagnan related the adventure of the preceding day in all its\ndetails; how, not having been able to sleep for the joy he felt in the\nexpectation of seeing his Majesty, he had gone to his three friends\nthree hours before the hour of audience; how they had gone together to\nthe tennis court, and how, upon the fear he had manifested lest he\nreceive a ball in the face, he had been jeered at by Bernajoux, who had\nnearly paid for his jeer with his life, and M. de la Trémouille, who\nhad nothing to do with the matter, with the loss of his hôtel."
+  },
+  {
+   "n": 291,
+   "para": 181,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“This is all very well,”"
+  },
+  {
+   "n": 292,
+   "para": 181,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "murmured the king,"
+  },
+  {
+   "n": 293,
+   "para": 181,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“yes, this is just the\naccount the duke gave me of the affair. Poor cardinal! Seven men in two\ndays, and those of his very best! But that’s quite enough, gentlemen;\nplease to understand, that’s enough. You have taken your revenge for\nthe Rue Férou, and even exceeded it; you ought to be satisfied.”"
+  },
+  {
+   "n": 294,
+   "para": 182,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“If your Majesty is so,”"
+  },
+  {
+   "n": 295,
+   "para": 182,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said Tréville,"
+  },
+  {
+   "n": 296,
+   "para": 182,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“we are.”"
+  },
+  {
+   "n": 297,
+   "para": 183,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Oh, yes; I am,”"
+  },
+  {
+   "n": 298,
+   "para": 183,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added the king, taking a handful of gold from La\nChesnaye, and putting it into the hand of D’Artagnan."
+  },
+  {
+   "n": 299,
+   "para": 183,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Here,”"
+  },
+  {
+   "n": 300,
+   "para": 183,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said he,"
+  },
+  {
+   "n": 301,
+   "para": 183,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“is a proof of my satisfaction.”"
+  },
+  {
+   "n": 302,
+   "para": 184,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "At this epoch, the ideas of pride which are in fashion in our days did\nnot prevail. A gentleman received, from hand to hand, money from the\nking, and was not the least in the world humiliated. D’Artagnan put his\nforty pistoles into his pocket without any scruple—on the contrary,\nthanking his Majesty greatly."
+  },
+  {
+   "n": 303,
+   "para": 185,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“There,”"
+  },
+  {
+   "n": 304,
+   "para": 185,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "said the king, looking at a clock,"
+  },
+  {
+   "n": 305,
+   "para": 185,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“there, now, as it is half\npast eight, you may retire; for as I told you, I expect someone at\nnine. Thanks for your devotedness, gentlemen. I may continue to rely\nupon it, may I not?”"
+  },
+  {
+   "n": 306,
+   "para": 186,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“Oh, sire!”"
+  },
+  {
+   "n": 307,
+   "para": 186,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "cried the four companions, with one voice,"
+  },
+  {
+   "n": 308,
+   "para": 186,
+   "role": "M. de Tréville",
+   "cast": "Jacques Cartier",
+   "text": "“we would allow\nourselves to be cut to pieces in your Majesty’s service.”"
+  },
+  {
+   "n": 309,
+   "para": 187,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Well, well, but keep whole; that will be better, and you will be more\nuseful to me. Tréville,”"
+  },
+  {
+   "n": 310,
+   "para": 187,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "added the king, in a low voice, as the others\nwere retiring,"
+  },
+  {
+   "n": 311,
+   "para": 187,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“as you have no room in the Musketeers, and as we have\nbesides decided that a novitiate is necessary before entering that\ncorps, place this young man in the company of the Guards of Monsieur\nDessessart, your brother-in-law. Ah, _pardieu_, Tréville! I enjoy\nbeforehand the face the cardinal will make. He will be furious; but I\ndon’t care. I am doing what is right.”"
+  },
+  {
+   "n": 312,
+   "para": 188,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The king waved his hand to Tréville, who left him and rejoined the\nMusketeers, whom he found sharing the forty pistoles with D’Artagnan."
+  },
+  {
+   "n": 313,
+   "para": 189,
+   "role": "Narrator",
+   "cast": "Alexandre Dumas",
+   "text": "The cardinal, as his Majesty had said, was really furious, so furious\nthat during eight days he absented himself from the king’s gaming\ntable. This did not prevent the king from being as complacent to him as\npossible whenever he met him, or from asking in the kindest tone,"
+  },
+  {
+   "n": 314,
+   "para": 189,
+   "role": "Louis XIII",
+   "cast": "Louis XVI of France",
+   "text": "“Well, Monsieur Cardinal, how fares it with that poor Jussac and that\npoor Bernajoux of yours?”"
+  }
+ ]
+}

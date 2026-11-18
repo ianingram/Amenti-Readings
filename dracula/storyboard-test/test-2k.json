@@ -1,0 +1,46 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "2K test (18 Nov): same beats at 2K",
+ "style": "A cinematic Romantic oil painting of 1893 in the exact manner of the reference painting: academic realism with dramatic chiaroscuro, warm amber lamplight and firelight against deep brown-black shadow, a cool blue window, atmospheric haze and shafts of light, deep architectural space, rich painterly brushwork. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch03-b1-1.jpg",
+  "mina": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg",
+  "seward": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg",
+  "jonathan": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-jonathan-white.jpg",
+  "arthur": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-arthur.jpg",
+  "quincey": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-quincey.jpg",
+  "vh": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing-2.jpg"
+ },
+ "people": {
+  "mina": "Mina Harker, a young dark-haired Englishwoman of about twenty-five, hair pinned up, a plain dark dress with a white high collar; no mark on her face",
+  "seward": "Dr John Seward, a doctor of about thirty, dark hair, bare clean-shaven face with no beard, no moustache and no spectacles, dark frock coat",
+  "jonathan": "Jonathan Harker, a grown man of twenty-six with snow-white hair and a young clean-shaven face, dark suit",
+  "arthur": "Arthur Holmwood, Lord Godalming, a tall young English nobleman of about thirty, dark curly hair, clean-shaven, in black mourning clothes",
+  "quincey": "Quincey Morris, a tall lean Texan of about thirty with a moustache, in a travelling coat and wide hat",
+  "vh": "Professor Van Helsing, a stocky elderly Dutch doctor of about sixty, grey hair, bare clean-shaven face with no beard and no moustache, dark frock coat"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17b-hand-2k",
+   "chapter": 17,
+   "cue": 70,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Shot: close. Close: the young woman lays her hand on the doctor's hand on the table and speaks gravely; warm lamplight on the two hands and her face."
+  },
+  {
+   "tag": "d3-ch17b-powerless-2k",
+   "chapter": 17,
+   "cue": 77,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Shot: medium. The young woman lies back in her chair, pale and spent, the phonograph earpieces in her lap; the doctor has jumped up with a horrified face and pours brandy from a decanter."
+  }
+ ],
+ "size": "2K"
+}

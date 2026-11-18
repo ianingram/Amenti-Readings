@@ -22,6 +22,7 @@ for b in sheet['beats']:
         prompt = lead + 'Scene: ' + b['text'] + (' People: ' + who + '.' if who else '') + ' Style: ' + sheet['style']
         body = {'model': m, 'prompt': prompt, 'aspect': b.get('aspect', '16:9'), 'n': n}
         if gem and refs: body['refs'] = refs
+        if gem and (b.get('size') or sheet.get('size')): body['size'] = b.get('size') or sheet['size']   # '2K' (18 Nov); absent = 1K
         if b.get('edit'):   # repair an existing painting: the image goes in, the change is described, the rest is kept
             body['refs'] = [b['edit']] + refs[:3]
             body['prompt'] = ('Edit the first image, a finished oil painting. ' + b['text'] + ' Change nothing else: keep the same '

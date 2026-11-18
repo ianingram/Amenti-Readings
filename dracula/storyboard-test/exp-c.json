@@ -1,0 +1,38 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "Model/wording experiment (18 Nov): c",
+ "style": "An oil painting of 1893, painted alla prima in the manner of Sargent, Repin and the Victorian narrative painters: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; a single warm lamp as the only light, two-thirds of the picture in deep brown-black shadow; ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {},
+ "people": {
+  "mina": "Mina Harker, a young dark-haired Englishwoman of about twenty-five, hair pinned up, a plain dark dress with a white high collar; no mark on her face",
+  "seward": "Dr John Seward, a doctor of about thirty, dark hair, bare clean-shaven face with no beard, no moustache and no spectacles, dark frock coat",
+  "jonathan": "Jonathan Harker, a grown man of twenty-six with snow-white hair and a young clean-shaven face, dark suit",
+  "arthur": "Arthur Holmwood, Lord Godalming, a tall young English nobleman of about thirty, dark curly hair, clean-shaven, in black mourning clothes",
+  "quincey": "Quincey Morris, a tall lean Texan of about thirty with a moustache, in a travelling coat and wide hat",
+  "vh": "Professor Van Helsing, a stocky elderly Dutch doctor of about sixty, grey hair, bare clean-shaven face with no beard and no moustache, dark frock coat"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17b-hand-c",
+   "chapter": 17,
+   "cue": 70,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Shot: close. Close: the young woman lays her hand on the doctor's hand on the table and speaks gravely; warm lamplight on the two hands and her face."
+  },
+  {
+   "tag": "d3-ch17b-powerless-c",
+   "chapter": 17,
+   "cue": 77,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "text": "Shot: medium. The young woman lies back in her chair, pale and spent, the phonograph earpieces in her lap; the doctor has jumped up with a horrified face and pours brandy from a decanter."
+  }
+ ],
+ "size": "2K"
+}

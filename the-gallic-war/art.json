@@ -1,7 +1,7 @@
 {
  "work": "the-gallic-war",
  "base": "art/",
- "note": "Part 1 drawn 18 Nov 2026 with gemini-2.5-flash-image (alla-prima recipe, face refs only), 1K, cropped 7.5% for signatures.",
+ "note": "Part 1 drawn 18 Nov 2026 with gemini-2.5-flash-image (alla-prima recipe, face refs only), 1K, cropped 7.5% for signatures. 52 pictures.",
  "episodes": {
   "1": [
    {
@@ -16,13 +16,17 @@
     "from": 2,
     "images": [
      "ep01-x-rhone.jpg",
-     "ep01-helvetia.jpg"
+     "ep01-helvetia.jpg",
+     "ep01-orgetorix.jpg"
     ]
    },
    {
     "from": 3,
     "images": [
-     "ep01-pact.jpg"
+     "ep01-x-helv-farms.jpg",
+     "ep01-x-oxen.jpg",
+     "ep01-pact.jpg",
+     "ep01-wagons.jpg"
     ]
    },
    {
@@ -39,9 +43,17 @@
     ]
    },
    {
+    "from": 6,
+    "images": [
+     "ep01-geneva.jpg",
+     "ep01-jura-pass.jpg"
+    ]
+   },
+   {
     "from": 7,
     "images": [
-     "ep01-envoys.jpg"
+     "ep01-envoys.jpg",
+     "ep01-caesar-rides.jpg"
     ]
    },
    {
@@ -98,6 +110,7 @@
    {
     "from": 15,
     "images": [
+     "ep01-x-council-ring.jpg",
      "ep01-caesar-replies.jpg",
      "ep01-camp-saone.jpg"
     ]
@@ -126,12 +139,21 @@
    {
     "from": 20,
     "images": [
+     "ep01-x-tent-night.jpg",
      "ep01-liscus.jpg"
+    ]
+   },
+   {
+    "from": 21,
+    "images": [
+     "ep01-private.jpg"
     ]
    },
    {
     "from": 22,
     "images": [
+     "ep01-x-aedui-hall.jpg",
+     "ep01-x-ford.jpg",
      "ep01-dumnorix-wealth.jpg"
     ]
    },

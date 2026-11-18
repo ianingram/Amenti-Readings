@@ -1,0 +1,63 @@
+{
+ "book": "the-gallic-war",
+ "part": "Part 1",
+ "chapter": 1,
+ "note": "Episode 1 (Book I, chapters I–XIX). Recipe (18 Nov, Ian): gemini-2.5-flash-image, alla-prima style sentence, face portraits only as references, no style-plate image.",
+ "style": "An oil painting of 58 BC, in the manner of Jean-Léon Gérôme, Lawrence Alma-Tadema and Ernest Meissonier's military pictures, painted alla prima: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; brilliant Mediterranean and Gaulish daylight — deep blue sky, towering white clouds, raking sun and crisp blue shadow on warm earth and stone (at night or by fire: a single source of light, much of the picture in deep shadow); ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Roman legionaries in mail shirts, bronze Montefortino helmets and curved oval shields; Gauls with long hair, moustaches, checked trousers, cloaks and torcs. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "caesar": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/caesar.jpg",
+  "divico": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divico.jpg",
+  "dumnorix": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/dumnorix.jpg",
+  "divitiacus": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divitiacus.jpg"
+ },
+ "people": {
+  "caesar": "Julius Caesar, lean, bald crown with thin hair combed forward, clean-shaven, red general's cloak over a bronze muscled cuirass",
+  "divico": "Divico, an aged Helvetian war-leader with long white hair and a long white moustache, gold torc, checked cloak",
+  "dumnorix": "Dumnorix of the Aedui, long fair hair, drooping moustache, gold torc, rich checked cloak",
+  "divitiacus": "Divitiacus, an Aeduan druid with long grey-brown hair and a moustache, white robe, gold torc"
+ },
+ "beats": [
+  {
+   "tag": "gw1-x-helv-farms",
+   "chapter": 1,
+   "cue": 3,
+   "who": [],
+   "text": "Late summer in the land of the Helvetii: golden fields being harvested by hand, sheaves stacked, a village of thatched timber houses, the Alps blue beyond. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-x-oxen",
+   "chapter": 1,
+   "cue": 3,
+   "who": [],
+   "text": "A long line of ox-carts with solid wooden wheels loaded with sacks of grain rolling along a dusty road between fields toward a gathering place, dust in the low sun. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-x-council-ring",
+   "chapter": 1,
+   "cue": 15,
+   "who": [],
+   "text": "An open-air assembly of Gauls on a hillside meadow: a great ring of warriors with spears and shields around their chiefs, banners on poles, a river valley below, bright clouds. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-x-tent-night",
+   "chapter": 1,
+   "cue": 20,
+   "who": [],
+   "text": "Caesar's camp at night: the general's tent glowing with lamplight among rows of dark tents, sentries with torches at the entrance, the eagle standard against the stars. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-x-aedui-hall",
+   "chapter": 1,
+   "cue": 22,
+   "who": [],
+   "text": "The great timber hall of an Aeduan noble at Bibracte by day: horses and mounted retainers in the yard before it, smoke from the roof, the ramparts beyond. Any people are small, far off, with no detail in their faces."
+  },
+  {
+   "tag": "gw1-x-ford",
+   "chapter": 1,
+   "cue": 22,
+   "who": [],
+   "text": "A shallow ford of the Saône in morning mist, Aeduan horsemen splashing across, willows on the bank, the Roman camp faint on the far hill. Any people are small, far off, with no detail in their faces."
+  }
+ ]
+}

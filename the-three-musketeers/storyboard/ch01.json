@@ -1,0 +1,583 @@
+{
+ "book": "the-three-musketeers",
+ "part": "Chapter I",
+ "note": "Chapter I illustrated, shot-sized: establishing for each place, wide shots carry the narration, close-ups sparing.",
+ "style": "A seventeenth-century French narrative oil painting in the manner of Meissonier and Maurice Leloir: academic realism, exact costume of 1625 (doublets, falling lace collars, wide-brimmed plumed felt hats, bucket-top boots, rapiers and baldrics), warm candlelight and golden daylight against blue Paris dusk, rich glazes, fine brushwork. One single painting filling the whole frame edge to edge; no text, lettering, signature, monogram, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/plate.jpg",
+  "dartagnan": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/dartagnan.jpg",
+  "rochefort": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/rochefort.jpg",
+  "milady": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/milady.jpg"
+ },
+ "people": {
+  "dartagnan": "D'Artagnan, a Gascon youth of eighteen: a long brown face, high cheekbones, open intelligent eyes, a finely chiselled hooked nose, dark hair to the shoulders, the faint first down of a moustache and no beard; a faded blue woollen doublet, a Béarnais cap with a feather, a long rapier on a leather baldric",
+  "rochefort": "the man of Meung (the Comte de Rochefort): a gentleman of forty to forty-five, black piercing eyes, a pale complexion, a strongly marked nose, a black well-shaped moustache, a small pale scar on the temple; a violet doublet with lace collar",
+  "milady": "Milady de Winter, a woman of twenty-two: pale and fair, long blonde curls falling over her shoulders, large languishing blue eyes, rosy lips, alabaster hands; a dark travelling gown with a lace collar",
+  "father": "D'Artagnan's father, an old Gascon gentleman of about sixty, lean and weathered, grey moustache and tuft, a worn but proud old-fashioned doublet",
+  "mother": "D'Artagnan's mother, a Gascon lady of about fifty in a dark gown and white coif",
+  "host": "the host of the Jolly Miller, a stout cunning innkeeper of fifty in a leather apron, cap in hand"
+ },
+ "beats": [
+  {
+   "tag": "tm-c01-meung-far",
+   "chapter": 1,
+   "cue": 2,
+   "who": [],
+   "text": "Shot: establishing, far. The market town of Meung on the Loire on a bright April morning in 1625: slate roofs and church tower above the river, townsfolk hurrying along the High Street toward a timber-framed inn, women running, a crowd gathering; brilliant spring daylight."
+  },
+  {
+   "tag": "tm-c01-cuirass",
+   "chapter": 1,
+   "cue": 2,
+   "who": [],
+   "text": "Shot: wide. Citizens of Meung in the street pulling on old cuirasses and snatching up muskets and partisans, women flying past, children crying at open doors; comic alarm in bright sunlight.",
+   "at": "hastened to don the cuirass"
+  },
+  {
+   "tag": "tm-c01-panics",
+   "chapter": 1,
+   "cue": 3,
+   "who": [],
+   "text": "Shot: wide, far. A French provincial town square in 1625: armed burghers, a few soldiers, a nobleman on horseback arguing, the townsfolk ready for any quarrel; spring sky."
+  },
+  {
+   "tag": "tm-c01-crowd-inn",
+   "chapter": 1,
+   "cue": 3,
+   "who": [],
+   "text": "Shot: wide. A vociferous curious crowd gathered before the gate of the Jolly Miller inn, craning to see something in the street.",
+   "at": "the cause of the hubbub"
+  },
+  {
+   "tag": "tm-c01-portrait-ride",
+   "chapter": 1,
+   "cue": 4,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. A young Gascon of eighteen riding into town on a small yellow pony, his long sword trailing, a feathered Béarnais cap, a faded blue doublet, looking proudly about him."
+  },
+  {
+   "tag": "tm-c01-portrait-close",
+   "chapter": 1,
+   "cue": 4,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: close. Close portrait of the young Gascon: long brown face, high cheekbones, keen intelligent eyes, hooked nose, a proud defiant air.",
+   "at": "face long and brown"
+  },
+  {
+   "tag": "tm-c01-pony",
+   "chapter": 1,
+   "cue": 5,
+   "who": [],
+   "text": "Shot: medium. A comical Béarn pony of fourteen years, yellow in its hide, without a hair in its tail, walking with its head lower than its knees, a shabby saddle; townsfolk smirking in the background."
+  },
+  {
+   "tag": "tm-c01-jeers",
+   "chapter": 1,
+   "cue": 5,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. Townsfolk in a market street laughing behind their hands at the young cavalier on his yellow pony, who glares at them, hand on his sword.",
+   "at": "the appearance of the aforesaid pony"
+  },
+  {
+   "tag": "tm-c01-bearn",
+   "chapter": 1,
+   "cue": 6,
+   "who": [],
+   "text": "Shot: establishing, far. A small old manor house in Béarn, Gascony, at the foot of the Pyrenees in golden morning light: stone walls, a tower, vineyards and mountains beyond. No people."
+  },
+  {
+   "tag": "tm-c01-father-hall",
+   "chapter": 1,
+   "cue": 7,
+   "who": [
+    "dartagnan",
+    "father"
+   ],
+   "text": "Shot: medium. In the bare hall of an old Gascon manor, an old gentleman gives counsel to his eighteen-year-old son, laying a hand on his shoulder; morning light through a small window."
+  },
+  {
+   "tag": "tm-c01-horse-born",
+   "chapter": 1,
+   "cue": 9,
+   "who": [],
+   "text": "Shot: wide. The stable of an old Gascon manor in golden light: the yellow pony in its stall, harness on the wall, an old groom. A gentle, nostalgic scene."
+  },
+  {
+   "tag": "tm-c01-father-close",
+   "chapter": 1,
+   "cue": 11,
+   "who": [
+    "father"
+   ],
+   "text": "Shot: close. Close: the old Gascon gentleman speaking earnestly, one finger raised, his weathered face proud and fond."
+  },
+  {
+   "tag": "tm-c01-letter",
+   "chapter": 1,
+   "cue": 11,
+   "who": [],
+   "text": "Shot: close detail. Close: an old man's hand giving a folded letter sealed with red wax and a small purse of fifteen crowns on a worn oak table.",
+   "at": "fifteen crowns, my horse"
+  },
+  {
+   "tag": "tm-c01-manor-court",
+   "chapter": 1,
+   "cue": 11,
+   "who": [
+    "dartagnan",
+    "father"
+   ],
+   "text": "Shot: wide. The courtyard of the old Gascon manor: father and son walking together, the old man talking with his hands, chickens, a well, the Pyrenees blue in the distance.",
+   "at": "Never fear quarrels"
+  },
+  {
+   "tag": "tm-c01-father-window",
+   "chapter": 1,
+   "cue": 11,
+   "who": [
+    "father"
+   ],
+   "text": "Shot: medium. The old Gascon gentleman at the window of his manor, looking out, recalling his youth as a soldier of King Henry IV; an old sword on the wall.",
+   "at": "Monsieur de Tréville"
+  },
+  {
+   "tag": "tm-c01-sword",
+   "chapter": 1,
+   "cue": 12,
+   "who": [
+    "dartagnan",
+    "father"
+   ],
+   "text": "Shot: medium. The old father girds his own long sword round his son's waist and kisses him on both cheeks, giving his blessing."
+  },
+  {
+   "tag": "tm-c01-mother",
+   "chapter": 1,
+   "cue": 13,
+   "who": [
+    "dartagnan",
+    "mother"
+   ],
+   "text": "Shot: medium. In a modest bedroom of the manor, the mother gives her son a small bottle of balm and a written recipe, tears in her eyes; he embraces her."
+  },
+  {
+   "tag": "tm-c01-depart",
+   "chapter": 1,
+   "cue": 14,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: establishing, far. Dawn on a country road leading away from a small Gascon manor: a young rider on a yellow pony setting out, small in the landscape, mountains behind, the road winding north."
+  },
+  {
+   "tag": "tm-c01-road-quixote",
+   "chapter": 1,
+   "cue": 15,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide, far. A young rider on a yellow pony on a dusty French country road in spring, poplars and fields, peasants turning to stare; he rides with his hand on his sword hilt like a Don Quixote."
+  },
+  {
+   "tag": "tm-c01-road-village",
+   "chapter": 1,
+   "cue": 15,
+   "who": [],
+   "text": "Shot: establishing, far. A French village street on a spring afternoon in 1625: half-timbered houses, a church, a few villagers at their doors, a dog. No main figures.",
+   "at": "the fist did not descend"
+  },
+  {
+   "tag": "tm-c01-jolly-miller",
+   "chapter": 1,
+   "cue": 16,
+   "who": [],
+   "text": "Shot: establishing. The front of the Jolly Miller inn at Meung: a timber-framed coaching inn with a painted sign without lettering, its gate open on a yard, a saddled horse beneath the arch, an open window on the ground floor; golden afternoon."
+  },
+  {
+   "tag": "tm-c01-alighting",
+   "chapter": 1,
+   "cue": 16,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The young Gascon alighting from his yellow pony at the inn gate with no one coming to hold his stirrup; at an open window on the ground floor a gentleman talks with two listeners.",
+   "at": "alighting from his horse"
+  },
+  {
+   "tag": "tm-c01-stranger",
+   "chapter": 1,
+   "cue": 17,
+   "who": [
+    "rochefort"
+   ],
+   "text": "Shot: close. Close: the stranger at the window, a gentleman of forty-five with black piercing eyes, pale complexion, black moustache and a scar on the temple, a violet doublet, a cool superior smile."
+  },
+  {
+   "tag": "tm-c01-laugh-window",
+   "chapter": 1,
+   "cue": 18,
+   "who": [
+    "rochefort"
+   ],
+   "text": "Shot: medium. At the open window of the inn, the stranger in violet makes a witty remark while his two listeners burst out laughing, looking toward the street."
+  },
+  {
+   "tag": "tm-c01-shout",
+   "chapter": 1,
+   "cue": 19,
+   "who": [
+    "dartagnan",
+    "rochefort"
+   ],
+   "text": "Shot: medium. The young Gascon, face flushed, striding toward the inn window with his fist on his hip, shouting at the gentleman behind the shutter."
+  },
+  {
+   "tag": "tm-c01-cool",
+   "chapter": 1,
+   "cue": 20,
+   "who": [
+    "rochefort"
+   ],
+   "text": "Shot: close. Close: the stranger slowly raising his eyes from the pony to the young man, ironic, unhurried."
+  },
+  {
+   "tag": "tm-c01-face-horse",
+   "chapter": 1,
+   "cue": 24,
+   "who": [
+    "dartagnan",
+    "rochefort"
+   ],
+   "text": "Shot: wide. The stranger walks slowly out of the inn and plants himself before the yellow pony, studying it with mock gravity, while the young Gascon glares beside it; townsfolk watching."
+  },
+  {
+   "tag": "tm-c01-draw",
+   "chapter": 1,
+   "cue": 25,
+   "who": [],
+   "text": "Shot: close detail. Close: a young man's hand drawing a long rapier a foot out of its old scabbard, the hilt worn, sunlight on the blade."
+  },
+  {
+   "tag": "tm-c01-turn-away",
+   "chapter": 1,
+   "cue": 40,
+   "who": [
+    "rochefort",
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The stranger turning on his heel to re-enter the inn by the gate, ignoring the young man who follows with his sword drawn; a saddled horse beneath the arch."
+  },
+  {
+   "tag": "tm-c01-lunge",
+   "chapter": 1,
+   "cue": 50,
+   "who": [
+    "dartagnan",
+    "rochefort"
+   ],
+   "text": "Shot: wide. In the inn yard the young Gascon makes a furious lunge; the stranger springs back, draws his sword and salutes on guard; dust, sunlight, onlookers."
+  },
+  {
+   "tag": "tm-c01-sticks",
+   "chapter": 1,
+   "cue": 50,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The host and two men fall upon the young Gascon with sticks, a shovel and fire tongs while the stranger sheathes his sword and steps back, amused; chaos in the inn yard.",
+   "at": "fell upon D’Artagnan"
+  },
+  {
+   "tag": "tm-c01-blows",
+   "chapter": 1,
+   "cue": 53,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. The young Gascon, hat knocked off, fending off a shower of blows from three assailants, refusing to retreat a step."
+  },
+  {
+   "tag": "tm-c01-broken",
+   "chapter": 1,
+   "cue": 57,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. The young Gascon struck down in the dust of the inn yard, his sword broken in two beside him, a little blood on his forehead, almost fainting."
+  },
+  {
+   "tag": "tm-c01-flocking",
+   "chapter": 1,
+   "cue": 58,
+   "who": [],
+   "text": "Shot: wide. People flocking from all sides into the inn yard; the host and his men carry the wounded young man into the kitchen; women at windows."
+  },
+  {
+   "tag": "tm-c01-window-crowd",
+   "chapter": 1,
+   "cue": 59,
+   "who": [
+    "rochefort"
+   ],
+   "text": "Shot: medium. The stranger back at the window, looking out over the crowd with impatience, a little bored."
+  },
+  {
+   "tag": "tm-c01-inn-room",
+   "chapter": 1,
+   "cue": 60,
+   "who": [
+    "rochefort",
+    "host"
+   ],
+   "text": "Shot: wide. A low beamed room of the Jolly Miller inn: the stranger seated by the window, the host bowing before him cap in hand; afternoon light."
+  },
+  {
+   "tag": "tm-c01-host-bow",
+   "chapter": 1,
+   "cue": 70,
+   "who": [
+    "host"
+   ],
+   "text": "Shot: medium. The stout host leaning close to whisper, cap in hand, with a sly expression."
+  },
+  {
+   "tag": "tm-c01-reverie",
+   "chapter": 1,
+   "cue": 90,
+   "who": [
+    "rochefort"
+   ],
+   "text": "Shot: close. Close: the stranger lost in a cold calculating reverie by the window, a finger on his moustache."
+  },
+  {
+   "tag": "tm-c01-kitchen-doublet",
+   "chapter": 1,
+   "cue": 94,
+   "who": [],
+   "text": "Shot: close detail. In the inn kitchen, a worn blue doublet hanging over a chair by the hearth, a folded letter with a red seal half showing from its pocket; copper pans, firelight. No people."
+  },
+  {
+   "tag": "tm-c01-saddled",
+   "chapter": 1,
+   "cue": 104,
+   "who": [],
+   "text": "Shot: wide. In the inn yard, a groom holding a fine saddled black horse ready by the gate; long afternoon shadows. No main figures."
+  },
+  {
+   "tag": "tm-c01-stairs",
+   "chapter": 1,
+   "cue": 118,
+   "who": [
+    "dartagnan",
+    "host"
+   ],
+   "text": "Shot: medium. The host helping the bandaged young Gascon, half-stupefied, without his doublet, down a narrow wooden stair of the inn."
+  },
+  {
+   "tag": "tm-c01-carriage",
+   "chapter": 1,
+   "cue": 119,
+   "who": [
+    "milady",
+    "rochefort"
+   ],
+   "text": "Shot: wide. A travelling carriage drawn by two horses halted in the street before the inn; the stranger in violet stands at the carriage door talking to a lady inside."
+  },
+  {
+   "tag": "tm-c01-milady",
+   "chapter": 1,
+   "cue": 119,
+   "who": [
+    "milady"
+   ],
+   "text": "Shot: close. Close: a young woman's face at a carriage window, pale and fair, long golden curls, large languishing blue eyes, rosy lips; cool and beautiful.",
+   "at": "was a woman of from twenty"
+  },
+  {
+   "tag": "tm-c01-orders",
+   "chapter": 1,
+   "cue": 120,
+   "who": [
+    "milady",
+    "rochefort"
+   ],
+   "text": "Shot: medium. The stranger leaning in to the carriage window speaking low to the fair lady, handing her a small box; secret, grave."
+  },
+  {
+   "tag": "tm-c01-burst",
+   "chapter": 1,
+   "cue": 130,
+   "who": [
+    "dartagnan",
+    "rochefort",
+    "milady"
+   ],
+   "text": "Shot: wide. The young Gascon, head bandaged, bursts out of the inn door shouting; the stranger at the carriage turns, hand on sword; the lady stares from the window."
+  },
+  {
+   "tag": "tm-c01-gallop-apart",
+   "chapter": 1,
+   "cue": 143,
+   "who": [],
+   "text": "Shot: establishing, far. Outside a small town on the Loire, a carriage racing away one way along the road and a horseman galloping the other, dust rising; afternoon light. Small figures."
+  },
+  {
+   "tag": "tm-c01-servant",
+   "chapter": 1,
+   "cue": 145,
+   "who": [],
+   "text": "Shot: wide. A servant on horseback galloping after his master down a street, throwing silver coins at the feet of the bowing innkeeper."
+  },
+  {
+   "tag": "tm-c01-fall-street",
+   "chapter": 1,
+   "cue": 147,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The wounded young Gascon collapsing in the middle of the street after ten steps, townsfolk running to him, the riders gone in the distance."
+  },
+  {
+   "tag": "tm-c01-bed",
+   "chapter": 1,
+   "cue": 150,
+   "who": [
+    "dartagnan",
+    "host"
+   ],
+   "text": "Shot: medium. In a small inn bedroom, the young Gascon in bed with a bandaged head, the host fussing and flattering at the bedside."
+  },
+  {
+   "tag": "tm-c01-balm",
+   "chapter": 1,
+   "cue": 162,
+   "who": [],
+   "text": "Shot: close detail. Close: a small bottle of his mother's balm on a bedside table with rosemary, a cup of wine and bandages, in morning light."
+  },
+  {
+   "tag": "tm-c01-pay",
+   "chapter": 1,
+   "cue": 163,
+   "who": [
+    "dartagnan",
+    "host"
+   ],
+   "text": "Shot: medium. The young Gascon, recovered, counting out coins to the host in the inn kitchen; the host bowing."
+  },
+  {
+   "tag": "tm-c01-search",
+   "chapter": 1,
+   "cue": 164,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. The young Gascon turning out all his pockets and his valise, searching desperately for his lost letter, in his small room."
+  },
+  {
+   "tag": "tm-c01-search-house",
+   "chapter": 1,
+   "cue": 177,
+   "who": [
+    "host"
+   ],
+   "text": "Shot: wide. The inn kitchen in comic uproar: the host with a spit, his wife with a broom handle, the servants with sticks, all searching every corner for a lost letter."
+  },
+  {
+   "tag": "tm-c01-fury",
+   "chapter": 1,
+   "cue": 180,
+   "who": [
+    "dartagnan",
+    "host"
+   ],
+   "text": "Shot: medium. The young Gascon in a fury, hand on his broken sword hilt, threatening the cowering host in the inn kitchen."
+  },
+  {
+   "tag": "tm-c01-suspect",
+   "chapter": 1,
+   "cue": 200,
+   "who": [
+    "host",
+    "dartagnan"
+   ],
+   "text": "Shot: medium. The host whispering his suspicion to the young man; the young man's face darkening."
+  },
+  {
+   "tag": "tm-c01-leave-inn",
+   "chapter": 1,
+   "cue": 212,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The young Gascon remounting his yellow pony at the gate of the inn, the host bowing cap in hand; morning light, the road to Paris beyond."
+  },
+  {
+   "tag": "tm-c01-saint-antoine",
+   "chapter": 1,
+   "cue": 212,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: establishing, far. The gate of Saint-Antoine at Paris in 1625, the towers of the Bastille beside it, carts and travellers; a young man selling his yellow pony to a horse dealer.",
+   "at": "gate of St. Antoine"
+  },
+  {
+   "tag": "tm-c01-paris",
+   "chapter": 1,
+   "cue": 213,
+   "who": [],
+   "text": "Shot: establishing, far. Paris in 1625 seen from a hill in golden afternoon light: the Seine, the towers of Notre-Dame, the Pont Neuf crowded with people, church spires and slate roofs."
+  },
+  {
+   "tag": "tm-c01-fossoyeurs",
+   "chapter": 1,
+   "cue": 213,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The Rue des Fossoyeurs near the Luxembourg: a narrow Paris street of tall old houses; the young Gascon on foot, his little packet under his arm, looking up at a garret window.",
+   "at": "This chamber was a sort of garret"
+  },
+  {
+   "tag": "tm-c01-garret",
+   "chapter": 1,
+   "cue": 214,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. In a small sunny garret, the young Gascon sitting on the bed sewing gold braid onto his doublet and hose, his broken sword beside him."
+  },
+  {
+   "tag": "tm-c01-ferraille",
+   "chapter": 1,
+   "cue": 214,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The Quai de la Ferraille in Paris: stalls of old blades and armour along the Seine; the young Gascon having a new blade fitted to his sword hilt.",
+   "at": "Quai"
+  },
+  {
+   "tag": "tm-c01-sleep",
+   "chapter": 1,
+   "cue": 215,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. Night in the garret: the young Gascon asleep, the sleep of the brave, moonlight and the blue Paris roofs through the small window, a candle guttering."
+  },
+  {
+   "tag": "tm-c01-morning",
+   "chapter": 1,
+   "cue": 216,
+   "who": [],
+   "text": "Shot: establishing, far. Morning over the roofs of Paris in 1625, sun rising behind church towers, smoke from chimneys, pigeons; a fresh blue sky."
+  }
+ ]
+}

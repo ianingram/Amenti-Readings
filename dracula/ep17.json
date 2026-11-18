@@ -148,7 +148,11 @@
    "para": 5,
    "role": "Dr Seward",
    "cast": "William Harvey",
-   "text": "He then made ready\nfor his departure, and shortly after drove off to Liverpool Street. I\ntook my way to Paddington, where I arrived about fifteen minutes before\nthe train came in."
+   "text": "He then made ready\nfor his departure, and shortly after drove off to Liverpool Street. I\ntook my way to Paddington, where I arrived about fifteen minutes before\nthe train came in.",
+   "score": {
+    "key": "train_run",
+    "xfade": 6
+   }
   },
   {
    "n": 16,
@@ -197,7 +201,11 @@
    "para": 10,
    "role": "Dr Seward",
    "cast": "William Harvey",
-   "text": "In due time we arrived. She knew, of course, that the place was a\nlunatic asylum, but I could see that she was unable to repress a shudder\nwhen we entered."
+   "text": "In due time we arrived. She knew, of course, that the place was a\nlunatic asylum, but I could see that she was unable to repress a shudder\nwhen we entered.",
+   "score": {
+    "key": "dread",
+    "xfade": 5
+   }
   },
   {
    "n": 23,
@@ -223,7 +231,11 @@
    "para": 13,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
-   "text": "29 September. —After I had tidied myself, I went down to Dr. Seward’s\nstudy. At the door I paused a moment, for I thought I heard him talking\nwith some one. As, however, he had pressed me to be quick, I knocked at\nthe door, and on his calling out,"
+   "text": "29 September. —After I had tidied myself, I went down to Dr. Seward’s\nstudy. At the door I paused a moment, for I thought I heard him talking\nwith some one. As, however, he had pressed me to be quick, I knocked at\nthe door, and on his calling out,",
+   "score": {
+    "key": "phonograph",
+    "xfade": 5
+   }
   },
   {
    "n": 26,
@@ -377,7 +389,11 @@
    "para": 24,
    "role": "Dr Seward",
    "cast": "William Harvey",
-   "text": "“Tell you of her death? Not for the wide world!”"
+   "text": "“Tell you of her death? Not for the wide world!”",
+   "score": {
+    "key": "vigil",
+    "xfade": 5
+   }
   },
   {
    "n": 48,
@@ -494,9 +510,9 @@
   {
    "n": 64,
    "score": {
-    "key": "phonograph",
-    "at": "Dr. Seward’s Diary",
-    "xfade": 6
+    "key": "under_light",
+    "xfade": 6,
+    "at": "Dr. Seward’s Diary"
    },
    "para": 33,
    "role": "Narrator",
@@ -508,7 +524,12 @@
    "para": 34,
    "role": "Dr Seward",
    "cast": "William Harvey",
-   "text": "29 September. —I was so absorbed in that wonderful diary of Jonathan\nHarker and that other of his wife that I let the time run on without\nthinking. Mrs. Harker was not down when the maid came to announce\ndinner, so I said: “She is possibly tired; let dinner wait an hour,” and\nI went on with my work. I had just finished Mrs. Harker’s diary, when\nshe came in. She looked sweetly pretty, but very sad, and her eyes were\nflushed with crying. This somehow moved me much. Of late I have had\ncause for tears, God knows! but the relief of them was denied me; and\nnow the sight of those sweet eyes, brightened with recent tears, went\nstraight to my heart. So I said as gently as I could:—"
+   "text": "29 September. —I was so absorbed in that wonderful diary of Jonathan\nHarker and that other of his wife that I let the time run on without\nthinking. Mrs. Harker was not down when the maid came to announce\ndinner, so I said: “She is possibly tired; let dinner wait an hour,” and\nI went on with my work. I had just finished Mrs. Harker’s diary, when\nshe came in. She looked sweetly pretty, but very sad, and her eyes were\nflushed with crying. This somehow moved me much. Of late I have had\ncause for tears, God knows! but the relief of them was denied me; and\nnow the sight of those sweet eyes, brightened with recent tears, went\nstraight to my heart. So I said as gently as I could:—",
+   "score": {
+    "key": "requiem",
+    "xfade": 8,
+    "at": "Mrs. Harker was not down"
+   }
   },
   {
    "n": 66,
@@ -544,7 +565,11 @@
    "para": 37,
    "role": "Dr Seward",
    "cast": "William Harvey",
-   "text": "“No one need ever know, shall ever know,” I said in a low voice. She\nlaid her hand on mine and said very gravely:—"
+   "text": "“No one need ever know, shall ever know,” I said in a low voice. She\nlaid her hand on mine and said very gravely:—",
+   "score": {
+    "key": "pastoral_sour",
+    "xfade": 6
+   }
   },
   {
    "n": 71,
@@ -577,9 +602,9 @@
   {
    "n": 75,
    "score": {
-    "key": "pastoral_sour",
-    "at": "Mina Harker’s Journal",
-    "xfade": 6
+    "key": "vigil",
+    "xfade": 6,
+    "at": "Mina Harker’s Journal"
    },
    "para": 41,
    "role": "Narrator",
@@ -624,7 +649,11 @@
    "para": 46,
    "role": "Dr Seward",
    "cast": "William Harvey",
-   "text": "30 September. —Mr. Harker arrived at nine o’clock. He had got his\nwife’s wire just before starting. He is uncommonly clever, if one can\njudge from his face, and full of energy. If this journal be true—and\njudging by one’s own wonderful experiences, it must be—he is also a man\nof great nerve. That going down to the vault a second time was a\nremarkable piece of daring. After reading his account of it I was\nprepared to meet a good specimen of manhood, but hardly the quiet,\nbusiness-like gentleman who came here to-day."
+   "text": "30 September. —Mr. Harker arrived at nine o’clock. He had got his\nwife’s wire just before starting. He is uncommonly clever, if one can\njudge from his face, and full of energy. If this journal be true—and\njudging by one’s own wonderful experiences, it must be—he is also a man\nof great nerve. That going down to the vault a second time was a\nremarkable piece of daring. After reading his account of it I was\nprepared to meet a good specimen of manhood, but hardly the quiet,\nbusiness-like gentleman who came here to-day.",
+   "score": {
+    "key": "dawn",
+    "xfade": 6
+   }
   },
   {
    "n": 81,
@@ -749,7 +778,11 @@
    "para": 61,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
-   "text": "Later. —Lord Godalming and Mr. Morris arrived earlier than we\nexpected. Dr. Seward was out on business, and had taken Jonathan with\nhim, so I had to see them. It was to me a painful meeting, for it\nbrought back all poor dear Lucy’s hopes of only a few months ago. Of\ncourse they had heard Lucy speak of me, and it seemed that Dr. Van\nHelsing, too, has been quite “blowing my trumpet,” as Mr. Morris\nexpressed it. Poor fellows, neither of them is aware that I know all\nabout the proposals they made to Lucy. They did not quite know what to\nsay or do, as they were ignorant of the amount of my knowledge; so they\nhad to keep on neutral subjects. However, I thought the matter over, and\ncame to the conclusion that the best thing I could do would be to post\nthem in affairs right up to date. I knew from Dr. Seward’s diary that\nthey had been at Lucy’s death—her real death—and that I need not fear\nto betray any secret before the time. So I told them, as well as I\ncould, that I had read all the papers and diaries, and that my husband\nand I, having typewritten them, had just finished putting them in order.\nI gave them each a copy to read in the library. When Lord Godalming got\nhis and turned it over—it does make a pretty good pile—he said:—"
+   "text": "Later. —Lord Godalming and Mr. Morris arrived earlier than we\nexpected. Dr. Seward was out on business, and had taken Jonathan with\nhim, so I had to see them. It was to me a painful meeting, for it\nbrought back all poor dear Lucy’s hopes of only a few months ago. Of\ncourse they had heard Lucy speak of me, and it seemed that Dr. Van\nHelsing, too, has been quite “blowing my trumpet,” as Mr. Morris\nexpressed it. Poor fellows, neither of them is aware that I know all\nabout the proposals they made to Lucy. They did not quite know what to\nsay or do, as they were ignorant of the amount of my knowledge; so they\nhad to keep on neutral subjects. However, I thought the matter over, and\ncame to the conclusion that the best thing I could do would be to post\nthem in affairs right up to date. I knew from Dr. Seward’s diary that\nthey had been at Lucy’s death—her real death—and that I need not fear\nto betray any secret before the time. So I told them, as well as I\ncould, that I had read all the papers and diaries, and that my husband\nand I, having typewritten them, had just finished putting them in order.\nI gave them each a copy to read in the library. When Lord Godalming got\nhis and turned it over—it does make a pretty good pile—he said:—",
+   "score": {
+    "key": "pastoral_sour",
+    "xfade": 6
+   }
   },
   {
    "n": 96,
@@ -777,7 +810,11 @@
    "para": 64,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
-   "text": "Here he turned away and covered his face with his hands. I could hear\nthe tears in his voice. Mr. Morris, with instinctive delicacy, just laid\na hand for a moment on his shoulder, and then walked quietly out of the\nroom. I suppose there is something in woman’s nature that makes a man\nfree to break down before her and express his feelings on the tender or\nemotional side without feeling it derogatory to his manhood; for when\nLord Godalming found himself alone with me he sat down on the sofa and\ngave way utterly and openly. I sat down beside him and took his hand. I\nhope he didn’t think it forward of me, and that if he ever thinks of it\nafterwards he never will have such a thought. There I wrong him; I\nknow he never will—he is too true a gentleman. I said to him, for I\ncould see that his heart was breaking:—"
+   "text": "Here he turned away and covered his face with his hands. I could hear\nthe tears in his voice. Mr. Morris, with instinctive delicacy, just laid\na hand for a moment on his shoulder, and then walked quietly out of the\nroom. I suppose there is something in woman’s nature that makes a man\nfree to break down before her and express his feelings on the tender or\nemotional side without feeling it derogatory to his manhood; for when\nLord Godalming found himself alone with me he sat down on the sofa and\ngave way utterly and openly. I sat down beside him and took his hand. I\nhope he didn’t think it forward of me, and that if he ever thinks of it\nafterwards he never will have such a thought. There I wrong him; I\nknow he never will—he is too true a gentleman. I said to him, for I\ncould see that his heart was breaking:—",
+   "score": {
+    "key": "requiem",
+    "xfade": 8
+   }
   },
   {
    "n": 100,
@@ -833,7 +870,11 @@
    "para": 69,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
-   "text": "“For dear Lucy’s sake,” I said as we clasped hands."
+   "text": "“For dear Lucy’s sake,” I said as we clasped hands.",
+   "score": {
+    "key": "pastoral_warm",
+    "xfade": 8
+   }
   },
   {
    "n": 108,
@@ -875,7 +916,11 @@
    "para": 71,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
-   "text": "As I came along the corridor I saw Mr. Morris looking out of a window.\nHe turned as he heard my footsteps."
+   "text": "As I came along the corridor I saw Mr. Morris looking out of a window.\nHe turned as he heard my footsteps.",
+   "score": {
+    "key": "under_light",
+    "xfade": 6
+   }
   },
   {
    "n": 114,

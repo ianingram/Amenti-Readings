@@ -1,0 +1,173 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "people": {},
+ "note": "XIX establishing, far and window shots.",
+ "style": "A cinematic Romantic oil painting of 1893 in the manner of the reference: academic realism, atmospheric haze, cool blue moonlight and grey daylight against warm amber lamplight, a wide view, rich painterly brushwork. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "style": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch01-munich-carriage-3.jpg"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch19-x-wall",
+   "chapter": 19,
+   "cue": 3,
+   "who": [],
+   "text": "Exterior at night, 1893: five small dark figures climbing over the high old wall between the asylum and Carfax, a lantern hooded, moonlight on the wet bricks, black trees above. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-x-house",
+   "chapter": 19,
+   "cue": 3,
+   "who": [],
+   "text": "Exterior at night: the huge gloomy half-ruined mansion of Carfax across an overgrown lawn, heavy stone and barred windows, the old chapel joined to it, moon behind ragged cloud. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-w-arms",
+   "chapter": 19,
+   "cue": 14,
+   "who": [],
+   "text": "Close view by lamplight: an open black leather bag on a table with its contents laid out, small silver crucifixes, a wreath of garlic flowers, revolvers, a knife, and small electric lamps on cords, 1893. No people."
+  },
+  {
+   "tag": "d3-ch19-x-shadows",
+   "chapter": 19,
+   "cue": 13,
+   "who": [],
+   "text": "Exterior at night: five small figures keeping to the black shadows of the trees as they cross toward the dark house, moonlight on the long grass. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-x-door",
+   "chapter": 19,
+   "cue": 23,
+   "who": [],
+   "text": "Exterior at night: the great studded oak door of Carfax under a stone porch, a small figure stooping at the lock with a lantern, others close behind in the dark. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-w-hall",
+   "chapter": 19,
+   "cue": 26,
+   "who": [],
+   "text": "Inside a long-deserted mansion at night, 1893: a dusty stone hall, thick cobwebs, a great staircase, the beams of small hand-lamps crossing in odd shapes through the dust, five men small in the far doorway. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-w-passage",
+   "chapter": 19,
+   "cue": 29,
+   "who": [],
+   "text": "A low dark stone passage in an old house at night, cobwebs hanging like rags, a heavy iron-bound door at the end, a lamp beam reaching toward it. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-w-chapel",
+   "chapter": 19,
+   "cue": 32,
+   "who": [],
+   "text": "The inside of a ruined chapel at night, vaulted and filthy, great wooden boxes of earth stacked in rows, lantern beams cutting through the dust, small figures among the boxes. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-w-boxes",
+   "chapter": 19,
+   "cue": 36,
+   "who": [],
+   "text": "Close view by lantern light: a row of old wooden boxes of earth in a dusty chapel, some gaps where boxes are missing, chalk marks on the lids. No people."
+  },
+  {
+   "tag": "d3-ch19-w-rats",
+   "chapter": 19,
+   "cue": 40,
+   "who": [],
+   "text": "The floor of a dark ruined chapel at night swarming with hundreds of rats, their eyes glinting like sparks in the lantern light, men small and still at the edge. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-x-dogs",
+   "chapter": 19,
+   "cue": 42,
+   "who": [],
+   "text": "Exterior at first light: three terriers frisking and barking in the overgrown yard of the old house, the great door open behind them, mist lifting. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-x-dawn",
+   "chapter": 19,
+   "cue": 43,
+   "who": [],
+   "text": "Exterior: morning quickening in the east over the dark roofs of Carfax and the asylum beyond the wall, a pale gold band on the horizon, five small figures leaving the old house across the wet grass. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-x-silent",
+   "chapter": 19,
+   "cue": 47,
+   "who": [],
+   "text": "Exterior at dawn: the asylum silent and grey, mist on the lawn, the statues and hedges in silhouette, one window lit. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-o-mina",
+   "chapter": 19,
+   "cue": 48,
+   "who": [],
+   "text": "Exterior at dawn: a small upstairs window of the asylum with the curtain half drawn, a woman sleeping just visible inside by a faint lamp, ivy and grey sky. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-x-noon",
+   "chapter": 19,
+   "cue": 51,
+   "who": [],
+   "text": "Exterior at noon on a grey October day, 1893: the asylum front and lawn under a flat white sky, rooks on the chimneys, an attendant small on the gravel. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-w-study",
+   "chapter": 19,
+   "cue": 61,
+   "who": [],
+   "text": "A doctor's study in daylight, 1893: a desk heaped with papers and a phonograph, tall window full of grey light, an empty chair pushed back. No people."
+  },
+  {
+   "tag": "d3-ch19-o-renfield",
+   "chapter": 19,
+   "cue": 69,
+   "who": [],
+   "text": "Exterior by day: a barred ground-floor cell window of the asylum, a man's pale face pressed near the bars inside, a fly on the glass, ivy around the stone. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-o-alone",
+   "chapter": 19,
+   "cue": 74,
+   "who": [],
+   "text": "Exterior in the afternoon: one upstairs window of the asylum, a young woman small and alone at it looking out, the rest of the house closed, autumn trees. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-x-mist",
+   "chapter": 19,
+   "cue": 76,
+   "who": [],
+   "text": "Exterior at night: thin white mist rising from the marshes and creeping toward the asylum wall, the moon behind it, the dark bulk of Carfax beyond."
+  },
+  {
+   "tag": "d3-ch19-x-barking",
+   "chapter": 19,
+   "cue": 77,
+   "who": [],
+   "text": "Exterior at night: the asylum grounds in moonlight, a dog barking at the end of a gravel walk, mist lying low on the lawn, a lit window above. Any people are small, far off or in shadow, with no detail in their faces."
+  },
+  {
+   "tag": "d3-ch19-x-creep",
+   "chapter": 19,
+   "cue": 78,
+   "who": [],
+   "text": "Exterior at night: a pale column of mist sliding over the lawn toward the dark house, lit faintly from within by a dull red glow like two eyes. No people."
+  },
+  {
+   "tag": "d3-ch19-w-seep",
+   "chapter": 19,
+   "cue": 78,
+   "who": [],
+   "text": "Inside a dark bedroom at night: white mist seeping in through the crack under a closed door and along the floorboards, a candle on a chair, a bed in shadow."
+  },
+  {
+   "tag": "d3-ch19-x-morning",
+   "chapter": 19,
+   "cue": 79,
+   "who": [],
+   "text": "Exterior on a grey October morning, 1893: the asylum and its grounds wet after rain, a pale sun breaking through, the high wall and Carfax beyond. Any people are small, far off or in shadow, with no detail in their faces."
+  }
+ ]
+}

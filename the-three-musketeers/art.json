@@ -24,6 +24,13 @@
     ]
    },
    {
+    "from": 4,
+    "images": [
+     "ch01-portrait-close.jpg"
+    ],
+    "at": "face long and brown"
+   },
+   {
     "from": 5,
     "images": [
      "ch01-pony.jpg"
@@ -82,6 +89,13 @@
     "at": "Monsieur de Tréville"
    },
    {
+    "from": 11,
+    "images": [
+     "ch01-vineyard.jpg"
+    ],
+    "at": "there he is, captain of the Musketeers"
+   },
+   {
     "from": 12,
     "images": [
      "ch01-sword.jpg"
@@ -92,6 +106,13 @@
     "images": [
      "ch01-mother.jpg"
     ]
+   },
+   {
+    "from": 13,
+    "images": [
+     "ch01-farewell.jpg"
+    ],
+    "at": "whereas Mme. D’Artagnan was a woman"
    },
    {
     "from": 14,
@@ -126,16 +147,37 @@
     "at": "alighting from his horse"
    },
    {
+    "from": 16,
+    "images": [
+     "ch01-auditors.jpg"
+    ],
+    "at": "his horse was"
+   },
+   {
     "from": 17,
     "images": [
      "ch01-stranger.jpg"
     ]
    },
    {
+    "from": 17,
+    "images": [
+     "ch01-portmanteau.jpg"
+    ],
+    "at": "This doublet and hose, though new, were creased"
+   },
+   {
     "from": 18,
     "images": [
      "ch01-laugh-window.jpg"
     ]
+   },
+   {
+    "from": 18,
+    "images": [
+     "ch01-cap-down.jpg"
+    ],
+    "at": "he pulled his cap down over his eyes"
    },
    {
     "from": 19,
@@ -162,9 +204,21 @@
     ]
    },
    {
+    "from": 26,
+    "images": [
+     "ch01-buttercup.jpg"
+    ]
+   },
+   {
     "from": 40,
     "images": [
      "ch01-turn-away.jpg"
+    ]
+   },
+   {
+    "from": 42,
+    "images": [
+     "ch01-turn.jpg"
     ]
    },
    {
@@ -184,6 +238,12 @@
     "from": 53,
     "images": [
      "ch01-blows.jpg"
+    ]
+   },
+   {
+    "from": 57,
+    "images": [
+     "ch01-broken.jpg"
     ]
    },
    {
@@ -229,10 +289,29 @@
     ]
    },
    {
+    "from": 113,
+    "images": [
+     "ch01-doorway-wait.jpg"
+    ]
+   },
+   {
+    "from": 116,
+    "images": [
+     "ch01-kitchen-enter.jpg"
+    ]
+   },
+   {
     "from": 118,
     "images": [
      "ch01-stairs.jpg"
     ]
+   },
+   {
+    "from": 118,
+    "images": [
+     "ch01-sees-carriage.jpg"
+    ],
+    "at": "the first thing he saw was his antagonist"
    },
    {
     "from": 119,
@@ -302,9 +381,28 @@
     ]
    },
    {
+    "from": 164,
+    "images": [
+     "ch01-rage.jpg"
+    ],
+    "at": "he flew, for the third time, into such a rage"
+   },
+   {
+    "from": 176,
+    "images": [
+     "ch01-cowed.jpg"
+    ]
+   },
+   {
     "from": 177,
     "images": [
      "ch01-search-house.jpg"
+    ]
+   },
+   {
+    "from": 193,
+    "images": [
+     "ch01-idea.jpg"
     ]
    },
    {
@@ -314,16 +412,36 @@
     ]
    },
    {
+    "from": 208,
+    "images": [
+     "ch01-mime.jpg"
+    ]
+   },
+   {
     "from": 212,
     "images": [
      "ch01-leave-inn.jpg"
     ]
    },
    {
+    "from": 212,
+    "images": [
+     "ch01-saint-antoine.jpg"
+    ],
+    "at": "gate of St. Antoine"
+   },
+   {
     "from": 213,
     "images": [
      "ch01-paris.jpg"
     ]
+   },
+   {
+    "from": 213,
+    "images": [
+     "ch01-fossoyeurs.jpg"
+    ],
+    "at": "This chamber was a sort of garret"
    },
    {
     "from": 214,

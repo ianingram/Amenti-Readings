@@ -45,8 +45,12 @@ The plate's look, written in: honey stone, dark timber and ochre dust under a ra
 - Candidates kept so Ian can switch: `plate-b.jpg` (the same yard, airier), `plate-c.jpg` (Tréville's antechamber by candle at dusk).
 - **Cast portraits (3:4):** `dartagnan.jpg`, `rochefort.jpg`, `milady.jpg`, `athos.jpg`, `porthos.jpg`, `aramis.jpg`, `richelieu.jpg`, `constance.jpg`, `treville.jpg`.
 
-## Anchors
-Chosen after chapter 1 is placed: the three best chapter-1 pictures. Later chapters describe the look in words and may pass one anchor beside the faces (never the plate).
+## Anchors (chosen 18 Nov from chapter 1, new recipe)
+- `art/ch01-jeers.jpg` — street daylight: raking sun, ochre dust, the crowd candid and off-centre.
+- `art/ch01-inn-room.jpg` — interior: one window of light, the rest in deep brown shadow.
+- `art/ch01-gallop-apart.jpg` — landscape: the Loire country, small figures, broken colour.
+
+Later chapters describe the look in words and may pass one anchor beside the faces (never the plate).
 
 ## Every batch
 Contact sheet beside the plate and the anchors (by eye; they are not passed to the model); reject anything that drifts (photographic, illustrative/commercial, wrong period); check faces against the portraits; check corners for signatures.

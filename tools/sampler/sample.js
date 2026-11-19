@@ -16,12 +16,15 @@ const KEY = process.env.VOICE_RENDER_KEY || ''; fs.mkdirSync(out, { recursive: t
   for (let i = 0; i < sheet.lines.length; i++) {
     const [role, fig, voice, text] = sheet.lines[i]; const s = styles[fig];
     let ok = false, info = '';
-    for (const wait of [0, 20, 60]) {
+    for (const wait of [0, 20, 60, 120]) {
       if (wait) await new Promise(r => setTimeout(r, wait * 1000));
-      const r = await fetch('https://amenti-proxy.ingram-ian.workers.dev/speak?probe=1', { method: 'POST',
-        headers: { 'Content-Type': 'application/json', 'Origin': 'https://ianingram.github.io', 'x-amenti-render': KEY },
-        body: JSON.stringify({ text, style: s.style, voice }) });
-      const ct = r.headers.get('content-type') || ''; const buf = Buffer.from(await r.arrayBuffer());
+      let r, ct, buf;   /* 19 Nov 2026: a dropped connection (ECONNRESET) used to end the whole run; now it is one more try */
+      try {
+        r = await fetch('https://amenti-proxy.ingram-ian.workers.dev/speak?probe=1', { method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Origin': 'https://ianingram.github.io', 'x-amenti-render': KEY },
+          body: JSON.stringify({ text, style: s.style, voice }) });
+        ct = r.headers.get('content-type') || ''; buf = Buffer.from(await r.arrayBuffer());
+      } catch (e) { info = 'network ' + (e.cause && e.cause.code || e.message); continue; }
       if (r.ok && !ct.includes('json')) { const ext = ct.includes('wav') ? 'wav' : ct.includes('mpeg') ? 'mp3' : ct.includes('ogg') ? 'ogg' : 'bin';
         fs.writeFileSync(path.join(out, String(i + 1).padStart(2, '0') + '.' + ext), buf); ok = true; info = ct + ' ' + buf.length + ' bytes, route ' + r.headers.get('x-amenti-route'); break; }
       info = r.status + ' ' + buf.toString().slice(0, 160);

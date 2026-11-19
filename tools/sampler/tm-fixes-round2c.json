@@ -1,0 +1,42 @@
+{
+ "work": "the-three-musketeers",
+ "note": "Round 2c · 19 Nov 2026: ch 8 cue 136 \"read D’Artagnan;\" (the cut clipped \"read\" in round 2). 3 takes, probe.",
+ "tags": [
+  "08-136-r1/0",
+  "08-136-r1/1",
+  "08-136-r1/2"
+ ],
+ "lines": [
+  [
+   "Narrator",
+   "Alexandre Dumas",
+   "Sadachbia",
+   "There were only a few words on the paper. Read D’Artagnan;"
+  ],
+  [
+   "Narrator",
+   "Alexandre Dumas",
+   "Sadachbia",
+   "There were only a few words on the paper. Read D’Artagnan;"
+  ],
+  [
+   "Narrator",
+   "Alexandre Dumas",
+   "Sadachbia",
+   "There were only a few words on the paper. Read D’Artagnan;"
+  ]
+ ],
+ "plan": [
+  {
+   "ch": "08",
+   "n": 136,
+   "pieces": [
+    0,
+    0
+   ],
+   "text": "There were only a few words on the paper. Read D’Artagnan;",
+   "own": "read D’Artagnan;",
+   "tag": "08-136-r1"
+  }
+ ]
+}

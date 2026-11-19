@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       sheet: { description: "Sampler sheet (tools/sampler/…json)", required: true, default: "tools/sampler/two-cities.json" }
+      artifact: { description: "Also keep the single takes as a 1-day run artifact (splice takes, so the sandbox can fetch them)", type: boolean, default: false }
 permissions: { contents: read }
 jobs:
   sample:
@@ -41,3 +42,13 @@ jobs:
           AWS_DEFAULT_REGION: auto
           EP: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
         run: aws s3 cp "$RUNNER_TEMP/s/sampler.mp3" "s3://amenti-studios-private/samplers/$(basename '${{ inputs.sheet }}' .json)-${{ github.run_id }}.mp3" --endpoint-url "$EP" --only-show-errors && aws s3 cp "$RUNNER_TEMP/s/" "s3://amenti-studios-private/samplers/$(basename '${{ inputs.sheet }}' .json)-${{ github.run_id }}/" --recursive --exclude "*" --include "[0-9][0-9]*" --include "sampler.json" --exclude "n_*" --endpoint-url "$EP" --only-show-errors && echo "delivered samplers/$(basename '${{ inputs.sheet }}' .json)-${{ github.run_id }}.mp3"
+      - name: Keep the single takes for a day (splice runs only; 19 Nov 2026)
+        if: ${{ inputs.artifact }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: takes
+          path: |
+            ${{ runner.temp }}/s/[0-9]*.*
+            ${{ runner.temp }}/s/sampler.json
+            !${{ runner.temp }}/s/n_*
+          retention-days: 1

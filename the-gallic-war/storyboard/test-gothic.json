@@ -1,0 +1,28 @@
+{
+ "book": "the-gallic-war",
+ "part": "Part 1",
+ "chapter": 1,
+ "note": "Style test (Ian, 18 Nov 23:20): more stylized — Italian Renaissance, Greco-Roman classical; gothic epic for dark scenes. Fills Part 1 holds at cues 5 and 7 if chosen.",
+ "style": "A gothic epic oil painting of Caesar's wars in Gaul, 58 BC, in the manner of Jean-Paul Laurens, Gustave Doré and John Martin, with the classical Greco-Roman gravity of the Italian Renaissance: vast dark sky and smoke dwarfing the people, a single fierce source of light — fire, torch or moon — figures emerging from deep shadow, grim, solemn and tragic, sculptural forms, rich glazed reds and golds against darkness, a polished academic old-master finish. Roman legionaries in mail shirts, bronze Montefortino helmets and curved oval shields; Gauls with long hair, moustaches, checked trousers, cloaks and torcs. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "caesar": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/caesar.jpg",
+  "divico": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divico.jpg",
+  "dumnorix": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/dumnorix.jpg",
+  "divitiacus": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divitiacus.jpg"
+ },
+ "people": {
+  "caesar": "Julius Caesar, lean, bald crown with thin hair combed forward, clean-shaven, red general's cloak over a bronze muscled cuirass",
+  "divico": "Divico, an aged Helvetian war-leader with long white hair and a long white moustache, gold torc, checked cloak",
+  "dumnorix": "Dumnorix of the Aedui, long fair hair, drooping moustache, gold torc, rich checked cloak",
+  "divitiacus": "Divitiacus, an Aeduan druid with long grey-brown hair and a moustache, white robe, gold torc"
+ },
+ "beats": [
+  {
+   "tag": "gw1-t-burn",
+   "chapter": 1,
+   "cue": 5,
+   "who": [],
+   "text": "Close on the edge of a burning Helvetian town: grain stores and houses ablaze, families with oxen and laden carts turning away from the fire, a warrior hurling a torch onto a granary.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  }
+ ]
+}

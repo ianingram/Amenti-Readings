@@ -33,7 +33,9 @@ for b in sheet['beats']:
             try:
                 d = json.load(urllib.request.urlopen(req, timeout=240)); break
             except urllib.error.HTTPError as e:
-                d = {'error': e.code, 'detail': e.read().decode()[:400]}
+                try: det = e.read().decode()[:400]
+                except Exception: det = ''                   # a reset while reading the error body (18 Nov) must not kill the run
+                d = {'error': e.code, 'detail': det}
                 if e.code in (429, 500, 502, 503): time.sleep(30 * (attempt + 1)); continue
                 break
             except Exception as e:

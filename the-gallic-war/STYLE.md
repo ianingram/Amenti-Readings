@@ -38,6 +38,9 @@ Segmented plate armour; rectangular "Hollywood" shields; Roman helmets with tall
 
 The plate's look in words: a legion winding along a dusty road through a wide green valley under towering white clouds, a river and blue mountains beyond; bright warm sun, blue shadow; mail, bronze, red shields and cloaks.
 
+## Style search (18–19 Nov 2026, Ian)
+Ian wants a more stylized look (Italian Renaissance, Greco-Roman classical; gothic epic for dark scenes, after Laurens, Doré, John Martin). Two Google tests failed: painters named in words (gemini-2.5-flash-image) and real public-domain paintings as style references (Nano Banana 2.1, 2K; `art/ref/style/`). Ian: "nothing works, both are bad." **Part 1's 52 pictures remain the baseline.** The plate is NOT approved. Next route: Midjourney sets the plate and key scenes (Ian), Google only far shots and repairs.
+
 ## Reference files
 - Style plate (chosen; described, not passed as an image): `art/ref/plate.jpg` (Nano Banana 2.1, 1K). Candidates kept for switching: `art/ref/plate-a.jpg`, `art/ref/plate-b.jpg`, `art/ref/plate-c.jpg`.
 - Portraits (3:4): `art/ref/caesar.jpg`, `labienus.jpg`, `vercingetorix.jpg`, `ariovistus.jpg`, `divitiacus.jpg`, `dumnorix.jpg`, `divico.jpg`.

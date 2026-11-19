@@ -29,6 +29,23 @@ def expand(t):
     for x, y in EXP: t = re.sub(x, y, t)
     return t
 ratio = lambda want, got: difflib.SequenceMatcher(None, N(want), N(got)).ratio()
+def wordtimes(a):
+    a16 = np.interp(np.arange(0, len(a), SR / 16000), np.arange(len(a)), a).astype(np.float32)
+    segs, _ = M.transcribe(a16, language='en', beam_size=5, word_timestamps=True)
+    return [(w.word.strip(), w.start, w.end) for s in segs for w in s.words]
+def cut_to(a, own):
+    """A line rendered inside its lead-in (g['own']): keep only the cue's own words, cut at the quietest
+    10 ms before them (the Two Cities splice)."""
+    ws = wordtimes(a); p = N(own)[:3]; toks = [(N(w[0]) or [''])[0] for w in ws]; best = (0, None)
+    for i in range(len(toks)):
+        r = difflib.SequenceMatcher(None, toks[i:i + len(p)], p).ratio()
+        if r > best[0]: best = (r, i)
+    if best[0] < 0.66: return None
+    i = best[1]
+    if i == 0: return a[max(0, int((ws[0][1] - 0.05) * SR)):]
+    i0, i1 = int(ws[i - 1][2] * SR), max(int(ws[i - 1][2] * SR) + 1, int(ws[i][1] * SR)); w = int(0.01 * SR)
+    e = np.convolve(a[i0:i1] ** 2, np.ones(w) / w, 'same') if i1 - i0 > w else a[i0:i1] ** 2
+    return a[i0 + int(np.argmin(e)):]
 def trim(a, thr=0.004):
     i = np.where(np.abs(a) > thr)[0]
     return a[max(0, i[0] - int(0.03 * SR)): i[-1] + int(0.12 * SR)] if len(i) else a
@@ -43,17 +60,23 @@ for g in S['plan']:
     ch, n, (a, b), tag, text = g['ch'], g['n'], g['pieces'], g['tag'], g['text']
     if ch not in manifests: manifests[ch] = json.load(open('%s/%s/manifest.json' % (VROOT, ch)))
     c = [c for c in manifests[ch]['cues'] if c['n'] == n][0]
-    if any(not p.get('file') for p in c['chunks']): print('SKIP', tag, 'a cached piece is missing; fetch the chapter again'); continue
+    cover = {i for x in S['plan'] if (x['ch'], x['n']) == (ch, n) for i in range(x['pieces'][0], x['pieces'][1] + 1)}
+    if any(not p.get('file') and i not in cover for i, p in enumerate(c['chunks'])): print('SKIP', tag, 'a cached piece is missing; fetch the chapter again'); continue
     if (ch, n) not in cues:
-        cues[(ch, n)] = {'parts': [load('%s/%s/voice/%s' % (VROOT, ch, p['file'])) for p in c['chunks']],
+        cues[(ch, n)] = {'parts': [load('%s/%s/voice/%s' % (VROOT, ch, p['file'])) if p.get('file') else np.zeros(1, np.float32) for p in c['chunks']],
                          'rests': [p['rest'] for p in c['chunks']], 'text': c['text'], 'kept': set(range(len(c['chunks'])))}
-    best = None; exp = len(text) / 12.5 + 1.2
+    best = None; exp = len(g.get('own') or text) / 12.5 + 1.2
     for k in range(3):
         f = take(tag, k)
         if not f: report.append({'tag': tag, 'k': k, 'why': 'no take'}); continue
-        t = trim(load(f)); secs = len(t) / SR
+        t = trim(load(f))
+        if g.get('own'):                                  # rendered inside its lead-in: cut back to the cue's own words
+            t = cut_to(t, g['own'])
+            if t is None: report.append({'tag': tag, 'k': k, 'why': 'own words not found'}); continue
+            t = trim(t)
+        secs = len(t) / SR
         if secs > 1.6 * exp and secs - exp > 2.5: report.append({'tag': tag, 'k': k, 'why': 'runaway %.1fs/%.1fs' % (secs, exp)}); continue
-        h = heard(t); r = ratio(text, h); report.append({'tag': tag, 'k': k, 'r': round(r, 3), 'secs': round(secs, 1), 'heard': h})
+        h = heard(t); r = ratio(g.get('own') or text, h); report.append({'tag': tag, 'k': k, 'r': round(r, 3), 'secs': round(secs, 1), 'heard': h})
         if best is None or r > best[0]: best = (r, t, k, h)
     if best is None or best[0] < MIN: print('NO GOOD TAKE', tag, best and round(best[0], 2), best and best[3][-100:]); continue
     q = cues[(ch, n)]

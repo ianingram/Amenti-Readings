@@ -7,7 +7,8 @@ usage: qa_pieces.py <voice root> <out.json> NN [NN ...]   (cached transcripts ar
 import json, sys, os, re, subprocess, difflib, numpy as np
 from faster_whisper import WhisperModel
 VROOT, OUT = sys.argv[1:3]; CHS = sys.argv[3:]
-M = WhisperModel('small.en', device='cpu', compute_type='int8')
+MODEL = os.environ.get('QA_MODEL', 'small.en'); BEAM = int(os.environ.get('QA_BEAM', '5'))   # base.en/1 screens fast; recheck suspects with medium.en
+M = WhisperModel(MODEL, device='cpu', compute_type='int8', cpu_threads=2)
 old = json.load(open(OUT)) if os.path.exists(OUT) else {}
 NAMES = {'artagnan', 'artagnon', 'tréville', 'treville', 'athos', 'porthos', 'aramis', 'bonacieux', 'planchet', 'rochefort', 'milady',
          'buckingham', 'richelieu', 'winter', 'chevreuse', 'louvre', 'gascony', 'béarn', 'meung', 'mousqueton', 'bazin', 'grimaud'}
@@ -28,7 +29,7 @@ for ch in CHS:
                 if secs <= len(t) / 9 + 4: continue
             if key in old and old[key].get('text') == t: continue
             if a is None: a = load('%s/%s/voice/%s' % (VROOT, ch, p['file']))
-            segs, _ = M.transcribe(a, language='en', beam_size=5)
+            segs, _ = M.transcribe(a, language='en', beam_size=BEAM)
             h = ' '.join(s.text.strip() for s in segs)
             want, got = N(t), N(h)
             r = difflib.SequenceMatcher(None, want, got).ratio()

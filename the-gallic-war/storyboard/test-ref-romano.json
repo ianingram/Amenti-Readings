@@ -1,0 +1,32 @@
+{
+ "book": "the-gallic-war",
+ "part": "Part 1",
+ "chapter": 1,
+ "note": "Option 1 test (Ian, 18 Nov 23:54): a real public-domain painting as the style reference, Nano Banana 2.1 at 2K.",
+ "style": "An Italian Renaissance fresco-like oil painting of 58 BC in the manner of Raphael's workshop and Giulio Romano: classical Greco-Roman figures modelled like antique sculpture, powerful horses in motion, a monumental composition, warm earth colours, luminous sky. Roman cavalry in mail and bronze helmets. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "caesar": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/caesar.jpg",
+  "divico": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divico.jpg",
+  "dumnorix": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/dumnorix.jpg",
+  "divitiacus": "https://ianingram.github.io/Amenti-Readings/the-gallic-war/art/ref/divitiacus.jpg",
+  "style": "https://raw.githubusercontent.com/ianingram/Amenti-Readings/main/the-gallic-war/art/ref/style/romano-milvian.jpg"
+ },
+ "people": {
+  "caesar": "Julius Caesar, lean, bald crown with thin hair combed forward, clean-shaven, red general's cloak over a bronze muscled cuirass",
+  "divico": "Divico, an aged Helvetian war-leader with long white hair and a long white moustache, gold torc, checked cloak",
+  "dumnorix": "Dumnorix of the Aedui, long fair hair, drooping moustache, gold torc, rich checked cloak",
+  "divitiacus": "Divitiacus, an Aeduan druid with long grey-brown hair and a moustache, white robe, gold torc"
+ },
+ "beats": [
+  {
+   "tag": "gw1-r-ride",
+   "chapter": 1,
+   "cue": 7,
+   "who": [
+    "caesar"
+   ],
+   "text": "Julius Caesar riding at full gallop along a Roman road in southern Gaul with a small escort of cavalry in red cloaks, dust rising, cypresses and vineyards beside the road, hard bright sun.Roman legionaries wear mail shirts, bronze Montefortino helmets and curved oval shields; Gauls have long hair, moustaches, checked trousers, cloaks and torcs. "
+  }
+ ],
+ "size": "2K"
+}

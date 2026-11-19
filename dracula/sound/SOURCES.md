@@ -101,6 +101,7 @@ Versilian Studios, recorded by Sam Gossner and Simon Dalzell*).
 | `wing-beat.mp3` | the bat at the window: built leathery beats against glass, a claw on the pane | synthesized |
 | `glass-crash.mp3` | the wolf through Lucy's window: *Dull thud* (gregoryweir, PD) for the frame, built shards bursting and falling | PD + synthesized |
 | `thunder.mp3` | *Storm thunderbolts* (stephan) | PD |
+| `score-vigil-v2.mp3` | THE VIGIL with the walk-down (18 Nov 2026, `build-vigil-piano.py`): the music box leads alone, then an upright piano (VSCO 2 CE Upright Piano, Simon Dalzell / Ivy Audio) fills the last beats A–G–F–E and comes home on A minor at 0:54; 64 s loop | CC0 |
 | `score-vigil.mp3` | THE VIGIL — the sickroom: glockenspiel music box winding down, cello and viola pedal, upright piano (VSCO 2 CE) | CC0 |
 
 Borrowed by URL: the passing bell (Romeo and Juliet).

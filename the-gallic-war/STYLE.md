@@ -42,8 +42,16 @@ Segmented plate armour; rectangular "Hollywood" shields; Roman helmets with tall
 
 The plate's look in words: a legion winding along a dusty road through a wide green valley under towering white clouds, a river and blue mountains beyond; bright warm sun, blue shadow; mail, bronze, red shields and cloaks.
 
+## The approved plates — Midjourney (Ian, 19 Nov 2026, 1:11 a.m.: "go")
+- **Day:** `art/ref/plate-day.jpg` (GWPLATE-A1-1: Bibracte's hill and valley, Claude Lorrain light).
+- **Dark:** `art/ref/plate-dark.jpg` (GWPLATE-B2-2: Alesia by night, firelight against cold blue).
+- Interior anchor: `art/ref/anchor-hall-night.jpg` (GWPLATE-B3-1, the Gaulish council by firelight).
+- Every Midjourney prompt passes the matching plate as `--sref`; Caesar's face `art/ref/caesar.jpg` as `--oref`. The plate sets the paint, not the subject: write timber-and-thatch Gaulish towns (the plates' towns are Italian stone), no temples in Gaul, solid-wheeled carts.
+- Pictures: **Midjourney (Ian) paints the book**; Google only small repairs.
+- Plate session: prompts GWPLATE-A1–A3, B1–B3, upload `misc/midjbbbfrourney_session.zip` (the Door's "Other" production saves to `misc/`).
+
 ## Style search (18–19 Nov 2026, Ian)
-Ian wants a more stylized look (Italian Renaissance, Greco-Roman classical; gothic epic for dark scenes, after Laurens, Doré, John Martin). Two Google tests failed: painters named in words (gemini-2.5-flash-image) and real public-domain paintings as style references (Nano Banana 2.1, 2K; `art/ref/style/`). Ian: "nothing works, both are bad." **Part 1's 52 pictures remain the baseline.** The plate is NOT approved. Next route: Midjourney sets the plate and key scenes (Ian), Google only far shots and repairs.
+Ian wants a more stylized look (Italian Renaissance, Greco-Roman classical; gothic epic for dark scenes, after Laurens, Doré, John Martin). Two Google tests failed: painters named in words (gemini-2.5-flash-image) and real public-domain paintings as style references (Nano Banana 2.1, 2K; `art/ref/style/`). Ian: "nothing works, both are bad." **Part 1's 52 pictures remain the baseline.** Superseded by the Midjourney plates above.
 
 ## Reference files
 - Style plate (chosen; described, not passed as an image): `art/ref/plate.jpg` (Nano Banana 2.1, 1K). Candidates kept for switching: `art/ref/plate-a.jpg`, `art/ref/plate-b.jpg`, `art/ref/plate-c.jpg`.

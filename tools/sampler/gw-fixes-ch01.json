@@ -1,0 +1,72 @@
+{
+ "work": "the-gallic-war",
+ "note": "The Gallic War Part 1 short tails · 19 Nov 2026. Cue 14 \"Helvetii.\" and cue 15 \"cause.\" rendered with their whole clause as ONE line, 3 takes each, probe (amenti-studios-production §7 short tails). Baked by the-gallic-war/tools/bake_splits.py.",
+ "tags": [
+  "01-14-0/0",
+  "01-14-0/1",
+  "01-14-0/2",
+  "01-15-1/0",
+  "01-15-1/1",
+  "01-15-1/2"
+ ],
+ "lines": [
+  [
+   "Divico",
+   "Hannibal Barca",
+   "Gacrux",
+   "\"if the Roman people would make peace with the Helvetii they would go to that part and there remain, where Caesar might appoint and desire them to be; but if he should persist in persecuting them with war, that he ought to remember both the ancient disgrace of the Roman people and the characteristic valour of the Helvetii."
+  ],
+  [
+   "Divico",
+   "Hannibal Barca",
+   "Gacrux",
+   "\"if the Roman people would make peace with the Helvetii they would go to that part and there remain, where Caesar might appoint and desire them to be; but if he should persist in persecuting them with war, that he ought to remember both the ancient disgrace of the Roman people and the characteristic valour of the Helvetii."
+  ],
+  [
+   "Divico",
+   "Hannibal Barca",
+   "Gacrux",
+   "\"if the Roman people would make peace with the Helvetii they would go to that part and there remain, where Caesar might appoint and desire them to be; but if he should persist in persecuting them with war, that he ought to remember both the ancient disgrace of the Roman people and the characteristic valour of the Helvetii."
+  ],
+  [
+   "Caesar",
+   "Julius Caesar",
+   "Alnilam",
+   "been conscious of having done any wrong it would not have been difficult to be on their guard, but for that very reason had they been deceived, because neither were they aware that any offence had been given by them, on account of which they should be afraid, nor did they think that they ought to be afraid without cause."
+  ],
+  [
+   "Caesar",
+   "Julius Caesar",
+   "Alnilam",
+   "been conscious of having done any wrong it would not have been difficult to be on their guard, but for that very reason had they been deceived, because neither were they aware that any offence had been given by them, on account of which they should be afraid, nor did they think that they ought to be afraid without cause."
+  ],
+  [
+   "Caesar",
+   "Julius Caesar",
+   "Alnilam",
+   "been conscious of having done any wrong it would not have been difficult to be on their guard, but for that very reason had they been deceived, because neither were they aware that any offence had been given by them, on account of which they should be afraid, nor did they think that they ought to be afraid without cause."
+  ]
+ ],
+ "plan": [
+  {
+   "ch": "01",
+   "n": 14,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "01-14-0",
+   "text": "\"if the Roman people would make peace with the Helvetii they would go to that part and there remain, where Caesar might appoint and desire them to be; but if he should persist in persecuting them with war, that he ought to remember both the ancient disgrace of the Roman people and the characteristic valour of the Helvetii."
+  },
+  {
+   "ch": "01",
+   "n": 15,
+   "pieces": [
+    1,
+    2
+   ],
+   "tag": "01-15-1",
+   "text": "been conscious of having done any wrong it would not have been difficult to be on their guard, but for that very reason had they been deceived, because neither were they aware that any offence had been given by them, on account of which they should be afraid, nor did they think that they ought to be afraid without cause."
+  }
+ ]
+}

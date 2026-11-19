@@ -12,6 +12,9 @@ from faster_whisper import WhisperModel
 SHEET, TAKES, VROOT, OUT = sys.argv[1:5]; REPORT = sys.argv[5] if len(sys.argv) > 5 else None; SR = 24000
 M = WhisperModel('small.en', device='cpu', compute_type='int8')
 S = json.load(open(SHEET)); tags = S['tags']
+MIN = float(os.environ.get('MIN', '0.85'))     # name-dense lines (sieges, Bassompierre) may need 0.74; read them first
+ONLY = os.environ.get('CUES')                    # 'CH-N,CH-N': re-bake just these cues
+if ONLY: S['plan'] = [g for g in S['plan'] if '%s-%d' % (g['ch'], g['n']) in ONLY.split(',')]
 def load(f):
     raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', f, '-f', 'f32le', '-ac', '1', '-ar', str(SR), '-'], capture_output=True).stdout
     return np.frombuffer(raw, np.float32).copy()
@@ -40,6 +43,7 @@ for g in S['plan']:
     ch, n, (a, b), tag, text = g['ch'], g['n'], g['pieces'], g['tag'], g['text']
     if ch not in manifests: manifests[ch] = json.load(open('%s/%s/manifest.json' % (VROOT, ch)))
     c = [c for c in manifests[ch]['cues'] if c['n'] == n][0]
+    if any(not p.get('file') for p in c['chunks']): print('SKIP', tag, 'a cached piece is missing; fetch the chapter again'); continue
     if (ch, n) not in cues:
         cues[(ch, n)] = {'parts': [load('%s/%s/voice/%s' % (VROOT, ch, p['file'])) for p in c['chunks']],
                          'rests': [p['rest'] for p in c['chunks']], 'text': c['text'], 'kept': set(range(len(c['chunks'])))}
@@ -51,7 +55,7 @@ for g in S['plan']:
         if secs > 1.6 * exp and secs - exp > 2.5: report.append({'tag': tag, 'k': k, 'why': 'runaway %.1fs/%.1fs' % (secs, exp)}); continue
         h = heard(t); r = ratio(text, h); report.append({'tag': tag, 'k': k, 'r': round(r, 3), 'secs': round(secs, 1), 'heard': h})
         if best is None or r > best[0]: best = (r, t, k, h)
-    if best is None or best[0] < 0.85: print('NO GOOD TAKE', tag, best and round(best[0], 2), best and best[3][-100:]); continue
+    if best is None or best[0] < MIN: print('NO GOOD TAKE', tag, best and round(best[0], 2), best and best[3][-100:]); continue
     q = cues[(ch, n)]
     for i in range(a, b + 1): q['kept'].discard(i)
     q['parts'][a] = ('take', best[1]); q['rests'][a] = q['rests'][b]

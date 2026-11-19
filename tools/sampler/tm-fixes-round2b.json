@@ -1,0 +1,42 @@
+{
+ "work": "the-three-musketeers",
+ "note": "Round 2b · 19 Nov 2026: ch 39 cue 11 \"No signature.\" dropped after the letter quote; rendered after a plain lead-in and cut back. 3 takes, probe.",
+ "tags": [
+  "39-11-r1/0",
+  "39-11-r1/1",
+  "39-11-r1/2"
+ ],
+ "lines": [
+  [
+   "Narrator",
+   "Alexandre Dumas",
+   "Sadachbia",
+   "He turned the paper over and looked at the foot of the letter. No signature."
+  ],
+  [
+   "Narrator",
+   "Alexandre Dumas",
+   "Sadachbia",
+   "He turned the paper over and looked at the foot of the letter. No signature."
+  ],
+  [
+   "Narrator",
+   "Alexandre Dumas",
+   "Sadachbia",
+   "He turned the paper over and looked at the foot of the letter. No signature."
+  ]
+ ],
+ "plan": [
+  {
+   "ch": "39",
+   "n": 11,
+   "pieces": [
+    0,
+    0
+   ],
+   "text": "He turned the paper over and looked at the foot of the letter. No signature.",
+   "own": "No signature.",
+   "tag": "39-11-r1"
+  }
+ ]
+}

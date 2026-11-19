@@ -1,0 +1,22 @@
+{
+ "book": "the-three-musketeers",
+ "part": "Chapter I, stump repair",
+ "note": "19 Nov 2026: recipe B drew a whole blade three times; repair by edit (Nano Banana 2.1).",
+ "refs": {},
+ "people": {
+  "dartagnan": "D'Artagnan, a Gascon youth of eighteen: a long brown face, high cheekbones, open intelligent eyes, a finely chiselled hooked nose, dark hair to the shoulders, the faint first down of a moustache and no beard; a faded blue woollen doublet, a Béarnais cap with a feather, a long rapier on a leather baldric",
+  "host": "the host of the Jolly Miller, a stout cunning innkeeper of fifty in a leather apron, cap in hand"
+ },
+ "style": "An oil painting of France in 1625, in the manner of Meissonier and Maurice Leloir, painted alla prima: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; a single source of light, much of the picture in deep shadow (in daylight scenes: brilliant raking sun and crisp shadow instead); ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Exact costume of 1625: doublets, falling lace collars, wide-brimmed plumed felt hats, bucket-top boots, rapiers on baldrics; no tricorns, no wigs. Honey-coloured stone, dark timber and ochre dust by day; candle-gold against blue Paris dusk by night. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "beats": [
+  {
+   "tag": "tm-c01-stump-fix",
+   "chapter": 1,
+   "cue": 168,
+   "at": "stump of a sword",
+   "who": [],
+   "edit": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/storyboard/src/stump-raw.png",
+   "text": "The sword in the young man's raised hand must be BROKEN: keep the hilt, guard and his hand exactly as they are, but the blade now ends in a jagged, freshly snapped edge only about eight inches beyond the guard; remove all the rest of the blade, painting the wall, his doublet and the background where it was."
+  }
+ ]
+}

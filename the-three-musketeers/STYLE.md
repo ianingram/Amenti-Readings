@@ -41,7 +41,7 @@ The plate's look, written in: honey stone, dark timber and ochre dust under a ra
 > A seventeenth-century French narrative oil painting in the manner of Meissonier and Maurice Leloir: academic realism, exact costume of 1625 … warm candlelight and golden daylight against blue Paris dusk, rich glazes, fine brushwork. (Used for the plates, the nine portraits, and a first set of opening pictures drawn with Nano Banana 2.1 at 2K, with the plate as a style reference.)
 
 ## Reference files (`the-three-musketeers/art/ref/`)
-- **Style plate (chosen):** `plate.jpg` — the inn yard at Meung, golden afternoon.
+- **Style plate (approved by Ian, 18 Nov 2026):** `plate.jpg` — the inn yard at Meung, golden afternoon.
 - Candidates kept so Ian can switch: `plate-b.jpg` (the same yard, airier), `plate-c.jpg` (Tréville's antechamber by candle at dusk).
 - **Cast portraits (3:4):** `dartagnan.jpg`, `rochefort.jpg`, `milady.jpg`, `athos.jpg`, `porthos.jpg`, `aramis.jpg`, `richelieu.jpg`, `constance.jpg`, `treville.jpg`.
 

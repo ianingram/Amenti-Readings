@@ -2,6 +2,10 @@
 
 **Recipe (18 Nov 2026, Ian's choice after a side-by-side test):** every scene is drawn by Google **gemini-2.5-flash-image** through the storyboard workflow (1K; it has no native 2K). **Only face portraits are passed as references, and only for people shots. The style plate is NOT passed as an image** — it pulled the model toward a polished, commercial look; the plate now guides by description, written into the style sentence below. Nano Banana 2.1 stays for edit/repair beats. Crop 7.5% where a signature appears. This page is the rule book so the look does not drift across 22 parts, and stays distinct from Dracula (dark Victorian chiaroscuro) and A Tale of Two Cities (English narrative painting and watercolour).
 
+## What to make the pictures about (Ian, 19 Nov 2026)
+1. **The size of the forests and the trees.** Gaul and Germany are mostly uncleared: primeval oak and beech forest to every horizon, trunks of otherworldly girth, men and columns tiny among them. Caesar's own measure (Book VI): the Hercynian forest is nine days' journey across and no one had reached its end after sixty days' march. Use it in every forest, march and German scene; write "colossal ancient oaks, trunks wider than a wagon, men tiny beneath them".
+2. **The beauty of Roman country.** The Province and Italy: manicured lawns, villa estates, cypress avenues, sacred groves, gardens — the cultivated world Caesar sets out from and returns to (winters in Cisalpine Gaul, the opening film, the Province in Book I). Rome itself is a separate subject, for later.
+
 ## Painters to follow
 - **Jean-Léon Gérôme**: crisp academic realism, hard clear light, exact archaeological detail.
 - **Lawrence Alma-Tadema**: warm stone, marble and sky; clean edges; luminous colour.

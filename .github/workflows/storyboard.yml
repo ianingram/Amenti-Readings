@@ -9,6 +9,7 @@ on:
       sheet: { description: "Storyboard sheet (e.g. dracula/storyboard-test/ch02.json)", required: true }
       models: { description: "Models, comma-separated", required: true, default: "gemini-2.5-flash-image" }
       takes: { description: "Takes per beat per model (1-4)", required: false, default: "1" }
+      artifact: { description: "Also keep the takes as a 1-day run artifact (so the sandbox can fetch them)", type: boolean, default: false }
 permissions: { contents: read }
 jobs:
   draw:
@@ -29,3 +30,7 @@ jobs:
           B=$(python3 -c "import json;print(json.load(open('${{ inputs.sheet }}'))['book'])")
           aws s3 cp out "s3://amenti-studios-private/storyboard/$B/run-${{ github.run_id }}/" --recursive --endpoint-url "$EP" --only-show-errors
           echo "delivered to storyboard/$B/run-${{ github.run_id }}/: $(ls out | wc -l) files"
+      - name: Keep the takes for a day (19 Nov 2026)
+        if: ${{ inputs.artifact }}
+        uses: actions/upload-artifact@v4
+        with: { name: takes, path: out, retention-days: 1 }

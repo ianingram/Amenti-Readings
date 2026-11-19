@@ -1,7 +1,7 @@
 {
  "work": "the-gallic-war",
  "base": "art/",
- "note": "Part 1 drawn 18 Nov 2026 with gemini-2.5-flash-image (alla-prima recipe, face refs only), 1K, cropped 7.5% for signatures. 52 pictures.",
+ "note": "Part 1 drawn 18 Nov 2026 with gemini-2.5-flash-image (alla-prima recipe, face refs only), 1K, cropped 7.5% for signatures. 52 pictures. Holds filled 19 Nov with Midjourney (plates approved by Ian): cue 5 carts x2, cue 7 Caesar rides + the Rhone bridge (replaces the Google ride).",
  "episodes": {
   "1": [
    {
@@ -39,7 +39,9 @@
    {
     "from": 5,
     "images": [
-     "ep01-burning.jpg"
+     "ep01-burning.jpg",
+     "ep01-mj-carts.jpg",
+     "ep01-mj-carts2.jpg"
     ]
    },
    {
@@ -52,8 +54,9 @@
    {
     "from": 7,
     "images": [
-     "ep01-envoys.jpg",
-     "ep01-caesar-rides.jpg"
+     "ep01-mj-caesar-rides.jpg",
+     "ep01-mj-bridge.jpg",
+     "ep01-envoys.jpg"
     ]
    },
    {

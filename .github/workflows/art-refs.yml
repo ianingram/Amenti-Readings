@@ -1,0 +1,59 @@
+# STYLE REFERENCES FROM COMMONS · 20 Nov 2026 (Ian: experiment with Gustave Doré as a reference artist).
+# Searches Wikimedia Commons for paintings and engravings and lists title, size and licence.
+# With "fetch" set to File: titles (separated by |), downloads them (long side 2000 px), and
+# commits them to <dir>. Only public-domain or CC0 works are fetched. The first step of the
+# Artist PSR (claude/artist-psr.md); the Media Door shelf comes later.
+name: Style references from Commons
+on:
+  workflow_dispatch:
+    inputs:
+      queries: { description: "Searches, separated by |", required: true, default: "Gustave Doré London a Pilgrimage" }
+      fetch: { description: "File: titles to fetch (separated by |), optional", required: false, default: "" }
+      dir: { description: "Folder to commit them to", required: false, default: "dracula/art/ref/style" }
+permissions: { contents: write }
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    env: { Q: "${{ inputs.queries }}", F: "${{ inputs.fetch }}", D: "${{ inputs.dir }}" }
+    steps:
+      - uses: actions/checkout@v4
+      - name: Search and fetch
+        run: |
+          python3 - <<'PY'
+          import json, os, re, urllib.request, urllib.parse
+          UA = {'User-Agent': 'AmentiStudios/1.0 (ianingram.github.io; sourcing public-domain art references)'}
+          def api(**p):
+              p.update(format='json', formatversion=2)
+              return json.load(urllib.request.urlopen(urllib.request.Request('https://commons.wikimedia.org/w/api.php?' + urllib.parse.urlencode(p), headers=UA), timeout=30))
+          clean = lambda s: re.sub(r'<[^>]+>', '', s or '').strip()[:90]
+          for q in [x for x in os.environ['Q'].split('|') if x.strip()]:
+              r = api(action='query', generator='search', gsrsearch=q + ' filetype:bitmap', gsrnamespace=6, gsrlimit=25,
+                      prop='imageinfo', iiprop='url|size|extmetadata', iiextmetadatafilter='LicenseShortName|Artist|DateTimeOriginal')
+              print('\n## ' + q)
+              for pg in (r.get('query') or {}).get('pages', []):
+                  ii = (pg.get('imageinfo') or [{}])[0]; m = ii.get('extmetadata', {})
+                  g = lambda k: clean((m.get(k) or {}).get('value', ''))
+                  print('- %s | %dx%d | %s | %s' % (pg['title'], ii.get('width', 0), ii.get('height', 0), g('LicenseShortName'), g('Artist')[:40]))
+          F = [x.strip() for x in os.environ['F'].split('|') if x.strip()]
+          if F:
+              os.makedirs(os.environ['D'], exist_ok=True); log = []
+              for t in F:
+                  r = api(action='query', titles=t, prop='imageinfo', iiprop='url|extmetadata', iiurlwidth=2000)
+                  pg = r['query']['pages'][0]; ii = pg['imageinfo'][0]; m = ii.get('extmetadata', {})
+                  lic = clean((m.get('LicenseShortName') or {}).get('value', ''))
+                  if not re.search(r'public domain|PD|CC0', lic, re.I): print('SKIP (licence %s): %s' % (lic, t)); continue
+                  src = ii.get('thumburl') or ii['url']
+                  name = re.sub(r'[^a-z0-9]+', '-', t.split(':', 1)[1].rsplit('.', 1)[0].lower()).strip('-')[:60] + '.jpg'
+                  data = urllib.request.urlopen(urllib.request.Request(src, headers=UA), timeout=60).read()
+                  open(os.path.join(os.environ['D'], name), 'wb').write(data)
+                  log.append('| %s | %s | %s | %s |' % (name, t, lic, ii.get('descriptionurl', '')))
+                  print('fetched', name, len(data))
+              if log:
+                  p = os.path.join(os.environ['D'], 'SOURCES.md'); old = open(p).read() if os.path.exists(p) else '| file | Commons title | licence | page |\n|---|---|---|---|\n'
+                  open(p, 'w').write(old + '\n'.join(log) + '\n')
+          PY
+      - name: Commit
+        if: inputs.fetch != ''
+        run: |
+          git config user.name "amenti-art-refs"; git config user.email "actions@users.noreply.github.com"
+          git add "$D" && git commit -qm "Style references from Commons: $D" && git pull -q --rebase && git push -q || echo "nothing to commit"

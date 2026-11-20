@@ -1,0 +1,390 @@
+{
+ "book": "the-three-musketeers",
+ "part": "Chapter II",
+ "note": "Chapter II, The Antechamber of M. de Tréville. 109 cues, ~26 min. Long narrated opening (Tréville's standing, cues 2-9) kept far and establishing; the hôtel opens on an establishing shot; closes reserved for d'Artagnan's fright, Porthos's contempt and Aramis's flash of temper.",
+ "style": "An oil painting of France in 1625, in the manner of Meissonier and Maurice Leloir, painted alla prima: visible loose brushstrokes, thick impasto in the lights, thin transparent glazes in the shadows, soft lost edges away from the faces, broken colour, canvas weave showing through; a single source of light, much of the picture in deep shadow (in daylight scenes: brilliant raking sun and crisp shadow instead); ordinary, unidealised faces, not glamorous, painted in a few planes; a candid, unposed moment, figures off-centre. Exact costume of 1625: doublets, falling lace collars, wide-brimmed plumed felt hats, bucket-top boots, rapiers on baldrics; no tricorns, no wigs. Honey-coloured stone, dark timber and ochre dust by day; candle-gold against blue Paris dusk by night. Not an illustration, not digital art. One single painting filling the whole 16:9 frame, no text, signature, border or black bars.",
+ "refs": {
+  "dartagnan": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/dartagnan.jpg",
+  "treville": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/treville.jpg",
+  "porthos": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/porthos.jpg",
+  "aramis": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/aramis.jpg",
+  "athos": "https://ianingram.github.io/Amenti-Readings/the-three-musketeers/art/ref/athos.jpg"
+ },
+ "people": {
+  "dartagnan": "D'Artagnan, a Gascon youth of eighteen: a long brown face, high cheekbones, open intelligent eyes, a finely chiselled hooked nose, dark hair to the shoulders, the faint first down of a moustache and no beard; a faded blue woollen doublet, a Béarnais cap with a feather, a long rapier on a leather baldric",
+  "treville": "M. de Tréville, captain of the King's Musketeers: a Gascon of about forty-five, lean and weathered, shrewd dark eyes, grey-streaked dark hair and a pointed beard, a rich dark doublet with a wide lace collar, the bearing of a man used to being obeyed",
+  "porthos": "Porthos, a Musketeer of great height and haughty countenance: broad-shouldered and loud, a long dark moustache, a splendid gold-embroidered baldric glittering across his chest, a long crimson velvet cloak thrown back, vain and pleased with himself",
+  "aramis": "Aramis, a Musketeer of two or three and twenty: a mild open face, a soft black eye, cheeks rosy and downy, a small delicate moustache, dark hair, hands he is careful of; half soldier and half churchman, quiet and watchful",
+  "athos": "Athos, a Musketeer of noble bearing: tall, grave, pale, a dark close-trimmed moustache and beard, melancholy eyes, plain rich black costume"
+ },
+ "beats": [
+  {
+   "tag": "tm-c02-bearn",
+   "chapter": 2,
+   "cue": 2,
+   "who": [],
+   "text": "Shot: establishing, far. A wide view of the green foothills of Béarn in 1625 under a brilliant spring sky: a small stone manor among chestnut woods, a rough road winding away toward the mountains, blue peaks beyond. No figures near the camera."
+  },
+  {
+   "tag": "tm-c02-gascons",
+   "chapter": 2,
+   "cue": 2,
+   "who": [],
+   "text": "Shot: wide. A knot of lean Gascon gentlemen in worn doublets and plumed hats riding up a dusty white road toward Paris in the raking morning sun, cloaks over one shoulder, rapiers on their hips; seen from a little distance."
+  },
+  {
+   "tag": "tm-c02-louvre-far",
+   "chapter": 2,
+   "cue": 3,
+   "who": [],
+   "text": "Shot: establishing, far. The old Louvre of Louis XIII seen across the Seine in brilliant morning light: long galleries of honey-coloured stone, steep slate roofs, boats on the river, the city low and pale behind."
+  },
+  {
+   "tag": "tm-c02-king",
+   "chapter": 2,
+   "cue": 4,
+   "who": [],
+   "text": "Shot: medium. Louis XIII in a dark embroidered doublet and falling lace collar, pale, long-faced and melancholy, standing alone at a tall window of a gilded cabinet, one hand on the sill, the room in deep shadow behind him."
+  },
+  {
+   "tag": "tm-c02-cardinal-far",
+   "chapter": 2,
+   "cue": 5,
+   "who": [],
+   "text": "Shot: wide. A tall vaulted cabinet in the Palais-Cardinal at dusk: a figure in scarlet at a great table of papers, candles burning low, guards in red cassocks with white crosses waiting at the far door; the whole room in deep shadow but for the candles."
+  },
+  {
+   "tag": "tm-c02-guards",
+   "chapter": 2,
+   "cue": 6,
+   "who": [],
+   "text": "Shot: wide. Cardinal's Guards in red cassocks with white crosses crossing a Paris courtyard at dusk, hands on their hilts, glancing sidelong at someone out of frame; blue dusk above, lantern-light below."
+  },
+  {
+   "tag": "tm-c02-musketeers-tavern",
+   "chapter": 2,
+   "cue": 7,
+   "who": [],
+   "text": "Shot: wide. The King's Musketeers in blue cassocks with silver crosses crowding a low tavern room by candlelight, drinking, laughing, one standing on a bench; loose, half-drunk, imposing; deep shadow and warm gold light."
+  },
+  {
+   "tag": "tm-c02-duel-dawn",
+   "chapter": 2,
+   "cue": 8,
+   "who": [],
+   "text": "Shot: wide, far. Two gentlemen fighting a duel with rapiers at dawn in a field outside the Paris walls, seconds watching with folded arms, mist on the grass, the city wall low behind them."
+  },
+  {
+   "tag": "tm-c02-hotel-far",
+   "chapter": 2,
+   "cue": 10,
+   "who": [],
+   "text": "Shot: establishing, far. The courtyard of the Hôtel de Tréville in the Rue du Vieux-Colombier on a bright morning in 1625, seen from the street gate: a tall stone house, many windows, horses held by lackeys, a crowd of Musketeers filling the yard."
+  },
+  {
+   "tag": "tm-c02-court-camp",
+   "chapter": 2,
+   "cue": 10,
+   "who": [],
+   "text": "Shot: wide. The courtyard like a camp from six in the morning: Musketeers in blue cassocks lounging on the steps and against the walls, some fencing, grooms with horses, pikes stacked; brilliant raking sun and crisp shadow."
+  },
+  {
+   "tag": "tm-c02-court-tumult",
+   "chapter": 2,
+   "cue": 11,
+   "who": [],
+   "text": "Shot: wide. The same courtyard at its most crowded: sixty Musketeers relieving one another, swaggering, arguing, a dog among their boots, the house front rising above them in honey-coloured stone."
+  },
+  {
+   "tag": "tm-c02-dart-enters",
+   "chapter": 2,
+   "cue": 12,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. D'Artagnan in his faded blue doublet and Béarnais cap stopping just inside the gateway of a crowded courtyard, a provincial boy among swaggering soldiers, holding his hat, taking it all in; sunlight across his face, the crowd soft behind him."
+  },
+  {
+   "tag": "tm-c02-dart-small",
+   "chapter": 2,
+   "cue": 12,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. A Gascon youth in a faded blue doublet standing small and still at the edge of a courtyard full of lounging Musketeers who pay him no attention at all; bright morning sun, long shadows."
+  },
+  {
+   "tag": "tm-c02-stair-far",
+   "chapter": 2,
+   "cue": 13,
+   "who": [],
+   "text": "Shot: wide. A broad stone staircase inside the Hôtel de Tréville seen from the foot: four Musketeers above on the steps with drawn swords, others watching from below, light falling from a high window onto the stone."
+  },
+  {
+   "tag": "tm-c02-stair-fence",
+   "chapter": 2,
+   "cue": 14,
+   "who": [],
+   "text": "Shot: wide. One Musketeer on the top stair with naked sword in hand holding the staircase against three others who fence up at him with agile swords; the stone well of the stair, raking light, boots and blades."
+  },
+  {
+   "tag": "tm-c02-stair-blades",
+   "chapter": 2,
+   "cue": 15,
+   "who": [],
+   "text": "Shot: medium. Three rapiers crossing at close quarters on a stone stair, hands and hilts and the glint of edges, a lace cuff, the men half out of frame; deep shadow with one shaft of light."
+  },
+  {
+   "tag": "tm-c02-dart-foils",
+   "chapter": 2,
+   "cue": 16,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. A young Gascon watching a swordfight from a few steps below, his face open with astonishment as he realises the blades are sharp, one hand on the stone rail."
+  },
+  {
+   "tag": "tm-c02-stair-master",
+   "chapter": 2,
+   "cue": 17,
+   "who": [],
+   "text": "Shot: medium. A Musketeer on the upper step keeping three adversaries at bay with marvellous skill, half-smiling, his cassock swinging; the others pressing up at him."
+  },
+  {
+   "tag": "tm-c02-dart-passes",
+   "chapter": 2,
+   "cue": 18,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: wide. The young Gascon slipping up past the fencers on the stair, hat in hand, flattened against the wall, the duellists ignoring him entirely; dust in the shaft of light."
+  },
+  {
+   "tag": "tm-c02-landing-far",
+   "chapter": 2,
+   "cue": 19,
+   "who": [],
+   "text": "Shot: wide. A broad panelled landing crowded with Musketeers telling stories, laughing, leaning on the rail; tall windows along one side pouring in morning light, the whole room in warm half-shadow."
+  },
+  {
+   "tag": "tm-c02-landing-stories",
+   "chapter": 2,
+   "cue": 19,
+   "who": [],
+   "text": "Shot: medium. A knot of Musketeers on a landing, heads together, one in the middle telling a story with his hands, the others grinning; crisp daylight from the windows behind them."
+  },
+  {
+   "tag": "tm-c02-court-gossip",
+   "chapter": 2,
+   "cue": 20,
+   "who": [],
+   "text": "Shot: medium. Soldiers lowering their voices, glancing toward a closed door as the king's name is spoken; wary faces in half light."
+  },
+  {
+   "tag": "tm-c02-dart-afraid",
+   "chapter": 2,
+   "cue": 23,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: close. The Gascon youth's face alone among the crowd, wide-eyed and sober, understanding for the first time what company he is in; warm light on one cheek, everything behind him soft."
+  },
+  {
+   "tag": "tm-c02-dart-watching",
+   "chapter": 2,
+   "cue": 26,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. The young Gascon standing back against the panelling with his hat under his arm, watching the room with sharp intelligent eyes, recovered from his first fright."
+  },
+  {
+   "tag": "tm-c02-porthos-group",
+   "chapter": 2,
+   "cue": 27,
+   "who": [
+    "porthos"
+   ],
+   "text": "Shot: wide. The most animated group on the landing: a very tall Musketeer of haughty countenance at its centre in a long crimson cloak, a glittering gold-embroidered baldric across his chest, half a dozen companions around him in the window light."
+  },
+  {
+   "tag": "tm-c02-baldric",
+   "chapter": 2,
+   "cue": 27,
+   "who": [
+    "porthos"
+   ],
+   "text": "Shot: close, detail. A magnificent gold-embroidered baldric of 1625 across a broad chest, the embroidery catching the sun, a rapier hilt below it, a crimson velvet cloak thrown back behind."
+  },
+  {
+   "tag": "tm-c02-porthos-boast",
+   "chapter": 2,
+   "cue": 30,
+   "who": [
+    "porthos"
+   ],
+   "text": "Shot: medium. The tall Musketeer turning on his companions with his chin up, one hand out, defending his finery in high good humour; the others leaning in, laughing at him."
+  },
+  {
+   "tag": "tm-c02-porthos-mocked",
+   "chapter": 2,
+   "cue": 33,
+   "who": [
+    "porthos"
+   ],
+   "text": "Shot: medium. A Musketeer leaning close to the tall one with a mocking grin, a hand on his gold baldric; the others watching to see how he takes it. Warm daylight, loose brushwork."
+  },
+  {
+   "tag": "tm-c02-purse",
+   "chapter": 2,
+   "cue": 38,
+   "who": [],
+   "text": "Shot: close, detail. A new embroidered purse held up between two fingers in a shaft of daylight, worn leather and gold thread, a laughing mouth out of focus behind it."
+  },
+  {
+   "tag": "tm-c02-aramis-contrast",
+   "chapter": 2,
+   "cue": 45,
+   "who": [
+    "aramis"
+   ],
+   "text": "Shot: medium. A young Musketeer of two or three and twenty with a mild open face and a soft black eye, standing a little apart from the loud group, his hands carefully folded, half soldier and half churchman; cooler light on him than on the others."
+  },
+  {
+   "tag": "tm-c02-two-friends",
+   "chapter": 2,
+   "cue": 46,
+   "who": [
+    "porthos",
+    "aramis"
+   ],
+   "text": "Shot: medium. The tall loud Musketeer in crimson and the mild young one side by side by a window, utter opposites: one broad and glittering, one quiet and neat; crisp daylight between them."
+  },
+  {
+   "tag": "tm-c02-chalais-talk",
+   "chapter": 2,
+   "cue": 47,
+   "who": [],
+   "text": "Shot: medium. A Musketeer turning to the group with a question, the others stopping to listen, one with a cup halfway to his mouth; warm half light."
+  },
+  {
+   "tag": "tm-c02-rochefort-told",
+   "chapter": 2,
+   "cue": 51,
+   "who": [
+    "rochefort"
+   ],
+   "text": "Shot: medium. A dark gentleman of forty with a scar on his temple remembered in the telling: standing in a Brussels street in a dark cloak, seen as if in another man's account, the colour cooler and the edges softer than the room."
+  },
+  {
+   "tag": "tm-c02-porthos-ninny",
+   "chapter": 2,
+   "cue": 52,
+   "who": [
+    "porthos"
+   ],
+   "text": "Shot: close. The tall Musketeer's face in profile, contemptuous, the word still on his mouth, gold baldric bright at the bottom of the frame."
+  },
+  {
+   "tag": "tm-c02-aramis-quiet",
+   "chapter": 2,
+   "cue": 58,
+   "who": [
+    "aramis"
+   ],
+   "text": "Shot: medium. The mild young Musketeer answering without raising his voice, eyes lowered, hands still; the loud one half out of frame leaning over him."
+  },
+  {
+   "tag": "tm-c02-porthos-red-duke",
+   "chapter": 2,
+   "cue": 71,
+   "who": [
+    "porthos"
+   ],
+   "text": "Shot: medium. The tall Musketeer clapping his hands and nodding his head in delight at his own joke, mouth wide, the group around him laughing; broad daylight, movement in the brushwork."
+  },
+  {
+   "tag": "tm-c02-group-laugh",
+   "chapter": 2,
+   "cue": 73,
+   "who": [],
+   "text": "Shot: wide. The whole animated group on the landing laughing at once, heads back, hands on each other's shoulders, blue cassocks and silver crosses; sunlight from the tall windows."
+  },
+  {
+   "tag": "tm-c02-aramis-cassock",
+   "chapter": 2,
+   "cue": 76,
+   "who": [
+    "aramis"
+   ],
+   "text": "Shot: medium. The young Musketeer speaking of the church, his fingers resting on his breast where a cassock would close, the sword on his hip contradicting him; cool window light, quiet."
+  },
+  {
+   "tag": "tm-c02-buckingham-hint",
+   "chapter": 2,
+   "cue": 90,
+   "who": [
+    "aramis"
+   ],
+   "text": "Shot: close. The mild young Musketeer's face with a significant small smile, the eye amused and secret; everything else in soft shadow."
+  },
+  {
+   "tag": "tm-c02-porthos-warns",
+   "chapter": 2,
+   "cue": 94,
+   "who": [
+    "porthos"
+   ],
+   "text": "Shot: medium. The tall Musketeer interrupting with a raised finger, suddenly serious, glancing toward the closed door of the cabinet."
+  },
+  {
+   "tag": "tm-c02-aramis-flash",
+   "chapter": 2,
+   "cue": 96,
+   "who": [
+    "aramis"
+   ],
+   "text": "Shot: close. The young Musketeer's usually mild eye with a flash passing through it like lightning, the face otherwise perfectly still."
+  },
+  {
+   "tag": "tm-c02-quarrel",
+   "chapter": 2,
+   "cue": 99,
+   "who": [
+    "porthos",
+    "aramis"
+   ],
+   "text": "Shot: medium. The two Musketeers facing each other closely, the tall one lecturing with his hand out, the young one white and silent; the group behind them falling quiet. Tension held, nobody touching a hilt yet."
+  },
+  {
+   "tag": "tm-c02-gentlemen",
+   "chapter": 2,
+   "cue": 105,
+   "who": [],
+   "text": "Shot: wide. The surrounding group of Musketeers stepping in between two of their own with hands raised, calling them to order; the landing crowded, the light hard from the windows."
+  },
+  {
+   "tag": "tm-c02-servant-door",
+   "chapter": 2,
+   "cue": 108,
+   "who": [],
+   "text": "Shot: wide. A servant in livery throwing open a tall panelled door of a cabinet; beyond it a glimpse of a book-lined room and a desk, the crowded landing in front turning toward it."
+  },
+  {
+   "tag": "tm-c02-silence",
+   "chapter": 2,
+   "cue": 109,
+   "who": [],
+   "text": "Shot: wide. A landing full of Musketeers suddenly silent, every head turned one way, the open doorway bright at the end of the room; stillness after noise."
+  },
+  {
+   "tag": "tm-c02-dart-called",
+   "chapter": 2,
+   "cue": 109,
+   "who": [
+    "dartagnan"
+   ],
+   "text": "Shot: medium. The young Gascon straightening at the sound of his own name, hat gripped in both hands, the silent crowd parting a little in front of him; the lit doorway ahead of him out of focus."
+  }
+ ]
+}

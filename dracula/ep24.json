@@ -122,7 +122,11 @@
       "para": 10,
       "role": "Mina Harker",
       "cast": "Agatha Christie",
-      "text": "5 October, 5 p. m. —Our meeting for report. Present: Professor Van\nHelsing, Lord Godalming, Dr. Seward, Mr. Quincey Morris, Jonathan\nHarker, Mina Harker."
+      "text": "5 October, 5 p. m. —Our meeting for report. Present: Professor Van\nHelsing, Lord Godalming, Dr. Seward, Mr. Quincey Morris, Jonathan\nHarker, Mina Harker.",
+      "score": {
+        "key": "vigil",
+        "xfade": 6
+      }
     },
     {
       "n": 12,
@@ -143,7 +147,11 @@
       "para": 13,
       "role": "Van Helsing",
       "cast": "Antony van Leeuwenhoek",
-      "text": "“They make known to us among them, how last afternoon at about five\no’clock comes a man so hurry. A tall man, thin and pale, with high nose\nand teeth so white, and eyes that seem to be burning. That he be all in\nblack, except that he have a hat of straw which suit not him or the\ntime. That he scatter his money in making quick inquiry as to what ship\nsails for the Black Sea and for where. Some took him to the office and\nthen to the ship, where he will not go aboard but halt at shore end of\ngang-plank, and ask that the captain come to him. The captain come, when\ntold that he will be pay well; and though he swear much at the first he\nagree to term. Then the thin man go and some one tell him where horse\nand cart can be hired. He go there and soon he come again, himself\ndriving cart on which a great box; this he himself lift down, though it\ntake several to put it on truck for the ship. He give much talk to\ncaptain as to how and where his box is to be place; but the captain like\nit not and swear at him in many tongues, and tell him that if he like he\ncan come and see where it shall be. But he say ‘no’; that he come not\nyet, for that he have much to do. Whereupon the captain tell him that he\nhad better be quick—with blood—for that his ship will leave the\nplace—of blood—before the turn of the tide—with blood. Then the thin\nman smile and say that of course he must go when he think fit; but he\nwill be surprise if he go quite so soon. The captain swear again,\npolyglot, and the thin man make him bow, and thank him, and say that he\nwill so far intrude on his kindness as to come aboard before the\nsailing. Final the captain, more red than ever, and in more tongues tell\nhim that he doesn’t want no Frenchmen—with bloom upon them and also\nwith blood—in his ship—with blood on her also. And so, after asking\nwhere there might be close at hand a ship where he might purchase ship\nforms, he departed."
+      "text": "“They make known to us among them, how last afternoon at about five\no’clock comes a man so hurry. A tall man, thin and pale, with high nose\nand teeth so white, and eyes that seem to be burning. That he be all in\nblack, except that he have a hat of straw which suit not him or the\ntime. That he scatter his money in making quick inquiry as to what ship\nsails for the Black Sea and for where. Some took him to the office and\nthen to the ship, where he will not go aboard but halt at shore end of\ngang-plank, and ask that the captain come to him. The captain come, when\ntold that he will be pay well; and though he swear much at the first he\nagree to term. Then the thin man go and some one tell him where horse\nand cart can be hired. He go there and soon he come again, himself\ndriving cart on which a great box; this he himself lift down, though it\ntake several to put it on truck for the ship. He give much talk to\ncaptain as to how and where his box is to be place; but the captain like\nit not and swear at him in many tongues, and tell him that if he like he\ncan come and see where it shall be. But he say ‘no’; that he come not\nyet, for that he have much to do. Whereupon the captain tell him that he\nhad better be quick—with blood—for that his ship will leave the\nplace—of blood—before the turn of the tide—with blood. Then the thin\nman smile and say that of course he must go when he think fit; but he\nwill be surprise if he go quite so soon. The captain swear again,\npolyglot, and the thin man make him bow, and thank him, and say that he\nwill so far intrude on his kindness as to come aboard before the\nsailing. Final the captain, more red than ever, and in more tongues tell\nhim that he doesn’t want no Frenchmen—with bloom upon them and also\nwith blood—in his ship—with blood on her also. And so, after asking\nwhere there might be close at hand a ship where he might purchase ship\nforms, he departed.",
+      "score": {
+        "key": "earth_boxes",
+        "xfade": 5
+      }
     },
     {
       "n": 15,
@@ -157,7 +165,11 @@
       "para": 15,
       "role": "Van Helsing",
       "cast": "Antony van Leeuwenhoek",
-      "text": "“And so, my dear Madam Mina, it is that we have to rest for a time, for\nour enemy is on the sea, with the fog at his command, on his way to the\nDanube mouth. To sail a ship takes time, go she never so quick; and when\nwe start we go on land more quick, and we meet him there. Our best hope\nis to come on him when in the box between sunrise and sunset; for then\nhe can make no struggle, and we may deal with him as we should. There\nare days for us, in which we can make ready our plan. We know all about\nwhere he go; for we have seen the owner of the ship, who have shown us\ninvoices and all papers that can be. The box we seek is to be landed in\nVarna, and to be given to an agent, one Ristics who will there present\nhis credentials; and so our merchant friend will have done his part.\nWhen he ask if there be any wrong, for that so, he can telegraph and\nhave inquiry made at Varna, we say ‘no’; for what is to be done is not\nfor police or of the customs. It must be done by us alone and in our own\nway.”"
+      "text": "“And so, my dear Madam Mina, it is that we have to rest for a time, for\nour enemy is on the sea, with the fog at his command, on his way to the\nDanube mouth. To sail a ship takes time, go she never so quick; and when\nwe start we go on land more quick, and we meet him there. Our best hope\nis to come on him when in the box between sunrise and sunset; for then\nhe can make no struggle, and we may deal with him as we should. There\nare days for us, in which we can make ready our plan. We know all about\nwhere he go; for we have seen the owner of the ship, who have shown us\ninvoices and all papers that can be. The box we seek is to be landed in\nVarna, and to be given to an agent, one Ristics who will there present\nhis credentials; and so our merchant friend will have done his part.\nWhen he ask if there be any wrong, for that so, he can telegraph and\nhave inquiry made at Varna, we say ‘no’; for what is to be done is not\nfor police or of the customs. It must be done by us alone and in our own\nway.”",
+      "score": {
+        "key": "pursuit",
+        "xfade": 6
+      }
     },
     {
       "n": 17,
@@ -185,7 +197,11 @@
       "para": 17,
       "role": "Van Helsing",
       "cast": "Antony van Leeuwenhoek",
-      "text": "“Yes, it is necessary—necessary—necessary! For your sake in the first,\nand then for the sake of humanity. This monster has done much harm\nalready, in the narrow scope where he find himself, and in the short\ntime when as yet he was only as a body groping his so small measure in\ndarkness and not knowing. All this have I told these others; you, my\ndear Madam Mina, will learn it in the phonograph of my friend John, or\nin that of your husband. I have told them how the measure of leaving his\nown barren land—barren of peoples—and coming to a new land where life\nof man teems till they are like the multitude of standing corn, was the\nwork of centuries. Were another of the Un-Dead, like him, to try to do\nwhat he has done, perhaps not all the centuries of the world that have\nbeen, or that will be, could aid him. With this one, all the forces of\nnature that are occult and deep and strong must have worked together in\nsome wondrous way. The very place, where he have been alive, Un-Dead for\nall these centuries, is full of strangeness of the geologic and chemical\nworld. There are deep caverns and fissures that reach none know whither.\nThere have been volcanoes, some of whose openings still send out waters\nof strange properties, and gases that kill or make to vivify. Doubtless,\nthere is something magnetic or electric in some of these combinations of\noccult forces which work for physical life in strange way; and in\nhimself were from the first some great qualities. In a hard and warlike\ntime he was celebrate that he have more iron nerve, more subtle brain,\nmore braver heart, than any man. In him some vital principle have in\nstrange way found their utmost; and as his body keep strong and grow and\nthrive, so his brain grow too. All this without that diabolic aid which\nis surely to him; for it have to yield to the powers that come from,\nand are, symbolic of good. And now this is what he is to us. He have\ninfect you—oh, forgive me, my dear, that I must say such; but it is for\ngood of you that I speak. He infect you in such wise, that even if he do\nno more, you have only to live—to live in your own old, sweet way; and\nso in time, death, which is of man’s common lot and with God’s sanction,\nshall make you like to him. This must not be! We have sworn together\nthat it must not. Thus are we ministers of God’s own wish: that the\nworld, and men for whom His Son die, will not be given over to monsters,\nwhose very existence would defame Him. He have allowed us to redeem one\nsoul already, and we go out as the old knights of the Cross to redeem\nmore. Like them we shall travel towards the sunrise; and like them, if\nwe fall, we fall in good cause.”"
+      "text": "“Yes, it is necessary—necessary—necessary! For your sake in the first,\nand then for the sake of humanity. This monster has done much harm\nalready, in the narrow scope where he find himself, and in the short\ntime when as yet he was only as a body groping his so small measure in\ndarkness and not knowing. All this have I told these others; you, my\ndear Madam Mina, will learn it in the phonograph of my friend John, or\nin that of your husband. I have told them how the measure of leaving his\nown barren land—barren of peoples—and coming to a new land where life\nof man teems till they are like the multitude of standing corn, was the\nwork of centuries. Were another of the Un-Dead, like him, to try to do\nwhat he has done, perhaps not all the centuries of the world that have\nbeen, or that will be, could aid him. With this one, all the forces of\nnature that are occult and deep and strong must have worked together in\nsome wondrous way. The very place, where he have been alive, Un-Dead for\nall these centuries, is full of strangeness of the geologic and chemical\nworld. There are deep caverns and fissures that reach none know whither.\nThere have been volcanoes, some of whose openings still send out waters\nof strange properties, and gases that kill or make to vivify. Doubtless,\nthere is something magnetic or electric in some of these combinations of\noccult forces which work for physical life in strange way; and in\nhimself were from the first some great qualities. In a hard and warlike\ntime he was celebrate that he have more iron nerve, more subtle brain,\nmore braver heart, than any man. In him some vital principle have in\nstrange way found their utmost; and as his body keep strong and grow and\nthrive, so his brain grow too. All this without that diabolic aid which\nis surely to him; for it have to yield to the powers that come from,\nand are, symbolic of good. And now this is what he is to us. He have\ninfect you—oh, forgive me, my dear, that I must say such; but it is for\ngood of you that I speak. He infect you in such wise, that even if he do\nno more, you have only to live—to live in your own old, sweet way; and\nso in time, death, which is of man’s common lot and with God’s sanction,\nshall make you like to him. This must not be! We have sworn together\nthat it must not. Thus are we ministers of God’s own wish: that the\nworld, and men for whom His Son die, will not be given over to monsters,\nwhose very existence would defame Him. He have allowed us to redeem one\nsoul already, and we go out as the old knights of the Cross to redeem\nmore. Like them we shall travel towards the sunrise; and like them, if\nwe fall, we fall in good cause.”",
+      "score": {
+        "key": "under_castle",
+        "xfade": 6
+      }
     },
     {
       "n": 21,
@@ -220,14 +236,22 @@
       "para": 19,
       "role": "Van Helsing",
       "cast": "Antony van Leeuwenhoek",
-      "text": "“your simile of the tiger good, for me, and I shall\nadopt him. Your man-eater, as they of India call the tiger who has once\ntasted blood of the human, care no more for the other prey, but prowl\nunceasing till he get him. This that we hunt from our village is a\ntiger, too, a man-eater, and he never cease to prowl. Nay, in himself he\nis not one to retire and stay afar. In his life, his living life, he go\nover the Turkey frontier and attack his enemy on his own ground; he be\nbeaten back, but did he stay? No! He come again, and again, and again.\nLook at his persistence and endurance. With the child-brain that was to\nhim he have long since conceive the idea of coming to a great city. What\ndoes he do? He find out the place of all the world most of promise for\nhim. Then he deliberately set himself down to prepare for the task. He\nfind in patience just how is his strength, and what are his powers. He\nstudy new tongues. He learn new social life; new environment of old\nways, the politic, the law, the finance, the science, the habit of a new\nland and a new people who have come to be since he was. His glimpse that\nhe have had, whet his appetite only and enkeen his desire. Nay, it help\nhim to grow as to his brain; for it all prove to him how right he was at\nthe first in his surmises. He have done this alone; all alone! from a\nruin tomb in a forgotten land. What more may he not do when the greater\nworld of thought is open to him. He that can smile at death, as we know\nhim; who can flourish in the midst of diseases that kill off whole\npeoples. Oh, if such an one was to come from God, and not the Devil,\nwhat a force for good might he not be in this old world of ours. But we\nare pledged to set the world free. Our toil must be in silence, and our\nefforts all in secret; for in this enlightened age, when men believe not\neven what they see, the doubting of wise men would be his greatest\nstrength. It would be at once his sheath and his armour, and his weapons\nto destroy us, his enemies, who are willing to peril even our own souls\nfor the safety of one we love—for the good of mankind, and for the\nhonour and glory of God.”"
+      "text": "“your simile of the tiger good, for me, and I shall\nadopt him. Your man-eater, as they of India call the tiger who has once\ntasted blood of the human, care no more for the other prey, but prowl\nunceasing till he get him. This that we hunt from our village is a\ntiger, too, a man-eater, and he never cease to prowl. Nay, in himself he\nis not one to retire and stay afar. In his life, his living life, he go\nover the Turkey frontier and attack his enemy on his own ground; he be\nbeaten back, but did he stay? No! He come again, and again, and again.\nLook at his persistence and endurance. With the child-brain that was to\nhim he have long since conceive the idea of coming to a great city. What\ndoes he do? He find out the place of all the world most of promise for\nhim. Then he deliberately set himself down to prepare for the task. He\nfind in patience just how is his strength, and what are his powers. He\nstudy new tongues. He learn new social life; new environment of old\nways, the politic, the law, the finance, the science, the habit of a new\nland and a new people who have come to be since he was. His glimpse that\nhe have had, whet his appetite only and enkeen his desire. Nay, it help\nhim to grow as to his brain; for it all prove to him how right he was at\nthe first in his surmises. He have done this alone; all alone! from a\nruin tomb in a forgotten land. What more may he not do when the greater\nworld of thought is open to him. He that can smile at death, as we know\nhim; who can flourish in the midst of diseases that kill off whole\npeoples. Oh, if such an one was to come from God, and not the Devil,\nwhat a force for good might he not be in this old world of ours. But we\nare pledged to set the world free. Our toil must be in silence, and our\nefforts all in secret; for in this enlightened age, when men believe not\neven what they see, the doubting of wise men would be his greatest\nstrength. It would be at once his sheath and his armour, and his weapons\nto destroy us, his enemies, who are willing to peril even our own souls\nfor the safety of one we love—for the good of mankind, and for the\nhonour and glory of God.”",
+      "score": {
+        "key": "dread",
+        "xfade": 5
+      }
     },
     {
       "n": 26,
       "para": 20,
       "role": "Mina Harker",
       "cast": "Agatha Christie",
-      "text": "After a general discussion it was determined that for to-night nothing\nbe definitely settled; that we should all sleep on the facts, and try to\nthink out the proper conclusions. To-morrow, at breakfast, we are to\nmeet again, and, after making our conclusions known to one another, we\nshall decide on some definite cause of action."
+      "text": "After a general discussion it was determined that for to-night nothing\nbe definitely settled; that we should all sleep on the facts, and try to\nthink out the proper conclusions. To-morrow, at breakfast, we are to\nmeet again, and, after making our conclusions known to one another, we\nshall decide on some definite cause of action.",
+      "score": {
+        "key": "vigil",
+        "xfade": 6
+      }
     },
     {
       "n": 27,
@@ -241,7 +265,11 @@
       "para": 22,
       "role": "Mina Harker",
       "cast": "Agatha Christie",
-      "text": "I feel a wonderful peace and rest to-night. It is as if some haunting\npresence were removed from me. Perhaps ..."
+      "text": "I feel a wonderful peace and rest to-night. It is as if some haunting\npresence were removed from me. Perhaps ...",
+      "score": {
+        "key": "pastoral_warm",
+        "xfade": 6
+      }
     },
     {
       "n": 29,
@@ -288,7 +316,11 @@
       "para": 28,
       "role": "Dr Seward",
       "cast": "William Harvey",
-      "text": "Later. —When the Professor came in, we talked over the state of\nthings. I could see that he had something on his mind which he wanted to\nsay, but felt some hesitancy about broaching the subject. After beating\nabout the bush a little, he said suddenly:—"
+      "text": "Later. —When the Professor came in, we talked over the state of\nthings. I could see that he had something on his mind which he wanted to\nsay, but felt some hesitancy about broaching the subject. After beating\nabout the bush a little, he said suddenly:—",
+      "score": {
+        "key": "under_light",
+        "xfade": 6
+      }
     },
     {
       "n": 35,
@@ -363,7 +395,11 @@
       "para": 34,
       "role": "Dr Seward",
       "cast": "William Harvey",
-      "text": "Later. —At the very outset of our meeting a great personal relief was\nexperienced by both Van Helsing and myself. Mrs. Harker had sent a\nmessage by her husband to say that she would not join us at present, as\nshe thought it better that we should be free to discuss our movements\nwithout her presence to embarrass us. The Professor and I looked at each\nother for an instant, and somehow we both seemed relieved. For my own\npart, I thought that if Mrs. Harker realised the danger herself, it was\nmuch pain as well as much danger averted. Under the circumstances we\nagreed, by a questioning look and answer, with finger on lip, to\npreserve silence in our suspicions, until we should have been able to\nconfer alone again. We went at once into our Plan of Campaign. Van\nHelsing roughly put the facts before us first:—"
+      "text": "Later. —At the very outset of our meeting a great personal relief was\nexperienced by both Van Helsing and myself. Mrs. Harker had sent a\nmessage by her husband to say that she would not join us at present, as\nshe thought it better that we should be free to discuss our movements\nwithout her presence to embarrass us. The Professor and I looked at each\nother for an instant, and somehow we both seemed relieved. For my own\npart, I thought that if Mrs. Harker realised the danger herself, it was\nmuch pain as well as much danger averted. Under the circumstances we\nagreed, by a questioning look and answer, with finger on lip, to\npreserve silence in our suspicions, until we should have been able to\nconfer alone again. We went at once into our Plan of Campaign. Van\nHelsing roughly put the facts before us first:—",
+      "score": {
+        "key": "journey",
+        "xfade": 6
+      }
     },
     {
       "n": 45,
@@ -384,7 +420,11 @@
       "para": 36,
       "role": "Quincey Morris",
       "cast": "Lyndon B. Johnson",
-      "text": "“I understand that the Count comes from a wolf country, and it may be\nthat he shall get there before us. I propose that we add Winchesters to\nour armament. I have a kind of belief in a Winchester when there is any\ntrouble of that sort around. Do you remember, Art, when we had the pack\nafter us at Tobolsk? What wouldn’t we have given then for a repeater\napiece!”"
+      "text": "“I understand that the Count comes from a wolf country, and it may be\nthat he shall get there before us. I propose that we add Winchesters to\nour armament. I have a kind of belief in a Winchester when there is any\ntrouble of that sort around. Do you remember, Art, when we had the pack\nafter us at Tobolsk? What wouldn’t we have given then for a repeater\napiece!”",
+      "score": {
+        "key": "pursuit",
+        "xfade": 5
+      }
     },
     {
       "n": 48,
@@ -480,7 +520,11 @@
       "para": 42,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
-      "text": "5 October, afternoon. —For some time after our meeting this morning I\ncould not think. The new phases of things leave my mind in a state of\nwonder which allows no room for active thought. Mina’s determination not\nto take any part in the discussion set me thinking; and as I could not\nargue the matter with her, I could only guess. I am as far as ever from\na solution now. The way the others received it, too, puzzled me; the\nlast time we talked of the subject we agreed that there was to be no\nmore concealment of anything amongst us. Mina is sleeping now, calmly\nand sweetly like a little child. Her lips are curved and her face beams\nwith happiness. Thank God, there are such moments still for her."
+      "text": "5 October, afternoon. —For some time after our meeting this morning I\ncould not think. The new phases of things leave my mind in a state of\nwonder which allows no room for active thought. Mina’s determination not\nto take any part in the discussion set me thinking; and as I could not\nargue the matter with her, I could only guess. I am as far as ever from\na solution now. The way the others received it, too, puzzled me; the\nlast time we talked of the subject we agreed that there was to be no\nmore concealment of anything amongst us. Mina is sleeping now, calmly\nand sweetly like a little child. Her lips are curved and her face beams\nwith happiness. Thank God, there are such moments still for her.",
+      "score": {
+        "key": "under_light",
+        "xfade": 6
+      }
     },
     {
       "n": 61,
@@ -494,7 +538,11 @@
       "para": 44,
       "role": "Mina Harker",
       "cast": "Agatha Christie",
-      "text": "“Jonathan, I want you to promise me something on your word of honour. A\npromise made to me, but made holily in God’s hearing, and not to be\nbroken though I should go down on my knees and implore you with bitter\ntears. Quick, you must make it to me at once.”"
+      "text": "“Jonathan, I want you to promise me something on your word of honour. A\npromise made to me, but made holily in God’s hearing, and not to be\nbroken though I should go down on my knees and implore you with bitter\ntears. Quick, you must make it to me at once.”",
+      "score": {
+        "key": "requiem",
+        "xfade": 6
+      }
     },
     {
       "n": 63,
@@ -575,7 +623,11 @@
       "para": 51,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
-      "text": "6 October, morning. —Another surprise. Mina woke me early, about the\nsame time as yesterday, and asked me to bring Dr. Van Helsing. I thought\nthat it was another occasion for hypnotism, and without question went\nfor the Professor. He had evidently expected some such call, for I found\nhim dressed in his room. His door was ajar, so that he could hear the\nopening of the door of our room. He came at once; as he passed into the\nroom, he asked Mina if the others might come, too."
+      "text": "6 October, morning. —Another surprise. Mina woke me early, about the\nsame time as yesterday, and asked me to bring Dr. Van Helsing. I thought\nthat it was another occasion for hypnotism, and without question went\nfor the Professor. He had evidently expected some such call, for I found\nhim dressed in his room. His door was ajar, so that he could hear the\nopening of the door of our room. He came at once; as he passed into the\nroom, he asked Mina if the others might come, too.",
+      "score": {
+        "key": "dawn",
+        "xfade": 6
+      }
     },
     {
       "n": 73,
@@ -645,7 +697,11 @@
       "para": 58,
       "role": "Mina Harker",
       "cast": "Agatha Christie",
-      "text": "“I know. That is why I must go. I can tell you now, whilst the sun is\ncoming up; I may not be able again. I know that when the Count wills me\nI must go. I know that if he tells me to come in secret, I must come by\nwile; by any device to hoodwink—even Jonathan.”"
+      "text": "“I know. That is why I must go. I can tell you now, whilst the sun is\ncoming up; I may not be able again. I know that when the Count wills me\nI must go. I know that if he tells me to come in secret, I must come by\nwile; by any device to hoodwink—even Jonathan.”",
+      "score": {
+        "key": "under_light",
+        "xfade": 5
+      }
     },
     {
       "n": 83,
@@ -680,7 +736,11 @@
       "para": 60,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
-      "text": "When he had\nspoken, Mina’s long spell of silence made me look at her. She had fallen\nback on her pillow asleep; she did not even wake when I had pulled up\nthe blind and let in the sunlight which flooded the room. Van Helsing\nmotioned to me to come with him quietly. We went to his room, and within\na minute Lord Godalming, Dr. Seward, and Mr. Morris were with us also.\nHe told them what Mina had said, and went on:—"
+      "text": "When he had\nspoken, Mina’s long spell of silence made me look at her. She had fallen\nback on her pillow asleep; she did not even wake when I had pulled up\nthe blind and let in the sunlight which flooded the room. Van Helsing\nmotioned to me to come with him quietly. We went to his room, and within\na minute Lord Godalming, Dr. Seward, and Mr. Morris were with us also.\nHe told them what Mina had said, and went on:—",
+      "score": {
+        "key": "vigil",
+        "xfade": 6
+      }
     },
     {
       "n": 88,
@@ -736,7 +796,11 @@
       "para": 64,
       "role": "Jonathan Harker",
       "cast": "Charles Darwin",
-      "text": "I\ngrasped his hand instinctively and found it as firm as a piece of steel.\nI think he understood my look; I hope he did."
+      "text": "I\ngrasped his hand instinctively and found it as firm as a piece of steel.\nI think he understood my look; I hope he did.",
+      "score": {
+        "key": "requiem",
+        "xfade": 5
+      }
     },
     {
       "n": 96,

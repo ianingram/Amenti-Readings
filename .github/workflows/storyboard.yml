@@ -10,13 +10,25 @@ on:
       models: { description: "Models, comma-separated", required: true, default: "gemini-2.5-flash-image" }
       takes: { description: "Takes per beat per model (1-4)", required: false, default: "1" }
       artifact: { description: "Also keep the takes as a 1-day run artifact (so the sandbox can fetch them)", type: boolean, default: false }
-permissions: { contents: read }
+permissions: { contents: read, actions: read }
 jobs:
   draw:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with: { sparse-checkout: "tools\n${{ inputs.sheet }}", sparse-checkout-cone-mode: false }
+      - name: Wait for a drawing slot (at most 3 at once, first come first served · Ian, 20 Nov 2026)
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: |
+          # Four or five runs at once exhausted Google's shared image capacity (20 Nov); two or three did not.
+          # A run waits while 3 older runs are still drawing. Nothing is cancelled; every run gets its turn.
+          for i in $(seq 1 240); do
+            n=$(gh api "repos/${{ github.repository }}/actions/workflows/storyboard.yml/runs?status=in_progress&per_page=50" \
+                 -q '[.workflow_runs[] | select(.id < ${{ github.run_id }})] | length')
+            [ "${n:-0}" -lt 3 ] && { echo "slot free ($n older runs drawing)"; exit 0; }
+            echo "waiting: $n older runs drawing"; sleep 30
+          done
+          echo "waited 2 hours; drawing anyway"
       - name: Draw
         env: { VOICE_RENDER_KEY: "${{ secrets.VOICE_RENDER_KEY }}" }
         run: python3 tools/storyboard/storyboard.py "${{ inputs.sheet }}" out "${{ inputs.models }}" "${{ inputs.takes }}"

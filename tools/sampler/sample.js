@@ -20,9 +20,9 @@ const KEY = process.env.VOICE_RENDER_KEY || ''; fs.mkdirSync(out, { recursive: t
       if (wait) await new Promise(r => setTimeout(r, wait * 1000));
       let r, ct, buf;   /* 19 Nov 2026: a dropped connection (ECONNRESET) used to end the whole run; now it is one more try */
       try {
-        r = await fetch('https://amenti-proxy.ingram-ian.workers.dev/speak?probe=1', { method: 'POST',
+        r = await fetch('https://amenti-proxy.ingram-ian.workers.dev/speak?probe=1' + (sheet.route ? '&route=' + sheet.route : ''), { method: 'POST',   /* 19 Nov: optional sheet.route (studio|vertex) for calibration probes */
           headers: { 'Content-Type': 'application/json', 'Origin': 'https://ianingram.github.io', 'x-amenti-render': KEY },
-          body: JSON.stringify({ text, style: s.style, voice }) });
+          body: JSON.stringify(Object.assign({ text, style: s.style, voice }, sheet.model ? { model: sheet.model } : {})) });
         ct = r.headers.get('content-type') || ''; buf = Buffer.from(await r.arrayBuffer());
       } catch (e) { info = 'network ' + (e.cause && e.cause.code || e.message); continue; }
       if (r.ok && !ct.includes('json')) { const ext = ct.includes('wav') ? 'wav' : ct.includes('mpeg') ? 'mp3' : ct.includes('ogg') ? 'ogg' : 'bin';

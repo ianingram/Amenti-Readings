@@ -11,6 +11,8 @@ on:
       takes: { description: "Takes per beat per model (1-4)", required: false, default: "1" }
       artifact: { description: "Also keep the takes as a 1-day run artifact (so the sandbox can fetch them)", type: boolean, default: false }
 permissions: { contents: read }
+# 20 Nov: one storyboard run at a time across every chat and book, so runs stop exhausting Google's shared image capacity together.
+concurrency: { group: storyboard-queue, cancel-in-progress: false }
 jobs:
   draw:
     runs-on: ubuntu-latest

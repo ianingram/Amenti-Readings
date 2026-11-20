@@ -28,7 +28,7 @@ for b in sheet['beats']:
             body['prompt'] = ('Edit the first image, a finished oil painting. ' + b['text'] + ' Change nothing else: keep the same '
                               'composition, framing, people, faces, light, colours, brushwork and aspect ratio. No text, signature or border.')
         time.sleep(float(os.environ.get('PACE', '12')))  # Vertex's per-minute image quota
-        for attempt in range(5):
+        for attempt in range(10):   # 20 Nov: Google's shared image capacity refuses at peak; wait it out (~20 min) rather than lose the beat
             req = urllib.request.Request(URL, json.dumps(body).encode(), {'Content-Type': 'application/json', 'x-amenti-render': KEY, 'User-Agent': 'Mozilla/5.0 amenti-storyboard'})
             try:
                 d = json.load(urllib.request.urlopen(req, timeout=240)); break
@@ -36,7 +36,7 @@ for b in sheet['beats']:
                 try: det = e.read().decode()[:400]
                 except Exception: det = ''                   # a reset while reading the error body (18 Nov) must not kill the run
                 d = {'error': e.code, 'detail': det}
-                if e.code in (429, 500, 502, 503): time.sleep(30 * (attempt + 1)); continue
+                if e.code in (429, 500, 502, 503) and attempt < 9: time.sleep(min(30 * (attempt + 1), 180)); continue
                 break
             except Exception as e:
                 d = {'error': 'net', 'detail': str(e)[:200]}; time.sleep(10)

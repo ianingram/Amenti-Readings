@@ -1,0 +1,1467 @@
+{
+ "work": "the-gallic-war",
+ "note": "The Gallic War QA fixes · 19 Nov 2026: 39 abbreviation splits (Roman initials, i. e., viz.) and invented sentences found by transcription; each group rendered as ONE line with initials spoken in full, 3 takes, probe; baked by the-gallic-war/tools/bake_splits.py.",
+ "tags": [
+  "01-24-0/0",
+  "01-24-0/1",
+  "01-24-0/2",
+  "02-17-0/0",
+  "02-17-0/1",
+  "02-17-0/2",
+  "02-24-0/0",
+  "02-24-0/1",
+  "02-24-0/2",
+  "02-25-0/0",
+  "02-25-0/1",
+  "02-25-0/2",
+  "03-15-0/0",
+  "03-15-0/1",
+  "03-15-0/2",
+  "03-20-0/0",
+  "03-20-0/1",
+  "03-20-0/2",
+  "04-9-0/0",
+  "04-9-0/1",
+  "04-9-0/2",
+  "05-8-0/0",
+  "05-8-0/1",
+  "05-8-0/2",
+  "05-15-0/0",
+  "05-15-0/1",
+  "05-15-0/2",
+  "05-18-0/0",
+  "05-18-0/1",
+  "05-18-0/2",
+  "05-19-0/0",
+  "05-19-0/1",
+  "05-19-0/2",
+  "06-5-0/0",
+  "06-5-0/1",
+  "06-5-0/2",
+  "06-7-0/0",
+  "06-7-0/1",
+  "06-7-0/2",
+  "06-11-0/0",
+  "06-11-0/1",
+  "06-11-0/2",
+  "07-6-0/0",
+  "07-6-0/1",
+  "07-6-0/2",
+  "07-9-0/0",
+  "07-9-0/1",
+  "07-9-0/2",
+  "07-10-0/0",
+  "07-10-0/1",
+  "07-10-0/2",
+  "08-18-0/0",
+  "08-18-0/1",
+  "08-18-0/2",
+  "09-4-0/0",
+  "09-4-0/1",
+  "09-4-0/2",
+  "09-13-0/0",
+  "09-13-0/1",
+  "09-13-0/2",
+  "10-9-0/0",
+  "10-9-0/1",
+  "10-9-0/2",
+  "10-17-0/0",
+  "10-17-0/1",
+  "10-17-0/2",
+  "11-4-0/0",
+  "11-4-0/1",
+  "11-4-0/2",
+  "11-4-1/0",
+  "11-4-1/1",
+  "11-4-1/2",
+  "11-9-0/0",
+  "11-9-0/1",
+  "11-9-0/2",
+  "11-20-0/0",
+  "11-20-0/1",
+  "11-20-0/2",
+  "11-22-0/0",
+  "11-22-0/1",
+  "11-22-0/2",
+  "11-24-0/0",
+  "11-24-0/1",
+  "11-24-0/2",
+  "12-11-0/0",
+  "12-11-0/1",
+  "12-11-0/2",
+  "12-15-0/0",
+  "12-15-0/1",
+  "12-15-0/2",
+  "12-16-0/0",
+  "12-16-0/1",
+  "12-16-0/2",
+  "13-1-0/0",
+  "13-1-0/1",
+  "13-1-0/2",
+  "13-1-1/0",
+  "13-1-1/1",
+  "13-1-1/2",
+  "13-21-0/0",
+  "13-21-0/1",
+  "13-21-0/2",
+  "14-5-0/0",
+  "14-5-0/1",
+  "14-5-0/2",
+  "14-7-0/0",
+  "14-7-0/1",
+  "14-7-0/2",
+  "14-7-1/0",
+  "14-7-1/1",
+  "14-7-1/2",
+  "14-7-2/0",
+  "14-7-2/1",
+  "14-7-2/2",
+  "14-8-0/0",
+  "14-8-0/1",
+  "14-8-0/2",
+  "14-11-0/0",
+  "14-11-0/1",
+  "14-11-0/2",
+  "14-21-0/0",
+  "14-21-0/1",
+  "14-21-0/2",
+  "17-1-0/0",
+  "17-1-0/1",
+  "17-1-0/2",
+  "17-8-0/0",
+  "17-8-0/1",
+  "17-8-0/2",
+  "18-6-0/0",
+  "18-6-0/1",
+  "18-6-0/2",
+  "20-13-0/0",
+  "20-13-0/1",
+  "20-13-0/2",
+  "20-17-0/0",
+  "20-17-0/1",
+  "20-17-0/2",
+  "21-7-0/0",
+  "21-7-0/1",
+  "21-7-0/2"
+ ],
+ "lines": [
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "After learning these circumstances, since to these suspicions the most unequivocal facts were added, namely , that he had led the Helvetii through the territories of the Sequani; that he had provided that hostages should be mutually given; that he had done all these things, not only without any orders of his [Caesar's] and of his own state's, but even without their [the Aedui] knowing anything of it themselves; that he"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "After learning these circumstances, since to these suspicions the most unequivocal facts were added, namely , that he had led the Helvetii through the territories of the Sequani; that he had provided that hostages should be mutually given; that he had done all these things, not only without any orders of his [Caesar's] and of his own state's, but even without their [the Aedui] knowing anything of it themselves; that he"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "After learning these circumstances, since to these suspicions the most unequivocal facts were added, namely , that he had led the Helvetii through the territories of the Sequani; that he had provided that hostages should be mutually given; that he had done all these things, not only without any orders of his [Caesar's] and of his own state's, but even without their [the Aedui] knowing anything of it themselves; that he"
+  ],
+  [
+   "Divitiacus",
+   "Bran the Blessed",
+   "Achird",
+   "\"That there were two parties in the whole of Gaul: that the Aedui stood at the head of one of these, the Arverni of the other. After these had been violently struggling with one another for the superiority for many years, it came to pass that the Germans were called in for hire by the Arverni and the Sequani. That about 15,000 of them [that is, of the Germans] had at first crossed the Rhine: but after that these wild and savage men had become enamoured of the lands and the refinement and the abundance of the Gauls, more were brought over, that there were now as many as 120,000 of them in Gaul: that with these the Aedui and their dependants had repeatedly"
+  ],
+  [
+   "Divitiacus",
+   "Bran the Blessed",
+   "Achird",
+   "\"That there were two parties in the whole of Gaul: that the Aedui stood at the head of one of these, the Arverni of the other. After these had been violently struggling with one another for the superiority for many years, it came to pass that the Germans were called in for hire by the Arverni and the Sequani. That about 15,000 of them [that is, of the Germans] had at first crossed the Rhine: but after that these wild and savage men had become enamoured of the lands and the refinement and the abundance of the Gauls, more were brought over, that there were now as many as 120,000 of them in Gaul: that with these the Aedui and their dependants had repeatedly"
+  ],
+  [
+   "Divitiacus",
+   "Bran the Blessed",
+   "Achird",
+   "\"That there were two parties in the whole of Gaul: that the Aedui stood at the head of one of these, the Arverni of the other. After these had been violently struggling with one another for the superiority for many years, it came to pass that the Germans were called in for hire by the Arverni and the Sequani. That about 15,000 of them [that is, of the Germans] had at first crossed the Rhine: but after that these wild and savage men had become enamoured of the lands and the refinement and the abundance of the Gauls, more were brought over, that there were now as many as 120,000 of them in Gaul: that with these the Aedui and their dependants had repeatedly"
+  ],
+  [
+   "Caesar",
+   "Julius Caesar",
+   "Alnilam",
+   "[Caesar says] that \"he himself and the Roman people will entertain a perpetual feeling of favour and friendship towards him; but that if he [Caesar] does not obtain [his desires], that he (forasmuch as in the consulship of Marcus Messala and Marcus Piso [B.Gaius 61] the senate had decreed that, whoever should have the administration of the province of Gaul should, as far as he could do so consistently with the interests of the republic, protect the Aedui and the other friends of the Roman people) will not overlook the wrongs of the Aedui.\""
+  ],
+  [
+   "Caesar",
+   "Julius Caesar",
+   "Alnilam",
+   "[Caesar says] that \"he himself and the Roman people will entertain a perpetual feeling of favour and friendship towards him; but that if he [Caesar] does not obtain [his desires], that he (forasmuch as in the consulship of Marcus Messala and Marcus Piso [B.Gaius 61] the senate had decreed that, whoever should have the administration of the province of Gaul should, as far as he could do so consistently with the interests of the republic, protect the Aedui and the other friends of the Roman people) will not overlook the wrongs of the Aedui.\""
+  ],
+  [
+   "Caesar",
+   "Julius Caesar",
+   "Alnilam",
+   "[Caesar says] that \"he himself and the Roman people will entertain a perpetual feeling of favour and friendship towards him; but that if he [Caesar] does not obtain [his desires], that he (forasmuch as in the consulship of Marcus Messala and Marcus Piso [B.Gaius 61] the senate had decreed that, whoever should have the administration of the province of Gaul should, as far as he could do so consistently with the interests of the republic, protect the Aedui and the other friends of the Roman people) will not overlook the wrongs of the Aedui.\""
+  ],
+  [
+   "Ariovistus",
+   "Charlemagne",
+   "Orus",
+   "To this Ariovistus replied, that \"the right of war was, that they who had conquered should govern those whom they had conquered, in what manner they pleased; that in that way the Roman people were wont to govern the nations which they had conquered, not according to the dictation of any other, but according to their own discretion."
+  ],
+  [
+   "Ariovistus",
+   "Charlemagne",
+   "Orus",
+   "To this Ariovistus replied, that \"the right of war was, that they who had conquered should govern those whom they had conquered, in what manner they pleased; that in that way the Roman people were wont to govern the nations which they had conquered, not according to the dictation of any other, but according to their own discretion."
+  ],
+  [
+   "Ariovistus",
+   "Charlemagne",
+   "Orus",
+   "To this Ariovistus replied, that \"the right of war was, that they who had conquered should govern those whom they had conquered, in what manner they pleased; that in that way the Roman people were wont to govern the nations which they had conquered, not according to the dictation of any other, but according to their own discretion."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "It seemed [therefore] most proper to send to him Gaius Valerius Procillus, the son of Gaius Valerius Caburus, a young man of the highest courage and accomplishments (whose father had been presented with the freedom of the city by Gaius Valerius Flaccus), both on account of his fidelity and on account of his knowledge of the Gallic language, which Ariovistus, by long practice, now spoke fluently; and because in his case the Germans would have no motive for committing violence; and [as his colleague] Marcus Mettius, who had shared the hospitality of Ariovistus. He commissioned them to learn what Ariovistus had to say, and to report to him. But when Ariovistus saw them before him in his camp, he cried out in the presence of his army, \"Why were they come to him? was it for the purpose of acting as spies?\""
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "It seemed [therefore] most proper to send to him Gaius Valerius Procillus, the son of Gaius Valerius Caburus, a young man of the highest courage and accomplishments (whose father had been presented with the freedom of the city by Gaius Valerius Flaccus), both on account of his fidelity and on account of his knowledge of the Gallic language, which Ariovistus, by long practice, now spoke fluently; and because in his case the Germans would have no motive for committing violence; and [as his colleague] Marcus Mettius, who had shared the hospitality of Ariovistus. He commissioned them to learn what Ariovistus had to say, and to report to him. But when Ariovistus saw them before him in his camp, he cried out in the presence of his army, \"Why were they come to him? was it for the purpose of acting as spies?\""
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "It seemed [therefore] most proper to send to him Gaius Valerius Procillus, the son of Gaius Valerius Caburus, a young man of the highest courage and accomplishments (whose father had been presented with the freedom of the city by Gaius Valerius Flaccus), both on account of his fidelity and on account of his knowledge of the Gallic language, which Ariovistus, by long practice, now spoke fluently; and because in his case the Germans would have no motive for committing violence; and [as his colleague] Marcus Mettius, who had shared the hospitality of Ariovistus. He commissioned them to learn what Ariovistus had to say, and to report to him. But when Ariovistus saw them before him in his camp, he cried out in the presence of his army, \"Why were they come to him? was it for the purpose of acting as spies?\""
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Although the army of the enemy was routed on the left wing and put to flight, they [still] pressed heavily on our men from the right wing, by the great number of their troops. On observing which, Publius Crassus, a young man, who commanded the cavalry--as he was more disengaged than those who were employed in the fight--sent the third line as a relief to our men who were in distress."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Although the army of the enemy was routed on the left wing and put to flight, they [still] pressed heavily on our men from the right wing, by the great number of their troops. On observing which, Publius Crassus, a young man, who commanded the cavalry--as he was more disengaged than those who were employed in the fight--sent the third line as a relief to our men who were in distress."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Although the army of the enemy was routed on the left wing and put to flight, they [still] pressed heavily on our men from the right wing, by the great number of their troops. On observing which, Publius Crassus, a young man, who commanded the cavalry--as he was more disengaged than those who were employed in the fight--sent the third line as a relief to our men who were in distress."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The enemy immediately hastened from that place to the river Aisne, which it has been stated was behind our camp. Finding a ford there, they endeavoured to lead a part of their forces over it; with the design, that, if they could, they might carry by storm the fort which Quintus Titurius, Caesar's lieutenant, commanded, and might cut off the bridge; but, if they could not do that, they should lay waste the lands of the Remi, which were of great use to us in carrying on the war, and might hinder our men from foraging."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The enemy immediately hastened from that place to the river Aisne, which it has been stated was behind our camp. Finding a ford there, they endeavoured to lead a part of their forces over it; with the design, that, if they could, they might carry by storm the fort which Quintus Titurius, Caesar's lieutenant, commanded, and might cut off the bridge; but, if they could not do that, they should lay waste the lands of the Remi, which were of great use to us in carrying on the war, and might hinder our men from foraging."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The enemy immediately hastened from that place to the river Aisne, which it has been stated was behind our camp. Finding a ford there, they endeavoured to lead a part of their forces over it; with the design, that, if they could, they might carry by storm the fort which Quintus Titurius, Caesar's lieutenant, commanded, and might cut off the bridge; but, if they could not do that, they should lay waste the lands of the Remi, which were of great use to us in carrying on the war, and might hinder our men from foraging."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "the fourth cohort were slain, and the standard-bearer killed, the standard itself lost, almost all the centurions of the other cohorts either wounded or slain, and among them the chief centurion of the legion, Publius Sextius Baculus, a very valiant man, who was so exhausted by many and severe wounds, that he was already unable to support himself; he likewise perceived that the rest were slackening their efforts, and that some, deserted by those in the rear, were retiring from the battle and avoiding the weapons; that the enemy [on"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "the fourth cohort were slain, and the standard-bearer killed, the standard itself lost, almost all the centurions of the other cohorts either wounded or slain, and among them the chief centurion of the legion, Publius Sextius Baculus, a very valiant man, who was so exhausted by many and severe wounds, that he was already unable to support himself; he likewise perceived that the rest were slackening their efforts, and that some, deserted by those in the rear, were retiring from the battle and avoiding the weapons; that the enemy [on"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "the fourth cohort were slain, and the standard-bearer killed, the standard itself lost, almost all the centurions of the other cohorts either wounded or slain, and among them the chief centurion of the legion, Publius Sextius Baculus, a very valiant man, who was so exhausted by many and severe wounds, that he was already unable to support himself; he likewise perceived that the rest were slackening their efforts, and that some, deserted by those in the rear, were retiring from the battle and avoiding the weapons; that the enemy [on"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "\"That they did not believe the Romans waged war without divine aid, since they were able to move forward machines of such a height with so great speed, and thus fight from close quarters: that they resigned themselves and all their possessions to [Caesar's] disposal: that they begged and earnestly entreated one thing, namely , that if perchance, agreeably to his clemency and humanity, which they had heard of from others, he should resolve that the Aduatuci were to be spared, he would not deprive them of their arms; that all their neighbours were enemies to them and envied their courage, from whom they could not defend themselves if their"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "\"That they did not believe the Romans waged war without divine aid, since they were able to move forward machines of such a height with so great speed, and thus fight from close quarters: that they resigned themselves and all their possessions to [Caesar's] disposal: that they begged and earnestly entreated one thing, namely , that if perchance, agreeably to his clemency and humanity, which they had heard of from others, he should resolve that the Aduatuci were to be spared, he would not deprive them of their arms; that all their neighbours were enemies to them and envied their courage, from whom they could not defend themselves if their"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "\"That they did not believe the Romans waged war without divine aid, since they were able to move forward machines of such a height with so great speed, and thus fight from close quarters: that they resigned themselves and all their possessions to [Caesar's] disposal: that they begged and earnestly entreated one thing, namely , that if perchance, agreeably to his clemency and humanity, which they had heard of from others, he should resolve that the Aduatuci were to be spared, he would not deprive them of their arms; that all their neighbours were enemies to them and envied their courage, from whom they could not defend themselves if their"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The signal having been immediately given by fires, as Caesar had previously commanded, a rush was made thither [that is, by the Roman soldiers] from the nearest fort; and the battle was fought by the enemy as vigorously as it ought to be fought by brave men, in the last hope of safety, in a disadvantageous place, and against those who were throwing their weapons from a rampart and from towers; since all hope of safety depended on their"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The signal having been immediately given by fires, as Caesar had previously commanded, a rush was made thither [that is, by the Roman soldiers] from the nearest fort; and the battle was fought by the enemy as vigorously as it ought to be fought by brave men, in the last hope of safety, in a disadvantageous place, and against those who were throwing their weapons from a rampart and from towers; since all hope of safety depended on their"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The signal having been immediately given by fires, as Caesar had previously commanded, a rush was made thither [that is, by the Roman soldiers] from the nearest fort; and the battle was fought by the enemy as vigorously as it ought to be fought by brave men, in the last hope of safety, in a disadvantageous place, and against those who were throwing their weapons from a rampart and from towers; since all hope of safety depended on their"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "At the same time he was informed by Publius Crassus, whom he had sent with one legion against the Veneti, the Unelli, the Osismii, the Curiosolitae, the Sesuvii, the Aulerci, and the Rhedones, which are maritime states, and touch upon the [Atlantic] ocean, that all these nations were brought under the dominion and power of the Roman people."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "At the same time he was informed by Publius Crassus, whom he had sent with one legion against the Veneti, the Unelli, the Osismii, the Curiosolitae, the Sesuvii, the Aulerci, and the Rhedones, which are maritime states, and touch upon the [Atlantic] ocean, that all these nations were brought under the dominion and power of the Roman people."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "At the same time he was informed by Publius Crassus, whom he had sent with one legion against the Veneti, the Unelli, the Osismii, the Curiosolitae, the Sesuvii, the Aulerci, and the Rhedones, which are maritime states, and touch upon the [Atlantic] ocean, that all these nations were brought under the dominion and power of the Roman people."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "to the last extremity, Publius Sextius Baculus, a centurion of the first rank, whom we have related to have been disabled by severe wounds in the engagement with the Nervii, and also Gaius Volusenus, a tribune of the soldiers, a man of great skill and valour, hasten to Galba, and assure him that the only hope of safety lay in making a sally, and trying the last resource."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "to the last extremity, Publius Sextius Baculus, a centurion of the first rank, whom we have related to have been disabled by severe wounds in the engagement with the Nervii, and also Gaius Volusenus, a tribune of the soldiers, a man of great skill and valour, hasten to Galba, and assure him that the only hope of safety lay in making a sally, and trying the last resource."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "to the last extremity, Publius Sextius Baculus, a centurion of the first rank, whom we have related to have been disabled by severe wounds in the engagement with the Nervii, and also Gaius Volusenus, a tribune of the soldiers, a man of great skill and valour, hasten to Galba, and assure him that the only hope of safety lay in making a sally, and trying the last resource."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He, as there was a scarcity of corn in those parts, sent out some officers of cavalry and several military tribunes amongst the neighbouring states, for the purpose of procuring corn and provision; in which number Titus Terrasidius was sent amongst the Esubii; Marcus Trebius Gallus amongst the Curiosolitae; Quintus Velanius, with Titus Silius, amongst the Veneti."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He, as there was a scarcity of corn in those parts, sent out some officers of cavalry and several military tribunes amongst the neighbouring states, for the purpose of procuring corn and provision; in which number Titus Terrasidius was sent amongst the Esubii; Marcus Trebius Gallus amongst the Curiosolitae; Quintus Velanius, with Titus Silius, amongst the Veneti."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He, as there was a scarcity of corn in those parts, sent out some officers of cavalry and several military tribunes amongst the neighbouring states, for the purpose of procuring corn and provision; in which number Titus Terrasidius was sent amongst the Esubii; Marcus Trebius Gallus amongst the Curiosolitae; Quintus Velanius, with Titus Silius, amongst the Veneti."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He charges him to visit the Remi and the other Belgians, and to keep them in their allegiance and repel the Germans (who were said to have been summoned by the Belgae to their aid) if they attempted to cross the river by force in their ships. He orders Publius Crassus to proceed into Aquitania with twelve legionary cohorts and a great number of the cavalry, lest auxiliaries should be sent into Gaul by these states, and such great nations be united. He sends Quintus Titurius Sabinus, his lieutenant, with three legions, among the Unelli, the Curiosolitae, and the Lexovii, to take care that their forces should be kept separate from the rest. He appoints Decimus Brutus, a young man, over the fleet and those Gallic vessels which he had ordered to be furnished by the Pictones and the Santoni, and the other provinces which remained at peace; and commands him to proceed towards the Veneti, as soon as he could. He himself hastens thither with the land forces."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He charges him to visit the Remi and the other Belgians, and to keep them in their allegiance and repel the Germans (who were said to have been summoned by the Belgae to their aid) if they attempted to cross the river by force in their ships. He orders Publius Crassus to proceed into Aquitania with twelve legionary cohorts and a great number of the cavalry, lest auxiliaries should be sent into Gaul by these states, and such great nations be united. He sends Quintus Titurius Sabinus, his lieutenant, with three legions, among the Unelli, the Curiosolitae, and the Lexovii, to take care that their forces should be kept separate from the rest. He appoints Decimus Brutus, a young man, over the fleet and those Gallic vessels which he had ordered to be furnished by the Pictones and the Santoni, and the other provinces which remained at peace; and commands him to proceed towards the Veneti, as soon as he could. He himself hastens thither with the land forces."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He charges him to visit the Remi and the other Belgians, and to keep them in their allegiance and repel the Germans (who were said to have been summoned by the Belgae to their aid) if they attempted to cross the river by force in their ships. He orders Publius Crassus to proceed into Aquitania with twelve legionary cohorts and a great number of the cavalry, lest auxiliaries should be sent into Gaul by these states, and such great nations be united. He sends Quintus Titurius Sabinus, his lieutenant, with three legions, among the Unelli, the Curiosolitae, and the Lexovii, to take care that their forces should be kept separate from the rest. He appoints Decimus Brutus, a young man, over the fleet and those Gallic vessels which he had ordered to be furnished by the Pictones and the Santoni, and the other provinces which remained at peace; and commands him to proceed towards the Veneti, as soon as he could. He himself hastens thither with the land forces."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "About the same time, Publius Crassus, when he had arrived in Aquitania (which, as has been before said, both from its extent of territory and the great number of its people, is to be reckoned a third part of Gaul), understanding that he was to wage war in these parts, where a few years before Lucius Valerius Praeconinus, the lieutenant, had been killed, and his army routed, and from which Lucius Manilius, the proconsul, had fled with the loss of his baggage, he perceived that no ordinary care must be used by him."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "About the same time, Publius Crassus, when he had arrived in Aquitania (which, as has been before said, both from its extent of territory and the great number of its people, is to be reckoned a third part of Gaul), understanding that he was to wage war in these parts, where a few years before Lucius Valerius Praeconinus, the lieutenant, had been killed, and his army routed, and from which Lucius Manilius, the proconsul, had fled with the loss of his baggage, he perceived that no ordinary care must be used by him."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "About the same time, Publius Crassus, when he had arrived in Aquitania (which, as has been before said, both from its extent of territory and the great number of its people, is to be reckoned a third part of Gaul), understanding that he was to wage war in these parts, where a few years before Lucius Valerius Praeconinus, the lieutenant, had been killed, and his army routed, and from which Lucius Manilius, the proconsul, had fled with the loss of his baggage, he perceived that no ordinary care must be used by him."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Ambassadors also are sent to those states of Hither Spain which are nearest to Aquitania, and auxiliaries and leaders are summoned from them; on whose arrival they proceed to carry on the war with great confidence, and with a great host of men. They who had been with Quintus Sertorius the whole period [of his war in Spain] and were supposed to have very great skill in military matters, are chosen leaders."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Ambassadors also are sent to those states of Hither Spain which are nearest to Aquitania, and auxiliaries and leaders are summoned from them; on whose arrival they proceed to carry on the war with great confidence, and with a great host of men. They who had been with Quintus Sertorius the whole period [of his war in Spain] and were supposed to have very great skill in military matters, are chosen leaders."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Ambassadors also are sent to those states of Hither Spain which are nearest to Aquitania, and auxiliaries and leaders are summoned from them; on whose arrival they proceed to carry on the war with great confidence, and with a great host of men. They who had been with Quintus Sertorius the whole period [of his war in Spain] and were supposed to have very great skill in military matters, are chosen leaders."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "This measure being approved of by the leaders and the forces of the Romans drawn out, the enemy [still] kept themselves in their camp. Crassus having remarked this circumstance, since the enemy, intimidated by their own delay, and by the reputation [that is, for cowardice arising thence] had rendered our soldiers more eager for fighting, and the remarks of all were heard [declaring] that no longer ought delay to be made in going to the camp, after encouraging his men, he marches to the camp of the enemy, to the great gratification of his own troops."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "This measure being approved of by the leaders and the forces of the Romans drawn out, the enemy [still] kept themselves in their camp. Crassus having remarked this circumstance, since the enemy, intimidated by their own delay, and by the reputation [that is, for cowardice arising thence] had rendered our soldiers more eager for fighting, and the remarks of all were heard [declaring] that no longer ought delay to be made in going to the camp, after encouraging his men, he marches to the camp of the enemy, to the great gratification of his own troops."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "This measure being approved of by the leaders and the forces of the Romans drawn out, the enemy [still] kept themselves in their camp. Crassus having remarked this circumstance, since the enemy, intimidated by their own delay, and by the reputation [that is, for cowardice arising thence] had rendered our soldiers more eager for fighting, and the remarks of all were heard [declaring] that no longer ought delay to be made in going to the camp, after encouraging his men, he marches to the camp of the enemy, to the great gratification of his own troops."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "anything beyond the Rhine should be subject to his dominion or power?\""
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "anything beyond the Rhine should be subject to his dominion or power?\""
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "anything beyond the Rhine should be subject to his dominion or power?\""
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "There were in addition to these eighteen ships of burden which were prevented, eight miles from that place, by winds, from being able to reach the same port. These he distributed amongst the horse; the rest of the army he delivered to Quintus Titurius Sabinus and Lucius Aurunculeius Cotta, his lieutenants, to lead into the territories of the Menapii and those cantons of the Morini from which ambassadors had not come to him. He ordered Publius Sulpicius Rufus, his lieutenant, to hold possession of the harbour, with such a garrison as he thought sufficient."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "There were in addition to these eighteen ships of burden which were prevented, eight miles from that place, by winds, from being able to reach the same port. These he distributed amongst the horse; the rest of the army he delivered to Quintus Titurius Sabinus and Lucius Aurunculeius Cotta, his lieutenants, to lead into the territories of the Menapii and those cantons of the Morini from which ambassadors had not come to him. He ordered Publius Sulpicius Rufus, his lieutenant, to hold possession of the harbour, with such a garrison as he thought sufficient."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "There were in addition to these eighteen ships of burden which were prevented, eight miles from that place, by winds, from being able to reach the same port. These he distributed amongst the horse; the rest of the army he delivered to Quintus Titurius Sabinus and Lucius Aurunculeius Cotta, his lieutenants, to lead into the territories of the Menapii and those cantons of the Morini from which ambassadors had not come to him. He ordered Publius Sulpicius Rufus, his lieutenant, to hold possession of the harbour, with such a garrison as he thought sufficient."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He therefore provided remedies against all contingencies; for he daily conveyed corn from the country parts into the camp, used the timber and brass of such ships as were most seriously damaged for repairing the rest, and ordered whatever things besides were necessary for this object to be brought to him from the continent."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He therefore provided remedies against all contingencies; for he daily conveyed corn from the country parts into the camp, used the timber and brass of such ships as were most seriously damaged for repairing the rest, and ordered whatever things besides were necessary for this object to be brought to him from the continent."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He therefore provided remedies against all contingencies; for he daily conveyed corn from the country parts into the camp, used the timber and brass of such ships as were most seriously damaged for repairing the rest, and ordered whatever things besides were necessary for this object to be brought to him from the continent."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "the ships for this reason, because he was leaving them fastened at anchor upon an even and open shore; and he placed Quintus Atrius over the guard of the ships. He himself, having advanced by night about twelve miles, espied the forces of the enemy. They, advancing to the river with their cavalry and chariots from the higher ground, began to annoy our men and give battle."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "the ships for this reason, because he was leaving them fastened at anchor upon an even and open shore; and he placed Quintus Atrius over the guard of the ships. He himself, having advanced by night about twelve miles, espied the forces of the enemy. They, advancing to the river with their cavalry and chariots from the higher ground, began to annoy our men and give battle."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "the ships for this reason, because he was leaving them fastened at anchor upon an even and open shore; and he placed Quintus Atrius over the guard of the ships. He himself, having advanced by night about twelve miles, espied the forces of the enemy. They, advancing to the river with their cavalry and chariots from the higher ground, began to annoy our men and give battle."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The following day the enemy halted on the hills, a distance from our camp, and presented themselves in small parties, and began to challenge our horse to battle with less spirit than the day before. But at noon, when Caesar had sent three legions, and all the cavalry with Gaius Trebonius, the lieutenant, for the purpose of foraging, they flew upon the foragers suddenly from all quarters, so that they did not keep off [even] from the standards and the legions."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The following day the enemy halted on the hills, a distance from our camp, and presented themselves in small parties, and began to challenge our horse to battle with less spirit than the day before. But at noon, when Caesar had sent three legions, and all the cavalry with Gaius Trebonius, the lieutenant, for the purpose of foraging, they flew upon the foragers suddenly from all quarters, so that they did not keep off [even] from the standards and the legions."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The following day the enemy halted on the hills, a distance from our camp, and presented themselves in small parties, and began to challenge our horse to battle with less spirit than the day before. But at noon, when Caesar had sent three legions, and all the cavalry with Gaius Trebonius, the lieutenant, for the purpose of foraging, they flew upon the foragers suddenly from all quarters, so that they did not keep off [even] from the standards and the legions."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "of them he gave to Gaius Fabius, his lieutenant, to be marched into the territories of the Morini; a second to Quintus Cicero, into those of the Nervii; a third to Lucius Roscius, into those of the Essui; a fourth he ordered to winter with Titus Labienus among the Remi in the confines of the Treviri; he stationed three in Belgium; over these he appointed Marcus Crassus, his questor, and Lucius Munatius Plancus and Gaius Trebonius, his lieutenants."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "of them he gave to Gaius Fabius, his lieutenant, to be marched into the territories of the Morini; a second to Quintus Cicero, into those of the Nervii; a third to Lucius Roscius, into those of the Essui; a fourth he ordered to winter with Titus Labienus among the Remi in the confines of the Treviri; he stationed three in Belgium; over these he appointed Marcus Crassus, his questor, and Lucius Munatius Plancus and Gaius Trebonius, his lieutenants."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "of them he gave to Gaius Fabius, his lieutenant, to be marched into the territories of the Morini; a second to Quintus Cicero, into those of the Nervii; a third to Lucius Roscius, into those of the Essui; a fourth he ordered to winter with Titus Labienus among the Remi in the confines of the Treviri; he stationed three in Belgium; over these he appointed Marcus Crassus, his questor, and Lucius Munatius Plancus and Gaius Trebonius, his lieutenants."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "One legion which he had raised last on the other side of the Po, and five cohorts, he sent amongst the Eburones, the greatest portion of whom lie between the Meuse and the Rhine, [and] who were under the government of Ambiorix and Cativolcus. He ordered Quintus Titurius Sabinus and Lucius Aurunculeius Cotta, his lieutenants, to take the command of these soldiers. The legions being distributed in this manner, he thought he could most easily remedy the scarcity of corn; and yet the winter-quarters of all these legions (except that which he had given to Lucius Roscius to be led into the most peaceful and tranquil neighbourhood) were comprehended within [about] 100 miles. He himself in the meanwhile, until he had stationed the legions and knew that the several winter-quarters were fortified, determined to stay in Gaul."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "One legion which he had raised last on the other side of the Po, and five cohorts, he sent amongst the Eburones, the greatest portion of whom lie between the Meuse and the Rhine, [and] who were under the government of Ambiorix and Cativolcus. He ordered Quintus Titurius Sabinus and Lucius Aurunculeius Cotta, his lieutenants, to take the command of these soldiers. The legions being distributed in this manner, he thought he could most easily remedy the scarcity of corn; and yet the winter-quarters of all these legions (except that which he had given to Lucius Roscius to be led into the most peaceful and tranquil neighbourhood) were comprehended within [about] 100 miles. He himself in the meanwhile, until he had stationed the legions and knew that the several winter-quarters were fortified, determined to stay in Gaul."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "One legion which he had raised last on the other side of the Po, and five cohorts, he sent amongst the Eburones, the greatest portion of whom lie between the Meuse and the Rhine, [and] who were under the government of Ambiorix and Cativolcus. He ordered Quintus Titurius Sabinus and Lucius Aurunculeius Cotta, his lieutenants, to take the command of these soldiers. The legions being distributed in this manner, he thought he could most easily remedy the scarcity of corn; and yet the winter-quarters of all these legions (except that which he had given to Lucius Roscius to be led into the most peaceful and tranquil neighbourhood) were comprehended within [about] 100 miles. He himself in the meanwhile, until he had stationed the legions and knew that the several winter-quarters were fortified, determined to stay in Gaul."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Accordingly, they refer the matter to a council, and a, great controversy arises among them. Lucius Aurunculeius, and several tribunes of the soldiers and the centurions of the first rank, were of opinion \"that nothing should be done hastily, and that they should not depart from the camp without Caesar's orders\"; they declared,"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Accordingly, they refer the matter to a council, and a, great controversy arises among them. Lucius Aurunculeius, and several tribunes of the soldiers and the centurions of the first rank, were of opinion \"that nothing should be done hastily, and that they should not depart from the camp without Caesar's orders\"; they declared,"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Accordingly, they refer the matter to a council, and a, great controversy arises among them. Lucius Aurunculeius, and several tribunes of the soldiers and the centurions of the first rank, were of opinion \"that nothing should be done hastily, and that they should not depart from the camp without Caesar's orders\"; they declared,"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Then at length Titurius, as one who had provided nothing beforehand, was confused, ran to and fro, and set about arranging his troops; these very things, however, he did timidly and in such a manner that all resources seemed to fail him: which generally happens to those who are compelled to take council in the action itself."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Then at length Titurius, as one who had provided nothing beforehand, was confused, ran to and fro, and set about arranging his troops; these very things, however, he did timidly and in such a manner that all resources seemed to fail him: which generally happens to those who are compelled to take council in the action itself."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Then at length Titurius, as one who had provided nothing beforehand, was confused, ran to and fro, and set about arranging his troops; these very things, however, he did timidly and in such a manner that all resources seemed to fail him: which generally happens to those who are compelled to take council in the action itself."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Yet, though assailed by so many disadvantages, [and] having received many wounds, they withstood the enemy, and, a great portion of the day being spent, though they fought from day-break till the eighth hour, they did nothing which was unworthy of them. At length, each thigh of Titus Balventius, who the year before had been chief centurion, a brave man and one of great authority, is pierced with a javelin; Quintus Lucanius, of the same rank, fighting most valiantly, is slain while he assists his son when surrounded by the enemy; Lucius Cotta, the lieutenant, when encouraging all the cohorts and companies, is wounded full in the mouth by a sling."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Yet, though assailed by so many disadvantages, [and] having received many wounds, they withstood the enemy, and, a great portion of the day being spent, though they fought from day-break till the eighth hour, they did nothing which was unworthy of them. At length, each thigh of Titus Balventius, who the year before had been chief centurion, a brave man and one of great authority, is pierced with a javelin; Quintus Lucanius, of the same rank, fighting most valiantly, is slain while he assists his son when surrounded by the enemy; Lucius Cotta, the lieutenant, when encouraging all the cohorts and companies, is wounded full in the mouth by a sling."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Yet, though assailed by so many disadvantages, [and] having received many wounds, they withstood the enemy, and, a great portion of the day being spent, though they fought from day-break till the eighth hour, they did nothing which was unworthy of them. At length, each thigh of Titus Balventius, who the year before had been chief centurion, a brave man and one of great authority, is pierced with a javelin; Quintus Lucanius, of the same rank, fighting most valiantly, is slain while he assists his son when surrounded by the enemy; Lucius Cotta, the lieutenant, when encouraging all the cohorts and companies, is wounded full in the mouth by a sling."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "In the meantime, while they treat upon the terms, and a longer debate than necessary is designedly entered into by Ambiorix, being surrounded by degrees, he is slain. Then they according to their custom shout out \"Victory,\" and raise their war-cry, and, making an attack on our men, break their ranks. There Lucius Cotta, while fighting, is slain, together with the greater part of the soldiers; the rest betake themselves to the camp from which they had marched forth, and one of them, Lucius Petrosidius, the standard bearer, when he was overpowered by the great number of the enemy, threw the eagle within the entrenchments and is himself slain while fighting with the greatest courage before the camp."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "In the meantime, while they treat upon the terms, and a longer debate than necessary is designedly entered into by Ambiorix, being surrounded by degrees, he is slain. Then they according to their custom shout out \"Victory,\" and raise their war-cry, and, making an attack on our men, break their ranks. There Lucius Cotta, while fighting, is slain, together with the greater part of the soldiers; the rest betake themselves to the camp from which they had marched forth, and one of them, Lucius Petrosidius, the standard bearer, when he was overpowered by the great number of the enemy, threw the eagle within the entrenchments and is himself slain while fighting with the greatest courage before the camp."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "In the meantime, while they treat upon the terms, and a longer debate than necessary is designedly entered into by Ambiorix, being surrounded by degrees, he is slain. Then they according to their custom shout out \"Victory,\" and raise their war-cry, and, making an attack on our men, break their ranks. There Lucius Cotta, while fighting, is slain, together with the greater part of the soldiers; the rest betake themselves to the camp from which they had marched forth, and one of them, Lucius Petrosidius, the standard bearer, when he was overpowered by the great number of the enemy, threw the eagle within the entrenchments and is himself slain while fighting with the greatest courage before the camp."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "When this letter was brought to him about the middle of the night, Caesar apprises his soldiers of its contents, and inspires them with courage for fighting: the following day, at the dawn, he moves his camp, and, having proceeded four miles, he espies the forces of the enemy on the other side of a considerable valley and rivulet."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "When this letter was brought to him about the middle of the night, Caesar apprises his soldiers of its contents, and inspires them with courage for fighting: the following day, at the dawn, he moves his camp, and, having proceeded four miles, he espies the forces of the enemy on the other side of a considerable valley and rivulet."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "When this letter was brought to him about the middle of the night, Caesar apprises his soldiers of its contents, and inspires them with courage for fighting: the following day, at the dawn, he moves his camp, and, having proceeded four miles, he espies the forces of the enemy on the other side of a considerable valley and rivulet."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Nor did any period of the whole winter pass over without fresh anxiety to Caesar, or without his receiving some intelligence respecting the meetings and commotions of the Gauls. Among these, he is informed by Lucius Roscius, the lieutenant whom he had placed over the thirteenth legion, that large forces of those states of the Gauls, which are called the Armoricae, had assembled for the purpose of attacking him and were not more than eight miles distant; but intelligence respecting the victory of Caesar being carried [to them], had"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Nor did any period of the whole winter pass over without fresh anxiety to Caesar, or without his receiving some intelligence respecting the meetings and commotions of the Gauls. Among these, he is informed by Lucius Roscius, the lieutenant whom he had placed over the thirteenth legion, that large forces of those states of the Gauls, which are called the Armoricae, had assembled for the purpose of attacking him and were not more than eight miles distant; but intelligence respecting the victory of Caesar being carried [to them], had"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Nor did any period of the whole winter pass over without fresh anxiety to Caesar, or without his receiving some intelligence respecting the meetings and commotions of the Gauls. Among these, he is informed by Lucius Roscius, the lieutenant whom he had placed over the thirteenth legion, that large forces of those states of the Gauls, which are called the Armoricae, had assembled for the purpose of attacking him and were not more than eight miles distant; but intelligence respecting the victory of Caesar being carried [to them], had"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "previously held it) when he discovered their plot and fled, pursued him even to the frontiers [of the state], and drove him from his kingdom and his home; and, after having sent ambassadors to Caesar for the purpose of concluding a peace, when he ordered all their senate to come to him, did not obey that command."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "previously held it) when he discovered their plot and fled, pursued him even to the frontiers [of the state], and drove him from his kingdom and his home; and, after having sent ambassadors to Caesar for the purpose of concluding a peace, when he ordered all their senate to come to him, did not obey that command."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "previously held it) when he discovered their plot and fled, pursued him even to the frontiers [of the state], and drove him from his kingdom and his home; and, after having sent ambassadors to Caesar for the purpose of concluding a peace, when he ordered all their senate to come to him, did not obey that command."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Caesar, expecting for many reasons a greater commotion in Gaul, resolves to hold a levy by the means of Marcus Silanus, Gaius Antistius Reginus, and Titus Sextius, his lieutenants: at the same time he requested of Gnaeus Pompey, the proconsul, that since he was remaining near the city invested with military command for the interests of the commonwealth, he would command those men whom when consul he had levied by the military oath in Cisalpine Gaul, to join their respective corps, and to proceed to him; thinking it of great importance,"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Caesar, expecting for many reasons a greater commotion in Gaul, resolves to hold a levy by the means of Marcus Silanus, Gaius Antistius Reginus, and Titus Sextius, his lieutenants: at the same time he requested of Gnaeus Pompey, the proconsul, that since he was remaining near the city invested with military command for the interests of the commonwealth, he would command those men whom when consul he had levied by the military oath in Cisalpine Gaul, to join their respective corps, and to proceed to him; thinking it of great importance,"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Caesar, expecting for many reasons a greater commotion in Gaul, resolves to hold a levy by the means of Marcus Silanus, Gaius Antistius Reginus, and Titus Sextius, his lieutenants: at the same time he requested of Gnaeus Pompey, the proconsul, that since he was remaining near the city invested with military command for the interests of the commonwealth, he would command those men whom when consul he had levied by the military oath in Cisalpine Gaul, to join their respective corps, and to proceed to him; thinking it of great importance,"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "And when Pompey had granted this to the interests of the commonwealth and the claims of friendship, Caesar having quickly completed the levy by means of his lieutenants, after three legions had been both formed and brought to him before the winter [had] expired, and the number of those cohorts which he had lost under Quintus Titurius had been doubled, taught the Gauls, both by his dispatch and by his forces, what the discipline and the power of the Roman people could accomplish."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "And when Pompey had granted this to the interests of the commonwealth and the claims of friendship, Caesar having quickly completed the levy by means of his lieutenants, after three legions had been both formed and brought to him before the winter [had] expired, and the number of those cohorts which he had lost under Quintus Titurius had been doubled, taught the Gauls, both by his dispatch and by his forces, what the discipline and the power of the Roman people could accomplish."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "And when Pompey had granted this to the interests of the commonwealth and the claims of friendship, Caesar having quickly completed the levy by means of his lieutenants, after three legions had been both formed and brought to him before the winter [had] expired, and the number of those cohorts which he had lost under Quintus Titurius had been doubled, taught the Gauls, both by his dispatch and by his forces, what the discipline and the power of the Roman people could accomplish."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Among the other usages of their life, they differ in this from almost all other nations, that they do not permit their children to approach them openly until they are grown up so as to be able to bear the service of war; and they regard it as indecorous for a son of boyish age to stand in public in the presence of his father."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Among the other usages of their life, they differ in this from almost all other nations, that they do not permit their children to approach them openly until they are grown up so as to be able to bear the service of war; and they regard it as indecorous for a son of boyish age to stand in public in the presence of his father."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Among the other usages of their life, they differ in this from almost all other nations, that they do not permit their children to approach them openly until they are grown up so as to be able to bear the service of war; and they regard it as indecorous for a son of boyish age to stand in public in the presence of his father."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The shape of these, and the varied colour of their skins, is much like roes, but in size they surpass them a little and are destitute of horns, and have legs without joints and ligatures; nor do they lie down for the purpose of rest, nor, if they have been thrown down by any accident, can they raise or lift themselves up."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The shape of these, and the varied colour of their skins, is much like roes, but in size they surpass them a little and are destitute of horns, and have legs without joints and ligatures; nor do they lie down for the purpose of rest, nor, if they have been thrown down by any accident, can they raise or lift themselves up."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The shape of these, and the varied colour of their skins, is much like roes, but in size they surpass them a little and are destitute of horns, and have legs without joints and ligatures; nor do they lie down for the purpose of rest, nor, if they have been thrown down by any accident, can they raise or lift themselves up."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "purpose of defending the bridge, and strengthens the place with considerable fortifications."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "purpose of defending the bridge, and strengthens the place with considerable fortifications."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "purpose of defending the bridge, and strengthens the place with considerable fortifications."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Over that fort and guard he appointed Gaius Volcatius Tullus, a young man; he himself, when the corn began to ripen, having set forth for the war with 40 Ambiorix (through the forest Arduenna, which is the largest of all Gaul, and reaches from the banks of the Rhine and the frontiers of the Treviri to those of the Nervii, and extends over more than 500 miles),"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Over that fort and guard he appointed Gaius Volcatius Tullus, a young man; he himself, when the corn began to ripen, having set forth for the war with 40 Ambiorix (through the forest Arduenna, which is the largest of all Gaul, and reaches from the banks of the Rhine and the frontiers of the Treviri to those of the Nervii, and extends over more than 500 miles),"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Over that fort and guard he appointed Gaius Volcatius Tullus, a young man; he himself, when the corn began to ripen, having set forth for the war with 40 Ambiorix (through the forest Arduenna, which is the largest of all Gaul, and reaches from the banks of the Rhine and the frontiers of the Treviri to those of the Nervii, and extends over more than 500 miles),"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "he sends forward Lucius Minucius Basilus with all the cavalry, to try if he might gain any advantage by rapid marches and the advantage of time, he warns him to forbid fires being made in the camp, lest any indication of his approach be given at a distance: he tells him that he will follow immediately."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "he sends forward Lucius Minucius Basilus with all the cavalry, to try if he might gain any advantage by rapid marches and the advantage of time, he warns him to forbid fires being made in the camp, lest any indication of his approach be given at a distance: he tells him that he will follow immediately."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "he sends forward Lucius Minucius Basilus with all the cavalry, to try if he might gain any advantage by rapid marches and the advantage of time, he warns him to forbid fires being made in the camp, lest any indication of his approach be given at a distance: he tells him that he will follow immediately."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "But it was effected owing to this circumstance, that his house being surrounded by a wood, (as are generally the dwellings of the Gauls, who, for the purpose of avoiding heat, mostly seek the neighbourhood of woods and rivers) his attendants and friends in a narrow spot sustained for a short time the attack of our horse."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "But it was effected owing to this circumstance, that his house being surrounded by a wood, (as are generally the dwellings of the Gauls, who, for the purpose of avoiding heat, mostly seek the neighbourhood of woods and rivers) his attendants and friends in a narrow spot sustained for a short time the attack of our horse."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "But it was effected owing to this circumstance, that his house being surrounded by a wood, (as are generally the dwellings of the Gauls, who, for the purpose of avoiding heat, mostly seek the neighbourhood of woods and rivers) his attendants and friends in a narrow spot sustained for a short time the attack of our horse."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Having divided the army, he orders Titus Labienus to proceed with three legions towards the ocean into those parts which border on the Menappii; he sends Gaius Trebonius with a like number of legions to lay waste that district which lies contiguous to the Aduatuci; he himself determines to go with the remaining three to the river Sambre, which flows into the Meuse, and to the most remote parts of Arduenna, whither he heard that Ambiorix had gone with a few horse."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Having divided the army, he orders Titus Labienus to proceed with three legions towards the ocean into those parts which border on the Menappii; he sends Gaius Trebonius with a like number of legions to lay waste that district which lies contiguous to the Aduatuci; he himself determines to go with the remaining three to the river Sambre, which flows into the Meuse, and to the most remote parts of Arduenna, whither he heard that Ambiorix had gone with a few horse."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Having divided the army, he orders Titus Labienus to proceed with three legions towards the ocean into those parts which border on the Menappii; he sends Gaius Trebonius with a like number of legions to lay waste that district which lies contiguous to the Aduatuci; he himself determines to go with the remaining three to the river Sambre, which flows into the Meuse, and to the most remote parts of Arduenna, whither he heard that Ambiorix had gone with a few horse."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The Germans, despairing of taking the camp by storm, because they saw that our men had taken up their position on the fortifications, retreated beyond the Rhine with that plunder which they had deposited in the woods. And so great was the alarm, even after the departure of the enemy, that when Gaius Volusenus, who had been sent with the cavalry, arrived that night, he could not gain credence that. Caesar was close at hand with his army safe."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The Germans, despairing of taking the camp by storm, because they saw that our men had taken up their position on the fortifications, retreated beyond the Rhine with that plunder which they had deposited in the woods. And so great was the alarm, even after the departure of the enemy, that when Gaius Volusenus, who had been sent with the cavalry, arrived that night, he could not gain credence that. Caesar was close at hand with his army safe."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "The Germans, despairing of taking the camp by storm, because they saw that our men had taken up their position on the fortifications, retreated beyond the Rhine with that plunder which they had deposited in the woods. And so great was the alarm, even after the departure of the enemy, that when Gaius Volusenus, who had been sent with the cavalry, arrived that night, he could not gain credence that. Caesar was close at hand with his army safe."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He shares the bribe with them, and exhorts them to"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He shares the bribe with them, and exhorts them to"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "He shares the bribe with them, and exhorts them to"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "same manner as he did, the wrongs which they had received."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "same manner as he did, the wrongs which they had received."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "same manner as he did, the wrongs which they had received."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Almost at the same time, a little before daylight, intelligence was given to the enemy that there was an unusual tumult in the camp of the Romans, and that a strong force was marching up the river, and that the sound of oars was distinctly heard in the same quarter, and that soldiers were being conveyed across in ships a little below."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Almost at the same time, a little before daylight, intelligence was given to the enemy that there was an unusual tumult in the camp of the Romans, and that a strong force was marching up the river, and that the sound of oars was distinctly heard in the same quarter, and that soldiers were being conveyed across in ships a little below."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Almost at the same time, a little before daylight, intelligence was given to the enemy that there was an unusual tumult in the camp of the Romans, and that a strong force was marching up the river, and that the sound of oars was distinctly heard in the same quarter, and that soldiers were being conveyed across in ships a little below."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Caesar had a double design in this fortification; for he both hoped that the strength of his works, and his [apparent] fears would raise confidence in the barbarians; and when there should be occasion to make a distant excursion to get forage or corn, he saw that his camp would be secured by the works with a very small force."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Caesar had a double design in this fortification; for he both hoped that the strength of his works, and his [apparent] fears would raise confidence in the barbarians; and when there should be occasion to make a distant excursion to get forage or corn, he saw that his camp would be secured by the works with a very small force."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "Caesar had a double design in this fortification; for he both hoped that the strength of his works, and his [apparent] fears would raise confidence in the barbarians; and when there should be occasion to make a distant excursion to get forage or corn, he saw that his camp would be secured by the works with a very small force."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "could not pursue with expedition, and that the hill beyond the morass, which extended almost to the enemy's camp, was separated from it only by a small valley, he laid a bridge over the morass and led his army across, and soon reached the plain on the top of the hill, which was fortified on either side by a steep ascent."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "could not pursue with expedition, and that the hill beyond the morass, which extended almost to the enemy's camp, was separated from it only by a small valley, he laid a bridge over the morass and led his army across, and soon reached the plain on the top of the hill, which was fortified on either side by a steep ascent."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "could not pursue with expedition, and that the hill beyond the morass, which extended almost to the enemy's camp, was separated from it only by a small valley, he laid a bridge over the morass and led his army across, and soon reached the plain on the top of the hill, which was fortified on either side by a steep ascent."
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "For the year before, while Caesar was holding the assizes in Hither Gaul, Titus Labienus, having discovered that Comius was tampering with the states, and raising a conspiracy against Caesar, thought he might punish his infidelity without perfidy; but judging that he would not come to his camp at his invitation, and"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "For the year before, while Caesar was holding the assizes in Hither Gaul, Titus Labienus, having discovered that Comius was tampering with the states, and raising a conspiracy against Caesar, thought he might punish his infidelity without perfidy; but judging that he would not come to his camp at his invitation, and"
+  ],
+  [
+   "Narrator",
+   "Julius Caesar",
+   "Alnilam",
+   "For the year before, while Caesar was holding the assizes in Hither Gaul, Titus Labienus, having discovered that Comius was tampering with the states, and raising a conspiracy against Caesar, thought he might punish his infidelity without perfidy; but judging that he would not come to his camp at his invitation, and"
+  ]
+ ],
+ "plan": [
+  {
+   "ch": "01",
+   "n": 24,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "01-24-0",
+   "text": "After learning these circumstances, since to these suspicions the most unequivocal facts were added, namely , that he had led the Helvetii through the territories of the Sequani; that he had provided that hostages should be mutually given; that he had done all these things, not only without any orders of his [Caesar's] and of his own state's, but even without their [the Aedui] knowing anything of it themselves; that he"
+  },
+  {
+   "ch": "02",
+   "n": 17,
+   "pieces": [
+    0,
+    2
+   ],
+   "tag": "02-17-0",
+   "text": "\"That there were two parties in the whole of Gaul: that the Aedui stood at the head of one of these, the Arverni of the other. After these had been violently struggling with one another for the superiority for many years, it came to pass that the Germans were called in for hire by the Arverni and the Sequani. That about 15,000 of them [that is, of the Germans] had at first crossed the Rhine: but after that these wild and savage men had become enamoured of the lands and the refinement and the abundance of the Gauls, more were brought over, that there were now as many as 120,000 of them in Gaul: that with these the Aedui and their dependants had repeatedly"
+  },
+  {
+   "ch": "02",
+   "n": 24,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "02-24-0",
+   "text": "[Caesar says] that \"he himself and the Roman people will entertain a perpetual feeling of favour and friendship towards him; but that if he [Caesar] does not obtain [his desires], that he (forasmuch as in the consulship of Marcus Messala and Marcus Piso [B.Gaius 61] the senate had decreed that, whoever should have the administration of the province of Gaul should, as far as he could do so consistently with the interests of the republic, protect the Aedui and the other friends of the Roman people) will not overlook the wrongs of the Aedui.\""
+  },
+  {
+   "ch": "02",
+   "n": 25,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "02-25-0",
+   "text": "To this Ariovistus replied, that \"the right of war was, that they who had conquered should govern those whom they had conquered, in what manner they pleased; that in that way the Roman people were wont to govern the nations which they had conquered, not according to the dictation of any other, but according to their own discretion."
+  },
+  {
+   "ch": "03",
+   "n": 15,
+   "pieces": [
+    3,
+    5
+   ],
+   "tag": "03-15-0",
+   "text": "It seemed [therefore] most proper to send to him Gaius Valerius Procillus, the son of Gaius Valerius Caburus, a young man of the highest courage and accomplishments (whose father had been presented with the freedom of the city by Gaius Valerius Flaccus), both on account of his fidelity and on account of his knowledge of the Gallic language, which Ariovistus, by long practice, now spoke fluently; and because in his case the Germans would have no motive for committing violence; and [as his colleague] Marcus Mettius, who had shared the hospitality of Ariovistus. He commissioned them to learn what Ariovistus had to say, and to report to him. But when Ariovistus saw them before him in his camp, he cried out in the presence of his army, \"Why were they come to him? was it for the purpose of acting as spies?\""
+  },
+  {
+   "ch": "03",
+   "n": 20,
+   "pieces": [
+    3,
+    4
+   ],
+   "tag": "03-20-0",
+   "text": "Although the army of the enemy was routed on the left wing and put to flight, they [still] pressed heavily on our men from the right wing, by the great number of their troops. On observing which, Publius Crassus, a young man, who commanded the cavalry--as he was more disengaged than those who were employed in the fight--sent the third line as a relief to our men who were in distress."
+  },
+  {
+   "ch": "04",
+   "n": 9,
+   "pieces": [
+    2,
+    3
+   ],
+   "tag": "04-9-0",
+   "text": "The enemy immediately hastened from that place to the river Aisne, which it has been stated was behind our camp. Finding a ford there, they endeavoured to lead a part of their forces over it; with the design, that, if they could, they might carry by storm the fort which Quintus Titurius, Caesar's lieutenant, commanded, and might cut off the bridge; but, if they could not do that, they should lay waste the lands of the Remi, which were of great use to us in carrying on the war, and might hinder our men from foraging."
+  },
+  {
+   "ch": "05",
+   "n": 8,
+   "pieces": [
+    1,
+    2
+   ],
+   "tag": "05-8-0",
+   "text": "the fourth cohort were slain, and the standard-bearer killed, the standard itself lost, almost all the centurions of the other cohorts either wounded or slain, and among them the chief centurion of the legion, Publius Sextius Baculus, a very valiant man, who was so exhausted by many and severe wounds, that he was already unable to support himself; he likewise perceived that the rest were slackening their efforts, and that some, deserted by those in the rear, were retiring from the battle and avoiding the weapons; that the enemy [on"
+  },
+  {
+   "ch": "05",
+   "n": 15,
+   "pieces": [
+    0,
+    2
+   ],
+   "tag": "05-15-0",
+   "text": "\"That they did not believe the Romans waged war without divine aid, since they were able to move forward machines of such a height with so great speed, and thus fight from close quarters: that they resigned themselves and all their possessions to [Caesar's] disposal: that they begged and earnestly entreated one thing, namely , that if perchance, agreeably to his clemency and humanity, which they had heard of from others, he should resolve that the Aduatuci were to be spared, he would not deprive them of their arms; that all their neighbours were enemies to them and envied their courage, from whom they could not defend themselves if their"
+  },
+  {
+   "ch": "05",
+   "n": 18,
+   "pieces": [
+    3,
+    4
+   ],
+   "tag": "05-18-0",
+   "text": "The signal having been immediately given by fires, as Caesar had previously commanded, a rush was made thither [that is, by the Roman soldiers] from the nearest fort; and the battle was fought by the enemy as vigorously as it ought to be fought by brave men, in the last hope of safety, in a disadvantageous place, and against those who were throwing their weapons from a rampart and from towers; since all hope of safety depended on their"
+  },
+  {
+   "ch": "05",
+   "n": 19,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "05-19-0",
+   "text": "At the same time he was informed by Publius Crassus, whom he had sent with one legion against the Veneti, the Unelli, the Osismii, the Curiosolitae, the Sesuvii, the Aulerci, and the Rhedones, which are maritime states, and touch upon the [Atlantic] ocean, that all these nations were brought under the dominion and power of the Roman people."
+  },
+  {
+   "ch": "06",
+   "n": 5,
+   "pieces": [
+    1,
+    3
+   ],
+   "tag": "06-5-0",
+   "text": "to the last extremity, Publius Sextius Baculus, a centurion of the first rank, whom we have related to have been disabled by severe wounds in the engagement with the Nervii, and also Gaius Volusenus, a tribune of the soldiers, a man of great skill and valour, hasten to Galba, and assure him that the only hope of safety lay in making a sally, and trying the last resource."
+  },
+  {
+   "ch": "06",
+   "n": 7,
+   "pieces": [
+    3,
+    4
+   ],
+   "tag": "06-7-0",
+   "text": "He, as there was a scarcity of corn in those parts, sent out some officers of cavalry and several military tribunes amongst the neighbouring states, for the purpose of procuring corn and provision; in which number Titus Terrasidius was sent amongst the Esubii; Marcus Trebius Gallus amongst the Curiosolitae; Quintus Velanius, with Titus Silius, amongst the Veneti."
+  },
+  {
+   "ch": "06",
+   "n": 11,
+   "pieces": [
+    1,
+    4
+   ],
+   "tag": "06-11-0",
+   "text": "He charges him to visit the Remi and the other Belgians, and to keep them in their allegiance and repel the Germans (who were said to have been summoned by the Belgae to their aid) if they attempted to cross the river by force in their ships. He orders Publius Crassus to proceed into Aquitania with twelve legionary cohorts and a great number of the cavalry, lest auxiliaries should be sent into Gaul by these states, and such great nations be united. He sends Quintus Titurius Sabinus, his lieutenant, with three legions, among the Unelli, the Curiosolitae, and the Lexovii, to take care that their forces should be kept separate from the rest. He appoints Decimus Brutus, a young man, over the fleet and those Gallic vessels which he had ordered to be furnished by the Pictones and the Santoni, and the other provinces which remained at peace; and commands him to proceed towards the Veneti, as soon as he could. He himself hastens thither with the land forces."
+  },
+  {
+   "ch": "07",
+   "n": 6,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "07-6-0",
+   "text": "About the same time, Publius Crassus, when he had arrived in Aquitania (which, as has been before said, both from its extent of territory and the great number of its people, is to be reckoned a third part of Gaul), understanding that he was to wage war in these parts, where a few years before Lucius Valerius Praeconinus, the lieutenant, had been killed, and his army routed, and from which Lucius Manilius, the proconsul, had fled with the loss of his baggage, he perceived that no ordinary care must be used by him."
+  },
+  {
+   "ch": "07",
+   "n": 9,
+   "pieces": [
+    2,
+    3
+   ],
+   "tag": "07-9-0",
+   "text": "Ambassadors also are sent to those states of Hither Spain which are nearest to Aquitania, and auxiliaries and leaders are summoned from them; on whose arrival they proceed to carry on the war with great confidence, and with a great host of men. They who had been with Quintus Sertorius the whole period [of his war in Spain] and were supposed to have very great skill in military matters, are chosen leaders."
+  },
+  {
+   "ch": "07",
+   "n": 10,
+   "pieces": [
+    3,
+    4
+   ],
+   "tag": "07-10-0",
+   "text": "This measure being approved of by the leaders and the forces of the Romans drawn out, the enemy [still] kept themselves in their camp. Crassus having remarked this circumstance, since the enemy, intimidated by their own delay, and by the reputation [that is, for cowardice arising thence] had rendered our soldiers more eager for fighting, and the remarks of all were heard [declaring] that no longer ought delay to be made in going to the camp, after encouraging his men, he marches to the camp of the enemy, to the great gratification of his own troops."
+  },
+  {
+   "ch": "08",
+   "n": 18,
+   "pieces": [
+    5,
+    5
+   ],
+   "tag": "08-18-0",
+   "text": "anything beyond the Rhine should be subject to his dominion or power?\""
+  },
+  {
+   "ch": "09",
+   "n": 4,
+   "pieces": [
+    5,
+    6
+   ],
+   "tag": "09-4-0",
+   "text": "There were in addition to these eighteen ships of burden which were prevented, eight miles from that place, by winds, from being able to reach the same port. These he distributed amongst the horse; the rest of the army he delivered to Quintus Titurius Sabinus and Lucius Aurunculeius Cotta, his lieutenants, to lead into the territories of the Menapii and those cantons of the Morini from which ambassadors had not come to him. He ordered Publius Sulpicius Rufus, his lieutenant, to hold possession of the harbour, with such a garrison as he thought sufficient."
+  },
+  {
+   "ch": "09",
+   "n": 13,
+   "pieces": [
+    1,
+    2
+   ],
+   "tag": "09-13-0",
+   "text": "He therefore provided remedies against all contingencies; for he daily conveyed corn from the country parts into the camp, used the timber and brass of such ships as were most seriously damaged for repairing the rest, and ordered whatever things besides were necessary for this object to be brought to him from the continent."
+  },
+  {
+   "ch": "10",
+   "n": 9,
+   "pieces": [
+    1,
+    2
+   ],
+   "tag": "10-9-0",
+   "text": "the ships for this reason, because he was leaving them fastened at anchor upon an even and open shore; and he placed Quintus Atrius over the guard of the ships. He himself, having advanced by night about twelve miles, espied the forces of the enemy. They, advancing to the river with their cavalry and chariots from the higher ground, began to annoy our men and give battle."
+  },
+  {
+   "ch": "10",
+   "n": 17,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "10-17-0",
+   "text": "The following day the enemy halted on the hills, a distance from our camp, and presented themselves in small parties, and began to challenge our horse to battle with less spirit than the day before. But at noon, when Caesar had sent three legions, and all the cavalry with Gaius Trebonius, the lieutenant, for the purpose of foraging, they flew upon the foragers suddenly from all quarters, so that they did not keep off [even] from the standards and the legions."
+  },
+  {
+   "ch": "11",
+   "n": 4,
+   "pieces": [
+    1,
+    3
+   ],
+   "tag": "11-4-0",
+   "text": "of them he gave to Gaius Fabius, his lieutenant, to be marched into the territories of the Morini; a second to Quintus Cicero, into those of the Nervii; a third to Lucius Roscius, into those of the Essui; a fourth he ordered to winter with Titus Labienus among the Remi in the confines of the Treviri; he stationed three in Belgium; over these he appointed Marcus Crassus, his questor, and Lucius Munatius Plancus and Gaius Trebonius, his lieutenants."
+  },
+  {
+   "ch": "11",
+   "n": 4,
+   "pieces": [
+    4,
+    6
+   ],
+   "tag": "11-4-1",
+   "text": "One legion which he had raised last on the other side of the Po, and five cohorts, he sent amongst the Eburones, the greatest portion of whom lie between the Meuse and the Rhine, [and] who were under the government of Ambiorix and Cativolcus. He ordered Quintus Titurius Sabinus and Lucius Aurunculeius Cotta, his lieutenants, to take the command of these soldiers. The legions being distributed in this manner, he thought he could most easily remedy the scarcity of corn; and yet the winter-quarters of all these legions (except that which he had given to Lucius Roscius to be led into the most peaceful and tranquil neighbourhood) were comprehended within [about] 100 miles. He himself in the meanwhile, until he had stationed the legions and knew that the several winter-quarters were fortified, determined to stay in Gaul."
+  },
+  {
+   "ch": "11",
+   "n": 9,
+   "pieces": [
+    3,
+    4
+   ],
+   "tag": "11-9-0",
+   "text": "Accordingly, they refer the matter to a council, and a, great controversy arises among them. Lucius Aurunculeius, and several tribunes of the soldiers and the centurions of the first rank, were of opinion \"that nothing should be done hastily, and that they should not depart from the camp without Caesar's orders\"; they declared,"
+  },
+  {
+   "ch": "11",
+   "n": 20,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "11-20-0",
+   "text": "Then at length Titurius, as one who had provided nothing beforehand, was confused, ran to and fro, and set about arranging his troops; these very things, however, he did timidly and in such a manner that all resources seemed to fail him: which generally happens to those who are compelled to take council in the action itself."
+  },
+  {
+   "ch": "11",
+   "n": 22,
+   "pieces": [
+    3,
+    5
+   ],
+   "tag": "11-22-0",
+   "text": "Yet, though assailed by so many disadvantages, [and] having received many wounds, they withstood the enemy, and, a great portion of the day being spent, though they fought from day-break till the eighth hour, they did nothing which was unworthy of them. At length, each thigh of Titus Balventius, who the year before had been chief centurion, a brave man and one of great authority, is pierced with a javelin; Quintus Lucanius, of the same rank, fighting most valiantly, is slain while he assists his son when surrounded by the enemy; Lucius Cotta, the lieutenant, when encouraging all the cohorts and companies, is wounded full in the mouth by a sling."
+  },
+  {
+   "ch": "11",
+   "n": 24,
+   "pieces": [
+    1,
+    3
+   ],
+   "tag": "11-24-0",
+   "text": "In the meantime, while they treat upon the terms, and a longer debate than necessary is designedly entered into by Ambiorix, being surrounded by degrees, he is slain. Then they according to their custom shout out \"Victory,\" and raise their war-cry, and, making an attack on our men, break their ranks. There Lucius Cotta, while fighting, is slain, together with the greater part of the soldiers; the rest betake themselves to the camp from which they had marched forth, and one of them, Lucius Petrosidius, the standard bearer, when he was overpowered by the great number of the enemy, threw the eagle within the entrenchments and is himself slain while fighting with the greatest courage before the camp."
+  },
+  {
+   "ch": "12",
+   "n": 11,
+   "pieces": [
+    2,
+    3
+   ],
+   "tag": "12-11-0",
+   "text": "When this letter was brought to him about the middle of the night, Caesar apprises his soldiers of its contents, and inspires them with courage for fighting: the following day, at the dawn, he moves his camp, and, having proceeded four miles, he espies the forces of the enemy on the other side of a considerable valley and rivulet."
+  },
+  {
+   "ch": "12",
+   "n": 15,
+   "pieces": [
+    5,
+    6
+   ],
+   "tag": "12-15-0",
+   "text": "Nor did any period of the whole winter pass over without fresh anxiety to Caesar, or without his receiving some intelligence respecting the meetings and commotions of the Gauls. Among these, he is informed by Lucius Roscius, the lieutenant whom he had placed over the thirteenth legion, that large forces of those states of the Gauls, which are called the Armoricae, had assembled for the purpose of attacking him and were not more than eight miles distant; but intelligence respecting the victory of Caesar being carried [to them], had"
+  },
+  {
+   "ch": "12",
+   "n": 16,
+   "pieces": [
+    2,
+    2
+   ],
+   "tag": "12-16-0",
+   "text": "previously held it) when he discovered their plot and fled, pursued him even to the frontiers [of the state], and drove him from his kingdom and his home; and, after having sent ambassadors to Caesar for the purpose of concluding a peace, when he ordered all their senate to come to him, did not obey that command."
+  },
+  {
+   "ch": "13",
+   "n": 1,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "13-1-0",
+   "text": "Caesar, expecting for many reasons a greater commotion in Gaul, resolves to hold a levy by the means of Marcus Silanus, Gaius Antistius Reginus, and Titus Sextius, his lieutenants: at the same time he requested of Gnaeus Pompey, the proconsul, that since he was remaining near the city invested with military command for the interests of the commonwealth, he would command those men whom when consul he had levied by the military oath in Cisalpine Gaul, to join their respective corps, and to proceed to him; thinking it of great importance,"
+  },
+  {
+   "ch": "13",
+   "n": 1,
+   "pieces": [
+    3,
+    5
+   ],
+   "tag": "13-1-1",
+   "text": "And when Pompey had granted this to the interests of the commonwealth and the claims of friendship, Caesar having quickly completed the levy by means of his lieutenants, after three legions had been both formed and brought to him before the winter [had] expired, and the number of those cohorts which he had lost under Quintus Titurius had been doubled, taught the Gauls, both by his dispatch and by his forces, what the discipline and the power of the Roman people could accomplish."
+  },
+  {
+   "ch": "13",
+   "n": 21,
+   "pieces": [
+    2,
+    3
+   ],
+   "tag": "13-21-0",
+   "text": "Among the other usages of their life, they differ in this from almost all other nations, that they do not permit their children to approach them openly until they are grown up so as to be able to bear the service of war; and they regard it as indecorous for a son of boyish age to stand in public in the presence of his father."
+  },
+  {
+   "ch": "14",
+   "n": 5,
+   "pieces": [
+    1,
+    2
+   ],
+   "tag": "14-5-0",
+   "text": "The shape of these, and the varied colour of their skins, is much like roes, but in size they surpass them a little and are destitute of horns, and have legs without joints and ligatures; nor do they lie down for the purpose of rest, nor, if they have been thrown down by any accident, can they raise or lift themselves up."
+  },
+  {
+   "ch": "14",
+   "n": 7,
+   "pieces": [
+    2,
+    2
+   ],
+   "tag": "14-7-0",
+   "text": "purpose of defending the bridge, and strengthens the place with considerable fortifications."
+  },
+  {
+   "ch": "14",
+   "n": 7,
+   "pieces": [
+    3,
+    4
+   ],
+   "tag": "14-7-1",
+   "text": "Over that fort and guard he appointed Gaius Volcatius Tullus, a young man; he himself, when the corn began to ripen, having set forth for the war with 40 Ambiorix (through the forest Arduenna, which is the largest of all Gaul, and reaches from the banks of the Rhine and the frontiers of the Treviri to those of the Nervii, and extends over more than 500 miles),"
+  },
+  {
+   "ch": "14",
+   "n": 7,
+   "pieces": [
+    5,
+    6
+   ],
+   "tag": "14-7-2",
+   "text": "he sends forward Lucius Minucius Basilus with all the cavalry, to try if he might gain any advantage by rapid marches and the advantage of time, he warns him to forbid fires being made in the camp, lest any indication of his approach be given at a distance: he tells him that he will follow immediately."
+  },
+  {
+   "ch": "14",
+   "n": 8,
+   "pieces": [
+    4,
+    5
+   ],
+   "tag": "14-8-0",
+   "text": "But it was effected owing to this circumstance, that his house being surrounded by a wood, (as are generally the dwellings of the Gauls, who, for the purpose of avoiding heat, mostly seek the neighbourhood of woods and rivers) his attendants and friends in a narrow spot sustained for a short time the attack of our horse."
+  },
+  {
+   "ch": "14",
+   "n": 11,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "14-11-0",
+   "text": "Having divided the army, he orders Titus Labienus to proceed with three legions towards the ocean into those parts which border on the Menappii; he sends Gaius Trebonius with a like number of legions to lay waste that district which lies contiguous to the Aduatuci; he himself determines to go with the remaining three to the river Sambre, which flows into the Meuse, and to the most remote parts of Arduenna, whither he heard that Ambiorix had gone with a few horse."
+  },
+  {
+   "ch": "14",
+   "n": 21,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "14-21-0",
+   "text": "The Germans, despairing of taking the camp by storm, because they saw that our men had taken up their position on the fortifications, retreated beyond the Rhine with that plunder which they had deposited in the woods. And so great was the alarm, even after the departure of the enemy, that when Gaius Volusenus, who had been sent with the cavalry, arrived that night, he could not gain credence that. Caesar was close at hand with his army safe."
+  },
+  {
+   "ch": "17",
+   "n": 1,
+   "pieces": [
+    1,
+    1
+   ],
+   "tag": "17-1-0",
+   "text": "He shares the bribe with them, and exhorts them to"
+  },
+  {
+   "ch": "17",
+   "n": 8,
+   "pieces": [
+    2,
+    2
+   ],
+   "tag": "17-8-0",
+   "text": "same manner as he did, the wrongs which they had received."
+  },
+  {
+   "ch": "18",
+   "n": 6,
+   "pieces": [
+    2,
+    3
+   ],
+   "tag": "18-6-0",
+   "text": "Almost at the same time, a little before daylight, intelligence was given to the enemy that there was an unusual tumult in the camp of the Romans, and that a strong force was marching up the river, and that the sound of oars was distinctly heard in the same quarter, and that soldiers were being conveyed across in ships a little below."
+  },
+  {
+   "ch": "20",
+   "n": 13,
+   "pieces": [
+    0,
+    1
+   ],
+   "tag": "20-13-0",
+   "text": "Caesar had a double design in this fortification; for he both hoped that the strength of his works, and his [apparent] fears would raise confidence in the barbarians; and when there should be occasion to make a distant excursion to get forage or corn, he saw that his camp would be secured by the works with a very small force."
+  },
+  {
+   "ch": "20",
+   "n": 17,
+   "pieces": [
+    4,
+    5
+   ],
+   "tag": "20-17-0",
+   "text": "could not pursue with expedition, and that the hill beyond the morass, which extended almost to the enemy's camp, was separated from it only by a small valley, he laid a bridge over the morass and led his army across, and soon reached the plain on the top of the hill, which was fortified on either side by a steep ascent."
+  },
+  {
+   "ch": "21",
+   "n": 7,
+   "pieces": [
+    2,
+    2
+   ],
+   "tag": "21-7-0",
+   "text": "For the year before, while Caesar was holding the assizes in Hither Gaul, Titus Labienus, having discovered that Comius was tampering with the states, and raising a conspiracy against Caesar, thought he might punish his infidelity without perfidy; but judging that he would not come to his camp at his invitation, and"
+  }
+ ]
+}

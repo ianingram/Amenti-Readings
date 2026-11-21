@@ -11,7 +11,8 @@ URL = 'https://amenti-proxy.ingram-ian.workers.dev/storyboard/image'
 log = []
 for b in sheet['beats']:
     who = '; '.join(sheet['people'][w] for w in b['who'])
-    R = sheet.get('refs') or {}
+    R = dict(sheet.get('refs') or {})
+    if b.get('sref'): R['style'] = b['sref']   # 20 Nov: a beat may carry its own style reference (Booth experiment)
     refs = ([R['style']] if R.get('style') else []) + [R[w] for w in b['who'] if w in R]
     for m in models:
         gem = not m.startswith('imagen')

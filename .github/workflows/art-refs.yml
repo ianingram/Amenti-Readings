@@ -20,7 +20,7 @@ jobs:
       - name: Search and fetch
         run: |
           python3 - <<'PY'
-          import json, os, re, urllib.request, urllib.parse
+          import json, os, re, time, urllib.request, urllib.parse, urllib.error
           UA = {'User-Agent': 'AmentiStudios/1.0 (ianingram.github.io; sourcing public-domain art references)'}
           def api(**p):
               p.update(format='json', formatversion=2)
@@ -44,7 +44,14 @@ jobs:
                   if not re.search(r'public domain|PD|CC0', lic, re.I): print('SKIP (licence %s): %s' % (lic, t)); continue
                   src = ii.get('thumburl') or ii['url']
                   name = re.sub(r'[^a-z0-9]+', '-', t.split(':', 1)[1].rsplit('.', 1)[0].lower()).strip('-')[:60] + '.jpg'
-                  data = urllib.request.urlopen(urllib.request.Request(src, headers=UA), timeout=60).read()
+                  data = None
+                  for i in range(6):                     # Wikimedia answers 429 to quick downloads: wait and retry
+                      try: data = urllib.request.urlopen(urllib.request.Request(src, headers=UA), timeout=60).read(); break
+                      except urllib.error.HTTPError as e:
+                          if e.code != 429: raise
+                          time.sleep(20 * (i + 1))
+                  if data is None: print('GAVE UP (429):', t); continue
+                  time.sleep(4)
                   open(os.path.join(os.environ['D'], name), 'wb').write(data)
                   log.append('| %s | %s | %s | %s |' % (name, t, lic, ii.get('descriptionurl', '')))
                   print('fetched', name, len(data))

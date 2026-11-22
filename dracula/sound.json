@@ -79,7 +79,9 @@
       "steam_hiss": "steam-hiss.mp3",
       "gale": "wind.mp3",
       "surf": "sea.mp3",
-      "telegraph": "telegraph.mp3"
+      "telegraph": "telegraph.mp3",
+      "crew_murmur": "demeter-crew-murmur.mp3",
+      "blow": "demeter-blow.mp3"
     },
     "score": {
       "dread": "score-dread.mp3",
@@ -162,7 +164,9 @@
       "log_rough": 1.0,
       "log_tempest": 1.0,
       "log_warn": 1.0,
-      "telegraph": 0.6
+      "telegraph": 0.6,
+      "crew_murmur": 0.55,
+      "blow": 0.85
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",

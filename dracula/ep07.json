@@ -342,7 +342,13 @@
    "role": "The Captain of the Demeter",
    "cast": "Vitus Bering",
    "register": "grave",
-   "text": "On 13 July passed Cape Matapan. Crew dissatisfied about something.\nSeemed scared, but would not speak out."
+   "text": "On 13 July passed Cape Matapan. Crew dissatisfied about something.\nSeemed scared, but would not speak out.",
+   "sfx": [
+    {
+     "key": "crew_murmur",
+     "at": "Crew dissatisfied"
+    }
+   ]
   },
   {
    "n": 26,
@@ -350,7 +356,22 @@
    "role": "The Captain of the Demeter",
    "cast": "Vitus Bering",
    "register": "grave",
-   "text": "On 14 July was somewhat anxious about crew. Men all steady fellows, who\nsailed with me before. Mate could not make out what was wrong; they only\ntold him there was something , and crossed themselves. Mate lost temper\nwith one of them that day and struck him. Expected fierce quarrel, but\nall was quiet."
+   "text": "On 14 July was somewhat anxious about crew. Men all steady fellows, who\nsailed with me before. Mate could not make out what was wrong; they only\ntold him there was something , and crossed themselves. Mate lost temper\nwith one of them that day and struck him. Expected fierce quarrel, but\nall was quiet.",
+   "sfx": [
+    {
+     "key": "crew_murmur",
+     "at": "crossed themselves"
+    },
+    {
+     "key": "blow",
+     "at": "struck him"
+    }
+   ],
+   "score": {
+    "key": null,
+    "at": "all was quiet",
+    "cut": true
+   }
   },
   {
    "n": 27,

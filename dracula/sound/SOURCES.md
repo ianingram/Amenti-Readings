@@ -220,3 +220,9 @@ is cue 4's score (first light), handing back to the journey theme at cue 5. Buil
 | `drac2-mirror-84-v2.mp3` | Ch II cue 85, the crucifix: v1 narration with a 6.3 s pause after "held the crucifix"; a synthesized high ring rising through the pause and striking white at the flash; `sear.mp3` (#0145) at the flash; the Count's cry from BigSoundBank #2109 *Zombie #4* (CC0), pitched down and given stone-room echo | CC0 + original |
 
 | `drac1-wolves-52-v4.mp3` | Ch I cue 53, the strobe: v3 with a layer under "The horses jumped about and reared…" — wolves barking and snarling (BigSoundBank #2954, #2955, #0868, #2353, #1544, #1545 dog barks pitched down; #1060 growls pitched down) and horses screaming (#0284, #0460, #0863, #1541, #1542), night-air echo, ducked under the voice. Build: `build-ring-strobe.py` | CC0 |
+
+## The Demeter's crew, chapter 7 cues 25–26 (21 Nov 2026) — BigSoundBank, CC0
+| File | Source | License |
+|---|---|---|
+| `demeter-blow.mp3` | the mate strikes a man: punch #2463 (high-passed crack) over punch #0105 (low thump), then body fall #2455 against wood 0.28 s later; small-cabin reflections | CC0 |
+| `demeter-crew-murmur.mp3` | the crew muttering: outdoor talk #2966, #2968, #2969, #2970 cut into 0.6–1.8 s grains and shuffled so no words survive (checked by transcription), low-passed 1.3 kHz, with whispers #3255/#3256; 14 s, swelling and settling | CC0 |

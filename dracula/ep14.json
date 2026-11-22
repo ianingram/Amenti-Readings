@@ -762,7 +762,8 @@
    "para": 75,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
-   "text": "After breakfast I saw him to the station. When we were parting he\nsaid:—"
+   "text": "After breakfast I saw him to the station. When we were parting he\nsaid:—",
+   "bed": "station"
   },
   {
    "n": 103,
@@ -802,7 +803,13 @@
    "para": 78,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
-   "text": "I do not\nthink he remembered me at the moment. Just then the whistle blew, and\nthe train moved off. This recalled him to himself, and he leaned out of\nthe window and waved his hand, calling out:"
+   "text": "I do not\nthink he remembered me at the moment. Just then the whistle blew, and\nthe train moved off. This recalled him to himself, and he leaned out of\nthe window and waved his hand, calling out:",
+   "sfx": [
+    {
+     "key": "train_whistle_far",
+     "at": "Just then the whistle blew"
+    }
+   ]
   },
   {
    "n": 108,
@@ -821,7 +828,8 @@
    "para": 79,
    "role": "Narrator",
    "cast": "Bram Stoker",
-   "text": "Dr. Seward’s Diary."
+   "text": "Dr. Seward’s Diary.",
+   "bed": "london_interior"
   },
   {
    "n": 110,

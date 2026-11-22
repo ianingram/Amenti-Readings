@@ -237,3 +237,11 @@ is cue 4's score (first light), handing back to the journey theme at cue 5. Buil
 | `train-arrives.mp3` | whistle #0226, steam locomotive stopping #3015, steam let off #0228, under a station roof | CC0 |
 | `train-whistle-far.mp3` | train whistle #3316, distant | CC0 |
 | `rifle-action.mp3` | gun loading #1988, cocking #1987 (a Winchester's lever, once) | CC0 |
+
+## Books I–II public places (22 Nov 2026) — BigSoundBank, CC0. Build: `build-places-2.py`
+| File | Source | License |
+|---|---|---|
+| `inn-night.mp3` (bed `inn`, the Golden Krone) | fireplace #2855, #2856; talk below through the floor from #3542, #3376, #0624, #0480, #2561 in shuffled grains, low-passed 600 Hz; boards #0165, #1515; cups #1196, #1192 | CC0 |
+| `tavern.mp3` (bed `tavern`, Jack Straw's Castle) | the same talk in five layers of grains, low-passed 1.7 kHz; glasses #0472, #0471; laughter #0490 and bar #0480, grains, low-passed and well back; fireplace #2855/#2856 | CC0 |
+| `zoo.mp3` (bed `zoo`, the Zoological Gardens) | Thoiry aviary #1164; birds #0222; the big-cat and monkey houses of the Paris menagerie #1005, #1004, low-passed 1.5 kHz (at a distance); park visitors #1082, #2728 in grains; gravel footsteps #3216 | CC0 |
+| `street-1893.mp3` (bed `street`, Hyde Park Corner and Piccadilly) | carriages passing, built from horse recordings #0610, #0496, #1854, #0289 with wheels #1316; crowd #3515, #2969, #2728 in grains; footsteps #1318, #0514 | CC0 |

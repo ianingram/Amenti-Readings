@@ -19,7 +19,11 @@
       "demeter_gale": "demeter-gale.mp3",
       "hotel": "hotel-lobby.mp3",
       "station": "station.mp3",
-      "gunshop": "gunshop.mp3"
+      "gunshop": "gunshop.mp3",
+      "inn": "inn-night.mp3",
+      "tavern": "tavern.mp3",
+      "zoo": "zoo.mp3",
+      "street": "street-1893.mp3"
     },
     "oneshots": {
       "door_heavy": "door_heavy.mp3",
@@ -296,6 +300,22 @@
     },
     "gunshop": {
       "note": "22 Nov 2026. The gunsmith (XXIV, the Winchesters): a quiet shop, boards underfoot, the street muffled through the window. BigSoundBank CC0; build-places.py.",
+      "progressive": false
+    },
+    "inn": {
+      "note": "22 Nov 2026 (standing rule: public places get their own room). The Golden Krone at night: a fire, talk below through the floor, boards, a cup. build-places-2.py.",
+      "progressive": false
+    },
+    "tavern": {
+      "note": "22 Nov 2026. Jack Straw's Castle, \"a little crowd of bicyclists and others who were genially noisy\": talk, glasses, laughter well back, a fire. build-places-2.py.",
+      "progressive": false
+    },
+    "zoo": {
+      "note": "22 Nov 2026. The Zoological Gardens by day: aviary and garden birds, the beast houses at a distance, visitors on gravel. build-places-2.py.",
+      "progressive": false
+    },
+    "street": {
+      "note": "22 Nov 2026. Hyde Park Corner and Piccadilly, 1893: carriages and cabs passing, the crowd, feet on stone. build-places-2.py.",
       "progressive": false
     }
   },

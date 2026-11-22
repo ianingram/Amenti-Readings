@@ -1,0 +1,90 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "XVII cue 78 holds one picture (Mina at the evidence wall, ch17-w2-0) for about 2 minutes. Ian, 22 Nov 1:50 a.m.: build around that image: move across the room to newspapers on a long table, a close-up of the typewriter, the exterior of the place, window shots.",
+ "style": "An oil painting of 1893 matching the first reference image exactly: the same asylum day-room with its long chalkboard wall of pinned papers and red thread, the same pale window light, warm whites and deep blacks, loose visible brushstrokes, thick impasto in the lights, soft lost edges. One single painting filling the whole 16:9 frame. No text, signature, border or black bars.",
+ "refs": {
+  "mina": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg",
+  "seward": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-seward.jpg"
+ },
+ "people": {
+  "mina": "Mina Harker, a young Englishwoman of 1893 with dark hair in a bun, a high-collared dark dress, no mark on her forehead",
+  "seward": "Dr John Seward, a clean-shaven dark-haired English doctor of about thirty in a dark frock coat"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch17-78-papers",
+   "chapter": 17,
+   "cue": 78,
+   "who": [],
+   "sref": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch17-w2-0.jpg",
+   "text": "Shot: medium, across the same room, no people. A long deal table under the chalkboard wall, stacked with bound files of London evening newspapers of 1893 lying open, broadsheets overlapping, scissors and paste pot, cuttings with red thread, pale window light across the paper."
+  },
+  {
+   "tag": "d3-ch17-78-papers-close",
+   "chapter": 17,
+   "cue": 78,
+   "who": [],
+   "sref": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch17-w2-0.jpg",
+   "text": "Shot: close, no people. Folded London newspapers of 1893 on a table, columns of small grey print, a pile of neat cuttings weighted by an inkwell, a pencil, light from a tall window raking across the paper."
+  },
+  {
+   "tag": "d3-ch17-78-typewriter",
+   "chapter": 17,
+   "cue": 78,
+   "who": [],
+   "sref": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch17-w2-0.jpg",
+   "text": "Shot: close-up, no people. A black 1890s typewriter on the table, a sheet with carbon manifold copies in the roller, three thin typed copies stacked beside it, a wax phonograph cylinder in its cardboard tube, lamplight glinting on the keys."
+  },
+  {
+   "tag": "d3-ch17-78-phonograph",
+   "chapter": 17,
+   "cue": 78,
+   "who": [],
+   "sref": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch17-w2-0.jpg",
+   "text": "Shot: close, no people. An 1890s wax-cylinder phonograph with its brass horn on the table, a row of cylinders in their cases beside it, one labelled by hand, the speed screw turned low."
+  },
+  {
+   "tag": "d3-ch17-78-seward-reads",
+   "chapter": 17,
+   "cue": 78,
+   "who": [
+    "mina",
+    "seward"
+   ],
+   "sref": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch17-w2-0.jpg",
+   "text": "Shot: far, seen from across the room. Late evening by lamplight in the same room: Mina at the typewriter at the long table, and Dr Seward sitting near her in an armchair reading a book, the papered chalkboard wall behind them in shadow. Small figures, quiet companionship."
+  },
+  {
+   "tag": "d3-ch17-78-ext-window",
+   "chapter": 17,
+   "cue": 78,
+   "who": [],
+   "text": "Exterior at night, 1893: the brick wing of a Victorian private asylum near Purfleet among dark trees, one tall window glowing warm with lamplight, inside a small seated figure at a table and papers pinned to a wall, the rest of the building dark under a cloudy sky. An oil painting with loose brushstrokes."
+  },
+  {
+   "tag": "d3-ch17-78-ext-dusk",
+   "chapter": 17,
+   "cue": 78,
+   "who": [],
+   "text": "Exterior at dusk, September 1893: a large Victorian asylum house of grey brick in its grounds near Purfleet, lawns, a gravel drive, tall elms, a row of windows beginning to light up. Wide establishing view. An oil painting with loose brushstrokes."
+  },
+  {
+   "tag": "d3-ch17-78-window-out",
+   "chapter": 17,
+   "cue": 78,
+   "who": [],
+   "sref": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch17-w2-0.jpg",
+   "text": "Shot: looking out through a tall sash window of the same room at dusk: the asylum grounds, dark elms and a high wall beyond, the glass reflecting the lamp and the pinned papers behind."
+  },
+  {
+   "tag": "d3-ch17-78-her-room",
+   "chapter": 17,
+   "cue": 78,
+   "who": [
+    "mina"
+   ],
+   "text": "Shot: far, through a half-open door. Late at night in a small bedroom of 1893, one oil lamp: Mina sitting up at a little table with a heap of newspaper files, turning the pages, not sleepy, her shadow large on the wall. An oil painting with loose brushstrokes, dark and warm."
+  }
+ ]
+}

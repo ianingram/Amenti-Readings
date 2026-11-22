@@ -5886,6 +5886,8 @@
     "from": 22,
     "images": [
      "ch17-mj-a1-grimshaw.jpg",
+     "ch17-gstatue.jpg",
+     "ch17-flawn.jpg",
      "ch17-m2-1.jpg",
      "ch17-m2-2.jpg"
     ]
@@ -5898,17 +5900,15 @@
     ]
    },
    {
-    "from": 28,
+    "from": 25,
+    "at": "At the door I paused a moment",
     "images": [
-     "ch17-gstatue.jpg",
-     "ch17-m4a-g.jpg",
-     "ch17-m4b-g.jpg"
+     "ch17-mj-d1-door.jpg"
     ]
    },
    {
-    "from": 31,
+    "from": 28,
     "images": [
-     "ch17-flawn.jpg",
      "ch17-w-study.jpg"
     ]
    },

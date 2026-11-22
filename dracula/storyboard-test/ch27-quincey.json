@@ -1,0 +1,44 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "XXVII: Quincey's death and Mina's clear forehead on the bridge (Google, Ian on his phone)",
+ "style": "An oil painting in colour of 1893 matching the first reference image: the same great ancient stone bridge with carved gargoyles over a deep snowy gorge, the same ruined castle on its crag, the same blood-red sunset sky, in the manner of Thomas Cole: strong value contrast, warm red sunset light on faces and snow, loose visible brushwork, painterly not illustrative. No blood or gore. No text, signature or border.",
+ "refs": {
+  "mina": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-mina.jpg",
+  "quincey": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-quincey.jpg",
+  "jonathan": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-jonathan-white.jpg"
+ },
+ "people": {},
+ "beats": [
+  {
+   "tag": "d3-ch27-q-dying",
+   "chapter": "27",
+   "cue": "93",
+   "who": [
+    "quincey",
+    "mina",
+    "jonathan"
+   ],
+   "sref": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch27-mj-bridge-cole-0.jpg",
+   "text": "Shot: medium-wide, on the snowy bridge paving at sunset. Quincey Morris, a tall lean American with a moustache, lies back dying, his head on the shoulder of Jonathan, a young man with white hair kneeling behind him; Mina, a young woman with dark hair in a dark cloak, kneels beside him holding his hand; two other men kneel near, the empty overturned box beside them, the castle and the red sky beyond. His hand is pressed to his side; no blood shown."
+  },
+  {
+   "tag": "d3-ch27-q-forehead",
+   "chapter": "27",
+   "cue": "95",
+   "who": [
+    "mina"
+   ],
+   "sref": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch27-mj-bridge-cole-0.jpg",
+   "text": "Shot: close-up. Mina, a young woman with dark hair blowing loose, her face lit by the red light of the setting sun, her white forehead perfectly clear and unmarked, no scar and no mark of any kind, her eyes shining with tears of relief that do not fall, snow and the red sky soft behind her."
+  },
+  {
+   "tag": "d3-ch27-q-amen",
+   "chapter": "27",
+   "cue": "96",
+   "who": [],
+   "sref": "https://ianingram.github.io/Amenti-Readings/dracula/art/ch27-mj-bridge-cole-0.jpg",
+   "text": "Shot: wide, on the bridge at sunset. Four men kneel bareheaded on the snowy paving around a dying friend, a young woman kneeling with them, all heads bowed, the red sun touching the mountains, the castle on its crag against the sky, a vast quiet sky. Figures small, faces unreadable."
+  }
+ ]
+}

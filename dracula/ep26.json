@@ -69,7 +69,9 @@
    "score": {
     "key": "train_run",
     "xfade": 4
-   }
+   },
+   "bed": "train",
+   "state": 1
   },
   {
    "n": 4,
@@ -278,7 +280,13 @@
    "para": 19,
    "role": "Dr Seward",
    "cast": "William Harvey",
-   "text": "The whistles are sounding; we are nearing Galatz. We are on fire with\nanxiety and eagerness."
+   "text": "The whistles are sounding; we are nearing Galatz. We are on fire with\nanxiety and eagerness.",
+   "sfx": [
+    {
+     "key": "train_whistle_far",
+     "at": "The whistles are sounding"
+    }
+   ]
   },
   {
    "n": 29,
@@ -290,7 +298,8 @@
    "para": 20,
    "role": "Narrator",
    "cast": "Bram Stoker",
-   "text": "Mina Harker’s Journal."
+   "text": "Mina Harker’s Journal.",
+   "bed": "port"
   },
   {
    "n": 30,

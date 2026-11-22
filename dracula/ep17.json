@@ -64,7 +64,14 @@
    "para": 2,
    "role": "Dr Seward",
    "cast": "William Harvey",
-   "text": "W HEN we arrived at the Berkeley Hotel, Van Helsing found a telegram\nwaiting for him:—"
+   "text": "W HEN we arrived at the Berkeley Hotel, Van Helsing found a telegram\nwaiting for him:—",
+   "bed": "hotel",
+   "sfx": [
+    {
+     "key": "hotel_bell",
+     "at": "found a telegram"
+    }
+   ]
   },
   {
    "n": 4,
@@ -152,7 +159,14 @@
    "score": {
     "key": "train_run",
     "xfade": 6
-   }
+   },
+   "bed": "station",
+   "sfx": [
+    {
+     "key": "train_arrives",
+     "at": "before the train came in"
+    }
+   ]
   },
   {
    "n": 16,
@@ -205,7 +219,8 @@
    "score": {
     "key": "dread",
     "xfade": 5
-   }
+   },
+   "bed": "london_interior"
   },
   {
    "n": 23,
@@ -705,14 +720,22 @@
    "para": 52,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
-   "text": "30 September. —The station-master was good enough to give me a line to\nhis old companion the station-master at King’s Cross, so that when I\narrived there in the morning I was able to ask him about the arrival of\nthe boxes. He, too, put me at once in communication with the proper\nofficials, and I saw that their tally was correct with the original\ninvoice. The opportunities of acquiring an abnormal thirst had been here\nlimited; a noble use of them had, however, been made, and again I was\ncompelled to deal with the result in an ex post facto manner."
+   "text": "30 September. —The station-master was good enough to give me a line to\nhis old companion the station-master at King’s Cross, so that when I\narrived there in the morning I was able to ask him about the arrival of\nthe boxes. He, too, put me at once in communication with the proper\nofficials, and I saw that their tally was correct with the original\ninvoice. The opportunities of acquiring an abnormal thirst had been here\nlimited; a noble use of them had, however, been made, and again I was\ncompelled to deal with the result in an ex post facto manner.",
+   "bed": "station",
+   "sfx": [
+    {
+     "key": "train_whistle_far",
+     "at": "at King’s Cross"
+    }
+   ]
   },
   {
    "n": 87,
    "para": 53,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
-   "text": "From thence I went on to Carter Paterson’s central office, where I met\nwith the utmost courtesy. They looked up the transaction in their\nday-book and letter-book, and at once telephoned to their King’s Cross\noffice for more details. By good fortune, the men who did the teaming\nwere waiting for work, and the official at once sent them over, sending\nalso by one of them the way-bill and all the papers connected with the\ndelivery of the boxes at Carfax. Here again I found the tally agreeing\nexactly; the carriers’ men were able to supplement the paucity of the\nwritten words with a few details. These were, I shortly found, connected\nalmost solely with the dusty nature of the job, and of the consequent\nthirst engendered in the operators. On my affording an opportunity,\nthrough the medium of the currency of the realm, of the allaying, at a\nlater period, this beneficial evil, one of the men remarked:—"
+   "text": "From thence I went on to Carter Paterson’s central office, where I met\nwith the utmost courtesy. They looked up the transaction in their\nday-book and letter-book, and at once telephoned to their King’s Cross\noffice for more details. By good fortune, the men who did the teaming\nwere waiting for work, and the official at once sent them over, sending\nalso by one of them the way-bill and all the papers connected with the\ndelivery of the boxes at Carfax. Here again I found the tally agreeing\nexactly; the carriers’ men were able to supplement the paucity of the\nwritten words with a few details. These were, I shortly found, connected\nalmost solely with the dusty nature of the job, and of the consequent\nthirst engendered in the operators. On my affording an opportunity,\nthrough the medium of the currency of the realm, of the allaying, at a\nlater period, this beneficial evil, one of the men remarked:—",
+   "bed": "london_interior"
   },
   {
    "n": 88,

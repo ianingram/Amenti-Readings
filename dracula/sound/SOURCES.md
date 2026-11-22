@@ -226,3 +226,14 @@ is cue 4's score (first light), handing back to the journey theme at cue 5. Buil
 |---|---|---|
 | `demeter-blow.mp3` | the mate strikes a man: punch #2463 (high-passed crack) over punch #0105 (low thump), then body fall #2455 against wood 0.28 s later; small-cabin reflections | CC0 |
 | `demeter-crew-murmur.mp3` | the crew muttering: outdoor talk #2966, #2968, #2969, #2970 cut into 0.6–1.8 s grains and shuffled so no words survive (checked by transcription), low-passed 1.3 kHz, with whispers #3255/#3256; 14 s, swelling and settling | CC0 |
+
+## Book III's public places (22 Nov 2026) — BigSoundBank, CC0. Build: `build-places.py`
+| File | Source | License |
+|---|---|---|
+| `hotel-lobby.mp3` (bed `hotel`) | talk from #3542 *Small restaurant conversations*, #3376 *Restaurant #2*, #0624 *Restaurant*, cut into shuffled grains so no words survive (checked by transcription), low-passed 1.5 kHz; cups and spoons #1196, #1192, #1193; newspaper #1250; footsteps on parquet #0376; small-room reflections | CC0 |
+| `station.mp3` (bed `station`) | crowd #3515, outside talks #2969 and the restaurant talk above, in grains, low-passed; steam hiss #0227, #0228, #3011; steam locomotive #3018 low-passed (an engine standing); footsteps on concrete #1318, #0514; long glass-roof reverb | CC0 |
+| `gunshop.mp3` (bed `gunshop`) | street outside muffled through glass: horses #0610, #0611 and wheels #1316 low-passed 700 Hz; far talk #2969; boards underfoot #0165 | CC0 |
+| `hotel-desk-bell.mp3` | counter bell #2530 | CC0 |
+| `train-arrives.mp3` | whistle #0226, steam locomotive stopping #3015, steam let off #0228, under a station roof | CC0 |
+| `train-whistle-far.mp3` | train whistle #3316, distant | CC0 |
+| `rifle-action.mp3` | gun loading #1988, cocking #1987 (a Winchester's lever, once) | CC0 |

@@ -16,7 +16,10 @@
       "port": "port.mp3",
       "train": "train-run.mp3",
       "hearth": "hearth.mp3",
-      "demeter_gale": "demeter-gale.mp3"
+      "demeter_gale": "demeter-gale.mp3",
+      "hotel": "hotel-lobby.mp3",
+      "station": "station.mp3",
+      "gunshop": "gunshop.mp3"
     },
     "oneshots": {
       "door_heavy": "door_heavy.mp3",
@@ -81,7 +84,11 @@
       "surf": "sea.mp3",
       "telegraph": "telegraph.mp3",
       "crew_murmur": "demeter-crew-murmur.mp3",
-      "blow": "demeter-blow.mp3"
+      "blow": "demeter-blow.mp3",
+      "hotel_bell": "hotel-desk-bell.mp3",
+      "train_arrives": "train-arrives.mp3",
+      "train_whistle_far": "train-whistle-far.mp3",
+      "rifle_action": "rifle-action.mp3"
     },
     "score": {
       "dread": "score-dread.mp3",
@@ -166,7 +173,11 @@
       "log_warn": 1.0,
       "telegraph": 0.6,
       "crew_murmur": 0.55,
-      "blow": 0.85
+      "blow": 0.85,
+      "hotel_bell": 0.6,
+      "train_arrives": 0.7,
+      "train_whistle_far": 0.6,
+      "rifle_action": 0.7
     }
   },
   "note": "THE SCOPE CAME OUT OF THE TEXT, NOT OUT OF AN IDEA OF WHAT A VAMPIRE STORY SOUNDS LIKE. The stored Stoker passages in Amenti.live were scanned for sound words and the counts settled the list: door 17, wolf 16, snow 15, storm 12, horses 12, dog 10, carriage 9, fire 5, sea 2, clock 2. Everything below is something Stoker put on the page. Nothing was added for atmosphere.\n\nSILENCE IS ON THAT LIST TOO. 'Still', 'quiet' and 'silence' appear fourteen times, and in the castle chapters it is deliberate — Harker keeps recording the absence of sound. Where a bed thins to almost nothing below, that is the text, not a gap.\n\nTHE WHOLE PRODUCTION NEEDS EIGHT SOURCES AND FOUR SCORE CUES. Twenty-seven chapters reuse four atmospheres, because the documents repeat: Harker's journal, Seward's diary, Mina's journal, a letter, a cutting. Cast the sound the way the voices were cast — per document, not per chapter.",
@@ -274,6 +285,18 @@
     },
     "demeter_gale": {
       "note": "Book II ch VII, the log’s storm days (Ian, 5 Nov: “the howling wind and the tempestuous sea” must be heard). Wind, a low howl, heavy sea and breaking waves; build-demeter-gale.py."
+    },
+    "hotel": {
+      "note": "22 Nov 2026 (Ian: \"most hotels have a noise about them\"). The Berkeley: low talk in shuffled grains, cups, a newspaper, feet on parquet. BigSoundBank CC0; build-places.py.",
+      "progressive": false
+    },
+    "station": {
+      "note": "22 Nov 2026. A London terminus in 1893: the crowd under a glass roof, steam let off, an engine standing, feet on stone, long reverb. BigSoundBank CC0; build-places.py.",
+      "progressive": false
+    },
+    "gunshop": {
+      "note": "22 Nov 2026. The gunsmith (XXIV, the Winchesters): a quiet shop, boards underfoot, the street muffled through the window. BigSoundBank CC0; build-places.py.",
+      "progressive": false
     }
   },
   "oneshots": {

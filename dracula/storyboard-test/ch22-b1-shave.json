@@ -1,0 +1,23 @@
+{
+ "book": "dracula",
+ "part": "Book III",
+ "note": "XXII cue 94 B1 (Wright of Derby): Van Helsing came bearded; he is never bearded.",
+ "style": "",
+ "refs": {
+  "vh": "https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk2-van-helsing.jpg"
+ },
+ "people": {
+  "vh": "Professor Van Helsing, elderly, completely clean-shaven, round dark spectacles"
+ },
+ "beats": [
+  {
+   "tag": "d3-ch22-b1-shave",
+   "chapter": 22,
+   "who": [
+    "vh"
+   ],
+   "edit": "https://ianingram.github.io/Amenti-Readings/dracula/art/edit-src/ch22-mj-b1.jpg",
+   "text": "Remove the beard and moustache from the kneeling elderly man with spectacles so his chin, jaw and upper lip are completely clean-shaven, like the reference portrait. Keep his face, spectacles, pose, coat, the lantern light and everything else in the painting exactly as it is."
+  }
+ ]
+}

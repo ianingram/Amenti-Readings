@@ -496,7 +496,7 @@
   },
   {
    "n": 61,
-   "bed": "port",
+   "bed": "station",
    "score": {
     "key": null,
     "at": "Jonathan Harker’s Journal.",
@@ -510,26 +510,52 @@
   {
    "n": 62,
    "sfx": [
+    "loco_whistle",
+    {
+     "key": "steam_hiss",
+     "at": "got to Paris"
+    },
+    {
+     "key": "loco_whistle_short",
+     "at": "took the places secured for us"
+    },
+    {
+     "key": "loco_whistle_far",
+     "at": "We travelled night and day"
+    },
+    {
+     "key": "steam_hiss",
+     "at": "arriving here at about five"
+    },
     {
      "key": "gulls",
-     "at": "15 October, Varna"
+     "at": "arriving here at about five"
     }
    ],
    "para": 29,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
    "text": "15 October, Varna. —We left Charing Cross on the morning of the 12th,\ngot to Paris the same night, and took the places secured for us in the\nOrient Express. We travelled night and day, arriving here at about five\no’clock. Lord Godalming went to the Consulate to see if any telegram had\narrived for him, whilst the rest of us came on to this hotel—“the\nOdessus.” The journey may have had incidents; I was, however, too eager\nto get on, to care for them. Until the Czarina Catherine comes into\nport there will be no interest for me in anything in the wide world.\nThank God! Mina is well, and looks to be getting stronger; her colour is\ncoming back. She sleeps a great deal; throughout the journey she slept\nnearly all the time. Before sunrise and sunset, however, she is very\nwakeful and alert; and it has become a habit for Van Helsing to\nhypnotise her at such times. At first, some effort was needed, and he\nhad to make many passes; but now, she seems to yield at once, as if by\nhabit, and scarcely any action is needed. He seems to have power at\nthese particular moments to simply will, and her thoughts obey him. He\nalways asks her what she can see and hear. She answers to the first:—",
-   "score": {
-    "key": "journey",
-    "xfade": 6
-   }
+   "score": [
+    {
+     "key": "dawn",
+     "xfade": 2
+    },
+    {
+     "key": "journey",
+     "at": "took the places secured for us",
+     "xfade": 8
+    }
+   ],
+   "bed": "train"
   },
   {
    "n": 63,
    "para": 30,
    "role": "Mina Harker",
    "cast": "Agatha Christie",
-   "text": "“Nothing; all is dark.”"
+   "text": "“Nothing; all is dark.”",
+   "bed": "port"
   },
   {
    "n": 64,

@@ -71,16 +71,25 @@ L, PA, VI, BU, VA = place((-0.12, 51.51)), place((2.35, 48.86)), place((16.37, 4
 f = lambda ll: M.frac_at(M.TRAIN_D, ll)
 PLAN = [
     ('map', 6, 0.0, f((-0.12, 51.51)) + .004, (L[0] + 60, L[1] + 60, 760), (L[0] + 80, L[1] + 70, 700)),
-    ('still', 'ch25-charingcross-1.jpg', 6),
-    ('map', 6, f((-0.12, 51.51)) + .004, f((2.35, 48.86)) + .004, (L[0] + 80, L[1] + 70, 700), (PA[0], PA[1] - 80, 820)),
-    ('still', 'ch25-channel-0.jpg', 6),
-    ('still', 'ch25-paris-1.jpg', 6),
-    ('still', 'ch25-doc-orient-ticket.jpg', 6),
-    ('map', 12, f((2.35, 48.86)) + .004, f((19.04, 47.5)) + .004, (PA[0], PA[1] - 80, 820), (BU[0] - 150, BU[1], 1200)),
-    ('still', 'ch25-orient-0.jpg', 6),
-    ('still', 'ch25-orient-2.jpg', 6),
-    ('map', 9, f((19.04, 47.5)) + .004, 1.0, (BU[0] - 150, BU[1], 1200), (VA[0] - 250, VA[1] - 120, 1150)),
-    ('still', 'ch25-harbour-0.jpg', 8, 1.0, 1.06),
+    ('still', 'ch25-charingcross-1.jpg', 4),
+    ('still', 'ch25-channel-0.jpg', 3),
+    ('still', 'ch25-oe1-0.jpg', 5),                       # Calais, the boat train
+    ('map', 5, f((-0.12, 51.51)) + .004, f((2.35, 48.86)) + .004, (L[0] + 80, L[1] + 70, 700), (PA[0], PA[1] - 80, 820)),
+    ('still', 'ch25-oe2-3.jpg', 5),                       # Paris, Gare de l'Est, the same night
+    ('still', 'ch25-doc-orient-ticket.jpg', 3),
+    ('still', 'ch25-oe2-1.jpg', 3),
+    ('map', 6, f((2.35, 48.86)) + .004, f((16.37, 48.21)) + .004, (PA[0], PA[1] - 80, 820), (VI[0] - 150, VI[1], 1100)),
+    ('still', 'ch25-oe3-0.jpg', 5),                       # the Alps
+    ('still', 'ch25-oe3-3.jpg', 3),
+    ('still', 'ch25-oe4-2.jpg', 4),                       # Vienna at dusk
+    ('still', 'ch25-oe6-3.jpg', 4),                       # the dining car, night and day
+    ('map', 5, f((16.37, 48.21)) + .004, f((19.04, 47.5)) + .004, (VI[0] - 150, VI[1], 1100), (BU[0] - 100, BU[1], 1150)),
+    ('still', 'ch25-oe5-0.jpg', 5),                       # the Danube at Buda-Pesth
+    ('still', 'ch25-oe5-2.jpg', 3),
+    ('still', 'ch25-orient-0.jpg', 3),
+    ('map', 7, f((19.04, 47.5)) + .004, 1.0, (BU[0] - 100, BU[1], 1150), (VA[0] - 250, VA[1] - 120, 1150)),
+    ('still', 'ch25-oe7-0.jpg', 5),                       # Varna, about five o'clock
+    ('still', 'ch25-harbour-0.jpg', 4, 1.0, 1.05),
 ]
 parts = []
 for k, step in enumerate(PLAN):

@@ -7,7 +7,7 @@ import numpy as np, cv2
 
 out, stills = sys.argv[1], sys.argv[2:]
 FPS, W, H = 24, 1456, 816
-TOTAL = 465                                   # = the old czarina-v8-storm.mp4 (19.375 s)
+TOTAL = int(__import__("os").environ.get("TOTAL", 465))
 lens = [TOTAL // len(stills)] * len(stills); lens[-1] += TOTAL - sum(lens)
 yy, xx = np.mgrid[0:H, 0:W].astype(np.float32)
 rng = np.random.default_rng(11)

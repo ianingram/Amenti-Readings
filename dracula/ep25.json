@@ -573,14 +573,27 @@
    "para": 33,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
-   "text": "16 October. —Mina’s report still the same: lapping waves and rushing\nwater, darkness and favouring winds. We are evidently in good time, and\nwhen we hear of the Czarina Catherine we shall be ready. As she must\npass the Dardanelles we are sure to have some report."
+   "text": "16 October. —Mina’s report still the same: lapping waves and rushing\nwater, darkness and favouring winds. We are evidently in good time, and\nwhen we hear of the Czarina Catherine we shall be ready. As she must\npass the Dardanelles we are sure to have some report.",
+   "sfx": [
+    {
+     "key": "thunder",
+     "at": "we shall be ready"
+    },
+    {
+     "key": "thunder",
+     "at": "some report"
+    }
+   ]
   },
   {
    "n": 69,
    "para": 34,
    "role": "Jonathan Harker",
    "cast": "Charles Darwin",
-   "text": ". . . . .\n. . . . .\n. . . . .\n. . . . .\n. . . . .\n. . . . .\n. . . . ."
+   "text": ". . . . .\n. . . . .\n. . . . .\n. . . . .\n. . . . .\n. . . . .\n. . . . .",
+   "sfx": [
+    "thunder"
+   ]
   },
   {
    "n": 70,

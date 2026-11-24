@@ -58,6 +58,19 @@ def mark(d, p, col, r=22, w=6):
     d.line([x - r * .6, y - r * .6, x + r * .6, y + r * .6], fill=col, width=w)
     d.line([x - r * .6, y + r * .6, x + r * .6, y - r * .6], fill=col, width=w)
 
+def crate(d, p, col, k=26):
+    x, y = p
+    d.rectangle([x - k, y - k, x + k, y + k], fill=col, outline=(60, 10, 8), width=3)
+    for f in (-.33, .33): d.line([x - k, y + f * k * 2 / 2 * 1.5, x + k, y + f * k * 1.5], fill=(240, 220, 200), width=3)
+    d.line([x - k, y - k, x + k, y + k], fill=(240, 220, 200), width=3)
+
+def ship(d, p, col, k=34):
+    x, y = p
+    d.polygon([(x - k * 1.6, y), (x + k * 1.6, y), (x + k * 1.1, y + k * .6), (x - k * 1.2, y + k * .6)], fill=col)
+    d.line([x - k * .3, y, x - k * .3, y - k * 1.7], fill=col, width=5); d.line([x + k * .5, y, x + k * .5, y - k * 1.4], fill=col, width=5)
+    d.polygon([(x - k * .25, y - k * 1.6), (x - k * .25, y - k * .15), (x + k * .4, y - k * .15)], fill=col)
+    d.polygon([(x + k * .55, y - k * 1.3), (x + k * .55, y - k * .15), (x + k * 1.1, y - k * .15)], fill=col)
+
 def label(base, p, lines, col, dx, dy, alpha=1.0):
     if alpha <= 0: return
     fonts = [F('fell-sc.ttf', 52), F('fell-i.ttf', 40)]
@@ -100,28 +113,20 @@ N = int(DUR * FPS)
 for i in (range(N) if not ONLY else [int(x*FPS) for x in ONLY]):
     t = i / FPS
     im = base.copy(); d = ImageDraw.Draw(im)
-    # 1 · Carfax first (cue 63): the arrow east to Purfleet
-    if t >= 12:
-        a = dense([(3330, 1500), (3560, 1470), CARFAX])
-        draw_path(d, a, ease((t - 12) / 3), RED, 9)
-        if t >= 15: arrow(d, a, RED, 9); mark(d, (3500, 1475), RED, 26, 7)
-    # 2 · the route to Piccadilly (38.4–46)
-    if t >= 38.4:
-        draw_path(d, R_ROUTE, (t - 38.4) / 7.4, RED, 8)
-    if t >= 46: mark(d, PICC, RED, 30, 8)
-    # 3 · Godalming and Quincey's branches (47.2–53)
-    if t >= 47.6:
-        draw_path(d, R_MILE, (t - 47.6) / 3.6, BLUE, 7, dash=(26, 14))
-        if t >= 51.2: mark(d, MILE, BLUE, 26, 7)
-    if t >= 49.2:
-        draw_path(d, R_BERM, (t - 49.2) / 3.8, BLUE, 7, dash=(26, 14))
-        if t >= 53: mark(d, BERM, BLUE, 26, 7)
-    label(im, (3500, 1475), ['Carfax, Purfleet', '29 boxes · first'], RED, -40, 50, fade(t, 15.5))
-    label(im, PICC, ['347 Piccadilly', '9 boxes · all of us'], RED, 40, 40, fade(t, 46.3))
-    label(im, MILE, ['Mile End New Town', 'Chicksand St · 6 boxes'], BLUE, 40, -170, fade(t, 51.5))
-    label(im, BERM, ['Bermondsey', 'Jamaica Lane · 6 boxes'], BLUE, 40, 30, fade(t, 53.3))
+    SHIP, CARF = (2800, 1620), (3700, 1540)
+    # the landing: the docks below the Tower (from the start)
+    if t >= 3: ship(d, SHIP, RED)
+    # the boxes, each place as the text names it
+    if t >= 12: crate(d, CARF, RED, 30)
+    if t >= 46: crate(d, PICC, RED, 30)
+    if t >= 51.2: crate(d, MILE, RED, 26)
+    if t >= 53: crate(d, BERM, RED, 26)
+    label(im, CARF, ['Carfax, Purfleet', 'down river \u00b7 29 boxes'], RED, -50, 50, fade(t, 12.5))
+    label(im, PICC, ['347 Piccadilly', '9 boxes'], RED, 50, 40, fade(t, 46.3))
+    label(im, MILE, ['Mile End New Town', 'Chicksand St \u00b7 6 boxes'], RED, 40, -170, fade(t, 51.5))
+    label(im, BERM, ['Bermondsey', 'Jamaica Lane \u00b7 6 boxes'], RED, 40, 30, fade(t, 53.3))
     if t >= 55:
-        label(im, (1290, 2020), ['The Count’s Lairs', '3 October · fifty boxes of earth', 'Godalming & Quincey east — the rest at Piccadilly'], RED, 0, 0, fade(t, 55, 1.2))
+        label(im, (1290, 2020), ['The Count’s Lairs', '3 October · fifty boxes of earth'], RED, 0, 0, fade(t, 55, 1.2))
     cx, cy, w = cam(t); h = w * OH / OW
     cx = min(max(cx, w / 2), MW - w / 2); cy = min(max(cy, h / 2), MH - h / 2)
     fr = im.crop((int(cx - w / 2), int(cy - h / 2), int(cx + w / 2), int(cy + h / 2))).resize((OW, OH), Image.LANCZOS).convert('RGB')

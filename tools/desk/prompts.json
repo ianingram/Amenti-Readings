@@ -178,6 +178,22 @@
      "text": "BK3OL-2 oil painting in the style of Caspar David Friedrich, late afternoon in the snowy Carpathians, medium shot from the side, an elderly clean-shaven man in round dark spectacles and a black cloak and a young Victorian woman with a small red cross within a circle on her forehead, in a floor-length dark cloak, crouched behind a great snowy boulder on a rocky ledge, he with a Winchester rifle, she with a revolver and brass field glasses, both staring down toward a great arched stone bridge in the gorge below, wind-driven snow, the sun low and red --ar 16:9 --no beard, moustache, signature, text --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch27-ca3-0.jpg"
     }
    ]
+  },
+  {
+   "title": "From the north",
+   "note": "XXVII cue 76: Jonathan and Lord Godalming",
+   "prompts": [
+    {
+     "tag": "BK3NR-1",
+     "where": "XXVII cue 76, “on the north side of the coming party”",
+     "text": "BK3NR-1 oil painting in the style of Caspar David Friedrich, late afternoon in the snowy Carpathians 1893, two horsemen riding at breakneck speed across a wide snowfield, a young man with prematurely white hair, clean-shaven, in a dark greatcoat with a Winchester rifle slung, and a tall clean-shaven young English lord in a fur-collared coat beside him, snow flying from the hooves, a great arched stone bridge across a gorge far ahead, the sun low and red, wind-driven snow, wide shot --ar 16:9 --no beard, moustache, signature, text --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch27-ca3-0.jpg"
+    },
+    {
+     "tag": "BK3NR-2",
+     "where": "XXVII cue 76, through the field glasses",
+     "text": "BK3NR-2 view through a pair of brass field glasses, a dark circular vignette, the soft edge of a fur hood at the side, far off across a snowfield in swirling snow two horsemen galloping hard from the north, one with white hair, late afternoon light low and golden, oil painting --ar 16:9 --no beard, moustache, signature, text"
+    }
+   ]
   }
  ]
 }

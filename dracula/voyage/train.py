@@ -53,7 +53,6 @@ def map_stage(path, dur, f0, f1, box0, box1, reach=0.8):
                 x, y = M.proj(*ll); M.stamp(im, x + dx, y + dy, txt, sub, TRAIN_C)
         n = int(len(M.TRAIN_D) * max(f, .003)) - 1
         a = M.TRAIN_D[max(0, n - 12)]; b = M.TRAIN_D[max(1, n)]
-        loco(im, hx, hy, math.atan2(b[1] - a[1], b[0] - a[0]), 1.1)
         cx = box0[0] + (box1[0] - box0[0]) * e; cy = box0[1] + (box1[1] - box0[1]) * e; w = box0[2] + (box1[2] - box0[2]) * e; h = w * OH / OW
         cx = min(max(cx, w / 2), M.W - w / 2); cy = min(max(cy, h / 2), M.H - h / 2)
         p.stdin.write(im.crop((int(cx - w / 2), int(cy - h / 2), int(cx + w / 2), int(cy + h / 2))).resize((OW, OH), Image.LANCZOS).convert('RGB').tobytes())
@@ -73,7 +72,7 @@ PLAN = [
     ('map', 6, 0.0, f((-0.12, 51.51)) + .004, (L[0] + 60, L[1] + 60, 760), (L[0] + 80, L[1] + 70, 700)),
     ('still', 'ch25-charingcross-1.jpg', 4),
     ('still', 'ch25-channel-0.jpg', 3),
-    ('still', 'ch25-oe1-0.jpg', 5),                       # Calais, the boat train
+    ('still', 'ch25-oe1-1.jpg', 5),                       # Calais, the boat train
     ('map', 5, f((-0.12, 51.51)) + .004, f((2.35, 48.86)) + .004, (L[0] + 80, L[1] + 70, 700), (PA[0], PA[1] - 80, 820)),
     ('still', 'ch25-oe2-3.jpg', 5),                       # Paris, Gare de l'Est, the same night
     ('still', 'ch25-doc-orient-ticket.jpg', 3),

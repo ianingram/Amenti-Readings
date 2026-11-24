@@ -139,7 +139,7 @@
   },
   {
    "title": "The castle, vast and ruined",
-   "note": "XXVII cues 41 and 58 (Ian: not a petty noble's castle)",
+   "note": "XXVII cues 41 and 58 · CA-1/2 came out too low (Ian): CA-3/4 tall and battered",
    "prompts": [
     {
      "tag": "BK3CA-1",
@@ -150,6 +150,16 @@
      "tag": "BK3CA-2",
      "where": "XXVII cue 58, at “castle cut the sky” (looking back)",
      "text": "BK3CA-2 oil painting in the style of Caspar David Friedrich, late afternoon of 6 November in the snowy Carpathians, two tiny figures, a young Victorian woman in a floor-length dark cloak and an elderly clean-shaven man in round spectacles, seen from behind on a steep snowy path, looking back up at a vast ruined castle sprawling along the top of a sheer mountain crag, miles of broken battlements and curtain walls following the ridge, many shattered towers, a great ancient stone bridge of tall arches spanning a deep chasm from the castle to an adjacent cliff, the scale of a fortress city, desolate and grim, its dark line cutting the pale evening sky high above them, very wide shot --ar 16:9 --no beard, moustache, signature, text"
+    },
+    {
+     "tag": "BK3CA-3",
+     "where": "XXVII cue 41, “Castle Dracula · 5 November” (the approach)",
+     "text": "BK3CA-3 oil painting in the style of John Martin and Caspar David Friedrich, a snowy November morning in the Carpathians, low camera looking up at a tall old battered castle towering on the summit of a sheer precipice a thousand feet high, soaring keep and lofty broken towers stacked one above another, high crumbling walls climbing the crag, a great ancient arched stone bridge spanning the deep gap to the steep of an adjacent mountain, grim and immense, far below on a winding snowy road an elderly clean-shaven man in round dark spectacles and a black cloak climbing toward it, tiny against the immense height, pale cold sunlight, very wide shot --ar 16:9 --no beard, moustache, signature, text"
+    },
+    {
+     "tag": "BK3CA-4",
+     "where": "XXVII cue 58, at “castle cut the sky” (looking back)",
+     "text": "BK3CA-4 oil painting in the style of Caspar David Friedrich, late afternoon of 6 November in the snowy Carpathians, two tiny figures seen from behind on a steep snowy path deep below, a young Victorian woman in a floor-length dark cloak and an elderly clean-shaven man in round spectacles, looking far up at a tall old battered castle towering on the summit of a sheer precipice a thousand feet high, soaring keep and lofty broken towers stacked one above another, high crumbling walls climbing the crag, a great ancient arched stone bridge spanning the deep gap to the steep of an adjacent mountain, grim and immense, its dark line cutting the pale evening sky high above them, very wide shot --ar 16:9 --no beard, moustache, signature, text"
     }
    ]
   }

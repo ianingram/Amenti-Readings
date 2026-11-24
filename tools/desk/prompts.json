@@ -162,6 +162,22 @@
      "text": "BK3CA-4 oil painting in the style of Caspar David Friedrich, late afternoon of 6 November in the snowy Carpathians, two tiny figures seen from behind on a steep snowy path deep below, a young Victorian woman in a floor-length dark cloak and an elderly clean-shaven man in round spectacles, looking far up at a tall old battered castle towering on the summit of a sheer precipice a thousand feet high, soaring keep and lofty broken towers stacked one above another, high crumbling walls climbing the crag, a great ancient arched stone bridge spanning the deep gap to the steep of an adjacent mountain, grim and immense, its dark line cutting the pale evening sky high above them, very wide shot --ar 16:9 --no beard, moustache, signature, text"
     }
    ]
+  },
+  {
+   "title": "The overlook",
+   "note": "XXVII cues 64–82: Mina and Van Helsing at their post above the bridge",
+   "prompts": [
+    {
+     "tag": "BK3OL-1",
+     "where": "XXVII cue 64, “Look! Madam Mina, look! look!”",
+     "text": "BK3OL-1 oil painting in the style of Caspar David Friedrich, late afternoon in the snowy Carpathians, seen from behind, an elderly clean-shaven man in round dark spectacles and a black cloak and a young Victorian woman in a floor-length dark cloak crouched among great boulders on a high rocky overlook, he holds a pair of brass field glasses to his eyes, below them a deep gorge spanned by a great ancient arched stone bridge, far off on the white plain beyond a tiny cart and riders approaching through swirling snow, low sun, vast and silent, very wide shot --ar 16:9 --no beard, moustache, signature, text --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch27-ca3-0.jpg"
+    },
+    {
+     "tag": "BK3OL-2",
+     "where": "XXVII cue 82, “crouched down behind our rock”",
+     "text": "BK3OL-2 oil painting in the style of Caspar David Friedrich, late afternoon in the snowy Carpathians, medium shot from the side, an elderly clean-shaven man in round dark spectacles and a black cloak and a young Victorian woman with a small red cross within a circle on her forehead, in a floor-length dark cloak, crouched behind a great snowy boulder on a rocky ledge, he with a Winchester rifle, she with a revolver and brass field glasses, both staring down toward a great arched stone bridge in the gorge below, wind-driven snow, the sun low and red --ar 16:9 --no beard, moustache, signature, text --sref https://ianingram.github.io/Amenti-Readings/dracula/art/ch27-ca3-0.jpg"
+    }
+   ]
   }
  ]
 }

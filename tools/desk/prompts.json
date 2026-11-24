@@ -120,6 +120,22 @@
      "text": "BK3ST-1 oil painting, Dr Seward's study in a Victorian asylum on an October afternoon, tall window light, an elderly clean-shaven professor with round dark spectacles standing hesitant by the window, a younger clean-shaven doctor seated at his desk watching him, books and phonograph cylinders, quiet tension, medium shot --ar 16:9 --no beard, moustache, signature, text"
     }
    ]
+  },
+  {
+   "title": "Mina's walk east",
+   "note": "XXVII cues 55–58",
+   "prompts": [
+    {
+     "tag": "BK3MW-1",
+     "where": "at “eyes were pure and glowed with fervour”",
+     "text": "BK3MW-1 oil painting in the style of Franklin Booth, a snowy November morning in the Carpathians, a young Victorian woman wrapped in a dark travelling cloak, high collar, long sleeves, floor-length skirt, thin and pale and weak but her eyes pure and glowing with fervour, a small red cross within a circle on her forehead, sitting inside a ring of crumbs in the snow beside a dead fire, an elderly clean-shaven professor in round dark spectacles coming down to her from the grim ruined castle behind, shafts of pale sunlight, medium shot --ar 16:9 --oref https://ianingram.github.io/Amenti-Readings/dracula/art/ref/bk3-mina-cross.jpg --no beard, moustache, signature, text"
+    },
+    {
+     "tag": "BK3MW-2",
+     "where": "at “we looked back and saw where the clear line of Dracula’s castle cut the sky”",
+     "text": "BK3MW-2 oil painting in the style of Franklin Booth, late afternoon in the snowy Carpathians, two tiny figures far below on a steep snowy mountain path heading east, a young Victorian woman in a floor-length dark cloak and an elderly clean-shaven man in round spectacles, carrying heavy rugs and wraps, looking back up at the clear dark line of Dracula's castle cutting the pale sky on its crag high above, vast desolate mountains, long shadows, wide shot --ar 16:9 --no beard, moustache, signature, text"
+    }
+   ]
   }
  ]
 }

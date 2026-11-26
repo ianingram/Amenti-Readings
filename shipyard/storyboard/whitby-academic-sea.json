@@ -1,0 +1,25 @@
+{
+ "book": "shipyard",
+ "part": "Treasure Chess sky panoramas: academic Whitby open-sea panels",
+ "size": "2K",
+ "note": "Open-sea panels so the academic Whitby paintings can sit at their natural width in the 360-degree sky. Claude, 25 Nov 2026.",
+ "style": "One single wide, highly finished academic-realist oil painting, nineteenth-century salon quality: precise drawing, smooth glazed paint, true atmosphere. No land, no coast, no cliffs, no town, no lighthouse, no ships, no boats, no people, no moon or sun disc; no text, lettering, signature, monogram, frame, border or black bars.",
+ "refs": {},
+ "people": {},
+ "beats": [
+  {
+   "tag": "whitby-day-academic-sea",
+   "aspect": "21:9",
+   "who": [],
+   "sref": "https://raw.githubusercontent.com/ianingram/Amenti-Readings/main/shipyard/storyboard/src/whitby-day-academic.jpg",
+   "text": "Open sea under towering golden cumulus and a deep blue sky, late-afternoon light, calm deep-blue water with long gentle swell, in the manner of Edward William Cooke and Ivan Aivazovsky. This picture is another section of the same wide panorama as the reference painting, seen from the same spot far out at sea but looking further round, where there is no land at all: open sea to the horizon on every side. The horizon is at exactly the same height as in the reference, perfectly level; the same light, the same weather, the same painting."
+  },
+  {
+   "tag": "whitby-night-academic-sea",
+   "aspect": "21:9",
+   "who": [],
+   "sref": "https://raw.githubusercontent.com/ianingram/Amenti-Readings/main/shipyard/storyboard/src/whitby-night-academic.jpg",
+   "text": "Open sea at night in a gale, heavy storm clouds lit at their edges by moonlight from out of the picture, rough sea with breaking waves and moonlit spray, in the manner of Ivan Aivazovsky. This picture is another section of the same wide panorama as the reference painting, seen from the same spot far out at sea but looking further round, where there is no land at all: open sea to the horizon on every side. The horizon is at exactly the same height as in the reference, perfectly level; the same light, the same weather, the same painting."
+  }
+ ]
+}

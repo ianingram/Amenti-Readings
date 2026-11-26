@@ -1,0 +1,41 @@
+{
+ "book": "shipyard",
+ "part": "Treasure Chess: the six ship classes (concept portraits)",
+ "size": "2K",
+ "note": "Concept portraits for the ship of each chess piece, to design the 3D models from. Claude, 25 Nov 2026.",
+ "style": "A ship portrait in the manner of a nineteenth-century academic marine painter (Edward William Cooke, Ivan Aivazovsky): the whole ship seen exactly broadside from her starboard side, filling most of the frame, every spar, sail and line drawn precisely; calm sea and a plain soft sky behind; late-afternoon light. One ship only. No other vessels, no land, no people in the foreground; no text, lettering, signature, frame or border.",
+ "refs": {},
+ "people": {},
+ "beats": [
+  {
+   "tag": "king-first-rate",
+   "aspect": "16:9",
+   "who": [],
+   "text": "The King: a first-rate ship of the line of about 1700, the fleet's flagship: three full gun decks with three rows of open gunports, a towering richly carved and gilded stern with galleries and lanterns, three masts with square sails, a long bowsprit with spritsail, a royal standard at the main masthead. Massive, stately, the largest ship afloat."
+  },
+  {
+   "tag": "queen-74",
+   "aspect": "16:9",
+   "who": [],
+   "text": "The Queen: a fast, powerful 74-gun third-rate ship of the line of about 1780: two gun decks with a yellow-and-black band, long and low and sleek, a lighter carved stern, three tall masts carrying a great spread of square sails including royals and studding sails, jibs and a spanker. The most powerful and most mobile ship in the fleet."
+  },
+  {
+   "tag": "bishop-xebec",
+   "aspect": "16:9",
+   "who": [],
+   "text": "The Bishop: a Mediterranean xebec of about 1750: a long, narrow, low hull with a sharply overhanging bow and a projecting stern platform, three masts carrying great slanting lateen sails on long diagonal yards, oar ports along the side, a row of small guns; fast and graceful, all diagonals."
+  },
+  {
+   "tag": "knight-bomb-ketch",
+   "aspect": "16:9",
+   "who": [],
+   "text": "The Knight: a bomb vessel (bomb ketch) of about 1760: a short, broad, very strongly built hull, two masts (main and mizzen) with the foremast missing, leaving the foredeck clear for two huge mortars on revolving beds pointing upward over the bow, square sails on the main, a gaff sail on the mizzen; squat and powerful, built to throw shells high over other ships."
+  },
+  {
+   "tag": "pawn-cutter",
+   "aspect": "16:9",
+   "who": [],
+   "text": "The Pawn: a small armed cutter of about 1780: a single tall mast with a large gaff mainsail, a square topsail, a very long running bowsprit with two jibs, a small hull with a few light guns; nimble, plain and workmanlike, the smallest ship in the fleet."
+  }
+ ]
+}
